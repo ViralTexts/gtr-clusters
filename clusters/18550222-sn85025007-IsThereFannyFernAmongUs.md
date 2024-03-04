@@ -345,7 +345,7 @@ AUTHOR OF PERN LEAVES AND RUTII HALL
 
 ---
 
-## [From _American Phrenological Journal (1838-1869)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1855-03_21_3?page=19)
+## [From _American Phrenological Journal (1838-1869)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1855-03_21_3/page/n19/model/1up?view=theater)
 
 #### 1855-03-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -377,7 +377,7 @@ for « single insertion, at the rates above named, should | opened « School for
 —&#x27; vivid, life-like pictures of the  
 Pion d brilliant Author of Fern Leaves 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1855-03_21_3&#0036;19/pct:11.617100,14.187867,59.665428,12.524462/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_phrenological-journal-and-science-of-health_1855-03_21_3&#0036;19/pct:11.617100,14.187867,59.665428,12.524462/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

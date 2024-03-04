@@ -1,7 +1,7 @@
 
 # How to Treat Insect Stings
 
-### 65 reprints from 1874-10-09 to 1898-04-23
+### 66 reprints from 1874-10-09 to 1898-04-23
 
 ## [How to Treat Insect Stings](https://chroniclingamerica.loc.gov/lccn/sn82014805/1877-02-12/ed-1/seq-4/)
 
@@ -90,6 +90,62 @@ advice should always be sought as suou as possi­
 ble.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_jefferson_ver02%2Fdata%2Fsn84031492%2Fno_reel%2F1877010601%2F0011.jp2/pct:43.159566,37.994209,13.131781,14.906150/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Batesville guard._](https://chroniclingamerica.loc.gov/lccn/sn90050272/1877-01-18/ed-1/seq-1)
+
+#### 1877-01-18 &middot; [Batesville, Independence Co., Ark.](http://dbpedia.org/resource/Batesville%2C_Arkansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+the following hints on this subject: The  
+pain caused by the sting of a plant or  
+insect is the result of a certain amount  
+of acid poison injected into the blood.  
+The first thing to be done is to press  
+the tube of a small key firmly on the  
+wound, moving the key from side to  
+side to facilitate the expulsion of  
+the sting and its accompanying poison.  
+The sting, if left in the wound, should  
+be carefully extracted, otherwise it will  
+greatly increase the local irritation.  
+The poison of stings being acid, com­  
+mon sense points to the alkalies as the  
+proper means of cure. Among the  
+most easily procured remedies may be  
+mentioned soft soap, liquor of ammo­  
+nia (spirits of hartshorn), smelling  
+salts, washing soda, quicklime made  
+into a paste with water, lime-water,  
+the juice of an onion, tobacco-juice,  
+chewed tobacco, bruised dock-leaves,  
+tomato juice, wood ashes, tobacco-ash  
+and carbonate of soda, if the sting be  
+severe,rest and coolness should be add­  
+ed to the other remedies, more espe­  
+cially in the case of nervous subjects.  
+Nothing is so apt to make the poison  
+active as heal, and nothing favors its  
+activity less than cold. Let the body  
+be, kept cool and at rest, and the activi­  
+ty of the poison will be reduced to a  
+minimum. Any active exertion, where­  
+by the circulation is quickened, will in­  
+crease both pain and swelling. If the  
+swelling be severe, the part may be  
+rubbed with sweet oil, or a drop or  
+two of laudanum. Stings in the eya,  
+ear, mouth or throat sometimes lead to  
+serious consequences; in such cases  
+medical advice should always be sought  
+as soon as possible
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_jupiter_ver01%2Fdata%2Fsn90050272%2F00513688787%2F1877011801%2F0005.jp2/pct:82.438832,53.450980,12.457248,20.794118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -373,7 +429,7 @@ Baklna Meats. Baking is a mor
 
 ---
 
-## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1877-05_7_5?page=6)
+## [From _The Manifesto 1871-1899_](https://archive.org/details/sim_manifesto_1877-05_7_5/page/n6/model/1up?view=theater)
 
 #### 1877-05-01 &middot; [Watervliet Shaker Historic District, New York](http://dbpedia.org/resource/Watervliet_Shaker_Historic_District)
 
@@ -453,7 +509,7 @@ such cases, medical advice should al-
 ways be sought as soon as possible.—  
 London Garden.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1877-05_7_5&#0036;6/pct:50.000000,9.985041,42.146465,82.741212/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_manifesto_1877-05_7_5&#0036;6/pct:50.000000,9.985041,42.146465,82.741212/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -867,7 +923,7 @@ soon as possible. Uanlen
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25?page=5)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1878-06-20_51_25/page/n5/model/1up?view=theater)
 
 #### 1878-06-20 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -880,13 +936,13 @@ soon as possible. Uanlen
 blood. An exchange gives the following direc-  
 | tions, which, if obeyed, are likely to eradicat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25&#0036;5/pct:71.767001,35.231587,21.348941,3.929385/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1878-06-20_51_25&#0036;5/pct:71.767001,35.231587,21.348941,3.929385/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25?page=5)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1878-06-20_51_25/page/n5/model/1up?view=theater)
 
 #### 1878-06-20 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -906,13 +962,13 @@ The poison of stings being acid, common-sense
   
 sissippi meridian for dramas of “Indian” life | points to the alkalies as the proper means of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25&#0036;5/pct:50.724638,39.331815,42.614270,5.941534/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1878-06-20_51_25&#0036;5/pct:50.724638,39.331815,42.614270,5.941534/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25?page=5)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1878-06-20_51_25/page/n5/model/1up?view=theater)
 
 #### 1878-06-20 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -925,13 +981,13 @@ may be mentioned soft soap, liquor of ammonia
 In one of the frontier counties of Texas, re- (spirits of hartshorn), smelling salts, washing  
 cently, a boy, while out in search of some sad- ; Soda, quicklime made into a paste with water,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25&#0036;5/pct:50.836120,45.690964,42.586399,2.714503/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1878-06-20_51_25&#0036;5/pct:50.836120,45.690964,42.586399,2.714503/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25?page=5)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1878-06-20_51_25/page/n5/model/1up?view=theater)
 
 #### 1878-06-20 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -964,7 +1020,7 @@ sometimes lead to serious consequences; in such
 cases, medical advice should always be sought  
 as soon as possible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1878-06-20_51_25&#0036;5/pct:72.157191,48.215642,21.599777,12.433561/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1878-06-20_51_25&#0036;5/pct:72.157191,48.215642,21.599777,12.433561/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2419,7 +2475,7 @@ bruised dock leaves and carbon o
 
 ---
 
-## [From _Arthur's Home Magazine (1880-1897)_](https://iiif.archivelab.org/iiif/sim_arthurs-home-magazine_1881-09_49_9?page=21)
+## [From _Arthur's Home Magazine (1880-1897)_](https://archive.org/details/sim_arthurs-home-magazine_1881-09_49_9/page/n21/model/1up?view=theater)
 
 #### 1881-09-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2476,7 +2532,7 @@ advice should always be sought as soon as pos-
   
 sible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_arthurs-home-magazine_1881-09_49_9&#0036;21/pct:57.621951,46.865443,35.175305,42.533129/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_arthurs-home-magazine_1881-09_49_9&#0036;21/pct:57.621951,46.865443,35.175305,42.533129/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

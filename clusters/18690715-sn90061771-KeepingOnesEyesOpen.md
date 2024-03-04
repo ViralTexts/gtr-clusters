@@ -1,7 +1,7 @@
 
 # Keeping One's Eyes Open
 
-### 313 reprints from 1869-06-12 to 1896-06-18
+### 306 reprints from 1869-06-12 to 1896-06-18
 
 ## [Keeping One's Eyes Open](https://chroniclingamerica.loc.gov/lccn/sn90061771/1869-07-15/ed-1/seq-1)
 
@@ -25,22 +25,32 @@ You&#x27;ll have peace to your end,
 
 ---
 
-## [From _Saturday Review 1973-1986_](https://iiif.archivelab.org/iiif/sim_saturday-review_1869-06-12_27_711?page=14)
+## [sim_saturday-review-uk_the-saturday-review_1869-06-12_27_711](https://archive.org/details/sim_saturday-review-uk_the-saturday-review_1869-06-12_27_711/page/n14/model/1up?view=theater)
+
+#### From unknown source
 
 #### 1869-06-12
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-quotes himself when he says, neatly enough, “a man with a great  
+uotes himself when he says, neatly enough, “a man with a great  
 deal of religion displayed in his shop window keeps a very small  
 stock within ” ; and there is something of homely wit and wisdom  
 in the genial saying, “ Don’t go to law unless you have nothing  
 to lose; for lawyers’ houses are built on fools’ heads.” “ Beware  
 of no man more than of yourself; we carry our worst enemies  
-within us.” In a word, asin all these bundles of conceits, th
+within us.” In a word, as in all these bundles of conceits, the  
+verdict must be that which Martial gave as to his own  
+epigrams :—  
+Sunt bona, sunt quedam mediocria, sunt mala plura,  
+Were it not that Mr. Spurgeon occasionally breaks out with pas-  
+sicnate insolence against all other teachers of religion as, ipso facto,  
+knaves and hypocrites and impostors, because they do not conform  
+to the Tabernacle type of teachers, we should be almost disposed  
+to part with him in good temper. But what can be said i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-review_1869-06-12_27_711&#0036;14/pct:9.771574,47.434853,36.421320,5.903909/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-review-uk_the-saturday-review_1869-06-12_27_711&#0036;14/pct:9.676396,47.414495,36.516497,12.947883/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2264,7 +2274,7 @@ to blacken you.-SrintaBaif
 
 ---
 
-## [From _Oliver Optic's Magazine. Our Boys and Girls (1867-1875)_](https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1869-12-04_6_153?page=11)
+## [From _Oliver Optic's Magazine. Our Boys and Girls (1867-1875)_](https://archive.org/details/sim_oliver-optics-magazine-our-boys-and-girls_1869-12-04_6_153/page/n11/model/1up?view=theater)
 
 #### 1869-12-04 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2274,7 +2284,7 @@ to blacken you.-SrintaBaif
 © inte Do not choose your friend by his looks.  
 ‘‘ Handsome shoes often pinch the feet.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1869-12-04_6_153&#0036;11/pct:51.081081,84.578652,36.846847,2.977528/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1869-12-04_6_153&#0036;11/pct:51.081081,84.578652,36.846847,2.977528/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2424,7 +2434,7 @@ we carry onr worst enemies within u?
 
 ---
 
-## [From _Oliver Optic's Magazine. Our Boys and Girls (1867-1875)_](https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1870-01-01_7_157?page=16)
+## [From _Oliver Optic's Magazine. Our Boys and Girls (1867-1875)_](https://archive.org/details/sim_oliver-optics-magazine-our-boys-and-girls_1870-01-01_7_157/page/n16/model/1up?view=theater)
 
 #### 1870-01-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2434,7 +2444,7 @@ we carry onr worst enemies within u?
 —— Beware of no man more than yourself:  
 we carry our worst enemies with us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1870-01-01_7_157&#0036;16/pct:47.340426,84.375000,36.258865,2.399554/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1870-01-01_7_157&#0036;16/pct:47.340426,84.375000,36.258865,2.399554/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2498,7 +2508,7 @@ very small Block of it within
 
 ---
 
-## [From _Oliver Optic's Magazine. Our Boys and Girls (1867-1875)_](https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1870-02-05_7_162?page=12)
+## [From _Oliver Optic's Magazine. Our Boys and Girls (1867-1875)_](https://archive.org/details/sim_oliver-optics-magazine-our-boys-and-girls_1870-02-05_7_162/page/n12/model/1up?view=theater)
 
 #### 1870-02-05 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2520,7 +2530,7 @@ my young friends; and I will now give
 directions for two that are new and enter-  
 taining.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1870-02-05_7_162&#0036;12/pct:11.944938,9.522472,74.023091,76.853933/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_oliver-optics-magazine-our-boys-and-girls_1870-02-05_7_162&#0036;12/pct:11.944938,9.522472,74.023091,76.853933/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2712,7 +2722,7 @@ OINTMENT ANI&gt; PILLS.-Tho wors
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1870-03-17_43_11?page=7)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1870-03-17_43_11/page/n7/model/1up?view=theater)
 
 #### 1870-03-17 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2723,25 +2733,7 @@ OINTMENT ANI&gt; PILLS.-Tho wors
 Do not choose your friend by his looks.  
 “Handsome shoes often pinch the feet.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1870-03-17_43_11&#0036;7/pct:51.496674,89.221891,20.620843,1.247208/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Daily Kennebec journal._](https://chroniclingamerica.loc.gov/lccn/sn82014248/1870-03-23/ed-1/seq-2)
-
-#### 1870-03-23 &middot; [Augusta, Me.](http://dbpedia.org/resource/Augusta%2C_Maine)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-One of the sages says : “Don’t go to law,  
-i you have nothing to lose; lawyers’ houses  
-are built on fools’ heads.”  
-Alexander II. Stephens has *o far recover
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014248%2F00332895163%2F1870032301%2F0276.jp2/pct:71.314962,60.587727,13.043277,2.380438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1870-03-17_43_11&#0036;7/pct:51.496674,89.221891,20.620843,1.247208/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2776,23 +2768,6 @@ law unless you have nothing to lose: law­
 yers’ houses are built on fools’ heads.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_flobberworm_ver01%2Fdata%2Fsn85033019%2F0041421552A%2F1870032501%2F0682.jp2/pct:42.949699,32.582214,12.146720,1.412726/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1870-04-03/ed-1/seq-1)
-
-#### 1870-04-03 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-One of the sages say : &quot;Don&#x27;t go to  
-law unless you have nothing to lose; law­  
-yers&#x27; houses arc built on.fools&#x27; heads.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85033699%2F00200293411%2F1870040301%2F0322.jp2/pct:57.072321,60.854491,9.584665,1.241472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3780,7 +3755,7 @@ value his own character.
 
 ---
 
-## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-01-07_15_732?page=10)
+## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1871-01-07_15_732/page/n10/model/1up?view=theater)
 
 #### 1871-01-07 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3803,13 +3778,13 @@ lawyers’ houses are built on fools’ heads.”
 * Put no dependence on the label of a bag, and count  
 money after your own kind.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-01-07_15_732&#0036;10/pct:70.841734,33.176312,19.632056,6.258412/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_harpers-magazine_1871-01-07_15_732&#0036;10/pct:70.841734,33.176312,19.632056,6.258412/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-01-07_15_732?page=10)
+## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1871-01-07_15_732/page/n10/model/1up?view=theater)
 
 #### 1871-01-07 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3820,7 +3795,7 @@ money after your own kind.”
 “In any business never wade into water where you  
 can not see the bottom.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-01-07_15_732&#0036;10/pct:70.892137,39.518843,19.506048,1.026245/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_harpers-magazine_1871-01-07_15_732&#0036;10/pct:70.892137,39.518843,19.506048,1.026245/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4260,7 +4235,7 @@ Bee the sack open before you buy w
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1871-01-28_2583?page=5)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1871-01-28_2583/page/n5/model/1up?view=theater)
 
 #### 1871-01-28 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -4275,7 +4250,7 @@ Sce the sack opened before you buy what is
 in it, for he who trades im the dark aeka to be  
 Cc’ eated,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1871-01-28_2583&#0036;5/pct:77.280065,56.819414,15.052462,3.294469/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-evening-post_1871-01-28_2583&#0036;5/pct:77.280065,56.819414,15.052462,3.294469/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4826,7 +4801,7 @@ his own character
 
 ---
 
-## [From _Tri-weekly Kentucky yeoman._](https://iiif.archivelab.org/iiif/xt7gf18sf03v?page=3)
+## [From _Tri-weekly Kentucky yeoman._](https://archive.org/details/xt7gf18sf03v/page/n3/model/1up?view=theater)
 
 #### 1871-03-28 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
@@ -4851,21 +4826,10 @@ ing without reading It; and make sure that it
 means no more tlian is says.  
   
 Don&#x27;t go to law unless you I  
-lose; lawyers&#x27; houses are built
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7gf18sf03v&#0036;3/pct:6.421074,83.085554,14.118131,6.507714/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Tri-weekly Kentucky yeoman._](https://iiif.archivelab.org/iiif/xt7gf18sf03v?page=3)
-
-#### 1871-03-28 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
+lose; lawyers&#x27; houses are built  
   
+Put no depeudeuce on the label of a  
+and count money alter your own kin.  
   
 In any business never wade into the water  
 where you cuuuotsee the bottom.  
@@ -4880,7 +4844,7 @@ own churacter.
 are nothing to  
 on fools heads.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7gf18sf03v&#0036;3/pct:6.421074,88.892006,13.932908,4.754558/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7gf18sf03v&#0036;3/pct:6.421074,83.085554,14.118131,10.561010/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4978,7 +4942,7 @@ ue his own character. The Aje
 
 ---
 
-## [From _Tri-weekly Kentucky yeoman._](https://iiif.archivelab.org/iiif/xt71jw86ks3d?page=0)
+## [From _Tri-weekly Kentucky yeoman._](https://archive.org/details/xt71jw86ks3d/page/n0/model/1up?view=theater)
 
 #### 1871-04-15 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
@@ -4989,7 +4953,7 @@ ue his own character. The Aje
 JrafDo not choose your friend by his looks ;  
 handsome shoes often pinch the feet.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt71jw86ks3d&#0036;0/pct:22.176759,12.104231,13.932079,0.910619/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt71jw86ks3d&#0036;0/pct:22.176759,12.104231,13.932079,0.910619/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6540,7 +6504,7 @@ Handsome shoes often pinch the feet
 
 ---
 
-## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1872-03_54_3?page=62)
+## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1872-03_54_3/page/n62/model/1up?view=theater)
 
 #### 1872-03-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -6551,7 +6515,7 @@ Handsome shoes often pinch the feet
 Do not choose your friend by his looks. Hand-  
 some shoes often pinch your feet.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1872-03_54_3&#0036;62/pct:14.586847,18.289171,34.274874,2.217742/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_phrenological-journal-and-science-of-health_1872-03_54_3&#0036;62/pct:14.586847,18.289171,34.274874,2.217742/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7108,7 +7072,7 @@ means no more than it. says
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1872-11-14_45_46?page=7)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1872-11-14_45_46/page/n7/model/1up?view=theater)
 
 #### 1872-11-14 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -7121,7 +7085,7 @@ and never fight with a coal heaver, or contend with
 a base character, for they will be sure to blacken  
 you.—Spurgeon.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1872-11-14_45_46&#0036;7/pct:29.369469,61.990181,20.713496,2.133686/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1872-11-14_45_46&#0036;7/pct:29.369469,61.990181,20.713496,2.133686/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7425,26 +7389,6 @@ feet
 
 ---
 
-## [From _The Rutland daily globe._](https://chroniclingamerica.loc.gov/lccn/sn84022473/1874-08-08/ed-1/seq-4)
-
-#### 1874-08-08 &middot; [Rutland, Vt.](http://dbpedia.org/resource/Rutland%2C_Vermont_(city))
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-&#x27;Washington papers agree that the green  
-peaches arc worse than congress ever  
-thought of being.  
-Don&#x27;t go to law unless you have-nothing  
-to lose; lawyer&#x27;s houses nro built on fools&#x27;  
-heads
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84022473%2F00280777547%2F1874080801%2F0750.jp2/pct:17.856497,58.739866,10.627146,2.560091/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Wilmington daily commercial._](https://chroniclingamerica.loc.gov/lccn/sn84020594/1874-08-24/ed-1/seq-1)
 
 #### 1874-08-24 &middot; [Wilmington, Del.](http://dbpedia.org/resource/Wilmington%2C_Delaware)
@@ -7456,30 +7400,6 @@ heads
 loose ; lawyers&#x27; houses are built on fools&#x27; heads
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_jinx_ver01%2Fdata%2Fsn84020594%2F00271742563%2F1874082401%2F0212.jp2/pct:28.382917,14.559456,12.571977,0.805874/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Somerset press._](https://chroniclingamerica.loc.gov/lccn/sn85038088/1874-08-28/ed-1/seq-1)
-
-#### 1874-08-28 &middot; [Somerset, Ohio](http://dbpedia.org/resource/Somerset%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-ing that number he always stop snd  
-turns about for the next operation. In  
-other words he is able to count.  
-  
-Den&#x27;t go to&#x27;lsw unless you have noth­  
-ing to lose: lawyers&#x27; houses are built on  
-fool&#x27; heads.  
-  
-If anything will impress the human  
-mind with awe, it is the eipresnlon o
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn85038088%2F00296028903%2F1874082801%2F0195.jp2/pct:84.993116,89.033079,9.729234,4.949109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7563,59 +7483,6 @@ place. The latter thought she scrape
 
 ---
 
-## [From _The Idaho world._](https://chroniclingamerica.loc.gov/lccn/sn82015407/1874-09-05/ed-1/seq-4)
-
-#### 1874-09-05 &middot; [Idaho City, Idaho Territory](http://dbpedia.org/resource/Idaho_City%2C_Idaho)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-the  
-most beautiful—the English or the  
-French ladies?&quot; &quot;Upon my word,&quot; re-  
-plied his lordship, with his usual pres  
-^ 1, &quot;I am no f connoisseur of  
-*SoiBe ütne &lt;mer this, Vol-  
-taire, bemg in Indern, wenf to a no-  
-bleman&#x27;s ball with Lord Chesterfield.  
-A lady in the company, prodigiously  
-paintèd, directed her whole discourse  
-to Voltaire, and entirely engrossed bis  
-oonversçiipn. Chesterfield came up,  
-mid Capped him on Che shoulder, saying;  
-&quot;Sir, taise care you are not captivated. &quot;  
-&quot;My Lord,&quot; replied the French wit,  
-*1 scorn to be taken by an English  
-vessel udder French colors.&#x27;&#x27;  
-- ■ higu - r-«— - -  
-Don&#x27;t go to law unless you have  
-nothing to lose; lawyer&#x27;s houses ar
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn82015407%2F00295869586%2F1874090501%2F0408.jp2/pct:4.385081,80.360169,18.649194,14.014831/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Republican journal._](https://chroniclingamerica.loc.gov/lccn/sn78000873/1874-09-10/ed-1/seq-4)
-
-#### 1874-09-10 &middot; [Belfast, Me.](http://dbpedia.org/resource/Belfast%2C_Maine)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-riito a swinging limb.  
-H happened that the other end  
-Was somehow hitched to him.  
-Don’t go to law unless you have nothing  
-to lose; lawyers’ houses are bililt on fool’s  
-heads
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524664%2F1874091001%2F0578.jp2/pct:28.431533,90.764809,10.776073,2.639965/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Puget Sound dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84022793/1874-09-10/ed-1/seq-4)
 
 #### 1874-09-10 &middot; [Seattle, Wash. Terr.](http://dbpedia.org/resource/Seattle)
@@ -7650,38 +7517,6 @@ ing to lose, lawyers&#x27; houses are built on
 fools&#x27; heads,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_bombarda_ver01%2Fdata%2Fsn84026820%2F00271765289%2F1874091201%2F0162.jp2/pct:43.494272,87.966045,12.397709,6.324900/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Lake County star._](https://chroniclingamerica.loc.gov/lccn/sn85026421/1874-09-24/ed-1/seq-4)
-
-#### 1874-09-24 &middot; [Chase, Mich.](http://dbpedia.org/resource/Baldwin%2C_Michigan)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-sible to thrust down the throats  
-of intelligent invalids &quot; heroic &quot; doses of  
-mineral poison, or to persuade them to  
-take adulterated alcohol, impregnated  
-with cheap astringents, as a &quot;healing  
-balm&quot; or a &quot;balsamic preparation.  
-Vinegar Bitters a pure botanical  
-tonic, and alterative, guiltless of the  
-curse of distilled or fermented liquor, is  
-actually accomplishing what the mineral  
-and alcoholic cure-mongers have so in­  
-cessantly promised but have never yet  
-performed. Under these circumstances,  
-it is no wonder that this medicine has  
-taken precedence of all those burning  
-fluids miscalled tonics. 1  
-Don&#x27;t go to law unless you have noth­  
-to lose ; lawyers&#x27; houses are built on fools&#x27;  
-heads
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85026421%2F00415669203%2F1874092401%2F0300.jp2/pct:72.596808,10.189733,10.750959,8.706540/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9330,7 +9165,7 @@ A New Firm
 
 ---
 
-## [From _Frank Leslie's Popular Monthly (1876-1904)_](https://iiif.archivelab.org/iiif/sim_american-magazine-1876_1883-05_15_5?page=57)
+## [From _Frank Leslie's Popular Monthly (1876-1904)_](https://archive.org/details/sim_american-magazine-1876_1883-05_15_5/page/n57/model/1up?view=theater)
 
 #### 1883-05-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -9341,7 +9176,7 @@ A New Firm
 Don’r go to law, unless you have nothing to lose;  
 lawyers’ houses are built on fools’ heads.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-magazine-1876_1883-05_15_5&#0036;57/pct:54.512373,87.339268,39.374090,2.225519/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_american-magazine-1876_1883-05_15_5&#0036;57/pct:54.512373,87.339268,39.374090,2.225519/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10247,6 +10082,35 @@ it, for he who trades in the dark
 asks to be cheated. Never r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_gordon_ver01%2Fdata%2Fsn87052181%2F00200292546%2F1891121201%2F0814.jp2/pct:18.772771,32.692572,12.023011,7.538102/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Osceola times._](https://chroniclingamerica.loc.gov/lccn/sn84022982/1891-12-19/ed-1/seq-1)
+
+#### 1891-12-19 &middot; [Osceola, Ark.](http://dbpedia.org/resource/Osceola%2C_Arkansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+ble over it about six times a day:  
+Drink nothing without seeing it.  
+Sign nothing without reading it, and  
+make sure it means nothing more  
+than what it says. Don’t go to law  
+unless you are forced to and have  
+something to lose. In business never  
+wade in where you cannot see the  
+bottom. Put no dependence in the  
+Isble of a bsjr, and count money be­  
+fore you receipt for it. See the sack  
+before you buy what’s in it, for he  
+who trades in the dark asks to be  
+cheated. Never repeat slanderous  
+reports when told you by a tattler
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_hubble_ver01%2Fdata%2Fsn84022982%2F00513688660%2F1891121901%2F0599.jp2/pct:41.721996,25.909569,12.479475,8.843323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

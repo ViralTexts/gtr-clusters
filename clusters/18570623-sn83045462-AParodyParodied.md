@@ -1,7 +1,7 @@
 
 # A Parody Parodied
 
-### 23 reprints from 1857-02-27 to 1892-03-10
+### 22 reprints from 1857-02-27 to 1890-12-20
 
 ## [A Parody Parodied](https://chroniclingamerica.loc.gov/lccn/sn83045462/1857-06-23/ed-1/seq-4/)
 
@@ -894,7 +894,7 @@ in Heaven 1”
 
 ---
 
-## [From _The Frankfort commonwealth._](https://iiif.archivelab.org/iiif/xt7djh3d006k?page=0)
+## [From _The Frankfort commonwealth._](https://archive.org/details/xt7djh3d006k/page/n0/model/1up?view=theater)
 
 #### 1865-05-05 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
@@ -976,7 +976,7 @@ And boys shall never come?
   
 Faith, Hope and Love, best boons to girls e’e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7djh3d006k&#0036;0/pct:20.824742,15.573398,14.164948,21.648235/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7djh3d006k&#0036;0/pct:20.824742,15.573398,14.164948,21.648235/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1172,27 +1172,6 @@ Waved their bright wings and answered,
 yes, in Heaven.” Refoktkr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_duval_ver01%2Fdata%2Fsn84038206%2F00393349232%2F1890122001%2F0692.jp2/pct:26.698177,29.600930,10.793383,6.182197/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1892-03-10/ed-1/seq-3)
-
-#### 1892-03-10 &middot; [Ellsworth, Me.](http://dbpedia.org/resource/Ellsworth%2C_Maine)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-&quot;Tell me. my secret soul,—oh&#x27; tell me, Hope and  
-Faith,  
-Is there no resting place from sorrow, sin ai d  
-death ?—  
-Is there no happy spot where mortal- mav l*e  
-blessed.  
-Where grief may find a halm and weariness 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn84022374%2F0033289531A%2F1892031001%2F0268.jp2/pct:22.389525,49.484667,9.840426,2.064512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

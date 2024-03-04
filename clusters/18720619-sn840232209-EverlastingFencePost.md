@@ -208,7 +208,7 @@ here is not a man that will live to see it rotea
 
 ---
 
-## [From _Christian Union (1870-1893)_](https://iiif.archivelab.org/iiif/sim_new-outlook_1872-09-04_6_11?page=19)
+## [From _Christian Union (1870-1893)_](https://archive.org/details/sim_new-outlook_1872-09-04_6_11/page/n19/model/1up?view=theater)
 
 #### 1872-09-04 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -231,7 +231,7 @@ into the ground. Time and weather seemed to have
 no effect on them. The posts can be prepared for less  
 than two cents apiece.” We believe that this is a goo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1872-09-04_6_11&#0036;19/pct:39.244186,9.539943,27.378436,11.626248/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-outlook_1872-09-04_6_11&#0036;19/pct:39.244186,9.539943,27.378436,11.626248/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,9 +420,9 @@ rotten.&quot;
 
 ---
 
-## [From _Railway Age 1870-2016_](https://iiif.archivelab.org/iiif/sim_railway-age_1872-12-14_4?page=2)
+## [From _Railway Age 1870-2016_](https://archive.org/details/sim_railway-age_1872-12-14_4/page/n2/model/1up?view=theater)
 
-#### 1872-12-14
+#### 1872-12-14 &middot; [Chicago, Illinois](http://dbpedia.org/resource/Chicago)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -447,13 +447,13 @@ and charcoal are applic d.”
   
 A Woman Inventor.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_railway-age_1872-12-14_4&#0036;2/pct:59.262948,36.622807,25.174303,10.361842/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_railway-age_1872-12-14_4&#0036;2/pct:59.262948,36.622807,25.174303,10.361842/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Massachusetts Ploughman and New England Journal of Agriculture (1842-1906)_](https://iiif.archivelab.org/iiif/sim_massachusetts-ploughman-new-england-journal-agriculture_1873-02-01_32_18?page=0)
+## [From _Massachusetts Ploughman and New England Journal of Agriculture (1842-1906)_](https://archive.org/details/sim_massachusetts-ploughman-new-england-journal-agriculture_1873-02-01_32_18/page/n0/model/1up?view=theater)
 
 #### 1873-02-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -480,7 +480,7 @@ it in pulverized charcoal to the consistency
 of paint. Put a coat of this over the tim-  
 ber, and there is not a man that will live t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_massachusetts-ploughman-new-england-journal-agriculture_1873-02-01_32_18&#0036;0/pct:38.052984,85.323482,9.246399,6.709265/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_massachusetts-ploughman-new-england-journal-agriculture_1873-02-01_32_18&#0036;0/pct:38.052984,85.323482,9.246399,6.709265/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2259,7 +2259,7 @@ oil, aod stir in pulverised
 
 ---
 
-## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1874-08_59_2?page=61)
+## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1874-08_59_2/page/n61/model/1up?view=theater)
 
 #### 1874-08-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2282,7 +2282,7 @@ weather seemed to have no effect on them.
 The posts can be prepared for less than two  
 cents apiece. This is the recipe: Take boile
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1874-08_59_2&#0036;61/pct:20.049917,66.695804,34.359401,19.580420/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_phrenological-journal-and-science-of-health_1874-08_59_2&#0036;61/pct:20.049917,66.695804,34.359401,19.580420/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2951,7 +2951,7 @@ live to see it rot.”
 
 ---
 
-## [From _Christian Union (1870-1893)_](https://iiif.archivelab.org/iiif/sim_new-outlook_1875-06-30_11_26?page=19)
+## [From _Christian Union (1870-1893)_](https://archive.org/details/sim_new-outlook_1875-06-30_11_26/page/n19/model/1up?view=theater)
 
 #### 1875-06-30 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2972,7 +2972,7 @@ the ground. Time and weather seemed to have no
 effect on them. The posts can be prepared for less  
 than two cents apiece. This is the recipe: ‘“‘ Tak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1875-06-30_11_26&#0036;19/pct:41.834038,20.940332,26.242072,9.459970/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-outlook_1875-06-30_11_26&#0036;19/pct:41.834038,20.940332,26.242072,9.459970/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4053,7 +4053,7 @@ to see it rotten.
 
 ---
 
-## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1884-10-30_37_44?page=0)
+## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1884-10-30_37_44/page/n0/model/1up?view=theater)
 
 #### 1884-10-30 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -4081,7 +4081,7 @@ of this over the timber, and there is not a
 man that will live long enough to see it  
 rotten.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1884-10-30_37_44&#0036;0/pct:82.406143,85.386029,12.269625,9.243697/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_colmans-rural-world_1884-10-30_37_44&#0036;0/pct:82.406143,85.386029,12.269625,9.243697/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

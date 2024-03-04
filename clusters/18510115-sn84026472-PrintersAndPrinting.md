@@ -21,7 +21,7 @@
 
 ---
 
-## [From _The Green Mountain Gem; a Monthly Journal of Literature, Science, and the Arts (1843-1849)_](https://iiif.archivelab.org/iiif/sim_green-mountain-gem-a-monthly-journal-of-literature_1849_7?page=303)
+## [From _The Green Mountain Gem; a Monthly Journal of Literature, Science, and the Arts (1843-1849)_](https://archive.org/details/sim_green-mountain-gem-a-monthly-journal-of-literature_1849_7/page/n303/model/1up?view=theater)
 
 #### 1849-01-01 &middot; [Bradford](http://dbpedia.org/resource/Bradford%2C_Vermont)
 
@@ -73,7 +73,7 @@ spend in reducing to a readable condition,
 manuscripts that the writers themselves would  
 be puzzled to read.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_green-mountain-gem-a-monthly-journal-of-literature_1849_7&#0036;303/pct:41.244939,36.368313,38.081984,54.183813/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_green-mountain-gem-a-monthly-journal-of-literature_1849_7&#0036;303/pct:41.244939,36.368313,38.081984,54.183813/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -971,7 +971,7 @@ himself would be puzzled to read.&quot;
 
 ---
 
-## [From _Friends' Weekly Intelligencer (1844-1853)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1850-01-12_6_42?page=5)
+## [From _Friends' Weekly Intelligencer (1844-1853)_](https://archive.org/details/sim_friends-intelligencer_1850-01-12_6_42/page/n5/model/1up?view=theater)
 
 #### 1850-01-12 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -994,7 +994,7 @@ pal ATR ee is wi Mestre Cheek as manners, often apparently harsh,—but under
   
 ischolars, sent to the printer in their own hand- : 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1850-01-12_6_42&#0036;5/pct:16.864669,42.481203,77.246901,9.492481/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friends-intelligencer_1850-01-12_6_42&#0036;5/pct:16.864669,42.481203,77.246901,9.492481/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1110,7 +1110,7 @@ be puzzled to read.”
 
 ---
 
-## [From _The spirit of the times._](https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-12-28_20_45?page=0)
+## [From _The spirit of the times._](https://archive.org/details/sim_spirit-of-the-times_1850-12-28_20_45/page/n0/model/1up?view=theater)
 
 #### 1850-12-28 &middot; [New-York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
@@ -1175,7 +1175,7 @@ but the practical printer knows how many hours the compositors, and
 after him the proof-reader, is compelled to spend in reducing to a reada-  
 ble condition manuscripts that the writer himself would{be puzzled to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-12-28_20_45&#0036;0/pct:62.113575,63.501320,26.982527,26.870599/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_spirit-of-the-times_1850-12-28_20_45&#0036;0/pct:62.113575,63.501320,26.982527,26.870599/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2987,68 +2987,50 @@ rad.
 
 ---
 
-## [From _Vermont watchman and State journal._](https://chroniclingamerica.loc.gov/lccn/sn84023200/1853-10-20/ed-1/seq-2)
+## From _Vermont watchman and State journal._
 
 #### 1853-10-20 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-bly on motion of  
-Mr. Bogue the Senate adjourned.  
-HOUSE.  
-The Senate came in, and the joint assembly  
-was formed, for the purposo of hearing the re­  
-port of the Committeo appointed to canvass the  
-votes for Slate Wieers, ami if necessary to elect  
-Hiich officers. Tho report of the Committee not  
-being ready, Mr Washburn moved to adjourn  
-the joint assembly till to-morrow nwrning at 10  
-o&#x27;clock, which motion was agreed to, yeas 04i  
-nays 70, and the Senate withdrew.  
-Hill iiitroduce&#x27;d and referred. By Mr. Spencer,  
-to incorporate the Vermont Italian .Marble Co.  
-to tho Committee on Manufactures.  
-Adjourned.  
-Printers and Printing. J T. Buckingham in  
-his series of reminiscences, in course of publica­  
-tion in tho Huston Courier, speaks of the impor­  
-tanco of the printers to authors, us follows:  
+  
+Printers and Frinting. J T. Buckingham in  
+his series of reminiscences, in course of publica  
+tion in the Boston Courier, speaks of the impor  
+tance of the printers to authors, as follewst  
 Many who condescend to illuminate the dark  
-world with the fire of their gomus through the  
-columns of a newspaper, litle thiuk of the lot of  
-tho printer, who, almost suffocated by the smoko  
-of a lamp, sits up till midnight to correct his falsa  
-grammar, bad orthography, snd worso punctua­  
-tion. I havo seen the arguments of lawyers, in  
-high reptito ns scholars, sent to tho printer in their  
+world with the fire of their genius through the  
+columns of a newspaper, litle think of the lot of  
+the printer, who, almost suffocated by the smoke  
+of a lamp, sits up till midnight to correct his false  
+grammar, bad orthography, and worse punctua  
+tion. I have seen the arguments of lawyers, in  
+high repute as scholars, sent to the printer in their  
 own handwriting, many words and especially  
-technical anu loreign autireviateu, worus mw­  
-jpcllud, and few or no oiiits, and those few, if  
-there wero any, entirely out of place. I havo  
-seen tho sermons of divines sent to the press with­  
-out points or capitals to desiguulethe sentences ;  
-sermons which if published with the unperfecnon  
+technical and loreignssabbreviated, words mis  
+spelled, and few or no points, and those few, if  
+there were any, entirely out of place. I have  
+seen the sermons of divines sent to the press with  
+out points or capitals to designate the sentences;  
+sermons which if published with the imperfection  
 of manuscript, would disgrace the printer&#x27;s devil  
-if he were the author. Suppose thuy had been so  
-printed. The printer would havo beon treated  
-with scorn and contempt, as an illiterate block­  
-head ns a fellow much bettor fitted to be a wood­  
-sawor than a printer. No one would havebohevfd  
-tfiat such gross and palpable faults were owing  
-to the ignoranco and carelessness of the author  
+if he were the author. Suppose thay had been so  
+printed. The printer would have been treated  
+with scorn and contempt, as an illiterate block  
+headas a fellow much better fitted to be a wood  
+sawer than a printer. No one would have believed  
+that such gross and palpable faults were owing  
+to the ignorance and carelessness of the author  
 And no one but the practical printer knows how  
-many hours thu compositor, and after him tho  
-proof reader, is compelled to speuJ in reducing  
-to a readable condition minmcripts that tho wri­  
-ter himself would bo puzzlod to read
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84023200%2F00280777626%2F1853102001%2F0590.jp2/pct:46.199702,52.917194,13.040238,24.279488/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+many hours the compositor, and after him the  
+proof reader, is compelled to spend in reducing  
+to a readable condition manuscripts that the wri  
+ter himself would be puzzled to read
+</td></tr></table>
 
 ---
 
-## [From _The Weekly Shelby news._](https://iiif.archivelab.org/iiif/xt77wm13qk34?page=3)
+## [From _The Weekly Shelby news._](https://archive.org/details/xt77wm13qk34/page/n3/model/1up?view=theater)
 
 #### 1855-05-02 &middot; [Shelbyville, Ky.](http://dbpedia.org/resource/Shelbyville%2C_Kentucky)
 
@@ -3072,13 +3054,13 @@ points. I have seen the sermons of divines &#x27;
   
 end to the Spanis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt77wm13qk34&#0036;3/pct:30.424906,9.019376,25.467664,6.639127/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt77wm13qk34&#0036;3/pct:30.424906,9.019376,25.467664,6.639127/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Weekly Shelby news._](https://iiif.archivelab.org/iiif/xt77wm13qk34?page=3)
+## [From _The Weekly Shelby news._](https://archive.org/details/xt77wm13qk34/page/n3/model/1up?view=theater)
 
 #### 1855-05-02 &middot; [Shelbyville, Ky.](http://dbpedia.org/resource/Shelbyville%2C_Kentucky)
 
@@ -3103,13 +3085,13 @@ and palpable faults were owing to the igno-
 rance and carelessness of the author. And  
 bodv but the practical printer, knows
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt77wm13qk34&#0036;3/pct:30.692143,14.842136,25.213789,7.416150/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt77wm13qk34&#0036;3/pct:30.692143,14.842136,25.213789,7.416150/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Weekly Shelby news._](https://iiif.archivelab.org/iiif/xt77wm13qk34?page=3)
+## [From _The Weekly Shelby news._](https://archive.org/details/xt77wm13qk34/page/n3/model/1up?view=theater)
 
 #### 1855-05-02 &middot; [Shelbyville, Ky.](http://dbpedia.org/resource/Shelbyville%2C_Kentucky)
 
@@ -3126,7 +3108,7 @@ in reducing to a readable condition manu-
 scripts that the writer himself would be  
 puzzled to read.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt77wm13qk34&#0036;3/pct:17.744522,22.297630,25.307322,3.501525/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt77wm13qk34&#0036;3/pct:17.744522,22.297630,25.307322,3.501525/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3423,7 +3405,7 @@ would be puzzled to read
 
 ---
 
-## [From _Tri-weekly Kentucky yeoman._](https://iiif.archivelab.org/iiif/xt7rr49g770c?page=1)
+## [From _Tri-weekly Kentucky yeoman._](https://archive.org/details/xt7rr49g770c/page/n1/model/1up?view=theater)
 
 #### 1862-01-21 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
@@ -3462,7 +3444,7 @@ reducing to readblc condition manuscript that
 often the writers themselves would be puzzled  
 to road. — A Proof-Rcader
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7rr49g770c&#0036;1/pct:34.962020,81.233323,14.103880,14.512304/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7rr49g770c&#0036;1/pct:34.962020,81.233323,14.103880,14.512304/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

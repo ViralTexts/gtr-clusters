@@ -2178,7 +2178,7 @@ ai Boston, with the surrounding cities an
 
 ---
 
-## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1854-02-18_10_48?page=14)
+## [From _Friends' Intelligencer (1853-1910)_](https://archive.org/details/sim_friends-intelligencer_1854-02-18_10_48/page/n14/model/1up?view=theater)
 
 #### 1854-02-18 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2235,7 +2235,7 @@ more frequent after the equinoxes: that is during
 Overcast early, then clear and very hot till 5| the months of June and December. Those born in  
 P. M., when appearances threatened a terrible the spring are generally more robust than otheis—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1854-02-18_10_48&#0036;14/pct:9.496124,42.912621,75.930233,31.189320/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friends-intelligencer_1854-02-18_10_48&#0036;14/pct:9.496124,42.912621,75.930233,31.189320/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2489,7 +2489,7 @@ pable of bearing arms is calculated a
 
 ---
 
-## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1854-05_6_5?page=19)
+## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1854-05_6_5/page/n19/model/1up?view=theater)
 
 #### 1854-05-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2527,13 +2527,13 @@ born in the opring are generally more robust than
 others. Births and deaths are more frequent b;  
 sigs than by day. The number of men capa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1854-05_6_5&#0036;19/pct:54.384615,55.721898,36.653846,34.686628/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-england-farmer-a-monthly-journal_1854-05_6_5&#0036;19/pct:54.384615,55.721898,36.653846,34.686628/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Gleason's Pictorial Drawing - Room Companion (1851-1854)_](https://iiif.archivelab.org/iiif/sim_ballous-pictorial-drawing-room-companion_1854-05-06_6_18?page=14)
+## [From _Gleason's Pictorial Drawing - Room Companion (1851-1854)_](https://archive.org/details/sim_ballous-pictorial-drawing-room-companion_1854-05-06_6_18/page/n14/model/1up?view=theater)
 
 #### 1854-05-06 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2545,7 +2545,7 @@ The whole number of languages spoken in the world amounts
 to 3054—587 in Enrope, 386 in Asia, 276 in Africa, and 1264 in  
 America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-pictorial-drawing-room-companion_1854-05-06_6_18&#0036;14/pct:35.589094,12.917781,27.555988,1.854947/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_ballous-pictorial-drawing-room-companion_1854-05-06_6_18&#0036;14/pct:35.589094,12.917781,27.555988,1.854947/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2742,7 +2742,7 @@ The number of men capable of bearing arm
 
 ---
 
-## [From _Tri-weekly Kentucky yeoman._](https://iiif.archivelab.org/iiif/xt75qf8jgv71?page=2)
+## [From _Tri-weekly Kentucky yeoman._](https://archive.org/details/xt75qf8jgv71/page/n2/model/1up?view=theater)
 
 #### 1854-05-30 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
@@ -2774,7 +2774,7 @@ time to enabl
 In 111 to ruise money to re  
 deem his property, and at the expiratio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt75qf8jgv71&#0036;2/pct:5.108136,6.147979,29.042225,29.595728/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt75qf8jgv71&#0036;2/pct:5.108136,6.147979,29.042225,29.595728/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3663,7 +3663,7 @@ are more frequent afte r ihe t q
 
 ---
 
-## [From _The Merchants' Magazine and Commercial Review (1839-1870)_](https://iiif.archivelab.org/iiif/sim_merchants-magazine-and-commercial-review_1854-12_31_6?page=98)
+## [From _The Merchants' Magazine and Commercial Review (1839-1870)_](https://archive.org/details/sim_merchants-magazine-and-commercial-review_1854-12_31_6/page/n98/model/1up?view=theater)
 
 #### 1854-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3690,7 +3690,7 @@ spring are the most robust. Births and deaths are most frequent by night. The
 number of men capable of bearing arms is calculated at one-fourth of the population.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_merchants-magazine-and-commercial-review_1854-12_31_6&#0036;98/pct:15.125000,66.384832,68.166667,21.496285/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_merchants-magazine-and-commercial-review_1854-12_31_6&#0036;98/pct:15.125000,66.384832,68.166667,21.496285/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3900,7 +3900,7 @@ The number of men capable of bearin
 
 ---
 
-## [From _The Lebanon post._](https://iiif.archivelab.org/iiif/xt73n58cgf77?page=0)
+## [From _The Lebanon post._](https://archive.org/details/xt73n58cgf77/page/n0/model/1up?view=theater)
 
 #### 1855-02-14 &middot; [Lebanon, Ky.](http://dbpedia.org/resource/Lebanon%2C_Kentucky)
 
@@ -3920,7 +3920,7 @@ years of age. There are on the earth
 day; 3,732 every hour; and GO every min-  
 ute, or 1 every second. These lasses are
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt73n58cgf77&#0036;0/pct:64.578467,50.403533,28.838395,6.060606/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt73n58cgf77&#0036;0/pct:64.578467,50.403533,28.838395,6.060606/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4098,7 +4098,7 @@ conduct. Tall men live longer tha
 
 ---
 
-## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://iiif.archivelab.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1855-04_15_13?page=57)
+## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://archive.org/details/sim_ladies-repository-a-monthly-periodical-devoted-to_1855-04_15_13/page/n57/model/1up?view=theater)
 
 #### 1855-04-01 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
@@ -4116,7 +4116,7 @@ males as females. The mean duration of human life
 is 28 years. One-fourth part of all children die before the  
 age of seven years. The population of the globe is esti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1855-04_15_13&#0036;57/pct:22.201767,16.242938,33.762887,9.392655/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1855-04_15_13&#0036;57/pct:22.201767,16.242938,33.762887,9.392655/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4229,7 +4229,7 @@ capable of bearing arms is calculated a
 
 ---
 
-## [From _Circular (1851-1870)_](https://iiif.archivelab.org/iiif/sim_oneida-circular_1855-05-03_4_15?page=3)
+## [From _Circular (1851-1870)_](https://archive.org/details/sim_oneida-circular_1855-05-03_4_15/page/n3/model/1up?view=theater)
 
 #### 1855-05-03 &middot; [Brooklyn](http://dbpedia.org/resource/Brooklyn)
 
@@ -4248,7 +4248,7 @@ of human life is 28 years. One fourth part of
 all children die befure the age of seven years.  
 The ‘population of the globe is estimated a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_oneida-circular_1855-05-03_4_15&#0036;3/pct:73.922414,79.490132,20.857280,7.565789/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_oneida-circular_1855-05-03_4_15&#0036;3/pct:73.922414,79.490132,20.857280,7.565789/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4627,6 +4627,9 @@ one-fourth of the population.— Sunt&#x27;t
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+roubles, and exports to the valise of  
+,eiht. millions. FACTs Ix HuchA  
+LIFE.-The number of languages spoken in  
 the&#x27; world amounts to 3,074. The  
 inhabitants of the globe profess&#x27; more  
 thani 1,000 different religions. &#x27;&#x27;The  
@@ -4690,7 +4693,7 @@ The above estimate presents a fearful though
 
 ---
 
-## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1855-06-30_14_26?page=9)
+## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://archive.org/details/sim_albion-a-journal-of-news-politics-and-literature_1855-06-30_14_26/page/n9/model/1up?view=theater)
 
 #### 1855-06-30 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4719,13 +4722,13 @@ every 1,000 individuals. Marriages are more frequent after the equinoxes,
 that is, during the months of June and December. Those born in the  
 spring are the most robust. Births and deaths are most frequent by night
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1855-06-30_14_26&#0036;9/pct:41.324477,70.398429,26.046699,11.209315/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1855-06-30_14_26&#0036;9/pct:41.324477,70.398429,26.046699,11.209315/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The spirit of the times._](https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1855-07-21_25_23?page=7)
+## [From _The spirit of the times._](https://archive.org/details/sim_spirit-of-the-times_1855-07-21_25_23/page/n7/model/1up?view=theater)
 
 #### 1855-07-21 &middot; [New-York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
@@ -4739,7 +4742,7 @@ The number of men is about equa to the number of women. The ave-
 rage of human life is about 28 years, One-quarter die previous to the  
 age of 7 years; one-half before reaching 17; and those who th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1855-07-21_25_23&#0036;7/pct:11.432376,81.243537,26.478980,2.973113/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_spirit-of-the-times_1855-07-21_25_23&#0036;7/pct:11.432376,81.243537,26.478980,2.973113/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4853,7 +4856,7 @@ others. The number of men capable of bearing arms i
 
 ---
 
-## [From _The flag of our Union._](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1855-11-17_10_46?page=4)
+## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1855-11-17_10_46/page/n4/model/1up?view=theater)
 
 #### 1855-11-17 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -4865,13 +4868,13 @@ The average duration of human life throughout
 the world is 33 years. One-quarter die previous  
 to the age of 7 years—one-half before reaching 17.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1855-11-17_10_46&#0036;4/pct:77.080292,53.640625,12.080292,1.453125/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_flag-of-our-union_1855-11-17_10_46&#0036;4/pct:77.080292,53.640625,12.080292,1.453125/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Ballou's Dollar Monthly Magazine (1855-1862)_](https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1856-01_3_1?page=94)
+## [From _Ballou's Dollar Monthly Magazine (1855-1862)_](https://archive.org/details/sim_ballous-monthly-magazine_1856-01_3_1/page/n94/model/1up?view=theater)
 
 #### 1856-01-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -4883,7 +4886,7 @@ The average dnration of human life throughout
 the world is 33 years. One quarter die previous  
 to the age of 7 years—one-half before reaching 17.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1856-01_3_1&#0036;94/pct:45.913462,32.961654,33.213141,3.317922/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_ballous-monthly-magazine_1856-01_3_1&#0036;94/pct:45.913462,32.961654,33.213141,3.317922/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4938,7 +4941,7 @@ are generally more robust than others. Birth
 
 ---
 
-## [From _Metropolitan; A Monthly Magazine Devoted to Religion, Education, Literature, and General Information 1853-1859_](https://iiif.archivelab.org/iiif/sim_metropolitan-a-monthly-magazine-devoted-to-religion_1856-03_4_2?page=42)
+## [From _Metropolitan; A Monthly Magazine Devoted to Religion, Education, Literature, and General Information 1853-1859_](https://archive.org/details/sim_metropolitan-a-monthly-magazine-devoted-to-religion_1856-03_4_2/page/n42/model/1up?view=theater)
 
 #### 1856-03-01 &middot; [Baltimore, Maryland](http://dbpedia.org/resource/Baltimore)
 
@@ -4975,7 +4978,7 @@ afterwards. The number of marriages is in proportion of 74 to every 1,000 indivi
 Marriages are more frequent after the equinoxes, that is, during the months of June  
 and December. Those born in the spring are the most robust. Births and deaths ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_metropolitan-a-monthly-magazine-devoted-to-religion_1856-03_4_2&#0036;42/pct:8.695652,79.545455,74.378882,8.292383/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_metropolitan-a-monthly-magazine-devoted-to-religion_1856-03_4_2&#0036;42/pct:8.695652,79.545455,74.378882,8.292383/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5106,13 +5109,16 @@ The Espana announces the death of Donna Isabell
 
 ---
 
-## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://iiif.archivelab.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1857-02_17_5?page=52)
+## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://archive.org/details/sim_ladies-repository-a-monthly-periodical-devoted-to_1857-02_17_5/page/n52/model/1up?view=theater)
 
 #### 1857-02-01 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+his exit from the north to the south. But if this be  
+admitted, who can tell us how the whale can get along  
+for hours and days without breathing ?  
   
 Human Lire.—The average of human life throughout  
 the world is thirty-three years. One-quarter die previ-  
@@ -5134,7 +5140,7 @@ than by day.
 Powrr or Car Brakes.—Brakes can not stop a train  
 of cars instantly. If applied too tightly, they “lock th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1857-02_17_5&#0036;52/pct:50.835866,58.367055,34.992401,19.733397/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1857-02_17_5&#0036;52/pct:50.835866,54.725065,35.030395,23.375387/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5889,7 +5895,7 @@ ger than short ones. Women hae mor
 
 ---
 
-## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://iiif.archivelab.org/iiif/sim_independent_1864-11-10_16_832?page=7)
+## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1864-11-10_16_832/page/n7/model/1up?view=theater)
 
 #### 1864-11-10 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -5905,7 +5911,7 @@ faces to show that modern registration and investi-
 than to any | gation have explained what to the casual observer  
 in the on to ton might seem confusion worse confounded. Those
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_independent_1864-11-10_16_832&#0036;7/pct:27.739521,76.759709,19.730539,4.138350/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_independent_1864-11-10_16_832&#0036;7/pct:27.739521,76.759709,19.730539,4.138350/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6118,26 +6124,7 @@ posed for sale, and order any quantity of the
 
 ---
 
-## [From _The flag of our Union._](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1867-01-19_22_3?page=15)
-
-#### 1867-01-19 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-entered her little innocent heart. If it had, the fairies | three years. One quarter die previous to the age of | can do,” said the tar, as ‘he took a fresh quid of to-  
-would bave taken back their gift. seven years; one half before reaching seventeen; and | bacco, “so here goes. Blast you, old boy, shell  
-  
-She wondered that people were not more snrprised | those who pass this age enjoy a felicity refused to | ont your change in less than two shakes of a lobster’s  
-to see her with her new grace, but they only smiled | one-half the human species. To every 1000 persons, | liver! or, curse me, if I don’t rake you fore and aft.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1867-01-19_22_3&#0036;15/pct:21.451744,59.763514,46.836983,2.635135/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The flag of our Union._](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1867-01-19_22_3?page=15)
+## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1867-01-19_22_3/page/n15/model/1up?view=theater)
 
 #### 1867-01-19 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -6152,13 +6139,13 @@ nee years of age. There are on the earth 1,000,000,000 in-
 THE TERRORS OF THE SUBURBS. 91,822 every day, 3730 every hour, and sixty every  
 minute, or one every second. These losses are about
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1867-01-19_22_3&#0036;15/pct:22.445255,64.172297,30.068938,2.331081/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_flag-of-our-union_1867-01-19_22_3&#0036;15/pct:22.445255,64.172297,30.068938,2.331081/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The flag of our Union._](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1867-01-19_22_3?page=15)
+## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1867-01-19_22_3/page/n15/model/1up?view=theater)
 
 #### 1867-01-19 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -6170,7 +6157,7 @@ made their way to the scene of disturbance. in the spring are generally more rob
 With chattering teeth and shaking voices, came the | Births and deaths are more frequent by night than | an explanation. ;  
 eoneee: - by day. The number of men capable of bearing arms The young man—well-known about town for bi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1867-01-19_22_3&#0036;15/pct:21.755880,72.618243,46.776156,2.263514/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_flag-of-our-union_1867-01-19_22_3&#0036;15/pct:21.755880,72.618243,46.776156,2.263514/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6844,7 +6831,7 @@ second. The married are longer-live
 
 ---
 
-## [From _Every Saturday: A Journal of Choice Reading (1866-1874)_](https://iiif.archivelab.org/iiif/sim_every-saturday-a-journal-of-choice-reading_1871-12-02_3_101?page=10)
+## [From _Every Saturday: A Journal of Choice Reading (1866-1874)_](https://archive.org/details/sim_every-saturday-a-journal-of-choice-reading_1871-12-02_3_101/page/n10/model/1up?view=theater)
 
 #### 1871-12-02 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -6867,7 +6854,7 @@ are generally more ruhust than others. Births
 and deaths are more frequent by night than by  
 day. The number of men capable of bearin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_every-saturday-a-journal-of-choice-reading_1871-12-02_3_101&#0036;10/pct:69.769155,67.749812,18.516699,10.236664/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_every-saturday-a-journal-of-choice-reading_1871-12-02_3_101&#0036;10/pct:69.769155,67.749812,18.516699,10.236664/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7090,21 +7077,6 @@ dustrious conduct. Tall men live longer tha
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-habitants profess more than 1,000 different re­  
-ligions. The number of men is eqiisl to the  
-number of women. The average of human&#x27;  
-life is about thirty-three years. One quarter  
-die previous to the ago of seven years, one­  
-half before reaching (Joyeptcen, and those who  
-pass this ago enjoy a! felicity refusod to one­  
-half of the human species. To evory 1,000  
-persons only one reaches one hundred years  
-of life ; to every one hundred, only six reood  
-tho age of sixty-live; not more thau oue id  
-500 lives to 80 years of age. There are ou  
-the earth 600,000,000 inhabitants and of these  
-33,038,833 die every year, 01;884 8Very (lay,  
-3,780 every hour, and s!ity cve/y iniuute,&#x27; or  
 I v’rie tWcvy second. The married are longer  
 fired than the s/ngle, and above all, those who’  
 Observe a sober and industrious conduct. Tall  
@@ -7121,7 +7093,7 @@ generally more robust than others. Births
 and deaths are more frequeut by night tliaii  
 by day. The number of men capable of Bear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_asburypark_ver01%2Fdata%2Fsn84026089%2F00514155860%2F1876122001%2F0882.jp2/pct:81.095985,39.966718,12.739100,17.421301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_asburypark_ver01%2Fdata%2Fsn84026089%2F00514155860%2F1876122001%2F0882.jp2/pct:81.095985,48.758841,12.739100,8.629178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7368,60 +7340,51 @@ other seasons. Deaths are more frequent
 
 ---
 
-## [From _Daily Kennebec journal._](https://chroniclingamerica.loc.gov/lccn/sn82014248/1884-02-07/ed-1/seq-1)
+## [From _The Osceola times._](https://chroniclingamerica.loc.gov/lccn/sn84022982/1883-12-29/ed-1/seq-1)
 
-#### 1884-02-07 &middot; [Augusta, Me.](http://dbpedia.org/resource/Augusta%2C_Maine)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-to be restored.  
-Human Life.  
-The average of human life is about 33  
-years; one quarter die before reaching  
-the age of seven years; one half before  
-reaching lT.Only one in one thousand lives  
-to be one hundred years old ; only six in  
-every hundred live to the age of sixty­  
-five,and not more than one in five hun­  
-dred reaches the age of eighty. The in­  
-habitants of the earth number 1,000,000,­  
-000, and one third of these die every year
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_eddington_ver01%2Fdata%2Fsn82014248%2F00332895850%2F1884020701%2F0130.jp2/pct:70.312800,64.291908,12.996546,6.867775/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Daily Kennebec journal._](https://chroniclingamerica.loc.gov/lccn/sn82014248/1884-02-07/ed-1/seq-1)
-
-#### 1884-02-07 &middot; [Augusta, Me.](http://dbpedia.org/resource/Augusta%2C_Maine)
+#### 1883-12-29 &middot; [Osceola, Ark.](http://dbpedia.org/resource/Osceola%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-men live longer than short ones. Women  
-have more chances of life in their favor,  
-liefore reaching the age of filly, than men,  
-but fewer afterwards. The births are In  
-about the same proportion as the deaths.  
-The marriages average aliout seventy-five  
-to about every thousand individuals, and  
+about equal to the number of women.  
+The average of human life is 33  
+years. One-quarter die before the  
+age of 7, one-half before the age of  
+17. To every 1,000 persons, 1 only­  
+reaches 100 years; and to every 100,  
+only 0 reaches 75 years, and not  
+more than 500 will reach 80 years.  
+There are on earth 1,000,000,000 in­  
+habitants. Os these 33,333,333 die  
+every year; 91,824 die eyery day;  
+7,680 die every hour, and 60 per  
+minute, or 1 every second. These  
+losses are about balanced by an equal  
+number of births. The married are  
+longer-lived than the single; and  
+above all, those who observe a solier  
+and industrious conduct. Tall men  
+live longer than short ones. Women  
+have more ehanees of life previous  
+to 50 years than men, but fewer af­  
+ter. The number of marriages are  
+in the proportion of 76 to 100, and  
 are more frequent after the equinoxes  
-—that is during the months of June and  
-December. Those bom in the spring are  
-generally more robust than others. Births  
-and deaths are more frequent by night  
-than by day.
+—that is, during the months of June  
+and December. Those born in spring  
+are generally more robust than others  
+—Births and deaths are more fre­  
+quent by day. The number of men  
+capable of bearing arms is about one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_eddington_ver01%2Fdata%2Fsn82014248%2F00332895850%2F1884020701%2F0130.jp2/pct:70.351180,72.716763,13.111687,6.578757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_galactic_ver01%2Fdata%2Fsn84022982%2F00513688659%2F1883122901%2F0331.jp2/pct:44.909104,24.057926,12.330244,17.382954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Ballou's Monthly Magazine (1866-1893)_](https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1887-12_66_6?page=76)
+## [From _Ballou's Monthly Magazine (1866-1893)_](https://archive.org/details/sim_ballous-monthly-magazine_1887-12_66_6/page/n76/model/1up?view=theater)
 
 #### 1887-12-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -7459,7 +7422,7 @@ generally more robust than others. Births and
 deaths are more frequent by night than by day.  
 The number of men capable of bearing arms i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1887-12_66_6&#0036;76/pct:45.283742,32.781283,35.582822,37.039958/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_ballous-monthly-magazine_1887-12_66_6&#0036;76/pct:45.283742,32.781283,35.582822,37.039958/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7513,7 +7476,50 @@ capable of bearing arms is calculated a
 
 ---
 
-## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://iiif.archivelab.org/iiif/sim_independent_1888-11-22_40_2086?page=28)
+## [From _Evening tribune._](https://chroniclingamerica.loc.gov/lccn/sn92064070/1888-10-27/ed-1/seq-4)
+
+#### 1888-10-27 &middot; [Pawtucket, R.I.](http://dbpedia.org/resource/Pawtucket%2C_Rhode_Island)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+previous to the age of seventeen. To every  
+1,000 persons only one reaches 100 years of  
+life, says the Golden Argosy. To every  
+100 only six reach the age of sixty-five, and  
+not more than one in 500 lives to eighty  
+years of age.  
+  
+There are on the earth 1,000,000,000 in­  
+habitants ; of these 33,083,033 die every  
+year; 91,824 every day, 3,730 every hour,  
+and 60 every minute, or 1 every second.  
+  
+The married are longer lived than the  
+single men, above all, those who observe a  
+sober aud industrious conduct. Tall men  
+live longer than short ones. Women have  
+more chances of life in their favor previons  
+to fifty years of age than men have, but  
+fewer afterward.  
+  
+The number of marriages is in the pro­  
+portion of 75 to every 1,000 individuals.  
+Marriages are more frequent after equi­  
+noxes—that ie, during the months of June  
+and December. |  
+  
+Those born in spring are generally of a  
+more robust constitution than others.  
+Births are more frequent by night than b
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/rp_crawlingclaw_ver03%2Fdata%2Fsn92064070%2F00514153863%2F1888102701%2F0149.jp2/pct:17.707657,46.982435,12.232178,16.598319/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1888-11-22_40_2086/page/n28/model/1up?view=theater)
 
 #### 1888-11-22 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -7551,7 +7557,7 @@ Those born in spring are generally of a
 more robust constitution than others,  
 Births are more frequent by night tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_independent_1888-11-22_40_2086&#0036;28/pct:44.289216,17.627762,19.313725,17.316989/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_independent_1888-11-22_40_2086&#0036;28/pct:44.289216,17.627762,19.313725,17.316989/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7686,7 +7692,7 @@ bust constitution than others. Births are mor
 
 ---
 
-## [From _Christian Union (1870-1893)_](https://iiif.archivelab.org/iiif/sim_new-outlook_1889-01-17_39_3?page=30)
+## [From _Christian Union (1870-1893)_](https://archive.org/details/sim_new-outlook_1889-01-17_39_3/page/n30/model/1up?view=theater)
 
 #### 1889-01-17 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -7722,7 +7728,7 @@ Those born in spring are generally of a
 more robust constitution than others.  
 Births are more frequent by night tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1889-01-17_39_3&#0036;30/pct:5.865779,9.197787,40.138320,82.676349/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-outlook_1889-01-17_39_3&#0036;30/pct:5.865779,9.197787,40.138320,82.676349/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8601,6 +8607,11 @@ every second. Tho railway revenue fo
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+hoped the vogue of Mr. Du Maurier’s  
+heroine will have done a good deal tq  
+counteract.   
+  
+Average of Human Life.   
   
 The average of human life, accord­  
 ing to I‘rof. Warren, is about thirty­  
@@ -8620,7 +8631,38 @@ year, 91,824 every day, 3,730 every hour,
 and sixty every minute, or one ever*  
 second.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_honeydew_ver01%2Fdata%2Fsn99068086%2F0033289996A%2F1898011301%2F0439.jp2/pct:71.056493,78.055240,14.668929,9.131038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_honeydew_ver01%2Fdata%2Fsn99068086%2F0033289996A%2F1898011301%2F0439.jp2/pct:71.056493,75.223862,14.668929,11.962416/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Bill Barlow's budget._](https://chroniclingamerica.loc.gov/lccn/sn92067125/1898-01-26/ed-1/seq-3)
+
+#### 1898-01-26 &middot; [Douglas, Converse County, Wyo.](http://dbpedia.org/resource/Douglas%2C_Wyoming)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Average of Human Life.  
+Tho average of human life, accord­  
+ing to Prof. Warren, Is about thirty­  
+three years. One quarter die previous  
+to the age of seven years, one-half be­  
+fore reaching 17, ami those who pass  
+this age enjoy a felicity refused to the  
+rest of the human species. To every  
+1,000 persons, only one reaches 100  
+years of life, to every 100, only six  
+reach the age of 65, and not more than  
+om* in 500 lives to 80 years of age.  
+There are on earth 1,000,000,000 Inhab­  
+itants, and of these .&#x27;13,333,333 die every  
+year, 91,821 every day, 3,730 every hour,  
+and sixty every minute, or one every  
+second.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wyu_ginsberg_ver01%2Fdata%2Fsn92067125%2F00517179711%2F1898012601%2F0623.jp2/pct:51.061885,85.246938,14.261603,9.274742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8630,7 +8672,7 @@ second.
 
 #### From _The Owyhee avalanche._
 
-#### 1898-02-04 &middot; [Ruby City, I.T. [Idaho]](http://dbpedia.org/resource/Ruby_City%2C_Idaho)
+#### 1898-02-04 &middot; [Silver City, Idaho](http://dbpedia.org/resource/Silver_City%2C_Idaho)
 
 [This text is not available under an open license.]
 
@@ -8670,7 +8712,7 @@ year, 91,824 every day, 3,730 every hour, 1
 
 ---
 
-## [From _Current Literature (1888-1912)_](https://iiif.archivelab.org/iiif/sim_current-opinion_1898-03_23_3?page=40)
+## [From _Current Literature (1888-1912)_](https://archive.org/details/sim_current-opinion_1898-03_23_3/page/n40/model/1up?view=theater)
 
 #### 1898-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -8690,7 +8732,7 @@ live longer than short ones. Women have more
 chances of life in their favor, previous to fifty years  
 of age, than men have, but fewer afterward. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_current-opinion_1898-03_23_3&#0036;40/pct:48.869193,66.820175,35.238386,14.736842/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_current-opinion_1898-03_23_3&#0036;40/pct:48.869193,66.820175,35.238386,14.736842/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

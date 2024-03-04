@@ -301,7 +301,7 @@ H id be bee
 
 ---
 
-## [From _The New - York Mirror: a Weekly Gazette of Literature and the Fine Arts (1823-1842)_](https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1841-07-10_19_28?page=7)
+## [From _The New - York Mirror: a Weekly Gazette of Literature and the Fine Arts (1823-1842)_](https://archive.org/details/sim_new-york-mirror-a-weekly-gazette-of-literature_1841-07-10_19_28/page/n7/model/1up?view=theater)
 
 #### 1841-07-10 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -338,7 +338,7 @@ At home, I:ke neighbour Jim,
 I&#x27;m very sure this accident  
 Had not befallen him!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1841-07-10_19_28&#0036;7/pct:66.310307,48.669579,27.001096,18.685465/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1841-07-10_19_28&#0036;7/pct:66.310307,48.669579,27.001096,18.685465/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -547,7 +547,7 @@ accident Had not befallen him
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1844-08-31_25_1205?page=3)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1844-08-31_25_1205/page/n3/model/1up?view=theater)
 
 #### 1844-08-31 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -576,7 +576,7 @@ At home like neighbor Jim
 } TH bet « cent the accudent  
 Would not have happened hu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1844-08-31_25_1205&#0036;3/pct:45.692568,23.884286,8.530405,7.283035/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-evening-post_1844-08-31_25_1205&#0036;3/pct:45.692568,23.884286,8.530405,7.283035/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ Would not have happened him
 
 ---
 
-## [From _Boston Cultivator (1839-1850)_](https://iiif.archivelab.org/iiif/sim_american-cultivator_1844-10-05_6_40?page=6)
+## [From _Boston Cultivator (1839-1850)_](https://archive.org/details/sim_american-cultivator_1844-10-05_6_40/page/n6/model/1up?view=theater)
 
 #### 1844-10-05 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -746,13 +746,13 @@ At home like neighbor Jim,
 L&#x27;il beta cent the accident  
 Would not bave lbuppened him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-cultivator_1844-10-05_6_40&#0036;6/pct:70.238095,85.608538,16.642857,7.970391/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_american-cultivator_1844-10-05_6_40&#0036;6/pct:70.238095,85.608538,16.642857,7.970391/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1844-10-24_12_43?page=1)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1844-10-24_12_43/page/n1/model/1up?view=theater)
 
 #### 1844-10-24 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -783,7 +783,7 @@ At home like neighbor Jim,
 I&#x27;ll) bet a cent the accident  
 Would not have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1844-10-24_12_43&#0036;1/pct:52.528302,30.123385,9.283019,7.653750/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_maine-farmer_1844-10-24_12_43&#0036;1/pct:52.528302,30.123385,9.283019,7.653750/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -922,7 +922,7 @@ Would not have happened him.
 
 ---
 
-## [From _Boston Cultivator (1839-1850)_](https://iiif.archivelab.org/iiif/sim_american-cultivator_1845-07-26_7_30?page=3)
+## [From _Boston Cultivator (1839-1850)_](https://archive.org/details/sim_american-cultivator_1845-07-26_7_30/page/n3/model/1up?view=theater)
 
 #### 1845-07-26 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -943,7 +943,7 @@ At home, like neighbor Jim,
 I&#x27;ll bet a cent that accident  
 Would never have happened hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-cultivator_1845-07-26_7_30&#0036;3/pct:82.862524,20.065281,10.098870,6.132967/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_american-cultivator_1845-07-26_7_30&#0036;3/pct:82.862524,20.065281,10.098870,6.132967/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1040,7 +1040,7 @@ Would not have happend him
 
 ---
 
-## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1845-08-13_24_7?page=7)
+## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1845-08-13_24_7/page/n7/model/1up?view=theater)
 
 #### 1845-08-13 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1066,7 +1066,7 @@ At home, like neighbor Jim,
 I&#x27;ll bet a cent that accident  
 Would never have happened him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1845-08-13_24_7&#0036;7/pct:16.056485,73.991597,18.017782,11.974790/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-england-farmer-and-horticultural-register_1845-08-13_24_7&#0036;7/pct:16.056485,73.991597,18.017782,11.974790/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1677,7 +1677,7 @@ Would not have happeued him
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1867-05-23_40_21?page=2)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1867-05-23_40_21/page/n2/model/1up?view=theater)
 
 #### 1867-05-23 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1695,7 +1695,7 @@ crown and killed him—as it should. Had he been
 reading the news, at home, like neighbor Jim, I&#x27;ll beta  
 cent that accident would not have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1867-05-23_40_21&#0036;2/pct:24.777228,27.058030,21.163366,4.537787/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1867-05-23_40_21&#0036;2/pct:24.777228,27.058030,21.163366,4.537787/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2419,7 +2419,7 @@ Would never have happened him
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1871-10-12_44_41?page=7)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1871-10-12_44_41/page/n7/model/1up?view=theater)
 
 #### 1871-10-12 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2445,7 +2445,7 @@ At home, like Neighbor Jim,
 I&#x27;ll bet a cent that accident  
 Would never have happened him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1871-10-12_44_41&#0036;7/pct:31.214848,38.313388,14.820022,6.899776/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1871-10-12_44_41&#0036;7/pct:31.214848,38.313388,14.820022,6.899776/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2716,7 +2716,7 @@ Had not befallen him
 
 ---
 
-## [From _Printers' Circular and Stationers' and Publishers' Gazette 1866-1890_](https://iiif.archivelab.org/iiif/sim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9?page=8)
+## [From _Printers' Circular and Stationers' and Publishers' Gazette 1866-1890_](https://archive.org/details/sim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9/page/n8/model/1up?view=theater)
 
 #### 1878-11-01 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
@@ -2777,7 +2777,7 @@ At home, like neighbor Jim,
 I&#x27;d bet a cent, this accident  
 Had not befallen him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9&#0036;8/pct:48.748261,71.286031,48.435327,16.491131/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9&#0036;8/pct:48.748261,71.286031,48.435327,16.491131/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2946,7 +2946,7 @@ Had not befallen him
 
 ---
 
-## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://iiif.archivelab.org/iiif/sim_independent_1879-04-03_31_1583?page=7)
+## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1879-04-03_31_1583/page/n7/model/1up?view=theater)
 
 #### 1879-04-03 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2996,7 +2996,7 @@ are graduates of Amherst College.
 I&#x27;d bet a cent this accident  
 Had not befallen him:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_independent_1879-04-03_31_1583&#0036;7/pct:10.015291,69.361702,38.990826,25.088652/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_independent_1879-04-03_31_1583&#0036;7/pct:10.015291,69.361702,38.990826,25.088652/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

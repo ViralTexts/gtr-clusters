@@ -1,7 +1,7 @@
 
 # None (Sometimes "Maxims to Guide a Young Man")
 
-### 65 reprints from 1852-02-20 to 1899-01-27
+### 66 reprints from 1852-02-20 to 1899-01-27
 
 ## [None (Sometimes "Maxims to Guide a Young Man")](https://chroniclingamerica.loc.gov/lccn/sn88077413/1859-06-23/ed-1/seq-2/)
 
@@ -168,7 +168,7 @@ happy
 
 ---
 
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1857-07-18_30_45?page=3)
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1857-07-18_30_45/page/n3/model/1up?view=theater)
 
 #### 1857-07-18 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -196,7 +196,7 @@ Save when youare young, to spend when you are old.
 Never think that what you do for religion is time,  
 or money mis-spent. Always go to meeting whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1857-07-18_30_45&#0036;3/pct:66.442543,26.398264,28.820293,21.793635/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friend-a-religious-and-literary-journal_1857-07-18_30_45&#0036;3/pct:66.442543,26.398264,28.820293,21.793635/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -389,7 +389,7 @@ week
 
 ---
 
-## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1857-12-26_14_41?page=6)
+## [From _Friends' Intelligencer (1853-1910)_](https://archive.org/details/sim_friends-intelligencer_1857-12-26_14_41/page/n6/model/1up?view=theater)
 
 #### 1857-12-26 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -461,7 +461,7 @@ when youareold. Read over the above maxims | ully prepared to adopt and reiterat
   
 at least once a week.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1857-12-26_14_41&#0036;6/pct:49.238782,46.190239,39.302885,43.202191/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friends-intelligencer_1857-12-26_14_41&#0036;6/pct:49.238782,46.190239,39.302885,43.202191/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -931,6 +931,51 @@ week
 
 ---
 
+## From _Vermont watchman and State journal._
+
+#### 1859-06-10 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+boy. It required a sacrifice, but &quot;Movuni  
+wape ir.&quot;  
+Sousd Anvier to Yoeso ME. Keep  
+good company or none. Never be idle. If  
+your hands cannot be usefully employed, at.  
+tend to the usefulness of your mind. Al  
+ways speak the truth. Make few promises.  
+Live up to your engagements. Keep your  
+own secrets, if you have any. When you  
+speak to a person, look him in the face.  
+Good company and good conversation are the  
+very sinews of virtue. Good character is  
+above anything else. Your character can not  
+be essentially injured, except by your own  
+acts. If any one speaks evil of you, let your  
+life be so that no one will believe him.  
+Lrink no kind of intoxicating liquors. Lver!  
+live (misfortune excepted) within your income.  
+When you retire to bed, think over what you  
+have been doing during the day. Make no  
+haste to be rich, if you would prosper. Small  
+and steady gains give competency, with tran  
+quility of mind. Never play at any game of  
+chance. Avoid temptation, though you fear  
+you may not withstand it. Earn money be  
+fore you spend it. Never run in debt unless  
+you see a way to get out of it. Do not mar.  
+unt1. ytud ure ittrtt ttr euriitrt it  
+Never speak evil of any one. Be just before  
+you are generons. Aeep yoursell innocent il  
+you would be happy. Save when you are  
+young that you may spend when you get old.!  
+Read over the above maxims at least once a!  
+week
+</td></tr></table>
+
+---
+
 ## [From _The daily press._](https://chroniclingamerica.loc.gov/lccn/sn88077413/1859-06-23/ed-1/seq-2)
 
 #### 1859-06-23 &middot; [Cincinnati [Ohio](http://dbpedia.org/resource/Cincinnati)
@@ -1285,7 +1330,7 @@ until you are able to support a wife.
 
 ---
 
-## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1865-08-19_22_24?page=6)
+## [From _Friends' Intelligencer (1853-1910)_](https://archive.org/details/sim_friends-intelligencer_1865-08-19_22_24/page/n6/model/1up?view=theater)
 
 #### 1865-08-19 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -1329,13 +1374,13 @@ are young that you may spend when you are
 old. Read over the above maxims at least  
 once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1865-08-19_22_24&#0036;6/pct:47.023810,71.547085,52.343750,14.461883/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friends-intelligencer_1865-08-19_22_24&#0036;6/pct:47.023810,71.547085,52.343750,14.461883/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1866-05-10_39_19?page=2)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1866-05-10_39_19/page/n2/model/1up?view=theater)
 
 #### 1866-05-10 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1382,7 +1427,7 @@ would be happy. Save when you are young to spend
 when yon are old. Read over the above maxims at  
 least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1866-05-10_39_19&#0036;2/pct:7.014028,39.673572,21.843687,18.769617/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1866-05-10_39_19&#0036;2/pct:7.014028,39.673572,21.843687,18.769617/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2259,7 +2304,7 @@ evil of anyone. Be just be
 
 ---
 
-## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1893-04-01_46_13?page=21)
+## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1893-04-01_46_13/page/n21/model/1up?view=theater)
 
 #### 1893-04-01 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2308,13 +2353,13 @@ believe him.
   
 Drink no kind of intoxicating liquors.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1893-04-01_46_13&#0036;21/pct:56.641604,78.309444,37.186717,12.858347/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_school-journal_1893-04-01_46_13&#0036;21/pct:56.641604,78.309444,37.186717,12.858347/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1894-12-08_71_23?page=8)
+## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1894-12-08_71_23/page/n8/model/1up?view=theater)
 
 #### 1894-12-08 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2340,7 +2385,7 @@ Never speak evil of any
 one. Be just before you are  
 generous. Save when yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1894-12-08_71_23&#0036;8/pct:77.831094,76.461892,13.171785,14.668200/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_scientific-american_1894-12-08_71_23&#0036;8/pct:77.831094,76.461892,13.171785,14.668200/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

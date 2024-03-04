@@ -1,7 +1,7 @@
 
 # Medical Uses of Salt
 
-### 202 reprints from 1848-05-16 to 1897-07-15
+### 204 reprints from 1848-05-16 to 1897-07-15
 
 ## [Medical Uses of Salt](http://collections.library.cornell.edu/moa_new/index.html)
 
@@ -31,7 +31,7 @@ It is reasonable to suppose that what is most plentiful on earth, is most essent
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41?page=2)
+## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1848-07-01_3_41/page/n2/model/1up?view=theater)
 
 #### 1848-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -42,13 +42,13 @@ Medical Uses of Sait.
 In many cases of disordered stomach, a tea-  
 spoonful of salt taken three times a day is a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41&#0036;2/pct:31.306991,8.355886,19.250253,2.148173/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_scientific-american_1848-07-01_3_41&#0036;2/pct:31.306991,8.355886,19.250253,2.148173/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41?page=2)
+## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1848-07-01_3_41/page/n2/model/1up?view=theater)
 
 #### 1848-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -97,13 +97,13 @@ the order of nature, placing the greatest va-
 lue on those things that are difficult to obtain  
 We burrow in the earth to obtain gold from
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41&#0036;2/pct:31.306991,10.673207,19.630193,31.630582/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_scientific-american_1848-07-01_3_41&#0036;2/pct:31.306991,10.673207,19.630193,31.630582/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41?page=2)
+## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1848-07-01_3_41/page/n2/model/1up?view=theater)
 
 #### 1848-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -127,13 +127,13 @@ for every thing with sailors,—our landsmen
 would rather seek medicines that come from  
 the Persian Gulf or the wilds of Hindostan.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41&#0036;2/pct:31.585613,42.506766,19.807497,11.857240/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_scientific-american_1848-07-01_3_41&#0036;2/pct:31.585613,42.506766,19.807497,11.857240/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41?page=2)
+## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1848-07-01_3_41/page/n2/model/1up?view=theater)
 
 #### 1848-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -144,7 +144,7 @@ the Persian Gulf or the wilds of Hindostan.
 As it was with the Philistine |  
 warrior, so it is with men atthe present day, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1848-07-01_3_41&#0036;2/pct:31.686930,48.832882,19.858156,1.556157/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_scientific-american_1848-07-01_3_41&#0036;2/pct:31.686930,48.832882,19.858156,1.556157/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ moderate degree, and aids digestion, but &quot;alt meat
 
 ---
 
-## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1850-03-02_2_5?page=10)
+## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1850-03-02_2_5/page/n10/model/1up?view=theater)
 
 #### 1850-03-02 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -342,13 +342,13 @@ tened together, and the bars are perforated with a
 series of holes to receive hard wood or iron tapered  
 pins. Each pin has a hole in it like a violin pin, to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1850-03-02_2_5&#0036;10/pct:8.785822,16.151545,73.416290,74.277168/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-england-farmer-a-monthly-journal_1850-03-02_2_5&#0036;10/pct:8.785822,16.151545,73.416290,74.277168/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1850-03-16_5_26?page=1)
+## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1850-03-16_5_26/page/n1/model/1up?view=theater)
 
 #### 1850-03-16 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -400,7 +400,7 @@ Salt will expel worms, if used in the food
 in a moderate degree, and aids digestion; but  
 salt meat is injurious if used much.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1850-03-16_5_26&#0036;1/pct:68.794326,10.890233,19.655522,31.495246/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_scientific-american_1850-03-16_5_26&#0036;1/pct:68.794326,10.890233,19.655522,31.495246/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -652,7 +652,7 @@ our population, but they are by n
 
 ---
 
-## [From _The spirit of the times._](https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-08-03_20_24?page=9)
+## [From _The spirit of the times._](https://archive.org/details/sim_spirit-of-the-times_1850-08-03_20_24/page/n9/model/1up?view=theater)
 
 #### 1850-08-03 &middot; [New-York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
@@ -687,7 +687,7 @@ In swelled neck, wash the part with brine, and drink it also twice a
 day until cured. Salt expels worms, if usedin the food ina moderate de-  
 gree, and aids digestion ; but salt meat is injurious if used much.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-08-03_20_24&#0036;9/pct:9.443681,28.788610,26.802885,12.620656/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_spirit-of-the-times_1850-08-03_20_24&#0036;9/pct:9.443681,28.788610,26.802885,12.620656/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1007,7 +1007,7 @@ A MODEL EDITOR
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1851-02-01_30_1540?page=3)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1851-02-01_30_1540/page/n3/model/1up?view=theater)
 
 #### 1851-02-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -1028,9 +1028,31 @@ found that
 completely restore the  
 jent from the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1851-02-01_30_1540&#0036;3/pct:75.914229,29.977461,8.194814,2.659654/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-evening-post_1851-02-01_30_1540&#0036;3/pct:75.914229,29.977461,8.194814,2.659654/600,/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _Vermont watchman and State journal._
+
+#### 1851-02-06 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+jest jump to me, and ?ll take the conceit  
+&#x27;water, if sufficient sensibility remains to  
+lallow of swallowing:  
+if not, the head must  
+be sponged with cold water until the sense  
+returns, when the salt will completely res  
+store the patient from the lethargy. In case  
+of severe bleeding at the lungs, and when  
+lother remedies failed, Dr. Rush found that  
+two teaspoontuls of salt coupletely stayed  
+the blood
+</td></tr></table>
 
 ---
 
@@ -1405,7 +1427,7 @@ Here is a very beautiful thought of tha
 
 ---
 
-## [From _Christian Watchman and Reflector (1851-1861)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1854-12-21_35_51?page=3)
+## [From _Christian Watchman and Reflector (1851-1861)_](https://archive.org/details/sim_watchman-examiner_1854-12-21_35_51/page/n3/model/1up?view=theater)
 
 #### 1854-12-21 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1437,13 +1459,13 @@ exclusion of the women and children, and conducted
 in a manner characterized by the pulpit and press as  
 “ dastardly and mean ?” Were they Sailors?” Thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1854-12-21_35_51&#0036;3/pct:36.613952,11.442559,11.969174,8.283290/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_watchman-examiner_1854-12-21_35_51&#0036;3/pct:36.613952,11.442559,11.969174,8.283290/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Christian Watchman and Reflector (1851-1861)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1854-12-21_35_51?page=3)
+## [From _Christian Watchman and Reflector (1851-1861)_](https://archive.org/details/sim_watchman-examiner_1854-12-21_35_51/page/n3/model/1up?view=theater)
 
 #### 1854-12-21 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1457,7 +1479,7 @@ go to bed—it is one of the speediest remedies known.
 Tbe same will revive ® person almost dead from receiv-  
 me a very beavy fall, A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1854-12-21_35_51&#0036;3/pct:23.858072,92.832898,11.800594,2.839426/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_watchman-examiner_1854-12-21_35_51&#0036;3/pct:23.858072,92.832898,11.800594,2.839426/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1522,7 +1544,7 @@ injurious il used much
 
 ---
 
-## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1855-03_50_3?page=69)
+## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1855-03_50_3/page/n69/model/1up?view=theater)
 
 #### 1855-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1545,7 +1567,7 @@ lethargy. In cases of severe bleeding at the lungs, and
 when other remedies have failed, it has been found that  
 two teaspoonfuls of salt completely stayed the blood.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1855-03_50_3&#0036;69/pct:11.677368,40.469905,36.115570,17.106653/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_godeys-magazine_1855-03_50_3&#0036;69/pct:11.677368,40.469905,36.115570,17.106653/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2060,7 +2082,7 @@ of the machinery and its prin
 
 ---
 
-## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1856-07-17_24_30?page=0)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1856-07-17_24_30/page/n0/model/1up?view=theater)
 
 #### 1856-07-17 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -2120,13 +2142,13 @@ are to be used in cooking, pound and sift them
 fine, and keep the powder in bottles, corked up  
 tight.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1856-07-17_24_30&#0036;0/pct:81.520563,67.291847,12.297078,26.745447/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_maine-farmer_1856-07-17_24_30&#0036;0/pct:81.520563,67.291847,12.297078,26.745447/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1856-08_8_8?page=12)
+## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1856-08_8_8/page/n12/model/1up?view=theater)
 
 #### 1856-08-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2154,13 +2176,13 @@ In a fit, the feet should be placed in warm water.
 with mustard added, and the legs briskly rubbed,  
 all bandages removed from the neck, and a cool
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1856-08_8_8&#0036;12/pct:12.653846,36.345178,35.961538,19.898477/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-england-farmer-a-monthly-journal_1856-08_8_8&#0036;12/pct:12.653846,36.345178,35.961538,19.898477/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1856-08_8_8?page=12)
+## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1856-08_8_8/page/n12/model/1up?view=theater)
 
 #### 1856-08-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2202,7 +2224,7 @@ have visited is that of Major FRENCH, a few rods
 Salt will expel worms, if used in food in a mod- east of the capitol, on soil that I once knew as un-  
 erate degree, and aids digestion, but salt meat is kindly and perverse as that of any cold spring land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1856-08_8_8&#0036;12/pct:13.000000,55.736041,72.500000,18.934010/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-england-farmer-a-monthly-journal_1856-08_8_8&#0036;12/pct:13.000000,55.736041,72.500000,18.934010/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2269,7 +2291,7 @@ A very flue young mare, belonging to Dr
 
 ---
 
-## [From _Ballou's Pictorial Drawing - Room Companion (1855-1859)_](https://iiif.archivelab.org/iiif/sim_ballous-pictorial-drawing-room-companion_1856-08-09_11_6?page=6)
+## [From _Ballou's Pictorial Drawing - Room Companion (1855-1859)_](https://archive.org/details/sim_ballous-pictorial-drawing-room-companion_1856-08-09_11_6/page/n6/model/1up?view=theater)
 
 #### 1856-08-09 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2300,7 +2322,7 @@ most cases. If the gnms are affected, wash the month with brine.
 If the teeth be covered with tartar, wash them twice a day with  
 salt and water .—Mtdiad Joormd.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-pictorial-drawing-room-companion_1856-08-09_11_6&#0036;6/pct:34.762371,64.472801,27.609015,14.674278/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_ballous-pictorial-drawing-room-companion_1856-08-09_11_6&#0036;6/pct:34.762371,64.472801,27.609015,14.674278/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2357,6 +2379,70 @@ salt meat is injurious, if used much.?Kx
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn93067882%2F0020219428A%2F1856081501%2F0403.jp2/pct:35.469725,52.270605,17.850115,23.113488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _Vermont watchman and State journal._
+
+#### 1856-08-15 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Medical use of Salt.  
+I many cases of disordered stom  
+ach, a teaspoonful of salt is a certain  
+cure. In the violent internal aching,  
+termed colic, add a teaspoonful of  
+salt to a pint of cold water; drink  
+it and go to bed; it is one the of spe  
+diest remedies known. The same  
+will revive a person who seems al  
+most dead from receiving a heavy  
+fall, c.  
+In an apoplectic fit, no time should  
+be lost in pouring down salt and wa  
+er, if sufficient sensibility remain to  
+allow of swallowing; if not, the  
+head must be sponged with cold wa  
+ter until the senses return, when salt  
+will completely restore the patient  
+from the lethargy.  
+In a fit, the feet should be placed  
+in warm water, with mustard added,  
+and the legs briskly rubbed, all band  
+ages removed from the neck, and a  
+cool apartment procured, if possibl.  
+In many cases of severe bleeding at  
+the lungs, and when other remedies  
+fail, Dr. Rush found that two tea  
+spoons full of salt completely stayed  
+the blood.  
+In case of a bite from a mad-dog,  
+wash the part with a strong brine for  
+an hour, and then bind on some salt,  
+with a rag.  
+In toothache, warm salt and water  
+held to the part, and removed two or  
+three times, will relieve it in most  
+cases. If the gums be affected, wash  
+the mouth with brine. If the teeth  
+be covered with tartar, wash them  
+twice a day with salt and water.  
+In swelled neck, wash the part  
+with brine, and drink it also, twice  
+a day, until cured.  
+Salt will expel worms, if used in  
+food in a moderate degree, and aids  
+digestion, but salt meat is injurious,  
+if used much.  
+ulting Huy. This practice  
+we have reason to thinkis greatly  
+overdone. Two puarts of fine salt  
+to each ton of hay, scattered through  
+it, is sufficient. It is a wasteful  
+thing to get hay in half made an
+</td></tr></table>
 
 ---
 
@@ -2467,7 +2553,7 @@ meat is injurious, if used much.
 
 ---
 
-## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1856-10_53_4?page=69)
+## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1856-10_53_4/page/n69/model/1up?view=theater)
 
 #### 1856-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2521,7 +2607,7 @@ Salt will expel worms, if used in food in a moderate
 degree, and aids digestion, but salt meat is injurious if  
 used much.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1856-10_53_4&#0036;69/pct:52.468652,75.646329,35.227273,12.125129/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_godeys-magazine_1856-10_53_4&#0036;69/pct:52.468652,75.646329,35.227273,12.125129/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2942,7 +3028,7 @@ them twice a day with sail an! water
 
 ---
 
-## [From _The flag of our Union._](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-06-06_12_23?page=6)
+## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1857-06-06_12_23/page/n6/model/1up?view=theater)
 
 #### 1857-06-06 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -2963,7 +3049,7 @@ Take cream and sour milk, or sour milk and butter,
 salaratus, salt, and a little sugar. Thicken with four  
 stiff enough to drop.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-06-06_12_23&#0036;6/pct:76.778955,69.462435,12.320212,4.452720/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_flag-of-our-union_1857-06-06_12_23&#0036;6/pct:76.778955,69.462435,12.320212,4.452720/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2979,7 +3065,7 @@ stiff enough to drop.
 
 ---
 
-## [From _The flag of our Union._](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-06-13_12_24?page=6)
+## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1857-06-13_12_24/page/n6/model/1up?view=theater)
 
 #### 1857-06-13 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -2995,7 +3081,7 @@ water; drink it down and go to bed; it is one of the
 speediest remedies known. The same will revive a person  
 who seems almost dead from a heavy fall.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-06-13_12_24&#0036;6/pct:76.310790,58.516839,12.234043,3.448834/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_flag-of-our-union_1857-06-13_12_24&#0036;6/pct:76.310790,58.516839,12.234043,3.448834/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3108,7 +3194,7 @@ The Joubsai. is publiihed eyery Wednesda
 
 ---
 
-## [From _Ballou's Dollar Monthly Magazine (1855-1862)_](https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1857-08_6_2?page=86)
+## [From _Ballou's Dollar Monthly Magazine (1855-1862)_](https://archive.org/details/sim_ballous-monthly-magazine_1857-08_6_2/page/n86/model/1up?view=theater)
 
 #### 1857-08-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -3136,13 +3222,13 @@ together, and fry them in the fot left from the ham.
 Place the mixture at the bottom, and lay the slices of ba¬  
 con on the top. The dish must be well seasoned wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1857-08_6_2&#0036;86/pct:11.139456,13.576881,72.534014,76.526718/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_ballous-monthly-magazine_1857-08_6_2&#0036;86/pct:11.139456,13.576881,72.534014,76.526718/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1857-09-17_25_39?page=0)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1857-09-17_25_39/page/n0/model/1up?view=theater)
 
 #### 1857-09-17 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -3192,7 +3278,7 @@ Salt will expel worms, if used in food ina
 moderate degree, and aids digestiun, but salt meat  
 is injurious, if used much.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1857-09-17_25_39&#0036;0/pct:41.951155,40.513029,12.145483,19.503257/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_maine-farmer_1857-09-17_25_39&#0036;0/pct:41.951155,40.513029,12.145483,19.503257/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3225,7 +3311,7 @@ an 1 then bind on eome eolt with a rag
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1857-11-07_1893?page=3)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1857-11-07_1893/page/n3/model/1up?view=theater)
 
 #### 1857-11-07 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -3245,7 +3331,7 @@ not, the head must be sponged well with cold
 water until the senses return, when salt will  
 completely restore the patient from lethargy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1857-11-07_1893&#0036;3/pct:24.697802,83.294574,13.228022,5.813953/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-evening-post_1857-11-07_1893&#0036;3/pct:24.697802,83.294574,13.228022,5.813953/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4252,7 +4338,7 @@ j spoonfuls if salt completely slayed ih
 
 ---
 
-## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1865-09-13_36_37?page=3)
+## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://archive.org/details/sim_zions-herald_1865-09-13_36_37/page/n3/model/1up?view=theater)
 
 #### 1865-09-13 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -4284,7 +4370,7 @@ procured, if possible. In case of severe bleeding at
   
 lungs, when other remedies failed, Dr. Rush found
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1865-09-13_36_37&#0036;3/pct:46.490281,86.032348,12.486501,7.767572/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_zions-herald_1865-09-13_36_37&#0036;3/pct:46.490281,86.032348,12.486501,7.767572/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4473,7 +4559,7 @@ tior ; but salt mei.t is injurious if use
 
 ---
 
-## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1877-08-04_29_744?page=23)
+## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://archive.org/details/sim_london-reader-of-literature-science-art-and-general_1877-08-04_29_744/page/n23/model/1up?view=theater)
 
 #### 1877-08-04 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -4496,7 +4582,7 @@ mustard added, and the legs briskly rubbed, all bandages
 from the neck, and a cool apartment procared, if possi-  
 ble. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1877-08-04_29_744&#0036;23/pct:13.616625,62.500000,26.116625,10.614901/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_london-reader-of-literature-science-art-and-general_1877-08-04_29_744&#0036;23/pct:13.616625,62.500000,26.116625,10.614901/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4687,7 +4773,7 @@ he lost, in pourins down salt water, i
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1879-06-28_58_49?page=9)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1879-06-28_58_49/page/n9/model/1up?view=theater)
 
 #### 1879-06-28 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -4730,7 +4816,7 @@ until cured. Salt will expel worms, if used
 in the food in a moderate degree, and sids  
 digestion, but salt is injurious if used much.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1879-06-28_58_49&#0036;9/pct:57.707355,60.482955,18.603286,22.798295/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-evening-post_1879-06-28_58_49&#0036;9/pct:57.707355,60.482955,18.603286,22.798295/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6163,7 +6249,7 @@ cured
 
 ---
 
-## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1881-11-17_34_46?page=6)
+## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1881-11-17_34_46/page/n6/model/1up?view=theater)
 
 #### 1881-11-17 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -6207,7 +6293,7 @@ mouth with brine. If the teeth be
 covered with tartar wash them twice a  
 day with salt and water.—From th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1881-11-17_34_46&#0036;6/pct:40.166667,57.911850,13.750000,17.991329/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_colmans-rural-world_1881-11-17_34_46&#0036;6/pct:40.166667,57.911850,13.750000,17.991329/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6273,7 +6359,7 @@ a day with salt and water.—
 
 ---
 
-## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1881-12-24_38_973?page=23)
+## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://archive.org/details/sim_london-reader-of-literature-science-art-and-general_1881-12-24_38_973/page/n23/model/1up?view=theater)
 
 #### 1881-12-24 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -6284,7 +6370,7 @@ effect a speedy cure. Salt will expel worms, if used in
 a moderate degree, and aids digestion; but the daily use  
 of salt meat is regarded as very injurious.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1881-12-24_38_973&#0036;23/pct:11.779449,35.470480,26.315789,2.052583/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_london-reader-of-literature-science-art-and-general_1881-12-24_38_973&#0036;23/pct:11.779449,35.470480,26.315789,2.052583/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

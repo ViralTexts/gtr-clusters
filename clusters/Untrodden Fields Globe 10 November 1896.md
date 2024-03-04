@@ -19,9 +19,9 @@ Observations On The Esoteric Manners and Customs of Semi-Civilised Peoples Being
 
 ---
 
-## [From _Nature 1869-2016_](https://iiif.archivelab.org/iiif/sim_nature-uk_1896-10-22_54_1408?page=22)
+## [From _Nature 1869-2016_](https://archive.org/details/sim_nature-uk_1896-10-22_54_1408/page/n22/model/1up?view=theater)
 
-#### 1896-10-22
+#### 1896-10-22 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -32,13 +32,13 @@ customs of semi-civilised peoples, being a record by a French
 army surgeon of thirty years’ experience in Asia, Africa, and  
 \merica, in two vols
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_nature-uk_1896-10-22_54_1408&#0036;22/pct:9.676309,51.871257,35.330579,4.540918/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_nature-uk_1896-10-22_54_1408&#0036;22/pct:9.676309,51.871257,35.330579,4.540918/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Athenaeum 1828-1920_](https://iiif.archivelab.org/iiif/sim_athenaeum-uk_1896-11-21_3604?page=40)
+## [From _The Athenaeum 1828-1920_](https://archive.org/details/sim_athenaeum-uk_1896-11-21_3604/page/n40/model/1up?view=theater)
 
 #### 1896-11-21 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -55,13 +55,13 @@ UNTRODDEN FIELDS OF ANTHROPOLOGY,
 OBSERVATIONS ON THE ESOTERIC MANNERS AND CUSTOMS  
 OF SEMI-CIVILISED PEOPLES.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_athenaeum-uk_1896-11-21_3604&#0036;40/pct:4.492940,14.575472,26.797176,5.400943/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_athenaeum-uk_1896-11-21_3604&#0036;40/pct:4.492940,14.575472,26.797176,5.400943/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Athenaeum 1828-1920_](https://iiif.archivelab.org/iiif/sim_athenaeum-uk_1896-11-21_3604?page=40)
+## [From _The Athenaeum 1828-1920_](https://archive.org/details/sim_athenaeum-uk_1896-11-21_3604/page/n40/model/1up?view=theater)
 
 #### 1896-11-21 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -78,13 +78,13 @@ Edition limited to 500 Numbered Copies.
 Fuller Prospectus and Analytical Table of Contents on receipt of  
 three stamps for postage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_athenaeum-uk_1896-11-21_3604&#0036;40/pct:5.070603,20.683962,25.353017,5.660377/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_athenaeum-uk_1896-11-21_3604&#0036;40/pct:5.070603,20.683962,25.353017,5.660377/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Athenaeum 1828-1920_](https://iiif.archivelab.org/iiif/sim_athenaeum-uk_1896-11-28_3605?page=42)
+## [From _The Athenaeum 1828-1920_](https://archive.org/details/sim_athenaeum-uk_1896-11-28_3605/page/n42/model/1up?view=theater)
 
 #### 1896-11-28 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -130,13 +130,13 @@ Edition limited to 500 Numbered Copies.
 Fuller Prospectus and Analytical ‘Table of Contents on receipt of  
 three stamps for Postage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_athenaeum-uk_1896-11-28_3605&#0036;42/pct:61.100386,13.043478,28.088803,23.913043/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_athenaeum-uk_1896-11-28_3605&#0036;42/pct:61.100386,13.043478,28.088803,23.913043/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _American Anthropologist 1888-2016_](https://iiif.archivelab.org/iiif/sim_american-anthropologist_1896-12_9_12?page=30)
+## [From _American Anthropologist 1888-2016_](https://archive.org/details/sim_american-anthropologist_1896-12_9_12/page/n30/model/1up?view=theater)
 
 #### 1896-12-01 &middot; [Washington, D.C., District of Columbia](http://dbpedia.org/resource/Washington%2C_D.C.)
 
@@ -153,15 +153,15 @@ years’ experience in Asia, Africa,
 and America. 2 vols. Paris, 1896,  
 C. Carrington. roy. 8°.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-anthropologist_1896-12_9_12&#0036;30/pct:44.371482,65.344224,29.924953,9.043174/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_american-anthropologist_1896-12_9_12&#0036;30/pct:44.371482,65.344224,29.924953,9.043174/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Journal of American Folklore 1888-2016_](https://iiif.archivelab.org/iiif/sim_journal-of-american-folklore_january-march-1897_10_36?page=81)
+## [From _Journal of American Folklore 1888-2016_](https://archive.org/details/sim_journal-of-american-folklore_january-march-1897_10_36/page/n81/model/1up?view=theater)
 
-#### 1897-01-01
+#### 1897-01-01 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -171,7 +171,7 @@ of Anthropology: observations on the esoteric manners and customs
 of semi-civilized peoples, being a record by a French army surgeon  
 of thirty years’ experience in Asia, Africa, and America’”’ (Paris
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-american-folklore_january-march-1897_10_36&#0036;81/pct:24.807099,66.039157,64.737654,6.350402/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_journal-of-american-folklore_january-march-1897_10_36&#0036;81/pct:24.807099,66.039157,64.737654,6.350402/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

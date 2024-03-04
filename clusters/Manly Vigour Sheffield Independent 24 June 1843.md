@@ -2609,7 +2609,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-02-10_1_24?page=22)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-02-10_1_24/page/n22/model/1up?view=theater)
 
 #### 1844-02-10 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -2633,7 +2633,7 @@ in anguish at the consequences of carly indiscretion—afraid almost to
 encounter his fellow-man, can regain the vigour of health and moral  
 courage.”——The New Bell’s Weekly Messenger.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-02-10_1_24&#0036;22/pct:9.626777,70.058780,38.951422,11.094783/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_economist_1844-02-10_1_24&#0036;22/pct:9.626777,70.058780,38.951422,11.094783/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2649,7 +2649,7 @@ courage.”——The New Bell’s Weekly Messenger.
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-02-17_1_25?page=22)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-02-17_1_25/page/n22/model/1up?view=theater)
 
 #### 1844-02-17 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -2661,7 +2661,7 @@ street, Liverpool; W. Wood, 78 High street, Birmingham; W. and H.
 Robinson, 11 Greenside street, Edinburgh; T. Price, 93 Dame street,  
 Dublin; and all booksellers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-02-17_1_25&#0036;22/pct:50.473934,71.436444,38.714455,2.755327/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_economist_1844-02-17_1_25&#0036;22/pct:50.473934,71.436444,38.714455,2.755327/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3147,7 +3147,7 @@ Dublin; and all booksellers.
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-05_1_58?page=22)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-10-05_1_58/page/n22/model/1up?view=theater)
 
 #### 1844-10-05 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3159,13 +3159,13 @@ Wood, 78 High street, Birmingham; W. and H. Robin-
 son, 11 Greenside street, Edinburgh; T. Price, 93 Dame  
 street, Dublin; and all booksellers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-10-05_1_58&#0036;22/pct:56.848929,23.368342,24.069899,2.325581/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_economist_1844-10-05_1_58&#0036;22/pct:56.848929,23.368342,24.069899,2.325581/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-05_1_58?page=22)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-10-05_1_58/page/n22/model/1up?view=theater)
 
 #### 1844-10-05 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3187,7 +3187,7 @@ of early indise retion— afraid almost to encounter his fel-
 low man, can — n the vigour of health and moral  
 courage.”&quot;— The New Bell&#x27;s We ekly Messe nger
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-10-05_1_58&#0036;22/pct:56.792559,25.731433,24.154453,8.664666/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_economist_1844-10-05_1_58&#0036;22/pct:56.792559,25.731433,24.154453,8.664666/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3223,7 +3223,7 @@ courage.”&quot;— The New Bell&#x27;s We ekly Messe nger
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-12_1_59?page=22)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-10-12_1_59/page/n22/model/1up?view=theater)
 
 #### 1844-10-12 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3246,7 +3246,7 @@ of early indiscretion—afraid almost to encounter his fel-
 low-man, can regain the vigour of health and moral  
 courage.”—The New Bell’s Weekly Messenger.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-10-12_1_59&#0036;22/pct:61.583991,42.329332,24.210823,8.664666/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_economist_1844-10-12_1_59&#0036;22/pct:61.583991,42.329332,24.210823,8.664666/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3262,7 +3262,7 @@ courage.”—The New Bell’s Weekly Messenger.
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-19_1_60?page=22)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-10-19_1_60/page/n22/model/1up?view=theater)
 
 #### 1844-10-19 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3274,7 +3274,7 @@ Wood, 78 High street, Birmingham ; W./and H. Robin-
 son, 11 Greenside street, Edinburgh; T. Price, 93 Dame  
 street, Dublin; and all booksellers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-10-19_1_60&#0036;22/pct:34.019166,87.921980,24.182638,2.438110/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_economist_1844-10-19_1_60&#0036;22/pct:34.019166,87.921980,24.182638,2.438110/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3300,7 +3300,7 @@ street, Dublin; and all booksellers.
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-26_1_61?page=22)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-10-26_1_61/page/n22/model/1up?view=theater)
 
 #### 1844-10-26 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3312,13 +3312,13 @@ Wood, 78 High street, Birmingham; W.’and H. Robin-
 son, 11 Greenside street, Edinburgh; T. Price, 93 Dame  
 street, Dublin; and all booksellers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-10-26_1_61&#0036;22/pct:10.118377,76.356877,25.000000,2.509294/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_economist_1844-10-26_1_61&#0036;22/pct:10.118377,76.356877,25.000000,2.509294/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-26_1_61?page=22)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-10-26_1_61/page/n22/model/1up?view=theater)
 
 #### 1844-10-26 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3341,7 +3341,7 @@ of early indiscretion—afraid almost to encounter his fel-
 low-man, can regain the vigour of health and moral  
 courage.”— The New Bell’s Weekly Messenger.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-10-26_1_61&#0036;22/pct:9.667418,78.903346,25.479143,9.070632/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_economist_1844-10-26_1_61&#0036;22/pct:9.667418,78.903346,25.479143,9.070632/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3357,7 +3357,7 @@ courage.”— The New Bell’s Weekly Messenger.
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-11-02_1_62?page=22)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-11-02_1_62/page/n22/model/1up?view=theater)
 
 #### 1844-11-02 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3369,7 +3369,7 @@ Wood, 78 High street, Birmingham; W. and H. Robin-
 son, 11 Greenside street, Edinburgh; T. Price, 93 Dame  
 street, Dublin; and all booksellers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-11-02_1_62&#0036;22/pct:63.162345,38.654525,25.084555,2.490243/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_economist_1844-11-02_1_62&#0036;22/pct:63.162345,38.654525,25.084555,2.490243/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3395,7 +3395,7 @@ street, Dublin; and all booksellers.
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-11-09_1_63?page=22)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-11-09_1_63/page/n22/model/1up?view=theater)
 
 #### 1844-11-09 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3407,7 +3407,7 @@ Wood, 78 High street, Birmingham; W. and H. Robin-
 son, 11 Greenside street, Edinburgh; T. Price, 93 Dame  
 street, Dublin; and all booksellers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-11-09_1_63&#0036;22/pct:57.807215,40.435109,24.069899,2.363091/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_economist_1844-11-09_1_63&#0036;22/pct:57.807215,40.435109,24.069899,2.363091/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3443,7 +3443,7 @@ street, Dublin; and all booksellers.
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-12-21_1_69?page=22)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-12-21_1_69/page/n22/model/1up?view=theater)
 
 #### 1844-12-21 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3455,13 +3455,13 @@ Wood, 78 High street, Birmingham; W. and H. Robin-
 son, 11 Greenside street, Edinburgh; T. Price, 93 Dame  
 street, Dublin; and all booksellers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-12-21_1_69&#0036;22/pct:33.702153,33.847584,25.568182,2.286245/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_economist_1844-12-21_1_69&#0036;22/pct:33.702153,33.847584,25.568182,2.286245/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-12-21_1_69?page=22)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-12-21_1_69/page/n22/model/1up?view=theater)
 
 #### 1844-12-21 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3484,7 +3484,7 @@ of early indiscretion—afraid almost to encounter his fel-
 low-man, can regain the vigour of health and moral  
 courage.”— The New Bell’s Weekly Messenger.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-12-21_1_69&#0036;22/pct:33.702153,36.282528,25.478469,8.568773/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_economist_1844-12-21_1_69&#0036;22/pct:33.702153,36.282528,25.478469,8.568773/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3640,7 +3640,7 @@ courage.”— The New Bell’s Weekly Messenger.
 
 ---
 
-## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://iiif.archivelab.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1845-08-23_1960?page=13)
+## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://archive.org/details/sim_examiner-a-weekly-paper-on-politics-literature-music_1845-08-23_1960/page/n13/model/1up?view=theater)
 
 #### 1845-08-23 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3653,7 +3653,7 @@ Dale street, Liverpool; W. Wood, 78 High street, Birmingham; W.and
 H. Bobinsoo, 11 (freeiiside street, Edinburgh ; &#x27;i&#x27;. Price, 93 Dame street;  
 Dublin ; and all Booksellers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1845-08-23_1960&#0036;13/pct:66.416139,54.989496,26.344937,2.061450/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1845-08-23_1960&#0036;13/pct:66.416139,54.989496,26.344937,2.061450/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3699,7 +3699,7 @@ Dublin ; and all Booksellers.
 
 ---
 
-## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://iiif.archivelab.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1846-02-07_1984?page=13)
+## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://archive.org/details/sim_examiner-a-weekly-paper-on-politics-literature-music_1846-02-07_1984/page/n13/model/1up?view=theater)
 
 #### 1846-02-07 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3710,7 +3710,7 @@ M»nche*teT! W. Howell, 75 Dale street* Liverpool; W.
 Wood, 78 High street, Kirmlnvham; W. and H. Robinson, 11 Graentide  
 st^, Edinburgh ; T. Price, 98 Dame street, Dublin; and all Booksellen.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1846-02-07_1984&#0036;13/pct:69.001429,62.434896,26.771493,1.549479/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1846-02-07_1984&#0036;13/pct:69.001429,62.434896,26.771493,1.549479/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3756,7 +3756,7 @@ st^, Edinburgh ; T. Price, 98 Dame street, Dublin; and all Booksellen.
 
 ---
 
-## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://iiif.archivelab.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1846-08-15_2011?page=13)
+## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://archive.org/details/sim_examiner-a-weekly-paper-on-politics-literature-music_1846-08-15_2011/page/n13/model/1up?view=theater)
 
 #### 1846-08-15 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3768,7 +3768,7 @@ pool ; W. Wood, 78 High Btreet, Birmingham ; W. and 11. Hubinaon, 11
 Qreenside street, Edinburgh ; T. Price, 93 Dame street, Dublin, and all  
 Booksellera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1846-08-15_2011&#0036;13/pct:42.295597,52.682292,26.611635,1.914062/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1846-08-15_2011&#0036;13/pct:42.295597,52.682292,26.611635,1.914062/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

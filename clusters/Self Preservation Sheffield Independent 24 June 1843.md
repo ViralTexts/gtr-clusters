@@ -2311,7 +2311,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 ---
 
-## [From _The Spectator 1828-2014_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-03-04_16_766?page=21)
+## [From _The Spectator 1828-2014_](https://archive.org/details/sim_spectator-uk_1843-03-04_16_766/page/n21/model/1up?view=theater)
 
 #### 1843-03-04 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -2337,7 +2337,7 @@ or premature decay. Mr. La’Mert, who is a regularly
 educated member of the medical professi.n, has treated  
 the subject in a very scientific and intelligible manner.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-03-04_16_766&#0036;21/pct:63.835616,78.187919,26.198630,10.570470/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_spectator-uk_1843-03-04_16_766&#0036;21/pct:63.835616,78.187919,26.198630,10.570470/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2423,7 +2423,7 @@ the subject in a very scientific and intelligible manner.
 
 ---
 
-## [From _The Spectator 1828-2014_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-03-18_16_768?page=22)
+## [From _The Spectator 1828-2014_](https://archive.org/details/sim_spectator-uk_1843-03-18_16_768/page/n22/model/1up?view=theater)
 
 #### 1843-03-18 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -2447,7 +2447,7 @@ safety, to be placed in the hands of every youth whose
 appearance indicates any teudency to vervous debility,  
 or premature decay. Mr. La&#x27;Mert, who is a a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-03-18_16_768&#0036;22/pct:61.404110,79.966887,26.027397,9.271523/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_spectator-uk_1843-03-18_16_768&#0036;22/pct:61.404110,79.966887,26.027397,9.271523/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2513,7 +2513,7 @@ or premature decay. Mr. La&#x27;Mert, who is a a
 
 ---
 
-## [From _The Spectator 1828-2014_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-04-29_16_774?page=21)
+## [From _The Spectator 1828-2014_](https://archive.org/details/sim_spectator-uk_1843-04-29_16_774/page/n21/model/1up?view=theater)
 
 #### 1843-04-29 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -2546,7 +2546,7 @@ and we are certainly amazed at the prevalence aud the
 consequences of those evils itis in his steer say 0 portray  
 aud alleviate.’— Wakefield Journal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-04-29_16_774&#0036;21/pct:37.910959,76.199187,27.876712,13.658537/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_spectator-uk_1843-04-29_16_774&#0036;21/pct:37.910959,76.199187,27.876712,13.658537/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2582,7 +2582,7 @@ aud alleviate.’— Wakefield Journal
 
 ---
 
-## [From _The Spectator 1828-2014_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-05-13_16_776?page=22)
+## [From _The Spectator 1828-2014_](https://archive.org/details/sim_spectator-uk_1843-05-13_16_776/page/n22/model/1up?view=theater)
 
 #### 1843-05-13 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -2600,7 +2600,7 @@ and we are cert: uinly amazed at the vrevalence aud the
 consequences of those evils it is in his province to portray  
 and alleviate. Wakefield Journal,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-05-13_16_776&#0036;22/pct:35.445205,52.841845,25.753425,5.333608/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_spectator-uk_1843-05-13_16_776&#0036;22/pct:35.445205,52.841845,25.753425,5.333608/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2616,7 +2616,7 @@ and alleviate. Wakefield Journal,
 
 ---
 
-## [From _The Spectator 1828-2014_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-05-20_16_777?page=22)
+## [From _The Spectator 1828-2014_](https://archive.org/details/sim_spectator-uk_1843-05-20_16_777/page/n22/model/1up?view=theater)
 
 #### 1843-05-20 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -2650,13 +2650,13 @@ and we are certainly amazed at the prevalence and the |
 consequences of those evils itis in his province to portray  
 aud alleviate.’— Vahkefield Journal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-05-20_16_777&#0036;22/pct:9.178082,45.616883,26.472603,12.398539/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_spectator-uk_1843-05-20_16_777&#0036;22/pct:9.178082,45.616883,26.472603,12.398539/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Spectator 1828-2014_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-06-03_16_779?page=22)
+## [From _The Spectator 1828-2014_](https://archive.org/details/sim_spectator-uk_1843-06-03_16_779/page/n22/model/1up?view=theater)
 
 #### 1843-06-03 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -2686,13 +2686,13 @@ and we are certainly amazed at the prevalence aud the
 consequences of those evils itis in his province to portray  
 aud alleviate.’— Waketield Journal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-06-03_16_779&#0036;22/pct:32.534247,44.812092,25.890411,11.805556/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_spectator-uk_1843-06-03_16_779&#0036;22/pct:32.534247,44.812092,25.890411,11.805556/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Spectator 1828-2014_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-06-17_16_781?page=22)
+## [From _The Spectator 1828-2014_](https://archive.org/details/sim_spectator-uk_1843-06-17_16_781/page/n22/model/1up?view=theater)
 
 #### 1843-06-17 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -2723,13 +2723,13 @@ and we are certainly amazed at the prevalence and the
 consequences of those evils itis in his province to portray  
 aud alleviate.’— Waketield Journal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-06-17_16_781&#0036;22/pct:62.465753,44.666124,25.924658,11.787459/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_spectator-uk_1843-06-17_16_781&#0036;22/pct:62.465753,44.666124,25.924658,11.787459/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Spectator 1828-2014_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-07-29_16_787?page=21)
+## [From _The Spectator 1828-2014_](https://archive.org/details/sim_spectator-uk_1843-07-29_16_787/page/n21/model/1up?view=theater)
 
 #### 1843-07-29 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -2746,13 +2746,13 @@ manner, and we ure certainly amazed at the prevalence and the
 ee of those evils it is in his pro »vince to pc ortra ay and  
 alleviate.”—WakeFIELD JOURNAL,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spectator-uk_1843-07-29_16_787&#0036;21/pct:8.767123,53.450413,26.130137,3.780992/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_spectator-uk_1843-07-29_16_787&#0036;21/pct:8.767123,53.450413,26.130137,3.780992/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1843-09-09_1_2?page=15)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1843-09-09_1_2/page/n15/model/1up?view=theater)
 
 #### 1843-09-09 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -2768,7 +2768,7 @@ Published by the Author; and sold in London by S. Gilbert,
 Leadenhall street; Noble, 109 Chancery lane; and by all  
 Booksellers. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1843-09-09_1_2&#0036;15/pct:67.401669,32.071269,25.357569,3.711952/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_economist_1843-09-09_1_2&#0036;15/pct:67.401669,32.071269,25.357569,3.711952/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3164,7 +3164,7 @@ Booksellers.
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-02-17_1_25?page=22)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-02-17_1_25/page/n22/model/1up?view=theater)
 
 #### 1844-02-17 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3180,7 +3180,7 @@ subject in a very scientific and intelligible manner, and we are certainly
 amazed at the prevalence and consequences of those evils it is in his pro-  
 vince to portray and alleviate.”— Wakefield Journal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-02-17_1_25&#0036;22/pct:10.130332,83.174137,38.803318,5.014695/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_economist_1844-02-17_1_25&#0036;22/pct:10.130332,83.174137,38.803318,5.014695/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3206,7 +3206,7 @@ vince to portray and alleviate.”— Wakefield Journal.
 
 ---
 
-## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://iiif.archivelab.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1844-02-24_1882?page=13)
+## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://archive.org/details/sim_examiner-a-weekly-paper-on-politics-literature-music_1844-02-24_1882/page/n13/model/1up?view=theater)
 
 #### 1844-02-24 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3222,7 +3222,7 @@ very teientlfir and intelligible manner, and we are certainly amsiedat the
 prevalcAca and the cons^uences of those evils it ss his provlnoe to por¬  
 tray and alleviate &quot;—Wakefield Journal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1844-02-24_1882&#0036;13/pct:67.354560,68.211660,25.589623,3.374475/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_examiner-a-weekly-paper-on-politics-literature-music_1844-02-24_1882&#0036;13/pct:67.354560,68.211660,25.589623,3.374475/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3448,9 +3448,9 @@ tray and alleviate &quot;—Wakefield Journal.
 
 ---
 
-## [From _British and Foreign Review; Or European Quarterly Journal 1835-1844_](https://iiif.archivelab.org/iiif/sim_british-and-foreign-review-or-european-quarterly-journal_1844-04_17?page=24)
+## [From _British and Foreign Review; Or European Quarterly Journal 1835-1844_](https://archive.org/details/sim_british-and-foreign-review-or-european-quarterly-journal_1844-04_17/page/n24/model/1up?view=theater)
 
-#### 1844-04-01
+#### 1844-04-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3464,7 +3464,7 @@ prevalence and the consequences of these evils it is his province to portray and
   
 — Wakefield Journal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_british-and-foreign-review-or-european-quarterly-journal_1844-04_17&#0036;24/pct:10.732984,82.574032,65.401396,6.719818/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_british-and-foreign-review-or-european-quarterly-journal_1844-04_17&#0036;24/pct:10.732984,82.574032,65.401396,6.719818/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3650,9 +3650,9 @@ prevalence and the consequences of these evils it is his province to portray and
 
 ---
 
-## [From _British and Foreign Review; Or European Quarterly Journal 1835-1844_](https://iiif.archivelab.org/iiif/sim_british-and-foreign-review-or-european-quarterly-journal_1844-07_17?page=20)
+## [From _British and Foreign Review; Or European Quarterly Journal 1835-1844_](https://archive.org/details/sim_british-and-foreign-review-or-european-quarterly-journal_1844-07_17/page/n20/model/1up?view=theater)
 
-#### 1844-07-01
+#### 1844-07-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3665,7 +3665,7 @@ the subject in a very scientific and intelligible manner, and we are certainly a
 prevalence and the consequences of these evils it is his province to portray and alleviate.”  
 — Wakefield Journal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_british-and-foreign-review-or-european-quarterly-journal_1844-07_17&#0036;20/pct:12.216405,43.594104,65.226876,6.632653/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_british-and-foreign-review-or-european-quarterly-journal_1844-07_17&#0036;20/pct:12.216405,43.594104,65.226876,6.632653/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3981,7 +3981,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-19_1_60?page=22)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-10-19_1_60/page/n22/model/1up?view=theater)
 
 #### 1844-10-19 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3999,7 +3999,7 @@ and we are certainly amazed at the prevalence and con-
 sequences of those evils it is his province to portray  
 and alleviate.”— Wakefield Journal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-10-19_1_60&#0036;22/pct:59.695603,74.868717,24.295378,5.607652/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_economist_1844-10-19_1_60&#0036;22/pct:59.695603,74.868717,24.295378,5.607652/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4025,7 +4025,7 @@ and alleviate.”— Wakefield Journal.
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1844-10-26_1_61?page=21)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-10-26_1_61/page/n21/model/1up?view=theater)
 
 #### 1844-10-26 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -4043,7 +4043,7 @@ and we are certainly amazed at the prevalence and con-
 sequences of those evils it is his province to portray  
 and alleviate.”— Wakefield Journal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1844-10-26_1_61&#0036;21/pct:40.586246,76.078067,24.633596,5.836431/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_economist_1844-10-26_1_61&#0036;21/pct:40.586246,76.078067,24.633596,5.836431/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4389,7 +4389,7 @@ and alleviate.”— Wakefield Journal.
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1845-01-11_3_2?page=23)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1845-01-11_3_2/page/n23/model/1up?view=theater)
 
 #### 1845-01-11 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -4412,7 +4412,7 @@ and we are certainly amazed at the prevalence and con-
 sequences of those evils it is his province to pourtray and  
 alleviate. Wakefield Journ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1845-01-11_3_2&#0036;23/pct:66.725352,74.579371,24.970657,3.584492/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_economist_1845-01-11_3_2&#0036;23/pct:66.725352,74.579371,24.970657,3.584492/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4458,7 +4458,7 @@ alleviate. Wakefield Journ
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-01-18_15_491?page=3)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-01-18_15_491/page/n3/model/1up?view=theater)
 
 #### 1845-01-18 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -4475,7 +4475,7 @@ disorders of the generative system, originating in solitary habits, youthful exc
 or infection, and terminating in local and constitutional weakness, nervous debility, me-  
 consum: &amp;c.,with plai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1845-01-18_15_491&#0036;3/pct:6.868932,82.569975,27.912621,3.117048/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_mining-journal_1845-01-18_15_491&#0036;3/pct:6.868932,82.569975,27.912621,3.117048/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4521,7 +4521,7 @@ consum: &amp;c.,with plai
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1845-01-25_3_4?page=22)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1845-01-25_3_4/page/n22/model/1up?view=theater)
 
 #### 1845-01-25 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -4539,7 +4539,7 @@ and we are certainly amazed at the prevalence and con-
 sequences of those evils it is his province to pourtray and  
 alleviate.” — Wakefield Journal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1845-01-25_3_4&#0036;22/pct:34.712441,74.268471,25.176056,5.413314/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_economist_1845-01-25_3_4&#0036;22/pct:34.712441,74.268471,25.176056,5.413314/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4575,7 +4575,7 @@ alleviate.” — Wakefield Journal.
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1845-02-01_3_5?page=22)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1845-02-01_3_5/page/n22/model/1up?view=theater)
 
 #### 1845-02-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -4602,13 +4602,13 @@ sequences of those evils it is his province to pourtray and
   
 alleviate.”— Wakefield Journal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1845-02-01_3_5&#0036;22/pct:62.323944,73.329702,25.205399,5.301380/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_economist_1845-02-01_3_5&#0036;22/pct:62.323944,73.329702,25.205399,5.301380/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-02-01_15_493?page=3)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-02-01_15_493/page/n3/model/1up?view=theater)
 
 #### 1845-02-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -4622,7 +4622,7 @@ disorders of the generative system, originating in solitary habits, youthful exc
 or infection, and terminating in local and constitutional weakness, nervous debility, me-  
 lJancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, &amp;c.,with plai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1845-02-01_15_493&#0036;3/pct:4.002947,73.266539,28.217092,2.989822/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_mining-journal_1845-02-01_15_493&#0036;3/pct:4.002947,73.266539,28.217092,2.989822/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4778,7 +4778,7 @@ lJancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, 
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-03-08_15_498?page=3)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-03-08_15_498/page/n3/model/1up?view=theater)
 
 #### 1845-03-08 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -4791,7 +4791,7 @@ disorders of the generative system, originating in solitary habits, youthful exc
 or infection, and terminating in local and constitutional weakness, nervous debility, me-  
 lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with plai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1845-03-08_15_498&#0036;3/pct:4.293425,73.425573,28.876349,2.639949/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_mining-journal_1845-03-08_15_498&#0036;3/pct:4.293425,73.425573,28.876349,2.639949/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5557,7 +5557,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-07-26_15_518?page=1)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-07-26_15_518/page/n1/model/1up?view=theater)
 
 #### 1845-07-26 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -5576,13 +5576,13 @@ ELF-PRESERVATION : A Popular Essay on those concealed
 disorders of the generative system, originating in solitary hahits, youthful excess,  
 terminating weakness, ner
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1845-07-26_15_518&#0036;1/pct:3.578384,82.029262,28.602726,4.468830/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_mining-journal_1845-07-26_15_518&#0036;1/pct:3.578384,82.029262,28.602726,4.468830/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-08-02_15_519?page=8)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-08-02_15_519/page/n8/model/1up?view=theater)
 
 #### 1845-08-02 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -5595,7 +5595,7 @@ ELF- PRESERVATION: A Popular Essay on those concealed
 disorders of the generative system, originating in solitary hahits, youthful excess,  
 es a oad terminating in local ete constitutional bape hae neigh eae me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1845-08-02_15_519&#0036;8/pct:5.990338,75.938295,28.115942,3.244275/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_mining-journal_1845-08-02_15_519&#0036;8/pct:5.990338,75.938295,28.115942,3.244275/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5621,7 +5621,7 @@ es a oad terminating in local ete constitutional bape hae neigh eae me
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-08-09_15_520?page=8)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-08-09_15_520/page/n8/model/1up?view=theater)
 
 #### 1845-08-09 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -5638,7 +5638,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 lancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, &amp;c.,with plain  
 directions for their treatment and cure. Iustrated with cases. By SAMUEL LA’MERT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1845-08-09_15_520&#0036;8/pct:7.163462,72.121501,28.197115,3.419211/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_mining-journal_1845-08-09_15_520&#0036;8/pct:7.163462,72.121501,28.197115,3.419211/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5674,7 +5674,7 @@ directions for their treatment and cure. Iustrated with cases. By SAMUEL LA’ME
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-08-16_15_521?page=8)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-08-16_15_521/page/n8/model/1up?view=theater)
 
 #### 1845-08-16 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -5688,7 +5688,7 @@ disorders of the generative system, originating in solitary hahits, youthful exc
 or infection, and terminating in local and constitutional weakness, nervous debility, me-  
 lancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, &amp;c.,with plai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1845-08-16_15_521&#0036;8/pct:5.954677,71.485369,28.109932,3.005725/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_mining-journal_1845-08-16_15_521&#0036;8/pct:5.954677,71.485369,28.109932,3.005725/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5714,7 +5714,7 @@ lancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, &
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-08-30_15_523?page=8)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-08-30_15_523/page/n8/model/1up?view=theater)
 
 #### 1845-08-30 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -5729,7 +5729,7 @@ or infection, and terminating in local and Pesca wregmad = Prager me
 Jancholy, inca , gonorrhea, syphilis, indigestion, insanity, consumption, &amp;c.,  
 directions for thely iveatmnent und cure’ Ilustrated with caves, By SAMUEL LA’MERT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1845-08-30_15_523&#0036;8/pct:5.255545,75.031807,28.037608,3.594148/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_mining-journal_1845-08-30_15_523&#0036;8/pct:5.255545,75.031807,28.037608,3.594148/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5765,7 +5765,7 @@ directions for thely iveatmnent und cure’ Ilustrated with caves, By SAMUEL LA�
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-09-06_15_524?page=12)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-09-06_15_524/page/n12/model/1up?view=theater)
 
 #### 1845-09-06 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -5783,7 +5783,7 @@ lancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, &
 directions for their treatment and cure. Illustrated with cases. SAMUEL LA T,  
 consulting surgeon, 9, Bedford-street, ry Member of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1845-09-06_15_524&#0036;12/pct:4.903846,73.870865,27.716346,3.975827/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_mining-journal_1845-09-06_15_524&#0036;12/pct:4.903846,73.870865,27.716346,3.975827/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5799,7 +5799,7 @@ consulting surgeon, 9, Bedford-street, ry Member of th
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-09-13_15_525?page=10)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-09-13_15_525/page/n10/model/1up?view=theater)
 
 #### 1845-09-13 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -5814,7 +5814,7 @@ disorders of the generative system, originating in solitary hahits, youthful exc
 or infection, and terminating in local and constitutional weakness, nervous debility, me-  
 &#x27; pore Loar mrp gonorrhea, syphilis, indigestion, insanity, consumption, &amp;c.,with plai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1845-09-13_15_525&#0036;10/pct:6.243902,70.356234,28.463415,3.451018/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_mining-journal_1845-09-13_15_525&#0036;10/pct:6.243902,70.356234,28.463415,3.451018/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5860,7 +5860,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1845-10-11_15_529?page=8)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-10-11_15_529/page/n8/model/1up?view=theater)
 
 #### 1845-10-11 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -5874,7 +5874,7 @@ disorders of the generative system, originating in solitary hahits, youthful exc
 or infection, and terminating in local and constitutional weakness, nervous debility, me-  
 , incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with plai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1845-10-11_15_529&#0036;8/pct:6.090998,70.069975,28.180039,3.053435/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_mining-journal_1845-10-11_15_529&#0036;8/pct:6.090998,70.069975,28.180039,3.053435/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6060,7 +6060,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1846-01-10_16_542?page=11)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1846-01-10_16_542/page/n11/model/1up?view=theater)
 
 #### 1846-01-10 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -6076,7 +6076,7 @@ disorders of the generativesystem, originating in solitary hahits, eXCeSS,
   
 or infection, and terminating in local and constitutional weakness, nervous ,me-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1846-01-10_16_542&#0036;11/pct:65.063477,72.462406,29.614258,2.521930/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_mining-journal_1846-01-10_16_542&#0036;11/pct:65.063477,72.462406,29.614258,2.521930/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6102,7 +6102,7 @@ or infection, and terminating in local and constitutional weakness, nervous ,me-
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1846-01-24_16_544?page=7)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1846-01-24_16_544/page/n7/model/1up?view=theater)
 
 #### 1846-01-24 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -6115,7 +6115,7 @@ to ON A Bi or 3s. 6d.
 ELF-PRESERVATION: A Popular Essay on those concealed  
 disorders of the generative system, originating in sol hahits,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1846-01-24_16_544&#0036;7/pct:66.039604,68.436717,29.108911,2.052005/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_mining-journal_1846-01-24_16_544&#0036;7/pct:66.039604,68.436717,29.108911,2.052005/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

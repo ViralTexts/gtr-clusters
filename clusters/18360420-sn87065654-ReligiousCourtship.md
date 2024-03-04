@@ -1,7 +1,7 @@
 
 # Religious Courtship
 
-### 250 reprints from 1803-12-31 to 1899-12-16
+### 239 reprints from 1803-12-31 to 1899-12-16
 
 ## [Religious Courtship](https://chroniclingamerica.loc.gov/lccn/sn87065654/1839-04-20/ed-1/seq-4/)
 
@@ -27,7 +27,7 @@ From the above interview the marriage took place the ensuing week.
 
 ---
 
-## [From _Weekly Visitor, or Ladies' Miscellany (1802-1806)_](https://iiif.archivelab.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1803-12-31_2_57?page=6)
+## [From _Weekly Visitor, or Ladies' Miscellany (1802-1806)_](https://archive.org/details/sim_ladys-miscellany-or-weekly-visitor_1803-12-31_2_57/page/n6/model/1up?view=theater)
 
 #### 1803-12-31 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -54,13 +54,13 @@ be full. 2 Epist. John, ver. 12.
 M B. Upon the above interview, the  
 marriage took filace the week following.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1803-12-31_2_57&#0036;6/pct:33.752677,29.214403,26.820128,21.419804/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1803-12-31_2_57&#0036;6/pct:33.752677,29.214403,26.820128,21.419804/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Lady's Weekly Miscellany (1806-1810)_](https://iiif.archivelab.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1809-04-15_8_25?page=11)
+## [From _Lady's Weekly Miscellany (1806-1810)_](https://archive.org/details/sim_ladys-miscellany-or-weekly-visitor_1809-04-15_8_25/page/n11/model/1up?view=theater)
 
 #### 1809-04-15 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -101,13 +101,13 @@ commandment unto thee, . but that
 which we. had. from the beginning,  
 thut we love one another.~—2 EP
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1809-04-15_8_25&#0036;11/pct:26.938657,11.714976,61.226852,74.114332/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1809-04-15_8_25&#0036;11/pct:26.938657,11.714976,61.226852,74.114332/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Lady's Weekly Miscellany (1806-1810)_](https://iiif.archivelab.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1809-04-15_8_25?page=11)
+## [From _Lady's Weekly Miscellany (1806-1810)_](https://archive.org/details/sim_ladys-miscellany-or-weekly-visitor_1809-04-15_8_25/page/n11/model/1up?view=theater)
 
 #### 1809-04-15 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -138,7 +138,7 @@ Upon the above interview, the
 marriage took place the week fol-  
 lowing.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1809-04-15_8_25&#0036;11/pct:59.085648,17.109501,28.993056,33.393720/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_ladys-miscellany-or-weekly-visitor_1809-04-15_8_25&#0036;11/pct:59.085648,17.109501,28.993056,33.393720/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ place tlic week following
 
 ---
 
-## [From _Christian Repository (1821-1824)_](https://iiif.archivelab.org/iiif/sim_circular_1823-07-11_2_66?page=2)
+## [From _Christian Repository (1821-1824)_](https://archive.org/details/sim_circular_1823-07-11_2_66/page/n2/model/1up?view=theater)
 
 #### 1823-07-11 &middot; [Wilmington](http://dbpedia.org/resource/Wilmington%2C_Delaware)
 
@@ -238,13 +238,13 @@ speak face to face.”
   
 From the above interview the marriage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_circular_1823-07-11_2_66&#0036;2/pct:7.496406,69.856268,20.188951,21.080649/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_circular_1823-07-11_2_66&#0036;2/pct:7.496406,69.856268,20.188951,21.080649/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Port folio /_](https://iiif.archivelab.org/iiif/sim_port-folio_1823-12_16_260?page=39)
+## [From _The Port folio /_](https://archive.org/details/sim_port-folio_1823-12_16_260/page/n39/model/1up?view=theater)
 
 #### 1823-12-01 &middot; [Philadelphia [Pa.]](http://dbpedia.org/resource/Philadelphia)
 
@@ -263,7 +263,7 @@ deati of thine husband: and how thou hast left thy father and thy
   
 mother, and the land of thy nativity, and art come unto a peopl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_port-folio_1823-12_16_260&#0036;39/pct:14.865690,62.213671,68.986569,12.277808/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_port-folio_1823-12_16_260&#0036;39/pct:14.865690,62.213671,68.986569,12.277808/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -378,7 +378,7 @@ place the ensuing wee
 
 ---
 
-## [From _The Escritoir : or Masonic and miscellaneous album._](https://iiif.archivelab.org/iiif/sim_escritoir-or-masonic-and-miscellaneous-album_1826-11-18_1_43?page=7)
+## [From _The Escritoir : or Masonic and miscellaneous album._](https://archive.org/details/sim_escritoir-or-masonic-and-miscellaneous-album_1826-11-18_1_43/page/n7/model/1up?view=theater)
 
 #### 1826-11-18 &middot; [Albany, N.Y.](http://dbpedia.org/resource/Albany%2C_New_York)
 
@@ -411,13 +411,13 @@ ink; but I trust to come unto you and speak face to
 face.” From the above interview, the marriage  
 look place the ensuing week. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_escritoir-or-masonic-and-miscellaneous-album_1826-11-18_1_43&#0036;7/pct:40.227396,62.995211,26.529507,22.094036/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_escritoir-or-masonic-and-miscellaneous-album_1826-11-18_1_43&#0036;7/pct:40.227396,62.995211,26.529507,22.094036/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Album and Ladies' Weekly Gazette (1826-1827)_](https://iiif.archivelab.org/iiif/sim_catholic-educational-review_1826-11-22_1_25?page=4)
+## [From _The Album and Ladies' Weekly Gazette (1826-1827)_](https://archive.org/details/sim_catholic-educational-review_1826-11-22_1_25/page/n4/model/1up?view=theater)
 
 #### 1826-11-22 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -471,13 +471,13 @@ into you and speak face to face.” From the a-
 bove interview the marriage took place the en-  
 suing week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_catholic-educational-review_1826-11-22_1_25&#0036;4/pct:61.718750,32.663690,27.140625,42.956349/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_catholic-educational-review_1826-11-22_1_25&#0036;4/pct:61.718750,32.663690,27.140625,42.956349/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _New York Telescope (1824-1828)_](https://iiif.archivelab.org/iiif/sim_new-york-telescope_1826-11-25_3_26?page=3)
+## [From _New York Telescope (1824-1828)_](https://archive.org/details/sim_new-york-telescope_1826-11-25_3_26/page/n3/model/1up?view=theater)
 
 #### 1826-11-25 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -510,7 +510,7 @@ with paper and ink; butI trust to come unto you
 and speak face to face.” Fromthe above inter-  
 view, the marriage took place the ensuing week.--
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-telescope_1826-11-25_3_26&#0036;3/pct:53.588645,46.623981,20.889127,16.395033/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-york-telescope_1826-11-25_3_26&#0036;3/pct:53.588645,46.623981,20.889127,16.395033/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -526,17 +526,7 @@ view, the marriage took place the ensuing week.--
 
 ---
 
-## Article 9 -- No Title
-
-#### From _Christian Advocate (1826-1827)_
-
-#### 1826-12-02 &middot; [Chicago](http://dbpedia.org/resource/Chicago)
-
-[This text is not available under an open license.]
-
----
-
-## [From _The Saturday evening post._](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1826-12-09_5_49?page=0)
+## [From _The Saturday evening post._](https://archive.org/details/sim_saturday-evening-post_1826-12-09_5_49/page/n0/model/1up?view=theater)
 
 #### 1826-12-09 &middot; [Philadelphia [Pa.]](http://dbpedia.org/resource/Philadelphia)
 
@@ -582,13 +572,13 @@ ou her tace, and bowed hervelf to the grown!
 and said unto hum, why bave | found grace mn  
 thine eyes, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1826-12-09_5_49&#0036;0/pct:49.733232,41.703794,14.424543,15.633860/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-evening-post_1826-12-09_5_49&#0036;0/pct:49.733232,41.703794,14.424543,15.633860/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Saturday evening post._](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1826-12-09_5_49_0?page=0)
+## [From _The Saturday evening post._](https://archive.org/details/sim_saturday-evening-post_1826-12-09_5_49_0/page/n0/model/1up?view=theater)
 
 #### 1826-12-09 &middot; [Philadelphia [Pa.]](http://dbpedia.org/resource/Philadelphia)
 
@@ -613,13 +603,13 @@ church ina pew adjoining one in which sat a
 you for whom he conceived « most  
 Sudden and violent passion, was desirous 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1826-12-09_5_49_0&#0036;0/pct:45.937962,42.532953,13.700148,8.207637/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-evening-post_1826-12-09_5_49_0&#0036;0/pct:45.937962,42.532953,13.700148,8.207637/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Masonic mirror, and mechanic's intelligencer._](https://iiif.archivelab.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51?page=4)
+## [From _Masonic mirror, and mechanic's intelligencer._](https://archive.org/details/sim_boston-masonic-mirror_1826-12-16_2_51/page/n4/model/1up?view=theater)
 
 #### 1826-12-16 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -632,18 +622,15 @@ was discovered, they only made use of one side of a happening to sit at church i
 page; they had not yet found out the expediency of in which sat a young lady for whom he conceived  
 I impressing the other. When their editions were a most sudden and violent passion, was desirous of  
   
-I intended to be curious, they omitted to print the entering into a courtship on the spot ; but the  
-  
-I first letter of a chapter, for which they left a blank place not suiting a foimal declaration, the exi-  
-spacc, that it might be painted or illuminated, at gency of the case suggested the following pla
+I intended to be curious, they omitted to print the entering into a courtship on the spot ; but th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51&#0036;4/pct:32.333068,10.436461,58.028617,7.600950/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51&#0036;4/pct:32.333068,10.436461,58.028617,5.537411/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Masonic mirror, and mechanic's intelligencer._](https://iiif.archivelab.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51?page=4)
+## [From _Masonic mirror, and mechanic's intelligencer._](https://archive.org/details/sim_boston-masonic-mirror_1826-12-16_2_51/page/n4/model/1up?view=theater)
 
 #### 1826-12-16 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -665,13 +652,13 @@ The first book printed in the English tongue was things to write unto you, I wou
   
 r i The Recuyel of ihe Historh of Troy, and dated i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51&#0036;4/pct:32.313196,22.966152,58.127981,10.688836/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51&#0036;4/pct:32.313196,22.966152,58.127981,10.688836/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Masonic mirror, and mechanic's intelligencer._](https://iiif.archivelab.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51?page=4)
+## [From _Masonic mirror, and mechanic's intelligencer._](https://archive.org/details/sim_boston-masonic-mirror_1826-12-16_2_51/page/n4/model/1up?view=theater)
 
 #### 1826-12-16 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -683,13 +670,13 @@ paper and ink ; but I trust to come unto yon and
 speak face to face.’*—From the above interview,  
 the marriage took place the ensuing week,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51&#0036;4/pct:63.056439,32.615796,27.424483,3.132423/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_boston-masonic-mirror_1826-12-16_2_51&#0036;4/pct:63.056439,32.615796,27.424483,3.132423/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Bowen's Boston News - Letter, and City Record (1825-1827)_](https://iiif.archivelab.org/iiif/sim_boston-news-letter-and-city-record_1826-12-16_2_24?page=1)
+## [From _Bowen's Boston News - Letter, and City Record (1825-1827)_](https://archive.org/details/sim_boston-news-letter-and-city-record_1826-12-16_2_24/page/n1/model/1up?view=theater)
 
 #### 1826-12-16 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -754,7 +741,7 @@ face.”—From the above interview |
 the marriage took place the ensuing  
 week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-news-letter-and-city-record_1826-12-16_2_24&#0036;1/pct:58.686131,78.706755,36.204380,5.415980/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_boston-news-letter-and-city-record_1826-12-16_2_24&#0036;1/pct:58.686131,78.706755,36.204380,5.415980/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -850,7 +837,7 @@ marriage took place the ensuing week
 
 ---
 
-## [From _Universalist Watchman, Repository and Chronicle (1831-1847)_](https://iiif.archivelab.org/iiif/sim_universalist-watchman-repository-and-chronicle_1832-06-23_4_9?page=7)
+## [From _Universalist Watchman, Repository and Chronicle (1831-1847)_](https://archive.org/details/sim_universalist-watchman-repository-and-chronicle_1832-06-23_4_9/page/n7/model/1up?view=theater)
 
 #### 1832-06-23 &middot; [Woodstock](http://dbpedia.org/resource/Woodstock%2C_Vermont)
 
@@ -884,7 +871,7 @@ to come unto you and speak face to face.” )
 From the above interview, the marriage took  
 place the ensuing week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_universalist-watchman-repository-and-chronicle_1832-06-23_4_9&#0036;7/pct:66.161928,29.953198,28.893696,23.673947/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_universalist-watchman-repository-and-chronicle_1832-06-23_4_9&#0036;7/pct:66.161928,29.953198,28.893696,23.673947/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -956,9 +943,9 @@ riage took place the ensuing week.
 
 ---
 
-## [From _Chambers' Edinburgh Journal 1832-1853_](https://iiif.archivelab.org/iiif/sim_chambers-edinburgh-journal_1834-12-06_3_149?page=7)
+## [From _Chambers' Edinburgh Journal 1832-1853_](https://archive.org/details/sim_chambers-edinburgh-journal_1834-12-06_3_149/page/n7/model/1up?view=theater)
 
-#### 1834-12-06
+#### 1834-12-06 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -989,7 +976,7 @@ ink: but I trust to come unto you, and speak face to
 face.” From the above interview, the marriage took  
 place the ensuing week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_chambers-edinburgh-journal_1834-12-06_3_149&#0036;7/pct:37.859712,59.190283,26.109113,17.145749/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_chambers-edinburgh-journal_1834-12-06_3_149&#0036;7/pct:37.859712,59.190283,26.109113,17.145749/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1036,16 +1023,6 @@ week.
 
 ---
 
-## A Religious Courtship
-
-#### From _Indiana journal._
-
-#### 1835-04-17 &middot; [Indianapolis [Ind.]](http://dbpedia.org/resource/Indianapolis)
-
-[This text is not available under an open license.]
-
----
-
 ## Miscellany
 
 #### From _The Scioto gazette._
@@ -1056,7 +1033,7 @@ week.
 
 ---
 
-## [From _The New - York Mirror: a Weekly Gazette of Literature and the Fine Arts (1823-1842)_](https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1835-05-16_12_46?page=7)
+## [From _The New - York Mirror: a Weekly Gazette of Literature and the Fine Arts (1823-1842)_](https://archive.org/details/sim_new-york-mirror-a-weekly-gazette-of-literature_1835-05-16_12_46/page/n7/model/1up?view=theater)
 
 #### 1835-05-16 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1082,7 +1059,7 @@ unto you, I would not write with paper and ink, but I trust to come
 unto you, and speak face to face, that our joy may be full.” From  
 the above interview a marriage took place the ensuing week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1835-05-16_12_46&#0036;7/pct:67.704082,62.462064,27.040816,13.258725/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1835-05-16_12_46&#0036;7/pct:67.704082,62.462064,27.040816,13.258725/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1093,16 +1070,6 @@ the above interview a marriage took place the ensuing week.
 #### From _The globe._
 
 #### 1835-05-21 &middot; [City of Washington [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
-
-[This text is not available under an open license.]
-
----
-
-## RECANTATIONS
-
-#### From _The Western Examiner, a Journal Embodying a Full and Impartial Enquiry into the Truth or Falsity of the Christian Religion; Whether Philosophically or Historically Viewed (1833-1835)_
-
-#### 1835-07-02 &middot; [St. Louis](http://dbpedia.org/resource/St._Louis)
 
 [This text is not available under an open license.]
 
@@ -1241,7 +1208,7 @@ took place the ensjing week.
 
 ---
 
-## [From _The New York State Mechanic, a Journal of the Manual Arts, Trades, and Manufactures (1841-1843)_](https://iiif.archivelab.org/iiif/sim_new-york-state-mechanic-a-journal-of-the-manual-arts_1842-01-08_1_7?page=5)
+## [From _The New York State Mechanic, a Journal of the Manual Arts, Trades, and Manufactures (1841-1843)_](https://archive.org/details/sim_new-york-state-mechanic-a-journal-of-the-manual-arts_1842-01-08_1_7/page/n5/model/1up?view=theater)
 
 #### 1842-01-08 &middot; [Albany](http://dbpedia.org/resource/Albany%2C_New_York)
 
@@ -1262,7 +1229,7 @@ but I trust to come unto you and speak face to face.”
 From the above interview, the marriage took place  
 the ensuing week, and the happy pair hired a chais
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-state-mechanic-a-journal-of-the-manual-arts_1842-01-08_1_7&#0036;5/pct:13.339022,54.399671,26.820250,10.546875/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-york-state-mechanic-a-journal-of-the-manual-arts_1842-01-08_1_7&#0036;5/pct:13.339022,54.399671,26.820250,10.546875/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1416,6 +1383,41 @@ and speak fece to face.&quot; From the above mler.
 view, the marriage took place the ensuing week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_alligator_ver01%2Fdata%2Fsn85042147%2F00296022603%2F1846051301%2F0507.jp2/pct:80.067204,86.240206,14.879032,6.096383/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Daily spy._](https://chroniclingamerica.loc.gov/lccn/sn83021203/1846-05-21/ed-1/seq-2)
+
+#### 1846-05-21 &middot; [Worcester [Mass.]](http://dbpedia.org/resource/Worcester%2C_Massachusetts)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Courtship is Church. A young gemlemau hap­  
+pening to sit al church in a few adjoining one in which  
+was a young lady lor whom he conceived a most sud­  
+den and violent passion, felt desirous of entering into a  
+&#x27;ourtship op the spot; but the place not suiting a formal  
+declaration, the exigency suggested the following text—  
+-2d Epistle of John, &#x27;verse sth : “ And now 1 beseech  
+ibee, lady, not as though I wrote a new commandment  
+unto thee, but dial we had from the beginning, that we  
+love one another.” Shu relumed it with ihe following—  
+-2d chapter of Ruth, 10th verse : “ Then she fell on her  
+face and bowed herself to the ground, and said unto him,  
+why have I found grace in thine eyes, that thou should­  
+*st take notice ofme, seeing lama stranger I” He  
+  
+returned-lbe book, pointing to the 3d Epistle of । lol»n :  
+‘ Having many things to write unto you, ; i n°k  
+write with paper and ink ; but I trust to come mil i&gt; you  
+and speak lace to face.”  
+From the above interview, the matriage took plawe the  
+ensuing week.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mb_circe_ver01%2Fdata%2Fsn83021203%2F00517172091%2F1846052101%2F0228.jp2/pct:12.230774,7.639562,39.633673,85.373034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1868,57 +1870,6 @@ suing week. |&lt;;
 
 ---
 
-## [From _The Council Bluffs nonpareil._](https://chroniclingamerica.loc.gov/lccn/sn84027096/1858-07-31/ed-1/seq-1)
-
-#### 1858-07-31 &middot; [Council Bluffs [Iowa]](http://dbpedia.org/resource/Council_Bluffs%2C_Iowa)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-A RBLIOIOrS COURTSHIP.  
-A young gentleman happening to sit at  
-church in a pew adjoining one in which sat  
-a young lady, for whom he conceived a sud­  
-den and violent pussiou, was desirous of en­  
-tering into a courtship ou the spot but the  
-  
-who had been the housekeeper for a score place not suiting a formal declaration, the  
-of years, with a faco radiant with smiles, exigency of the case suggested the followi
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84027096%2F00279529479%2F1858073101%2F0262.jp2/pct:37.679790,12.510701,22.435696,3.408826/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Council Bluffs nonpareil._](https://chroniclingamerica.loc.gov/lccn/sn84027096/1858-07-31/ed-1/seq-1)
-
-#### 1858-07-31 &middot; [Council Bluffs [Iowa]](http://dbpedia.org/resource/Council_Bluffs%2C_Iowa)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Then she fell on her face and bowed her­  
-self to the ground, and said unto him, why  
-have I found grace in thiae eyes, that thou  
-shouldst take knowledgo of roe, see that I  
-am a stranger  
-lie returned the book, pointing to th 12th  
-verse of the 3d Epistle of John  
-&quot;Having many things to write unto you, I  
-would not write with paper and ink, but  
-I trust to come unto you and speak face to  
-face.&quot;  
-  
-From tho abovo interview, a marriage  
-took place the following week.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84027096%2F00279529479%2F1858073101%2F0262.jp2/pct:48.976378,20.616390,11.023622,5.420655/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1859-04-29/ed-1/seq-1)
 
 #### 1859-04-29 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
@@ -1954,9 +1905,6 @@ t that which we hud trom the beginning, tha
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Religious CocRTsnip. A young gentleman  
-happening to sit at church in a pew adjoining  
-one in which sat a young lady for whom he  
 conceived a violent passion, was desirous of  
 entering into a courtship on the spot ; but the  
 place not suiting a formal declaration, the ex­  
@@ -1982,7 +1930,7 @@ speak face to face that our joy may be full.&quot;
 From the above interview a marriage took  
 place tho ensuing week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477783%2F1859070601%2F0425.jp2/pct:66.251729,67.803302,14.200092,13.436229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477783%2F1859070601%2F0425.jp2/pct:66.251729,69.286911,14.200092,11.952620/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2090,9 +2038,6 @@ the ensuing week
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-1 A young gentleman happening to .sit. at  
-church in a pew adjoining t one in which  
-sat a young lady for whom he conceived  
 a violent passion, was desirous of entering  
 into a courtship on the spot ; but the place  
 not suiting a formal declaration, the exigen­  
@@ -2108,7 +2053,7 @@ that which we had from the beginning
   
 that we love one another.&quot; She returned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_black_ver02%2Fdata%2Fsn84026561%2F00415667826%2F1859110201%2F0185.jp2/pct:56.527849,74.046893,12.327542,7.281738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_black_ver02%2Fdata%2Fsn84026561%2F00415667826%2F1859110201%2F0185.jp2/pct:56.527849,75.619520,12.327542,5.709112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2240,54 +2185,6 @@ the ensuing week.
 #### 1863-10-29 &middot; [[Milwaukee, Wis.]](http://dbpedia.org/resource/Milwaukee)
 
 [This text is not available under an open license.]
-
----
-
-## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1863-10-31/ed-1/seq-1)
-
-#### 1863-10-31 &middot; [Bridgeton, N.J.](http://dbpedia.org/resource/Bridgeton%2C_New_Jersey)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-e as I have provided gratis 1 What  
-will the wretches want next ?’ The Ro­  
-mans, therefore, who saw no joke iu sit­  
-ting round a table in the dark, went off  
-to bed as the darkness began. Everybody  
-did&#x27;so. Old Numa Pompilus himself was  
-obliged to trundle off in the dusk. Tar­  
-quinius may have been a very superb fel­  
-low; but I doubt whether he ever saw a  
-farthing rushlight. And though it may  
-be thought that plots and conspiracies  
-wouid flourish in such a eity of darkness,  
-it is to be considered that the conspirators  
-themselves had no more candles than hon­  
-est men; both partieswere in the dark.”  
-Religious Courtship.  
-A young gentlemen happening to sit  
-at church in a pew adjoining one in  
-which sat a young lady for whom he had  
-conceived a sudden aud violent passion,  
-  
-was uesirious oi entering into a courisnip  
-on the spot; but the place not suiting a  
-formal declaration, the exigency of the  
-case suggested the following plan : He  
-politely handed his fair neighbor a Bible  
-open, with a pin stuck in the following  
-text—Second Epistle of John, verse 5th:  
-“And now I beseech thee, lady, not as  
-though L wrote new commandment unto  
-thee, but that which we had from the be­  
-ginning. that we loue one another ” She  
-returned it, pointing to the second chap­  
-ter of Ruth, verso 10th—Then she fell  
-on her face, and bowed herself to th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340615%2F1863103101%2F0175.jp2/pct:70.982723,59.712038,12.729890,18.800827/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
@@ -2735,39 +2632,6 @@ had from the beginning, that we love one an*
 
 ---
 
-## [From _The Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn82015099/1864-01-16/ed-1/seq-1)
-
-#### 1864-01-16 &middot; [Shasta, Calif.](http://dbpedia.org/resource/Shasta%2C_California)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-A young gentleman happening to sit at  
-church in a pew adjoining one in which sat a  
-young lady tor whom he had conceived a sud­  
-den and violent passion, was desirous of en­  
-tering into courtship on the spot, but the  
-place not suiting a formal declaration, the  
-exigency of the case suggested the following  
-plan ; He politely handed his fair neighbor  
-a Bible open, with a pin stuck iq the follow  
-ing text, Seiond Epistle of John, verse sth,  
-“And now I beseech thee, lady, not as if I  
-wrote a new commandment unto thee, bqt  
-that we had from the beginning, that we love  
-one another.” She returned it, pointing to  
-the second chapter of IJuth, verse 10th :  
-“ Then she fell on her face and bowed herself  
-to the ground, and said unto bin), why have  
-I f &gt;un 1 grace in thine eyas, that thou shi.u’dst  
-take knowledge of me, seeing that I am 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn82015099%2F00279556665%2F1864011601%2F0470.jp2/pct:64.944612,59.725774,13.796576,9.462916/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1864-01-20/ed-1/seq-4)
 
 #### 1864-01-20 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
@@ -2797,7 +2661,7 @@ nerselt to the grour.d end said uat
 
 ---
 
-## [From _Louisville daily Democrat._](https://iiif.archivelab.org/iiif/xt7dbr8mgc04?page=0)
+## [From _Louisville daily Democrat._](https://archive.org/details/xt7dbr8mgc04/page/n0/model/1up?view=theater)
 
 #### 1864-02-09 &middot; [Louisville, Kentucky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
@@ -2820,7 +2684,7 @@ commandment unto thee, but that we had
 from the beginning, that we love one anoth-  
 r.&quot; She returned&#x27;it. poin ieg to the secoo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7dbr8mgc04&#0036;0/pct:83.582304,68.810102,12.295317,5.536668/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7dbr8mgc04&#0036;0/pct:83.582304,68.810102,12.295317,5.536668/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2996,6 +2860,32 @@ place the ensuing week
 
 ---
 
+## From _Vermont watchman and State journal._
+
+#### 1866-08-17 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+How ro Cowar is Cneacit.A young  
+gentleman happening to sit at church in a pew  
+adjoining one in which sat a young lady for  
+whom he conceived a sudden and violent pass  
+ion, was desirous of entering into a court.  
+hip on the spot; but the place not suiting  
+a formal declaration, the exigency of the case  
+suggested the following plan: He politely  
+l handed his far neigabr a Bible opened with  
+a pin stuck in the following text: Second  
+ kpistle of John, verse fifth:&quot;And now I  
+beseech the, lady, not as though I wrote a  
+ new commandment unto thee, but that which  
+Fwe had from the begiuning, th t we love one  
+other.&quot; She returned it, pointing to th
+</td></tr></table>
+
+---
+
 ## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1866-09-14/ed-1/seq-1)
 
 #### 1866-09-14 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
@@ -3164,50 +3054,6 @@ above interview a marriage took place
 the ensuing week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_lyle_ver01%2Fdata%2Fsn84026851%2F00514157844%2F1866092001%2F0425.jp2/pct:39.027982,29.839809,17.973736,29.009032/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1867-02_34_201?page=111)
-
-#### 1867-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-For instance, a young gentleman happened to  
-sit at church in a pew adjoining one in which  
-sat a young lady for whom he conceived a sud-  
-den and violent passion, and was desirous of  
-entering into a courtship on the spot; but the  
-place not favoring a formal declaration, the ex-  
-igency of the case suggested the following plan:  
-he politely handed his fair neighbor a Bible  
-opened, with a pin stuck in the following text:  
-  
-“And now I beseech thee, lady, not as though I  
-  
-  
-  
-  
-  
-wrote a new commandment unto thee, but that which  
-we had from the beginning, that we love one another.”  
-  
-She returned it, pointing to the verse in Ruth :  
-  
-“Then she fell on her face, and bowed herself to the  
-ground, and said unto him, Why have I found grace  
-in thine eyes, seeing I am a stranger?&quot;  
-  
-He returned the book, pointing to the follow-  
-ing:  
-  
-‘Having many things to write unto you, I would  
-not with paper and ink: but I trust to come unto you
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1867-02_34_201&#0036;111/pct:51.575677,77.491601,34.975588,11.926092/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3477,13 +3323,6 @@ herself to the ground and said to him :
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Hon- to Court in Chnrch. -  
-A young gentleman happening to sit  
-at church in a pew adjoining one in  
-which sat a young lady for whom he con--ceived  
-a sudden and violent -attachment  
-was desirous of entering into a courtship  
-on the spot, but the place not being suit,  
 able for a formal declaration, the case  
 suggertctf the fHdwing plan.  
 He polkcly handed his fair aelghbor a  
@@ -3503,7 +3342,7 @@ He returned the book, pointing to theV
 thirteenth chapter of the Third Epistle  
 of John : &quot;Having many things to write 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027443%2F1869021601%2F0109.jp2/pct:85.157927,75.925508,11.238884,12.178330/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027443%2F1869021601%2F0109.jp2/pct:85.157927,79.446953,11.177553,8.656885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3516,14 +3355,6 @@ of John : &quot;Having many things to write
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-How to Cotjrt in Church A  
-young gentleman happening to sit  
-at church in a pew adjoining one in  
-which sat a young lady, for whom  
-he conceived a sudden and violent  
-attachment, was desirous of enter­  
-ing into a courtship, but the place  
-not being suitable for a formal dec  
 laration, the case suggested the  
 following plan  
 He politely handed his fair neigh­  
@@ -3553,7 +3384,7 @@ our joy may be full &quot;
 F.ora the above interview a mar­  
 riage took place recently
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn85038238%2F00296028824%2F1869030401%2F0260.jp2/pct:49.025487,13.663023,11.111111,18.541722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn85038238%2F00296028824%2F1869030401%2F0260.jp2/pct:49.025487,17.888563,11.094453,14.316182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3566,11 +3397,6 @@ riage took place recently
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-ago happening to lit at churcb, in a pew ad­  
-joining one in which sat a young lady for  
-whom he conceived a sudden and violent at­  
-tachment. was desirous of entering into a  
-Courtship on the spot, but the place not being  
 suitable for a formal declaration, the case  
 suggesting the following plan. He politely  
 handed his fair neighbors Bible opened, with  
@@ -3593,27 +3419,19 @@ John-.—&quot;Having many things to write unto
 From the above interview a marriage took  
 place the ensuing week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028575%2F1869102901%2F0626.jp2/pct:15.310734,80.332627,11.407293,12.971680/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028575%2F1869102901%2F0626.jp2/pct:15.310734,82.874402,11.407293,10.429905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Weekly Maysville eagle._](https://iiif.archivelab.org/iiif/xt7b2r3nzd11?page=3)
+## [From _The Weekly Maysville eagle._](https://archive.org/details/xt7b2r3nzd11/page/n3/model/1up?view=theater)
 
 #### 1870-02-16 &middot; [Maysville, Ky.](http://dbpedia.org/resource/Maysville%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-to Court In H111r. l1.  
-  
-A young gentleman happening to ait Bt  
-church in a pew adjoining one in which sat  
-a young lady for whom he conceived a sud-  
-den and ardent attachment, was desirous of  
-entering into a courtship on the spot, but the  
-place not being suitable for a formal declara-  
 tion, the case suggested the following plan:  
   
 He politely handed his fair neighbor a Bi-  
@@ -3646,7 +3464,7 @@ to face.&quot;
 From the above interview a marriage took  
 place.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7b2r3nzd11&#0036;3/pct:31.278417,81.654089,12.142284,15.959617/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7b2r3nzd11&#0036;3/pct:31.278417,85.488476,12.088794,12.125229/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3659,23 +3477,6 @@ place.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-How to Court is Church. A young  
-gentleman happening to sit at church in  
-a pew adjoining one in which sat a  
-young lady for whom he conceived a  
-sudden and violent attachment, was de  
-sirous of entering into a courtship on  
-the spot, but the place not being suita  
-ble for a formal declaration, Uia case  
-suggested the following plan : &quot;  
-lie politely handed his fair neighbor  
-a Bible, opened, with a pin stuck in the  
-following text, second Lpistle of John,  
-verse o:  
-&quot;And now I beseech thee, lady, not a  
-though I wrote a aew commandment  
-an to thee, but that which we had from  
-tbe begiuning, that we love oneanother.&quot;.-.  
 -  
 She returned it, pointing to tbe sec  
 ond chapter of Kuth, tenth verse :  
@@ -3694,7 +3495,7 @@ thee, and we shall speak face to face.&quot;
 J rom tbe above interview a marriage  
 took place. -..v 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn82016419%2F00212472955%2F1870022501%2F0508.jp2/pct:65.646569,81.676435,9.701784,13.225699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn82016419%2F00212472955%2F1870022501%2F0508.jp2/pct:65.646569,88.455159,9.558536,6.446976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3707,15 +3508,6 @@ took place. -..v
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-How to Court in Church.  
-  
-A young gentleman happening to  
-sit at church in a pew adjoining one  
-in which sat a young lady for whom  
-he conceived a sudden and violent at.  
-tachment, was desirous of entering  
-into a courtship on the spot, but the  
-place not bjing suitable for a formal  
 declaration, the case suggested the  
 following plan:  
 He politely handed his fair neigh­  
@@ -3740,7 +3532,7 @@ the thirteenth and fourteenth verses
 of the Third Epistle of John:  
 I had many things to write unt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286868%2F1870030201%2F0513.jp2/pct:53.360299,70.398987,9.520846,15.680811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286868%2F1870030201%2F0513.jp2/pct:53.360299,74.464851,9.520846,11.614946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3753,13 +3545,6 @@ I had many things to write unt
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-lion 1 to Court in Church. —A young  
-gentleman happening to sit at a church in  
-a pew adjoining one in which sat a young  
-lady for whom he conceived a sudden and  
-violent attachment, was desirous of enter­  
-ing into a courtship on the spot, but the  
-place not being suitable for a formal de­  
 claration, the case suggested the following  
 plan :  
 He politely handed his fair neighbor a  
@@ -3787,7 +3572,7 @@ we shall speak face to face.&quot;
 From the above interview a marriage  
 took place
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_bombarda_ver01%2Fdata%2Fsn84026820%2F00271765265%2F1870040901%2F0495.jp2/pct:70.138889,50.705645,12.023810,18.800403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_bombarda_ver01%2Fdata%2Fsn84026820%2F00271765265%2F1870040901%2F0495.jp2/pct:70.138889,54.670699,12.023810,14.835349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3800,11 +3585,6 @@ took place
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-i  
----  
-A young gentleman happening to sit  
-at church in a pew adjoining one in  
-which sat a young lady for whom he  
 conceived a violent passion was desirous  
 of entering into courtship npou the spot;  
 but the plnce not suiting a formal de­  
@@ -3833,7 +3613,7 @@ that our joy may be lull. From the above
 Interview a marriage took placo the en­  
 sueing week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033386%2F00200293873%2F1871031701%2F0321.jp2/pct:25.978501,57.462203,9.853914,12.149028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033386%2F00200293873%2F1871031701%2F0321.jp2/pct:25.978501,59.071274,9.853914,10.539957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3968,7 +3748,7 @@ following week
 
 ---
 
-## [From _Tri-weekly Kentucky yeoman._](https://iiif.archivelab.org/iiif/xt7pc824f173?page=0)
+## [From _Tri-weekly Kentucky yeoman._](https://archive.org/details/xt7pc824f173/page/n0/model/1up?view=theater)
 
 #### 1871-04-11 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
@@ -3995,7 +3775,7 @@ ink, but I trust to come unto you, and speak
 face to face. &quot;&quot; From the above Interview, the  
 marriage took place the following week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7pc824f173&#0036;0/pct:19.836735,14.544180,14.244898,8.863955/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7pc824f173&#0036;0/pct:19.836735,14.544180,14.244898,8.863955/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4117,13 +3897,6 @@ ing wees
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Courting in Church.—A young gen­  
-tleman happened to sit at church in the  
-pew adjoining one in which sat a young  
-lady, for whom he conceived a sudden and  
-violent passion, felt desirsus of entering  
-into courtship on the spot, but the place  
-not being suitable for a formal declaration,  
 the exigency suggested the following plan:  
 He politely handed his neighbor a Bible,  
 open, with a pin stuck in the following  
@@ -4146,7 +3919,7 @@ speak face to face.” From the above in­
 terview the marriage took place the follow­  
 ing week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn82015099%2F00279556690%2F1871050601%2F0074.jp2/pct:41.736746,54.814086,12.655393,15.242909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn82015099%2F00279556690%2F1871050601%2F0074.jp2/pct:41.736746,58.596825,12.655393,11.460171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4464,7 +4237,7 @@ following week
 
 ---
 
-## [From _Christian Union (1870-1893)_](https://iiif.archivelab.org/iiif/sim_new-outlook_1873-06-25_7_26?page=12)
+## [From _Christian Union (1870-1893)_](https://archive.org/details/sim_new-outlook_1873-06-25_7_26/page/n12/model/1up?view=theater)
 
 #### 1873-06-25 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4476,7 +4249,7 @@ drawn. Then she bowed herself and said: Why have
 I found grace in thine eyes that thou shouldst take  
 knowledge of me, seeing I am a stranger? And h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1873-06-25_7_26&#0036;12/pct:35.306554,87.738620,26.400634,3.010279/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-outlook_1873-06-25_7_26&#0036;12/pct:35.306554,87.738620,26.400634,3.010279/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4607,32 +4380,6 @@ following week
 #### 1879-09-08 &middot; [St. Louis [Mo.]](http://dbpedia.org/resource/St._Louis)
 
 [This text is not available under an open license.]
-
----
-
-## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1879-09-10/ed-1/seq-1)
-
-#### 1879-09-10 &middot; [Watertown, Wis.](http://dbpedia.org/resource/Watertown%2C_Wisconsin)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-the spot, and the exigency of the case  
-suggested the following plan; He polite­  
-ly handed his fair neighbor a Bible, open  
-with a pin stuck in the following text—  
-second Epistle of John, verse 5 —“And  
-now I beseech thee, lady,not as though I  
-wrote anew commandment, unto thee,  
-but that which we had in the beginning,  
-that we love one another-” She return­  
-ed it, pointing to the second chapter df  
-Ruth, verse 10—“Then she fell on her  
-face and bowed herself to the ground an
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00279550018%2F1879091001%2F0545.jp2/pct:77.486522,50.753340,14.296338,6.459459/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
@@ -5083,31 +4830,7 @@ a marriage took place
 
 ---
 
-## [HOME NEWS FROM A FRENCH POINT OF VIEW. (FROM OUR OWN CORRESPONDENT.) PARIS, 10th April.](http://trove.nla.gov.au/ndp/del/article/88884468)
-
-#### From _Bendigo Advertiser (Vic. : 1855 - 1918)_
-
-#### 1880-05-29 &middot; [Bendigo, Victoria](http://dbpedia.org/resource/Bendigo)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-courtship on \,ho spot, and the exigency  
-of the case suggested the following  
-plan. He politely handed his fair  
-neighbor a Bible open, with a piu stuck  
-iu the following text—second epistle of  
-John, verso fifth:—&quot;And now I  
-heaeechthee, lady, not as though I wrote  
-a now commandment unto thee, but that  
-which we had in the beginning, that we  
-love one another.&quot; Sho returned it,  
-pointing to tho second chapter of Ruth
-</td></tr></table>
-
----
-
-## [From _National police gazette._](https://iiif.archivelab.org/iiif/sim_national-police-gazette_1880-11-27_37_166?page=9)
+## [From _National police gazette._](https://archive.org/details/sim_national-police-gazette_1880-11-27_37_166/page/n9/model/1up?view=theater)
 
 #### 1880-11-27 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
@@ -5142,7 +4865,7 @@ trust to come unto you, and speak face to face.”
 From the above iuterview the marriage took place  
 the following week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_national-police-gazette_1880-11-27_37_166&#0036;9/pct:53.996925,10.902062,39.642583,82.500000/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_national-police-gazette_1880-11-27_37_166&#0036;9/pct:53.996925,10.902062,39.642583,82.500000/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5186,7 +4909,7 @@ took place the ensuing month in th
 
 ---
 
-## [From _The American Magazine 1884-1888_](https://iiif.archivelab.org/iiif/sim_american-magazine_1886-02_3_5?page=38)
+## [From _The American Magazine 1884-1888_](https://archive.org/details/sim_american-magazine_1886-02_3_5/page/n38/model/1up?view=theater)
 
 #### 1886-02-01 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -5225,7 +4948,7 @@ to face, that our joy may be full.” From
 the above interview a marriage took place  
 the ensuing week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-magazine_1886-02_3_5&#0036;38/pct:48.162939,22.318436,34.704473,39.581006/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_american-magazine_1886-02_3_5&#0036;38/pct:48.162939,22.318436,34.704473,39.581006/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5367,6 +5090,52 @@ interview a marriage took place the
 ensuing week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479792%2F1886072101%2F0341.jp2/pct:63.507090,69.405739,10.802393,15.212827/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Bill Barlow's budget._](https://chroniclingamerica.loc.gov/lccn/sn92067125/1886-12-29/ed-1/seq-3)
+
+#### 1886-12-29 &middot; [Douglas, Converse County, Wyo.](http://dbpedia.org/resource/Douglas%2C_Wyoming)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+A Courtship by Means of a llible Text.  
+A young gentleman happening to sit  
+at church in a pew adjoining one in  
+w hich sat a young lady, for w hom he  
+conceived a sudden and violent passion,  
+was desirous of entering into a court­  
+ship on the spot; but the place not  
+suiting a formal declaration, the  
+exigency of the case suggested the fol­  
+lowing plan: He politely handed his  
+fair neighbor a Bible (open) with a pin  
+stuck in the following text: Second  
+Epistle of John, verso fifth—“ And now  
+I beseech thee, lady, not as though I  
+wroto a new commandment unto theo  
+but that which we had from the be­  
+ginning, that wo love one another.”  
+She returned it, pointing to the fiecoud  
+chapter of Ruth, verse tenth—“ Then  
+she fell on her face, and bow ed herself  
+to the ground, and said unto him, ‘Why  
+have I found grace in thine eyes, that  
+thou shouldst take knowledge of me,  
+seeing that lam a stranger?” He re­  
+turned the book, pointing to the  
+thirteenth verse of the Third Epistle  
+of John—“ Having many things to W’rito  
+unto you, I would not writo with paper  
+and ink, but I trust to como unto you,  
+and speak faco to face, that our joy may  
+be full.” From the above interview&#x27; a  
+marriage took place the ensuing week
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wyu_ginsberg_ver01%2Fdata%2Fsn92067125%2F00517179693%2F1886122901%2F0245.jp2/pct:64.005659,74.175371,14.766909,17.202675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5554,40 +5323,6 @@ view a marriage took place the ensuing
 week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_imbe_ver01%2Fdata%2Fsn98062948%2F00340581064%2F1887071401%2F1397.jp2/pct:69.637176,7.091931,10.702924,15.540227/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _River Falls journal._](https://chroniclingamerica.loc.gov/lccn/sn85033255/1887-07-14/ed-1/seq-3)
-
-#### 1887-07-14 &middot; [River Falls, Pierce County, Wis.](http://dbpedia.org/resource/River_Falls%2C_Wisconsin)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-An exchange relates that a young  
-gentleman happening to sit at church  
-in a pew adjoining one in which sat a  
-young lady, for whom he conceived a  
-sudden and violent passion, was desir­  
-ous of entering into a courtship oti the  
-s[&gt;ot, but the place not suiting a forma  
-declaration the exigency of the case  
-suggested the following plan: lit­  
-politely handed his fair neighbor a Bible  
-(ojH-ii) with a pin stuck in the follow­  
-ing text. Second Epistle of St. John,  
-verse 5: “And now 1 beseec-li thee, lady,  
-not as though 1 wrote a new coniinuiul­  
-ineiit unto thee, but that which we had  
-from the beginning, that we love one  
-another.” She returned it, pointing  
-to the second chapter of Ruth, verse  
-20: —Then she fell on her face, and  
-bowed herself to the ground, and sai
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_galky_ver01%2Fdata%2Fsn85033255%2F00514152512%2F1887071401%2F0321.jp2/pct:74.132974,6.471105,9.550764,9.481433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5914,84 +5649,6 @@ cook place the ensuing week.
 
 ---
 
-## [From _The DeSmet leader._](https://chroniclingamerica.loc.gov/lccn/sn00065129/1887-07-30/ed-1/seq-2)
-
-#### 1887-07-30 &middot; [DeSmet, Kingsbury Co., Dakota [S.D.]](http://dbpedia.org/resource/De_Smet%2C_South_Dakota)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-An exchange relates that a young  
-gentleman happening to sit at church \
-in a pew adjoining one »n which sat a  
-young lady, for whom he conceived a  
-sudden and violent passion, was desir­  
-ous of enterinc into courtship on the  
-spot, but tho place not suiting a form­  
-al declaration, theexigericy of the case  
-suggested the following plan: He po­  
-litely handed his fair neighbor a Bible  
-(open) with a pin stuck in the follow­  
-ing text, Second Epistle of St. John,  
-verse fifth: “And now 1 beseech thee, j  
-lady, not as though I wrote a new  
-commandmeut unto thee, but that  
-which we had from the beginning, that  
-we love one another.” She returned  
-It, pointing to the second chapter of  
-Ruth, verse tenth—&quot; Then she fell on  
-her face, and bowed herself to th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_banana_ver02%2Fdata%2Fsn00065129%2F00279522850%2F1887073001%2F0964.jp2/pct:86.665088,73.407868,11.601926,9.031347/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [MISCELLANY.](http://trove.nla.gov.au/ndp/del/article/142444810)
-
-#### From _The Australasian (Melbourne, Vic. : 1864 - 1946)_
-
-#### 1887-09-24 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-minit&quot;—Arkansaw traveller. Courtship in  
-Church.—A young gentleman happening  
-toslt at church in a pow &gt;001010101 one  
-in whtoh sat. a young lady, for whom no  
-con colvcd a sudden and violent passion,  
-was desirous of entering into a  
-courtship on tho spot, hut the place not  
-suiting a formal declaration, tho  
-exigency of the case suggested the  
-following plan : He politely handed his  
-fair neighbour a Bible (open) with a pin  
-stuck lu the following text, Second  
-Epistle of St John, verse 5 —&quot; And now I  
-beseech thee, lady, not as though I  
-Wrote a new commandment unto thee, but  
-that which wc had from the beginning,  
-that we love one another.&quot; fclie  
-returned It, pointing. to the second  
-chapter of Ruth, verse 10—&quot;Then she.  
-fell on her face, and bowed herself to  
-the ground, and said unto him—&#x27; Why have  
-I found grace in thine eyes, that thou  
-should&#x27;st take knowledge ot mo, &#x27;seeing  
-1 am a stranger?&#x27;&quot; He returned the hook,  
-pointing (0 the 13th verse,of the Thinl  
-Kplstlo of John—&#x27;*1 hkd; lu&#x27;any things  
-to write. I will not with pen and Ink  
-write unto, thee, hut I trust I shall  
-shortly see thee,&#x27; and wc shall speak  
-face to face.&quot; From tho above interview  
-a marriage took place the ensuing week
-</td></tr></table>
-
----
-
 ## [MISCELLANEOUS.](http://trove.nla.gov.au/ndp/del/article/97333560)
 
 #### From _Northern Argus (Clare, SA : 1869 - 1954)_
@@ -6030,40 +5687,6 @@ had many things to write. I will not
 with pen and ink write unto thee, and we  
 shall speak face to face.&#x27; From the  
 above interview a marriage took plac
-</td></tr></table>
-
----
-
-## [Wit and Humour.](http://trove.nla.gov.au/ndp/del/article/92866232)
-
-#### From _South Australian Weekly Chronicle (Adelaide, SA : 1881 - 1889)_
-
-#### 1887-10-22 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-young gentleman happening to sit at  
-church in a pew adjoining one in which  
-sat a young lady, for whom he conceived  
-a sudden, and violent passion, was  
-desirous of entering iato a couitEhip on  
-the spot, but the place not Euiting a  
-formal declaration the exigency of the  
-case suggested the following plan : — He  
-politely hand ed his fair neighbor a  
-Bible (open) with a pin . stnek in the  
-following text. Second Epistle of St.  
-John, verse 5— &#x27;And now I beseech thee,.  
-lady, cot aB though I wrote a new  
-commandment unto thee, but that which we  
-had from, the beginning, that we love  
-one another.&#x27; She- . returned it,  
-pointing to the second chapter of Entb,  
-veiBe 10— &#x27;Then she fell on her face and  
-bowed herself to the ground, and said  
-onto him. — -* Why have I found grace in  
-thine eyes, that t hon should&#x27;Bt tak
 </td></tr></table>
 
 ---
@@ -6139,49 +5762,6 @@ wOek
 
 ---
 
-## [The Morning Bulletin, ROCKHAMPTON. FRIDAY, DECEMBER 23, 1887. OPENING THE CAMPAIGN.](http://trove.nla.gov.au/ndp/del/article/52072029)
-
-#### From _Morning Bulletin (Rockhampton, Qld. : 1878 - 1954)_
-
-#### 1887-12-23 &middot; [Rockhampton, Queensland](http://dbpedia.org/resource/Rockhampton)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-young gentleman happening to sit at  
-church in a pew adjoining one in which  
-sat a young lady, for whom he conceived  
-a cadden and violent passion, waa  
-desirous of enteringinto a conrtshipon  
-the spot» but the place not suiting a  
-formal declaration, the exigency of the  
-case suggested the following plan ? He  
-politely handed his fdr neighbour a  
-Bible (open) with a pin atook ira the  
-following text, Second Epistle of St.  
-John» verse 6-&#x27; And now 1 beseech thee,  
-lady, nob as though I wrote a new  
-commandment unto thee, but that which we  
-bad from the be-ginning, that we love  
-one another.* Sh» returned it, pointing  
-to the second chapter of Ruth, verse  
-10-&#x27; Then she fell on her face, and  
-bowed herself to the ground, and said  
-unto him, why have I found grace lu  
-thine, eyes, that thou ahouldst take  
-knowledge of me, seeing I am a stranger  
-F He returned the book, pointing to the  
-13th verse of the Third Epistle of  
-John-&#x27; I had many things to write. I  
-will not with pen and ink write unto  
-thee, but I trust I shall shortly see  
-thee, and we shall speak face to face.&#x27;  
-From the above interview a marriage took  
-place tho ensuing week.&quot; The lesson o
-</td></tr></table>
-
----
-
 ## [Current Notes.](http://trove.nla.gov.au/ndp/del/article/65743919)
 
 #### From _The Capricornian (Rockhampton, Qld. : 1875 - 1929)_
@@ -6235,19 +5815,6 @@ thf ensiling week.&#x27; The lesson of th
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-chief had arrived. A young gentleman  
-happening to sit at church in a pew  
-adjoining one in which sat a young lady,  
-for whom he conceived a sudden and  
-violent passion, was desirous of  
-entering into a courtship on the spot,  
-but the place not suiting a formal  
-declaration; tho exigency of the case  
-suggested the following plan : He  
-politely handed his fair neighbour a  
-Bible (open) with a pin stuck in tbe  
-following text: — Second Epistlo of St.  
-John, verse 5: &#x27; And now &#x27; I&#x27; beseech  
 thee, lady, not as though I wrote a new  
 commandment unto thee, bnt that which we  
 had from tho beginning, that we love ono  
@@ -6452,7 +6019,7 @@ week. -,
 
 ---
 
-## [From _The Ladies' Home Journal (1889-1907)_](https://iiif.archivelab.org/iiif/sim_ladies-home-journal_1891-01_8_2?page=1)
+## [From _The Ladies' Home Journal (1889-1907)_](https://archive.org/details/sim_ladies-home-journal_1891-01_8_2/page/n1/model/1up?view=theater)
 
 #### 1891-01-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -6512,7 +6079,7 @@ Epistle of John—* Having many things to
 write unto you,  
 and ink, but I trust to come unto you, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladies-home-journal_1891-01_8_2&#0036;1/pct:30.367293,11.911232,20.616528,55.344203/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_ladies-home-journal_1891-01_8_2&#0036;1/pct:30.367293,11.911232,20.616528,55.344203/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6636,6 +6203,54 @@ the marriage took place the. ensuing
 week. The Metropo&#x27;b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_india_ver01%2Fdata%2Fsn85038161%2F00237289419%2F1891021201%2F0207.jp2/pct:78.056156,45.808019,14.881210,11.436817/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Osceola times._](https://chroniclingamerica.loc.gov/lccn/sn84022982/1891-02-14/ed-1/seq-1)
+
+#### 1891-02-14 &middot; [Osceola, Ark.](http://dbpedia.org/resource/Osceola%2C_Arkansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Courtship in Church.  
+A young gentleman happened to  
+sit in church in a pew adjoining one  
+in which sat a young lady, for whom  
+ho conceived a sudden and violent  
+passion, was desirous of entering in­  
+to a courtship on the spot; but the  
+place not suiting a formal declaration  
+the exigency of the case suggested  
+the following plan: Ho politely  
+handed his fair neighbor a Bible (o­  
+pen) with a pin stuck in the following  
+text: Second Epistle of John, verse  
+fifth—“ And now I beseech thee, la­  
+dy, not as though I wrote a new  
+commandment unto thee, but that  
+which we had from the beginning,  
+that we love one another.” She re­  
+turned it pointing to the second chap­  
+ter ot Ruth, verse tenth. “Then she  
+fell on her face and bowed herself to  
+the ground, and said unto him, Why  
+have I found grace in thine eyes,  
+that thou shouldst take knowledge  
+of me, seeing that 1. am a stranger?”  
+He returned tho book, pointing  
+the thirteenth verso of the Third  
+Epistle of John -“Har&#x27; ig many  
+things to write unto you, I would not  
+write with paper and ink, but I trust  
+to come unto you, and speak face to  
+face, that our joy may he full.” .rom  
+the above interview a marriage took  
+place the ensuing week
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_hubble_ver01%2Fdata%2Fsn84022982%2F00513688660%2F1891021401%2F0427.jp2/pct:29.315891,56.086336,12.288226,20.192562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7159,7 +6774,7 @@ coming week. Scottish American
 
 ---
 
-## [From _Saturday Night 1986-2005_](https://iiif.archivelab.org/iiif/sim_saturday-night_1895-09-21_8_44?page=8)
+## [From _Saturday Night 1986-2005_](https://archive.org/details/sim_saturday-night_1895-09-21_8_44/page/n8/model/1up?view=theater)
 
 #### 1895-09-21 &middot; [Toronto, Canada](http://dbpedia.org/resource/Toronto)
 
@@ -7227,7 +6842,7 @@ to come unto you and speak face to face.”
 From the above interview the marriage took  
 place the coming week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-night_1895-09-21_8_44&#0036;8/pct:6.714313,14.060338,48.899756,78.245226/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-night_1895-09-21_8_44&#0036;8/pct:6.714313,14.060338,48.899756,78.245226/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

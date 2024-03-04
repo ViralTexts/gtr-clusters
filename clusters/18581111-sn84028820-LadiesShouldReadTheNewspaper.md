@@ -1,7 +1,7 @@
 
 # Ladies Should Read the Newspaper
 
-### 220 reprints from 1846-10-21 to 1896-11-26
+### 223 reprints from 1846-10-21 to 1896-11-26
 
 ## [Ladies Should Read the Newspaper](https://chroniclingamerica.loc.gov/lccn/sn84028820/1858-11-11/ed-1/seq-4/)
 
@@ -260,7 +260,48 @@ it they are left in the book store, mid the tabl
 
 ---
 
-## [From _The flag of our Union._](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-05-23_12_21?page=4)
+## [From _Monmouth weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn83032308/1857-02-26/ed-1/seq-1)
+
+#### 1857-02-26 &middot; [Freehold, N.J.](http://dbpedia.org/resource/Freehold_Township%2C_New_Jersey)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Why Ladies Should Read News­  
+papers.  
+It is a great mistake in female educa­  
+tion, to keep a ydung lady&#x27;s time and at  
+tendon devoted only to the fashionable  
+literature of the day. If you would qual­  
+ify her for conversation, you must give  
+her something to talk about—give her an  
+education with this actual world and its  
+transpiring events: Urge her to read  
+newspapers and be familiar with the pres­  
+ent character and improvements of our  
+race. History is of some importance; hut  
+the past world is dead, and we have noth  
+ing to do with it. (jur thoughts and our  
+concerns should be tor the present world,  
+to know what it is, and improve the con­  
+dition of it. Let her have p.n intelligent  
+opiuion, attd be able to sustain an iutelli  
+gent conversation concerning the mental,  
+moral, political and religious improve­  
+ment of our times. Let the gilded an­  
+nuls and poems, on the centre table be  
+kept a part of the time covered with the  
+weekly and daily journals. Let the  
+whole family—men, women, and children  
+— read the newspaper. And if anybod
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_galloway_ver01%2Fdata%2Fsn83032308%2F00513685506%2F1857022601%2F0084.jp2/pct:69.931814,61.301454,12.610178,14.274710/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1857-05-23_12_21/page/n4/model/1up?view=theater)
 
 #### 1857-05-23 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -287,13 +328,13 @@ part of the time covered with weekly and daily
 journals. Let the whole family, man, woman  
 and children, read the newspaper. And if any
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-05-23_12_21&#0036;4/pct:49.518861,41.305052,12.413395,11.479922/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_flag-of-our-union_1857-05-23_12_21&#0036;4/pct:49.518861,41.305052,12.413395,11.479922/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Ballou's Dollar Monthly Magazine (1855-1862)_](https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1857-07_6_1?page=92)
+## [From _Ballou's Dollar Monthly Magazine (1855-1862)_](https://archive.org/details/sim_ballous-monthly-magazine_1857-07_6_1/page/n92/model/1up?view=theater)
 
 #### 1857-07-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -321,7 +362,7 @@ part of the time covered with weekly and daily
 journals. Let the whole family, man, woman  
 and children, read the newspaper. And if any
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1857-07_6_1&#0036;92/pct:11.042693,17.845659,34.277504,26.393355/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_ballous-monthly-magazine_1857-07_6_1&#0036;92/pct:11.042693,17.845659,34.277504,26.393355/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1746,7 +1787,7 @@ read the newspapers
 
 ---
 
-## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1858-11_57_5?page=81)
+## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1858-11_57_5/page/n81/model/1up?view=theater)
 
 #### 1858-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1766,13 +1807,13 @@ have nothing to do withit. Our thoughts and our con-
 cerns should be for the present world, to know what it is,  
 and improve the condition of it. Let her have an intelli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1858-11_57_5&#0036;81/pct:16.365777,65.689834,35.007849,13.303942/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_godeys-magazine_1858-11_57_5&#0036;81/pct:16.365777,65.689834,35.007849,13.303942/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1858-11_57_5?page=81)
+## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1858-11_57_5/page/n81/model/1up?view=theater)
 
 #### 1858-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1786,7 +1827,7 @@ poems on the centre-table be kept part of the time covered
 with weekly and daily journals. Let the whole family—  
 men, women, and children—read the newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1858-11_57_5&#0036;81/pct:16.365777,79.382780,34.811617,6.535270/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_godeys-magazine_1858-11_57_5&#0036;81/pct:16.365777,79.382780,34.811617,6.535270/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2091,7 +2132,7 @@ read the newspapers
 
 ---
 
-## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1859-04-14_27_17?page=3)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1859-04-14_27_17/page/n3/model/1up?view=theater)
 
 #### 1859-04-14 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -2107,13 +2148,13 @@ cation with this actual world and its transpiring
 events. Urge her to read newspapers and become  
 familiar with the present character and improve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1859-04-14_27_17&#0036;3/pct:44.921371,84.107199,12.000516,4.414667/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_maine-farmer_1859-04-14_27_17&#0036;3/pct:44.921371,84.107199,12.000516,4.414667/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1859-04-14_27_17?page=3)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1859-04-14_27_17/page/n3/model/1up?view=theater)
 
 #### 1859-04-14 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -2129,13 +2170,13 @@ her have an intelligent opinion, and be able to
 sustain an intelligent conversation concerning the  
 mental, moral, political and religious improve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1859-04-14_27_17&#0036;3/pct:44.972931,88.615353,12.013406,4.466604/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_maine-farmer_1859-04-14_27_17&#0036;3/pct:44.972931,88.615353,12.013406,4.466604/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1859-04-14_27_17?page=3)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1859-04-14_27_17/page/n3/model/1up?view=theater)
 
 #### 1859-04-14 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -2148,13 +2189,13 @@ time covered with weekly and daily journals.—
 Let the family—men, women, and children—read  
 the newspaper.— Exchange.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1859-04-14_27_17&#0036;3/pct:45.037381,93.030020,12.013406,2.887712/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_maine-farmer_1859-04-14_27_17&#0036;3/pct:45.037381,93.030020,12.013406,2.887712/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Michigan Farmer (1843-1908)_](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-05-21_1_21?page=5)
+## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1859-05-21_1_21/page/n5/model/1up?view=theater)
 
 #### 1859-05-21 &middot; [Lansing](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
@@ -2187,7 +2228,7 @@ covered with weekly and daily journals. Lat
 ithe family—men women sf children—read  
 the newspaper.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-05-21_1_21&#0036;5/pct:9.270893,64.094828,16.428707,15.732759/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_michigan-farmer_1859-05-21_1_21&#0036;5/pct:9.270893,64.094828,16.428707,15.732759/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3134,7 +3175,7 @@ men, womeu and children read tbe news
 
 ---
 
-## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1862-01_64?page=74)
+## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1862-01_64/page/n74/model/1up?view=theater)
 
 #### 1862-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3155,13 +3196,13 @@ to do with it. Our thoughts and our concerns should
 be for the present world, to know what it is and im-  
 prove the condition of it. Let her have an intelligen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1862-01_64&#0036;74/pct:51.030111,43.446356,35.459588,14.296559/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_godeys-magazine_1862-01_64&#0036;74/pct:51.030111,43.446356,35.459588,14.296559/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1862-01_64?page=74)
+## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1862-01_64/page/n74/model/1up?view=theater)
 
 #### 1862-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3176,7 +3217,7 @@ time covered with weekly and daily journals. Let the
 whole family—men, women and children—read the  
 newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1862-01_64&#0036;74/pct:50.990491,58.021255,35.499208,7.540486/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_godeys-magazine_1862-01_64&#0036;74/pct:50.990491,58.021255,35.499208,7.540486/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3255,7 +3296,7 @@ childrzti read the neaspaper
 
 ---
 
-## [From _National Principia 1858-1866_](https://iiif.archivelab.org/iiif/sim_national-principia_1862-06-05_3_127?page=3)
+## [From _National Principia 1858-1866_](https://archive.org/details/sim_national-principia_1862-06-05_3_127/page/n3/model/1up?view=theater)
 
 #### 1862-06-05 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3283,13 +3324,13 @@ Our thoughts and our concerns should be for
   
 | the present world, to kuow what it is, and i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_national-principia_1862-06-05_3_127&#0036;3/pct:68.519939,21.336538,12.730061,6.759615/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_national-principia_1862-06-05_3_127&#0036;3/pct:68.519939,21.336538,12.730061,6.759615/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _National Principia 1858-1866_](https://iiif.archivelab.org/iiif/sim_national-principia_1862-06-05_3_127?page=3)
+## [From _National Principia 1858-1866_](https://archive.org/details/sim_national-principia_1862-06-05_3_127/page/n3/model/1up?view=theater)
 
 #### 1862-06-05 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3305,7 +3346,7 @@ covered with weekly and daily journals. Let
 the whole family—men, women, and children  
 —read the heWspapers.- Lady&#x27;s Book
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_national-principia_1862-06-05_3_127&#0036;3/pct:68.877812,28.615385,12.078221,3.875000/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_national-principia_1862-06-05_3_127&#0036;3/pct:68.877812,28.615385,12.078221,3.875000/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3695,7 +3736,7 @@ read the newspapers Gxhy.
 
 ---
 
-## [From _The Frankfort commonwealth._](https://iiif.archivelab.org/iiif/xt7xd21rgk70?page=0)
+## [From _The Frankfort commonwealth._](https://archive.org/details/xt7xd21rgk70/page/n0/model/1up?view=theater)
 
 #### 1865-02-28 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
@@ -3727,7 +3768,7 @@ and daily journals. Let the whole family —
 men, women and children — read the news-  
 papers. — Godtry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7xd21rgk70&#0036;0/pct:36.209016,35.577508,14.098361,12.902736/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7xd21rgk70&#0036;0/pct:36.209016,35.577508,14.098361,12.902736/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4165,7 +4206,7 @@ times.
 
 ---
 
-## [From _The Frankfort commonwealth._](https://iiif.archivelab.org/iiif/xt7zpc2t5d8p?page=1)
+## [From _The Frankfort commonwealth._](https://archive.org/details/xt7zpc2t5d8p/page/n1/model/1up?view=theater)
 
 #### 1865-11-28 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
@@ -4197,7 +4238,7 @@ ered with weekly and daily journals. Let
 the whole family, men, women and children  
 read the newspapers. — Godey
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7zpc2t5d8p&#0036;1/pct:7.951007,71.998146,14.386548,15.793540/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7zpc2t5d8p&#0036;1/pct:7.951007,71.998146,14.386548,15.793540/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4723,7 +4764,7 @@ prove the condition of it. Let her
 
 ---
 
-## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1866-12-20_35_2?page=3)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1866-12-20_35_2/page/n3/model/1up?view=theater)
 
 #### 1866-12-20 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -4750,7 +4791,7 @@ ligious improvements of our times.
   
 See that each hour’s feelings and thoughts an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1866-12-20_35_2&#0036;3/pct:44.839811,27.296924,12.250525,8.004732/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_maine-farmer_1866-12-20_35_2&#0036;3/pct:44.839811,27.296924,12.250525,8.004732/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5085,7 +5126,7 @@ women tnd children, road the new*
 
 ---
 
-## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1868-03_76_453?page=60)
+## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1868-03_76_453/page/n60/model/1up?view=theater)
 
 #### 1868-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -5113,7 +5154,7 @@ tre-table be kept part of the time covered with
 weekly and daily journals. Let the whole family,  
 men, women, and children, read the newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1868-03_76_453&#0036;60/pct:11.471037,65.537149,34.832317,16.516064/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_godeys-magazine_1868-03_76_453&#0036;60/pct:11.471037,65.537149,34.832317,16.516064/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5151,6 +5192,38 @@ will our life be such. The wide pastures ar
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn83025182%2F00279528694%2F1868050501%2F0428.jp2/pct:19.645533,24.282176,10.597840,8.238526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _Vermont watchman and State journal._
+
+#### 1868-07-08 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Lanirs Snounb iead NEwsrareas. It is  
+a great mistake in female education to keep a  
+young lady&#x27;s time and attention devoted to  
+the lashionable literature of the day. It you  
+would qualify her for couversation, you must  
+give her something to talkgive her educa  
+tion with this actual world with its transpi  
+ring events- urge her to read the newspapers  
+and become familiar with the present charaec  
+ter and improvements of our trade. History  
+is of some importance, but the past world is  
+dead, and we have nothing to do with it,  
+Our thoughts and our concerns should be for  
+the present worldto know what it is, and to  
+improve the condition of it. Let us have an  
+intelligent opinion, and be able to sustain a  
+conversation concerning the mental, moral, po  
+litical and religious improvements of our  
+times-see that each other&#x27;s feelings, and  
+thoughts, and actions are pure and true; then  
+will our life be such. The wide pastures ar
+</td></tr></table>
 
 ---
 
@@ -5617,7 +5690,7 @@ women and children—read newspapers.
 
 ---
 
-## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1869-01-09_22_2?page=10)
+## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1869-01-09_22_2/page/n10/model/1up?view=theater)
 
 #### 1869-01-09 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -5656,7 +5729,7 @@ and daily journals. Let the whole family, men,
   
 women and children, read newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1869-01-09_22_2&#0036;10/pct:58.073818,69.292144,26.412918,19.537643/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_colmans-rural-world_1869-01-09_22_2&#0036;10/pct:58.073818,69.292144,26.412918,19.537643/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6265,7 +6338,7 @@ wide pastures are hut separate spires o
 
 ---
 
-## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1870-11-19_49_47?page=0)
+## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1870-11-19_49_47/page/n0/model/1up?view=theater)
 
 #### 1870-11-19 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -6286,13 +6359,13 @@ part of the time covered with weekly and daily
 journals. Let the whole family, men, women,  
 and children, read newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1870-11-19_49_47&#0036;0/pct:28.807314,36.763519,10.030022,4.933414/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-england-farmer-and-horticultural-register_1870-11-19_49_47&#0036;0/pct:28.807314,36.763519,10.030022,4.933414/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1870-11-19_49_47?page=0)
+## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1870-11-19_49_47/page/n0/model/1up?view=theater)
 
 #### 1870-11-19 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -6305,7 +6378,7 @@ and our concerns should be for the present] fine display of cattle at their fair
 world, to know what it is, and improve the} which occasion there were some eighteen hundred  
 Let her have an intellgent people in attendance from this and the adjoinin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1870-11-19_49_47&#0036;0/pct:28.820961,36.289346,20.455786,2.784504/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-england-farmer-and-horticultural-register_1870-11-19_49_47&#0036;0/pct:28.820961,36.289346,20.455786,2.784504/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6388,7 +6461,7 @@ our ives be such. Tne wide pasture
 
 ---
 
-## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1870-12_4_12?page=2)
+## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1870-12_4_12/page/n2/model/1up?view=theater)
 
 #### 1870-12-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -6431,7 +6504,7 @@ Dec.
 journals. Let the whole family, men, women,  
 and children, read newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1870-12_4_12&#0036;2/pct:49.003322,69.064551,34.966777,21.088621/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-england-farmer-a-monthly-journal_1870-12_4_12&#0036;2/pct:49.003322,69.064551,34.966777,21.088621/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6505,6 +6578,35 @@ cording to the mental, moral and r
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028821%2F00280775484%2F1871020901%2F0178.jp2/pct:16.341880,52.673690,9.829060,9.761302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _Vermont watchman and State journal._
+
+#### 1871-02-15 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+It is a great mistake in female education,  
+to keep a young lady&#x27;s time and attention de  
+voted only to the fashionable literature of the  
+day. If you would qualify her for conver  
+sation, you must give her something to talk  
+about, give her education in the actual world  
+and its transpiring events. Urge her to read  
+the newspapers, and become familiar with the  
+present character and improvements of our  
+race. History is of some importance; but  
+the past world is dead; we have nothing to  
+do with it. Our thoughts and our concerns  
+should be for the present world; to know  
+what it is and improve its condition. Lat  
+her have an intelligent opinion, and be able  
+to sustain conversation according to the men.  
+  
+tal, moral and religious improvement of our
+</td></tr></table>
 
 ---
 

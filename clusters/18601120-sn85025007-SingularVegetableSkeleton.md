@@ -711,7 +711,7 @@ by the powers of vegetable life. This sin
 
 ---
 
-## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://iiif.archivelab.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1866-10_26_37?page=19)
+## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://archive.org/details/sim_ladies-repository-a-monthly-periodical-devoted-to_1866-10_26_37/page/n19/model/1up?view=theater)
 
 #### 1866-10-01 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
@@ -735,7 +735,7 @@ each leg to the heel, where they both turned
 upward to the toes. One of these roots formed  
 a slight crook at the knee, which makes th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1866-10_26_37&#0036;19/pct:17.405523,15.468147,69.622093,73.576255/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1866-10_26_37&#0036;19/pct:17.405523,15.468147,69.622093,73.576255/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1019,7 +1019,7 @@ crook at the knee, which makes the whole l&gt;e.i
 
 ---
 
-## [From _The commonwealth._](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1866-10-27_5_8?page=3)
+## [From _The commonwealth._](https://archive.org/details/sim_boston-commonwealth_1866-10-27_5_8/page/n3/model/1up?view=theater)
 
 #### 1866-10-27 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -1040,7 +1040,7 @@ the heel, where they both turned upward to the
 toes. One of these roots formed a slight crook at  
 the knee, which made the whole bear a very clos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1866-10-27_5_8&#0036;3/pct:30.657895,27.267206,11.671053,5.334008/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_boston-commonwealth_1866-10-27_5_8&#0036;3/pct:30.657895,27.267206,11.671053,5.334008/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1478,7 +1478,7 @@ slight crook at the knee, whic
 
 ---
 
-## [From _The Shelby sentinel._](https://iiif.archivelab.org/iiif/xt76125qbf9s?page=0)
+## [From _The Shelby sentinel._](https://archive.org/details/xt76125qbf9s/page/n0/model/1up?view=theater)
 
 #### 1867-02-20 &middot; [Shelbyville, Ky.](http://dbpedia.org/resource/Shelbyville%2C_Kentucky)
 
@@ -1496,7 +1496,7 @@ where they both turned upward to the toes.
 One of these ro..ts formed a slight crook  
 at the knee, which makes the whole bear 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt76125qbf9s&#0036;0/pct:82.461024,40.969435,12.402561,5.063291/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt76125qbf9s&#0036;0/pct:82.461024,40.969435,12.402561,5.063291/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1574,7 +1574,7 @@ at the knee, which makes the whole bea
 
 ---
 
-## [From _The Historical Magazine, and Notes and Queries Concerning the Antiquities, History, and Biography of America (1857-1875)_](https://iiif.archivelab.org/iiif/sim_historical-magazine-biography-of-america_1870-07_8_1?page=57)
+## [From _The Historical Magazine, and Notes and Queries Concerning the Antiquities, History, and Biography of America (1857-1875)_](https://archive.org/details/sim_historical-magazine-biography-of-america_1870-07_8_1/page/n57/model/1up?view=theater)
 
 #### 1870-07-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1595,7 +1595,7 @@ branches, sending one along each leg to the heel, |
 where they both turned, upward, to the toes.  
 One of these roots formed a slight crook at the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_historical-magazine-biography-of-america_1870-07_8_1&#0036;57/pct:21.645367,63.292254,35.902556,14.465962/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_historical-magazine-biography-of-america_1870-07_8_1&#0036;57/pct:21.645367,63.292254,35.902556,14.465962/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1704,7 +1704,7 @@ formed a slight crook at the knee, which made t
 
 ---
 
-## [From _Wellman's Miscellany (1870-1873)_](https://iiif.archivelab.org/iiif/sim_wellmans-miscellany_1871-12_4_6?page=10)
+## [From _Wellman's Miscellany (1870-1873)_](https://archive.org/details/sim_wellmans-miscellany_1871-12_4_6/page/n10/model/1up?view=theater)
 
 #### 1871-12-01 &middot; [Detroit](http://dbpedia.org/resource/Detroit)
 
@@ -1727,7 +1727,7 @@ the heel, ‘where they both turned upw yard
 to the toes. One of these roots formed  
 a slight crook at the knee, which make
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_wellmans-miscellany_1871-12_4_6&#0036;10/pct:9.304703,23.721989,34.355828,18.977591/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_wellmans-miscellany_1871-12_4_6&#0036;10/pct:9.304703,23.721989,34.355828,18.977591/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

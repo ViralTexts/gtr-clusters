@@ -1,7 +1,7 @@
 
 # Our Recipe for Curing Meat
 
-### 132 reprints from 1856-12-03 to 1884-11-20
+### 133 reprints from 1856-12-03 to 1884-11-20
 
 ## [Our Recipe for Curing Meat](https://chroniclingamerica.loc.gov/lccn/sn83016348/1862-11-08/ed-1/seq-1/)
 
@@ -72,7 +72,7 @@ the operation, from the salt and sugar
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1856-12-06_1845?page=1)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1856-12-06_1845/page/n1/model/1up?view=theater)
 
 #### 1856-12-06 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -107,7 +107,7 @@ By boiling the plekle, it is perified—for the
 amount of dirt which is thrown off by the opera-  
 tion, from the salt and sugar, would surpris
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1856-12-06_1845&#0036;1/pct:35.924145,53.044629,14.369658,12.083964/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-evening-post_1856-12-06_1845&#0036;1/pct:35.924145,53.044629,14.369658,12.083964/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,7 +357,7 @@ it, if .,(., g.iod
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1862-11-22_2156?page=9)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1862-11-22_2156/page/n9/model/1up?view=theater)
 
 #### 1862-11-22 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -382,7 +382,7 @@ never be abandoned. There is none that
 surpasses it, if so good.—Germantown Tele-  
 graph.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1862-11-22_2156&#0036;9/pct:67.180617,70.686329,13.913363,8.599779/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-evening-post_1862-11-22_2156&#0036;9/pct:67.180617,70.686329,13.913363,8.599779/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -669,7 +669,7 @@ none that surpasses it, it so good
 
 ---
 
-## [From _The Genesee Farmer (1845-1865)_](https://iiif.archivelab.org/iiif/sim_genesee-farmer_1863-12_24_12?page=16)
+## [From _The Genesee Farmer (1845-1865)_](https://archive.org/details/sim_genesee-farmer_1863-12_24_12/page/n16/model/1up?view=theater)
 
 #### 1863-12-01 &middot; [Rochester](http://dbpedia.org/resource/Rochester%2C_New_York)
 
@@ -697,7 +697,7 @@ tried, it will never be abandoned. There is none that
   
 surpasses it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_genesee-farmer_1863-12_24_12&#0036;16/pct:51.270492,27.294621,38.360656,24.029971/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_genesee-farmer_1863-12_24_12&#0036;16/pct:51.270492,27.294621,38.360656,24.029971/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -794,7 +794,7 @@ none that surpasses, if so good
 
 ---
 
-## [From _Colman's rural world and valley farmer._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1864-01_16_1?page=8)
+## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1864-01_16_1/page/n8/model/1up?view=theater)
 
 #### 1864-01-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -822,7 +822,7 @@ be abandoned.
 There 1s none that surpasses  
 it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1864-01_16_1&#0036;8/pct:46.463142,29.954499,34.251675,18.781598/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_colmans-rural-world_1864-01_16_1&#0036;8/pct:46.463142,29.954499,34.251675,18.781598/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -975,7 +975,7 @@ mautowu Telegraph.
 
 ---
 
-## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1865-11-01_17_21?page=8)
+## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1865-11-01_17_21/page/n8/model/1up?view=theater)
 
 #### 1865-11-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -1006,7 +1006,7 @@ ways to be found in salt and sugar.
 f this receipt is properly tried, it, will never  
 be abandoned, @fhere is none that surpasses it,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1865-11-01_17_21&#0036;8/pct:52.131603,73.886768,21.177016,15.998728/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_colmans-rural-world_1865-11-01_17_21&#0036;8/pct:52.131603,73.886768,21.177016,15.998728/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1187,7 +1187,7 @@ that surpasses it, if so good
 
 ---
 
-## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1866-01-04_34_4?page=0)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1866-01-04_34_4/page/n0/model/1up?view=theater)
 
 #### 1866-01-04 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -1204,7 +1204,7 @@ ing off the dirt always to be found in saltand’suger. (snd it Se ee on
 If this recipe is properly tried, it will never be aban- tried three times without a therefore think  
 doned. There is none that surpasses it, if so good.— | the remed, be made known to eyery one wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1866-01-04_34_4&#0036;0/pct:66.782676,94.065136,25.006445,2.609378/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_maine-farmer_1866-01-04_34_4&#0036;0/pct:66.782676,94.065136,25.006445,2.609378/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1220,7 +1220,7 @@ doned. There is none that surpasses it, if so good.— | the remed, be made know
 
 ---
 
-## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1866-01-20_6_141?page=30)
+## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://archive.org/details/sim_london-reader-of-literature-science-art-and-general_1866-01-20_6_141/page/n30/model/1up?view=theater)
 
 #### 1866-01-20 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -1245,13 +1245,13 @@ always to ‘be found in galt and pe hPa gah
 is properly tried, it will never be ; There  
 is none that surpasses it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1866-01-20_6_141&#0036;30/pct:6.024845,55.347594,25.683230,14.527629/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_london-reader-of-literature-science-art-and-general_1866-01-20_6_141&#0036;30/pct:6.024845,55.347594,25.683230,14.527629/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Louisville daily Democrat._](https://iiif.archivelab.org/iiif/xt7jdf6k385r?page=0)
+## [From _Louisville daily Democrat._](https://archive.org/details/xt7jdf6k385r/page/n0/model/1up?view=theater)
 
 #### 1866-11-01 &middot; [Louisville, Kentucky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
@@ -1266,13 +1266,13 @@ erly tried, it will never be abandoned
 There is none that surpasses it, if so good  
 [Germ-intown Telegraph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7jdf6k385r&#0036;0/pct:69.051852,43.992691,19.807407,3.586112/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7jdf6k385r&#0036;0/pct:69.051852,43.992691,19.807407,3.586112/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1866-11-10_15_20?page=2)
+## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1866-11-10_15_20/page/n2/model/1up?view=theater)
 
 #### 1866-11-10 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1303,7 +1303,7 @@ is
 it, if any so good.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1866-11-10_15_20&#0036;2/pct:63.954172,59.900000,27.203290,18.600000/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_scientific-american_1866-11-10_15_20&#0036;2/pct:63.954172,59.900000,27.203290,18.600000/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1373,7 +1373,7 @@ There is none that surpasses it, if so good
 
 ---
 
-## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1866-11-15_18_22?page=4)
+## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1866-11-15_18_22/page/n4/model/1up?view=theater)
 
 #### 1866-11-15 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -1398,7 +1398,7 @@ the dirt. If this recipe is properly tried, it
 will never be abandoned. There is none that  
 surpasses it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1866-11-15_18_22&#0036;4/pct:60.236448,48.889876,24.798155,15.541741/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_colmans-rural-world_1866-11-15_18_22&#0036;4/pct:60.236448,48.889876,24.798155,15.541741/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1621,7 +1621,7 @@ tWa JeUfra&amp;Li ..&#x27;
 
 ---
 
-## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1867-01-01_19_1?page=3)
+## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1867-01-01_19_1/page/n3/model/1up?view=theater)
 
 #### 1867-01-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -1653,7 +1653,7 @@ sugar. If this receipt is properly tried, it will
 never be abandoned. There is none that sur-  
 passes it, if so good.—[ Germantown Telegraph.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1867-01-01_19_1&#0036;3/pct:43.901766,17.688081,25.027594,25.021133/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_colmans-rural-world_1867-01-01_19_1&#0036;3/pct:43.901766,17.688081,25.027594,25.021133/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1811,7 +1811,7 @@ Telegraph.
 
 ---
 
-## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1868-01_2_1?page=18)
+## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1868-01_2_1/page/n18/model/1up?view=theater)
 
 #### 1868-01-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1834,7 +1834,7 @@ time it should be slightly sprinkled with pow-
 dered saltpetre, which removes all the surface  
 blood, &amp;c., leaving the meat fresh and clean
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1868-01_2_1&#0036;18/pct:44.522241,72.857537,34.925865,17.690824/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-england-farmer-a-monthly-journal_1868-01_2_1&#0036;18/pct:44.522241,72.857537,34.925865,17.690824/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1981,7 +1981,7 @@ none ihat surpasses it, if so good.
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1868-12-19_2473?page=7)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1868-12-19_2473/page/n7/model/1up?view=theater)
 
 #### 1868-12-19 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2011,7 +2011,7 @@ If this receipt is properly tried, it will never
 be abandoned. ere is none that surpasses  
 it, if so good.— Germantown Tdegraph.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1868-12-19_2473&#0036;7/pct:60.367011,62.359076,15.798355,11.372604/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-evening-post_1868-12-19_2473&#0036;7/pct:60.367011,62.359076,15.798355,11.372604/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2277,7 +2277,7 @@ is none that surpasses it. If auy as good.
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1870-10-29_2570?page=7)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1870-10-29_2570/page/n7/model/1up?view=theater)
 
 #### 1870-10-29 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2316,7 +2316,7 @@ never be abandoned. There is none that
 surpass it, if so good.—Germantown Tele-  
 graph.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1870-10-29_2570&#0036;7/pct:60.375881,46.621991,15.387627,13.799234/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-evening-post_1870-10-29_2570&#0036;7/pct:60.375881,46.621991,15.387627,13.799234/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2367,7 +2367,7 @@ omit boiling the pickle, and lind it to an
 
 ---
 
-## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1870-11-05_49_45?page=0)
+## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1870-11-05_49_45/page/n0/model/1up?view=theater)
 
 #### 1870-11-05 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2394,7 +2394,7 @@ find it to answer well ;though the operation of
 boiling purifies the pickle by throwing off the  
 dirt always to be found in salt and sugar.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1870-11-05_49_45&#0036;0/pct:81.427402,86.881590,10.030022,7.045823/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-england-farmer-and-horticultural-register_1870-11-05_49_45&#0036;0/pct:81.427402,86.881590,10.030022,7.045823/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2586,7 +2586,7 @@ none that surpass it, if so good
 
 ---
 
-## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1870-11-19_38_50?page=0)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1870-11-19_38_50/page/n0/model/1up?view=theater)
 
 #### 1870-11-19 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -2613,7 +2613,7 @@ If this receipt is propeerly tried it will never be
 abandoned. There is none that surpass it, if so  
 good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1870-11-19_38_50&#0036;0/pct:79.349829,77.356820,12.147934,6.425900/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_maine-farmer_1870-11-19_38_50&#0036;0/pct:79.349829,77.356820,12.147934,6.425900/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2716,7 +2716,7 @@ in salt and sugar.—Germantown Teleg&#x27;h
 
 ---
 
-## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1870-12_4_12?page=27)
+## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1870-12_4_12/page/n27/model/1up?view=theater)
 
 #### 1870-12-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2760,7 +2760,7 @@ find it to answer well ; though the operation of
 boiling purifies the pickle by throwing off the  
 dirt always to be found in salt and sugar.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1870-12_4_12&#0036;27/pct:51.578073,75.712719,35.132890,14.062500/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-england-farmer-a-monthly-journal_1870-12_4_12&#0036;27/pct:51.578073,75.712719,35.132890,14.062500/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2995,7 +2995,7 @@ that surpass it, if so good
 
 ---
 
-## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1871-03-04_16_409?page=22)
+## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://archive.org/details/sim_london-reader-of-literature-science-art-and-general_1871-03-04_16_409/page/n22/model/1up?view=theater)
 
 #### 1871-03-04 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3018,7 +3018,7 @@ and sugar, If this recipe is properly tried it will
 never be abandoned. Thereis nono that surpass it,  
 if any 80 good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1871-03-04_16_409&#0036;22/pct:50.438048,10.990231,36.451815,80.772647/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_london-reader-of-literature-science-art-and-general_1871-03-04_16_409&#0036;22/pct:50.438048,10.990231,36.451815,80.772647/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3109,6 +3109,39 @@ surpass it, if so goo
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524652%2F1871091401%2F0563.jp2/pct:3.180275,70.267775,11.028229,2.377655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _Vermont watchman and State journal._
+
+#### 1871-12-06 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+egraph gives the followingt To one gallon  
+of water, take I1 lbs, of salt, I lb. of sugar,  
+l or of saltpeter, I or, of potash.  
+In this ratio the pickle can be increased to  
+any quantity desired. Let these be boiled  
+together until all the dirt from the sugar  
+rises to the top and is skimmed off. Then  
+throw it into a tub to cool, and when cold  
+pour it over your beef or pork, to remain the  
+usual time, say four or five weeks. The  
+meat must be well covered with pickle, and  
+should not be put down for at least two  
+days after killing, during which time it  
+should be slightly sprinkled wtth powdered  
+saltpeter, which removes all the surface-blood,  
+Ae, leaving the meat fresh and clean. Some  
+omit boiling the pickle, and find it to answer  
+well, though the operation of boiling purifies  
+the pickle by throwing ofl the dirt always to  
+be found in salt and sugar. If this recipe is  
+properly tried, it will never be abandoned.  
+There is none that surpass it, if so good
+</td></tr></table>
 
 ---
 
@@ -4087,7 +4120,7 @@ Some omit boiling the pickle and fin
 
 ---
 
-## [From _Farm Journal 1877-2015_](https://iiif.archivelab.org/iiif/sim_farm-journal_1879-12_4_3?page=1)
+## [From _Farm Journal 1877-2015_](https://archive.org/details/sim_farm-journal_1879-12_4_3/page/n1/model/1up?view=theater)
 
 #### 1879-12-01 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
@@ -4108,7 +4141,7 @@ ing off the dirt always to be found in salt and
 sugar. Ifthisreceiptis strickly followed, it will  
 require only a single trial to prove its superiorit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_farm-journal_1879-12_4_3&#0036;1/pct:38.516865,75.273865,22.495040,11.424100/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_farm-journal_1879-12_4_3&#0036;1/pct:38.516865,75.273865,22.495040,11.424100/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4217,7 +4250,7 @@ only a single trial to prove its superiorit
 
 ---
 
-## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1881-02_11_2?page=23)
+## [From _The Manifesto 1871-1899_](https://archive.org/details/sim_manifesto_1881-02_11_2/page/n23/model/1up?view=theater)
 
 #### 1881-02-01 &middot; [Watervliet Shaker Historic District, New York](http://dbpedia.org/resource/Watervliet_Shaker_Historic_District)
 
@@ -4248,7 +4281,7 @@ by throwing off the dirt always to be found
 in salt and sugar. If this recipe is strictly  
 followed it will require only a single trial t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1881-02_11_2&#0036;23/pct:52.079482,21.632896,35.998152,33.164482/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_manifesto_1881-02_11_2&#0036;23/pct:52.079482,21.632896,35.998152,33.164482/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -176,7 +176,7 @@ ones
 
 ---
 
-## [From _The New - York Mirror: a Weekly Gazette of Literature and the Fine Arts (1823-1842)_](https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1837-09-23_15_13?page=7)
+## [From _The New - York Mirror: a Weekly Gazette of Literature and the Fine Arts (1823-1842)_](https://archive.org/details/sim_new-york-mirror-a-weekly-gazette-of-literature_1837-09-23_15_13/page/n7/model/1up?view=theater)
 
 #### 1837-09-23 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -210,7 +210,7 @@ meet thine eye, that thou mavest understand it
 mediately for it, and pay in advance, and it shall be well with thee  
 and thy little one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1837-09-23_15_13&#0036;7/pct:64.190628,73.933282,27.582535,13.906129/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1837-09-23_15_13&#0036;7/pct:64.190628,73.933282,27.582535,13.906129/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1272,7 +1272,7 @@ advance, that it may be well with thee
 
 ---
 
-## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1844-04-19_25_16?page=3)
+## [From _Christian Watchman (1819-1848)_](https://archive.org/details/sim_watchman-examiner_1844-04-19_25_16/page/n3/model/1up?view=theater)
 
 #### 1844-04-19 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1301,13 +1301,13 @@ Neither peep over the outside while it is be-
 ing struck off, or look over the shoulders of  
 the editor while he is reading proof,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1844-04-19_25_16&#0036;3/pct:40.713802,14.576547,12.127876,9.880565/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_watchman-examiner_1844-04-19_25_16&#0036;3/pct:40.713802,14.576547,12.127876,9.880565/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Christian secretary._](https://iiif.archivelab.org/iiif/sim_christian-secretary_1844-04-26_7_7?page=3)
+## [From _Christian secretary._](https://archive.org/details/sim_christian-secretary_1844-04-26_7_7/page/n3/model/1up?view=theater)
 
 #### 1844-04-26 &middot; [Hartford [Conn.]](http://dbpedia.org/resource/Hartford%2C_Connecticut)
 
@@ -1326,13 +1326,13 @@ him to keep such things to himself.
 When thou dost enter into a printing cffice,  
 have a care. to thyself that thou dost not touch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-secretary_1844-04-26_7_7&#0036;3/pct:55.320755,20.803063,15.761006,5.605733/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_christian-secretary_1844-04-26_7_7&#0036;3/pct:55.320755,20.803063,15.761006,5.605733/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Christian secretary._](https://iiif.archivelab.org/iiif/sim_christian-secretary_1844-04-26_7_7?page=3)
+## [From _Christian secretary._](https://archive.org/details/sim_christian-secretary_1844-04-26_7_7/page/n3/model/1up?view=theater)
 
 #### 1844-04-26 &middot; [Hartford [Conn.]](http://dbpedia.org/resource/Hartford%2C_Connecticut)
 
@@ -1351,7 +1351,7 @@ Neither peep over the outside while it is being
 struck off, or look over the shoulders of the editor  
 while he is reading proof.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-secretary_1844-04-26_7_7&#0036;3/pct:55.194969,26.448066,15.773585,4.938150/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_christian-secretary_1844-04-26_7_7&#0036;3/pct:55.194969,26.448066,15.773585,4.938150/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1702,7 +1702,7 @@ little ones.&quot; When the Earl o
 
 ---
 
-## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1847-09-10_28_37?page=3)
+## [From _Christian Watchman (1819-1848)_](https://archive.org/details/sim_watchman-examiner_1847-09-10_28_37/page/n3/model/1up?view=theater)
 
 #### 1847-09-10 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1741,7 +1741,7 @@ other — subscribe immediately for it and pay
 in advance, nnd it shall be well with thee and  
 thy little ones, — Exeter News Letter.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1847-09-10_28_37&#0036;3/pct:33.032194,74.309979,11.842970,13.972930/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_watchman-examiner_1847-09-10_28_37&#0036;3/pct:33.032194,74.309979,11.842970,13.972930/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1999,7 +1999,7 @@ other—subscribe immediately and pay for it in ’ ,
 
 ---
 
-## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1847-12-10_28_50?page=3)
+## [From _Christian Watchman (1819-1848)_](https://archive.org/details/sim_watchman-examiner_1847-12-10_28_50/page/n3/model/1up?view=theater)
 
 #### 1847-12-10 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2028,13 +2028,13 @@ quire whether he will admit thy article; for |
 thou dost not inquire wisely concerning this,  
 He will let thee know -when he has first rea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1847-12-10_28_50&#0036;3/pct:9.149146,47.072193,12.302891,8.221925/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_watchman-examiner_1847-12-10_28_50&#0036;3/pct:9.149146,47.072193,12.302891,8.221925/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1847-12-10_28_50?page=3)
+## [From _Christian Watchman (1819-1848)_](https://archive.org/details/sim_watchman-examiner_1847-12-10_28_50/page/n3/model/1up?view=theater)
 
 #### 1847-12-10 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2065,7 +2065,7 @@ quite please thee, for this is not a rule by which |
 thou thyself wouldst wish to be treated, and it |  
 shows thee to be a person of violent and hasty 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1847-12-10_28_50&#0036;3/pct:9.034166,55.494652,12.417871,10.080214/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_watchman-examiner_1847-12-10_28_50&#0036;3/pct:9.034166,55.494652,12.417871,10.080214/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2230,7 +2230,7 @@ with thee and thy liitle ones.
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1849-03-17_4_26?page=5)
+## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1849-03-17_4_26/page/n5/model/1up?view=theater)
 
 #### 1849-03-17 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2262,7 +2262,7 @@ and pay in advance, and it shall be well with
   
 ‘hee and thy little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1849-03-17_4_26&#0036;5/pct:67.705167,74.092742,19.554205,16.061828/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_scientific-american_1849-03-17_4_26&#0036;5/pct:67.705167,74.092742,19.554205,16.061828/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2448,7 +2448,7 @@ and thy little ones. Picayune
 
 ---
 
-## [From _The spirit of the times._](https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-08-10_20_25?page=4)
+## [From _The spirit of the times._](https://archive.org/details/sim_spirit-of-the-times_1850-08-10_20_25/page/n4/model/1up?view=theater)
 
 #### 1850-08-10 &middot; [New-York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
@@ -2471,7 +2471,7 @@ of good breeding.
   
 Neither examine thou the proof sheet, for it is not yet ready to mee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1850-08-10_20_25&#0036;4/pct:68.699597,85.211268,27.032930,5.424736/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_spirit-of-the-times_1850-08-10_20_25&#0036;4/pct:68.699597,85.211268,27.032930,5.424736/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2746,7 +2746,7 @@ amine thou the prouf :-luet, for it is not read
 
 ---
 
-## [From _The Cynthiana news._](https://iiif.archivelab.org/iiif/xt7b5m627k3q?page=1)
+## [From _The Cynthiana news._](https://archive.org/details/xt7b5m627k3q/page/n1/model/1up?view=theater)
 
 #### 1856-03-13 &middot; [Cynthiana, Ky.](http://dbpedia.org/resource/Cynthiana%2C_Kentucky)
 
@@ -2784,7 +2784,7 @@ other, and sub-cribe immediately for il
 and pay in advance, and it shall be well  
 with thee and thy littie ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7b5m627k3q&#0036;1/pct:34.011063,79.714855,14.785469,14.550791/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7b5m627k3q&#0036;1/pct:34.011063,79.714855,14.785469,14.550791/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3810,7 +3810,7 @@ and thy little ones. THE PATRIOTI
 
 ---
 
-## [From _Theatrical Journal 1839-1871_](https://iiif.archivelab.org/iiif/sim_theatrical-journal_1858-08-11_19_974?page=6)
+## [From _Theatrical Journal 1839-1871_](https://archive.org/details/sim_theatrical-journal_1858-08-11_19_974/page/n6/model/1up?view=theater)
 
 #### 1858-08-11
 
@@ -3834,7 +3834,7 @@ reading a proof. Prefer the town paper to any
 other ; subscribe immediately for it, and pay in  
 advance,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_theatrical-journal_1858-08-11_19_974&#0036;6/pct:46.717172,54.599567,35.563973,16.423160/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_theatrical-journal_1858-08-11_19_974&#0036;6/pct:46.717172,54.599567,35.563973,16.423160/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3898,7 +3898,7 @@ good breeding. Neither examine thou the proo
 
 ---
 
-## [From _The spirit of the times._](https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1858-08-21_28_28?page=9)
+## [From _The spirit of the times._](https://archive.org/details/sim_spirit-of-the-times_1858-08-21_28_28/page/n9/model/1up?view=theater)
 
 #### 1858-08-21 &middot; [New-York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
@@ -3919,7 +3919,7 @@ ing open, for that is not meet in the sight of good breeding. Neither ex-
   
 amine thou the proof sheet, for it isnot ready to meet thine eye, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spirit-of-the-times_1858-08-21_28_28&#0036;9/pct:15.945406,74.864499,37.300266,4.652213/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_spirit-of-the-times_1858-08-21_28_28&#0036;9/pct:15.945406,74.864499,37.300266,4.652213/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

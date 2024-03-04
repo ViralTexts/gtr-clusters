@@ -1,7 +1,7 @@
 
 # Building on the Sand
 
-### 226 reprints from 1852-06-24 to 1898-01-27
+### 225 reprints from 1852-06-24 to 1898-01-27
 
 ## [Building on the Sand](http://chroniclingamerica.loc.gov/lccn/sn84026897/1852-08-11/ed-1/seq-4/)
 
@@ -123,7 +123,7 @@ But &#x27;&quot;build upon thertbnd.&#x27;&#x27; Wf
 
 ---
 
-## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1852-07-22_20_30?page=0)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1852-07-22_20_30/page/n0/model/1up?view=theater)
 
 #### 1852-07-22 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -183,7 +183,7 @@ Must lend a helping hand,
 For those who talk, yet fil to do,  
 But “build upon the sand.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1852-07-22_20_30&#0036;0/pct:66.300318,20.352024,9.692797,18.665683/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_maine-farmer_1852-07-22_20_30&#0036;0/pct:66.300318,20.352024,9.692797,18.665683/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1339,9 +1339,9 @@ I
 Ajid foot lift where&#x27;er \vc can;  
 Fair speech t-lion&#x27;.d-bii-d the hnmnn mind, j  
 And h&gt;vo link man to mar.  
-But stay not at ge:
+But stay not a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn93067882%2F0020219428A%2F1855072701%2F0225.jp2/pct:1.599456,19.279670,17.480574,20.210911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn93067882%2F0020219428A%2F1855072701%2F0225.jp2/pct:1.599456,19.279670,17.480574,20.155632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1721,7 +1721,7 @@ But &quot;build upon the sand.
 
 ---
 
-## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1857-02-21_13_49?page=11)
+## [From _Friends' Intelligencer (1853-1910)_](https://archive.org/details/sim_friends-intelligencer_1857-02-21_13_49/page/n11/model/1up?view=theater)
 
 #### 1857-02-21 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -1782,7 +1782,7 @@ Must lend a helping hand;
 For those who talk, yet fail to do,  
 But ‘* build upon the sand.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1857-02-21_13_49&#0036;11/pct:57.846715,22.383985,30.729927,39.763421/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friends-intelligencer_1857-02-21_13_49&#0036;11/pct:57.846715,22.383985,30.729927,39.763421/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2297,12 +2297,7 @@ But &quot;build upon the sand.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-&#x27;Tie. well to win, &#x27;tl well to wed,&#x27;  
-For o the world bath do no.  
-  
-Since myrtle grew and rose blew,  
-And morning brought the son.  
+ning brought the son.  
 Cut have a care, ye young aud fair,  
 Be suro ye wed with truth  
 . Becertain that your love will wear  
@@ -2336,7 +2331,7 @@ Must lend a helping hand;
 For those who talk, yet fail to do,  
 But build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061076%2F00200293897%2F1858061101%2F0305.jp2/pct:42.946058,15.608993,11.946750,23.819010/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061076%2F00200293897%2F1858061101%2F0305.jp2/pct:42.946058,17.444508,11.946750,21.983495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2754,6 +2749,56 @@ For those who talk, yet fail to do, &#x27;
 
 ---
 
+## [From _Monmouth weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn83032308/1858-08-19/ed-1/seq-4)
+
+#### 1858-08-19 &middot; [Freehold, N.J.](http://dbpedia.org/resource/Freehold_Township%2C_New_Jersey)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+&#x27;Tis woli to woo, &#x27;tis welt to wed.  
+For so the world has done  
+Since myrtles grew, and dowers blew,  
+And morning brought the sun.  
+But have a care ye young and fair,  
+Be sure you pledge with truth ;  
+Be certain that your love will wear  
+Beyond the days of youth.  
+For if ye give not heart for heart,  
+As wail as hand for hand,  
+You&#x27;ll 8nd you&#x27;ve played the unwise part,  
+And &quot; duiit upon ihe sand.&quot;  
+&#x27;Tis well to shve. &#x27;tis well to have  
+A goodly store of gold,  
+And hoid enough of shining stuff,  
+For charity is cold.  
+But place not all your hope and trust  
+In what the deep mind brings ;  
+We cannot live on yellow dust.  
+Unmixed with purer things.  
+And he who plies up wealth alone,  
+#111 often have to stand  
+Beside his coder chest and own  
+&#x27;Tis &quot; built upon the sand.&quot;  
+Tie goed to speak in kindly guise,  
+And soothe where&#x27;er we canj  
+Fair speech would bind the huthan mind,  
+And love link man to m^i.  
+But stay not at the gentle words;  
+Let deeds with language dwell;  
+The one who pities starving birds;  
+Should scatter crumbs as well.  
+The mercy that is warm and true  
+Must lend a helping hand,  
+For those that talk yet fall to do, .  
+But &quot; build upon the sand .&quot;
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_galloway_ver01%2Fdata%2Fsn83032308%2F00513685506%2F1858081901%2F0262.jp2/pct:10.307814,75.915649,9.632991,20.054877/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## Selected Poetry
 
 #### From _Boston investigator._
@@ -3158,16 +3203,6 @@ But &#x27;? build upon the sand!&#x27;-&#x27; /??? - ?
 
 ---
 
-## Building upon the Sand
-
-#### From _Vermont patriot._
-
-#### 1860-10-13 &middot; [Montpelier [Vt.]](http://dbpedia.org/resource/Montpelier%2C_Vermont)
-
-[This text is not available under an open license.]
-
----
-
 ## [From _Glasgow weekly times._](https://chroniclingamerica.loc.gov/lccn/sn86063325/1861-06-27/ed-1/seq-4)
 
 #### 1861-06-27 &middot; [Glasgow, Mo.](http://dbpedia.org/resource/Glasgow%2C_Missouri)
@@ -3337,7 +3372,7 @@ But build upon the sail i
 
 ---
 
-## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://iiif.archivelab.org/iiif/sim_friends-review-a-religious-journal_1865-01-14_18_20?page=13)
+## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://archive.org/details/sim_friends-review-a-religious-journal_1865-01-14_18_20/page/n13/model/1up?view=theater)
 
 #### 1865-01-14 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -3398,7 +3433,7 @@ Must lend a helping hand,
 For those who talk yet fail to do,  
 But “ build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-review-a-religious-journal_1865-01-14_18_20&#0036;13/pct:23.878327,10.004978,64.866920,80.736685/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friends-review-a-religious-journal_1865-01-14_18_20&#0036;13/pct:23.878327,10.004978,64.866920,80.736685/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3454,7 +3489,7 @@ But &quot;build upon the sand.&quot;
 
 ---
 
-## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1865-07-08_22_18?page=13)
+## [From _Friends' Intelligencer (1853-1910)_](https://archive.org/details/sim_friends-intelligencer_1865-07-08_22_18/page/n13/model/1up?view=theater)
 
 #### 1865-07-08 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -3514,39 +3549,7 @@ Must lend a helping hand,
 For those who talk, yet fail to do‘  
 But “ build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1865-07-08_22_18&#0036;13/pct:23.439716,34.955556,29.361702,35.511111/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Delaware State journal and statesman._](https://chroniclingamerica.loc.gov/lccn/sn84038112/1865-08-22/ed-1/seq-2)
-
-#### 1865-08-22 &middot; [Wilmington, Del.](http://dbpedia.org/resource/Wilmington%2C_Delaware)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Hinoe the myrtles grew, end  
-Aud morning brought the sun.  
-i  
-I 01  
-blew,  
-But have a  
--care ye youog aud fair,  
-Be sure ye pledge with truth ;  
-Be certain that your love will wear  
-Beyond the days of youth,  
-heart to heart,  
-hand for hand,  
-&#x27;replayed tho &quot;unwise&quot; part,  
-upon the Band.&quot;  
-p  
-For if ye give  
-As well I  
-You&#x27;ll find you
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_jinx_ver01%2Fdata%2Fsn84038112%2F00271741133%2F1865082201%2F0282.jp2/pct:52.326128,6.563422,12.500000,5.678466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friends-intelligencer_1865-07-08_22_18&#0036;13/pct:23.439716,34.955556,29.361702,35.511111/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3588,7 +3591,7 @@ But &quot;build upon the sand.
 
 ---
 
-## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1865-10-04_36_40?page=3)
+## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://archive.org/details/sim_zions-herald_1865-10-04_36_40/page/n3/model/1up?view=theater)
 
 #### 1865-10-04 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -3649,7 +3652,7 @@ Must lend a helping hand,
 For those who talk, yet fail to do,  
 But “build upon the sand.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1865-10-04_36_40&#0036;3/pct:21.908602,27.863128,9.744624,13.417797/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_zions-herald_1865-10-04_36_40&#0036;3/pct:21.908602,27.863128,9.744624,13.417797/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3757,41 +3760,7 @@ But &quot;build upon the sand.&quot;
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1865-11-09_36_45?page=5)
-
-#### 1865-11-09 &middot; [New York](http://dbpedia.org/resource/New_York_City)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-’Tis well to W01, ’tis good to wed,  
-  
-For 60 the world hath done  
-Since myitles grew, and roses blew,  
-  
-And morning brought the snn.  
-  
-But have a cate, ye young and fair ;  
-  
-Be sure you pledge with truth ;  
-  
-Be certain that your love will wear  
-Beyond the days of youth !  
-  
-For if ye feive not heart for heart,  
-  
-As trell as hand for hand,  
-  
-You’ll find you’ve played the unwise part  
-And built upon the sand
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1865-11-09_36_45&#0036;5/pct:11.709677,14.388736,11.370968,5.254121/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1865-11-09_36_45?page=5)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1865-11-09_36_45/page/n5/model/1up?view=theater)
 
 #### 1865-11-09 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3840,7 +3809,7 @@ For those who talk, yet fail to do,
   
 But build upon the sand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1865-11-09_36_45&#0036;5/pct:11.774194,20.032051,11.532258,10.748626/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_evangelist-and-religious-review_1865-11-09_36_45&#0036;5/pct:11.774194,20.032051,11.532258,10.748626/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4532,7 +4501,7 @@ But &quot;build upuu the sund.
 
 ---
 
-## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1866-09-01_18_17?page=10)
+## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1866-09-01_18_17/page/n10/model/1up?view=theater)
 
 #### 1866-09-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -4591,7 +4560,7 @@ Must lend a helping hahd—
 For those that talk, yet fail to do,  
 But “build upon the sand.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1866-09-01_18_17&#0036;10/pct:34.948097,53.612589,19.723183,29.654255/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_colmans-rural-world_1866-09-01_18_17&#0036;10/pct:34.948097,53.612589,19.723183,29.654255/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5906,7 +5875,7 @@ But “build upon the sand.”
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1869-06-05_2497?page=4)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1869-06-05_2497/page/n4/model/1up?view=theater)
 
 #### 1869-06-05 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -5967,7 +5936,7 @@ Must lend a helping hand ;
 For those who talk, yet fail to do,  
 But * build upon the sand.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1869-06-05_2497&#0036;4/pct:9.742063,11.515317,15.238095,22.428884/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-evening-post_1869-06-05_2497&#0036;4/pct:9.742063,11.515317,15.238095,22.428884/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6320,7 +6289,7 @@ the sand.
 
 ---
 
-## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1875-10-30_25_652?page=3)
+## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://archive.org/details/sim_london-reader-of-literature-science-art-and-general_1875-10-30_25_652/page/n3/model/1up?view=theater)
 
 #### 1875-10-30 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -6381,7 +6350,7 @@ Must lend a helping hand,
 For these that talk, yet fail to do,  
 But “ build upon the sand.”’ E. C
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1875-10-30_25_652&#0036;3/pct:36.742424,32.508834,23.200758,30.145760/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_london-reader-of-literature-science-art-and-general_1875-10-30_25_652&#0036;3/pct:36.742424,32.508834,23.200758,30.145760/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6485,6 +6454,53 @@ Bat &quot; build upon the sand.
 
 ---
 
+## From _Vermont watchman and State journal._
+
+#### 1875-12-08 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Tis well to woo, tls well to wed.  
+For so the world hath done  
+Since myrtles grew, and roses blew,  
+And morning brought the sun.  
+But have s care, ye voung and rair.  
+Be sure you pledge the truth;  
+Be certain that your love will  
+beyond the days of youth:  
+For if yegive not heart tor heart.  
+As well as hand for hand  
+You&#x27;ll find you&#x27;ve played the unwise pait.  
+And&quot;built upon the sand.&quot;  
+Tis well to save., &#x27;tis well to hav  
+A goodly store of gold  
+And hold enough of shining stuft.  
+For charity is cold.  
+But place not all your hope and trust  
+In what the deep mine brings;  
+We rannot live on yellow dust  
+Unmixed with purer things  
+And he who plles up weaith alone.  
+Wil often have to stand  
+Beside his coffer chest, and own  
+tis&quot;bullt upon the sand.&quot;  
+tis sood to speak in kindly guise.  
+And soothe where&#x27;er we can;  
+Falr speech should bind the human mind.  
+And love link man to man.  
+Bnt stop not at the gentle words;  
+Let deeds with langunge dwell  
+The one who pities starving birds  
+Should satter crumbs as well.  
+The merey that is warm and true  
+Must lend a helping hand.  
+For those that talk, yet fall to do.  
+But &quot;bulld upon the sand.
+</td></tr></table>
+
+---
+
 ## [From _Bozeman avant courier._](https://chroniclingamerica.loc.gov/lccn/sn84038123/1875-12-10/ed-1/seq-4)
 
 #### 1875-12-10 &middot; [Bozeman, Mont.](http://dbpedia.org/resource/Bozeman%2C_Montana)
@@ -6537,7 +6553,7 @@ But &#x27;build upon the send.
 
 ---
 
-## [From _Frank Leslie's illustrated newspaper._](https://iiif.archivelab.org/iiif/sim_leslies-weekly_1875-12-11_41_1054?page=5)
+## [From _Frank Leslie's illustrated newspaper._](https://archive.org/details/sim_leslies-weekly_1875-12-11_41_1054/page/n5/model/1up?view=theater)
 
 #### 1875-12-11 &middot; [New York, N.Y.](http://dbpedia.org/resource/New_York_City)
 
@@ -6572,7 +6588,7 @@ But place not all your hope and trust
 in what the deep mine brings;  
 can live ow dus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_leslies-weekly_1875-12-11_41_1054&#0036;5/pct:15.238313,20.676813,15.123740,10.977979/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_leslies-weekly_1875-12-11_41_1054&#0036;5/pct:15.238313,20.676813,15.123740,10.977979/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7261,7 +7277,7 @@ I
 
 ---
 
-## [From _Silent World 1871-1876_](https://iiif.archivelab.org/iiif/sim_silent-world_1876-02-01_6_3?page=0)
+## [From _Silent World 1871-1876_](https://archive.org/details/sim_silent-world_1876-02-01_6_3/page/n0/model/1up?view=theater)
 
 #### 1876-02-01 &middot; [Washington, D.C., District of Columbia](http://dbpedia.org/resource/Washington%2C_D.C.)
 
@@ -7320,7 +7336,7 @@ Must lend a helping hand,
 For those who talk, yet fail to do,  
 But ‘* build upon the sands.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_silent-world_1876-02-01_6_3&#0036;0/pct:19.622528,28.371673,28.040743,33.784393/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_silent-world_1876-02-01_6_3&#0036;0/pct:19.622528,28.371673,28.040743,33.784393/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7402,7 +7418,7 @@ And &#x27;built upon the sand.&#x27;
 
 ---
 
-## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1876-02-19_54_8?page=9)
+## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://archive.org/details/sim_albion-a-journal-of-news-politics-and-literature_1876-02-19_54_8/page/n9/model/1up?view=theater)
 
 #### 1876-02-19 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -7453,7 +7469,7 @@ Must lend a helping hand,
 For those that talk, yet fail to do,  
 Lut “build upon the sand.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1876-02-19_54_8&#0036;9/pct:9.183673,13.818722,16.184807,21.898217/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1876-02-19_54_8&#0036;9/pct:9.183673,13.818722,16.184807,21.898217/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7896,7 +7912,7 @@ rut &quot;Build upon the sand.&quot;
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1876-06-08_49_23?page=3)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1876-06-08_49_23/page/n3/model/1up?view=theater)
 
 #### 1876-06-08 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -7918,7 +7934,7 @@ Must lend a helping hand,
 For those that talk, yet fail to do,  
 But “build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1876-06-08_49_23&#0036;3/pct:32.748869,34.316304,15.158371,6.311044/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1876-06-08_49_23&#0036;3/pct:32.748869,34.316304,15.158371,6.311044/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8346,7 +8362,7 @@ the sand.&quot;
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1877-12-13_50_50?page=3)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1877-12-13_50_50/page/n3/model/1up?view=theater)
 
 #### 1877-12-13 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -8364,7 +8380,7 @@ Must lend a helping hand,
 For those who talk, yet fail’ to do,  
 But “build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1877-12-13_50_50&#0036;3/pct:30.656109,48.140496,36.906109,44.534185/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1877-12-13_50_50&#0036;3/pct:30.656109,48.140496,36.906109,44.534185/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9125,7 +9141,7 @@ But “build upon the sand.
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1885-07-30_56_31?page=5)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1885-07-30_56_31/page/n5/model/1up?view=theater)
 
 #### 1885-07-30 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -9151,13 +9167,13 @@ For those who talk, yet fail to do.
   
 But build upon the sand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1885-07-30_56_31&#0036;5/pct:22.955607,67.059075,10.601636,5.725599/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_evangelist-and-religious-review_1885-07-30_56_31&#0036;5/pct:22.955607,67.059075,10.601636,5.725599/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Practical Teacher: With Which Is Incorporated the Practical Teacher's Art Monthly 1881-1911_](https://iiif.archivelab.org/iiif/sim_practical-teacher-teachers-art-monthly_1885-08_5_6?page=36)
+## [From _Practical Teacher: With Which Is Incorporated the Practical Teacher's Art Monthly 1881-1911_](https://archive.org/details/sim_practical-teacher-teachers-art-monthly_1885-08_5_6/page/n36/model/1up?view=theater)
 
 #### 1885-08-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -9173,7 +9189,7 @@ And love /ink man to man.
   
 2. Parse the words in italics,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_practical-teacher-teachers-art-monthly_1885-08_5_6&#0036;36/pct:48.878205,43.479284,27.243590,5.367232/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_practical-teacher-teachers-art-monthly_1885-08_5_6&#0036;36/pct:48.878205,43.479284,27.243590,5.367232/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9232,7 +9248,7 @@ upon the sand.&quot; &#x27; , * - &#x27; , ELIZA COOK.
 
 ---
 
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1885-10-31_59_13?page=3)
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1885-10-31_59_13/page/n3/model/1up?view=theater)
 
 #### 1885-10-31 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -9321,7 +9337,7 @@ Must lend a helping hand,
 For those that talk, yet fail to do,  
 But “ build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1885-10-31_59_13&#0036;3/pct:42.710843,29.395852,23.795181,60.414788/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friend-a-religious-and-literary-journal_1885-10-31_59_13&#0036;3/pct:42.710843,29.395852,23.795181,60.414788/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

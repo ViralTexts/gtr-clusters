@@ -1,7 +1,7 @@
 
 # The Footsteps of Decay
 
-### 249 reprints from 1824-01-01 to 1899-07-13
+### 250 reprints from 1824-01-01 to 1899-07-13
 
 ## [The Footsteps of Decay](http://chroniclingamerica.loc.gov/lccn/sn82015407/1864-12-17/ed-1/seq-1/)
 
@@ -80,9 +80,9 @@ When age comes on!
 
 ---
 
-## [From _The Edinburgh Review, or Critical Journal 1802-1910_](https://iiif.archivelab.org/iiif/sim_edinburgh-review-critical-journal_1824-01_39_78?page=151)
+## [From _The Edinburgh Review, or Critical Journal 1802-1910_](https://archive.org/details/sim_edinburgh-review-critical-journal_1824-01_39_78/page/n151/model/1up?view=theater)
 
-#### 1824-01-01
+#### 1824-01-01 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -135,13 +135,13 @@ The strength is gone, the step is show,
 And joy grows weariness and woe ~  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_edinburgh-review-critical-journal_1824-01_39_78&#0036;151/pct:14.072495,13.589077,36.140725,46.879064/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_edinburgh-review-critical-journal_1824-01_39_78&#0036;151/pct:14.072495,13.589077,36.140725,46.879064/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Museum of Foreign Literature, Science, and Art (1822-1842)_](https://iiif.archivelab.org/iiif/sim_museum-of-foreign-literature-science-and-art_1824_4_23?page=16)
+## [From _The Museum of Foreign Literature, Science, and Art (1822-1842)_](https://archive.org/details/sim_museum-of-foreign-literature-science-and-art_1824_4_23/page/n16/model/1up?view=theater)
 
 #### 1824-01-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -218,13 +218,13 @@ The strength is gone, the step is slow,
 And joy grows weariness and wo  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_museum-of-foreign-literature-science-and-art_1824_4_23&#0036;16/pct:14.265799,40.743848,67.425651,43.791946/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_museum-of-foreign-literature-science-and-art_1824_4_23&#0036;16/pct:14.265799,40.743848,67.425651,43.791946/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Mutual Rights and Methodist Protestant 1824-1825_](https://iiif.archivelab.org/iiif/sim_mutual-rights-and-methodist-protestant_1824_1?page=405)
+## [From _Mutual Rights and Methodist Protestant 1824-1825_](https://archive.org/details/sim_mutual-rights-and-methodist-protestant_1824_1/page/n405/model/1up?view=theater)
 
 #### 1824-01-01 &middot; [Baltimore, Maryland](http://dbpedia.org/resource/Baltimore)
 
@@ -235,13 +235,13 @@ the production of another age. It is surpassed by nothing, with
 which we are acquainted, in the Spanish language, except the  
 odes of Luis de Leon. The flow of the verse, and the fine an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mutual-rights-and-methodist-protestant_1824_1&#0036;405/pct:17.485380,58.617747,69.239766,4.266212/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_mutual-rights-and-methodist-protestant_1824_1&#0036;405/pct:17.485380,58.617747,69.239766,4.266212/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Mutual Rights and Methodist Protestant 1824-1825_](https://iiif.archivelab.org/iiif/sim_mutual-rights-and-methodist-protestant_1824_1?page=405)
+## [From _Mutual Rights and Methodist Protestant 1824-1825_](https://archive.org/details/sim_mutual-rights-and-methodist-protestant_1824_1/page/n405/model/1up?view=theater)
 
 #### 1824-01-01 &middot; [Baltimore, Maryland](http://dbpedia.org/resource/Baltimore)
 
@@ -333,7 +333,7 @@ Age came, and laid his fingers there,
 And where are they?  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mutual-rights-and-methodist-protestant_1824_1&#0036;405/pct:32.456140,68.208191,41.023392,18.634812/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_mutual-rights-and-methodist-protestant_1824_1&#0036;405/pct:32.456140,68.208191,41.023392,18.634812/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ And where are they?
 
 ---
 
-## [From _Christian register._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1824-05-21_3_41?page=3)
+## [From _Christian register._](https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_1824-05-21_3_41/page/n3/model/1up?view=theater)
 
 #### 1824-05-21 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -443,13 +443,13 @@ The strength is gone, the step is slow.
 And joy grows weariness and wo  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1824-05-21_3_41&#0036;3/pct:9.821429,8.566233,17.410714,37.471286/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_unitarian-register-and-the-universalist-leader_1824-05-21_3_41&#0036;3/pct:9.821429,8.566233,17.410714,37.471286/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The New - England Galaxy and United States Literary Advertiser (1830-1836)_](https://iiif.archivelab.org/iiif/sim_boston-pearl-and-galaxy_1824-06-04_7_347?page=3)
+## [From _The New - England Galaxy and United States Literary Advertiser (1830-1836)_](https://archive.org/details/sim_boston-pearl-and-galaxy_1824-06-04_7_347/page/n3/model/1up?view=theater)
 
 #### 1824-06-04 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -509,7 +509,7 @@ like strength is gone, the step it slow,
 .ind joy grows weariness and wo  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-pearl-and-galaxy_1824-06-04_7_347&#0036;3/pct:5.371094,29.686259,14.871652,17.037331/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_boston-pearl-and-galaxy_1824-06-04_7_347&#0036;3/pct:5.371094,29.686259,14.871652,17.037331/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -881,7 +881,7 @@ When age conies on.
 
 ---
 
-## [From _Religious Monitor and Evangelical Repository (1824-1842)_](https://iiif.archivelab.org/iiif/sim_religious-monitor-and-evangelical-repository_1825-03_1?page=38)
+## [From _Religious Monitor and Evangelical Repository (1824-1842)_](https://archive.org/details/sim_religious-monitor-and-evangelical-repository_1825-03_1/page/n38/model/1up?view=theater)
 
 #### 1825-03-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -912,13 +912,13 @@ Blows by, and leaves us nought behind,
 But grief at last ;  
 How still our present happines
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_religious-monitor-and-evangelical-repository_1825-03_1&#0036;38/pct:17.048817,76.808460,63.794379,13.025715/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_religious-monitor-and-evangelical-repository_1825-03_1&#0036;38/pct:17.048817,76.808460,63.794379,13.025715/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Religious Monitor and Evangelical Repository (1824-1842)_](https://iiif.archivelab.org/iiif/sim_religious-monitor-and-evangelical-repository_1825-03_1?page=39)
+## [From _Religious Monitor and Evangelical Repository (1824-1842)_](https://archive.org/details/sim_religious-monitor-and-evangelical-repository_1825-03_1/page/n39/model/1up?view=theater)
 
 #### 1825-03-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -995,13 +995,13 @@ The strength is gone, the step is slow,
 And joy grows weariness and wo  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_religious-monitor-and-evangelical-repository_1825-03_1&#0036;39/pct:33.764793,14.635905,36.316568,75.943283/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_religious-monitor-and-evangelical-repository_1825-03_1&#0036;39/pct:33.764793,14.635905,36.316568,75.943283/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _New York Telescope (1824-1828)_](https://iiif.archivelab.org/iiif/sim_new-york-telescope_1825-03-26_1_43?page=3)
+## [From _New York Telescope (1824-1828)_](https://archive.org/details/sim_new-york-telescope_1825-03-26_1_43/page/n3/model/1up?view=theater)
 
 #### 1825-03-26 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1080,13 +1080,13 @@ And joys grow weariness and wo
   
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-telescope_1825-03-26_1_43&#0036;3/pct:73.968934,22.273642,19.121585,47.927565/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-york-telescope_1825-03-26_1_43&#0036;3/pct:73.968934,22.273642,19.121585,47.927565/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Western recorder._](https://iiif.archivelab.org/iiif/sim_western-recorder_1825-04-26_2_43?page=3)
+## [From _Western recorder._](https://archive.org/details/sim_western-recorder_1825-04-26_2_43/page/n3/model/1up?view=theater)
 
 #### 1825-04-26 &middot; [Utica, N.Y.](http://dbpedia.org/resource/Utica%2C_New_York)
 
@@ -1100,13 +1100,13 @@ cept the ode of Luis de Lean. 1
   
 ‘ Long e’er the damps of death can blight,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_western-recorder_1825-04-26_2_43&#0036;3/pct:7.607560,9.997446,16.421313,34.601634/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_western-recorder_1825-04-26_2_43&#0036;3/pct:7.607560,9.997446,16.421313,34.601634/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Western recorder._](https://iiif.archivelab.org/iiif/sim_western-recorder_1825-04-26_2_43?page=3)
+## [From _Western recorder._](https://archive.org/details/sim_western-recorder_1825-04-26_2_43/page/n3/model/1up?view=theater)
 
 #### 1825-04-26 &middot; [Utica, N.Y.](http://dbpedia.org/resource/Utica%2C_New_York)
 
@@ -1147,13 +1147,13 @@ And swallow all.
 Alike the river’s loraly tide,  
 Alike the humble riv’lets glide
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_western-recorder_1825-04-26_2_43&#0036;3/pct:8.775762,18.679775,16.601767,14.338611/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_western-recorder_1825-04-26_2_43&#0036;3/pct:8.775762,18.679775,16.601767,14.338611/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Western recorder._](https://iiif.archivelab.org/iiif/sim_western-recorder_1825-04-26_2_43?page=3)
+## [From _Western recorder._](https://archive.org/details/sim_western-recorder_1825-04-26_2_43/page/n3/model/1up?view=theater)
 
 #### 1825-04-26 &middot; [Utica, N.Y.](http://dbpedia.org/resource/Utica%2C_New_York)
 
@@ -1207,7 +1207,7 @@ And joy grows weariness and wo
   
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_western-recorder_1825-04-26_2_43&#0036;3/pct:9.174660,27.279111,32.139804,23.621042/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_western-recorder_1825-04-26_2_43&#0036;3/pct:9.174660,27.279111,32.139804,23.621042/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1233,7 +1233,7 @@ When age comes on.
 
 ---
 
-## [From _Christian register._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1825-05-14_4_19?page=0)
+## [From _Christian register._](https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_1825-05-14_4_19/page/n0/model/1up?view=theater)
 
 #### 1825-05-14 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -1318,7 +1318,7 @@ And joy grows weariness and wo
   
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1825-05-14_4_19&#0036;0/pct:51.048753,17.877435,39.937642,75.030438/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_unitarian-register-and-the-universalist-leader_1825-05-14_4_19&#0036;0/pct:51.048753,17.877435,39.937642,75.030438/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1334,7 +1334,7 @@ When age comes on.
 
 ---
 
-## [From _The Cincinnati Literary Gazette (1824-1825)_](https://iiif.archivelab.org/iiif/sim_cincinnati-literary-gazette_1825-06-18_3_25?page=7)
+## [From _The Cincinnati Literary Gazette (1824-1825)_](https://archive.org/details/sim_cincinnati-literary-gazette_1825-06-18_3_25/page/n7/model/1up?view=theater)
 
 #### 1825-06-18 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
@@ -1411,13 +1411,13 @@ The heart’s blithe tone ?-—
   
 eTHE CINCINNATI LITERARY GAZETTE.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cincinnati-literary-gazette_1825-06-18_3_25&#0036;7/pct:27.868509,10.466238,41.247906,56.655949/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_cincinnati-literary-gazette_1825-06-18_3_25&#0036;7/pct:27.868509,10.466238,41.247906,56.655949/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The American Athenaeum:  A Repository of Belles Lettres, Science, and the Arts (1825-1825)_](https://iiif.archivelab.org/iiif/sim_american-athenaeum-a-repository-of-belles-lettres_1825-07-07_1_11?page=1)
+## [From _The American Athenaeum:  A Repository of Belles Lettres, Science, and the Arts (1825-1825)_](https://archive.org/details/sim_american-athenaeum-a-repository-of-belles-lettres_1825-07-07_1_11/page/n1/model/1up?view=theater)
 
 #### 1825-07-07 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1501,13 +1501,13 @@ The strength is gone, the step is slow,
 And joy grows wearisome and wo  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-athenaeum-a-repository-of-belles-lettres_1825-07-07_1_11&#0036;1/pct:65.484880,26.079734,25.130344,56.270764/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_american-athenaeum-a-repository-of-belles-lettres_1825-07-07_1_11&#0036;1/pct:65.484880,26.079734,25.130344,56.270764/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Kentucky gazette._](https://iiif.archivelab.org/iiif/xt7sbc3svk62?page=3)
+## [From _Kentucky gazette._](https://archive.org/details/xt7sbc3svk62/page/n3/model/1up?view=theater)
 
 #### 1825-07-29 &middot; [[Lexington, Ky.]](http://dbpedia.org/resource/Lexington%2C_Kentucky)
 
@@ -1616,7 +1616,7 @@ The strength is gone, the step is slow,
 And joy grows weariness and wo  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7sbc3svk62&#0036;3/pct:6.304954,15.507202,17.006219,35.611401/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7sbc3svk62&#0036;3/pct:6.304954,15.507202,17.006219,35.611401/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1632,7 +1632,7 @@ When age comes on.
 
 ---
 
-## [From _Philadelphia recorder._](https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1825-11-26_3_35?page=3)
+## [From _Philadelphia recorder._](https://archive.org/details/sim_episcopal-recorder_1825-11-26_3_35/page/n3/model/1up?view=theater)
 
 #### 1825-11-26 &middot; [Philadelphia, Pa.](http://dbpedia.org/resource/Philadelphia)
 
@@ -1656,13 +1656,13 @@ Come stealing on:
   
 How pleasure like the passing \vin»l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1825-11-26_3_35&#0036;3/pct:6.300230,6.906780,14.939724,8.368644/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_episcopal-recorder_1825-11-26_3_35&#0036;3/pct:6.300230,6.906780,14.939724,8.368644/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Philadelphia recorder._](https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1825-11-26_3_35?page=3)
+## [From _Philadelphia recorder._](https://archive.org/details/sim_episcopal-recorder_1825-11-26_3_35/page/n3/model/1up?view=theater)
 
 #### 1825-11-26 &middot; [Philadelphia, Pa.](http://dbpedia.org/resource/Philadelphia)
 
@@ -1735,13 +1735,13 @@ The strength is gone, the step is slow,
   
 And j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1825-11-26_3_35&#0036;3/pct:7.792767,22.245763,13.892078,26.122881/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_episcopal-recorder_1825-11-26_3_35&#0036;3/pct:7.792767,22.245763,13.892078,26.122881/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Pittsburgh Recorder, Containing Religious Literary and Political Information (1822-1827)_](https://iiif.archivelab.org/iiif/sim_pittsburgh-recorder_1825-11-29_4_199?page=3)
+## [From _The Pittsburgh Recorder, Containing Religious Literary and Political Information (1822-1827)_](https://archive.org/details/sim_pittsburgh-recorder_1825-11-29_4_199/page/n3/model/1up?view=theater)
 
 #### 1825-11-29 &middot; [Pittsburgh](http://dbpedia.org/resource/Pittsburgh)
 
@@ -1752,13 +1752,13 @@ The following is a translation from an ancient
 Spanish Poem, which. says the E linburg Review  
 fs surpassed by nothing which we are acquainted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_pittsburgh-recorder_1825-11-29_4_199&#0036;3/pct:9.921004,12.682704,19.888476,1.811815/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_pittsburgh-recorder_1825-11-29_4_199&#0036;3/pct:9.921004,12.682704,19.888476,1.811815/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Pittsburgh Recorder, Containing Religious Literary and Political Information (1822-1827)_](https://iiif.archivelab.org/iiif/sim_pittsburgh-recorder_1825-11-29_4_199?page=3)
+## [From _The Pittsburgh Recorder, Containing Religious Literary and Political Information (1822-1827)_](https://archive.org/details/sim_pittsburgh-recorder_1825-11-29_4_199/page/n3/model/1up?view=theater)
 
 #### 1825-11-29 &middot; [Pittsburgh](http://dbpedia.org/resource/Pittsburgh)
 
@@ -1856,13 +1856,13 @@ The strength is gone, the step is slow,
 And joy grows weariness and wo,  
 When age comes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_pittsburgh-recorder_1825-11-29_4_199&#0036;3/pct:1.347584,16.062728,27.555762,80.709501/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_pittsburgh-recorder_1825-11-29_4_199&#0036;3/pct:1.347584,16.062728,27.555762,80.709501/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Columbian star._](https://iiif.archivelab.org/iiif/sim_columbian-star_1825-12-10_4_50?page=3)
+## [From _The Columbian star._](https://archive.org/details/sim_columbian-star_1825-12-10_4_50/page/n3/model/1up?view=theater)
 
 #### 1825-12-10 &middot; [Washington City](http://dbpedia.org/resource/Washington%2C_D.C.)
 
@@ -1949,13 +1949,13 @@ The strength is gone, the step is slow,
 And joy grows weariness and wo  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_columbian-star_1825-12-10_4_50&#0036;3/pct:5.412874,11.459175,16.970091,39.480598/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_columbian-star_1825-12-10_4_50&#0036;3/pct:5.412874,11.459175,16.970091,39.480598/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1825-12-30_7_4?page=3)
+## [From _Christian Watchman (1819-1848)_](https://archive.org/details/sim_watchman-examiner_1825-12-30_7_4/page/n3/model/1up?view=theater)
 
 #### 1825-12-30 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1994,13 +1994,13 @@ let no vain hope deceive the mind
 No hap} ier, let us hope to tind  
 ‘To-morrow than to-day 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1825-12-30_7_4&#0036;3/pct:9.839782,35.512484,14.389359,10.052562/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_watchman-examiner_1825-12-30_7_4&#0036;3/pct:9.839782,35.512484,14.389359,10.052562/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1825-12-30_7_4?page=3)
+## [From _Christian Watchman (1819-1848)_](https://archive.org/details/sim_watchman-examiner_1825-12-30_7_4/page/n3/model/1up?view=theater)
 
 #### 1825-12-30 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2032,7 +2032,7 @@ And joy grows weariness and wo
   
 When age comes o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1825-12-30_7_4&#0036;3/pct:9.915357,62.144109,79.096131,10.435830/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_watchman-examiner_1825-12-30_7_4&#0036;3/pct:9.915357,62.144109,79.096131,10.435830/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2093,7 +2093,7 @@ weariness and woe When age comes on
 
 ---
 
-## [From _Washington Theological Repertory (1819-1828)_](https://iiif.archivelab.org/iiif/sim_theological-repertory-and-churchmans-guide_1826-09_8_2?page=17)
+## [From _Washington Theological Repertory (1819-1828)_](https://archive.org/details/sim_theological-repertory-and-churchmans-guide_1826-09_8_2/page/n17/model/1up?view=theater)
 
 #### 1826-09-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
 
@@ -2205,13 +2205,13 @@ And joy grows weariness and woe
   
 When age come on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_theological-repertory-and-churchmans-guide_1826-09_8_2&#0036;17/pct:13.200852,35.174287,71.823989,55.839746/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_theological-repertory-and-churchmans-guide_1826-09_8_2&#0036;17/pct:13.200852,35.174287,71.823989,55.839746/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Christian telescope and Universalist miscellany._](https://iiif.archivelab.org/iiif/sim_christian-telescope-and-universalist-miscellany_1826-10-07_3_9?page=6)
+## [From _Christian telescope and Universalist miscellany._](https://archive.org/details/sim_christian-telescope-and-universalist-miscellany_1826-10-07_3_9/page/n6/model/1up?view=theater)
 
 #### 1826-10-07 &middot; [Providence, R.I.](http://dbpedia.org/resource/Providence%2C_Rhode_Island)
 
@@ -2312,7 +2312,7 @@ The strength is gone, the step is slow,
 And joy grows weariness and wo  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-telescope-and-universalist-miscellany_1826-10-07_3_9&#0036;6/pct:6.730769,28.733602,79.869727,61.680121/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_christian-telescope-and-universalist-miscellany_1826-10-07_3_9&#0036;6/pct:6.730769,28.733602,79.869727,61.680121/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2484,7 +2484,7 @@ When age comes on.
 
 ---
 
-## [From _Casket (1826-1830)_](https://iiif.archivelab.org/iiif/sim_grahams-illustrated-magazine_1826-12_1_12?page=30)
+## [From _Casket (1826-1830)_](https://archive.org/details/sim_grahams-illustrated-magazine_1826-12_1_12/page/n30/model/1up?view=theater)
 
 #### 1826-12-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2601,7 +2601,7 @@ And joy grows weariness and wo
   
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_grahams-illustrated-magazine_1826-12_1_12&#0036;30/pct:5.052790,60.679825,84.653092,26.293860/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_grahams-illustrated-magazine_1826-12_1_12&#0036;30/pct:5.052790,60.679825,84.653092,26.293860/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2713,7 +2713,7 @@ When age comes on.
 
 ---
 
-## [From _New York Telescope (1824-1828)_](https://iiif.archivelab.org/iiif/sim_new-york-telescope_1827-06-16_4_3?page=2)
+## [From _New York Telescope (1824-1828)_](https://archive.org/details/sim_new-york-telescope_1827-06-16_4_3/page/n2/model/1up?view=theater)
 
 #### 1827-06-16 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2806,13 +2806,13 @@ The strength is gone, the step is slow,
 And joy grows weariness and wo  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-telescope_1827-06-16_4_3&#0036;2/pct:68.211034,43.742802,20.674879,51.497121/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-york-telescope_1827-06-16_4_3&#0036;2/pct:68.211034,43.742802,20.674879,51.497121/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Gospel Advocate and Impartial Investigator (1823-1829)_](https://iiif.archivelab.org/iiif/sim_gospel-advocate-and-impartial-investigator_1827-07-28_5_30?page=7)
+## [From _Gospel Advocate and Impartial Investigator (1823-1829)_](https://archive.org/details/sim_gospel-advocate-and-impartial-investigator_1827-07-28_5_30/page/n7/model/1up?view=theater)
 
 #### 1827-07-28 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2892,13 +2892,13 @@ The strength is gone, the step is slow,
 And joy grows weariness and wo  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_gospel-advocate-and-impartial-investigator_1827-07-28_5_30&#0036;7/pct:57.845528,14.833060,35.284553,67.788725/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_gospel-advocate-and-impartial-investigator_1827-07-28_5_30&#0036;7/pct:57.845528,14.833060,35.284553,67.788725/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _North American. Or, Weekly Journal of Politics, Science and Literature (1827-1827)_](https://iiif.archivelab.org/iiif/sim_north-american-or-weekly-journal-of-politics-science_1827-07-28_1_11?page=4)
+## [From _North American. Or, Weekly Journal of Politics, Science and Literature (1827-1827)_](https://archive.org/details/sim_north-american-or-weekly-journal-of-politics-science_1827-07-28_1_11/page/n4/model/1up?view=theater)
 
 #### 1827-07-28 &middot; [Baltimore](http://dbpedia.org/resource/Baltimore)
 
@@ -2991,13 +2991,13 @@ The strength is gone,—the step is slow,
 And joy grows weariness and woe,  
 When age comes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_north-american-or-weekly-journal-of-politics-science_1827-07-28_1_11&#0036;4/pct:67.757009,10.726073,23.624091,51.093234/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_north-american-or-weekly-journal-of-politics-science_1827-07-28_1_11&#0036;4/pct:67.757009,10.726073,23.624091,51.093234/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The New - York Mirror: a Weekly Gazette of Literature and the Fine Arts (1823-1842)_](https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1828-03-22_5_37?page=7)
+## [From _The New - York Mirror: a Weekly Gazette of Literature and the Fine Arts (1823-1842)_](https://archive.org/details/sim_new-york-mirror-a-weekly-gazette-of-literature_1828-03-22_5_37/page/n7/model/1up?view=theater)
 
 #### 1828-03-22 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3062,7 +3062,7 @@ The strength is gone, the step is slow,
 And joy grows weariness and wo, }  
 When age comes on. Flowarp. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1828-03-22_5_37&#0036;7/pct:39.819277,12.466186,25.572289,55.725879/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-york-mirror-a-weekly-gazette-of-literature_1828-03-22_5_37&#0036;7/pct:39.819277,12.466186,25.572289,55.725879/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3085,48 +3085,6 @@ When age comes on. Flowarp.
 #### 1830-10-13 &middot; [Washington City [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 [This text is not available under an open license.]
-
----
-
-## [From _Richmond enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84024735/1830-10-19/ed-1/seq-4)
-
-#### 1830-10-19 &middot; [Richmond, Va.](http://dbpedia.org/resource/Richmond%2C_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-And awallaw all.  
-Death levels poverty and pride,  
-And rich and poor •leap aide by aide  
-Within the grave,  
-Our birth ia but a starting place.&#x27;  
-Lifo it the ranning of the race;  
-And death the goal;  
-There all thnae glittering toys are brought,  
-Tbit path alone, of nil unsought,  
-la found of all.  
-Bay, than, how poor nnd little worth  
-Aro all those glittering toys of earth.  
-That lure us here/  
-_ _ Dreams of aalaep tha death must break,  
-“ 1 Alas/ bvfere it bids us wake,  
-We disappear!  
-I.eng are the lamp o&#x27; death can blight,  
-Thu cheek’s pure glow of red and white  
-lias pasted away,  
-Youth smiled, nnd all was heavenly fair;  
-Age came and laid his finger them,  
-And whera nro therf  
-Where ia tho strength tlint spurn decay,  
-The step that rellud ao light and gnv,  
-Tha heart&#x27;s hi■ ihe tone.’  
-The strength is gone, the step is slow,  
-Amt joy grows wearisome and wo  
-Whsu ago cornea on.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_naturals_ver01%2Fdata%2Fsn84024735%2F00414184042%2F1830101901%2F0184.jp2/pct:3.495994,20.601878,12.794368,11.453030/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
@@ -3200,7 +3158,7 @@ When age comes on.
 
 ---
 
-## [From _The Philadelphia Album and Ladies' Literary Portfolio (1830-1834)_](https://iiif.archivelab.org/iiif/sim_catholic-educational-review_1830-10-23_4_43?page=0)
+## [From _The Philadelphia Album and Ladies' Literary Portfolio (1830-1834)_](https://archive.org/details/sim_catholic-educational-review_1830-10-23_4_43/page/n0/model/1up?view=theater)
 
 #### 1830-10-23 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -3284,7 +3242,7 @@ Aud joy grows wearisome and wo
   
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_catholic-educational-review_1830-10-23_4_43&#0036;0/pct:7.864336,22.000916,20.245853,43.750000/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_catholic-educational-review_1830-10-23_4_43&#0036;0/pct:7.864336,22.000916,20.245853,43.750000/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3320,7 +3278,7 @@ When age comes on.
 
 ---
 
-## [From _The Religious Intelligencer ... Containing the Principal Transactions of the Various Bible and Missionary Societies, with Particular Accounts of Revivals of Religion (1816-1837)_](https://iiif.archivelab.org/iiif/sim_religious-intelligencer_1830-12-04_15_27?page=15)
+## [From _The Religious Intelligencer ... Containing the Principal Transactions of the Various Bible and Missionary Societies, with Particular Accounts of Revivals of Religion (1816-1837)_](https://archive.org/details/sim_religious-intelligencer_1830-12-04_15_27/page/n15/model/1up?view=theater)
 
 #### 1830-12-04 &middot; [New Haven](http://dbpedia.org/resource/New_Haven%2C_Connecticut)
 
@@ -3405,7 +3363,7 @@ The strength is gone, the step is slow,
 And joy grows wearisome and wo  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_religious-intelligencer_1830-12-04_15_27&#0036;15/pct:7.168459,15.913978,38.844086,62.177419/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_religious-intelligencer_1830-12-04_15_27&#0036;15/pct:7.168459,15.913978,38.844086,62.177419/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3441,7 +3399,7 @@ When age comes on.
 
 ---
 
-## [From _Philadelphia recorder._](https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1830-12-18_8_38?page=3)
+## [From _Philadelphia recorder._](https://archive.org/details/sim_episcopal-recorder_1830-12-18_8_38/page/n3/model/1up?view=theater)
 
 #### 1830-12-18 &middot; [Philadelphia, Pa.](http://dbpedia.org/resource/Philadelphia)
 
@@ -3549,13 +3507,13 @@ And joy grows wearisome and wo
   
 Wlien age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1830-12-18_8_38&#0036;3/pct:15.871254,32.349831,14.428413,29.631980/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_episcopal-recorder_1830-12-18_8_38&#0036;3/pct:15.871254,32.349831,14.428413,29.631980/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The western luminary._](https://iiif.archivelab.org/iiif/sim_western-farmer-and-gardener_1830-12-29_7_26?page=3)
+## [From _The western luminary._](https://archive.org/details/sim_western-farmer-and-gardener_1830-12-29_7_26/page/n3/model/1up?view=theater)
 
 #### 1830-12-29 &middot; [Lexington, Ky.](http://dbpedia.org/resource/Lexington%2C_Kentucky)
 
@@ -3634,7 +3592,7 @@ And joy grows wearisome and wo
   
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_western-farmer-and-gardener_1830-12-29_7_26&#0036;3/pct:10.541142,12.176560,15.737583,31.535388/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_western-farmer-and-gardener_1830-12-29_7_26&#0036;3/pct:10.541142,12.176560,15.737583,31.535388/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3650,7 +3608,7 @@ When age comes on.
 
 ---
 
-## [From _Episcopal watchman._](https://iiif.archivelab.org/iiif/sim_episcopal-watchman_1831-01-01_4_34?page=2)
+## [From _Episcopal watchman._](https://archive.org/details/sim_episcopal-watchman_1831-01-01_4_34/page/n2/model/1up?view=theater)
 
 #### 1831-01-01 &middot; [Hartford](http://dbpedia.org/resource/Hartford%2C_Connecticut)
 
@@ -3751,13 +3709,13 @@ I And joy grows wearisome and wo
   
 I When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_episcopal-watchman_1831-01-01_4_34&#0036;2/pct:5.246914,11.118364,77.160494,83.268059/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_episcopal-watchman_1831-01-01_4_34&#0036;2/pct:5.246914,11.118364,77.160494,83.268059/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Christian secretary._](https://iiif.archivelab.org/iiif/sim_christian-secretary_1831-01-08_9_51?page=3)
+## [From _Christian secretary._](https://archive.org/details/sim_christian-secretary_1831-01-08_9_51/page/n3/model/1up?view=theater)
 
 #### 1831-01-08 &middot; [Hartford [Conn.]](http://dbpedia.org/resource/Hartford%2C_Connecticut)
 
@@ -3767,13 +3725,13 @@ I When age comes on.
 &quot;The following is a transition from an ancient Spanish Poem, :  
 which, says the Euinburgh Review, is surpassed by nothing | talent to be able clearly to prove and explain | change,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-secretary_1831-01-08_9_51&#0036;3/pct:13.167614,8.010993,37.045455,1.231678/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_christian-secretary_1831-01-08_9_51&#0036;3/pct:13.167614,8.010993,37.045455,1.231678/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Christian secretary._](https://iiif.archivelab.org/iiif/sim_christian-secretary_1831-01-08_9_51?page=3)
+## [From _Christian secretary._](https://archive.org/details/sim_christian-secretary_1831-01-08_9_51/page/n3/model/1up?view=theater)
 
 #### 1831-01-08 &middot; [Hartford [Conn.]](http://dbpedia.org/resource/Hartford%2C_Connecticut)
 
@@ -3846,7 +3804,79 @@ The strength is gone, the step is slow,
 And joy grows wearisome and wo  
 =&quot; When age comes o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-secretary_1831-01-08_9_51&#0036;3/pct:13.167614,9.649837,14.531250,28.135179/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_christian-secretary_1831-01-08_9_51&#0036;3/pct:13.167614,9.649837,14.531250,28.135179/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The New Hampshire gazette._](https://chroniclingamerica.loc.gov/lccn/sn83025588/1831-05-17/ed-1/seq-4)
+
+#### 1831-05-17 &middot; [Portsmouth [N.H.]](http://dbpedia.org/resource/Portsmouth%2C_New_Hampshire)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+The following is a translation from an ancient Span­  
+ish Poem, which, says the Eciuburgh Review, is sur­  
+passed by nothing with which we are acquainted in the  
+Spanish language, except the Odes of lewis de Leon—  
+Oh! let the soul its slumbers break,  
+Arouse its seuses and awake,  
+To sce how soon  
+Life, like its glories glides away,  
+Aad the stern footsteps of decay  
+Cuoine stealing on,  
+And while we view the rolling tide,  
+Dawa which our flowing minutes glide  
+Away so fast,  
+L.et us the preseat hour employ,  
+And deem cach sure dream a joy  
+Already past,  
+I.et no vain hope deceive the mind—  
+No happier let us hope to find  
+T&#x27;o-morrow than to-day—  
+Our golden dreams of yore were bright,  
+Like them the present shall delight—  
+Like them decay.  
+Our lives like hasting streams must be  
+That into one ingulphing sea  
+Are doomed to fall—  
+I&#x27;he sea of ‘death, whose waves rol! on  
+Q&#x27;er king, and kingdom, crown and throne,  
+And swallew all.  
+Alike the river&#x27;s lordly tide, :  
+Alike the humbte rivalets glide, ’  
+To that sad wave-——  
+Death levels property and pride, ;  
+And rich and poor sleep side by side  
+Within the grave.  
+Qur birth is but a starting place !  
+Life is the running of the race ;  
+Aund death the goal;  
+There all those glittering toys are brought,  
+That path alone, ot all unsought,  
+Is found of all.  
+Say, then, how peor and little worth  
+Are all those ghttering toys of earth,  
+T&#x27;hat lure us here ?  
+Dreams of a sleep that death must break,  
+Alas! before it bids us wake,  
+We disappear!  
+Long ere the lainp of deatk can blight,  
+The clicek’s pure glow of red and white  
+Has passed away,  
+Youth smiled, and all was heaveu!ly fair;  
+Age came and laid his finger there,  
+Aud where are they ?  
+;\E&#x27;hcm is the strength that spurns decay,  
+T&#x27;he step that rolled so light and gay,  
+The heart’s blithe tone ?  
+T&#x27;he strenath is gone, the step is slow,  
+Aud joy grows wearisome and wo  
+When age comes on.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nhd_avalon_ver02%2Fdata%2Fsn83025588%2F00517015167%2F1831051701%2F0499.jp2/pct:12.491861,9.927732,15.972953,28.397775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3972,7 +4002,7 @@ When age come on.
 
 ---
 
-## [From _Christian Intelligencer 1821-1836_](https://iiif.archivelab.org/iiif/sim_christian-intelligencer_1831-09-09_11_36?page=3)
+## [From _Christian Intelligencer 1821-1836_](https://archive.org/details/sim_christian-intelligencer_1831-09-09_11_36/page/n3/model/1up?view=theater)
 
 #### 1831-09-09 &middot; [Portland, Maine](http://dbpedia.org/resource/Portland%2C_Maine)
 
@@ -4017,7 +4047,7 @@ The strength is gone, the step is slow,
 And joys grow wearisome aul wo,  
 When age comes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-intelligencer_1831-09-09_11_36&#0036;3/pct:11.192028,23.924528,14.584132,16.062893/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_christian-intelligencer_1831-09-09_11_36&#0036;3/pct:11.192028,23.924528,14.584132,16.062893/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4033,7 +4063,7 @@ When age comes on
 
 ---
 
-## [From _Christian register._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1832-04-07_11_14?page=3)
+## [From _Christian register._](https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_1832-04-07_11_14/page/n3/model/1up?view=theater)
 
 #### 1832-04-07 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -4098,13 +4128,13 @@ We disappear!
   
 Long ere the lamp of death can blight,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1832-04-07_11_14&#0036;3/pct:11.876988,41.793818,13.600212,31.445618/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_unitarian-register-and-the-universalist-leader_1832-04-07_11_14&#0036;3/pct:11.876988,41.793818,13.600212,31.445618/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Christian register._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1832-04-07_11_14?page=3)
+## [From _Christian register._](https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_1832-04-07_11_14/page/n3/model/1up?view=theater)
 
 #### 1832-04-07 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -4127,7 +4157,7 @@ And joy grows wearisome and wo
   
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1832-04-07_11_14&#0036;3/pct:11.598621,73.278560,13.865323,7.609546/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_unitarian-register-and-the-universalist-leader_1832-04-07_11_14&#0036;3/pct:11.598621,73.278560,13.865323,7.609546/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4163,9 +4193,9 @@ When age comes on.
 
 ---
 
-## [From _Literary Journal and Weekly Register of Science and the Arts 1833-1834_](https://iiif.archivelab.org/iiif/sim_literary-journal-and-weekly-register-of-science_1834-12-28_1_30?page=7)
+## [From _Literary Journal and Weekly Register of Science and the Arts 1833-1834_](https://archive.org/details/sim_literary-journal-and-weekly-register-of-science_1834-12-28_1_30/page/n7/model/1up?view=theater)
 
-#### 1834-12-28
+#### 1834-12-28 &middot; [Providence, Rhode Island](http://dbpedia.org/resource/Providence%2C_Rhode_Island)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4243,13 +4273,13 @@ And joy grows weariness and woe,
   
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_literary-journal-and-weekly-register-of-science_1834-12-28_1_30&#0036;7/pct:9.223301,7.483381,52.248339,82.621083/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_literary-journal-and-weekly-register-of-science_1834-12-28_1_30&#0036;7/pct:9.223301,7.483381,52.248339,82.621083/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1835-11-18_14_19?page=7)
+## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1835-11-18_14_19/page/n7/model/1up?view=theater)
 
 #### 1835-11-18 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -4329,7 +4359,7 @@ The strength is gone, the step is slow,
 And joy grows weariness and wo  
 When age comes on,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1835-11-18_14_19&#0036;7/pct:12.195767,12.500000,26.825397,67.966028/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-england-farmer-and-horticultural-register_1835-11-18_14_19&#0036;7/pct:12.195767,12.500000,26.825397,67.966028/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4355,7 +4385,7 @@ When age comes on,
 
 ---
 
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1837-07-22_10_42?page=7)
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1837-07-22_10_42/page/n7/model/1up?view=theater)
 
 #### 1837-07-22 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -4434,13 +4464,13 @@ The strength is gone, the step is slow,
 And joy grows weariness and wo  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1837-07-22_10_42&#0036;7/pct:42.700535,25.063721,20.534759,48.279524/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friend-a-religious-and-literary-journal_1837-07-22_10_42&#0036;7/pct:42.700535,25.063721,20.534759,48.279524/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1837-07-22_10_42?page=7)
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1837-07-22_10_42/page/n7/model/1up?view=theater)
 
 #### 1837-07-22 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -4454,7 +4484,7 @@ panish poe ch, says nburg : ;
 surpassed by nothing which we are acquainted with at gave general satisfaction. An effort _—  
 in the Spanish language except the odes of Luis de | made to prevent the meeting from receivin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1837-07-22_10_42&#0036;7/pct:40.401070,10.705183,50.347594,3.632116/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friend-a-religious-and-literary-journal_1837-07-22_10_42&#0036;7/pct:40.401070,10.705183,50.347594,3.632116/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4519,7 +4549,7 @@ and woe -, When age comes on. -&#x27;Say
 
 ---
 
-## [From _Christian register and Boston observer._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1839-08-24_18_34?page=3)
+## [From _Christian register and Boston observer._](https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_1839-08-24_18_34/page/n3/model/1up?view=theater)
 
 #### 1839-08-24 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -4602,13 +4632,13 @@ The strength is gone, the step is slow,
 And joy grows wearisome and wo  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1839-08-24_18_34&#0036;3/pct:8.560209,42.233103,12.290576,32.987711/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_unitarian-register-and-the-universalist-leader_1839-08-24_18_34&#0036;3/pct:8.560209,42.233103,12.290576,32.987711/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _American Masonic Register and Literary Companion (1839-1847)_](https://iiif.archivelab.org/iiif/sim_american-masonic-register-and-literary-companion_1840-07-25_1_47?page=7)
+## [From _American Masonic Register and Literary Companion (1839-1847)_](https://archive.org/details/sim_american-masonic-register-and-literary-companion_1840-07-25_1_47/page/n7/model/1up?view=theater)
 
 #### 1840-07-25 &middot; [Albany](http://dbpedia.org/resource/Albany%2C_New_York)
 
@@ -4691,7 +4721,7 @@ The strength is gore, the step is slow,
 And ae grows weariness and wo,  
 hen age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-masonic-register-and-literary-companion_1840-07-25_1_47&#0036;7/pct:39.294971,9.098428,26.101607,57.692308/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_american-masonic-register-and-literary-companion_1840-07-25_1_47&#0036;7/pct:39.294971,9.098428,26.101607,57.692308/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4855,6 +4885,61 @@ age cernes onV &#x27; Say, then,.bow poo
 
 ---
 
+## From _Vermont watchman and State journal._
+
+#### 1842-03-14 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Seems to the wayward fancy, less  
+Than what is past.  
+And, while we eye the rolling tide,  
+Down which our flying minutes glide  
+Away so fast,  
+Let us the present hour employ,  
+And deem each future dream of joy  
+Already past.  
+tet no vain hopes decelve the mind  
+No happier let us hope to find  
+To-morrow than to-day.  
+Our gilded dreams of yore were bright;  
+Like them the present shall delight,  
+Like them decay.  
+Our lives like lasting streams must be,  
+That into one engulphing ses.  
+Are doomed to fall  
+Oer king and kingdom, crown and throne,  
+The ses of death whose waves roll on,  
+And swallow all.  
+Alike the river&#x27;s lordly tide,  
+Alike the humble rivlets glide,  
+To that sad wave:  
+Death levels property and pride,  
+And rich and poor sleep side by side  
+Within the grave.  
+Our birth is but a starting place;  
+Life is the running of the race,  
+And death the goal;  
+There all our steps at last are brought;  
+That path alone, of all unsought,  
+Is found of all.  
+Long ere the damps of death can blight,  
+The cheek&#x27;s pure glow of red and white  
+Hath pass&#x27;d away  
+Youth smiled and all was heavenly fair;  
+Age came and laid his finger there,  
+And where are they?  
+Where is the strength that mock&#x27;d decay,  
+The step that rose so light and gay,  
+The heart&#x27;s blithe tone?  
+The strength is gone, the step is slow,  
+And joy grows weariness and wo,  
+When age comes on
+</td></tr></table>
+
+---
+
 ## Poetry
 
 #### From _The Ohio observer._
@@ -4905,7 +4990,7 @@ age cernes onV &#x27; Say, then,.bow poo
 
 ---
 
-## [From _Cincinnati weekly herald and philanthropist._](https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1844-06-12_8_39?page=1)
+## [From _Cincinnati weekly herald and philanthropist._](https://archive.org/details/sim_cincinnati-weekly-herald-and-philanthropist_1844-06-12_8_39/page/n1/model/1up?view=theater)
 
 #### 1844-06-12 &middot; [Cincinnati [Ohio]](http://dbpedia.org/resource/Cincinnati)
 
@@ -4967,9 +5052,77 @@ Dreams of the sleep that death mus; break
 Alas! before it bids us wake,  
 We disappear.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1844-06-12_8_39&#0036;1/pct:86.703125,13.989694,9.078125,19.921061/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1844-06-12_8_39&#0036;1/pct:86.703125,13.989694,9.078125,19.921061/,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _Vermont watchman and State journal._
+
+#### 1844-08-09 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+The fullowing is a translation from an ancient Spanish poem,  
+which, says the Edinburgh Review, is surpassed by nothing  
+with which we are acqueinted in tho Spanish language except  
+Oh, let the soul its slumbers break,  
+Arouse its senses and awake,  
+To see how soon  
+Life like his glories glide away,  
+And the stern footste; s of cecay  
+Comt stealing on.  
+And while we eye the rolling tide,  
+Down which our Coating mlnutes glide  
+Away so fast;  
+Let us the present hour employ,  
+And deem each future dream a joy  
+Already past.  
+Let no vain hope deceive the mind  
+No happler let us hope to find  
+To-morrow than to day;  
+Our golden dreams of yore were hright,  
+. Like them the present shall delight  
+. Like them decayy  
+Our lives like hawening streams must be,  
+Ahat intp one engwlfing sea  
+re doomed to fall  
+The sea of death, whose waves roll on,  
+O&#x27;er king and kingdom, crown and throne.  
+, And swallow alls  
+ Alike the river&#x27;s lord&#x27;y tide,  
+Alike th hu oble riv&#x27;-er&#x27;s glide,  
+To thet sad wave;  
+Death levels poverty and pride,  
+And rich and poor sleep side by side  
+Within the grave.  
+Our birth is but a starting place;  
+Ltfe is the running of the race,  
+And death the goal;  
+There all those glittering toys are bought,  
+That path alone of all unsought,  
+Is found of all.  
+Say, then, how peor and little wortht  
+Are all these glittering toys ef earth,  
+TTat lure us here?  
+Dreams of a slaep that death must break,  
+Alas! before it hids us wake,  
+To disapper!  
+Lorg ere the jamp of death can blight,  
+The cheek.&#x27;a ;ure glow of red and white  
+Has Nassed away:  
+Youth smiled, and all was heavenly fair;  
+Age came and laid his fingr there,  
+And where are they:  
+Where is the strength that spurns decay,  
+The step th it rolled so light and gay,  
+Tte hea&#x27;, blithe tone?  
+The strength is gone, the step is slow,  
+And joy grows wearisome and wo  
+Vhen age comes on.
+</td></tr></table>
 
 ---
 
@@ -5090,7 +5243,7 @@ The cheek’s pure glow of red and white
 
 ---
 
-## [From _School Friend and Ohio School Journal 1846-1851_](https://iiif.archivelab.org/iiif/sim_school-friend-and-ohio-school-journal_1847-10-01_2_1?page=11)
+## [From _School Friend and Ohio School Journal 1846-1851_](https://archive.org/details/sim_school-friend-and-ohio-school-journal_1847-10-01_2_1/page/n11/model/1up?view=theater)
 
 #### 1847-10-01
 
@@ -5178,66 +5331,13 @@ The strength is gone, the step is slow,
 And joy grows wearisome and wo,  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-friend-and-ohio-school-journal_1847-10-01_2_1&#0036;11/pct:36.239368,12.464046,28.219927,72.291467/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_school-friend-and-ohio-school-journal_1847-10-01_2_1&#0036;11/pct:36.239368,12.464046,28.219927,72.291467/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Herald of the times, and Rhode Islander._](https://chroniclingamerica.loc.gov/lccn/sn83021168/1848-02-10/ed-1/seq-4)
-
-#### 1848-02-10 &middot; [Newport, R.I.](http://dbpedia.org/resource/Newport%2C_Rhode_Island)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-And while we eye the rolling tide,  
-Down which our flying minutes glido  
-Away so fast,  
-Let us the present hour employ,  
-And deem each dream of future joy  
-Already past.  
-  
-INM l&#x27;l‘:p vain ll;opc deceive the mind—  
-o happier let us hope to find  
-To-morrow than to-day.  
-Qur golden dreans of yore were bright ;  
-Like them the present shall delighs—  
-Like thein decay.  
-  
-Qur lives like lasting streams most be,  
-That o one engulphing sea  
-  
-Are doomed to fall;  
-The Sea of Death, whose waves roll on  
-Oer king and kingdom, crown and throne,  
-And swallow all.  
-  
-Alike the river&#x27;s lordly tide,  
-Alike the humble riv&#x27;lets glide  
-T&#x27;o that sad wave :  
-Death levels property and pride,  
-« And rich and poor slecp side by side  
-Within the grave.  
-  
-Our birth is but a starting place,  
-Life is the runuing of the race,  
-And d:ath the goal ;  
-There all our steps at lagt are brought ;  
-That path, of all unwuézl,  
-Is found of all.  
-  
-Long cre the damps of carth can Wight,  
-The cheek’s pure glow of red and whit
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/rp_azer_ver02%2Fdata%2Fsn83021168%2F00514152779%2F1848021001%2F0408.jp2/pct:3.486185,13.263143,13.235932,17.723185/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1848-05-13_21_34?page=3)
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1848-05-13_21_34/page/n3/model/1up?view=theater)
 
 #### 1848-05-13 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -5281,13 +5381,13 @@ The strength is gone, the step is slow,
 And joy grows weariness and woe,  
 hen age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1848-05-13_21_34&#0036;3/pct:16.016949,9.753954,21.186441,28.163445/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friend-a-religious-and-literary-journal_1848-05-13_21_34&#0036;3/pct:16.016949,9.753954,21.186441,28.163445/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1849-01-31_20_5?page=0)
+## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://archive.org/details/sim_zions-herald_1849-01-31_20_5/page/n0/model/1up?view=theater)
 
 #### 1849-01-31 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -5349,7 +5449,7 @@ Ye disappear.
   
 POLITY OF METHODISM.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1849-01-31_20_5&#0036;0/pct:8.548931,20.882353,9.687852,18.214286/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_zions-herald_1849-01-31_20_5&#0036;0/pct:8.548931,20.882353,9.687852,18.214286/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5415,7 +5515,7 @@ The heart&#x27;s blithe torn
 
 ---
 
-## [From _The American Quarterly Register and Magazine (1848-1849)_](https://iiif.archivelab.org/iiif/sim_strykers-american-register-and-magazine_1849-06_2_2?page=173)
+## [From _The American Quarterly Register and Magazine (1848-1849)_](https://archive.org/details/sim_strykers-american-register-and-magazine_1849-06_2_2/page/n173/model/1up?view=theater)
 
 #### 1849-06-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -5485,7 +5585,7 @@ The strife was stern at Monterey,
   
 W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_strykers-american-register-and-magazine_1849-06_2_2&#0036;173/pct:43.697479,53.389399,39.159664,31.422018/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_strykers-american-register-and-magazine_1849-06_2_2&#0036;173/pct:43.697479,53.389399,39.159664,31.422018/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5944,7 +6044,7 @@ When age comes on.
 
 ---
 
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1863-12-19_37_16?page=3)
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1863-12-19_37_16/page/n3/model/1up?view=theater)
 
 #### 1863-12-19 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -6029,7 +6129,7 @@ And joy grows wearisome, and wo!
   
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1863-12-19_37_16&#0036;3/pct:40.661359,30.103806,24.127373,60.776075/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friend-a-religious-and-literary-journal_1863-12-19_37_16&#0036;3/pct:40.661359,30.103806,24.127373,60.776075/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6123,7 +6223,7 @@ mien age comes on
 
 ---
 
-## [From _Louisville daily Democrat._](https://iiif.archivelab.org/iiif/xt7rxw47sm6m?page=3)
+## [From _Louisville daily Democrat._](https://archive.org/details/xt7rxw47sm6m/page/n3/model/1up?view=theater)
 
 #### 1864-09-11 &middot; [Louisville, Kentucky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
@@ -6154,7 +6254,7 @@ Are all those glittering tor* of earth
 That lure u* here;  
 &gt; of aleep that death mul break
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7rxw47sm6m&#0036;3/pct:7.084964,17.317308,9.949693,5.826923/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7rxw47sm6m&#0036;3/pct:7.084964,17.317308,9.949693,5.826923/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7268,7 +7368,7 @@ To that »oi wave
 
 ---
 
-## [From _The Frankfort commonwealth._](https://iiif.archivelab.org/iiif/xt7jm61bkx1w?page=0)
+## [From _The Frankfort commonwealth._](https://archive.org/details/xt7jm61bkx1w/page/n0/model/1up?view=theater)
 
 #### 1865-10-17 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
@@ -7372,7 +7472,7 @@ Tho strength is gone, tho step is slow,
 And joy grows wearisome and woe 1  
 When age comes on I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7jm61bkx1w&#0036;0/pct:20.838496,17.063856,14.394878,31.179346/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7jm61bkx1w&#0036;0/pct:20.838496,17.063856,14.394878,31.179346/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7512,7 +7612,7 @@ Li
 
 ---
 
-## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1866-05-01_18_9?page=10)
+## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1866-05-01_18_9/page/n10/model/1up?view=theater)
 
 #### 1866-05-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -7594,7 +7694,7 @@ The strength is gone, the step is slow,
 And joy grows wearisome, and wo!  
 When age comes on!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1866-05-01_18_9&#0036;10/pct:9.573241,11.858407,24.538639,50.309735/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_colmans-rural-world_1866-05-01_18_9&#0036;10/pct:9.573241,11.858407,24.538639,50.309735/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8015,7 +8115,7 @@ When age comes 011
 
 ---
 
-## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1866-12-26_37_52?page=3)
+## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://archive.org/details/sim_zions-herald_1866-12-26_37_52/page/n3/model/1up?view=theater)
 
 #### 1866-12-26 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -8095,7 +8195,7 @@ The strength is gone, the s/ep is slow,
 And joy grows wearisonr, and woe!  
 When age comes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1866-12-26_37_52&#0036;3/pct:9.259761,21.852300,10.412148,22.124697/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_zions-herald_1866-12-26_37_52&#0036;3/pct:9.259761,21.852300,10.412148,22.124697/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8182,7 +8282,7 @@ Aiast 61 ore It bids ns wake,
 
 ---
 
-## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://iiif.archivelab.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1867-05_27_17?page=2)
+## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://archive.org/details/sim_ladies-repository-a-monthly-periodical-devoted-to_1867-05_27_17/page/n2/model/1up?view=theater)
 
 #### 1867-05-01 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
@@ -8268,7 +8368,7 @@ The strength is gone, the step is slow,
 And joy grows wearisome, and woe!  
 When age comes on!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1867-05_27_17&#0036;2/pct:50.726744,17.929537,33.502907,70.125483/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1867-05_27_17&#0036;2/pct:50.726744,17.929537,33.502907,70.125483/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9065,7 +9165,7 @@ Whea age conies on
 
 ---
 
-## [From _The Kentucky sentinel._](https://iiif.archivelab.org/iiif/xt7cnp1wf20m?page=0)
+## [From _The Kentucky sentinel._](https://archive.org/details/xt7cnp1wf20m/page/n0/model/1up?view=theater)
 
 #### 1868-12-17 &middot; [Mount Sterling, Ky.](http://dbpedia.org/resource/Mount_Sterling%2C_Kentucky)
 
@@ -9175,7 +9275,7 @@ And joy grows wearisome , and woe!
   
 IV lieu age comes on!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7cnp1wf20m&#0036;0/pct:18.064516,14.419421,12.516129,37.013747/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7cnp1wf20m&#0036;0/pct:18.064516,14.419421,12.516129,37.013747/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9477,7 +9577,7 @@ When age comes on
 
 ---
 
-## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1869-04-03_22_14?page=9)
+## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1869-04-03_22_14/page/n9/model/1up?view=theater)
 
 #### 1869-04-03 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -9555,13 +9655,13 @@ The strength is gone, the step is slow,
 And joy grows wearisome, and—woe !  
 When age comes on !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1869-04-03_22_14&#0036;9/pct:20.242215,25.309917,21.770473,45.227273/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_colmans-rural-world_1869-04-03_22_14&#0036;9/pct:20.242215,25.309917,21.770473,45.227273/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Proof Sheet 1867-1880_](https://iiif.archivelab.org/iiif/sim_proof-sheet_1869-09_3_14?page=4)
+## [From _Proof Sheet 1867-1880_](https://archive.org/details/sim_proof-sheet_1869-09_3_14/page/n4/model/1up?view=theater)
 
 #### 1869-09-01
 
@@ -9639,7 +9739,7 @@ And joy grows wearisome and wo,
   
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_proof-sheet_1869-09_3_14&#0036;4/pct:61.328671,33.437500,22.937063,58.020833/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_proof-sheet_1869-09_3_14&#0036;4/pct:61.328671,33.437500,22.937063,58.020833/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12217,7 +12317,7 @@ We disappear
 
 ---
 
-## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://iiif.archivelab.org/iiif/sim_independent_1876-06-29_28_1439?page=25)
+## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1876-06-29_28_1439/page/n25/model/1up?view=theater)
 
 #### 1876-06-29 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -12288,7 +12388,7 @@ Dreams of a sleep that death must break,
 Alas ! before it bids us wake,  
 Ye disappear 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_independent_1876-06-29_28_1439&#0036;25/pct:74.188641,46.318493,19.523327,31.130137/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_independent_1876-06-29_28_1439&#0036;25/pct:74.188641,46.318493,19.523327,31.130137/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12701,7 +12801,7 @@ Ye disappear.
 
 ---
 
-## [From _National Repository, Devoted to General and Religious Literature, Criticism, and Art (1877-1880)_](https://iiif.archivelab.org/iiif/sim_national-repository_1880-04_7?page=67)
+## [From _National Repository, Devoted to General and Religious Literature, Criticism, and Art (1877-1880)_](https://archive.org/details/sim_national-repository_1880-04_7/page/n67/model/1up?view=theater)
 
 #### 1880-04-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -12762,7 +12862,7 @@ Is found of all.
   
 To thee, O God, my thoughts arise;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_national-repository_1880-04_7&#0036;67/pct:22.631988,58.076132,62.810559,28.137860/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_national-repository_1880-04_7&#0036;67/pct:22.631988,58.076132,62.810559,28.137860/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13155,7 +13255,7 @@ When age comes on
 
 ---
 
-## [From _Frank Leslie's Popular Monthly (1876-1904)_](https://iiif.archivelab.org/iiif/sim_american-magazine-1876_1885-11_20_5?page=46)
+## [From _Frank Leslie's Popular Monthly (1876-1904)_](https://archive.org/details/sim_american-magazine-1876_1885-11_20_5/page/n46/model/1up?view=theater)
 
 #### 1885-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -13239,7 +13339,7 @@ The strength is gone, the step is slow,
 And joy grows weariness and woe  
 When age comes on!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-magazine-1876_1885-11_20_5&#0036;46/pct:13.629738,21.349446,67.456268,32.074522/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_american-magazine-1876_1885-11_20_5&#0036;46/pct:13.629738,21.349446,67.456268,32.074522/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13301,7 +13401,7 @@ Vo disappear
 
 ---
 
-## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1893-06-15_61_32?page=1)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1893-06-15_61_32/page/n1/model/1up?view=theater)
 
 #### 1893-06-15 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -13321,13 +13421,13 @@ kingdoms, but the thought that the
 ‘“‘waves roll on” and ‘swallow all,” is  
 solemn and impressive. We are nearin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1893-06-15_61_32&#0036;1/pct:21.990132,78.524436,11.924342,5.286654/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_maine-farmer_1893-06-15_61_32&#0036;1/pct:21.990132,78.524436,11.924342,5.286654/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Reedy's Mirror 1899-1920_](https://iiif.archivelab.org/iiif/sim_reedys-mirror_1899-07-13_9_22?page=8)
+## [From _Reedy's Mirror 1899-1920_](https://archive.org/details/sim_reedys-mirror_1899-07-13_9_22/page/n8/model/1up?view=theater)
 
 #### 1899-07-13
 
@@ -13428,7 +13528,7 @@ The strength is gone, the step is slow,
 And joy grows wearisome, and woe!  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_reedys-mirror_1899-07-13_9_22&#0036;8/pct:38.056586,34.510086,26.785714,59.852305/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_reedys-mirror_1899-07-13_9_22&#0036;8/pct:38.056586,34.510086,26.785714,59.852305/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

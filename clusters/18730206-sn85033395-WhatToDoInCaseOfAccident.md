@@ -1,7 +1,7 @@
 
 # What to Do in Case of Accident
 
-### 261 reprints from 1872-09-11 to 1896-01-29
+### 265 reprints from 1872-09-11 to 1896-01-29
 
 ## [What to Do in Case of Accident](https://chroniclingamerica.loc.gov/lccn/sn85033395/1873-02-06/ed-1/seq-4/)
 
@@ -2840,7 +2840,7 @@ fainting, lay the person flat
 
 ---
 
-## [From _Peterson's Magazine (1849-1892)_](https://iiif.archivelab.org/iiif/sim_peterson-magazine_1873-05_63_5?page=70)
+## [From _Peterson's Magazine (1849-1892)_](https://archive.org/details/sim_peterson-magazine_1873-05_63_5/page/n70/model/1up?view=theater)
 
 #### 1873-05-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2883,7 +2883,7 @@ white of egg is good in most cases; in cases of opium poison-
 ing, give strong coffee, and keep moving. If in water, float  
 on the back, with the nose and meuth projecting.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_peterson-magazine_1873-05_63_5&#0036;70/pct:6.530214,35.481998,38.157895,28.513357/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_peterson-magazine_1873-05_63_5&#0036;70/pct:6.530214,35.481998,38.157895,28.513357/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4054,7 +4054,7 @@ body fainting, lay the person flat
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1873-07-03_46_27?page=4)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1873-07-03_46_27/page/n4/model/1up?view=theater)
 
 #### 1873-07-03 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -4096,7 +4096,7 @@ the throat, or by warm mu: °
 For acid poisons give alkalies; for alkaline poisons  
 give acids; white of an egg is good in most cases.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1873-07-03_46_27&#0036;4/pct:28.456858,68.825529,20.962389,13.953927/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1873-07-03_46_27&#0036;4/pct:28.456858,68.825529,20.962389,13.953927/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4324,7 +4324,7 @@ projecting. For apoplexy, raise the hea
 
 ---
 
-## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1873-10_3_10?page=3)
+## [From _The Manifesto 1871-1899_](https://archive.org/details/sim_manifesto_1873-10_3_10/page/n3/model/1up?view=theater)
 
 #### 1873-10-01 &middot; [Watervliet Shaker Historic District, New York](http://dbpedia.org/resource/Watervliet_Shaker_Historic_District)
 
@@ -4368,7 +4368,7 @@ For acid poisons, give alkalies ; for alkaline
 poisons, give acids ; white of an egg is good  
 in most cases.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1873-10_3_10&#0036;3/pct:66.647662,14.166017,23.090080,18.978956/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_manifesto_1873-10_3_10&#0036;3/pct:66.647662,14.166017,23.090080,18.978956/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6148,7 +6148,7 @@ for fainting, lay the person flat
 
 ---
 
-## [From _Silent World 1871-1876_](https://iiif.archivelab.org/iiif/sim_silent-world_1875-01-01_5_1?page=2)
+## [From _Silent World 1871-1876_](https://archive.org/details/sim_silent-world_1875-01-01_5_1/page/n2/model/1up?view=theater)
 
 #### 1875-01-01 &middot; [Washington, D.C., District of Columbia](http://dbpedia.org/resource/Washington%2C_D.C.)
 
@@ -6178,7 +6178,7 @@ water float on the back, with the nose and mouth projecting. For
 apoplexy raise the head and body; for fainting lay the person  
 flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_silent-world_1875-01-01_5_1&#0036;2/pct:48.951468,64.005413,35.560216,21.718539/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_silent-world_1875-01-01_5_1&#0036;2/pct:48.951468,64.005413,35.560216,21.718539/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6288,7 +6288,7 @@ for fainting, lay the person flat
 
 ---
 
-## [From _Peterson's Magazine (1849-1892)_](https://iiif.archivelab.org/iiif/sim_peterson-magazine_1875-02_67_2?page=55)
+## [From _Peterson's Magazine (1849-1892)_](https://archive.org/details/sim_peterson-magazine_1875-02_67_2/page/n55/model/1up?view=theater)
 
 #### 1875-02-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -6317,7 +6317,7 @@ coffee, and keep moving. If in water, float on the back,
 with the nose and mouth projecting. For apoplexy, raise  
 the head and body, For fainting, lay the person flat.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_peterson-magazine_1875-02_67_2&#0036;55/pct:55.856643,64.754566,35.402098,22.231735/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_peterson-magazine_1875-02_67_2&#0036;55/pct:55.856643,64.754566,35.402098,22.231735/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6957,7 +6957,7 @@ For aioplexy, raise the head an
 
 ---
 
-## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1875-11-27_53_48?page=6)
+## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://archive.org/details/sim_albion-a-journal-of-news-politics-and-literature_1875-11-27_53_48/page/n6/model/1up?view=theater)
 
 #### 1875-11-27 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -6995,7 +6995,7 @@ mouth projecting. For apoplexy, raise the
 head and body; for fainting lay the person  
 flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1875-11-27_53_48&#0036;6/pct:49.835886,33.729569,19.064551,23.904160/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1875-11-27_53_48&#0036;6/pct:49.835886,33.729569,19.064551,23.904160/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7303,7 +7303,7 @@ For apoplexy, raise the head an
 
 ---
 
-## [From _Oneida Circular (1871-1876)_](https://iiif.archivelab.org/iiif/sim_oneida-circular_1876-03-09_13_10?page=6)
+## [From _Oneida Circular (1871-1876)_](https://archive.org/details/sim_oneida-circular_1876-03-09_13_10/page/n6/model/1up?view=theater)
 
 #### 1876-03-09 &middot; [Brooklyn](http://dbpedia.org/resource/Brooklyn)
 
@@ -7341,13 +7341,13 @@ If an artery is cut compress it above the wound ;
 For slight burns dip the part in cold water; if  
 the skin is destroyed, cover with varnish.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_oneida-circular_1876-03-09_13_10&#0036;6/pct:59.061135,79.100318,26.282751,10.987261/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_oneida-circular_1876-03-09_13_10&#0036;6/pct:59.061135,79.100318,26.282751,10.987261/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1876-03-11_8_247?page=11)
+## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1876-03-11_8_247/page/n11/model/1up?view=theater)
 
 #### 1876-03-11 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -7378,7 +7378,7 @@ varnish.
 For raise the head and body,  
 for fainting lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1876-03-11_8_247&#0036;11/pct:8.350785,59.512103,19.528796,14.844932/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_school-journal_1876-03-11_8_247&#0036;11/pct:8.350785,59.512103,19.528796,14.844932/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7444,6 +7444,34 @@ cover with varnish.
 For apoplexy, raise the head an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn85033133%2F00514159385%2F1876032301%2F0459.jp2/pct:39.303811,67.009225,10.535360,9.710351/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Osceola times._](https://chroniclingamerica.loc.gov/lccn/sn84022982/1876-03-25/ed-1/seq-1)
+
+#### 1876-03-25 &middot; [Osceola, Ark.](http://dbpedia.org/resource/Osceola%2C_Arkansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Worth Knowing.—Prof. Wilder, of  
+Cornell university, gives these short rules  
+for action in ease ot accident: For dust  
+in the eyes avoid rubbing; dash cold  
+water in them ; remove cinders, etc., with  
+the round point of a lead pencil. Re­  
+move insects from the ear by tepid water ;  
+never put a haril instrument into the  
+oar. If any artery is cut compress it  
+above the wound ; if a vein is cut, com­  
+press it lielow. If choked go upon all  
+fours and cough. For slight burns dip  
+the part in cold water; if the akin is de­  
+stroyed, cover with varnish. For apo
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_galactic_ver01%2Fdata%2Fsn84022982%2F00513688647%2F1876032501%2F0239.jp2/pct:69.079613,80.194091,12.151423,7.018390/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7732,7 +7760,7 @@ varnish. For apoplexy raise the head an
 
 ---
 
-## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1876-06_92_552?page=83)
+## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1876-06_92_552/page/n83/model/1up?view=theater)
 
 #### 1876-06-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -7751,13 +7779,13 @@ press it below. If choked, go upon all fours and
 cough. For slight burns dip the part in cold water;  
 if the skin is destroyed, cover with varnish. Fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1876-06_92_552&#0036;83/pct:56.942337,75.567108,34.559939,9.806238/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_godeys-magazine_1876-06_92_552&#0036;83/pct:56.942337,75.567108,34.559939,9.806238/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1876-06-10_20_1015?page=6)
+## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1876-06-10_20_1015/page/n6/model/1up?view=theater)
 
 #### 1876-06-10 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -7774,13 +7802,13 @@ vein is cut, compress it below. If choked, go upon
 all fours and cough. For slight burns, dip the part in  
 cold water ; if the skin is destroyed, cover with varnish
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1876-06-10_20_1015&#0036;6/pct:51.581633,81.700680,19.744898,3.860544/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_harpers-magazine_1876-06-10_20_1015&#0036;6/pct:51.581633,81.700680,19.744898,3.860544/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Harper's weekly journal of civilization._](https://iiif.archivelab.org/iiif/sim_harpers-weekly_1876-06-10_20_1015?page=6)
+## [From _Harper's weekly journal of civilization._](https://archive.org/details/sim_harpers-weekly_1876-06-10_20_1015/page/n6/model/1up?view=theater)
 
 #### 1876-06-10 &middot; [New York, N.Y.](http://dbpedia.org/resource/New_York_City)
 
@@ -7797,7 +7825,7 @@ vein is cut, compress it below. If choked, go upon
 all fours and cough. For slight burns, dip the part in  
 cold water ; if the skin is destroyed, cover with varnish
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-weekly_1876-06-10_20_1015&#0036;6/pct:52.173913,84.955449,18.792271,3.975326/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_harpers-weekly_1876-06-10_20_1015&#0036;6/pct:52.173913,84.955449,18.792271,3.975326/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8030,7 +8058,7 @@ For apoplexy raise the hea
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1876-12-21_49_51?page=7)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1876-12-21_49_51/page/n7/model/1up?view=theater)
 
 #### 1876-12-21 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -8069,7 +8097,7 @@ back with the nose and mouth projecting. For
 apoplexy, raise the head and body; for fainting, lay  
 the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1876-12-21_49_51&#0036;7/pct:7.975113,71.806912,21.464932,15.195342/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1876-12-21_49_51&#0036;7/pct:7.975113,71.806912,21.464932,15.195342/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8337,7 +8365,7 @@ the nose and mouth projecting. F
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1879-05-24_40_21?page=11)
+## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1879-05-24_40_21/page/n11/model/1up?view=theater)
 
 #### 1879-05-24 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -8373,7 +8401,7 @@ give acids; in case of opium poison give strong coffee and
 keep moving. If in water float on the back, with the nose  
 and mouth projecting. For apoplexy raise the head an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1879-05-24_40_21&#0036;11/pct:37.209877,7.059829,55.407407,87.521368/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_scientific-american_1879-05-24_40_21&#0036;11/pct:37.209877,7.059829,55.407407,87.521368/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8549,7 +8577,7 @@ FiFn Frittebs. Take the remains o
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1879-08-21_52_34?page=7)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1879-08-21_52_34/page/n7/model/1up?view=theater)
 
 #### 1879-08-21 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -8589,13 +8617,13 @@ In case of poisoning, excite vomiting by tickling |
 the throat by water or mustard. For acid poisons,  
 give alkalies; in case of opium poison, give stron
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1879-08-21_52_34&#0036;7/pct:10.356347,11.056604,42.455457,82.075472/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1879-08-21_52_34&#0036;7/pct:10.356347,11.056604,42.455457,82.075472/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1879-08-21_52_34?page=7)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1879-08-21_52_34/page/n7/model/1up?view=theater)
 
 #### 1879-08-21 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -8609,7 +8637,7 @@ into the ear. If an artery is cut, compress above |
 the wound; if a vein is cut, compress below.  
 If choked, get upon all fours and cough. For
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1879-08-21_52_34&#0036;7/pct:10.467706,88.981132,21.213808,2.056604/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1879-08-21_52_34&#0036;7/pct:10.467706,88.981132,21.213808,2.056604/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8625,7 +8653,7 @@ If choked, get upon all fours and cough. For
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1879-08-30_59_6?page=6)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1879-08-30_59_6/page/n6/model/1up?view=theater)
 
 #### 1879-08-30 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -8651,7 +8679,7 @@ cigar. In case of poisoning ¢xcite yomi&#x27;ing
 by tickling the throat or by hot water or mus  
 tard, In case of opium ison give stron
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1879-08-30_59_6&#0036;6/pct:68.809663,45.213068,18.702513,9.090909/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-evening-post_1879-08-30_59_6&#0036;6/pct:68.809663,45.213068,18.702513,9.090909/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9173,7 +9201,7 @@ opium poison give Btrong coffee
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1881-07-16_60_52?page=6)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1881-07-16_60_52/page/n6/model/1up?view=theater)
 
 #### 1881-07-16 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -9206,7 +9234,7 @@ strong coffee and keep movsnal if in the wa-
 ter, float on the beck, with the nose and  
 moata proj onee For ap x0lex7, raiss ta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1881-07-16_60_52&#0036;6/pct:68.700632,37.004662,18.977093,11.786131/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-evening-post_1881-07-16_60_52&#0036;6/pct:68.700632,37.004662,18.977093,11.786131/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9650,6 +9678,57 @@ of a cigar
 
 ---
 
+## [From _The Los Angeles times._](https://archive.org/details/sim_los-angeles-times_the-los-angeles-times_1892-04-04/page/n3/model/1up?view=theater)
+
+#### 1892-04-04 &middot; [[Los Angeles, Calif.]](http://dbpedia.org/resource/Los_Angeles)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+ne  
+  
+If choked. get upon all fours and  
+cough.  
+  
+For apoplexy raise the head and body;  
+for fainting lay the person flat.  
+  
+If anartery is cut compress above the  
+wound, if a vein is cut compress below.  
+  
+For slight burns dip the part in cold  
+water, if the skinis destroyed cover  
+with varnish. |  
+  
+Remove matter from the ear with  
+tepid water; never put a hard instru-  
+ment in the ear. igh Saal  
+  
+In case of poisoning excite vomiting  
+by tickling the throat or by warm water  
+and mustard.  
+  
+For.dust in the eyes, avoid rubbing;  
+dash water in them; remove cinders,  
+&amp;tc., with the round point of a lead  
+pencil.  
+  
+Suck poisoned wounds unless your  
+mouth is sore; enlarge the wound or,  
+better, cut out the part without delay;  
+hold the wounded part as long as can  
+‘be borne to a hot coal or end of a cigar.  
+  
+Smother fire with carpets, etc. ; water  
+will often spread burning oil and in-  
+crease danger
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_los-angeles-times_the-los-angeles-times_1892-04-04&#0036;3/pct:69.641060,76.755915,12.462261,12.995019/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1892-04-05/ed-1/seq-3)
 
 #### 1892-04-05 &middot; [Portland, Me.](http://dbpedia.org/resource/Portland%2C_Maine)
@@ -9840,6 +9919,86 @@ by tickling the throat or by warm water
 and mustard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_elk_ver01%2Fdata%2Fsn91068084%2F00296023218%2F1892042201%2F0517.jp2/pct:38.697318,52.705042,16.618774,32.871673/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Los Angeles times._](https://archive.org/details/sim_los-angeles-times_the-los-angeles-times_1892-04-24/page/n6/model/1up?view=theater)
+
+#### 1892-04-24 &middot; [[Los Angeles, Calif.]](http://dbpedia.org/resource/Los_Angeles)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+dt; J.  
+A. — * captain; C A. Cowan, first lieu-  
+tenant; W. J. Lamrick, second lieutenant;  
+Ray Jessup, secretary and Treasurer; Ar-  
+thur Everest, bugler.  
+  
+COLTON,  
+  
+A party of 150 Coltonites went around  
+the loop on the Kite-shaped Track yester-  
+day, stopping at Craften Retreat to attend  
+the opening.  
+  
+Colton ple are pleased to learn of the  
+favor with which Mrs. Treglar is being re-  
+ceived inthe musical circles of Los Angeles.  
+  
+A new ten-inch water pipe is to be put in  
+from Olive street to the park, thus supply-  
+ing the need of greater carrying. capacity  
+80 long felt.  
+  
+When an Emergency Demands It.  
+If choked, get upon all fours and  
+  
+cough.  
+  
+It an artery is cut, compress above  
+the wound; if a vein is cut, compress  
+below.  
+  
+For apoplexy raise the head and body;  
+for fainting, lay the person flat.  
+  
+Remove matter from the ear with  
+tepid water; never put a hard instru-  
+ment into the ear.  
+  
+In case of poisoning, excite vomiting  
+by tickling the throat or by warm water  
+and mustard.  
+  
+For otight burns dip the part in col
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_los-angeles-times_the-los-angeles-times_1892-04-24&#0036;6/pct:47.502806,79.595268,13.692480,15.523039/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Los Angeles times._](https://archive.org/details/sim_los-angeles-times_the-los-angeles-times_1892-04-24/page/n8/model/1up?view=theater)
+
+#### 1892-04-24 &middot; [[Los Angeles, Calif.]](http://dbpedia.org/resource/Los_Angeles)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Smother fire with carpets, etc., water  
+will often spread burning oil and in-  
+crease danger. Before passing through  
+smoke take a full breath and then st  
+low, but if carbonic gas is suspec  
+walk erect.  
+  
+—  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_los-angeles-times_the-los-angeles-times_1892-04-24&#0036;8/pct:0.373552,11.189290,91.333582,84.333748/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

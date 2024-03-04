@@ -1,7 +1,7 @@
 
 # Household Economy
 
-### 154 reprints from 1852-01-20 to 1879-01-25
+### 141 reprints from 1852-01-20 to 1879-01-25
 
 ## [Household Economy](https://chroniclingamerica.loc.gov/lccn/sn84023200/1852-02-05/ed-1/seq-4/)
 
@@ -86,93 +86,90 @@ rectness in the use of language
 
 ---
 
-## [From _Vermont watchman and State journal._](https://chroniclingamerica.loc.gov/lccn/sn84023200/1852-02-05/ed-1/seq-4)
+## From _Vermont watchman and State journal._
 
 #### 1852-02-05 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-HoisnnoLn Economy Would you have  
-jour children intelligent, and your house­  
-hold well regulated, lei llie Bilrlc he rend,  
-nml the morning and evening &quot;thanksgiv­  
+Hoesrnoto Ecososv. Would you have  
+your children intelligent, and your house  
+hold well regulated, let the Bible be read,  
+and the morning and evening &quot;thanksgiv  
 ing, confession, supplication and praise&quot;  
   
-ascend to II itn who Ins saw &quot;tram up  
-. I  
-nt  
-child in the way he should go, and irhrn  
-is vld ho w ill not depart from it.&quot; Would  
-ynti hate them cxcell the children of those  
-who furnish no food for the mind, glte thctn  
-access to schools, anil by no menus neglect  
-to furnish thctn with a well conducted coun­  
-try newspaper, whoo editor is n loicr of  
+ascend to Him who has said&quot;trein up  
+.I  
+s:  
+child in the way he should go, and when  
+is old he will not depart from it.&quot; Would  
+you have them excell the children of those  
+who furnish no food for the mind, give them  
+access to schools, and by no means neglect  
+to furnish them with a well conducted coun  
+try newspaper, whose editor is a lover of  
 good reading and good morals. A school  
-teacher, who has hcen engaged a long time  
+teacher, who has been engaged a long time  
 in his profession, and has witnessed the in  
 fluence ol a newspaper upon the minds of a  
 family of children, thus writes to the editor  
-of the Ogtlcnshurgh Sentinel;  
-&quot; I Imtc found it tu bo n universal  
-fact, without exception, that those schol­  
-ars ol both sexes, unci of nil ngus, who  
-Imvc Imd access to the newspapers nt  
-lionic, when compared with thoso who  
-arc not, are,  
-1st, Hotter renders, excelling in pro­  
-nunciation mid cinplitisis, and conse­  
-quently read more tiiiilurstniitliiiftly.  
-2d, They are belter spellers and de­  
-fine words with greater ease and ticuuru­  
-cy.3d, They obtain a practical Knowl­  
+of the Ogdensburgh Sentinel:  
+iI have found it to be a universal  
+fact, without exception, that those schol  
+ars of both sexes, and of all ages, who  
+have had access to the newspapers at  
+home, when compared with those who  
+are not, are,  
+1st, Better readers, excelling in pro  
+nunciation and emphasis, and conse  
+quently read more understandingly.  
+2d, They are better spellers and de  
+fine words with greater ease and accura  
+aA, mo, Ani a pded tisl  
 edge of Geography in almost half the  
-time it requires others, as the newspa­  
-per has made them familiar with the lo­  
-cution of all the important places, na­  
-tions, their governments nml doings on  
+time it requires others, as the newspa  
+per has made them familiar with the lo  
+cation of all the important places, na  
+tions, their Governments and doings on  
 the globe.  
-lth, They arc belter Grammarians,  
-for, having become fnunliiir with every  
+Ith, They are better Grammarians,  
+for, having become familiar with every  
 variety of style, in the newspaper, from  
-1 1 10 common-place advertisement to the  
-finished and elnssicnl oration of the  
-Mntcsmau, they more readily compre­  
+the common-place advertisement to the  
+finished and classical oration of the  
+statesman, they more readily compre  
 hended the meaning of the text, and  
 consequently analyze its construction  
 with greater accuracy.  
-5th, Thoy write better compositions,  
+th, They write better compositions,  
 using better language, containing more  
-thoughts, more clearly nml connectedly  
+thoughts, more clearly and connectedly  
 expressed.  
-(itli, Those young men who li.ive for  
-years been leaders ol half thu newspa­  
+Gith, Those young men who have for  
+years been readers of half the newspa  
 pers, are always found taking the lead  
-in thu debating society, exhibiting a  
-mote extensive knowledge upon a great  
-or variety of subject, and expressing  
-their view&#x27;s with greater Hunnrt , eh ,n  
-ness and correctness in the tin; of I, in  
-gunge  
-To the poi.r, the weekly newspaper I&#x27;­  
-ll precious boon. They cannot ullonl  
-books, and, indeed, would have but hi  
-tie lime to read them. But lor tin  
-merest trille, hardly to be missed, u whoh  
+in the debating society, exhibiting a  
+more extensive knowledge upon a great  
+er variety of subjects, and expressing  
+their views with greater fluency, clem  
+ness and correctness in the use of lan  
+guage.  
+To the poor, the weekly newspaper i.  
+a precious boon. They cannot afford  
+books, and, indeed, would have but lit  
+tle time to read them. But for th  
+merest trifle, hardly to be missed, a whol.  
 family may draw almost daily from an  
-inexhaustible fund of leading. The fa  
-ther can discuss the contents of lit  
-newspaper at the breakfabt table, with  
+inexhaustible fund of reading. The fa  
+ther can discuss the contents of hi  
+newspaper at the breakfast table, witl.  
 his wife and children, and go forth t  
-his labor supplied with material I&#x27;m  
+his labor supplied with material fo  
 thought, which cannot fail to make him  
-wiser and better, and elovate him in tin  
-fccnlo of humanity.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84023200%2F00280777626%2F1852020501%2F0235.jp2/pct:7.873723,4.100454,12.831941,43.742906/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+wiser and better, and elevate him in th  
+scale of humanity.
+</td></tr></table>
 
 ---
 
@@ -1099,7 +1096,7 @@ guage
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1852-11-11_23_46?page=3)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1852-11-11_23_46/page/n3/model/1up?view=theater)
 
 #### 1852-11-11 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1136,7 +1133,7 @@ p,. ....new™,,, m.«. .hem Snili.,-i.h’.b.
   
 ~ ^ __ .Ait ** remsmbsrsd that Dr. w. in nis iLtnoenees, ©f the imporuntplaces, nations, theirgov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1852-11-11_23_46&#0036;3/pct:3.082647,12.829980,38.386925,5.575042/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_evangelist-and-religious-review_1852-11-11_23_46&#0036;3/pct:3.082647,12.829980,38.386925,5.575042/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1311,7 +1308,6 @@ ness in their use of languag
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-haw mast off tho port of Lrio. Dot. Adv.  
 Influence or a NEwsrAPEn. A school tea  
 cher who has been engaged a Ion? tiino in his  
 profession, and witnessed the influeneo of a  
@@ -1351,7 +1347,7 @@ er variety of subjects, and expressing their
 viows with greater fluency, clcarnoss and cor­  
 rectness in their use of language.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668144%2F1852111601%2F0252.jp2/pct:35.984793,71.008448,14.373446,20.468399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668144%2F1852111601%2F0252.jp2/pct:35.984793,72.131323,14.373446,19.345525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1362,16 +1358,6 @@ rectness in their use of language.
 #### From _Boston investigator._
 
 #### 1852-11-17 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
-
-[This text is not available under an open license.]
-
----
-
-## The Newspaper in a Family
-
-#### From _The Ohio observer._
-
-#### 1852-11-17 &middot; [Hudson [Ohio]](http://dbpedia.org/resource/Hudson%2C_Ohio)
 
 [This text is not available under an open license.]
 
@@ -1533,59 +1519,56 @@ language, : - r ... , ,
 
 ---
 
-## [From _Vermont watchman and State journal._](https://chroniclingamerica.loc.gov/lccn/sn84023200/1852-11-25/ed-1/seq-1)
+## From _Vermont watchman and State journal._
 
 #### 1852-11-25 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Influence of a Newspaper.  
-A bchool teacher, who has been engaged  
-a lung tunc in Ins profession, and witnessed  
+influence of a Newspaper.  
+A school teacher, who has been engaged  
+a long time in his profession, and witnessed  
   
 the influence of a newspaper upon the  
 minds of a family of children, writes to the  
-editor of thu Ogdensburg Sentinel as fol­  
-lows :  
-I found it to ho a universal fact, without  
-exception, that those scholars of both seics  
+editor of the Ogdensburg Sentinel as fol  
+lows:  
+I found it to be a universal fact, without  
+exception, that those scholars of both sexes  
   
-and ol all ages who have nail access io  
-newspapers al home, when compared Willi  
-those who have not, uru  
-1. Better readers, excelling in pronunci­  
+and of all ages who have had aceess&quot;&quot;  
+newspapers at home, when compared with  
+those who have not, are  
+t. Better readers, excelling in pronuncl  
 ation and emphasis, and consequently read  
-more uudurstamliugly.  
-15. They aro belter spellers, and define  
-wuriU with &quot;rcater ease and accuracy.  
+more understandingly.  
+e. They are better spellers, and define  
+wrrde witl, wreater ease and accuracy.  
   
-II. They obtain a practical knowledge of j  
+a. They obtain a practical knowledge of;  
   
-geography in almost nail me nine n re­  
+geography in aimost hal te stt&quot;&quot;&quot;  
 quires others, as the newspaper has made  
-Ihcm familiar with lho location of the im  
+them familiar with the location of the im  
   
 portant places, nations, their governments  
-und doings on the globe.  
+and doings on the globe.  
   
-1. Thev are better grammarians, lor nav-  
+I. They are better grammarians, lor hav.  
   
-inn become familiar vvilh every variety of  
+ing become familiar with every variety of  
   
-i . . i- .i. :  
+f.; ;I  
   
-sljle, in tho newspaper, irom uiu common  
+style, in the pewspaper, iom ih si&quot;  
 place advertisement to the finished and  
-c&#x27;assical oration of the statesman, tlicy more  
-readily comprehend tho meaning of the  
+classical oration of the statesman, they more  
+readily comprehend the meaning of the  
   
-text, and consequently analyze in ixji.&quot;v­  
-tiou with accuracy.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84023200%2F00280777626%2F1852112501%2F0397.jp2/pct:67.682597,75.080861,12.407574,15.918999/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+text, and consequently anmly ae us&quot;&quot;t&quot;&quot;  
+tion with accuracy.
+</td></tr></table>
 
 ---
 
@@ -2067,7 +2050,7 @@ clearness and correctness in their use of lanjrua
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1852-12-23_26_35?page=2)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1852-12-23_26_35/page/n2/model/1up?view=theater)
 
 #### 1852-12-23 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2122,7 +2105,7 @@ their use of language.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1852-12-23_26_35&#0036;2/pct:5.777538,5.535324,21.922246,28.022578/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1852-12-23_26_35&#0036;2/pct:5.777538,5.535324,21.922246,28.022578/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2549,7 +2532,7 @@ and correctness in their uso of language.
 
 ---
 
-## [From _Christian Watchman and Reflector (1851-1861)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1854-04-13_35_15?page=3)
+## [From _Christian Watchman and Reflector (1851-1861)_](https://archive.org/details/sim_watchman-examiner_1854-04-13_35_15/page/n3/model/1up?view=theater)
 
 #### 1854-04-13 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2572,13 +2555,13 @@ Bhan ases, and consequently ‘read more understand:
 ingly.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1854-04-13_35_15&#0036;3/pct:24.203314,57.634576,11.687380,5.065994/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_watchman-examiner_1854-04-13_35_15&#0036;3/pct:24.203314,57.634576,11.687380,5.065994/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Christian Watchman and Reflector (1851-1861)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1854-04-13_35_15?page=3)
+## [From _Christian Watchman and Reflector (1851-1861)_](https://archive.org/details/sim_watchman-examiner_1854-04-13_35_15/page/n3/model/1up?view=theater)
 
 #### 1854-04-13 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2619,51 +2602,7 @@ and correctness in their use of language.
   
 rod may, to ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1854-04-13_35_15&#0036;3/pct:11.591778,14.635093,24.792862,80.441253/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033189/1854-04-20/ed-1/seq-1)
-
-#### 1854-04-20 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-A school teacher, who has been engaged  
-a long time m his profession, and witness­  
-ed t lie influence ot a newspaper upon the  
-minds et a family of children, writes to  
-i&#x27; e vuitor of the Ogdeusburg Sentinel as  
-follows ;  
-I have found it to be a universal fact,  
-without exception, that those scholars,  
-of both sexes and all ages, who have Lad  
-aci&#x27;e.as to newspapers at home, when com­  
-pared witii those that have not, arc;  
-. Em ter readers, excelling in pronun­  
-| ciat;lon emphasis, and consequently  
-read more understanding! y.  
-~. 1 hey are better spellers and define  
-words with case and accuracy,  
-j 1 hey obtain a practical knowledge  
-j of geography in almost half the time it  
-;equires others, as the newspaper has  
-made them familliar with the location of  
-the important places, nations, their gov­  
-ernments and doings, on the globe.  
-| 1 hey are better grammarians, for  
-hai mg become sn familliar with every va­  
-; rictj ol style in the newspaper, from the  
-commonplace advertisement to the finish­  
-ed and classical oration of the statesman,  
-they more readily comprehend the mean­  
-ing *,ie and consequently analyze  
-its construction with accuracy
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033189%2F00271769763%2F1854042001%2F0117.jp2/pct:81.231910,44.366425,12.861795,16.247164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_watchman-examiner_1854-04-13_35_15&#0036;3/pct:11.591778,14.635093,24.792862,80.441253/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3824,45 +3763,6 @@ great correctness in their use of languages.
 
 ---
 
-## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1857-02_9_2?page=7)
-
-#### 1857-02-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-A school teacher, who has been engaged a long ©  
-time in his profession, and witnessed the influence  
-of a newspaper on the minds of a family of children,  
-writes to the Ogdensburg Sentinel as follows :  
-  
-“T have found it to be the universal fact, without  
-exception, that those scholars of both sexes and of  
-all ages who have had access to newspapers at  
-home, when compared with those who have not, are  
-  
-1, Better readers, excelling in pronunciation, and  
-consequently read more understandingly.  
-  
-2. They are better spellers, and define words  
-with ease and accuracy.  
-  
-3. They obtain a practical knowledge of geogra-  
-phy in almost half the time it — others,  
-the newspaper has made them familiar with the lo-  
-cation of the most important places, nations, their  
-governments and doings, on the globe.  
-  
-4. They are better grammarians, for, havirg be-  
-come so familiar with every variety in the newspa
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1857-02_9_2&#0036;7/pct:50.769231,57.614213,37.153846,21.497462/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Pacific commercial advertiser._](https://chroniclingamerica.loc.gov/lccn/sn82015418/1857-02-12/ed-1/seq-6)
 
 #### 1857-02-12 &middot; [Honolulu, Hawaiian Islands](http://dbpedia.org/resource/Honolulu)
@@ -3912,45 +3812,7 @@ curacy.
 
 ---
 
-## [From _The home journal._](https://chroniclingamerica.loc.gov/lccn/sn97065087/1857-02-27/ed-1/seq-4)
-
-#### 1857-02-27 &middot; [Winchester, Tenn.](http://dbpedia.org/resource/Winchester%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-self.&quot;Influence of a Newspaper A school  
-teacher who has been engaged a long  
-time in hid profession, and witnessed  
-the influence of a newspaper, oh the  
-minds of a family of children, writes to  
-a cotemporary thus; &quot;I have found it  
-to be the universal fact, without excep  
-tion, that those scholars of both sexes,  
-and of all ages, who have had access  
-to nevspapers at home, when com  
-pared with those who have not are 1.  
-Better readers, excelling in pronunci­  
-ation, and consequently read more  
-understandingly. 2. They are better  
-spellers, and define words with ease  
-and accuracy. 3. They obtain a prac­  
-tical knowledge of geographyin almost  
-half the time it requires others, as the  
-newspaper has made them familiar  
-w ith the location of the most important  
-placee, nations, their governments and  
-doings, on the globe. 4. They are bet  
-ter grammarians; fcr, having become  
-so familiar with every variety in &#x27; th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065087%2F00212470478%2F1857022701%2F0224.jp2/pct:36.111665,57.030295,15.373878,20.119549/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1857-02-28_1857?page=7)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1857-02-28_1857/page/n7/model/1up?view=theater)
 
 #### 1857-02-28 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -3981,7 +3843,7 @@ They are better grammarians; for, having be-
 come 80 familiar with every variety in the news-  
 paper, from the commonplace ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1857-02-28_1857&#0036;7/pct:36.334270,74.287322,13.932584,11.524756/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-evening-post_1857-02-28_1857&#0036;7/pct:36.334270,74.287322,13.932584,11.524756/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4028,40 +3890,6 @@ pared with those who have not, are—1st. bet­
 ter readers, excelling in pronunciation, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064476%2F00295876074%2F1857032101%2F0259.jp2/pct:12.479839,88.096591,15.766129,6.392045/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1857-04-02_25_15?page=0)
-
-#### 1857-04-02 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Inrivence or A Newspaper. A school teacher  
-who has been engaged a long time in his profes-  
-ssion, and witnessed the influence of a newspaper  
-on the minds of a family of children, writes as  
-follows :—*‘I have found it to be the universal  
-fact, without exception, that those scholars of  
-both sexes, and of all ages, who have had access  
-to newspapers at home, when compared with  
-those who have not, are better readers, excell-  
-ing in pronunciation, and consequently read  
-more understandingly. They are better spellers,  
-and define words with ease and accuracy. They  
-obtain a practical knowledge of geography in  
-almost half the time it requires others, as the  
-newspaper has made them familiar with the lo-  
-cation of the most important places, nations,  
-their governments and doings, on the globe.  
-They are better grammarians; for, having be-  
-come so familiar with every variety in the news-  
-paper, from the commonplace advertisemen
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1857-04-02_25_15&#0036;0/pct:56.512605,82.676519,12.316176,11.165846/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4174,10 +4002,6 @@ variety in the newspaper, from the com
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-INFLUENCE OF A NEWSPAPER.—A school  
-teacher who has been engaged a Ion? time in  
-his profession, and witnessed the influence of  
-a newspaper on the minds of a family of child­  
 ren, writes to the Ogdeusburg StrUintl as fol­  
 lows :  
 &quot; I have found it to be the universal fact,  
@@ -4200,13 +4024,13 @@ ou the globe.
 become familiar with every variety in new-pa­  
 paper. from the common place advertisemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028630%2F1858012101%2F0661.jp2/pct:45.807963,30.700267,14.795733,13.877274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028630%2F1858012101%2F0661.jp2/pct:45.807963,32.922741,14.774915,11.654801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Pennsylvania School Journal 1852-1980_](https://iiif.archivelab.org/iiif/sim_pennsylvania-school-journal_1859-04_7_10?page=20)
+## [From _Pennsylvania School Journal 1852-1980_](https://archive.org/details/sim_pennsylvania-school-journal_1859-04_7_10/page/n20/model/1up?view=theater)
 
 #### 1859-04-01 &middot; [Lancaster, Pennsylvania](http://dbpedia.org/resource/Lancaster%2C_Pennsylvania)
 
@@ -4259,7 +4083,7 @@ and correctness in their use of language.—/bid
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_pennsylvania-school-journal_1859-04_7_10&#0036;20/pct:48.938429,19.354839,37.791932,38.387097/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_pennsylvania-school-journal_1859-04_7_10&#0036;20/pct:48.938429,19.354839,37.791932,38.387097/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4450,44 +4274,7 @@ use of language.
 
 ---
 
-## [THE NEWSPAPER.](http://trove.nla.gov.au/ndp/del/article/128805089)
-
-#### From _Freeman's Journal (Sydney, NSW : 1850 - 1932)_
-
-#### 1864-01-27 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-SCHOOLMASTERS TESTIMONY A school-teacher  
-who has been engaged a long time in his  
-profession, and witnessed the influence  
-of a newspaper on the minds of a family  
-of children, writes to the  
-O/zdensburcSentinel as follows :— b &#x27;I  
-have found it to be the universal fact  
-without exception, that these scholars  
-of both sexes and of all ages who have  
-had access to newspapers at home, when  
-compared with those who have not, are _  
-« 1 Better readers, excelling in  
-pronunciation, and consequently read  
-more understandingly.  &#x27; 2 They are  
-better spellers and define words with  
-ease and accuracy: 41 3 They obtain a  
-practical knowledge of geography in  
-almost half the time it requires others,  
-as the newspaper has made them familiar  
-with the location of the most important  
-places, nations, the governments and  
-doings, on the globe. &#x27;4&#x27; They are  
-better grammarians, for having become so  
-familiar with every variety in th
-</td></tr></table>
-
----
-
-## [From _Louisville daily Democrat._](https://iiif.archivelab.org/iiif/xt78sf2m8j1h?page=3)
+## [From _Louisville daily Democrat._](https://archive.org/details/xt78sf2m8j1h/page/n3/model/1up?view=theater)
 
 #### 1865-05-10 &middot; [Louisville, Kentucky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
@@ -4516,7 +4303,7 @@ eaLiLitiug n more extensive knowledge up-
 thcir view 3 with greater fluency,  
 And correctness in their use o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt78sf2m8j1h&#0036;3/pct:17.808045,3.594181,10.730652,7.283446/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt78sf2m8j1h&#0036;3/pct:17.808045,3.594181,10.730652,7.283446/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4565,7 +4352,7 @@ correctness in their use of language,
 
 ---
 
-## [From _Louisville daily union press._](https://iiif.archivelab.org/iiif/xt7r4x54hv4v?page=0)
+## [From _Louisville daily union press._](https://archive.org/details/xt7r4x54hv4v/page/n0/model/1up?view=theater)
 
 #### 1865-07-04 &middot; [Louisville, Ky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
@@ -4607,58 +4394,13 @@ a greater variety of subjects, and express-
 ing their views with greater fluency, clear-  
 ness and correctness in the use of language.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7r4x54hv4v&#0036;0/pct:42.400896,38.018286,12.494747,12.098660/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7r4x54hv4v&#0036;0/pct:42.400896,38.018286,12.494747,12.098660/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The West Virginia journal._](https://chroniclingamerica.loc.gov/lccn/sn84026789/1865-07-05/ed-1/seq-4)
-
-#### 1865-07-05 &middot; [Charleston, W. Va.](http://dbpedia.org/resource/Charleston%2C_West_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-nunciation, and consequently read more  
-nnderstandingly.  
-2. They are better spellers, and define  
-words with more case and accuracy.  
-3. They obtain particular knowledge  
-of geography in almost half the time it  
-requires ..others, as the newspaper hus  
-made them familiar with the location ol  
-the important places, nations, their gov­  
-ernment and doings ontihe globe.  
-4. They aro better grammarians, for  
-having become so familiar with every  
-variety of style in . the newspaper, from  
-the common&#x27;placc advertisement to the  
-finished and . classical oration of the  
-statesman, they moro readily comprc­  
-hend the meaning of tho text.n^d con?|  
-ncqncutly ani.lvzo its construction and  
-accuracy..  
-5. JChoy writo better compositions;  
-usirig:jH}tter language, containing moro  
-thought, .more clearly and conncctcdly  
-ox pre; sod. *  
-6. Those young men who havo for  
-years been readers of the newspapers arc  
-always taking the lead in tho debating  
-soeieties, exhibiting a moro extensive  
-knowledge upon a greater variety of  
-8ttbjeetsraod expressing their views with  
-greater fluency, clearness and correctness  
-~ intheiruec of language. &quot; 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_gorn_ver01%2Fdata%2Fsn84026789%2F00271768047%2F1865070501%2F0154.jp2/pct:1.466484,74.929598,14.238595,18.615681/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The commonwealth._](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1865-07-29_3_48?page=3)
+## [From _The commonwealth._](https://archive.org/details/sim_boston-commonwealth_1865-07-29_3_48/page/n3/model/1up?view=theater)
 
 #### 1865-07-29 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -4707,7 +4449,7 @@ greater variety of snbjects, and expressing their
 views with greater fluency, clearness and cor-  
 rectness in the use of language.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1865-07-29_3_48&#0036;3/pct:40.828947,39.767206,11.842105,16.103239/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_boston-commonwealth_1865-07-29_3_48&#0036;3/pct:40.828947,39.767206,11.842105,16.103239/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5385,66 +5127,6 @@ correctness in the use of language.
 
 ---
 
-## [From _Harper's Bazaar (1867-1912)_](https://iiif.archivelab.org/iiif/sim_harpers-bazaar_1869-05-29_2_22?page=13)
-
-#### 1869-05-29 &middot; [New York](http://dbpedia.org/resource/New_York_City)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-SCHOOL-TEACHER, who has been en-  
-  
-gaged a long time in his profession, and  
-witnessed the influence of the newspaper on the  
-minds of a family of children, writes as follows:  
-**T have found it to be a universal fact, without  
-exception, that those scholars of both sexes, and  
-of all ages, who have had access to newspapers  
-at home, when compared with those who have  
-not, are better readers, excelling in punctuation,  
-and consequently read more understandingly.  
-They are better spellers, and define words with  
-ease and accuracy. ‘They obtain a practical  
-knowledge of geography in almost half the time  
-it requires others, as the newspaper has made  
-them familiar with the location of the most im-  
-portant places, nations, and their governments  
-and doings, on the globe. ‘They are better  
-grammarians; for, having become so familiar  
-with every variety in the newspaper, from th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-bazaar_1869-05-29_2_22&#0036;13/pct:8.455497,20.720399,19.424084,12.321683/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1869-06-11/ed-1/seq-3)
-
-#### 1869-06-11 &middot; [Bedford, Pa.](http://dbpedia.org/resource/Bedford%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-the influence of a newspaper on the mind of  
-a family of children, can avoid indorsing the  
-following, giving the experience of a school  
-teacher who has been engaged a long time in  
-his profession. &quot; I have found it to be a  
-universal fact,&quot; be says, &quot;and without ex  
-ception, that those scholars of both sexes,  
-and of all ages, who have had access to  
-newspapers, at borne, when compared with  
-those who have not, are better readers, ex  
-celling in punctuation, and consequently rea
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028575%2F1869061101%2F0557.jp2/pct:15.115684,20.455350,11.143530,5.497228/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [MINING CALLS, DIVIDENDS AND MEETINGS. CALLS.](http://trove.nla.gov.au/ndp/del/article/150434376)
 
 #### From _Geelong Advertiser (Vic. : 1859 - 1924)_
@@ -5667,42 +5349,6 @@ commenced in the Legislative Assembly o
 
 ---
 
-## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1869-12-11_23_24?page=11)
-
-#### 1869-12-11 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-A school teacher who has been engaged a long  
-time in his profession, and witnessed the influ-  
-ences of a newspaper on the minds of a family  
-of children, writes as follows: ‘I have found  
-it to be the universal fact, without exception,  
-that those scholars of both sexes, and of all  
-ages, who have had access to newspapers at  
-home, when compared with those who have  
-not, are better readers, excelling in pronunciation,  
-and consequently read more understandingly.—  
-They are better spellers, and define words with  
-ease aud accuracy.  
-  
-“They obtain a practical kuowledge of geog  
-raphy in almost half the time it requires others,  
-as the newspaper has made them familiar with  
-the location of the most important places, na-  
-tions, their governments and doings on the globe.  
-  
-“They are better grammarians; for, having  
-become so familiar with every variety in th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1869-12-11_23_24&#0036;11/pct:44.282573,65.843023,25.068719,17.088870/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [PRESBYTERY OF THE HUNTER.](http://trove.nla.gov.au/ndp/del/article/111161900)
 
 #### From _The Newcastle Chronicle (NSW : 1866 - 1876)_
@@ -5776,127 +5422,6 @@ language. -
 
 ---
 
-## [From _Knoxville daily chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033437/1872-11-17/ed-1/seq-1)
-
-#### 1872-11-17 &middot; [Knoxville, Tenn.](http://dbpedia.org/resource/Knoxville%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Influence of a Newspaper.  
-A school teacher, who has been engaged  
-a longtime in his profession, and witnessed  
-the influence of newspapears on the minds  
-of a family of children, writes as follows :  
-&quot;I have found it to be the universal fact,  
-without exception, that those scholars of  
-both sexes, and of all ages, who have had  
-access to newspapers at home, when com­  
-pared with those who have not, are better  
-readers, excelling in pronunciation, and  
-consequently read more understandingly.  
-They are better spellers, and define words  
-with ease and accuracy.  
-&quot;They obtain a practical knowledge of  
-geography in almost half the time it re­  
-quires others, as the newspaper has made  
-them familiar with the location of the most  
-important places, nations, their govern­  
-ments and doings on the globe. .  
-&quot;They are better grammarians ; for hav­  
-ing become so familiar with every variety  
-of the newspaper, from the common plac
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_grady_ver01%2Fdata%2Fsn85033437%2F00200293733%2F1872111701%2F0468.jp2/pct:33.575237,66.461699,14.573460,11.349661/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Knoxville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033438/1872-11-20/ed-1/seq-8)
-
-#### 1872-11-20 &middot; [Knoxville, Tenn.](http://dbpedia.org/resource/Knoxville%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Influence of a &#x27;cwspaper.  
-A school teacher, who has been engaged  
-a longtime in his profession, and witnessed  
-the inlluence of newspapears on the minds  
-of a family of childron, writes as follows :  
-&quot;1 nave louiid it to be tue universal iaci,  
-without exception, that those scholars of  
-both sexes, and of all ages, who have had  
-access to newspapers at home, when com  
-pared with those who nave not, are better  
-readers, excellinc in pronunciation, nnd  
-consoouentlv read more understaudihKiy,  
-They are better spellers, anu uennc worus  
-with ease and accuracy.  
-&quot;They obtain a practical knowledge of  
-geography in almost halt the time it re­  
-quires others, as the newspaper has made  
-them familiar with the location of the most  
-Important places, nations, their govern­  
-ments and doings on the globe.  
-&quot;They nre better grammarians ; for hav­  
-inir become so familiar with every variety  
-of the newspaper, from the common plac
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_furry_ver01%2Fdata%2Fsn85033438%2F00200293563%2F1872112001%2F0993.jp2/pct:24.714119,59.697693,17.176196,12.267303/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Lambertville record._](https://chroniclingamerica.loc.gov/lccn/sn84026089/1873-03-05/ed-1/seq-1)
-
-#### 1873-03-05 &middot; [Lambertville, N.J.](http://dbpedia.org/resource/Lambertville%2C_New_Jersey)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-which could not be cut down two-thirds, and  
-menny of them could he cut clean back to the  
-title page without hurting them.  
-It iz hard tew find a man ov good sense  
-who kan look back upon enny occasion and  
-wish he had sed sum more, but it iz easy to  
-find menny who wish they had said less.  
-A thing sed iz hard tew recall, but unsed it  
-kan be spoken any time.  
-Brevity iz the child of silence, and iz a great  
-| credit to the old man.  
-  
-Ikfmjesck OF a NKWSPAPEH.—A school  
-teacher who has been engaged a long time in  
-bis profession and witnessed the influence of  
-a newspaper on the minds of a family of cliil  
-dren, writes as follows :  
-“ 1 have found it to bo a universal fact,  
-without exception, that those scholars of both  
-sexes and of all ages, who have had access to  
-newspapers at home, when compared with  
-those who have not, are better readers, excel­  
-ling in punctuation, and consequently read  
-more understanding^. They are better spell­  
-ers, and define words with case and accuracy.  
-They obtain a practical knowledge of geogra­  
-phy in almost half the time it requires others,  
-as the newspaper has made them familiar with  
-the location of the most important places, na­  
-tions, their governments and doings, on the  
-globe. They are better grammarians ; for,  
-having become so familiar witli every variety  
-in the newspaper, from the common plac
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_asburypark_ver01%2Fdata%2Fsn84026089%2F00514155860%2F1873030501%2F0098.jp2/pct:31.500000,66.916147,12.711207,18.908524/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1874-05-05/ed-1/seq-1)
 
 #### 1874-05-05 &middot; [Charles Town, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
@@ -5956,7 +5481,6 @@ and correctness.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Influence of Newspapers.  
 A school teacher, who has been  
 engaged a long lime in his pro­  
 fession, and witnessed the influ  
@@ -5994,7 +5518,7 @@ prehend the meaning of the text,
 and constantly aualize its con  
 struction with accuracy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_igglybuff_ver01%2Fdata%2Fsn84023017%2F00414213005%2F1876040601%2F0242.jp2/pct:3.002833,38.667042,11.846081,21.066507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_igglybuff_ver01%2Fdata%2Fsn84023017%2F00414213005%2F1876040601%2F0242.jp2/pct:3.002833,39.341957,11.846081,20.391592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6033,7 +5557,7 @@ variety in the newspaper, from th
 
 ---
 
-## [From _Journal of Education 1875-2015_](https://iiif.archivelab.org/iiif/sim_journal-of-education_1878-11-14_8_194?page=2)
+## [From _Journal of Education 1875-2015_](https://archive.org/details/sim_journal-of-education_1878-11-14_8_194/page/n2/model/1up?view=theater)
 
 #### 1878-11-14 &middot; [Boston, Massachusetts](http://dbpedia.org/resource/Boston)
 
@@ -6064,7 +5588,7 @@ a greater variety of subjects, and expressing their views
 with greater fluency, clearness, and correctness, in their  
 use of language, than those whoare unfamiliar with thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-education_1878-11-14_8_194&#0036;2/pct:5.810724,21.654040,55.586413,70.596591/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_journal-of-education_1878-11-14_8_194&#0036;2/pct:5.810724,21.654040,55.586413,70.596591/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

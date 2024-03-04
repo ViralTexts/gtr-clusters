@@ -40,7 +40,7 @@ The Tomato is a fruit very easily raised. If the seed be sown in May, in good ri
 
 ---
 
-## [From _Christian register._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1834-08-22_14_54?page=3)
+## [From _Christian register._](https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_1834-08-22_14_54/page/n3/model/1up?view=theater)
 
 #### 1834-08-22 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -88,13 +88,13 @@ healthy article of the Materia Alimentaria, &amp;c.
   
 Expenses or Wars.—Since the year 100
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1834-08-22_14_54&#0036;3/pct:6.309650,8.127934,58.377519,87.402191/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_unitarian-register-and-the-universalist-leader_1834-08-22_14_54&#0036;3/pct:6.309650,8.127934,58.377519,87.402191/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Cultivator._](https://iiif.archivelab.org/iiif/sim_cultivator_1835-03_1?page=93)
+## [From _The Cultivator._](https://archive.org/details/sim_cultivator_1835-03_1/page/n93/model/1up?view=theater)
 
 #### 1835-03-01 &middot; [Albany](http://dbpedia.org/resource/Albany%2C_New_York)
 
@@ -128,7 +128,7 @@ Without intending to endorse all the professor’s conclusions, we
 know enough of the tomato, from experience, to recommend it as  
 a grateful vegetable, and salutary to health, in the summer months
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cultivator_1835-03_1&#0036;93/pct:50.786334,59.236948,38.286334,16.526104/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_cultivator_1835-03_1&#0036;93/pct:50.786334,59.236948,38.286334,16.526104/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ of the Materia Alunentnria
 
 ---
 
-## [From _The Maine farmer and journal of the useful arts._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1835-08-21_3_29?page=2)
+## [From _The Maine farmer and journal of the useful arts._](https://archive.org/details/sim_maine-farmer_1835-08-21_3_29/page/n2/model/1up?view=theater)
 
 #### 1835-08-21 &middot; [Winthrop, Me.](http://dbpedia.org/resource/Winthrop%2C_Maine)
 
@@ -249,7 +249,7 @@ sup, With their daily food, as it is the mest healt!)
 article of the Materia Alimentaria, &amp;c. &amp;ce,  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1835-08-21_3_29&#0036;2/pct:55.297757,65.497789,24.400619,21.405702/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_maine-farmer_1835-08-21_3_29&#0036;2/pct:55.297757,65.497789,24.400619,21.405702/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ article of the Materia Alimentaria, &amp;c. &amp;ce,
 
 ---
 
-## [From _Kentucky gazette._](https://iiif.archivelab.org/iiif/xt7k6d5p940c?page=0)
+## [From _Kentucky gazette._](https://archive.org/details/xt7k6d5p940c/page/n0/model/1up?view=theater)
 
 #### 1835-08-22 &middot; [[Lexington, Ky.]](http://dbpedia.org/resource/Lexington%2C_Kentucky)
 
@@ -318,7 +318,7 @@ teria Alimentara. &amp;e.
   
 Now if these jiositions he true, it is o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7k6d5p940c&#0036;0/pct:79.810661,25.708855,13.871167,11.785205/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7k6d5p940c&#0036;0/pct:79.810661,25.708855,13.871167,11.785205/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -414,7 +414,7 @@ mentaria, &amp;c
 
 ---
 
-## [From _The farmer & gardener._](https://iiif.archivelab.org/iiif/sim_american-farmer-devoted-to-agriculture-horticulture_1835-09-01_2_18?page=5)
+## [From _The farmer & gardener._](https://archive.org/details/sim_american-farmer-devoted-to-agriculture-horticulture_1835-09-01_2_18/page/n5/model/1up?view=theater)
 
 #### 1835-09-01 &middot; [Baltimore [Md.]](http://dbpedia.org/resource/Baltimore)
 
@@ -444,13 +444,13 @@ either raw, cooker, or in form of a catsup with -
 their daily food, as it is the opost healthy article _  
 of the Materia Alimentaria, &amp;e.—[M. Y. Times
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-farmer-devoted-to-agriculture-horticulture_1835-09-01_2_18&#0036;5/pct:66.047297,45.623791,29.138514,26.160542/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_american-farmer-devoted-to-agriculture-horticulture_1835-09-01_2_18&#0036;5/pct:66.047297,45.623791,29.138514,26.160542/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1835-09-02_14_8?page=5)
+## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1835-09-02_14_8/page/n5/model/1up?view=theater)
 
 #### 1835-09-02 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -481,7 +481,7 @@ taria, &amp;c.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1835-09-02_14_8&#0036;5/pct:67.370644,40.144231,26.979937,23.076923/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-england-farmer-and-horticultural-register_1835-09-02_14_8&#0036;5/pct:67.370644,40.144231,26.979937,23.076923/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -551,7 +551,7 @@ I Materia Alimentaria, &amp;c.
 
 ---
 
-## [From _The Genesee Farmer and Gardener's Journal (1831-1839)_](https://iiif.archivelab.org/iiif/sim_genesee-farmer-and-gardeners-journal_1835-09-19_5_38?page=7)
+## [From _The Genesee Farmer and Gardener's Journal (1831-1839)_](https://archive.org/details/sim_genesee-farmer-and-gardeners-journal_1835-09-19_5_38/page/n7/model/1up?view=theater)
 
 #### 1835-09-19 &middot; [Rochester](http://dbpedia.org/resource/Rochester%2C_New_York)
 
@@ -595,7 +595,7 @@ use of it, either raw, watt or in the form of a
 catsup, with their daily food, as it is the most  
 healthy article of the materia alimentaria, &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_genesee-farmer-and-gardeners-journal_1835-09-19_5_38&#0036;7/pct:12.937385,55.276639,26.634438,21.465164/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_genesee-farmer-and-gardeners-journal_1835-09-19_5_38&#0036;7/pct:12.937385,55.276639,26.634438,21.465164/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -661,15 +661,15 @@ Materia Alimcutaria, Sic
 
 ## The Tomato
 
-#### From _Arkansas gazette._
+#### From _The Arkansas gazette._
 
-#### 1835-09-29 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
+#### 1835-09-29 &middot; [Arkansas Post, Ark. Ter.](http://dbpedia.org/resource/Arkansas_Post)
 
 [This text is not available under an open license.]
 
 ---
 
-## [From _Southern Agriculturist and Register of Rural Affairs (1828-1839)_](https://iiif.archivelab.org/iiif/sim_southern-agriculturist-horticulturist-and-register_1835-10_8_10?page=62)
+## [From _Southern Agriculturist and Register of Rural Affairs (1828-1839)_](https://archive.org/details/sim_southern-agriculturist-horticulturist-and-register_1835-10_8_10/page/n62/model/1up?view=theater)
 
 #### 1835-10-01 &middot; [Charleston](http://dbpedia.org/resource/Charleston%2C_South_Carolina)
 
@@ -699,13 +699,13 @@ unacclimated persons are liable.
 in the form of a catsup, with their daily food, as it is the most healthy article of  
 the materia alimentaria, &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_southern-agriculturist-horticulturist-and-register_1835-10_8_10&#0036;62/pct:14.871017,38.131313,63.808801,16.850321/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_southern-agriculturist-horticulturist-and-register_1835-10_8_10&#0036;62/pct:14.871017,38.131313,63.808801,16.850321/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Tennessee Farmer (1834-1839)_](https://iiif.archivelab.org/iiif/sim_tennessee-farmer-containing-original-and-selected-essays_1835-10_1_11?page=11)
+## [From _Tennessee Farmer (1834-1839)_](https://archive.org/details/sim_tennessee-farmer-containing-original-and-selected-essays_1835-10_1_11/page/n11/model/1up?view=theater)
 
 #### 1835-10-01 &middot; [Jonesborough](http://dbpedia.org/resource/Jonesborough%2C_Tennessee)
 
@@ -743,13 +743,13 @@ use of it, either raw, cooked, or in form of a cat-
 sup, with their daily food, as it 1s the most healthy  
 article af the Materia Alimentaria, §c. &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_tennessee-farmer-containing-original-and-selected-essays_1835-10_1_11&#0036;11/pct:15.458333,43.721198,37.791667,32.949309/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_tennessee-farmer-containing-original-and-selected-essays_1835-10_1_11&#0036;11/pct:15.458333,43.721198,37.791667,32.949309/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1835-10-09_16_41?page=3)
+## [From _Christian Watchman (1819-1848)_](https://archive.org/details/sim_watchman-examiner_1835-10-09_16_41/page/n3/model/1up?view=theater)
 
 #### 1835-10-09 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -777,7 +777,7 @@ diarnheea with this alticle alone.
 it is almost a sovereign remedy for dyspepsia, or  
 indigestion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1835-10-09_16_41&#0036;3/pct:24.950916,37.659709,13.743455,7.463631/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_watchman-examiner_1835-10-09_16_41&#0036;3/pct:24.950916,37.659709,13.743455,7.463631/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -793,7 +793,7 @@ indigestion.
 
 ---
 
-## [From _Farmer's Register; A Monthly Publication (1833-1843)_](https://iiif.archivelab.org/iiif/sim_farmers-register-a-monthly-publication_1835-11_3_7?page=9)
+## [From _Farmer's Register; A Monthly Publication (1833-1843)_](https://archive.org/details/sim_farmers-register-a-monthly-publication_1835-11_3_7/page/n9/model/1up?view=theater)
 
 #### 1835-11-01 &middot; [Shellbanks](http://dbpedia.org/resource/Petersburg%2C_Virginia)
 
@@ -826,13 +826,13 @@ use of it, either raw, cooked, or in form of a cat-
 sup. with their daily food, as it is the most healthy  
 article of the Materia Alimentaria, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_farmers-register-a-monthly-publication_1835-11_3_7&#0036;9/pct:53.080808,56.284744,39.898990,28.011118/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_farmers-register-a-monthly-publication_1835-11_3_7&#0036;9/pct:53.080808,56.284744,39.898990,28.011118/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Mechanics' Magazine, and Journal of the Mechanics' Institute (1833-1837)_](https://iiif.archivelab.org/iiif/sim_mechanics-magazine_1835-12_6_6?page=37)
+## [From _Mechanics' Magazine, and Journal of the Mechanics' Institute (1833-1837)_](https://archive.org/details/sim_mechanics-magazine_1835-12_6_6/page/n37/model/1up?view=theater)
 
 #### 1835-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -881,13 +881,13 @@ ria Alimentaria, &amp;c.
   
 Now if these positions be true, it is o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mechanics-magazine_1835-12_6_6&#0036;37/pct:18.006135,13.720000,72.300613,74.220000/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_mechanics-magazine_1835-12_6_6&#0036;37/pct:18.006135,13.720000,72.300613,74.220000/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _New York Farmer (1828-1837)_](https://iiif.archivelab.org/iiif/sim_new-york-farmer_1835-12_8_12?page=112)
+## [From _New York Farmer (1828-1837)_](https://archive.org/details/sim_new-york-farmer_1835-12_8_12/page/n112/model/1up?view=theater)
 
 #### 1835-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -925,13 +925,13 @@ use of it, either raw, cooked, or in form of catchup,
 with their daily food, as it is one of the most healthy  
 articles of the Materia Alimentaria, etc. etc.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-farmer_1835-12_8_12&#0036;112/pct:59.687500,66.639209,26.750000,21.087315/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-york-farmer_1835-12_8_12&#0036;112/pct:59.687500,66.639209,26.750000,21.087315/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _New York Farmer (1828-1837)_](https://iiif.archivelab.org/iiif/sim_new-york-farmer_1835-12_8_12?page=113)
+## [From _New York Farmer (1828-1837)_](https://archive.org/details/sim_new-york-farmer_1835-12_8_12/page/n113/model/1up?view=theater)
 
 #### 1835-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -942,7 +942,7 @@ the whole, it may be looked upon as one of the
 most wholesome gnd valuable esculents, that be- |  
 long to the vegetable kingdom.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-york-farmer_1835-12_8_12&#0036;113/pct:11.875000,24.855848,27.062500,2.697694/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-york-farmer_1835-12_8_12&#0036;113/pct:11.875000,24.855848,27.062500,2.697694/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -958,7 +958,7 @@ long to the vegetable kingdom.
 
 ---
 
-## [From _The Genesee Farmer and Gardener's Journal (1831-1839)_](https://iiif.archivelab.org/iiif/sim_genesee-farmer-and-gardeners-journal_1836-12-17_6_51?page=1)
+## [From _The Genesee Farmer and Gardener's Journal (1831-1839)_](https://archive.org/details/sim_genesee-farmer-and-gardeners-journal_1836-12-17_6_51/page/n1/model/1up?view=theater)
 
 #### 1836-12-17 &middot; [Rochester](http://dbpedia.org/resource/Rochester%2C_New_York)
 
@@ -969,13 +969,13 @@ versity of Maryland, says,—‘‘ It may be looked
 upon as one of the most wholesome and valuable  
 esculents that belong te the vegetable kingdom.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_genesee-farmer-and-gardeners-journal_1836-12-17_6_51&#0036;1/pct:14.456722,35.399590,26.035912,2.851776/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_genesee-farmer-and-gardeners-journal_1836-12-17_6_51&#0036;1/pct:14.456722,35.399590,26.035912,2.851776/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Horticultural Register, and Gardener's Magazine (1835-1838)_](https://iiif.archivelab.org/iiif/sim_horticultural-register-and-gardeners-magazine_1837-03-01_3?page=37)
+## [From _Horticultural Register, and Gardener's Magazine (1835-1838)_](https://archive.org/details/sim_horticultural-register-and-gardeners-magazine_1837-03-01_3/page/n37/model/1up?view=theater)
 
 #### 1837-03-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -986,13 +986,13 @@ Virginia, and now of the University of Maryland, says,—‘“ It may
 be looked upon as one of the most wholesome and valuable escu-  
 lents that belong to the vegetable kingdom.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_horticultural-register-and-gardeners-magazine_1837-03-01_3&#0036;37/pct:32.236842,29.440236,59.111842,4.861111/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_horticultural-register-and-gardeners-magazine_1837-03-01_3&#0036;37/pct:32.236842,29.440236,59.111842,4.861111/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Southern Agriculturist and Register of Rural Affairs (1828-1839)_](https://iiif.archivelab.org/iiif/sim_southern-agriculturist-horticulturist-and-register_1837-04_10_4?page=21)
+## [From _Southern Agriculturist and Register of Rural Affairs (1828-1839)_](https://archive.org/details/sim_southern-agriculturist-horticulturist-and-register_1837-04_10_4/page/n21/model/1up?view=theater)
 
 #### 1837-04-01 &middot; [Charleston](http://dbpedia.org/resource/Charleston%2C_South_Carolina)
 
@@ -1011,13 +1011,13 @@ land, says,—*‘ Jt may be looked upon as one of the most
 wholesome and valuable esculents that belong to the ve-  
 getable kingdom.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_southern-agriculturist-horticulturist-and-register_1837-04_10_4&#0036;21/pct:20.776256,58.859196,64.383562,14.349876/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_southern-agriculturist-horticulturist-and-register_1837-04_10_4&#0036;21/pct:20.776256,58.859196,64.383562,14.349876/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1837-04-26_15_42?page=0)
+## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1837-04-26_15_42/page/n0/model/1up?view=theater)
 
 #### 1837-04-26 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1028,13 +1028,13 @@ of Maryland, says,—* It may be looked upon as
 one of the most whoiesome and valuable esculents  
 that belorg to the vegetable kingdom.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1837-04-26_15_42&#0036;0/pct:5.868421,62.639283,26.894737,3.255407/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-england-farmer-and-horticultural-register_1837-04-26_15_42&#0036;0/pct:5.868421,62.639283,26.894737,3.255407/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Cultivator._](https://iiif.archivelab.org/iiif/sim_cultivator_1837-06_4_4?page=1)
+## [From _The Cultivator._](https://archive.org/details/sim_cultivator_1837-06_4_4/page/n1/model/1up?view=theater)
 
 #### 1837-06-01 &middot; [Albany](http://dbpedia.org/resource/Albany%2C_New_York)
 
@@ -1044,13 +1044,13 @@ that belorg to the vegetable kingdom.”
 ber. The terms misanthropic, miserly, narrow-minded and selfish, con-| Prof. Dunglinson says—‘‘ It may be looked upon as one of the most  
 vey reproach, and are classed by moralists among the vices of humanity.) wholesome and valuable eculents that belong to the vegetable kingdom.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cultivator_1837-06_4_4&#0036;1/pct:10.941043,25.296443,80.385488,1.837945/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_cultivator_1837-06_4_4&#0036;1/pct:10.941043,25.296443,80.385488,1.837945/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Cultivator._](https://iiif.archivelab.org/iiif/sim_cultivator_1837-06_4_4?page=1)
+## [From _The Cultivator._](https://archive.org/details/sim_cultivator_1837-06_4_4/page/n1/model/1up?view=theater)
 
 #### 1837-06-01 &middot; [Albany](http://dbpedia.org/resource/Albany%2C_New_York)
 
@@ -1068,7 +1068,7 @@ cause of which, in one case, was supposed to be diseased liver—in ano-|| defic
 ther, diseased lungs. It mitigates, and sometimes effectually checks, a Nos. 9 to 13 are adapted to the Indian corn crop, always, however, re-  
 fit of coughing. It was used in a dried state, with a little sugar mixed|| quiring manure to render it profitable. They are of average quality o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cultivator_1837-06_4_4&#0036;1/pct:10.515873,74.960474,80.839002,8.932806/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_cultivator_1837-06_4_4&#0036;1/pct:10.515873,74.960474,80.839002,8.932806/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1094,7 +1094,7 @@ fit of coughing. It was used in a dried state, with a little sugar mixed|| quiri
 
 ---
 
-## [From _The philanthropist._](https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22?page=3)
+## [From _The philanthropist._](https://archive.org/details/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22/page/n3/model/1up?view=theater)
 
 #### 1837-07-14 &middot; [New Richmond, Ohio](http://dbpedia.org/resource/New_Richmond%2C_Ohio)
 
@@ -1116,13 +1116,13 @@ the subject, A smile of incredulity passed round the of-
 success. They were afflicted, says he; with chronic cot ,:  
 the primary cause of which, in one. case, was supposed to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22&#0036;3/pct:61.008006,29.959562,35.480349,2.485728/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22&#0036;3/pct:61.008006,29.959562,35.480349,2.485728/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The philanthropist._](https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22?page=3)
+## [From _The philanthropist._](https://archive.org/details/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22/page/n3/model/1up?view=theater)
 
 #### 1837-07-14 &middot; [New Richmond, Ohio](http://dbpedia.org/resource/New_Richmond%2C_Ohio)
 
@@ -1139,13 +1139,13 @@ administered, by sucha kind master as Mr. B. is a very,
 be diseased liver—in another diseased lun t mitigates,  
 and sometimes effectually checks, a fit of thaghime I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22&#0036;3/pct:60.989811,32.052807,35.334789,2.533302/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22&#0036;3/pct:60.989811,32.052807,35.334789,2.533302/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The philanthropist._](https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22?page=3)
+## [From _The philanthropist._](https://archive.org/details/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22/page/n3/model/1up?view=theater)
 
 #### 1837-07-14 &middot; [New Richmond, Ohio](http://dbpedia.org/resource/New_Richmond%2C_Ohio)
 
@@ -1156,7 +1156,7 @@ and sometimes effectually checks, a fit of thaghime I
 jas one of the most wholesome and valuable esculents that  
 belong to the vegetable kingdom.” — Cultivator.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22&#0036;3/pct:78.675400,44.802569,17.449054,1.082303/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22&#0036;3/pct:78.675400,44.802569,17.449054,1.082303/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1310,7 +1310,7 @@ n fit of coughing. It.was used in a dr
 
 ---
 
-## [From _The Religious Intelligencer ... Containing the Principal Transactions of the Various Bible and Missionary Societies, with Particular Accounts of Revivals of Religion (1816-1837)_](https://iiif.archivelab.org/iiif/sim_religious-intelligencer_1837-08-05_22_10?page=8)
+## [From _The Religious Intelligencer ... Containing the Principal Transactions of the Various Bible and Missionary Societies, with Particular Accounts of Revivals of Religion (1816-1837)_](https://archive.org/details/sim_religious-intelligencer_1837-08-05_22_10/page/n8/model/1up?view=theater)
 
 #### 1837-08-05 &middot; [New Haven](http://dbpedia.org/resource/New_Haven%2C_Connecticut)
 
@@ -1322,13 +1322,13 @@ Professor Dunglinson says—&quot; It may be looked upon
 as one of the most wholesuime and valuable esculents  
 that belong to the vegetable hingdom.&quot;—Cudtirato:.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_religious-intelligencer_1837-08-05_22_10&#0036;8/pct:44.617092,14.239598,38.596004,3.192253/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_religious-intelligencer_1837-08-05_22_10&#0036;8/pct:44.617092,14.239598,38.596004,3.192253/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Religious Intelligencer ... Containing the Principal Transactions of the Various Bible and Missionary Societies, with Particular Accounts of Revivals of Religion (1816-1837)_](https://iiif.archivelab.org/iiif/sim_religious-intelligencer_1837-08-05_22_10?page=8)
+## [From _The Religious Intelligencer ... Containing the Principal Transactions of the Various Bible and Missionary Societies, with Particular Accounts of Revivals of Religion (1816-1837)_](https://archive.org/details/sim_religious-intelligencer_1837-08-05_22_10/page/n8/model/1up?view=theater)
 
 #### 1837-08-05 &middot; [New Haven](http://dbpedia.org/resource/New_Haven%2C_Connecticut)
 
@@ -1345,13 +1345,13 @@ with decid.d success. They were alHicted, says he, The rise appears to have been
 with chronic cough, the primary cause of which, in one | Missouri river; and so great ani rapid was the swell from  
 case, was supposed to be diseased liver—in another dis- that river, that the waters of the Mississippi and Illinoi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_religious-intelligencer_1837-08-05_22_10&#0036;8/pct:5.244173,61.746772,77.719201,7.837159/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_religious-intelligencer_1837-08-05_22_10&#0036;8/pct:5.244173,61.746772,77.719201,7.837159/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1837-08-09_16_5?page=2)
+## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1837-08-09_16_5/page/n2/model/1up?view=theater)
 
 #### 1837-08-09 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1366,13 +1366,13 @@ to render it more agreeable to the taste.
 ter expresses a ccuviction, that if freely used in  
 July, August and September, it would prove 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1837-08-09_16_5&#0036;2/pct:6.935654,18.217391,26.793249,6.521739/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-england-farmer-and-horticultural-register_1837-08-09_16_5&#0036;2/pct:6.935654,18.217391,26.793249,6.521739/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1837-08-09_16_5?page=2)
+## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1837-08-09_16_5/page/n2/model/1up?view=theater)
 
 #### 1837-08-09 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1391,13 +1391,13 @@ Prof. Duglison says—*“ ht may be looked upon
 as one of the most wholesome and valuable escu-  
 lents that belong to the vegetable kingdom.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1837-08-09_16_5&#0036;2/pct:6.777426,41.521739,27.452532,8.891304/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-england-farmer-and-horticultural-register_1837-08-09_16_5&#0036;2/pct:6.777426,41.521739,27.452532,8.891304/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Kentucky gazette._](https://iiif.archivelab.org/iiif/xt76m901zv8k?page=1)
+## [From _Kentucky gazette._](https://archive.org/details/xt76m901zv8k/page/n1/model/1up?view=theater)
 
 #### 1837-08-10 &middot; [[Lexington, Ky.]](http://dbpedia.org/resource/Lexington%2C_Kentucky)
 
@@ -1445,7 +1445,7 @@ may be at command through the year. The
 mode of drying is as follows: “Full ripe Toma-  
 toes nro scalded in hot water, to facilitate th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt76m901zv8k&#0036;1/pct:51.246073,5.774980,28.565445,86.199843/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt76m901zv8k&#0036;1/pct:51.246073,5.774980,28.565445,86.199843/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1554,7 +1554,7 @@ nealtuv article ol the Materia Aiimentaria.
 
 ---
 
-## [From _Boston recorder._](https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1837-09-01_22_35?page=3)
+## [From _Boston recorder._](https://archive.org/details/sim_congregationalist-and-herald-of-gospel-liberty_1837-09-01_22_35/page/n3/model/1up?view=theater)
 
 #### 1837-09-01 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -1581,13 +1581,13 @@ P complete antidote to
 The tomato, to have early use,  
 should be started with us in a hot hed; though
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1837-09-01_22_35&#0036;3/pct:38.717105,76.544039,13.437500,7.585929/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1837-09-01_22_35&#0036;3/pct:38.717105,76.544039,13.437500,7.585929/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Boston recorder._](https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1837-09-01_22_35?page=3)
+## [From _Boston recorder._](https://archive.org/details/sim_congregationalist-and-herald-of-gospel-liberty_1837-09-01_22_35/page/n3/model/1up?view=theater)
 
 #### 1837-09-01 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -1613,13 +1613,13 @@ looked upon as one of the most wholesome and
 valuable esculents that belong to the vegetable  
 kingdom.” —Cultivater.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1837-09-01_22_35&#0036;3/pct:38.651316,87.419441,13.174342,7.465091/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1837-09-01_22_35&#0036;3/pct:38.651316,87.419441,13.174342,7.465091/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1837-09-08_18_36?page=3)
+## [From _Christian Watchman (1819-1848)_](https://archive.org/details/sim_watchman-examiner_1837-09-08_18_36/page/n3/model/1up?view=theater)
 
 #### 1837-09-08 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1641,13 +1641,13 @@ one case, was supposed to be diseased liver—
 in another diseased longs. It mitigates, and  
 sometimes effectually checks, a fit of coughing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1837-09-08_18_36&#0036;3/pct:38.727390,9.124365,26.695736,41.218274/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_watchman-examiner_1837-09-08_18_36&#0036;3/pct:38.727390,9.124365,26.695736,41.218274/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Christian Watchman (1819-1848)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1837-09-08_18_36?page=3)
+## [From _Christian Watchman (1819-1848)_](https://archive.org/details/sim_watchman-examiner_1837-09-08_18_36/page/n3/model/1up?view=theater)
 
 #### 1837-09-08 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1674,7 +1674,7 @@ valuable esculents that belong to the vegetable
 kingdom.”—Culltivator.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1837-09-08_18_36&#0036;3/pct:52.067183,19.581218,13.404393,7.449239/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_watchman-examiner_1837-09-08_18_36&#0036;3/pct:52.067183,19.581218,13.404393,7.449239/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1724,7 +1724,7 @@ teria Alimeutarsa
 
 ---
 
-## [From _Boston recorder._](https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1837-10-13_22_41?page=3)
+## [From _Boston recorder._](https://archive.org/details/sim_congregationalist-and-herald-of-gospel-liberty_1837-10-13_22_41/page/n3/model/1up?view=theater)
 
 #### 1837-10-13 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -1746,13 +1746,13 @@ eased liver—in another diseased lungs. = It
 mitigates, a sometimes effectually el  
 fit of coughing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1837-10-13_22_41&#0036;3/pct:49.721494,83.122986,14.728047,4.390440/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1837-10-13_22_41&#0036;3/pct:49.721494,83.122986,14.728047,4.390440/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Kentucky gazette._](https://iiif.archivelab.org/iiif/xt7d251fjt2w?page=1)
+## [From _Kentucky gazette._](https://archive.org/details/xt7d251fjt2w/page/n1/model/1up?view=theater)
 
 #### 1838-06-28 &middot; [[Lexington, Ky.]](http://dbpedia.org/resource/Lexington%2C_Kentucky)
 
@@ -1787,13 +1787,13 @@ or m the form of catsup in their daily
 food, as it is the most heally article of  
 the Materia Alimentnria.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7d251fjt2w&#0036;1/pct:80.300501,4.571696,14.482471,12.529256/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7d251fjt2w&#0036;1/pct:80.300501,4.571696,14.482471,12.529256/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Kentucky gazette._](https://iiif.archivelab.org/iiif/xt7d251fjt2w?page=1)
+## [From _Kentucky gazette._](https://archive.org/details/xt7d251fjt2w/page/n1/model/1up?view=theater)
 
 #### 1838-06-28 &middot; [[Lexington, Ky.]](http://dbpedia.org/resource/Lexington%2C_Kentucky)
 
@@ -1810,7 +1810,7 @@ cated, it is probably the most effective,
 and least harmful remedial agent, known  
 by the profession;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7d251fjt2w&#0036;1/pct:66.339733,88.079264,14.065109,4.852551/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7d251fjt2w&#0036;1/pct:66.339733,88.079264,14.065109,4.852551/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1856,17 +1856,7 @@ gent, known by the profession. Baltimore Tran
 
 ---
 
-## The Tomato, a Subtitute for Calmet
-
-#### From _Daily commercial bulletin._
-
-#### 1838-07-26 &middot; [St. Louis [Mo.]](http://dbpedia.org/resource/St._Louis)
-
-[This text is not available under an open license.]
-
----
-
-## [From _The Maine farmer and journal of the useful arts._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1838-07-31_6_25?page=0)
+## [From _The Maine farmer and journal of the useful arts._](https://archive.org/details/sim_maine-farmer_1838-07-31_6_25/page/n0/model/1up?view=theater)
 
 #### 1838-07-31 &middot; [Winthrop, Me.](http://dbpedia.org/resource/Winthrop%2C_Maine)
 
@@ -1883,13 +1873,13 @@ According to the testimony of Dr. D. then, the
 acid of this vegetable sometimes disagrees with  
 people ; and perhaps it is on this account that it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1838-07-31_6_25&#0036;0/pct:54.673913,34.752852,27.108696,6.114068/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_maine-farmer_1838-07-31_6_25&#0036;0/pct:54.673913,34.752852,27.108696,6.114068/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Zion's Herald (1823-1841)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1838-09-12_9_37?page=0)
+## [From _Zion's Herald (1823-1841)_](https://archive.org/details/sim_zions-herald_1838-09-12_9_37/page/n0/model/1up?view=theater)
 
 #### 1838-09-12 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1925,13 +1915,13 @@ it either raw, cooked, or in the form of catsup in their
 daily food, as it is the most healthy article of the Ma-  
 teria Alimentaria.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1838-09-12_9_37&#0036;0/pct:74.195824,66.052880,14.221219,11.118980/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_zions-herald_1838-09-12_9_37&#0036;0/pct:74.195824,66.052880,14.221219,11.118980/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Graham Journal of Health and Longevity. Devoted to the Practical Illustration of the Science of Human Life, as Taught by Sylvester Graham and Others (1837-1839)_](https://iiif.archivelab.org/iiif/sim_graham-journal-of-health-and-longevity_1838-09-15_2_19?page=13)
+## [From _The Graham Journal of Health and Longevity. Devoted to the Practical Illustration of the Science of Human Life, as Taught by Sylvester Graham and Others (1837-1839)_](https://archive.org/details/sim_graham-journal-of-health-and-longevity_1838-09-15_2_19/page/n13/model/1up?view=theater)
 
 #### 1838-09-15 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1962,13 +1952,13 @@ bilious attacks to which almost all unacclimated persons are liable.
 cooked, or in the form of catsup in their daily food, as it is the most  
 healthy article of the Materia Alimeotaria.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_graham-journal-of-health-and-longevity_1838-09-15_2_19&#0036;13/pct:19.252336,25.088652,70.794393,26.950355/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_graham-journal-of-health-and-longevity_1838-09-15_2_19&#0036;13/pct:19.252336,25.088652,70.794393,26.950355/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1838-10-10_17_14?page=5)
+## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1838-10-10_17_14/page/n5/model/1up?view=theater)
 
 #### 1838-10-10 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1978,13 +1968,13 @@ healthy article of the Materia Alimeotaria.
 learned M. D.’s to be “one of the most wholesome and  
 valuable esculents that belong to the vegetable kingdom.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1838-10-10_17_14&#0036;5/pct:68.465293,71.504425,27.440347,1.991150/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-england-farmer-and-horticultural-register_1838-10-10_17_14&#0036;5/pct:68.465293,71.504425,27.440347,1.991150/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1839-05-25_12_34?page=1)
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1839-05-25_12_34/page/n1/model/1up?view=theater)
 
 #### 1839-05-25 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -1998,13 +1988,13 @@ medica, and that. in all those affections of the
 liver and other organs where calomel is indi-  
 cated, it is probably the most effective, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1839-05-25_12_34&#0036;1/pct:64.331551,22.302464,25.614973,5.522515/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friend-a-religious-and-literary-journal_1839-05-25_12_34&#0036;1/pct:64.331551,22.302464,25.614973,5.522515/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1839-05-25_12_34?page=1)
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1839-05-25_12_34/page/n1/model/1up?view=theater)
 
 #### 1839-05-25 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2040,7 +2030,7 @@ alimentaria.”
   
 Now, if these positions be true, it is of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1839-05-25_12_34&#0036;1/pct:64.385027,30.055225,25.935829,24.596432/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friend-a-religious-and-literary-journal_1839-05-25_12_34&#0036;1/pct:64.385027,30.055225,25.935829,24.596432/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2106,7 +2096,7 @@ Now, if these positions be true, it is of th
 
 ---
 
-## [From _American Masonic Register and Literary Companion (1839-1847)_](https://iiif.archivelab.org/iiif/sim_american-masonic-register-and-literary-companion_1840-08-15_1_50?page=2)
+## [From _American Masonic Register and Literary Companion (1839-1847)_](https://archive.org/details/sim_american-masonic-register-and-literary-companion_1840-08-15_1_50/page/n2/model/1up?view=theater)
 
 #### 1840-08-15 &middot; [Albany](http://dbpedia.org/resource/Albany%2C_New_York)
 
@@ -2122,7 +2112,7 @@ case, supposed to be diseased liver—in another, dis-
 eased lung. It pt og and sometimes effectually  
 checks, a fit of coughing. It was used ina drie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-masonic-register-and-literary-companion_1840-08-15_1_50&#0036;2/pct:37.817522,20.181969,25.920166,7.423490/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_american-masonic-register-and-literary-companion_1840-08-15_1_50&#0036;2/pct:37.817522,20.181969,25.920166,7.423490/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2168,7 +2158,7 @@ checks, a fit of coughing. It was used ina drie
 
 ---
 
-## [From _Christian register and Boston observer._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39?page=2)
+## [From _Christian register and Boston observer._](https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39/page/n2/model/1up?view=theater)
 
 #### 1841-09-25 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -2188,13 +2178,13 @@ indicated, it is probably the most effective, and least | “1 °
 harmful remedial agent known to the profession.  
 2. That a chemical extract will probably be obtained
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39&#0036;2/pct:49.388948,26.056068,28.002125,2.476959/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39&#0036;2/pct:49.388948,26.056068,28.002125,2.476959/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Christian register and Boston observer._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39?page=2)
+## [From _Christian register and Boston observer._](https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39/page/n2/model/1up?view=theater)
 
 #### 1841-09-25 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -2221,13 +2211,13 @@ Sih. ‘That persons removing from the east or north, to
 the west or south, should by all means make use of it as  
 analiment; as it would in that event, save them from
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39&#0036;2/pct:49.362380,28.552227,29.250797,3.715438/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39&#0036;2/pct:49.362380,28.552227,29.250797,3.715438/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Christian register and Boston observer._](https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39?page=2)
+## [From _Christian register and Boston observer._](https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39/page/n2/model/1up?view=theater)
 
 #### 1841-09-25 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -2242,13 +2232,13 @@ Which alinost all unacclimated persons are liable.
   
 either raw, cooked, or in the form of a catsup, with their 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39&#0036;2/pct:49.349097,32.344470,14.519129,1.651306/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39&#0036;2/pct:49.349097,32.344470,14.519129,1.651306/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1841-09-29_20_13?page=3)
+## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1841-09-29_20_13/page/n3/model/1up?view=theater)
 
 #### 1841-09-29 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2314,13 +2304,13 @@ posed to be diseased Jiver—in another, diseased
 lungs. It mitigates, and sometimes effectually  
 checks, a fit of cough. It was used in a dry state
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-and-horticultural-register_1841-09-29_20_13&#0036;3/pct:66.946485,12.936170,27.046170,52.425532/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-england-farmer-and-horticultural-register_1841-09-29_20_13&#0036;3/pct:66.946485,12.936170,27.046170,52.425532/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Maine farmer and journal of the useful arts._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1841-10-09_9_40?page=4)
+## [From _The Maine farmer and journal of the useful arts._](https://archive.org/details/sim_maine-farmer_1841-10-09_9_40/page/n4/model/1up?view=theater)
 
 #### 1841-10-09 &middot; [Winthrop, Me.](http://dbpedia.org/resource/Winthrop%2C_Maine)
 
@@ -2358,13 +2348,13 @@ it as an aliment, as it would in that event save them
   
 than from fever and consumption, and their conse-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1841-10-09_9_40&#0036;4/pct:35.810811,70.751160,51.510334,17.401392/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_maine-farmer_1841-10-09_9_40&#0036;4/pct:35.810811,70.751160,51.510334,17.401392/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Maine farmer and journal of the useful arts._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1841-10-09_9_40?page=4)
+## [From _The Maine farmer and journal of the useful arts._](https://archive.org/details/sim_maine-farmer_1841-10-09_9_40/page/n4/model/1up?view=theater)
 
 #### 1841-10-09 &middot; [Winthrop, Me.](http://dbpedia.org/resource/Winthrop%2C_Maine)
 
@@ -2487,13 +2477,13 @@ liable * ; | a rrrceretes . | by blows inflicted by J. C. Colt. A
 “Gth. That the citizens in ordinary should make| &lt;. - Se | y watch known nence  
 use of it either raw, cooked, or in the } of a cet- ‘fine, sos ion Oda avec ibe 43 oo oe | Cale herve. highly perdbaionre “amy ie nk ee 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1841-10-09_9_40&#0036;4/pct:61.784579,87.833527,25.516693,0.957077/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_maine-farmer_1841-10-09_9_40&#0036;4/pct:61.784579,87.833527,25.516693,0.957077/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The philanthropist._](https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1841-10-13_6_15?page=3)
+## [From _The philanthropist._](https://archive.org/details/sim_cincinnati-weekly-herald-and-philanthropist_1841-10-13_6_15/page/n3/model/1up?view=theater)
 
 #### 1841-10-13 &middot; [New Richmond, Ohio](http://dbpedia.org/resource/New_Richmond%2C_Ohio)
 
@@ -2563,13 +2553,13 @@ case, was supposed tv be diseased liver—in an-
 other, diseased lungs. It mitigates, and some-  
 times effectually checks, a fitof cough. It wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1841-10-13_6_15&#0036;3/pct:37.020421,38.095238,15.083540,28.472222/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1841-10-13_6_15&#0036;3/pct:37.020421,38.095238,15.083540,28.472222/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Southern Agriculturist, Horticulturist, and Register of Rural Affairs (1841-1846)_](https://iiif.archivelab.org/iiif/sim_southern-agriculturist-horticulturist-and-register_1842-06_2_6?page=52)
+## [From _Southern Agriculturist, Horticulturist, and Register of Rural Affairs (1841-1846)_](https://archive.org/details/sim_southern-agriculturist-horticulturist-and-register_1842-06_2_6/page/n52/model/1up?view=theater)
 
 #### 1842-06-01 &middot; [Charleston](http://dbpedia.org/resource/Charleston%2C_South_Carolina)
 
@@ -2627,7 +2617,7 @@ another, diseased lungs. It iticntak aid sometimes effectually
 checks, a fit of coughing. It was used in a dry state, with a little  
 «
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_southern-agriculturist-horticulturist-and-register_1842-06_2_6&#0036;52/pct:13.063660,28.425712,61.405836,46.651270/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_southern-agriculturist-horticulturist-and-register_1842-06_2_6&#0036;52/pct:13.063660,28.425712,61.405836,46.651270/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2711,7 +2701,7 @@ times effectually cheeks, a fit of coughing
 
 ---
 
-## [From _Michigan Farmer (1843-1908)_](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1843-10-15_1_17?page=5)
+## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1843-10-15_1_17/page/n5/model/1up?view=theater)
 
 #### 1843-10-15 &middot; [Lansing](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
@@ -2743,7 +2733,7 @@ brown ; then put in the tomatoes, cover them
 up, and fry till well done. This says a friend  
 who has cooked tomatoes in many ways, is ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1843-10-15_1_17&#0036;5/pct:11.181102,66.055626,26.850394,21.871049/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_michigan-farmer_1843-10-15_1_17&#0036;5/pct:11.181102,66.055626,26.850394,21.871049/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2796,7 +2786,7 @@ cation of its effects, dependent upon the s
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1852-07-31_7_46?page=1)
+## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1852-07-31_7_46/page/n1/model/1up?view=theater)
 
 #### 1852-07-31 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2838,7 +2828,7 @@ sauce. Some add a little flour bread, finely
 crumbed, or a couple of crackers pulverized.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1852-07-31_7_46&#0036;1/pct:49.245473,71.528728,19.642857,20.776334/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_scientific-american_1852-07-31_7_46&#0036;1/pct:49.245473,71.528728,19.642857,20.776334/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3137,7 +3127,7 @@ fectually checks a fit of coughing,
 
 ---
 
-## [From _Gleason's Pictorial Drawing - Room Companion (1851-1854)_](https://iiif.archivelab.org/iiif/sim_ballous-pictorial-drawing-room-companion_1852-08-28_3_9?page=14)
+## [From _Gleason's Pictorial Drawing - Room Companion (1851-1854)_](https://archive.org/details/sim_ballous-pictorial-drawing-room-companion_1852-08-28_3_9/page/n14/model/1up?view=theater)
 
 #### 1852-08-28 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -3150,13 +3140,13 @@ catsup, with their daily food, as it is the most
 healthy article in the &quot;materia aUmentaria.&quot;  
 Just at this season this piece of information i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-pictorial-drawing-room-companion_1852-08-28_3_9&#0036;14/pct:10.936734,72.215690,20.524767,3.947589/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_ballous-pictorial-drawing-room-companion_1852-08-28_3_9&#0036;14/pct:10.936734,72.215690,20.524767,3.947589/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1852-09-02_20_36?page=0)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1852-09-02_20_36/page/n0/model/1up?view=theater)
 
 #### 1852-09-02 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -3183,13 +3173,13 @@ where calomel is indicated, it is probably the most
 effective and least harmful remedial agent known  
 in the profession,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1852-09-02_20_36&#0036;0/pct:40.810381,30.769231,12.102754,8.590448/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_maine-farmer_1852-09-02_20_36&#0036;0/pct:40.810381,30.769231,12.102754,8.590448/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1852-09-02_20_36?page=0)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1852-09-02_20_36/page/n0/model/1up?view=theater)
 
 #### 1852-09-02 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -3269,7 +3259,7 @@ provided with a trellis, or tied to stakes fixed in
 the soil, to keep the fruit from being injured in  
 coming in contact with the dirt,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1852-09-02_20_36&#0036;0/pct:40.863347,19.273035,11.983581,49.746407/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_maine-farmer_1852-09-02_20_36&#0036;0/pct:40.863347,19.273035,11.983581,49.746407/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3476,88 +3466,103 @@ coming in contact with the dirt
 
 ---
 
-## [From _Vermont watchman and State journal._](https://chroniclingamerica.loc.gov/lccn/sn84023200/1852-09-23/ed-1/seq-1)
+## From _Vermont watchman and State journal._
 
 #### 1852-09-23 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ violets and clove gillivers, modest as  
+sxite mern and nimble as your own im  
+agination of Desdemona or Gertrude of  
+wyoming. Vou&#x27;re lost. It&#x27;s all over  
+with you. And that comesol going inte  
   
-THE TOMATO.  
-To runny persons thcro is something  
+yellow, striped and marbled with red;  
+tender, sprightly, pleasant flavor. Later  
+than Early Harvest; smaller and less  
+productive. Adapted to the privategar  
+den, for which it is fine. Ripens early in  
+August.  
+We are indebted to the N.E. Farmer  
+for the above.  
+  
+the country, out of the way of vanity  
+and temptation and fancying farm-houses  
+to the nice old-fashioned places of old  
+established contentment. Er. Puper.  
+THE Tomato.  
+To many persons there is something  
 unpleasant, not to say disgusting, in the  
-flavor of this excellent fruit. It has,  
+flavor of this excellent frut. It has,  
 however, long been used for culinary  
 purposes, in various countries of Europe,  
 and has of late years been extensively  
-cultivated and become a general favorite-  
-declares :  
+cultivated and become a general favorite  
+declares:  
 1. That the tomato is one of the most  
-powerful dcobstrumunts of the Materia  
-Mcdica, nnd that in all those affections  
-of the liver nnd other organs where cal­  
-omel is indicated, it is prohably the most  
+powerful deobstruments of the Hateria  
+Hedica, and that in all those affections  
+of the liver and other organs where cal  
+omel is indicated, it is probably the most  
 effective and least harmful remedial  
 agent known in the profession.  
-2. That a chemical extract will bo  
+2. That a chemical extract will be  
 obtained from it, which will altogether  
 supersede the use of calomel in the cure  
 of diseases.  
-3. That ho has successfully treated  
-diarrhtEa with this article alone.  
+. That he has successfully treated  
+diarrhoa with this article alone.  
 1. That when used as an article of  
 diet, it is almost a sovereign remedy for  
 dyspepsia and indigestion.  
-5. That persons arriving from cast or  
+o. That persons arriving from east or  
 north, to the south or west, should by  
 all means make use of it as an ailment,  
-as it would, iu that event, save them tho  
-danger attendant upon those violent bil­  
-ious attacks to which almost all tinaccli­  
-mntcd persons aro liable.  
-0&quot;. That tho citizens iu ordinary should  
-make us of it, cither raw, cooked, or in  
+as it would, in that event, save them the  
+danger attendant upon those violent bil  
+ious attacks to which almost all unacell  
+mated persons are liable.  
+o. That the citizens in ordinary should  
+make us of it, either raw, cooked, or in  
 the form of a catsup, with their daily  
 food, as it is the most healthy article in  
-tne marlerta alimcntrana.  
-Professor Itofinusrjue, of France, says:  
-&#x27; It is everywhere deemed a very heal  
-ing vegetable and va liable nrlinln nf  
+the rrrtertd onimertreric.  
+Prolessor Rafinesque, of France, says:  
+It is everywhere deemed a very heal  
+ing vegetable, and va luable artile of  
 food.&quot;  
-Dungleson says: &quot; It may be looked  
-upon as one of the most wholesome nnd  
-valuable esculents that b&#x27;el,ong to the veg­  
+Dungleson says:&quot; It may be looked  
+upon as one of the most wholesome and  
+valuable esculents that belong to the veg  
 etable kingdom.&quot;  
-Prof. Dickens asserts tlmt it may bo  
+Prof. Dickens asserts that it may be  
 considered more wholesome than any  
 other acrid sauce.  
-A writer in the Farmer&#x27;s Register  
-says: It has been tried by several per­  
+A writer in the Frmer&#x27;s Eegister  
+saysto-lt has been tried by several per  
 sons, with decided success. They were  
-afflicted with a chronic cough, tho pri­  
+afflicted with a chronic cough, the pri  
 mary cause of which, in one case, was  
-supposed to bo diseased liver in anoth­  
+supposed to be diseased liver.in anoth  
 er, diseased lungs. It mitigates, and  
-sometimes cflectually checks a lit of  
+sometimes effectually checks a fit of  
 coughing.  
 The method most commonly adopted  
-in preparing this fruit for daily use, ts to  
-cut them in slices, and servo with salt,  
-peper and vinegar, nsyoti do cucumbers.  
-To stew them ; remove them ripe from  
-the vines, slico up, and put them in u pot  
-over tho stove or fire, without water.  
+in preparing this fruit for daily use, is to  
+cut them in slices, and serve with salt,  
+peper and vinegar, as you do cucumbers.  
+To stew them; remove them ripe from  
+the vines, slice up, and put them in a pot  
+over the stove or fire, without water.  
 Stew them slowly, and when done, put  
-in a small piece of good butler, and cat  
-as you do apple sauco. Some add a lit.  
-tlo Hour, bread, finely crumbled, or a  
+in a small piece of good butter, and eat  
+as you do apple sauce. Some add a lit  
+tle flour, bread, finely crumbled, or a  
 couple of crackers pulverized.  
-To Dnuss Salau. Take small salad,  
+To Danss SanAp. Take small salad,  
 lettuce, endive, celery, radishes, an
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84023200%2F00280777626%2F1852092301%2F0361.jp2/pct:80.308665,34.595817,12.830048,44.135105/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -3771,7 +3776,7 @@ in contiret with the dirt.
 
 ---
 
-## [From _Michigan Farmer (1843-1908)_](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1852-11_10_11?page=24)
+## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1852-11_10_11/page/n24/model/1up?view=theater)
 
 #### 1852-11-01 &middot; [Lansing](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
@@ -3864,13 +3869,13 @@ lean, they should be provided with a trellis, or tied to
 stakes fixed in the soil, to keep the fruit from being in-  
 jured in coming in contact with the dirt.— Maine Far
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1852-11_10_11&#0036;24/pct:10.524226,7.847534,77.998411,80.916791/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_michigan-farmer_1852-11_10_11&#0036;24/pct:10.524226,7.847534,77.998411,80.916791/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1853-09_5_9?page=5)
+## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1853-09_5_9/page/n5/model/1up?view=theater)
 
 #### 1853-09-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -3896,7 +3901,7 @@ A chemical extract may be obtained from it, that
 potato, to which increased attention is given. The] will altogether supersede the use of calomel in the  
 report states that it grows well in almost every \cure of diseases. When used as an article of diet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1853-09_5_9&#0036;5/pct:14.153846,56.852792,72.692308,16.548223/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-england-farmer-a-monthly-journal_1853-09_5_9&#0036;5/pct:14.153846,56.852792,72.692308,16.548223/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3922,7 +3927,7 @@ extensively cultivated in this country. It is on
 
 ---
 
-## [From _Colman's rural world and valley farmer._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1854-08_6_8?page=30)
+## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1854-08_6_8/page/n30/model/1up?view=theater)
 
 #### 1854-08-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -3945,13 +3950,13 @@ tm a shaeen ae dannonn, to a gentleman in Maryland who replied as
 with thie urticle. } In reply to your favor of the Lith, I regret  
 er t when used aw an article of diet, it that I am unable to give you any satisfaetor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1854-08_6_8&#0036;30/pct:9.125637,19.564018,72.241087,19.701987/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_colmans-rural-world_1854-08_6_8&#0036;30/pct:9.125637,19.564018,72.241087,19.701987/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Colman's rural world and valley farmer._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1854-08_6_8?page=30)
+## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1854-08_6_8/page/n30/model/1up?view=theater)
 
 #### 1854-08-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -3987,13 +3992,13 @@ ie cough, the primary couse of which in one curered with this mixture appears of
 onte was supposed to be. dixeased lungs. It|marrowy consistence and fine color, and never  
 mitientes and sdmetimes effectually checks &amp;lacquires a brittle hardness nor tastes salty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1854-08_6_8&#0036;30/pct:8.828523,42.025386,72.835314,31.236203/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_colmans-rural-world_1854-08_6_8&#0036;30/pct:8.828523,42.025386,72.835314,31.236203/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Colman's rural world and valley farmer._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1854-08_6_8?page=30)
+## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1854-08_6_8/page/n30/model/1up?view=theater)
 
 #### 1854-08-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -4006,7 +4011,7 @@ To stew them remove them ripe from the&#x27; weeks or 1 month before it isused. 
 vines, dice up and pat them in a pet over the!sonner opened, the salts are not sufficiently  
 stove or fire without water, Stew them elow- blended with it. and sometimes the coolnes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1854-08_6_8&#0036;30/pct:9.083192,76.324503,72.665535,6.484547/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_colmans-rural-world_1854-08_6_8&#0036;30/pct:9.083192,76.324503,72.665535,6.484547/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4068,7 +4073,7 @@ generally cultivated and used as an article o
 
 ---
 
-## [From _Colman's rural world and valley farmer._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1855-08_7_8?page=34)
+## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1855-08_7_8/page/n34/model/1up?view=theater)
 
 #### 1855-08-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -4131,7 +4136,7 @@ Tae Baresa Harve-e.—A late letter from
 London says:—‘‘The prospects of the harvest  
 are becoming more fayorably every week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1855-08_7_8&#0036;34/pct:10.016978,10.234716,36.629881,60.671397/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_colmans-rural-world_1855-08_7_8&#0036;34/pct:10.016978,10.234716,36.629881,60.671397/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4248,7 +4253,7 @@ materia alituenturia
 
 ---
 
-## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1857-09-03_25_37?page=0)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1857-09-03_25_37/page/n0/model/1up?view=theater)
 
 #### 1857-09-03 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -4300,7 +4305,7 @@ healthy article in the materia c imentaria.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1857-09-03_25_37&#0036;0/pct:68.960084,64.726721,12.171744,18.663968/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_maine-farmer_1857-09-03_25_37&#0036;0/pct:68.960084,64.726721,12.171744,18.663968/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4363,7 +4368,7 @@ the materia a imenearia
 
 ---
 
-## [From _Colman's rural world and valley farmer._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1858-03_10_3?page=25)
+## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1858-03_10_3/page/n25/model/1up?view=theater)
 
 #### 1858-03-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -4402,7 +4407,7 @@ most healthy article in the materia a imenearia.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1858-03_10_3&#0036;25/pct:55.621742,62.089552,33.804914,24.900498/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_colmans-rural-world_1858-03_10_3&#0036;25/pct:55.621742,62.089552,33.804914,24.900498/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4494,7 +4499,7 @@ healthy article no-.v in u
 
 ---
 
-## [From _American Farmer's Magazine (1858-1859)_](https://iiif.archivelab.org/iiif/sim_american-farmers-magazine_1858-09_11_9?page=46)
+## [From _American Farmer's Magazine (1858-1859)_](https://archive.org/details/sim_american-farmers-magazine_1858-09_11_9/page/n46/model/1up?view=theater)
 
 #### 1858-09-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -4534,7 +4539,7 @@ make use of it, either raw, cooked, or in
 the form of a catsup, with their daily  
 food, as it is a most healthy article,—Ze
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-farmers-magazine_1858-09_11_9&#0036;46/pct:46.711367,42.959770,33.844189,31.752874/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_american-farmers-magazine_1858-09_11_9&#0036;46/pct:46.711367,42.959770,33.844189,31.752874/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5215,6 +5220,30 @@ apple saUco. &#x27;Some add a little flou
 
 ---
 
+## From _Vermont watchman and State journal._
+
+#### 1859-09-02 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Tue Towaro as Foon. Dr. Bennet, a  
+professor of some celebrity, considers the  
+tomato an invaluable article of diet, and as  
+cribes to it very important medical properties:  
+&quot;That the tomato is one of the most power  
+ful aperients of the liver and other organs.  
+Where calomel is indicated it is probably one  
+of the most effective and the least harmful  
+remedial agents known to the profession.  
+That a chemical extract will be obtained from  
+it that will supersede the use of calomel in  
+the cure of disease. That he has successful  
+ly treated diarrhoea with this article alone
+</td></tr></table>
+
+---
+
 ## [LOCAL INTELLIGENCE.](http://trove.nla.gov.au/ndp/del/article/77428670)
 
 #### From _The North Australian, Ipswich and General Advertiser (Ipswich, Qld. : 1856 - 1862)_
@@ -5430,7 +5459,7 @@ little flour and fine crumbs , o
 
 ---
 
-## [From _Colman's rural world and valley farmer._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1859-10_11_10?page=25)
+## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1859-10_11_10/page/n25/model/1up?view=theater)
 
 #### 1859-10-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -5443,7 +5472,7 @@ considers the tomato an invaluable article of
 diet, and ascribes to it very important medical  
 properties :
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1859-10_11_10&#0036;25/pct:54.616530,27.705113,33.581534,4.375743/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_colmans-rural-world_1859-10_11_10&#0036;25/pct:54.616530,27.705113,33.581534,4.375743/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5699,7 +5728,7 @@ a little flour and fine crumbs o
 
 ---
 
-## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1862-08-21_30_36?page=0)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1862-08-21_30_36/page/n0/model/1up?view=theater)
 
 #### 1862-08-21 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -5711,13 +5740,13 @@ Dr. Bennett, a professor of some celebrity,
 considers the tomato an invaluable article of diet,  
 and ascribes to it very important properties 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1862-08-21_30_36&#0036;0/pct:67.117814,85.383085,11.961846,1.323383/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_maine-farmer_1862-08-21_30_36&#0036;0/pct:67.117814,85.383085,11.961846,1.323383/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1862-09_14_9?page=16)
+## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1862-09_14_9/page/n16/model/1up?view=theater)
 
 #### 1862-09-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -5729,7 +5758,7 @@ fessor of some celebrity, considers the tomato an
 invaluable article of diet, and ascribes to it very  
 important properties 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1862-09_14_9&#0036;16/pct:47.939778,70.841889,36.687797,4.722793/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-england-farmer-a-monthly-journal_1862-09_14_9&#0036;16/pct:47.939778,70.841889,36.687797,4.722793/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

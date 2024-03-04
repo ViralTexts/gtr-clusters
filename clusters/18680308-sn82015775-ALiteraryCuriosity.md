@@ -1,7 +1,7 @@
 
 # A Literary Curiosity
 
-### 192 reprints from 1868-02-26 to 1899-07-20
+### 193 reprints from 1868-02-26 to 1899-07-20
 
 ## [A Literary Curiosity](http://chroniclingamerica.loc.gov/lccn/sn82015775/1868-03-08/ed-1/seq-3/)
 
@@ -218,7 +218,7 @@ Mason; 36, Hill; 37, Dana; 38, Shakespeare
 
 ---
 
-## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1868-03-28_46_13?page=2)
+## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://archive.org/details/sim_albion-a-journal-of-news-politics-and-literature_1868-03-28_46_13/page/n2/model/1up?view=theater)
 
 #### 1868-03-28 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -305,13 +305,13 @@ Spencer ; ’ Daniel ; 8. Sir Walter ; low ; 10. PP Mister, her busband ; “ wh
 Southwell; 11. Congreve ; 12 13. ter; 14 ter, if you please? He is no more a gentieman than | am.  
 ae 316 Milsons 16. Bailes ; 17. Trench ; 18. yo Von’t you know he and I were bora to follow the ploag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1868-03-28_46_13&#0036;2/pct:7.594563,20.096463,54.639480,45.196945/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1868-03-28_46_13&#0036;2/pct:7.594563,20.096463,54.639480,45.196945/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1868-03-28_25_4?page=12)
+## [From _Friends' Intelligencer (1853-1910)_](https://archive.org/details/sim_friends-intelligencer_1868-03-28_25_4/page/n12/model/1up?view=theater)
 
 #### 1868-03-28 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -401,7 +401,7 @@ den, 32 Francis Quarles, 33 Watkins. 34 H. rrick,
 35 William Mason, 36 Hill, 37 Dana, 33 Shak-  
 speare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1868-03-28_25_4&#0036;12/pct:4.558824,15.895329,68.566176,67.301038/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friends-intelligencer_1868-03-28_25_4&#0036;12/pct:4.558824,15.895329,68.566176,67.301038/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -678,7 +678,7 @@ i Dana; its, bhakespearo
 
 ---
 
-## [From _The commonwealth._](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34?page=3)
+## [From _The commonwealth._](https://archive.org/details/sim_boston-commonwealth_1868-04-25_6_34/page/n3/model/1up?view=theater)
 
 #### 1868-04-25 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -712,13 +712,13 @@ dumb,
   
 hastenea up among the rioters. But now cries of | 14—And throw a cruel sunshine on a fool
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34&#0036;3/pct:18.921053,68.994698,23.592105,8.095432/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_boston-commonwealth_1868-04-25_6_34&#0036;3/pct:18.921053,68.994698,23.592105,8.095432/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The commonwealth._](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34?page=3)
+## [From _The commonwealth._](https://archive.org/details/sim_boston-commonwealth_1868-04-25_6_34/page/n3/model/1up?view=theater)
 
 #### 1868-04-25 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -752,13 +752,13 @@ the door-way, and in a few moments more the 54 we masters grow ot ail Geek we de
 33—How long we live, not years, but actions, tell ;  
 34—That man lives twice who lives the first life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34&#0036;3/pct:18.815789,76.957586,23.421053,9.543230/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_boston-commonwealth_1868-04-25_6_34&#0036;3/pct:18.815789,76.957586,23.421053,9.543230/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The commonwealth._](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34?page=3)
+## [From _The commonwealth._](https://archive.org/details/sim_boston-commonwealth_1868-04-25_6_34/page/n3/model/1up?view=theater)
 
 #### 1868-04-25 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -794,7 +794,7 @@ Davenant, 28 Grey, 29 Willis, 30 Addison, 51
   
 Dryden, 32 Francis Quarles, 33 Watkins, 34 Her
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1868-04-25_6_34&#0036;3/pct:18.789474,86.531403,35.342105,7.493883/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_boston-commonwealth_1868-04-25_6_34&#0036;3/pct:18.789474,86.531403,35.342105,7.493883/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1068,7 +1068,7 @@ son; 30; Hill; 37, lUua; 38
 
 ---
 
-## [From _Sphinx. A Journal of Humour and Criticism 1868-1871_](https://iiif.archivelab.org/iiif/sim_sphinx-a-journal-of-humour-and-criticism_1868-08-01_1_2?page=12)
+## [From _Sphinx. A Journal of Humour and Criticism 1868-1871_](https://archive.org/details/sim_sphinx-a-journal-of-humour-and-criticism_1868-08-01_1_2/page/n12/model/1up?view=theater)
 
 #### 1868-08-01
 
@@ -1168,7 +1168,7 @@ Davenant; 28, Gray; 29, Willis; 30, Addison ;
 34, Herrick; 35, William Mason; 36, Hill; 37,  
 Dana; 38, Shakspere.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_sphinx-a-journal-of-humour-and-criticism_1868-08-01_1_2&#0036;12/pct:29.364608,15.353626,25.296912,53.379588/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_sphinx-a-journal-of-humour-and-criticism_1868-08-01_1_2&#0036;12/pct:29.364608,15.353626,25.296912,53.379588/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1238,7 +1238,7 @@ well
 
 ---
 
-## [From _Notes and Queries 1849-2014_](https://iiif.archivelab.org/iiif/sim_notes-and-queries_1868-09-26_2_39?page=3)
+## [From _Notes and Queries 1849-2014_](https://archive.org/details/sim_notes-and-queries_1868-09-26_2_39/page/n3/model/1up?view=theater)
 
 #### 1868-09-26 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -1379,7 +1379,7 @@ fellow; 10. Southwell; 11, Congreve; 12, Churchill;
 Francis Quarles ; 33. Watkins ; 34, Herrick: 35, William  
 Mason ; 36, Hill; 37. Dana; 38. Shakspere.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_notes-and-queries_1868-09-26_2_39&#0036;3/pct:53.883495,74.236641,34.506472,14.408397/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_notes-and-queries_1868-09-26_2_39&#0036;3/pct:53.883495,74.236641,34.506472,14.408397/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2140,7 +2140,7 @@ Hill: 37, Dana; 38. Shakespeare
 
 ---
 
-## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1869-06_78_468?page=56)
+## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1869-06_78_468/page/n56/model/1up?view=theater)
 
 #### 1869-06-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2155,13 +2155,13 @@ ard authors of England and America. This is the
 result of a year’s laborious search among the leading  
 poets of the past and present time :
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1869-06_78_468&#0036;56/pct:50.741030,11.242455,35.530421,7.092555/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_godeys-magazine_1869-06_78_468&#0036;56/pct:50.741030,11.242455,35.530421,7.092555/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1869-06_78_468?page=56)
+## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1869-06_78_468/page/n56/model/1up?view=theater)
 
 #### 1869-06-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2198,7 +2198,7 @@ Dana,
   
 For, live we how we can, yet die we must
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1869-06_78_468&#0036;56/pct:50.468019,47.032193,44.617785,23.138833/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_godeys-magazine_1869-06_78_468&#0036;56/pct:50.468019,47.032193,44.617785,23.138833/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2584,7 +2584,7 @@ Diana; 3b, Shakspeare
 
 ---
 
-## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1869-11-06_23_19?page=11)
+## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1869-11-06_23_19/page/n11/model/1up?view=theater)
 
 #### 1869-11-06 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -2616,7 +2616,7 @@ America. This is the result of a year’s laborious
 search among the voluminous writings of thirty-eight  
 leading poets of the past and present :—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1869-11-06_23_19&#0036;11/pct:68.389225,29.619565,24.766355,17.035953/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_colmans-rural-world_1869-11-06_23_19&#0036;11/pct:68.389225,29.619565,24.766355,17.035953/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2919,7 +2919,7 @@ Dana—38, Shakespeare
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1873-05-29_46_22?page=5)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1873-05-29_46_22/page/n5/model/1up?view=theater)
 
 #### 1873-05-29 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2966,13 +2966,13 @@ Walter Davenant; 28 G 29 Willis; 30 Addison; 31
 Dryden; 32 Francis Quarles; 33 Watkins; 34 Herrick; 35  
 Wiliam Mason; 36 Hill; 37 Dana; 38 Shakespeare,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1873-05-29_46_22&#0036;5/pct:9.264381,28.266616,20.907080,20.015106/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1873-05-29_46_22&#0036;5/pct:9.264381,28.266616,20.907080,20.015106/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Notes and Queries 1849-2014_](https://iiif.archivelab.org/iiif/sim_notes-and-queries_1873-09-13_12_298?page=2)
+## [From _Notes and Queries 1849-2014_](https://archive.org/details/sim_notes-and-queries_1873-09-13_12_298/page/n2/model/1up?view=theater)
 
 #### 1873-09-13 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -2982,7 +2982,7 @@ Wiliam Mason; 36 Hill; 37 Dana; 38 Shakespeare,
 have been a contribution to the San Francisco  
 Times from the pen of Mrs. H. A. Deming, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_notes-and-queries_1873-09-13_12_298&#0036;2/pct:47.559932,66.813602,37.585616,2.581864/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_notes-and-queries_1873-09-13_12_298&#0036;2/pct:47.559932,66.813602,37.585616,2.581864/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3320,7 +3320,7 @@ Jlyron;il. Muollett, 2t. Crabbe;23 Maesingrr;
 
 ---
 
-## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1876-11-11_9_278?page=9)
+## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1876-11-11_9_278/page/n9/model/1up?view=theater)
 
 #### 1876-11-11 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3437,7 +3437,7 @@ Francis Quarles. 33, Watkins. 34. Herrick.
 35, Wm. Mason. 36, Hill. 37, Dana. 38,  
 Shakspeare. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1876-11-11_9_278&#0036;9/pct:7.329843,9.682300,42.068063,83.755673/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_school-journal_1876-11-11_9_278&#0036;9/pct:7.329843,9.682300,42.068063,83.755673/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3657,7 +3657,7 @@ Dana; 38 Shakespeare.
 
 ---
 
-## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1878-04-27_12_350?page=5)
+## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1878-04-27_12_350/page/n5/model/1up?view=theater)
 
 #### 1878-04-27 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3750,7 +3750,7 @@ Addison ; 31, Dryden ; 82, Francis Quarles ; 33, Watkins; 84,
 Herrick; 35, William Mason; 36, Hill; 37, Dana; 38,  
 Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1878-04-27_12_350&#0036;5/pct:63.603880,22.699962,27.411945,51.483290/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_school-journal_1878-04-27_12_350&#0036;5/pct:63.603880,22.699962,27.411945,51.483290/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5256,7 +5256,7 @@ Dana; 38, Shakespeare,
 
 ---
 
-## [From _Journal of Education 1875-2015_](https://iiif.archivelab.org/iiif/sim_journal-of-education_1882-10-26_16_391?page=6)
+## [From _Journal of Education 1875-2015_](https://archive.org/details/sim_journal-of-education_1882-10-26_16_391/page/n6/model/1up?view=theater)
 
 #### 1882-10-26 &middot; [Boston, Massachusetts](http://dbpedia.org/resource/Boston)
 
@@ -5350,7 +5350,7 @@ What is ambition ? ’tis a glorious cheat!
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-education_1882-10-26_16_391&#0036;6/pct:34.352900,22.356021,28.076379,37.277487/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_journal-of-education_1882-10-26_16_391&#0036;6/pct:34.352900,22.356021,28.076379,37.277487/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6912,9 +6912,11 @@ Shakespeare
 
 ---
 
-## [From _Herald of gospel liberty._](https://iiif.archivelab.org/iiif/sim_herald-of-gospel-liberty_1885-11-26_77_48?page=1)
+## [sim_herald-of-gospel-liberty_1885-11-26_77_48](https://archive.org/details/sim_herald-of-gospel-liberty_1885-11-26_77_48/page/n1/model/1up?view=theater)
 
-#### 1885-11-26 &middot; [Portsmouth [N.H.]](http://dbpedia.org/resource/Portsmouth%2C_New_Hampshire)
+#### From unknown source
+
+#### 1885-11-26
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6926,7 +6928,7 @@ of the standard authors of England ana America.
   
 Why all this toil for triumphs of an hour?—[Young.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_herald-of-gospel-liberty_1885-11-26_77_48&#0036;1/pct:9.969325,8.437730,26.738241,3.850405/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_herald-of-gospel-liberty_1885-11-26_77_48&#0036;1/pct:9.969325,8.437730,26.738241,3.850405/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7174,7 +7176,7 @@ Dana 3S Shakespher
 
 ---
 
-## [From _Christian Union (1870-1893)_](https://iiif.archivelab.org/iiif/sim_new-outlook_1887-02-17_35_7?page=30)
+## [From _Christian Union (1870-1893)_](https://archive.org/details/sim_new-outlook_1887-02-17_35_7/page/n30/model/1up?view=theater)
 
 #### 1887-02-17 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -7301,7 +7303,7 @@ Dryden ; 82, Francis Quarles: 33, Watkins; 34,
 Herrick ; 35, William Mason ; 36, Hill ; 87, Dana»  
 33, Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1887-02-17_35_7&#0036;30/pct:31.505771,11.119082,20.304302,47.363702/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-outlook_1887-02-17_35_7&#0036;30/pct:31.505771,11.119082,20.304302,47.363702/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7507,7 +7509,7 @@ peare
 
 ---
 
-## [From _Advocate of Peace (1847-1906)_](https://iiif.archivelab.org/iiif/sim_world-affairs-us_march-april-1887_49_2?page=19)
+## [From _Advocate of Peace (1847-1906)_](https://archive.org/details/sim_world-affairs-us_march-april-1887_49_2/page/n19/model/1up?view=theater)
 
 #### 1887-03-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
 
@@ -7600,7 +7602,7 @@ Thomson; 20, Byron; 21, Smollett; 22, Crabbe; 23, Massinger;
 Quarles; 33, Watkins; 34, Herrick; 35, William Mason; 36, Hill;  
 37, Dana; 38, Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_world-affairs-us_march-april-1887_49_2&#0036;19/pct:11.016371,18.958544,40.211460,48.458038/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_world-affairs-us_march-april-1887_49_2&#0036;19/pct:11.016371,18.958544,40.211460,48.458038/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9196,7 +9198,7 @@ kins; 34. Herrick; 35. William Mason;
 
 ---
 
-## [From _American Printer 1883-2013_](https://iiif.archivelab.org/iiif/sim_american-printer_1887-05_4_8?page=39)
+## [From _American Printer 1883-2013_](https://archive.org/details/sim_american-printer_1887-05_4_8/page/n39/model/1up?view=theater)
 
 #### 1887-05-01 &middot; [Chicago, Illinois](http://dbpedia.org/resource/Chicago)
 
@@ -9268,7 +9270,7 @@ Watkins ; 34, Herrick; 35, William Mason; 36, Hill; 37, Dana;
   
 38, Shakespear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-printer_1887-05_4_8&#0036;39/pct:10.341495,15.471869,38.176546,55.739564/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_american-printer_1887-05_4_8&#0036;39/pct:10.341495,15.471869,38.176546,55.739564/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9829,7 +9831,7 @@ Hill; 37, Dana; 3S, Shaksperc
 
 ---
 
-## [From _Ballou's Monthly Magazine (1866-1893)_](https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1889-01_69_1?page=81)
+## [From _Ballou's Monthly Magazine (1866-1893)_](https://archive.org/details/sim_ballous-monthly-magazine_1889-01_69_1/page/n81/model/1up?view=theater)
 
 #### 1889-01-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -9945,7 +9947,7 @@ Beattie; 26, Cowper; 27, Sir Walter Devanant;
 85, William Mason; 86, Pill; 87, Dana; 38,  
 Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-monthly-magazine_1889-01_69_1&#0036;81/pct:19.332797,17.016575,74.196141,77.679558/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_ballous-monthly-magazine_1889-01_69_1&#0036;81/pct:19.332797,17.016575,74.196141,77.679558/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10023,7 +10025,7 @@ can, yet dio we tiut
 
 ---
 
-## [From _Saturday Night 1986-2005_](https://iiif.archivelab.org/iiif/sim_saturday-night_1889-04-06_2_19?page=2)
+## [From _Saturday Night 1986-2005_](https://archive.org/details/sim_saturday-night_1889-04-06_2_19/page/n2/model/1up?view=theater)
 
 #### 1889-04-06 &middot; [Toronto, Canada](http://dbpedia.org/resource/Toronto)
 
@@ -10089,7 +10091,7 @@ Addison; 25, Dryden; 26, Francis Charles;
 27, Watkins; 28, Herrick ; 29, William Mason ;  
 31, Dana; 32, Shakes; eare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-night_1889-04-06_2_19&#0036;2/pct:23.497554,22.628032,15.234102,19.218329/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-night_1889-04-06_2_19&#0036;2/pct:23.497554,22.628032,15.234102,19.218329/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11068,7 +11070,7 @@ Dana; 38, Shakespeare. SANDER &amp; SONS&#x27;
 
 ---
 
-## [From _Journal of Education 1875-1876_](https://iiif.archivelab.org/iiif/sim_journal-of-education-1875_1892-03-17_35_11?page=9)
+## [From _Journal of Education 1875-1876_](https://archive.org/details/sim_journal-of-education-1875_1892-03-17_35_11/page/n9/model/1up?view=theater)
 
 #### 1892-03-17 &middot; [Brooklyn, New York](http://dbpedia.org/resource/Brooklyn)
 
@@ -11116,7 +11118,7 @@ Dana; 38, Shakespeare. SANDER &amp; SONS&#x27;
 88—For, live we how we can, yet die we must.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-education-1875_1892-03-17_35_11&#0036;9/pct:38.018535,19.370651,23.300971,25.189753/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_journal-of-education-1875_1892-03-17_35_11&#0036;9/pct:38.018535,19.370651,23.300971,25.189753/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12365,7 +12367,7 @@ For live we how we can, yet die we must. —SJieAespeare.
 
 ---
 
-## [From _American Fruit Grower 1897-2014_](https://iiif.archivelab.org/iiif/sim_american-fruit-grower_1898-01_18_1?page=1)
+## [From _American Fruit Grower 1897-2014_](https://archive.org/details/sim_american-fruit-grower_1898-01_18_1/page/n1/model/1up?view=theater)
 
 #### 1898-01-01 &middot; [Rochester, New York](http://dbpedia.org/resource/Rochester%2C_New_York)
 
@@ -12427,7 +12429,133 @@ The trust that’s given guard, and to your-
 self be just, —Dana.  
 For live we how ‘we can, yet die we must
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-fruit-grower_1898-01_18_1&#0036;1/pct:66.346407,18.186594,11.660963,17.545703/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_american-fruit-grower_1898-01_18_1&#0036;1/pct:66.346407,18.186594,11.660963,17.545703/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _San Antonio daily light._](https://chroniclingamerica.loc.gov/lccn/sn86090439/1898-02-13/ed-1/seq-3)
+
+#### 1898-02-13 &middot; [San Antonio, Tex.](http://dbpedia.org/resource/San_Antonio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+force the stream to move in a zigzag  
+way.  
+  
+—Exchange.  
+  
+TO CURE A COLD IN ONE DAY  
+Take Laxative Bromo Quinine. Tab­  
+lets. All druggists refund the money  
+if it fails to cure. 25c. The genuine  
+has L. B. Q. on each tablet.  
+  
+It is said that Mrs. H. A. Deming  
+of Oakland, Cal., spent over a year  
+1n the creation of the following poetn  
+of 38 lines, taken from the writings of  
+38 English poems. The names of the  
+  
+A BARGAIN  
+  
+A GREAT POEM.  
+  
+authors of each line are given below.  
+I—Why all this toil for triumphs of  
+an hour?  
+2—Life’s a short summer, man a •  
+Hower.  
+3—By turns we catch the vital  
+breath, and die.  
+4—The cradle and the tomb, alas&#x27;,  
+so nigh.  
+s—To be is better far than not to ’  
+be.  
+6—Through all man’s life may seem  
+a tragedy.  
+7—But light cares speak when migh­  
+ty cares are dumb,  
+B—The bottom is but shallow  
+whence they come.  
+9—Your fate is but the common  
+fate of all,  
+19—L’nmiugled joys here to no man  
+befall,  
+11 Nature to each allots his proper  
+sphere.  
+12—Fortune makes Miy her wen&quot;  
+liar care,  
+13—Custom does often reason over­  
+rule,  
+14—An&lt;l throw a cruel sunshine on  
+a fool.  
+13 Live well how long or short,  
+permit to heaven,  
+16—They who forgive most shall tie  
+most forgiven.  
+17—Sin may be clasped so close wo  
+cannot see its face—  
+18—Vile intercourse where virture­  
+lias not place;  
+19—Then keep each passion down,  
+however dear;  
+SO—Thou pendulum betwixt a smile  
+and tear;  
+21—Her sensual snares let faithless  
+pleasure lay.  
+22—With craft and skill to ruin and *  
+lietray;  
+23—Soar not ton high to fall, but  
+stoop to rise,  
+24—We masters grow of all that wo  
+despise.  
+25—O’then renounce that impious  
+self esteem;  
+21&gt; —Riches have wings, and grand­  
+eur is a dream,  
+27—Think not ambition wise be­  
+cause ’tis brave,  
+28—The path of glory leads but to  
+the grave.  
+29—What is ambition? &#x27;Tis a glor­  
+ious cheat,  
+30—Only destructive to the brave  
+and great.  
+31—What’s all the gaudy glitter of  
+a crown!  
+32—The way to bliss lies not on beds  
+of down.  
+33—How long we live, not yeara, but  
+actions, tell;  
+34 —Make, then, while yet we may,  
+your God your friend,  
+30—Whom Christians worship, yet  
+not comprehend.  
+37—The trust that’s given guard,  
+and to yourself be just;  
+38—For live we how we can. yet die  
+we must.  
+  
+1. Young; 2, Dr. Johnson; 3, Pope; 4,  
+Prior; 5, Sewell; 6, Spenser; 7, Dan­  
+iel: B.&#x27; Sir Waiter Raleigh; 9, Long­  
+fellow; 10. Southwell; 11, Congreve­  
+-12. Churcshill; 13. Rochester; 14 Arm­  
+strong; 15. Milton; 16, Bailey; 17,  
+Trench; 18. Somerville: 19. Thomson-  
+2t 22. Crabbe-  
+23. Massinger; 24. Crowley: 25. Beat­  
+tie; 26. Cooper: 27. Sir Walter Dnven­  
+aiH: 28. Gray: 29. Willis; 30. Addison;  
+31. Dryden: 32. Francis Quarles; 33  
+Watkins: 34. Herriek; 35. William’  
+Mason; 36, Hill; 37. Dana: 38. Shake­  
+speare.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_frisco_ver01%2Fdata%2Fsn86090439%2F00517175134%2F1898021301%2F0336.jp2/pct:59.334695,42.150282,36.941101,52.309802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

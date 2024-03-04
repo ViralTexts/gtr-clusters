@@ -1,7 +1,7 @@
 
 # A Philosophical Darkey
 
-### 247 reprints from 1862-03-21 to 1898-10-01
+### 248 reprints from 1862-03-21 to 1898-10-01
 
 ## [A Philosophical Darkey](https://chroniclingamerica.loc.gov/lccn/sn85033429/1872-06-20/ed-1/seq-1/)
 
@@ -816,7 +816,7 @@ field of carnage.
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1862-04-05_2123?page=7)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1862-04-05_2123/page/n7/model/1up?view=theater)
 
 #### 1862-04-05 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -860,7 +860,7 @@ w ul dat be worth to a man wid de bref out
   
 him’ Self preecrbashun am de fust law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1862-04-05_2123&#0036;7/pct:8.180820,42.089305,13.945827,18.481257/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-evening-post_1862-04-05_2123&#0036;7/pct:8.180820,42.089305,13.945827,18.481257/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1139,6 +1139,73 @@ field of carnage.
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895035%2F1862041101%2F0480.jp2/pct:16.810778,70.349935,13.115825,27.969363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _Vermont watchman and State journal._
+
+#### 1862-04-11 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+hurricane deck to-day an elderly darkee with  
+a very philosophical and retrospective cast of  
+countenance, snuatted unon his bundl. traer.  
+ing his shins against the chimney and appar.  
+ently plunged into a state of profound medita.I  
+tion. Finding upon inquiry that he belong.  
+ed to the Bth Illinois, one of the woer  
+lantly behaved and heavily losing regiments  
+at the Fort Donelson battle. and hartorl  
+which was aboard, I began to interregate him  
+rropate htm,!  
+on the subject. His philosophy was so much  
+in the Falstaflian lein that I will give his  
+views in his own words as nearly as my mem  
+ory serves me:  
+&quot;Were you in the fight?&quot;  
+&quot;Had a little taste of it sa.&quot;  
+&quot;Stood your ground, did you?&quot;  
+&quot;No sa, I runs.&quot;  
+&quot;Run at the first fire, did you  
+&quot;Yes, sa, and I would had run s  
+soona, had  
+I knowd it war comin.  
+&quot;Why that wasn&#x27;t very creditable to your  
+urage.&quot;  
+csurage.  
+&quot;Dat isn&#x27;t in my line, sa,cookin&#x27;s we  
+perfeshum.&quot;  
+&quot;Well, but have you no regard for your  
+reputation?&quot;  
+&quot;Reputation&#x27;s nuffin to me of the side ob  
+life.&quot;  
+&quot;Do you consider your life worth more than  
+other people&#x27;s?&quot;  
+&quot;It&#x27;s worth more to me, sa.&quot;  
+&quot;Then you must value it very highly?  
+&quot;Yes, sa, I does  more dan all dis wuld  
+more dan a million of dollars, sa for what  
+would dat be wuth to a man wid de brer out  
+ob him self-preserbashun am the fust law wid  
+me.&quot;  
+&quot;But why should you act upon a different  
+rure irom ulner men?  
+&quot;Because different men sets different values!  
+upon dar livesssmine is not in the market.&quot;  
+&quot;But if you lost it, you would have the  
+satisfaction of knowing that you died for  
+your country.&quot;  
+&quot;What satisfaction would dat be to me  
+when de power ob feelin&#x27; was gone?&quot;  
+Then partiotism and honor are nothing toI  
+  
+you?&quot; jA tose from a sheltering tree. I picked a  
+&quot;Nufin whatever, sal regard dem a, &#x27;shell from the path alongside. Iturned away  
+among de vanities.&quot;? Ise enty-seven fold more the child of the old  
+&quot;If our soldiers were like you, traitors lstandard than ever before. I reswore my f
+</td></tr></table>
 
 ---
 
@@ -2408,7 +2475,7 @@ of that African will never darken the Hel
 
 ---
 
-## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://iiif.archivelab.org/iiif/sim_independent_1862-05-29_14_704?page=5)
+## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1862-05-29_14_704/page/n5/model/1up?view=theater)
 
 #### 1862-05-29 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2444,13 +2511,13 @@ feshun.” - Se
 “ Reputation’s nuffin tome by de side ob life.”  
 *Do you consider your life worth more than
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_independent_1862-05-29_14_704&#0036;5/pct:74.790576,75.643382,13.180628,12.755310/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_independent_1862-05-29_14_704&#0036;5/pct:74.790576,75.643382,13.180628,12.755310/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Frank Leslie's illustrated newspaper._](https://iiif.archivelab.org/iiif/sim_leslies-weekly_1862-05-31_14_346-347?page=10)
+## [From _Frank Leslie's illustrated newspaper._](https://archive.org/details/sim_leslies-weekly_1862-05-31_14_346-347/page/n10/model/1up?view=theater)
 
 #### 1862-05-31 &middot; [New York, N.Y.](http://dbpedia.org/resource/New_York_City)
 
@@ -2499,13 +2566,13 @@ him? £el:-preserbeshun :m de fust law wid me.’ 4
   
 ** Nuflin, whatever, sa; I regard dem as amoung de vanities.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_leslies-weekly_1862-05-31_14_346-347&#0036;10/pct:37.760181,17.885802,26.742081,11.882716/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_leslies-weekly_1862-05-31_14_346-347&#0036;10/pct:37.760181,17.885802,26.742081,11.882716/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _American Phrenological Journal (1838-1869)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1862-06_35_6?page=17)
+## [From _American Phrenological Journal (1838-1869)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1862-06_35_6/page/n17/model/1up?view=theater)
 
 #### 1862-06-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2540,13 +2607,13 @@ as my memory serves me.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1862-06_35_6&#0036;17/pct:42.896010,76.039741,51.692866,12.915896/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_phrenological-journal-and-science-of-health_1862-06_35_6&#0036;17/pct:42.896010,76.039741,51.692866,12.915896/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _American Phrenological Journal (1838-1869)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1862-06_35_6?page=18)
+## [From _American Phrenological Journal (1838-1869)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1862-06_35_6/page/n18/model/1up?view=theater)
 
 #### 1862-06-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2615,7 +2682,7 @@ It is safe to say that the dusky corpse of that
 African will never darken the field of car-  
 nage,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1862-06_35_6&#0036;18/pct:6.318017,11.991682,25.453446,58.271719/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_phrenological-journal-and-science-of-health_1862-06_35_6&#0036;18/pct:6.318017,11.991682,25.453446,58.271719/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3737,7 +3804,7 @@ carnage.
 
 ---
 
-## [From _Louisville daily Democrat._](https://iiif.archivelab.org/iiif/xt7w3r0psv6k?page=3)
+## [From _Louisville daily Democrat._](https://archive.org/details/xt7w3r0psv6k/page/n3/model/1up?view=theater)
 
 #### 1863-11-20 &middot; [Louisville, Kentucky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
@@ -3758,7 +3825,7 @@ me ” In Richmond at the high prices and the scarci-
 lt is safe to say that the dusky corpse of ty of provisions, and they are forced to adopt  
 that African will never darken the field of car- the advice of the papers to live without ea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7w3r0psv6k&#0036;3/pct:6.143640,31.121486,25.310066,3.923711/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7w3r0psv6k&#0036;3/pct:6.143640,31.121486,25.310066,3.923711/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4233,7 +4300,7 @@ the field of carnage
 
 ---
 
-## [From _Littell's Living Age (1844-1896)_](https://iiif.archivelab.org/iiif/sim_living-age_1863-12-26_79_1021?page=26)
+## [From _Littell's Living Age (1844-1896)_](https://archive.org/details/sim_living-age_1863-12-26_79_1021/page/n26/model/1up?view=theater)
 
 #### 1863-12-26 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -4329,7 +4396,7 @@ I’d missed myself, and dat was the pint wid me.’’
 It is safe to say that the dusky corpse of that  
 African will never darken the field of carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_living-age_1863-12-26_79_1021&#0036;26/pct:12.008929,47.822398,75.178571,42.929864/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_living-age_1863-12-26_79_1021&#0036;26/pct:12.008929,47.822398,75.178571,42.929864/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5298,7 +5365,7 @@ field of carnage.
 
 ---
 
-## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1865-04-05_36_14?page=0)
+## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://archive.org/details/sim_zions-herald_1865-04-05_36_14/page/n0/model/1up?view=theater)
 
 #### 1865-04-05 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -5388,7 +5455,7 @@ myself, and dat was de _ wid me.”
 It is safe to say that the dufky corpse of that Afri-  
 can will never darken the field of carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1865-04-05_36_14&#0036;0/pct:79.211957,34.372478,12.540761,22.931800/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_zions-herald_1865-04-05_36_14&#0036;0/pct:79.211957,34.372478,12.540761,22.931800/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5672,7 +5739,7 @@ en the field uf carnag
 
 ---
 
-## [From _The United States Service Magazine (1864-1866)_](https://iiif.archivelab.org/iiif/sim_united-states-service-magazine_1865-10_4_4?page=49)
+## [From _The United States Service Magazine (1864-1866)_](https://archive.org/details/sim_united-states-service-magazine_1865-10_4_4/page/n49/model/1up?view=theater)
 
 #### 1865-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -5727,13 +5794,13 @@ for your country.’
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_united-states-service-magazine_1865-10_4_4&#0036;49/pct:19.313910,54.933815,64.332707,31.347774/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_united-states-service-magazine_1865-10_4_4&#0036;49/pct:19.313910,54.933815,64.332707,31.347774/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States Service Magazine (1864-1866)_](https://iiif.archivelab.org/iiif/sim_united-states-service-magazine_1865-10_4_4?page=50)
+## [From _The United States Service Magazine (1864-1866)_](https://archive.org/details/sim_united-states-service-magazine_1865-10_4_4/page/n50/model/1up?view=theater)
 
 #### 1865-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -5761,7 +5828,7 @@ e
 ‘“*é May be not, sa’_—a dead white man ain’t much to dese sojers—let alone a  
 dead nigga—but I’d a missed myself, and dat was de pint wid me.’”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_united-states-service-magazine_1865-10_4_4&#0036;50/pct:17.246241,13.237064,64.426692,13.989170/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_united-states-service-magazine_1865-10_4_4&#0036;50/pct:17.246241,13.237064,64.426692,13.989170/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6433,7 +6500,7 @@ carnage
 
 ---
 
-## [From _The Kentucky sentinel._](https://iiif.archivelab.org/iiif/xt734t6f2c27?page=3)
+## [From _The Kentucky sentinel._](https://archive.org/details/xt734t6f2c27/page/n3/model/1up?view=theater)
 
 #### 1869-03-11 &middot; [Mount Sterling, Ky.](http://dbpedia.org/resource/Mount_Sterling%2C_Kentucky)
 
@@ -6457,13 +6524,13 @@ m ore’ll a million dollars, sa; for what &quot; -•
 would dat be wuth to a man wid de lire 1  
 knocked out uv him? Self-presscrwasliun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt734t6f2c27&#0036;3/pct:3.649635,18.336237,25.091241,6.736353/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt734t6f2c27&#0036;3/pct:3.649635,18.336237,25.091241,6.736353/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Kentucky sentinel._](https://iiif.archivelab.org/iiif/xt734t6f2c27?page=3)
+## [From _The Kentucky sentinel._](https://archive.org/details/xt734t6f2c27/page/n3/model/1up?view=theater)
 
 #### 1869-03-11 &middot; [Mount Sterling, Ky.](http://dbpedia.org/resource/Mount_Sterling%2C_Kentucky)
 
@@ -6518,13 +6585,13 @@ wid me.’
 It is safe to say that the dusky corpse  
 of that negro will never daiken the field ol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt734t6f2c27&#0036;3/pct:3.412409,25.261324,12.737226,22.052846/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt734t6f2c27&#0036;3/pct:3.412409,25.261324,12.737226,22.052846/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1870-06-25_14_704?page=8)
+## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1870-06-25_14_704/page/n8/model/1up?view=theater)
 
 #### 1870-06-25 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -6542,7 +6609,7 @@ reputation?” “ Reputation’s nothing to me by the
 side ob life.” ‘Do you consider your life worth more  
 than other people&#x27;s?” “It’s worth more to me, sah.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1870-06-25_14_704&#0036;8/pct:69.789628,51.868207,19.006849,5.078125/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_harpers-magazine_1870-06-25_14_704&#0036;8/pct:69.789628,51.868207,19.006849,5.078125/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6580,7 +6647,7 @@ A Chinese maxim says: “We re
 
 ---
 
-## [From _New national era._](https://iiif.archivelab.org/iiif/sim_new-national-era_1870-07-28_1_29?page=3)
+## [From _New national era._](https://archive.org/details/sim_new-national-era_1870-07-28_1_29/page/n3/model/1up?view=theater)
 
 #### 1870-07-28 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
@@ -6599,7 +6666,7 @@ nothing to me by the side ob life.” “ Do you
 consider your life worth more than other peo-  
 ple’s?’’ **1t’s worth more to me, sah.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-national-era_1870-07-28_1_29&#0036;3/pct:43.502674,58.010000,12.179144,5.240000/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-national-era_1870-07-28_1_29&#0036;3/pct:43.502674,58.010000,12.179144,5.240000/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8628,9 +8695,9 @@ Colored men iu tbe Southern State
 
 ---
 
-## [From _Chambers's Journal of Popular Literature, Science and Arts 1854-1897_](https://iiif.archivelab.org/iiif/sim_chambers-journal-of-popular-literature-science-and-arts_1873-10-18_10_512?page=1)
+## [From _Chambers's Journal of Popular Literature, Science and Arts 1854-1897_](https://archive.org/details/sim_chambers-journal-of-popular-literature-science-and-arts_1873-10-18_10_512/page/n1/model/1up?view=theater)
 
-#### 1873-10-18
+#### 1873-10-18 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8647,7 +8714,7 @@ sa; a dead white man ain’t much to dese sogers, let
 alone a dead nigga; but I’d ha’ missed myself, and  
 dat was de pint wid me!’ Mr Planché’s Iris
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_chambers-journal-of-popular-literature-science-and-arts_1873-10-18_10_512&#0036;1/pct:51.235585,22.489083,36.573311,12.336245/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_chambers-journal-of-popular-literature-science-and-arts_1873-10-18_10_512&#0036;1/pct:51.235585,22.489083,36.573311,12.336245/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9066,7 +9133,7 @@ field of carnage. ? Cincinnati Guzcltt
 
 ---
 
-## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1875-03-27_43_17?page=3)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1875-03-27_43_17/page/n3/model/1up?view=theater)
 
 #### 1875-03-27 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -9121,7 +9188,7 @@ rule from other men?”
 ues upon their lives; mine is not in de mark-  
 et.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1875-03-27_43_17&#0036;3/pct:38.629202,58.403110,10.425420,16.726475/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_maine-farmer_1875-03-27_43_17&#0036;3/pct:38.629202,58.403110,10.425420,16.726475/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9304,7 +9371,7 @@ wid me.&quot; !
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1875-05-20_48_20?page=5)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1875-05-20_48_20/page/n5/model/1up?view=theater)
 
 #### 1875-05-20 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -9390,7 +9457,7 @@ me.”
 Tt is safe to say that the corpse of that African  
 will never darken the field of carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1875-05-20_48_20&#0036;5/pct:54.657688,30.172414,21.380471,32.533733/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1875-05-20_48_20&#0036;5/pct:54.657688,30.172414,21.380471,32.533733/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10898,7 +10965,7 @@ mo wlimi tlu powr of fiMIIit ww
 
 ---
 
-## [From _Zion's Herald (1868-1910)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1879-02-06_56_6?page=0)
+## [From _Zion's Herald (1868-1910)_](https://archive.org/details/sim_zions-herald_1879-02-06_56_6/page/n0/model/1up?view=theater)
 
 #### 1879-02-06 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -10946,7 +11013,7 @@ dem as among de vanilies.”
   
 I regard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1879-02-06_56_6&#0036;0/pct:31.004902,52.722032,23.943015,17.410333/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_zions-herald_1879-02-06_56_6&#0036;0/pct:31.004902,52.722032,23.943015,17.410333/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13836,7 +13903,7 @@ plnco do loss to me.
 
 ---
 
-## [From _Life (1883-1936)_](https://iiif.archivelab.org/iiif/sim_life_1894-10-25_24_617?page=13)
+## [From _Life (1883-1936)_](https://archive.org/details/sim_life_1894-10-25_24_617/page/n13/model/1up?view=theater)
 
 #### 1894-10-25 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -13866,13 +13933,13 @@ plnco do loss to me.
   
 ‘It’s worth more to me, sah.”—A xchange. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_life_1894-10-25_24_617&#0036;13/pct:7.289157,33.733826,33.313253,9.149723/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_life_1894-10-25_24_617&#0036;13/pct:7.289157,33.733826,33.313253,9.149723/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Current Literature (1888-1912)_](https://iiif.archivelab.org/iiif/sim_current-opinion_1898-10_24_4?page=81)
+## [From _Current Literature (1888-1912)_](https://archive.org/details/sim_current-opinion_1898-10_24_4/page/n81/model/1up?view=theater)
 
 #### 1898-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -13925,7 +13992,7 @@ myself, and dat was de pint wid me.”
   
 A Good Shot.—A good story is told of the lat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_current-opinion_1898-10_24_4&#0036;81/pct:50.249377,23.556430,36.315461,55.708661/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_current-opinion_1898-10_24_4&#0036;81/pct:50.249377,23.556430,36.315461,55.708661/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

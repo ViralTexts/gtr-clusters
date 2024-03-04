@@ -1,7 +1,7 @@
 
 # A Printer's Epitaph
 
-### 35 reprints from 1854-10-12 to 1897-05-27
+### 36 reprints from 1854-10-12 to 1897-05-27
 
 ## [A Printer's Epitaph](http://chroniclingamerica.loc.gov/lccn/sn97065088/1858-05-06/ed-1/seq-1/)
 
@@ -89,6 +89,29 @@ Worn out, the type is thrown to pi again, &#x27;
 &#x27; The impression lives through aa eterna
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn86071378%2F0021247762A%2F1854110201%2F0435.jp2/pct:50.430622,77.374092,13.684211,4.647958/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Worcester daily spy._](https://chroniclingamerica.loc.gov/lccn/sn83021205/1854-11-03/ed-1/seq-2)
+
+#### 1854-11-03 &middot; [Worcester [Mass.]](http://dbpedia.org/resource/Worcester%2C_Massachusetts)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+ON A PRINTER.  
+Here Ues a form—place no imposirtg stone  
+To mark the bed where weary it is lain;  
+’Tis matter dead!—its mission all being done,  
+To be distributed to dust again.  
+The body’s but the type, at best, of man,  
+Whose impress is the spirit’s deathless page;  
+Worn out, the tyjie is thrown to pi agaii). -  
+Ths impression lives through an eternal ag
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mb_demeter_ver01%2Fdata%2Fsn83021205%2F00517171992%2F1854110301%2F0990.jp2/pct:31.967784,94.499295,10.027841,3.295969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +428,7 @@ The impression lives through an eternal age.
 
 ---
 
-## [From _The flag of our Union._](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-10-17_12_42?page=7)
+## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1857-10-17_12_42/page/n7/model/1up?view=theater)
 
 #### 1857-10-17 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -441,13 +464,13 @@ Whose vipress is the spirit’s deathiess page ;
 Worn out, the type is thrown to pi again,  
 The unpression lives through an everual age.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-10-17_12_42&#0036;7/pct:59.699454,24.029898,12.568306,9.923664/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_flag-of-our-union_1857-10-17_12_42&#0036;7/pct:59.699454,24.029898,12.568306,9.923664/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The flag of our Union._](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-10-24_12_43?page=0)
+## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1857-10-24_12_43/page/n0/model/1up?view=theater)
 
 #### 1857-10-24 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -464,7 +487,7 @@ Whose tpress is the spirit’s deathiess page ;
 Worn out, the type is thrown to pi again,  
 The wnpression lives through an eternal age.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1857-10-24_12_43&#0036;0/pct:3.239657,29.564249,10.050742,3.546438/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_flag-of-our-union_1857-10-24_12_43&#0036;0/pct:3.239657,29.564249,10.050742,3.546438/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -528,7 +551,7 @@ The ; .pression lives through an eternal age
 
 ---
 
-## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1858-11_17_102?page=83)
+## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1858-11_17_102/page/n83/model/1up?view=theater)
 
 #### 1858-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -545,7 +568,7 @@ Whose impress is the spirit’s deathless page ;
 Worn out, the type is thrown to pi again,  
 The impression lives through an eternal age.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1858-11_17_102&#0036;83/pct:53.248588,25.691937,30.696798,7.490975/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_harpers-magazine_1858-11_17_102&#0036;83/pct:53.248588,25.691937,30.696798,7.490975/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -718,7 +741,7 @@ Ihe impression bves through an eteanaJag
 
 ---
 
-## [From _American Printer 1883-2013_](https://iiif.archivelab.org/iiif/sim_american-printer_1887-09_4_12?page=57)
+## [From _American Printer 1883-2013_](https://archive.org/details/sim_american-printer_1887-09_4_12/page/n57/model/1up?view=theater)
 
 #### 1887-09-01 &middot; [Chicago, Illinois](http://dbpedia.org/resource/Chicago)
 
@@ -751,7 +774,7 @@ Worn out, the type is thrown to f/ again,
   
 The émfpression lives through an eternal age.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-printer_1887-09_4_12&#0036;57/pct:10.381078,56.687612,38.173456,18.536804/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_american-printer_1887-09_4_12&#0036;57/pct:10.381078,56.687612,38.173456,18.536804/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

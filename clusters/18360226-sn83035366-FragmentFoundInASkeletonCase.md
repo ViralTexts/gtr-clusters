@@ -1,7 +1,7 @@
 
 # A Fragment Found in a Skeleton Case
 
-### 176 reprints from 1815-11-01 to 1899-06-05
+### 177 reprints from 1815-11-01 to 1899-06-05
 
 ## [A Fragment Found in a Skeleton Case](http://chroniclingamerica.loc.gov/lccn/sn83035366/1836-02-26/ed-1/seq-4/)
 
@@ -64,7 +64,7 @@ And tread the palace of the sky!
 
 ---
 
-## [From _European Magazine and London Review 1782-1826_](https://iiif.archivelab.org/iiif/sim_european-magazine-and-london-review_1815-11_68?page=60)
+## [From _European Magazine and London Review 1782-1826_](https://archive.org/details/sim_european-magazine-and-london-review_1815-11_68/page/n60/model/1up?view=theater)
 
 #### 1815-11-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -106,7 +106,7 @@ But wlicrc H co&#x27;ilil not prai-e, was chain&#x27;d —
 If linn in \ Irlue&#x27;.s cause it &#x27;&#x27;jioke  
 \’ef g&#x27;Mjti,. &lt;\nicord never broke ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_european-magazine-and-london-review_1815-11_68&#0036;60/pct:11.439114,10.590278,70.510455,81.732253/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_european-magazine-and-london-review_1815-11_68&#0036;60/pct:11.439114,10.590278,70.510455,81.732253/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +132,7 @@ If linn in \ Irlue&#x27;.s cause it &#x27;&#x27;jioke
 
 ---
 
-## [From _The Atheneum; or, Spirit of the English Magazines (1817-1833)_](https://iiif.archivelab.org/iiif/sim_atheneum-or-spirit-of-the-english-magazine_1817-07-01_1_7?page=37)
+## [From _The Atheneum; or, Spirit of the English Magazines (1817-1833)_](https://archive.org/details/sim_atheneum-or-spirit-of-the-english-magazine_1817-07-01_1_7/page/n37/model/1up?view=theater)
 
 #### 1817-07-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -199,15 +199,15 @@ These feet the path of duty trod ?
 if from the bow’rs of joy they fled  
 To cheer the ag’d man’s friendless bed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_atheneum-or-spirit-of-the-english-magazine_1817-07-01_1_7&#0036;37/pct:19.417767,5.169242,72.539016,86.644592/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_atheneum-or-spirit-of-the-english-magazine_1817-07-01_1_7&#0036;37/pct:19.417767,5.169242,72.539016,86.644592/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Gentleman's Magazine 1731-1907_](https://iiif.archivelab.org/iiif/sim_gentlemans-magazine_1817-07_88?page=66)
+## [From _The Gentleman's Magazine 1731-1907_](https://archive.org/details/sim_gentlemans-magazine_1817-07_88/page/n66/model/1up?view=theater)
 
-#### 1817-07-01
+#### 1817-07-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -272,13 +272,13 @@ These feet with Angel wings shall vie,
   
 And tread the palace of the sky 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_gentlemans-magazine_1817-07_88&#0036;66/pct:10.629921,15.184758,34.448819,47.344111/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_gentlemans-magazine_1817-07_88&#0036;66/pct:10.629921,15.184758,34.448819,47.344111/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Weekly Entertainer, and West of England Miscellany 1783-1824_](https://iiif.archivelab.org/iiif/sim_weekly-entertainer-and-west-of-england-miscellany_1817-08-18_57?page=19)
+## [From _The Weekly Entertainer, and West of England Miscellany 1783-1824_](https://archive.org/details/sim_weekly-entertainer-and-west-of-england-miscellany_1817-08-18_57/page/n19/model/1up?view=theater)
 
 #### 1817-08-18 &middot; [Sherborne, England](http://dbpedia.org/resource/Sherborne)
 
@@ -348,7 +348,7 @@ And home to vi: tue’s lap returned ;
 These feet with angel wings shall vie,  
 And tread the palace of the sky?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_weekly-entertainer-and-west-of-england-miscellany_1817-08-18_57&#0036;19/pct:33.620690,28.396226,40.193966,50.880503/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_weekly-entertainer-and-west-of-england-miscellany_1817-08-18_57&#0036;19/pct:33.620690,28.396226,40.193966,50.880503/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -490,7 +490,7 @@ the palace of the sky! &amp;nbsp; [COPIE
 
 ---
 
-## [From _The Atheneum; or, Spirit of the English Magazines (1817-1833)_](https://iiif.archivelab.org/iiif/sim_atheneum-or-spirit-of-the-english-magazine_1818-03-01_2_11?page=37)
+## [From _The Atheneum; or, Spirit of the English Magazines (1817-1833)_](https://archive.org/details/sim_atheneum-or-spirit-of-the-english-magazine_1818-03-01_2_11/page/n37/model/1up?view=theater)
 
 #### 1818-03-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -558,7 +558,7 @@ And home to Virtue’s lap returu’d ;
 These feet with Angel wings shall vie,  
 Aud tread the palace of the sky 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_atheneum-or-spirit-of-the-english-magazine_1818-03-01_2_11&#0036;37/pct:53.151261,33.498896,35.654262,45.290655/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_atheneum-or-spirit-of-the-english-magazine_1818-03-01_2_11&#0036;37/pct:53.151261,33.498896,35.654262,45.290655/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -574,7 +574,7 @@ Aud tread the palace of the sky
 
 ---
 
-## [From _Robinson's Magazine, a Weekly Repository of Original Papers; and Selections from the English Magazines (1818-1819)_](https://iiif.archivelab.org/iiif/sim_robinsons-magazine-a-weekly-repository_1818-11-28_1_20?page=15)
+## [From _Robinson's Magazine, a Weekly Repository of Original Papers; and Selections from the English Magazines (1818-1819)_](https://archive.org/details/sim_robinsons-magazine-a-weekly-repository_1818-11-28_1_20/page/n15/model/1up?view=theater)
 
 #### 1818-11-28 &middot; [Baltimore](http://dbpedia.org/resource/Baltimore)
 
@@ -659,13 +659,13 @@ And home to Virtue’s lap return’d ;
 These feet with Angel’s wings shall we,  
 And tread the palace of the sky!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_robinsons-magazine-a-weekly-repository_1818-11-28_1_20&#0036;15/pct:53.998050,28.820698,36.835690,60.694946/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_robinsons-magazine-a-weekly-repository_1818-11-28_1_20&#0036;15/pct:53.998050,28.820698,36.835690,60.694946/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Universalist Magazine (1819-1828)_](https://iiif.archivelab.org/iiif/sim_universalist_1820-03-18_1_38?page=3)
+## [From _Universalist Magazine (1819-1828)_](https://archive.org/details/sim_universalist_1820-03-18_1_38/page/n3/model/1up?view=theater)
 
 #### 1820-03-18 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -724,7 +724,7 @@ And home to virtue’s lap return’d,
 These feet with angel’s wings shal] vie,  
 And tread the palace of the sky
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_universalist_1820-03-18_1_38&#0036;3/pct:11.198547,10.022166,52.138822,84.357188/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_universalist_1820-03-18_1_38&#0036;3/pct:11.198547,10.022166,52.138822,84.357188/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -760,7 +760,7 @@ And tread the palace of the sky
 
 ---
 
-## [From _Kentucky gazette._](https://iiif.archivelab.org/iiif/xt776h4cp57q?page=2)
+## [From _Kentucky gazette._](https://archive.org/details/xt776h4cp57q/page/n2/model/1up?view=theater)
 
 #### 1820-12-14 &middot; [[Lexington, Ky.]](http://dbpedia.org/resource/Lexington%2C_Kentucky)
 
@@ -868,7 +868,7 @@ These feet with angels’ wings shall vie,
   
 And tread the palace ot the sk\ ! 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt776h4cp57q&#0036;2/pct:78.665828,94.255713,13.698343,2.285361/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt776h4cp57q&#0036;2/pct:78.665828,94.255713,13.698343,2.285361/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -884,7 +884,7 @@ And tread the palace ot the sk\ !
 
 ---
 
-## [From _The American Masonic Register, and Ladies and Gentlemen's Magazine (1820-1823)_](https://iiif.archivelab.org/iiif/sim_american-masonic-register_1821-03_1_7?page=38)
+## [From _The American Masonic Register, and Ladies and Gentlemen's Magazine (1820-1823)_](https://archive.org/details/sim_american-masonic-register_1821-03_1_7/page/n38/model/1up?view=theater)
 
 #### 1821-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -920,13 +920,13 @@ Here in this silent cavern hung,
 The ready, swift, and tuneful tongue ;  
 If falsehoods honey it disdain&#x27;d,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-masonic-register_1821-03_1_7&#0036;38/pct:5.130168,64.618086,42.879020,24.626866/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_american-masonic-register_1821-03_1_7&#0036;38/pct:5.130168,64.618086,42.879020,24.626866/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The American Masonic Register, and Ladies and Gentlemen's Magazine (1820-1823)_](https://iiif.archivelab.org/iiif/sim_american-masonic-register_1821-03_1_7?page=38)
+## [From _The American Masonic Register, and Ladies and Gentlemen's Magazine (1820-1823)_](https://archive.org/details/sim_american-masonic-register_1821-03_1_7/page/n38/model/1up?view=theater)
 
 #### 1821-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -968,7 +968,7 @@ And home to virtue’s lap return’d ?
 These feet with angels’ wings shall vie,  
 And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-masonic-register_1821-03_1_7&#0036;38/pct:10.068913,7.177349,78.866769,83.538191/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_american-masonic-register_1821-03_1_7&#0036;38/pct:10.068913,7.177349,78.866769,83.538191/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1060,7 +1060,7 @@ And tread the palace of the sky !
 
 ---
 
-## [From _The Saturday Magazine: Being in Great Part a Compilation From the British Reviews, Magazines, and Scientific Journals (1821-1822)_](https://iiif.archivelab.org/iiif/sim_saturday-magazine_1822-02-10_5_6?page=9)
+## [From _The Saturday Magazine: Being in Great Part a Compilation From the British Reviews, Magazines, and Scientific Journals (1821-1822)_](https://archive.org/details/sim_saturday-magazine_1822-02-10_5_6/page/n9/model/1up?view=theater)
 
 #### 1822-02-10 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -1134,15 +1134,15 @@ And home to virtue’s lap returned;
 These feet with angel’s wings shall vie,  
 And tread the palace of the sky!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-magazine_1822-02-10_5_6&#0036;9/pct:9.972067,31.360544,34.916201,47.227891/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-magazine_1822-02-10_5_6&#0036;9/pct:9.972067,31.360544,34.916201,47.227891/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Calcutta Journal, or Political, Commercial and Literary Gazette 1819-1823_](https://iiif.archivelab.org/iiif/sim_calcutta-journal-political-commercial-literary-gazette_1822-04-13_2_89?page=7)
+## [From _Calcutta Journal, or Political, Commercial and Literary Gazette 1819-1823_](https://archive.org/details/sim_calcutta-journal-political-commercial-literary-gazette_1822-04-13_2_89/page/n7/model/1up?view=theater)
 
-#### 1822-04-13
+#### 1822-04-13 &middot; [Kolkata, India](http://dbpedia.org/resource/Kolkata)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1202,15 +1202,15 @@ And home to virtue’s lap retarn’d---
 These! feet with angel-wings shail vie,  
 And tread tlie palace of the&#x27;sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_calcutta-journal-political-commercial-literary-gazette_1822-04-13_2_89&#0036;7/pct:18.658981,19.133499,26.395631,35.447761/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_calcutta-journal-political-commercial-literary-gazette_1822-04-13_2_89&#0036;7/pct:18.658981,19.133499,26.395631,35.447761/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Kaleidoscope; Or, Literary and Scientific Mirror 1818-1831_](https://iiif.archivelab.org/iiif/sim_kaleidoscope-or-literary-and-scientific-mirror_1823-10-21_4_173?page=3)
+## [From _Kaleidoscope; Or, Literary and Scientific Mirror 1818-1831_](https://archive.org/details/sim_kaleidoscope-or-literary-and-scientific-mirror_1823-10-21_4_173/page/n3/model/1up?view=theater)
 
-#### 1823-10-21
+#### 1823-10-21 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1285,13 +1285,13 @@ And home to virtue’s lap return’d—
 These feet with angel’s wings shall vie,  
 And reach the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_kaleidoscope-or-literary-and-scientific-mirror_1823-10-21_4_173&#0036;3/pct:40.263819,27.431907,20.634422,36.186770/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_kaleidoscope-or-literary-and-scientific-mirror_1823-10-21_4_173&#0036;3/pct:40.263819,27.431907,20.634422,36.186770/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Religious Intelligencer ... Containing the Principal Transactions of the Various Bible and Missionary Societies, with Particular Accounts of Revivals of Religion (1816-1837)_](https://iiif.archivelab.org/iiif/sim_religious-intelligencer_1825-06-11_10_2?page=15)
+## [From _The Religious Intelligencer ... Containing the Principal Transactions of the Various Bible and Missionary Societies, with Particular Accounts of Revivals of Religion (1816-1837)_](https://archive.org/details/sim_religious-intelligencer_1825-06-11_10_2/page/n15/model/1up?view=theater)
 
 #### 1825-06-11 &middot; [New Haven](http://dbpedia.org/resource/New_Haven%2C_Connecticut)
 
@@ -1344,13 +1344,13 @@ And home to Virtue’s lap return’d ;
 These feet with angel&#x27;s wings shall vie,  
 And tread the palace of the sky!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_religious-intelligencer_1825-06-11_10_2&#0036;15/pct:18.551689,16.241935,29.580348,39.096774/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_religious-intelligencer_1825-06-11_10_2&#0036;15/pct:18.551689,16.241935,29.580348,39.096774/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Evangelist (1824-1825)_](https://iiif.archivelab.org/iiif/sim_east-anglian-or-notes-and-queries_1825-07_2_7?page=39)
+## [From _Evangelist (1824-1825)_](https://archive.org/details/sim_east-anglian-or-notes-and-queries_1825-07_2_7/page/n39/model/1up?view=theater)
 
 #### 1825-07-01 &middot; [Hartford](http://dbpedia.org/resource/Hartford%2C_Connecticut)
 
@@ -1431,13 +1431,13 @@ These feet with angels’ wings shall vie,
   
 . ^ And tread the palace of the sky!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_east-anglian-or-notes-and-queries_1825-07_2_7&#0036;39/pct:22.540046,21.011606,55.205950,67.209423/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_east-anglian-or-notes-and-queries_1825-07_2_7&#0036;39/pct:22.540046,21.011606,55.205950,67.209423/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The western luminary._](https://iiif.archivelab.org/iiif/sim_western-farmer-and-gardener_1826-02-01_2_30?page=15)
+## [From _The western luminary._](https://archive.org/details/sim_western-farmer-and-gardener_1826-02-01_2_30/page/n15/model/1up?view=theater)
 
 #### 1826-02-01 &middot; [Lexington, Ky.](http://dbpedia.org/resource/Lexington%2C_Kentucky)
 
@@ -1510,7 +1510,7 @@ And home to Virtue’s lap returned;
 These feet with angel’s wings sLall vie,  
 Aod tread the palace of the sky!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_western-farmer-and-gardener_1826-02-01_2_30&#0036;15/pct:16.305276,19.485960,37.681407,58.446558/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_western-farmer-and-gardener_1826-02-01_2_30&#0036;15/pct:16.305276,19.485960,37.681407,58.446558/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1536,7 +1536,7 @@ Aod tread the palace of the sky!
 
 ---
 
-## [From _The New - England Galaxy and United States Literary Advertiser (1830-1836)_](https://iiif.archivelab.org/iiif/sim_boston-pearl-and-galaxy_1827-12-21_10_532?page=2)
+## [From _The New - England Galaxy and United States Literary Advertiser (1830-1836)_](https://archive.org/details/sim_boston-pearl-and-galaxy_1827-12-21_10_532/page/n2/model/1up?view=theater)
 
 #### 1827-12-21 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1616,7 +1616,7 @@ These feet, with angel&#x27;s wings shall vie.
   
 And tread the Palace of tbe 3ky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-pearl-and-galaxy_1827-12-21_10_532&#0036;2/pct:9.254658,8.771718,27.655280,85.629826/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_boston-pearl-and-galaxy_1827-12-21_10_532&#0036;2/pct:9.254658,8.771718,27.655280,85.629826/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1632,7 +1632,7 @@ And tread the Palace of tbe 3ky.
 
 ---
 
-## [From _The New - England Galaxy and United States Literary Advertiser (1830-1836)_](https://iiif.archivelab.org/iiif/sim_boston-pearl-and-galaxy_1833-03-02_16_9?page=0)
+## [From _The New - England Galaxy and United States Literary Advertiser (1830-1836)_](https://archive.org/details/sim_boston-pearl-and-galaxy_1833-03-02_16_9/page/n0/model/1up?view=theater)
 
 #### 1833-03-02 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1725,7 +1725,7 @@ Tliese feel with sngel wings shall fly.
   
 And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-pearl-and-galaxy_1833-03-02_16_9&#0036;0/pct:4.413440,29.117912,13.724374,25.765077/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_boston-pearl-and-galaxy_1833-03-02_16_9&#0036;0/pct:4.413440,29.117912,13.724374,25.765077/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1741,7 +1741,7 @@ And tread the palace of the sky.
 
 ---
 
-## [From _The liberator._](https://iiif.archivelab.org/iiif/sim_liberator_1833-03-30_3_13?page=3)
+## [From _The liberator._](https://archive.org/details/sim_liberator_1833-03-30_3_13/page/n3/model/1up?view=theater)
 
 #### 1833-03-30 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
@@ -1812,7 +1812,7 @@ These feet with angels’ wings shall vie,
   
 And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_liberator_1833-03-30_3_13&#0036;3/pct:12.361111,43.095238,15.503472,26.952381/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_liberator_1833-03-30_3_13&#0036;3/pct:12.361111,43.095238,15.503472,26.952381/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1828,7 +1828,7 @@ And tread the palace of the sky.
 
 ---
 
-## [From _The Jesuit or Catholic sentinel._](https://iiif.archivelab.org/iiif/sim_jesuit-or-catholic-sentinel_1833-08-31_4_35?page=3)
+## [From _The Jesuit or Catholic sentinel._](https://archive.org/details/sim_jesuit-or-catholic-sentinel_1833-08-31_4_35/page/n3/model/1up?view=theater)
 
 #### 1833-08-31 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1900,7 +1900,7 @@ And home to virtue’s lap returned—
 These feet with*angel’s wings shall vie,  
 And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_jesuit-or-catholic-sentinel_1833-08-31_4_35&#0036;3/pct:42.604582,56.234059,23.331673,36.189047/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_jesuit-or-catholic-sentinel_1833-08-31_4_35&#0036;3/pct:42.604582,56.234059,23.331673,36.189047/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2054,7 +2054,7 @@ And tread the palace ol the sky
 
 ---
 
-## [From _Episcopal Recorder (1831-1851)_](https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1836-04-23_14_4?page=3)
+## [From _Episcopal Recorder (1831-1851)_](https://archive.org/details/sim_episcopal-recorder_1836-04-23_14_4/page/n3/model/1up?view=theater)
 
 #### 1836-04-23 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2134,13 +2134,13 @@ Thi-se leet with angels’ wings Hhull vie.
   
 And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_episcopal-recorder_1836-04-23_14_4&#0036;3/pct:9.221557,12.023133,13.458084,22.696834/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_episcopal-recorder_1836-04-23_14_4&#0036;3/pct:9.221557,12.023133,13.458084,22.696834/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1836-05-28_9_34?page=4)
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1836-05-28_9_34/page/n4/model/1up?view=theater)
 
 #### 1836-05-28 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2213,7 +2213,7 @@ And home to virtue’s lap return’d,—
 Those feet with angels’ wings shall vie,  
 And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1836-05-28_9_34&#0036;4/pct:36.818182,23.640612,24.037433,38.338997/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friend-a-religious-and-literary-journal_1836-05-28_9_34&#0036;4/pct:36.818182,23.640612,24.037433,38.338997/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2229,7 +2229,7 @@ And tread the palace of the sky.
 
 ---
 
-## [From _Boston recorder._](https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1836-06-17_21_25?page=3)
+## [From _Boston recorder._](https://archive.org/details/sim_congregationalist-and-herald-of-gospel-liberty_1836-06-17_21_25/page/n3/model/1up?view=theater)
 
 #### 1836-06-17 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -2263,7 +2263,7 @@ The eye shall be forever bright,
 When stars and suns have lost their light.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1836-06-17_21_25&#0036;3/pct:8.528037,9.438776,10.881175,7.787325/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1836-06-17_21_25&#0036;3/pct:8.528037,9.438776,10.881175,7.787325/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2543,7 +2543,7 @@ And tread the palace of the sky
 
 ---
 
-## [From _Evangelical Magazine and Gospel Advocate (1830-1848)_](https://iiif.archivelab.org/iiif/sim_evangelical-magazine-and-gospel-advocate_1843-11-03_14_44?page=7)
+## [From _Evangelical Magazine and Gospel Advocate (1830-1848)_](https://archive.org/details/sim_evangelical-magazine-and-gospel-advocate_1843-11-03_14_44/page/n7/model/1up?view=theater)
 
 #### 1843-11-03 &middot; [Utica](http://dbpedia.org/resource/Utica%2C_New_York)
 
@@ -2629,7 +2629,7 @@ That soul with angels then shall vie, ^
   
 And tread the palai&#x27;e of the sky. ANONYMOUS. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelical-magazine-and-gospel-advocate_1843-11-03_14_44&#0036;7/pct:17.558711,11.618082,23.457127,39.438107/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_evangelical-magazine-and-gospel-advocate_1843-11-03_14_44&#0036;7/pct:17.558711,11.618082,23.457127,39.438107/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2700,7 +2700,7 @@ And trend the palace of the sky.
 
 ---
 
-## [From _The Knickerbocker; or New York Monthly Magazine (1833-1862)_](https://iiif.archivelab.org/iiif/sim_foederal-american-monthly_1846-02_27_2?page=87)
+## [From _The Knickerbocker; or New York Monthly Magazine (1833-1862)_](https://archive.org/details/sim_foederal-american-monthly_1846-02_27_2/page/n87/model/1up?view=theater)
 
 #### 1846-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2771,13 +2771,13 @@ And home to Virtue’s lap return’d ;
 These fect with angel’s wings shall vie;  
 And tread the palace of the sky!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_foederal-american-monthly_1846-02_27_2&#0036;87/pct:42.653203,39.245930,28.864903,40.895458/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_foederal-american-monthly_1846-02_27_2&#0036;87/pct:42.653203,39.245930,28.864903,40.895458/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Massachusetts Ploughman and New England Journal of Agriculture (1842-1906)_](https://iiif.archivelab.org/iiif/sim_massachusetts-ploughman-new-england-journal-agriculture_1846-04-04_5_27?page=3)
+## [From _Massachusetts Ploughman and New England Journal of Agriculture (1842-1906)_](https://archive.org/details/sim_massachusetts-ploughman-new-england-journal-agriculture_1846-04-04_5_27/page/n3/model/1up?view=theater)
 
 #### 1846-04-04 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2816,13 +2816,13 @@ was chained ;
   
 Ani! when it could not praise,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_massachusetts-ploughman-new-england-journal-agriculture_1846-04-04_5_27&#0036;3/pct:10.612624,12.692493,11.339728,8.722329/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_massachusetts-ploughman-new-england-journal-agriculture_1846-04-04_5_27&#0036;3/pct:10.612624,12.692493,11.339728,8.722329/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Massachusetts Ploughman and New England Journal of Agriculture (1842-1906)_](https://iiif.archivelab.org/iiif/sim_massachusetts-ploughman-new-england-journal-agriculture_1846-04-04_5_27?page=3)
+## [From _Massachusetts Ploughman and New England Journal of Agriculture (1842-1906)_](https://archive.org/details/sim_massachusetts-ploughman-new-england-journal-agriculture_1846-04-04_5_27/page/n3/model/1up?view=theater)
 
 #### 1846-04-04 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2863,7 +2863,7 @@ lt Grandeur’s guiltw bribe they purned,
 \ home to Virtue’ lap return’d  
 hese feet with angel&#x27;s wings shall vie,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_massachusetts-ploughman-new-england-journal-agriculture_1846-04-04_5_27&#0036;3/pct:10.767327,22.100577,9.359530,9.456208/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_massachusetts-ploughman-new-england-journal-agriculture_1846-04-04_5_27&#0036;3/pct:10.767327,22.100577,9.359530,9.456208/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2934,7 +2934,7 @@ And tread the palace of the aky.
 
 ---
 
-## [From _Friends' Weekly Intelligencer (1844-1853)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1849-02-03_5_45?page=6)
+## [From _Friends' Weekly Intelligencer (1844-1853)_](https://archive.org/details/sim_friends-intelligencer_1849-02-03_5_45/page/n6/model/1up?view=theater)
 
 #### 1849-02-03 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2997,7 +2997,7 @@ And home to Virtue’s lap returne |,
 These feet with Angel&#x27;s wings shal! vie,  
 And tread the Palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1849-02-03_5_45&#0036;6/pct:62.009298,49.926145,20.738636,35.432053/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friends-intelligencer_1849-02-03_5_45&#0036;6/pct:62.009298,49.926145,20.738636,35.432053/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3178,9 +3178,9 @@ They sought the straight and narrow road
 
 ---
 
-## [From _The New England Journal of Medicine 1828-2014_](https://iiif.archivelab.org/iiif/sim_new-england-journal-of-medicine_1852-12-29_47_22?page=7)
+## [From _The New England Journal of Medicine 1828-2014_](https://archive.org/details/sim_new-england-journal-of-medicine_1852-12-29_47_22/page/n7/model/1up?view=theater)
 
-#### 1852-12-29
+#### 1852-12-29 &middot; [Boston, Massachusetts](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3201,13 +3201,13 @@ That eye shall be forever bright
   
 When suns and stars have lost their light.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-journal-of-medicine_1852-12-29_47_22&#0036;7/pct:46.528926,64.536082,28.925620,8.015464/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-england-journal-of-medicine_1852-12-29_47_22&#0036;7/pct:46.528926,64.536082,28.925620,8.015464/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The National Magazine; Devoted to Literature, Art, and Religion (1852-1858)_](https://iiif.archivelab.org/iiif/sim_national-magazine-devoted-to-literature-art-and-religion_1853-04_2_4?page=64)
+## [From _The National Magazine; Devoted to Literature, Art, and Religion (1852-1858)_](https://archive.org/details/sim_national-magazine-devoted-to-literature-art-and-religion_1853-04_2_4/page/n64/model/1up?view=theater)
 
 #### 1853-04-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3232,13 +3232,13 @@ That eye shall be forever bright
   
 When suns and stars have lost their light.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_national-magazine-devoted-to-literature-art-and-religion_1853-04_2_4&#0036;64/pct:46.701954,26.552632,31.066775,10.105263/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_national-magazine-devoted-to-literature-art-and-religion_1853-04_2_4&#0036;64/pct:46.701954,26.552632,31.066775,10.105263/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Medical and Surgical Reporter (1856-1858)_](https://iiif.archivelab.org/iiif/sim_medical-and-surgical-reporter_1856-12_9_12?page=37)
+## [From _Medical and Surgical Reporter (1856-1858)_](https://archive.org/details/sim_medical-and-surgical-reporter_1856-12_9_12/page/n37/model/1up?view=theater)
 
 #### 1856-12-01 &middot; [Burlington](http://dbpedia.org/resource/Burlington%2C_New_Jersey)
 
@@ -3263,7 +3263,7 @@ Once shone the bright and busy eye; And home to virtue’s lap returned ;
 Yet start not at the dismal void! These feet with angel&#x27;s wings shall vie,  
 If social love that eye employed ; And tread the palace of the sky!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_medical-and-surgical-reporter_1856-12_9_12&#0036;37/pct:25.486381,34.232614,62.840467,13.579137/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_medical-and-surgical-reporter_1856-12_9_12&#0036;37/pct:25.486381,34.232614,62.840467,13.579137/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3705,7 +3705,7 @@ To seek Affiction&#x27;s humble she
 
 ---
 
-## [From _Medical and Surgical Reporter (1858-1898)_](https://iiif.archivelab.org/iiif/sim_medical-and-surgical-reporter_1861-02-09_5_19?page=22)
+## [From _Medical and Surgical Reporter (1858-1898)_](https://archive.org/details/sim_medical-and-surgical-reporter_1861-02-09_5_19/page/n22/model/1up?view=theater)
 
 #### 1861-02-09 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -3763,7 +3763,7 @@ And home to Virtue’s cot returned,
 ese feet with angel’s wings shall vie,  
 And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_medical-and-surgical-reporter_1861-02-09_5_19&#0036;22/pct:8.699324,50.221990,35.641892,37.973361/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_medical-and-surgical-reporter_1861-02-09_5_19&#0036;22/pct:8.699324,50.221990,35.641892,37.973361/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3860,7 +3860,7 @@ And tread the palace of the sky
 
 ---
 
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1861-12-14_35_15?page=4)
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1861-12-14_35_15/page/n4/model/1up?view=theater)
 
 #### 1861-12-14 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -3937,7 +3937,7 @@ These feet with angel’s wings shall vie,
   
 And tread the palace of the sky
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1861-12-14_35_15&#0036;4/pct:66.952264,18.957115,23.929009,41.252437/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friend-a-religious-and-literary-journal_1861-12-14_35_15&#0036;4/pct:66.952264,18.957115,23.929009,41.252437/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4032,7 +4032,7 @@ And tread the palace of the sky
 
 ---
 
-## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://iiif.archivelab.org/iiif/sim_friends-review-a-religious-journal_1864-02-27_17_26?page=13)
+## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://archive.org/details/sim_friends-review-a-religious-journal_1864-02-27_17_26/page/n13/model/1up?view=theater)
 
 #### 1864-02-27 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -4092,7 +4092,7 @@ And home to Virtue’s cot returned,
 These feet with angels’ wings shall vie,  
 And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-review-a-religious-journal_1864-02-27_17_26&#0036;13/pct:19.259819,55.514706,30.853474,33.848039/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friends-review-a-religious-journal_1864-02-27_17_26&#0036;13/pct:19.259819,55.514706,30.853474,33.848039/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4140,7 +4140,7 @@ Theeo feet with Angel&#x27;s&#x27;wings shall vie,
 
 ---
 
-## [From _Sixpenny Magazine 1861-1868_](https://iiif.archivelab.org/iiif/sim_sixpenny-magazine_1865-11-01_11_2?page=87)
+## [From _Sixpenny Magazine 1861-1868_](https://archive.org/details/sim_sixpenny-magazine_1865-11-01_11_2/page/n87/model/1up?view=theater)
 
 #### 1865-11-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -4204,7 +4204,7 @@ el’s wings shall vie,
   
 And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_sixpenny-magazine_1865-11-01_11_2&#0036;87/pct:45.569294,42.519160,35.883565,43.368877/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_sixpenny-magazine_1865-11-01_11_2&#0036;87/pct:45.569294,42.519160,35.883565,43.368877/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4548,7 +4548,7 @@ And tread the palace of the sky
 
 ---
 
-## [From _Woodhull and Claflin's Weekly 1870-1876_](https://iiif.archivelab.org/iiif/sim_woodhull-and-claflins-weekly_1871-06-03_3_3?page=2)
+## [From _Woodhull and Claflin's Weekly 1870-1876_](https://archive.org/details/sim_woodhull-and-claflins-weekly_1871-06-03_3_3/page/n2/model/1up?view=theater)
 
 #### 1871-06-03 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4592,7 +4592,7 @@ And home to virtue’s cot returned—
 These feet with angel&#x27;s wings shall rise,  
 And tread the palace of the skies.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_woodhull-and-claflins-weekly_1871-06-03_3_3&#0036;2/pct:38.553922,25.944430,15.686275,16.793759/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_woodhull-and-claflins-weekly_1871-06-03_3_3&#0036;2/pct:38.553922,25.944430,15.686275,16.793759/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4652,7 +4652,7 @@ And trend the palaeo of the sky
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1872-06-27_43_26?page=5)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1872-06-27_43_26/page/n5/model/1up?view=theater)
 
 #### 1872-06-27 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4684,7 +4684,7 @@ knU home to virtue’s cot retnrned.
 These feet with angel’s wings shall vie.  
 And tread the pZlace of the shy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1872-06-27_43_26&#0036;5/pct:13.601645,24.319149,10.663925,7.425532/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_evangelist-and-religious-review_1872-06-27_43_26&#0036;5/pct:13.601645,24.319149,10.663925,7.425532/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5160,7 +5160,7 @@ And tread the palace of the skies.”
 
 ---
 
-## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1878-03_96_573?page=67)
+## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1878-03_96_573/page/n67/model/1up?view=theater)
 
 #### 1878-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -5206,7 +5206,7 @@ And home to virtue’s cot returned—
 These feet with angels’ wings shall rise,  
 And tread the palace of the skies.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1878-03_96_573&#0036;67/pct:16.526074,43.225971,28.949387,30.853783/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_godeys-magazine_1878-03_96_573&#0036;67/pct:16.526074,43.225971,28.949387,30.853783/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5626,7 +5626,7 @@ And tread the palace ol the sky
 
 ---
 
-## [From _Journal of Education 1875-2015_](https://iiif.archivelab.org/iiif/sim_journal-of-education_1881-06-30_14_326?page=7)
+## [From _Journal of Education 1875-2015_](https://archive.org/details/sim_journal-of-education_1881-06-30_14_326/page/n7/model/1up?view=theater)
 
 #### 1881-06-30 &middot; [Boston, Massachusetts](http://dbpedia.org/resource/Boston)
 
@@ -5686,7 +5686,7 @@ And home to Virtue’s cot returned,
 These feet with angel’s wings shall vie  
 And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-education_1881-06-30_14_326&#0036;7/pct:11.620017,38.422927,19.571671,24.498057/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_journal-of-education_1881-06-30_14_326&#0036;7/pct:11.620017,38.422927,19.571671,24.498057/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5784,7 +5784,7 @@ And tread the palace of the sky.
 
 ---
 
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1882-09-30_56_8?page=3)
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1882-09-30_56_8/page/n3/model/1up?view=theater)
 
 #### 1882-09-30 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -5845,7 +5845,7 @@ And home to Virtue’s cot returned,
 These feet with angels’ wings shall vie,  
 And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1882-09-30_56_8&#0036;3/pct:40.773810,41.514861,23.511905,31.975072/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friend-a-religious-and-literary-journal_1882-09-30_56_8&#0036;3/pct:40.773810,41.514861,23.511905,31.975072/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6035,7 +6035,7 @@ And tread the palace of tho sky
 
 ---
 
-## [From _The Physicians' and Surgeons' Investigator; a Monthly Journal Devoted to the Best Interests of the Profession (1880-1889)_](https://iiif.archivelab.org/iiif/sim_physicians-and-surgeons-investigator_1884-11-15_5_11?page=24)
+## [From _The Physicians' and Surgeons' Investigator; a Monthly Journal Devoted to the Best Interests of the Profession (1880-1889)_](https://archive.org/details/sim_physicians-and-surgeons-investigator_1884-11-15_5_11/page/n24/model/1up?view=theater)
 
 #### 1884-11-15 &middot; [Buffalo](http://dbpedia.org/resource/Buffalo%2C_New_York)
 
@@ -6110,7 +6110,7 @@ These feet with angel’s wings shall vie,
   
 And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_physicians-and-surgeons-investigator_1884-11-15_5_11&#0036;24/pct:6.448763,13.725490,85.644876,56.248171/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_physicians-and-surgeons-investigator_1884-11-15_5_11&#0036;24/pct:6.448763,13.725490,85.644876,56.248171/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6490,7 +6490,7 @@ When death unveils eternity.
 
 ---
 
-## [From _Saturday Night 1986-2005_](https://iiif.archivelab.org/iiif/sim_saturday-night_1891-01-31_4_10?page=0)
+## [From _Saturday Night 1986-2005_](https://archive.org/details/sim_saturday-night_1891-01-31_4_10/page/n0/model/1up?view=theater)
 
 #### 1891-01-31 &middot; [Toronto, Canada](http://dbpedia.org/resource/Toronto)
 
@@ -6552,13 +6552,13 @@ These feet with ange) wings shall vie
   
 To tread the palace of the sky
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-night_1891-01-31_4_10&#0036;0/pct:76.931818,74.308568,11.666667,17.095987/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-night_1891-01-31_4_10&#0036;0/pct:76.931818,74.308568,11.666667,17.095987/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Notes and Queries 1849-2014_](https://iiif.archivelab.org/iiif/sim_notes-and-queries_1891-12-19_12_312?page=0)
+## [From _Notes and Queries 1849-2014_](https://archive.org/details/sim_notes-and-queries_1891-12-19_12_312/page/n0/model/1up?view=theater)
 
 #### 1891-12-19 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -6630,13 +6630,13 @@ And home to virtue’s lap return’d ;—
 These feet with angel&#x27;s wings shall vie,  
 And tread the palace of the sky !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_notes-and-queries_1891-12-19_12_312&#0036;0/pct:52.456897,72.597403,29.008621,18.538961/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_notes-and-queries_1891-12-19_12_312&#0036;0/pct:52.456897,72.597403,29.008621,18.538961/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Music Magazine and Musical Courier 1880-1962_](https://iiif.archivelab.org/iiif/sim_music-magazine-and-musical-courier_1893-01-18_26_672?page=15)
+## [From _The Music Magazine and Musical Courier 1880-1962_](https://archive.org/details/sim_music-magazine-and-musical-courier_1893-01-18_26_672/page/n15/model/1up?view=theater)
 
 #### 1893-01-18 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -6695,7 +6695,7 @@ And home to virtue’s cot returned,
 These feet with angels wings shall vie  
 And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_music-magazine-and-musical-courier_1893-01-18_26_672&#0036;15/pct:68.874869,71.311773,18.349106,20.076308/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_music-magazine-and-musical-courier_1893-01-18_26_672&#0036;15/pct:68.874869,71.311773,18.349106,20.076308/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7243,7 +7243,7 @@ And tread the palace of the sky.
 
 ---
 
-## [From _Current Literature (1888-1912)_](https://iiif.archivelab.org/iiif/sim_current-opinion_1897-03_21_3?page=12)
+## [From _Current Literature (1888-1912)_](https://archive.org/details/sim_current-opinion_1897-03_21_3/page/n12/model/1up?view=theater)
 
 #### 1897-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -7304,7 +7304,7 @@ And home to virtue’s cot returned,
 Those feet with angel’s wings shall vie  
 And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_current-opinion_1897-03_21_3&#0036;12/pct:18.918093,7.478070,59.596577,86.337719/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_current-opinion_1897-03_21_3&#0036;12/pct:18.918093,7.478070,59.596577,86.337719/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7395,6 +7395,68 @@ And home to virtue&#x27;s cot returned,
 And tread the palace of the sky
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_arguingmatch_ver02%2Fdata%2Fsn96060765%2F0038334184A%2F1897042401%2F0059.jp2/pct:31.827893,20.486541,12.371441,16.386981/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Los Angeles times._](https://archive.org/details/sim_los-angeles-times_the-los-angeles-times_1898-11-27/page/n36/model/1up?view=theater)
+
+#### 1898-11-27 &middot; [[Los Angeles, Calif.]](http://dbpedia.org/resource/Los_Angeles)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Beneath this smouldering canopy  
+Once shone the bright and busy eye:  
+But start not at the dismal void—  
+If social love that eye employed,  
+If with no lawless fire it gleamed,  
+But through the dews of kin@ness  
+That eye shall be forever bright,  
+When stars and suns are sunk in  
+  
+beamed,  
+night.  
+  
+Within this hollow cavern hung  
+  
+The ready, swift and tuneful tongue;  
+  
+If falsehood’s honey it disdained,  
+  
+And when it could not praise, was chained;  
+If bold in virtue’s cause it spoke,  
+  
+Yet gentle concord never broke,  
+  
+This silent tongue shall plead for thee  
+When Time unveils Eternity.  
+  
+Say, did these fingers delve the mine?  
+Or with its envied rubies shine?  
+  
+To hew the rock or wear the gem,  
+  
+Can little now avail to them.  
+  
+But if the page of Truth they sought,  
+Or comfort to the mourner brought,  
+These hands a richer meed shall claim  
+Than all that wait on Wealth or Fame.  
+  
+These feet the paths of duty trod!  
+  
+If from the bowers of ease they fled  
+  
+To seek affliction’s humble shed; | oh  
+If grandeur’s guilty bribe they spurned,  
+And home to virtue’s cot returned—  
+These feet with angel&#x27;s wings shall vie,  
+And thread the palace of the sky.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_los-angeles-times_the-los-angeles-times_1898-11-27&#0036;36/pct:69.842575,33.317226,16.835056,17.041153/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

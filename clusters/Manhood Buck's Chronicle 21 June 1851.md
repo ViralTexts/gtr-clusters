@@ -52,7 +52,7 @@ Sold also by Mr. W.W. Walker, Hair-dress
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1850-09-21_20_787?page=1)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1850-09-21_20_787/page/n1/model/1up?view=theater)
 
 #### 1850-09-21 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -68,7 +68,7 @@ burgh ; Berry and Co., Capel-street, Dublin; and by all booksellers and chemists
 United Kingdom.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1850-09-21_20_787&#0036;1/pct:8.115942,67.805416,28.140097,2.770781/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_mining-journal_1850-09-21_20_787&#0036;1/pct:8.115942,67.805416,28.140097,2.770781/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -94,7 +94,7 @@ United Kingdom.
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1851-02-15_21_808?page=1)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1851-02-15_21_808/page/n1/model/1up?view=theater)
 
 #### 1851-02-15 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -110,13 +110,13 @@ burgh; Berry and Co., Capel-street, Dublin; and by all booksellers and chemists 
   
 United Kingdom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1851-02-15_21_808&#0036;1/pct:4.836381,61.231203,28.753609,2.850877/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_mining-journal_1851-02-15_21_808&#0036;1/pct:4.836381,61.231203,28.753609,2.850877/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://iiif.archivelab.org/iiif/sim_mining-journal_1851-02-22_21_809?page=1)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1851-02-22_21_809/page/n1/model/1up?view=theater)
 
 #### 1851-02-22 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -131,7 +131,7 @@ Campbell, chemist, 136, Argyle-street, Glasgow ; Robi , Gr ide-street, Edin-
 burgh; Berry and Co., Capel-street, Dublin; and by all booksellers and chemists in the  
 United Kingdom. 41
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_mining-journal_1851-02-22_21_809&#0036;1/pct:5.858245,66.055764,28.688525,3.070175/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_mining-journal_1851-02-22_21_809&#0036;1/pct:5.858245,66.055764,28.688525,3.070175/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1647,7 +1647,7 @@ United Kingdom. 41
 
 ---
 
-## [From _The Economist 1843-2016_](https://iiif.archivelab.org/iiif/sim_economist_1855-12-08_13_641?page=25)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1855-12-08_13_641/page/n25/model/1up?view=theater)
 
 #### 1855-12-08 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -1681,7 +1681,7 @@ sold also by Sherwood, »
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_economist_1855-12-08_13_641&#0036;25/pct:67.061611,82.862454,27.991706,9.869888/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_economist_1855-12-08_13_641&#0036;25/pct:67.061611,82.862454,27.991706,9.869888/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

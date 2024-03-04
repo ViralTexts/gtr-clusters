@@ -1,7 +1,7 @@
 
 # Eloquent Extract
 
-### 244 reprints from 1842-05-01 to 1898-07-23
+### 233 reprints from 1842-05-01 to 1898-07-23
 
 ## [Eloquent Extract](https://chroniclingamerica.loc.gov/lccn/sn98060050/1843-09-08/ed-1/seq-1/)
 
@@ -17,7 +17,7 @@
 
 ---
 
-## [From _The University Magazine 1833-1880_](https://iiif.archivelab.org/iiif/sim_university-magazine_1842-05_19_113?page=73)
+## [From _The University Magazine 1833-1880_](https://archive.org/details/sim_university-magazine_1842-05_19_113/page/n73/model/1up?view=theater)
 
 #### 1842-05-01 &middot; [Dublin, Republic of Ireland](http://dbpedia.org/resource/Dublin)
 
@@ -73,13 +73,13 @@ come—to use the touching language
 of the Psatmist— “forgotten and  
 clean out of mind.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_university-magazine_1842-05_19_113&#0036;73/pct:16.649950,9.589867,69.157472,77.503016/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_university-magazine_1842-05_19_113&#0036;73/pct:16.649950,9.589867,69.157472,77.503016/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1842-06-16_13_24?page=3)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1842-06-16_13_24/page/n3/model/1up?view=theater)
 
 #### 1842-06-16 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -105,13 +105,13 @@ and will not remember to lisp our name; and then
 we have become—to use the touching language* of  
 the Psalmist—“ forgotten and clean out of mind.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1842-06-16_13_24&#0036;3/pct:29.382127,13.741020,12.529833,7.367839/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_evangelist-and-religious-review_1842-06-16_13_24&#0036;3/pct:29.382127,13.741020,12.529833,7.367839/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Knickerbocker; or New York Monthly Magazine (1833-1862)_](https://iiif.archivelab.org/iiif/sim_foederal-american-monthly_1842-07_20_1?page=105)
+## [From _The Knickerbocker; or New York Monthly Magazine (1833-1862)_](https://archive.org/details/sim_foederal-american-monthly_1842-07_20_1/page/n105/model/1up?view=theater)
 
 #### 1842-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -143,7 +143,7 @@ dried, and will glisten again with joy ; and even our children will cease to thi
 remember to lisp our name.’ Then shall we have become, in the touching language of the Psalmist,  
 ‘ forgotten and clean out of mind!’ - - - ‘C. P.’s’ delicacy of censure, though honorable to him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_foederal-american-monthly_1842-07_20_1&#0036;105/pct:19.736842,15.471780,73.926593,68.838527/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_foederal-american-monthly_1842-07_20_1&#0036;105/pct:19.736842,15.471780,73.926593,68.838527/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ Psrdmist, &#x27; forgotten and clean out of rnind!&#x27;
 
 ---
 
-## [From _The Green Mountain Gem; a Monthly Journal of Literature, Science, and the Arts (1843-1849)_](https://iiif.archivelab.org/iiif/sim_green-mountain-gem-a-monthly-journal-of-literature_1843-04-01_1_7?page=2)
+## [From _The Green Mountain Gem; a Monthly Journal of Literature, Science, and the Arts (1843-1849)_](https://archive.org/details/sim_green-mountain-gem-a-monthly-journal-of-literature_1843-04-01_1_7/page/n2/model/1up?view=theater)
 
 #### 1843-04-01 &middot; [Bradford](http://dbpedia.org/resource/Bradford%2C_Vermont)
 
@@ -368,13 +368,13 @@ shall we have become, in the touching
 language of the Psalmist, “forgotten and  
 clean out of mind.” —Knickerbucker
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_green-mountain-gem-a-monthly-journal-of-literature_1843-04-01_1_7&#0036;2/pct:31.026558,22.200072,27.119510,37.640449/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_green-mountain-gem-a-monthly-journal-of-literature_1843-04-01_1_7&#0036;2/pct:31.026558,22.200072,27.119510,37.640449/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1843-06-16_1_24?page=2)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1843-06-16_1_24/page/n2/model/1up?view=theater)
 
 #### 1843-06-16 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -395,13 +395,13 @@ the same attraction for an offspring, yet unborn, things, and on all manner of o
 that she bad once for ourselves, and that she has anything in the world that will make a man feel  
 now for our children; the village urchins will badly, except pinching his fingers in the crack o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1843-06-16_1_24&#0036;2/pct:43.478261,79.291624,31.604084,7.794726/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_evangelist-and-religious-review_1843-06-16_1_24&#0036;2/pct:43.478261,79.291624,31.604084,7.794726/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1843-06-16_1_24?page=2)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1843-06-16_1_24/page/n2/model/1up?view=theater)
 
 #### 1843-06-16 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -429,7 +429,7 @@ we meet with. ®
   
 “Where th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1843-06-16_1_24&#0036;2/pct:43.461792,11.931231,47.957839,79.976732/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_evangelist-and-religious-review_1843-06-16_1_24&#0036;2/pct:43.461792,11.931231,47.957839,79.976732/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -944,7 +944,7 @@ complete removal of the patient to another
 
 ---
 
-## [From _The Huntress._](https://iiif.archivelab.org/iiif/sim_huntress_1846-01-24_9_50?page=1)
+## [From _The Huntress._](https://archive.org/details/sim_huntress_1846-01-24_9_50/page/n1/model/1up?view=theater)
 
 #### 1846-01-24 &middot; [Washington [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
@@ -970,7 +970,7 @@ the House from Va., now a U. S.S. Heis|and our friends will all return and we
 shall be left behind to darkness and the  
 good natuied face would disarm a Nero.| worm. And it may be for some shor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_huntress_1846-01-24_9_50&#0036;1/pct:54.960067,74.113376,41.677175,10.360235/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_huntress_1846-01-24_9_50&#0036;1/pct:54.960067,74.113376,41.677175,10.360235/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1014,6 +1014,55 @@ The bill crantins the Richt of Wav to the
 Baltimore and Ohio Rail Road Comnanv. duss
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn84028793%2F00296026669%2F1846031101%2F0434.jp2/pct:19.071049,73.734940,14.898642,16.725726/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Daily spy._](https://chroniclingamerica.loc.gov/lccn/sn83021203/1846-03-13/ed-1/seq-2)
+
+#### 1846-03-13 &middot; [Worcester [Mass.]](http://dbpedia.org/resource/Worcester%2C_Massachusetts)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+rs are of the neatest amt most  
+improved construction. I understand that the business  
+is greater than was expected, and the stock of the road  
+is above par. The Fail River Road will be connected  
+with this, in the course of a year, and their trains will  
+come this way, instead of passing, as they now do, over  
+the Taunton Branch and Providence Roads. One oh­  
+ject in so doing, will be, to avail themselves of the bene­  
+fits of the more convenient location of the Old Colony  
+Road&#x27;s Depot.  
+Dr. Beard’s Lectures on the Govern­  
+ments of Europe, will commence this evening,  
+at Brinley Hall, at 7 1-2 o’clock.  
+Eloquent Extract. “ Generation after genera­  
+tion,” says a fine writer, “ have felt as we feel now, and  
+their lives were as active as our own. Thev passed  
+away like a vapor, w-hile nature wore the same aspect of  
+beauty as when har Creator commanded her to be. The  
+heavens shall be as bright over our graves as they are  
+now around our paths. The world will have the same  
+attractions for our offspring yet unborn, that she had  
+once for ourselves and that she has now fin our children.  
+Yet a little while and all this will have happened. The  
+throbbing heart will be stilled, and we shall be at rest.  
+Our funeral will wind its way, and the prayers will be  
+said, and our friends will all return, and we shall be left  
+i,ehind in silence and darkness, for the worm. And it  
+may be for a short time that we shall I e spoken of. hut  
+the things of life will creep in, and our names will soon  
+be forgotten. Days will continue tornote on, and lat%h­  
+ter and song will be heard in the room in « hiclr we died ;  
+and the eye that mounted for us will be dried, and glisten  
+again with joy; and even our children will cease to  
+think of us, and will not remember to lisp our names.  
+Then shall we have become, in the touching language of  
+the Psalmist, ‘ forgotten and clean out of mmd.’ 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mb_circe_ver01%2Fdata%2Fsn83021203%2F00517172091%2F1846031301%2F0200.jp2/pct:10.920066,20.714471,19.760990,23.207330/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1123,11 +1172,9 @@ tive in life as we are now. They have pass­
 ed away as vapor, while nature wore the  
 same aspect of beatity &#x27;as when her Creator  
 commanded her to be. The heavens shall  
-be as bright over our graves as they are now  
-  
-around our paths. -The world Will have
+be as bright over our graves as they are now
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn84020019%2F00295877571%2F1846041001%2F0210.jp2/pct:37.764823,32.747158,13.976966,6.197727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn84020019%2F00295877571%2F1846041001%2F0210.jp2/pct:37.764823,32.747158,13.976966,5.586532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1185,7 +1232,7 @@ will net remember to lisp our nain
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1846-04-23_17_17?page=3)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1846-04-23_17_17/page/n3/model/1up?view=theater)
 
 #### 1846-04-23 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1197,9 +1244,11 @@ writer, “ have felt as we feel, and their fellows were as
 active as our own. They passed away like a vapor,  
 while nature wore the same aspect of beauty as when  
 her Creator commanded her to be. The heavens shall  
-I be as bright over our graves as they are now around
+I be as bright over our graves as they are now around  
+  
+of their town hall for temperance meetings, togethe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1846-04-23_17_17&#0036;3/pct:18.291090,65.448822,12.437941,2.489745/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_evangelist-and-religious-review_1846-04-23_17_17&#0036;3/pct:5.617978,62.415339,25.111053,5.523228/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1262,7 +1311,7 @@ have felt as we feel, and their fellows wer
 
 ---
 
-## [From _The true American._](https://iiif.archivelab.org/iiif/xt7wh707xj1t?page=3)
+## [From _The true American._](https://archive.org/details/xt7wh707xj1t/page/n3/model/1up?view=theater)
 
 #### 1846-05-13 &middot; [Lexington, Ky.](http://dbpedia.org/resource/Lexington%2C_Kentucky)
 
@@ -1297,13 +1346,13 @@ dried, and glisten again with joy ; and even
 our children will cease to think of us, and  
 will not remember to lisp our names.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7wh707xj1t&#0036;3/pct:4.206139,74.393764,12.694202,14.289838/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7wh707xj1t&#0036;3/pct:4.206139,74.393764,12.694202,14.289838/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Christian secretary._](https://iiif.archivelab.org/iiif/sim_christian-secretary_1846-05-15_9_10?page=3)
+## [From _Christian secretary._](https://archive.org/details/sim_christian-secretary_1846-05-15_9_10/page/n3/model/1up?view=theater)
 
 #### 1846-05-15 &middot; [Hartford [Conn.]](http://dbpedia.org/resource/Hartford%2C_Connecticut)
 
@@ -1343,13 +1392,13 @@ this will have happened. The throbbing | nesses cf all kinds, Nervous affections
 heart will be stifled, and we be at rest. Our oon . = ’ pdt tendon Rhee  
 funeral will wind on its way, and our friends | tism, Hemorrhoids, Piles, Worms, Diseases of U,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-secretary_1846-05-15_9_10&#0036;3/pct:64.942227,74.682368,25.827206,10.102262/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_christian-secretary_1846-05-15_9_10&#0036;3/pct:64.942227,74.682368,25.827206,10.102262/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Casket. Devoted to Literature, Science, the Arts, News, &c. (1846-1846)_](https://iiif.archivelab.org/iiif/sim_casket-devoted-to-literature-science-the-arts-news-etc_1846-05-20_1_6?page=1)
+## [From _The Casket. Devoted to Literature, Science, the Arts, News, &c. (1846-1846)_](https://archive.org/details/sim_casket-devoted-to-literature-science-the-arts-news-etc_1846-05-20_1_6/page/n1/model/1up?view=theater)
 
 #### 1846-05-20 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
@@ -1386,7 +1435,7 @@ OMe erences
   
 Shi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_casket-devoted-to-literature-science-the-arts-news-etc_1846-05-20_1_6&#0036;1/pct:67.764523,6.510220,27.982365,81.964421/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_casket-devoted-to-literature-science-the-arts-news-etc_1846-05-20_1_6&#0036;1/pct:67.764523,6.510220,27.982365,81.964421/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1430,7 +1479,7 @@ j otir names.
 
 ---
 
-## [From _Christian secretary._](https://iiif.archivelab.org/iiif/sim_christian-secretary_1846-07-17_9_19?page=0)
+## [From _Christian secretary._](https://archive.org/details/sim_christian-secretary_1846-07-17_9_19/page/n0/model/1up?view=theater)
 
 #### 1846-07-17 &middot; [Hartford [Conn.]](http://dbpedia.org/resource/Hartford%2C_Connecticut)
 
@@ -1441,13 +1490,13 @@ _  taaaton; ae Rear branch Mil preemie A. Easier a member of A. B. M. U. . Rel? 
 ee eee. Sylvia Katty, per Rev. aly concert, per Rev.Mr. Howard, ==! Sn egigg] «&gt;it wa duke nol note, &quot;30 48| friends will return, and we shall be Jeft to darkness. And it) Conspicuous and foremost among the pv adndy wre Mente Bow Ail 4  
 ~~ er by Gowriemen. oie Tolland he » Bt Coe ee “ aa] rite vst 10 00 «“ Balance to new aect..19 23) may be for a short time that we shall be spoken of, but the lights of our moral firmament is the Tem- are the cause of it. You alow 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-secretary_1846-07-17_9_19&#0036;0/pct:0.000000,87.668067,98.490021,3.592437/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_christian-secretary_1846-07-17_9_19&#0036;0/pct:0.000000,87.668067,98.490021,3.592437/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Christian Parlor Magazine (1844-1855)_](https://iiif.archivelab.org/iiif/sim_christian-parlor-magazine_1846-12?page=25)
+## [From _Christian Parlor Magazine (1844-1855)_](https://archive.org/details/sim_christian-parlor-magazine_1846-12/page/n25/model/1up?view=theater)
 
 #### 1846-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1478,7 +1527,7 @@ and glisten again with joy; and even our
 children will cease to think of us, and will  
 not remember to lisp our names.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_christian-parlor-magazine_1846-12&#0036;25/pct:17.920712,71.948118,71.116505,16.480163/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_christian-parlor-magazine_1846-12&#0036;25/pct:17.920712,71.948118,71.116505,16.480163/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1613,13 +1662,9 @@ soon be forgotten. Days will continue to
 move on, and laughter and song will be in the  
 place in which we have died: and the eve that  
 moaned for us will b dried and glisten again  
-with joy; and even onr children will cease to  
-think of us, aud will not remember to lisp our  
-names.  
-Elegant Extract. &quot;He who would un­  
-dermine those foundations upon which th
+with joy; and even onr children will cease t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_harrison_ver01%2Fdata%2Fsn82015672%2F00296021805%2F1848122001%2F0605.jp2/pct:60.252625,36.216751,16.961942,16.322269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_harrison_ver01%2Fdata%2Fsn82015672%2F00296021805%2F1848122001%2F0605.jp2/pct:60.252625,36.216751,16.961942,13.321609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1833,9 +1878,17 @@ will continue to move on, and laughter and
 j songs will be heard in the place in which we  
 ! died, and the eyes that mourned for us will be  
 I dried, and glisten again with joy; and even  
-our children will cease to think of us and lor
+our children will cease to think of us and lor-  
+jget to lisp our names.  
+,  
+Do Good. Thousands of men breathe, move  
+anu l.lve. Pass 011 &quot;,p- !ge 01 uie, una are  
+j  
+heard 01 no more. Why f I hey uo not a  
+particle of good in the world, and none were  
+blessed by them, none could point to them a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026192%2F00280775770%2F1856030801%2F0867.jp2/pct:61.342043,8.204614,27.464371,21.825476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026192%2F00280775770%2F1856030801%2F0867.jp2/pct:61.342043,8.204614,27.612827,28.365095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2149,13 +2202,6 @@ joy: and even our children will cease t
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-1 An Eloquent Extract.—“ Generation  
-after generation,” says a fine writer, “have  
-felt as we feel now, and their Kves were as  
-1 active as our own. They passed away like  
-r a vapor, while Nature wore the same aspect  
-[ of beauty as when her Creator commanded  
-5 her to be. The heavens shall be ‘as bright  
 L over our graves as they are now aroUnd our  
 paths. The world will have the same at­  
 -1 tractions for our offspring yet unborn, that  
@@ -2179,7 +2225,7 @@ member to lisp our names. Then we shall
 become, in the touching language of the  
 Psalmist, ‘forgotten and out of mind.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_elsberg_ver02%2Fdata%2Fsn89060060%2F00415624293%2F1858081901%2F0284.jp2/pct:78.422020,64.499495,15.069310,17.084956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_elsberg_ver02%2Fdata%2Fsn89060060%2F00415624293%2F1858081901%2F0284.jp2/pct:78.422020,68.639117,15.069310,12.945334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2278,61 +2324,6 @@ mind.”
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-ELEGANT EXTRACT.  
-Generation after generation,&quot; says  
-a fine writer, have felt us as we feel  
-I now, and their lives were as active as  
-&#x27;our own. They passed away like a  
-meteor as when the Creator command­  
-ed light to be. The heavens shall be  
-its bright over our graves as they are  
-now around our paths. The work&#x27;  
-  
-at the prospect ot recognizing the ., threatens to make war upon another  
-possibility that he was ever going to  
-  
-o  
-  
-0-  
-  
-sll  
-  
-,&quot;nborn&#x27;^th^t&#x27;3it^ had  
-  
-d|jl(  
-  
-fhe reader will readily divine what  
-followed. Sally was heiress to the, ... .... ..  
-..., e i and the prayers will be said, ami our  
-whole of Ins immense estates .lot....  
-  
-y  
-  
-1  
-  
-reu wi  
-  
-n  
-  
-ot lit*Ie  
-  
-while and all this will have happened. .th«  
-  
-The throbbing heart will finduT^v,
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn82014141%2F00279529455%2F1858093001%2F0415.jp2/pct:65.099976,59.948869,30.454011,13.266470/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _St. Charles City Republican intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn82014141/1858-09-30/ed-1/seq-1)
-
-#### 1858-09-30 &middot; [St. Charles City [Charles City], Iowa](http://dbpedia.org/resource/Charles_City%2C_Iowa)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
 its rival, and when such a company  
 tlircatens to make war upon anothei  
   
@@ -2365,40 +2356,6 @@ with Thomas Jefferson, at his resi-1 we shall become, in the Umclmig lan-,
 dencc in &quot;Virginia. It was in the ffuagc of the Psalmist, forgotten and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn82014141%2F00279529455%2F1858093001%2F0415.jp2/pct:65.151729,63.748279,30.675135,11.052114/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Newbern weekly progress._](https://chroniclingamerica.loc.gov/lccn/sn84026547/1858-10-28/ed-1/seq-4)
-
-#### 1858-10-28 &middot; [Newbern, N.C.](http://dbpedia.org/resource/New_Bern%2C_North_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-9 A!s Eloquent Extract. Generation . afteif  
-generation,&#x27; says a fine writer, &#x27; have felt as we  
-now feel, and their lives were as active as our  
-own. They passed like a vaper. while jSfWMk  
-worethe same aspect of beauty as when her Ore ri­  
-tor commanded her to be. The heavens shall be  
-as bright Over Our graves aathey are now around  
-our paths. The world will have the same attrac­  
-tion, for our offspring yet unborn, thaPnH  
-once for our children. Yet a little w&#x27;hilejfiM  
-will have happened. The throbbing he9  
-be stifled, and we shall he at rest. Uurj  
-will wind its way, and the prayers will  
-and then we shall be left behind in sile  
-darkness for the worm. And it may be for a  
-time we shall be spoken of, but the fchihii&#x27;S of  
-life will creep in, and our names will soon be for­  
-gotten. Days will continue to move on, an  
-laughter and song will be heard in; the otH in  
-which we died; and the eye that mourned for u
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_price_ver01%2Fdata%2Fsn84026547%2F00296022962%2F1858102801%2F0005.jp2/pct:60.973908,62.930005,16.534115,10.330982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2663,20 +2620,6 @@ gotten and clean gone out of tuiud.&quot;
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-ilfgaut Extract.  
-Generation after generation ssys a fine  
-Writer have felt as we feel now, and their  
-fives were as active as our own. They pas­  
-sed away like a meteor, as when the Crea­  
-tor commanded light to be. The heavens  
-shall be as bright over our graves as they  
-are now over our paths. The world will  
-litre the same at&#x27;tr&#x27;actions for our offspring  
-vet unborn, that had ones for our children-  
-  
-Tet a little while, olid alTttua will have hap­  
-pened. The throbtnnfjf heart will find its  
-  
 wav. nnd ihe prayers will be said,&#x27; and our  
   
 friends will all returii&#x27;, and we shall be left  
@@ -2701,7 +2644,7 @@ durnamesj Then we shall become, la the
 touching language of the Psalmist, &quot;Forgot  
 . ten and clean gone but of mind.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_gann_ver01%2Fdata%2Fsn83035102%2F0029602708A%2F1859031001%2F0260.jp2/pct:4.581530,74.593308,12.770563,16.783494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_gann_ver01%2Fdata%2Fsn83035102%2F0029602708A%2F1859031001%2F0260.jp2/pct:4.581530,82.370057,12.770563,9.006745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2898,31 +2841,6 @@ mist. “forgotten and clean gone out of mind.
 
 ---
 
-## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1859-05-07/ed-1/seq-1)
-
-#### 1859-05-07 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-which ber Creator commanded her to be.  
-The heavens shall be as bright over our  
-graves as they are now around our paths.  
-Tho world m ill have the same attraction  
-for our ofl-prirg yet nnborn, that she bad  
-once for our children. Yet a little while, and  
-all will have huppeued the) throbbing heart  
-Will be sillied and we ahull be at resl. Our  
-funeral will wind ils way, and the pr-iyei.  
-will be Said, and then we shall be loft behiud  
-in silence and darkness for the worm. An
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776038%2F1859050701%2F0690.jp2/pct:56.592701,79.956338,12.726939,5.130304/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Arkansas true Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014282/1859-05-11/ed-1/seq-3)
 
 #### 1859-05-11 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
@@ -2996,41 +2914,6 @@ ing Dutch maiden, who was tending bar in
 
 ---
 
-## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1859-05-19/ed-1/seq-1)
-
-#### 1859-05-19 &middot; [Towanda, Pa.](http://dbpedia.org/resource/Towanda%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-AN ELOQUENT EXTRACT.—Generation after  
-generation,&quot; says a fiue writer, &quot; have felt as  
-we now feel, and their lives were as active as  
-our own. They passed like a vapor, while na­  
-ture wore the same aspect of beauty as that  
-her Creator commanded her to be. The heavens  
-shall be as bright over our graves as they are  
-now around our paths. The world will have  
-tig; same attraction for our offspring yet onboru  
-that she had once for our children. Yet a lit­  
-tle while, and all will have happened—the  
-throbbing heart will be stifled and we shall be  
-rest. Our funeral will wind its way, and tho  
-prayers will be said, and then we shall be left  
-behind in silence and darkness for the worm.  
-And it may be, for a short time we shall be  
-spoken of, but the things of life will creep in,  
-und our names will soon be forgotten. Days  
-will contiuue to move on, and laughter and  
-song will be heard in the room in which we  
-died ; and the e
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028642%2F1859051901%2F0206.jp2/pct:76.613904,40.473523,14.664804,11.677496/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84026561/1859-05-25/ed-1/seq-1)
 
 #### 1859-05-25 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
@@ -3065,7 +2948,6 @@ pened. Roll back thc billowy tide of time!
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-wore the same aspect cf beauty as when I  
 her Creator commanded her to be. The  
 heavens shall be as bright over our  
 graves as they are now around our paths.  
@@ -3083,7 +2965,7 @@ but the things of life will creep in, and
 our name will soon be  
 f.r&#x27;.n ri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286893%2F1859052501%2F0402.jp2/pct:61.758691,55.891931,11.011483,9.419853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286893%2F1859052501%2F0402.jp2/pct:61.758691,56.567362,10.775523,8.744422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3096,11 +2978,6 @@ f.r&#x27;.n ri
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-I AN ELOQUENT EXTRACT.—&quot;Generation afi  
-ter generation,&quot; .says a fine writer, &quot; have  
-fell as we now lebl, and their lives \VCre a*  
-active as our own. They passed iiko a va­  
-por, while nature wore the same aspect of  
 beauty us that her Creator commanded her  
 |to be. Ihe heavens shall be as bright over  
 , our graves as they are now around our  
@@ -3124,7 +3001,7 @@ cease tu think of us, and will not remem­
 ber to lisp our names.&quot;  
 &quot;MIPS BROVVN. I have beer, to learn ho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hershey_ver01%2Fdata%2Fsn85025182%2F0029602840A%2F1859060101%2F0456.jp2/pct:80.797231,67.938392,12.119585,16.532429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hershey_ver01%2Fdata%2Fsn85025182%2F0029602840A%2F1859060101%2F0456.jp2/pct:80.797231,70.985823,12.119585,13.484998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3504,6 +3381,7 @@ Licuens. And os the earth&#x27;s first mercy, s
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
 fine writer, &quot;have felt as we now feel, and  
 their lives were as active as onr own.  
 They passed away like a vapor, while  
@@ -3539,42 +3417,7 @@ not remember to lisp our names.&quot;
 
 ---
 
-## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1861-05-18/ed-1/seq-1)
-
-#### 1861-05-18 &middot; [Grand Rapids [i.e. Wisconsin Rapids], Wis.](http://dbpedia.org/resource/Wisconsin_Rapids%2C_Wisconsin)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-An Eloquent Extract.—“ Gener­  
-ation after generation have ,felt as wo  
-now feel, and their lives were as active  
-as our own. They pass like vapor,  
-while nature wore the same aspect of  
-beauty as when her Creator comman­  
-ded her to be. The heavens shall be as  
-bright over our graves as they are now  
-around our paths. The world will  
-have the same attractions for those who  
-shall live after us, that it had once for  
-our progenitors. Yet a little while,  
-and all will have happened. The  
-throbbing heart will be stifled and we  
-shall be at rest. Our funeral will wind  
-its way, and the prayers will bo said,  
-and then we shall be left alone in the  
-darkness for the worms. And it may  
-be for a short time, we shall be spoken  
-of, but the things of life will creep in,  
-and our names will soon be forgotten
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769416%2F1861051801%2F0443.jp2/pct:80.175557,77.426985,13.738465,12.566845/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://iiif.archivelab.org/iiif/sim_independent_1861-09-26_13_669?page=6)
+## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1861-09-26_13_669/page/n6/model/1up?view=theater)
 
 #### 1861-09-26 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3634,7 +3477,7 @@ to lisp our name. Then shall we have become, tn
 the touching language of the Psalmist, ‘ forgotten  
 and clean out of mind.’ ”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_independent_1861-09-26_13_669&#0036;6/pct:73.979058,63.995462,13.115183,11.293317/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_independent_1861-09-26_13_669&#0036;6/pct:73.979058,63.995462,13.115183,11.293317/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4409,7 +4252,7 @@ onr children will cease to think of us, and
 
 ---
 
-## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1867-12-07_10_239?page=22)
+## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://archive.org/details/sim_london-reader-of-literature-science-art-and-general_1867-12-07_10_239/page/n22/model/1up?view=theater)
 
 #### 1867-12-07 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -4434,13 +4277,13 @@ mourned for us will be dried and will glistem with
 joy ; and even our children will cease to think of us,  
 and will not remember to lisp our name.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1867-12-07_10_239&#0036;22/pct:60.368098,13.120567,25.276074,13.497340/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_london-reader-of-literature-science-art-and-general_1867-12-07_10_239&#0036;22/pct:60.368098,13.120567,25.276074,13.497340/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://iiif.archivelab.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1868-01_28_1?page=73)
+## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://archive.org/details/sim_ladies-repository-a-monthly-periodical-devoted-to_1868-01_28_1/page/n73/model/1up?view=theater)
 
 #### 1868-01-01 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
@@ -4476,13 +4319,13 @@ cease to think of us, and will not remember to Hsp
   
 our name
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1868-01_28_1&#0036;73/pct:53.161337,41.288610,34.520349,20.608108/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1868-01_28_1&#0036;73/pct:53.161337,41.288610,34.520349,20.608108/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Kentucky sentinel._](https://iiif.archivelab.org/iiif/xt7c2f7jqr32?page=3)
+## [From _The Kentucky sentinel._](https://archive.org/details/xt7c2f7jqr32/page/n3/model/1up?view=theater)
 
 #### 1868-03-19 &middot; [Mount Sterling, Ky.](http://dbpedia.org/resource/Mount_Sterling%2C_Kentucky)
 
@@ -4509,7 +4352,7 @@ and the eye that mourned for ns will be dry
 and will glisten for joy; and oven our chil-  
 dren will cease to think of us, and will no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7c2f7jqr32&#0036;3/pct:18.909024,55.077553,12.429068,12.979222/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7c2f7jqr32&#0036;3/pct:18.909024,55.077553,12.429068,12.979222/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4766,41 +4609,6 @@ ot the impeachment of Presiden
 
 ---
 
-## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1868-06-04/ed-1/seq-1)
-
-#### 1868-06-04 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-An Eloquent Extract.   
-“Generation alter generation,” sayt, a  
-fine writer, “have felt as wo now feel, and  
-their lives were as active as our own. They  
-passed like vapor, while nature wore the  
-t mie aspect of beauty as when her Creator  
-command her to be. The heavens shall be  
-as bright over our graves as they are now  
-around our paths. The world will have the  
-same attractions for our off spring yet un­  
-born as it had once for our children. Yet  
-a little while, and all will have happened.  
-The throbbing heart will ba stifled, and all  
-will be at rest Ou.’ funeral will wind its  
-way, and prayers will be said, and then we  
-ehail be left alone in silence and drakness  
-for the worms. And, it may be, for a short  
-time we shall be spoken of but the things  
-cf life will creep in, and our names will soon  
-be forgotten. Days will continue to move  
-ou, and laughter and song will be heard i
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85033123%2F00514151209%2F1868060401%2F0161.jp2/pct:49.173593,84.316300,11.106334,9.494109/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## We Fade as a Leaf
 
 #### From _The Hinds County gazette._
@@ -4851,6 +4659,39 @@ to lisp onr names.
 
 ---
 
+## From _Vermont watchman and State journal._
+
+#### 1868-06-17 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Generation after generation, says an eloquent  
+modern writer, have felt as we teed, and their  
+fellows were as active in life as ours are now  
+They passed away as vapor, while nature  
+wore the same aspect of beauty as when her  
+nd so, like.  
+grone. Ihe  
+heaveps will be as bright over our graves as  
+they wre now around our path; the world  
+lwill have the same attraction for off.  
+spring yet unborn that she had once for  
+ourselves, and that she has now for our chil  
+dren. Yet a little while and all this will  
+have happened! Days will continue to move  
+on, and laughter and song will be heard in  
+the very chamber in which we died, and the  
+eyes that mourned for us will be dry and will  
+clisten with joy; and even our children will  
+cease to think of us, and will not remember  
+to lisp our names.  
+A Mother&#x27;s Inflnence.  
+Mothers, think not that you have no i
+</td></tr></table>
+
+---
+
 ## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1868-06-20/ed-1/seq-1)
 
 #### 1868-06-20 &middot; [Ashtabula, Ohio](http://dbpedia.org/resource/Ashtabula%2C_Ohio)
@@ -4883,38 +4724,6 @@ of us, and will not remember to lisp our
 name.-Littl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn83035216%2F00280775174%2F1868062001%2F0215.jp2/pct:68.976728,41.409810,12.354552,13.240418/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1868-06-25/ed-1/seq-1)
-
-#### 1868-06-25 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-world will have the same attractions for  
-our off-springs yet unborn as itliad once  
-for our children. Yet a little while, and  
-all will have happened. The throbbing  
-heart will be stifled, and all will be at  
-rest. Our funeral will wind its way. and  
-prayers will be said, and then wc shall be  
-left alone in silence and darkness for the  
-worms. And, it may be, for a short time  
-we shall be spoken of, but the things of  
-life will creep in,and our names will soon  
-be forgotten. Days will continue to move  
-on, and laughter and song will be heard  
-in the room in which we died ; and the  
-eye that mourned for us will be dried,and  
-glisten again -wit h joy ; and even our chil­  
-dren will cease to think of us, and will  
-not remember to lisp our names.”
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85033123%2F00514151209%2F1868062501%2F0173.jp2/pct:84.204513,39.553552,11.111111,8.137233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5502,53 +5311,6 @@ out of mind.
 
 ---
 
-## [From _The Tarboro' southerner._](https://chroniclingamerica.loc.gov/lccn/sn84026522/1869-05-13/ed-1/seq-1)
-
-#### 1869-05-13 &middot; [Tarboro', N.C.](http://dbpedia.org/resource/Tarboro%2C_North_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-their lips as it is well established by  
-popular belief, that sweet things epoil  
-the teeth.  
-  
-I S .  
-Passing Away.  
-Generation after generation savs a  
-wiiter, have lelt. as we feel, aud  
-their own livei were as active as our  
-own. They passed liLe vapor, while  
-nature wore tha same ar.ppct of beautv  
-as when the Creator commanded tier to  
-be. The heavens shall bo as blight  
-over our graves as they are now around  
-our paths. The world will have the  
-same attractions for ancestors. Yet a  
-little while and al! this will have hap­  
-pened. The throbbing heart will be  
-stilled, and all will bo at rest. Our  
-funeral will wind its ;yay, aud prayers  
-will be said, and then we will be left  
-alone iu silence and darkness fur the  
-worm. Aud it may be fur a short time  
-we shall be spoken ol, but the thin;&quot;? of  
-lire will creep in aud our names will  
-soon be forgotten. Days will continue  
-to move en, and laughter a id soug will  
-be heard in the room in which we died;  
-and the eye that inourceu for us will  
-be dried and glisten again with joy;  
-and even&#x27; our children will cease &quot;to  
-think of us, and wili not remember to  
-lisp our names. Thus spake a though
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84026522%2F00296023139%2F1869051301%2F0289.jp2/pct:50.369941,14.187281,21.572610,82.717723/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1869-05-20/ed-1/seq-1)
 
 #### 1869-05-20 &middot; [Anderson Court House, S.C.](http://dbpedia.org/resource/Anderson%2C_South_Carolina)
@@ -5646,7 +5408,7 @@ ten and clean out of in.ml.&quot;
 
 ---
 
-## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1869-08_79_470?page=26)
+## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1869-08_79_470/page/n26/model/1up?view=theater)
 
 #### 1869-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -5679,7 +5441,7 @@ the very chamber in which we died; and the
 eyes will glisten again with joy; and even our  
 children will cease to think of us, and will no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1869-08_79_470&#0036;26/pct:50.039185,58.080937,35.854232,30.593026/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_godeys-magazine_1869-08_79_470&#0036;26/pct:50.039185,58.080937,35.854232,30.593026/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6800,16 +6562,6 @@ cares for him, and that he is alone in
 
 ---
 
-## How we Fade
-
-#### From _Idaho signal._
-
-#### 1873-04-05 &middot; [Lewiston, North Idaho](http://dbpedia.org/resource/Lewiston%2C_Idaho)
-
-[This text is not available under an open license.]
-
----
-
 ## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1873-05-09/ed-1/seq-6)
 
 #### 1873-05-09 &middot; [Paw Paw, Mich.](http://dbpedia.org/resource/Paw_Paw%2C_Michigan)
@@ -6924,29 +6676,6 @@ One of tho greatest evils of tho world i
 
 ---
 
-## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1873-12-10/ed-1/seq-3)
-
-#### 1873-12-10 &middot; [Somerset, Pa.](http://dbpedia.org/resource/Somerset%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-rMiie tii-st ot the year.  
-  
-; her to be. The heavens will be as bright  
-over our graves as they are now around  
-our path; the world has the wmc attrac­  
-tions for ofl.-aiings yet unlKirn, that bhe  
--once has for ourselves, and that she has  
-now lor our children.  
-The Litti.u Cokpoiial comes to us thi
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776464%2F1873121001%2F0322.jp2/pct:2.205659,37.846050,29.601460,11.006077/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028821/1874-02-26/ed-1/seq-4)
 
 #### 1874-02-26 &middot; [Millersburg, Holmes Co., O. [Ohio]](http://dbpedia.org/resource/Millersburg%2C_Ohio)
@@ -7017,17 +6746,6 @@ mat sno nas now lor our children.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-An Eloquent Extract.&quot; Genera­  
-tion after generation,&quot; says a fine writer,  
-&quot; have felt as we now feel, and their  
-lives were as active as our own. Tbey  
-passed like vapor, while Nature wore the  
-same aspect of beauty as when her Cre­  
-ator commanded ber to be. The heav­  
-ens shall be as bright over our graves as  
-they are now aroond our paths. The  
-world has the same attractions for our  
-offspring yet unborn as she had once for  
 our children. Yet a little while all will  
 have happened. The throbbing heart  
 will be stilled, and all will be at rest  
@@ -7049,7 +6767,7 @@ The nature of the good angels is an
 humble, loving and kindly nature. &#x27; An  
 angel&#x27;s is a fine, tender, kind heart A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628481%2F1874080701%2F0556.jp2/pct:66.989899,58.723784,13.090909,20.764540/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628481%2F1874080701%2F0556.jp2/pct:66.989899,65.982448,13.090909,13.505875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7113,7 +6831,7 @@ our children.
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1874-11-14_54_16?page=2)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1874-11-14_54_16/page/n2/model/1up?view=theater)
 
 #### 1874-11-14 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -7154,13 +6872,13 @@ giisten again with joy; amd even our
 children will cease to think of us, and  
 Will met remember to lisp our mam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1874-11-14_54_16&#0036;2/pct:77.682737,67.786885,13.802488,14.207650/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-evening-post_1874-11-14_54_16&#0036;2/pct:77.682737,67.786885,13.802488,14.207650/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1874-11-14_54_16?page=4)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1874-11-14_54_16/page/n4/model/1up?view=theater)
 
 #### 1874-11-14 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -7198,7 +6916,7 @@ Days will
 laughter will be heard in the very cham-  
 ber in which we died; and the eyes wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1874-11-14_54_16&#0036;4/pct:49.321179,66.639344,41.582622,13.770492/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-evening-post_1874-11-14_54_16&#0036;4/pct:49.321179,66.639344,41.582622,13.770492/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7462,7 +7180,7 @@ names.
 
 ---
 
-## [From _Woodhull and Claflin's Weekly 1870-1876_](https://iiif.archivelab.org/iiif/sim_woodhull-and-claflins-weekly_1875-06-05_10_1?page=5)
+## [From _Woodhull and Claflin's Weekly 1870-1876_](https://archive.org/details/sim_woodhull-and-claflins-weekly_1875-06-05_10_1/page/n5/model/1up?view=theater)
 
 #### 1875-06-05 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -7479,19 +7197,9 @@ around our path; the world has the same attraction for off-
 spring yet unborn that she once had for ourselves, and that  
 she now has for our children.--The Telegram.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_woodhull-and-claflins-weekly_1875-06-05_10_1&#0036;5/pct:36.918459,65.627911,27.451226,6.452706/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_woodhull-and-claflins-weekly_1875-06-05_10_1&#0036;5/pct:36.918459,65.627911,27.451226,6.452706/600,/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## The Sunday-School
-
-#### From _Southwestern advocate._
-
-#### 1875-06-17 &middot; [New Orleans, La.](http://dbpedia.org/resource/New_Orleans)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -7611,46 +7319,9 @@ to be. Tlie heavens will bo as bright over
 our graves as they are now around our  
 patli; the world has tlie same attraction  
 for our offspring yet unborn that she once  
-bad for ourselves, and that she now lias for  
-our children
+bad for ourselves, and that she now lias fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625509%2F1875121001%2F0407.jp2/pct:62.187014,80.136379,10.952340,5.461984/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1876-02-26/ed-1/seq-4)
-
-#### 1876-02-26 &middot; [Elkton, Md.](http://dbpedia.org/resource/Elkton%2C_Maryland)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-after generation have felt as we now  
-feel, ami their lives wore as active as  
-our own. They passed like a vapor,  
-while nature wore the same aspect of  
-beauty as when her Creator commanded  
-her to be. The heavens shall be as  
-bright over our graves as they are now  
-around our paths. Earth will have  
-the same attraction for our offspring  
-unborn that she once had for us as chil­  
-dren. Yet a iittio while, and all will  
-have happened. The throbbing heart  
-will be stilled and we shall be at rest.  
-Our funeral will wind its way, and  
-prayers will be said, and then we shall  
-lie left alone in silence and in darkness  
-i for the worms. And it may be for a  
-short time we shall be spoken of, but  
-the things of life will creep in, and our  
-names will soon bo forgotten. Days  
-will continue to move on, and laughter  
-and song will he heard in the room i
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624542%2F1876022601%2F0326.jp2/pct:15.171452,53.049358,11.363339,14.753212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625509%2F1875121001%2F0407.jp2/pct:62.187014,80.136379,10.952340,5.042618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8713,47 +8384,6 @@ of us and will not remember to lisp our
 name. Thun quickly will pass he memor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_agave_ver01%2Fdata%2Fsn84024828%2F00211100618%2F1893123001%2F0135.jp2/pct:8.262247,49.865027,17.206922,15.266947/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Newtown bee._](https://chroniclingamerica.loc.gov/lccn/sn92051487/1896-03-20/ed-1/seq-8)
-
-#### 1896-03-20 &middot; [Newtown, Conn.](http://dbpedia.org/resource/Newtown%2C_Connecticut)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-theirs. &quot;Generation aft r generation.&quot;  
-says an eloquent writer, &quot;has felt as vi  
-now feel, ami their lives w ere as active as  
-our o&#x27;.vn. They passed away like a  
-vapor, while nature wore th same as  
-pcet of beauty, as now, and lovelir.e.-  
-crowned the hour. The heavens ehali  
-be as btiglit over our graves, as they are  
-now arouna our paths. The world wiil  
-have the same attractions for cur cfT  
-spring yet unborn, as ?he had for us  
-when children. Vet a little while, ud  
-all will have happened. The throbbing  
-heart will be at rest. Our funeral will  
-wind its way, and prayers will be said;  
-and then we shall be left alone, in si­  
-lence and daikness for the worms; and,  
-it may be, a short time we shall be spok  
-en of, bu&quot;, the things of life will creep in,  
-and our names will soon be forgotton.  
-Days will continue to move on, and  
-laughter and song will be heard in the  
-roooi in which wc died; and the eyes  
-that mourned for us will be dried, and  
-glisten again for joy; and even our  
-children will cease to think of us, and  
-will not remember the lisp of names.&quot;
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_maple_ver01%2Fdata%2Fsn92051487%2F00271763244%2F1896032001%2F0099.jp2/pct:66.153105,52.630205,10.913176,14.332333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

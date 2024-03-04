@@ -47,7 +47,7 @@ A CANADIAN PHRASE.—Canada&#x27;s bright and sensible governer-general, Lord Du
 
 ---
 
-## [From _The Spectator 1828-2014_](https://iiif.archivelab.org/iiif/sim_spectator-uk_1874-09-26_47_2413?page=0)
+## [From _The Spectator 1828-2014_](https://archive.org/details/sim_spectator-uk_1874-09-26_47_2413/page/n0/model/1up?view=theater)
 
 #### 1874-09-26 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -67,7 +67,7 @@ ing thump on the back by a stalwart young emigrant, who cried
 out, ‘ Right you are, Sir! That’s what I’ve been telling Emily.’”  
 In every line Lord Dufferin gives proof of the long-transmitte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_spectator-uk_1874-09-26_47_2413&#0036;0/pct:46.251673,64.950712,38.688086,12.245345/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_spectator-uk_1874-09-26_47_2413&#0036;0/pct:46.251673,64.950712,38.688086,12.245345/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ the newspapers, and now one hears everywhere:
 
 ---
 
-## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1874-12_50_295?page=148)
+## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1874-12_50_295/page/n148/model/1up?view=theater)
 
 #### 1874-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -244,13 +244,13 @@ anecdote made familiar ‘by going the round of
 the papers, and one hears every where, ‘‘ That&#x27;s  
 what I&#x27;ve been telling Emily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1874-12_50_295&#0036;148/pct:11.430678,10.614669,66.297935,70.041322/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_harpers-magazine_1874-12_50_295&#0036;148/pct:11.430678,10.614669,66.297935,70.041322/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1874-12_50_295?page=148)
+## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1874-12_50_295/page/n148/model/1up?view=theater)
 
 #### 1874-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -267,7 +267,7 @@ perhaps no better idea could be given of the dif- | consider her case. On the mo
 ferences between the old country and their new | woman was punctual in her attendance. His  
 home than by the fact that whereas in England | electrical apparatus being in readiness, with grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1874-12_50_295&#0036;148/pct:11.467552,80.655992,66.740413,11.544421/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_harpers-magazine_1874-12_50_295&#0036;148/pct:11.467552,80.655992,66.740413,11.544421/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1217,7 +1217,7 @@ telling L.raily. Harper i
 
 ---
 
-## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1875-02-06_6_207?page=13)
+## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1875-02-06_6_207/page/n13/model/1up?view=theater)
 
 #### 1875-02-06 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1231,7 +1231,7 @@ This is what gave rise to the phrase, and
 now one hears it everywhere. ‘‘That’s what  
 I’ve been telling Emily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1875-02-06_6_207&#0036;13/pct:7.809168,43.118401,21.295309,3.582202/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_school-journal_1875-02-06_6_207&#0036;13/pct:7.809168,43.118401,21.295309,3.582202/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

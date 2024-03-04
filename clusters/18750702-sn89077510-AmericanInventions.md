@@ -1,7 +1,7 @@
 
 # American Inventions
 
-### 172 reprints from 1872-10-24 to 1891-01-17
+### 173 reprints from 1872-10-24 to 1891-01-17
 
 ## [American Inventions](https://chroniclingamerica.loc.gov/lccn/sn89077510/1875-08-21/ed-1/seq-1/)
 
@@ -261,7 +261,7 @@ of which the large capabilities are yet to
 
 ---
 
-## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1874-01-10_18_889?page=6)
+## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1874-01-10_18_889/page/n6/model/1up?view=theater)
 
 #### 1874-01-10 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -276,13 +276,13 @@ ited enlargement of the breadth of the web, The
   
 - planing-machine is American. Navigation by stea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1874-01-10_18_889&#0036;6/pct:72.702569,82.238931,19.886364,3.525480/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_harpers-magazine_1874-01-10_18_889&#0036;6/pct:72.702569,82.238931,19.886364,3.525480/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Harper's weekly journal of civilization._](https://iiif.archivelab.org/iiif/sim_harpers-weekly_1874-01-10_18_889?page=6)
+## [From _Harper's weekly journal of civilization._](https://archive.org/details/sim_harpers-weekly_1874-01-10_18_889/page/n6/model/1up?view=theater)
 
 #### 1874-01-10 &middot; [New York, N.Y.](http://dbpedia.org/resource/New_York_City)
 
@@ -317,7 +317,7 @@ gauge-lathe, the grain-clevator, are all believed to have
 originated in this country. The artificial manufacture  
 of ice was firet invented by an American; and the es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-weekly_1874-01-10_18_889&#0036;6/pct:72.077603,84.126181,19.646365,8.704453/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_harpers-weekly_1874-01-10_18_889&#0036;6/pct:72.077603,84.126181,19.646365,8.704453/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -454,7 +454,7 @@ and the essential features anl mos
 
 ---
 
-## [From _Republic; A Monthly Magazine Devoted to the Dissemination of Political Information 1873-1877_](https://iiif.archivelab.org/iiif/sim_republic-a-monthly-magazine_1875-02_4_2?page=54)
+## [From _Republic; A Monthly Magazine Devoted to the Dissemination of Political Information 1873-1877_](https://archive.org/details/sim_republic-a-monthly-magazine_1875-02_4_2/page/n54/model/1up?view=theater)
 
 #### 1875-02-01
 
@@ -483,13 +483,13 @@ America. The machine-manufacture of horse-
 shoes is American. The sand-blast, of which  
 the large capabilities are yet to be 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_republic-a-monthly-magazine_1875-02_4_2&#0036;54/pct:3.700000,35.798267,38.450000,23.019802/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_republic-a-monthly-magazine_1875-02_4_2&#0036;54/pct:3.700000,35.798267,38.450000,23.019802/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Appletons' Journal of Literature, Science and Art (1869-1876)_](https://iiif.archivelab.org/iiif/sim_appletons-journal-a-magazine-of-general-literature_1875-06-19_13_326?page=28)
+## [From _Appletons' Journal of Literature, Science and Art (1869-1876)_](https://archive.org/details/sim_appletons-journal-a-magazine-of-general-literature_1875-06-19_13_326/page/n28/model/1up?view=theater)
 
 #### 1875-06-19 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -522,7 +522,7 @@ ean. The sand-biast is American. The
 gauge-lathe is American. The only successful  
 composing-machine for printers is American
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_appletons-journal-a-magazine-of-general-literature_1875-06-19_13_326&#0036;28/pct:33.013699,8.879648,54.075342,82.852250/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_appletons-journal-a-magazine-of-general-literature_1875-06-19_13_326&#0036;28/pct:33.013699,8.879648,54.075342,82.852250/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1034,9 +1034,9 @@ for printers
 
 ---
 
-## [From _Chilton's Iron Age 1873-1983_](https://iiif.archivelab.org/iiif/sim_chiltons-iron-age_1875-10-07_16_15?page=4)
+## [From _Chilton's Iron Age 1873-1983_](https://archive.org/details/sim_chiltons-iron-age_1875-10-07_16_15/page/n4/model/1up?view=theater)
 
-#### 1875-10-07
+#### 1875-10-07 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1074,13 +1074,13 @@ The electro-magnet, and its practical applica-
 tion, by Henry and Morse. 15. The only suc-  
 cessful composing machine for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_chiltons-iron-age_1875-10-07_16_15&#0036;4/pct:72.419859,72.846238,16.536357,19.547437/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_chiltons-iron-age_1875-10-07_16_15&#0036;4/pct:72.419859,72.846238,16.536357,19.547437/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1875-10-09_6_234?page=5)
+## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1875-10-09_6_234/page/n5/model/1up?view=theater)
 
 #### 1875-10-09 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1139,7 +1139,7 @@ practical application, by Henry and Mors,
 15. the only successful composing machine  
 for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1875-10-09_6_234&#0036;5/pct:77.158849,17.251131,19.323028,31.315988/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_school-journal_1875-10-09_6_234&#0036;5/pct:77.158849,17.251131,19.323028,31.315988/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1214,7 +1214,7 @@ Itfor priutera is American. The grai
 
 ---
 
-## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1875-11-20_53_47?page=5)
+## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://archive.org/details/sim_albion-a-journal-of-news-politics-and-literature_1875-11-20_53_47/page/n5/model/1up?view=theater)
 
 #### 1875-11-20 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1260,7 +1260,7 @@ practical application, by Henry and Morse.
 15. the only successful composing machine  
 for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1875-11-20_53_47&#0036;5/pct:75.311791,52.210253,20.011338,27.581724/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1875-11-20_53_47&#0036;5/pct:75.311791,52.210253,20.011338,27.581724/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1598,7 +1598,7 @@ machine for prihters
 
 ---
 
-## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1876-02-19_8_244?page=0)
+## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1876-02-19_8_244/page/n0/model/1up?view=theater)
 
 #### 1876-02-19 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1644,7 +1644,7 @@ large scale. 14. The electro-magnet, and its
 practical application, by Henry and Morse.  
 15. The only successful composing machine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1876-02-19_8_244&#0036;0/pct:70.235602,61.214070,20.916230,29.273828/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_school-journal_1876-02-19_8_244&#0036;0/pct:70.235602,61.214070,20.916230,29.273828/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1881,7 +1881,7 @@ machine for printers. It is not ofte
 
 ---
 
-## [From _American Machinist 1877-2009_](https://iiif.archivelab.org/iiif/sim_american-machinist_1879-08-30_2_17?page=2)
+## [From _American Machinist 1877-2009_](https://archive.org/details/sim_american-machinist_1879-08-30_2_17/page/n2/model/1up?view=theater)
 
 #### 1879-08-30 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1906,7 +1906,7 @@ large scale; fourteenth, the electro-magnet
 and its practical application; fifteenth, the  
 composing machine for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-machinist_1879-08-30_2_17&#0036;2/pct:8.616928,10.789149,19.633508,13.825524/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_american-machinist_1879-08-30_2_17&#0036;2/pct:8.616928,10.789149,19.633508,13.825524/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2456,7 +2456,7 @@ tvator. 1J. Artificial ice makin
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1880-06-17_50_25?page=6)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1880-06-17_50_25/page/n6/model/1up?view=theater)
 
 #### 1880-06-17 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2479,7 +2479,7 @@ fourteenth, the electro-magnet and its practical
 application ; fifteenth, the composing machine  
 for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1880-06-17_50_25&#0036;6/pct:48.244048,55.671098,13.735119,6.668096/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_evangelist-and-religious-review_1880-06-17_50_25&#0036;6/pct:48.244048,55.671098,13.735119,6.668096/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2558,7 +2558,7 @@ the composing machine for printers. I
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1881-01-27_52_4?page=6)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1881-01-27_52_4/page/n6/model/1up?view=theater)
 
 #### 1881-01-27 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2577,7 +2577,7 @@ ing on a large scale; 14. The electric magnet
 and its practical application. 15. The compos¬  
 ing machine for printers. A sixteenth must b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1881-01-27_52_4&#0036;6/pct:22.419725,33.565609,13.274083,4.888508/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_evangelist-and-religious-review_1881-01-27_52_4&#0036;6/pct:22.419725,33.565609,13.274083,4.888508/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3102,7 +3102,7 @@ horse-shoes.
 
 ---
 
-## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1884-08-16_28_5?page=3)
+## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1884-08-16_28_5/page/n3/model/1up?view=theater)
 
 #### 1884-08-16 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3120,13 +3120,13 @@ The grain elevator. 13. Artificial ice making on a
 large scale. 14. The electro-magnet and its prac-  
 tical application. 15. The telephone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1884-08-16_28_5&#0036;3/pct:65.758048,75.461538,27.829699,9.980769/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_school-journal_1884-08-16_28_5&#0036;3/pct:65.758048,75.461538,27.829699,9.980769/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1884-09_79_3?page=50)
+## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1884-09_79_3/page/n50/model/1up?view=theater)
 
 #### 1884-09-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -3152,7 +3152,7 @@ teenth, the electro-magnet and its practical
 application ; fifteenth, the composing ma-  
 chine for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1884-09_79_3&#0036;50/pct:46.961806,69.671659,34.201389,19.585253/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_phrenological-journal-and-science-of-health_1884-09_79_3&#0036;50/pct:46.961806,69.671659,34.201389,19.585253/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3310,7 +3310,34 @@ tiicial ice making on a large scale
 
 ---
 
-## [From _Frank Leslie's illustrated newspaper._](https://iiif.archivelab.org/iiif/sim_leslies-weekly_1887-08-13_64_1665?page=10)
+## [From _The Osceola times._](https://chroniclingamerica.loc.gov/lccn/sn84022982/1887-08-13/ed-1/seq-1)
+
+#### 1887-08-13 &middot; [Osceola, Ark.](http://dbpedia.org/resource/Osceola%2C_Arkansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+tions of world-wide adoption are: 1,  
+The cotton gin; 2, planing niacliine;  
+3, the grass mower anil reaper; 4,  
+the rotary printing press; 5, naviga­  
+tion by steam; ff, the hot air engine;  
+7, tfie sewing machine; 8, the India  
+rubber industry; 5, the machine man­  
+ufacture of horse-shoes; 10, the sand­  
+blast for carving; 11, the gauge  
+lathe; 12, the grain elevator; 13, ar­  
+tificial manufacture of ice on a largo  
+scale; 14, the electric magnet and  
+its practical application; 15, the tel
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_galactic_ver01%2Fdata%2Fsn84022982%2F00513688659%2F1887081301%2F1044.jp2/pct:31.993336,51.247450,12.291757,7.740991/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Frank Leslie's illustrated newspaper._](https://archive.org/details/sim_leslies-weekly_1887-08-13_64_1665/page/n10/model/1up?view=theater)
 
 #### 1887-08-13 &middot; [New York, N.Y.](http://dbpedia.org/resource/New_York_City)
 
@@ -3327,7 +3354,7 @@ ing ; 11, the gauge lathe ; 12, the grain elevator ;
 13, artificial ice-making on a large scale ; 14, the  
 electric magnet and its practical application ; and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_leslies-weekly_1887-08-13_64_1665&#0036;10/pct:45.629529,53.902116,19.338768,5.208333/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_leslies-weekly_1887-08-13_64_1665&#0036;10/pct:45.629529,53.902116,19.338768,5.208333/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3440,7 +3467,7 @@ the grain elevator; 13, artificial ice-making on
 
 ---
 
-## [From _Zion's Herald (1868-1910)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1887-09-07_64_36?page=6)
+## [From _Zion's Herald (1868-1910)_](https://archive.org/details/sim_zions-herald_1887-09-07_64_36/page/n6/model/1up?view=theater)
 
 #### 1887-09-07 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -3457,7 +3484,7 @@ shoes; 10, the sandblast for carving;
 | 11, the gauge lathe; 12, the grain ele-  
 vator; 13, artificial ice-making on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1887-09-07_64_36&#0036;6/pct:20.443645,38.112446,12.185252,4.229993/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_zions-herald_1887-09-07_64_36&#0036;6/pct:20.443645,38.112446,12.185252,4.229993/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3473,7 +3500,7 @@ vator; 13, artificial ice-making on
 
 ---
 
-## [From _American: A National Journal 1880-1900_](https://iiif.archivelab.org/iiif/sim_american-a-national-journal_1887-09-10_14_370?page=14)
+## [From _American: A National Journal 1880-1900_](https://archive.org/details/sim_american-a-national-journal_1887-09-10_14_370/page/n14/model/1up?view=theater)
 
 #### 1887-09-10 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
@@ -3488,7 +3515,7 @@ the sewing machine; 8, the india-rubber industry ; 9, the machine manu.
 facture of horseshoes; 10, the sand-blast for carving; 11, the gauge lathe:  
 12, the grain elevator; 13, artificial ice-making on a large scale ; 14 th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-a-national-journal_1887-09-10_14_370&#0036;14/pct:47.204301,42.730210,36.102151,4.745557/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_american-a-national-journal_1887-09-10_14_370&#0036;14/pct:47.204301,42.730210,36.102151,4.745557/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3540,7 +3567,7 @@ elevator; 13, artificial ice making on
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1887-09-15_58_37?page=6)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1887-09-15_58_37/page/n6/model/1up?view=theater)
 
 #### 1887-09-15 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3555,7 +3582,7 @@ machine manufacture ot horseshoes; 10, the sand¬
 blast for carving; 11, the gauge lathe; 12, the  
 grain elevator; 13, artificial ice-making on a larg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1887-09-15_58_37&#0036;6/pct:36.001816,79.522110,14.058717,2.865175/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_evangelist-and-religious-review_1887-09-15_58_37&#0036;6/pct:36.001816,79.522110,14.058717,2.865175/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4632,9 +4659,9 @@ grain elevator; 13, artificial ice
 
 ---
 
-## [From _Industry Week 1880-2016_](https://iiif.archivelab.org/iiif/sim_industry-week_1888-05-03_21_19?page=10)
+## [From _Industry Week 1880-2016_](https://archive.org/details/sim_industry-week_1888-05-03_21_19/page/n10/model/1up?view=theater)
 
-#### 1888-05-03
+#### 1888-05-03 &middot; [Cleveland, Ohio](http://dbpedia.org/resource/Cleveland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4650,7 +4677,7 @@ industry ; 9, the machine manufacture of horseshoes;
 10, the sand blast for carving; 11, the gauge lathe; 12,  
 the grain elevator; 13, artificial ice making on a larg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_industry-week_1888-05-03_21_19&#0036;10/pct:61.542056,50.287940,25.911215,8.756775/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_industry-week_1888-05-03_21_19&#0036;10/pct:61.542056,50.287940,25.911215,8.756775/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4740,7 +4767,7 @@ blast&#x27;for carving. 11. The gauge-lathe.
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1888-10-04_59_40?page=7)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1888-10-04_59_40/page/n7/model/1up?view=theater)
 
 #### 1888-10-04 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4758,7 +4785,7 @@ chine manufacture of horseshoes; 10, The sand¬
 blast for carving; 11, The gauge-lathe; 12, The  
 grain elevator; 13, Artifictal ice-making on a larg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1888-10-04_59_40&#0036;7/pct:23.967890,75.989673,13.317087,4.442771/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_evangelist-and-religious-review_1888-10-04_59_40&#0036;7/pct:23.967890,75.989673,13.317087,4.442771/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

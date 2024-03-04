@@ -1,7 +1,7 @@
 
 # Educate Your Daughters
 
-### 151 reprints from 1849-07-28 to 1870-06-15
+### 153 reprints from 1849-07-28 to 1870-06-15
 
 ## [Educate Your Daughters](http://chroniclingamerica.loc.gov/lccn/sn83035487/1850-03-16/ed-1/seq-4/)
 
@@ -123,7 +123,7 @@ Rev. S. Dyer.
 
 ---
 
-## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://iiif.archivelab.org/iiif/sim_independent_1850-02-07_2_62?page=3)
+## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1850-02-07_2_62/page/n3/model/1up?view=theater)
 
 #### 1850-02-07 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -151,13 +151,13 @@ lightened where the mothers are not, to a good
 degree, qualified to discharge the duties of the  
 “home work of education.—” Rev. S. Dyer.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_independent_1850-02-07_2_62&#0036;3/pct:61.623037,67.887205,10.615183,8.291246/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_independent_1850-02-07_2_62&#0036;3/pct:61.623037,67.887205,10.615183,8.291246/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The North star._](https://iiif.archivelab.org/iiif/sim_frederick-douglass-paper_1850-02-08_3_7?page=2)
+## [From _The North star._](https://archive.org/details/sim_frederick-douglass-paper_1850-02-08_3_7/page/n2/model/1up?view=theater)
 
 #### 1850-02-08 &middot; [Rochester, N.Y.](http://dbpedia.org/resource/Rochester%2C_New_York)
 
@@ -188,7 +188,7 @@ in the Union.
   
 Mr. Seward gave notice that be wopM, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_frederick-douglass-paper_1850-02-08_3_7&#0036;2/pct:22.401909,36.632231,45.241251,8.605372/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_frederick-douglass-paper_1850-02-08_3_7&#0036;2/pct:22.401909,36.632231,45.241251,8.605372/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ ol educution. IUv. S. Dyer
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1850-03-21_23_47?page=3)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1850-03-21_23_47/page/n3/model/1up?view=theater)
 
 #### 1850-03-21 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -281,7 +281,7 @@ the mothers are not to a good degree qualified
 to discharge the duties of the “ home work of  
 education.”—Rev. S. Dyer.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1850-03-21_23_47&#0036;3/pct:54.825462,27.940141,20.636550,14.806338/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1850-03-21_23_47&#0036;3/pct:54.825462,27.940141,20.636550,14.806338/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ ktaism
 
 ---
 
-## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1851-04-26_3_9?page=15)
+## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1851-04-26_3_9/page/n15/model/1up?view=theater)
 
 #### 1851-04-26 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -475,7 +475,7 @@ fully and permanently civilized and enlightened,
 when the mothers are not, to a good degree, quali-  
 fied to discharge the duties of home education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-england-farmer-a-monthly-journal_1851-04-26_3_9&#0036;15/pct:19.796380,45.513460,35.180995,22.308076/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-england-farmer-a-monthly-journal_1851-04-26_3_9&#0036;15/pct:19.796380,45.513460,35.180995,22.308076/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -501,7 +501,7 @@ fied to discharge the duties of home education.
 
 ---
 
-## [From _Colman's rural world and valley farmer._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1851-06_3_6?page=30)
+## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1851-06_3_6/page/n30/model/1up?view=theater)
 
 #### 1851-06-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -530,7 +530,7 @@ lized and enlightened, when the mothers are not,
 to a good degree, qualified to discharge the du-  
 ties of home education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1851-06_3_6&#0036;30/pct:48.823925,67.041522,36.626344,21.561419/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_colmans-rural-world_1851-06_3_6&#0036;30/pct:48.823925,67.041522,36.626344,21.561419/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -978,7 +978,7 @@ of the home work of education.
 
 ---
 
-## [From _The flag of our Union._](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1855-01-06_10_1?page=1)
+## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1855-01-06_10_1/page/n1/model/1up?view=theater)
 
 #### 1855-01-06 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -1001,13 +1001,13 @@ were all like the mother, and soon the father lost
 his interest in both wife and children. ‘  
 | now,’ said he, ‘if we could educate only one class
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1855-01-06_10_1&#0036;1/pct:61.003717,78.460100,12.788104,6.935786/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_flag-of-our-union_1855-01-06_10_1&#0036;1/pct:61.003717,78.460100,12.788104,6.935786/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1855-06-14_29_8?page=3)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1855-06-14_29_8/page/n3/model/1up?view=theater)
 
 #### 1855-06-14 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1036,7 +1036,7 @@ enlightened where the mothers are not, toa
 good degree, qualified to discharge the duties  
 of the home work of education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1855-06-14_29_8&#0036;3/pct:53.128286,11.170213,20.846477,14.574468/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1855-06-14_29_8&#0036;3/pct:53.128286,11.170213,20.846477,14.574468/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1387,6 +1387,38 @@ he, &#x27;if «e could educate only one class
 of our childien we fbould choose the  
 girls for whon they become mothers they  
 would educato their son-«.&#x27; 
+</td></tr></table>
+
+---
+
+## From _Vermont watchman and State journal._
+
+#### 1857-02-20 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+says: &quot;When I lived among the Choctaw  
+Indians I held a consultation with one of  
+their chiefs respecting the successive stages  
+of their progress in the arts of civilized life;  
+and among other things he informed me that  
+at their first start they made a great mistake  
+they only sent their boys to school. These  
+boys became intelligent men, but they mar  
+ried uneducated and uncivilized wives, and  
+the uniform result was that the children were  
+all like the mother. Thus the father soon  
+lost all his interest in both wife and children.  
+And now,&quot; said he, &quot;if we would educate but  
+one class of our children, we should choose  
+the girls, for when they become mothers they  
+would educate their sons.&quot;This is the point,  
+and it is true. No nation can become fully  
+and permanently civilized and enlightened,  
+when the mothers are not in a good degree  
+qualified to discharge the duties of the home  
+work of education
 </td></tr></table>
 
 ---
@@ -1749,7 +1781,7 @@ education
 
 ---
 
-## [From _Tri-weekly commonwealth._](https://iiif.archivelab.org/iiif/xt7f4q7qr46k?page=2)
+## [From _Tri-weekly commonwealth._](https://archive.org/details/xt7f4q7qr46k/page/n2/model/1up?view=theater)
 
 #### 1857-08-03 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
@@ -1776,7 +1808,7 @@ ei&gt; are not. in a good degree, qualified to dis- 1
 charge the duties of (he home-work of educa  
 tion 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7f4q7qr46k&#0036;2/pct:5.876951,83.661553,14.493419,9.102359/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7f4q7qr46k&#0036;2/pct:5.876951,83.661553,14.493419,9.102359/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2102,7 +2134,7 @@ work of education,
 
 ---
 
-## [From _The Universalist Quarterly and General Review (1844-1891)_](https://iiif.archivelab.org/iiif/sim_universalist-quarterly-and-general-review_january-october-1858_15?page=238)
+## [From _The Universalist Quarterly and General Review (1844-1891)_](https://archive.org/details/sim_universalist-quarterly-and-general-review_january-october-1858_15/page/n238/model/1up?view=theater)
 
 #### 1858-01-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2127,7 +2159,7 @@ must be qualified to discharge the duties of the home-
 work of education. However competent for any special  
 work in the intellectual field of human existence woma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_universalist-quarterly-and-general-review_january-october-1858_15&#0036;238/pct:16.931217,15.187891,66.137566,27.087683/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_universalist-quarterly-and-general-review_january-october-1858_15&#0036;238/pct:16.931217,15.187891,66.137566,27.087683/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2622,7 +2654,7 @@ education.
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://iiif.archivelab.org/iiif/sim_scientific-american_1859-07-30_1_5?page=2)
+## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1859-07-30_1_5/page/n2/model/1up?view=theater)
 
 #### 1859-07-30 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2651,7 +2683,7 @@ mothers are not in a good degree qualified to discharge
   
 the duties of the home-work of education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_scientific-american_1859-07-30_1_5&#0036;2/pct:34.431940,75.082992,26.580922,15.602421/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_scientific-american_1859-07-30_1_5&#0036;2/pct:34.431940,75.082992,26.580922,15.602421/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2828,7 +2860,7 @@ ties of the bom work of education
 
 ---
 
-## [From _Lady's Home Magazine (1857-1860)_](https://iiif.archivelab.org/iiif/sim_arthurs-home-magazine_1859-09_14?page=40)
+## [From _Lady's Home Magazine (1857-1860)_](https://archive.org/details/sim_arthurs-home-magazine_1859-09_14/page/n40/model/1up?view=theater)
 
 #### 1859-09-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2854,7 +2886,7 @@ can become fully enlightened, when mothers are
 not in a good degree qualified to discharge the  
 duties of the home work of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_arthurs-home-magazine_1859-09_14&#0036;40/pct:11.565836,61.293008,36.610320,21.642619/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_arthurs-home-magazine_1859-09_14&#0036;40/pct:11.565836,61.293008,36.610320,21.642619/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2928,7 +2960,7 @@ the bouse work of education.&#x27;
 
 ---
 
-## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1859-09-24_16_28?page=13)
+## [From _Friends' Intelligencer (1853-1910)_](https://archive.org/details/sim_friends-intelligencer_1859-09-24_16_28/page/n13/model/1up?view=theater)
 
 #### 1859-09-24 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2958,7 +2990,7 @@ true. No nation can become fully enlightened,
 celebrated in physics for the invention of the! when mothers are not in a good degree quali-  
 thermometer, held it as a principle that a healthy | fied to discharge the duties of the hom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1859-09-24_16_28&#0036;13/pct:16.757812,16.721082,75.273438,23.577425/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friends-intelligencer_1859-09-24_16_28&#0036;13/pct:16.757812,16.721082,75.273438,23.577425/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3146,7 +3178,7 @@ education
 
 ---
 
-## [From _National Principia 1858-1866_](https://iiif.archivelab.org/iiif/sim_national-principia_1860-06-16_1_31?page=7)
+## [From _National Principia 1858-1866_](https://archive.org/details/sim_national-principia_1860-06-16_1_31/page/n7/model/1up?view=theater)
 
 #### 1860-06-16 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3183,7 +3215,7 @@ gence.
 in a good degree qualified to discharge the duties of %  
 homework of education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_national-principia_1860-06-16_1_31&#0036;7/pct:41.964286,15.183718,51.926692,18.858069/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_national-principia_1860-06-16_1_31&#0036;7/pct:41.964286,15.183718,51.926692,18.858069/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3359,7 +3391,7 @@ Long Sermons ?Rev. Wm Taylor, i
 
 ---
 
-## [From _The Louisville daily courier._](https://iiif.archivelab.org/iiif/xt734t6f2g5n?page=1)
+## [From _The Louisville daily courier._](https://archive.org/details/xt734t6f2g5n/page/n1/model/1up?view=theater)
 
 #### 1861-01-23 &middot; [Louisville, Ky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
@@ -3390,7 +3422,7 @@ ers a rr not in a good degree qualified to
 discharge the duties of the home work of  
 education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt734t6f2g5n&#0036;1/pct:25.229730,77.876468,9.405405,7.309852/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt734t6f2g5n&#0036;1/pct:25.229730,77.876468,9.405405,7.309852/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3559,7 +3591,7 @@ enlightened when mothers are no
 
 ---
 
-## [From _Twice a Week. An Illustrated London Journal of Entertaining Literature and Useful Information 1862_](https://iiif.archivelab.org/iiif/sim_twice-a-week-an-illustrated-london-journal_1862-08-20_1_31?page=7)
+## [From _Twice a Week. An Illustrated London Journal of Entertaining Literature and Useful Information 1862_](https://archive.org/details/sim_twice-a-week-an-illustrated-london-journal_1862-08-20_1_31/page/n7/model/1up?view=theater)
 
 #### 1862-08-20
 
@@ -3579,13 +3611,13 @@ he, ‘if we would educate but one class of our children,
 we would choose the girls; for when they become mothers,  
 they educate their sons.’ This is the point, and it is true
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_twice-a-week-an-illustrated-london-journal_1862-08-20_1_31&#0036;7/pct:39.702309,56.495205,27.430134,7.802964/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_twice-a-week-an-illustrated-london-journal_1862-08-20_1_31&#0036;7/pct:39.702309,56.495205,27.430134,7.802964/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://iiif.archivelab.org/iiif/sim_independent_1863-02-05_15_740?page=6)
+## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1863-02-05_15_740/page/n6/model/1up?view=theater)
 
 #### 1863-02-05 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3612,7 +3644,7 @@ when mothers are not in a good degree qualified
 to discharge the duties of the home-work of edu-  
 cation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_independent_1863-02-05_15_740&#0036;6/pct:9.201571,69.522241,12.984293,8.618204/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_independent_1863-02-05_15_740&#0036;6/pct:9.201571,69.522241,12.984293,8.618204/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3812,7 +3844,7 @@ triie:: Nb nation can beooome fully ei
 
 ---
 
-## [From _American Phrenological Journal (1838-1869)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1864-12_40_6?page=9)
+## [From _American Phrenological Journal (1838-1869)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1864-12_40_6/page/n9/model/1up?view=theater)
 
 #### 1864-12-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -3837,7 +3869,7 @@ choose the girls, for when they become mothers,
 they educate their sons. This is the point, and it  
 is true. No nation can become fully enlightene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1864-12_40_6&#0036;9/pct:67.419738,49.787335,23.900119,17.367675/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_phrenological-journal-and-science-of-health_1864-12_40_6&#0036;9/pct:67.419738,49.787335,23.900119,17.367675/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4202,6 +4234,39 @@ and it is true. No nation can become full
 
 ---
 
+## From _Vermont watchman and State journal._
+
+#### 1865-03-03 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Dos&#x27;r Foaoar Yoa Grans. When I  
+lived among the Choctaw Indians, (says a  
+traveller,) I held a consultation with one of  
+their chiefs respecting the stages of their pro  
+gress in the arts of civilized life, and among  
+other things he informed me that at their start  
+they made a great mistake -they only sent  
+their boys to school. These boys came home  
+intelligent men, but they married uneducated  
+and uncivilized wives; and the uniform result  
+was the children were all like their mothers.  
+The father soon lost all his interest both in  
+wife and children. And now, said he, if we  
+would educate but one class of our children,  
+we would choose the girls, for when they be  
+come mothers, they educate their sons. This  
+is the point, and it is trne. No nation can  
+become fully enlightened when mothers are  
+not qualified to discharge the duties ot home  
+work of education. Parents, give your dsugh  
+ters, as well as your sons, the best education  
+in your power
+</td></tr></table>
+
+---
+
 ## [From _Lamoille newsdealer._](https://chroniclingamerica.loc.gov/lccn/sn84023428/1865-03-08/ed-1/seq-1)
 
 #### 1865-03-08 &middot; [Hyde Park, Vt.](http://dbpedia.org/resource/Hyde_Park_(town)%2C_Vermont)
@@ -4283,7 +4348,7 @@ are not qualified to discharge the dutie
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1865-08-24_36_34?page=0)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1865-08-24_36_34/page/n0/model/1up?view=theater)
 
 #### 1865-08-24 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4303,13 +4368,13 @@ jjrle, for when they become mothers, they
 httneate their sons. This is the point, and  
 It is true. No nation can become folly en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1865-08-24_36_34&#0036;0/pct:7.354839,87.385531,13.064516,6.192766/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_evangelist-and-religious-review_1865-08-24_36_34&#0036;0/pct:7.354839,87.385531,13.064516,6.192766/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Arthur's Home Magazine (1861-1870)_](https://iiif.archivelab.org/iiif/sim_arthurs-home-magazine_1865-09_26?page=33)
+## [From _Arthur's Home Magazine (1861-1870)_](https://archive.org/details/sim_arthurs-home-magazine_1865-09_26/page/n33/model/1up?view=theater)
 
 #### 1865-09-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -4344,7 +4409,7 @@ children to come unto me,” the shivering, @ children. ‘And now,” says he, 
 half naked children who, a few weeks before, ¢ educate but one class of our children, we should  
 for when they become mo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_arthurs-home-magazine_1865-09_26&#0036;33/pct:25.740132,64.563365,68.256579,17.651757/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_arthurs-home-magazine_1865-09_26&#0036;33/pct:25.740132,64.563365,68.256579,17.651757/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4415,7 +4480,7 @@ best education in yonr power
 
 ---
 
-## [From _American Freedmen's Bulletin 1864-1866_](https://iiif.archivelab.org/iiif/sim_american-freedmens-bulletin_1866-01_2_2?page=26)
+## [From _American Freedmen's Bulletin 1864-1866_](https://archive.org/details/sim_american-freedmens-bulletin_1866-01_2_2/page/n26/model/1up?view=theater)
 
 #### 1866-01-01 &middot; [Chicago, Illinois](http://dbpedia.org/resource/Chicago)
 
@@ -4450,7 +4515,7 @@ lean become fully enlightened where mothers
 are not in a good degree qualified to discharge  
 |the duties of the home work of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_american-freedmens-bulletin_1866-01_2_2&#0036;26/pct:42.254174,65.969037,41.141002,22.391055/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_american-freedmens-bulletin_1866-01_2_2&#0036;26/pct:42.254174,65.969037,41.141002,22.391055/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

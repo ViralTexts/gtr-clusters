@@ -344,7 +344,7 @@ Over worn-out hands! O beautiful sleep
 
 ---
 
-## [From _The Woman's Journal 1870-1916_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1875-11-20_6_47?page=5)
+## [From _The Woman's Journal 1870-1916_](https://archive.org/details/sim_the-womans-journal_1875-11-20_6_47/page/n5/model/1up?view=theater)
 
 #### 1875-11-20 &middot; [Boston, Massachusetts](http://dbpedia.org/resource/Boston)
 
@@ -405,7 +405,7 @@ Where brown leaves fall, where drifts lie deep,
   
 Over worn-out hands—Oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-womans-journal_1875-11-20_6_47&#0036;5/pct:12.226313,33.021077,14.067041,16.744731/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_the-womans-journal_1875-11-20_6_47&#0036;5/pct:12.226313,33.021077,14.067041,16.744731/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ Over worn-out hands Oh,-beautiful sleep
 
 ---
 
-## [From _The commonwealth._](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-01-01_14_18?page=3)
+## [From _The commonwealth._](https://archive.org/details/sim_boston-commonwealth_1876-01-01_14_18/page/n3/model/1up?view=theater)
 
 #### 1876-01-01 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -479,13 +479,13 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands—Oh, beautiful sleep !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-01-01_14_18&#0036;3/pct:25.868421,51.752137,10.000000,8.536325/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_boston-commonwealth_1876-01-01_14_18&#0036;3/pct:25.868421,51.752137,10.000000,8.536325/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Woodhull and Claflin's Weekly 1870-1876_](https://iiif.archivelab.org/iiif/sim_woodhull-and-claflins-weekly_1876-01-22_11_8?page=1)
+## [From _Woodhull and Claflin's Weekly 1870-1876_](https://archive.org/details/sim_woodhull-and-claflins-weekly_1876-01-22_11_8/page/n1/model/1up?view=theater)
 
 #### 1876-01-22 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -518,7 +518,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep,  
 Over worn-out hands—Oh, beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_woodhull-and-claflins-weekly_1876-01-22_11_8&#0036;1/pct:46.879433,40.215090,16.737589,16.656787/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_woodhull-and-claflins-weekly_1876-01-22_11_8&#0036;1/pct:46.879433,40.215090,16.737589,16.656787/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -606,7 +606,7 @@ Over woru-out hands. Oh I beautiful sleep!
 
 ---
 
-## [From _The commonwealth._](https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-04-15_14_33?page=3)
+## [From _The commonwealth._](https://archive.org/details/sim_boston-commonwealth_1876-04-15_14_33/page/n3/model/1up?view=theater)
 
 #### 1876-04-15 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -639,7 +639,7 @@ Beautiful graves, where grasses creep,
   
 Over worn-out hands—oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_boston-commonwealth_1876-04-15_14_33&#0036;3/pct:28.513158,9.551282,9.407895,8.397436/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_boston-commonwealth_1876-04-15_14_33&#0036;3/pct:28.513158,9.551282,9.407895,8.397436/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -828,7 +828,7 @@ beautiful slee?
 
 ---
 
-## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1876-11_6_11?page=7)
+## [From _The Manifesto 1871-1899_](https://archive.org/details/sim_manifesto_1876-11_6_11/page/n7/model/1up?view=theater)
 
 #### 1876-11-01 &middot; [Watervliet Shaker Historic District, New York](http://dbpedia.org/resource/Watervliet_Shaker_Historic_District)
 
@@ -861,7 +861,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep,  
 Over worn out hands — Oh, beautiful sleep 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1876-11_6_11&#0036;7/pct:17.800000,62.075099,21.428571,17.628458/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_manifesto_1876-11_6_11&#0036;7/pct:17.800000,62.075099,21.428571,17.628458/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -955,7 +955,7 @@ Over worn-out hands—O, beautiful sleep
 
 ---
 
-## [From _Littell's Living Age (1844-1896)_](https://iiif.archivelab.org/iiif/sim_living-age_1878-04-27_137_1767?page=1)
+## [From _Littell's Living Age (1844-1896)_](https://archive.org/details/sim_living-age_1878-04-27_137_1767/page/n1/model/1up?view=theater)
 
 #### 1878-04-27 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -990,7 +990,7 @@ Where brown leaves fall, where drifts lie deep
   
 Over worn-out hands—oh, beautiful sleep 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_living-age_1878-04-27_137_1767&#0036;1/pct:52.531083,56.849315,35.746004,29.823059/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_living-age_1878-04-27_137_1767&#0036;1/pct:52.531083,56.849315,35.746004,29.823059/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1109,7 +1109,7 @@ Over worn-out hands—oh, beautiful sleep I
 
 ---
 
-## [From _Journal of Education 1875-2015_](https://iiif.archivelab.org/iiif/sim_journal-of-education_1878-05-09_7_169?page=2)
+## [From _Journal of Education 1875-2015_](https://archive.org/details/sim_journal-of-education_1878-05-09_7_169/page/n2/model/1up?view=theater)
 
 #### 1878-05-09 &middot; [Boston, Massachusetts](http://dbpedia.org/resource/Boston)
 
@@ -1142,7 +1142,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over worn-out hands,—oh, beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-education_1878-05-09_7_169&#0036;2/pct:6.671041,27.770701,20.800525,15.987261/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_journal-of-education_1878-05-09_7_169&#0036;2/pct:6.671041,27.770701,20.800525,15.987261/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1218,7 +1218,7 @@ sleep
 
 ---
 
-## [From _Zion's Herald (1868-1910)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1878-05-23_55_21?page=5)
+## [From _Zion's Herald (1868-1910)_](https://archive.org/details/sim_zions-herald_1878-05-23_55_21/page/n5/model/1up?view=theater)
 
 #### 1878-05-23 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1254,7 +1254,7 @@ Where brown leaves fall, where drifts lie
 deep  
 Over worn-out hands, — oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1878-05-23_55_21&#0036;5/pct:77.369668,19.370567,11.359597,9.541223/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_zions-herald_1878-05-23_55_21&#0036;5/pct:77.369668,19.370567,11.359597,9.541223/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1667,7 +1667,7 @@ Over worn out hands oh, beautiful sleep !
 
 ---
 
-## [From _The Woman's Journal 1870-1916_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1880-04-17_11_16?page=4)
+## [From _The Woman's Journal 1870-1916_](https://archive.org/details/sim_the-womans-journal_1880-04-17_11_16/page/n4/model/1up?view=theater)
 
 #### 1880-04-17 &middot; [Boston, Massachusetts](http://dbpedia.org/resource/Boston)
 
@@ -1695,15 +1695,15 @@ Where fern leaves fall, where drifts lie deep
   
 Over worn-out hands; O beautiful sleep!’’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-womans-journal_1880-04-17_11_16&#0036;4/pct:42.699837,43.230404,13.764274,7.883017/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_the-womans-journal_1880-04-17_11_16&#0036;4/pct:42.699837,43.230404,13.764274,7.883017/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Missionary Helper 1878-1919_](https://iiif.archivelab.org/iiif/sim_missionary-helper_january-february-1881_4_1?page=26)
+## [From _Missionary Helper 1878-1919_](https://archive.org/details/sim_missionary-helper_january-february-1881_4_1/page/n26/model/1up?view=theater)
 
-#### 1881-01-01
+#### 1881-01-01 &middot; [Providence, Rhode Island](http://dbpedia.org/resource/Providence%2C_Rhode_Island)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1729,13 +1729,13 @@ Yet whose utterance prudence girds. Silent rivers of happiness,
   
 Whose hidden fountains few may gress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_missionary-helper_january-february-1881_4_1&#0036;26/pct:11.681034,21.457845,66.724138,15.983607/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_missionary-helper_january-february-1881_4_1&#0036;26/pct:11.681034,21.457845,66.724138,15.983607/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Michigan Farmer (1843-1908)_](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1882-01-24_13_4?page=5)
+## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1882-01-24_13_4/page/n5/model/1up?view=theater)
 
 #### 1882-01-24 &middot; [Lansing](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
@@ -1770,7 +1770,7 @@ Where leaves fall and drifts lie deep
   
 Over worn-out hands—oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1882-01-24_13_4&#0036;5/pct:8.428486,38.691006,10.351562,10.752449/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_michigan-farmer_1882-01-24_13_4&#0036;5/pct:8.428486,38.691006,10.351562,10.752449/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2410,7 +2410,7 @@ beautiful sleep. - r. S.F. Weekl
 
 ---
 
-## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1886-12_83_6?page=21)
+## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1886-12_83_6/page/n21/model/1up?view=theater)
 
 #### 1886-12-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2444,7 +2444,7 @@ Where brown leaves fall, where drifts lie
 deep,  
 Over worn out hands—Oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1886-12_83_6&#0036;21/pct:50.645439,48.488372,33.519793,36.889535/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_phrenological-journal-and-science-of-health_1886-12_83_6&#0036;21/pct:50.645439,48.488372,33.519793,36.889535/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2514,18 +2514,24 @@ Over worn-out hands? oh. beautiful sleep
 
 ---
 
-## [From _Good Housekeeping 1885-2015_](https://iiif.archivelab.org/iiif/sim_good-housekeeping_1888-08-04_7_7?page=22)
+## [From _Good Housekeeping 1885-2015_](https://archive.org/details/sim_good-housekeeping_good-housekeeping_1888-08-04_7_7/page/n22/model/1up?view=theater)
 
 #### 1888-08-04 &middot; [Springfield, Massachusetts](http://dbpedia.org/resource/Springfield%2C_Massachusetts)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t go  
+art like songs of birds,  
+Yet whose utterance prudence girds.  
+  
+Beautiful hands are those that do  
+Work that is earnest and brave and true,  
+Moment by moment the long day through.  
+  
+Beautiful feet are those that go  
 On kindly ministries to and fro,—  
 Down lowliest ways, if God wills it so.  
   
-} Beautiful shoulders are those that bear  
-  
+Beautiful shoulders are those that bear  
 Ceaseless burdens of homely care  
 With patient grace and daily prayer.  
   
@@ -2539,16 +2545,11 @@ Beautiful rest, with work well done.
   
 Beautiful graves, where grasses creep,  
   
-  
-  
-Scaterin leavs and bloin of men’s hatts;  
-in short its jest ‘‘ fre as are’’ out dores.  
-But o sextant in our church its scarce as piety,  
-  
 Where brown leaves fall, where drifts lie deep  
+  
 Over worn-out hands,—oh, beautiful sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_good-housekeeping_1888-08-04_7_7&#0036;22/pct:12.917182,72.544434,65.760198,17.609916/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_good-housekeeping_good-housekeeping_1888-08-04_7_7&#0036;22/pct:54.604450,66.417212,24.134734,22.684752/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2908,7 +2909,7 @@ Over worn out hands oh, beautiful sleep
 
 ---
 
-## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1893-09-23_50_38?page=15)
+## [From _Friends' Intelligencer (1853-1910)_](https://archive.org/details/sim_friends-intelligencer_1893-09-23_50_38/page/n15/model/1up?view=theater)
 
 #### 1893-09-23 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2928,13 +2929,13 @@ Beautiful graves where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over worn out hands—oh, beautiful sleep.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1893-09-23_50_38&#0036;15/pct:61.607143,22.082954,24.353448,9.389243/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friends-intelligencer_1893-09-23_50_38&#0036;15/pct:61.607143,22.082954,24.353448,9.389243/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Current Literature (1888-1912)_](https://iiif.archivelab.org/iiif/sim_current-opinion_1893-12_14_4?page=81)
+## [From _Current Literature (1888-1912)_](https://archive.org/details/sim_current-opinion_1893-12_14_4/page/n81/model/1up?view=theater)
 
 #### 1893-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2982,13 +2983,13 @@ Beautiful graves where grasses creep,
 Where brown leaves fall, and drifts lie deep  
 Over worn-out hands—oh, beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_current-opinion_1893-12_14_4&#0036;81/pct:53.935185,74.003322,31.983025,15.337763/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_current-opinion_1893-12_14_4&#0036;81/pct:53.935185,74.003322,31.983025,15.337763/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Friends' Intelligencer (1853-1910)_](https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1894-12-01_51_48?page=13)
+## [From _Friends' Intelligencer (1853-1910)_](https://archive.org/details/sim_friends-intelligencer_1894-12-01_51_48/page/n13/model/1up?view=theater)
 
 #### 1894-12-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -3021,7 +3022,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep,  
 Over worn-out hands —oh, beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-intelligencer_1894-12-01_51_48&#0036;13/pct:60.967130,19.387299,25.979772,21.511628/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friends-intelligencer_1894-12-01_51_48&#0036;13/pct:60.967130,19.387299,25.979772,21.511628/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3295,7 +3296,7 @@ worn-out hands— oh, beautiful sleep.
 
 ---
 
-## [From _Farm Journal 1877-2015_](https://iiif.archivelab.org/iiif/sim_farm-journal_1897-12_21_12?page=17)
+## [From _Farm Journal 1877-2015_](https://archive.org/details/sim_farm-journal_1897-12_21_12/page/n17/model/1up?view=theater)
 
 #### 1897-12-01 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
@@ -3308,7 +3309,7 @@ Beautiful graves, where grasses creep,
 Where brown leaves fall, where drifts lie deep  
 Over wornout hands—oh, beautiful sleep!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_farm-journal_1897-12_21_12&#0036;17/pct:66.080692,14.308553,23.083573,3.357314/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_farm-journal_1897-12_21_12&#0036;17/pct:66.080692,14.308553,23.083573,3.357314/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

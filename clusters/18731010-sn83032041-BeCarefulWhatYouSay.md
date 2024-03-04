@@ -888,7 +888,7 @@ Wehave none of our own
 
 ---
 
-## [From _School Journal 1872-1914_](https://iiif.archivelab.org/iiif/sim_school-journal_1875-02-27_6_210?page=1)
+## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1875-02-27_6_210/page/n1/model/1up?view=theater)
 
 #### 1875-02-27 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -942,7 +942,7 @@ Our chickens, “ roost at home.”
 Don&#x27;t speak of others’ faults until  
 We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_school-journal_1875-02-27_6_210&#0036;1/pct:18.390192,15.969080,15.458422,24.151584/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_school-journal_1875-02-27_6_210&#0036;1/pct:18.390192,15.969080,15.458422,24.151584/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3392,7 +3392,7 @@ others&#x27; faults until We have none of ou
 
 ---
 
-## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1877-08_7_8?page=4)
+## [From _The Manifesto 1871-1899_](https://archive.org/details/sim_manifesto_1877-08_7_8/page/n4/model/1up?view=theater)
 
 #### 1877-08-01 &middot; [Watervliet Shaker Historic District, New York](http://dbpedia.org/resource/Watervliet_Shaker_Historic_District)
 
@@ -3421,7 +3421,7 @@ Be sure your own defects you cure
   
 Before of others’ tell.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1877-08_7_8&#0036;4/pct:30.353535,64.489267,20.656566,14.452258/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_manifesto_1877-08_7_8&#0036;4/pct:30.353535,64.489267,20.656566,14.452258/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3748,7 +3748,7 @@ We have none of our owr
 
 ---
 
-## [From _The Manifesto 1871-1899_](https://iiif.archivelab.org/iiif/sim_manifesto_1878-10_8_10?page=16)
+## [From _The Manifesto 1871-1899_](https://archive.org/details/sim_manifesto_1878-10_8_10/page/n16/model/1up?view=theater)
 
 #### 1878-10-01 &middot; [Watervliet Shaker Historic District, New York](http://dbpedia.org/resource/Watervliet_Shaker_Historic_District)
 
@@ -3800,7 +3800,7 @@ To those we little know.
 Remember curses chicken-like,  
 Sometimes to roost, come home
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_manifesto_1878-10_8_10&#0036;16/pct:47.559853,53.829916,32.550645,36.761158/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_manifesto_1878-10_8_10&#0036;16/pct:47.559853,53.829916,32.550645,36.761158/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5730,7 +5730,7 @@ vn.
 
 ---
 
-## [From _Michigan Farmer (1843-1908)_](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1887-02-14_18_7?page=5)
+## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1887-02-14_18_7/page/n5/model/1up?view=theater)
 
 #### 1887-02-14 &middot; [Lansing](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
@@ -5774,7 +5774,7 @@ To those we little know.
 Remember curses, chicken-like  
 Sometimes to roost come home
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1887-02-14_18_7&#0036;5/pct:11.799065,10.372575,9.988318,14.373898/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_michigan-farmer_1887-02-14_18_7&#0036;5/pct:11.799065,10.372575,9.988318,14.373898/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5928,9 +5928,11 @@ We have none of our ow
 
 ---
 
-## [From _Herald of gospel liberty._](https://iiif.archivelab.org/iiif/sim_herald-of-gospel-liberty_1889-05-09_81_19?page=1)
+## [sim_herald-of-gospel-liberty_1889-05-09_81_19](https://archive.org/details/sim_herald-of-gospel-liberty_1889-05-09_81_19/page/n1/model/1up?view=theater)
 
-#### 1889-05-09 &middot; [Portsmouth [N.H.]](http://dbpedia.org/resource/Portsmouth%2C_New_Hampshire)
+#### From unknown source
+
+#### 1889-05-09
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5943,7 +5945,7 @@ And at that point begin.
 * Some may have faults—and who has none?—  
 The old as well as young
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_herald-of-gospel-liberty_1889-05-09_81_19&#0036;1/pct:45.020747,23.511478,22.302905,5.003587/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_herald-of-gospel-liberty_1889-05-09_81_19&#0036;1/pct:45.020747,23.511478,22.302905,5.003587/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6051,9 +6053,11 @@ W e have uonc of our own
 
 ---
 
-## [From _Herald of gospel liberty._](https://iiif.archivelab.org/iiif/sim_herald-of-gospel-liberty_1889-10-24_81_43?page=5)
+## [sim_herald-of-gospel-liberty_1889-10-24_81_43](https://archive.org/details/sim_herald-of-gospel-liberty_1889-10-24_81_43/page/n5/model/1up?view=theater)
 
-#### 1889-10-24 &middot; [Portsmouth [N.H.]](http://dbpedia.org/resource/Portsmouth%2C_New_Hampshire)
+#### From unknown source
+
+#### 1889-10-24
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6094,7 +6098,7 @@ Think of the harm one word may do
 To those we little know;  
 Remember curses, chicken-like
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_herald-of-gospel-liberty_1889-10-24_81_43&#0036;5/pct:15.663900,11.887233,17.738589,21.565811/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_herald-of-gospel-liberty_1889-10-24_81_43&#0036;5/pct:15.663900,11.887233,17.738589,21.565811/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6940,16 +6944,6 @@ To slander friend or foe
 
 ---
 
-## Remember
-
-#### From _The news and observer._
-
-#### 1891-06-14 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
-
-[This text is not available under an open license.]
-
----
-
 ## [From _The news and observer._](https://chroniclingamerica.loc.gov/lccn/sn84024516/1891-06-14/ed-1/seq-5)
 
 #### 1891-06-14 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
@@ -7349,6 +7343,53 @@ Don&#x27;t speak of other&#x27;s faults until
 We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_middlebury_ver01%2Fdata%2Fsn84022871%2F00202196421%2F1893013001%2F0462.jp2/pct:8.681721,7.168142,13.152273,17.035398/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _San Antonio daily light._](https://chroniclingamerica.loc.gov/lccn/sn86090439/1893-06-07/ed-1/seq-4)
+
+#### 1893-06-07 &middot; [San Antonio, Tex.](http://dbpedia.org/resource/San_Antonio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+In speaking of a person’s faults,  
+Pray don’t forget your own;  
+Remember, those with homes of glass,  
+Should seldom throw a stone.  
+If we have nothing else to do  
+But talk of those who sin,  
+’Tis better we commence at home,  
+And from that point begin.  
+We have no right to judge a man  
+Until he’s fairly tried;  
+Should we not like his company,  
+We know the world is wide.  
+Some may have faults—and who have not?  
+The old as well as young;  
+Perhaps we may. for aught we know,  
+Have fifty to their one.  
+  
+I’ll tell you of a better plan,  
+And one that works full well;  
+I try my own defects to cure  
+Ere I of others tell.  
+And though I sometimes hope to be  
+No worse than some I know,  
+My own shortcomings bid me let  
+The faults of others go.  
+Then let us all, when we commence  
+To slander friend or foe,  
+Think of the harm one word may do  
+To those who little know.  
+Remember, curses sometimes, like  
+Our chickens, “roost at home.”  
+Don’t speak of others’ faults until  
+We have none of our own
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_denton_ver02%2Fdata%2Fsn86090439%2F00517175432%2F1893060701%2F1139.jp2/pct:43.148358,14.908892,16.721404,16.956997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -210,7 +210,7 @@ off. The judge thought it so good a stor
 
 ---
 
-## [From _The Central Law Journal (1874-1927)_](https://iiif.archivelab.org/iiif/sim_central-law-journal_1887-03-11_24?page=23)
+## [From _The Central Law Journal (1874-1927)_](https://archive.org/details/sim_central-law-journal_1887-03-11_24/page/n23/model/1up?view=theater)
 
 #### 1887-03-11 &middot; [St. Louis](http://dbpedia.org/resource/St._Louis)
 
@@ -263,7 +263,7 @@ The boy said: “‘I don’t want your money, old fellow;
 you take it and have your hair cut.””? Saying which he  
 scampered off.—Augusta (Ga.) Chronicle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_central-law-journal_1887-03-11_24&#0036;23/pct:48.619403,30.945122,35.000000,42.149390/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_central-law-journal_1887-03-11_24&#0036;23/pct:48.619403,30.945122,35.000000,42.149390/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1449,7 +1449,7 @@ wg which tf &amp;-Aeus
 
 ---
 
-## [From _Michigan Farmer (1843-1908)_](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1887-05-30_18_22?page=6)
+## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1887-05-30_18_22/page/n6/model/1up?view=theater)
 
 #### 1887-05-30 &middot; [Lansing](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
@@ -1490,13 +1490,13 @@ The boy said:
 old fellow; you take it and have your hair  
 cut.’’ Saying which he scampered off
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1887-05-30_18_22&#0036;6/pct:54.950350,22.696208,11.813668,12.742504/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_michigan-farmer_1887-05-30_18_22&#0036;6/pct:54.950350,22.696208,11.813668,12.742504/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Christian Union (1870-1893)_](https://iiif.archivelab.org/iiif/sim_new-outlook_1887-06-16_35_24?page=30)
+## [From _Christian Union (1870-1893)_](https://archive.org/details/sim_new-outlook_1887-06-16_35_24/page/n30/model/1up?view=theater)
 
 #### 1887-06-16 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1536,7 +1536,7 @@ money, old fellow ; you take {t and have
 your hair cut.” Saying which he scam  
 pered off
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_new-outlook_1887-06-16_35_24&#0036;30/pct:50.288562,40.598138,20.304302,22.564470/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_new-outlook_1887-06-16_35_24&#0036;30/pct:50.288562,40.598138,20.304302,22.564470/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2122,9 +2122,9 @@ your hair cut.&quot; The last battle o
 
 ---
 
-## [From _Instructor 1996-1998_](https://iiif.archivelab.org/iiif/sim_instructor_1896-12_6_2?page=22)
+## [From _Instructor 1996-1998_](https://archive.org/details/sim_instructor_1896-12_6_2/page/n22/model/1up?view=theater)
 
-#### 1896-12-01
+#### 1896-12-01 &middot; [Dansville, New York, None](http://dbpedia.org/resource/Dansville%2C_New_York)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2136,7 +2136,7 @@ ing, he held out his hand for the money.
 “Well, my lad,” said the professor,  
 ‘vou’ ve earned your money ; here it is.”’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_instructor_1896-12_6_2&#0036;22/pct:28.144989,25.041322,21.002132,5.082645/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_instructor_1896-12_6_2&#0036;22/pct:28.144989,25.041322,21.002132,5.082645/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2161,7 +2161,7 @@ earned your money; -here it is.&quot; &quot;
 
 ---
 
-## [From _The Congregationalist._](https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1897-01-07_82_1?page=34)
+## [From _The Congregationalist._](https://archive.org/details/sim_congregationalist-and-herald-of-gospel-liberty_1897-01-07_82_1/page/n34/model/1up?view=theater)
 
 #### 1897-01-07 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
@@ -2179,7 +2179,7 @@ earned your money; here it is.”
 gamin, with a lordly air, ‘‘ yecan keep it and  
 git yer hair cut.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1897-01-07_82_1&#0036;34/pct:12.330037,39.481209,24.690977,6.883170/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1897-01-07_82_1&#0036;34/pct:12.330037,39.481209,24.690977,6.883170/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

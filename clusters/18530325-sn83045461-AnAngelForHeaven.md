@@ -43,7 +43,7 @@ Mother of angels walk softly! Holy eyes watch thy footsteps, cherub forms bend t
 
 ---
 
-## [From _Christian Watchman and Reflector (1851-1861)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1853-01-27_34_4?page=0)
+## [From _Christian Watchman and Reflector (1851-1861)_](https://archive.org/details/sim_watchman-examiner_1853-01-27_34_4/page/n0/model/1up?view=theater)
 
 #### 1853-01-27 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -86,7 +86,7 @@ thy footsteps, cherub forms bend to listen! Keep
 thy spirit free from earth taint ; so shalt thou “ go to  
 them,” though “ they may not return to thee.”—(i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1853-01-27_34_4&#0036;0/pct:81.432127,72.002618,11.752428,10.503927/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_watchman-examiner_1853-01-27_34_4&#0036;0/pct:81.432127,72.002618,11.752428,10.503927/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ ings, and jour own radiant Isagel i
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1853-02-17_26_43?page=3)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1853-02-17_26_43/page/n3/model/1up?view=theater)
 
 #### 1853-02-17 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -176,7 +176,7 @@ forins bend to listen! Keep thy spirit free
 from taint; so shalt thou ‘ go to them,’ though  
 ‘they may not return to thee.—[ Olive Branch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1853-02-17_26_43&#0036;3/pct:53.185745,30.080117,21.436285,18.317553/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1853-02-17_26_43&#0036;3/pct:53.185745,30.080117,21.436285,18.317553/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ f -th
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1853-04-02_32_1653?page=0)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1853-04-02_32_1653/page/n0/model/1up?view=theater)
 
 #### 1853-04-02 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -520,7 +520,7 @@ look up? Can you bear the splender of that
 sight! Ten thousand celestial beings, sad  
 your own radiant child-angel in their mids
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1853-04-02_32_1653&#0036;0/pct:72.616598,62.962413,8.590535,11.825880/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-evening-post_1853-04-02_32_1653&#0036;0/pct:72.616598,62.962413,8.590535,11.825880/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -682,7 +682,7 @@ ures, children of earth
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1853-04-07_26_50?page=3)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1853-04-07_26_50/page/n3/model/1up?view=theater)
 
 #### 1853-04-07 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -764,7 +764,7 @@ earth!
   
 Can you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1853-04-07_26_50&#0036;3/pct:29.184665,41.096140,21.922246,40.768390/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1853-04-07_26_50&#0036;3/pct:29.184665,41.096140,21.922246,40.768390/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -820,7 +820,7 @@ may not return to thee.--0/n*e Branch
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1853-04-16_32_1655?page=3)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1853-04-16_32_1655/page/n3/model/1up?view=theater)
 
 #### 1853-04-16 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -866,7 +866,7 @@ listen! Keep thy spirit free from earth-taint;
 so shalt thy soul go to them, though they may  
 not return to thee.— Fanny Fern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_saturday-evening-post_1853-04-16_32_1655&#0036;3/pct:60.648148,51.819938,8.624829,10.889912/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-evening-post_1853-04-16_32_1655&#0036;3/pct:60.648148,51.819938,8.624829,10.889912/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1298,7 +1298,7 @@ though they may not &quot;return to thee,
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1853-07-07_24_27?page=3)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1853-07-07_24_27/page/n3/model/1up?view=theater)
 
 #### 1853-07-07 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1319,13 +1319,13 @@ could ■ How lightly curl the flaxen locks on his When applying this prcp-crati
   
 i! fu! ^onl away to think those cherub lips will never, ‘I® *® 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1853-07-07_24_27&#0036;3/pct:48.323522,37.183099,19.529050,3.173709/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_evangelist-and-religious-review_1853-07-07_24_27&#0036;3/pct:48.323522,37.183099,19.529050,3.173709/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1853-07-07_24_27?page=3)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1853-07-07_24_27/page/n3/model/1up?view=theater)
 
 #### 1853-07-07 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1340,7 +1340,7 @@ On hi.s brow a glory crown.”
 Oh! cling not too closely to your beautiful  
 tressure.s. children of earth .—Lutheran Olks.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_evangelist-and-religious-review_1853-07-07_24_27&#0036;3/pct:50.217558,49.633803,10.724341,1.446009/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_evangelist-and-religious-review_1853-07-07_24_27&#0036;3/pct:50.217558,49.633803,10.724341,1.446009/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1982,7 +1982,7 @@ though they may not return to thee.
 
 ---
 
-## [From _Colman's rural world and valley farmer._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1855-06_7_6?page=43)
+## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1855-06_7_6/page/n43/model/1up?view=theater)
 
 #### 1855-06-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -2027,7 +2027,7 @@ listen! Keep thy spirit free from earth’s taint,
 so shalt thou “‘go to them,’ though “they  
 msy not return to thee.”’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1855-06_7_6&#0036;43/pct:57.258065,18.682213,35.908319,33.242950/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_colmans-rural-world_1855-06_7_6&#0036;43/pct:57.258065,18.682213,35.908319,33.242950/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2109,7 +2109,7 @@ of Earth
 
 ---
 
-## [From _The Lebanon post._](https://iiif.archivelab.org/iiif/xt7dr785jf2h?page=0)
+## [From _The Lebanon post._](https://archive.org/details/xt7dr785jf2h/page/n0/model/1up?view=theater)
 
 #### 1855-07-25 &middot; [Lebanon, Ky.](http://dbpedia.org/resource/Lebanon%2C_Kentucky)
 
@@ -2125,13 +2125,13 @@ on earth, two in heaven.”
   
 There spoke the mother! Still her’s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7dr785jf2h&#0036;0/pct:65.295739,62.761251,14.288743,3.051106/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7dr785jf2h&#0036;0/pct:65.295739,62.761251,14.288743,3.051106/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Lebanon post._](https://iiif.archivelab.org/iiif/xt7dr785jf2h?page=0)
+## [From _The Lebanon post._](https://archive.org/details/xt7dr785jf2h/page/n0/model/1up?view=theater)
 
 #### 1855-07-25 &middot; [Lebanon, Ky.](http://dbpedia.org/resource/Lebanon%2C_Kentucky)
 
@@ -2144,13 +2144,13 @@ presented to him, he was ever ready tolat the board; their places not yet filled
 respond toil; and was humble, teachable even though their successors draw life  
 and loving as a little child. from the same faithful breast where their
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7dr785jf2h&#0036;0/pct:50.519398,65.797101,29.086284,3.081617/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7dr785jf2h&#0036;0/pct:50.519398,65.797101,29.086284,3.081617/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Lebanon post._](https://iiif.archivelab.org/iiif/xt7dr785jf2h?page=0)
+## [From _The Lebanon post._](https://archive.org/details/xt7dr785jf2h/page/n0/model/1up?view=theater)
 
 #### 1855-07-25 &middot; [Lebanon, Ky.](http://dbpedia.org/resource/Lebanon%2C_Kentucky)
 
@@ -2169,13 +2169,13 @@ fading eye, nor weary feet. By the green
   
 ling serpent in the garden of Laen, an jjjg face? Nothintj less than that j^^®^* The bargain being made, and thel^g Eastern travels, and as 1 rose to linger the little lambs of th® heavenly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7dr785jf2h&#0036;0/pct:6.275175,61.800153,87.979648,11.380625/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7dr785jf2h&#0036;0/pct:6.275175,61.800153,87.979648,11.380625/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Lebanon post._](https://iiif.archivelab.org/iiif/xt7dr785jf2h?page=0)
+## [From _The Lebanon post._](https://archive.org/details/xt7dr785jf2h/page/n0/model/1up?view=theater)
 
 #### 1855-07-25 &middot; [Lebanon, Ky.](http://dbpedia.org/resource/Lebanon%2C_Kentucky)
 
@@ -2191,13 +2191,13 @@ Earth is less attractive! Eternity near-
 er! Invisible cords drawing the mater-  
 nal soul upwards. &quot;Still small” voices.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7dr785jf2h&#0036;0/pct:65.359339,73.165523,14.246343,2.959573/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7dr785jf2h&#0036;0/pct:65.359339,73.165523,14.246343,2.959573/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Lebanon post._](https://iiif.archivelab.org/iiif/xt7dr785jf2h?page=0)
+## [From _The Lebanon post._](https://archive.org/details/xt7dr785jf2h/page/n0/model/1up?view=theater)
 
 #### 1855-07-25 &middot; [Lebanon, Ky.](http://dbpedia.org/resource/Lebanon%2C_Kentucky)
 
@@ -2212,7 +2212,7 @@ bend to listen! Keep thy spirit free from
 earth’s taint; so shall thou &quot;go to them,”  
 though “they may not return to thee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7dr785jf2h&#0036;0/pct:65.316939,77.879481,29.001484,3.127384/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7dr785jf2h&#0036;0/pct:65.316939,77.879481,29.001484,3.127384/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3146,7 +3146,7 @@ may not return to yo
 
 ---
 
-## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://iiif.archivelab.org/iiif/sim_independent_1859-06-23_11_551?page=5)
+## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1859-06-23_11_551/page/n5/model/1up?view=theater)
 
 #### 1859-06-23 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3176,13 +3176,13 @@ whence you have borne your dead. But it comes
 never in the hush of night to wipe away your  
 tears! In the solemn silence of the grave we fee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_independent_1859-06-23_11_551&#0036;5/pct:63.246073,42.698629,12.840314,9.473464/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_independent_1859-06-23_11_551&#0036;5/pct:63.246073,42.698629,12.840314,9.473464/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://iiif.archivelab.org/iiif/sim_independent_1859-06-23_11_551?page=5)
+## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1859-06-23_11_551/page/n5/model/1up?view=theater)
 
 #### 1859-06-23 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3204,47 +3204,56 @@ On her brow a glory crown.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_independent_1859-06-23_11_551&#0036;5/pct:63.311518,52.213964,12.840314,4.386057/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_independent_1859-06-23_11_551&#0036;5/pct:63.311518,52.213964,12.840314,4.386057/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Vermont watchman and State journal._](https://chroniclingamerica.loc.gov/lccn/sn84023200/1859-07-29/ed-1/seq-1)
+## From _Vermont watchman and State journal._
 
 #### 1859-07-29 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-those littlo oyes and farcver shrouded their  
-bright glanccs. How swectly sho sleeps, that  
-littlo covetcd anecl ! How lightly curl the  
-glossy ringlcts on her forchead! You could  
-wecp your vcry soul away to think thoso  
-chcrub lips will novcr, ncvcr unclosc. Yain­  
-ly you clusp and uuclasp thatpassive, darling  
-hand that wandercd so often or your cheeks.  
-Vainly your anguished glances strivo to read  
-tho dim story of lovo in thoso fadcd orbi.  
-That voico, Bwcet as winds blowing through  
-wrcaths and garlands, slumbcrs furever.  
-And still tho husy worldknocks at your door  
-and will let you havo no peacc. It ahouts in  
-your car, it smilos in your face, it mcots you  
-at the coiHn, at tho grarc,&#x27;its hcavy footstepa  
-tramp up and down in the cmpty room from  
-whouco you havo borno your dcad, llit it  
-comes ncvcr iu thc hush of night to wipe  
-away your teara ! In tho solcmn silenco o
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_graniteville_ver01%2Fdata%2Fsn84023200%2F00280777638%2F1859072901%2F0759.jp2/pct:82.266693,70.627162,12.819497,10.151903/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+TitE Cnrd. Asont. Death has closed  
+those little eyes and forever shrouded their  
+bright glances. How sweetly she aleeps, that  
+little coveted angel! How lightly curl the  
+glossy ringlets on her forehead! You could  
+weep your very soul away to think those  
+cherub lips will never, never unclose. Vain  
+ly you clasp and uuclasp that passive, darling  
+hand that wandered so often over your cheeks.  
+Vainly your anguished glances strive to read  
+the dim story of love in those faded orbs.  
+That voice, sweet as winds blowing through  
+wreaths and garlands, slumbers forever.  
+And still the busy world knocks at your door  
+and will let you have no peace. It shouts in  
+your ear, it smiles in your face, it meets you  
+at the coffin, at the grave,its heavy footsteps  
+tramp up and down in the empty room from  
+whence you have borne your dead. But it  
+comes never in the hush of night to wipe  
+away your tears! In the solemn silence of  
+the grave we feel the force of the sickening  
+sorrow which hangs heavily upon the heart,  
+as though it would press it down into the  
+narrow space over which the spirit dwells in  
+mournful suspense. But a bright vision  
+meets the eye. Can you look up? can you  
+bear the splendor of the sight? ten thousand  
+celestial beings, and your radiant child in the  
+midst of them  
+In her eyes a glory bright,  
+On her brow a glory crown
+</td></tr></table>
 
 ---
 
-## [From _Michigan Farmer (1843-1908)_](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-08-06_1_32?page=5)
+## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1859-08-06_1_32/page/n5/model/1up?view=theater)
 
 #### 1859-08-06 &middot; [Lansing](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
@@ -3272,13 +3281,13 @@ room from whence you have borne your dead.—
 But it comes never in the hush of night to wipe  
 uway your tear! In the solemn silence of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-08-06_1_32&#0036;5/pct:64.277344,58.275862,16.816406,11.681034/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_michigan-farmer_1859-08-06_1_32&#0036;5/pct:64.277344,58.275862,16.816406,11.681034/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Michigan Farmer (1843-1908)_](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-08-06_1_32?page=5)
+## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1859-08-06_1_32/page/n5/model/1up?view=theater)
 
 #### 1859-08-06 &middot; [Lansing](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
@@ -3297,7 +3306,7 @@ angel in the midst of thea—
 In her eyes a glory bright,  
 On her brow ¢ glory crown
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-08-06_1_32&#0036;5/pct:64.609375,70.057471,16.542969,6.077586/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_michigan-farmer_1859-08-06_1_32&#0036;5/pct:64.609375,70.057471,16.542969,6.077586/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3578,7 +3587,7 @@ tures tended by the good Shepherd of the heavenly fold.
 
 ---
 
-## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://iiif.archivelab.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1868-07_28_1?page=69)
+## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://archive.org/details/sim_ladies-repository-a-monthly-periodical-devoted-to_1868-07_28_1/page/n69/model/1up?view=theater)
 
 #### 1868-07-01 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
@@ -3632,7 +3641,7 @@ On her brow a glory crown.”
 Wanted—angels for heaven! Cling not too closely  
 to your beautiful treasures, children of earth !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1868-07_28_1&#0036;69/pct:16.410819,19.674125,69.956140,68.847276/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_ladies-repository-a-monthly-periodical-devoted-to_1868-07_28_1&#0036;69/pct:16.410819,19.674125,69.956140,68.847276/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

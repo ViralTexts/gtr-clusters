@@ -847,40 +847,37 @@ Of salt, fifty pounds
 
 ---
 
-## [From _Vermont watchman and State journal._](https://chroniclingamerica.loc.gov/lccn/sn84023200/1851-12-18/ed-1/seq-1)
+## From _Vermont watchman and State journal._
 
 #### 1851-12-18 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-1 Weights ami Measures.  
-&#x27;The following table of the number of lbs.  
+ Weights and Measures.  
+The following table of the number of lbs.  
 of various articles to a bushel, may be of  
-inlerest to our readers :  
-Ofivheat, sixty pounds.  
+interest to our readers:  
+Of wheat, sixty pounds.  
 Of shelled corn, fifty-six pounds.  
 Of corn on the cob, seventy pounds.  
 Of rye, filty-six pounds.  
 Of oats, thirty-six pounds.  
 Of barley, forty pounds.  
 Of potatoes, sixty pounds.  
-Of bran, tw enty pounds.  
+Of bran, twenty pounds.  
 Of clover seed, sixty pounds.  
-Of &#x27;Timothy seed, forty-five pounds.  
+Of Timothy seed, forty-five pounds.  
 Of flax seed, forty-five pounds.  
 Of hemp seed, forty-four pounds.  
 Of buckwheat, fifty-two pounds.  
-Of blue grass seed, fortecn pounds.  
+Of blue grass seed, forteen pounds.  
 Of castor beans, forty-six pounds.  
 Of dried peaches, thirty-three pounds.  
-Of dried apples, twcnly-fuor pounds.  
-Of onions, lifly-seven pounds.  
+Of dried apples, twenty-four pounds.  
+Of onions, fifty-seven pounds.  
 Of salt, fifty pounds
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84023200%2F00280777626%2F1851121801%2F0202.jp2/pct:65.286683,62.915601,12.694633,12.205172/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -918,7 +915,7 @@ Of castor beans, forty-six pounds
 
 ---
 
-## [From _Colman's rural world and valley farmer._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1852-01_4_1?page=17)
+## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1852-01_4_1/page/n17/model/1up?view=theater)
 
 #### 1852-01-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -965,7 +962,7 @@ Of onions, fifty-seven pounds.
   
 Of salt, tifty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1852-01_4_1&#0036;17/pct:6.608696,28.749293,37.347826,25.778155/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_colmans-rural-world_1852-01_4_1&#0036;17/pct:6.608696,28.749293,37.347826,25.778155/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1067,7 +1064,7 @@ Of salt, fifty pounds
 
 ---
 
-## [From _Weekly messenger._](https://iiif.archivelab.org/iiif/xt7w6m334z0h?page=3)
+## [From _Weekly messenger._](https://archive.org/details/xt7w6m334z0h/page/n3/model/1up?view=theater)
 
 #### 1852-01-16 &middot; [Richmond, Ky.](http://dbpedia.org/resource/Richmond%2C_Kentucky)
 
@@ -1112,13 +1109,13 @@ Of onions, fifty-seven pounds.
   
 Of salt, fifty pounds. — Merchant’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7w6m334z0h&#0036;3/pct:72.248297,69.601677,12.354277,11.764706/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7w6m334z0h&#0036;3/pct:72.248297,69.601677,12.354277,11.764706/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1852-01-17_25_18?page=2)
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1852-01-17_25_18/page/n2/model/1up?view=theater)
 
 #### 1852-01-17 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -1135,13 +1132,13 @@ Of bran, twenty pounds. well armed, took possession of the first, and
 Of clover-seed, sixty pounds. found about forty slaves in her, and ten men ;  
 Of timothy seed, forty-five pounds. the other officer and three men pursued an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1852-01-17_25_18&#0036;2/pct:33.461085,54.100652,50.206368,10.251631/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friend-a-religious-and-literary-journal_1852-01-17_25_18&#0036;2/pct:33.461085,54.100652,50.206368,10.251631/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Christian Watchman and Reflector (1851-1861)_](https://iiif.archivelab.org/iiif/sim_watchman-examiner_1852-01-22_33_4?page=3)
+## [From _Christian Watchman and Reflector (1851-1861)_](https://archive.org/details/sim_watchman-examiner_1852-01-22_33_4/page/n3/model/1up?view=theater)
 
 #### 1852-01-22 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1178,13 +1175,13 @@ Of onions, fifty-seven pounds.
   
 Of salt, fifty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_watchman-examiner_1852-01-22_33_4&#0036;3/pct:44.600077,66.298379,7.952545,7.603295/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_watchman-examiner_1852-01-22_33_4&#0036;3/pct:44.600077,66.298379,7.952545,7.603295/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1852-02-05_20_6?page=0)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1852-02-05_20_6/page/n0/model/1up?view=theater)
 
 #### 1852-02-05 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -1215,7 +1212,7 @@ Of dried apples, twenty-five pounds.
 Of onions, fifty-seven pounds.  
 Of salt, fifty pounds
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1852-02-05_20_6&#0036;0/pct:54.952331,69.351774,11.811441,13.893581/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_maine-farmer_1852-02-05_20_6&#0036;0/pct:54.952331,69.351774,11.811441,13.893581/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1493,7 +1490,7 @@ Of sail, fifty pounds
 
 ---
 
-## [From _The Merchants' Magazine and Commercial Review (1839-1870)_](https://iiif.archivelab.org/iiif/sim_merchants-magazine-and-commercial-review_1852-08_27_2?page=95)
+## [From _The Merchants' Magazine and Commercial Review (1839-1870)_](https://archive.org/details/sim_merchants-magazine-and-commercial-review_1852-08_27_2/page/n95/model/1up?view=theater)
 
 #### 1852-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1507,7 +1504,7 @@ seed, forty-five — of timothy-seed, fifty-six pounds of flax-seed, forty-four 
 of hemp-seed, fifty-two pounds of buckwheat, fourteen pounds of blue-grass-seed,  
 fifty pounds of cornmeal, fifty-seven pounds of onions, and fifty-six pounds of sal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_merchants-magazine-and-commercial-review_1852-08_27_2&#0036;95/pct:24.641720,75.104603,64.848726,7.374477/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_merchants-magazine-and-commercial-review_1852-08_27_2&#0036;95/pct:24.641720,75.104603,64.848726,7.374477/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2836,7 +2833,7 @@ Of |wpib6.
 
 ---
 
-## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://iiif.archivelab.org/iiif/sim_godeys-magazine_1856-12_53_6?page=83)
+## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1856-12_53_6/page/n83/model/1up?view=theater)
 
 #### 1856-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2885,7 +2882,7 @@ Of onions, fifty-seven pounds.
   
 Of salt, fifty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_godeys-magazine_1856-12_53_6&#0036;83/pct:55.642633,10.858325,35.031348,24.638056/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_godeys-magazine_1856-12_53_6&#0036;83/pct:55.642633,10.858325,35.031348,24.638056/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3039,7 +3036,7 @@ Blue grass seed, fourteen pounds
 
 ---
 
-## [From _The evening bulletin._](https://iiif.archivelab.org/iiif/xt7hqb9v3q6j?page=1)
+## [From _The evening bulletin._](https://archive.org/details/xt7hqb9v3q6j/page/n1/model/1up?view=theater)
 
 #### 1857-03-17 &middot; [Louisville, Ky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
@@ -3061,7 +3058,7 @@ bran, twenty pounds; clover seed, sixty pound -;
 Timothy seed, forty -live pounds; hemp seed, fort \ -  
 five pounds; blue grass seed, fourteen pounds
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7hqb9v3q6j&#0036;1/pct:5.669526,83.691369,17.213726,6.533621/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7hqb9v3q6j&#0036;1/pct:5.669526,83.691369,17.213726,6.533621/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3227,7 +3224,7 @@ to our re aders: Wheat, 80 l&gt;s; Corn, shelled, 68 »s; Corn
 
 ---
 
-## [From _The National Magazine; Devoted to Literature, Art, and Religion (1852-1858)_](https://iiif.archivelab.org/iiif/sim_national-magazine-devoted-to-literature-art-and-religion_1857-05_10_5?page=85)
+## [From _The National Magazine; Devoted to Literature, Art, and Religion (1852-1858)_](https://archive.org/details/sim_national-magazine-devoted-to-literature-art-and-religion_1857-05_10_5/page/n85/model/1up?view=theater)
 
 #### 1857-05-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3251,7 +3248,7 @@ seed, forty-five pounds; hemp-seed, forty-five
 pounds; blue grass seed, fourteen pounds ;  
 dried peaches, thirty-three pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_national-magazine-devoted-to-literature-art-and-religion_1857-05_10_5&#0036;85/pct:17.244259,28.707124,32.609603,14.802111/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_national-magazine-devoted-to-literature-art-and-religion_1857-05_10_5&#0036;85/pct:17.244259,28.707124,32.609603,14.802111/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4123,7 +4120,7 @@ Of onions, fifty-seven pouuds!
 
 ---
 
-## [From _The Merchants' Magazine and Commercial Review (1839-1870)_](https://iiif.archivelab.org/iiif/sim_merchants-magazine-and-commercial-review_1860-10_43_4?page=127)
+## [From _The Merchants' Magazine and Commercial Review (1839-1870)_](https://archive.org/details/sim_merchants-magazine-and-commercial-review_1860-10_43_4/page/n127/model/1up?view=theater)
 
 #### 1860-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4167,7 +4164,7 @@ Of onions, fifty-seven pounds,
   
 Of salt, fifty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_merchants-magazine-and-commercial-review_1860-10_43_4&#0036;127/pct:13.805970,72.172619,64.800995,15.625000/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_merchants-magazine-and-commercial-review_1860-10_43_4&#0036;127/pct:13.805970,72.172619,64.800995,15.625000/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4449,7 +4446,7 @@ Of salt, fifty lbs
 
 ---
 
-## [From _The Louisville daily journal._](https://iiif.archivelab.org/iiif/xt7gms3jxj87?page=0)
+## [From _The Louisville daily journal._](https://archive.org/details/xt7gms3jxj87/page/n0/model/1up?view=theater)
 
 #### 1861-07-19 &middot; [Louisville, Ky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
@@ -4513,7 +4510,7 @@ Of onions, fifty-seven pouoda.
   
 Of salt, fifty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7gms3jxj87&#0036;0/pct:45.610212,80.741080,29.716687,12.705855/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7gms3jxj87&#0036;0/pct:45.610212,80.741080,29.716687,12.705855/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4877,7 +4874,7 @@ Biae-gtasi seed fourteen pounds
 
 ---
 
-## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1865-06-15_17_12?page=1)
+## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1865-06-15_17_12/page/n1/model/1up?view=theater)
 
 #### 1865-06-15 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -4909,13 +4906,13 @@ Dried peaches, 33 pounds.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1865-06-15_17_12&#0036;1/pct:5.984288,78.196565,21.372458,13.979008/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_colmans-rural-world_1865-06-15_17_12&#0036;1/pct:5.984288,78.196565,21.372458,13.979008/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1865-11-11_6_131?page=30)
+## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://archive.org/details/sim_london-reader-of-literature-science-art-and-general_1865-11-11_6_131/page/n30/model/1up?view=theater)
 
 #### 1865-11-11 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -4928,7 +4925,7 @@ Wuart Makes a BusHet.—The following table of
 the number of pounds of various articles to a bushel  
 may be of interest toour readers :—Wheat, 60 lbs.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_london-reader-of-literature-science-art-and-general_1865-11-11_6_131&#0036;30/pct:8.229814,68.092692,25.621118,4.278075/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_london-reader-of-literature-science-art-and-general_1865-11-11_6_131&#0036;30/pct:8.229814,68.092692,25.621118,4.278075/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5081,7 +5078,7 @@ Blue-grass seed, fourteen pounds
 
 ---
 
-## [From _Colman's rural world._](https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1867-03-01_19_5?page=2)
+## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1867-03-01_19_5/page/n2/model/1up?view=theater)
 
 #### 1867-03-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -5094,7 +5091,7 @@ table of the number of pounds of various arti-
 cles t» a bushel, may be of interest to our  
 readers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_colmans-rural-world_1867-03-01_19_5&#0036;2/pct:58.333333,71.977330,25.055188,3.463476/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_colmans-rural-world_1867-03-01_19_5&#0036;2/pct:58.333333,71.977330,25.055188,3.463476/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5128,7 +5125,7 @@ our readers
 
 ---
 
-## [From _Louisville daily Democrat._](https://iiif.archivelab.org/iiif/xt7fn29p5689?page=0)
+## [From _Louisville daily Democrat._](https://archive.org/details/xt7fn29p5689/page/n0/model/1up?view=theater)
 
 #### 1868-09-07 &middot; [Louisville, Kentucky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
@@ -5144,7 +5141,7 @@ Of blue grass seed, fourteen pou
 Of castor beans, forty-six pounds.  
 We don&#x27;t know that this is thestsndar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7fn29p5689&#0036;0/pct:75.101874,76.574094,9.223037,2.194191/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7fn29p5689&#0036;0/pct:75.101874,76.574094,9.223037,2.194191/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

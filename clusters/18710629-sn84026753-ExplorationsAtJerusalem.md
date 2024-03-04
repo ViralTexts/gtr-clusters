@@ -38,9 +38,9 @@ Further explorations disclosed a subterranean passage, perhaps orginally constru
 
 ---
 
-## [From _The Journal of Sacred Literature 1848-1868_](https://iiif.archivelab.org/iiif/sim_journal-of-sacred-literature_1868-01_2_4?page=248)
+## [From _The Journal of Sacred Literature 1848-1868_](https://archive.org/details/sim_journal-of-sacred-literature_1868-01_2_4/page/n248/model/1up?view=theater)
 
-#### 1868-01-01
+#### 1868-01-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -101,15 +101,15 @@ from the surface, and from here we commence the exploring of the
 “bottomless pit.” After dropping a rope down, we found that it was  
 only 6 feet deep, though it looked black enough for anything. Climb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_journal-of-sacred-literature_1868-01_2_4&#0036;248/pct:11.610672,41.997519,66.304348,44.323821/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_journal-of-sacred-literature_1868-01_2_4&#0036;248/pct:11.610672,41.997519,66.304348,44.323821/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _British and Foreign Evangelical Review 1852-1888_](https://iiif.archivelab.org/iiif/sim_british-and-foreign-evangelical-review_1868-04_17_64?page=65)
+## [From _British and Foreign Evangelical Review 1852-1888_](https://archive.org/details/sim_british-and-foreign-evangelical-review_1868-04_17_64/page/n65/model/1up?view=theater)
 
-#### 1868-04-01
+#### 1868-04-01 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -215,13 +215,13 @@ here we commence the exploring of the ‘ bottomless pit.’ After
 dropping a rope down, we found that it was only six feet deep, though it  
 looked black enough for anything. Climbing down, we found ourselve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_british-and-foreign-evangelical-review_1868-04_17_64&#0036;65/pct:16.119097,23.512748,68.891170,71.033994/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_british-and-foreign-evangelical-review_1868-04_17_64&#0036;65/pct:16.119097,23.512748,68.891170,71.033994/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Quiver 1861-1926_](https://iiif.archivelab.org/iiif/sim_quiver_1868-06-20_3_144?page=9)
+## [From _Quiver 1861-1926_](https://archive.org/details/sim_quiver_1868-06-20_3_144/page/n9/model/1up?view=theater)
 
 #### 1868-06-20
 
@@ -313,13 +313,13 @@ dropped a rope down into it, I&gt; discover that it
 really is only six feet deep, though certainly it  
 looked black enough for anything. On.climbin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_quiver_1868-06-20_3_144&#0036;9/pct:14.025357,13.434829,76.743265,76.308761/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_quiver_1868-06-20_3_144&#0036;9/pct:14.025357,13.434829,76.743265,76.308761/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Art Journal 1839-1912_](https://iiif.archivelab.org/iiif/sim_art-journal-us_1868-08_7_80?page=9)
+## [From _The Art Journal 1839-1912_](https://archive.org/details/sim_art-journal-us_1868-08_7_80/page/n9/model/1up?view=theater)
 
 #### 1868-08-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -338,7 +338,7 @@ to the spot and examined it.”’
 Captain Warren describes the operations con-  
 sequent on this discovery. The depth of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_art-journal-us_1868-08_7_80&#0036;9/pct:70.914346,30.144542,21.728849,8.729555/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_art-journal-us_1868-08_7_80&#0036;9/pct:70.914346,30.144542,21.728849,8.729555/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -597,7 +597,7 @@ July
 
 ---
 
-## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=39)
+## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1871-07_43_254/page/n39/model/1up?view=theater)
 
 #### 1871-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -638,13 +638,13 @@ however, to prosecute any | seventy-nine feet, the men were breaking up a
   
 SORO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;39/pct:29.995608,28.406467,56.258235,40.906467/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;39/pct:29.995608,28.406467,56.258235,40.906467/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=39)
+## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1871-07_43_254/page/n39/model/1up?view=theater)
 
 #### 1871-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -718,13 +718,13 @@ in the most disagreeable manner.
 Here five more frames have been  
 fixed to keep these stones steady.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;39/pct:15.854194,83.342956,70.794906,7.303695/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;39/pct:15.854194,83.342956,70.794906,7.303695/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=40)
+## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1871-07_43_254/page/n40/model/1up?view=theater)
 
 #### 1871-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -736,13 +736,13 @@ On peering down from this ledge one sees the
 Sanctuary wall, with its projecting courses,  
 until they are lost in the darkness below; ob
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;40/pct:48.198594,46.304850,34.666081,3.493072/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;40/pct:48.198594,46.304850,34.666081,3.493072/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Harper's new monthly magazine_](https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254?page=41)
+## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1871-07_43_254/page/n41/model/1up?view=theater)
 
 #### 1871-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -795,7 +795,7 @@ difficulty of his position is indicated by the fact
 that he had to back out 200 feet before he could  
 get to a point where he could turn his head
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;41/pct:52.213542,8.965517,35.677083,48.247126/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_harpers-magazine_1871-07_43_254&#0036;41/pct:52.213542,8.965517,35.677083,48.247126/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

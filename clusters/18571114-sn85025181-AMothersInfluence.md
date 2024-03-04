@@ -1,7 +1,7 @@
 
 # A Mother's Influence
 
-### 175 reprints from 1856-12-25 to 1899-05-18
+### 159 reprints from 1856-12-25 to 1899-05-18
 
 ## [A Mother's Influence](https://chroniclingamerica.loc.gov/lccn/sn85025181/1857-11-14/ed-1/seq-1/)
 
@@ -29,7 +29,7 @@ Hon. Thomas H. Benton, in a speech in New York, turned to the ladies, and referr
 
 ---
 
-## [From _Forrester's Boys' and Girls' Magazine, and Fireside Companion (1851-1857)_](https://iiif.archivelab.org/iiif/sim_forresters-boys-and-girls-magazine_january-december-1857_19-20?page=237)
+## [From _Forrester's Boys' and Girls' Magazine, and Fireside Companion (1851-1857)_](https://archive.org/details/sim_forresters-boys-and-girls-magazine_january-december-1857_19-20/page/n237/model/1up?view=theater)
 
 #### 1857-01-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -50,13 +50,13 @@ long before societies for that purpose were formed. I was an abstinent
 society at a time when I was the sole constituent member of my own body ;  
 and that I have adhered to it through all time, I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_forresters-boys-and-girls-magazine_january-december-1857_19-20&#0036;237/pct:19.892132,55.993151,64.149746,21.489726/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_forresters-boys-and-girls-magazine_january-december-1857_19-20&#0036;237/pct:19.892132,55.993151,64.149746,21.489726/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The liberator._](https://iiif.archivelab.org/iiif/sim_liberator_1857-01-02_27_1?page=0)
+## [From _The liberator._](https://archive.org/details/sim_liberator_1857-01-02_27_1/page/n0/model/1up?view=theater)
 
 #### 1857-01-02 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
@@ -80,13 +80,13 @@ the sole constituent member of my own body ; and
 | that | have adhered to it through all time, I owe  
 ito my mother. They are only women, who ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_liberator_1857-01-02_27_1&#0036;0/pct:6.017905,55.603448,26.442308,6.561303/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_liberator_1857-01-02_27_1&#0036;0/pct:6.017905,55.603448,26.442308,6.561303/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Kentucky tribune._](https://iiif.archivelab.org/iiif/xt78cz322z45?page=1)
+## [From _The Kentucky tribune._](https://archive.org/details/xt78cz322z45/page/n1/model/1up?view=theater)
 
 #### 1857-01-02 &middot; [Danville [Ky.]](http://dbpedia.org/resource/Danville%2C_Kentucky)
 
@@ -107,19 +107,31 @@ capacity for endurance I may have at
 p:esent, and whatever usefulness 1 » 5 *y  
 a’.iaiM in life, I attribute to having com 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt78cz322z45&#0036;1/pct:21.185525,64.965951,12.098299,7.260346/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt78cz322z45&#0036;1/pct:21.185525,64.965951,12.098299,7.260346/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://iiif.archivelab.org/iiif/sim_friends-review-a-religious-journal_1857-01-03_10_17?page=12)
+## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://archive.org/details/sim_friends-review-a-religious-journal_1857-01-03_10_17/page/n12/model/1up?view=theater)
 
 #### 1857-01-03 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+and even light a fire under his nose to heat it; which can be found in Congress boarding-houses.  
+with. My mother asked me never to use the| I carried my curiosity so far as to ask the mis-  
+weed, and I have never touched it from that| tress to take me into the cooking department,  
+  
+  
+  
+  
+  
+  
+  
+| . . . .  
   
 time to the present day. She asked me never| that I might see the cooking going on. She  
 to game, and I have never gamed ; and I cannot |  
@@ -130,13 +142,13 @@ any game that can be played. She admonished |
 me against hard drink; and whatever capacity  
 for endurance | may have at present, and what
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-review-a-religious-journal_1857-01-03_10_17&#0036;12/pct:9.367494,15.795959,75.820657,7.294234/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friends-review-a-religious-journal_1857-01-03_10_17&#0036;12/pct:9.327462,12.173484,75.900721,10.916708/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://iiif.archivelab.org/iiif/sim_friends-review-a-religious-journal_1857-01-03_10_17?page=12)
+## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://archive.org/details/sim_friends-review-a-religious-journal_1857-01-03_10_17/page/n12/model/1up?view=theater)
 
 #### 1857-01-03 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -171,7 +183,7 @@ that | have adhered to it through all my time, I
   
 owe to my mother. * * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friends-review-a-religious-journal_1857-01-03_10_17&#0036;12/pct:9.447558,17.003450,86.228983,18.210941/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friends-review-a-religious-journal_1857-01-03_10_17&#0036;12/pct:9.447558,17.003450,86.228983,18.210941/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -270,7 +282,7 @@ I owe to my mother. They are only wome
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1857-05-07_31_19?page=3)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1857-05-07_31_19/page/n3/model/1up?view=theater)
 
 #### 1857-05-07 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -297,7 +309,7 @@ when I was the sole constituent of my own
 body ; and that { have adhered to it through  
 all time, I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1857-05-07_31_19&#0036;3/pct:26.264489,19.885630,16.701791,10.514665/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1857-05-07_31_19&#0036;3/pct:26.264489,19.885630,16.701791,10.514665/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,6 +425,35 @@ and that I havo adhered to it through all
 time, I owo to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn85025181%2F00237287939%2F1857111401%2F0461.jp2/pct:70.283500,37.826087,12.951254,24.782609/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Worcester daily spy._](https://chroniclingamerica.loc.gov/lccn/sn83021205/1857-12-01/ed-1/seq-2)
+
+#### 1857-12-01 &middot; [Worcester [Mass.]](http://dbpedia.org/resource/Worcester%2C_Massachusetts)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+How “Old Bullion” was Made.—Thomas  
+H. Benton, in a speech in New York, turned  
+to the ladies, and referring to his mother,  
+said“My mother asked me never to use  
+tobacco, and I have never touched it from  
+that time to the present day. She asked me  
+not to game, and I have never gamed ; and I  
+cannot tell to this day who is winning and who  
+is losing in games thal can be played. She  
+admonished me, too, against hard drink ; and  
+whatever capacity for endurance I may have  
+at present, and whatever usefulness I may at­  
+tain in life, 1 attribute to having complied  
+with her pious and earnest wishes.”  
+The grand jury of New Orleans hav
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mb_circe_ver01%2Fdata%2Fsn83021205%2F00517171906%2F1857120101%2F1078.jp2/pct:45.032913,64.489293,12.320989,7.207342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -782,6 +823,36 @@ owe to my mother
 
 ---
 
+## From _Vermont watchman and State journal._
+
+#### 1858-09-10 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+the tribute of thr Hon. T. H. Benton, to his  
+mother&#x27;s influence:  
+&quot;My mother asked me never to use tobac  
+co, and I have never touched it from that  
+that time to the present day; she asked me  
+not to game, and I have never gamed, and I  
+cannot tell who is winning and who is losing  
+in games that can be played. She admonish  
+ed me too against hard drinking; and what  
+ever capacity for endurance I may have at  
+present, and whatever usefulness I may at  
+tain in life, I attribute to having complied  
+with her pious and correct wishes. When I  
+was seven years of age, she asked me not to  
+drink, and I then made a resolution of total  
+abstinence, at a time when I was the sole  
+constituent member of my own body, and  
+that I have adhered to it through all time, I  
+owe to my mother
+</td></tr></table>
+
+---
+
 ## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1858-09-18/ed-1/seq-1)
 
 #### 1858-09-18 &middot; [Bridgeton, N.J.](http://dbpedia.org/resource/Bridgeton%2C_New_Jersey)
@@ -904,7 +975,7 @@ owe to my mother
 
 ---
 
-## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://iiif.archivelab.org/iiif/sim_independent_1858-12-30_10_526?page=5)
+## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1858-12-30_10_526/page/n5/model/1up?view=theater)
 
 #### 1858-12-30 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -947,7 +1018,7 @@ stituent member of my own body; and that I have
 adhered to it through all past time, lowe to my  
 mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_independent_1858-12-30_10_526&#0036;5/pct:52.696335,27.474832,12.761780,14.733641/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_independent_1858-12-30_10_526&#0036;5/pct:52.696335,27.474832,12.761780,14.733641/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1044,7 +1115,7 @@ past tlmo, I owo to my jnoihcr
 
 ---
 
-## [From _Michigan Farmer (1843-1908)_](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-02-12_1_7?page=5)
+## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1859-02-12_1_7/page/n5/model/1up?view=theater)
 
 #### 1859-02-12 &middot; [Lansing](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
@@ -1091,24 +1162,7 @@ she asked me not to drink, and I made then
 total abstinence society at a time when I was  
 the sole constituent member of my own body;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-02-12_1_7&#0036;5/pct:25.657386,69.123563,16.569992,23.879310/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Michigan Farmer (1843-1908)_](https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-02-12_1_7?page=5)
-
-#### 1859-02-12 &middot; [Lansing](http://dbpedia.org/resource/Lansing%2C_Michigan)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-and that I have adhered to it through all time,  
-I owe to my mother. ai’
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_michigan-farmer_1859-02-12_1_7&#0036;5/pct:26.005414,92.758621,16.144625,1.364943/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_michigan-farmer_1859-02-12_1_7&#0036;5/pct:25.657386,69.123563,16.569992,23.879310/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1402,12 +1456,9 @@ usefulness I may attain in life, I attribute it
 to Imving cc-jplied with her pious and  
 correct wishes. When I was even years  
 of uc she asked no to drink, and then  
-I mad.- a resolution of total altstinance, at a  
-time when I was sole constitute member of  
-my own boJy; and that I have adhered to  
-it through all time, I owu to my mother
+I mad.- a resolution of total altstinance, at 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_irvington_ver01%2Fdata%2Fsn82015672%2F00296021945%2F1859102801%2F0667.jp2/pct:34.916164,50.957735,12.394366,8.609203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_irvington_ver01%2Fdata%2Fsn82015672%2F00296021945%2F1859102801%2F0667.jp2/pct:34.916164,50.957735,12.367539,7.037268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1508,40 +1559,7 @@ hated to it through all time, owe it to my mother.&quot;
 
 ---
 
-## [From _Kanawha Valley star._](https://chroniclingamerica.loc.gov/lccn/sn85059862/1859-11-28/ed-1/seq-4)
-
-#### 1859-11-28 &middot; [Charleston, Va. [W. Va.]](http://dbpedia.org/resource/Charleston%2C_West_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-My mother asked me never to Use  
-tobacco, t have newer touched it  
-from that tiibidp the present day ;  
-•he asked me not to game, knQ J have,  
-never gambled, and I cannot tell who  
-, f is losing In trames that can be played  
-She admonished me, too, .against hard  
-drinking ; ami whatever capacity tor  
-endurance I -&#x27;have at preaeut,; ami  
-whatever usefulness I may attain iti  
-r&#x27; life; l have aftribnted to having cum­  
-pli^iwith belt pious ami correttvyish­  
-:Wbeii i waa.seven years  
-| she asked me not to-drink, and then  
-made a, resolution oftotal ah*ij.  
-nenoe, at a time when I was sole con­  
-atitueut inwmber of uiy awn 6ody{hnVi  
-that I have adhered to it through all  
-4MMV J f»«WU to Wiy mother,&quot; &#x27; 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_hogan_ver01%2Fdata%2Fsn85059862%2F00514157376%2F1859112801%2F0524.jp2/pct:5.561459,84.311675,13.766383,11.351157/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1859-11-30_30_47?page=0)
+## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://archive.org/details/sim_zions-herald_1859-11-30_30_47/page/n0/model/1up?view=theater)
 
 #### 1859-11-30 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1566,7 +1584,7 @@ constituent member of my own body, and that I
 have adhered to it through all time, I owe it to my  
 mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1859-11-30_30_47&#0036;0/pct:78.272827,78.903620,10.863586,7.523148/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_zions-herald_1859-11-30_30_47&#0036;0/pct:78.272827,78.903620,10.863586,7.523148/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1601,7 +1619,7 @@ mother
 
 ---
 
-## [From _Ballou's Pictorial Drawing - Room Companion (1855-1859)_](https://iiif.archivelab.org/iiif/sim_ballous-pictorial-drawing-room-companion_1859-12-10_17_24?page=15)
+## [From _Ballou's Pictorial Drawing - Room Companion (1855-1859)_](https://archive.org/details/sim_ballous-pictorial-drawing-room-companion_1859-12-10_17_24/page/n15/model/1up?view=theater)
 
 #### 1859-12-10 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1624,7 +1642,7 @@ resolution of total abstinence, at a time when I
 was sole constituent member of my own body,  
 and that I have adhered to it through all time, I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_ballous-pictorial-drawing-room-companion_1859-12-10_17_24&#0036;15/pct:72.789784,80.262715,20.088409,9.632873/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_ballous-pictorial-drawing-room-companion_1859-12-10_17_24&#0036;15/pct:72.789784,80.262715,20.088409,9.632873/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1733,7 +1751,7 @@ it to my mother
 
 ---
 
-## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://iiif.archivelab.org/iiif/sim_independent_1860-11-15_12_624?page=5)
+## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1860-11-15_12_624/page/n5/model/1up?view=theater)
 
 #### 1860-11-15 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1759,7 +1777,7 @@ stinence, at a time when I was sole constituent member
 of my own body ; and that I have adhered to it through all  
 time, I owe it to my mother.”’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_independent_1860-11-15_12_624&#0036;5/pct:48.445802,42.203073,12.964931,5.772425/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_independent_1860-11-15_12_624&#0036;5/pct:48.445802,42.203073,12.964931,5.772425/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1775,7 +1793,7 @@ time, I owe it to my mother.”’
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1860-11-29_34_48?page=3)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1860-11-29_34_48/page/n3/model/1up?view=theater)
 
 #### 1860-11-29 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1809,7 +1827,7 @@ ent member of my own body ; and that I have
 sient it through all time, I owe it to my  
 mother.”’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1860-11-29_34_48&#0036;3/pct:46.090535,11.036364,32.073045,82.200000/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1860-11-29_34_48&#0036;3/pct:46.090535,11.036364,32.073045,82.200000/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1880,47 +1898,7 @@ to it through all tima,
 
 ---
 
-## [From _The Plymouth weekly Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87056248/1861-01-17/ed-1/seq-1)
-
-#### 1861-01-17 &middot; [Plymouth, Ind.](http://dbpedia.org/resource/Plymouth%2C_Indiana)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-ihuteof Hon. Thos. H.Benton to liislln. , &quot; New rk WorM &quot;-vs that the  
-other&#x27;s inflaence I tn uron wn,cil 1,10 Declaration of ths  
-  
-tr  
-mother  
-&quot;My mother asked rae never to use to­  
-bacco. I have nevT touched it from that  
-time to the present day. She asked not to  
-game, and I have never gambled. ail 1  
-cannot tell who is winning and v,ho h I -  
-sin in amea that can be rb.ved  
-.- tv - ...... 1 -.. I ...Uli, I J Itf  
-t .  
-j I i .  
-admonished me. -too, gainst hard drink-  
-ing; and wha-ver rapacity for e-jdurw  
-l nave at present, and whatever u?ehi!ii.&#x27;i  
-I may attain in life. I have attributed to !  
-having complied with her pious and cor­  
-rect wishes. When I was peven yeArscf  
-ag she a?ked mo njt to driafc, and thon I  
-nude a resolution of total abstinence, at a  
-time wlwn I was solo constituent nirtrubf  
-of my own body; and that I have adhered  
-t it through all time, I owe it to tayinjta-  
-cr
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_chacha_ver03%2Fdata%2Fsn87056248%2F00200294543%2F1861011701%2F0396.jp2/pct:71.098196,71.421796,25.681075,11.258655/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Southern Teacher 1859-1861_](https://iiif.archivelab.org/iiif/sim_southern-teacher_1861-05_2_10?page=19)
+## [From _Southern Teacher 1859-1861_](https://archive.org/details/sim_southern-teacher_1861-05_2_10/page/n19/model/1up?view=theater)
 
 #### 1861-05-01
 
@@ -1945,7 +1923,7 @@ to drink, and I made a resolution of total abstinence, at the
 time when I was sole constituent member of my own body, and  
 that I have adhered to it through all time, I owe it to my mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_southern-teacher_1861-05_2_10&#0036;19/pct:20.209581,13.099520,67.415170,26.288969/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_southern-teacher_1861-05_2_10&#0036;19/pct:20.209581,13.099520,67.415170,26.288969/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2053,36 +2031,6 @@ my mother
 
 ---
 
-## [From _The Evansville daily journal._](https://chroniclingamerica.loc.gov/lccn/sn82015672/1861-10-18/ed-1/seq-2)
-
-#### 1861-10-18 &middot; [Evansville, Ia. [i.e. Ind.]](http://dbpedia.org/resource/Evansville%2C_Indiana)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-My mother asked me neen to use lobar­  
-co. I have never used It from that time to  
-the present day. Sh. asked mo . not o  
-game, and I caunol tell who is winning aott  
-lu ia Inainir in names Uiat cttti la n&#x27;.sve.l  
-She admonished me, too, against nard  
-drinking; and whatever capacity for endu-  
-ranee f have, at present, and whatever use  
-fulness I but attain in life. I have attribu ,  
-ted to having complied with her pious anil  
-correct wishes. When I was seven yeert  
-of age she asked me not to drink, and I  
-made a resolution of tot il abstinence at a  
-time when I was solt? constituent member  
-of my own body; itui that I have adhered  
-to it through all time, 1 owe to ray mother
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_irvington_ver01%2Fdata%2Fsn82015672%2F00296021982%2F1861101801%2F0409.jp2/pct:21.174578,84.590292,12.646822,7.867954/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Cincinnati daily press._](https://chroniclingamerica.loc.gov/lccn/sn84028745/1861-10-18/ed-1/seq-4)
 
 #### 1861-10-18 &middot; [Cincinnati [Ohio]](http://dbpedia.org/resource/Cincinnati)
@@ -2120,11 +2068,6 @@ all time, I owe to my mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-posed to attend the act of getting glorious­  
-ly tight.  
-Benton&#x27;s Mother. How touching is  
-the tribute of Hon. T. II. Benton to Lis  
-mother&#x27;s influence:  
 &quot;31y mother asked me never to use to­  
 bacco. I have never used it from that  
 time to the present day. She asked me  
@@ -2142,7 +2085,7 @@ abstinence, at a tima when I was sole con­
 stituent member oil my own body; and  
 that I havo adhered to it Chrouh all tim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn85054845%2F00212477667%2F1861112801%2F0149.jp2/pct:4.921106,80.713436,14.935166,13.495838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn85054845%2F00212477667%2F1861112801%2F0149.jp2/pct:4.921106,84.423306,14.935166,9.785969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2248,15 +2191,6 @@ to my mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Ilea. Thomas H. Benton&#x27;s Mother.  
-How touchins the tribute of the Hon  
-Thomas II. Benton to his mother&#x27;s in-!  
-  
-fluence: I  
--My metherasked me never to use to- whe.t nd &quot;  
-bacco. I have never used it from that Thc Pralrie fanner says, with all the  
-time to the present day. She asked me emphag;3 which itaiica aati an earnest  
-not to game. I cannot tell who is win- ( eonTict;on call give: &quot;It u no longer  
 ning and who is losing m games that , fitahje t0 grol0 w ea or com exclu­  
 can be played. She admonished me, !ively a3 a farm cropt ad the farmer of  
 too, against hard drinking; and whatever ; thj est must turn his attention to a  
@@ -2276,7 +2210,7 @@ my own uouy, anu umi. i
 to.it through,all. time, I owe to my &#x27;  
 motber
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn85038184%2F00296026797%2F1862040401%2F0078.jp2/pct:3.972449,69.094208,23.402210,11.377478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn85038184%2F00296026797%2F1862040401%2F0078.jp2/pct:3.972449,73.240897,23.402210,7.230789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2287,16 +2221,6 @@ motber
 #### From _Vermont chronicle._
 
 #### 1862-08-12 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
-
-[This text is not available under an open license.]
-
----
-
-## Article 11 -- No Title
-
-#### From _Southern Cultivator (1843-1906)_
-
-#### 1862-09-01 &middot; [Atlanta](http://dbpedia.org/resource/Atlanta)
 
 [This text is not available under an open license.]
 
@@ -2400,40 +2324,6 @@ olution of total abstinence
 
 ---
 
-## [From _Abbeville press._](https://chroniclingamerica.loc.gov/lccn/sn85042527/1866-03-02/ed-1/seq-1)
-
-#### 1866-03-02 &middot; [Abbeville, S.C.](http://dbpedia.org/resource/Abbeville%2C_South_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-in hit mntho/a inflnanAA #  
-  
-?  
-My mother uked me never to use tob&amp;coo;  
-I have never touched it from that  
-time to the present day. She asked mo  
-not to g?me, and I have qever gambled,  
-and I cannot tell who is losing in game*  
-that are being played. She&#x27; admonished  
-me, too, against hard drinking; and What&#x27;  
-ever capacity for endurance I have at present,  
-and whatever usefulness I may have  
-attained in life, I have attributed to having  
-complied with her pious and correct wish*  
-  
-ea. When I wm seven years of age; aba  
-asked me not to drink, and Ibenlmade a  
-resolution of total abstinence, and tflit I  
-bavo adhered to it through all time I owe  
-to my mother.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn85042527%2F00202193997%2F1866030201%2F0135.jp2/pct:80.858411,58.216347,17.064079,11.675246/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The loyal Georgian._](https://chroniclingamerica.loc.gov/lccn/sn82016224/1866-03-17/ed-1/seq-3)
 
 #### 1866-03-17 &middot; [Augusta, Ga.](http://dbpedia.org/resource/Augusta%2C_Georgia)
@@ -2508,41 +2398,6 @@ it through all .past time, I owe . to my
 mother.&#x27;&#x27;&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn83035216%2F00280775162%2F1867020201%2F0850.jp2/pct:57.836129,83.277063,12.249106,11.025533/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Revolution 1868-1872_](https://iiif.archivelab.org/iiif/sim_revolution_1868-10-29_2_17?page=10)
-
-#### 1868-10-29 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-A MOTHER&#x27;S LOVE.  
-—_—»—.——  
-  
-Hon. Toomas H. Benton once paid this tri-  
-bute to the memory of his mother. Mr. Ben-  
-ton was certainly one of the noblest specimens  
-of the physical man the country has produced :  
-“My mother asked me never to use tobacco ; I  
-have never tonched it from that time to the |  
-present day. She asked me not to gamble, and  
-Ibave never gambled, and I cannot tell who is  
-losing in games thatare being played. She ad-  
-monished me, too, against hard drinking ; and  
-whatever capacity for endurance I may bave at  
-present, and whatever usefulness I may have  
-attained in life, I have attributed to having  
-complied with her pious and correct wishes.  
-When I was seven years of age she asked me  
-not to drink, and thenI made a resolution of  
-total abstinence; and that I have adhered to it  
-tbrough all time, I owe to my mother.”
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_revolution_1868-10-29_2_17&#0036;10/pct:7.057416,8.810764,24.551435,21.115451/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2634,69 +2489,6 @@ through all time, I owe to my mother.
 #### 1869-08-14 &middot; [Portage, Columbia County, Wis.](http://dbpedia.org/resource/Portage%2C_Wisconsin)
 
 [This text is not available under an open license.]
-
----
-
-## [From _The Hickman courier._](https://chroniclingamerica.loc.gov/lccn/sn85052141/1869-08-14/ed-1/seq-3)
-
-#### 1869-08-14 &middot; [Hickman, Ky.](http://dbpedia.org/resource/Hickman%2C_Kentucky)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-ould not the uioderu oue:  
-A 31 other&#x27;s Intluence.  
-How touching is this tribute of Hon  
-T. II. Benton to his mother&#x27;s iufluence  
-&quot;My mother asked me to never use to­  
-bacco; I have never touched it froui that  
-time to this day. She asked me not to  
-gamble, and I have uever gambled. I  
-can not tell who is losing in games that  
-are being played. She admonished me,  
-too, against hard drinking, and whatever  
-capacity for endurance I have at present-,  
-and whatever uefullness I may have at­  
-tained through life, I have attributed to  
-having complied with her pious and cor­  
-rect wishes. When I was seven years of  
-age she asked me not to drink, and then  
-I made a resolution of total abstinence;  
-and that I have adhered to it through all  
-time, I owe to my mother
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_cardinal_ver01%2Fdata%2Fsn85052141%2F00202195301%2F1869081401%2F0199.jp2/pct:34.294148,60.047059,14.429588,11.305882/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Cairo evening bulletin._](https://chroniclingamerica.loc.gov/lccn/sn88074143/1869-08-16/ed-1/seq-1)
-
-#### 1869-08-16 &middot; [Cairo, Ill.](http://dbpedia.org/resource/Cairo%2C_Illinois)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Denton tohU mother&#x27;s influence: &quot;Mvmetu­  
-r asked me never to use tobacco ; I have  
-never touched it from that tins to the pres­  
-ent day. She asked me not te gamble and I  
-never gambled. I cannot tell who is losiag  
-in games that are being played. She admon­  
-ished me, too, against nard drinking; and  
-whatever capacity for endurance I have at  
-present, and whatever usefulness I may kave  
-attained tnrougu me, x cave auriDntea to  
-having complied with her pious and correct  
-wishes. When I was seven years of age tho  
-asked me not to drink, and thon I made a res­  
-olution of total abstiaence; and that I have  
-adhered to it through all time, I owe to my  
-uottiar
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_juliet_ver01%2Fdata%2Fsn88074143%2F00280761461%2F1869081601%2F0734.jp2/pct:38.970917,68.589188,17.248322,8.181555/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
@@ -2864,7 +2656,7 @@ owe to mv rnnth&quot;i\
 
 ---
 
-## [From _The flag of our Union._](https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1870-02-26_25_8?page=13)
+## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1870-02-26_25_8/page/n13/model/1up?view=theater)
 
 #### 1870-02-26 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -2891,7 +2683,7 @@ nence, at a time when I was sole constituent of my
 own body; and that I have adhered to it through all  
 time, I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_flag-of-our-union_1870-02-26_25_8&#0036;13/pct:57.419479,77.503272,16.449387,11.305628/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_flag-of-our-union_1870-02-26_25_8&#0036;13/pct:57.419479,77.503272,16.449387,11.305628/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3122,7 +2914,7 @@ all time I owe to my mother.
 
 ---
 
-## [From _Revolution 1868-1872_](https://iiif.archivelab.org/iiif/sim_revolution_1870-08-18_6_7?page=11)
+## [From _Revolution 1868-1872_](https://archive.org/details/sim_revolution_1870-08-18_6_7/page/n11/model/1up?view=theater)
 
 #### 1870-08-18 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3146,9 +2938,9 @@ correct wishes. When I was seven years old
 she asked me not to drink, and then I made a  
 resolution of total abstinence ; and that I have  
 adhered to it throagh all time, I owe to my  
-mother.
+mother.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_revolution_1870-08-18_6_7&#0036;11/pct:38.331354,63.171577,24.406176,17.807626/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_revolution_1870-08-18_6_7&#0036;11/pct:38.331354,63.171577,24.406176,17.807626/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3276,7 +3068,7 @@ time I owe to my mother
 
 ---
 
-## [From _The Galaxy. A Magazine of Entertaining Reading (1866-1878)_](https://iiif.archivelab.org/iiif/sim_galaxy_1870-12_10_6?page=137)
+## [From _The Galaxy. A Magazine of Entertaining Reading (1866-1878)_](https://archive.org/details/sim_galaxy_1870-12_10_6/page/n137/model/1up?view=theater)
 
 #### 1870-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3300,38 +3092,13 @@ age she asked me not to drink, ard then I made a res-
 olution of total abstinence ; and that I have adhered  
 to it through all time, I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_galaxy_1870-12_10_6&#0036;137/pct:57.094595,14.469453,32.263514,16.237942/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_galaxy_1870-12_10_6&#0036;137/pct:57.094595,14.469453,32.263514,16.237942/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _New York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85026214/1870-12-25/ed-1/seq-6)
-
-#### 1870-12-25 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-tell who is losing in games that are being  
-played. She admonished me, too, against  
-liquor drinking, and whatever capacity for en­  
-durance I have at present, and whatever use­  
-fulness it may have attained through life, I  
-have attributed to having complied with her  
-pions and correct- wishes. When I was seven  
-years of age she asked me not to drink, and  
-then I made a resolution of total abstination ;  
-and that I have adhered to it through all time,  
-I owe to my mother.’ 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_dunbar_ver01%2Fdata%2Fsn85026214%2Fprint00211110181%2F1870122501%2F0006.jp2/pct:56.898293,48.391041,12.080044,3.919423/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1870-12-29_43_52?page=7)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1870-12-29_43_52/page/n7/model/1up?view=theater)
 
 #### 1870-12-29 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -3355,19 +3122,9 @@ made a resolution of total abstinence; and that
 I have adhered to it through all time, I owe to  
 my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1870-12-29_43_52&#0036;7/pct:50.665188,38.886821,20.898004,9.400596/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1870-12-29_43_52&#0036;7/pct:50.665188,38.886821,20.898004,9.400596/600,/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## Multiple News Items
-
-#### From _Morning republican._
-
-#### 1871-12-21 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -3396,16 +3153,6 @@ I made a resolution of total abstinence tha
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84026817%2F00202193766%2F1872032101%2F0467.jp2/pct:19.359515,75.829891,15.774908,10.448218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## The Sunday School
-
-#### From _The Congregationalist._
-
-#### 1872-04-18 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -3447,30 +3194,18 @@ my mother.
 
 ---
 
-## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028821/1872-11-07/ed-1/seq-1)
-
-#### 1872-11-07 &middot; [Millersburg, Holmes Co., O. [Ohio]](http://dbpedia.org/resource/Millersburg%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-then I made it resolution of total absti  
-nence: and that I have adhered to it  
-through all time, I owe to my mother.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028821%2F00280775484%2F1872110701%2F0561.jp2/pct:75.732218,95.254461,9.815202,1.427627/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1872-12_55_6?page=63)
+## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1872-12_55_6/page/n63/model/1up?view=theater)
 
 #### 1872-12-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+and on the other all  
+the evil it has done you,” said a friend to a thirty-  
+years’ drunkard. ‘ That is impossible,’”’ was the  
+reply, ‘for there is not a sheet of paper that ever  
+was made that would contain half of the evil ale  
+has done me.”’  
   
 ““My mother asked me never to use tobacco;  
 I have never touched it from that time to the  
@@ -3486,37 +3221,7 @@ to drink, and then I made a resolution of total ab-
 stinence; and that I have adhered to it through all  
 time, I owe to my mother.” — Thos. H. Benton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_phrenological-journal-and-science-of-health_1872-12_55_6&#0036;63/pct:15.172414,35.590278,35.517241,16.059028/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Knoxville daily chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033437/1872-12-15/ed-1/seq-1)
-
-#### 1872-12-15 &middot; [Knoxville, Tenn.](http://dbpedia.org/resource/Knoxville%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Thomas H. Benton to his mother&#x27;s influ­  
-ence: &quot;My mother asked me never to use  
-tobacco ; I have never touched it from that  
-time to the present day. She asked me  
-never to gamble, and I have never gam­  
-bled; I can not tell who is losing in games  
-that are being played. She admonished  
-me, too, against hard drinking; and what­  
-ever capacity for endurance I have at pres­  
-ent, and whatever usefulness I have, I at­  
-tributed to havingcomplied with her pious  
-and correct wishes. When I was seven  
-years of age she asked me not to drink,  
-and then I made a resolution of total ab­  
-stinence ; and that I have adhered to it  
-through all time, I owe to my mother.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_grady_ver01%2Fdata%2Fsn85033437%2F00200293733%2F1872121501%2F0560.jp2/pct:18.912219,74.208003,14.231554,7.774073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_phrenological-journal-and-science-of-health_1872-12_55_6&#0036;63/pct:15.043103,27.748843,35.646552,23.900463/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3529,8 +3234,6 @@ through all time, I owe to my mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-come, for at last I have something I can  
-give to all of them.&quot;  
 &quot; My mother asked me never to nse  
 tobacco ; I have never touched it from  
 that time to the present day. She asked  
@@ -3548,7 +3251,7 @@ made a resolution of total abstinence;
 and that I have adhered to it through all  
 time, I owe to my mothr.&quot;- That. H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628481%2F1872122701%2F0217.jp2/pct:6.504374,82.152608,12.324078,11.754562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628481%2F1872122701%2F0217.jp2/pct:6.504374,83.891364,12.324078,10.015807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3561,8 +3264,6 @@ time, I owe to my mothr.&quot;- That. H
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-by tho information.  
-A Mother&#x27;s Inklience. How  
 touching is this tributeof lion. Thom  
 as II. Benton to lus mother&#x27;s influ  
 ence : &quot;My mother asked me never to  
@@ -3583,7 +3284,7 @@ abstinence; and that I have adhered
 to it through all time, I owe to my  
 mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061082%2F00212470314%2F1873100401%2F0371.jp2/pct:15.121381,58.080412,9.812811,9.351551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061082%2F00212470314%2F1873100401%2F0371.jp2/pct:15.121381,59.401949,9.812811,8.030015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3596,7 +3297,6 @@ mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-ton to his mother&#x27;s influence.: &quot;My mother  
 ashed me Aver to use tobacco; I have sot  
 touched it from that time to the present day.  
 She asked me never to gamble; and I have  
@@ -3611,71 +3311,7 @@ not to drink, and then I made a resolution of
 total abstinance; and that I have adhered toit  
 through all time, I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn82015407%2F00295869586%2F1874011501%2F0273.jp2/pct:75.962861,17.317597,18.552270,9.849785/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Youth's Companion (1827-1929)_](https://iiif.archivelab.org/iiif/sim_youths-companion_1874-06-04_47_23?page=7)
-
-#### 1874-06-04 &middot; [Boston](http://dbpedia.org/resource/Boston)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Hon. Thomas H. Benton paid a beautiful tribute to  
-his mother,  
-  
-My mother asked me never to use tobacco; I have  
-never touched it from that time to the present day.  
-She asked me never to gamble, and I have never gam-  
-  
-| bled; I cannot tell who is losing in games that are  
-being played. She admonished me, too, against hard  
-drinking; and whatever capacity ‘for endurance I  
-have at present, and whatever usefulness I have, I  
-aitribute to having complied with her pious and cor-  
-rect wishes. When I was seven years of age she  
-asked me not to drink, and then ] made a resolution  
-of total abstinence; and that I have adhered to it  
-through all time, I owe to my mother
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_youths-companion_1874-06-04_47_23&#0036;7/pct:28.451178,33.676912,21.408530,7.908546/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Connecticut western news._](https://chroniclingamerica.loc.gov/lccn/sn84027718/1874-06-12/ed-1/seq-4)
-
-#### 1874-06-12 &middot; [Salisbury, Litchfield Co., Conn.](http://dbpedia.org/resource/Canaan%2C_Connecticut)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-ers. Hon. Thomas H. Benton paid a  
-beautiful tribute to his mother: &quot; My  
-ll . a W  
-mouier asgea me never to use tobacco  
-I have never touched it from that time  
-to the present day. She asked me never  
-to gamble, and I have never gambled ;  
-I cannot tell who is losing in games  
-mac are Demg played. Hue admonished  
-me, too, against hard drinkinc : and  
-whatever capacity for endurance I have  
-at present, and whatever usefulness I  
-have, I attribute to having complied  
-, with&#x27;  
-pious and correct wishes.  
-When I was seven years of age she  
-asked me not to drink, and then I made  
-a resolution of total abstinence ; and  
-that I have adhered to it through all  
-time, 1 owe to my mother.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_animals_ver01%2Fdata%2Fsn84027718%2F00271763815%2F1874061201%2F0110.jp2/pct:28.922076,88.499530,11.267189,8.043274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn82015407%2F00295869586%2F1874011501%2F0273.jp2/pct:75.980055,18.025751,18.535076,9.141631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3691,41 +3327,6 @@ time, 1 owe to my mother.
 
 ---
 
-## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1875-12-16/ed-1/seq-4)
-
-#### 1875-12-16 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-How touching is the tribute of  
-Hon. Thomas II. Benton to his  
-mother&#x27;s influence: &quot;My mother  
-asked me never to use tobacco; I  
-never touched it from that time to  
-the present day. She asked me nev  
-er to gamble; and I never have  
-gambled; I cannot tell who are los­  
-ing in games that are being pla3-  
-ed. She admonished me, too,  
-against hard drinking; and what  
-ever capacity-of endurance I have  
-at present, and whatever usefulness  
-I have, I attribute to having com  
-plied with ker cor-rect and pious  
-wishes. When I was seven j-ears  
-of age, she asked me not to drink,  
-and then I made a resolution of to­  
-tal abstinence; and that I have ad­  
-hered to it through all time, I owe  
-to inv mother. 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F00212470181%2F1875121601%2F0632.jp2/pct:26.447955,58.973491,9.720535,11.573604/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1876-03-03/ed-1/seq-1)
 
 #### 1876-03-03 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
@@ -3733,6 +3334,8 @@ to inv mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+were white men in disguise, and thinks  
+there is no possibility of detecting them.  
 How touching is the tribute of Hon.  
 Thomas II. Benton to his mother&#x27;s in  
 fluence : &quot; My mother asked me never  
@@ -3752,13 +3355,13 @@ I made a resolution of total abstinence:
 and that I have adhered to it through  
 all time, I owe to my mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628481%2F1876030301%2F0890.jp2/pct:80.337637,75.770925,12.969215,11.674009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628481%2F1876030301%2F0890.jp2/pct:80.337637,74.038179,13.008937,13.406755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Zion's Herald (1868-1910)_](https://iiif.archivelab.org/iiif/sim_zions-herald_1877-03-22_54_12?page=2)
+## [From _Zion's Herald (1868-1910)_](https://archive.org/details/sim_zions-herald_1877-03-22_54_12/page/n2/model/1up?view=theater)
 
 #### 1877-03-22 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -3788,7 +3391,7 @@ tion of total abstinence, and that I have
 adhered to it through all time, I owe to  
 my mother.” It would be well for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_zions-herald_1877-03-22_54_12&#0036;2/pct:19.038929,8.687555,23.236010,84.969325/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_zions-herald_1877-03-22_54_12&#0036;2/pct:19.038929,8.687555,23.236010,84.969325/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3949,7 +3552,7 @@ my mother.
 
 ---
 
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1878-04-06_51_34?page=3)
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1878-04-06_51_34/page/n3/model/1up?view=theater)
 
 #### 1878-04-06 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -3975,7 +3578,7 @@ and correct wishes. When I was seven years
 of age she asked me not to drink, and then I  
 made a resolution of total abstinence, at 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1878-04-06_51_34&#0036;3/pct:40.371926,71.558383,27.924415,18.173557/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friend-a-religious-and-literary-journal_1878-04-06_51_34&#0036;3/pct:40.371926,71.558383,27.924415,18.173557/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4155,13 +3758,6 @@ all the time, I owe tojmy mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-A Mother&#x27;s Influence.  
-  
-The late Thomas H. Benton, who  
-was so ltiug iu public life andsurrouud­  
-ed by temptations, paid the following  
-tribute to his mother:  
-  
 &quot;My mother asked me never to use  
 any tobacco, and I never touched it  
 from that time to the present day; she  
@@ -4182,7 +3778,7 @@ stituent member of my own body, and
 that I have adhered to it through all the  
 time, I oivo to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_juno_ver02%2Fdata%2Fsn84022770%2F00200291074%2F1879011101%2F1217.jp2/pct:34.973157,66.232602,14.195746,13.118812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_juno_ver02%2Fdata%2Fsn84022770%2F00200291074%2F1879011101%2F1217.jp2/pct:34.973157,69.299756,14.195746,10.051657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4596,9 +4192,11 @@ and correct wishes. When I was seven
 years of age she asked me not to drink, and  
 then I made a resolution of total abstinence,  
 and that I have adhered to it through all  
-the time I owe to my mother.
+the time I owe to my mother.&quot;  
+Thos. II. Benton was a native of Orange  
+county, North Carolina, and represente
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296023000%2F1879041801%2F0272.jp2/pct:65.275853,47.304182,14.541170,10.241987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296023000%2F1879041801%2F0272.jp2/pct:65.261991,47.304182,14.555032,11.696031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4672,7 +4270,7 @@ time I owe to my mother.
 
 ---
 
-## [From _Maine farmer._](https://iiif.archivelab.org/iiif/sim_maine-farmer_1879-05-03_47_23?page=3)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1879-05-03_47_23/page/n3/model/1up?view=theater)
 
 #### 1879-05-03 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -4704,7 +4302,7 @@ constituent member of my own body, and
 that I have adhered to i: through all the  
 time, I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_maine-farmer_1879-05-03_47_23&#0036;3/pct:27.861320,74.118965,10.582011,8.616826/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_maine-farmer_1879-05-03_47_23&#0036;3/pct:27.861320,74.118965,10.582011,8.616826/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4729,16 +4327,7 @@ never touched it. from that time to the
 present day. Sie aslced me slot tos  
 gams, and:. I have not; and I cannot  
 tell who is winnhilg or whso is losing  
-in any game that· can&quot; h played. She  
-admonished &#x27;me, too, against hard  
-drinicdnig, anid wihatever uscefulness I  
-may attain ilc lifo, I attribute it to  
-having&#x27; complied with her pious cund  
-correct .wisheS. When I was seven yoears  
-of age she iskecd ce hot to drink and  
-then I scads a resolution of total  
-abstinence; and thact I have adhered  
-toit through all the ticces I owe to m
+in any game that· can&quot; h played. Sh
 </td></tr></table>
 
 ---
@@ -4902,8 +4491,6 @@ mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Benton said: &quot;My mother asked mc  
-never to use tobacco. I have never  
 touched it from that time to the present  
 day. She asked me never to gamble,  
 and I never have gambled. Sho ad­  
@@ -4919,7 +4506,7 @@ have adhered to it through all time, I
   
 owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn86053402%2F00280779283%2F1881041501%2F0918.jp2/pct:43.147208,61.580595,11.820160,9.011476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn86053402%2F00280779283%2F1881041501%2F0918.jp2/pct:43.147208,62.793427,11.820160,7.798644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4958,7 +4545,7 @@ time I owe to my mother
 
 ---
 
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1884-10-18_58_11?page=1)
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1884-10-18_58_11/page/n1/model/1up?view=theater)
 
 #### 1884-10-18 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -4987,39 +4574,9 @@ time when I was sole constituent member of
 my own body, and that I have adhered to it  
 through all the time, I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_friend-a-religious-and-literary-journal_1884-10-18_58_11&#0036;1/pct:10.331325,13.414634,28.433735,21.183379/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friend-a-religious-and-literary-journal_1884-10-18_58_11&#0036;1/pct:10.331325,13.414634,28.433735,21.183379/600,/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## [A Mother's Influence.](http://trove.nla.gov.au/ndp/del/article/32699009)
-
-#### From _Western Mail (Perth, WA : 1885 - 1954)_
-
-#### 1886-05-29 &middot; [Perth, Western Australia](http://dbpedia.org/resource/Perth)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-A Mother&#x27;s Influence. &quot;An American  
-statesman once bore the following  
-touoldng testimony to his mother&#x27;s  
-influence. My mother asked me never to  
-use i tobacco ; I have never touched it  
-from that time to the present day. She  
-asked me notf to gamble ; and I have  
-never gambled. She admonished me against  
-drinking, and what-ever capacity 1 have  
-for endurance at present, and whatever  
-usefulness I may have attained in life,  
-I have attributed to compliance with her  
-wishes. When 1 was seven years of age  
-she asked me not to drink, and then I  
-made a resolution of total abstinence;  
-and that I have adhered to it through  
-all the time, I owe to my  
-mother.&quot;-GTABFIEI.D.
-</td></tr></table>
 
 ---
 
@@ -5079,6 +4636,12 @@ my mother.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+his boy, fold his arms about him, and  
+j press him to his bosom, and, thus  
+j enfolded, they sank together to rise no  
+! more. Such is the love of a father. As  
+for a mother&#x27;s love, who can fathom it &#x27;!  
+It is measureless. Thomas H. Benton,  
 speaking of his mother, said : &quot;She  
 asked me never to use tobacco ; I never  
 touched it from that time to the present  
@@ -5097,7 +4660,7 @@ lution of total abstinence, and that 1 have
 adhered to it through all time, I owe to  
 my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064537%2F00295876189%2F1889081701%2F0481.jp2/pct:79.536554,44.259962,12.287859,7.744307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064537%2F00295876189%2F1889081701%2F0481.jp2/pct:79.210183,41.555977,12.614230,10.448292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

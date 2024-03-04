@@ -326,7 +326,7 @@ ly in cold wate
 
 ---
 
-## [From _The Woman's Journal 1870-1916_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-06-24_2_25?page=6)
+## [From _The Woman's Journal 1870-1916_](https://archive.org/details/sim_the-womans-journal_1871-06-24_2_25/page/n6/model/1up?view=theater)
 
 #### 1871-06-24 &middot; [Boston, Massachusetts](http://dbpedia.org/resource/Boston)
 
@@ -357,7 +357,7 @@ the spot will disappear at, once. Wash imme-
 diately in cold water. That’s one way. An-  
 other method, which never fails, is to take 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-06-24_2_25&#0036;6/pct:44.414894,60.954545,15.998363,12.590909/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_the-womans-journal_1871-06-24_2_25&#0036;6/pct:44.414894,60.954545,15.998363,12.590909/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -676,7 +676,7 @@ water
 
 ---
 
-## [From _Tri-weekly Kentucky yeoman._](https://iiif.archivelab.org/iiif/xt7dv40jwh07?page=3)
+## [From _Tri-weekly Kentucky yeoman._](https://archive.org/details/xt7dv40jwh07/page/n3/model/1up?view=theater)
 
 #### 1871-11-07 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
@@ -691,7 +691,7 @@ immediately in cold water.
   
 L. HITS..
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/xt7dv40jwh07&#0036;3/pct:7.195876,81.972548,17.731959,14.645536/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7dv40jwh07&#0036;3/pct:7.195876,81.972548,17.731959,14.645536/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

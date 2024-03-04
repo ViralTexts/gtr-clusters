@@ -17,7 +17,7 @@ SEVENTY THOUSAND letters, filling one hundred and fifty sacks, and weighing near
 
 ---
 
-## [From _Harper's Bazaar (1867-1912)_](https://iiif.archivelab.org/iiif/sim_harpers-bazaar_1871-01-21_4_3?page=6)
+## [From _Harper's Bazaar (1867-1912)_](https://archive.org/details/sim_harpers-bazaar_1871-01-21_4_3/page/n6/model/1up?view=theater)
 
 #### 1871-01-21 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -62,13 +62,13 @@ four hundred unstamped, misdirected, unaddress-
 ed, or unsealed letters and packages daily accu-  
 mulate in the New York Post-oflice.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_harpers-bazaar_1871-01-21_4_3&#0036;6/pct:51.128017,57.883212,19.622246,19.799270/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_harpers-bazaar_1871-01-21_4_3&#0036;6/pct:51.128017,57.883212,19.622246,19.799270/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Woman's Journal 1870-1916_](https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-02-04_2_5?page=2)
+## [From _The Woman's Journal 1870-1916_](https://archive.org/details/sim_the-womans-journal_1871-02-04_2_5/page/n2/model/1up?view=theater)
 
 #### 1871-02-04 &middot; [Boston, Massachusetts](http://dbpedia.org/resource/Boston)
 
@@ -102,7 +102,7 @@ the space of two days.
   
 A Paris correspondent writes: “All the ani
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archivelab.org/iiif/sim_the-womans-journal_1871-02-04_2_5&#0036;2/pct:59.573171,38.348485,15.995935,13.787879/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_the-womans-journal_1871-02-04_2_5&#0036;2/pct:59.573171,38.348485,15.995935,13.787879/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
