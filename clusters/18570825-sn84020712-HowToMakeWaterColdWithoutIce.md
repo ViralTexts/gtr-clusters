@@ -213,7 +213,7 @@ and he can always have a supply of cold water i
 
 ---
 
-## [From _Universalist Watchman, Repository and Chronicle (1831-1847)_](https://archive.org/details/sim_universalist-watchman-repository-and-chronicle_1838-12-29_10_27/page/n3/model/1up?view=theater)
+## [From _Universalist Watchman, Repository and Chronicle (1831-1847)_](https://archive.org/details/sim_universalist-watchman-repository-and-chronicle_1838-12-29_10_27/page/n3/mode/1up?view=theater)
 
 #### 1838-12-29 &middot; [Woodstock](http://dbpedia.org/resource/Woodstock%2C_Vermont)
 
@@ -483,7 +483,7 @@ warm weather. Any person can test it b
 
 ---
 
-## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1844-06-01_2_8/page/n0/model/1up?view=theater)
+## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1844-06-01_2_8/page/n0/mode/1up?view=theater)
 
 #### 1844-06-01 &middot; [Lansing](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
@@ -604,7 +604,7 @@ a supply of cold water for warm weather. An
 
 ---
 
-## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1844-06-13_12_24/page/n1/model/1up?view=theater)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1844-06-13_12_24/page/n1/mode/1up?view=theater)
 
 #### 1844-06-13 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -626,7 +626,7 @@ duced, this is common. Let every mechanic and
 
 ---
 
-## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1844-06-13_12_24/page/n1/model/1up?view=theater)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1844-06-13_12_24/page/n1/mode/1up?view=theater)
 
 #### 1844-06-13 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -698,7 +698,7 @@ cold water in warm weather. An
 
 ---
 
-## [From _The liberator._](https://archive.org/details/sim_liberator_1844-06-28_14_26/page/n3/model/1up?view=theater)
+## [From _The liberator._](https://archive.org/details/sim_liberator_1844-06-28_14_26/page/n3/mode/1up?view=theater)
 
 #### 1844-06-28 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
@@ -730,7 +730,7 @@ terin warm weather. Any person can test this b
 
 ---
 
-## [From _Boston Cultivator (1839-1850)_](https://archive.org/details/sim_american-cultivator_1844-06-29_6_26/page/n3/model/1up?view=theater)
+## [From _Boston Cultivator (1839-1850)_](https://archive.org/details/sim_american-cultivator_1844-06-29_6_26/page/n3/mode/1up?view=theater)
 
 #### 1844-06-29 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -759,7 +759,7 @@ water in warm weather. Any persons ca
 
 ---
 
-## [From _New Genesee Farmer and Gardeners' Journal (1840-1844)_](https://archive.org/details/sim_genesee-farmer_1844-07_5_7/page/n7/model/1up?view=theater)
+## [From _New Genesee Farmer and Gardeners' Journal (1840-1844)_](https://archive.org/details/sim_genesee-farmer_1844-07_5_7/page/n7/mode/1up?view=theater)
 
 #### 1844-07-01 &middot; [Rochester](http://dbpedia.org/resource/Rochester%2C_New_York)
 
@@ -849,7 +849,7 @@ a supply of cold water in wann weather
 
 ---
 
-## [From _Cincinnati weekly herald and philanthropist._](https://archive.org/details/sim_cincinnati-weekly-herald-and-philanthropist_1844-07-26_8_45/page/n1/model/1up?view=theater)
+## [From _Cincinnati weekly herald and philanthropist._](https://archive.org/details/sim_cincinnati-weekly-herald-and-philanthropist_1844-07-26_8_45/page/n1/mode/1up?view=theater)
 
 #### 1844-07-26 &middot; [Cincinnati [Ohio]](http://dbpedia.org/resource/Cincinnati)
 
@@ -872,7 +872,7 @@ where ice cannot be procured, this is com.| with a stone, as he supposed, in the
 
 ---
 
-## [From _Cincinnati weekly herald and philanthropist._](https://archive.org/details/sim_cincinnati-weekly-herald-and-philanthropist_1844-07-26_8_45/page/n1/model/1up?view=theater)
+## [From _Cincinnati weekly herald and philanthropist._](https://archive.org/details/sim_cincinnati-weekly-herald-and-philanthropist_1844-07-26_8_45/page/n1/mode/1up?view=theater)
 
 #### 1844-07-26 &middot; [Cincinnati [Ohio]](http://dbpedia.org/resource/Cincinnati)
 
@@ -888,7 +888,7 @@ at his place of employment two pitchers thus
 
 ---
 
-## [From _Cincinnati weekly herald and philanthropist._](https://archive.org/details/sim_cincinnati-weekly-herald-and-philanthropist_1844-07-26_8_45/page/n1/model/1up?view=theater)
+## [From _Cincinnati weekly herald and philanthropist._](https://archive.org/details/sim_cincinnati-weekly-herald-and-philanthropist_1844-07-26_8_45/page/n1/mode/1up?view=theater)
 
 #### 1844-07-26 &middot; [Cincinnati [Ohio]](http://dbpedia.org/resource/Cincinnati)
 
@@ -987,7 +987,7 @@ warm weather
 
 ---
 
-## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1845-07-23_24_4/page/n7/model/1up?view=theater)
+## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1845-07-23_24_4/page/n7/mode/1up?view=theater)
 
 #### 1845-07-23 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1017,7 +1017,7 @@ weather.”
 
 ---
 
-## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1845-08-14_13_33/page/n0/model/1up?view=theater)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1845-08-14_13_33/page/n0/mode/1up?view=theater)
 
 #### 1845-08-14 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -1116,7 +1116,7 @@ have a supply of cold water in war
 
 ---
 
-## [From _Universalist Watchman, Repository and Chronicle (1831-1847)_](https://archive.org/details/sim_universalist-watchman-repository-and-chronicle_1846-07-31_18_3/page/n6/model/1up?view=theater)
+## [From _Universalist Watchman, Repository and Chronicle (1831-1847)_](https://archive.org/details/sim_universalist-watchman-repository-and-chronicle_1846-07-31_18_3/page/n6/mode/1up?view=theater)
 
 #### 1846-07-31 &middot; [Woodstock](http://dbpedia.org/resource/Woodstock%2C_Vermont)
 
@@ -1283,7 +1283,7 @@ not be procured, this is common,
 
 ---
 
-## [From _Leisure Hour, an Illustrated Magazine for Home Reading 1852-1905_](https://archive.org/details/sim_leisure-hour-an-illustrated-magazine-for-home-reading_1852-04-22_1_17/page/n15/model/1up?view=theater)
+## [From _Leisure Hour, an Illustrated Magazine for Home Reading 1852-1905_](https://archive.org/details/sim_leisure-hour-an-illustrated-magazine-for-home-reading_1852-04-22_1_17/page/n15/mode/1up?view=theater)
 
 #### 1852-04-22 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -1535,7 +1535,7 @@ a supply of cold water in warm weather. An
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1857-07-11_1876/page/n3/model/1up?view=theater)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1857-07-11_1876/page/n3/mode/1up?view=theater)
 
 #### 1857-07-11 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -1908,7 +1908,7 @@ arm weather
 
 ---
 
-## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1857-08-20_25_35/page/n0/model/1up?view=theater)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1857-08-20_25_35/page/n0/mode/1up?view=theater)
 
 #### 1857-08-20 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -2048,7 +2048,7 @@ cold water in warm weather
 
 ---
 
-## [From _Plough, the Loom and the Anvil (1848-1857)_](https://archive.org/details/sim_american-farmers-magazine_1857-09_10_3/page/n62/model/1up?view=theater)
+## [From _Plough, the Loom and the Anvil (1848-1857)_](https://archive.org/details/sim_american-farmers-magazine_1857-09_10_3/page/n62/mode/1up?view=theater)
 
 #### 1857-09-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2199,7 +2199,7 @@ water in warm weather. Any person can tes
 
 ---
 
-## [From _Frank Leslie's illustrated newspaper._](https://archive.org/details/sim_leslies-weekly_1857-09-12_4_93/page/n12/model/1up?view=theater)
+## [From _Frank Leslie's illustrated newspaper._](https://archive.org/details/sim_leslies-weekly_1857-09-12_4_93/page/n12/mode/1up?view=theater)
 
 #### 1857-09-12 &middot; [New York, N.Y.](http://dbpedia.org/resource/New_York_City)
 
@@ -2226,7 +2226,7 @@ weather
 
 ---
 
-## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1857-10-17_12_42/page/n6/model/1up?view=theater)
+## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1857-10-17_12_42/page/n6/mode/1up?view=theater)
 
 #### 1857-10-17 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -2249,7 +2249,7 @@ cannot be procured, this is common.
 
 ---
 
-## [From _Metropolitan; A Monthly Magazine Devoted to Religion, Education, Literature, and General Information 1853-1859_](https://archive.org/details/sim_metropolitan-a-monthly-magazine-devoted-to-religion_1857-11_5_10/page/n42/model/1up?view=theater)
+## [From _Metropolitan; A Monthly Magazine Devoted to Religion, Education, Literature, and General Information 1853-1859_](https://archive.org/details/sim_metropolitan-a-monthly-magazine-devoted-to-religion_1857-11_5_10/page/n42/mode/1up?view=theater)
 
 #### 1857-11-01 &middot; [Baltimore, Maryland](http://dbpedia.org/resource/Baltimore)
 
@@ -2328,7 +2328,7 @@ to the others. &#x27;He ahosaid that he kne
 
 ---
 
-## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1858-07-17_13_29/page/n2/model/1up?view=theater)
+## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1858-07-17_13_29/page/n2/mode/1up?view=theater)
 
 #### 1858-07-17 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -2354,7 +2354,7 @@ supply of cold water in warm weather. An
 
 ---
 
-## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1858-08_10_8/page/n20/model/1up?view=theater)
+## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1858-08_10_8/page/n20/mode/1up?view=theater)
 
 #### 1858-08-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2628,7 +2628,7 @@ of cold water in warm weather.&quot; An
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1865-06-22_36_25/page/n6/model/1up?view=theater)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1865-06-22_36_25/page/n6/mode/1up?view=theater)
 
 #### 1865-06-22 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2658,7 +2658,7 @@ cold water in warm weather. Any perso
 
 ---
 
-## [From _The Genesee Farmer (1845-1865)_](https://archive.org/details/sim_genesee-farmer_1865-07_26_7/page/n3/model/1up?view=theater)
+## [From _The Genesee Farmer (1845-1865)_](https://archive.org/details/sim_genesee-farmer_1865-07_26_7/page/n3/mode/1up?view=theater)
 
 #### 1865-07-01 &middot; [Rochester](http://dbpedia.org/resource/Rochester%2C_New_York)
 
@@ -2688,7 +2688,7 @@ of cold water in warm weather. Any person ma
 
 ---
 
-## [From _Louisville daily union press._](https://archive.org/details/xt7r4x54hv4v/page/n0/model/1up?view=theater)
+## [From _Louisville daily union press._](https://archive.org/details/xt7r4x54hv4v/page/n0/mode/1up?view=theater)
 
 #### 1865-07-04 &middot; [Louisville, Ky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 

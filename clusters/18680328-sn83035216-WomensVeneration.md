@@ -20,7 +20,7 @@ If women have one weakness more marked than another, it is towards veneration. T
 
 ---
 
-## [From _Atlantic Monthly_](https://archive.org/details/sim_atlantic_1859-05_3_19/page/n92/model/1up?view=theater)
+## [From _Atlantic Monthly_](https://archive.org/details/sim_atlantic_1859-05_3_19/page/n92/mode/1up?view=theater)
 
 #### 1859-05-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -52,7 +52,7 @@ sacred profession and a moral supremac
 
 ---
 
-## [From _Atlantic Monthly_](https://archive.org/details/sim_atlantic_1859-05_3_19/page/n92/model/1up?view=theater)
+## [From _Atlantic Monthly_](https://archive.org/details/sim_atlantic_1859-05_3_19/page/n92/mode/1up?view=theater)
 
 #### 1859-05-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -168,7 +168,7 @@ life.
 
 ---
 
-## [From _Illustrated London News 1842-2003_](https://archive.org/details/sim_illustrated-london-news_1859-11-05_35_1001/page/n2/model/1up?view=theater)
+## [From _Illustrated London News 1842-2003_](https://archive.org/details/sim_illustrated-london-news_1859-11-05_35_1001/page/n2/mode/1up?view=theater)
 
 #### 1859-11-05 &middot; [London, England](http://dbpedia.org/resource/London)
 

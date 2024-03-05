@@ -326,7 +326,7 @@ ly in cold wate
 
 ---
 
-## [From _The Woman's Journal 1870-1916_](https://archive.org/details/sim_the-womans-journal_1871-06-24_2_25/page/n6/model/1up?view=theater)
+## [From _The Woman's Journal 1870-1916_](https://archive.org/details/sim_the-womans-journal_1871-06-24_2_25/page/n6/mode/1up?view=theater)
 
 #### 1871-06-24 &middot; [Boston, Massachusetts](http://dbpedia.org/resource/Boston)
 
@@ -676,7 +676,7 @@ water
 
 ---
 
-## [From _Tri-weekly Kentucky yeoman._](https://archive.org/details/xt7dv40jwh07/page/n3/model/1up?view=theater)
+## [From _Tri-weekly Kentucky yeoman._](https://archive.org/details/xt7dv40jwh07/page/n3/mode/1up?view=theater)
 
 #### 1871-11-07 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 

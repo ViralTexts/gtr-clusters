@@ -72,7 +72,7 @@ the operation, from the salt and sugar
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1856-12-06_1845/page/n1/model/1up?view=theater)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1856-12-06_1845/page/n1/mode/1up?view=theater)
 
 #### 1856-12-06 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -357,7 +357,7 @@ it, if .,(., g.iod
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1862-11-22_2156/page/n9/model/1up?view=theater)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1862-11-22_2156/page/n9/mode/1up?view=theater)
 
 #### 1862-11-22 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -669,7 +669,7 @@ none that surpasses it, it so good
 
 ---
 
-## [From _The Genesee Farmer (1845-1865)_](https://archive.org/details/sim_genesee-farmer_1863-12_24_12/page/n16/model/1up?view=theater)
+## [From _The Genesee Farmer (1845-1865)_](https://archive.org/details/sim_genesee-farmer_1863-12_24_12/page/n16/mode/1up?view=theater)
 
 #### 1863-12-01 &middot; [Rochester](http://dbpedia.org/resource/Rochester%2C_New_York)
 
@@ -794,7 +794,7 @@ none that surpasses, if so good
 
 ---
 
-## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1864-01_16_1/page/n8/model/1up?view=theater)
+## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1864-01_16_1/page/n8/mode/1up?view=theater)
 
 #### 1864-01-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -975,7 +975,7 @@ mautowu Telegraph.
 
 ---
 
-## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1865-11-01_17_21/page/n8/model/1up?view=theater)
+## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1865-11-01_17_21/page/n8/mode/1up?view=theater)
 
 #### 1865-11-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -1187,7 +1187,7 @@ that surpasses it, if so good
 
 ---
 
-## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1866-01-04_34_4/page/n0/model/1up?view=theater)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1866-01-04_34_4/page/n0/mode/1up?view=theater)
 
 #### 1866-01-04 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -1220,7 +1220,7 @@ doned. There is none that surpasses it, if so good.— | the remed, be made know
 
 ---
 
-## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://archive.org/details/sim_london-reader-of-literature-science-art-and-general_1866-01-20_6_141/page/n30/model/1up?view=theater)
+## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://archive.org/details/sim_london-reader-of-literature-science-art-and-general_1866-01-20_6_141/page/n30/mode/1up?view=theater)
 
 #### 1866-01-20 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -1251,7 +1251,7 @@ is none that surpasses it, if so good
 
 ---
 
-## [From _Louisville daily Democrat._](https://archive.org/details/xt7jdf6k385r/page/n0/model/1up?view=theater)
+## [From _Louisville daily Democrat._](https://archive.org/details/xt7jdf6k385r/page/n0/mode/1up?view=theater)
 
 #### 1866-11-01 &middot; [Louisville, Kentucky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
@@ -1272,7 +1272,7 @@ There is none that surpasses it, if so good
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1866-11-10_15_20/page/n2/model/1up?view=theater)
+## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1866-11-10_15_20/page/n2/mode/1up?view=theater)
 
 #### 1866-11-10 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1373,7 +1373,7 @@ There is none that surpasses it, if so good
 
 ---
 
-## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1866-11-15_18_22/page/n4/model/1up?view=theater)
+## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1866-11-15_18_22/page/n4/mode/1up?view=theater)
 
 #### 1866-11-15 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -1621,7 +1621,7 @@ tWa JeUfra&amp;Li ..&#x27;
 
 ---
 
-## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1867-01-01_19_1/page/n3/model/1up?view=theater)
+## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1867-01-01_19_1/page/n3/mode/1up?view=theater)
 
 #### 1867-01-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -1811,7 +1811,7 @@ Telegraph.
 
 ---
 
-## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1868-01_2_1/page/n18/model/1up?view=theater)
+## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1868-01_2_1/page/n18/mode/1up?view=theater)
 
 #### 1868-01-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1981,7 +1981,7 @@ none ihat surpasses it, if so good.
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1868-12-19_2473/page/n7/model/1up?view=theater)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1868-12-19_2473/page/n7/mode/1up?view=theater)
 
 #### 1868-12-19 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2277,7 +2277,7 @@ is none that surpasses it. If auy as good.
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1870-10-29_2570/page/n7/model/1up?view=theater)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1870-10-29_2570/page/n7/mode/1up?view=theater)
 
 #### 1870-10-29 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2367,7 +2367,7 @@ omit boiling the pickle, and lind it to an
 
 ---
 
-## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1870-11-05_49_45/page/n0/model/1up?view=theater)
+## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1870-11-05_49_45/page/n0/mode/1up?view=theater)
 
 #### 1870-11-05 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2586,7 +2586,7 @@ none that surpass it, if so good
 
 ---
 
-## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1870-11-19_38_50/page/n0/model/1up?view=theater)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1870-11-19_38_50/page/n0/mode/1up?view=theater)
 
 #### 1870-11-19 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -2716,7 +2716,7 @@ in salt and sugar.—Germantown Teleg&#x27;h
 
 ---
 
-## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1870-12_4_12/page/n27/model/1up?view=theater)
+## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1870-12_4_12/page/n27/mode/1up?view=theater)
 
 #### 1870-12-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2995,7 +2995,7 @@ that surpass it, if so good
 
 ---
 
-## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://archive.org/details/sim_london-reader-of-literature-science-art-and-general_1871-03-04_16_409/page/n22/model/1up?view=theater)
+## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://archive.org/details/sim_london-reader-of-literature-science-art-and-general_1871-03-04_16_409/page/n22/mode/1up?view=theater)
 
 #### 1871-03-04 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -4120,7 +4120,7 @@ Some omit boiling the pickle and fin
 
 ---
 
-## [From _Farm Journal 1877-2015_](https://archive.org/details/sim_farm-journal_1879-12_4_3/page/n1/model/1up?view=theater)
+## [From _Farm Journal 1877-2015_](https://archive.org/details/sim_farm-journal_1879-12_4_3/page/n1/mode/1up?view=theater)
 
 #### 1879-12-01 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
@@ -4250,7 +4250,7 @@ only a single trial to prove its superiorit
 
 ---
 
-## [From _The Manifesto 1871-1899_](https://archive.org/details/sim_manifesto_1881-02_11_2/page/n23/model/1up?view=theater)
+## [From _The Manifesto 1871-1899_](https://archive.org/details/sim_manifesto_1881-02_11_2/page/n23/mode/1up?view=theater)
 
 #### 1881-02-01 &middot; [Watervliet Shaker Historic District, New York](http://dbpedia.org/resource/Watervliet_Shaker_Historic_District)
 

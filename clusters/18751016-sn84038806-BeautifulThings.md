@@ -344,7 +344,7 @@ Over worn-out hands! O beautiful sleep
 
 ---
 
-## [From _The Woman's Journal 1870-1916_](https://archive.org/details/sim_the-womans-journal_1875-11-20_6_47/page/n5/model/1up?view=theater)
+## [From _The Woman's Journal 1870-1916_](https://archive.org/details/sim_the-womans-journal_1875-11-20_6_47/page/n5/mode/1up?view=theater)
 
 #### 1875-11-20 &middot; [Boston, Massachusetts](http://dbpedia.org/resource/Boston)
 
@@ -445,7 +445,7 @@ Over worn-out hands Oh,-beautiful sleep
 
 ---
 
-## [From _The commonwealth._](https://archive.org/details/sim_boston-commonwealth_1876-01-01_14_18/page/n3/model/1up?view=theater)
+## [From _The commonwealth._](https://archive.org/details/sim_boston-commonwealth_1876-01-01_14_18/page/n3/mode/1up?view=theater)
 
 #### 1876-01-01 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -485,7 +485,7 @@ Over worn-out hands—Oh, beautiful sleep !
 
 ---
 
-## [From _Woodhull and Claflin's Weekly 1870-1876_](https://archive.org/details/sim_woodhull-and-claflins-weekly_1876-01-22_11_8/page/n1/model/1up?view=theater)
+## [From _Woodhull and Claflin's Weekly 1870-1876_](https://archive.org/details/sim_woodhull-and-claflins-weekly_1876-01-22_11_8/page/n1/mode/1up?view=theater)
 
 #### 1876-01-22 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -606,7 +606,7 @@ Over woru-out hands. Oh I beautiful sleep!
 
 ---
 
-## [From _The commonwealth._](https://archive.org/details/sim_boston-commonwealth_1876-04-15_14_33/page/n3/model/1up?view=theater)
+## [From _The commonwealth._](https://archive.org/details/sim_boston-commonwealth_1876-04-15_14_33/page/n3/mode/1up?view=theater)
 
 #### 1876-04-15 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -828,7 +828,7 @@ beautiful slee?
 
 ---
 
-## [From _The Manifesto 1871-1899_](https://archive.org/details/sim_manifesto_1876-11_6_11/page/n7/model/1up?view=theater)
+## [From _The Manifesto 1871-1899_](https://archive.org/details/sim_manifesto_1876-11_6_11/page/n7/mode/1up?view=theater)
 
 #### 1876-11-01 &middot; [Watervliet Shaker Historic District, New York](http://dbpedia.org/resource/Watervliet_Shaker_Historic_District)
 
@@ -955,7 +955,7 @@ Over worn-out hands—O, beautiful sleep
 
 ---
 
-## [From _Littell's Living Age (1844-1896)_](https://archive.org/details/sim_living-age_1878-04-27_137_1767/page/n1/model/1up?view=theater)
+## [From _Littell's Living Age (1844-1896)_](https://archive.org/details/sim_living-age_1878-04-27_137_1767/page/n1/mode/1up?view=theater)
 
 #### 1878-04-27 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1109,7 +1109,7 @@ Over worn-out hands—oh, beautiful sleep I
 
 ---
 
-## [From _Journal of Education 1875-2015_](https://archive.org/details/sim_journal-of-education_1878-05-09_7_169/page/n2/model/1up?view=theater)
+## [From _Journal of Education 1875-2015_](https://archive.org/details/sim_journal-of-education_1878-05-09_7_169/page/n2/mode/1up?view=theater)
 
 #### 1878-05-09 &middot; [Boston, Massachusetts](http://dbpedia.org/resource/Boston)
 
@@ -1218,7 +1218,7 @@ sleep
 
 ---
 
-## [From _Zion's Herald (1868-1910)_](https://archive.org/details/sim_zions-herald_1878-05-23_55_21/page/n5/model/1up?view=theater)
+## [From _Zion's Herald (1868-1910)_](https://archive.org/details/sim_zions-herald_1878-05-23_55_21/page/n5/mode/1up?view=theater)
 
 #### 1878-05-23 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1667,7 +1667,7 @@ Over worn out hands oh, beautiful sleep !
 
 ---
 
-## [From _The Woman's Journal 1870-1916_](https://archive.org/details/sim_the-womans-journal_1880-04-17_11_16/page/n4/model/1up?view=theater)
+## [From _The Woman's Journal 1870-1916_](https://archive.org/details/sim_the-womans-journal_1880-04-17_11_16/page/n4/mode/1up?view=theater)
 
 #### 1880-04-17 &middot; [Boston, Massachusetts](http://dbpedia.org/resource/Boston)
 
@@ -1701,7 +1701,7 @@ Over worn-out hands; O beautiful sleep!’’
 
 ---
 
-## [From _Missionary Helper 1878-1919_](https://archive.org/details/sim_missionary-helper_january-february-1881_4_1/page/n26/model/1up?view=theater)
+## [From _Missionary Helper 1878-1919_](https://archive.org/details/sim_missionary-helper_january-february-1881_4_1/page/n26/mode/1up?view=theater)
 
 #### 1881-01-01 &middot; [Providence, Rhode Island](http://dbpedia.org/resource/Providence%2C_Rhode_Island)
 
@@ -1735,7 +1735,7 @@ Whose hidden fountains few may gress.
 
 ---
 
-## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1882-01-24_13_4/page/n5/model/1up?view=theater)
+## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1882-01-24_13_4/page/n5/mode/1up?view=theater)
 
 #### 1882-01-24 &middot; [Lansing](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
@@ -2410,7 +2410,7 @@ beautiful sleep. - r. S.F. Weekl
 
 ---
 
-## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1886-12_83_6/page/n21/model/1up?view=theater)
+## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1886-12_83_6/page/n21/mode/1up?view=theater)
 
 #### 1886-12-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2514,7 +2514,7 @@ Over worn-out hands? oh. beautiful sleep
 
 ---
 
-## [From _Good Housekeeping 1885-2015_](https://archive.org/details/sim_good-housekeeping_good-housekeeping_1888-08-04_7_7/page/n22/model/1up?view=theater)
+## [From _Good Housekeeping 1885-2015_](https://archive.org/details/sim_good-housekeeping_good-housekeeping_1888-08-04_7_7/page/n22/mode/1up?view=theater)
 
 #### 1888-08-04 &middot; [Springfield, Massachusetts](http://dbpedia.org/resource/Springfield%2C_Massachusetts)
 
@@ -2909,7 +2909,7 @@ Over worn out hands oh, beautiful sleep
 
 ---
 
-## [From _Friends' Intelligencer (1853-1910)_](https://archive.org/details/sim_friends-intelligencer_1893-09-23_50_38/page/n15/model/1up?view=theater)
+## [From _Friends' Intelligencer (1853-1910)_](https://archive.org/details/sim_friends-intelligencer_1893-09-23_50_38/page/n15/mode/1up?view=theater)
 
 #### 1893-09-23 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2935,7 +2935,7 @@ Over worn out hands—oh, beautiful sleep.
 
 ---
 
-## [From _Current Literature (1888-1912)_](https://archive.org/details/sim_current-opinion_1893-12_14_4/page/n81/model/1up?view=theater)
+## [From _Current Literature (1888-1912)_](https://archive.org/details/sim_current-opinion_1893-12_14_4/page/n81/mode/1up?view=theater)
 
 #### 1893-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2989,7 +2989,7 @@ Over worn-out hands—oh, beautiful sleep!
 
 ---
 
-## [From _Friends' Intelligencer (1853-1910)_](https://archive.org/details/sim_friends-intelligencer_1894-12-01_51_48/page/n13/model/1up?view=theater)
+## [From _Friends' Intelligencer (1853-1910)_](https://archive.org/details/sim_friends-intelligencer_1894-12-01_51_48/page/n13/mode/1up?view=theater)
 
 #### 1894-12-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -3296,7 +3296,7 @@ worn-out hands— oh, beautiful sleep.
 
 ---
 
-## [From _Farm Journal 1877-2015_](https://archive.org/details/sim_farm-journal_1897-12_21_12/page/n17/model/1up?view=theater)
+## [From _Farm Journal 1877-2015_](https://archive.org/details/sim_farm-journal_1897-12_21_12/page/n17/mode/1up?view=theater)
 
 #### 1897-12-01 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 

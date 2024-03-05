@@ -301,7 +301,7 @@ H id be bee
 
 ---
 
-## [From _The New - York Mirror: a Weekly Gazette of Literature and the Fine Arts (1823-1842)_](https://archive.org/details/sim_new-york-mirror-a-weekly-gazette-of-literature_1841-07-10_19_28/page/n7/model/1up?view=theater)
+## [From _The New - York Mirror: a Weekly Gazette of Literature and the Fine Arts (1823-1842)_](https://archive.org/details/sim_new-york-mirror-a-weekly-gazette-of-literature_1841-07-10_19_28/page/n7/mode/1up?view=theater)
 
 #### 1841-07-10 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -547,7 +547,7 @@ accident Had not befallen him
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1844-08-31_25_1205/page/n3/model/1up?view=theater)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1844-08-31_25_1205/page/n3/mode/1up?view=theater)
 
 #### 1844-08-31 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -633,7 +633,7 @@ Would not have happened him
 
 ---
 
-## [From _Boston Cultivator (1839-1850)_](https://archive.org/details/sim_american-cultivator_1844-10-05_6_40/page/n6/model/1up?view=theater)
+## [From _Boston Cultivator (1839-1850)_](https://archive.org/details/sim_american-cultivator_1844-10-05_6_40/page/n6/mode/1up?view=theater)
 
 #### 1844-10-05 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -752,7 +752,7 @@ Would not bave lbuppened him.
 
 ---
 
-## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1844-10-24_12_43/page/n1/model/1up?view=theater)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1844-10-24_12_43/page/n1/mode/1up?view=theater)
 
 #### 1844-10-24 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -922,7 +922,7 @@ Would not have happened him.
 
 ---
 
-## [From _Boston Cultivator (1839-1850)_](https://archive.org/details/sim_american-cultivator_1845-07-26_7_30/page/n3/model/1up?view=theater)
+## [From _Boston Cultivator (1839-1850)_](https://archive.org/details/sim_american-cultivator_1845-07-26_7_30/page/n3/mode/1up?view=theater)
 
 #### 1845-07-26 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1040,7 +1040,7 @@ Would not have happend him
 
 ---
 
-## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1845-08-13_24_7/page/n7/model/1up?view=theater)
+## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1845-08-13_24_7/page/n7/mode/1up?view=theater)
 
 #### 1845-08-13 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1677,7 +1677,7 @@ Would not have happeued him
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1867-05-23_40_21/page/n2/model/1up?view=theater)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1867-05-23_40_21/page/n2/mode/1up?view=theater)
 
 #### 1867-05-23 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2419,7 +2419,7 @@ Would never have happened him
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1871-10-12_44_41/page/n7/model/1up?view=theater)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1871-10-12_44_41/page/n7/mode/1up?view=theater)
 
 #### 1871-10-12 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2716,7 +2716,7 @@ Had not befallen him
 
 ---
 
-## [From _Printers' Circular and Stationers' and Publishers' Gazette 1866-1890_](https://archive.org/details/sim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9/page/n8/model/1up?view=theater)
+## [From _Printers' Circular and Stationers' and Publishers' Gazette 1866-1890_](https://archive.org/details/sim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9/page/n8/mode/1up?view=theater)
 
 #### 1878-11-01 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
@@ -2946,7 +2946,7 @@ Had not befallen him
 
 ---
 
-## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1879-04-03_31_1583/page/n7/model/1up?view=theater)
+## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1879-04-03_31_1583/page/n7/mode/1up?view=theater)
 
 #### 1879-04-03 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 

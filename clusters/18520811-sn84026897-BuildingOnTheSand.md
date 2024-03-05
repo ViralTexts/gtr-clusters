@@ -123,7 +123,7 @@ But &#x27;&quot;build upon thertbnd.&#x27;&#x27; Wf
 
 ---
 
-## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1852-07-22_20_30/page/n0/model/1up?view=theater)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1852-07-22_20_30/page/n0/mode/1up?view=theater)
 
 #### 1852-07-22 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -1721,7 +1721,7 @@ But &quot;build upon the sand.
 
 ---
 
-## [From _Friends' Intelligencer (1853-1910)_](https://archive.org/details/sim_friends-intelligencer_1857-02-21_13_49/page/n11/model/1up?view=theater)
+## [From _Friends' Intelligencer (1853-1910)_](https://archive.org/details/sim_friends-intelligencer_1857-02-21_13_49/page/n11/mode/1up?view=theater)
 
 #### 1857-02-21 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -3372,7 +3372,7 @@ But build upon the sail i
 
 ---
 
-## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://archive.org/details/sim_friends-review-a-religious-journal_1865-01-14_18_20/page/n13/model/1up?view=theater)
+## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://archive.org/details/sim_friends-review-a-religious-journal_1865-01-14_18_20/page/n13/mode/1up?view=theater)
 
 #### 1865-01-14 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -3489,7 +3489,7 @@ But &quot;build upon the sand.&quot;
 
 ---
 
-## [From _Friends' Intelligencer (1853-1910)_](https://archive.org/details/sim_friends-intelligencer_1865-07-08_22_18/page/n13/model/1up?view=theater)
+## [From _Friends' Intelligencer (1853-1910)_](https://archive.org/details/sim_friends-intelligencer_1865-07-08_22_18/page/n13/mode/1up?view=theater)
 
 #### 1865-07-08 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -3591,7 +3591,7 @@ But &quot;build upon the sand.
 
 ---
 
-## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://archive.org/details/sim_zions-herald_1865-10-04_36_40/page/n3/model/1up?view=theater)
+## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://archive.org/details/sim_zions-herald_1865-10-04_36_40/page/n3/mode/1up?view=theater)
 
 #### 1865-10-04 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -3760,7 +3760,7 @@ But &quot;build upon the sand.&quot;
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1865-11-09_36_45/page/n5/model/1up?view=theater)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1865-11-09_36_45/page/n5/mode/1up?view=theater)
 
 #### 1865-11-09 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4501,7 +4501,7 @@ But &quot;build upuu the sund.
 
 ---
 
-## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1866-09-01_18_17/page/n10/model/1up?view=theater)
+## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1866-09-01_18_17/page/n10/mode/1up?view=theater)
 
 #### 1866-09-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -5875,7 +5875,7 @@ But “build upon the sand.”
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1869-06-05_2497/page/n4/model/1up?view=theater)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1869-06-05_2497/page/n4/mode/1up?view=theater)
 
 #### 1869-06-05 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -6289,7 +6289,7 @@ the sand.
 
 ---
 
-## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://archive.org/details/sim_london-reader-of-literature-science-art-and-general_1875-10-30_25_652/page/n3/model/1up?view=theater)
+## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://archive.org/details/sim_london-reader-of-literature-science-art-and-general_1875-10-30_25_652/page/n3/mode/1up?view=theater)
 
 #### 1875-10-30 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -6553,7 +6553,7 @@ But &#x27;build upon the send.
 
 ---
 
-## [From _Frank Leslie's illustrated newspaper._](https://archive.org/details/sim_leslies-weekly_1875-12-11_41_1054/page/n5/model/1up?view=theater)
+## [From _Frank Leslie's illustrated newspaper._](https://archive.org/details/sim_leslies-weekly_1875-12-11_41_1054/page/n5/mode/1up?view=theater)
 
 #### 1875-12-11 &middot; [New York, N.Y.](http://dbpedia.org/resource/New_York_City)
 
@@ -7277,7 +7277,7 @@ I
 
 ---
 
-## [From _Silent World 1871-1876_](https://archive.org/details/sim_silent-world_1876-02-01_6_3/page/n0/model/1up?view=theater)
+## [From _Silent World 1871-1876_](https://archive.org/details/sim_silent-world_1876-02-01_6_3/page/n0/mode/1up?view=theater)
 
 #### 1876-02-01 &middot; [Washington, D.C., District of Columbia](http://dbpedia.org/resource/Washington%2C_D.C.)
 
@@ -7418,7 +7418,7 @@ And &#x27;built upon the sand.&#x27;
 
 ---
 
-## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://archive.org/details/sim_albion-a-journal-of-news-politics-and-literature_1876-02-19_54_8/page/n9/model/1up?view=theater)
+## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://archive.org/details/sim_albion-a-journal-of-news-politics-and-literature_1876-02-19_54_8/page/n9/mode/1up?view=theater)
 
 #### 1876-02-19 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -7912,7 +7912,7 @@ rut &quot;Build upon the sand.&quot;
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1876-06-08_49_23/page/n3/model/1up?view=theater)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1876-06-08_49_23/page/n3/mode/1up?view=theater)
 
 #### 1876-06-08 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -8362,7 +8362,7 @@ the sand.&quot;
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1877-12-13_50_50/page/n3/model/1up?view=theater)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1877-12-13_50_50/page/n3/mode/1up?view=theater)
 
 #### 1877-12-13 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -9141,7 +9141,7 @@ But “build upon the sand.
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1885-07-30_56_31/page/n5/model/1up?view=theater)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1885-07-30_56_31/page/n5/mode/1up?view=theater)
 
 #### 1885-07-30 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -9173,7 +9173,7 @@ But build upon the sand
 
 ---
 
-## [From _Practical Teacher: With Which Is Incorporated the Practical Teacher's Art Monthly 1881-1911_](https://archive.org/details/sim_practical-teacher-teachers-art-monthly_1885-08_5_6/page/n36/model/1up?view=theater)
+## [From _Practical Teacher: With Which Is Incorporated the Practical Teacher's Art Monthly 1881-1911_](https://archive.org/details/sim_practical-teacher-teachers-art-monthly_1885-08_5_6/page/n36/mode/1up?view=theater)
 
 #### 1885-08-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -9248,7 +9248,7 @@ upon the sand.&quot; &#x27; , * - &#x27; , ELIZA COOK.
 
 ---
 
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1885-10-31_59_13/page/n3/model/1up?view=theater)
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1885-10-31_59_13/page/n3/mode/1up?view=theater)
 
 #### 1885-10-31 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 

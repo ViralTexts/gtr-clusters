@@ -345,7 +345,7 @@ AUTHOR OF PERN LEAVES AND RUTII HALL
 
 ---
 
-## [From _American Phrenological Journal (1838-1869)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1855-03_21_3/page/n19/model/1up?view=theater)
+## [From _American Phrenological Journal (1838-1869)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1855-03_21_3/page/n19/mode/1up?view=theater)
 
 #### 1855-03-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 

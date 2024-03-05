@@ -2840,7 +2840,7 @@ fainting, lay the person flat
 
 ---
 
-## [From _Peterson's Magazine (1849-1892)_](https://archive.org/details/sim_peterson-magazine_1873-05_63_5/page/n70/model/1up?view=theater)
+## [From _Peterson's Magazine (1849-1892)_](https://archive.org/details/sim_peterson-magazine_1873-05_63_5/page/n70/mode/1up?view=theater)
 
 #### 1873-05-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -4054,7 +4054,7 @@ body fainting, lay the person flat
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1873-07-03_46_27/page/n4/model/1up?view=theater)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1873-07-03_46_27/page/n4/mode/1up?view=theater)
 
 #### 1873-07-03 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -4324,7 +4324,7 @@ projecting. For apoplexy, raise the hea
 
 ---
 
-## [From _The Manifesto 1871-1899_](https://archive.org/details/sim_manifesto_1873-10_3_10/page/n3/model/1up?view=theater)
+## [From _The Manifesto 1871-1899_](https://archive.org/details/sim_manifesto_1873-10_3_10/page/n3/mode/1up?view=theater)
 
 #### 1873-10-01 &middot; [Watervliet Shaker Historic District, New York](http://dbpedia.org/resource/Watervliet_Shaker_Historic_District)
 
@@ -6148,7 +6148,7 @@ for fainting, lay the person flat
 
 ---
 
-## [From _Silent World 1871-1876_](https://archive.org/details/sim_silent-world_1875-01-01_5_1/page/n2/model/1up?view=theater)
+## [From _Silent World 1871-1876_](https://archive.org/details/sim_silent-world_1875-01-01_5_1/page/n2/mode/1up?view=theater)
 
 #### 1875-01-01 &middot; [Washington, D.C., District of Columbia](http://dbpedia.org/resource/Washington%2C_D.C.)
 
@@ -6288,7 +6288,7 @@ for fainting, lay the person flat
 
 ---
 
-## [From _Peterson's Magazine (1849-1892)_](https://archive.org/details/sim_peterson-magazine_1875-02_67_2/page/n55/model/1up?view=theater)
+## [From _Peterson's Magazine (1849-1892)_](https://archive.org/details/sim_peterson-magazine_1875-02_67_2/page/n55/mode/1up?view=theater)
 
 #### 1875-02-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -6957,7 +6957,7 @@ For aioplexy, raise the head an
 
 ---
 
-## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://archive.org/details/sim_albion-a-journal-of-news-politics-and-literature_1875-11-27_53_48/page/n6/model/1up?view=theater)
+## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://archive.org/details/sim_albion-a-journal-of-news-politics-and-literature_1875-11-27_53_48/page/n6/mode/1up?view=theater)
 
 #### 1875-11-27 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -7303,7 +7303,7 @@ For apoplexy, raise the head an
 
 ---
 
-## [From _Oneida Circular (1871-1876)_](https://archive.org/details/sim_oneida-circular_1876-03-09_13_10/page/n6/model/1up?view=theater)
+## [From _Oneida Circular (1871-1876)_](https://archive.org/details/sim_oneida-circular_1876-03-09_13_10/page/n6/mode/1up?view=theater)
 
 #### 1876-03-09 &middot; [Brooklyn](http://dbpedia.org/resource/Brooklyn)
 
@@ -7347,7 +7347,7 @@ the skin is destroyed, cover with varnish.
 
 ---
 
-## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1876-03-11_8_247/page/n11/model/1up?view=theater)
+## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1876-03-11_8_247/page/n11/mode/1up?view=theater)
 
 #### 1876-03-11 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -7760,7 +7760,7 @@ varnish. For apoplexy raise the head an
 
 ---
 
-## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1876-06_92_552/page/n83/model/1up?view=theater)
+## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1876-06_92_552/page/n83/mode/1up?view=theater)
 
 #### 1876-06-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -7785,7 +7785,7 @@ if the skin is destroyed, cover with varnish. Fo
 
 ---
 
-## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1876-06-10_20_1015/page/n6/model/1up?view=theater)
+## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1876-06-10_20_1015/page/n6/mode/1up?view=theater)
 
 #### 1876-06-10 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -7808,7 +7808,7 @@ cold water ; if the skin is destroyed, cover with varnish
 
 ---
 
-## [From _Harper's weekly journal of civilization._](https://archive.org/details/sim_harpers-weekly_1876-06-10_20_1015/page/n6/model/1up?view=theater)
+## [From _Harper's weekly journal of civilization._](https://archive.org/details/sim_harpers-weekly_1876-06-10_20_1015/page/n6/mode/1up?view=theater)
 
 #### 1876-06-10 &middot; [New York, N.Y.](http://dbpedia.org/resource/New_York_City)
 
@@ -8058,7 +8058,7 @@ For apoplexy raise the hea
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1876-12-21_49_51/page/n7/model/1up?view=theater)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1876-12-21_49_51/page/n7/mode/1up?view=theater)
 
 #### 1876-12-21 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -8365,7 +8365,7 @@ the nose and mouth projecting. F
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1879-05-24_40_21/page/n11/model/1up?view=theater)
+## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1879-05-24_40_21/page/n11/mode/1up?view=theater)
 
 #### 1879-05-24 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -8577,7 +8577,7 @@ FiFn Frittebs. Take the remains o
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1879-08-21_52_34/page/n7/model/1up?view=theater)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1879-08-21_52_34/page/n7/mode/1up?view=theater)
 
 #### 1879-08-21 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -8623,7 +8623,7 @@ give alkalies; in case of opium poison, give stron
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1879-08-21_52_34/page/n7/model/1up?view=theater)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1879-08-21_52_34/page/n7/mode/1up?view=theater)
 
 #### 1879-08-21 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -8653,7 +8653,7 @@ If choked, get upon all fours and cough. For
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1879-08-30_59_6/page/n6/model/1up?view=theater)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1879-08-30_59_6/page/n6/mode/1up?view=theater)
 
 #### 1879-08-30 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -9201,7 +9201,7 @@ opium poison give Btrong coffee
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1881-07-16_60_52/page/n6/model/1up?view=theater)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1881-07-16_60_52/page/n6/mode/1up?view=theater)
 
 #### 1881-07-16 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -9678,7 +9678,7 @@ of a cigar
 
 ---
 
-## [From _The Los Angeles times._](https://archive.org/details/sim_los-angeles-times_the-los-angeles-times_1892-04-04/page/n3/model/1up?view=theater)
+## [From _The Los Angeles times._](https://archive.org/details/sim_los-angeles-times_the-los-angeles-times_1892-04-04/page/n3/mode/1up?view=theater)
 
 #### 1892-04-04 &middot; [[Los Angeles, Calif.]](http://dbpedia.org/resource/Los_Angeles)
 
@@ -9924,7 +9924,7 @@ and mustard
 
 ---
 
-## [From _The Los Angeles times._](https://archive.org/details/sim_los-angeles-times_the-los-angeles-times_1892-04-24/page/n6/model/1up?view=theater)
+## [From _The Los Angeles times._](https://archive.org/details/sim_los-angeles-times_the-los-angeles-times_1892-04-24/page/n6/mode/1up?view=theater)
 
 #### 1892-04-24 &middot; [[Los Angeles, Calif.]](http://dbpedia.org/resource/Los_Angeles)
 
@@ -9980,7 +9980,7 @@ For otight burns dip the part in col
 
 ---
 
-## [From _The Los Angeles times._](https://archive.org/details/sim_los-angeles-times_the-los-angeles-times_1892-04-24/page/n8/model/1up?view=theater)
+## [From _The Los Angeles times._](https://archive.org/details/sim_los-angeles-times_the-los-angeles-times_1892-04-24/page/n8/mode/1up?view=theater)
 
 #### 1892-04-24 &middot; [[Los Angeles, Calif.]](http://dbpedia.org/resource/Los_Angeles)
 

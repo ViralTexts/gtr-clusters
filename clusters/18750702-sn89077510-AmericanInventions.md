@@ -261,7 +261,7 @@ of which the large capabilities are yet to
 
 ---
 
-## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1874-01-10_18_889/page/n6/model/1up?view=theater)
+## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1874-01-10_18_889/page/n6/mode/1up?view=theater)
 
 #### 1874-01-10 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -282,7 +282,7 @@ ited enlargement of the breadth of the web, The
 
 ---
 
-## [From _Harper's weekly journal of civilization._](https://archive.org/details/sim_harpers-weekly_1874-01-10_18_889/page/n6/model/1up?view=theater)
+## [From _Harper's weekly journal of civilization._](https://archive.org/details/sim_harpers-weekly_1874-01-10_18_889/page/n6/mode/1up?view=theater)
 
 #### 1874-01-10 &middot; [New York, N.Y.](http://dbpedia.org/resource/New_York_City)
 
@@ -454,7 +454,7 @@ and the essential features anl mos
 
 ---
 
-## [From _Republic; A Monthly Magazine Devoted to the Dissemination of Political Information 1873-1877_](https://archive.org/details/sim_republic-a-monthly-magazine_1875-02_4_2/page/n54/model/1up?view=theater)
+## [From _Republic; A Monthly Magazine Devoted to the Dissemination of Political Information 1873-1877_](https://archive.org/details/sim_republic-a-monthly-magazine_1875-02_4_2/page/n54/mode/1up?view=theater)
 
 #### 1875-02-01
 
@@ -489,7 +489,7 @@ the large capabilities are yet to be
 
 ---
 
-## [From _Appletons' Journal of Literature, Science and Art (1869-1876)_](https://archive.org/details/sim_appletons-journal-a-magazine-of-general-literature_1875-06-19_13_326/page/n28/model/1up?view=theater)
+## [From _Appletons' Journal of Literature, Science and Art (1869-1876)_](https://archive.org/details/sim_appletons-journal-a-magazine-of-general-literature_1875-06-19_13_326/page/n28/mode/1up?view=theater)
 
 #### 1875-06-19 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1034,7 +1034,7 @@ for printers
 
 ---
 
-## [From _Chilton's Iron Age 1873-1983_](https://archive.org/details/sim_chiltons-iron-age_1875-10-07_16_15/page/n4/model/1up?view=theater)
+## [From _Chilton's Iron Age 1873-1983_](https://archive.org/details/sim_chiltons-iron-age_1875-10-07_16_15/page/n4/mode/1up?view=theater)
 
 #### 1875-10-07 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1080,7 +1080,7 @@ cessful composing machine for printers.
 
 ---
 
-## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1875-10-09_6_234/page/n5/model/1up?view=theater)
+## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1875-10-09_6_234/page/n5/mode/1up?view=theater)
 
 #### 1875-10-09 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1214,7 +1214,7 @@ Itfor priutera is American. The grai
 
 ---
 
-## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://archive.org/details/sim_albion-a-journal-of-news-politics-and-literature_1875-11-20_53_47/page/n5/model/1up?view=theater)
+## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://archive.org/details/sim_albion-a-journal-of-news-politics-and-literature_1875-11-20_53_47/page/n5/mode/1up?view=theater)
 
 #### 1875-11-20 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1598,7 +1598,7 @@ machine for prihters
 
 ---
 
-## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1876-02-19_8_244/page/n0/model/1up?view=theater)
+## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1876-02-19_8_244/page/n0/mode/1up?view=theater)
 
 #### 1876-02-19 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1881,7 +1881,7 @@ machine for printers. It is not ofte
 
 ---
 
-## [From _American Machinist 1877-2009_](https://archive.org/details/sim_american-machinist_1879-08-30_2_17/page/n2/model/1up?view=theater)
+## [From _American Machinist 1877-2009_](https://archive.org/details/sim_american-machinist_1879-08-30_2_17/page/n2/mode/1up?view=theater)
 
 #### 1879-08-30 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2456,7 +2456,7 @@ tvator. 1J. Artificial ice makin
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1880-06-17_50_25/page/n6/model/1up?view=theater)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1880-06-17_50_25/page/n6/mode/1up?view=theater)
 
 #### 1880-06-17 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2558,7 +2558,7 @@ the composing machine for printers. I
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1881-01-27_52_4/page/n6/model/1up?view=theater)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1881-01-27_52_4/page/n6/mode/1up?view=theater)
 
 #### 1881-01-27 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3102,7 +3102,7 @@ horse-shoes.
 
 ---
 
-## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1884-08-16_28_5/page/n3/model/1up?view=theater)
+## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1884-08-16_28_5/page/n3/mode/1up?view=theater)
 
 #### 1884-08-16 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3126,7 +3126,7 @@ tical application. 15. The telephone.
 
 ---
 
-## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1884-09_79_3/page/n50/model/1up?view=theater)
+## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1884-09_79_3/page/n50/mode/1up?view=theater)
 
 #### 1884-09-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -3337,7 +3337,7 @@ its practical application; 15, the tel
 
 ---
 
-## [From _Frank Leslie's illustrated newspaper._](https://archive.org/details/sim_leslies-weekly_1887-08-13_64_1665/page/n10/model/1up?view=theater)
+## [From _Frank Leslie's illustrated newspaper._](https://archive.org/details/sim_leslies-weekly_1887-08-13_64_1665/page/n10/mode/1up?view=theater)
 
 #### 1887-08-13 &middot; [New York, N.Y.](http://dbpedia.org/resource/New_York_City)
 
@@ -3467,7 +3467,7 @@ the grain elevator; 13, artificial ice-making on
 
 ---
 
-## [From _Zion's Herald (1868-1910)_](https://archive.org/details/sim_zions-herald_1887-09-07_64_36/page/n6/model/1up?view=theater)
+## [From _Zion's Herald (1868-1910)_](https://archive.org/details/sim_zions-herald_1887-09-07_64_36/page/n6/mode/1up?view=theater)
 
 #### 1887-09-07 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -3500,7 +3500,7 @@ vator; 13, artificial ice-making on
 
 ---
 
-## [From _American: A National Journal 1880-1900_](https://archive.org/details/sim_american-a-national-journal_1887-09-10_14_370/page/n14/model/1up?view=theater)
+## [From _American: A National Journal 1880-1900_](https://archive.org/details/sim_american-a-national-journal_1887-09-10_14_370/page/n14/mode/1up?view=theater)
 
 #### 1887-09-10 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
@@ -3567,7 +3567,7 @@ elevator; 13, artificial ice making on
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1887-09-15_58_37/page/n6/model/1up?view=theater)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1887-09-15_58_37/page/n6/mode/1up?view=theater)
 
 #### 1887-09-15 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4659,7 +4659,7 @@ grain elevator; 13, artificial ice
 
 ---
 
-## [From _Industry Week 1880-2016_](https://archive.org/details/sim_industry-week_1888-05-03_21_19/page/n10/model/1up?view=theater)
+## [From _Industry Week 1880-2016_](https://archive.org/details/sim_industry-week_1888-05-03_21_19/page/n10/mode/1up?view=theater)
 
 #### 1888-05-03 &middot; [Cleveland, Ohio](http://dbpedia.org/resource/Cleveland)
 
@@ -4767,7 +4767,7 @@ blast&#x27;for carving. 11. The gauge-lathe.
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1888-10-04_59_40/page/n7/model/1up?view=theater)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1888-10-04_59_40/page/n7/mode/1up?view=theater)
 
 #### 1888-10-04 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 

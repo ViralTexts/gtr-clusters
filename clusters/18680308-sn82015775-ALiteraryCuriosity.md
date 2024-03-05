@@ -218,7 +218,7 @@ Mason; 36, Hill; 37, Dana; 38, Shakespeare
 
 ---
 
-## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://archive.org/details/sim_albion-a-journal-of-news-politics-and-literature_1868-03-28_46_13/page/n2/model/1up?view=theater)
+## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://archive.org/details/sim_albion-a-journal-of-news-politics-and-literature_1868-03-28_46_13/page/n2/mode/1up?view=theater)
 
 #### 1868-03-28 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -311,7 +311,7 @@ ae 316 Milsons 16. Bailes ; 17. Trench ; 18. yo Von’t you know he and I were b
 
 ---
 
-## [From _Friends' Intelligencer (1853-1910)_](https://archive.org/details/sim_friends-intelligencer_1868-03-28_25_4/page/n12/model/1up?view=theater)
+## [From _Friends' Intelligencer (1853-1910)_](https://archive.org/details/sim_friends-intelligencer_1868-03-28_25_4/page/n12/mode/1up?view=theater)
 
 #### 1868-03-28 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -678,7 +678,7 @@ i Dana; its, bhakespearo
 
 ---
 
-## [From _The commonwealth._](https://archive.org/details/sim_boston-commonwealth_1868-04-25_6_34/page/n3/model/1up?view=theater)
+## [From _The commonwealth._](https://archive.org/details/sim_boston-commonwealth_1868-04-25_6_34/page/n3/mode/1up?view=theater)
 
 #### 1868-04-25 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -718,7 +718,7 @@ hastenea up among the rioters. But now cries of | 14—And throw a cruel sunshin
 
 ---
 
-## [From _The commonwealth._](https://archive.org/details/sim_boston-commonwealth_1868-04-25_6_34/page/n3/model/1up?view=theater)
+## [From _The commonwealth._](https://archive.org/details/sim_boston-commonwealth_1868-04-25_6_34/page/n3/mode/1up?view=theater)
 
 #### 1868-04-25 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -758,7 +758,7 @@ the door-way, and in a few moments more the 54 we masters grow ot ail Geek we de
 
 ---
 
-## [From _The commonwealth._](https://archive.org/details/sim_boston-commonwealth_1868-04-25_6_34/page/n3/model/1up?view=theater)
+## [From _The commonwealth._](https://archive.org/details/sim_boston-commonwealth_1868-04-25_6_34/page/n3/mode/1up?view=theater)
 
 #### 1868-04-25 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -1068,7 +1068,7 @@ son; 30; Hill; 37, lUua; 38
 
 ---
 
-## [From _Sphinx. A Journal of Humour and Criticism 1868-1871_](https://archive.org/details/sim_sphinx-a-journal-of-humour-and-criticism_1868-08-01_1_2/page/n12/model/1up?view=theater)
+## [From _Sphinx. A Journal of Humour and Criticism 1868-1871_](https://archive.org/details/sim_sphinx-a-journal-of-humour-and-criticism_1868-08-01_1_2/page/n12/mode/1up?view=theater)
 
 #### 1868-08-01
 
@@ -1238,7 +1238,7 @@ well
 
 ---
 
-## [From _Notes and Queries 1849-2014_](https://archive.org/details/sim_notes-and-queries_1868-09-26_2_39/page/n3/model/1up?view=theater)
+## [From _Notes and Queries 1849-2014_](https://archive.org/details/sim_notes-and-queries_1868-09-26_2_39/page/n3/mode/1up?view=theater)
 
 #### 1868-09-26 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -2140,7 +2140,7 @@ Hill: 37, Dana; 38. Shakespeare
 
 ---
 
-## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1869-06_78_468/page/n56/model/1up?view=theater)
+## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1869-06_78_468/page/n56/mode/1up?view=theater)
 
 #### 1869-06-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2161,7 +2161,7 @@ poets of the past and present time :
 
 ---
 
-## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1869-06_78_468/page/n56/model/1up?view=theater)
+## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1869-06_78_468/page/n56/mode/1up?view=theater)
 
 #### 1869-06-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2584,7 +2584,7 @@ Diana; 3b, Shakspeare
 
 ---
 
-## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1869-11-06_23_19/page/n11/model/1up?view=theater)
+## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1869-11-06_23_19/page/n11/mode/1up?view=theater)
 
 #### 1869-11-06 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -2919,7 +2919,7 @@ Dana—38, Shakespeare
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1873-05-29_46_22/page/n5/model/1up?view=theater)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1873-05-29_46_22/page/n5/mode/1up?view=theater)
 
 #### 1873-05-29 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2972,7 +2972,7 @@ Wiliam Mason; 36 Hill; 37 Dana; 38 Shakespeare,
 
 ---
 
-## [From _Notes and Queries 1849-2014_](https://archive.org/details/sim_notes-and-queries_1873-09-13_12_298/page/n2/model/1up?view=theater)
+## [From _Notes and Queries 1849-2014_](https://archive.org/details/sim_notes-and-queries_1873-09-13_12_298/page/n2/mode/1up?view=theater)
 
 #### 1873-09-13 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3320,7 +3320,7 @@ Jlyron;il. Muollett, 2t. Crabbe;23 Maesingrr;
 
 ---
 
-## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1876-11-11_9_278/page/n9/model/1up?view=theater)
+## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1876-11-11_9_278/page/n9/mode/1up?view=theater)
 
 #### 1876-11-11 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3657,7 +3657,7 @@ Dana; 38 Shakespeare.
 
 ---
 
-## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1878-04-27_12_350/page/n5/model/1up?view=theater)
+## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1878-04-27_12_350/page/n5/mode/1up?view=theater)
 
 #### 1878-04-27 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -5256,7 +5256,7 @@ Dana; 38, Shakespeare,
 
 ---
 
-## [From _Journal of Education 1875-2015_](https://archive.org/details/sim_journal-of-education_1882-10-26_16_391/page/n6/model/1up?view=theater)
+## [From _Journal of Education 1875-2015_](https://archive.org/details/sim_journal-of-education_1882-10-26_16_391/page/n6/mode/1up?view=theater)
 
 #### 1882-10-26 &middot; [Boston, Massachusetts](http://dbpedia.org/resource/Boston)
 
@@ -6912,7 +6912,7 @@ Shakespeare
 
 ---
 
-## [sim_herald-of-gospel-liberty_1885-11-26_77_48](https://archive.org/details/sim_herald-of-gospel-liberty_1885-11-26_77_48/page/n1/model/1up?view=theater)
+## [sim_herald-of-gospel-liberty_1885-11-26_77_48](https://archive.org/details/sim_herald-of-gospel-liberty_1885-11-26_77_48/page/n1/mode/1up?view=theater)
 
 #### From unknown source
 
@@ -7176,7 +7176,7 @@ Dana 3S Shakespher
 
 ---
 
-## [From _Christian Union (1870-1893)_](https://archive.org/details/sim_new-outlook_1887-02-17_35_7/page/n30/model/1up?view=theater)
+## [From _Christian Union (1870-1893)_](https://archive.org/details/sim_new-outlook_1887-02-17_35_7/page/n30/mode/1up?view=theater)
 
 #### 1887-02-17 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -7509,7 +7509,7 @@ peare
 
 ---
 
-## [From _Advocate of Peace (1847-1906)_](https://archive.org/details/sim_world-affairs-us_march-april-1887_49_2/page/n19/model/1up?view=theater)
+## [From _Advocate of Peace (1847-1906)_](https://archive.org/details/sim_world-affairs-us_march-april-1887_49_2/page/n19/mode/1up?view=theater)
 
 #### 1887-03-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
 
@@ -9198,7 +9198,7 @@ kins; 34. Herrick; 35. William Mason;
 
 ---
 
-## [From _American Printer 1883-2013_](https://archive.org/details/sim_american-printer_1887-05_4_8/page/n39/model/1up?view=theater)
+## [From _American Printer 1883-2013_](https://archive.org/details/sim_american-printer_1887-05_4_8/page/n39/mode/1up?view=theater)
 
 #### 1887-05-01 &middot; [Chicago, Illinois](http://dbpedia.org/resource/Chicago)
 
@@ -9831,7 +9831,7 @@ Hill; 37, Dana; 3S, Shaksperc
 
 ---
 
-## [From _Ballou's Monthly Magazine (1866-1893)_](https://archive.org/details/sim_ballous-monthly-magazine_1889-01_69_1/page/n81/model/1up?view=theater)
+## [From _Ballou's Monthly Magazine (1866-1893)_](https://archive.org/details/sim_ballous-monthly-magazine_1889-01_69_1/page/n81/mode/1up?view=theater)
 
 #### 1889-01-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -10025,7 +10025,7 @@ can, yet dio we tiut
 
 ---
 
-## [From _Saturday Night 1986-2005_](https://archive.org/details/sim_saturday-night_1889-04-06_2_19/page/n2/model/1up?view=theater)
+## [From _Saturday Night 1986-2005_](https://archive.org/details/sim_saturday-night_1889-04-06_2_19/page/n2/mode/1up?view=theater)
 
 #### 1889-04-06 &middot; [Toronto, Canada](http://dbpedia.org/resource/Toronto)
 
@@ -11070,7 +11070,7 @@ Dana; 38, Shakespeare. SANDER &amp; SONS&#x27;
 
 ---
 
-## [From _Journal of Education 1875-1876_](https://archive.org/details/sim_journal-of-education-1875_1892-03-17_35_11/page/n9/model/1up?view=theater)
+## [From _Journal of Education 1875-1876_](https://archive.org/details/sim_journal-of-education-1875_1892-03-17_35_11/page/n9/mode/1up?view=theater)
 
 #### 1892-03-17 &middot; [Brooklyn, New York](http://dbpedia.org/resource/Brooklyn)
 
@@ -12367,7 +12367,7 @@ For live we how we can, yet die we must. —SJieAespeare.
 
 ---
 
-## [From _American Fruit Grower 1897-2014_](https://archive.org/details/sim_american-fruit-grower_1898-01_18_1/page/n1/model/1up?view=theater)
+## [From _American Fruit Grower 1897-2014_](https://archive.org/details/sim_american-fruit-grower_1898-01_18_1/page/n1/mode/1up?view=theater)
 
 #### 1898-01-01 &middot; [Rochester, New York](http://dbpedia.org/resource/Rochester%2C_New_York)
 

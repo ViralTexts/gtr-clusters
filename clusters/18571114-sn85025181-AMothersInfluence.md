@@ -29,7 +29,7 @@ Hon. Thomas H. Benton, in a speech in New York, turned to the ladies, and referr
 
 ---
 
-## [From _Forrester's Boys' and Girls' Magazine, and Fireside Companion (1851-1857)_](https://archive.org/details/sim_forresters-boys-and-girls-magazine_january-december-1857_19-20/page/n237/model/1up?view=theater)
+## [From _Forrester's Boys' and Girls' Magazine, and Fireside Companion (1851-1857)_](https://archive.org/details/sim_forresters-boys-and-girls-magazine_january-december-1857_19-20/page/n237/mode/1up?view=theater)
 
 #### 1857-01-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -56,7 +56,7 @@ and that I have adhered to it through all time, I owe to my mother.
 
 ---
 
-## [From _The liberator._](https://archive.org/details/sim_liberator_1857-01-02_27_1/page/n0/model/1up?view=theater)
+## [From _The liberator._](https://archive.org/details/sim_liberator_1857-01-02_27_1/page/n0/mode/1up?view=theater)
 
 #### 1857-01-02 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
@@ -86,7 +86,7 @@ ito my mother. They are only women, who ar
 
 ---
 
-## [From _The Kentucky tribune._](https://archive.org/details/xt78cz322z45/page/n1/model/1up?view=theater)
+## [From _The Kentucky tribune._](https://archive.org/details/xt78cz322z45/page/n1/mode/1up?view=theater)
 
 #### 1857-01-02 &middot; [Danville [Ky.]](http://dbpedia.org/resource/Danville%2C_Kentucky)
 
@@ -113,7 +113,7 @@ a’.iaiM in life, I attribute to having com
 
 ---
 
-## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://archive.org/details/sim_friends-review-a-religious-journal_1857-01-03_10_17/page/n12/model/1up?view=theater)
+## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://archive.org/details/sim_friends-review-a-religious-journal_1857-01-03_10_17/page/n12/mode/1up?view=theater)
 
 #### 1857-01-03 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -148,7 +148,7 @@ for endurance | may have at present, and what
 
 ---
 
-## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://archive.org/details/sim_friends-review-a-religious-journal_1857-01-03_10_17/page/n12/model/1up?view=theater)
+## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://archive.org/details/sim_friends-review-a-religious-journal_1857-01-03_10_17/page/n12/mode/1up?view=theater)
 
 #### 1857-01-03 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -282,7 +282,7 @@ I owe to my mother. They are only wome
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1857-05-07_31_19/page/n3/model/1up?view=theater)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1857-05-07_31_19/page/n3/mode/1up?view=theater)
 
 #### 1857-05-07 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -975,7 +975,7 @@ owe to my mother
 
 ---
 
-## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1858-12-30_10_526/page/n5/model/1up?view=theater)
+## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1858-12-30_10_526/page/n5/mode/1up?view=theater)
 
 #### 1858-12-30 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1115,7 +1115,7 @@ past tlmo, I owo to my jnoihcr
 
 ---
 
-## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1859-02-12_1_7/page/n5/model/1up?view=theater)
+## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1859-02-12_1_7/page/n5/mode/1up?view=theater)
 
 #### 1859-02-12 &middot; [Lansing](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
@@ -1559,7 +1559,7 @@ hated to it through all time, owe it to my mother.&quot;
 
 ---
 
-## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://archive.org/details/sim_zions-herald_1859-11-30_30_47/page/n0/model/1up?view=theater)
+## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://archive.org/details/sim_zions-herald_1859-11-30_30_47/page/n0/mode/1up?view=theater)
 
 #### 1859-11-30 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1619,7 +1619,7 @@ mother
 
 ---
 
-## [From _Ballou's Pictorial Drawing - Room Companion (1855-1859)_](https://archive.org/details/sim_ballous-pictorial-drawing-room-companion_1859-12-10_17_24/page/n15/model/1up?view=theater)
+## [From _Ballou's Pictorial Drawing - Room Companion (1855-1859)_](https://archive.org/details/sim_ballous-pictorial-drawing-room-companion_1859-12-10_17_24/page/n15/mode/1up?view=theater)
 
 #### 1859-12-10 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1751,7 +1751,7 @@ it to my mother
 
 ---
 
-## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1860-11-15_12_624/page/n5/model/1up?view=theater)
+## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1860-11-15_12_624/page/n5/mode/1up?view=theater)
 
 #### 1860-11-15 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1793,7 +1793,7 @@ time, I owe it to my mother.”’
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1860-11-29_34_48/page/n3/model/1up?view=theater)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1860-11-29_34_48/page/n3/mode/1up?view=theater)
 
 #### 1860-11-29 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1898,7 +1898,7 @@ to it through all tima,
 
 ---
 
-## [From _Southern Teacher 1859-1861_](https://archive.org/details/sim_southern-teacher_1861-05_2_10/page/n19/model/1up?view=theater)
+## [From _Southern Teacher 1859-1861_](https://archive.org/details/sim_southern-teacher_1861-05_2_10/page/n19/mode/1up?view=theater)
 
 #### 1861-05-01
 
@@ -2656,7 +2656,7 @@ owe to mv rnnth&quot;i\
 
 ---
 
-## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1870-02-26_25_8/page/n13/model/1up?view=theater)
+## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1870-02-26_25_8/page/n13/mode/1up?view=theater)
 
 #### 1870-02-26 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -2914,7 +2914,7 @@ all time I owe to my mother.
 
 ---
 
-## [From _Revolution 1868-1872_](https://archive.org/details/sim_revolution_1870-08-18_6_7/page/n11/model/1up?view=theater)
+## [From _Revolution 1868-1872_](https://archive.org/details/sim_revolution_1870-08-18_6_7/page/n11/mode/1up?view=theater)
 
 #### 1870-08-18 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3068,7 +3068,7 @@ time I owe to my mother
 
 ---
 
-## [From _The Galaxy. A Magazine of Entertaining Reading (1866-1878)_](https://archive.org/details/sim_galaxy_1870-12_10_6/page/n137/model/1up?view=theater)
+## [From _The Galaxy. A Magazine of Entertaining Reading (1866-1878)_](https://archive.org/details/sim_galaxy_1870-12_10_6/page/n137/mode/1up?view=theater)
 
 #### 1870-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3098,7 +3098,7 @@ to it through all time, I owe to my mother.
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1870-12-29_43_52/page/n7/model/1up?view=theater)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1870-12-29_43_52/page/n7/mode/1up?view=theater)
 
 #### 1870-12-29 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -3194,7 +3194,7 @@ my mother.
 
 ---
 
-## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1872-12_55_6/page/n63/model/1up?view=theater)
+## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1872-12_55_6/page/n63/mode/1up?view=theater)
 
 #### 1872-12-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -3361,7 +3361,7 @@ all time, I owe to my mother
 
 ---
 
-## [From _Zion's Herald (1868-1910)_](https://archive.org/details/sim_zions-herald_1877-03-22_54_12/page/n2/model/1up?view=theater)
+## [From _Zion's Herald (1868-1910)_](https://archive.org/details/sim_zions-herald_1877-03-22_54_12/page/n2/mode/1up?view=theater)
 
 #### 1877-03-22 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -3552,7 +3552,7 @@ my mother.
 
 ---
 
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1878-04-06_51_34/page/n3/model/1up?view=theater)
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1878-04-06_51_34/page/n3/mode/1up?view=theater)
 
 #### 1878-04-06 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -4270,7 +4270,7 @@ time I owe to my mother.
 
 ---
 
-## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1879-05-03_47_23/page/n3/model/1up?view=theater)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1879-05-03_47_23/page/n3/mode/1up?view=theater)
 
 #### 1879-05-03 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -4545,7 +4545,7 @@ time I owe to my mother
 
 ---
 
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1884-10-18_58_11/page/n1/model/1up?view=theater)
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1884-10-18_58_11/page/n1/mode/1up?view=theater)
 
 #### 1884-10-18 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 

@@ -52,7 +52,7 @@ Sold also by Mr. W.W. Walker, Hair-dress
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1850-09-21_20_787/page/n1/model/1up?view=theater)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1850-09-21_20_787/page/n1/mode/1up?view=theater)
 
 #### 1850-09-21 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -94,7 +94,7 @@ United Kingdom.
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1851-02-15_21_808/page/n1/model/1up?view=theater)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1851-02-15_21_808/page/n1/mode/1up?view=theater)
 
 #### 1851-02-15 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -116,7 +116,7 @@ United Kingdom
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1851-02-22_21_809/page/n1/model/1up?view=theater)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1851-02-22_21_809/page/n1/mode/1up?view=theater)
 
 #### 1851-02-22 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -1647,7 +1647,7 @@ United Kingdom. 41
 
 ---
 
-## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1855-12-08_13_641/page/n25/model/1up?view=theater)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1855-12-08_13_641/page/n25/mode/1up?view=theater)
 
 #### 1855-12-08 &middot; [London, England](http://dbpedia.org/resource/London)
 

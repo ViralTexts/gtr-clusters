@@ -816,7 +816,7 @@ field of carnage.
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1862-04-05_2123/page/n7/model/1up?view=theater)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1862-04-05_2123/page/n7/mode/1up?view=theater)
 
 #### 1862-04-05 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2475,7 +2475,7 @@ of that African will never darken the Hel
 
 ---
 
-## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1862-05-29_14_704/page/n5/model/1up?view=theater)
+## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1862-05-29_14_704/page/n5/mode/1up?view=theater)
 
 #### 1862-05-29 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2517,7 +2517,7 @@ feshun.” - Se
 
 ---
 
-## [From _Frank Leslie's illustrated newspaper._](https://archive.org/details/sim_leslies-weekly_1862-05-31_14_346-347/page/n10/model/1up?view=theater)
+## [From _Frank Leslie's illustrated newspaper._](https://archive.org/details/sim_leslies-weekly_1862-05-31_14_346-347/page/n10/mode/1up?view=theater)
 
 #### 1862-05-31 &middot; [New York, N.Y.](http://dbpedia.org/resource/New_York_City)
 
@@ -2572,7 +2572,7 @@ him? £el:-preserbeshun :m de fust law wid me.’ 4
 
 ---
 
-## [From _American Phrenological Journal (1838-1869)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1862-06_35_6/page/n17/model/1up?view=theater)
+## [From _American Phrenological Journal (1838-1869)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1862-06_35_6/page/n17/mode/1up?view=theater)
 
 #### 1862-06-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2613,7 +2613,7 @@ as my memory serves me.
 
 ---
 
-## [From _American Phrenological Journal (1838-1869)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1862-06_35_6/page/n18/model/1up?view=theater)
+## [From _American Phrenological Journal (1838-1869)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1862-06_35_6/page/n18/mode/1up?view=theater)
 
 #### 1862-06-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -3804,7 +3804,7 @@ carnage.
 
 ---
 
-## [From _Louisville daily Democrat._](https://archive.org/details/xt7w3r0psv6k/page/n3/model/1up?view=theater)
+## [From _Louisville daily Democrat._](https://archive.org/details/xt7w3r0psv6k/page/n3/mode/1up?view=theater)
 
 #### 1863-11-20 &middot; [Louisville, Kentucky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
@@ -4300,7 +4300,7 @@ the field of carnage
 
 ---
 
-## [From _Littell's Living Age (1844-1896)_](https://archive.org/details/sim_living-age_1863-12-26_79_1021/page/n26/model/1up?view=theater)
+## [From _Littell's Living Age (1844-1896)_](https://archive.org/details/sim_living-age_1863-12-26_79_1021/page/n26/mode/1up?view=theater)
 
 #### 1863-12-26 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -5365,7 +5365,7 @@ field of carnage.
 
 ---
 
-## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://archive.org/details/sim_zions-herald_1865-04-05_36_14/page/n0/model/1up?view=theater)
+## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://archive.org/details/sim_zions-herald_1865-04-05_36_14/page/n0/mode/1up?view=theater)
 
 #### 1865-04-05 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -5739,7 +5739,7 @@ en the field uf carnag
 
 ---
 
-## [From _The United States Service Magazine (1864-1866)_](https://archive.org/details/sim_united-states-service-magazine_1865-10_4_4/page/n49/model/1up?view=theater)
+## [From _The United States Service Magazine (1864-1866)_](https://archive.org/details/sim_united-states-service-magazine_1865-10_4_4/page/n49/mode/1up?view=theater)
 
 #### 1865-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -5800,7 +5800,7 @@ for your country.’
 
 ---
 
-## [From _The United States Service Magazine (1864-1866)_](https://archive.org/details/sim_united-states-service-magazine_1865-10_4_4/page/n50/model/1up?view=theater)
+## [From _The United States Service Magazine (1864-1866)_](https://archive.org/details/sim_united-states-service-magazine_1865-10_4_4/page/n50/mode/1up?view=theater)
 
 #### 1865-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -6500,7 +6500,7 @@ carnage
 
 ---
 
-## [From _The Kentucky sentinel._](https://archive.org/details/xt734t6f2c27/page/n3/model/1up?view=theater)
+## [From _The Kentucky sentinel._](https://archive.org/details/xt734t6f2c27/page/n3/mode/1up?view=theater)
 
 #### 1869-03-11 &middot; [Mount Sterling, Ky.](http://dbpedia.org/resource/Mount_Sterling%2C_Kentucky)
 
@@ -6530,7 +6530,7 @@ knocked out uv him? Self-presscrwasliun
 
 ---
 
-## [From _The Kentucky sentinel._](https://archive.org/details/xt734t6f2c27/page/n3/model/1up?view=theater)
+## [From _The Kentucky sentinel._](https://archive.org/details/xt734t6f2c27/page/n3/mode/1up?view=theater)
 
 #### 1869-03-11 &middot; [Mount Sterling, Ky.](http://dbpedia.org/resource/Mount_Sterling%2C_Kentucky)
 
@@ -6591,7 +6591,7 @@ of that negro will never daiken the field ol
 
 ---
 
-## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1870-06-25_14_704/page/n8/model/1up?view=theater)
+## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1870-06-25_14_704/page/n8/mode/1up?view=theater)
 
 #### 1870-06-25 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -6647,7 +6647,7 @@ A Chinese maxim says: “We re
 
 ---
 
-## [From _New national era._](https://archive.org/details/sim_new-national-era_1870-07-28_1_29/page/n3/model/1up?view=theater)
+## [From _New national era._](https://archive.org/details/sim_new-national-era_1870-07-28_1_29/page/n3/mode/1up?view=theater)
 
 #### 1870-07-28 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
@@ -8695,7 +8695,7 @@ Colored men iu tbe Southern State
 
 ---
 
-## [From _Chambers's Journal of Popular Literature, Science and Arts 1854-1897_](https://archive.org/details/sim_chambers-journal-of-popular-literature-science-and-arts_1873-10-18_10_512/page/n1/model/1up?view=theater)
+## [From _Chambers's Journal of Popular Literature, Science and Arts 1854-1897_](https://archive.org/details/sim_chambers-journal-of-popular-literature-science-and-arts_1873-10-18_10_512/page/n1/mode/1up?view=theater)
 
 #### 1873-10-18 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -9133,7 +9133,7 @@ field of carnage. ? Cincinnati Guzcltt
 
 ---
 
-## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1875-03-27_43_17/page/n3/model/1up?view=theater)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1875-03-27_43_17/page/n3/mode/1up?view=theater)
 
 #### 1875-03-27 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -9371,7 +9371,7 @@ wid me.&quot; !
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1875-05-20_48_20/page/n5/model/1up?view=theater)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1875-05-20_48_20/page/n5/mode/1up?view=theater)
 
 #### 1875-05-20 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -10965,7 +10965,7 @@ mo wlimi tlu powr of fiMIIit ww
 
 ---
 
-## [From _Zion's Herald (1868-1910)_](https://archive.org/details/sim_zions-herald_1879-02-06_56_6/page/n0/model/1up?view=theater)
+## [From _Zion's Herald (1868-1910)_](https://archive.org/details/sim_zions-herald_1879-02-06_56_6/page/n0/mode/1up?view=theater)
 
 #### 1879-02-06 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -13903,7 +13903,7 @@ plnco do loss to me.
 
 ---
 
-## [From _Life (1883-1936)_](https://archive.org/details/sim_life_1894-10-25_24_617/page/n13/model/1up?view=theater)
+## [From _Life (1883-1936)_](https://archive.org/details/sim_life_1894-10-25_24_617/page/n13/mode/1up?view=theater)
 
 #### 1894-10-25 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -13939,7 +13939,7 @@ plnco do loss to me.
 
 ---
 
-## [From _Current Literature (1888-1912)_](https://archive.org/details/sim_current-opinion_1898-10_24_4/page/n81/model/1up?view=theater)
+## [From _Current Literature (1888-1912)_](https://archive.org/details/sim_current-opinion_1898-10_24_4/page/n81/mode/1up?view=theater)
 
 #### 1898-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 

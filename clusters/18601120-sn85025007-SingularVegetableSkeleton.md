@@ -711,7 +711,7 @@ by the powers of vegetable life. This sin
 
 ---
 
-## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://archive.org/details/sim_ladies-repository-a-monthly-periodical-devoted-to_1866-10_26_37/page/n19/model/1up?view=theater)
+## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://archive.org/details/sim_ladies-repository-a-monthly-periodical-devoted-to_1866-10_26_37/page/n19/mode/1up?view=theater)
 
 #### 1866-10-01 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
@@ -1019,7 +1019,7 @@ crook at the knee, which makes the whole l&gt;e.i
 
 ---
 
-## [From _The commonwealth._](https://archive.org/details/sim_boston-commonwealth_1866-10-27_5_8/page/n3/model/1up?view=theater)
+## [From _The commonwealth._](https://archive.org/details/sim_boston-commonwealth_1866-10-27_5_8/page/n3/mode/1up?view=theater)
 
 #### 1866-10-27 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -1478,7 +1478,7 @@ slight crook at the knee, whic
 
 ---
 
-## [From _The Shelby sentinel._](https://archive.org/details/xt76125qbf9s/page/n0/model/1up?view=theater)
+## [From _The Shelby sentinel._](https://archive.org/details/xt76125qbf9s/page/n0/mode/1up?view=theater)
 
 #### 1867-02-20 &middot; [Shelbyville, Ky.](http://dbpedia.org/resource/Shelbyville%2C_Kentucky)
 
@@ -1574,7 +1574,7 @@ at the knee, which makes the whole bea
 
 ---
 
-## [From _The Historical Magazine, and Notes and Queries Concerning the Antiquities, History, and Biography of America (1857-1875)_](https://archive.org/details/sim_historical-magazine-biography-of-america_1870-07_8_1/page/n57/model/1up?view=theater)
+## [From _The Historical Magazine, and Notes and Queries Concerning the Antiquities, History, and Biography of America (1857-1875)_](https://archive.org/details/sim_historical-magazine-biography-of-america_1870-07_8_1/page/n57/mode/1up?view=theater)
 
 #### 1870-07-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1704,7 +1704,7 @@ formed a slight crook at the knee, which made t
 
 ---
 
-## [From _Wellman's Miscellany (1870-1873)_](https://archive.org/details/sim_wellmans-miscellany_1871-12_4_6/page/n10/model/1up?view=theater)
+## [From _Wellman's Miscellany (1870-1873)_](https://archive.org/details/sim_wellmans-miscellany_1871-12_4_6/page/n10/mode/1up?view=theater)
 
 #### 1871-12-01 &middot; [Detroit](http://dbpedia.org/resource/Detroit)
 

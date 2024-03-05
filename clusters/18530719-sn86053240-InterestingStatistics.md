@@ -2178,7 +2178,7 @@ ai Boston, with the surrounding cities an
 
 ---
 
-## [From _Friends' Intelligencer (1853-1910)_](https://archive.org/details/sim_friends-intelligencer_1854-02-18_10_48/page/n14/model/1up?view=theater)
+## [From _Friends' Intelligencer (1853-1910)_](https://archive.org/details/sim_friends-intelligencer_1854-02-18_10_48/page/n14/mode/1up?view=theater)
 
 #### 1854-02-18 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2489,7 +2489,7 @@ pable of bearing arms is calculated a
 
 ---
 
-## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1854-05_6_5/page/n19/model/1up?view=theater)
+## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1854-05_6_5/page/n19/mode/1up?view=theater)
 
 #### 1854-05-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2533,7 +2533,7 @@ sigs than by day. The number of men capa
 
 ---
 
-## [From _Gleason's Pictorial Drawing - Room Companion (1851-1854)_](https://archive.org/details/sim_ballous-pictorial-drawing-room-companion_1854-05-06_6_18/page/n14/model/1up?view=theater)
+## [From _Gleason's Pictorial Drawing - Room Companion (1851-1854)_](https://archive.org/details/sim_ballous-pictorial-drawing-room-companion_1854-05-06_6_18/page/n14/mode/1up?view=theater)
 
 #### 1854-05-06 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2742,7 +2742,7 @@ The number of men capable of bearing arm
 
 ---
 
-## [From _Tri-weekly Kentucky yeoman._](https://archive.org/details/xt75qf8jgv71/page/n2/model/1up?view=theater)
+## [From _Tri-weekly Kentucky yeoman._](https://archive.org/details/xt75qf8jgv71/page/n2/mode/1up?view=theater)
 
 #### 1854-05-30 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
@@ -3663,7 +3663,7 @@ are more frequent afte r ihe t q
 
 ---
 
-## [From _The Merchants' Magazine and Commercial Review (1839-1870)_](https://archive.org/details/sim_merchants-magazine-and-commercial-review_1854-12_31_6/page/n98/model/1up?view=theater)
+## [From _The Merchants' Magazine and Commercial Review (1839-1870)_](https://archive.org/details/sim_merchants-magazine-and-commercial-review_1854-12_31_6/page/n98/mode/1up?view=theater)
 
 #### 1854-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3900,7 +3900,7 @@ The number of men capable of bearin
 
 ---
 
-## [From _The Lebanon post._](https://archive.org/details/xt73n58cgf77/page/n0/model/1up?view=theater)
+## [From _The Lebanon post._](https://archive.org/details/xt73n58cgf77/page/n0/mode/1up?view=theater)
 
 #### 1855-02-14 &middot; [Lebanon, Ky.](http://dbpedia.org/resource/Lebanon%2C_Kentucky)
 
@@ -4098,7 +4098,7 @@ conduct. Tall men live longer tha
 
 ---
 
-## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://archive.org/details/sim_ladies-repository-a-monthly-periodical-devoted-to_1855-04_15_13/page/n57/model/1up?view=theater)
+## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://archive.org/details/sim_ladies-repository-a-monthly-periodical-devoted-to_1855-04_15_13/page/n57/mode/1up?view=theater)
 
 #### 1855-04-01 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
@@ -4229,7 +4229,7 @@ capable of bearing arms is calculated a
 
 ---
 
-## [From _Circular (1851-1870)_](https://archive.org/details/sim_oneida-circular_1855-05-03_4_15/page/n3/model/1up?view=theater)
+## [From _Circular (1851-1870)_](https://archive.org/details/sim_oneida-circular_1855-05-03_4_15/page/n3/mode/1up?view=theater)
 
 #### 1855-05-03 &middot; [Brooklyn](http://dbpedia.org/resource/Brooklyn)
 
@@ -4693,7 +4693,7 @@ The above estimate presents a fearful though
 
 ---
 
-## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://archive.org/details/sim_albion-a-journal-of-news-politics-and-literature_1855-06-30_14_26/page/n9/model/1up?view=theater)
+## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://archive.org/details/sim_albion-a-journal-of-news-politics-and-literature_1855-06-30_14_26/page/n9/mode/1up?view=theater)
 
 #### 1855-06-30 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4728,7 +4728,7 @@ spring are the most robust. Births and deaths are most frequent by night
 
 ---
 
-## [From _The spirit of the times._](https://archive.org/details/sim_spirit-of-the-times_1855-07-21_25_23/page/n7/model/1up?view=theater)
+## [From _The spirit of the times._](https://archive.org/details/sim_spirit-of-the-times_1855-07-21_25_23/page/n7/mode/1up?view=theater)
 
 #### 1855-07-21 &middot; [New-York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
@@ -4856,7 +4856,7 @@ others. The number of men capable of bearing arms i
 
 ---
 
-## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1855-11-17_10_46/page/n4/model/1up?view=theater)
+## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1855-11-17_10_46/page/n4/mode/1up?view=theater)
 
 #### 1855-11-17 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -4874,7 +4874,7 @@ to the age of 7 years—one-half before reaching 17.
 
 ---
 
-## [From _Ballou's Dollar Monthly Magazine (1855-1862)_](https://archive.org/details/sim_ballous-monthly-magazine_1856-01_3_1/page/n94/model/1up?view=theater)
+## [From _Ballou's Dollar Monthly Magazine (1855-1862)_](https://archive.org/details/sim_ballous-monthly-magazine_1856-01_3_1/page/n94/mode/1up?view=theater)
 
 #### 1856-01-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -4941,7 +4941,7 @@ are generally more robust than others. Birth
 
 ---
 
-## [From _Metropolitan; A Monthly Magazine Devoted to Religion, Education, Literature, and General Information 1853-1859_](https://archive.org/details/sim_metropolitan-a-monthly-magazine-devoted-to-religion_1856-03_4_2/page/n42/model/1up?view=theater)
+## [From _Metropolitan; A Monthly Magazine Devoted to Religion, Education, Literature, and General Information 1853-1859_](https://archive.org/details/sim_metropolitan-a-monthly-magazine-devoted-to-religion_1856-03_4_2/page/n42/mode/1up?view=theater)
 
 #### 1856-03-01 &middot; [Baltimore, Maryland](http://dbpedia.org/resource/Baltimore)
 
@@ -5109,7 +5109,7 @@ The Espana announces the death of Donna Isabell
 
 ---
 
-## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://archive.org/details/sim_ladies-repository-a-monthly-periodical-devoted-to_1857-02_17_5/page/n52/model/1up?view=theater)
+## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://archive.org/details/sim_ladies-repository-a-monthly-periodical-devoted-to_1857-02_17_5/page/n52/mode/1up?view=theater)
 
 #### 1857-02-01 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
@@ -5895,7 +5895,7 @@ ger than short ones. Women hae mor
 
 ---
 
-## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1864-11-10_16_832/page/n7/model/1up?view=theater)
+## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1864-11-10_16_832/page/n7/mode/1up?view=theater)
 
 #### 1864-11-10 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -6124,7 +6124,7 @@ posed for sale, and order any quantity of the
 
 ---
 
-## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1867-01-19_22_3/page/n15/model/1up?view=theater)
+## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1867-01-19_22_3/page/n15/mode/1up?view=theater)
 
 #### 1867-01-19 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -6145,7 +6145,7 @@ minute, or one every second. These losses are about
 
 ---
 
-## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1867-01-19_22_3/page/n15/model/1up?view=theater)
+## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1867-01-19_22_3/page/n15/mode/1up?view=theater)
 
 #### 1867-01-19 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -6831,7 +6831,7 @@ second. The married are longer-live
 
 ---
 
-## [From _Every Saturday: A Journal of Choice Reading (1866-1874)_](https://archive.org/details/sim_every-saturday-a-journal-of-choice-reading_1871-12-02_3_101/page/n10/model/1up?view=theater)
+## [From _Every Saturday: A Journal of Choice Reading (1866-1874)_](https://archive.org/details/sim_every-saturday-a-journal-of-choice-reading_1871-12-02_3_101/page/n10/mode/1up?view=theater)
 
 #### 1871-12-02 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -7384,7 +7384,7 @@ capable of bearing arms is about one
 
 ---
 
-## [From _Ballou's Monthly Magazine (1866-1893)_](https://archive.org/details/sim_ballous-monthly-magazine_1887-12_66_6/page/n76/model/1up?view=theater)
+## [From _Ballou's Monthly Magazine (1866-1893)_](https://archive.org/details/sim_ballous-monthly-magazine_1887-12_66_6/page/n76/mode/1up?view=theater)
 
 #### 1887-12-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -7519,7 +7519,7 @@ Births are more frequent by night than b
 
 ---
 
-## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1888-11-22_40_2086/page/n28/model/1up?view=theater)
+## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1888-11-22_40_2086/page/n28/mode/1up?view=theater)
 
 #### 1888-11-22 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -7692,7 +7692,7 @@ bust constitution than others. Births are mor
 
 ---
 
-## [From _Christian Union (1870-1893)_](https://archive.org/details/sim_new-outlook_1889-01-17_39_3/page/n30/model/1up?view=theater)
+## [From _Christian Union (1870-1893)_](https://archive.org/details/sim_new-outlook_1889-01-17_39_3/page/n30/mode/1up?view=theater)
 
 #### 1889-01-17 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -8712,7 +8712,7 @@ year, 91,824 every day, 3,730 every hour, 1
 
 ---
 
-## [From _Current Literature (1888-1912)_](https://archive.org/details/sim_current-opinion_1898-03_23_3/page/n40/model/1up?view=theater)
+## [From _Current Literature (1888-1912)_](https://archive.org/details/sim_current-opinion_1898-03_23_3/page/n40/mode/1up?view=theater)
 
 #### 1898-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 

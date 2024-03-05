@@ -212,7 +212,7 @@ brave.
 
 ---
 
-## [From _The Analectic Magazine (1813-1820)_](https://archive.org/details/sim_analectic-magazine_1814-11_4/page/n80/model/1up?view=theater)
+## [From _The Analectic Magazine (1813-1820)_](https://archive.org/details/sim_analectic-magazine_1814-11_4/page/n80/mode/1up?view=theater)
 
 #### 1814-11-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -271,7 +271,7 @@ Q’er the land of the free, and the home of the brave..
 
 ---
 
-## [From _The Intellectual Regale; or, Ladies' Tea Tray (1814-1815)_](https://archive.org/details/sim_illinois-monthly-magazine_1815-09-30_2_20/page/n11/model/1up?view=theater)
+## [From _The Intellectual Regale; or, Ladies' Tea Tray (1814-1815)_](https://archive.org/details/sim_illinois-monthly-magazine_1815-09-30_2_20/page/n11/mode/1up?view=theater)
 
 #### 1815-09-30 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -335,7 +335,7 @@ O’er the land of the free, and the howe of the brave.
 
 ---
 
-## [From _Niles' Weekly Register (1814-1837)_](https://archive.org/details/sim_niles-national-register_1816-02-24_9_234/page/n98/model/1up?view=theater)
+## [From _Niles' Weekly Register (1814-1837)_](https://archive.org/details/sim_niles-national-register_1816-02-24_9_234/page/n98/mode/1up?view=theater)
 
 #### 1816-02-24 &middot; [Baltimore](http://dbpedia.org/resource/Baltimore)
 
@@ -384,7 +384,7 @@ O’er the land of the free, and the home of the brave.
 
 ---
 
-## [From _The Recorder._](https://archive.org/details/sim_congregationalist-and-herald-of-gospel-liberty_1816-05-08_1_19/page/n3/model/1up?view=theater)
+## [From _The Recorder._](https://archive.org/details/sim_congregationalist-and-herald-of-gospel-liberty_1816-05-08_1_19/page/n3/mode/1up?view=theater)
 
 #### 1816-05-08 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -473,7 +473,7 @@ the Brave
 
 ---
 
-## [From _The Black Dwarf 1817-1824_](https://archive.org/details/sim_black-dwarf_1822-10-09_9_15/page/n19/model/1up?view=theater)
+## [From _The Black Dwarf 1817-1824_](https://archive.org/details/sim_black-dwarf_1822-10-09_9_15/page/n19/mode/1up?view=theater)
 
 #### 1822-10-09 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -540,7 +540,7 @@ O’er the land of the free and the home of the brave
 
 ---
 
-## [From _Casket (1826-1830)_](https://archive.org/details/sim_grahams-illustrated-magazine_1826-09_1_9/page/n35/model/1up?view=theater)
+## [From _Casket (1826-1830)_](https://archive.org/details/sim_grahams-illustrated-magazine_1826-09_1_9/page/n35/mode/1up?view=theater)
 
 #### 1826-09-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -595,7 +595,7 @@ iste ’ : / On the s ore dimly seen throug 1 the mist of the deep,
 
 ---
 
-## [From _The Jesuit, or, Catholic sentinel._](https://archive.org/details/sim_jesuit-or-catholic-sentinel_1831-07-02_2_44/page/n7/model/1up?view=theater)
+## [From _The Jesuit, or, Catholic sentinel._](https://archive.org/details/sim_jesuit-or-catholic-sentinel_1831-07-02_2_44/page/n7/mode/1up?view=theater)
 
 #### 1831-07-02 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
@@ -622,7 +622,7 @@ brave.
 
 ---
 
-## [From _The Jesuit, or, Catholic sentinel._](https://archive.org/details/sim_jesuit-or-catholic-sentinel_1831-07-02_2_44/page/n7/model/1up?view=theater)
+## [From _The Jesuit, or, Catholic sentinel._](https://archive.org/details/sim_jesuit-or-catholic-sentinel_1831-07-02_2_44/page/n7/mode/1up?view=theater)
 
 #### 1831-07-02 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
@@ -1512,7 +1512,7 @@ brave.
 
 ---
 
-## [From _Tri-weekly commonwealth._](https://archive.org/details/xt7qbz61847r/page/n1/model/1up?view=theater)
+## [From _Tri-weekly commonwealth._](https://archive.org/details/xt7qbz61847r/page/n1/mode/1up?view=theater)
 
 #### 1857-09-28 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
@@ -1593,7 +1593,7 @@ And the star-spangled b
 
 ---
 
-## [From _The liberator._](https://archive.org/details/sim_liberator_1858-04-02_28_14/page/n3/model/1up?view=theater)
+## [From _The liberator._](https://archive.org/details/sim_liberator_1858-04-02_28_14/page/n3/mode/1up?view=theater)
 
 #### 1858-04-02 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
@@ -2926,7 +2926,7 @@ Bless&#x27;d wit
 
 ---
 
-## [From _Dwight's Journal of Music, a Paper of Art and Literature 1852-1881_](https://archive.org/details/sim_dwights-journal-of-music-a-paper-of-art-and-literature_1861-05-04_19_5/page/n8/model/1up?view=theater)
+## [From _Dwight's Journal of Music, a Paper of Art and Literature 1852-1881_](https://archive.org/details/sim_dwights-journal-of-music-a-paper-of-art-and-literature_1861-05-04_19_5/page/n8/mode/1up?view=theater)
 
 #### 1861-05-04 &middot; [Boston, Massachusetts](http://dbpedia.org/resource/Boston)
 
@@ -3879,7 +3879,7 @@ O&#x27;er the land of t
 
 ---
 
-## [From _The Connecticut Common School Journal and Annals of Education, Published Monthly Under the Direction of the Conn. State Teachers' Association (1851-1866)_](https://archive.org/details/sim_connecticut-common-school-journal-annals-of-education_1861-08_8_8/page/n20/model/1up?view=theater)
+## [From _The Connecticut Common School Journal and Annals of Education, Published Monthly Under the Direction of the Conn. State Teachers' Association (1851-1866)_](https://archive.org/details/sim_connecticut-common-school-journal-annals-of-education_1861-08_8_8/page/n20/mode/1up?view=theater)
 
 #### 1861-08-01 &middot; [Hartford](http://dbpedia.org/resource/Hartford%2C_Connecticut)
 
@@ -4218,7 +4218,7 @@ Acd this bs our mono, “/is Hod U our trus
 
 ---
 
-## [From _Notes and Queries 1849-2014_](https://archive.org/details/sim_notes-and-queries_1864-11-26_6_152/page/n0/model/1up?view=theater)
+## [From _Notes and Queries 1849-2014_](https://archive.org/details/sim_notes-and-queries_1864-11-26_6_152/page/n0/mode/1up?view=theater)
 
 #### 1864-11-26 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -4404,7 +4404,7 @@ O&#x27;er the land of the frco and the home of
 
 ---
 
-## [From _The Round Table. A Saturday Review of Politics, Finance, Literature, Society and Art (1863-1869)_](https://archive.org/details/sim_round-table-a-saturday-review-of-politics-finance_1866-04-14_3_32/page/n3/model/1up?view=theater)
+## [From _The Round Table. A Saturday Review of Politics, Finance, Literature, Society and Art (1863-1869)_](https://archive.org/details/sim_round-table-a-saturday-review-of-politics-finance_1866-04-14_3_32/page/n3/mode/1up?view=theater)
 
 #### 1866-04-14 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4509,7 +4509,7 @@ O’er the land of the free and the home of the brave
 
 ---
 
-## [From _Armed Forces Journal 1863-2013_](https://archive.org/details/sim_armed-forces-journal_1867-06-22_4_44/page/n0/model/1up?view=theater)
+## [From _Armed Forces Journal 1863-2013_](https://archive.org/details/sim_armed-forces-journal_1867-06-22_4_44/page/n0/mode/1up?view=theater)
 
 #### 1867-06-22 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4528,7 +4528,7 @@ Their blood has wash’d out their foul footsteps’ pollution.
 
 ---
 
-## [From _American Phrenological Journal (1838-1869)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1869-07_49_7/page/n39/model/1up?view=theater)
+## [From _American Phrenological Journal (1838-1869)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1869-07_49_7/page/n39/mode/1up?view=theater)
 
 #### 1869-07-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -4757,7 +4757,7 @@ swore,
 
 ---
 
-## [From _The New-England Historical and Genealogical Register (1874-1905)_](https://archive.org/details/sim_new-england-historical-and-genealogical-register_1874-01_28/page/n39/model/1up?view=theater)
+## [From _The New-England Historical and Genealogical Register (1874-1905)_](https://archive.org/details/sim_new-england-historical-and-genealogical-register_1874-01_28/page/n39/mode/1up?view=theater)
 
 #### 1874-01-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -4792,7 +4792,7 @@ Their® blood has wash’d out their* foul footstep’s pollution.
 
 ---
 
-## [From _The New-England Historical and Genealogical Register (1874-1905)_](https://archive.org/details/sim_new-england-historical-and-genealogical-register_1874-01_28/page/n40/model/1up?view=theater)
+## [From _The New-England Historical and Genealogical Register (1874-1905)_](https://archive.org/details/sim_new-england-historical-and-genealogical-register_1874-01_28/page/n40/mode/1up?view=theater)
 
 #### 1874-01-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -5079,7 +5079,7 @@ And llie star-span
 
 ---
 
-## [From _Leisure Hour, an Illustrated Magazine for Home Reading 1852-1905_](https://archive.org/details/sim_leisure-hour-an-illustrated-magazine-for-home-reading_1876-02-05_25_1258/page/n10/model/1up?view=theater)
+## [From _Leisure Hour, an Illustrated Magazine for Home Reading 1852-1905_](https://archive.org/details/sim_leisure-hour-an-illustrated-magazine-for-home-reading_1876-02-05_25_1258/page/n10/mode/1up?view=theater)
 
 #### 1876-02-05 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -5444,7 +5444,7 @@ O&#x27;er the land of the tree and the home of the brav
 
 ---
 
-## [From _St. Nicholas; an Illustrated Magazine for Young Folks (1873-1907)_](https://archive.org/details/sim_saint-nicholas-a-magazine-for-boys-and-girls_1881-07_8_9/page/n70/model/1up?view=theater)
+## [From _St. Nicholas; an Illustrated Magazine for Young Folks (1873-1907)_](https://archive.org/details/sim_saint-nicholas-a-magazine-for-boys-and-girls_1881-07_8_9/page/n70/mode/1up?view=theater)
 
 #### 1881-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -5787,7 +5787,7 @@ of the brave!
 
 ---
 
-## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1887-06-18_33_25/page/n8/model/1up?view=theater)
+## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1887-06-18_33_25/page/n8/mode/1up?view=theater)
 
 #### 1887-06-18 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -5979,7 +5979,7 @@ Or&#x27;e the land of the free, and the home
 
 ---
 
-## [From _Frank Leslie's Popular Monthly (1876-1904)_](https://archive.org/details/sim_american-magazine-1876_1888-05_25_5/page/n20/model/1up?view=theater)
+## [From _Frank Leslie's Popular Monthly (1876-1904)_](https://archive.org/details/sim_american-magazine-1876_1888-05_25_5/page/n20/mode/1up?view=theater)
 
 #### 1888-05-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -6424,7 +6424,7 @@ O’er the Land of the Free, and the Home of the Brave!
 
 ---
 
-## [From _Journal of Education 1875-1876_](https://archive.org/details/sim_journal-of-education-1875_1892-02-11_35_6/page/n4/model/1up?view=theater)
+## [From _Journal of Education 1875-1876_](https://archive.org/details/sim_journal-of-education-1875_1892-02-11_35_6/page/n4/mode/1up?view=theater)
 
 #### 1892-02-11 &middot; [Brooklyn, New York](http://dbpedia.org/resource/Brooklyn)
 
@@ -6472,7 +6472,7 @@ O’er the land of the free and the home of the brave.
 
 ---
 
-## [From _Pennsylvania School Journal 1852-1980_](https://archive.org/details/sim_pennsylvania-school-journal_1892-07_41_1/page/n45/model/1up?view=theater)
+## [From _Pennsylvania School Journal 1852-1980_](https://archive.org/details/sim_pennsylvania-school-journal_1892-07_41_1/page/n45/mode/1up?view=theater)
 
 #### 1892-07-01 &middot; [Lancaster, Pennsylvania](http://dbpedia.org/resource/Lancaster%2C_Pennsylvania)
 
@@ -6726,7 +6726,7 @@ Aud the Star Spangled Bauun- iu triump
 
 ---
 
-## [From _Chicago daily tribune._](https://archive.org/details/per_chicago-daily-tribune_the-chicago-daily-tribun_1892-10-22_51_296/page/n9/model/1up?view=theater)
+## [From _Chicago daily tribune._](https://archive.org/details/per_chicago-daily-tribune_the-chicago-daily-tribun_1892-10-22_51_296/page/n9/mode/1up?view=theater)
 
 #### 1892-10-22 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
@@ -6859,7 +6859,7 @@ stan
 
 ---
 
-## [From _Primary Education 1893-1926_](https://archive.org/details/sim_primary-education_1894-02_2_2/page/n21/model/1up?view=theater)
+## [From _Primary Education 1893-1926_](https://archive.org/details/sim_primary-education_1894-02_2_2/page/n21/mode/1up?view=theater)
 
 #### 1894-02-01
 
@@ -7057,7 +7057,7 @@ the brave
 
 ---
 
-## [From _American Spirit 1892-2015_](https://archive.org/details/sim_american-spirit_1895-12_7_6/page/n62/model/1up?view=theater)
+## [From _American Spirit 1892-2015_](https://archive.org/details/sim_american-spirit_1895-12_7_6/page/n62/mode/1up?view=theater)
 
 #### 1895-12-01 &middot; [Washington, D.C., District of Columbia](http://dbpedia.org/resource/Washington%2C_D.C.)
 
@@ -7172,7 +7172,7 @@ And the star-spangled banner in t
 
 ---
 
-## [From _The New York times._](https://archive.org/details/sim_new-york-times_1896-07-04_45_14001/page/n6/model/1up?view=theater)
+## [From _The New York times._](https://archive.org/details/sim_new-york-times_1896-07-04_45_14001/page/n6/mode/1up?view=theater)
 
 #### 1896-07-04 &middot; [New-York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
@@ -7211,7 +7211,7 @@ Blest with victory and peace
 
 ---
 
-## [From _The Los Angeles times._](https://archive.org/details/sim_los-angeles-times_the-los-angeles-times_1896-10-24/page/n9/model/1up?view=theater)
+## [From _The Los Angeles times._](https://archive.org/details/sim_los-angeles-times_the-los-angeles-times_1896-10-24/page/n9/mode/1up?view=theater)
 
 #### 1896-10-24 &middot; [[Los Angeles, Calif.]](http://dbpedia.org/resource/Los_Angeles)
 
@@ -8234,7 +8234,7 @@ And the star-spangled banne
 
 ---
 
-## [From _Peterson Magazine (1894-1897)_](https://archive.org/details/sim_peterson-magazine_1897-10_7_10/page/n19/model/1up?view=theater)
+## [From _Peterson Magazine (1894-1897)_](https://archive.org/details/sim_peterson-magazine_1897-10_7_10/page/n19/mode/1up?view=theater)
 
 #### 1897-10-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -9662,7 +9662,7 @@ Pow’r that hath made and preserv’d us a nation: And this be our motto-&quot;
 
 ---
 
-## [From _Pennsylvania School Journal 1852-1980_](https://archive.org/details/sim_pennsylvania-school-journal_1898-06_46_12/page/n65/model/1up?view=theater)
+## [From _Pennsylvania School Journal 1852-1980_](https://archive.org/details/sim_pennsylvania-school-journal_1898-06_46_12/page/n65/mode/1up?view=theater)
 
 #### 1898-06-01 &middot; [Lancaster, Pennsylvania](http://dbpedia.org/resource/Lancaster%2C_Pennsylvania)
 
@@ -10061,7 +10061,7 @@ the brave
 
 ---
 
-## [From _The Congregationalist._](https://archive.org/details/sim_congregationalist-and-herald-of-gospel-liberty_1898-06-30_83_26/page/n13/model/1up?view=theater)
+## [From _The Congregationalist._](https://archive.org/details/sim_congregationalist-and-herald-of-gospel-liberty_1898-06-30_83_26/page/n13/mode/1up?view=theater)
 
 #### 1898-06-30 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
@@ -10184,7 +10184,7 @@ Fob Sale Chkai A good horse, with
 
 ---
 
-## [From _St. Nicholas; an Illustrated Magazine for Young Folks (1873-1907)_](https://archive.org/details/sim_saint-nicholas-a-magazine-for-boys-and-girls_1898-07_25_9/page/n81/model/1up?view=theater)
+## [From _St. Nicholas; an Illustrated Magazine for Young Folks (1873-1907)_](https://archive.org/details/sim_saint-nicholas-a-magazine-for-boys-and-girls_1898-07_25_9/page/n81/mode/1up?view=theater)
 
 #### 1898-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -10403,7 +10403,7 @@ the brave
 
 ---
 
-## [From _Zion's Herald (1868-1910)_](https://archive.org/details/sim_zions-herald_1898-07-13_76_28/page/n10/model/1up?view=theater)
+## [From _Zion's Herald (1868-1910)_](https://archive.org/details/sim_zions-herald_1898-07-13_76_28/page/n10/mode/1up?view=theater)
 
 #### 1898-07-13 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -10480,7 +10480,7 @@ Then sm we must, when our cause it
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1898-08-04_72_31/page/n7/model/1up?view=theater)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1898-08-04_72_31/page/n7/mode/1up?view=theater)
 
 #### 1898-08-04 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -10840,7 +10840,7 @@ O’er the land of the free, and the home of the brave
 
 ---
 
-## [From _Current Literature (1888-1912)_](https://archive.org/details/sim_current-opinion_1899-07_26_1/page/n66/model/1up?view=theater)
+## [From _Current Literature (1888-1912)_](https://archive.org/details/sim_current-opinion_1899-07_26_1/page/n66/mode/1up?view=theater)
 
 #### 1899-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 

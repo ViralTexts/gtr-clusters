@@ -80,7 +80,7 @@ When age comes on!
 
 ---
 
-## [From _The Edinburgh Review, or Critical Journal 1802-1910_](https://archive.org/details/sim_edinburgh-review-critical-journal_1824-01_39_78/page/n151/model/1up?view=theater)
+## [From _The Edinburgh Review, or Critical Journal 1802-1910_](https://archive.org/details/sim_edinburgh-review-critical-journal_1824-01_39_78/page/n151/mode/1up?view=theater)
 
 #### 1824-01-01 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
@@ -141,7 +141,7 @@ When age comes on.
 
 ---
 
-## [From _The Museum of Foreign Literature, Science, and Art (1822-1842)_](https://archive.org/details/sim_museum-of-foreign-literature-science-and-art_1824_4_23/page/n16/model/1up?view=theater)
+## [From _The Museum of Foreign Literature, Science, and Art (1822-1842)_](https://archive.org/details/sim_museum-of-foreign-literature-science-and-art_1824_4_23/page/n16/mode/1up?view=theater)
 
 #### 1824-01-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -224,7 +224,7 @@ When age comes on.
 
 ---
 
-## [From _Mutual Rights and Methodist Protestant 1824-1825_](https://archive.org/details/sim_mutual-rights-and-methodist-protestant_1824_1/page/n405/model/1up?view=theater)
+## [From _Mutual Rights and Methodist Protestant 1824-1825_](https://archive.org/details/sim_mutual-rights-and-methodist-protestant_1824_1/page/n405/mode/1up?view=theater)
 
 #### 1824-01-01 &middot; [Baltimore, Maryland](http://dbpedia.org/resource/Baltimore)
 
@@ -241,7 +241,7 @@ odes of Luis de Leon. The flow of the verse, and the fine an
 
 ---
 
-## [From _Mutual Rights and Methodist Protestant 1824-1825_](https://archive.org/details/sim_mutual-rights-and-methodist-protestant_1824_1/page/n405/model/1up?view=theater)
+## [From _Mutual Rights and Methodist Protestant 1824-1825_](https://archive.org/details/sim_mutual-rights-and-methodist-protestant_1824_1/page/n405/mode/1up?view=theater)
 
 #### 1824-01-01 &middot; [Baltimore, Maryland](http://dbpedia.org/resource/Baltimore)
 
@@ -349,7 +349,7 @@ And where are they?
 
 ---
 
-## [From _Christian register._](https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_1824-05-21_3_41/page/n3/model/1up?view=theater)
+## [From _Christian register._](https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_1824-05-21_3_41/page/n3/mode/1up?view=theater)
 
 #### 1824-05-21 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -449,7 +449,7 @@ When age comes on.
 
 ---
 
-## [From _The New - England Galaxy and United States Literary Advertiser (1830-1836)_](https://archive.org/details/sim_boston-pearl-and-galaxy_1824-06-04_7_347/page/n3/model/1up?view=theater)
+## [From _The New - England Galaxy and United States Literary Advertiser (1830-1836)_](https://archive.org/details/sim_boston-pearl-and-galaxy_1824-06-04_7_347/page/n3/mode/1up?view=theater)
 
 #### 1824-06-04 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -881,7 +881,7 @@ When age conies on.
 
 ---
 
-## [From _Religious Monitor and Evangelical Repository (1824-1842)_](https://archive.org/details/sim_religious-monitor-and-evangelical-repository_1825-03_1/page/n38/model/1up?view=theater)
+## [From _Religious Monitor and Evangelical Repository (1824-1842)_](https://archive.org/details/sim_religious-monitor-and-evangelical-repository_1825-03_1/page/n38/mode/1up?view=theater)
 
 #### 1825-03-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -918,7 +918,7 @@ How still our present happines
 
 ---
 
-## [From _Religious Monitor and Evangelical Repository (1824-1842)_](https://archive.org/details/sim_religious-monitor-and-evangelical-repository_1825-03_1/page/n39/model/1up?view=theater)
+## [From _Religious Monitor and Evangelical Repository (1824-1842)_](https://archive.org/details/sim_religious-monitor-and-evangelical-repository_1825-03_1/page/n39/mode/1up?view=theater)
 
 #### 1825-03-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -1001,7 +1001,7 @@ When age comes on.
 
 ---
 
-## [From _New York Telescope (1824-1828)_](https://archive.org/details/sim_new-york-telescope_1825-03-26_1_43/page/n3/model/1up?view=theater)
+## [From _New York Telescope (1824-1828)_](https://archive.org/details/sim_new-york-telescope_1825-03-26_1_43/page/n3/mode/1up?view=theater)
 
 #### 1825-03-26 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1086,7 +1086,7 @@ When age comes on.
 
 ---
 
-## [From _Western recorder._](https://archive.org/details/sim_western-recorder_1825-04-26_2_43/page/n3/model/1up?view=theater)
+## [From _Western recorder._](https://archive.org/details/sim_western-recorder_1825-04-26_2_43/page/n3/mode/1up?view=theater)
 
 #### 1825-04-26 &middot; [Utica, N.Y.](http://dbpedia.org/resource/Utica%2C_New_York)
 
@@ -1106,7 +1106,7 @@ cept the ode of Luis de Lean. 1
 
 ---
 
-## [From _Western recorder._](https://archive.org/details/sim_western-recorder_1825-04-26_2_43/page/n3/model/1up?view=theater)
+## [From _Western recorder._](https://archive.org/details/sim_western-recorder_1825-04-26_2_43/page/n3/mode/1up?view=theater)
 
 #### 1825-04-26 &middot; [Utica, N.Y.](http://dbpedia.org/resource/Utica%2C_New_York)
 
@@ -1153,7 +1153,7 @@ Alike the humble riv’lets glide
 
 ---
 
-## [From _Western recorder._](https://archive.org/details/sim_western-recorder_1825-04-26_2_43/page/n3/model/1up?view=theater)
+## [From _Western recorder._](https://archive.org/details/sim_western-recorder_1825-04-26_2_43/page/n3/mode/1up?view=theater)
 
 #### 1825-04-26 &middot; [Utica, N.Y.](http://dbpedia.org/resource/Utica%2C_New_York)
 
@@ -1233,7 +1233,7 @@ When age comes on.
 
 ---
 
-## [From _Christian register._](https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_1825-05-14_4_19/page/n0/model/1up?view=theater)
+## [From _Christian register._](https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_1825-05-14_4_19/page/n0/mode/1up?view=theater)
 
 #### 1825-05-14 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -1334,7 +1334,7 @@ When age comes on.
 
 ---
 
-## [From _The Cincinnati Literary Gazette (1824-1825)_](https://archive.org/details/sim_cincinnati-literary-gazette_1825-06-18_3_25/page/n7/model/1up?view=theater)
+## [From _The Cincinnati Literary Gazette (1824-1825)_](https://archive.org/details/sim_cincinnati-literary-gazette_1825-06-18_3_25/page/n7/mode/1up?view=theater)
 
 #### 1825-06-18 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
@@ -1417,7 +1417,7 @@ eTHE CINCINNATI LITERARY GAZETTE.
 
 ---
 
-## [From _The American Athenaeum:  A Repository of Belles Lettres, Science, and the Arts (1825-1825)_](https://archive.org/details/sim_american-athenaeum-a-repository-of-belles-lettres_1825-07-07_1_11/page/n1/model/1up?view=theater)
+## [From _The American Athenaeum:  A Repository of Belles Lettres, Science, and the Arts (1825-1825)_](https://archive.org/details/sim_american-athenaeum-a-repository-of-belles-lettres_1825-07-07_1_11/page/n1/mode/1up?view=theater)
 
 #### 1825-07-07 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1507,7 +1507,7 @@ When age comes on.
 
 ---
 
-## [From _Kentucky gazette._](https://archive.org/details/xt7sbc3svk62/page/n3/model/1up?view=theater)
+## [From _Kentucky gazette._](https://archive.org/details/xt7sbc3svk62/page/n3/mode/1up?view=theater)
 
 #### 1825-07-29 &middot; [[Lexington, Ky.]](http://dbpedia.org/resource/Lexington%2C_Kentucky)
 
@@ -1632,7 +1632,7 @@ When age comes on.
 
 ---
 
-## [From _Philadelphia recorder._](https://archive.org/details/sim_episcopal-recorder_1825-11-26_3_35/page/n3/model/1up?view=theater)
+## [From _Philadelphia recorder._](https://archive.org/details/sim_episcopal-recorder_1825-11-26_3_35/page/n3/mode/1up?view=theater)
 
 #### 1825-11-26 &middot; [Philadelphia, Pa.](http://dbpedia.org/resource/Philadelphia)
 
@@ -1662,7 +1662,7 @@ How pleasure like the passing \vin»l
 
 ---
 
-## [From _Philadelphia recorder._](https://archive.org/details/sim_episcopal-recorder_1825-11-26_3_35/page/n3/model/1up?view=theater)
+## [From _Philadelphia recorder._](https://archive.org/details/sim_episcopal-recorder_1825-11-26_3_35/page/n3/mode/1up?view=theater)
 
 #### 1825-11-26 &middot; [Philadelphia, Pa.](http://dbpedia.org/resource/Philadelphia)
 
@@ -1741,7 +1741,7 @@ And j
 
 ---
 
-## [From _The Pittsburgh Recorder, Containing Religious Literary and Political Information (1822-1827)_](https://archive.org/details/sim_pittsburgh-recorder_1825-11-29_4_199/page/n3/model/1up?view=theater)
+## [From _The Pittsburgh Recorder, Containing Religious Literary and Political Information (1822-1827)_](https://archive.org/details/sim_pittsburgh-recorder_1825-11-29_4_199/page/n3/mode/1up?view=theater)
 
 #### 1825-11-29 &middot; [Pittsburgh](http://dbpedia.org/resource/Pittsburgh)
 
@@ -1758,7 +1758,7 @@ fs surpassed by nothing which we are acquainted
 
 ---
 
-## [From _The Pittsburgh Recorder, Containing Religious Literary and Political Information (1822-1827)_](https://archive.org/details/sim_pittsburgh-recorder_1825-11-29_4_199/page/n3/model/1up?view=theater)
+## [From _The Pittsburgh Recorder, Containing Religious Literary and Political Information (1822-1827)_](https://archive.org/details/sim_pittsburgh-recorder_1825-11-29_4_199/page/n3/mode/1up?view=theater)
 
 #### 1825-11-29 &middot; [Pittsburgh](http://dbpedia.org/resource/Pittsburgh)
 
@@ -1862,7 +1862,7 @@ When age comes on
 
 ---
 
-## [From _The Columbian star._](https://archive.org/details/sim_columbian-star_1825-12-10_4_50/page/n3/model/1up?view=theater)
+## [From _The Columbian star._](https://archive.org/details/sim_columbian-star_1825-12-10_4_50/page/n3/mode/1up?view=theater)
 
 #### 1825-12-10 &middot; [Washington City](http://dbpedia.org/resource/Washington%2C_D.C.)
 
@@ -1955,7 +1955,7 @@ When age comes on.
 
 ---
 
-## [From _Christian Watchman (1819-1848)_](https://archive.org/details/sim_watchman-examiner_1825-12-30_7_4/page/n3/model/1up?view=theater)
+## [From _Christian Watchman (1819-1848)_](https://archive.org/details/sim_watchman-examiner_1825-12-30_7_4/page/n3/mode/1up?view=theater)
 
 #### 1825-12-30 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2000,7 +2000,7 @@ No hap} ier, let us hope to tind
 
 ---
 
-## [From _Christian Watchman (1819-1848)_](https://archive.org/details/sim_watchman-examiner_1825-12-30_7_4/page/n3/model/1up?view=theater)
+## [From _Christian Watchman (1819-1848)_](https://archive.org/details/sim_watchman-examiner_1825-12-30_7_4/page/n3/mode/1up?view=theater)
 
 #### 1825-12-30 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2093,7 +2093,7 @@ weariness and woe When age comes on
 
 ---
 
-## [From _Washington Theological Repertory (1819-1828)_](https://archive.org/details/sim_theological-repertory-and-churchmans-guide_1826-09_8_2/page/n17/model/1up?view=theater)
+## [From _Washington Theological Repertory (1819-1828)_](https://archive.org/details/sim_theological-repertory-and-churchmans-guide_1826-09_8_2/page/n17/mode/1up?view=theater)
 
 #### 1826-09-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
 
@@ -2211,7 +2211,7 @@ When age come on
 
 ---
 
-## [From _Christian telescope and Universalist miscellany._](https://archive.org/details/sim_christian-telescope-and-universalist-miscellany_1826-10-07_3_9/page/n6/model/1up?view=theater)
+## [From _Christian telescope and Universalist miscellany._](https://archive.org/details/sim_christian-telescope-and-universalist-miscellany_1826-10-07_3_9/page/n6/mode/1up?view=theater)
 
 #### 1826-10-07 &middot; [Providence, R.I.](http://dbpedia.org/resource/Providence%2C_Rhode_Island)
 
@@ -2484,7 +2484,7 @@ When age comes on.
 
 ---
 
-## [From _Casket (1826-1830)_](https://archive.org/details/sim_grahams-illustrated-magazine_1826-12_1_12/page/n30/model/1up?view=theater)
+## [From _Casket (1826-1830)_](https://archive.org/details/sim_grahams-illustrated-magazine_1826-12_1_12/page/n30/mode/1up?view=theater)
 
 #### 1826-12-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2713,7 +2713,7 @@ When age comes on.
 
 ---
 
-## [From _New York Telescope (1824-1828)_](https://archive.org/details/sim_new-york-telescope_1827-06-16_4_3/page/n2/model/1up?view=theater)
+## [From _New York Telescope (1824-1828)_](https://archive.org/details/sim_new-york-telescope_1827-06-16_4_3/page/n2/mode/1up?view=theater)
 
 #### 1827-06-16 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2812,7 +2812,7 @@ When age comes on.
 
 ---
 
-## [From _Gospel Advocate and Impartial Investigator (1823-1829)_](https://archive.org/details/sim_gospel-advocate-and-impartial-investigator_1827-07-28_5_30/page/n7/model/1up?view=theater)
+## [From _Gospel Advocate and Impartial Investigator (1823-1829)_](https://archive.org/details/sim_gospel-advocate-and-impartial-investigator_1827-07-28_5_30/page/n7/mode/1up?view=theater)
 
 #### 1827-07-28 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2898,7 +2898,7 @@ When age comes on.
 
 ---
 
-## [From _North American. Or, Weekly Journal of Politics, Science and Literature (1827-1827)_](https://archive.org/details/sim_north-american-or-weekly-journal-of-politics-science_1827-07-28_1_11/page/n4/model/1up?view=theater)
+## [From _North American. Or, Weekly Journal of Politics, Science and Literature (1827-1827)_](https://archive.org/details/sim_north-american-or-weekly-journal-of-politics-science_1827-07-28_1_11/page/n4/mode/1up?view=theater)
 
 #### 1827-07-28 &middot; [Baltimore](http://dbpedia.org/resource/Baltimore)
 
@@ -2997,7 +2997,7 @@ When age comes on
 
 ---
 
-## [From _The New - York Mirror: a Weekly Gazette of Literature and the Fine Arts (1823-1842)_](https://archive.org/details/sim_new-york-mirror-a-weekly-gazette-of-literature_1828-03-22_5_37/page/n7/model/1up?view=theater)
+## [From _The New - York Mirror: a Weekly Gazette of Literature and the Fine Arts (1823-1842)_](https://archive.org/details/sim_new-york-mirror-a-weekly-gazette-of-literature_1828-03-22_5_37/page/n7/mode/1up?view=theater)
 
 #### 1828-03-22 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3158,7 +3158,7 @@ When age comes on.
 
 ---
 
-## [From _The Philadelphia Album and Ladies' Literary Portfolio (1830-1834)_](https://archive.org/details/sim_catholic-educational-review_1830-10-23_4_43/page/n0/model/1up?view=theater)
+## [From _The Philadelphia Album and Ladies' Literary Portfolio (1830-1834)_](https://archive.org/details/sim_catholic-educational-review_1830-10-23_4_43/page/n0/mode/1up?view=theater)
 
 #### 1830-10-23 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -3278,7 +3278,7 @@ When age comes on.
 
 ---
 
-## [From _The Religious Intelligencer ... Containing the Principal Transactions of the Various Bible and Missionary Societies, with Particular Accounts of Revivals of Religion (1816-1837)_](https://archive.org/details/sim_religious-intelligencer_1830-12-04_15_27/page/n15/model/1up?view=theater)
+## [From _The Religious Intelligencer ... Containing the Principal Transactions of the Various Bible and Missionary Societies, with Particular Accounts of Revivals of Religion (1816-1837)_](https://archive.org/details/sim_religious-intelligencer_1830-12-04_15_27/page/n15/mode/1up?view=theater)
 
 #### 1830-12-04 &middot; [New Haven](http://dbpedia.org/resource/New_Haven%2C_Connecticut)
 
@@ -3399,7 +3399,7 @@ When age comes on.
 
 ---
 
-## [From _Philadelphia recorder._](https://archive.org/details/sim_episcopal-recorder_1830-12-18_8_38/page/n3/model/1up?view=theater)
+## [From _Philadelphia recorder._](https://archive.org/details/sim_episcopal-recorder_1830-12-18_8_38/page/n3/mode/1up?view=theater)
 
 #### 1830-12-18 &middot; [Philadelphia, Pa.](http://dbpedia.org/resource/Philadelphia)
 
@@ -3513,7 +3513,7 @@ Wlien age comes on.
 
 ---
 
-## [From _The western luminary._](https://archive.org/details/sim_western-farmer-and-gardener_1830-12-29_7_26/page/n3/model/1up?view=theater)
+## [From _The western luminary._](https://archive.org/details/sim_western-farmer-and-gardener_1830-12-29_7_26/page/n3/mode/1up?view=theater)
 
 #### 1830-12-29 &middot; [Lexington, Ky.](http://dbpedia.org/resource/Lexington%2C_Kentucky)
 
@@ -3608,7 +3608,7 @@ When age comes on.
 
 ---
 
-## [From _Episcopal watchman._](https://archive.org/details/sim_episcopal-watchman_1831-01-01_4_34/page/n2/model/1up?view=theater)
+## [From _Episcopal watchman._](https://archive.org/details/sim_episcopal-watchman_1831-01-01_4_34/page/n2/mode/1up?view=theater)
 
 #### 1831-01-01 &middot; [Hartford](http://dbpedia.org/resource/Hartford%2C_Connecticut)
 
@@ -3715,7 +3715,7 @@ I When age comes on.
 
 ---
 
-## [From _Christian secretary._](https://archive.org/details/sim_christian-secretary_1831-01-08_9_51/page/n3/model/1up?view=theater)
+## [From _Christian secretary._](https://archive.org/details/sim_christian-secretary_1831-01-08_9_51/page/n3/mode/1up?view=theater)
 
 #### 1831-01-08 &middot; [Hartford [Conn.]](http://dbpedia.org/resource/Hartford%2C_Connecticut)
 
@@ -3731,7 +3731,7 @@ which, says the Euinburgh Review, is surpassed by nothing | talent to be able cl
 
 ---
 
-## [From _Christian secretary._](https://archive.org/details/sim_christian-secretary_1831-01-08_9_51/page/n3/model/1up?view=theater)
+## [From _Christian secretary._](https://archive.org/details/sim_christian-secretary_1831-01-08_9_51/page/n3/mode/1up?view=theater)
 
 #### 1831-01-08 &middot; [Hartford [Conn.]](http://dbpedia.org/resource/Hartford%2C_Connecticut)
 
@@ -4002,7 +4002,7 @@ When age come on.
 
 ---
 
-## [From _Christian Intelligencer 1821-1836_](https://archive.org/details/sim_christian-intelligencer_1831-09-09_11_36/page/n3/model/1up?view=theater)
+## [From _Christian Intelligencer 1821-1836_](https://archive.org/details/sim_christian-intelligencer_1831-09-09_11_36/page/n3/mode/1up?view=theater)
 
 #### 1831-09-09 &middot; [Portland, Maine](http://dbpedia.org/resource/Portland%2C_Maine)
 
@@ -4063,7 +4063,7 @@ When age comes on
 
 ---
 
-## [From _Christian register._](https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_1832-04-07_11_14/page/n3/model/1up?view=theater)
+## [From _Christian register._](https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_1832-04-07_11_14/page/n3/mode/1up?view=theater)
 
 #### 1832-04-07 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -4134,7 +4134,7 @@ Long ere the lamp of death can blight,
 
 ---
 
-## [From _Christian register._](https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_1832-04-07_11_14/page/n3/model/1up?view=theater)
+## [From _Christian register._](https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_1832-04-07_11_14/page/n3/mode/1up?view=theater)
 
 #### 1832-04-07 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -4193,7 +4193,7 @@ When age comes on.
 
 ---
 
-## [From _Literary Journal and Weekly Register of Science and the Arts 1833-1834_](https://archive.org/details/sim_literary-journal-and-weekly-register-of-science_1834-12-28_1_30/page/n7/model/1up?view=theater)
+## [From _Literary Journal and Weekly Register of Science and the Arts 1833-1834_](https://archive.org/details/sim_literary-journal-and-weekly-register-of-science_1834-12-28_1_30/page/n7/mode/1up?view=theater)
 
 #### 1834-12-28 &middot; [Providence, Rhode Island](http://dbpedia.org/resource/Providence%2C_Rhode_Island)
 
@@ -4279,7 +4279,7 @@ When age comes on.
 
 ---
 
-## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1835-11-18_14_19/page/n7/model/1up?view=theater)
+## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1835-11-18_14_19/page/n7/mode/1up?view=theater)
 
 #### 1835-11-18 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -4385,7 +4385,7 @@ When age comes on,
 
 ---
 
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1837-07-22_10_42/page/n7/model/1up?view=theater)
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1837-07-22_10_42/page/n7/mode/1up?view=theater)
 
 #### 1837-07-22 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -4470,7 +4470,7 @@ When age comes on.
 
 ---
 
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1837-07-22_10_42/page/n7/model/1up?view=theater)
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1837-07-22_10_42/page/n7/mode/1up?view=theater)
 
 #### 1837-07-22 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -4549,7 +4549,7 @@ and woe -, When age comes on. -&#x27;Say
 
 ---
 
-## [From _Christian register and Boston observer._](https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_1839-08-24_18_34/page/n3/model/1up?view=theater)
+## [From _Christian register and Boston observer._](https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_1839-08-24_18_34/page/n3/mode/1up?view=theater)
 
 #### 1839-08-24 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -4638,7 +4638,7 @@ When age comes on.
 
 ---
 
-## [From _American Masonic Register and Literary Companion (1839-1847)_](https://archive.org/details/sim_american-masonic-register-and-literary-companion_1840-07-25_1_47/page/n7/model/1up?view=theater)
+## [From _American Masonic Register and Literary Companion (1839-1847)_](https://archive.org/details/sim_american-masonic-register-and-literary-companion_1840-07-25_1_47/page/n7/mode/1up?view=theater)
 
 #### 1840-07-25 &middot; [Albany](http://dbpedia.org/resource/Albany%2C_New_York)
 
@@ -4990,7 +4990,7 @@ When age comes on
 
 ---
 
-## [From _Cincinnati weekly herald and philanthropist._](https://archive.org/details/sim_cincinnati-weekly-herald-and-philanthropist_1844-06-12_8_39/page/n1/model/1up?view=theater)
+## [From _Cincinnati weekly herald and philanthropist._](https://archive.org/details/sim_cincinnati-weekly-herald-and-philanthropist_1844-06-12_8_39/page/n1/mode/1up?view=theater)
 
 #### 1844-06-12 &middot; [Cincinnati [Ohio]](http://dbpedia.org/resource/Cincinnati)
 
@@ -5243,7 +5243,7 @@ The cheek’s pure glow of red and white
 
 ---
 
-## [From _School Friend and Ohio School Journal 1846-1851_](https://archive.org/details/sim_school-friend-and-ohio-school-journal_1847-10-01_2_1/page/n11/model/1up?view=theater)
+## [From _School Friend and Ohio School Journal 1846-1851_](https://archive.org/details/sim_school-friend-and-ohio-school-journal_1847-10-01_2_1/page/n11/mode/1up?view=theater)
 
 #### 1847-10-01
 
@@ -5337,7 +5337,7 @@ When age comes on.
 
 ---
 
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1848-05-13_21_34/page/n3/model/1up?view=theater)
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1848-05-13_21_34/page/n3/mode/1up?view=theater)
 
 #### 1848-05-13 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -5387,7 +5387,7 @@ hen age comes on.
 
 ---
 
-## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://archive.org/details/sim_zions-herald_1849-01-31_20_5/page/n0/model/1up?view=theater)
+## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://archive.org/details/sim_zions-herald_1849-01-31_20_5/page/n0/mode/1up?view=theater)
 
 #### 1849-01-31 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -5515,7 +5515,7 @@ The heart&#x27;s blithe torn
 
 ---
 
-## [From _The American Quarterly Register and Magazine (1848-1849)_](https://archive.org/details/sim_strykers-american-register-and-magazine_1849-06_2_2/page/n173/model/1up?view=theater)
+## [From _The American Quarterly Register and Magazine (1848-1849)_](https://archive.org/details/sim_strykers-american-register-and-magazine_1849-06_2_2/page/n173/mode/1up?view=theater)
 
 #### 1849-06-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -6044,7 +6044,7 @@ When age comes on.
 
 ---
 
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1863-12-19_37_16/page/n3/model/1up?view=theater)
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1863-12-19_37_16/page/n3/mode/1up?view=theater)
 
 #### 1863-12-19 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -6223,7 +6223,7 @@ mien age comes on
 
 ---
 
-## [From _Louisville daily Democrat._](https://archive.org/details/xt7rxw47sm6m/page/n3/model/1up?view=theater)
+## [From _Louisville daily Democrat._](https://archive.org/details/xt7rxw47sm6m/page/n3/mode/1up?view=theater)
 
 #### 1864-09-11 &middot; [Louisville, Kentucky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
@@ -7368,7 +7368,7 @@ To that »oi wave
 
 ---
 
-## [From _The Frankfort commonwealth._](https://archive.org/details/xt7jm61bkx1w/page/n0/model/1up?view=theater)
+## [From _The Frankfort commonwealth._](https://archive.org/details/xt7jm61bkx1w/page/n0/mode/1up?view=theater)
 
 #### 1865-10-17 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
@@ -7612,7 +7612,7 @@ Li
 
 ---
 
-## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1866-05-01_18_9/page/n10/model/1up?view=theater)
+## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1866-05-01_18_9/page/n10/mode/1up?view=theater)
 
 #### 1866-05-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -8115,7 +8115,7 @@ When age comes 011
 
 ---
 
-## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://archive.org/details/sim_zions-herald_1866-12-26_37_52/page/n3/model/1up?view=theater)
+## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://archive.org/details/sim_zions-herald_1866-12-26_37_52/page/n3/mode/1up?view=theater)
 
 #### 1866-12-26 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -8282,7 +8282,7 @@ Aiast 61 ore It bids ns wake,
 
 ---
 
-## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://archive.org/details/sim_ladies-repository-a-monthly-periodical-devoted-to_1867-05_27_17/page/n2/model/1up?view=theater)
+## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://archive.org/details/sim_ladies-repository-a-monthly-periodical-devoted-to_1867-05_27_17/page/n2/mode/1up?view=theater)
 
 #### 1867-05-01 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
@@ -9165,7 +9165,7 @@ Whea age conies on
 
 ---
 
-## [From _The Kentucky sentinel._](https://archive.org/details/xt7cnp1wf20m/page/n0/model/1up?view=theater)
+## [From _The Kentucky sentinel._](https://archive.org/details/xt7cnp1wf20m/page/n0/mode/1up?view=theater)
 
 #### 1868-12-17 &middot; [Mount Sterling, Ky.](http://dbpedia.org/resource/Mount_Sterling%2C_Kentucky)
 
@@ -9577,7 +9577,7 @@ When age comes on
 
 ---
 
-## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1869-04-03_22_14/page/n9/model/1up?view=theater)
+## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1869-04-03_22_14/page/n9/mode/1up?view=theater)
 
 #### 1869-04-03 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -9661,7 +9661,7 @@ When age comes on !
 
 ---
 
-## [From _Proof Sheet 1867-1880_](https://archive.org/details/sim_proof-sheet_1869-09_3_14/page/n4/model/1up?view=theater)
+## [From _Proof Sheet 1867-1880_](https://archive.org/details/sim_proof-sheet_1869-09_3_14/page/n4/mode/1up?view=theater)
 
 #### 1869-09-01
 
@@ -12317,7 +12317,7 @@ We disappear
 
 ---
 
-## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1876-06-29_28_1439/page/n25/model/1up?view=theater)
+## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1876-06-29_28_1439/page/n25/mode/1up?view=theater)
 
 #### 1876-06-29 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -12801,7 +12801,7 @@ Ye disappear.
 
 ---
 
-## [From _National Repository, Devoted to General and Religious Literature, Criticism, and Art (1877-1880)_](https://archive.org/details/sim_national-repository_1880-04_7/page/n67/model/1up?view=theater)
+## [From _National Repository, Devoted to General and Religious Literature, Criticism, and Art (1877-1880)_](https://archive.org/details/sim_national-repository_1880-04_7/page/n67/mode/1up?view=theater)
 
 #### 1880-04-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -13255,7 +13255,7 @@ When age comes on
 
 ---
 
-## [From _Frank Leslie's Popular Monthly (1876-1904)_](https://archive.org/details/sim_american-magazine-1876_1885-11_20_5/page/n46/model/1up?view=theater)
+## [From _Frank Leslie's Popular Monthly (1876-1904)_](https://archive.org/details/sim_american-magazine-1876_1885-11_20_5/page/n46/mode/1up?view=theater)
 
 #### 1885-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -13401,7 +13401,7 @@ Vo disappear
 
 ---
 
-## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1893-06-15_61_32/page/n1/model/1up?view=theater)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1893-06-15_61_32/page/n1/mode/1up?view=theater)
 
 #### 1893-06-15 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -13427,7 +13427,7 @@ solemn and impressive. We are nearin
 
 ---
 
-## [From _Reedy's Mirror 1899-1920_](https://archive.org/details/sim_reedys-mirror_1899-07-13_9_22/page/n8/model/1up?view=theater)
+## [From _Reedy's Mirror 1899-1920_](https://archive.org/details/sim_reedys-mirror_1899-07-13_9_22/page/n8/mode/1up?view=theater)
 
 #### 1899-07-13
 

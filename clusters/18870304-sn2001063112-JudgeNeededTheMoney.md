@@ -210,7 +210,7 @@ off. The judge thought it so good a stor
 
 ---
 
-## [From _The Central Law Journal (1874-1927)_](https://archive.org/details/sim_central-law-journal_1887-03-11_24/page/n23/model/1up?view=theater)
+## [From _The Central Law Journal (1874-1927)_](https://archive.org/details/sim_central-law-journal_1887-03-11_24/page/n23/mode/1up?view=theater)
 
 #### 1887-03-11 &middot; [St. Louis](http://dbpedia.org/resource/St._Louis)
 
@@ -1449,7 +1449,7 @@ wg which tf &amp;-Aeus
 
 ---
 
-## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1887-05-30_18_22/page/n6/model/1up?view=theater)
+## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1887-05-30_18_22/page/n6/mode/1up?view=theater)
 
 #### 1887-05-30 &middot; [Lansing](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
@@ -1496,7 +1496,7 @@ cut.’’ Saying which he scampered off
 
 ---
 
-## [From _Christian Union (1870-1893)_](https://archive.org/details/sim_new-outlook_1887-06-16_35_24/page/n30/model/1up?view=theater)
+## [From _Christian Union (1870-1893)_](https://archive.org/details/sim_new-outlook_1887-06-16_35_24/page/n30/mode/1up?view=theater)
 
 #### 1887-06-16 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2122,7 +2122,7 @@ your hair cut.&quot; The last battle o
 
 ---
 
-## [From _Instructor 1996-1998_](https://archive.org/details/sim_instructor_1896-12_6_2/page/n22/model/1up?view=theater)
+## [From _Instructor 1996-1998_](https://archive.org/details/sim_instructor_1896-12_6_2/page/n22/mode/1up?view=theater)
 
 #### 1896-12-01 &middot; [Dansville, New York, None](http://dbpedia.org/resource/Dansville%2C_New_York)
 
@@ -2161,7 +2161,7 @@ earned your money; -here it is.&quot; &quot;
 
 ---
 
-## [From _The Congregationalist._](https://archive.org/details/sim_congregationalist-and-herald-of-gospel-liberty_1897-01-07_82_1/page/n34/model/1up?view=theater)
+## [From _The Congregationalist._](https://archive.org/details/sim_congregationalist-and-herald-of-gospel-liberty_1897-01-07_82_1/page/n34/mode/1up?view=theater)
 
 #### 1897-01-07 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 

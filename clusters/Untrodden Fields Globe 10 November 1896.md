@@ -19,7 +19,7 @@ Observations On The Esoteric Manners and Customs of Semi-Civilised Peoples Being
 
 ---
 
-## [From _Nature 1869-2016_](https://archive.org/details/sim_nature-uk_1896-10-22_54_1408/page/n22/model/1up?view=theater)
+## [From _Nature 1869-2016_](https://archive.org/details/sim_nature-uk_1896-10-22_54_1408/page/n22/mode/1up?view=theater)
 
 #### 1896-10-22 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -38,7 +38,7 @@ army surgeon of thirty years’ experience in Asia, Africa, and
 
 ---
 
-## [From _The Athenaeum 1828-1920_](https://archive.org/details/sim_athenaeum-uk_1896-11-21_3604/page/n40/model/1up?view=theater)
+## [From _The Athenaeum 1828-1920_](https://archive.org/details/sim_athenaeum-uk_1896-11-21_3604/page/n40/mode/1up?view=theater)
 
 #### 1896-11-21 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -61,7 +61,7 @@ OF SEMI-CIVILISED PEOPLES.
 
 ---
 
-## [From _The Athenaeum 1828-1920_](https://archive.org/details/sim_athenaeum-uk_1896-11-21_3604/page/n40/model/1up?view=theater)
+## [From _The Athenaeum 1828-1920_](https://archive.org/details/sim_athenaeum-uk_1896-11-21_3604/page/n40/mode/1up?view=theater)
 
 #### 1896-11-21 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -84,7 +84,7 @@ three stamps for postage.
 
 ---
 
-## [From _The Athenaeum 1828-1920_](https://archive.org/details/sim_athenaeum-uk_1896-11-28_3605/page/n42/model/1up?view=theater)
+## [From _The Athenaeum 1828-1920_](https://archive.org/details/sim_athenaeum-uk_1896-11-28_3605/page/n42/mode/1up?view=theater)
 
 #### 1896-11-28 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -136,7 +136,7 @@ three stamps for Postage.
 
 ---
 
-## [From _American Anthropologist 1888-2016_](https://archive.org/details/sim_american-anthropologist_1896-12_9_12/page/n30/model/1up?view=theater)
+## [From _American Anthropologist 1888-2016_](https://archive.org/details/sim_american-anthropologist_1896-12_9_12/page/n30/mode/1up?view=theater)
 
 #### 1896-12-01 &middot; [Washington, D.C., District of Columbia](http://dbpedia.org/resource/Washington%2C_D.C.)
 
@@ -159,7 +159,7 @@ C. Carrington. roy. 8°.
 
 ---
 
-## [From _Journal of American Folklore 1888-2016_](https://archive.org/details/sim_journal-of-american-folklore_january-march-1897_10_36/page/n81/model/1up?view=theater)
+## [From _Journal of American Folklore 1888-2016_](https://archive.org/details/sim_journal-of-american-folklore_january-march-1897_10_36/page/n81/mode/1up?view=theater)
 
 #### 1897-01-01 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 

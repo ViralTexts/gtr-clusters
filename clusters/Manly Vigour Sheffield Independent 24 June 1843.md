@@ -2609,7 +2609,7 @@ Messrs. Lucas &amp; Co. are to be daily consulted from ten till two, and from fi
 
 ---
 
-## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-02-10_1_24/page/n22/model/1up?view=theater)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-02-10_1_24/page/n22/mode/1up?view=theater)
 
 #### 1844-02-10 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -2649,7 +2649,7 @@ courage.”——The New Bell’s Weekly Messenger.
 
 ---
 
-## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-02-17_1_25/page/n22/model/1up?view=theater)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-02-17_1_25/page/n22/mode/1up?view=theater)
 
 #### 1844-02-17 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3147,7 +3147,7 @@ Dublin; and all booksellers.
 
 ---
 
-## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-10-05_1_58/page/n22/model/1up?view=theater)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-10-05_1_58/page/n22/mode/1up?view=theater)
 
 #### 1844-10-05 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3165,7 +3165,7 @@ street, Dublin; and all booksellers
 
 ---
 
-## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-10-05_1_58/page/n22/model/1up?view=theater)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-10-05_1_58/page/n22/mode/1up?view=theater)
 
 #### 1844-10-05 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3223,7 +3223,7 @@ courage.”&quot;— The New Bell&#x27;s We ekly Messe nger
 
 ---
 
-## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-10-12_1_59/page/n22/model/1up?view=theater)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-10-12_1_59/page/n22/mode/1up?view=theater)
 
 #### 1844-10-12 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3262,7 +3262,7 @@ courage.”—The New Bell’s Weekly Messenger.
 
 ---
 
-## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-10-19_1_60/page/n22/model/1up?view=theater)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-10-19_1_60/page/n22/mode/1up?view=theater)
 
 #### 1844-10-19 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3300,7 +3300,7 @@ street, Dublin; and all booksellers.
 
 ---
 
-## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-10-26_1_61/page/n22/model/1up?view=theater)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-10-26_1_61/page/n22/mode/1up?view=theater)
 
 #### 1844-10-26 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3318,7 +3318,7 @@ street, Dublin; and all booksellers.
 
 ---
 
-## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-10-26_1_61/page/n22/model/1up?view=theater)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-10-26_1_61/page/n22/mode/1up?view=theater)
 
 #### 1844-10-26 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3357,7 +3357,7 @@ courage.”— The New Bell’s Weekly Messenger.
 
 ---
 
-## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-11-02_1_62/page/n22/model/1up?view=theater)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-11-02_1_62/page/n22/mode/1up?view=theater)
 
 #### 1844-11-02 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3395,7 +3395,7 @@ street, Dublin; and all booksellers.
 
 ---
 
-## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-11-09_1_63/page/n22/model/1up?view=theater)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-11-09_1_63/page/n22/mode/1up?view=theater)
 
 #### 1844-11-09 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3443,7 +3443,7 @@ street, Dublin; and all booksellers.
 
 ---
 
-## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-12-21_1_69/page/n22/model/1up?view=theater)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-12-21_1_69/page/n22/mode/1up?view=theater)
 
 #### 1844-12-21 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3461,7 +3461,7 @@ street, Dublin; and all booksellers
 
 ---
 
-## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-12-21_1_69/page/n22/model/1up?view=theater)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-12-21_1_69/page/n22/mode/1up?view=theater)
 
 #### 1844-12-21 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3640,7 +3640,7 @@ courage.”— The New Bell’s Weekly Messenger.
 
 ---
 
-## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://archive.org/details/sim_examiner-a-weekly-paper-on-politics-literature-music_1845-08-23_1960/page/n13/model/1up?view=theater)
+## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://archive.org/details/sim_examiner-a-weekly-paper-on-politics-literature-music_1845-08-23_1960/page/n13/mode/1up?view=theater)
 
 #### 1845-08-23 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3699,7 +3699,7 @@ Dublin ; and all Booksellers.
 
 ---
 
-## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://archive.org/details/sim_examiner-a-weekly-paper-on-politics-literature-music_1846-02-07_1984/page/n13/model/1up?view=theater)
+## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://archive.org/details/sim_examiner-a-weekly-paper-on-politics-literature-music_1846-02-07_1984/page/n13/mode/1up?view=theater)
 
 #### 1846-02-07 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3756,7 +3756,7 @@ st^, Edinburgh ; T. Price, 98 Dame street, Dublin; and all Booksellen.
 
 ---
 
-## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://archive.org/details/sim_examiner-a-weekly-paper-on-politics-literature-music_1846-08-15_2011/page/n13/model/1up?view=theater)
+## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://archive.org/details/sim_examiner-a-weekly-paper-on-politics-literature-music_1846-08-15_2011/page/n13/mode/1up?view=theater)
 
 #### 1846-08-15 &middot; [London, England](http://dbpedia.org/resource/London)
 

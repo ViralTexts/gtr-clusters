@@ -17,7 +17,7 @@
 
 ---
 
-## [From _The University Magazine 1833-1880_](https://archive.org/details/sim_university-magazine_1842-05_19_113/page/n73/model/1up?view=theater)
+## [From _The University Magazine 1833-1880_](https://archive.org/details/sim_university-magazine_1842-05_19_113/page/n73/mode/1up?view=theater)
 
 #### 1842-05-01 &middot; [Dublin, Republic of Ireland](http://dbpedia.org/resource/Dublin)
 
@@ -79,7 +79,7 @@ clean out of mind.”
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1842-06-16_13_24/page/n3/model/1up?view=theater)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1842-06-16_13_24/page/n3/mode/1up?view=theater)
 
 #### 1842-06-16 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -111,7 +111,7 @@ the Psalmist—“ forgotten and clean out of mind.&quot;
 
 ---
 
-## [From _The Knickerbocker; or New York Monthly Magazine (1833-1862)_](https://archive.org/details/sim_foederal-american-monthly_1842-07_20_1/page/n105/model/1up?view=theater)
+## [From _The Knickerbocker; or New York Monthly Magazine (1833-1862)_](https://archive.org/details/sim_foederal-american-monthly_1842-07_20_1/page/n105/mode/1up?view=theater)
 
 #### 1842-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -325,7 +325,7 @@ Psrdmist, &#x27; forgotten and clean out of rnind!&#x27;
 
 ---
 
-## [From _The Green Mountain Gem; a Monthly Journal of Literature, Science, and the Arts (1843-1849)_](https://archive.org/details/sim_green-mountain-gem-a-monthly-journal-of-literature_1843-04-01_1_7/page/n2/model/1up?view=theater)
+## [From _The Green Mountain Gem; a Monthly Journal of Literature, Science, and the Arts (1843-1849)_](https://archive.org/details/sim_green-mountain-gem-a-monthly-journal-of-literature_1843-04-01_1_7/page/n2/mode/1up?view=theater)
 
 #### 1843-04-01 &middot; [Bradford](http://dbpedia.org/resource/Bradford%2C_Vermont)
 
@@ -374,7 +374,7 @@ clean out of mind.” —Knickerbucker
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1843-06-16_1_24/page/n2/model/1up?view=theater)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1843-06-16_1_24/page/n2/mode/1up?view=theater)
 
 #### 1843-06-16 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -401,7 +401,7 @@ now for our children; the village urchins will badly, except pinching his finger
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1843-06-16_1_24/page/n2/model/1up?view=theater)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1843-06-16_1_24/page/n2/mode/1up?view=theater)
 
 #### 1843-06-16 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -944,7 +944,7 @@ complete removal of the patient to another
 
 ---
 
-## [From _The Huntress._](https://archive.org/details/sim_huntress_1846-01-24_9_50/page/n1/model/1up?view=theater)
+## [From _The Huntress._](https://archive.org/details/sim_huntress_1846-01-24_9_50/page/n1/mode/1up?view=theater)
 
 #### 1846-01-24 &middot; [Washington [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
@@ -1232,7 +1232,7 @@ will net remember to lisp our nain
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1846-04-23_17_17/page/n3/model/1up?view=theater)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1846-04-23_17_17/page/n3/mode/1up?view=theater)
 
 #### 1846-04-23 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1311,7 +1311,7 @@ have felt as we feel, and their fellows wer
 
 ---
 
-## [From _The true American._](https://archive.org/details/xt7wh707xj1t/page/n3/model/1up?view=theater)
+## [From _The true American._](https://archive.org/details/xt7wh707xj1t/page/n3/mode/1up?view=theater)
 
 #### 1846-05-13 &middot; [Lexington, Ky.](http://dbpedia.org/resource/Lexington%2C_Kentucky)
 
@@ -1352,7 +1352,7 @@ will not remember to lisp our names.&quot;
 
 ---
 
-## [From _Christian secretary._](https://archive.org/details/sim_christian-secretary_1846-05-15_9_10/page/n3/model/1up?view=theater)
+## [From _Christian secretary._](https://archive.org/details/sim_christian-secretary_1846-05-15_9_10/page/n3/mode/1up?view=theater)
 
 #### 1846-05-15 &middot; [Hartford [Conn.]](http://dbpedia.org/resource/Hartford%2C_Connecticut)
 
@@ -1398,7 +1398,7 @@ funeral will wind on its way, and our friends | tism, Hemorrhoids, Piles, Worms,
 
 ---
 
-## [From _The Casket. Devoted to Literature, Science, the Arts, News, &c. (1846-1846)_](https://archive.org/details/sim_casket-devoted-to-literature-science-the-arts-news-etc_1846-05-20_1_6/page/n1/model/1up?view=theater)
+## [From _The Casket. Devoted to Literature, Science, the Arts, News, &c. (1846-1846)_](https://archive.org/details/sim_casket-devoted-to-literature-science-the-arts-news-etc_1846-05-20_1_6/page/n1/mode/1up?view=theater)
 
 #### 1846-05-20 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
@@ -1479,7 +1479,7 @@ j otir names.
 
 ---
 
-## [From _Christian secretary._](https://archive.org/details/sim_christian-secretary_1846-07-17_9_19/page/n0/model/1up?view=theater)
+## [From _Christian secretary._](https://archive.org/details/sim_christian-secretary_1846-07-17_9_19/page/n0/mode/1up?view=theater)
 
 #### 1846-07-17 &middot; [Hartford [Conn.]](http://dbpedia.org/resource/Hartford%2C_Connecticut)
 
@@ -1496,7 +1496,7 @@ ee eee. Sylvia Katty, per Rev. aly concert, per Rev.Mr. Howard, ==! Sn egigg] «
 
 ---
 
-## [From _Christian Parlor Magazine (1844-1855)_](https://archive.org/details/sim_christian-parlor-magazine_1846-12/page/n25/model/1up?view=theater)
+## [From _Christian Parlor Magazine (1844-1855)_](https://archive.org/details/sim_christian-parlor-magazine_1846-12/page/n25/mode/1up?view=theater)
 
 #### 1846-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3417,7 +3417,7 @@ not remember to lisp our names.&quot;
 
 ---
 
-## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1861-09-26_13_669/page/n6/model/1up?view=theater)
+## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1861-09-26_13_669/page/n6/mode/1up?view=theater)
 
 #### 1861-09-26 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4252,7 +4252,7 @@ onr children will cease to think of us, and
 
 ---
 
-## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://archive.org/details/sim_london-reader-of-literature-science-art-and-general_1867-12-07_10_239/page/n22/model/1up?view=theater)
+## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://archive.org/details/sim_london-reader-of-literature-science-art-and-general_1867-12-07_10_239/page/n22/mode/1up?view=theater)
 
 #### 1867-12-07 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -4283,7 +4283,7 @@ and will not remember to lisp our name.
 
 ---
 
-## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://archive.org/details/sim_ladies-repository-a-monthly-periodical-devoted-to_1868-01_28_1/page/n73/model/1up?view=theater)
+## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://archive.org/details/sim_ladies-repository-a-monthly-periodical-devoted-to_1868-01_28_1/page/n73/mode/1up?view=theater)
 
 #### 1868-01-01 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
@@ -4325,7 +4325,7 @@ our name
 
 ---
 
-## [From _The Kentucky sentinel._](https://archive.org/details/xt7c2f7jqr32/page/n3/model/1up?view=theater)
+## [From _The Kentucky sentinel._](https://archive.org/details/xt7c2f7jqr32/page/n3/mode/1up?view=theater)
 
 #### 1868-03-19 &middot; [Mount Sterling, Ky.](http://dbpedia.org/resource/Mount_Sterling%2C_Kentucky)
 
@@ -5408,7 +5408,7 @@ ten and clean out of in.ml.&quot;
 
 ---
 
-## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1869-08_79_470/page/n26/model/1up?view=theater)
+## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1869-08_79_470/page/n26/mode/1up?view=theater)
 
 #### 1869-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -6831,7 +6831,7 @@ our children.
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1874-11-14_54_16/page/n2/model/1up?view=theater)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1874-11-14_54_16/page/n2/mode/1up?view=theater)
 
 #### 1874-11-14 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -6878,7 +6878,7 @@ Will met remember to lisp our mam
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1874-11-14_54_16/page/n4/model/1up?view=theater)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1874-11-14_54_16/page/n4/mode/1up?view=theater)
 
 #### 1874-11-14 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -7180,7 +7180,7 @@ names.
 
 ---
 
-## [From _Woodhull and Claflin's Weekly 1870-1876_](https://archive.org/details/sim_woodhull-and-claflins-weekly_1875-06-05_10_1/page/n5/model/1up?view=theater)
+## [From _Woodhull and Claflin's Weekly 1870-1876_](https://archive.org/details/sim_woodhull-and-claflins-weekly_1875-06-05_10_1/page/n5/mode/1up?view=theater)
 
 #### 1875-06-05 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 

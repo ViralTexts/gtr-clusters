@@ -27,7 +27,7 @@ From the above interview the marriage took place the ensuing week.
 
 ---
 
-## [From _Weekly Visitor, or Ladies' Miscellany (1802-1806)_](https://archive.org/details/sim_ladys-miscellany-or-weekly-visitor_1803-12-31_2_57/page/n6/model/1up?view=theater)
+## [From _Weekly Visitor, or Ladies' Miscellany (1802-1806)_](https://archive.org/details/sim_ladys-miscellany-or-weekly-visitor_1803-12-31_2_57/page/n6/mode/1up?view=theater)
 
 #### 1803-12-31 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -60,7 +60,7 @@ marriage took filace the week following.
 
 ---
 
-## [From _Lady's Weekly Miscellany (1806-1810)_](https://archive.org/details/sim_ladys-miscellany-or-weekly-visitor_1809-04-15_8_25/page/n11/model/1up?view=theater)
+## [From _Lady's Weekly Miscellany (1806-1810)_](https://archive.org/details/sim_ladys-miscellany-or-weekly-visitor_1809-04-15_8_25/page/n11/mode/1up?view=theater)
 
 #### 1809-04-15 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -107,7 +107,7 @@ thut we love one another.~—2 EP
 
 ---
 
-## [From _Lady's Weekly Miscellany (1806-1810)_](https://archive.org/details/sim_ladys-miscellany-or-weekly-visitor_1809-04-15_8_25/page/n11/model/1up?view=theater)
+## [From _Lady's Weekly Miscellany (1806-1810)_](https://archive.org/details/sim_ladys-miscellany-or-weekly-visitor_1809-04-15_8_25/page/n11/mode/1up?view=theater)
 
 #### 1809-04-15 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -199,7 +199,7 @@ place tlic week following
 
 ---
 
-## [From _Christian Repository (1821-1824)_](https://archive.org/details/sim_circular_1823-07-11_2_66/page/n2/model/1up?view=theater)
+## [From _Christian Repository (1821-1824)_](https://archive.org/details/sim_circular_1823-07-11_2_66/page/n2/mode/1up?view=theater)
 
 #### 1823-07-11 &middot; [Wilmington](http://dbpedia.org/resource/Wilmington%2C_Delaware)
 
@@ -244,7 +244,7 @@ From the above interview the marriage
 
 ---
 
-## [From _The Port folio /_](https://archive.org/details/sim_port-folio_1823-12_16_260/page/n39/model/1up?view=theater)
+## [From _The Port folio /_](https://archive.org/details/sim_port-folio_1823-12_16_260/page/n39/mode/1up?view=theater)
 
 #### 1823-12-01 &middot; [Philadelphia [Pa.]](http://dbpedia.org/resource/Philadelphia)
 
@@ -378,7 +378,7 @@ place the ensuing wee
 
 ---
 
-## [From _The Escritoir : or Masonic and miscellaneous album._](https://archive.org/details/sim_escritoir-or-masonic-and-miscellaneous-album_1826-11-18_1_43/page/n7/model/1up?view=theater)
+## [From _The Escritoir : or Masonic and miscellaneous album._](https://archive.org/details/sim_escritoir-or-masonic-and-miscellaneous-album_1826-11-18_1_43/page/n7/mode/1up?view=theater)
 
 #### 1826-11-18 &middot; [Albany, N.Y.](http://dbpedia.org/resource/Albany%2C_New_York)
 
@@ -417,7 +417,7 @@ look place the ensuing week.
 
 ---
 
-## [From _The Album and Ladies' Weekly Gazette (1826-1827)_](https://archive.org/details/sim_catholic-educational-review_1826-11-22_1_25/page/n4/model/1up?view=theater)
+## [From _The Album and Ladies' Weekly Gazette (1826-1827)_](https://archive.org/details/sim_catholic-educational-review_1826-11-22_1_25/page/n4/mode/1up?view=theater)
 
 #### 1826-11-22 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -477,7 +477,7 @@ suing week.
 
 ---
 
-## [From _New York Telescope (1824-1828)_](https://archive.org/details/sim_new-york-telescope_1826-11-25_3_26/page/n3/model/1up?view=theater)
+## [From _New York Telescope (1824-1828)_](https://archive.org/details/sim_new-york-telescope_1826-11-25_3_26/page/n3/mode/1up?view=theater)
 
 #### 1826-11-25 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -526,7 +526,7 @@ view, the marriage took place the ensuing week.--
 
 ---
 
-## [From _The Saturday evening post._](https://archive.org/details/sim_saturday-evening-post_1826-12-09_5_49/page/n0/model/1up?view=theater)
+## [From _The Saturday evening post._](https://archive.org/details/sim_saturday-evening-post_1826-12-09_5_49/page/n0/mode/1up?view=theater)
 
 #### 1826-12-09 &middot; [Philadelphia [Pa.]](http://dbpedia.org/resource/Philadelphia)
 
@@ -578,7 +578,7 @@ thine eyes, t
 
 ---
 
-## [From _The Saturday evening post._](https://archive.org/details/sim_saturday-evening-post_1826-12-09_5_49_0/page/n0/model/1up?view=theater)
+## [From _The Saturday evening post._](https://archive.org/details/sim_saturday-evening-post_1826-12-09_5_49_0/page/n0/mode/1up?view=theater)
 
 #### 1826-12-09 &middot; [Philadelphia [Pa.]](http://dbpedia.org/resource/Philadelphia)
 
@@ -609,7 +609,7 @@ Sudden and violent passion, was desirous
 
 ---
 
-## [From _Masonic mirror, and mechanic's intelligencer._](https://archive.org/details/sim_boston-masonic-mirror_1826-12-16_2_51/page/n4/model/1up?view=theater)
+## [From _Masonic mirror, and mechanic's intelligencer._](https://archive.org/details/sim_boston-masonic-mirror_1826-12-16_2_51/page/n4/mode/1up?view=theater)
 
 #### 1826-12-16 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -630,7 +630,7 @@ I intended to be curious, they omitted to print the entering into a courtship on
 
 ---
 
-## [From _Masonic mirror, and mechanic's intelligencer._](https://archive.org/details/sim_boston-masonic-mirror_1826-12-16_2_51/page/n4/model/1up?view=theater)
+## [From _Masonic mirror, and mechanic's intelligencer._](https://archive.org/details/sim_boston-masonic-mirror_1826-12-16_2_51/page/n4/mode/1up?view=theater)
 
 #### 1826-12-16 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -658,7 +658,7 @@ r i The Recuyel of ihe Historh of Troy, and dated i
 
 ---
 
-## [From _Masonic mirror, and mechanic's intelligencer._](https://archive.org/details/sim_boston-masonic-mirror_1826-12-16_2_51/page/n4/model/1up?view=theater)
+## [From _Masonic mirror, and mechanic's intelligencer._](https://archive.org/details/sim_boston-masonic-mirror_1826-12-16_2_51/page/n4/mode/1up?view=theater)
 
 #### 1826-12-16 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -676,7 +676,7 @@ the marriage took place the ensuing week,
 
 ---
 
-## [From _Bowen's Boston News - Letter, and City Record (1825-1827)_](https://archive.org/details/sim_boston-news-letter-and-city-record_1826-12-16_2_24/page/n1/model/1up?view=theater)
+## [From _Bowen's Boston News - Letter, and City Record (1825-1827)_](https://archive.org/details/sim_boston-news-letter-and-city-record_1826-12-16_2_24/page/n1/mode/1up?view=theater)
 
 #### 1826-12-16 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -837,7 +837,7 @@ marriage took place the ensuing week
 
 ---
 
-## [From _Universalist Watchman, Repository and Chronicle (1831-1847)_](https://archive.org/details/sim_universalist-watchman-repository-and-chronicle_1832-06-23_4_9/page/n7/model/1up?view=theater)
+## [From _Universalist Watchman, Repository and Chronicle (1831-1847)_](https://archive.org/details/sim_universalist-watchman-repository-and-chronicle_1832-06-23_4_9/page/n7/mode/1up?view=theater)
 
 #### 1832-06-23 &middot; [Woodstock](http://dbpedia.org/resource/Woodstock%2C_Vermont)
 
@@ -943,7 +943,7 @@ riage took place the ensuing week.
 
 ---
 
-## [From _Chambers' Edinburgh Journal 1832-1853_](https://archive.org/details/sim_chambers-edinburgh-journal_1834-12-06_3_149/page/n7/model/1up?view=theater)
+## [From _Chambers' Edinburgh Journal 1832-1853_](https://archive.org/details/sim_chambers-edinburgh-journal_1834-12-06_3_149/page/n7/mode/1up?view=theater)
 
 #### 1834-12-06 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
@@ -1033,7 +1033,7 @@ week.
 
 ---
 
-## [From _The New - York Mirror: a Weekly Gazette of Literature and the Fine Arts (1823-1842)_](https://archive.org/details/sim_new-york-mirror-a-weekly-gazette-of-literature_1835-05-16_12_46/page/n7/model/1up?view=theater)
+## [From _The New - York Mirror: a Weekly Gazette of Literature and the Fine Arts (1823-1842)_](https://archive.org/details/sim_new-york-mirror-a-weekly-gazette-of-literature_1835-05-16_12_46/page/n7/mode/1up?view=theater)
 
 #### 1835-05-16 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1208,7 +1208,7 @@ took place the ensjing week.
 
 ---
 
-## [From _The New York State Mechanic, a Journal of the Manual Arts, Trades, and Manufactures (1841-1843)_](https://archive.org/details/sim_new-york-state-mechanic-a-journal-of-the-manual-arts_1842-01-08_1_7/page/n5/model/1up?view=theater)
+## [From _The New York State Mechanic, a Journal of the Manual Arts, Trades, and Manufactures (1841-1843)_](https://archive.org/details/sim_new-york-state-mechanic-a-journal-of-the-manual-arts_1842-01-08_1_7/page/n5/mode/1up?view=theater)
 
 #### 1842-01-08 &middot; [Albany](http://dbpedia.org/resource/Albany%2C_New_York)
 
@@ -2661,7 +2661,7 @@ nerselt to the grour.d end said uat
 
 ---
 
-## [From _Louisville daily Democrat._](https://archive.org/details/xt7dbr8mgc04/page/n0/model/1up?view=theater)
+## [From _Louisville daily Democrat._](https://archive.org/details/xt7dbr8mgc04/page/n0/mode/1up?view=theater)
 
 #### 1864-02-09 &middot; [Louisville, Kentucky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
@@ -3425,7 +3425,7 @@ place the ensuing week
 
 ---
 
-## [From _The Weekly Maysville eagle._](https://archive.org/details/xt7b2r3nzd11/page/n3/model/1up?view=theater)
+## [From _The Weekly Maysville eagle._](https://archive.org/details/xt7b2r3nzd11/page/n3/mode/1up?view=theater)
 
 #### 1870-02-16 &middot; [Maysville, Ky.](http://dbpedia.org/resource/Maysville%2C_Kentucky)
 
@@ -3748,7 +3748,7 @@ following week
 
 ---
 
-## [From _Tri-weekly Kentucky yeoman._](https://archive.org/details/xt7pc824f173/page/n0/model/1up?view=theater)
+## [From _Tri-weekly Kentucky yeoman._](https://archive.org/details/xt7pc824f173/page/n0/mode/1up?view=theater)
 
 #### 1871-04-11 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
@@ -4237,7 +4237,7 @@ following week
 
 ---
 
-## [From _Christian Union (1870-1893)_](https://archive.org/details/sim_new-outlook_1873-06-25_7_26/page/n12/model/1up?view=theater)
+## [From _Christian Union (1870-1893)_](https://archive.org/details/sim_new-outlook_1873-06-25_7_26/page/n12/mode/1up?view=theater)
 
 #### 1873-06-25 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4830,7 +4830,7 @@ a marriage took place
 
 ---
 
-## [From _National police gazette._](https://archive.org/details/sim_national-police-gazette_1880-11-27_37_166/page/n9/model/1up?view=theater)
+## [From _National police gazette._](https://archive.org/details/sim_national-police-gazette_1880-11-27_37_166/page/n9/mode/1up?view=theater)
 
 #### 1880-11-27 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
@@ -4909,7 +4909,7 @@ took place the ensuing month in th
 
 ---
 
-## [From _The American Magazine 1884-1888_](https://archive.org/details/sim_american-magazine_1886-02_3_5/page/n38/model/1up?view=theater)
+## [From _The American Magazine 1884-1888_](https://archive.org/details/sim_american-magazine_1886-02_3_5/page/n38/mode/1up?view=theater)
 
 #### 1886-02-01 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -6019,7 +6019,7 @@ week. -,
 
 ---
 
-## [From _The Ladies' Home Journal (1889-1907)_](https://archive.org/details/sim_ladies-home-journal_1891-01_8_2/page/n1/model/1up?view=theater)
+## [From _The Ladies' Home Journal (1889-1907)_](https://archive.org/details/sim_ladies-home-journal_1891-01_8_2/page/n1/mode/1up?view=theater)
 
 #### 1891-01-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -6774,7 +6774,7 @@ coming week. Scottish American
 
 ---
 
-## [From _Saturday Night 1986-2005_](https://archive.org/details/sim_saturday-night_1895-09-21_8_44/page/n8/model/1up?view=theater)
+## [From _Saturday Night 1986-2005_](https://archive.org/details/sim_saturday-night_1895-09-21_8_44/page/n8/mode/1up?view=theater)
 
 #### 1895-09-21 &middot; [Toronto, Canada](http://dbpedia.org/resource/Toronto)
 

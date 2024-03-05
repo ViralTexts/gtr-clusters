@@ -16,7 +16,7 @@ There seems to be no necessity of taking the lugubrious view of the future of th
 
 ---
 
-## [From _The New York times._](https://archive.org/details/sim_new-york-times_1871-06-16_20_6158/page/n3/model/1up?view=theater)
+## [From _The New York times._](https://archive.org/details/sim_new-york-times_1871-06-16_20_6158/page/n3/mode/1up?view=theater)
 
 #### 1871-06-16 &middot; [New-York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
@@ -186,7 +186,7 @@ It was not made for political effect, bu
 
 ---
 
-## [From _The commonwealth._](https://archive.org/details/sim_boston-commonwealth_1871-07-01_9_44/page/n0/model/1up?view=theater)
+## [From _The commonwealth._](https://archive.org/details/sim_boston-commonwealth_1871-07-01_9_44/page/n0/mode/1up?view=theater)
 
 #### 1871-07-01 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -215,7 +215,7 @@ never to see anything more of that kind of invol-. U. Reavie &amp; SES Sa a ae v
 
 ---
 
-## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://archive.org/details/sim_friends-review-a-religious-journal_1871-10-07_25_7/page/n15/model/1up?view=theater)
+## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://archive.org/details/sim_friends-review-a-religious-journal_1871-10-07_25_7/page/n15/mode/1up?view=theater)
 
 #### 1871-10-07 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -234,7 +234,7 @@ the United States, there are four millions
 
 ---
 
-## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://archive.org/details/sim_friends-review-a-religious-journal_1871-10-07_25_7/page/n15/model/1up?view=theater)
+## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://archive.org/details/sim_friends-review-a-religious-journal_1871-10-07_25_7/page/n15/mode/1up?view=theater)
 
 #### 1871-10-07 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 

@@ -47,7 +47,7 @@ A CANADIAN PHRASE.—Canada&#x27;s bright and sensible governer-general, Lord Du
 
 ---
 
-## [From _The Spectator 1828-2014_](https://archive.org/details/sim_spectator-uk_1874-09-26_47_2413/page/n0/model/1up?view=theater)
+## [From _The Spectator 1828-2014_](https://archive.org/details/sim_spectator-uk_1874-09-26_47_2413/page/n0/mode/1up?view=theater)
 
 #### 1874-09-26 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -219,7 +219,7 @@ the newspapers, and now one hears everywhere:
 
 ---
 
-## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1874-12_50_295/page/n148/model/1up?view=theater)
+## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1874-12_50_295/page/n148/mode/1up?view=theater)
 
 #### 1874-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -250,7 +250,7 @@ what I&#x27;ve been telling Emily.
 
 ---
 
-## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1874-12_50_295/page/n148/model/1up?view=theater)
+## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1874-12_50_295/page/n148/mode/1up?view=theater)
 
 #### 1874-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1217,7 +1217,7 @@ telling L.raily. Harper i
 
 ---
 
-## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1875-02-06_6_207/page/n13/model/1up?view=theater)
+## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1875-02-06_6_207/page/n13/mode/1up?view=theater)
 
 #### 1875-02-06 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 

@@ -21,7 +21,7 @@
 
 ---
 
-## [From _The Green Mountain Gem; a Monthly Journal of Literature, Science, and the Arts (1843-1849)_](https://archive.org/details/sim_green-mountain-gem-a-monthly-journal-of-literature_1849_7/page/n303/model/1up?view=theater)
+## [From _The Green Mountain Gem; a Monthly Journal of Literature, Science, and the Arts (1843-1849)_](https://archive.org/details/sim_green-mountain-gem-a-monthly-journal-of-literature_1849_7/page/n303/mode/1up?view=theater)
 
 #### 1849-01-01 &middot; [Bradford](http://dbpedia.org/resource/Bradford%2C_Vermont)
 
@@ -971,7 +971,7 @@ himself would be puzzled to read.&quot;
 
 ---
 
-## [From _Friends' Weekly Intelligencer (1844-1853)_](https://archive.org/details/sim_friends-intelligencer_1850-01-12_6_42/page/n5/model/1up?view=theater)
+## [From _Friends' Weekly Intelligencer (1844-1853)_](https://archive.org/details/sim_friends-intelligencer_1850-01-12_6_42/page/n5/mode/1up?view=theater)
 
 #### 1850-01-12 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -1110,7 +1110,7 @@ be puzzled to read.”
 
 ---
 
-## [From _The spirit of the times._](https://archive.org/details/sim_spirit-of-the-times_1850-12-28_20_45/page/n0/model/1up?view=theater)
+## [From _The spirit of the times._](https://archive.org/details/sim_spirit-of-the-times_1850-12-28_20_45/page/n0/mode/1up?view=theater)
 
 #### 1850-12-28 &middot; [New-York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
@@ -3030,7 +3030,7 @@ ter himself would be puzzled to read
 
 ---
 
-## [From _The Weekly Shelby news._](https://archive.org/details/xt77wm13qk34/page/n3/model/1up?view=theater)
+## [From _The Weekly Shelby news._](https://archive.org/details/xt77wm13qk34/page/n3/mode/1up?view=theater)
 
 #### 1855-05-02 &middot; [Shelbyville, Ky.](http://dbpedia.org/resource/Shelbyville%2C_Kentucky)
 
@@ -3060,7 +3060,7 @@ end to the Spanis
 
 ---
 
-## [From _The Weekly Shelby news._](https://archive.org/details/xt77wm13qk34/page/n3/model/1up?view=theater)
+## [From _The Weekly Shelby news._](https://archive.org/details/xt77wm13qk34/page/n3/mode/1up?view=theater)
 
 #### 1855-05-02 &middot; [Shelbyville, Ky.](http://dbpedia.org/resource/Shelbyville%2C_Kentucky)
 
@@ -3091,7 +3091,7 @@ bodv but the practical printer, knows
 
 ---
 
-## [From _The Weekly Shelby news._](https://archive.org/details/xt77wm13qk34/page/n3/model/1up?view=theater)
+## [From _The Weekly Shelby news._](https://archive.org/details/xt77wm13qk34/page/n3/mode/1up?view=theater)
 
 #### 1855-05-02 &middot; [Shelbyville, Ky.](http://dbpedia.org/resource/Shelbyville%2C_Kentucky)
 
@@ -3405,7 +3405,7 @@ would be puzzled to read
 
 ---
 
-## [From _Tri-weekly Kentucky yeoman._](https://archive.org/details/xt7rr49g770c/page/n1/model/1up?view=theater)
+## [From _Tri-weekly Kentucky yeoman._](https://archive.org/details/xt7rr49g770c/page/n1/mode/1up?view=theater)
 
 #### 1862-01-21 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 

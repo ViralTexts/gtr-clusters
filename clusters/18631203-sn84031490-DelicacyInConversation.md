@@ -57,7 +57,7 @@ c.a&#x27;ing
 
 ---
 
-## [From _Masonic mirror, and mechanic's intelligencer._](https://archive.org/details/sim_boston-masonic-mirror_1826-12-09_2_50/page/n2/model/1up?view=theater)
+## [From _Masonic mirror, and mechanic's intelligencer._](https://archive.org/details/sim_boston-masonic-mirror_1826-12-09_2_50/page/n2/mode/1up?view=theater)
 
 #### 1826-12-09 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -101,7 +101,7 @@ excruciatine.
 
 ---
 
-## [From _Tatler. a Daily Journal of Literature and the Stage 1830-1832_](https://archive.org/details/sim_tatler-a-daily-journal-of-literature-and-the-stage_1831-01-11_2_111/page/n3/model/1up?view=theater)
+## [From _Tatler. a Daily Journal of Literature and the Stage 1830-1832_](https://archive.org/details/sim_tatler-a-daily-journal-of-literature-and-the-stage_1831-01-11_2_111/page/n3/mode/1up?view=theater)
 
 #### 1831-01-11
 
@@ -128,7 +128,7 @@ in a word, to speak of your prosperity before the miserable; this
 
 ---
 
-## [From _Tatler. a Daily Journal of Literature and the Stage 1830-1832_](https://archive.org/details/sim_tatler-a-daily-journal-of-literature-and-the-stage_1831-01-11_2_111/page/n3/model/1up?view=theater)
+## [From _Tatler. a Daily Journal of Literature and the Stage 1830-1832_](https://archive.org/details/sim_tatler-a-daily-journal-of-literature-and-the-stage_1831-01-11_2_111/page/n3/mode/1up?view=theater)
 
 #### 1831-01-11
 
@@ -154,7 +154,7 @@ conversation is cruel, and the comparison which naturally rises in | Clerimont, 
 
 ---
 
-## [From _Evangelical Magazine and Gospel Advocate (1830-1848)_](https://archive.org/details/sim_evangelical-magazine-and-gospel-advocate_1838-04-06_9_14/page/n7/model/1up?view=theater)
+## [From _Evangelical Magazine and Gospel Advocate (1830-1848)_](https://archive.org/details/sim_evangelical-magazine-and-gospel-advocate_1838-04-06_9_14/page/n7/mode/1up?view=theater)
 
 #### 1838-04-06 &middot; [Utica](http://dbpedia.org/resource/Utica%2C_New_York)
 
@@ -179,7 +179,7 @@ and jinir.i, is extruciaiing— Ilruyerc.
 
 ---
 
-## [From _The Ladies' Companion, a Monthly Magazine; Devoted to Literature and the Fine Arts (1834-1843)_](https://archive.org/details/sim_ladies-companion-and-literary-expositor_1841-03_14/page/n0/model/1up?view=theater)
+## [From _The Ladies' Companion, a Monthly Magazine; Devoted to Literature and the Fine Arts (1834-1843)_](https://archive.org/details/sim_ladies-companion-and-literary-expositor_1841-03_14/page/n0/mode/1up?view=theater)
 
 #### 1841-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -205,7 +205,7 @@ yours, is excruciating. —Bruyere
 
 ---
 
-## [From _Godey's Lady's Book, and Ladies' American Magazine (1840-1843)_](https://archive.org/details/sim_godeys-magazine_1841-11_23_5/page/n35/model/1up?view=theater)
+## [From _Godey's Lady's Book, and Ladies' American Magazine (1840-1843)_](https://archive.org/details/sim_godeys-magazine_1841-11_23_5/page/n35/mode/1up?view=theater)
 
 #### 1841-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -604,7 +604,7 @@ yours is excruciating.
 
 ---
 
-## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1864-01_16_1/page/n30/model/1up?view=theater)
+## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1864-01_16_1/page/n30/mode/1up?view=theater)
 
 #### 1864-01-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -660,7 +660,7 @@ excruciating.
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1864-01-09_2215/page/n0/model/1up?view=theater)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1864-01-09_2215/page/n0/mode/1up?view=theater)
 
 #### 1864-01-09 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -716,7 +716,7 @@ dition and yours is excruciating.
 
 ---
 
-## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1865-06_70/page/n27/model/1up?view=theater)
+## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1865-06_70/page/n27/mode/1up?view=theater)
 
 #### 1865-06-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -744,7 +744,7 @@ twixt their condition and yours is excruciating.
 
 ---
 
-## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1867-02_34_201/page/n49/model/1up?view=theater)
+## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1867-02_34_201/page/n49/mode/1up?view=theater)
 
 #### 1867-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -986,7 +986,7 @@ ciating.
 
 ---
 
-## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://archive.org/details/sim_albion-a-journal-of-news-politics-and-literature_1874-03-28_52_13/page/n6/model/1up?view=theater)
+## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://archive.org/details/sim_albion-a-journal-of-news-politics-and-literature_1874-03-28_52_13/page/n6/mode/1up?view=theater)
 
 #### 1874-03-28 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1009,7 +1009,7 @@ condition and yours is excruciating.
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1874-10-24_54_13/page/n1/model/1up?view=theater)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1874-10-24_54_13/page/n1/mode/1up?view=theater)
 
 #### 1874-10-24 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -1045,7 +1045,7 @@ amd yours, ts excruciatin
 
 ---
 
-## [From _The commonwealth._](https://archive.org/details/sim_boston-commonwealth_1875-03-27_13_30/page/n3/model/1up?view=theater)
+## [From _The commonwealth._](https://archive.org/details/sim_boston-commonwealth_1875-03-27_13_30/page/n3/mode/1up?view=theater)
 
 #### 1875-03-27 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 

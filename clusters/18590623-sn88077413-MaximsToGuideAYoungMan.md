@@ -168,7 +168,7 @@ happy
 
 ---
 
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1857-07-18_30_45/page/n3/model/1up?view=theater)
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1857-07-18_30_45/page/n3/mode/1up?view=theater)
 
 #### 1857-07-18 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -389,7 +389,7 @@ week
 
 ---
 
-## [From _Friends' Intelligencer (1853-1910)_](https://archive.org/details/sim_friends-intelligencer_1857-12-26_14_41/page/n6/model/1up?view=theater)
+## [From _Friends' Intelligencer (1853-1910)_](https://archive.org/details/sim_friends-intelligencer_1857-12-26_14_41/page/n6/mode/1up?view=theater)
 
 #### 1857-12-26 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -1330,7 +1330,7 @@ until you are able to support a wife.
 
 ---
 
-## [From _Friends' Intelligencer (1853-1910)_](https://archive.org/details/sim_friends-intelligencer_1865-08-19_22_24/page/n6/model/1up?view=theater)
+## [From _Friends' Intelligencer (1853-1910)_](https://archive.org/details/sim_friends-intelligencer_1865-08-19_22_24/page/n6/mode/1up?view=theater)
 
 #### 1865-08-19 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -1380,7 +1380,7 @@ once a week
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1866-05-10_39_19/page/n2/model/1up?view=theater)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1866-05-10_39_19/page/n2/mode/1up?view=theater)
 
 #### 1866-05-10 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2304,7 +2304,7 @@ evil of anyone. Be just be
 
 ---
 
-## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1893-04-01_46_13/page/n21/model/1up?view=theater)
+## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1893-04-01_46_13/page/n21/mode/1up?view=theater)
 
 #### 1893-04-01 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2359,7 +2359,7 @@ Drink no kind of intoxicating liquors.
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1894-12-08_71_23/page/n8/model/1up?view=theater)
+## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1894-12-08_71_23/page/n8/mode/1up?view=theater)
 
 #### 1894-12-08 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 

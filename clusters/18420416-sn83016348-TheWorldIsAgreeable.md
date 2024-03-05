@@ -19,7 +19,7 @@ This is an agreeable world after all. If we would only bring ourselves to look a
 
 ---
 
-## [From _The Man (1834-1834)_](https://archive.org/details/sim_man-us_1834-05-13_1_71/page/n3/model/1up?view=theater)
+## [From _The Man (1834-1834)_](https://archive.org/details/sim_man-us_1834-05-13_1_71/page/n3/mode/1up?view=theater)
 
 #### 1834-05-13 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -59,7 +59,7 @@ bloom in more than Hesperian beauty.”
 
 ---
 
-## [From _Working man's advocate._](https://archive.org/details/sim_young-america_1834-05-17_5_40_0/page/n3/model/1up?view=theater)
+## [From _Working man's advocate._](https://archive.org/details/sim_young-america_1834-05-17_5_40_0/page/n3/mode/1up?view=theater)
 
 #### 1834-05-17 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
@@ -104,7 +104,7 @@ bloom in more than Hesperian beauty.”
 
 ---
 
-## [From _Cincinnati Mirror, and Western Gazette of Literature, Science, and the Arts (1831-1836)_](https://archive.org/details/sim_the-cincinnati-mirror-and-western-gazette-of-literature_1834-08-23_3_45/page/n2/model/1up?view=theater)
+## [From _Cincinnati Mirror, and Western Gazette of Literature, Science, and the Arts (1831-1836)_](https://archive.org/details/sim_the-cincinnati-mirror-and-western-gazette-of-literature_1834-08-23_3_45/page/n2/mode/1up?view=theater)
 
 #### 1834-08-23 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
@@ -136,7 +136,7 @@ inmore than Hesperian beauty
 
 ---
 
-## [From _Cincinnati Mirror, and Western Gazette of Literature, Science, and the Arts (1831-1836)_](https://archive.org/details/sim_the-cincinnati-mirror-and-western-gazette-of-literature_1834-08-23_3_45/page/n2/model/1up?view=theater)
+## [From _Cincinnati Mirror, and Western Gazette of Literature, Science, and the Arts (1831-1836)_](https://archive.org/details/sim_the-cincinnati-mirror-and-western-gazette-of-literature_1834-08-23_3_45/page/n2/mode/1up?view=theater)
 
 #### 1834-08-23 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
@@ -170,7 +170,7 @@ persons are like flood trash floating upon the surface of
 
 ---
 
-## [From _The Maine farmer and journal of the useful arts._](https://archive.org/details/sim_maine-farmer_1835-01-02_2_50/page/n7/model/1up?view=theater)
+## [From _The Maine farmer and journal of the useful arts._](https://archive.org/details/sim_maine-farmer_1835-01-02_2_50/page/n7/mode/1up?view=theater)
 
 #### 1835-01-02 &middot; [Winthrop, Me.](http://dbpedia.org/resource/Winthrop%2C_Maine)
 
@@ -353,7 +353,7 @@ bloom in more than &quot;Hesperian beauty.
 
 ---
 
-## [From _The Baltimore Monument. A Weekly Journal, Devoted to Polite Literature, Science, and the Fine Arts (1836-1838)_](https://archive.org/details/sim_baltimore-monument-a-weekly-journal_1837-02-25_1_21/page/n7/model/1up?view=theater)
+## [From _The Baltimore Monument. A Weekly Journal, Devoted to Polite Literature, Science, and the Fine Arts (1836-1838)_](https://archive.org/details/sim_baltimore-monument-a-weekly-journal_1837-02-25_1_21/page/n7/mode/1up?view=theater)
 
 #### 1837-02-25 &middot; [Baltimore](http://dbpedia.org/resource/Baltimore)
 
@@ -371,7 +371,7 @@ dred per cent. for loss of time, bad bargims, accidents, &amp;c. &amp;c. || comm
 
 ---
 
-## [From _The Baltimore Monument. A Weekly Journal, Devoted to Polite Literature, Science, and the Fine Arts (1836-1838)_](https://archive.org/details/sim_baltimore-monument-a-weekly-journal_1837-02-25_1_21/page/n7/model/1up?view=theater)
+## [From _The Baltimore Monument. A Weekly Journal, Devoted to Polite Literature, Science, and the Fine Arts (1836-1838)_](https://archive.org/details/sim_baltimore-monument-a-weekly-journal_1837-02-25_1_21/page/n7/mode/1up?view=theater)
 
 #### 1837-02-25 &middot; [Baltimore](http://dbpedia.org/resource/Baltimore)
 
@@ -412,7 +412,7 @@ lof charity from our lips; and from our hearts let the ric
 
 ---
 
-## [From _The Baltimore Monument. A Weekly Journal, Devoted to Polite Literature, Science, and the Fine Arts (1836-1838)_](https://archive.org/details/sim_baltimore-monument-a-weekly-journal_1837-02-25_1_21/page/n7/model/1up?view=theater)
+## [From _The Baltimore Monument. A Weekly Journal, Devoted to Polite Literature, Science, and the Fine Arts (1836-1838)_](https://archive.org/details/sim_baltimore-monument-a-weekly-journal_1837-02-25_1_21/page/n7/mode/1up?view=theater)
 
 #### 1837-02-25 &middot; [Baltimore](http://dbpedia.org/resource/Baltimore)
 
@@ -623,7 +623,7 @@ This brusqueric broke off the ac
 
 ---
 
-## [From _The Baltimore Monument. A Weekly Journal, Devoted to Polite Literature, Science, and the Fine Arts (1836-1838)_](https://archive.org/details/sim_baltimore-monument-a-weekly-journal_1838-07-14_2_39/page/n5/model/1up?view=theater)
+## [From _The Baltimore Monument. A Weekly Journal, Devoted to Polite Literature, Science, and the Fine Arts (1836-1838)_](https://archive.org/details/sim_baltimore-monument-a-weekly-journal_1838-07-14_2_39/page/n5/mode/1up?view=theater)
 
 #### 1838-07-14 &middot; [Baltimore](http://dbpedia.org/resource/Baltimore)
 
@@ -654,7 +654,7 @@ eon, who had not once doubted but that the merchant’s money || pitino Alagoas 
 
 ---
 
-## [From _The Baltimore Monument. A Weekly Journal, Devoted to Polite Literature, Science, and the Fine Arts (1836-1838)_](https://archive.org/details/sim_baltimore-monument-a-weekly-journal_1838-07-14_2_39/page/n5/model/1up?view=theater)
+## [From _The Baltimore Monument. A Weekly Journal, Devoted to Polite Literature, Science, and the Fine Arts (1836-1838)_](https://archive.org/details/sim_baltimore-monument-a-weekly-journal_1838-07-14_2_39/page/n5/mode/1up?view=theater)
 
 #### 1838-07-14 &middot; [Baltimore](http://dbpedia.org/resource/Baltimore)
 
@@ -685,7 +685,7 @@ kindnes swell up as froma fountain—so the “golden age”
 
 ---
 
-## [From _The Boston Weekly Magazine. Devoted to Moral and Entertaining Literature, Science, and the Fine Arts: Containing Original and Selected Tales, Moral and Humorous Essays, Sketches of Society, Elegant Extracts, Poetry, Criticism, and Selections from Works of History and Adventure: Embellished with Music (1838-1841)_](https://archive.org/details/sim_boston-weekly-magazine_1839-08-17_1_50/page/n2/model/1up?view=theater)
+## [From _The Boston Weekly Magazine. Devoted to Moral and Entertaining Literature, Science, and the Fine Arts: Containing Original and Selected Tales, Moral and Humorous Essays, Sketches of Society, Elegant Extracts, Poetry, Criticism, and Selections from Works of History and Adventure: Embellished with Music (1838-1841)_](https://archive.org/details/sim_boston-weekly-magazine_1839-08-17_1_50/page/n2/mode/1up?view=theater)
 
 #### 1839-08-17 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -709,7 +709,7 @@ ORIGIN OF PAPER MONEY
 
 ---
 
-## [From _The Rural Repository Devoted to Polite Literature, Such as Moral and Sentimental Tales, Original Communications, Biography, Traveling Sketches, Poetry, Amusing Miscellany, Humorous and Historical Anecdotes (1824-1851)_](https://archive.org/details/sim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13/page/n6/model/1up?view=theater)
+## [From _The Rural Repository Devoted to Polite Literature, Such as Moral and Sentimental Tales, Original Communications, Biography, Traveling Sketches, Poetry, Amusing Miscellany, Humorous and Historical Anecdotes (1824-1851)_](https://archive.org/details/sim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13/page/n6/mode/1up?view=theater)
 
 #### 1839-12-07 &middot; [Hudson](http://dbpedia.org/resource/Hudson%2C_New_York)
 
@@ -726,7 +726,7 @@ we would only bring ourselves to look at objects
 
 ---
 
-## [From _The Rural Repository Devoted to Polite Literature, Such as Moral and Sentimental Tales, Original Communications, Biography, Traveling Sketches, Poetry, Amusing Miscellany, Humorous and Historical Anecdotes (1824-1851)_](https://archive.org/details/sim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13/page/n6/model/1up?view=theater)
+## [From _The Rural Repository Devoted to Polite Literature, Such as Moral and Sentimental Tales, Original Communications, Biography, Traveling Sketches, Poetry, Amusing Miscellany, Humorous and Historical Anecdotes (1824-1851)_](https://archive.org/details/sim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13/page/n6/mode/1up?view=theater)
 
 #### 1839-12-07 &middot; [Hudson](http://dbpedia.org/resource/Hudson%2C_New_York)
 
@@ -744,7 +744,7 @@ his fellows; he loses half the enjoyment of life ;\ secm to have good cause to r
 
 ---
 
-## [From _The Rural Repository Devoted to Polite Literature, Such as Moral and Sentimental Tales, Original Communications, Biography, Traveling Sketches, Poetry, Amusing Miscellany, Humorous and Historical Anecdotes (1824-1851)_](https://archive.org/details/sim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13/page/n6/model/1up?view=theater)
+## [From _The Rural Repository Devoted to Polite Literature, Such as Moral and Sentimental Tales, Original Communications, Biography, Traveling Sketches, Poetry, Amusing Miscellany, Humorous and Historical Anecdotes (1824-1851)_](https://archive.org/details/sim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13/page/n6/mode/1up?view=theater)
 
 #### 1839-12-07 &middot; [Hudson](http://dbpedia.org/resource/Hudson%2C_New_York)
 
@@ -767,7 +767,7 @@ kindness well up as from a fountain—so the jee now | have nothing morc to desi
 
 ---
 
-## [From _The Rural Repository Devoted to Polite Literature, Such as Moral and Sentimental Tales, Original Communications, Biography, Traveling Sketches, Poetry, Amusing Miscellany, Humorous and Historical Anecdotes (1824-1851)_](https://archive.org/details/sim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13/page/n6/model/1up?view=theater)
+## [From _The Rural Repository Devoted to Polite Literature, Such as Moral and Sentimental Tales, Original Communications, Biography, Traveling Sketches, Poetry, Amusing Miscellany, Humorous and Historical Anecdotes (1824-1851)_](https://archive.org/details/sim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13/page/n6/mode/1up?view=theater)
 
 #### 1839-12-07 &middot; [Hudson](http://dbpedia.org/resource/Hudson%2C_New_York)
 
@@ -1046,7 +1046,7 @@ in more than “Hyperion beauty.
 
 ---
 
-## [From _Every Youth's Gazette, A Semi - Monthly Journal Devoted to the Amusement, Instruction, and Moral Culture of the Young (1842-1842)_](https://archive.org/details/sim_every-youths-gazette-a-semi-monthly-journal_1842-12-31_1_28/page/n10/model/1up?view=theater)
+## [From _Every Youth's Gazette, A Semi - Monthly Journal Devoted to the Amusement, Instruction, and Moral Culture of the Young (1842-1842)_](https://archive.org/details/sim_every-youths-gazette-a-semi-monthly-journal_1842-12-31_1_28/page/n10/mode/1up?view=theater)
 
 #### 1842-12-31 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1240,7 +1240,7 @@ rian beauty.&quot; __
 
 ---
 
-## [From _Christian secretary._](https://archive.org/details/sim_christian-secretary_1844-05-03_7_8/page/n0/model/1up?view=theater)
+## [From _Christian secretary._](https://archive.org/details/sim_christian-secretary_1844-05-03_7_8/page/n0/mode/1up?view=theater)
 
 #### 1844-05-03 &middot; [Hartford [Conn.]](http://dbpedia.org/resource/Hartford%2C_Connecticut)
 
@@ -1288,7 +1288,7 @@ brother should hate brother ; it is not proper that
 
 ---
 
-## [From _Christian secretary._](https://archive.org/details/sim_christian-secretary_1844-05-03_7_8/page/n0/model/1up?view=theater)
+## [From _Christian secretary._](https://archive.org/details/sim_christian-secretary_1844-05-03_7_8/page/n0/mode/1up?view=theater)
 
 #### 1844-05-03 &middot; [Hartford [Conn.]](http://dbpedia.org/resource/Hartford%2C_Connecticut)
 
@@ -1649,7 +1649,7 @@ blessed bleom in more than &quot;Hyperian beau
 
 ---
 
-## [From _Boston Cultivator (1839-1850)_](https://archive.org/details/sim_american-cultivator_1848-09-02_10_36/page/n7/model/1up?view=theater)
+## [From _Boston Cultivator (1839-1850)_](https://archive.org/details/sim_american-cultivator_1848-09-02_10_36/page/n7/mode/1up?view=theater)
 
 #### 1848-09-02 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1667,7 +1667,7 @@ jects that surround us in their true light, we
 
 ---
 
-## [From _Boston Cultivator (1839-1850)_](https://archive.org/details/sim_american-cultivator_1848-09-02_10_36/page/n7/model/1up?view=theater)
+## [From _Boston Cultivator (1839-1850)_](https://archive.org/details/sim_american-cultivator_1848-09-02_10_36/page/n7/mode/1up?view=theater)
 
 #### 1848-09-02 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2273,7 +2273,7 @@ bloom in more than Hypernian beauty.
 
 ---
 
-## [From _The District School Journal of the State of New York (1840-1852)_](https://archive.org/details/sim_district-school-journal-of-education-state-of-new-york_1852-04_12_12/page/n15/model/1up?view=theater)
+## [From _The District School Journal of the State of New York (1840-1852)_](https://archive.org/details/sim_district-school-journal-of-education-state-of-new-york_1852-04_12_12/page/n15/mode/1up?view=theater)
 
 #### 1852-04-01 &middot; [Albany](http://dbpedia.org/resource/Albany%2C_New_York)
 
@@ -2369,7 +2369,7 @@ baauty
 
 ---
 
-## [From _Weekly messenger._](https://archive.org/details/xt7xwd3pzm8r/page/n0/model/1up?view=theater)
+## [From _Weekly messenger._](https://archive.org/details/xt7xwd3pzm8r/page/n0/mode/1up?view=theater)
 
 #### 1852-06-18 &middot; [Richmond, Ky.](http://dbpedia.org/resource/Richmond%2C_Kentucky)
 
@@ -2490,7 +2490,7 @@ ing, which although old, deserves to be r
 
 ---
 
-## [From _Pennsylvania School Journal 1852-1980_](https://archive.org/details/sim_pennsylvania-school-journal_1852-07_1_7/page/n29/model/1up?view=theater)
+## [From _Pennsylvania School Journal 1852-1980_](https://archive.org/details/sim_pennsylvania-school-journal_1852-07_1_7/page/n29/mode/1up?view=theater)
 
 #### 1852-07-01 &middot; [Lancaster, Pennsylvania](http://dbpedia.org/resource/Lancaster%2C_Pennsylvania)
 
@@ -2528,7 +2528,7 @@ pity the man who can harbor enmity against his fel
 
 ---
 
-## [From _Pennsylvania School Journal 1852-1980_](https://archive.org/details/sim_pennsylvania-school-journal_1852-07_1_7/page/n29/model/1up?view=theater)
+## [From _Pennsylvania School Journal 1852-1980_](https://archive.org/details/sim_pennsylvania-school-journal_1852-07_1_7/page/n29/mode/1up?view=theater)
 
 #### 1852-07-01 &middot; [Lancaster, Pennsylvania](http://dbpedia.org/resource/Lancaster%2C_Pennsylvania)
 
@@ -2551,7 +2551,7 @@ the spirit of charity from our hearts, let the rich gush- and reduced to the con
 
 ---
 
-## [From _Pennsylvania School Journal 1852-1980_](https://archive.org/details/sim_pennsylvania-school-journal_1852-07_1_7/page/n29/model/1up?view=theater)
+## [From _Pennsylvania School Journal 1852-1980_](https://archive.org/details/sim_pennsylvania-school-journal_1852-07_1_7/page/n29/mode/1up?view=theater)
 
 #### 1852-07-01 &middot; [Lancaster, Pennsylvania](http://dbpedia.org/resource/Lancaster%2C_Pennsylvania)
 
@@ -2795,7 +2795,7 @@ more than Hyperion beauty.&quot; , ; ;
 
 ---
 
-## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1859-11-12_14_46/page/n2/model/1up?view=theater)
+## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1859-11-12_14_46/page/n2/mode/1up?view=theater)
 
 #### 1859-11-12 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 

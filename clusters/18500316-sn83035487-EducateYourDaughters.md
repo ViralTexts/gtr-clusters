@@ -123,7 +123,7 @@ Rev. S. Dyer.
 
 ---
 
-## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1850-02-07_2_62/page/n3/model/1up?view=theater)
+## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1850-02-07_2_62/page/n3/mode/1up?view=theater)
 
 #### 1850-02-07 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -157,7 +157,7 @@ degree, qualified to discharge the duties of the
 
 ---
 
-## [From _The North star._](https://archive.org/details/sim_frederick-douglass-paper_1850-02-08_3_7/page/n2/model/1up?view=theater)
+## [From _The North star._](https://archive.org/details/sim_frederick-douglass-paper_1850-02-08_3_7/page/n2/mode/1up?view=theater)
 
 #### 1850-02-08 &middot; [Rochester, N.Y.](http://dbpedia.org/resource/Rochester%2C_New_York)
 
@@ -252,7 +252,7 @@ ol educution. IUv. S. Dyer
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1850-03-21_23_47/page/n3/model/1up?view=theater)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1850-03-21_23_47/page/n3/mode/1up?view=theater)
 
 #### 1850-03-21 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -445,7 +445,7 @@ ktaism
 
 ---
 
-## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1851-04-26_3_9/page/n15/model/1up?view=theater)
+## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1851-04-26_3_9/page/n15/mode/1up?view=theater)
 
 #### 1851-04-26 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -501,7 +501,7 @@ fied to discharge the duties of home education.
 
 ---
 
-## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1851-06_3_6/page/n30/model/1up?view=theater)
+## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1851-06_3_6/page/n30/mode/1up?view=theater)
 
 #### 1851-06-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -978,7 +978,7 @@ of the home work of education.
 
 ---
 
-## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1855-01-06_10_1/page/n1/model/1up?view=theater)
+## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1855-01-06_10_1/page/n1/mode/1up?view=theater)
 
 #### 1855-01-06 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -1007,7 +1007,7 @@ his interest in both wife and children. ‘
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1855-06-14_29_8/page/n3/model/1up?view=theater)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1855-06-14_29_8/page/n3/mode/1up?view=theater)
 
 #### 1855-06-14 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1781,7 +1781,7 @@ education
 
 ---
 
-## [From _Tri-weekly commonwealth._](https://archive.org/details/xt7f4q7qr46k/page/n2/model/1up?view=theater)
+## [From _Tri-weekly commonwealth._](https://archive.org/details/xt7f4q7qr46k/page/n2/mode/1up?view=theater)
 
 #### 1857-08-03 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
@@ -2134,7 +2134,7 @@ work of education,
 
 ---
 
-## [From _The Universalist Quarterly and General Review (1844-1891)_](https://archive.org/details/sim_universalist-quarterly-and-general-review_january-october-1858_15/page/n238/model/1up?view=theater)
+## [From _The Universalist Quarterly and General Review (1844-1891)_](https://archive.org/details/sim_universalist-quarterly-and-general-review_january-october-1858_15/page/n238/mode/1up?view=theater)
 
 #### 1858-01-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2654,7 +2654,7 @@ education.
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1859-07-30_1_5/page/n2/model/1up?view=theater)
+## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1859-07-30_1_5/page/n2/mode/1up?view=theater)
 
 #### 1859-07-30 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2860,7 +2860,7 @@ ties of the bom work of education
 
 ---
 
-## [From _Lady's Home Magazine (1857-1860)_](https://archive.org/details/sim_arthurs-home-magazine_1859-09_14/page/n40/model/1up?view=theater)
+## [From _Lady's Home Magazine (1857-1860)_](https://archive.org/details/sim_arthurs-home-magazine_1859-09_14/page/n40/mode/1up?view=theater)
 
 #### 1859-09-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2960,7 +2960,7 @@ the bouse work of education.&#x27;
 
 ---
 
-## [From _Friends' Intelligencer (1853-1910)_](https://archive.org/details/sim_friends-intelligencer_1859-09-24_16_28/page/n13/model/1up?view=theater)
+## [From _Friends' Intelligencer (1853-1910)_](https://archive.org/details/sim_friends-intelligencer_1859-09-24_16_28/page/n13/mode/1up?view=theater)
 
 #### 1859-09-24 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -3178,7 +3178,7 @@ education
 
 ---
 
-## [From _National Principia 1858-1866_](https://archive.org/details/sim_national-principia_1860-06-16_1_31/page/n7/model/1up?view=theater)
+## [From _National Principia 1858-1866_](https://archive.org/details/sim_national-principia_1860-06-16_1_31/page/n7/mode/1up?view=theater)
 
 #### 1860-06-16 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3391,7 +3391,7 @@ Long Sermons ?Rev. Wm Taylor, i
 
 ---
 
-## [From _The Louisville daily courier._](https://archive.org/details/xt734t6f2g5n/page/n1/model/1up?view=theater)
+## [From _The Louisville daily courier._](https://archive.org/details/xt734t6f2g5n/page/n1/mode/1up?view=theater)
 
 #### 1861-01-23 &middot; [Louisville, Ky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
@@ -3591,7 +3591,7 @@ enlightened when mothers are no
 
 ---
 
-## [From _Twice a Week. An Illustrated London Journal of Entertaining Literature and Useful Information 1862_](https://archive.org/details/sim_twice-a-week-an-illustrated-london-journal_1862-08-20_1_31/page/n7/model/1up?view=theater)
+## [From _Twice a Week. An Illustrated London Journal of Entertaining Literature and Useful Information 1862_](https://archive.org/details/sim_twice-a-week-an-illustrated-london-journal_1862-08-20_1_31/page/n7/mode/1up?view=theater)
 
 #### 1862-08-20
 
@@ -3617,7 +3617,7 @@ they educate their sons.’ This is the point, and it is true
 
 ---
 
-## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1863-02-05_15_740/page/n6/model/1up?view=theater)
+## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1863-02-05_15_740/page/n6/mode/1up?view=theater)
 
 #### 1863-02-05 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3844,7 +3844,7 @@ triie:: Nb nation can beooome fully ei
 
 ---
 
-## [From _American Phrenological Journal (1838-1869)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1864-12_40_6/page/n9/model/1up?view=theater)
+## [From _American Phrenological Journal (1838-1869)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1864-12_40_6/page/n9/mode/1up?view=theater)
 
 #### 1864-12-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -4348,7 +4348,7 @@ are not qualified to discharge the dutie
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1865-08-24_36_34/page/n0/model/1up?view=theater)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1865-08-24_36_34/page/n0/mode/1up?view=theater)
 
 #### 1865-08-24 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4374,7 +4374,7 @@ It is true. No nation can become folly en
 
 ---
 
-## [From _Arthur's Home Magazine (1861-1870)_](https://archive.org/details/sim_arthurs-home-magazine_1865-09_26/page/n33/model/1up?view=theater)
+## [From _Arthur's Home Magazine (1861-1870)_](https://archive.org/details/sim_arthurs-home-magazine_1865-09_26/page/n33/mode/1up?view=theater)
 
 #### 1865-09-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -4480,7 +4480,7 @@ best education in yonr power
 
 ---
 
-## [From _American Freedmen's Bulletin 1864-1866_](https://archive.org/details/sim_american-freedmens-bulletin_1866-01_2_2/page/n26/model/1up?view=theater)
+## [From _American Freedmen's Bulletin 1864-1866_](https://archive.org/details/sim_american-freedmens-bulletin_1866-01_2_2/page/n26/mode/1up?view=theater)
 
 #### 1866-01-01 &middot; [Chicago, Illinois](http://dbpedia.org/resource/Chicago)
 

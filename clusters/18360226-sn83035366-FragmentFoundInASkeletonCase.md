@@ -64,7 +64,7 @@ And tread the palace of the sky!
 
 ---
 
-## [From _European Magazine and London Review 1782-1826_](https://archive.org/details/sim_european-magazine-and-london-review_1815-11_68/page/n60/model/1up?view=theater)
+## [From _European Magazine and London Review 1782-1826_](https://archive.org/details/sim_european-magazine-and-london-review_1815-11_68/page/n60/mode/1up?view=theater)
 
 #### 1815-11-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -132,7 +132,7 @@ If linn in \ Irlue&#x27;.s cause it &#x27;&#x27;jioke
 
 ---
 
-## [From _The Atheneum; or, Spirit of the English Magazines (1817-1833)_](https://archive.org/details/sim_atheneum-or-spirit-of-the-english-magazine_1817-07-01_1_7/page/n37/model/1up?view=theater)
+## [From _The Atheneum; or, Spirit of the English Magazines (1817-1833)_](https://archive.org/details/sim_atheneum-or-spirit-of-the-english-magazine_1817-07-01_1_7/page/n37/mode/1up?view=theater)
 
 #### 1817-07-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -205,7 +205,7 @@ To cheer the ag’d man’s friendless bed
 
 ---
 
-## [From _The Gentleman's Magazine 1731-1907_](https://archive.org/details/sim_gentlemans-magazine_1817-07_88/page/n66/model/1up?view=theater)
+## [From _The Gentleman's Magazine 1731-1907_](https://archive.org/details/sim_gentlemans-magazine_1817-07_88/page/n66/mode/1up?view=theater)
 
 #### 1817-07-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -278,7 +278,7 @@ And tread the palace of the sky
 
 ---
 
-## [From _The Weekly Entertainer, and West of England Miscellany 1783-1824_](https://archive.org/details/sim_weekly-entertainer-and-west-of-england-miscellany_1817-08-18_57/page/n19/model/1up?view=theater)
+## [From _The Weekly Entertainer, and West of England Miscellany 1783-1824_](https://archive.org/details/sim_weekly-entertainer-and-west-of-england-miscellany_1817-08-18_57/page/n19/mode/1up?view=theater)
 
 #### 1817-08-18 &middot; [Sherborne, England](http://dbpedia.org/resource/Sherborne)
 
@@ -490,7 +490,7 @@ the palace of the sky! &amp;nbsp; [COPIE
 
 ---
 
-## [From _The Atheneum; or, Spirit of the English Magazines (1817-1833)_](https://archive.org/details/sim_atheneum-or-spirit-of-the-english-magazine_1818-03-01_2_11/page/n37/model/1up?view=theater)
+## [From _The Atheneum; or, Spirit of the English Magazines (1817-1833)_](https://archive.org/details/sim_atheneum-or-spirit-of-the-english-magazine_1818-03-01_2_11/page/n37/mode/1up?view=theater)
 
 #### 1818-03-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -574,7 +574,7 @@ Aud tread the palace of the sky
 
 ---
 
-## [From _Robinson's Magazine, a Weekly Repository of Original Papers; and Selections from the English Magazines (1818-1819)_](https://archive.org/details/sim_robinsons-magazine-a-weekly-repository_1818-11-28_1_20/page/n15/model/1up?view=theater)
+## [From _Robinson's Magazine, a Weekly Repository of Original Papers; and Selections from the English Magazines (1818-1819)_](https://archive.org/details/sim_robinsons-magazine-a-weekly-repository_1818-11-28_1_20/page/n15/mode/1up?view=theater)
 
 #### 1818-11-28 &middot; [Baltimore](http://dbpedia.org/resource/Baltimore)
 
@@ -665,7 +665,7 @@ And tread the palace of the sky!
 
 ---
 
-## [From _Universalist Magazine (1819-1828)_](https://archive.org/details/sim_universalist_1820-03-18_1_38/page/n3/model/1up?view=theater)
+## [From _Universalist Magazine (1819-1828)_](https://archive.org/details/sim_universalist_1820-03-18_1_38/page/n3/mode/1up?view=theater)
 
 #### 1820-03-18 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -760,7 +760,7 @@ And tread the palace of the sky
 
 ---
 
-## [From _Kentucky gazette._](https://archive.org/details/xt776h4cp57q/page/n2/model/1up?view=theater)
+## [From _Kentucky gazette._](https://archive.org/details/xt776h4cp57q/page/n2/mode/1up?view=theater)
 
 #### 1820-12-14 &middot; [[Lexington, Ky.]](http://dbpedia.org/resource/Lexington%2C_Kentucky)
 
@@ -884,7 +884,7 @@ And tread the palace ot the sk\ !
 
 ---
 
-## [From _The American Masonic Register, and Ladies and Gentlemen's Magazine (1820-1823)_](https://archive.org/details/sim_american-masonic-register_1821-03_1_7/page/n38/model/1up?view=theater)
+## [From _The American Masonic Register, and Ladies and Gentlemen's Magazine (1820-1823)_](https://archive.org/details/sim_american-masonic-register_1821-03_1_7/page/n38/mode/1up?view=theater)
 
 #### 1821-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -926,7 +926,7 @@ If falsehoods honey it disdain&#x27;d,
 
 ---
 
-## [From _The American Masonic Register, and Ladies and Gentlemen's Magazine (1820-1823)_](https://archive.org/details/sim_american-masonic-register_1821-03_1_7/page/n38/model/1up?view=theater)
+## [From _The American Masonic Register, and Ladies and Gentlemen's Magazine (1820-1823)_](https://archive.org/details/sim_american-masonic-register_1821-03_1_7/page/n38/mode/1up?view=theater)
 
 #### 1821-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1060,7 +1060,7 @@ And tread the palace of the sky !
 
 ---
 
-## [From _The Saturday Magazine: Being in Great Part a Compilation From the British Reviews, Magazines, and Scientific Journals (1821-1822)_](https://archive.org/details/sim_saturday-magazine_1822-02-10_5_6/page/n9/model/1up?view=theater)
+## [From _The Saturday Magazine: Being in Great Part a Compilation From the British Reviews, Magazines, and Scientific Journals (1821-1822)_](https://archive.org/details/sim_saturday-magazine_1822-02-10_5_6/page/n9/mode/1up?view=theater)
 
 #### 1822-02-10 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -1140,7 +1140,7 @@ And tread the palace of the sky!
 
 ---
 
-## [From _Calcutta Journal, or Political, Commercial and Literary Gazette 1819-1823_](https://archive.org/details/sim_calcutta-journal-political-commercial-literary-gazette_1822-04-13_2_89/page/n7/model/1up?view=theater)
+## [From _Calcutta Journal, or Political, Commercial and Literary Gazette 1819-1823_](https://archive.org/details/sim_calcutta-journal-political-commercial-literary-gazette_1822-04-13_2_89/page/n7/mode/1up?view=theater)
 
 #### 1822-04-13 &middot; [Kolkata, India](http://dbpedia.org/resource/Kolkata)
 
@@ -1208,7 +1208,7 @@ And tread tlie palace of the&#x27;sky.
 
 ---
 
-## [From _Kaleidoscope; Or, Literary and Scientific Mirror 1818-1831_](https://archive.org/details/sim_kaleidoscope-or-literary-and-scientific-mirror_1823-10-21_4_173/page/n3/model/1up?view=theater)
+## [From _Kaleidoscope; Or, Literary and Scientific Mirror 1818-1831_](https://archive.org/details/sim_kaleidoscope-or-literary-and-scientific-mirror_1823-10-21_4_173/page/n3/mode/1up?view=theater)
 
 #### 1823-10-21 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
@@ -1291,7 +1291,7 @@ And reach the palace of the sky.
 
 ---
 
-## [From _The Religious Intelligencer ... Containing the Principal Transactions of the Various Bible and Missionary Societies, with Particular Accounts of Revivals of Religion (1816-1837)_](https://archive.org/details/sim_religious-intelligencer_1825-06-11_10_2/page/n15/model/1up?view=theater)
+## [From _The Religious Intelligencer ... Containing the Principal Transactions of the Various Bible and Missionary Societies, with Particular Accounts of Revivals of Religion (1816-1837)_](https://archive.org/details/sim_religious-intelligencer_1825-06-11_10_2/page/n15/mode/1up?view=theater)
 
 #### 1825-06-11 &middot; [New Haven](http://dbpedia.org/resource/New_Haven%2C_Connecticut)
 
@@ -1350,7 +1350,7 @@ And tread the palace of the sky!
 
 ---
 
-## [From _Evangelist (1824-1825)_](https://archive.org/details/sim_east-anglian-or-notes-and-queries_1825-07_2_7/page/n39/model/1up?view=theater)
+## [From _Evangelist (1824-1825)_](https://archive.org/details/sim_east-anglian-or-notes-and-queries_1825-07_2_7/page/n39/mode/1up?view=theater)
 
 #### 1825-07-01 &middot; [Hartford](http://dbpedia.org/resource/Hartford%2C_Connecticut)
 
@@ -1437,7 +1437,7 @@ These feet with angels’ wings shall vie,
 
 ---
 
-## [From _The western luminary._](https://archive.org/details/sim_western-farmer-and-gardener_1826-02-01_2_30/page/n15/model/1up?view=theater)
+## [From _The western luminary._](https://archive.org/details/sim_western-farmer-and-gardener_1826-02-01_2_30/page/n15/mode/1up?view=theater)
 
 #### 1826-02-01 &middot; [Lexington, Ky.](http://dbpedia.org/resource/Lexington%2C_Kentucky)
 
@@ -1536,7 +1536,7 @@ Aod tread the palace of the sky!
 
 ---
 
-## [From _The New - England Galaxy and United States Literary Advertiser (1830-1836)_](https://archive.org/details/sim_boston-pearl-and-galaxy_1827-12-21_10_532/page/n2/model/1up?view=theater)
+## [From _The New - England Galaxy and United States Literary Advertiser (1830-1836)_](https://archive.org/details/sim_boston-pearl-and-galaxy_1827-12-21_10_532/page/n2/mode/1up?view=theater)
 
 #### 1827-12-21 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1632,7 +1632,7 @@ And tread the Palace of tbe 3ky.
 
 ---
 
-## [From _The New - England Galaxy and United States Literary Advertiser (1830-1836)_](https://archive.org/details/sim_boston-pearl-and-galaxy_1833-03-02_16_9/page/n0/model/1up?view=theater)
+## [From _The New - England Galaxy and United States Literary Advertiser (1830-1836)_](https://archive.org/details/sim_boston-pearl-and-galaxy_1833-03-02_16_9/page/n0/mode/1up?view=theater)
 
 #### 1833-03-02 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1741,7 +1741,7 @@ And tread the palace of the sky.
 
 ---
 
-## [From _The liberator._](https://archive.org/details/sim_liberator_1833-03-30_3_13/page/n3/model/1up?view=theater)
+## [From _The liberator._](https://archive.org/details/sim_liberator_1833-03-30_3_13/page/n3/mode/1up?view=theater)
 
 #### 1833-03-30 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
@@ -1828,7 +1828,7 @@ And tread the palace of the sky.
 
 ---
 
-## [From _The Jesuit or Catholic sentinel._](https://archive.org/details/sim_jesuit-or-catholic-sentinel_1833-08-31_4_35/page/n3/model/1up?view=theater)
+## [From _The Jesuit or Catholic sentinel._](https://archive.org/details/sim_jesuit-or-catholic-sentinel_1833-08-31_4_35/page/n3/mode/1up?view=theater)
 
 #### 1833-08-31 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2054,7 +2054,7 @@ And tread the palace ol the sky
 
 ---
 
-## [From _Episcopal Recorder (1831-1851)_](https://archive.org/details/sim_episcopal-recorder_1836-04-23_14_4/page/n3/model/1up?view=theater)
+## [From _Episcopal Recorder (1831-1851)_](https://archive.org/details/sim_episcopal-recorder_1836-04-23_14_4/page/n3/mode/1up?view=theater)
 
 #### 1836-04-23 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2140,7 +2140,7 @@ And tread the palace of the sky.
 
 ---
 
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1836-05-28_9_34/page/n4/model/1up?view=theater)
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1836-05-28_9_34/page/n4/mode/1up?view=theater)
 
 #### 1836-05-28 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2229,7 +2229,7 @@ And tread the palace of the sky.
 
 ---
 
-## [From _Boston recorder._](https://archive.org/details/sim_congregationalist-and-herald-of-gospel-liberty_1836-06-17_21_25/page/n3/model/1up?view=theater)
+## [From _Boston recorder._](https://archive.org/details/sim_congregationalist-and-herald-of-gospel-liberty_1836-06-17_21_25/page/n3/mode/1up?view=theater)
 
 #### 1836-06-17 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -2543,7 +2543,7 @@ And tread the palace of the sky
 
 ---
 
-## [From _Evangelical Magazine and Gospel Advocate (1830-1848)_](https://archive.org/details/sim_evangelical-magazine-and-gospel-advocate_1843-11-03_14_44/page/n7/model/1up?view=theater)
+## [From _Evangelical Magazine and Gospel Advocate (1830-1848)_](https://archive.org/details/sim_evangelical-magazine-and-gospel-advocate_1843-11-03_14_44/page/n7/mode/1up?view=theater)
 
 #### 1843-11-03 &middot; [Utica](http://dbpedia.org/resource/Utica%2C_New_York)
 
@@ -2700,7 +2700,7 @@ And trend the palace of the sky.
 
 ---
 
-## [From _The Knickerbocker; or New York Monthly Magazine (1833-1862)_](https://archive.org/details/sim_foederal-american-monthly_1846-02_27_2/page/n87/model/1up?view=theater)
+## [From _The Knickerbocker; or New York Monthly Magazine (1833-1862)_](https://archive.org/details/sim_foederal-american-monthly_1846-02_27_2/page/n87/mode/1up?view=theater)
 
 #### 1846-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2777,7 +2777,7 @@ And tread the palace of the sky!
 
 ---
 
-## [From _Massachusetts Ploughman and New England Journal of Agriculture (1842-1906)_](https://archive.org/details/sim_massachusetts-ploughman-new-england-journal-agriculture_1846-04-04_5_27/page/n3/model/1up?view=theater)
+## [From _Massachusetts Ploughman and New England Journal of Agriculture (1842-1906)_](https://archive.org/details/sim_massachusetts-ploughman-new-england-journal-agriculture_1846-04-04_5_27/page/n3/mode/1up?view=theater)
 
 #### 1846-04-04 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2822,7 +2822,7 @@ Ani! when it could not praise,
 
 ---
 
-## [From _Massachusetts Ploughman and New England Journal of Agriculture (1842-1906)_](https://archive.org/details/sim_massachusetts-ploughman-new-england-journal-agriculture_1846-04-04_5_27/page/n3/model/1up?view=theater)
+## [From _Massachusetts Ploughman and New England Journal of Agriculture (1842-1906)_](https://archive.org/details/sim_massachusetts-ploughman-new-england-journal-agriculture_1846-04-04_5_27/page/n3/mode/1up?view=theater)
 
 #### 1846-04-04 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2934,7 +2934,7 @@ And tread the palace of the aky.
 
 ---
 
-## [From _Friends' Weekly Intelligencer (1844-1853)_](https://archive.org/details/sim_friends-intelligencer_1849-02-03_5_45/page/n6/model/1up?view=theater)
+## [From _Friends' Weekly Intelligencer (1844-1853)_](https://archive.org/details/sim_friends-intelligencer_1849-02-03_5_45/page/n6/mode/1up?view=theater)
 
 #### 1849-02-03 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -3178,7 +3178,7 @@ They sought the straight and narrow road
 
 ---
 
-## [From _The New England Journal of Medicine 1828-2014_](https://archive.org/details/sim_new-england-journal-of-medicine_1852-12-29_47_22/page/n7/model/1up?view=theater)
+## [From _The New England Journal of Medicine 1828-2014_](https://archive.org/details/sim_new-england-journal-of-medicine_1852-12-29_47_22/page/n7/mode/1up?view=theater)
 
 #### 1852-12-29 &middot; [Boston, Massachusetts](http://dbpedia.org/resource/Boston)
 
@@ -3207,7 +3207,7 @@ When suns and stars have lost their light.’
 
 ---
 
-## [From _The National Magazine; Devoted to Literature, Art, and Religion (1852-1858)_](https://archive.org/details/sim_national-magazine-devoted-to-literature-art-and-religion_1853-04_2_4/page/n64/model/1up?view=theater)
+## [From _The National Magazine; Devoted to Literature, Art, and Religion (1852-1858)_](https://archive.org/details/sim_national-magazine-devoted-to-literature-art-and-religion_1853-04_2_4/page/n64/mode/1up?view=theater)
 
 #### 1853-04-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3238,7 +3238,7 @@ When suns and stars have lost their light.”
 
 ---
 
-## [From _Medical and Surgical Reporter (1856-1858)_](https://archive.org/details/sim_medical-and-surgical-reporter_1856-12_9_12/page/n37/model/1up?view=theater)
+## [From _Medical and Surgical Reporter (1856-1858)_](https://archive.org/details/sim_medical-and-surgical-reporter_1856-12_9_12/page/n37/mode/1up?view=theater)
 
 #### 1856-12-01 &middot; [Burlington](http://dbpedia.org/resource/Burlington%2C_New_Jersey)
 
@@ -3705,7 +3705,7 @@ To seek Affiction&#x27;s humble she
 
 ---
 
-## [From _Medical and Surgical Reporter (1858-1898)_](https://archive.org/details/sim_medical-and-surgical-reporter_1861-02-09_5_19/page/n22/model/1up?view=theater)
+## [From _Medical and Surgical Reporter (1858-1898)_](https://archive.org/details/sim_medical-and-surgical-reporter_1861-02-09_5_19/page/n22/mode/1up?view=theater)
 
 #### 1861-02-09 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -3860,7 +3860,7 @@ And tread the palace of the sky
 
 ---
 
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1861-12-14_35_15/page/n4/model/1up?view=theater)
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1861-12-14_35_15/page/n4/mode/1up?view=theater)
 
 #### 1861-12-14 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -4032,7 +4032,7 @@ And tread the palace of the sky
 
 ---
 
-## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://archive.org/details/sim_friends-review-a-religious-journal_1864-02-27_17_26/page/n13/model/1up?view=theater)
+## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://archive.org/details/sim_friends-review-a-religious-journal_1864-02-27_17_26/page/n13/mode/1up?view=theater)
 
 #### 1864-02-27 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -4140,7 +4140,7 @@ Theeo feet with Angel&#x27;s&#x27;wings shall vie,
 
 ---
 
-## [From _Sixpenny Magazine 1861-1868_](https://archive.org/details/sim_sixpenny-magazine_1865-11-01_11_2/page/n87/model/1up?view=theater)
+## [From _Sixpenny Magazine 1861-1868_](https://archive.org/details/sim_sixpenny-magazine_1865-11-01_11_2/page/n87/mode/1up?view=theater)
 
 #### 1865-11-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -4548,7 +4548,7 @@ And tread the palace of the sky
 
 ---
 
-## [From _Woodhull and Claflin's Weekly 1870-1876_](https://archive.org/details/sim_woodhull-and-claflins-weekly_1871-06-03_3_3/page/n2/model/1up?view=theater)
+## [From _Woodhull and Claflin's Weekly 1870-1876_](https://archive.org/details/sim_woodhull-and-claflins-weekly_1871-06-03_3_3/page/n2/mode/1up?view=theater)
 
 #### 1871-06-03 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4652,7 +4652,7 @@ And trend the palaeo of the sky
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1872-06-27_43_26/page/n5/model/1up?view=theater)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1872-06-27_43_26/page/n5/mode/1up?view=theater)
 
 #### 1872-06-27 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -5160,7 +5160,7 @@ And tread the palace of the skies.”
 
 ---
 
-## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1878-03_96_573/page/n67/model/1up?view=theater)
+## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1878-03_96_573/page/n67/mode/1up?view=theater)
 
 #### 1878-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -5626,7 +5626,7 @@ And tread the palace ol the sky
 
 ---
 
-## [From _Journal of Education 1875-2015_](https://archive.org/details/sim_journal-of-education_1881-06-30_14_326/page/n7/model/1up?view=theater)
+## [From _Journal of Education 1875-2015_](https://archive.org/details/sim_journal-of-education_1881-06-30_14_326/page/n7/mode/1up?view=theater)
 
 #### 1881-06-30 &middot; [Boston, Massachusetts](http://dbpedia.org/resource/Boston)
 
@@ -5784,7 +5784,7 @@ And tread the palace of the sky.
 
 ---
 
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1882-09-30_56_8/page/n3/model/1up?view=theater)
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1882-09-30_56_8/page/n3/mode/1up?view=theater)
 
 #### 1882-09-30 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -6035,7 +6035,7 @@ And tread the palace of tho sky
 
 ---
 
-## [From _The Physicians' and Surgeons' Investigator; a Monthly Journal Devoted to the Best Interests of the Profession (1880-1889)_](https://archive.org/details/sim_physicians-and-surgeons-investigator_1884-11-15_5_11/page/n24/model/1up?view=theater)
+## [From _The Physicians' and Surgeons' Investigator; a Monthly Journal Devoted to the Best Interests of the Profession (1880-1889)_](https://archive.org/details/sim_physicians-and-surgeons-investigator_1884-11-15_5_11/page/n24/mode/1up?view=theater)
 
 #### 1884-11-15 &middot; [Buffalo](http://dbpedia.org/resource/Buffalo%2C_New_York)
 
@@ -6490,7 +6490,7 @@ When death unveils eternity.
 
 ---
 
-## [From _Saturday Night 1986-2005_](https://archive.org/details/sim_saturday-night_1891-01-31_4_10/page/n0/model/1up?view=theater)
+## [From _Saturday Night 1986-2005_](https://archive.org/details/sim_saturday-night_1891-01-31_4_10/page/n0/mode/1up?view=theater)
 
 #### 1891-01-31 &middot; [Toronto, Canada](http://dbpedia.org/resource/Toronto)
 
@@ -6558,7 +6558,7 @@ To tread the palace of the sky
 
 ---
 
-## [From _Notes and Queries 1849-2014_](https://archive.org/details/sim_notes-and-queries_1891-12-19_12_312/page/n0/model/1up?view=theater)
+## [From _Notes and Queries 1849-2014_](https://archive.org/details/sim_notes-and-queries_1891-12-19_12_312/page/n0/mode/1up?view=theater)
 
 #### 1891-12-19 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -6636,7 +6636,7 @@ And tread the palace of the sky !
 
 ---
 
-## [From _The Music Magazine and Musical Courier 1880-1962_](https://archive.org/details/sim_music-magazine-and-musical-courier_1893-01-18_26_672/page/n15/model/1up?view=theater)
+## [From _The Music Magazine and Musical Courier 1880-1962_](https://archive.org/details/sim_music-magazine-and-musical-courier_1893-01-18_26_672/page/n15/mode/1up?view=theater)
 
 #### 1893-01-18 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -7243,7 +7243,7 @@ And tread the palace of the sky.
 
 ---
 
-## [From _Current Literature (1888-1912)_](https://archive.org/details/sim_current-opinion_1897-03_21_3/page/n12/model/1up?view=theater)
+## [From _Current Literature (1888-1912)_](https://archive.org/details/sim_current-opinion_1897-03_21_3/page/n12/mode/1up?view=theater)
 
 #### 1897-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -7400,7 +7400,7 @@ And tread the palace of the sky
 
 ---
 
-## [From _The Los Angeles times._](https://archive.org/details/sim_los-angeles-times_the-los-angeles-times_1898-11-27/page/n36/model/1up?view=theater)
+## [From _The Los Angeles times._](https://archive.org/details/sim_los-angeles-times_the-los-angeles-times_1898-11-27/page/n36/mode/1up?view=theater)
 
 #### 1898-11-27 &middot; [[Los Angeles, Calif.]](http://dbpedia.org/resource/Los_Angeles)
 

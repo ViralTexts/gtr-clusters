@@ -25,7 +25,7 @@ You&#x27;ll have peace to your end,
 
 ---
 
-## [sim_saturday-review-uk_the-saturday-review_1869-06-12_27_711](https://archive.org/details/sim_saturday-review-uk_the-saturday-review_1869-06-12_27_711/page/n14/model/1up?view=theater)
+## [sim_saturday-review-uk_the-saturday-review_1869-06-12_27_711](https://archive.org/details/sim_saturday-review-uk_the-saturday-review_1869-06-12_27_711/page/n14/mode/1up?view=theater)
 
 #### From unknown source
 
@@ -2274,7 +2274,7 @@ to blacken you.-SrintaBaif
 
 ---
 
-## [From _Oliver Optic's Magazine. Our Boys and Girls (1867-1875)_](https://archive.org/details/sim_oliver-optics-magazine-our-boys-and-girls_1869-12-04_6_153/page/n11/model/1up?view=theater)
+## [From _Oliver Optic's Magazine. Our Boys and Girls (1867-1875)_](https://archive.org/details/sim_oliver-optics-magazine-our-boys-and-girls_1869-12-04_6_153/page/n11/mode/1up?view=theater)
 
 #### 1869-12-04 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2434,7 +2434,7 @@ we carry onr worst enemies within u?
 
 ---
 
-## [From _Oliver Optic's Magazine. Our Boys and Girls (1867-1875)_](https://archive.org/details/sim_oliver-optics-magazine-our-boys-and-girls_1870-01-01_7_157/page/n16/model/1up?view=theater)
+## [From _Oliver Optic's Magazine. Our Boys and Girls (1867-1875)_](https://archive.org/details/sim_oliver-optics-magazine-our-boys-and-girls_1870-01-01_7_157/page/n16/mode/1up?view=theater)
 
 #### 1870-01-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2508,7 +2508,7 @@ very small Block of it within
 
 ---
 
-## [From _Oliver Optic's Magazine. Our Boys and Girls (1867-1875)_](https://archive.org/details/sim_oliver-optics-magazine-our-boys-and-girls_1870-02-05_7_162/page/n12/model/1up?view=theater)
+## [From _Oliver Optic's Magazine. Our Boys and Girls (1867-1875)_](https://archive.org/details/sim_oliver-optics-magazine-our-boys-and-girls_1870-02-05_7_162/page/n12/mode/1up?view=theater)
 
 #### 1870-02-05 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2722,7 +2722,7 @@ OINTMENT ANI&gt; PILLS.-Tho wors
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1870-03-17_43_11/page/n7/model/1up?view=theater)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1870-03-17_43_11/page/n7/mode/1up?view=theater)
 
 #### 1870-03-17 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -3755,7 +3755,7 @@ value his own character.
 
 ---
 
-## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1871-01-07_15_732/page/n10/model/1up?view=theater)
+## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1871-01-07_15_732/page/n10/mode/1up?view=theater)
 
 #### 1871-01-07 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3784,7 +3784,7 @@ money after your own kind.”
 
 ---
 
-## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1871-01-07_15_732/page/n10/model/1up?view=theater)
+## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1871-01-07_15_732/page/n10/mode/1up?view=theater)
 
 #### 1871-01-07 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4235,7 +4235,7 @@ Bee the sack open before you buy w
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1871-01-28_2583/page/n5/model/1up?view=theater)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1871-01-28_2583/page/n5/mode/1up?view=theater)
 
 #### 1871-01-28 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -4801,7 +4801,7 @@ his own character
 
 ---
 
-## [From _Tri-weekly Kentucky yeoman._](https://archive.org/details/xt7gf18sf03v/page/n3/model/1up?view=theater)
+## [From _Tri-weekly Kentucky yeoman._](https://archive.org/details/xt7gf18sf03v/page/n3/mode/1up?view=theater)
 
 #### 1871-03-28 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
@@ -4942,7 +4942,7 @@ ue his own character. The Aje
 
 ---
 
-## [From _Tri-weekly Kentucky yeoman._](https://archive.org/details/xt71jw86ks3d/page/n0/model/1up?view=theater)
+## [From _Tri-weekly Kentucky yeoman._](https://archive.org/details/xt71jw86ks3d/page/n0/mode/1up?view=theater)
 
 #### 1871-04-15 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
@@ -6504,7 +6504,7 @@ Handsome shoes often pinch the feet
 
 ---
 
-## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1872-03_54_3/page/n62/model/1up?view=theater)
+## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1872-03_54_3/page/n62/mode/1up?view=theater)
 
 #### 1872-03-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -7072,7 +7072,7 @@ means no more than it. says
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1872-11-14_45_46/page/n7/model/1up?view=theater)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1872-11-14_45_46/page/n7/mode/1up?view=theater)
 
 #### 1872-11-14 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -9165,7 +9165,7 @@ A New Firm
 
 ---
 
-## [From _Frank Leslie's Popular Monthly (1876-1904)_](https://archive.org/details/sim_american-magazine-1876_1883-05_15_5/page/n57/model/1up?view=theater)
+## [From _Frank Leslie's Popular Monthly (1876-1904)_](https://archive.org/details/sim_american-magazine-1876_1883-05_15_5/page/n57/mode/1up?view=theater)
 
 #### 1883-05-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 

@@ -915,7 +915,7 @@ Of castor beans, forty-six pounds
 
 ---
 
-## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1852-01_4_1/page/n17/model/1up?view=theater)
+## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1852-01_4_1/page/n17/mode/1up?view=theater)
 
 #### 1852-01-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -1064,7 +1064,7 @@ Of salt, fifty pounds
 
 ---
 
-## [From _Weekly messenger._](https://archive.org/details/xt7w6m334z0h/page/n3/model/1up?view=theater)
+## [From _Weekly messenger._](https://archive.org/details/xt7w6m334z0h/page/n3/mode/1up?view=theater)
 
 #### 1852-01-16 &middot; [Richmond, Ky.](http://dbpedia.org/resource/Richmond%2C_Kentucky)
 
@@ -1115,7 +1115,7 @@ Of salt, fifty pounds. — Merchant’
 
 ---
 
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1852-01-17_25_18/page/n2/model/1up?view=theater)
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1852-01-17_25_18/page/n2/mode/1up?view=theater)
 
 #### 1852-01-17 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -1138,7 +1138,7 @@ Of timothy seed, forty-five pounds. the other officer and three men pursued an
 
 ---
 
-## [From _Christian Watchman and Reflector (1851-1861)_](https://archive.org/details/sim_watchman-examiner_1852-01-22_33_4/page/n3/model/1up?view=theater)
+## [From _Christian Watchman and Reflector (1851-1861)_](https://archive.org/details/sim_watchman-examiner_1852-01-22_33_4/page/n3/mode/1up?view=theater)
 
 #### 1852-01-22 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1181,7 +1181,7 @@ Of salt, fifty pounds.
 
 ---
 
-## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1852-02-05_20_6/page/n0/model/1up?view=theater)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1852-02-05_20_6/page/n0/mode/1up?view=theater)
 
 #### 1852-02-05 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -1490,7 +1490,7 @@ Of sail, fifty pounds
 
 ---
 
-## [From _The Merchants' Magazine and Commercial Review (1839-1870)_](https://archive.org/details/sim_merchants-magazine-and-commercial-review_1852-08_27_2/page/n95/model/1up?view=theater)
+## [From _The Merchants' Magazine and Commercial Review (1839-1870)_](https://archive.org/details/sim_merchants-magazine-and-commercial-review_1852-08_27_2/page/n95/mode/1up?view=theater)
 
 #### 1852-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2833,7 +2833,7 @@ Of |wpib6.
 
 ---
 
-## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1856-12_53_6/page/n83/model/1up?view=theater)
+## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1856-12_53_6/page/n83/mode/1up?view=theater)
 
 #### 1856-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3036,7 +3036,7 @@ Blue grass seed, fourteen pounds
 
 ---
 
-## [From _The evening bulletin._](https://archive.org/details/xt7hqb9v3q6j/page/n1/model/1up?view=theater)
+## [From _The evening bulletin._](https://archive.org/details/xt7hqb9v3q6j/page/n1/mode/1up?view=theater)
 
 #### 1857-03-17 &middot; [Louisville, Ky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
@@ -3224,7 +3224,7 @@ to our re aders: Wheat, 80 l&gt;s; Corn, shelled, 68 »s; Corn
 
 ---
 
-## [From _The National Magazine; Devoted to Literature, Art, and Religion (1852-1858)_](https://archive.org/details/sim_national-magazine-devoted-to-literature-art-and-religion_1857-05_10_5/page/n85/model/1up?view=theater)
+## [From _The National Magazine; Devoted to Literature, Art, and Religion (1852-1858)_](https://archive.org/details/sim_national-magazine-devoted-to-literature-art-and-religion_1857-05_10_5/page/n85/mode/1up?view=theater)
 
 #### 1857-05-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4120,7 +4120,7 @@ Of onions, fifty-seven pouuds!
 
 ---
 
-## [From _The Merchants' Magazine and Commercial Review (1839-1870)_](https://archive.org/details/sim_merchants-magazine-and-commercial-review_1860-10_43_4/page/n127/model/1up?view=theater)
+## [From _The Merchants' Magazine and Commercial Review (1839-1870)_](https://archive.org/details/sim_merchants-magazine-and-commercial-review_1860-10_43_4/page/n127/mode/1up?view=theater)
 
 #### 1860-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4446,7 +4446,7 @@ Of salt, fifty lbs
 
 ---
 
-## [From _The Louisville daily journal._](https://archive.org/details/xt7gms3jxj87/page/n0/model/1up?view=theater)
+## [From _The Louisville daily journal._](https://archive.org/details/xt7gms3jxj87/page/n0/mode/1up?view=theater)
 
 #### 1861-07-19 &middot; [Louisville, Ky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
@@ -4874,7 +4874,7 @@ Biae-gtasi seed fourteen pounds
 
 ---
 
-## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1865-06-15_17_12/page/n1/model/1up?view=theater)
+## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1865-06-15_17_12/page/n1/mode/1up?view=theater)
 
 #### 1865-06-15 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -4912,7 +4912,7 @@ Dried peaches, 33 pounds.
 
 ---
 
-## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://archive.org/details/sim_london-reader-of-literature-science-art-and-general_1865-11-11_6_131/page/n30/model/1up?view=theater)
+## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://archive.org/details/sim_london-reader-of-literature-science-art-and-general_1865-11-11_6_131/page/n30/mode/1up?view=theater)
 
 #### 1865-11-11 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -5078,7 +5078,7 @@ Blue-grass seed, fourteen pounds
 
 ---
 
-## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1867-03-01_19_5/page/n2/model/1up?view=theater)
+## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1867-03-01_19_5/page/n2/mode/1up?view=theater)
 
 #### 1867-03-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -5125,7 +5125,7 @@ our readers
 
 ---
 
-## [From _Louisville daily Democrat._](https://archive.org/details/xt7fn29p5689/page/n0/model/1up?view=theater)
+## [From _Louisville daily Democrat._](https://archive.org/details/xt7fn29p5689/page/n0/mode/1up?view=theater)
 
 #### 1868-09-07 &middot; [Louisville, Kentucky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 

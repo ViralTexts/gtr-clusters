@@ -31,7 +31,7 @@ It is reasonable to suppose that what is most plentiful on earth, is most essent
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1848-07-01_3_41/page/n2/model/1up?view=theater)
+## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1848-07-01_3_41/page/n2/mode/1up?view=theater)
 
 #### 1848-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -48,7 +48,7 @@ spoonful of salt taken three times a day is a
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1848-07-01_3_41/page/n2/model/1up?view=theater)
+## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1848-07-01_3_41/page/n2/mode/1up?view=theater)
 
 #### 1848-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -103,7 +103,7 @@ We burrow in the earth to obtain gold from
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1848-07-01_3_41/page/n2/model/1up?view=theater)
+## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1848-07-01_3_41/page/n2/mode/1up?view=theater)
 
 #### 1848-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -133,7 +133,7 @@ the Persian Gulf or the wilds of Hindostan.
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1848-07-01_3_41/page/n2/model/1up?view=theater)
+## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1848-07-01_3_41/page/n2/mode/1up?view=theater)
 
 #### 1848-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -279,7 +279,7 @@ moderate degree, and aids digestion, but &quot;alt meat
 
 ---
 
-## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1850-03-02_2_5/page/n10/model/1up?view=theater)
+## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1850-03-02_2_5/page/n10/mode/1up?view=theater)
 
 #### 1850-03-02 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -348,7 +348,7 @@ pins. Each pin has a hole in it like a violin pin, to
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1850-03-16_5_26/page/n1/model/1up?view=theater)
+## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1850-03-16_5_26/page/n1/mode/1up?view=theater)
 
 #### 1850-03-16 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -652,7 +652,7 @@ our population, but they are by n
 
 ---
 
-## [From _The spirit of the times._](https://archive.org/details/sim_spirit-of-the-times_1850-08-03_20_24/page/n9/model/1up?view=theater)
+## [From _The spirit of the times._](https://archive.org/details/sim_spirit-of-the-times_1850-08-03_20_24/page/n9/mode/1up?view=theater)
 
 #### 1850-08-03 &middot; [New-York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
@@ -1007,7 +1007,7 @@ A MODEL EDITOR
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1851-02-01_30_1540/page/n3/model/1up?view=theater)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1851-02-01_30_1540/page/n3/mode/1up?view=theater)
 
 #### 1851-02-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -1427,7 +1427,7 @@ Here is a very beautiful thought of tha
 
 ---
 
-## [From _Christian Watchman and Reflector (1851-1861)_](https://archive.org/details/sim_watchman-examiner_1854-12-21_35_51/page/n3/model/1up?view=theater)
+## [From _Christian Watchman and Reflector (1851-1861)_](https://archive.org/details/sim_watchman-examiner_1854-12-21_35_51/page/n3/mode/1up?view=theater)
 
 #### 1854-12-21 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1465,7 +1465,7 @@ in a manner characterized by the pulpit and press as
 
 ---
 
-## [From _Christian Watchman and Reflector (1851-1861)_](https://archive.org/details/sim_watchman-examiner_1854-12-21_35_51/page/n3/model/1up?view=theater)
+## [From _Christian Watchman and Reflector (1851-1861)_](https://archive.org/details/sim_watchman-examiner_1854-12-21_35_51/page/n3/mode/1up?view=theater)
 
 #### 1854-12-21 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1544,7 +1544,7 @@ injurious il used much
 
 ---
 
-## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1855-03_50_3/page/n69/model/1up?view=theater)
+## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1855-03_50_3/page/n69/mode/1up?view=theater)
 
 #### 1855-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2082,7 +2082,7 @@ of the machinery and its prin
 
 ---
 
-## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1856-07-17_24_30/page/n0/model/1up?view=theater)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1856-07-17_24_30/page/n0/mode/1up?view=theater)
 
 #### 1856-07-17 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -2148,7 +2148,7 @@ tight.
 
 ---
 
-## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1856-08_8_8/page/n12/model/1up?view=theater)
+## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1856-08_8_8/page/n12/mode/1up?view=theater)
 
 #### 1856-08-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2182,7 +2182,7 @@ all bandages removed from the neck, and a cool
 
 ---
 
-## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1856-08_8_8/page/n12/model/1up?view=theater)
+## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1856-08_8_8/page/n12/mode/1up?view=theater)
 
 #### 1856-08-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2291,7 +2291,7 @@ A very flue young mare, belonging to Dr
 
 ---
 
-## [From _Ballou's Pictorial Drawing - Room Companion (1855-1859)_](https://archive.org/details/sim_ballous-pictorial-drawing-room-companion_1856-08-09_11_6/page/n6/model/1up?view=theater)
+## [From _Ballou's Pictorial Drawing - Room Companion (1855-1859)_](https://archive.org/details/sim_ballous-pictorial-drawing-room-companion_1856-08-09_11_6/page/n6/mode/1up?view=theater)
 
 #### 1856-08-09 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2553,7 +2553,7 @@ meat is injurious, if used much.
 
 ---
 
-## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1856-10_53_4/page/n69/model/1up?view=theater)
+## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1856-10_53_4/page/n69/mode/1up?view=theater)
 
 #### 1856-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3028,7 +3028,7 @@ them twice a day with sail an! water
 
 ---
 
-## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1857-06-06_12_23/page/n6/model/1up?view=theater)
+## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1857-06-06_12_23/page/n6/mode/1up?view=theater)
 
 #### 1857-06-06 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -3065,7 +3065,7 @@ stiff enough to drop.
 
 ---
 
-## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1857-06-13_12_24/page/n6/model/1up?view=theater)
+## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1857-06-13_12_24/page/n6/mode/1up?view=theater)
 
 #### 1857-06-13 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -3194,7 +3194,7 @@ The Joubsai. is publiihed eyery Wednesda
 
 ---
 
-## [From _Ballou's Dollar Monthly Magazine (1855-1862)_](https://archive.org/details/sim_ballous-monthly-magazine_1857-08_6_2/page/n86/model/1up?view=theater)
+## [From _Ballou's Dollar Monthly Magazine (1855-1862)_](https://archive.org/details/sim_ballous-monthly-magazine_1857-08_6_2/page/n86/mode/1up?view=theater)
 
 #### 1857-08-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -3228,7 +3228,7 @@ con on the top. The dish must be well seasoned wit
 
 ---
 
-## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1857-09-17_25_39/page/n0/model/1up?view=theater)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1857-09-17_25_39/page/n0/mode/1up?view=theater)
 
 #### 1857-09-17 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -3311,7 +3311,7 @@ an 1 then bind on eome eolt with a rag
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1857-11-07_1893/page/n3/model/1up?view=theater)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1857-11-07_1893/page/n3/mode/1up?view=theater)
 
 #### 1857-11-07 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -4338,7 +4338,7 @@ j spoonfuls if salt completely slayed ih
 
 ---
 
-## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://archive.org/details/sim_zions-herald_1865-09-13_36_37/page/n3/model/1up?view=theater)
+## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://archive.org/details/sim_zions-herald_1865-09-13_36_37/page/n3/mode/1up?view=theater)
 
 #### 1865-09-13 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -4559,7 +4559,7 @@ tior ; but salt mei.t is injurious if use
 
 ---
 
-## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://archive.org/details/sim_london-reader-of-literature-science-art-and-general_1877-08-04_29_744/page/n23/model/1up?view=theater)
+## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://archive.org/details/sim_london-reader-of-literature-science-art-and-general_1877-08-04_29_744/page/n23/mode/1up?view=theater)
 
 #### 1877-08-04 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -4773,7 +4773,7 @@ he lost, in pourins down salt water, i
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1879-06-28_58_49/page/n9/model/1up?view=theater)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1879-06-28_58_49/page/n9/mode/1up?view=theater)
 
 #### 1879-06-28 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -6249,7 +6249,7 @@ cured
 
 ---
 
-## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1881-11-17_34_46/page/n6/model/1up?view=theater)
+## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1881-11-17_34_46/page/n6/mode/1up?view=theater)
 
 #### 1881-11-17 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -6359,7 +6359,7 @@ a day with salt and water.—
 
 ---
 
-## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://archive.org/details/sim_london-reader-of-literature-science-art-and-general_1881-12-24_38_973/page/n23/model/1up?view=theater)
+## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://archive.org/details/sim_london-reader-of-literature-science-art-and-general_1881-12-24_38_973/page/n23/mode/1up?view=theater)
 
 #### 1881-12-24 &middot; [London, England](http://dbpedia.org/resource/London)
 

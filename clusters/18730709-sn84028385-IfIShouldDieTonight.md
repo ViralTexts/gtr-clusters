@@ -54,7 +54,7 @@ The tenderness for which I long to-night.
 
 ---
 
-## [From _Christian Union (1870-1893)_](https://archive.org/details/sim_new-outlook_1873-06-18_7_25/page/n0/model/1up?view=theater)
+## [From _Christian Union (1870-1893)_](https://archive.org/details/sim_new-outlook_1873-06-18_7_25/page/n0/mode/1up?view=theater)
 
 #### 1873-06-18 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -104,7 +104,7 @@ The tenderness for which I long to-night. ae
 
 ---
 
-## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://archive.org/details/sim_albion-a-journal-of-news-politics-and-literature_1873-06-28_51_26/page/n9/model/1up?view=theater)
+## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://archive.org/details/sim_albion-a-journal-of-news-politics-and-literature_1873-06-28_51_26/page/n9/mode/1up?view=theater)
 
 #### 1873-06-28 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -197,7 +197,7 @@ The tenderness for which 1 long to-night.
 
 ---
 
-## [From _Littell's Living Age (1844-1896)_](https://archive.org/details/sim_living-age_1873-07-05_118_1517/page/n1/model/1up?view=theater)
+## [From _Littell's Living Age (1844-1896)_](https://archive.org/details/sim_living-age_1873-07-05_118_1517/page/n1/mode/1up?view=theater)
 
 #### 1873-07-05 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -515,7 +515,7 @@ The tenderness for which I long to-night.
 
 ---
 
-## [From _Friends' Intelligencer (1853-1910)_](https://archive.org/details/sim_friends-intelligencer_1874-02-07_30_50/page/n15/model/1up?view=theater)
+## [From _Friends' Intelligencer (1853-1910)_](https://archive.org/details/sim_friends-intelligencer_1874-02-07_30_50/page/n15/mode/1up?view=theater)
 
 #### 1874-02-07 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -1276,7 +1276,7 @@ The ton.l .lnesd for which I long to-night
 
 ---
 
-## [From _Frank Leslie's illustrated newspaper._](https://archive.org/details/sim_leslies-weekly_1876-09-16_43_1094/page/n5/model/1up?view=theater)
+## [From _Frank Leslie's illustrated newspaper._](https://archive.org/details/sim_leslies-weekly_1876-09-16_43_1094/page/n5/mode/1up?view=theater)
 
 #### 1876-09-16 &middot; [New York, N.Y.](http://dbpedia.org/resource/New_York_City)
 
@@ -1518,7 +1518,7 @@ The tenderness for which I long to-night.
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1877-06-28_50_26/page/n5/model/1up?view=theater)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1877-06-28_50_26/page/n5/mode/1up?view=theater)
 
 #### 1877-06-28 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2172,7 +2172,7 @@ The tenderness for which I long to-night.
 
 ---
 
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1885-11-28_59_17/page/n4/model/1up?view=theater)
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1885-11-28_59_17/page/n4/mode/1up?view=theater)
 
 #### 1885-11-28 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2517,7 +2517,7 @@ The tenderness for which I long to-night
 
 ---
 
-## [From _Christian Union (1870-1893)_](https://archive.org/details/sim_new-outlook_1887-05-19_35_20/page/n11/model/1up?view=theater)
+## [From _Christian Union (1870-1893)_](https://archive.org/details/sim_new-outlook_1887-05-19_35_20/page/n11/mode/1up?view=theater)
 
 #### 1887-05-19 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2614,7 +2614,7 @@ for which I long to-night
 
 ---
 
-## [From _Smalley's Magazine 1883-1903_](https://archive.org/details/sim_smalleys-magazine_1887-07_5_7/page/n22/model/1up?view=theater)
+## [From _Smalley's Magazine 1883-1903_](https://archive.org/details/sim_smalleys-magazine_1887-07_5_7/page/n22/mode/1up?view=theater)
 
 #### 1887-07-01 &middot; [Saint Paul, Minnesota](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
@@ -2720,7 +2720,7 @@ for which I long to-night
 
 ---
 
-## [From _Pennsylvania School Journal 1852-1980_](https://archive.org/details/sim_pennsylvania-school-journal_1887-10_36_4/page/n8/model/1up?view=theater)
+## [From _Pennsylvania School Journal 1852-1980_](https://archive.org/details/sim_pennsylvania-school-journal_1887-10_36_4/page/n8/mode/1up?view=theater)
 
 #### 1887-10-01 &middot; [Lancaster, Pennsylvania](http://dbpedia.org/resource/Lancaster%2C_Pennsylvania)
 
@@ -2881,7 +2881,7 @@ The tenderness for which I long to-night
 
 ---
 
-## [From _Current Literature (1888-1912)_](https://archive.org/details/sim_current-opinion_1888-10_1_4/page/n32/model/1up?view=theater)
+## [From _Current Literature (1888-1912)_](https://archive.org/details/sim_current-opinion_1888-10_1_4/page/n32/mode/1up?view=theater)
 
 #### 1888-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3152,7 +3152,7 @@ The tenderness for which I long to-night
 
 ---
 
-## [From _The Musical Visitor, a Magazine of Musical Literature and Music (1883-1897)_](https://archive.org/details/sim_the-musical-visitor-a-magazine-of-musical-literature_1891-01_20_1/page/n0/model/1up?view=theater)
+## [From _The Musical Visitor, a Magazine of Musical Literature and Music (1883-1897)_](https://archive.org/details/sim_the-musical-visitor-a-magazine-of-musical-literature_1891-01_20_1/page/n0/mode/1up?view=theater)
 
 #### 1891-01-01 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 
@@ -3201,7 +3201,7 @@ The tenderness for which I long to-night.
 
 ---
 
-## [From _London Society: A Monthly Magazine of Light and Amusing Literature for the Hours of Relaxation 1862-1898_](https://archive.org/details/sim_london-society_1891-11_60_359/page/n83/model/1up?view=theater)
+## [From _London Society: A Monthly Magazine of Light and Amusing Literature for the Hours of Relaxation 1862-1898_](https://archive.org/details/sim_london-society_1891-11_60_359/page/n83/mode/1up?view=theater)
 
 #### 1891-11-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3464,7 +3464,7 @@ night
 
 ---
 
-## [From _Saturday Night 1986-2005_](https://archive.org/details/sim_saturday-night_1893-02-18_6_13/page/n1/model/1up?view=theater)
+## [From _Saturday Night 1986-2005_](https://archive.org/details/sim_saturday-night_1893-02-18_6_13/page/n1/mode/1up?view=theater)
 
 #### 1893-02-18 &middot; [Toronto, Canada](http://dbpedia.org/resource/Toronto)
 
@@ -3826,7 +3826,7 @@ The tenderness for which I long tonigh
 
 ---
 
-## [From _Collier's: The National Weekly 1891-1915_](https://archive.org/details/sim_colliers-the-national-weekly_1896-03-26_16_25/page/n14/model/1up?view=theater)
+## [From _Collier's: The National Weekly 1891-1915_](https://archive.org/details/sim_colliers-the-national-weekly_1896-03-26_16_25/page/n14/mode/1up?view=theater)
 
 #### 1896-03-26 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3955,7 +3955,7 @@ The tenderness for which I Ions tonight.
 
 ---
 
-## [From _The Los Angeles times._](https://archive.org/details/sim_los-angeles-times_the-los-angeles-times_1898-11-04/page/n7/model/1up?view=theater)
+## [From _The Los Angeles times._](https://archive.org/details/sim_los-angeles-times_the-los-angeles-times_1898-11-04/page/n7/mode/1up?view=theater)
 
 #### 1898-11-04 &middot; [[Los Angeles, Calif.]](http://dbpedia.org/resource/Los_Angeles)
 
@@ -4119,7 +4119,7 @@ The tenderness for which I long to-night
 
 ---
 
-## [From _The Los Angeles times._](https://archive.org/details/sim_los-angeles-times_the-los-angeles-times_1899-11-13/page/n3/model/1up?view=theater)
+## [From _The Los Angeles times._](https://archive.org/details/sim_los-angeles-times_the-los-angeles-times_1899-11-13/page/n3/mode/1up?view=theater)
 
 #### 1899-11-13 &middot; [[Los Angeles, Calif.]](http://dbpedia.org/resource/Los_Angeles)
 

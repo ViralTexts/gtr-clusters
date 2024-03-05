@@ -1096,7 +1096,7 @@ guage
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1852-11-11_23_46/page/n3/model/1up?view=theater)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1852-11-11_23_46/page/n3/mode/1up?view=theater)
 
 #### 1852-11-11 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2050,7 +2050,7 @@ clearness and correctness in their use of lanjrua
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1852-12-23_26_35/page/n2/model/1up?view=theater)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1852-12-23_26_35/page/n2/mode/1up?view=theater)
 
 #### 1852-12-23 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2532,7 +2532,7 @@ and correctness in their uso of language.
 
 ---
 
-## [From _Christian Watchman and Reflector (1851-1861)_](https://archive.org/details/sim_watchman-examiner_1854-04-13_35_15/page/n3/model/1up?view=theater)
+## [From _Christian Watchman and Reflector (1851-1861)_](https://archive.org/details/sim_watchman-examiner_1854-04-13_35_15/page/n3/mode/1up?view=theater)
 
 #### 1854-04-13 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2561,7 +2561,7 @@ ingly.
 
 ---
 
-## [From _Christian Watchman and Reflector (1851-1861)_](https://archive.org/details/sim_watchman-examiner_1854-04-13_35_15/page/n3/model/1up?view=theater)
+## [From _Christian Watchman and Reflector (1851-1861)_](https://archive.org/details/sim_watchman-examiner_1854-04-13_35_15/page/n3/mode/1up?view=theater)
 
 #### 1854-04-13 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -3812,7 +3812,7 @@ curacy.
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1857-02-28_1857/page/n7/model/1up?view=theater)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1857-02-28_1857/page/n7/mode/1up?view=theater)
 
 #### 1857-02-28 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -4030,7 +4030,7 @@ paper. from the common place advertisemen
 
 ---
 
-## [From _Pennsylvania School Journal 1852-1980_](https://archive.org/details/sim_pennsylvania-school-journal_1859-04_7_10/page/n20/model/1up?view=theater)
+## [From _Pennsylvania School Journal 1852-1980_](https://archive.org/details/sim_pennsylvania-school-journal_1859-04_7_10/page/n20/mode/1up?view=theater)
 
 #### 1859-04-01 &middot; [Lancaster, Pennsylvania](http://dbpedia.org/resource/Lancaster%2C_Pennsylvania)
 
@@ -4274,7 +4274,7 @@ use of language.
 
 ---
 
-## [From _Louisville daily Democrat._](https://archive.org/details/xt78sf2m8j1h/page/n3/model/1up?view=theater)
+## [From _Louisville daily Democrat._](https://archive.org/details/xt78sf2m8j1h/page/n3/mode/1up?view=theater)
 
 #### 1865-05-10 &middot; [Louisville, Kentucky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
@@ -4352,7 +4352,7 @@ correctness in their use of language,
 
 ---
 
-## [From _Louisville daily union press._](https://archive.org/details/xt7r4x54hv4v/page/n0/model/1up?view=theater)
+## [From _Louisville daily union press._](https://archive.org/details/xt7r4x54hv4v/page/n0/mode/1up?view=theater)
 
 #### 1865-07-04 &middot; [Louisville, Ky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
@@ -4400,7 +4400,7 @@ ness and correctness in the use of language.
 
 ---
 
-## [From _The commonwealth._](https://archive.org/details/sim_boston-commonwealth_1865-07-29_3_48/page/n3/model/1up?view=theater)
+## [From _The commonwealth._](https://archive.org/details/sim_boston-commonwealth_1865-07-29_3_48/page/n3/mode/1up?view=theater)
 
 #### 1865-07-29 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -5557,7 +5557,7 @@ variety in the newspaper, from th
 
 ---
 
-## [From _Journal of Education 1875-2015_](https://archive.org/details/sim_journal-of-education_1878-11-14_8_194/page/n2/model/1up?view=theater)
+## [From _Journal of Education 1875-2015_](https://archive.org/details/sim_journal-of-education_1878-11-14_8_194/page/n2/mode/1up?view=theater)
 
 #### 1878-11-14 &middot; [Boston, Massachusetts](http://dbpedia.org/resource/Boston)
 

@@ -429,7 +429,7 @@ Baklna Meats. Baking is a mor
 
 ---
 
-## [From _The Manifesto 1871-1899_](https://archive.org/details/sim_manifesto_1877-05_7_5/page/n6/model/1up?view=theater)
+## [From _The Manifesto 1871-1899_](https://archive.org/details/sim_manifesto_1877-05_7_5/page/n6/mode/1up?view=theater)
 
 #### 1877-05-01 &middot; [Watervliet Shaker Historic District, New York](http://dbpedia.org/resource/Watervliet_Shaker_Historic_District)
 
@@ -923,7 +923,7 @@ soon as possible. Uanlen
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1878-06-20_51_25/page/n5/model/1up?view=theater)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1878-06-20_51_25/page/n5/mode/1up?view=theater)
 
 #### 1878-06-20 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -942,7 +942,7 @@ blood. An exchange gives the following direc-
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1878-06-20_51_25/page/n5/model/1up?view=theater)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1878-06-20_51_25/page/n5/mode/1up?view=theater)
 
 #### 1878-06-20 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -968,7 +968,7 @@ sissippi meridian for dramas of “Indian” life | points to the alkalies as th
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1878-06-20_51_25/page/n5/model/1up?view=theater)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1878-06-20_51_25/page/n5/mode/1up?view=theater)
 
 #### 1878-06-20 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -987,7 +987,7 @@ cently, a boy, while out in search of some sad- ; Soda, quicklime made into a pa
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1878-06-20_51_25/page/n5/model/1up?view=theater)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1878-06-20_51_25/page/n5/mode/1up?view=theater)
 
 #### 1878-06-20 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2475,7 +2475,7 @@ bruised dock leaves and carbon o
 
 ---
 
-## [From _Arthur's Home Magazine (1880-1897)_](https://archive.org/details/sim_arthurs-home-magazine_1881-09_49_9/page/n21/model/1up?view=theater)
+## [From _Arthur's Home Magazine (1880-1897)_](https://archive.org/details/sim_arthurs-home-magazine_1881-09_49_9/page/n21/mode/1up?view=theater)
 
 #### 1881-09-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 

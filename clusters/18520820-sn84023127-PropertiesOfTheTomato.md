@@ -40,7 +40,7 @@ The Tomato is a fruit very easily raised. If the seed be sown in May, in good ri
 
 ---
 
-## [From _Christian register._](https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_1834-08-22_14_54/page/n3/model/1up?view=theater)
+## [From _Christian register._](https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_1834-08-22_14_54/page/n3/mode/1up?view=theater)
 
 #### 1834-08-22 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -94,7 +94,7 @@ Expenses or Wars.—Since the year 100
 
 ---
 
-## [From _The Cultivator._](https://archive.org/details/sim_cultivator_1835-03_1/page/n93/model/1up?view=theater)
+## [From _The Cultivator._](https://archive.org/details/sim_cultivator_1835-03_1/page/n93/mode/1up?view=theater)
 
 #### 1835-03-01 &middot; [Albany](http://dbpedia.org/resource/Albany%2C_New_York)
 
@@ -207,7 +207,7 @@ of the Materia Alunentnria
 
 ---
 
-## [From _The Maine farmer and journal of the useful arts._](https://archive.org/details/sim_maine-farmer_1835-08-21_3_29/page/n2/model/1up?view=theater)
+## [From _The Maine farmer and journal of the useful arts._](https://archive.org/details/sim_maine-farmer_1835-08-21_3_29/page/n2/mode/1up?view=theater)
 
 #### 1835-08-21 &middot; [Winthrop, Me.](http://dbpedia.org/resource/Winthrop%2C_Maine)
 
@@ -285,7 +285,7 @@ article of the Materia Alimentaria, &amp;c. &amp;ce,
 
 ---
 
-## [From _Kentucky gazette._](https://archive.org/details/xt7k6d5p940c/page/n0/model/1up?view=theater)
+## [From _Kentucky gazette._](https://archive.org/details/xt7k6d5p940c/page/n0/mode/1up?view=theater)
 
 #### 1835-08-22 &middot; [[Lexington, Ky.]](http://dbpedia.org/resource/Lexington%2C_Kentucky)
 
@@ -414,7 +414,7 @@ mentaria, &amp;c
 
 ---
 
-## [From _The farmer & gardener._](https://archive.org/details/sim_american-farmer-devoted-to-agriculture-horticulture_1835-09-01_2_18/page/n5/model/1up?view=theater)
+## [From _The farmer & gardener._](https://archive.org/details/sim_american-farmer-devoted-to-agriculture-horticulture_1835-09-01_2_18/page/n5/mode/1up?view=theater)
 
 #### 1835-09-01 &middot; [Baltimore [Md.]](http://dbpedia.org/resource/Baltimore)
 
@@ -450,7 +450,7 @@ of the Materia Alimentaria, &amp;e.—[M. Y. Times
 
 ---
 
-## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1835-09-02_14_8/page/n5/model/1up?view=theater)
+## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1835-09-02_14_8/page/n5/mode/1up?view=theater)
 
 #### 1835-09-02 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -551,7 +551,7 @@ I Materia Alimentaria, &amp;c.
 
 ---
 
-## [From _The Genesee Farmer and Gardener's Journal (1831-1839)_](https://archive.org/details/sim_genesee-farmer-and-gardeners-journal_1835-09-19_5_38/page/n7/model/1up?view=theater)
+## [From _The Genesee Farmer and Gardener's Journal (1831-1839)_](https://archive.org/details/sim_genesee-farmer-and-gardeners-journal_1835-09-19_5_38/page/n7/mode/1up?view=theater)
 
 #### 1835-09-19 &middot; [Rochester](http://dbpedia.org/resource/Rochester%2C_New_York)
 
@@ -669,7 +669,7 @@ Materia Alimcutaria, Sic
 
 ---
 
-## [From _Southern Agriculturist and Register of Rural Affairs (1828-1839)_](https://archive.org/details/sim_southern-agriculturist-horticulturist-and-register_1835-10_8_10/page/n62/model/1up?view=theater)
+## [From _Southern Agriculturist and Register of Rural Affairs (1828-1839)_](https://archive.org/details/sim_southern-agriculturist-horticulturist-and-register_1835-10_8_10/page/n62/mode/1up?view=theater)
 
 #### 1835-10-01 &middot; [Charleston](http://dbpedia.org/resource/Charleston%2C_South_Carolina)
 
@@ -705,7 +705,7 @@ the materia alimentaria, &amp;c.
 
 ---
 
-## [From _Tennessee Farmer (1834-1839)_](https://archive.org/details/sim_tennessee-farmer-containing-original-and-selected-essays_1835-10_1_11/page/n11/model/1up?view=theater)
+## [From _Tennessee Farmer (1834-1839)_](https://archive.org/details/sim_tennessee-farmer-containing-original-and-selected-essays_1835-10_1_11/page/n11/mode/1up?view=theater)
 
 #### 1835-10-01 &middot; [Jonesborough](http://dbpedia.org/resource/Jonesborough%2C_Tennessee)
 
@@ -749,7 +749,7 @@ article af the Materia Alimentaria, §c. &quot;
 
 ---
 
-## [From _Christian Watchman (1819-1848)_](https://archive.org/details/sim_watchman-examiner_1835-10-09_16_41/page/n3/model/1up?view=theater)
+## [From _Christian Watchman (1819-1848)_](https://archive.org/details/sim_watchman-examiner_1835-10-09_16_41/page/n3/mode/1up?view=theater)
 
 #### 1835-10-09 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -793,7 +793,7 @@ indigestion.
 
 ---
 
-## [From _Farmer's Register; A Monthly Publication (1833-1843)_](https://archive.org/details/sim_farmers-register-a-monthly-publication_1835-11_3_7/page/n9/model/1up?view=theater)
+## [From _Farmer's Register; A Monthly Publication (1833-1843)_](https://archive.org/details/sim_farmers-register-a-monthly-publication_1835-11_3_7/page/n9/mode/1up?view=theater)
 
 #### 1835-11-01 &middot; [Shellbanks](http://dbpedia.org/resource/Petersburg%2C_Virginia)
 
@@ -832,7 +832,7 @@ article of the Materia Alimentaria, &amp;c
 
 ---
 
-## [From _Mechanics' Magazine, and Journal of the Mechanics' Institute (1833-1837)_](https://archive.org/details/sim_mechanics-magazine_1835-12_6_6/page/n37/model/1up?view=theater)
+## [From _Mechanics' Magazine, and Journal of the Mechanics' Institute (1833-1837)_](https://archive.org/details/sim_mechanics-magazine_1835-12_6_6/page/n37/mode/1up?view=theater)
 
 #### 1835-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -887,7 +887,7 @@ Now if these positions be true, it is o
 
 ---
 
-## [From _New York Farmer (1828-1837)_](https://archive.org/details/sim_new-york-farmer_1835-12_8_12/page/n112/model/1up?view=theater)
+## [From _New York Farmer (1828-1837)_](https://archive.org/details/sim_new-york-farmer_1835-12_8_12/page/n112/mode/1up?view=theater)
 
 #### 1835-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -931,7 +931,7 @@ articles of the Materia Alimentaria, etc. etc.
 
 ---
 
-## [From _New York Farmer (1828-1837)_](https://archive.org/details/sim_new-york-farmer_1835-12_8_12/page/n113/model/1up?view=theater)
+## [From _New York Farmer (1828-1837)_](https://archive.org/details/sim_new-york-farmer_1835-12_8_12/page/n113/mode/1up?view=theater)
 
 #### 1835-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -958,7 +958,7 @@ long to the vegetable kingdom.
 
 ---
 
-## [From _The Genesee Farmer and Gardener's Journal (1831-1839)_](https://archive.org/details/sim_genesee-farmer-and-gardeners-journal_1836-12-17_6_51/page/n1/model/1up?view=theater)
+## [From _The Genesee Farmer and Gardener's Journal (1831-1839)_](https://archive.org/details/sim_genesee-farmer-and-gardeners-journal_1836-12-17_6_51/page/n1/mode/1up?view=theater)
 
 #### 1836-12-17 &middot; [Rochester](http://dbpedia.org/resource/Rochester%2C_New_York)
 
@@ -975,7 +975,7 @@ esculents that belong te the vegetable kingdom.”
 
 ---
 
-## [From _Horticultural Register, and Gardener's Magazine (1835-1838)_](https://archive.org/details/sim_horticultural-register-and-gardeners-magazine_1837-03-01_3/page/n37/model/1up?view=theater)
+## [From _Horticultural Register, and Gardener's Magazine (1835-1838)_](https://archive.org/details/sim_horticultural-register-and-gardeners-magazine_1837-03-01_3/page/n37/mode/1up?view=theater)
 
 #### 1837-03-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -992,7 +992,7 @@ lents that belong to the vegetable kingdom.”
 
 ---
 
-## [From _Southern Agriculturist and Register of Rural Affairs (1828-1839)_](https://archive.org/details/sim_southern-agriculturist-horticulturist-and-register_1837-04_10_4/page/n21/model/1up?view=theater)
+## [From _Southern Agriculturist and Register of Rural Affairs (1828-1839)_](https://archive.org/details/sim_southern-agriculturist-horticulturist-and-register_1837-04_10_4/page/n21/mode/1up?view=theater)
 
 #### 1837-04-01 &middot; [Charleston](http://dbpedia.org/resource/Charleston%2C_South_Carolina)
 
@@ -1017,7 +1017,7 @@ getable kingdom.”
 
 ---
 
-## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1837-04-26_15_42/page/n0/model/1up?view=theater)
+## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1837-04-26_15_42/page/n0/mode/1up?view=theater)
 
 #### 1837-04-26 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1034,7 +1034,7 @@ that belorg to the vegetable kingdom.”
 
 ---
 
-## [From _The Cultivator._](https://archive.org/details/sim_cultivator_1837-06_4_4/page/n1/model/1up?view=theater)
+## [From _The Cultivator._](https://archive.org/details/sim_cultivator_1837-06_4_4/page/n1/mode/1up?view=theater)
 
 #### 1837-06-01 &middot; [Albany](http://dbpedia.org/resource/Albany%2C_New_York)
 
@@ -1050,7 +1050,7 @@ vey reproach, and are classed by moralists among the vices of humanity.) wholeso
 
 ---
 
-## [From _The Cultivator._](https://archive.org/details/sim_cultivator_1837-06_4_4/page/n1/model/1up?view=theater)
+## [From _The Cultivator._](https://archive.org/details/sim_cultivator_1837-06_4_4/page/n1/mode/1up?view=theater)
 
 #### 1837-06-01 &middot; [Albany](http://dbpedia.org/resource/Albany%2C_New_York)
 
@@ -1094,7 +1094,7 @@ fit of coughing. It was used in a dried state, with a little sugar mixed|| quiri
 
 ---
 
-## [From _The philanthropist._](https://archive.org/details/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22/page/n3/model/1up?view=theater)
+## [From _The philanthropist._](https://archive.org/details/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22/page/n3/mode/1up?view=theater)
 
 #### 1837-07-14 &middot; [New Richmond, Ohio](http://dbpedia.org/resource/New_Richmond%2C_Ohio)
 
@@ -1122,7 +1122,7 @@ the primary cause of which, in one. case, was supposed to
 
 ---
 
-## [From _The philanthropist._](https://archive.org/details/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22/page/n3/model/1up?view=theater)
+## [From _The philanthropist._](https://archive.org/details/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22/page/n3/mode/1up?view=theater)
 
 #### 1837-07-14 &middot; [New Richmond, Ohio](http://dbpedia.org/resource/New_Richmond%2C_Ohio)
 
@@ -1145,7 +1145,7 @@ and sometimes effectually checks, a fit of thaghime I
 
 ---
 
-## [From _The philanthropist._](https://archive.org/details/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22/page/n3/model/1up?view=theater)
+## [From _The philanthropist._](https://archive.org/details/sim_cincinnati-weekly-herald-and-philanthropist_1837-07-14_2_22/page/n3/mode/1up?view=theater)
 
 #### 1837-07-14 &middot; [New Richmond, Ohio](http://dbpedia.org/resource/New_Richmond%2C_Ohio)
 
@@ -1310,7 +1310,7 @@ n fit of coughing. It.was used in a dr
 
 ---
 
-## [From _The Religious Intelligencer ... Containing the Principal Transactions of the Various Bible and Missionary Societies, with Particular Accounts of Revivals of Religion (1816-1837)_](https://archive.org/details/sim_religious-intelligencer_1837-08-05_22_10/page/n8/model/1up?view=theater)
+## [From _The Religious Intelligencer ... Containing the Principal Transactions of the Various Bible and Missionary Societies, with Particular Accounts of Revivals of Religion (1816-1837)_](https://archive.org/details/sim_religious-intelligencer_1837-08-05_22_10/page/n8/mode/1up?view=theater)
 
 #### 1837-08-05 &middot; [New Haven](http://dbpedia.org/resource/New_Haven%2C_Connecticut)
 
@@ -1328,7 +1328,7 @@ that belong to the vegetable hingdom.&quot;—Cudtirato:.
 
 ---
 
-## [From _The Religious Intelligencer ... Containing the Principal Transactions of the Various Bible and Missionary Societies, with Particular Accounts of Revivals of Religion (1816-1837)_](https://archive.org/details/sim_religious-intelligencer_1837-08-05_22_10/page/n8/model/1up?view=theater)
+## [From _The Religious Intelligencer ... Containing the Principal Transactions of the Various Bible and Missionary Societies, with Particular Accounts of Revivals of Religion (1816-1837)_](https://archive.org/details/sim_religious-intelligencer_1837-08-05_22_10/page/n8/mode/1up?view=theater)
 
 #### 1837-08-05 &middot; [New Haven](http://dbpedia.org/resource/New_Haven%2C_Connecticut)
 
@@ -1351,7 +1351,7 @@ case, was supposed to be diseased liver—in another dis- that river, that the w
 
 ---
 
-## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1837-08-09_16_5/page/n2/model/1up?view=theater)
+## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1837-08-09_16_5/page/n2/mode/1up?view=theater)
 
 #### 1837-08-09 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1372,7 +1372,7 @@ July, August and September, it would prove
 
 ---
 
-## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1837-08-09_16_5/page/n2/model/1up?view=theater)
+## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1837-08-09_16_5/page/n2/mode/1up?view=theater)
 
 #### 1837-08-09 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1397,7 +1397,7 @@ lents that belong to the vegetable kingdom.”
 
 ---
 
-## [From _Kentucky gazette._](https://archive.org/details/xt76m901zv8k/page/n1/model/1up?view=theater)
+## [From _Kentucky gazette._](https://archive.org/details/xt76m901zv8k/page/n1/mode/1up?view=theater)
 
 #### 1837-08-10 &middot; [[Lexington, Ky.]](http://dbpedia.org/resource/Lexington%2C_Kentucky)
 
@@ -1554,7 +1554,7 @@ nealtuv article ol the Materia Aiimentaria.
 
 ---
 
-## [From _Boston recorder._](https://archive.org/details/sim_congregationalist-and-herald-of-gospel-liberty_1837-09-01_22_35/page/n3/model/1up?view=theater)
+## [From _Boston recorder._](https://archive.org/details/sim_congregationalist-and-herald-of-gospel-liberty_1837-09-01_22_35/page/n3/mode/1up?view=theater)
 
 #### 1837-09-01 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -1587,7 +1587,7 @@ should be started with us in a hot hed; though
 
 ---
 
-## [From _Boston recorder._](https://archive.org/details/sim_congregationalist-and-herald-of-gospel-liberty_1837-09-01_22_35/page/n3/model/1up?view=theater)
+## [From _Boston recorder._](https://archive.org/details/sim_congregationalist-and-herald-of-gospel-liberty_1837-09-01_22_35/page/n3/mode/1up?view=theater)
 
 #### 1837-09-01 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -1619,7 +1619,7 @@ kingdom.” —Cultivater.
 
 ---
 
-## [From _Christian Watchman (1819-1848)_](https://archive.org/details/sim_watchman-examiner_1837-09-08_18_36/page/n3/model/1up?view=theater)
+## [From _Christian Watchman (1819-1848)_](https://archive.org/details/sim_watchman-examiner_1837-09-08_18_36/page/n3/mode/1up?view=theater)
 
 #### 1837-09-08 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1647,7 +1647,7 @@ sometimes effectually checks, a fit of coughing
 
 ---
 
-## [From _Christian Watchman (1819-1848)_](https://archive.org/details/sim_watchman-examiner_1837-09-08_18_36/page/n3/model/1up?view=theater)
+## [From _Christian Watchman (1819-1848)_](https://archive.org/details/sim_watchman-examiner_1837-09-08_18_36/page/n3/mode/1up?view=theater)
 
 #### 1837-09-08 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1724,7 +1724,7 @@ teria Alimeutarsa
 
 ---
 
-## [From _Boston recorder._](https://archive.org/details/sim_congregationalist-and-herald-of-gospel-liberty_1837-10-13_22_41/page/n3/model/1up?view=theater)
+## [From _Boston recorder._](https://archive.org/details/sim_congregationalist-and-herald-of-gospel-liberty_1837-10-13_22_41/page/n3/mode/1up?view=theater)
 
 #### 1837-10-13 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -1752,7 +1752,7 @@ fit of coughing
 
 ---
 
-## [From _Kentucky gazette._](https://archive.org/details/xt7d251fjt2w/page/n1/model/1up?view=theater)
+## [From _Kentucky gazette._](https://archive.org/details/xt7d251fjt2w/page/n1/mode/1up?view=theater)
 
 #### 1838-06-28 &middot; [[Lexington, Ky.]](http://dbpedia.org/resource/Lexington%2C_Kentucky)
 
@@ -1793,7 +1793,7 @@ the Materia Alimentnria.
 
 ---
 
-## [From _Kentucky gazette._](https://archive.org/details/xt7d251fjt2w/page/n1/model/1up?view=theater)
+## [From _Kentucky gazette._](https://archive.org/details/xt7d251fjt2w/page/n1/mode/1up?view=theater)
 
 #### 1838-06-28 &middot; [[Lexington, Ky.]](http://dbpedia.org/resource/Lexington%2C_Kentucky)
 
@@ -1856,7 +1856,7 @@ gent, known by the profession. Baltimore Tran
 
 ---
 
-## [From _The Maine farmer and journal of the useful arts._](https://archive.org/details/sim_maine-farmer_1838-07-31_6_25/page/n0/model/1up?view=theater)
+## [From _The Maine farmer and journal of the useful arts._](https://archive.org/details/sim_maine-farmer_1838-07-31_6_25/page/n0/mode/1up?view=theater)
 
 #### 1838-07-31 &middot; [Winthrop, Me.](http://dbpedia.org/resource/Winthrop%2C_Maine)
 
@@ -1879,7 +1879,7 @@ people ; and perhaps it is on this account that it i
 
 ---
 
-## [From _Zion's Herald (1823-1841)_](https://archive.org/details/sim_zions-herald_1838-09-12_9_37/page/n0/model/1up?view=theater)
+## [From _Zion's Herald (1823-1841)_](https://archive.org/details/sim_zions-herald_1838-09-12_9_37/page/n0/mode/1up?view=theater)
 
 #### 1838-09-12 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1921,7 +1921,7 @@ teria Alimentaria.
 
 ---
 
-## [From _The Graham Journal of Health and Longevity. Devoted to the Practical Illustration of the Science of Human Life, as Taught by Sylvester Graham and Others (1837-1839)_](https://archive.org/details/sim_graham-journal-of-health-and-longevity_1838-09-15_2_19/page/n13/model/1up?view=theater)
+## [From _The Graham Journal of Health and Longevity. Devoted to the Practical Illustration of the Science of Human Life, as Taught by Sylvester Graham and Others (1837-1839)_](https://archive.org/details/sim_graham-journal-of-health-and-longevity_1838-09-15_2_19/page/n13/mode/1up?view=theater)
 
 #### 1838-09-15 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1958,7 +1958,7 @@ healthy article of the Materia Alimeotaria.
 
 ---
 
-## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1838-10-10_17_14/page/n5/model/1up?view=theater)
+## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1838-10-10_17_14/page/n5/mode/1up?view=theater)
 
 #### 1838-10-10 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1974,7 +1974,7 @@ valuable esculents that belong to the vegetable kingdom.’
 
 ---
 
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1839-05-25_12_34/page/n1/model/1up?view=theater)
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1839-05-25_12_34/page/n1/mode/1up?view=theater)
 
 #### 1839-05-25 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -1994,7 +1994,7 @@ cated, it is probably the most effective, and
 
 ---
 
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1839-05-25_12_34/page/n1/model/1up?view=theater)
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1839-05-25_12_34/page/n1/mode/1up?view=theater)
 
 #### 1839-05-25 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2096,7 +2096,7 @@ Now, if these positions be true, it is of th
 
 ---
 
-## [From _American Masonic Register and Literary Companion (1839-1847)_](https://archive.org/details/sim_american-masonic-register-and-literary-companion_1840-08-15_1_50/page/n2/model/1up?view=theater)
+## [From _American Masonic Register and Literary Companion (1839-1847)_](https://archive.org/details/sim_american-masonic-register-and-literary-companion_1840-08-15_1_50/page/n2/mode/1up?view=theater)
 
 #### 1840-08-15 &middot; [Albany](http://dbpedia.org/resource/Albany%2C_New_York)
 
@@ -2158,7 +2158,7 @@ checks, a fit of coughing. It was used ina drie
 
 ---
 
-## [From _Christian register and Boston observer._](https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39/page/n2/model/1up?view=theater)
+## [From _Christian register and Boston observer._](https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39/page/n2/mode/1up?view=theater)
 
 #### 1841-09-25 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -2184,7 +2184,7 @@ harmful remedial agent known to the profession.
 
 ---
 
-## [From _Christian register and Boston observer._](https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39/page/n2/model/1up?view=theater)
+## [From _Christian register and Boston observer._](https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39/page/n2/mode/1up?view=theater)
 
 #### 1841-09-25 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -2217,7 +2217,7 @@ analiment; as it would in that event, save them from
 
 ---
 
-## [From _Christian register and Boston observer._](https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39/page/n2/model/1up?view=theater)
+## [From _Christian register and Boston observer._](https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39/page/n2/mode/1up?view=theater)
 
 #### 1841-09-25 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -2238,7 +2238,7 @@ either raw, cooked, or in the form of a catsup, with their
 
 ---
 
-## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1841-09-29_20_13/page/n3/model/1up?view=theater)
+## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1841-09-29_20_13/page/n3/mode/1up?view=theater)
 
 #### 1841-09-29 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2310,7 +2310,7 @@ checks, a fit of cough. It was used in a dry state
 
 ---
 
-## [From _The Maine farmer and journal of the useful arts._](https://archive.org/details/sim_maine-farmer_1841-10-09_9_40/page/n4/model/1up?view=theater)
+## [From _The Maine farmer and journal of the useful arts._](https://archive.org/details/sim_maine-farmer_1841-10-09_9_40/page/n4/mode/1up?view=theater)
 
 #### 1841-10-09 &middot; [Winthrop, Me.](http://dbpedia.org/resource/Winthrop%2C_Maine)
 
@@ -2354,7 +2354,7 @@ than from fever and consumption, and their conse-
 
 ---
 
-## [From _The Maine farmer and journal of the useful arts._](https://archive.org/details/sim_maine-farmer_1841-10-09_9_40/page/n4/model/1up?view=theater)
+## [From _The Maine farmer and journal of the useful arts._](https://archive.org/details/sim_maine-farmer_1841-10-09_9_40/page/n4/mode/1up?view=theater)
 
 #### 1841-10-09 &middot; [Winthrop, Me.](http://dbpedia.org/resource/Winthrop%2C_Maine)
 
@@ -2483,7 +2483,7 @@ use of it either raw, cooked, or in the } of a cet- ‘fine, sos ion Oda avec ib
 
 ---
 
-## [From _The philanthropist._](https://archive.org/details/sim_cincinnati-weekly-herald-and-philanthropist_1841-10-13_6_15/page/n3/model/1up?view=theater)
+## [From _The philanthropist._](https://archive.org/details/sim_cincinnati-weekly-herald-and-philanthropist_1841-10-13_6_15/page/n3/mode/1up?view=theater)
 
 #### 1841-10-13 &middot; [New Richmond, Ohio](http://dbpedia.org/resource/New_Richmond%2C_Ohio)
 
@@ -2559,7 +2559,7 @@ times effectually checks, a fitof cough. It wa
 
 ---
 
-## [From _Southern Agriculturist, Horticulturist, and Register of Rural Affairs (1841-1846)_](https://archive.org/details/sim_southern-agriculturist-horticulturist-and-register_1842-06_2_6/page/n52/model/1up?view=theater)
+## [From _Southern Agriculturist, Horticulturist, and Register of Rural Affairs (1841-1846)_](https://archive.org/details/sim_southern-agriculturist-horticulturist-and-register_1842-06_2_6/page/n52/mode/1up?view=theater)
 
 #### 1842-06-01 &middot; [Charleston](http://dbpedia.org/resource/Charleston%2C_South_Carolina)
 
@@ -2701,7 +2701,7 @@ times effectually cheeks, a fit of coughing
 
 ---
 
-## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1843-10-15_1_17/page/n5/model/1up?view=theater)
+## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1843-10-15_1_17/page/n5/mode/1up?view=theater)
 
 #### 1843-10-15 &middot; [Lansing](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
@@ -2786,7 +2786,7 @@ cation of its effects, dependent upon the s
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1852-07-31_7_46/page/n1/model/1up?view=theater)
+## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1852-07-31_7_46/page/n1/mode/1up?view=theater)
 
 #### 1852-07-31 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3127,7 +3127,7 @@ fectually checks a fit of coughing,
 
 ---
 
-## [From _Gleason's Pictorial Drawing - Room Companion (1851-1854)_](https://archive.org/details/sim_ballous-pictorial-drawing-room-companion_1852-08-28_3_9/page/n14/model/1up?view=theater)
+## [From _Gleason's Pictorial Drawing - Room Companion (1851-1854)_](https://archive.org/details/sim_ballous-pictorial-drawing-room-companion_1852-08-28_3_9/page/n14/mode/1up?view=theater)
 
 #### 1852-08-28 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -3146,7 +3146,7 @@ Just at this season this piece of information i
 
 ---
 
-## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1852-09-02_20_36/page/n0/model/1up?view=theater)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1852-09-02_20_36/page/n0/mode/1up?view=theater)
 
 #### 1852-09-02 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -3179,7 +3179,7 @@ in the profession,
 
 ---
 
-## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1852-09-02_20_36/page/n0/model/1up?view=theater)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1852-09-02_20_36/page/n0/mode/1up?view=theater)
 
 #### 1852-09-02 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -3776,7 +3776,7 @@ in contiret with the dirt.
 
 ---
 
-## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1852-11_10_11/page/n24/model/1up?view=theater)
+## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1852-11_10_11/page/n24/mode/1up?view=theater)
 
 #### 1852-11-01 &middot; [Lansing](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
@@ -3875,7 +3875,7 @@ jured in coming in contact with the dirt.— Maine Far
 
 ---
 
-## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1853-09_5_9/page/n5/model/1up?view=theater)
+## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1853-09_5_9/page/n5/mode/1up?view=theater)
 
 #### 1853-09-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -3927,7 +3927,7 @@ extensively cultivated in this country. It is on
 
 ---
 
-## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1854-08_6_8/page/n30/model/1up?view=theater)
+## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1854-08_6_8/page/n30/mode/1up?view=theater)
 
 #### 1854-08-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -3956,7 +3956,7 @@ er t when used aw an article of diet, it that I am unable to give you any satisf
 
 ---
 
-## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1854-08_6_8/page/n30/model/1up?view=theater)
+## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1854-08_6_8/page/n30/mode/1up?view=theater)
 
 #### 1854-08-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -3998,7 +3998,7 @@ mitientes and sdmetimes effectually checks &amp;lacquires a brittle hardness nor
 
 ---
 
-## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1854-08_6_8/page/n30/model/1up?view=theater)
+## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1854-08_6_8/page/n30/mode/1up?view=theater)
 
 #### 1854-08-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -4073,7 +4073,7 @@ generally cultivated and used as an article o
 
 ---
 
-## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1855-08_7_8/page/n34/model/1up?view=theater)
+## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1855-08_7_8/page/n34/mode/1up?view=theater)
 
 #### 1855-08-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -4253,7 +4253,7 @@ materia alituenturia
 
 ---
 
-## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1857-09-03_25_37/page/n0/model/1up?view=theater)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1857-09-03_25_37/page/n0/mode/1up?view=theater)
 
 #### 1857-09-03 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -4368,7 +4368,7 @@ the materia a imenearia
 
 ---
 
-## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1858-03_10_3/page/n25/model/1up?view=theater)
+## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1858-03_10_3/page/n25/mode/1up?view=theater)
 
 #### 1858-03-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -4499,7 +4499,7 @@ healthy article no-.v in u
 
 ---
 
-## [From _American Farmer's Magazine (1858-1859)_](https://archive.org/details/sim_american-farmers-magazine_1858-09_11_9/page/n46/model/1up?view=theater)
+## [From _American Farmer's Magazine (1858-1859)_](https://archive.org/details/sim_american-farmers-magazine_1858-09_11_9/page/n46/mode/1up?view=theater)
 
 #### 1858-09-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -5459,7 +5459,7 @@ little flour and fine crumbs , o
 
 ---
 
-## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1859-10_11_10/page/n25/model/1up?view=theater)
+## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1859-10_11_10/page/n25/mode/1up?view=theater)
 
 #### 1859-10-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -5728,7 +5728,7 @@ a little flour and fine crumbs o
 
 ---
 
-## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1862-08-21_30_36/page/n0/model/1up?view=theater)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1862-08-21_30_36/page/n0/mode/1up?view=theater)
 
 #### 1862-08-21 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -5746,7 +5746,7 @@ and ascribes to it very important properties
 
 ---
 
-## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1862-09_14_9/page/n16/model/1up?view=theater)
+## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1862-09_14_9/page/n16/mode/1up?view=theater)
 
 #### 1862-09-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 

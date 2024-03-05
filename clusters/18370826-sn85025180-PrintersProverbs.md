@@ -176,7 +176,7 @@ ones
 
 ---
 
-## [From _The New - York Mirror: a Weekly Gazette of Literature and the Fine Arts (1823-1842)_](https://archive.org/details/sim_new-york-mirror-a-weekly-gazette-of-literature_1837-09-23_15_13/page/n7/model/1up?view=theater)
+## [From _The New - York Mirror: a Weekly Gazette of Literature and the Fine Arts (1823-1842)_](https://archive.org/details/sim_new-york-mirror-a-weekly-gazette-of-literature_1837-09-23_15_13/page/n7/mode/1up?view=theater)
 
 #### 1837-09-23 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1272,7 +1272,7 @@ advance, that it may be well with thee
 
 ---
 
-## [From _Christian Watchman (1819-1848)_](https://archive.org/details/sim_watchman-examiner_1844-04-19_25_16/page/n3/model/1up?view=theater)
+## [From _Christian Watchman (1819-1848)_](https://archive.org/details/sim_watchman-examiner_1844-04-19_25_16/page/n3/mode/1up?view=theater)
 
 #### 1844-04-19 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1307,7 +1307,7 @@ the editor while he is reading proof,
 
 ---
 
-## [From _Christian secretary._](https://archive.org/details/sim_christian-secretary_1844-04-26_7_7/page/n3/model/1up?view=theater)
+## [From _Christian secretary._](https://archive.org/details/sim_christian-secretary_1844-04-26_7_7/page/n3/mode/1up?view=theater)
 
 #### 1844-04-26 &middot; [Hartford [Conn.]](http://dbpedia.org/resource/Hartford%2C_Connecticut)
 
@@ -1332,7 +1332,7 @@ have a care. to thyself that thou dost not touch
 
 ---
 
-## [From _Christian secretary._](https://archive.org/details/sim_christian-secretary_1844-04-26_7_7/page/n3/model/1up?view=theater)
+## [From _Christian secretary._](https://archive.org/details/sim_christian-secretary_1844-04-26_7_7/page/n3/mode/1up?view=theater)
 
 #### 1844-04-26 &middot; [Hartford [Conn.]](http://dbpedia.org/resource/Hartford%2C_Connecticut)
 
@@ -1702,7 +1702,7 @@ little ones.&quot; When the Earl o
 
 ---
 
-## [From _Christian Watchman (1819-1848)_](https://archive.org/details/sim_watchman-examiner_1847-09-10_28_37/page/n3/model/1up?view=theater)
+## [From _Christian Watchman (1819-1848)_](https://archive.org/details/sim_watchman-examiner_1847-09-10_28_37/page/n3/mode/1up?view=theater)
 
 #### 1847-09-10 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1999,7 +1999,7 @@ other—subscribe immediately and pay for it in ’ ,
 
 ---
 
-## [From _Christian Watchman (1819-1848)_](https://archive.org/details/sim_watchman-examiner_1847-12-10_28_50/page/n3/model/1up?view=theater)
+## [From _Christian Watchman (1819-1848)_](https://archive.org/details/sim_watchman-examiner_1847-12-10_28_50/page/n3/mode/1up?view=theater)
 
 #### 1847-12-10 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2034,7 +2034,7 @@ He will let thee know -when he has first rea
 
 ---
 
-## [From _Christian Watchman (1819-1848)_](https://archive.org/details/sim_watchman-examiner_1847-12-10_28_50/page/n3/model/1up?view=theater)
+## [From _Christian Watchman (1819-1848)_](https://archive.org/details/sim_watchman-examiner_1847-12-10_28_50/page/n3/mode/1up?view=theater)
 
 #### 1847-12-10 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2230,7 +2230,7 @@ with thee and thy liitle ones.
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1849-03-17_4_26/page/n5/model/1up?view=theater)
+## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1849-03-17_4_26/page/n5/mode/1up?view=theater)
 
 #### 1849-03-17 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2448,7 +2448,7 @@ and thy little ones. Picayune
 
 ---
 
-## [From _The spirit of the times._](https://archive.org/details/sim_spirit-of-the-times_1850-08-10_20_25/page/n4/model/1up?view=theater)
+## [From _The spirit of the times._](https://archive.org/details/sim_spirit-of-the-times_1850-08-10_20_25/page/n4/mode/1up?view=theater)
 
 #### 1850-08-10 &middot; [New-York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
@@ -2746,7 +2746,7 @@ amine thou the prouf :-luet, for it is not read
 
 ---
 
-## [From _The Cynthiana news._](https://archive.org/details/xt7b5m627k3q/page/n1/model/1up?view=theater)
+## [From _The Cynthiana news._](https://archive.org/details/xt7b5m627k3q/page/n1/mode/1up?view=theater)
 
 #### 1856-03-13 &middot; [Cynthiana, Ky.](http://dbpedia.org/resource/Cynthiana%2C_Kentucky)
 
@@ -3810,7 +3810,7 @@ and thy little ones. THE PATRIOTI
 
 ---
 
-## [From _Theatrical Journal 1839-1871_](https://archive.org/details/sim_theatrical-journal_1858-08-11_19_974/page/n6/model/1up?view=theater)
+## [From _Theatrical Journal 1839-1871_](https://archive.org/details/sim_theatrical-journal_1858-08-11_19_974/page/n6/mode/1up?view=theater)
 
 #### 1858-08-11
 
@@ -3898,7 +3898,7 @@ good breeding. Neither examine thou the proo
 
 ---
 
-## [From _The spirit of the times._](https://archive.org/details/sim_spirit-of-the-times_1858-08-21_28_28/page/n9/model/1up?view=theater)
+## [From _The spirit of the times._](https://archive.org/details/sim_spirit-of-the-times_1858-08-21_28_28/page/n9/mode/1up?view=theater)
 
 #### 1858-08-21 &middot; [New-York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 

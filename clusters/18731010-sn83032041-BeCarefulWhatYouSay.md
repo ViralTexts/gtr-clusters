@@ -888,7 +888,7 @@ Wehave none of our own
 
 ---
 
-## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1875-02-27_6_210/page/n1/model/1up?view=theater)
+## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1875-02-27_6_210/page/n1/mode/1up?view=theater)
 
 #### 1875-02-27 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3392,7 +3392,7 @@ others&#x27; faults until We have none of ou
 
 ---
 
-## [From _The Manifesto 1871-1899_](https://archive.org/details/sim_manifesto_1877-08_7_8/page/n4/model/1up?view=theater)
+## [From _The Manifesto 1871-1899_](https://archive.org/details/sim_manifesto_1877-08_7_8/page/n4/mode/1up?view=theater)
 
 #### 1877-08-01 &middot; [Watervliet Shaker Historic District, New York](http://dbpedia.org/resource/Watervliet_Shaker_Historic_District)
 
@@ -3748,7 +3748,7 @@ We have none of our owr
 
 ---
 
-## [From _The Manifesto 1871-1899_](https://archive.org/details/sim_manifesto_1878-10_8_10/page/n16/model/1up?view=theater)
+## [From _The Manifesto 1871-1899_](https://archive.org/details/sim_manifesto_1878-10_8_10/page/n16/mode/1up?view=theater)
 
 #### 1878-10-01 &middot; [Watervliet Shaker Historic District, New York](http://dbpedia.org/resource/Watervliet_Shaker_Historic_District)
 
@@ -5730,7 +5730,7 @@ vn.
 
 ---
 
-## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1887-02-14_18_7/page/n5/model/1up?view=theater)
+## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1887-02-14_18_7/page/n5/mode/1up?view=theater)
 
 #### 1887-02-14 &middot; [Lansing](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
@@ -5928,7 +5928,7 @@ We have none of our ow
 
 ---
 
-## [sim_herald-of-gospel-liberty_1889-05-09_81_19](https://archive.org/details/sim_herald-of-gospel-liberty_1889-05-09_81_19/page/n1/model/1up?view=theater)
+## [sim_herald-of-gospel-liberty_1889-05-09_81_19](https://archive.org/details/sim_herald-of-gospel-liberty_1889-05-09_81_19/page/n1/mode/1up?view=theater)
 
 #### From unknown source
 
@@ -6053,7 +6053,7 @@ W e have uonc of our own
 
 ---
 
-## [sim_herald-of-gospel-liberty_1889-10-24_81_43](https://archive.org/details/sim_herald-of-gospel-liberty_1889-10-24_81_43/page/n5/model/1up?view=theater)
+## [sim_herald-of-gospel-liberty_1889-10-24_81_43](https://archive.org/details/sim_herald-of-gospel-liberty_1889-10-24_81_43/page/n5/mode/1up?view=theater)
 
 #### From unknown source
 

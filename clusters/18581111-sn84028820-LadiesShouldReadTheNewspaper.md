@@ -301,7 +301,7 @@ whole family—men, women, and children
 
 ---
 
-## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1857-05-23_12_21/page/n4/model/1up?view=theater)
+## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1857-05-23_12_21/page/n4/mode/1up?view=theater)
 
 #### 1857-05-23 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -334,7 +334,7 @@ and children, read the newspaper. And if any
 
 ---
 
-## [From _Ballou's Dollar Monthly Magazine (1855-1862)_](https://archive.org/details/sim_ballous-monthly-magazine_1857-07_6_1/page/n92/model/1up?view=theater)
+## [From _Ballou's Dollar Monthly Magazine (1855-1862)_](https://archive.org/details/sim_ballous-monthly-magazine_1857-07_6_1/page/n92/mode/1up?view=theater)
 
 #### 1857-07-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -1787,7 +1787,7 @@ read the newspapers
 
 ---
 
-## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1858-11_57_5/page/n81/model/1up?view=theater)
+## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1858-11_57_5/page/n81/mode/1up?view=theater)
 
 #### 1858-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1813,7 +1813,7 @@ and improve the condition of it. Let her have an intelli
 
 ---
 
-## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1858-11_57_5/page/n81/model/1up?view=theater)
+## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1858-11_57_5/page/n81/mode/1up?view=theater)
 
 #### 1858-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2132,7 +2132,7 @@ read the newspapers
 
 ---
 
-## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1859-04-14_27_17/page/n3/model/1up?view=theater)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1859-04-14_27_17/page/n3/mode/1up?view=theater)
 
 #### 1859-04-14 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -2154,7 +2154,7 @@ familiar with the present character and improve
 
 ---
 
-## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1859-04-14_27_17/page/n3/model/1up?view=theater)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1859-04-14_27_17/page/n3/mode/1up?view=theater)
 
 #### 1859-04-14 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -2176,7 +2176,7 @@ mental, moral, political and religious improve
 
 ---
 
-## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1859-04-14_27_17/page/n3/model/1up?view=theater)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1859-04-14_27_17/page/n3/mode/1up?view=theater)
 
 #### 1859-04-14 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -2195,7 +2195,7 @@ the newspaper.— Exchange.
 
 ---
 
-## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1859-05-21_1_21/page/n5/model/1up?view=theater)
+## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1859-05-21_1_21/page/n5/mode/1up?view=theater)
 
 #### 1859-05-21 &middot; [Lansing](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
@@ -3175,7 +3175,7 @@ men, womeu and children read tbe news
 
 ---
 
-## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1862-01_64/page/n74/model/1up?view=theater)
+## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1862-01_64/page/n74/mode/1up?view=theater)
 
 #### 1862-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3202,7 +3202,7 @@ prove the condition of it. Let her have an intelligen
 
 ---
 
-## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1862-01_64/page/n74/model/1up?view=theater)
+## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1862-01_64/page/n74/mode/1up?view=theater)
 
 #### 1862-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3296,7 +3296,7 @@ childrzti read the neaspaper
 
 ---
 
-## [From _National Principia 1858-1866_](https://archive.org/details/sim_national-principia_1862-06-05_3_127/page/n3/model/1up?view=theater)
+## [From _National Principia 1858-1866_](https://archive.org/details/sim_national-principia_1862-06-05_3_127/page/n3/mode/1up?view=theater)
 
 #### 1862-06-05 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3330,7 +3330,7 @@ Our thoughts and our concerns should be for
 
 ---
 
-## [From _National Principia 1858-1866_](https://archive.org/details/sim_national-principia_1862-06-05_3_127/page/n3/model/1up?view=theater)
+## [From _National Principia 1858-1866_](https://archive.org/details/sim_national-principia_1862-06-05_3_127/page/n3/mode/1up?view=theater)
 
 #### 1862-06-05 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3736,7 +3736,7 @@ read the newspapers Gxhy.
 
 ---
 
-## [From _The Frankfort commonwealth._](https://archive.org/details/xt7xd21rgk70/page/n0/model/1up?view=theater)
+## [From _The Frankfort commonwealth._](https://archive.org/details/xt7xd21rgk70/page/n0/mode/1up?view=theater)
 
 #### 1865-02-28 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
@@ -4206,7 +4206,7 @@ times.
 
 ---
 
-## [From _The Frankfort commonwealth._](https://archive.org/details/xt7zpc2t5d8p/page/n1/model/1up?view=theater)
+## [From _The Frankfort commonwealth._](https://archive.org/details/xt7zpc2t5d8p/page/n1/mode/1up?view=theater)
 
 #### 1865-11-28 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 
@@ -4764,7 +4764,7 @@ prove the condition of it. Let her
 
 ---
 
-## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1866-12-20_35_2/page/n3/model/1up?view=theater)
+## [From _Maine farmer._](https://archive.org/details/sim_maine-farmer_1866-12-20_35_2/page/n3/mode/1up?view=theater)
 
 #### 1866-12-20 &middot; [Augusta, Maine](http://dbpedia.org/resource/Augusta%2C_Maine)
 
@@ -5126,7 +5126,7 @@ women tnd children, road the new*
 
 ---
 
-## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1868-03_76_453/page/n60/model/1up?view=theater)
+## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1868-03_76_453/page/n60/mode/1up?view=theater)
 
 #### 1868-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -5690,7 +5690,7 @@ women and children—read newspapers.
 
 ---
 
-## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1869-01-09_22_2/page/n10/model/1up?view=theater)
+## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1869-01-09_22_2/page/n10/mode/1up?view=theater)
 
 #### 1869-01-09 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -6338,7 +6338,7 @@ wide pastures are hut separate spires o
 
 ---
 
-## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1870-11-19_49_47/page/n0/model/1up?view=theater)
+## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1870-11-19_49_47/page/n0/mode/1up?view=theater)
 
 #### 1870-11-19 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -6365,7 +6365,7 @@ and children, read newspapers.
 
 ---
 
-## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1870-11-19_49_47/page/n0/model/1up?view=theater)
+## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1870-11-19_49_47/page/n0/mode/1up?view=theater)
 
 #### 1870-11-19 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -6461,7 +6461,7 @@ our ives be such. Tne wide pasture
 
 ---
 
-## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1870-12_4_12/page/n2/model/1up?view=theater)
+## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1870-12_4_12/page/n2/mode/1up?view=theater)
 
 #### 1870-12-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 

@@ -894,7 +894,7 @@ in Heaven 1”
 
 ---
 
-## [From _The Frankfort commonwealth._](https://archive.org/details/xt7djh3d006k/page/n0/model/1up?view=theater)
+## [From _The Frankfort commonwealth._](https://archive.org/details/xt7djh3d006k/page/n0/mode/1up?view=theater)
 
 #### 1865-05-05 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
 

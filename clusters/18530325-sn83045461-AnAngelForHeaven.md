@@ -43,7 +43,7 @@ Mother of angels walk softly! Holy eyes watch thy footsteps, cherub forms bend t
 
 ---
 
-## [From _Christian Watchman and Reflector (1851-1861)_](https://archive.org/details/sim_watchman-examiner_1853-01-27_34_4/page/n0/model/1up?view=theater)
+## [From _Christian Watchman and Reflector (1851-1861)_](https://archive.org/details/sim_watchman-examiner_1853-01-27_34_4/page/n0/mode/1up?view=theater)
 
 #### 1853-01-27 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -136,7 +136,7 @@ ings, and jour own radiant Isagel i
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1853-02-17_26_43/page/n3/model/1up?view=theater)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1853-02-17_26_43/page/n3/mode/1up?view=theater)
 
 #### 1853-02-17 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -481,7 +481,7 @@ f -th
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1853-04-02_32_1653/page/n0/model/1up?view=theater)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1853-04-02_32_1653/page/n0/mode/1up?view=theater)
 
 #### 1853-04-02 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -682,7 +682,7 @@ ures, children of earth
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1853-04-07_26_50/page/n3/model/1up?view=theater)
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1853-04-07_26_50/page/n3/mode/1up?view=theater)
 
 #### 1853-04-07 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -820,7 +820,7 @@ may not return to thee.--0/n*e Branch
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1853-04-16_32_1655/page/n3/model/1up?view=theater)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1853-04-16_32_1655/page/n3/mode/1up?view=theater)
 
 #### 1853-04-16 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -1298,7 +1298,7 @@ though they may not &quot;return to thee,
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1853-07-07_24_27/page/n3/model/1up?view=theater)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1853-07-07_24_27/page/n3/mode/1up?view=theater)
 
 #### 1853-07-07 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1325,7 +1325,7 @@ i! fu! ^onl away to think those cherub lips will never, ‘I® *®
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1853-07-07_24_27/page/n3/model/1up?view=theater)
+## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1853-07-07_24_27/page/n3/mode/1up?view=theater)
 
 #### 1853-07-07 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1982,7 +1982,7 @@ though they may not return to thee.
 
 ---
 
-## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1855-06_7_6/page/n43/model/1up?view=theater)
+## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1855-06_7_6/page/n43/mode/1up?view=theater)
 
 #### 1855-06-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
@@ -2109,7 +2109,7 @@ of Earth
 
 ---
 
-## [From _The Lebanon post._](https://archive.org/details/xt7dr785jf2h/page/n0/model/1up?view=theater)
+## [From _The Lebanon post._](https://archive.org/details/xt7dr785jf2h/page/n0/mode/1up?view=theater)
 
 #### 1855-07-25 &middot; [Lebanon, Ky.](http://dbpedia.org/resource/Lebanon%2C_Kentucky)
 
@@ -2131,7 +2131,7 @@ There spoke the mother! Still her’s
 
 ---
 
-## [From _The Lebanon post._](https://archive.org/details/xt7dr785jf2h/page/n0/model/1up?view=theater)
+## [From _The Lebanon post._](https://archive.org/details/xt7dr785jf2h/page/n0/mode/1up?view=theater)
 
 #### 1855-07-25 &middot; [Lebanon, Ky.](http://dbpedia.org/resource/Lebanon%2C_Kentucky)
 
@@ -2150,7 +2150,7 @@ and loving as a little child. from the same faithful breast where their
 
 ---
 
-## [From _The Lebanon post._](https://archive.org/details/xt7dr785jf2h/page/n0/model/1up?view=theater)
+## [From _The Lebanon post._](https://archive.org/details/xt7dr785jf2h/page/n0/mode/1up?view=theater)
 
 #### 1855-07-25 &middot; [Lebanon, Ky.](http://dbpedia.org/resource/Lebanon%2C_Kentucky)
 
@@ -2175,7 +2175,7 @@ ling serpent in the garden of Laen, an jjjg face? Nothintj less than that j^^®^
 
 ---
 
-## [From _The Lebanon post._](https://archive.org/details/xt7dr785jf2h/page/n0/model/1up?view=theater)
+## [From _The Lebanon post._](https://archive.org/details/xt7dr785jf2h/page/n0/mode/1up?view=theater)
 
 #### 1855-07-25 &middot; [Lebanon, Ky.](http://dbpedia.org/resource/Lebanon%2C_Kentucky)
 
@@ -2197,7 +2197,7 @@ nal soul upwards. &quot;Still small” voices.
 
 ---
 
-## [From _The Lebanon post._](https://archive.org/details/xt7dr785jf2h/page/n0/model/1up?view=theater)
+## [From _The Lebanon post._](https://archive.org/details/xt7dr785jf2h/page/n0/mode/1up?view=theater)
 
 #### 1855-07-25 &middot; [Lebanon, Ky.](http://dbpedia.org/resource/Lebanon%2C_Kentucky)
 
@@ -3146,7 +3146,7 @@ may not return to yo
 
 ---
 
-## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1859-06-23_11_551/page/n5/model/1up?view=theater)
+## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1859-06-23_11_551/page/n5/mode/1up?view=theater)
 
 #### 1859-06-23 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3182,7 +3182,7 @@ tears! In the solemn silence of the grave we fee
 
 ---
 
-## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1859-06-23_11_551/page/n5/model/1up?view=theater)
+## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1859-06-23_11_551/page/n5/mode/1up?view=theater)
 
 #### 1859-06-23 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3253,7 +3253,7 @@ On her brow a glory crown
 
 ---
 
-## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1859-08-06_1_32/page/n5/model/1up?view=theater)
+## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1859-08-06_1_32/page/n5/mode/1up?view=theater)
 
 #### 1859-08-06 &middot; [Lansing](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
@@ -3287,7 +3287,7 @@ uway your tear! In the solemn silence of th
 
 ---
 
-## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1859-08-06_1_32/page/n5/model/1up?view=theater)
+## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1859-08-06_1_32/page/n5/mode/1up?view=theater)
 
 #### 1859-08-06 &middot; [Lansing](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
@@ -3587,7 +3587,7 @@ tures tended by the good Shepherd of the heavenly fold.
 
 ---
 
-## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://archive.org/details/sim_ladies-repository-a-monthly-periodical-devoted-to_1868-07_28_1/page/n69/model/1up?view=theater)
+## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://archive.org/details/sim_ladies-repository-a-monthly-periodical-devoted-to_1868-07_28_1/page/n69/mode/1up?view=theater)
 
 #### 1868-07-01 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
 

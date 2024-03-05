@@ -428,7 +428,7 @@ The impression lives through an eternal age.
 
 ---
 
-## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1857-10-17_12_42/page/n7/model/1up?view=theater)
+## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1857-10-17_12_42/page/n7/mode/1up?view=theater)
 
 #### 1857-10-17 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -470,7 +470,7 @@ The unpression lives through an everual age.
 
 ---
 
-## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1857-10-24_12_43/page/n0/model/1up?view=theater)
+## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1857-10-24_12_43/page/n0/mode/1up?view=theater)
 
 #### 1857-10-24 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
 
@@ -551,7 +551,7 @@ The ; .pression lives through an eternal age
 
 ---
 
-## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1858-11_17_102/page/n83/model/1up?view=theater)
+## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1858-11_17_102/page/n83/mode/1up?view=theater)
 
 #### 1858-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -741,7 +741,7 @@ Ihe impression bves through an eteanaJag
 
 ---
 
-## [From _American Printer 1883-2013_](https://archive.org/details/sim_american-printer_1887-09_4_12/page/n57/model/1up?view=theater)
+## [From _American Printer 1883-2013_](https://archive.org/details/sim_american-printer_1887-09_4_12/page/n57/mode/1up?view=theater)
 
 #### 1887-09-01 &middot; [Chicago, Illinois](http://dbpedia.org/resource/Chicago)
 

@@ -2311,7 +2311,7 @@ The Work may be had in Sheffield, at Mr. Barraclough’s, Bookseller, 40, Fargat
 
 ---
 
-## [From _The Spectator 1828-2014_](https://archive.org/details/sim_spectator-uk_1843-03-04_16_766/page/n21/model/1up?view=theater)
+## [From _The Spectator 1828-2014_](https://archive.org/details/sim_spectator-uk_1843-03-04_16_766/page/n21/mode/1up?view=theater)
 
 #### 1843-03-04 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -2423,7 +2423,7 @@ the subject in a very scientific and intelligible manner.
 
 ---
 
-## [From _The Spectator 1828-2014_](https://archive.org/details/sim_spectator-uk_1843-03-18_16_768/page/n22/model/1up?view=theater)
+## [From _The Spectator 1828-2014_](https://archive.org/details/sim_spectator-uk_1843-03-18_16_768/page/n22/mode/1up?view=theater)
 
 #### 1843-03-18 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -2513,7 +2513,7 @@ or premature decay. Mr. La&#x27;Mert, who is a a
 
 ---
 
-## [From _The Spectator 1828-2014_](https://archive.org/details/sim_spectator-uk_1843-04-29_16_774/page/n21/model/1up?view=theater)
+## [From _The Spectator 1828-2014_](https://archive.org/details/sim_spectator-uk_1843-04-29_16_774/page/n21/mode/1up?view=theater)
 
 #### 1843-04-29 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -2582,7 +2582,7 @@ aud alleviate.’— Wakefield Journal
 
 ---
 
-## [From _The Spectator 1828-2014_](https://archive.org/details/sim_spectator-uk_1843-05-13_16_776/page/n22/model/1up?view=theater)
+## [From _The Spectator 1828-2014_](https://archive.org/details/sim_spectator-uk_1843-05-13_16_776/page/n22/mode/1up?view=theater)
 
 #### 1843-05-13 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -2616,7 +2616,7 @@ and alleviate. Wakefield Journal,
 
 ---
 
-## [From _The Spectator 1828-2014_](https://archive.org/details/sim_spectator-uk_1843-05-20_16_777/page/n22/model/1up?view=theater)
+## [From _The Spectator 1828-2014_](https://archive.org/details/sim_spectator-uk_1843-05-20_16_777/page/n22/mode/1up?view=theater)
 
 #### 1843-05-20 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -2656,7 +2656,7 @@ aud alleviate.’— Vahkefield Journal.
 
 ---
 
-## [From _The Spectator 1828-2014_](https://archive.org/details/sim_spectator-uk_1843-06-03_16_779/page/n22/model/1up?view=theater)
+## [From _The Spectator 1828-2014_](https://archive.org/details/sim_spectator-uk_1843-06-03_16_779/page/n22/mode/1up?view=theater)
 
 #### 1843-06-03 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -2692,7 +2692,7 @@ aud alleviate.’— Waketield Journal.
 
 ---
 
-## [From _The Spectator 1828-2014_](https://archive.org/details/sim_spectator-uk_1843-06-17_16_781/page/n22/model/1up?view=theater)
+## [From _The Spectator 1828-2014_](https://archive.org/details/sim_spectator-uk_1843-06-17_16_781/page/n22/mode/1up?view=theater)
 
 #### 1843-06-17 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -2729,7 +2729,7 @@ aud alleviate.’— Waketield Journal.
 
 ---
 
-## [From _The Spectator 1828-2014_](https://archive.org/details/sim_spectator-uk_1843-07-29_16_787/page/n21/model/1up?view=theater)
+## [From _The Spectator 1828-2014_](https://archive.org/details/sim_spectator-uk_1843-07-29_16_787/page/n21/mode/1up?view=theater)
 
 #### 1843-07-29 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -2752,7 +2752,7 @@ alleviate.”—WakeFIELD JOURNAL,
 
 ---
 
-## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1843-09-09_1_2/page/n15/model/1up?view=theater)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1843-09-09_1_2/page/n15/mode/1up?view=theater)
 
 #### 1843-09-09 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3164,7 +3164,7 @@ Booksellers.
 
 ---
 
-## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-02-17_1_25/page/n22/model/1up?view=theater)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-02-17_1_25/page/n22/mode/1up?view=theater)
 
 #### 1844-02-17 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3206,7 +3206,7 @@ vince to portray and alleviate.”— Wakefield Journal.
 
 ---
 
-## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://archive.org/details/sim_examiner-a-weekly-paper-on-politics-literature-music_1844-02-24_1882/page/n13/model/1up?view=theater)
+## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://archive.org/details/sim_examiner-a-weekly-paper-on-politics-literature-music_1844-02-24_1882/page/n13/mode/1up?view=theater)
 
 #### 1844-02-24 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3448,7 +3448,7 @@ tray and alleviate &quot;—Wakefield Journal.
 
 ---
 
-## [From _British and Foreign Review; Or European Quarterly Journal 1835-1844_](https://archive.org/details/sim_british-and-foreign-review-or-european-quarterly-journal_1844-04_17/page/n24/model/1up?view=theater)
+## [From _British and Foreign Review; Or European Quarterly Journal 1835-1844_](https://archive.org/details/sim_british-and-foreign-review-or-european-quarterly-journal_1844-04_17/page/n24/mode/1up?view=theater)
 
 #### 1844-04-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3650,7 +3650,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 ---
 
-## [From _British and Foreign Review; Or European Quarterly Journal 1835-1844_](https://archive.org/details/sim_british-and-foreign-review-or-european-quarterly-journal_1844-07_17/page/n20/model/1up?view=theater)
+## [From _British and Foreign Review; Or European Quarterly Journal 1835-1844_](https://archive.org/details/sim_british-and-foreign-review-or-european-quarterly-journal_1844-07_17/page/n20/mode/1up?view=theater)
 
 #### 1844-07-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -3981,7 +3981,7 @@ prevalence and the consequences of these evils it is his province to portray and
 
 ---
 
-## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-10-19_1_60/page/n22/model/1up?view=theater)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-10-19_1_60/page/n22/mode/1up?view=theater)
 
 #### 1844-10-19 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -4025,7 +4025,7 @@ and alleviate.”— Wakefield Journal.
 
 ---
 
-## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-10-26_1_61/page/n21/model/1up?view=theater)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1844-10-26_1_61/page/n21/mode/1up?view=theater)
 
 #### 1844-10-26 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -4389,7 +4389,7 @@ and alleviate.”— Wakefield Journal.
 
 ---
 
-## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1845-01-11_3_2/page/n23/model/1up?view=theater)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1845-01-11_3_2/page/n23/mode/1up?view=theater)
 
 #### 1845-01-11 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -4458,7 +4458,7 @@ alleviate. Wakefield Journ
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-01-18_15_491/page/n3/model/1up?view=theater)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-01-18_15_491/page/n3/mode/1up?view=theater)
 
 #### 1845-01-18 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -4521,7 +4521,7 @@ consum: &amp;c.,with plai
 
 ---
 
-## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1845-01-25_3_4/page/n22/model/1up?view=theater)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1845-01-25_3_4/page/n22/mode/1up?view=theater)
 
 #### 1845-01-25 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -4575,7 +4575,7 @@ alleviate.” — Wakefield Journal.
 
 ---
 
-## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1845-02-01_3_5/page/n22/model/1up?view=theater)
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1845-02-01_3_5/page/n22/mode/1up?view=theater)
 
 #### 1845-02-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -4608,7 +4608,7 @@ alleviate.”— Wakefield Journal.
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-02-01_15_493/page/n3/model/1up?view=theater)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-02-01_15_493/page/n3/mode/1up?view=theater)
 
 #### 1845-02-01 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -4778,7 +4778,7 @@ lJancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, 
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-03-08_15_498/page/n3/model/1up?view=theater)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-03-08_15_498/page/n3/mode/1up?view=theater)
 
 #### 1845-03-08 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -5557,7 +5557,7 @@ lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with 
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-07-26_15_518/page/n1/model/1up?view=theater)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-07-26_15_518/page/n1/mode/1up?view=theater)
 
 #### 1845-07-26 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -5582,7 +5582,7 @@ terminating weakness, ner
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-08-02_15_519/page/n8/model/1up?view=theater)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-08-02_15_519/page/n8/mode/1up?view=theater)
 
 #### 1845-08-02 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -5621,7 +5621,7 @@ es a oad terminating in local ete constitutional bape hae neigh eae me
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-08-09_15_520/page/n8/model/1up?view=theater)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-08-09_15_520/page/n8/mode/1up?view=theater)
 
 #### 1845-08-09 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -5674,7 +5674,7 @@ directions for their treatment and cure. Iustrated with cases. By SAMUEL LA’ME
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-08-16_15_521/page/n8/model/1up?view=theater)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-08-16_15_521/page/n8/mode/1up?view=theater)
 
 #### 1845-08-16 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -5714,7 +5714,7 @@ lancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, &
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-08-30_15_523/page/n8/model/1up?view=theater)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-08-30_15_523/page/n8/mode/1up?view=theater)
 
 #### 1845-08-30 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -5765,7 +5765,7 @@ directions for thely iveatmnent und cure’ Ilustrated with caves, By SAMUEL LA�
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-09-06_15_524/page/n12/model/1up?view=theater)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-09-06_15_524/page/n12/mode/1up?view=theater)
 
 #### 1845-09-06 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -5799,7 +5799,7 @@ consulting surgeon, 9, Bedford-street, ry Member of th
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-09-13_15_525/page/n10/model/1up?view=theater)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-09-13_15_525/page/n10/mode/1up?view=theater)
 
 #### 1845-09-13 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -5860,7 +5860,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-10-11_15_529/page/n8/model/1up?view=theater)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-10-11_15_529/page/n8/mode/1up?view=theater)
 
 #### 1845-10-11 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -6060,7 +6060,7 @@ or infection, and terminating in local and constitutional weakness, nervous debi
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1846-01-10_16_542/page/n11/model/1up?view=theater)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1846-01-10_16_542/page/n11/mode/1up?view=theater)
 
 #### 1846-01-10 &middot; [London, England](http://dbpedia.org/resource/London)
 
@@ -6102,7 +6102,7 @@ or infection, and terminating in local and constitutional weakness, nervous ,me-
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1846-01-24_16_544/page/n7/model/1up?view=theater)
+## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1846-01-24_16_544/page/n7/mode/1up?view=theater)
 
 #### 1846-01-24 &middot; [London, England](http://dbpedia.org/resource/London)
 

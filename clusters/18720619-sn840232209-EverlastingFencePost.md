@@ -208,7 +208,7 @@ here is not a man that will live to see it rotea
 
 ---
 
-## [From _Christian Union (1870-1893)_](https://archive.org/details/sim_new-outlook_1872-09-04_6_11/page/n19/model/1up?view=theater)
+## [From _Christian Union (1870-1893)_](https://archive.org/details/sim_new-outlook_1872-09-04_6_11/page/n19/mode/1up?view=theater)
 
 #### 1872-09-04 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -420,7 +420,7 @@ rotten.&quot;
 
 ---
 
-## [From _Railway Age 1870-2016_](https://archive.org/details/sim_railway-age_1872-12-14_4/page/n2/model/1up?view=theater)
+## [From _Railway Age 1870-2016_](https://archive.org/details/sim_railway-age_1872-12-14_4/page/n2/mode/1up?view=theater)
 
 #### 1872-12-14 &middot; [Chicago, Illinois](http://dbpedia.org/resource/Chicago)
 
@@ -453,7 +453,7 @@ A Woman Inventor.
 
 ---
 
-## [From _Massachusetts Ploughman and New England Journal of Agriculture (1842-1906)_](https://archive.org/details/sim_massachusetts-ploughman-new-england-journal-agriculture_1873-02-01_32_18/page/n0/model/1up?view=theater)
+## [From _Massachusetts Ploughman and New England Journal of Agriculture (1842-1906)_](https://archive.org/details/sim_massachusetts-ploughman-new-england-journal-agriculture_1873-02-01_32_18/page/n0/mode/1up?view=theater)
 
 #### 1873-02-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -2259,7 +2259,7 @@ oil, aod stir in pulverised
 
 ---
 
-## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1874-08_59_2/page/n61/model/1up?view=theater)
+## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1874-08_59_2/page/n61/mode/1up?view=theater)
 
 #### 1874-08-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
@@ -2951,7 +2951,7 @@ live to see it rot.”
 
 ---
 
-## [From _Christian Union (1870-1893)_](https://archive.org/details/sim_new-outlook_1875-06-30_11_26/page/n19/model/1up?view=theater)
+## [From _Christian Union (1870-1893)_](https://archive.org/details/sim_new-outlook_1875-06-30_11_26/page/n19/mode/1up?view=theater)
 
 #### 1875-06-30 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4053,7 +4053,7 @@ to see it rotten.
 
 ---
 
-## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1884-10-30_37_44/page/n0/model/1up?view=theater)
+## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1884-10-30_37_44/page/n0/mode/1up?view=theater)
 
 #### 1884-10-30 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
 
