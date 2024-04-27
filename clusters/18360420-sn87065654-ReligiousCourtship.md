@@ -1,7 +1,7 @@
 
 # Religious Courtship
 
-### 239 reprints from 1803-12-31 to 1899-12-16
+### 225 reprints from 1803-12-31 to 1899-12-15
 
 ## [Religious Courtship](https://chroniclingamerica.loc.gov/lccn/sn87065654/1839-04-20/ed-1/seq-4/)
 
@@ -566,13 +566,9 @@ wrote a new commandment unto thee
 that which we had from the begennng, that  
 we love one another.” She returned it, point.  
 ing, 2d chap. of Ruth, vy. 10: * thew ale fell  
-ou her tace, and bowed hervelf to the grown!  
-  
-’  
-and said unto hum, why bave | found grace mn  
-thine eyes, t
+ou her tace, and bowed hervelf to the grown!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-evening-post_1826-12-09_5_49&#0036;0/pct:49.733232,41.703794,14.424543,15.633860/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-evening-post_1826-12-09_5_49&#0036;0/pct:49.733232,41.703794,14.424543,14.621304/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -744,16 +740,6 @@ week.
 <img alt="Page image" src="https://iiif.archive.org/iiif/sim_boston-news-letter-and-city-record_1826-12-16_2_24&#0036;1/pct:58.686131,78.706755,36.204380,5.415980/600,/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## Miscellaneous Articles.
-
-#### From _Aberdeen Journal_
-
-#### 1827-01-03 &middot; [Aberdeen, Scotland](http://dbpedia.org/resource/Aberdeen)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -1023,16 +1009,6 @@ week.
 
 ---
 
-## Miscellany
-
-#### From _The Scioto gazette._
-
-#### 1835-04-22 &middot; [Chillicothe, Ohio](http://dbpedia.org/resource/Chillicothe%2C_Ohio)
-
-[This text is not available under an open license.]
-
----
-
 ## [From _The New - York Mirror: a Weekly Gazette of Literature and the Fine Arts (1823-1842)_](https://archive.org/details/sim_new-york-mirror-a-weekly-gazette-of-literature_1835-05-16_12_46/page/n7/mode/1up?view=theater)
 
 #### 1835-05-16 &middot; [New York](http://dbpedia.org/resource/New_York_City)
@@ -1245,27 +1221,6 @@ the ensuing week, and the happy pair hired a chais
 
 ---
 
-## [From _Indiana State sentinel._](https://chroniclingamerica.loc.gov/lccn/sn82015677/1845-06-19/ed-1/seq-1)
-
-#### 1845-06-19 &middot; [Indianapolis](http://dbpedia.org/resource/Indianapolis)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-For the Giuls. A youtig gentleman happened to  
-sit at church-in a pew adjoining e&#x27;ne in which sat a  
-young lady, for whom he conceived a most sudden and  
-violent pission; and was desiromof entering into a  
-courtship on the spot. But the place not suiting a  
-fornvtl declaration, the exigency of the case suggested  
-the following pi in : lie marked a text and handed th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_hoosier_ver01%2Fdata%2Fsn82015677%2F00296029804%2F1845061901%2F0124.jp2/pct:65.763079,66.463675,14.529683,3.579060/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _True Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87065542/1845-08-06/ed-1/seq-3)
 
 #### 1845-08-06 &middot; [Paulding, Miss.](http://dbpedia.org/resource/Paulding%2C_Mississippi)
@@ -1282,19 +1237,9 @@ ing into a courtship on the spot. But to
 place not suiting a formal declaration, the  
 exigency of tho case suggested the follow­  
 ing plan: lie marked a text and handed  
-tha bible to her 2d epistle of John, 5.th  
-verse: &quot;Aud now, I beseech thee, lady, not  
-as tho&#x27; I wrote n new commandmeut unto  
-thee, but that which we have from the .  
-beginning, that we love one another.&quot;  
-She returned the book, pointing to Ruth,  
-2d chapter, 10th verse: &quot; Why should I  
-find graco in thine eyeSjthat thou shoutd­  
-est take knowledge of me, seeing I am a  
-stranger?&quot; He again returned the book,  
-pointing to the third epistle ot John, lot
+tha bible to her 2d epistle of John, 5.t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_eiffel_ver02%2Fdata%2Fsn87065542%2F0029587756A%2F1845080601%2F0428.jp2/pct:20.978071,21.681232,16.514652,13.094743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_eiffel_ver02%2Fdata%2Fsn87065542%2F0029587756A%2F1845080601%2F0428.jp2/pct:21.133320,21.681232,16.359402,6.602858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1310,28 +1255,45 @@ pointing to the third epistle ot John, lot
 
 ---
 
-## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1846-01-02/ed-1/seq-1)
+## From _The Ottawa free trader._
 
 #### 1846-01-02 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-For the. (litis. A yoting&#x27;gentle-  
+For the Girts. A young gentle-  
 man happened to sit at church in a  
 pew adjoining one in which sat a  
 young lady, for whom he conceived  
 a most sudden and violent passion;  
-ami w as desirous of entering a court­  
-ship nn the spot. But the place not  
-suiting a formal declaration, tho ex-  
-igency of tho case suggested the fol­  
-lowing plan : lie marked a text and  
-handed the Eihle to hrr; 2.1 Epistl
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn84038582%2F00212472037%2F1846010201%2F0466.jp2/pct:82.360896,70.060706,12.925039,6.926049/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+and was desirous of entering a court­  
+ship on the spot. But the place not  
+suiting a formal declaration, the ex-  
+igency of the case suggested the fol­  
+lowing plan: He marked a text and  
+handed the Bible to her; 2d Epistle  
+of John, 5th verse: &quot;And now, I be
+</td></tr></table>
+
+---
+
+## From _The Ottawa free trader._
+
+#### 1846-01-02 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+ee enn that te tin on an  
+other.&quot; She sreturned the book,  
+pointing to Ruth, 2d chapter, 10th  
+verse: &quot;Why should I find grace in  
+thine eyes, that thou shouldst take  
+knowledge of me seeing I am a stran­  
+ger?&quot; He again returned the book  
+pointing to the 3d Epistle of John
+</td></tr></table>
 
 ---
 
@@ -1639,6 +1601,37 @@ suing week.
 
 ---
 
+## From _Wheeling times and advertiser._
+
+#### 1846-08-21 &middot; [Wheeling, Va. [W. Va.]](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+a oi on te o a te a o a  
+ing a formal declaration, the exigency su  
+ee te ooin te ie o o  
+e e  an o  bec the ad  
+eot as to  ad ote a ne comma  
+emen e ta e a o the egini  
+e that e love one another.&quot; Se eturned h  
+Lible with the tollowin O chanter of Rit  
+  
+10th verse. &quot;Then she fell on her face, an  
+oo ee o te o an a a  
+him, why have I found grace in thine eve  
+ that thou shouldst take notice of me, seeing  
+am a stranger?&quot; He returned the book poin  
+ing to the 31 Epistle of Johm: &quot;Haing   
+ ny things to write unto you, I would i  
+ write with pen and ink; but I trust to con  
+ unto you and speak face to face.&quot;  
+From the above interview, the marriag  
+ took place the ensuing weck
+</td></tr></table>
+
+---
+
 ## POSTSCRIPT.
 
 #### From _Hampshire/Portsmouth Telegraph_
@@ -1769,18 +1762,6 @@ took place the ensuing week, and th
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-A Religious Courtship. A young gen  
-tleman happened to sit at church in a pew  
-adjoining one in which sat a young lady, for  
-whom he conceived a sudden and violent  
-passion, was desirous of entering into court  
-ship on the spot; but the place not suiting a  
-formal declaration, the exigency of the case  
-suggested the following plan: He politely  
-handed the fair lady a bible open, with a pin  
-stuck in the following text 2d epistle of  
-John v. ota: &#x27;And now 1 beseech thee lady,  
-not as though 1 wrote a new commandment  
 unto thee, but that which we had from the  
 beginning, that we love one another.&#x27; She  
 returned it, pointing, Ruth ii. 10th: &#x27;Then  
@@ -1796,9 +1777,46 @@ speak face to face.&#x27; From the above inter
 view a marriage took place the ensuing  
 week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_lilac_ver02%2Fdata%2Fsn82015408%2F00237289699%2F1849020301%2F0570.jp2/pct:23.892928,23.230217,14.524124,14.274128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_lilac_ver02%2Fdata%2Fsn82015408%2F00237289699%2F1849020301%2F0570.jp2/pct:23.909451,29.892249,14.458030,7.612096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The Charlotte journal._
+
+#### 1850-01-11 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+A young gentleman happening to sit in a  
+pew adjoming one in which was a young le-  
+dy for whom he conceived a most sudden and  
+violent passion, felt desirous of entering into  
+a courtship on the spot; but the place not  
+suiting a formal decleratiop, the oxigency  
+tigeested the following plan: He politely  
+handed his fair neighbor a bible open, with  
+a pin stuck in the following text:-24 Epistle  
+John, verse 5th, &quot;And now I beseech thee,  
+lady, not as though I wroto a new command  
+ment unte thee, but that which we had from  
+the beginning, that we love one another.&quot;  
+She returned it a ith the following: 2d chap.  
+of Ruth, 10th verse, &quot;Then she fell on her  
+face and bowed herself down to the ground  
+and said unto him, why have I found grace  
+in thine eyes, that thou shouldet take notice  
+of me, sesing I am a stranger?&quot; He return­  
+ed the book, pointing to the 12th verse of  
+the 3d Epistle of John, &quot;Having many things  
+to write unto you, I would not write with pu­  
+por and ink; but I trust to come unto you  
+and speak face to face.&quot; From the above  
+interview the marriage took place the ensu­  
+ing week
+</td></tr></table>
 
 ---
 
@@ -1826,47 +1844,28 @@ verse of the epistle John : &quot;Havin
 
 ---
 
-## [From _Star of the Kanawha Valley._](https://chroniclingamerica.loc.gov/lccn/sn85059861/1855-11-28/ed-1/seq-1)
+## From _The Council Bluffs nonpareil._
 
-#### 1855-11-28 &middot; [Buffalo, Va. [W. Va.]](http://dbpedia.org/resource/Buffalo%2C_West_Virginia)
+#### 1858-07-31 &middot; [Council Bluffs [Iowa]](http://dbpedia.org/resource/Council_Bluffs%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-, .! A Religious Tonrtship.  
-A young gentleman happened to sit  
-at church in a pew adjoining one in  
-which sat a young lady, for whom ha  
-had conceived a sudden and violent  
-passion, and was desirous of entering  
-into courtship on the spot; but the  
-place not Suiting a formal declaration,  
-the exigency of the case suggested the  
-following plan. lie politely handed *  
-the fair lady the Bible open, with a  
-pin stuck in the following text—2d  
-epistle of John, 5th—“ana now I be­  
-seech thee, fair lady, not as though  
-I wrote a new commandment unto  
-thee, but which ye had from begin­  
-ning, that we love one another.”-—She  
-returned it pointing to Ruth ii, 10th  
-—‘*Why have I found grace in thine  
-eyes, that thou shouldest take knowl­  
-edge of me, seeing I am a stranger?”  
-lie returned the book, pointing to the  
-12th verse of the second epistle of  
-John—‘ ‘Haying many things to write  
-unto you, I would not write with  
-paper and ink; but I trust to come un­  
-to you, and speak face to face, that our  
-joy may be full.” From the above in­  
-terview a marriage took placejthe en­  
-suing week. |&lt;;
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_hogan_ver01%2Fdata%2Fsn85059861%2F00514157364%2F1855112801%2F0138.jp2/pct:82.292039,40.261952,13.410389,18.444663/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Then she fell on her face and bowed her-­  
+self to the ground, and said unto him, why  
+have I found grace in thine eyes, that thou  
+shouldst take knowledge of me, see that I  
+am a stranger  
+He returned the book, pointing to th 12th  
+verse of the 3d Epistle of John  
+&quot;Having many things to write unto you, I  
+would not write with paper and ink, but  
+I trust to come unto you and speak face to  
+face.&quot;  
+  
+From the above interview, a marriage  
+took place the following week.
+</td></tr></table>
 
 ---
 
@@ -1936,13 +1935,44 @@ place tho ensuing week
 
 ---
 
-## By Telegraph
+## From _Spirit of the age._
 
-#### From _Daily morning news._
+#### 1859-09-08 &middot; [Woodstock, Vt.](http://dbpedia.org/resource/Woodstock%2C_Vermont)
 
-#### 1859-10-05 &middot; [Savannah, Ga.](http://dbpedia.org/resource/Savannah%2C_Georgia)
+<table style="width: 100%;"><tr><td style="width: 50%">
 
-[This text is not available under an open license.]
+  
+e sa toa ret eten te tadin  
+e  e  e e e  i  
+A young gentleman happening to sit at church  
+in pew adjoining one in which sat a young  
+lady for whom he conceived a violent passion,  
+sas desirous of entering into a courtship on the  
+spot; but the place not suiting a formal declara-  
+tion, the exigency of the case suggested the  
+following plan: He politely halded his fair  
+neighbor a Bible, open, with a pin stuck in the  
+following text--Second Epistle of John, verse  
+fifth- &quot;And now I beseech thee, lady, not as  
+though I wrote a new commandment unto  
+thee, but that which we ghad from the begin-  
+ning--that we love one another.&quot; She return-  
+ed it, pointing to the second chapter of Ruth,  
+verse tenth, &quot;Then she fell on her face, and  
+bowed herself to the ground, and said unto him,  
+why have I found grace in thine eyes, that thou  
+shouldst take knowledge of me, seeing that I  
+am a stranger  
+?&quot; He returned the book, point.  
+ing to the twelfth verse of the Third Eoistle of  
+a ae eeeoo  
+dohn: &quot;Having many things to write unto  
+you, I would not write with paper and ink, but  
+I trust to come unto you, and speak face to  
+face that our joy may be full.&quot; From the  
+above interview a marriage took place the ensu-  
+ing week
+</td></tr></table>
 
 ---
 
@@ -2069,6 +2099,44 @@ that we love one another.&quot; She returned
 
 ---
 
+## From _The Democratic press._
+
+#### 1860-11-08 &middot; [Eaton, Preble County, Ohio](http://dbpedia.org/resource/Eaton%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+ing to sit at church in a pew ad  
+olning one in which sat a young  
+lady for whom he had conceived t  
+violent passion, was desirous of en  
+&quot;tering into courtship on the spot;  
+but the place not suiting a formal  
+delaration, the exigency of the  
+case suggested the following plan.  
+He politely handed his fair neigh  
+bor a bible, open, with a pin stuck  
+in the text: Second epistle of John,  
+verse fifth  
+&quot;And now I beseech thee, lady,  
+not as though I wrote a new com­  
+mandment unto thee, but that  
+which we had from the beginning  
+that we love one another.&quot;  
+She returned it, pointing to the  
+second chapter of Ruth, verse 10  
+&quot;Then she fell on her face, and  
+bowed herself to the ground, and  
+said unto him, why have I  
+grace in thine eyes, and  
+found  
+thou  
+seeing  
+shouldst take notice of m
+</td></tr></table>
+
+---
+
 ## [From _The Lambertville press._](https://chroniclingamerica.loc.gov/lccn/sn85035610/1860-11-14/ed-1/seq-1)
 
 #### 1860-11-14 &middot; [Lambertville, N.J.](http://dbpedia.org/resource/Lambertville%2C_New_Jersey)
@@ -2105,6 +2173,29 @@ riage took place the ensuing week
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_beachhaven_ver01%2Fdata%2Fsn85035610%2F00513684976%2F1860111401%2F0172.jp2/pct:71.928127,20.768741,10.854642,15.739364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _Puget Sound herald._
+
+#### 1862-11-06 &middot; [Steilacoom, W.T. [Wash.]](http://dbpedia.org/resource/Steilacoom%2C_Washington)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+&quot;Then she fell on her face, and bowed  
+herself to the ground, and said unto him,  
+Why have I found graca in thine eyes, that  
+thou shouldst take knowledge of me, seeing  
+I am a stranger?&quot;11),  
+He likewise returned the book, pointing  
+to the 11th verse of the epistle of John-  
+&quot;Having many things to write unto you,  
+I would not write with paper and ink; but  
+Itrust to come and speak face to face.&quot;  
+From the above interview a marriage  
+took place the ensuing week
+</td></tr></table>
 
 ---
 
@@ -2188,50 +2279,43 @@ the ensuing week.
 
 ---
 
-## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1863-11-04/ed-1/seq-4)
+## From _Oxford Democrat._
 
-#### 1863-11-04 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
+#### 1863-11-06 &middot; [Paris, Me.](http://dbpedia.org/resource/Paris%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-a, Ga., where he ar­  
-rived on the 28th. fie left for Macon and Sa­  
-vannah.  
-The Richmond Whig fears that there will  
-be great dearth of food in Richmond this win­  
-ter, and writes strongly on the sul ject.  
-The Richmond Whig says : &quot;We learn that  
-the protracted skirmish at Bealton originated  
-Irom one of our divisions (Johnson&#x27;s) encoun­  
-tering the Yankee cavalry while engaged in  
-collecting the iron torn up from the railroad  
-during the retrogade movement of the ai­  
-my from Bristoe Station. A large quantity of i  
-iron that will be made valuable in future oper- !  
-lions, has been collected and saved.&quot;  
   
-Religious Courtship.?A young gentle­  
-man happening to sit at church in a pew ad­  
-joining one in which sat a young lady for whom  
-he conceived a sudden and violent passion, was  
-desirous of entering into a courtship on the  
-spot; but the place not suiting a formal decla­  
-ration, the exigency of the case suggested the  
-following plan: lie politely handed his fair  
-neighbor a Bible open, with a pin stuck in the  
-following text. Second Epistle of John, verse  
-nth : &#x27;&#x27;And now I beseech thee, lady, not as  
-though I wrote a new commandment unto thee,  
-but that which we had from the beginning,  
-that we love one another/&#x27; She returned it,  
-pointing to the second chapter of Ruth, verse  
-1 Oth : &quot;Then she fell on her face, and bowed  
-herself to the ground, and said unto him, Why  
-have I found grace in thine eyes, seeing that 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_dior_ver01%2Fdata%2Fsn85025007%2F00415663547%2F1863110401%2F0534.jp2/pct:10.036120,46.338569,30.232198,35.479930/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+RelIGIous CoUershi. A young gen­  
+tleman happened to sit at church in a pew  
+adjoining one in which sat a young lady for  
+whom he conceived a sudden and violent  
+passion, was desirous of entering into a  
+courtship on the spot; but the place not  
+suiting a formal declaration, the exigency  
+of the case suggested the following plan:  
+He politely handed his fair neighbor a  
+Bible, open, with a pin stuck in the follow­  
+ing text--Second Epistle of John verse  
+fifth:-&quot;And now I beseech thee, lady, not  
+as though I wrote a new commandment  
+unto thee, but that which we had from the  
+beginning, that we love one another.&quot; She  
+returned it, pointing to the second chapter  
+of Ruth, verse tenth--&quot;Then she fell on  
+her face, and bowed herself to the ground  
+and said unto him, why have I found grace  
+in thine eyes, that thou shouldst take  
+knowledge of me, seeing that I am a stran­  
+ger?&quot; He returned the book, pointing to  
+the thirteenth verse of the Third Epistle of  
+John- Having many things to write unto  
+you, I would not write with paper and ink,  
+but I trust to come unto you, and speak  
+face to face, that our joy may be full.&quot;  
+From the above interview, a marriage took  
+place the ensuing week.
+</td></tr></table>
 
 ---
 
@@ -2279,215 +2363,6 @@ be full.&quot; From the above interview a
 marriage took place ihe ensuing week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022548%2F00202194941%2F1863110601%2F0593.jp2/pct:4.646622,58.066378,12.475595,20.894661/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1863-11-08/ed-1/seq-1)
-
-#### 1863-11-08 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-iixLiuiot&#x27;ti ( &#x27;ourtphip.-^A young gentleman  
-happening to sit at churbh in a pew adjoining  
-one in which sat a young lady for whom he  
-conceived a sudden and violent passion, was  
-desirous ot enteriug into a courtship on the  
-spot; bnt the place not suiting a formal declar­  
-ation, the exigency of the case suggested the  
-following plan:  
-He politely handed bis fair neighbor a Bible  
-opt n, w ith a pin stuc k in the following text­  
-Second Kpistle ol John, vense tilth s??Aud I  
-beteech thee, lady, net as thoush I wrote a new  
-ccramaxuiment nnto thee, but that whlcb we  
-had from the beginning, that we love one an­  
-other.&#x27;*  
-She returned it, pointiog to the second chap­  
-tirof Ruth, v rte tenth??&lt; Then she fell on  
-her face, huc&#x27; do wed herself to the ground, nad  
-said nnto him, why have I havw found grace  
-in thine eyes, that thou shouldst take knowl­  
-edge of nse, neing that I am a straut?r T&quot;  
-He retvrn? ,l the book pointing to the tweltth  
-vtrei ? f J. r nt KpUtleof John: &quot;Haying  
-rc*t y it.i &#x27;u v j ?&#x27;&lt;?&quot; unto you, I would not  
-v. j t* w mK | p( r and ink, but I trust to come  
-vi &#x27;O u u, au(i epnik face to face, that our joy  
-tpeif N full. .  
-t&#x27;1* n&gt;r-v?&#x27; i (?rvi? ^ ^ rowrwi? took  
-pi in .In ir. i.ir.F we.k.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_alf_ver01%2Fdata%2Fsn83045462%2F00280654218%2F1863110801%2F0107.jp2/pct:65.613200,85.223573,15.744541,11.732147/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1863-11-14/ed-1/seq-4)
-
-#### 1863-11-14 &middot; [Portland, Me.](http://dbpedia.org/resource/Portland%2C_Maine)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-flag  
-With its bloody folds,  
-And while life la6t*  
-Will the tale be told,  
-Of the noble army,  
-And the glorious flag  
-Reft by the battle breeze,  
-Almost a rag.  
-When seemed a column  
-To waver in the light.  
-Over it that dear flag,  
-Waved in its might,  
-Causing them to rally,  
-Shout their battle cry,  
-Rush oh the eucm&gt;,  
-io do aud die.  
-Brave men look up,  
-Delight to see it wave.  
-Now as first it was,  
-Powerful to save.  
-Eighty years ago it was  
-1 he flag of the free;  
-That its proud title  
-Ever more shall be,  
-Till on the world&#x27;s shore  
-Time fades away,  
-Empires and nations  
-Have gone to decay.  
-C. E. D.  
-  
-MISCELL AN Y._  
-Religious Courtship.—A young gentle­  
-man, happening to sit at church in a pew ad­  
-joining one in which sat a young lady for  
-whom he conceived a sudden and violent pas­  
-sion, was desirous of entering into a corn t­  
-&#x27; ship on the spot; but the place not suiting a  
-formal declaration, the exigency of the case  
-suggested the following plan: — He politely  
-handed his fair neighbor an open Hible, with  
-a pin stuck iu the following text — Second  
-Epistle of John, verse lifth:—“And now I be­  
-seech thee, lady, not as though I wrote a new  
-commandment unto thee, hut that which we  
-had from the beginning, that we love one  
-another.&quot; She returned it, pointing to the  
-second chapter of Ruth, verse tenth: “Then  
-she fell on her face, and bowed herself to the  
-ground, aud said unto him, why have I found  
-grace in thine eyes, that thou should’st take  
-knowledge of me, seeing that I am a strang­  
-er?” He returned the book, pointing to the  
-thirteenth verse of the Third Epistle of John:  
-“Having many things to write unto yon, 1  
-would not write with paper and ink, but 1  
-trust to come unto you and speak face to face,  
-that our joy may be full.”  
-From the above interview a marriage took  
-place the ensuing week
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_damariscotta_ver02%2Fdata%2Fsn83016025%2F00279525176%2F1863111401%2F0314.jp2/pct:3.736264,21.285305,12.660256,28.765862/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Civilian & telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83016179/1863-11-19/ed-1/seq-1)
-
-#### 1863-11-19 &middot; [Cumberland, Md.](http://dbpedia.org/resource/Cumberland%2C_Maryland)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Religious ( our ship.  
-A young gentleman happening to sit at  
-church in a pew adjoining one in which sat  
-1 a young lady for whom ho conceived a sud­  
-den and violent passi&#x27; n, was desii lis of en­  
-tering into a courtsh p on the spot; hut the  
-place not suiting a formal declaration, the  
-exigency of the case suggested the follow­  
-ing plan : Ho politely handed his fair neigh­  
-bor a Bible open, with a pin stuck in the :  
-following text Second Epistle of John,  
-verse fifth:—&quot;And 1 beseech thee lady, not j  
-as though [ wrote a new commandment un- i  
-to tlice b t that which we had Irom the lie- [  
-- ginning, that we love one another.&quot; Slip re- J  
-&#x27; tinned it, pointing to the second chapter of j  
-&#x27; liut.li, verse tenth—&#x27;&#x27;Then she fell on her  
-face, and bowed hersell to the gtoimd. and  
-1 said unto him, why have I lound grace i
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_kale_ver01%2Fdata%2Fsn83016179%2F00296026190%2F1863111901%2F0449.jp2/pct:54.959652,64.533447,13.488516,12.029647/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Mineral Point weekly tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086769/1863-11-25/ed-1/seq-3)
-
-#### 1863-11-25 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-How to Court in Church.—A young gen­  
-tleman happening to sit at Church in a pew­  
-adjoining one in which sat a voung lady for  
-whom he conceived a sudden and violent pas­  
-sion, was desirous of entering into a court­  
-ship on the spot; but the place not suiting a  
-foi mal declaration, the exigency of the case  
-suggested the following plan:—He politely  
-handed his fair neighbor a Bible opened with  
-a pin stuck in the following text;—Second  
-Epistle of John, verse fifth:—“And now I  
-beseech the lady, not as though I wrote anew  
-commandment unto thee, but which we had  
-from the begining, that we love one another.  
-She returned it, pointing to the secon
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn86086769%2F00271769787%2F1863112501%2F0252.jp2/pct:67.328881,53.820837,12.017697,6.805170/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1863-11-26/ed-1/seq-3)
-
-#### 1863-11-26 &middot; [Grand Rapids [i.e. Wisconsin Rapids], Wis.](http://dbpedia.org/resource/Wisconsin_Rapids%2C_Wisconsin)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-How to Court i.v Church.—A young gen­  
-tleman happening to sit at Church in a pew  
-adjoining one in which sat a young lady for  
-whom he conceived a sudden and violent pas­  
-sion, was desirous of entering into a court­  
-ship on the spot; but the place not suiting a  
-formal declaration, the exigency of the case  
-suggested the following plan:—He politely  
-handed his fair neighbor a Bible opened with  
-a pin stuck in the following text:—Second  
-Epistle of John, verse fifth :—“ And now I  
-beseech the lady, not as though I wrote anew  
-commandment unto thee, but which we had  
-from the begining, that we love one another. ”  
-She returned it, pointing to the second  
-chapter of Ruth, verse tenth—“ Then she fell  
-on her face and bowed herself to the ground,  
-and said unto him, “ Why have I found
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769428%2F1863112601%2F0310.jp2/pct:68.995805,54.060255,11.934102,8.060654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2547,178 +2422,32 @@ have I found grace in thine eyes, seeing
 
 ---
 
-## [From _Prescott journal._](https://chroniclingamerica.loc.gov/lccn/sn85033221/1863-12-05/ed-1/seq-4)
-
-#### 1863-12-05 &middot; [Prescott, Wis.](http://dbpedia.org/resource/Prescott%2C_Wisconsin)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-How to Court in Church.— A  
-young gentleman happening to sit at  
-Church in a pew adjoining one in which  
-sat a young lady for whom ho conceived a  
-sudden and violent passion, was desirous  
-of entering into a courtship on tho spot;  
-but tho place not suiting a formal declar­  
-ation, the exigency of the case suggested  
-the following plan:—He politely handed  
-his fair neighbor a Bible opened with a  
-pin stuck in the following text:—Second  
-Epistle of John, verso fifth:—“Aud now  
-I beseech thee lady, not as though I  
-wrote a new commandment unto thee,  
-but which we had from the bogiuuing,  
-that we lovo one another.”  
-She returned it, pointing to the secon
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_galky_ver01%2Fdata%2Fsn85033221%2F00514152354%2F1863120501%2F0098.jp2/pct:58.373158,14.913878,12.554759,9.674482/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031490/1863-12-24/ed-1/seq-3)
-
-#### 1863-12-24 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-rance. It bears the impression  
-of the head of Apollo, crowned with laurels  
-on one side, and on the other a person being  
-drawn in a car by two horses, and lu large  
-Greek characters, the word Philippon. It  
-is a coin of Philip n, King of Macedon,  
-father of Alexander the Great, who reigucu  
-from the year 559 to 556 B. C. Thus the  
-money is upwards 0f2,000 years old.  
-—■White porcelain reflectors have been  
-placed on the street lamps in Paris; an ex­  
-cellent plan, worthy of adoption in Chi­  
-cago, for by it the light which passes up­  
-wards and is lost in space would be then  
-thrown down npon the street.  
-  
-Religious Courtship,  
-  
-A young gentleman happening to sit at  
-church iu a pew adjoining one wluch a youmr  
-lady for whom he conceived a &#x27;sudden and  
-violent passion, was desirous of entering into  
-a courtship cn the spot: the exigency of the  
-case suggested the following plan: He po­  
-litely handed h!s fair neighbor u Bible open,  
-with a pin stuck in the following. test—2d  
-Epistle of John verse fifth:—“ And now Ibe­  
-scech thee, lady, not as though I wrote a new  
-commandment unto thee but that which we  
-had from the beginning, that we love one an*  
-.other.” She relumed it, pointing to the 2
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_edgewater_ver02%2Fdata%2Fsn84031490%2Fno_reel%2F1863122401%2F0003.jp2/pct:43.485139,81.784359,10.076702,10.355267/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## Religious Courtship
-
-#### From _The Wisconsin state register._
-
-#### 1864-01-02 &middot; [Portage, Columbia County, Wis.](http://dbpedia.org/resource/Portage%2C_Wisconsin)
-
-[This text is not available under an open license.]
-
----
-
-## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1864-01-20/ed-1/seq-4)
-
-#### 1864-01-20 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-into a courtship on the spot, the exi­  
-gency of the case suggested the fol­  
-lowing plan:  
-He politely handed his lair neigh­  
-bor a Bible open, with a pin stack iu  
-the following text. Second Epistle of  
-John, verse fifth: &quot;And now I be­  
-seech the, lady, not as though I wrote  
-a new commandment nnto thee, but  
-that which we had from the be­  
-gining, that we love one another.&quot; - .  
-She returned it, pointing to the sec­  
-ond chapter of Ruth, verse tenth  
-&quot;Then she (ell on her face and bjwej  
-nerselt to the grour.d end said uat
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286881%2F1864012001%2F0371.jp2/pct:5.430914,26.529108,10.722575,7.565709/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Louisville daily Democrat._](https://archive.org/details/xt7dbr8mgc04/page/n0/mode/1up?view=theater)
-
-#### 1864-02-09 &middot; [Louisville, Kentucky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-now to Court in Church.— A young gen-  
-tleman, happening to sit at church in a pew  
-adjoining one in which sat s young lady for  
-whom he conceived a sudden and violent pas-  
-ion, was desirous of entering into a court-  
-ship on the spot; but the place not suiting a  
-formal declaration, the exigency of the case  
-suggested the following plat : He politely  
-handed his fair neighbor a bible, opened, with  
-a pin st ick in the follow ng text— second  
-epistle ot John, verse fifth: &quot;And now I be-  
-seech thee, lady, not as though I wrote a new  
-commandment unto thee, but that we had  
-from the beginning, that we love one anoth-  
-r.&quot; She returned&#x27;it. poin ieg to the secoo
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/xt7dbr8mgc04&#0036;0/pct:83.582304,68.810102,12.295317,5.536668/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Cleveland morning leader._](https://chroniclingamerica.loc.gov/lccn/sn83035143/1864-03-05/ed-1/seq-3)
+## From _Cleveland morning leader._
 
 #### 1864-03-05 &middot; [Cleveland [Ohio]](http://dbpedia.org/resource/Cleveland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-tract:&quot;A young man happening to sit at  
+it young man happening to ait at  
 church in a pew adjoining one in which  
 sat a young lady for whom he conceived  
-a sadden and violent passion, was desirous  
-of entering into courtship on the. spot;  
+a sudden and violent passion, was desirous  
+of entering into courtship on the spot;  
 but the place not suiting a formal decla  
-ration, the exigency or the case saerested  
-the following plan : He politely handed  
+ration, the exigency of the case suggested  
+the following plan:-He politely handed  
 his fair neighbor a Bible open, with a pin  
 stuck in the following text, Second Epistle  
-of John, verse fifth : &#x27; And now I beseech  
+of John, verse fifth: &quot;And now I beseech  
 thee, lady, not as though I wrote a new  
-commandment onto thee, bnt. that which  
+commandment unto thee, but that which  
 we had from the beginning, that we love  
-one another.&#x27; &#x27; She returned it, pointing  
-to the second chapter of Rath, verse tenth :  
-&#x27; Then she fell on her face and bowed her  
-self to the ground, and said nnto him
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn83035143%2F00280775599%2F1864030501%2F0026.jp2/pct:15.093992,65.516224,10.965721,8.967552/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+one another.&quot; She returned it, pointing  
+to the second chapter of Ruth, verse tenth:  
+&quot;Then she fell on her face and bowed her  
+self to the ground, and said unto him
+</td></tr></table>
 
 ---
 
@@ -2757,6 +2486,47 @@ I would not- &quot;with paper&#x27; and in&#x27;*., but
 I trust to comu unto,you and speak .face  
 to&#x27; face.&quot; From the. above&#x27; interview  
 .the; marriage took place the ensuin
+</td></tr></table>
+
+---
+
+## From _The Tiffin weekly tribune._
+
+#### 1865-01-26 &middot; [Tiffin, Ohio](http://dbpedia.org/resource/Tiffin%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+CourTSHiP in CHUROH. A young gen-  
+tleman happening to sit at church in a  
+pew adjoining one in which was a young  
+lady, for whom he conceived a most sud  
+den and violent passion, felt desirous of  
+entering into a courtship on the spot, but  
+the place not suiting a formal declaration,  
+the exigency suggested the following  
+ely handed his fair neighbor  
+open, with a pin stuck in the fol-  
+in on test a apiste o onn ve  
+6th, &quot;And now I bescech thee, lady, not  
+ough I wrote a new commandment  
+unto thee, but that which we had from  
+the boginning, that we love one another.  
+She returned it with the following ad  
+apter of Ruth, 10th verse; &quot;Then she  
+fell on her face and bowed herself to the  
+ground, and said unto him, why have I  
+found grace in thine eyes, thou shouldst  
+take notice of me seeing I am a strang-  
+er! He returned the book, pointing to  
+the 1th verse of the 23 Epistle of John;  
+&quot;Having many things to write  
+aod not write with paper and ink  
+out  trust to come unto you an  
+to face.&quot; From the above interview  
+the marriage  
+weck.  
+took place the ensuing
 </td></tr></table>
 
 ---
@@ -2814,6 +2584,37 @@ She returned it, pointing to the secon
 
 ---
 
+## From _Spirit of the age._
+
+#### 1866-05-03 &middot; [Woodstock, Vt.](http://dbpedia.org/resource/Woodstock%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+handed her a Bible opened with a pin stuck in  
+the following tevt: Second Epistle of John  
+verse fifth: &quot;And now I beseech the lady, not  
+as though I wrote a new commandment unto  
+thee, but that which we had in the beginning  
+that we love one another.&quot; She returned it,  
+pointing to the Second Epistle of Ruth, verse  
+tenth: &quot;Then she fell on her face and bowed  
+  
+herself to the ground and said unto him: Why  
+have I found grace in thine eyes seeing I am  
+a stranger?&quot;&quot;  
+He returned the book, pointing to the thir­  
+teenth veise of the Third Epistle of J hn:  
+&quot;Having many things to write unto you I,  
+would not write with pen and ink, but I trust  
+shortly to come unto you and speak face to  
+fice that our joy may be full.&quot;  
+From the above interview, a marriage took  
+placo the easuing week.-Exchance
+</td></tr></table>
+
+---
+
 ## [From _The Bossier banner._](https://chroniclingamerica.loc.gov/lccn/sn85034235/1866-05-05/ed-1/seq-1)
 
 #### 1866-05-05 &middot; [Bellevue, Bossier Parish, La.](http://dbpedia.org/resource/Benton%2C_Louisiana)
@@ -2857,32 +2658,6 @@ place the ensuing week
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_meowth_ver01%2Fdata%2Fsn85034235%2F0029587398A%2F1866050501%2F0228.jp2/pct:62.832031,41.518817,13.593750,17.405914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## From _Vermont watchman and State journal._
-
-#### 1866-08-17 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-How ro Cowar is Cneacit.A young  
-gentleman happening to sit at church in a pew  
-adjoining one in which sat a young lady for  
-whom he conceived a sudden and violent pass  
-ion, was desirous of entering into a court.  
-hip on the spot; but the place not suiting  
-a formal declaration, the exigency of the case  
-suggested the following plan: He politely  
-l handed his far neigabr a Bible opened with  
-a pin stuck in the following text: Second  
- kpistle of John, verse fifth:&quot;And now I  
-beseech the, lady, not as though I wrote a  
- new commandment unto thee, but that which  
-Fwe had from the begiuning, th t we love one  
-other.&quot; She returned it, pointing to th
-</td></tr></table>
 
 ---
 
@@ -3059,53 +2834,6 @@ the ensuing week
 
 ---
 
-## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1868-09-04/ed-1/seq-1)
-
-#### 1868-09-04 &middot; [Bridgeton, N.J.](http://dbpedia.org/resource/Bridgeton%2C_New_Jersey)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-How to Court in Church.—A young  
-gentleman, happening to ait. at church in  
-a pew adjoining one in which sat a young  
-lady, for whom he conceived a sudden  
-and violent passion, was desirous of en­  
-tering into a courtship on the spot, but  
-the place not being suitable for a formal  
-declaration, the case suggested the fol­  
-lowing plan :  
-He politely handed his fair neighbor  
-a Rible opened, with a pin stuck in the  
-following text:  
-Second Epistle of John, verse 5 th —  
-“And now I beseech thee, not as though  
-I wrote a new commandment unto thee,  
-hut that, which we had from the begin­  
-ning, that we love one another.”  
-She returned it, pointing to the 2nd  
-chapter of Ruth, 10th verse:  
-“Then she fell on her face, and Lowed  
-herself to the grouod and said to him:  
-‘Why have I found grace in thine eyes,  
-seeing I am a stranger?’”  
-He returned the book, pointing to  
-the 13th verse of the Third Epistle of  
-John:  
-“Having many things to write unto  
-you, I would not write with pen and ink,  
-but I trust shortly to come unto you, and  
-speak face to face that our ioy may be  
-full ” J  
-Prom the above interview, a marriage  
-took place the ensuing week
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340639%2F1868090401%2F0347.jp2/pct:83.697211,16.092097,10.824701,16.369011/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _New York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85026214/1868-09-20/ed-1/seq-4)
 
 #### 1868-09-20 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
@@ -3113,13 +2841,6 @@ took place the ensuing week
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-ing rules for courting in church:  
-A young gentleman happening to eft at  
-church in a pew adjoining one in which sat a  
-young lady for whom he conceived a sudden  
-and violent passion, was desirous of entering  
-into a courtship on the spot, but the place not  
-being suitable for a formal declaration, the  
 case suggested the following plan : He politely  
 handed his fair neighbor a Bible opened with a  
 pin stuck in the following text—Second Epistla  
@@ -3141,7 +2862,7 @@ face, that our joy may be full.”
 From the above interview a marriage tool?  
 place the ensuing week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_collins_ver01%2Fdata%2Fsn85026214%2Fprint00211110168%2F1868092001%2F0004.jp2/pct:83.545942,10.917271,12.335922,9.816805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_collins_ver01%2Fdata%2Fsn85026214%2Fprint00211110168%2F1868092001%2F0004.jp2/pct:83.587539,13.532496,12.294324,7.201579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3154,12 +2875,6 @@ place the ensuing week
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-How to Court in Church.— A young gen­  
-tleman happening to sût at elmreh in a pew ad­  
-joining one in which a young lady for whom ho  
-conceived a -udden and violent passion, was  
-desirous of entering into a courtship on tho  
-spot, but the place not being suitable for a  
 1 irmal declaration the case suggested the fol­  
 lowing plan : He politely handed his fair  
 neighbor a Bible opened with a pin -tuck in  
@@ -3174,7 +2889,7 @@ her face, and bowed herself to the ground and
 said to him: Why have I found grace in thine  
 eyes, seeing 1 am a stranger?&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00332894936%2F1868092301%2F0194.jp2/pct:79.701855,53.235832,14.629919,9.152956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00332894936%2F1868092301%2F0194.jp2/pct:79.857861,56.148690,14.473912,6.240098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3187,13 +2902,6 @@ eyes, seeing 1 am a stranger?&#x27;
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-How to Court in Church.—A  
-young gentleman happening to sit at  
-church in a pew adjoining one in which  
-a young lady for whom he had conven­  
-ed a sudden and violent passion, was  
-desirous of entering into a courtship on  
-the spot, but the place not being suited  
 for a formal declaration the case suggested  
 the following plan : He politely hand­  
 ed his fair neighbor a Bible opened  
@@ -3219,7 +2927,7 @@ our joy n}ay be full.”
 From the above interview a marriage  
 took place the ensuing week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623690%2F1868111901%2F0212.jp2/pct:78.950745,53.391584,12.170566,17.379474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623690%2F1868111901%2F0212.jp2/pct:78.950745,57.304361,12.126147,13.466697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3232,6 +2940,95 @@ took place the ensuing week
 #### 1868-11-27 &middot; [Lowell, Mass.](http://dbpedia.org/resource/Lowell%2C_Massachusetts)
 
 [This text is not available under an open license.]
+
+---
+
+## From _Memphis daily appeal._
+
+#### 1868-12-06 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+ing ae een o oat ieee ao te cae a a er  
+use bat te a eee a ee e an e o ae  
+e as poe tat te ei o i ta an oria e i ear  
+tanes eoed desto te iei e o e o e i o tor te  
+  
+She returned it, pointing to the  
+  
+second chapter of Ruth, tenth verse  
+  
+&quot;Then she fell on her face, and bowed  
+  
+herself to the ground, and said to him,  
+&quot;Why have I found grace in thine eyes  
+seeing I am a stranger?&quot;&quot;  
+  
+He returned the book, pointing to the  
+thirteenth chapter of the Third Epistle  
+  
+of John:  
+  
+&quot;Having many things to write wit
+</td></tr></table>
+
+---
+
+## From _Indiana American._
+
+#### 1868-12-11 &middot; [Brookville, Ind.](http://dbpedia.org/resource/Brookville%2C_Indiana)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+a formal declaration, the case suggesting  
+the following plan: He politely handed  
+his fair neighbor a Bible opened, with a  
+pin stuck in the following text: Second  
+Epistle of John, verse 5-&quot;And now I  
+beseech thee, not as though I wrote a new  
+commandment unto thee, but that which  
+we had from the beginning, that we love  
+one another.&quot;  
+She returned it, pointing to the second  
+chapter of Ruth, tenth verse: &quot;Then she  
+fell on her face, and bowed herself to the  
+ground, and said to him: Why have I  
+found grace in thine eyes; secing I am 
+</td></tr></table>
+
+---
+
+## From _Sunbury American._
+
+#### 1868-12-12 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+the case suggesting the following plan. He  
+politely handed his fair neighbor a Bible  
+opened, with a pin stuck in the following  
+text: Second Epistle of John, verse5--&quot;And  
+now I beseech thee, not as though I wrote a  
+new commandment unto thee, but that  
+which we had from the beginning, that we  
+love one another.&quot;  
+She returned it, pointing to the second  
+chapter of Ruth, tenth verse. &quot;Then she  
+fell on her face, and bowed herself to the  
+ground, and said to him: Why have I found  
+grace in thine eyes, seeing I am a stranger?&quot;  
+He returned the book, pointing to the  
+thirteenth chapter of the Third Epistle of  
+John:--&quot;Having many things to write unto  
+you, I would not write with pen and ink,  
+but I trust shortly to come unto you and  
+speak face to face that our joy may be full.&quot;  
+From the above interview a marrlage took  
+place the ensuing week
+</td></tr></table>
 
 ---
 
@@ -3281,38 +3078,39 @@ place the ensuing week
 
 ---
 
-## [From _The Albany register._](https://chroniclingamerica.loc.gov/lccn/sn84022643/1869-01-16/ed-1/seq-1)
+## From _The Holt County sentinel._
 
-#### 1869-01-16 &middot; [Albany, Or.](http://dbpedia.org/resource/Albany%2C_Oregon)
+#### 1869-01-01 &middot; [Oregon, Missouri.](http://dbpedia.org/resource/Oregon%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-IIow to Court in Church. -A  
-young gentleman happening to sit at  
-church in a pew adjoining oue in which  
-sat a young lady ot whom he conceived a  
-suddeu and violent passion, was desirous  
-of entering into a courtship on the spot,  
-but the place not being suitable for an  
-informal declaration, the case suggested  
-the following plan. He politely handed  
-his fair neighbor a Bible opened, with a  
-pin stuck in the following text Second  
-Epistle of John, verse five &quot;and now I  
-beseech thee, not as though I wrote a  
-new commandment unto thee, but that  
-which we had from the beginning, that  
-we love one another.&quot; -  
-She returned it, pointing to the sec­  
-ond chapter of ; lluth, tenth verse :  
-&quot;Then she fell on her face, and bowed  
-herself to the ground and said to him :  
-&quot;Why have I found grace in thine eyes
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn84022643%2F00416152615%2F1869011601%2F0039.jp2/pct:22.457425,54.277013,13.178418,12.089513/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+case suggested the following plan: He  
+politely handed his fair neighbor a Bible  
+opened, with a pin stuck in the follow­  
+ing text: Second Epistle of John, verse  
+&quot;And now I beseech thee, not as  
+though I wrote a new commandment  
+unto thee, but that which we had from  
+the beginning, that we love one anoth  
+er.&quot;  
+She returned it, pointing to the second  
+chapter of Ruth, tenth verse: &quot;Then  
+she fell on her face, and bowed herself  
+to the ground, and said to him: Why  
+have I found grace in thine eyes, seeing  
+I am a stranger?&quot;  
+He returned the book, pointing to  
+the thirteenth chapter of the Third Epis-  
+tle of John: &quot;Having many things to  
+write unto you, I would not write with  
+pen and ink, but I trust shortly to come  
+unto you and speak face to face that onr  
+joy may be full.&quot;  
+o te lere totoutto o  
+From the above interview a marrlage  
+took place the ensuing week
+</td></tr></table>
 
 ---
 
@@ -3501,6 +3299,34 @@ took place. -..v
 
 ---
 
+## From _Ashtabula weekly telegraph._
+
+#### 1870-02-26 &middot; [Ashtabula, Ohio](http://dbpedia.org/resource/Ashtabula%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+thee, but that which we had from the begin­  
+ning, that we love one another.&quot;  
+She returned it pointing to the second chaps  
+ter of Ruth, tenth verse:  
+&quot;Then she fell on her face, and bowed her­  
+self to the ground, and said unto him: &quot;Why  
+have I found grace in thine eyes, seeing I am a  
+stranger?&quot;  
+He returned the book, pointing to the thir  
+teenth and fourteenth verses of the Third Epis:  
+tle of John:  
+&quot;I had many things to write, but I will not  
+with pen and ink write unto thee. But I trust  
+I shall shortly see thee, and we shall speak  
+face to face.&quot;  
+From the above interview a marriage took  
+place
+</td></tr></table>
+
+---
+
 ## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1870-03-02/ed-1/seq-4)
 
 #### 1870-03-02 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
@@ -3575,6 +3401,33 @@ took place
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_bombarda_ver01%2Fdata%2Fsn84026820%2F00271765265%2F1870040901%2F0495.jp2/pct:70.138889,54.670699,12.023810,14.835349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The Lincoln County herald._
+
+#### 1870-05-05 &middot; [Troy, Lincoln County, Mo.](http://dbpedia.org/resource/Troy%2C_Missouri)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+She returned it, pointing to the sesond  
+chapter of Huth, testh verse:  
+&quot;Then she fell on her face, and bowed  
+hersef to the ground, and said unto him:  
+Why have I fouod grace in thine eyes.  
+that thou shoulds&#x27;t take knowledge of  
+me seeing I sis a stranger?&quot;&quot;  
+He returned the book, poistlag to the  
+thirteenth and fourteenth verses of the  
+Third Epistle of John:  
+&quot;I had many things to write, but I  
+will not with pen and ink write unto  
+thee. But I trust I shall shortly see  
+thee, and we shall speak face to face.&quot;  
+From the above interview a marriage  
+took place
+</td></tr></table>
 
 ---
 
@@ -4143,36 +3996,34 @@ week
 
 ---
 
-## [From _The interior journal._](https://chroniclingamerica.loc.gov/lccn/sn84038328/1872-04-19/ed-1/seq-1)
+## From _The interior journal._
 
 #### 1872-04-19 &middot; [Stanford, Ky.](http://dbpedia.org/resource/Stanford%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-How to Court ta Church.  
-A young gentleman happening to sit  
-at church in a pew adjoining am in which  
-aat a young lady for whom he eoncieved  
-a sudden and violent passion, was desir­  
-ous of entering into a courtship on the  
-spot, but the place not being suitebl for  
-an informal declaration, the case (uggest-  
-th following text Second Epistle of  
-John, vetsa 5 &quot;And now I beseech thee  
-not a though I wrote a new eomand­  
-roent unto thee, but that which we bad  
-from th begining, that we love on an­  
-other.&quot; .  
+the following text- Second Epistle of  
+John, verse 5--&quot;And now I beseech thee  
+not as though I wrote a new comand­  
+ment unto thee, but that which we had  
+from the begining, that we love one an­  
+other.&quot;  
 She returned it pointing to the second  
-chapter of Ruth tenth verse ; &quot;Thea she  
+chapter of Ruth tenth verse; &quot;Then she  
 fell on her face, and bowed her self to the  
-ground aud said to him; Why have I  
-found grace in thin ere, teeing I am 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_albatross_ver01%2Fdata%2Fsn84038328%2F00280763391%2F1872041901%2F0047.jp2/pct:72.054528,70.094743,10.710808,11.139976/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+ground and said to him; &quot;Why have I  
+found grace in thine eyes, seeing I am a  
+stranger.  
+He returned the book, pointing to the  
+thirteenth verse of the third Epistle of  
+John; &quot;Having many things to write  
+unto you, I would not write with pen and  
+ink, but I trust shortly to come unto you  
+face to face that our joy may be full.&quot;  
+From the abovt interview a marriag  
+took place the ensuing week
+</td></tr></table>
 
 ---
 
@@ -4213,27 +4064,37 @@ knowledge of me. seeing that I am
 
 ---
 
-## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1872-10-23/ed-1/seq-4)
+## From _The Somerset herald._
 
 #### 1872-10-23 &middot; [Somerset, Pa.](http://dbpedia.org/resource/Somerset%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+exigency suggested the following:  
+He politely handed his neighbor a bi  
+ble, open, with a pin stuck in the fol  
+lowing verse: Second Epistle of  
+John, verse 7th--&quot;And now I beseech  
+thee lady, not as though I write a new  
+commandment unto you, but that  
+which we had from beginning, that  
+we love one another.&quot; She returned  
+it with the following: Second ehap­  
+ter of Ruth, 10th verse: &quot;Then she  
+fell on her face, and bowed herself to  
+the ground, and said unto him why  
 have I grace in thine eyes, that thou  
-tdiouldst take notice of me, seeing  
+shouldst take notice of me, seeing  
 that I am a stranger?&quot; He returned  
 the book pointing to the twelfth verse  
-of the Third Epistle of John having  
+of the Third Epistle of John,-having  
 many things to write with paper and  
 ink, but I trust to come unto you, and  
 speak face to face.&quot; From the above  
 interview the marriage took place the  
 following week
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776464%2F1872102301%2F0086.jp2/pct:47.001670,73.510759,10.156369,4.813137/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -4433,43 +4294,36 @@ ed the third Epistle of Johe--&quot; Havin
 
 ---
 
-## [From _The Saline County journal._](https://chroniclingamerica.loc.gov/lccn/sn84027670/1879-09-25/ed-1/seq-4)
+## From _The Saline County journal._
 
 #### 1879-09-25 &middot; [Salina, Kan.](http://dbpedia.org/resource/Salina%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-A young gentleman happening to sit at  
-church In a pew adjoining one which a  
-young lady occupied for whom he conceiv­  
-ed a sudden and violent passion, was de­  
-sirous of entering Into a courtship on the  
-spot; and tbe exigency ot tbe cace sug­  
+spot; and the exigency of the case sug­  
 gested the following plan: He politely  
-banded b fair neighbor a Bible open with  
-a pin stuck In the following text second  
-epistle ot John, verse fifth: &quot;And now I  
-beseech thee, lady, cot as though I wrote  
+handed his fair neighbor a Bible open with  
+a pin stuck in the following text--second  
+epistle of John, verse fifth: And now I  
+beseech thee, lady, not as though I wrote  
 a new commandment unto thee, but that  
-which we bad from tbe beginning, that we  
-love one another.&quot; She returned it point­  
+which we had from the beginning, that we  
+love one another. She returned it point­  
 ing to the second chapter of Ruth, verse  
-tenth: &quot;Then she fell on ber face and  
-bowed herself to the ground and said unto  
-blm, why have I found grace In thine eyes,  
-seeing that I am a atracgexT H return­  
-ed the tank pointing to the thirtieth  
-verse of tbe third epUile of John: &quot;Hiv­  
-ing many thing to write, unto you, I  
-would not write with paper and Ink. but I  
+tenth: &quot;Then she fell on her face and  
+bowed herself to the ground and sald unto  
+him, why have I found grace in thine eyes,  
+seeing that I am a stranger?&quot; He return­  
+ed the book pointing to the thirteenth  
+verse of the third epistle of John: &quot;Hav.­  
+ing many things to write unto you, I  
+would not write with paper and ink, but I  
 trust to come unto you and speak face to  
-face.&quot; From tbe above interVidw a mar­  
-riage took place
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_funston_ver01%2Fdata%2Fsn84027670%2F00237283387%2F1879092501%2F0450.jp2/pct:44.191965,77.477108,11.616070,11.316113/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+face.&quot; From the above interview a mar.­  
+rlage took place.  
+e e o
+</td></tr></table>
 
 ---
 
@@ -4531,6 +4385,113 @@ things to write, but I will not with ink and pen write unt
 
 ---
 
+## From _Vermont watchman and State journal._
+
+#### 1879-10-08 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+A Scriptural Courtship.  
+A young gentleman happening to sit at  
+church in a pew adjoining one which a  
+young lady occupied for whom he conceived  
+a sudden passion, was desirous of entering  
+into a courtship on the spoe The emer  
+gency of the case suggested the following  
+plan. He politely handed his fair neighbor  
+a bible open wit a pin stuon to the folow­  
+ing text--second Epistle of John, verse fifth  
+&quot;And now I beseech thee, lady, not as  
+though I wrote a new commandment unto  
+thee, but that whien wo nad ia the besi­  
+ning, that we love one another.&quot; She re­  
+turned it pointing to the second chapter of  
+Ruth, verse tenth. Ihen ane fen on ner  
+face and bowed herself to the ground and  
+said unto him, why have I found grace in  
+thine eyes, seeing that I am a stranger?&quot;  
+He returned the book, pointing to the thir­  
+teenth verse of the third Epistle of John  
+&quot;Having many things to write unto you, I  
+would not write with paper and ink, but I  
+trust to come unto you and speak face to  
+face.&quot; From this interview a marriage  
+took place
+</td></tr></table>
+
+---
+
+## From _Spirit of the age._
+
+#### 1879-10-22 &middot; [Woodstock, Vt.](http://dbpedia.org/resource/Woodstock%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+into courtship on the spot; and the  
+exigency of the case suggested the  
+following plan: He politely handed  
+his fair neighbor a Bible open with a  
+pin stuck in the following text-second  
+Epistle of John verse fifth--&quot;And now  
+I beseech thee, lady not as though I  
+wrote a new commandent unto thee,  
+but that which we had in the begin­  
+ning, that we love one another.&quot; She  
+returned it pointing to the second  
+chapter of Ruth verse tenth--&quot;Then  
+she fell on her face and bowed herself  
+to the ground and said unto him, why  
+why have I found grace in thine eyes  
+seeing that I am a stranger?&quot; He re  
+turned the book pointing to the thir-  
+teenth verse of John- &quot;Having many  
+things to write you, I would not wirte  
+with paper and ink, but I trust to  
+come unto you and speak face to  
+face.&quot; From the above interview a  
+marriage took place
+</td></tr></table>
+
+---
+
+## From _The interior journal._
+
+#### 1879-10-24 &middot; [Stanford, Ky.](http://dbpedia.org/resource/Stanford%2C_Kentucky)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+into a courtship on the spot; and the  
+exigency of the case suggested the  
+following plan: He politely handed  
+his fair neighbor a Bible open with a  
+pin stuck in the following text--sec­  
+ond epistle of John, verse fifth: &quot;And  
+now I beseech thee, lady, not as tho&#x27;  
+I wrote a new commandment unto  
+thee, but that which we had from the  
+  
+beginning, that we love one another.&quot;  
+She returned it pointing to the second  
+chapter of Ruth, verse tenth: &quot;Then  
+she fell on her face and bowed herself  
+to the ground and said unto him, why  
+have I found grace in thine eyes, see  
+ing that I am a stranger?&quot; He re­  
+turned the book pointing to the thir  
+teenth verse of the third epistle to  
+John: &quot;Having many things to write  
+unto you, I would not write with pa­  
+per and ink, but I trust to come unto  
+you and speak face to face.&quot; From  
+the above interview a marriage took  
+place.-New York World
+</td></tr></table>
+
+---
+
 ## [From _The Columbian._](https://chroniclingamerica.loc.gov/lccn/sn83032011/1879-10-24/ed-1/seq-1)
 
 #### 1879-10-24 &middot; [Bloomsburg, Pa.](http://dbpedia.org/resource/Bloomsburg%2C_Pennsylvania)
@@ -4538,10 +4499,6 @@ things to write, but I will not with ink and pen write unt
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-A young gentlemau, happening to sit at  
-church in a. pew adjoining, one which a  
-youug lady occupied far whom he conceived  
-a sudden and .violent passion, was desirous  
 of entering into a courtship on the spot, and  
 the exigeucy of the case suggested tbe fol  
 lowing plan : He politely handed bis fair  
@@ -4564,7 +4521,7 @@ trust to come unto you and speak face to
 face. .From the above interview a mar­  
 riage took place
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn83032011%2F00237288002%2F1879102401%2F0624.jp2/pct:72.448598,39.221432,11.252336,12.529650/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn83032011%2F00237288002%2F1879102401%2F0624.jp2/pct:72.448598,41.230640,11.252336,10.520441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4871,41 +4828,23 @@ the following week.
 
 ---
 
-## [From _The Daily bulletin._](https://chroniclingamerica.loc.gov/lccn/sn82016412/1882-11-21/ed-1/seq-4)
+## From _Bristol news._
 
-#### 1882-11-21 &middot; [Honolulu [Hawaii]](http://dbpedia.org/resource/Honolulu)
+#### 1882-04-18 &middot; [Bristol, Va. & Tenn.](http://dbpedia.org/resource/Bristol%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-politely handed his neighbor a bible  
-open, with a pin stuck in the follow­  
-ing text second epistle of John,  
-verse 5: &quot;And 1 beseech thee,  
-lady, not as though I wrote a new  
-commandment unto thee, hut that  
-wc had from the beginning, that we  
-love one another.&quot; She returned it,  
-pointing to the second chapter of  
-Ruth, verse 10: &quot; Then she fell on  
-her face, and bowed herself to the  
-ground, nnd said unto him: &quot;Why  
-have I found grace in thine eyes,  
-that thou shouldest take knowledge  
-of me, seeing I am a stranger.&quot; He  
-returned the book, pointing to the  
-13th verse of the third epistle of  
-John: &quot; Having many things to  
-write unto you, I would not write to  
-you with paper and ink, nut l trust  
-to come unto you and speak face to  
-face, that our joy may bo full.&quot;  
-From the above interview a marriage  
-took place the ensuing month in th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_gold_ver01%2Fdata%2Fsn82016412%2F00294552078%2F1882112101%2F0741.jp2/pct:7.568519,54.673603,16.117677,16.261118/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+shouldst take notice of me, seeing I am  
+but a stranger?&quot; He returned the book  
+pointing to the 3rd epistle of Joln, 12  
+verse: &quot;Having many things to write  
+unto you, I would not with paper and  
+ink, but I trust to come unto you and  
+speak face to face.&quot; From the above  
+interview the marriage took place the  
+ensuing week
+</td></tr></table>
 
 ---
 
@@ -4949,44 +4888,6 @@ the above interview a marriage took place
 the ensuing week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/iiif/sim_american-magazine_1886-02_3_5&#0036;38/pct:48.162939,22.318436,34.704473,39.581006/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Savannah morning news._](https://chroniclingamerica.loc.gov/lccn/sn82015137/1886-06-10/ed-1/seq-5)
-
-#### 1886-06-10 &middot; [Savannah](http://dbpedia.org/resource/Savannah%2C_Georgia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-A young gentleman happened to sit at  
-church ia a pew adjoining the one in  
-which sat a young lady lor whom he con­  
-ceived a sudden and violeut passion. He  
-was desirous of entering into a courtship  
-on the spot,but the place not suiting a for­  
-mal declaration, the exigency of the case  
-suggested the following plan: He  
-politely banded his fair neighbor a  
-Bible (open) with a pin stuck in the fol­  
-lowing text: Becond Epistle of John,  
-verse fifth—“And now 1 beseech thee,  
-lady, not as though I wrote anew com­  
-mandment unto thee but that which we  
-had from the beginning, that we love one  
-another.” She returned it, pointing to  
-the second chapter of Ruth, verse tenth  
-—“Then she fell on her face, and bo wed  
-herself to the ground, and said unto him:  
-Why have 1 lound grace in thine eyes,  
-that thou shouldst take knowledge ot me,  
-seeing that I am a stranger!*’ He re­  
-turned thd book, pointing to the&#x27;thirteenth  
-verse oi(j,be Third Eyields of
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_ace_ver02%2Fdata%2Fsn82015137%2F00414181922%2F1886061001%2F1042.jp2/pct:42.320614,50.138680,12.359011,10.566999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5046,55 +4947,6 @@ age took place the ensuing week
 
 ---
 
-## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1886-07-21/ed-1/seq-4)
-
-#### 1886-07-21 &middot; [Lansing, Minn.](http://dbpedia.org/resource/Austin%2C_Minnesota)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-Courtship in Church.  
-  
-A young gentleman happening to sit  
-at church in a pew adjoining one in  
-which sat a young lady, for whom he  
-conceived a sudden and violent pas­  
-sion, was desirous of entering into a  
-courtship on the spot but the place  
-not suiting a formal declaration, the  
-exigency of the case suggested the fol­  
-lowing plan He politely handed his  
-fair neighbor a bible (open) with a pin  
-stuck in the following text: Second  
-Epistle of John, verse hfth—&quot;And now  
-1 beseech of thee* lady, not as though  
-I wrote a new commandment unto  
-thee but that which we had from the  
-beginning, that we love one another.&quot;  
-She returned it pointing to the second  
-chapter of Ruth, verse tenth—&quot;Then  
-she fell on her face, and bowed her­  
-self to the ground, and said unto him,  
-•why have I found grace in thine eyes,  
-that thou shouldst take knowledge of  
-me, seeing that I am a stranger?&#x27;&quot;  
-He returned the book, pointing to tbe  
-thirteenth verse of the Third Epistle  
-of John—&quot;Having many things to  
-write unto you, I would not write with  
-paper and ink, but I trust to come unto  
-you, and speak face to face, that our  
-joy may be full.&quot; From the above  
-interview a marriage took place the  
-ensuing week.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479792%2F1886072101%2F0341.jp2/pct:63.507090,69.405739,10.802393,15.212827/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Bill Barlow's budget._](https://chroniclingamerica.loc.gov/lccn/sn92067125/1886-12-29/ed-1/seq-3)
 
 #### 1886-12-29 &middot; [Douglas, Converse County, Wyo.](http://dbpedia.org/resource/Douglas%2C_Wyoming)
@@ -5141,100 +4993,6 @@ marriage took place the ensuing week
 
 ---
 
-## [From _St. Paul daily globe._](https://chroniclingamerica.loc.gov/lccn/sn90059522/1887-07-04/ed-1/seq-9)
-
-#### 1887-07-04 &middot; [Saint Paul, Minn.](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-An exchange relates that a young gen­  
-tleman happening to sit at .church in a  
-pew adjoining one in which sal a young  
-lady for whom he conceived a sudden  
-and violont passion, was desirous of en­  
-t&quot;iing into a courtship on the spot, but  
-the place not suiting a formal declara­  
-tion the exigency of the case suggested  
-the following plan: lie politely handed  
-his fair neighbor a Bible (open) with a  
-in stuck in the following text, Second  
-Epistle ol St John, verse 5: &quot;And now  
-I beseech thee, lady, not as though 1 !  
-wrote a new commandment unto thee, i  
-but that which we hail from the begin- i  
-Ding, that we. love one another.&quot; She  
-returned it pointing to Until,&#x27; ii, 10:  
-»*Theu the foil on her face, and bowed j  
-  
-herself to the ground and said unto him:  
-■Why have 1 found grace in thine eyes,  
-that thou shouldst take knowledge of  
-me, seeing lam a stranger?&#x27;&quot; He re­  
-turned the book, pointing to the thir­  
-teenth verse of the Third Epistle of St.  
-John: &quot;I had many things to write. I  
-wiil not with pen and ink write unto  
-thee, but 1 trust I shall shortly see thee,  
-and we snail speak face to face.&quot;. From  
-the above interview a marriage took  
-place the ensuing week.  
-m
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_sebeka_ver01%2Fdata%2Fsn90059522%2F00175033269%2F1887070401%2F0070.jp2/pct:2.086749,3.370112,23.356685,95.335135/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1887-07-13/ed-1/seq-7)
-
-#### 1887-07-13 &middot; [Lansing, Minn.](http://dbpedia.org/resource/Austin%2C_Minnesota)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-An exchange relates that a &#x27;young  
-gentleman happening to sit at church  
-in a pew adjoining one in which sat a  
-young lady, for whom he conceived a  
-sudden and violent passion, was desir­  
-ous of entering into a courtship on the  
-spot, but the place not suiting a forma)  
-declaration, the exigency of the case  
-suggested the following plan: He  
-politely handed his fair neighbor a Bible  
-(open) with a pin stuck in the follow­  
-ing text, Second Epistle of St. John,  
-verse 5: &quot;And new I beseech thee, la&#x27;dy,  
-not as though I&#x27; wrote a hew command­  
-ment unto thee, but that which we had  
-from the beginning, that we love one  
-another.&quot; She* returned it, pointing  
-to the second chapter of Ruth, verse  
-20: &quot;Then she fell on her face, and  
-bowed herself to the ground, and said  
-  
-unto him: &#x27;Why have I found grace  
-  
-in  
-  
-thine eyes, that thou shouldst take  
-  
-knowled of seeing am a  
-  
-straD  
-  
-gerp»  
-  
-He
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479809%2F1887071301%2F0248.jp2/pct:17.165185,33.864167,14.163298,14.276033/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1887-07-13/ed-1/seq-3)
 
 #### 1887-07-13 &middot; [Watertown, Wis.](http://dbpedia.org/resource/Watertown%2C_Wisconsin)
@@ -5242,19 +5000,6 @@ He
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-An exchange relates that a young  
-gentleman happening to sit at church  
-in a pew adjoining one in which sat a  
-young lady, for whom he conceived a  
-sudden and violent passion, was de­  
-sirous of entering into a courtship on  
-the spot, but the place not suiting a  
-formal declaration the exigency of the  
-case suggested the following plan: He  
-politely handed his fair neighbor a  
-Bible (open) with a pin stuck in the  
-following text, Second Epistle of St.  
-John, verse 5: “And now I beseech  
 thee, lady, not as though I wrote a  
 new commandment into thee, but  
 that which we had from the beginning,  
@@ -5282,52 +5027,6 @@ the ensuing week
 
 ---
 
-## [From _Hand County press._](https://chroniclingamerica.loc.gov/lccn/sn98062948/1887-07-14/ed-1/seq-3)
-
-#### 1887-07-14 &middot; [Miller, Dakota [S.D.]](http://dbpedia.org/resource/Miller%2C_South_Dakota)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-An exchange relates that a young  
-gentleman happening to ait at church  
-in a pew adjoining one in which sat a  
-young lady, for whom he conceived a  
-audden and violent passion, was desir­  
-ous of entering into • courtship on the  
-spot, but the place not suiting a forma  
-declaration the exigency of the case  
-suggested the following plan: He  
-politely handed his fair neighbor a Bible  
-(open) with a pin stuck in the follow­  
-ing text. Second Kpistle of St. John,  
-verse 5: “And now I beseech thee, lady,  
-not as though 1 wrote a new command­  
-ment unto thee, but that which we had  
-from the beginning, that we love one  
-another.&quot; She returned it, pointing  
-to the second chapter of Ruth, Terse  
-&quot;0: “Then «bc fell on her face, and  
-bowed herself u» the ground, and said  
-unto bitu: ‘Why have I found grace  
-in thine eyes, that thou shouldsl take  
-knowledge of me, seeing I am a  
-stranger?’&quot; He returned the book,  
-|&gt;oinling to the thirteenth verse of the  
-Third Epistle of John: “1 had many  
-things to write. I will not with ]&gt;en  
-and ink write unto thee, but 1 trust I  
-shall shortly see t hee, and we shall speak  
-face to face.” From the above inter­  
-view a marriage took place the ensuing  
-week.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_imbe_ver01%2Fdata%2Fsn98062948%2F00340581064%2F1887071401%2F1397.jp2/pct:69.637176,7.091931,10.702924,15.540227/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Griggs courier._](https://chroniclingamerica.loc.gov/lccn/sn88076998/1887-07-15/ed-1/seq-8)
 
 #### 1887-07-15 &middot; [Cooperstown, Griggs Co., Dak. [N.D.]](http://dbpedia.org/resource/Cooperstown%2C_North_Dakota)
@@ -5335,23 +5034,6 @@ week.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-  
-exchange relates that a young  
-gentleman happening to sit at church  
-in a pew adjoining one in which sat a  
-young lady, for whom he conceived a  
-sudden and violent passion, was desir­  
-ous of entering into a courtship on the  
-spot, but the place not suiting a forma  
-declaration the exigency of the case  
-suggested the following plan: He  
-politely handed his fair neighbor a Bible  
-(open) with a pin stuck in the follow­  
-ing text, Second Epistle of St. John,  
-ver«?e 5: &quot;And now I beseech thee, lady,  
-not as though I wrote a new command­  
-ment unto thee, but that which we had  
-from the beginning, that we love one  
 another.&quot; She returned it, pointing  
 to the second chapter of Ruth, verse  
 20: &quot;Then she fell on her face, and  
@@ -5369,52 +5051,35 @@ face to face.&quot; From the above inter­
 view a marriage took place the ensuing  
 week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_dysprosium_ver01%2Fdata%2Fsn88076998%2F00199918138%2F1887071501%2F0298.jp2/pct:59.964360,5.024119,16.067716,20.779168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_dysprosium_ver01%2Fdata%2Fsn88076998%2F00199918138%2F1887071501%2F0298.jp2/pct:59.964360,15.857248,15.919216,9.946039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Eureka daily sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84022044/1887-07-15/ed-1/seq-3)
+## From _Seattle daily post-intelligencer._
 
-#### 1887-07-15 &middot; [Eureka, Nev.](http://dbpedia.org/resource/Eureka%2C_Nevada)
+#### 1887-07-17 &middot; [Seattle, W.T. [Wash.]](http://dbpedia.org/resource/Seattle)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-that a young gentleman happening to sit  
-at ohuroh in a pew adjoining one in wbioh  
-sal a young lady, for whom be conceived a  
-sudden and violent paeaion, was dealrona  
-of entering Into a onurtahip on the spot,  
-but tbe plaoe not suiting a formal declara­  
-tion the exigency of the case snggested  
-tbe following plan: He politely bauded  
-bis fair neighbor a Bible (open) with a  
-pin stuck in the following text. Second  
-Epistle of St. John, verse 5: &quot; And  
-now I beseech thee, lady, not as  
-though I wrote a new commandment  
-unto thee, but that which we had  
-from tbe beginning, that we love one an­  
-other.” She returned it, pointing to the  
-second chapter of Bntb, verse 10: “ Then  
-she fell on her face, and bowed herself to  
-the ground, and said nnto him: &#x27; Why  
-have I found grace in thine eyes, that thon  
-sbonld’st take knowledge of me, seeing I  
-am a stranger ? ’” He returned the book,  
+it, pointing to the second chapter of  
+Ruth, verse 10: &quot;Then she fell on her  
+face and bowed herself to the ground  
+and said unto him: &quot;Why have I found  
+grace in thine eyes, that thou shouldst  
+take knowledge of me, seeing I am a  
+stranger?&quot;&quot; He returned the book,  
 pointing to the thirteenth verse of the  
-Third Epistle of John: “I had many  
-things to write. I will not with pen and  
-ink write unto thee, but I will trust I  
-shall shortly see thee, and we shall speak  
-face to face.” From the above interview  
-a marriage took plaoe the ensuing week.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_sparks_ver01%2Fdata%2Fsn84022044%2F00279554127%2F1887071501%2F0661.jp2/pct:48.181031,6.097914,14.990256,15.023899/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Third Epistle of John: &quot;I had many  
+things to write. I will not with pen  
+and ink write unto thee, but I trust I  
+shall shortly see thee, and we shall  
+speak face to face.&quot; From the above  
+interview a marriage took place the  
+ensuing week,
+</td></tr></table>
 
 ---
 
@@ -5505,53 +5170,6 @@ the above interview a marriage took
 place the ensuing week.—Baltimorean.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_neon_ver01%2Fdata%2Fsn89064525%2F0021247924A%2F1887072201%2F0044.jp2/pct:69.713118,67.042670,11.657341,15.550408/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _New Ulm weekly review._](https://chroniclingamerica.loc.gov/lccn/sn89064939/1887-07-27/ed-1/seq-7)
-
-#### 1887-07-27 &middot; [New Ulm, Minn.](http://dbpedia.org/resource/New_Ulm%2C_Minnesota)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-An exchanae relates that a yorong  
-gentleman happening to sit at chureh  
-in a pew adjoining one in which sat a  
-young lady, for whom he conceived a  
-sudden and violent passion, was desir­  
-ous of entering into a eomrtship on the  
-spot but the place not suiting a form­  
-.al declaration, the exigency of the ease  
-suggested the following plan: He po­  
-litely handed his fair neighbor a hifele  
-i(openi) with a pin stack in the follow­  
-ing itext, second epistle of St John,  
-werse liffih: -&quot;And now I beseech thee.  
-ladA, not as though I wrote a view  
-commandment unto thee, but that  
-which we had from the beginning, that  
-we kxve .one another.&quot; She returned  
-it pointing to the second ehapter of  
-Riath, werse tenth: &quot;Then she fell on  
-her face, and bowed herself to  
-thefastener  
-ground. And said unto Mat: *Why  
-have I found graee in thine eyes, that  
-thou shokidst take knowledge&quot; of me.  
-seeing I am a stanger He returned  
-the book, ipointingto the fifteenth verse  
-of the third .epistle of John: hadplied.  
-many things io write I will net with  
-pen an wak write onto thee, but I  
-trust I shall shortly see thee, and  
-we shall speak face tto face.&quot; From  
-the above interview a marriage fiook  
-place the ensuing week.Baltimorea
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quiring_ver01%2Fdata%2Fsn89064939%2F00206537978%2F1887072701%2F0241.jp2/pct:34.122555,70.344122,18.332488,18.178597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5649,48 +5267,6 @@ cook place the ensuing week.
 
 ---
 
-## [MISCELLANEOUS.](http://trove.nla.gov.au/ndp/del/article/97333560)
-
-#### From _Northern Argus (Clare, SA : 1869 - 1954)_
-
-#### 1887-10-21 &middot; [Clare, South Australia](http://dbpedia.org/resource/Clare%2C_South_Australia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-justice will be instituted. A young  
-gentleman happening to sit at church in  
-a pew adjoining one in which sat a young  
-lady, for whom he conceived a sudden and  
-violent passion, was desirous of  
-entering into a courtship on the spot,  
-but the place not suiting a formal  
-declaration, the exigency of the case  
-suggested the following plan : He  
-politely handed his fair neighbor a  
-bible (open) with a pin stuck in the  
-following text, second epistle of St.  
-John, verse 5 — &#x27; And now I beseech-  
-thee, lady, not as though I wrote a new  
-commandment unto thee, but that which we  
-had from the beginning, that we love one  
-another.&#x27; She returned it, pointing to  
-the second chapter of Ruth, verse 10—&#x27;  
-Then she fell on her face, and bowed  
-herself to the ground, and said unto him  
-— * Why have I found grace in thine  
-eyes, that thou shouid&#x27;st take knowledge  
-of me, seeing I am a stranger ?&#x27; &#x27; He  
-returned the book, pointing to the 1 3th  
-verse of the third epistle of John — &#x27; I  
-had many things to write. I will not  
-with pen and ink write unto thee, and we  
-shall speak face to face.&#x27; From the  
-above interview a marriage took plac
-</td></tr></table>
-
----
-
 ## [Courtship in Church.](http://trove.nla.gov.au/ndp/del/article/100894218)
 
 #### From _Nepean Times (Penrith, NSW : 1882 - 1962)_
@@ -5699,23 +5275,7 @@ above interview a marriage took plac
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-Courtship in Church. A young gentleman  
-happening to sit nt church in a pew  
-adjoining one in which sat a young lady  
-for whom he conceived a sudden and  
-violent passion was desirotiB of  
-entering into a courtship on the spot,  
-but the pkee not suiting a formal  
-aeclartion, the exigency of the case  
-suggested the following plan : He  
-politely handed his fair neighbour a  
-Bible (open) with a pin stuck in th  
-following text. Second Epistle of St,  
-John, verse &lt;5—&quot; And now I beseech the,  
-lady, not as though I wrote a new  
-commandment unto thee, but that which we  
-had from the beginning, that we love one  
-another. &quot; She returned it, pointing to  
+  
 the second chapter of lluth, verse 10—•&#x27;  
 Then she fell on her face, and bowed  
 herself to the ground, and said unto  
@@ -5729,7 +5289,7 @@ with pen and ink write unto thee, but I
 trust I shall shortly see thee, and we  
 shall speak face to face.&quot; From the  
 above interview, a marriage took place  
-the following week,
+the following week
 </td></tr></table>
 
 ---
@@ -5758,50 +5318,6 @@ see thee, and we shall speak fice to
 face.&quot; From the above interview, a  
 mtirriage took place theo following  
 wOek
-</td></tr></table>
-
----
-
-## [Current Notes.](http://trove.nla.gov.au/ndp/del/article/65743919)
-
-#### From _The Capricornian (Rockhampton, Qld. : 1875 - 1929)_
-
-#### 1887-12-24 &middot; [Rockhampton, Queensland](http://dbpedia.org/resource/Rockhampton)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-tog little story. &#x27; A young gentleman  
-happening to sit at church in a pew  
-adiuining one in wnicu sat a young lady,  
-tor whom he conceived a sudden and  
-violent passion, was desirous of  
-entering into a courtship on tbe spot  
-hut the place not suiting a formal  
-declaration, the exigency of the case  
-suggested the following plau : He  
-politely banded his fair neighbour a  
-Bible (open) with a pin stuck in the  
-following text. Second Epistle of St.  
-John, verse 5— -And now 1 beseech thee,  
-lady, not as though I wrote a new  
-commandment unto thee, but that which we  
-had from the begiuning, that we love one  
-another.&#x27; She returnfd it, pointing to  
-the second chapter of Ruth, verse 10—  
-&#x27;Then she fell on her face, and bowsd  
-herself to the ground, and said unto  
-him, why have I found grace in thine  
-yes, that thou shonldst take knowledge  
-of me, seeing I am a stranger!&#x27; He  
-returned tlis book, niintinp; to the  
-13th veree of tbe Thinl Epistle of Jo!m  
---I bad miuy things to write. I will not  
-with p-.u auJ ink write uuto thee, but 1  
-t,uat I shall shartly see thee, and we  
-shall speak face to face.&#x27; From the  
-above interview a marriage took place  
-thf ensiling week.&#x27; The lesson of th
 </td></tr></table>
 
 ---
@@ -5845,23 +5361,7 @@ ensuing week. — D. D. Gazette. Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-A Courtship in Churoh. A young gentleman  
-happening to sit at church in a pew  
-adjoining one in which sat a young lady,  
-for whom he conceived a sudden and  
-violent passion, was desirous of  
-entering into a courtship on the spot,  
-but the place not suiting a formal  
-declaration, the exigency of the case  
-suggested the following plan :He  
-politely handed his fair neighbour a  
-Bible (open) with a pin stuck in the  
-following text :-Second Epistle of St.  
-John, verse 5 : &quot;And now I beseech thee,  
-lady, not as though I wrote a new  
-commandment unto:thee, but that which we  
-had from the begining, that we love one  
-another.&quot; She returned it, pointing to  
+  
 the second chapter of Ruth, verse so:  
 &quot;That she fell on her face, and bowed  
 herself unto the ground, and said unto  
@@ -5875,86 +5375,8 @@ with ink and pen write unt) thee; but I
 trust I shall shortly see thee, and we  
 shall speak face to face.&quot; From the  
 above interview, a marriage took place  
-the ensuing week,-D. D. Gazette. Large
+the ensuing week,-D. D. Gazette. Larg
 </td></tr></table>
-
----
-
-## [From _Sharp County record._](https://chroniclingamerica.loc.gov/lccn/sn87091045/1888-11-15/ed-1/seq-1)
-
-#### 1888-11-15 &middot; [Evening Shade, Ark.](http://dbpedia.org/resource/Evening_Shade%2C_Arkansas)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-An exchange relates that a young  
-gentleman happened to sit at church  
-in a pew adjoining one in which sat a  
-young lady, for whom he conceived  
-a sudden and violent passion, was de­  
-sirous of entering .into a courtship  
-on the spot, but the place not suiting  
-a formal declaration, the exigency of  
-the case suggested the following  
-plan: He politely handed his fair  
-neighbor a Bible (open) with a pin  
-stuck in the following text;  
-“Now I beseech thee, lady, not as though  
-I wrote a new commandment ui&gt;t&lt;&gt; thee,  
-but that which we hud from the beginning  
-that we love one another.” St. John ii-5,  
-She returned it, pointing to the 2d  
-chapter of Ruth, 10th verse:  
-&#x27;Then she fell on her face, and bowed  
-herself to the ground, and said unto him.  
-Why have 1 found graca iu thine eyvs,  
-that thou sbouldst take knowledge of me,  
-seeing that I am a stranger?”  
-He returned the book, pointing to  
-the 13th verse of the third Epistle  
-of John—  
-&quot;l had many things to write. I will not  
-with pen and ink write unto thee, but I  
-trust 1 shall shortly seo thee, and we shall  
-speak face to face.”  
-From the above interview a mar­  
-riage took place the ensuing week.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_deepspace_ver01%2Fdata%2Fsn87091045%2F00513688155%2F1888111501%2F1202.jp2/pct:18.117699,70.939453,14.613181,18.247971/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1889-01-03/ed-1/seq-1)
-
-#### 1889-01-03 &middot; [Manitowoc, Wis.](http://dbpedia.org/resource/Manitowoc%2C_Wisconsin)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Courtship in Church.—A young  
-gentleman happening so sit at church in  
-a pew adjoining one in which sat a  
-young lady, for whon he conceived a  
-sudden and violent passion, was desirous  
-of en’ering into a courtship on th ■ spot;  
-but the place not suiting a formal declar­  
-ation the exigency of the case suggested  
-the following plan: Ho politely handed  
-his fair neighbor a bible (open) with a  
-pin stuck in (he following text: Second  
-Epistle of John, verse tifth—“And now 1  
-beseech thee, lady, not as though I  
-wrote anew commandment unto thee  
-hut that which we had from the bogining  
-thrt we love one another.” She returned  
-it pointing to the second chapter of  
-Ruth, verse tenth—“Then she fell o
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769374%2F1889010301%2F0067.jp2/pct:57.880760,41.038010,10.813084,8.050224/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
@@ -6102,13 +5524,6 @@ and ink, but I trust to come unto you, an
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Courtship in Church.  
-. A young gentleman happening to sit in  
-church in a pew adjoiniDg one in which  
-sat a young lady, for whom he conceived  
-a sudden and violent passion, was desir­  
-ous of entering into a courtship on the  
-spot; but the place not suiting a formal  
 Ep.stle of John verse fifth &quot;And now I  
 beSeech thee&#x27; DOt as thl0ugh wrote  
 commandment unto thee, but that  
@@ -6130,47 +5545,7 @@ you, and speak face to face, that our joy
 may be full.&quot; From the above interview  
 a marriage took place, the ensuing week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_maple_ver01%2Fdata%2Fsn92051487%2F00271763219%2F1891020601%2F0043.jp2/pct:50.084628,62.452060,11.509463,16.107881/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Nevada County picayune._](https://chroniclingamerica.loc.gov/lccn/sn87091048/1891-02-12/ed-1/seq-1)
-
-#### 1891-02-12 &middot; [Prescott, Nev. County, Ark.](http://dbpedia.org/resource/Prescott%2C_Arkansas)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-Courtship in Church.  
-A young gentleman happened to  
-&#x27; sit in church in a pew adjoining one  
-| in which sat a young lady, for whom  
-he conceived a sudden and violent  
-passion, was desirous of entering in­  
-to a courtship on the spot, but the  
-place not suiting a formal declara­  
-tion the exigency of the case sug­  
-gested the following plan: He po­  
-litely handed his fair neighbor a Bi­  
-ble (open) with a pin stuck in the  
-following text: Second Kpistle of  
-I John, verse fifth—“And now I be­  
-seech thee, lady, not as though 1  
-wrote a new commandment unto thee  
-but that which we had from the tie­  
-ginning, that we love one another.’’  
-She returned it pointing to the sec­  
-ond chapter of Uuth, verse tenth.  
-| “Then she fell on her face and bow­  
-ed herself to the ground, and said  
-| unto him, Why have 1 found grace  
-in thine eves, that thou should take  
-knowledge of me, seeing that 1 am 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_jolteon_ver01%2Fdata%2Fsn87091048%2F00414213030%2F1891021201%2F0859.jp2/pct:67.655520,42.169963,12.553937,16.852619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_maple_ver01%2Fdata%2Fsn92051487%2F00271763219%2F1891020601%2F0043.jp2/pct:50.084628,68.588395,11.447915,9.971545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6423,70 +5798,6 @@ ing week. The Metropolis
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_jughead_ver01%2Fdata%2Fsn89066489%2F00294556655%2F1891090201%2F0394.jp2/pct:62.352710,40.328299,14.709348,9.730794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## [From _The Durham recorder._](https://chroniclingamerica.loc.gov/lccn/sn84020731/1892-03-23/ed-1/seq-1)
-
-#### 1892-03-23 &middot; [Durham, N.C.](http://dbpedia.org/resource/Durham%2C_North_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-A Religious Courtship.  
-A young gentleman happened  
-to sit at church in a pew adjoin­  
-ing one in which sat a young  
-lady for whom he conceived a  
-sudden and violent passion, was  
-desirous of entering into a court­  
-ship on the spot, but the place  
-not suiting a formal declara­  
-tion, the exigency of the case  
-suggested the following plan:  
-He politely handed his fair  
-neighbor a Bible open, with a  
-pin stuck in the following text  
-2nd Epistle of John, 15th  
-verse: &quot;And now I beseech  
-thee, lady, not as though I wrote  
-a new commandment unto thee,  
-but that which we had from the  
-beginning, that we love one an­  
-other.&quot;She returned it, pointing to  
-2nd chapter of Ruth. 10th verse:  
-&quot;Then 6he fell on her face  
-and bowed herself to the ground,  
-and said unto him, why have I  
-found grace in thine eyes, that  
-thou shouldst take knowledge  
-of me, seeing that I am a  
-stranger!&quot;  
-He returned the book, point­  
-ins to the 12th vtrs of t.h 3rd  
-  
-Epistle of John:  
-&quot;Having many things to write  
-Unto VOU. I woillil nnf. writn  
-with paper and ink, but I trust  
-io come unto you speak: face to  
-face, that our joy may be full.&quot;  
-From the above interview a  
-marriago took place the ensuin
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_hawk_ver02%2Fdata%2Fsn84020731%2F00416157121%2F1892032301%2F0917.jp2/pct:80.890159,14.934608,12.168232,22.922233/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## A Religious Courtship
-
-#### From _Fayetteville observer._
-
-#### 1892-03-31 &middot; [Fayetteville, N.C.](http://dbpedia.org/resource/Fayetteville%2C_North_Carolina)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -8042,48 +7353,6 @@ to come unto you, and speak face to
 face, than our joy may be fall.&quot; From  
 the above interview a marriage took  
 place.
-</td></tr></table>
-
----
-
-## [COURTSHIP IN CHURCH.](http://trove.nla.gov.au/ndp/del/article/94447989)
-
-#### From _Bairnsdale Advertiser and Tambo and Omeo Chronicle (Vic. : 1882 - 1918)_
-
-#### 1899-12-16 &middot; [Berwick, Victoria](http://dbpedia.org/resource/Berwick%2C_Victoria)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-COURTSH?iP IN CHUtRCHL A young gentleman  
-happening to sit In church in a perw  
-adjoining one in which sat a young lady,  
-for whom he conceived a sudden and  
-violent parion, was desirous of entering  
-Into a courtship on the spot; aht the  
-place not ?siting a formal declaration,  
-the exigency of the case suggested the  
-following plan: He politely handed his  
-neighbom a Bible (open) with a pin ato.*  
-in thefollowing text:Second Epistlo of  
-John, rerse fifth-&quot; And new beseech  
-thee, lady, not as though I wrote a new  
-commandment unto thee, but that whichwe  
-bad from the beginning, that we love one  
-another.&quot; She returned it, pointing to  
-the second chapter of Ruth, veme  
-tenth-&quot;Then she fell .n her face, and  
-bowed herself to the ground, and said  
-unto him, &#x27;Why have I found grace in  
-thins eyes, that thou shouldst take  
-knowledge of me, seeing that lai a  
-stranger?&quot; He returned the book,  
-pointing to the thirteenth verse of the  
-Third Epistle of Jchn-&quot; Having many  
-things to write unto you, I would not  
-write with poper sad ink, but I trnr to  
-come unto you, and spenk face to face,  
-tha. our joy may he fulL&quot; From the above  
-interview a uarriage took place.
 </td></tr></table>
 
 ---

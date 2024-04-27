@@ -1,7 +1,7 @@
 
 # To Remove Ink Spots
 
-### 27 reprints from 1863-10-03 to 1871-11-07
+### 31 reprints from 1863-09-04 to 1871-11-07
 
 ## [To Remove Ink Spots](https://chroniclingamerica.loc.gov/lccn/sn85054616/1863-12-30/ed-1/seq-3/)
 
@@ -13,6 +13,24 @@
 
 TO REMOVE INK SPOTS.—Put the article stained over a warm flat-iron, streach it well, then squeeze a few drops of lemon juice on it, and the spots will disappear at once. Wash immediately in water. This is a complete remedy, and will satisfy all who may try it.  
 
+</td></tr></table>
+
+---
+
+## From _The Union and journal._
+
+#### 1863-09-04 &middot; [Biddeford, Me.](http://dbpedia.org/resource/Biddeford%2C_Maine)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+To REMOvE INK SOrs. Put the article  
+stained over a warm flat iron, stretch it well,  
+then squecze a few drops of lemon juice on  
+it, and the spot will disappear at once.  
+Wash immediately in cold water. This is a  
+complete remedy, and will satisfy all who  
+may try it
 </td></tr></table>
 
 ---
@@ -127,38 +145,62 @@ and will satisfy all who may try it
 
 ---
 
-## [From _The daily dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84024738/1871-06-10/ed-1/seq-3)
+## From _The sun._
+
+#### 1871-06-10 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ed that an average of $7,50 from each member of s  
+Congregation is a fair minimum salary for a pastor.  
+They have at Wells, Minnesota, a cheese  
+factory which is claimed to he the largest in the  
+United States, and is of three thousand cow nower.&quot;  
+A Providence merchant saves his umbrellas  
+by cutting a small piece out of the handie, which he  
+carries in his pocketbook, reany to prove sroperty at  
+any time.  
+A couple out in Portland, Oregon, who found  
+themseives divorced lately through the machinations  
+of the wite&#x27;s mother did the best thi g possible under  
+the circumstances--promptly got married again.  
+To remove ink spots, put the article stained  
+over a warm flatiron, stretch it well, then squeeze a  
+few drons of lemon juice on it, and the snot will disap­  
+cear at once. Wash immediately in cold water
+</td></tr></table>
+
+---
+
+## From _The daily dispatch._
 
 #### 1871-06-10 &middot; [Richmond [Va.]](http://dbpedia.org/resource/Richmond%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nts will leave on the 14&#x27;h to  
-push negotiations abroad. A letter re­  
-ceived to-day Irom Gen. Spinner states that  
+nts will leave on the 14th to  
+push negotiations abroad. A letter re-­  
+ceived to- day from Genr Spinner states that  
 he is still in London, but has done nothing  
 yet with the loan.  
   
 Work on the Southern Pacific railroad is  
 now being pushed rapidly forward with  
-vigor and determination,&quot;and already the  
-drsi section of the road, from San Francisco  
-to Gilrov, a distance of eighty miles, is in  
-successful operation. To meet the require­  
-ments of the chartcr, eighty miles more  
-must be completed before the coming 1st of |  
+vigor and determination, and already the  
+first section of the road, from San Francisco  
+to Gilroy, a distance of eighty miles, is in  
+successful operation. To meet the require-­  
+ments of the charter, eighty miles more  
+must be completed before the coming 1st of  
 July, and laborers are, therefore, busily at  
-work fiiii&gt;hin&lt;; up this second section.  
+work finishing up this second section.  
 To remove ink spots, put the article  
-stained over a warm fiat-iron, stretch it  
-well, thru squeeze a few drops of lemon  
+stained over a warm flat-iron, stretch it  
+well, then squeeze a few drops of lemon  
 juice on it, and the spot will disappear at  
 once. Wash immediately in cold water.  
 That&#x27;s one way. Another method, whic
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kors_ver02%2Fdata%2Fsn84024738%2F00271742009%2F1871061001%2F0559.jp2/pct:29.015121,42.023417,14.230577,10.031711/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -279,30 +321,56 @@ all who may try it.,
 
 ---
 
-## [From _The weekly Caucasian._](https://chroniclingamerica.loc.gov/lccn/sn85033995/1871-06-17/ed-1/seq-4)
+## From _The weekly Caucasian._
 
 #### 1871-06-17 &middot; [Lexington, Lafayette County, Mo.](http://dbpedia.org/resource/Lexington%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+the Diet is com-  
   
-&#x27;!. remove&#x27; ink spots, put the article  
+osed--clergymen being elected by their  
+own school only. For the three other  
   
-stained over a warn flat iron, stretch it  
+orders women take part in the election.  
   
-well, then s(ieee a few drops of lemon  
+peasant women, burgheresses, and  
+ladies of quality&quot; voting for their own  
   
-pure on u. umi ine .mis win ii-ti.. ar  
+particular order in the Diet,  
   
-at (iiii&#x27;i. ash immediately in cold  
+ Wyoming women-woman com-  
+  
+plains that hundreds of the sex refuse  
+  
+to vote in the territory unless coaxed to  
+  
+do so by good-looking men.  
+  
+A young fellow who has been in Salt  
+Lake tity about a year, writes to say that  
+  
+any number of young Mormon girls have  
+  
+ffered to elope with him. He adds that  
+the girls are all down on polygamy and  
+  
+want tentile husbands.  
+  
+To remove ink spots, put the article  
+  
+stained over a warm flat iron, stretch it  
+  
+well, then squeeze a few drops of lemon  
+  
+julice on it, and the spots whl tisappear  
+  
+at once. Wash immediately in cold  
   
 water. This is a complete remedy, and  
   
 will satisfy all who may try it.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_dagwood_ver01%2Fdata%2Fsn85033995%2F00294556515%2F1871061701%2F0098.jp2/pct:14.873741,81.227988,9.823383,2.629725/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -455,6 +523,41 @@ ly in cold wate
 
 ---
 
+## From _Macon beacon._
+
+#### 1871-07-01 &middot; [Macon, Miss.](http://dbpedia.org/resource/Macon%2C_Mississippi)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+egislature, elec­  
+tion to commence October 3d and con­  
+tinue four days.  
+Over eight thousand head of cattle  
+crossed the Brazos at Waco, Texas,  
+during the week ending June?, bring­  
+ing into the treasury of the bridge  
+company nearly $500.  
+London is swarming with visitore,  
+There are about 80,000 Germans now  
+there, about 150,000 French, about  
+50,000 of other continental countries,  
+and about 10,000 Americans.  
+No plant yields anything like  
+much nutriment from the same extent  
+of soil as the banana. Humboldt esti­  
+mated that it returns twenty times as  
+much as the potato, and 113 times a­  
+much as wheat.  
+To remove ink spots, put the article  
+stained over a warm flat iron, stretch  
+it well, then squeeze a few drops of  
+lemon juice on it, and the spot will  
+disappear at once. Wash immediate­  
+ly in cold wate
+</td></tr></table>
+
+---
+
 ## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1871-07-04/ed-1/seq-6)
 
 #### 1871-07-04 &middot; [New Bloomfield, Pa.](http://dbpedia.org/resource/New_Bloomfield%2C_Pennsylvania)
@@ -556,6 +659,30 @@ diately in cold water.
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn85025202%2F0027955730A%2F1871071501%2F0358.jp2/pct:79.779276,90.826023,14.637976,2.937267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The Lincoln County herald._
+
+#### 1871-07-27 &middot; [Troy, Lincoln County, Mo.](http://dbpedia.org/resource/Troy%2C_Missouri)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+To vemove ink stains, put the article  
+  
+Stained over a warm flat-iron, stretch  
+  
+well, then squeeze a few drops of lemon  
+  
+juice on it, and the spot will disappear at  
+  
+once. Wash imnmediately an cold water  
+  
+This sa a complete semeds, and will sat  
+  
+A7s all who may ry R.
+</td></tr></table>
 
 ---
 

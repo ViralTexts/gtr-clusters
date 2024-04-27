@@ -1,7 +1,7 @@
 
 # Have We a Fanny Fern Among Us
 
-### 20 reprints from 1855-02-17 to 1855-03-01
+### 24 reprints from 1855-02-17 to 1855-03-02
 
 ## [Have We a Fanny Fern Among Us](https://chroniclingamerica.loc.gov/lccn/sn85025007/1855-02-22/ed-1/seq-3/)
 
@@ -88,6 +88,37 @@ and Ruth Hall; and the reader will find that the
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_alicanto_ver02%2Fdata%2Fsn85042002%2F00415660996%2F1855022101%2F0347.jp2/pct:0.928002,65.976306,15.501993,3.042700/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _Nashville union and American._
+
+#### 1855-02-21 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+ALL ThE WOrLD WILL rEead THIS BOOK!!  
+  
+The Life and Beauties of Fanny Fern!  
+In One Volume, 12mo., Cloth. Price I 00. T  
+WHo is Ruth HAll?  
+Is ruth Hall Tanny tern or somerody else  
+And if Fanny fern is not uth Hall  
+WHO 1S FAYYTFENY  
+o e  e o e  ee ae e e e e eee e o eooe  eeee  
+SRA.s SSs4a AS A 1&#x27;ss t a at  
+e   e  e one  
+ now before the public, and the word wal be ehlighi  
+A ened. And thiS BoOK a strange tale unfolds.  
+The Present Work is Authentic in all its Details!  
+Those who have read the advance copy pronounce it the  
+iwitest ies b of the season.  
+It presents vivid and life-life pictures of the charming  
+and brilltant  
+Author of Fern Leaves and Ruth Hal
+</td></tr></table>
 
 ---
 
@@ -178,44 +209,19 @@ AUTHOR OF FERN LEAVES AND RUTH HALL
 
 ---
 
-## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85038518/1855-02-22/ed-1/seq-2)
+## From _Nashville union and American._
 
 #### 1855-02-22 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-AIL THE WOSLD WILL BEAD THIS BOOK!!  
-The Life and Beauties of Fanny Fern !  
-In One Volume, 12mo Cloth. Price 1 1 CO.  
-WHO IS RUTH IIAI.I. ?  
-IS EUTH HALL FANNY FEEN 0B SOMEBODY ELSE?  
-And, if Fanny Fern is not Rnth Hall,  
-WHO IS FANNY EE UN?  
-THE LIFE and BEAUTIES ofFANJi Y FER
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_dolly_ver01%2Fdata%2Fsn85038518%2F00200293198%2F1855022201%2F0181.jp2/pct:45.444618,19.294285,12.371295,4.764168/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85038518/1855-02-22/ed-1/seq-2)
-
-#### 1855-02-22 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Those who haTe read the adrance copy pronounce it tho  
+Those who have read the advance copy pronounce it the  
 wittiest, spiciest book of the season.  
 It presents vivid and life life pictures of the charming  
-and brilliant  
-Author or Fern I.enes and Ruth Hal
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_dolly_ver01%2Fdata%2Fsn85038518%2F00200293198%2F1855022201%2F0181.jp2/pct:45.522621,25.436616,12.308892,1.900915/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+and brilltant  
+Author of Fern Leaves and Ruth Hal
+</td></tr></table>
 
 ---
 
@@ -254,6 +260,40 @@ j teh VI [Pied W hig \ Rockingham Reg
 #### 1855-02-23 &middot; [Washington City [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 [This text is not available under an open license.]
+
+---
+
+## From _Burlington free press._
+
+#### 1855-02-23 &middot; [Burlington, Vt.](http://dbpedia.org/resource/Burlington%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+AlL THE WOrLD WILI ReAd THIS BOOK.  
+The Life and Beauties of  
+FANNYFErN,  
+In one Vol ume, I2mo., Cloth. Price One Dollart  
+HO IS RUTHI HALI? Is Ruth Hall Fanny  
+V Fern, or somebody else? And if Fanny Fern  
+is not Ruth Hall who is Fanny Fern? The Life and  
+Beauties of Fanny Fern is now before the publi
+</td></tr></table>
+
+---
+
+## From _Burlington free press._
+
+#### 1855-02-23 &middot; [Burlington, Vt.](http://dbpedia.org/resource/Burlington%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+vance copy, pronounce it the wittiest, spiciest book  
+of the season. It presents vivid, life-like pictures  
+of the charming and brilliant Author of Fern Leaves  
+and Ruth Hall, at her own fireside, in the Editor&#x27;
+</td></tr></table>
 
 ---
 
@@ -380,6 +420,40 @@ Pion d brilliant Author of Fern Leaves
 <img alt="Page image" src="https://iiif.archive.org/iiif/sim_phrenological-journal-and-science-of-health_1855-03_21_3&#0036;19/pct:11.617100,14.187867,59.665428,12.524462/600,/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _Burlington free press._
+
+#### 1855-03-02 &middot; [Burlington, Vt.](http://dbpedia.org/resource/Burlington%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+ALL THE WORLD WILL READ THIs BOOK.  
+The Life and BeaUTiES of  
+WA ME Y E  
+In one Vol ume, I 2mo., Cloth. Price One Dollar  
+FHOIS RUTH HALl. Is Ruth Hall Fanny  
+.  
+Fern, or somebody else? And if Fanny Fern  
+is not Ruth Hall who is Fanny Fern? The Life an
+</td></tr></table>
+
+---
+
+## From _Burlington free press._
+
+#### 1855-03-02 &middot; [Burlington, Vt.](http://dbpedia.org/resource/Burlington%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+vance copy, pronounce it the wittiest, spiciest book  
+of the season. It presents vivid, life-like pictures  
+of the charming and brilliant Author of Fern Leaves  
+and Ruth Hall, at her own fireside, in the Editor&#x27;
+</td></tr></table>
 
 ---
 

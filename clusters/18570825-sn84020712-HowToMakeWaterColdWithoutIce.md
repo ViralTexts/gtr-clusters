@@ -1,7 +1,7 @@
 
 # How to Make Water Cold Without Ice
 
-### 151 reprints from 1838-06-16 to 1881-09-11
+### 150 reprints from 1838-06-16 to 1881-09-11
 
 ## [How to Make Water Cold Without Ice](https://chroniclingamerica.loc.gov/lccn/sn84020712/1857-08-25/ed-1/seq-1/)
 
@@ -177,13 +177,6 @@ have a supply of cold water in war
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-ver soys, “ it is the undoubted right of postmasters to  
-destroy Bond&#x27;s speech. Self preservation is the first  
-law of nature, and if &#x27;hey don&#x27;t destroy it, it will de­  
-stroy them.  
-  
-Cool Water .—Speaking of cool water, the Philadel­  
-phia Ledger says:  
 “ We can rusgeat n mode within reach of every  
 peraon. Let the jar, pitcher or vessel used for water  
 be surrounded with ono or more folds of coarse cotton,  
@@ -197,7 +190,7 @@ er* lliua provided, and with lids or covers, the one to
 contain water for drinking, the other for evaporation,  
 and he can always have a supply of cold water i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn84020071%2F0041418294A%2F1838080201%2F0761.jp2/pct:41.319597,61.540608,16.905962,8.990371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn84020071%2F0041418294A%2F1838080201%2F0761.jp2/pct:41.319597,65.378175,16.905962,5.152805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +234,7 @@ ways have a supply of cold water ia warm weather
 
 ---
 
-## [From _The Illinois free trader and LaSalle County commercial advertiser._](https://chroniclingamerica.loc.gov/lccn/sn82014968/1841-06-11/ed-1/seq-3)
+## From _The Illinois free trader and LaSalle County commercial advertiser._
 
 #### 1841-06-11 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
@@ -249,24 +242,21 @@ ways have a supply of cold water ia warm weather
 
   
 Let the jar, pitcher, or vessel used for  
-water bo surrounded with one or more  
-lohls of coarse cotton, to be constantly wet.  
+water be surrounded with one or more  
+folds of coarse cotton, to be constantly wet.  
 The evaporation of the water from this,  
-Will carry oil&#x27; the heat from the M Mlnr in  
-side, and soon reduce it to the free z&#x27;ui&quot;  
+will carry off the heat from the water in  
+side, and soon reduce it to the freczing  
 point. In India and other tropical regions,  
 where ice cannot be procured, this prac  
-tice is common. Let every mechanic or  
+lice is common. Let every mechanic or  
 laborer have at his place of employment  
 two pitchers thus provided, and with lids  
-or covers, the one to contain water for  
-drinking, the other for evauoration. and  
+of covers, the one to contain water for  
+drinking, the other for evaporation, and  
 he can always have a supply of cold wa­  
 ter in warm weather. Any person ca
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn82014968%2F00212472025%2F1841061101%2F0227.jp2/pct:18.018018,38.782319,14.294294,9.619127/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -340,7 +330,7 @@ warm ^gather. Any person can test this, b
 
 ---
 
-## [From _Iowa territorial gazette and advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84037932/1842-08-27/ed-1/seq-1)
+## From _Iowa territorial gazette and advertiser._
 
 #### 1842-08-27 &middot; [Burlington, Iowa Territory [Iowa]](http://dbpedia.org/resource/Burlington%2C_Iowa)
 
@@ -348,13 +338,13 @@ warm ^gather. Any person can test this, b
 
   
 person. Let the jar, pitcher, or vessel  
-used tor water be surrounded with one  
-or more folds of coarse cotton, to be con­  
+used for water be surrounded with one  
+or more folds of coarse cotton, to be con-­  
 tantly wet. The evaporation of the  
 water from this will carry off the heat  
 from the water inside, and soon reduce it  
-to the freezing point. In India aud other  
-trophical climates where ice cannot be  
+to the freezing point. In India and other  
+tronhical climates where ice cannot be  
 produced, this practice is common. Let  
 every mechanic or laborer have at his  
 place of employment two pitchers thus  
@@ -363,10 +353,7 @@ to contain water for drinking and the oth
 er for evaporation, and he can always  
 have a supply of cold water in warm  
 weather.&quot;
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn84037932%2F00415668934%2F1842082701%2F0025.jp2/pct:55.588235,45.725103,12.945845,8.693518/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -399,87 +386,78 @@ ways have a supply of cool water in war
 
 ---
 
-## [From _The daily Madisonian._](https://chroniclingamerica.loc.gov/lccn/sn84020074/1843-07-11/ed-1/seq-2)
-
-#### 1843-07-11 &middot; [Washington City [i.e. Washington, D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-&quot; Let the jar, pitcher or ve-^cl used tor w a:  
-surrounded with one or more lolds of. co.ir-c r  
-to he constant!) tret. The evaporaii n of the w  
-w ill carry off tl.e heat from the ins.de and reouee ,t  
-I to the fn eaiug point. In India and other tropical &gt;  
-: regions where ice cannot be procured, this is common.  
-Let ererv m? chani or laborer have, at hi- 1  
-  
-I place of employment, lw&lt; pitcbrn lliuipruiiilciltiii : I  
-with li&lt;l* or cover*; the o le to rontjin waier I  
-drinking, the oilier for or* ora ion, and he ran 1  
-wnys have a supply of cold water in warm w? it .... 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_dragon_ver01%2Fdata%2Fsn84020074%2F00415661320%2F1843071101%2F0037.jp2/pct:83.590013,46.658276,16.654999,5.114328/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Louisville messenger._](https://chroniclingamerica.loc.gov/lccn/sn87065355/1843-07-29/ed-1/seq-2)
+## From _Louisville messenger._
 
 #### 1843-07-29 &middot; [Louisville, Miss.](http://dbpedia.org/resource/Louisville%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-as cold as ice, is from tho Philadel­  
 phia Ledger:  
-&quot;Let lhe jar, pitcher or vessel used  
+&quot;Let the jar, pitcher or vessel used  
 for water be surrounded with one or  
-more foldJof coarse cotton to be con­  
+more folds of coarse cotton to be con­  
 stantly wet. The evaporation of the  
 water will carry off the heat from the  
-inside and rodaceit to fieezing point..  
-In India and .other tropical regions  
+inside and reduce it to freezing point.  
+In India and other tropical regions  
 where ice cannot be procured, this is  
-common, l.et levery mechanic or.  
+common. Let levery mechanic or  
 laborer have, at his place of employ  
 ment, two pitchers thus provided, and  
 with lids or covers, the one to contain  
-waler for drinking, the other for&quot;  
+water for drinking, the other for  
 evaporation, and he can always have  
-a supply of cold water in war
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_hoitytoity_ver01%2Fdata%2Fsn87065355%2F00295878216%2F1843072901%2F1050.jp2/pct:82.182120,55.693470,16.054760,11.656773/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+a supply of cold water in wari
+</td></tr></table>
 
 ---
 
-## [From _Baton-Rouge gazette._](https://chroniclingamerica.loc.gov/lccn/sn82003383/1843-08-19/ed-1/seq-2)
+## From _Baton-Rouge gazette._
 
 #### 1843-08-19 &middot; [Baton-Rouge, La.](http://dbpedia.org/resource/Baton_Rouge%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-&quot; l^et the jar, pitcher or vesae! used for wa­  
-ter be «urrounded with one or more fold* of  
+&quot;Let the jar, pitcher or vessel used for wa­  
+ter be surrounded with one or more folds of  
 coarse cotton to be constantly wet. The eva­  
-poration ofthe w«iter will carry off the heatfrom  
-ihe inside, and reduce it to the freei ng point  
-In India, and other tropical reg. on» where  
-ice cannot be piodaeed, thi» is common. Le?  
-every mechanic or laborer have, at hl» place  
-of empk y oient, two ptichers thuc provided,  
-and with iid» or eov era; the one to contain water  
+poration of the water will carry off the heat from  
+the inside, and reduce it to the freezing point  
+In India, and other tropical regions where  
+ice cannot be produced, this is common. Let  
+every mechanic or laborer have, at his place  
+of empleyment, two pitchers thus provided,  
+and with lids or covers; the one to contain water  
 for drinking, the other for evaporation, and  
-he can always have a »apply of cold water in  
+he can always have a supply of cold water in  
 warm weather. Any person can test it b
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_arbok_ver04%2Fdata%2Fsn82003383%2F00295874442%2F1843081901%2F0560.jp2/pct:82.852761,84.423783,12.177914,6.049128/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
+
+---
+
+## From _New-York daily tribune._
+
+#### 1844-05-31 &middot; [New-York [N.Y.]](http://dbpedia.org/resource/New_York_City)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+lowing is a simple mode of rendering water al  
+most as cold as ice: Let the jar, pitcher or ves.  
+sel used for water be surrounded with one ef  
+more folds of coarse cotton, to be constantly wet.  
+The evaporation of the water will carry off the  
+heat from the inside and reduce it to a freezing  
+point. In India and othertropical regions where  
+ice cannot be produced, this is common. Let  
+every mechanic or laborer have at his place off  
+employment two pitchers thus proviced, and with  
+lids or covers, the one to contain water for  
+drinking, the other for evaporation, and he can  
+always have a supply of cold water in war
+</td></tr></table>
 
 ---
 
@@ -565,32 +543,29 @@ cold water in warm weather. Any person ca
 
 ---
 
-## [From _Sunbury American and Shamokin journal._](https://chroniclingamerica.loc.gov/lccn/sn85054702/1844-06-08/ed-1/seq-1)
+## From _Sunbury American and Shamokin journal._
 
 #### 1844-06-08 &middot; [Sunbury, Northumberland Co., Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-The following is a si.nnle mode of remlerinir  
-water almost ns cold as ice: let ttie jar,  
-... ...  
-pitcher or vessel used tor water be surrounded  
-with one or more folds of coarse cotton, lobe  
+The following is a simple mode of rendering  
+water almost as cold as ice:-Let the jar,  
+ oe  
+pitcher or vessel used for water be surrounded  
+with one or more folds of coarse cotton, to be  
 constantly wet. The evaporation of the water  
-will carry off the heat from the inside nnd re  
-duce it t) a freezing point. In India and o-  
-Iher tropical regions were ice cannot be pro  
-cured, this is common. Let every inechunic or  
-laborer havu at his place unj employment two  
+will carry off the heat from the inside and re  
+duce it to a freezing point. In India and or  
+ther tropical regions were ice cannot be pro  
+cured, this is common. Let every mechanic or  
+laborer have at his place and employment two  
 pitchers thus provided, and with lids or covers;  
 the one to contain the water for drinking, the  
 other for evaporation, and he can always have  
 a supply of cold water for warm weather. An
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn85054702%2F00280776002%2F1844060801%2F0809.jp2/pct:35.410392,77.258883,14.759036,9.601160/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -864,25 +839,12 @@ from this, will carry off the heat from the
 inside, and soon reduce it to the freezing  
 point. In India and other tropical regions,  
   
-where ice cannot be procured, this is com.| with a stone, as he supposed, in the side, 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1844-07-26_8_45&#0036;1/pct:1.218750,80.164474,27.187500,4.046053/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Cincinnati weekly herald and philanthropist._](https://archive.org/details/sim_cincinnati-weekly-herald-and-philanthropist_1844-07-26_8_45/page/n1/mode/1up?view=theater)
-
-#### 1844-07-26 &middot; [Cincinnati [Ohio]](http://dbpedia.org/resource/Cincinnati)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
+where ice cannot be procured, this is com.| with a stone, as he supposed, in the side, 3  
   
 mon. Let every mechanic and laborer have  
 at his place of employment two pitchers thus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1844-07-26_8_45&#0036;1/pct:1.250000,84.122807,13.125000,1.019737/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_cincinnati-weekly-herald-and-philanthropist_1844-07-26_8_45&#0036;1/pct:1.218750,80.164474,27.187500,4.978070/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -987,6 +949,37 @@ warm weather
 
 ---
 
+## From _Spirit of the age._
+
+#### 1845-06-26 &middot; [Woodstock, Vt.](http://dbpedia.org/resource/Woodstock%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+aside frow the desire to give and take mu­  
+tual support in all the branches of local  
+business and occupation, are generally  
+worth four times their subscription price.  
+Cold Water.The following is a sim-  
+ple mode of making water almost as cold  
+as ice,--&quot;Let the jar, pitcher or vessel  
+used for water be surrounded with one or  
+more folds of course cotton to be con  
+stantly wet. The evaporation of the wa  
+ter will carry off the heat from the inside  
+and reduce it to freezing point. In In  
+dia and other tropical regions where ice  
+cannot be obtained, this is common. Let  
+every mechanic or laborer have at his  
+place of employment two pitchers thus  
+provided; and with lids or covers; the one  
+to contain water for drinking, the other  
+for evaporation, and he can always have a  
+supply of cold water in warm weather
+</td></tr></table>
+
+---
+
 ## [From _The New England Farmer, and Horticultural Register (1822-1890)_](https://archive.org/details/sim_new-england-farmer-and-horticultural-register_1845-07-23_24_4/page/n7/mode/1up?view=theater)
 
 #### 1845-07-23 &middot; [Boston](http://dbpedia.org/resource/Boston)
@@ -1051,18 +1044,18 @@ weather
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-The following is a simple way of rendering wa  
+The following is a simple way of rendering wa­  
 ter almost as cold as ice: Let the jar be wrapped in  
 two or more folds of coarse cotton cloth, to be kept  
 constantly wet. The evaporation of water will carry  
 off the heat from the inside, and reduce it to a free  
 zing point. In India and other tropical regions,  
-where ice cannot be produced, this is common.  
+where ice cannot be produced, this is common,  
 Let every mechanic or laborer have at his place of  
 work, two pitchers, with covers, the one to contain  
 water for drinking, the other for evaporation, and  
 he can always have a good supply of cold water in  
-warm weather. Mime Frmer
+warm weather.--Maine FArmer
 </td></tr></table>
 
 ---
@@ -1093,16 +1086,6 @@ one to contain water for drinking, the
 other for evaporation, and he can always  
 have a supply of cold water in war
 </td></tr></table>
-
----
-
-## TITTLE TATTLE.
-
-#### From _The Era_
-
-#### 1846-05-31 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -1206,73 +1189,6 @@ have a supply of coldwater in war
 
 ---
 
-## From _Vermont watchman and State journal._
-
-#### 1851-06-05 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-The following is simple mode of render.  
-ing water almost as cold as ice:let  
-the jar, pitcher, or vessel used for water,  
-be surrounded with one or more folds  
-of coarse cotton, to be constantly wet.  
-The evaporation of the water will carry  
-off the heat from the inside, and reduce  
-it to a freezing point. In India and oth  
-er tropical regions where ice cannot be  
-procured, this is common. Egetunge
-</td></tr></table>
-
----
-
-## [From _Lewisburg chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85055197/1851-06-18/ed-1/seq-2)
-
-#### 1851-06-18 &middot; [Lewisburg, Pa.](http://dbpedia.org/resource/Lewisburg%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-ing is a simple mode of rendering water  
-almost as cold as ice : Let the jar, pitcher,  
-or vessel used for water, be surrounded  
-! tn onc or more folds of coarse cotton, to  
-be constantly wet The evaporation of  
-the water will carry off the heat from tho  
-inside, and reduce it to a freezing point  
-In India aud other tropical regions where  
-ice can not be procured, this is common
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn85055197%2F0028077635A%2F1851061801%2F0363.jp2/pct:19.575918,26.604317,13.063234,5.841727/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1851-06-26/ed-1/seq-4)
-
-#### 1851-06-26 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-is a simple mode of rendering water almost  
-as cold as ice : Let the jar, pitcher, or  
-vessel used to contain walcr, ha surrounded  
-with one or more folds of coarse cotton, to  
-be constantly wet. The evaporation of ihe  
-water will carry off the heat from the inside,  
-and reduce it to a freezing point. In India  
-and other tropical regions, where ice can­  
-not be procured, this is common,
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202199264%2F1851062601%2F0272.jp2/pct:35.346045,86.475255,11.793785,4.520841/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## THE CHURCH.
 
 #### From _Belfast News-Letter_
@@ -1371,7 +1287,7 @@ in warm weather. Any person can teal thi
 
 ---
 
-## [From _Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn86092535/1852-10-09/ed-1/seq-2)
+## From _Wheeling daily intelligencer._
 
 #### 1852-10-09 &middot; [Wheeling, Va. [W. Va.]](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
@@ -1381,17 +1297,14 @@ in warm weather. Any person can teal thi
 The following is a simple method of rendering wat­  
 er almost as cold as ice. Let the jar, pitcher, or  
 vessel used for water, be surrounded with one or  
-more folds of coarse cotton, to be constantly wet.?  
-The evaporation of the water will carry off the beat  
+more folds of coarse cotton, to be constantly wet.  
+The evaporation of the water will carry off the heat  
 from the inside, and reduce it to a freezing point.  
-In India and other tropical climes,where ice ciuinot  
+In India and other tropical climes, where ice cannot  
 be procured, it is common.  
-(TTThe Cincinnati papers say the money market  
+2o The Cincinnati papers say the money market  
 at that point remains easy, and the prospect for 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_canada_ver01%2Fdata%2Fsn86092535%2F00202190522%2F1852100901%2F0162.jp2/pct:58.247786,91.398486,14.467593,5.351791/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -1563,29 +1476,57 @@ ply of cold water in warm weather. Any pet
 
 ---
 
-## [From _The daily dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84024738/1857-07-22/ed-1/seq-4)
+## From _Daily Iowa State Democrat._
+
+#### 1857-07-18 &middot; [Davenport, Iowa](http://dbpedia.org/resource/Davenport%2C_Iowa)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+andd with lids or covers, one to contain fresh  
+water  
+  
+for  
+  
+drinking, the other for evapors  
+  
+tion, and he can always have a supply of  
+water in warm weather. Any perso
+</td></tr></table>
+
+---
+
+## From _The daily dispatch._
 
 #### 1857-07-22 &middot; [Richmond [Va.]](http://dbpedia.org/resource/Richmond%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-haiil, will keep water almost as cold as ice: Let the  
-.jar. pitcher or vessel used lor water, be surrounded  
+&quot;Nen-no, exactly ses-so far gone yet, sir.&quot;  
+&quot;Well, I will have to send you to the work  
+house,&quot; said the Recorder.  
+  
+&quot;Tt-taint nothin&#x27; tit-to go th-there,&quot; said Al  
+leck. &quot;I-I-I&#x27;m used to it: but when you tit talke.  
+about mem-marriage old fellow, you fof-frightene  
+ine!&quot;  
+  
+Cool WArer.-The following simple method, it is  
+said, will keep water almost as cold as ice: Let the  
+jar, pitcher or vessel used for water, be surrounded  
 with one or more folds of coarse cotton, to be con  
-stantly wet. Tlie evaporation ol tint water will  
-carry off the hoat from the inside ami reduce it t&lt;&gt;  
-it point. In India ami other tropical climes,  
+stantly wet. The evaporation of the water will  
+carry off the heat from the inside and reduce it to  
+a freezing point. In India and other tropical climes,  
 where ice cannot be procured, this is common. Let  
 every mechanic and laborer have in his place of  
-&#x27;.npioywent two pitchers thus provided, and with  
-lui.s or covers, one to contain fresh water for drink­  
-ing. the other for evaporation, and he can always  
-have a supply of cold water in warm weather.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_manowar_ver01%2Fdata%2Fsn84024738%2F00202191010%2F1857072201%2F0074.jp2/pct:6.139540,53.055917,12.356145,4.284063/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+employment two pitchers thus provided, and with  
+lids or covers, one to contain fresh water for drink­  
+ing, the other for evaporation, and he can always  
+have a supply of cold water in warm weather
+</td></tr></table>
 
 ---
 
@@ -1651,6 +1592,33 @@ cold water in warm weather. Any person ca
 
 ---
 
+## From _The Caledonian._
+
+#### 1857-08-01 &middot; [St. Johnsbury, Vt.](http://dbpedia.org/resource/St._Johnsbury%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+cold a ice  e the ar itchor o oel  
+ a te Jo ptee o e  
+used for water, be surrounded with one or  
+e o eo eee aeeee  
+more folds of cotton, to be constantly wet.  
+The evaporation of the water will carry off  
+the heat from the inside and reduce it to a  
+freezing point. In India and other climes,  
+where ice cannot be procured, this is common.  
+every mechanic and laborer have at his  
+place of employment two pitchers thus pro-  
+eo  o  
+vided, and with lids or cevers, one to contain  
+fresh water for drinking, the ether for  
+evaporation, and he can always have a sup-  
+ply of cold water in warm weather. An
+</td></tr></table>
+
+---
+
 ## Cool Water
 
 #### From _Fayetteville observer._
@@ -1671,50 +1639,47 @@ cold water in warm weather. Any person ca
 
 ---
 
-## [From _New Orleans daily crescent._](https://chroniclingamerica.loc.gov/lccn/sn82015753/1857-08-06/ed-1/seq-1)
+## From _New Orleans daily crescent._
 
 #### 1857-08-06 &middot; [[New Orleans, La.]](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-d The poets dislike occurred to our memory-there  
-p was uo getting the better of the thought.&#x27;  
-Cool WATOO--The following simple method. it is  
-Ssaid, will keep water almost as cold as ice : &#x27;&quot; Let the  
-jar, pitcher or vessel used for water be saurroolded  
-with one or more folds of coarse cotton, to be con­  
-s taotly wet. The evaporation of the water will carry  
-&quot; off the heat from the inside and reduce it to a freez­  
-ing point.&quot; In India and other tropical climres, where  
+ing point.&quot; In India and other tropical climes, where  
 ice cannot be procured, this is common. Let every  
-mechanic and aborer have in his place orf employ­  
+mechanic and laborer have in his place of employ­  
 ment two pitchers thus provided, and with lids or  
-covrers, one to contain fresh water for drinking, the  
-e other for evaporation, and he can always have a sup­  
-y ply of cold waterin warm weather. Any person ca
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_pearse_ver01%2Fdata%2Fsn82015753%2F00212475397%2F1857080601%2F0894.jp2/pct:84.328358,86.234568,13.059701,6.913580/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+covers, one to contain fresh water for drinking, th
+</td></tr></table>
 
 ---
 
-## [From _The Tipton advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84027398/1857-08-15/ed-1/seq-1)
+## From _The Tipton advertiser._
 
 #### 1857-08-15 &middot; [Tipton, Cedar Co., Iowa](http://dbpedia.org/resource/Tipton%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-ice Lot  
+be resigned to  
+  
+vife and girls; no honor or riches can  
+  
+SirOharles NaptER.  
+  
+Cool Water.  
+  
+The following simple methed, it is  
+said, will keep water almost as cold as  
+ice: Let  
   
 the  
   
-j«r, pitcher, or vessel uied  
+jar, pitcher, or vessel used  
   
 for water, be surrounded with one or  
-more folds of coarse rotton, to be con­  
+more folds of coarse cotton, to be con-­  
 stantly wet.  
   
 The  
@@ -1723,25 +1688,22 @@ evaporation
   
 of the  
   
-water will carry off the BOAT from the in­  
+water will carry off the heat from the in-­  
 side, and reduce it to a  
-freving point.  
-In ltul ia and other tropical clinics, where  
-ice cannot be procured, this is ce»uimon.  
-Let everv mechanic end laborer have at  
+freezing point.  
+In India and other tropical climes, where  
+ice cannot be procured, this is common  
+Let every mechanic and laborer have at  
 his place of employment two pitchers  
 thus provided, and with  
-litLs or covers,  
-one to contain fresh Wjiter for drinking,  
-the other for evaporation, and he can AI-,  
+lids or covers,  
+one to contain fresh water for drinking,  
+the other for evaporation, and he can al  
 ways  
 have  
 a supply  
-of cold water IN warm 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn84027398%2F0027952939A%2F1857081501%2F0759.jp2/pct:38.776196,86.028760,11.146109,7.200300/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+of cold water in war
+</td></tr></table>
 
 ---
 
@@ -1943,6 +1905,8 @@ fresh water for drinking, the other for evapora-
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+/aTThe Albany Argus renews the fol­  
+lowing suggestion for making water cold  
 without ice:  
 “Let the jar, pitcher or vessel used for  
 water be surrounded with one or more folds  
@@ -1959,7 +1923,7 @@ drinking, the other evaporation, and he
 can always have a supply of cold water m  
 warm weathen” I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn85033133%2F00514159348%2F1857082201%2F0137.jp2/pct:16.052779,89.039390,13.138723,8.897711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn85033133%2F00514159348%2F1857082201%2F0137.jp2/pct:16.052779,87.455239,13.138723,10.481862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2017,34 +1981,63 @@ weather.&quot;
 
 ---
 
-## [From _Dallas herald._](https://chroniclingamerica.loc.gov/lccn/sn84022278/1857-08-29/ed-1/seq-1)
+## From _The independent press._
+
+#### 1857-08-28 &middot; [Abbeville C.H., S.C.](http://dbpedia.org/resource/Abbeville%2C_South_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+How To MakE WrER CoLD WiTHOUT IcE.  
+  
+The fulowing deseription af methol of dene  
+water almost as cold as ice, hes been  
+goinp the rounds of the press for many years,  
+Just now it is again &quot;in season,&quot; and we copy it  
+forthee tenstlt of thoes of opr renders whe citi  
+have not the onportunity or the inclination  
+to purchase ice:  
+Let the jar, pitcher or vessel used for water  
+be spr,unded with one or more folds of coarse  
+cotten to be constuntly wet. The evaporation  
+of the water will cnrry off the hest frou the ini  
+reduce it to A frecsing point. An la  
+and other tropical climes, where ice cannot  
+be proenred, thid ie cemmon. Tet every mee  
+ishorer have at his place of siploye o  
+thus provided and with lids  
+and covers, one to contain fresh, water for  
+drinking, the ather for evaporation, and he  
+tan alsiny have as supply of cold water in  
+wakm weathey
+</td></tr></table>
+
+---
+
+## From _Dallas herald._
 
 #### 1857-08-29 &middot; [Dallas, Tex.](http://dbpedia.org/resource/Dallas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-j,-,.:&#x27; . . ! there idonc in the evening, or cf crcsiing it to  
   
 &quot;Let the jar, pitcher or vessel used for wa­  
-ter, be surrounded with one or more folds of  
+ter be surrounded with one or more folds of  
 coarse cotton, to be constantly wet. The ev­  
 aporation of the water will carry off the heat  
-from the m.-ide nnd reduce it to a Ireezing  
+from the inside and reduce it to a freezing  
 point.&quot; In India and other tropical climates,  
-wlinrp eminnt lie nrociir.-f!. this is coaitnor..  
+where ice cannat be procured, this is commor.  
   
-L&quot;t every mechanic nnd laborer have in his! so closely lint the smell of the damp mould  
-place nf employment two&#x27; pitchers thus provi-1 came into my nostrils, nnd I did not think it  
-ded, and with &quot;lids or covers, one to contain I chiiling or revolting. By this you ina judge  
-froih -tvattr for Hrinkintr. i&#x27;hp other for ei-nn-iof mv mental condition. Latterly I had been  
+Let every mechanic and laborer have in hisso closely that the smell of the damp mould  
+place of employment two pitchers thus proviae into m oti an  i not thin i  
+ded, and with lids or covers, one to contain chiing or revoting. By this you may judge  
+e ae o dii te oe o ee o  ee oio ae  a e  
   
-oration, and he can always have a supply of!  
+oration, and he can always have a supply of  
 cold water in warm weather
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_eagle_ver01%2Fdata%2Fsn84022278%2F00200296527%2F1857082901%2F0099.jp2/pct:46.763460,85.781774,28.291994,7.741542/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -2126,7 +2119,7 @@ ter in wHim weather
 
 ---
 
-## [From _The Hillsdale standard._](https://chroniclingamerica.loc.gov/lccn/sn85033637/1857-09-08/ed-1/seq-1)
+## From _The Hillsdale standard._
 
 #### 1857-09-08 &middot; [Hillsdale, Mich.](http://dbpedia.org/resource/Hillsdale%2C_Michigan)
 
@@ -2134,26 +2127,23 @@ ter in wHim weather
 
   
 him.  
-To Make Water Cold Without Ice.  
+To MAKE WATER COLD WITHOUT ICR.  
 The following is a simple method of render­  
-ing water almost as cold as ice: let the jar,  
+ing water almost as cold as ice;-let the jar,  
 pitcher or vessel used for water be surroun­  
-ded with one or more folds of coarse cottoti,  
-to be const&#x27;intlv wet. The evaporation of  
+ded with one or more folds of coarse cotton,  
+to be constantly wet. The evaporation of  
 the water will carry off the heat form the in­  
 side and reduce it to a freezing point. In  
-India, and other tropical climes, where ico  
+India, and other tropical climes, where ice  
 cannot be procured, this is common. Let  
-every mechanic and laborer have at hisplaco  
+every mechanic and laborer have at his place  
 of employment two pitchers thus provided,  
 and with lids or covers, one to contain fresh  
 water for drinking, the other for evaporation,  
-and ho can always havo a supply of cold wa­  
+and he can always have a supply of cold wa­  
 ter in warm weather
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668156%2F1857090801%2F0107.jp2/pct:78.888889,58.129128,13.650794,9.492862/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -2294,37 +2284,6 @@ and he can always have a supply of cold water i
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_ariel_ver01%2Fdata%2Fsn82015418%2F00212474216%2F1857111201%2F0082.jp2/pct:6.466543,14.137484,12.787622,4.701686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## [A WORD OF TRUTH FOR US. (From Punch.)](http://trove.nla.gov.au/ndp/del/article/128752825)
-
-#### From _Northern Times (Newcastle, NSW : 1857 - 1918)_
-
-#### 1858-03-13 &middot; [Newcastle, New South Wales](http://dbpedia.org/resource/Newcastle%2C_New_South_Wales)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-wathu cold in Summer.- The following is  
-a simple method of rendering water  
-almost as cold as ice. Let the jar,  
-pitcher, or vessel used for water, be  
-surrounded with one or more folds of  
-coarse cotton, to be constantly wet. The  
-.evaporation of the ware* will carry off  
-the heat fronvthe inside, and reduce it  
-to a freezing point. In India, and other  
-tropical climes, 1 where ice cannot be  
-procured, this is common. f| Sucuet  
-Succiiss&#x27;at tub lUit, — I &#x27;asked Sir  
-Jamei . Scarlett what was the secret of  
-his pre-eminent success1 as an&#x27;  
-advocate, lie replied that he took care  
-to press | home the onejprinciple point  
-of the case without paying much regard  
-to the others. &#x27;He ahosaid that he kne
-</td></tr></table>
 
 ---
 
@@ -2556,29 +2515,54 @@ fresh horses of the best quality. Many o
 
 ---
 
-## [From _The Lansing state Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016318/1863-10-07/ed-1/seq-1)
+## From _The Lansing state Republican._
 
 #### 1863-10-07 &middot; [Lansing, Mich.](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Let the jar, pitcher, or vessel used for wa&#x27;er, be  
-surrounded with one or more folds of coare cot  
-ton, to be constantly wet. The evaporation ot  
-water will carry off the brat from the inside and  
-reduce it to a freezing point. In India and otner  
-tropical climes, where ica cannot be procured,  
+in the bosom of her family.  
+  
+Cool Water. The following simple method,  
+it is said, will keep water almost as cold as ice:  
+Let the jar, pitcher, or vessel used for water, be  
+surrounded with one or more folds of coarse cot  
+ton, to be constantly wet. The evaporation of  
+water will carry off the heat from the inside and  
+reduce it to a freezing point. In India and other  
+tropical climes, where ice cannot be procured,  
 this is common. Let every person have at his  
-place of employ meet two pitchers thus provided,  
+place of employment two pitchers thus provided,  
 and with lids or covers, one to contain fresh wa­  
-ter .or drinking, the other for evaporation, and  
-he can always have a supply of cold waber in  
+ter for drinking, the other for evaporation, and  
+he can always have a supply of cold water in  
 warm weather. Any person can attest this b
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn83016318%2F00296024582%2F1863100701%2F0161.jp2/pct:67.217631,66.952146,12.730173,5.491917/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
+
+---
+
+## From _The Union and journal._
+
+#### 1863-10-09 &middot; [Biddeford, Me.](http://dbpedia.org/resource/Biddeford%2C_Maine)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+cold as ice: Let the jar, pitcher, or vessel  
+usedofor water be surrounded with one or  
+more folds of coarse cotton, to be constantly  
+wet. The evaporation of water will carry  
+off the heat from the inside and reduce it to  
+a freezing point. In India and other tropl­  
+cal climes, where ice cannot be provided,  
+this is common. Let every person have at  
+his place of employment two pitchers thus  
+provided, and with lids or covers, one to con­  
+tain fresh water for drinking, the other for  
+evaporation, and he can always have a sup­  
+ply of cold water in warm weather. An
+</td></tr></table>
 
 ---
 
@@ -2658,6 +2642,32 @@ cold water in warm weather. Any perso
 
 ---
 
+## From _The West Virginia journal._
+
+#### 1865-06-28 &middot; [Charleston, W. Va.](http://dbpedia.org/resource/Charleston%2C_West_Virginia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+as ice. Let the jar, pitcher, or vessel  
+used for water, be surrounded with one­  
+or more folds of coarse cotton, to be  
+constantly wet; the evaporation of the  
+water will carry off the heat from the  
+inside, and reduce it to a low tempera  
+ture. In indir and other tropical coun­  
+tries, where ice canuet be procured, this  
+expedient is common. Let every me  
+chanic and laborer have at the place of  
+his work two pitchers thas provided, and  
+with lids er covers, ene to contain fresh  
+water for the evaporation, and he can als  
+ways have a supply of cold water in  
+warm weather. Any person may tes
+</td></tr></table>
+
+---
+
 ## [From _The Genesee Farmer (1845-1865)_](https://archive.org/details/sim_genesee-farmer_1865-07_26_7/page/n3/mode/1up?view=theater)
 
 #### 1865-07-01 &middot; [Rochester](http://dbpedia.org/resource/Rochester%2C_New_York)
@@ -2665,10 +2675,6 @@ cold water in warm weather. Any perso
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-COOL WATER. eo  
-AT this season of the year a cool draught of water  
-is a luxury which we may enjoy with a little care,  
-By the following method, simple and inexpensive,  
 water may be kept almost as cold as ice, Let the  
 jar, pitcher, or vessel used for water, be surrounded  
 with one or more folds of coarse cotton, to be con.  
@@ -2682,7 +2688,7 @@ with lids or covers, one to contain fresh water for
 the evaporation, and he can always have a supply  
 of cold water in warm weather. Any person ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_genesee-farmer_1865-07_26_7&#0036;3/pct:54.519544,7.785560,37.459283,23.976293/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_genesee-farmer_1865-07_26_7&#0036;3/pct:54.519544,14.493534,37.418567,17.268319/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2892,33 +2898,28 @@ supply of cold water in warm weather. An
 
 ---
 
-## [From _Holmes County farmer._](https://chroniclingamerica.loc.gov/lccn/sn84028822/1865-08-03/ed-1/seq-4)
+## From _Holmes County farmer._
 
 #### 1865-08-03 &middot; [Millersburg, Ohio](http://dbpedia.org/resource/Millersburg%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-with a little care, liy the following method,  
-simple and inexpensive water may bo  
-kept, almost as eold as ice. Let the jar,  
-pitcher or vessel used lor water, be sur­  
-rounded with ono or moie folds of coarse  
-cotton, to be constantly wet; this evapora­  
-tion of the water will carry off tho heat  
-from the inside, anil reduce it to a low tcin  
-perature. In India and tropical countries.  
+kept almost as cold as ice. Let the jar,  
+pitcher or vessel used for water, be sur­  
+rounded with one or more folds of coarse  
+cotton, to be constantly wet; the evapora­  
+tion of the water will carry off the heat  
+from the inside, and reduce it to a low tem  
+perature. In India and tropical countries,  
 where ice cannot be procurred, this expedi­  
-ent is common. Let every mechanic anil  
-laborer have at tho place of his wink two  
+ent is common. Let every mechanic and  
+laborer have at the place of his work two  
 pitchers thus provided, and with lids  
 covers, one to contain fresh water for the  
 evaporation, and he can always have a sup­  
 ply of fresh water in warm weather. An
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028822%2F00280775459%2F1865080301%2F1191.jp2/pct:5.038617,64.523877,12.486208,7.601017/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -2957,34 +2958,6 @@ a supply of cold water iu warm weather
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_chekhov_ver01%2Fdata%2Fsn84026847%2F00415665015%2F1865080801%2F0133.jp2/pct:16.053940,34.356835,13.519366,8.016832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## [THINGS WORTH KNOWING.](http://trove.nla.gov.au/ndp/del/article/13124591)
-
-#### From _The Sydney Morning Herald (NSW : 1842 - 1954)_
-
-#### 1866-01-13 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-cold as ice. Let the jar, pitcher or  
-vessel used for water, be surrounded  
-with one or more folds of coarse cotton,  
-tobe constantly wet ; the evaporation of  
-the water will carry off the heat from  
-the inside, and re-duce it to a low  
-temperature. In India and other tropical  
-countries, where ice cannot be procured,  
-this expedient ii- common. Let every  
-mechanic and labourer have at the place  
-of his work two pitchers thus provided,  
-and with lids or covers, one to contain  
-n eui water for the evaporation, and he  
-can always hate a supply of cold water  
-in warm weather. Any person may tes
-</td></tr></table>
 
 ---
 
@@ -3190,10 +3163,6 @@ always haye a supply of cool water in war
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-of the year a cool draught of aster is a lux  
-dry which we may enjoy with a liitis* care,  
-Hy the following method, simple and inex­  
-pensive, water may be kept almost ne cold  
 «• ice. Let a jar, pilclier or vesvel used fur  
 water, be surrounded with one or more folds  
 of coarse cotton, to be constantly wet; tbe  
@@ -3208,7 +3177,7 @@ lids or cuvers, one to fresh water for the
 evaporation, and be ran always have a sup*  
 ply of cold water in warm weather.— An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279558029%2F1870070901%2F0186.jp2/pct:5.177033,9.174950,14.401914,9.483101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279558029%2F1870070901%2F0186.jp2/pct:5.177033,11.411531,14.401914,7.246521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3231,13 +3200,13 @@ in warm weather. Any person may tes
 
 ---
 
-## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1871-07-29/ed-1/seq-3)
+## From _Gold Hill daily news._
 
 #### 1871-07-29 &middot; [Gold Hill, N.T. [Nev.]](http://dbpedia.org/resource/Gold_Hill%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n times a day and the evaporation  
+en times a day and the evaporation  
 of the water from this cloth will carry  
 off the heat from the inside and reduce  
 the water in the pitcher to a surpris­  
@@ -3245,12 +3214,12 @@ ingly low temperature. Milk can
 thus be kept for twenty-four hours  
 perfectly sweet even in the hottest  
 weather, and a big tin box kept en­  
-veloped in wet cloth will bo found a  
+veloped in wet cloth will be found a  
 most excellent domestic arrangement  
 to keep butter, meat or food in as well  
-us to keep tiles out. Relative to this  
+as to keep flles out. Relative to this  
 method of cooling water, or keeping  
-it cool, the Scientific Press eays : In  
+it cool, the Scientific Press says: In  
 India and other tropical countries,  
 where ice cannot be procured, this  
 expedient is common. Let every me­  
@@ -3258,12 +3227,9 @@ chanic and laborer have at the place
 of his work two pitchers thus provided,  
 and with lids or covers, one to supply  
 water for the evaporation, and he can  
-always havo a supply of cold water in  
+always have a supply of cold water in  
 warm weather. Any person may tes
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_osceola_ver01%2Fdata%2Fsn84022046%2F0027955520A%2F1871072901%2F0101.jp2/pct:5.721393,34.706184,11.983352,10.267513/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -3294,32 +3260,25 @@ water in warm weather. Any person ma
 
 ---
 
-## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1872-07-09/ed-1/seq-1)
+## From _Gold Hill daily news._
 
 #### 1872-07-09 &middot; [Gold Hill, N.T. [Nev.]](http://dbpedia.org/resource/Gold_Hill%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-cool η s ioe. Let a Jar. pltcheror vfessel  
-used for water be surrounded with one  
-or more folds of coarse cotton, to be  
-constantly wet; the evaporation of the  
-water will carry oil&#x27; th« heat from the  
-Inside, and reduce it to a low tempera­  
-ture. In India and other tropical  
-countries, where Ice cannot bo pro­  
+water will carry off the heat from the  
+inside, and reduce it to a low tempera­  
+ture. In Indla and other tropical  
+countries, where ice cannot be pro­  
 cured, this expedient is common. Let  
-every mechanic and laborer have at  
+every mechante and laborer have at  
 the place of his work two pitchers thus  
-provided, and lld-s or covers, one to  
-«upply water for the evapoiatlon, and  
+provided, and lids or covers, one to  
+supply water for the evaporation, and  
 he can always have a supply of cold  
 water in warm weather. Any perso
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_osceola_ver01%2Fdata%2Fsn84022046%2F00279553901%2F1872070901%2F0031.jp2/pct:6.666667,29.022205,11.676110,6.768601/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -3453,34 +3412,30 @@ warm weather. Any person may tes
 
 ---
 
-## [From _The home journal._](https://chroniclingamerica.loc.gov/lccn/sn95068565/1874-06-11/ed-1/seq-4)
+## From _The home journal._
 
 #### 1874-06-11 &middot; [Winchester, Tenn.](http://dbpedia.org/resource/Winchester%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-li &#x27;t, tlie ar, pilchi  
   
-will i.r I ,it ii,, M. I I -,  
+Witor ha allprahnedodt  
   
-&#x27; &quot; &quot;&#x27;&quot;&quot;&quot;iniieii wiin one or more  
-f ilils of coarse cotton kept, constantly  
-w -t. Tlie cvaporalioii of Ihe water will  
-earry nil the heat, from thn inside and  
-reduce It to freczilu. point. i i,llia  
-iiinl other tropical regions w here ice can­  
+e e etd wit one or more  
+folds of coarse cotton kept constantly  
+wet. The evaporation of the water will  
+carry off the heat from the inside and  
+reduce it to freezing point. In India  
+and other tropical regions where ice can­  
 not be procured, this is common. Let  
 every mechanic or laborer have at his  
-pliieii of employment two pitchers thus  
-provided will, li,ls nd cvers, the one  
-to contain water for di inking th,, other  
-for cvaporalioii, and he can always have  
-Hiipply , cold water in warm w:. athc
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn95068565%2F00280779155%2F1874061101%2F0767.jp2/pct:9.270982,74.881649,12.252399,6.739070/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+place of employment two pitchers thus  
+provided with lids and covers, the one  
+to contain water for drinking, the other  
+for evaporation, and he can always have  
+supply of cold water in warm weathe
+</td></tr></table>
 
 ---
 

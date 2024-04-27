@@ -1,7 +1,7 @@
 
 # Advantage of Taking a Newspaper
 
-### 118 reprints from 1839-09-26 to 1894-03-22
+### 124 reprints from 1839-09-26 to 1894-03-22
 
 ## [Advantage of Taking a Newspaper](http://chroniclingamerica.loc.gov/lccn/sn85054702/1841-07-03/ed-1/seq-1/)
 
@@ -54,12 +54,6 @@ Would not befallen him!
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-And no phrenoiogist could find  
-A difference in their bumps.  
-Kach had a farm of equal worth,  
-A pretty w ife to keep  
-Three boy a—three horsra and a cow.  
-A dog and twenty aheap.  
 One took the papers, and bis life  
 Is happier than a king&#x27;s .  
 Ilia children all can read and wtitr.  
@@ -71,7 +65,7 @@ And killed him as it should.
 J/ad he*U^£rrB,,i,&#x27;K of th* &quot;new  
 AC ho«(.^l{MU&#x27;iK,,|,o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187122%2F1839100301%2F0405.jp2/pct:3.126129,20.188088,13.576678,11.740857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187122%2F1839100301%2F0405.jp2/pct:3.126129,24.752351,13.052644,7.176594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -267,37 +261,68 @@ Would not have happened him
 
 ---
 
-## [From _Sunbury American and Shamokin journal._](https://chroniclingamerica.loc.gov/lccn/sn85054702/1841-07-03/ed-1/seq-1)
+## From _Sunbury American and Shamokin journal._
 
 #### 1841-07-03 &middot; [Sunbury, Northumberland Co., Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+PERMS OF THE &quot;AMeRICAN.  
   
-&#x27;J&#x27;lic following exhibits the genius and talent of a  
-mis port, of one who is destined to render himself  
-inmortnl by his inspiration. There is a moral lo  
-t, an inspiration, winch should stir up the aoul of  
-very lilwral minded and iiil?lligenl being i lUmtvn  
-Vruntrrlpt,  
-Advantage of taking IVewspnper.  
-I know (wo friends, M much ahko  
-As e&#x27;er you sew two stumps;  
-And no phrciinlog st could find  
-A dillcttiicu in tin ir bulling.  
-One took the prtpers, and his life  
-Wns happier than a king&#x27;s&#x27;)  
-Ills children ull can rend mid write,  
-And talk of nit u and things.  
-The other toidt no papers, nnd  
-W bile strolling tluoimli the wood,  
-A tree fell down tipou his crown,  
-And hull him, us it should !  
-H id be bee
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn85054702%2F00280776002%2F1841070301%2F0191.jp2/pct:4.500756,20.582470,14.466717,12.811537/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Pror  
+  
+HENrY B. MAsSer,  
+JOSEpH EISElY.  
+  
+PurLISHErs aNd  
+  
+&#x27;RoprIeTors.  
+  
+TSEES, EtTOr.  
+  
+ortice in market street, Near deeN.)  
+ThE &quot;AMErtCan&quot; is published every Satur  
+day at TWo DOLLars per annum to be  
+aid half yearly in advance. No paper discontin­  
+ied till ALl arrearages are paid.  
+No subscriptions received for a less period than  
+ix MONThs. All communications or letters on  
+ousiness relating to the office, to insure attention,  
+must be PoSt PAlD.  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+The following exhibits the genius and talent of a  
+rue poet, of one who is destined to render himself  
+mmortal by his inspirations. There is a moral to  
+t, an inspiration, which should stir up the soul of  
+very liberal minded and intelligent being:--Boston  
+Franscript.  
+Advantage of taking a Newspaper.  
+I knew two friends, as much alike  
+As e&#x27;er you saw two stumps;  
+And no phrenologist could find  
+A difference in their bumps.  
+One took the papers, and his life  
+Was happier than a king&#x27;s;  
+His children all can read and write,  
+And talk of men and things.  
+The other took no papers, and  
+While strolling through the wood,  
+A tree fell down upon his crown,  
+And hurt him, as it should!  
+Had he been reading of the news  
+At home, like neighbor Jim,  
+bet a cent this accident  
+Would not befallen him!  
+
+</td></tr></table>
 
 ---
 
@@ -354,13 +379,45 @@ Had not befallen him!
 
 ---
 
-## The following, which we have cut from a country newspaper, is a beautiful and touching specimen of poetical ability
+## From _The Charlotte journal._
 
-#### From _The Floridian._
+#### 1841-08-05 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
 
-#### 1841-07-24 &middot; [Tallahassee [Fla.]](http://dbpedia.org/resource/Tallahassee%2C_Florida)
+<table style="width: 100%;"><tr><td style="width: 50%">
 
-[This text is not available under an open license.]
+tulate you, madam on be  
+  
+beveress out when the reader is iuformed ing the whe of a besear hay yourseis i  
+that the quantum prescribed to a delicate am a ruined man, and know not whence to  
+female varies from four to eight glasses, ac supply my immediate wants.&quot;  
+cording to the nature of her complaint, anda o o a on te a o  
+ that a lady cannot decorously sip more than brother?&quot; said the lady.  
+one mouthful without drawing breath, it a o te oor o ein ae to  
+  
+wil be ceen that amole time was afdirdedte nolit  
+  
+  ee  i  e  e a  
+  
+an exchange paper, is too obvious. It should be  
+headed  
+CAUtion to the pesLic.&quot;  
+I knew two friends as much alike  
+As e&#x27;er you saw two stumps;  
+And no phrenologist could find  
+A difference in their bumps.  
+One took the papers, and his life  
+Was happier than a King&#x27;s  
+His children all could read and write,  
+And talk of men and things.  
+The other took no papers, and  
+While strolling through the wood,  
+A tree fell down upon his crown,  
+nd hurt him, as it should!  
+Had he been reading of the news  
+At home, like neighbor Jim,  
+I&#x27;ll bet a cent this accident  
+Would not befallen him.
+</td></tr></table>
 
 ---
 
@@ -371,6 +428,33 @@ Had not befallen him!
 #### 1841-08-07 &middot; [[Pensacola, Fla.]](http://dbpedia.org/resource/Pensacola%2C_Florida)
 
 [This text is not available under an open license.]
+
+---
+
+## From _Wheeling times and advertiser._
+
+#### 1841-09-11 &middot; [Wheeling, Va. [W. Va.]](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+I kriew two friends, as much alike  
+As e&#x27;er you saw two stumps;  
+And no phrenologist could find  
+A diffefference in their bumps.  
+One took the papers, and his life  
+Was happier than a king&#x27;s;  
+His children all could read and write.  
+And talk of men and things.  
+The other took no papers, and  
+While strolling through the wood,  
+A tree fell down upon his crown,  
+And hurt him, as it should!  
+Had he been reading of the news  
+At home like neighbor Jim,  
+I&#x27;ll bet a cent this accident  
+Hnd not befallen him
+</td></tr></table>
 
 ---
 
@@ -462,33 +546,6 @@ should ; &#x27;Had he been reading of the
 news At home, HU-* neighbour jim, . I&#x27;ll  
 bet u cent this occident &#x27;Had not  
 befallen bim 
-</td></tr></table>
-
----
-
-## [PLOUGHING BY STEAM.](http://trove.nla.gov.au/ndp/del/article/2557270)
-
-#### From _The Sydney Gazette and New South Wales Advertiser (NSW : 1803 - 1842)_
-
-#### 1842-09-03 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-following importan) tale : I knew two  
-friends «s much alike Al e&#x27;er you saw  
-two stumps ; And no phrenologist cou&#x27;d  
-find A difference in their bumps. One  
-took a paper, and Ins life Was happier  
-than a king&#x27;s : His children all could  
-read and write. And talk of tuen and  
-things, The other toole no pnper and,  
-While strolling through ihe wood, A tree  
-(eil down upon his crown. And killed him  
-- as it should ! Had be been reading oí  
-the news At home like neighbour Jua,  
-I&#x27;ll bet a cent tbia accident Had not  
-befallen bim ! Contentment.-A contente
 </td></tr></table>
 
 ---
@@ -795,7 +852,8 @@ Would not have happened him
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nd no phrenel -gist could find  
+  
+And no phrenel -gist could find  
 A difference in theirburr.ps.  
 E&#x27;ich had a farm of equal worth,  
 A pretty wife to keep  
@@ -876,13 +934,51 @@ Would not have happened him
 
 ---
 
-## Let Justice Be Done
+## From _Richmond daily Whig._
 
-#### From _Weekly Ohio statesman._
+#### 1845-07-15 &middot; [Richmond, Va.](http://dbpedia.org/resource/Richmond%2C_Virginia)
 
-#### 1845-07-16 &middot; [Columbus, Ohio](http://dbpedia.org/resource/Columbus%2C_Ohio)
+<table style="width: 100%;"><tr><td style="width: 50%">
 
-[This text is not available under an open license.]
+  
+One took a paper, and his life  
+Was happier than a king&#x27;s:  
+His children all could read and write,  
+And talk of men and things.  
+The other took no paper, and  
+While strolling through the wood,  
+A tree fell down upon his crown,  
+And killed him,-as it should.  
+Had he been reading of the news  
+At home, like neighbor Jim,  
+I&#x27;ll bet a cent that accident  
+Would not have happened him
+</td></tr></table>
+
+---
+
+## From _Spirit of the age._
+
+#### 1845-07-17 &middot; [Woodstock, Vt.](http://dbpedia.org/resource/Woodstock%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+ing verses, the opposite fates of two carly friends;  
+the little tale has great morals:  
+One took a paper, and his life  
+Was happier than a king&#x27;s:  
+His children all could read and write,  
+And talk of men and things.  
+The other took no paper, and  
+While strolling through the wood,  
+A tree fell down upon his crown  
+And killed him--as it should.  
+Had he been reading of the news  
+At home, like neighber Jim,  
+I&#x27;ll bet a cent that accident  
+Would not have happened him
+</td></tr></table>
 
 ---
 
@@ -949,30 +1045,50 @@ Would never have happened hi
 
 ---
 
-## [From _Indiana State sentinel._](https://chroniclingamerica.loc.gov/lccn/sn82014301/1845-07-30/ed-1/seq-1)
+## From _Indiana State sentinel._
 
 #### 1845-07-30 &middot; [Indianapolis [Ind.]](http://dbpedia.org/resource/Indianapolis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-ly friends ; the little tale is old, Lut has a great nigr­  
-al. One took a paper, and his life  
+ly friends; the little tale is old, but has a gréat mor­  
+al Ohe took a paper, and his life  
 Was happier than a king&#x27;s  
-His childien all could icad and wiite,  
-And talk of men and thin;;.  
+His children all could read and write,  
+And talk of men and things.  
 The other took no paper, and,  
-While strolling tlouiilt the wood,  
-A lice fell down, upon his ciown,  
-And killed him at it should.  
+While strolling through the wood,  
+A tree fell down, upon his crown,  
+And killed him--as it should.  
 Had he been reading of the news,  
 At home, like neighbor Jim,  
-I&#x27;ll l ot a tent th.tt accident  
-Would nut have happened him
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_fairmount_ver02%2Fdata%2Fsn82014301%2F00202191290%2F1845073001%2F0077.jp2/pct:19.717693,23.217888,14.191925,6.060861/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+I&#x27;ll bet a cent that accident  
+Would not have happened him
+</td></tr></table>
+
+---
+
+## From _The northern galaxy._
+
+#### 1845-07-30 &middot; [Middlebury, Vt.](http://dbpedia.org/resource/Middlebury%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+One took a paper, and his life  
+Was happier than a king&#x27;s;  
+His children all could read end write,  
+And talk of men and things.  
+The other took no paper, and  
+While stroling through the wood,  
+A tree fell down upon his crown,  
+And killed him--as it should.  
+Had he been reading of the news,  
+At home, like neighbor Jim,  
+I&#x27;ll bet a cent that accident  
+Would not have happened him
+</td></tr></table>
 
 ---
 
@@ -1014,7 +1130,32 @@ Would not bare happened him,
 
 ---
 
-## [From _The Columbia Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85025180/1845-08-09/ed-1/seq-2)
+## From _Burlington free press._
+
+#### 1845-08-08 &middot; [Burlington, Vt.](http://dbpedia.org/resource/Burlington%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+two early friends; the little tale has a great  
+moral:  
+One took a paper, and his life  
+Was happier than a king&#x27;s,  
+His children all could read and write,  
+And talk of men and things.  
+The other took no paper, and  
+While stroling through the wood,  
+A tree fell down upon his crown,  
+And killed him--as it should.  
+Had he been reading of the news,  
+At home, like neighor Jim,  
+I&#x27;ll bet a cent that accident  
+Would not have happened him
+</td></tr></table>
+
+---
+
+## From _The Columbia Democrat._
 
 #### 1845-08-09 &middot; [Bloomsburg, Pa.](http://dbpedia.org/resource/Bloomsburg%2C_Pennsylvania)
 
@@ -1023,20 +1164,17 @@ Would not bare happened him,
   
 One took a paper, and his life  
 Was happier than a king&#x27;s  
-His children all&#x27;could read and write.  
+His children all could read and write,  
 And talk of men and things.  
-The other look no paper and,  
+The other took to paper and,  
 While strolling through the wood,  
 A tree fell down, upon his crown,  
-And killed him as it should  
+And killed him--as it should  
 Had he been reading of the news,  
 At home, like neighbor Jim,  
 I&#x27;ll bet a cent that accident  
 Would not have happend him
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn85025180%2F00212477606%2F1845080901%2F0127.jp2/pct:35.231388,31.568572,12.676056,9.884540/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -1072,32 +1210,51 @@ Would never have happened him.
 
 ---
 
-## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1845-08-15/ed-1/seq-2)
+## From _The Ottawa free trader._
 
 #### 1845-08-15 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-it, be again saw. But a more striking caio still  
-ia one we find in the Reveille the opposite file  
-of two friends, related in touching verse.  
-One took a paper, and his lifo  
-Waa happier than a king&#x27;s :  
-Hi children all could read und write,  
-And talk of men and thing. &#x27;  
-The nther took no paper, and  
-While strolling through Ihe wood,  
+is one we find in the Reveille--the opposite fate  
+of two friends, related in touching verse,  
+One took a paper, and his life  
+Was happier than a king&#x27;s:  
+His children all could read and write,  
+And talk of men and things.  
+The other took no paper, and  
+While strolling through the wood,  
 A tree fell down upon his crown  
 And killed him, as it should.  
-Had he been reading of the newa  
-At home, like neighbor Jim, &quot; .  
+Had he been reading of the news  
+At home, like neighbor Jim,  
 I&#x27;ll bet a cent this accident  
-Would not have happened him, 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn84038582%2F00212472037%2F1845081501%2F0389.jp2/pct:51.888912,76.301268,14.028997,8.530947/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Would not have happened him
+</td></tr></table>
+
+---
+
+## From _Sunbury American and Shamokin journal._
+
+#### 1845-08-16 &middot; [Sunbury, Northumberland Co., Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+One took a paper, and his life  
+Was happier than a King&#x27;s;  
+His children all could read and write,  
+And talk of men and things.  
+The other took no paper, and  
+While strolling through the wood,  
+A tree fell down upon his crown,  
+And killed him--as it should.  
+Had he been reading of the news  
+At home, like neighbor Jim,  
+I&#x27;ll bet a cent that accident  
+Would not have happened him
+</td></tr></table>
 
 ---
 
@@ -1293,67 +1450,6 @@ accident, Had not befallen lum !
 
 ---
 
-## [From _The Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn85042796/1849-05-30/ed-1/seq-1)
-
-#### 1849-05-30 &middot; [Camden, S.C.](http://dbpedia.org/resource/Camden%2C_South_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-I knew two men as much alike,  
-  
-As cm r you saw !uo stamps,  
-Anil iio phrenologist cou.&#x27;d find  
-A dilF rciite in their bumps,  
-One took the papers, and his life  
-Is happier than a king&#x27;s;  
-Ilis children all c m read anil write,  
-And talk of men and things.  
-The oilier took t:o papois. and  
-While strolling through a wood  
-A tree fell down upon his crown  
-And killed him?&quot;wcriy good,&quot;  
-Had he Ireen reading of the news  
-At l.onie like neighbor Jim.  
-I&#x27;ll bet a cent that accident  
-Would not have huppen&#x27;d him
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_albinoskunk_ver02%2Fdata%2Fsn85042796%2F00295863080%2F1849053001%2F0309.jp2/pct:19.408767,33.607550,10.397554,9.953704/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Columbus Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83016867/1849-07-21/ed-1/seq-1)
-
-#### 1849-07-21 &middot; [Columbus, Miss.](http://dbpedia.org/resource/Columbus%2C_Mississippi)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-1 knew two men as much alike  
-v As e&#x27;er you saw two stumps,  
-And no phrenologist could find  
-A difference in their humps.  
-One took lite papers, and his lift  
-&#x27; Is happier thin a king&#x27;s ;  
-. His children all can read and write,  
-And talk of men and things. ; &#x27; &quot;  
-The other took r.o papers, and  
-HTiila strolling through a wood,  
-: A tree fell down npon his crown, &#x27;  
-And killed him, &quot;worry good.&quot;  
-Had hs been reading of tho new  
-Athene, like neighbor Jim,  
-I&#x27;d bet a cent that accident-Would  
-not have happened him
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016867%2F00295877637%2F1849072101%2F0917.jp2/pct:3.830563,72.778905,12.525334,10.818120/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Keowee courier._](https://chroniclingamerica.loc.gov/lccn/sn84026912/1849-07-21/ed-1/seq-4)
 
 #### 1849-07-21 &middot; [Pickens Court House, S.C.](http://dbpedia.org/resource/Pickens%2C_South_Carolina)
@@ -1415,6 +1511,33 @@ Would not have happened him
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_gonne_ver01%2Fdata%2Fsn86053688%2F00202190194%2F1849112901%2F0199.jp2/pct:8.896940,31.902174,12.560386,10.788043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The Rutland County herald._
+
+#### 1853-12-02 &middot; [Rutland, Vt.](http://dbpedia.org/resource/Rutland%2C_Vermont_(city))
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+I knew two men as much alike,  
+As e&#x27;er you saw twe stunps,  
+And no phrenologist could find  
+A difference in their humps.  
+One took the papers, and his lif  
+Is hapmier than a kinp&#x27;s.  
+His children all can read and write,  
+And talk of men and things,  
+The other took no papers, and  
+White strolling through a wood,  
+A tree fell down upon his crown,  
+And killd him--&quot;werry good.&quot;  
+Had he been reading of the news  
+At home like neighbor Jim,  
+I&#x27;ll bet a cent that accident  
+Would not have happen&#x27;d him
+</td></tr></table>
 
 ---
 
@@ -1559,6 +1682,33 @@ Would not have happened him
 
 ---
 
+## From _American Lancaster gazette._
+
+#### 1858-03-11 &middot; [Lancaster, Ohio](http://dbpedia.org/resource/Lancaster%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+I know two men as much alike  
+As e&#x27;er you saw two stumps,  
+And no Phrenelogist could find  
+A difference in their bumps.  
+One took the papers, and his life  
+Is happier than a king&#x27;s,  
+His children all can read and write,  
+And talk of men and things.  
+The other took no paper, and t  
+While strolling through the wood,  
+A tree fell down upon his crown,  
+And killed him &quot;werry good.&quot;  
+Had he been reading of the news  
+At home like neighbor Jim,  
+I&#x27;ll bet a cent that accident  
+Would not have happened him
+</td></tr></table>
+
+---
+
 ## [From _Democrat and sentinel._](https://chroniclingamerica.loc.gov/lccn/sn86071378/1865-01-11/ed-1/seq-4)
 
 #### 1865-01-11 &middot; [Ebensburg, Pa.](http://dbpedia.org/resource/Ebensburg%2C_Pennsylvania)
@@ -1643,37 +1793,24 @@ The other took np paper,and
 
 ---
 
-## [From _The tri-weekly news._](https://chroniclingamerica.loc.gov/lccn/sn84026922/1866-12-25/ed-1/seq-1)
+## From _The tri-weekly news._
 
 #### 1866-12-25 &middot; [Winnsboro, S.C.](http://dbpedia.org/resource/Winnsboro%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
  a king&#x27;s;  
-,lis children all can road and write,­  
-All talk of men and thingt.  
-ie other took no papers, and  
-While strolling through a wood  
+His children all can read and write,­  
+All talk of men and things.  
+he other took no papers, and  
+While strolling threugh a wood  
 A tree fell down upon his crown  
-And killed him-&quot;worry good.&quot;  
-Had he been reading of the newst  
-At haone, like tioigibdi- 3ntm,  
-&#x27;hi bet a cent that accident  
-Would not have happeued him
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_ettabaker_ver02%2Fdata%2Fsn84026922%2F00237288154%2F1866122501%2F0816.jp2/pct:2.237927,44.119715,14.778632,8.104851/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## Advertisements & Notices
-
-#### From _Hull Packet_
-
-#### 1867-04-26 &middot; [Hull, England](http://dbpedia.org/resource/Kingston_upon_Hull)
-
-[This text is not available under an open license.]
+And killed him--&quot;werry good.&quot;  
+Had he been reading of the news,  
+At home, like neighbor Jim,  
+&#x27;ll bet a cent that accident  
+Would not have happened him
+</td></tr></table>
 
 ---
 
@@ -1733,6 +1870,49 @@ Would not have befallen him.
 
 ---
 
+## From _The Conservative._
+
+#### 1867-08-15 &middot; [M'connelsville, Ohio](http://dbpedia.org/resource/McConnelsville%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+to renew their revenue licenses.  
+One man took a paper, and his life was hap  
+pier than a king&#x27;s; his children alf could read  
+and write and talk of menand sthings, Ans  
+other took no paper, and while strolling throng  
+the wood, a tree fell down upon his crown  
+and killed him,-as it should. Had he been  
+reading of the news, at home like neighbor Jim,  
+we&#x27;ll bet a cent that accident would not have  
+happened himn Rattirhter
+</td></tr></table>
+
+---
+
+## From _Daily Ohio statesman._
+
+#### 1867-08-21 &middot; [Columbus, Ohio](http://dbpedia.org/resource/Columbus%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+a  
+  
+One man took a paper, and his life was  
+happier than a king&#x27;s; his childern all  
+could read and write and talk of men and  
+things. Another took no paper; and  
+while strolling through the wood, a tree  
+fell down upon his crown and killed him  
+it shoulde. Had he been reading of the  
+news, at home like neighbor Jim, we&#x27;ll bet  
+a cent that accident would not have han
+</td></tr></table>
+
+---
+
 ## [From _The Newberry herald._](https://chroniclingamerica.loc.gov/lccn/sn84026909/1867-08-21/ed-1/seq-2)
 
 #### 1867-08-21 &middot; [Newberry, S.C.](http://dbpedia.org/resource/Newberry%2C_South_Carolina)
@@ -1780,6 +1960,27 @@ would not have happened him.
 
 ---
 
+## From _The Holt County sentinel._
+
+#### 1867-09-06 &middot; [Oregon, Missouri.](http://dbpedia.org/resource/Oregon%2C_Missouri)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+One man took a paper, and his life  
+was happier than a king&#x27;s; his children  
+all could read and write and talk of men  
+and things. Another took no paper;  
+and while stroling through the wood, a  
+tree fell down upon his crown and kill-  
+d him,--as it should. Had he been  
+reading of the news, at home like neigh  
+bor Jim, we&#x27;ll bet a cent that accident  
+would not have happened him.ILyon
+</td></tr></table>
+
+---
+
 ## [From _Weekly Trinity journal._](https://chroniclingamerica.loc.gov/lccn/sn85025202/1867-09-14/ed-1/seq-1)
 
 #### 1867-09-14 &middot; [Weaverville, Calif.](http://dbpedia.org/resource/Weaverville%2C_California)
@@ -1802,30 +2003,27 @@ cent that accident would not have happened him
 
 ---
 
-## [From _The Fairfield herald._](https://chroniclingamerica.loc.gov/lccn/sn84026923/1867-09-18/ed-1/seq-4)
+## From _The Fairfield herald._
 
 #### 1867-09-18 &middot; [Winnsboro, S.C.](http://dbpedia.org/resource/Winnsboro%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-gia manages to hold her own inl popu­  
-lation, considering the latitudo the  
+gia manages to hold her own in popue­  
+lation, considering the latitude the  
 &quot;hoss cats&quot; have.  
 One man took a paper, and his life  
-was happier than a king&#x27;s ; his chil.  
-dren all could read and writo and talk  
-of ien and things. Another took no  
-paper ; and while strolling through  
+was happier than a king&#x27;s; his chile  
+dren all could read and write and talk  
+of men and things. Another took no  
+paper; and while strolling through  
 the wood, a tree fell down upon his  
-crown and killed himn-as it should.  
-Had ho been reading of the news, at  
-home like neighbor, Jim, we&#x27;ll bet &#x27;a  
+crown and killed him--as it should.  
+Had he been reading of the news, at  
+home like neighbor, Jim, we&#x27;ll bet a  
 cent that accident would not hav
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_drinksmall_ver01%2Fdata%2Fsn84026923%2F00237288361%2F1867091801%2F0257.jp2/pct:83.764535,39.848351,13.435078,7.891637/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -1875,26 +2073,25 @@ accident would not have happened him
 
 ---
 
-## [From _The daily Gate City._](https://chroniclingamerica.loc.gov/lccn/sn83025182/1867-10-06/ed-1/seq-4)
+## From _The daily Gate City._
 
 #### 1867-10-06 &middot; [Keokuk, Iowa](http://dbpedia.org/resource/Keokuk%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-A* AWFCL WARNING.—One man took a  
+  
+An AwFUl WARNInG.  One man took a  
 paper and his life was happier than a king&#x27;s  
 his children all could read and write and  
-talk of men and things. A not btr took no pa­  
-per and while strolling through the wood, a  
+talk of men and things. Another took no pa.­  
+per; and while strolling through the wood, a  
 tree fell down upon his crown and killed him  
 as it should. Had he been reading of the  
-news, at home like neighbor Jim, we&#x27;ll het a  
-cent that accident would not have happene
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn83025182%2F00279528384%2F1867100601%2F0320.jp2/pct:4.714877,87.617925,11.096952,4.492925/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+news, at home like neighbor Jim, we&#x27;ll bet a  
+cent that accident would not have happened  
+him.
+</td></tr></table>
 
 ---
 
@@ -2312,32 +2509,6 @@ Hadnot befallen him ! . :: . . , ;.i -
 
 ---
 
-## [THE ADVANTAGE OF TAKING A NEWSPAPER.](http://trove.nla.gov.au/ndp/del/article/39681059)
-
-#### From _Launceston Examiner (Tas. : 1842 - 1899)_
-
-#### 1871-04-15 &middot; [Launceston, Tasmania](http://dbpedia.org/resource/Launceston%2C_Tasmania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Ii knew two friends so much alike, As  
-e&#x27;er you saw two stomps t ,And no  
-phrenologist could find A difference in  
-their bumps. One took a paper, nnd his  
-lifre Was happier than a king&#x27;s; His  
-children all could read and write, And  
-talk of men and things. The other took  
-no paper, and, While strolling through a  
-wood, A tree fell down upon his crown,  
-And kill&#x27;d him-as It shouldl Had he been  
-reading of ,he news At homa, like  
-neighbor Jim, I&#x27;ll et na ont this  
-accident Had not belallen him I 
-</td></tr></table>
-
----
-
 ## [SELECT POETRY. THE ADVANTAGE OF TAKING A NEWSPAPER.](http://trove.nla.gov.au/ndp/del/article/111142611)
 
 #### From _The Newcastle Chronicle (NSW : 1866 - 1876)_
@@ -2363,32 +2534,6 @@ neighbour Jim, &#x27; I&#x27;ll bet a cent this
 accident &#x27; .&#x27;.. &#x27; . &#x27; Had not befallen  
 him 
 </td></tr></table>
-
----
-
-## [From _Connecticut western news._](https://chroniclingamerica.loc.gov/lccn/sn84027718/1871-09-15/ed-1/seq-1)
-
-#### 1871-09-15 &middot; [Salisbury, Litchfield Co., Conn.](http://dbpedia.org/resource/Canaan%2C_Connecticut)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-One took a paper, and his life  
-Wan happier than a king&#x27;s ;  
-Hisjchildren all could read and write,&#x27;  
-And talk of men and things,  
-The other took no paper, and.  
-While strolling through a wood,  
-A tree fell down upon his crown  
-And killed him as it should.  
-Had he been reading of the news  
-At home, like neighbor Jim,  
-ril bet a cent that accident  
-Would never have happened him.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_animals_ver01%2Fdata%2Fsn84027718%2F00271763803%2F1871091501%2F0052.jp2/pct:85.049834,18.689631,8.695652,4.852787/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
@@ -2451,32 +2596,27 @@ Would never have happened him.
 
 ---
 
-## [From _The Bossier banner._](https://chroniclingamerica.loc.gov/lccn/sn85034235/1871-10-14/ed-1/seq-1)
+## From _Oxford Democrat._
 
-#### 1871-10-14 &middot; [Bellevue, Bossier Parish, La.](http://dbpedia.org/resource/Benton%2C_Louisiana)
+#### 1872-02-13 &middot; [Paris, Me.](http://dbpedia.org/resource/Paris%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-  
-Roading the Paper.  
-Onetoeh a paper, and his life  
-Waa happier than a king&#x27;«;  
-Ilia children all could read and write.  
-And talk of men and diinga  
-The other took no paper, and.  
-While «trolling throng*» a wood,  
+READING THE PAPER.  
+One took a paper, and his life  
+Was happier than a king&#x27;s,  
+His children all could read and write,  
+And talk of men and things.  
+The other took no paper, and,  
+While strolling through a wood,  
 A tree fell down upon his crown  
-And killed him—as it should.  
-Had he been reading of the now«,  
-At home, like neighbor diin.  
+And killed him as it should.  
+Had he been reading of the news,  
+At home, like neighbor Jim,  
 I&#x27;ll bet a cent that accident  
-Would never have happened to him.  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_meowth_ver01%2Fdata%2Fsn85034235%2F00295874004%2F1871101401%2F0163.jp2/pct:31.240370,13.059858,14.214176,8.874006/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Would never have happened him.
+</td></tr></table>
 
 ---
 
@@ -2946,6 +3086,113 @@ Had not befallen him
 
 ---
 
+## From _The Tiffin tribune._
+
+#### 1879-01-30 &middot; [Tiffin, Ohio](http://dbpedia.org/resource/Tiffin%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+I knew two friends as much allke  
+As ever wers two stumps;  
+And no phrenologist could find  
+A difference in their bumps.  
+One took a paper, and his lif  
+Was happier than a king&#x27;s;  
+His children all could read and write,  
+And talk of men and things.  
+The other took no paper, and.  
+While strolling through the wood,  
+A tree fell down upon his crown,  
+And killed him--as it should.  
+Had he been reading of the new  
+At home, like neighbor Jim,  
+I&#x27;d risk a cent this accident  
+Had not befallen him
+</td></tr></table>
+
+---
+
+## From _The Ottawa free trader._
+
+#### 1879-02-08 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+a daughter of Brigham Young,  
+used to appear on the stage of the Salt Lake  
+Theatre during her father&#x27;s life. After his death  
+she came eastward to find employment as an ac­  
+tress, and was engaged for the Folly Theatre, in  
+New York city; but the enterprise failed, and  
+she got no pay. Lately she went off with a va­  
+riety show, which collapsed in Halifax, leaving  
+most of the performers without money enough  
+to get out of town. Miss Young paid their fares  
+to Boston.  
+All who do not take a good newspaper should  
+have the following warning read to them. It is  
+fifty years old, but none the worse for wear:  
+I knew two friends as much alike  
+As ever were two stumps;  
+And no phrenologist could find  
+A difference in their bumps.  
+One took a paper, and his life  
+Was happier than a king&#x27;s;  
+His children all could read and write,  
+And talk of men and things.  
+The other took no paper, and,  
+While strolling through the wood,  
+A tree fell down upon his crown,  
+And killed him--as it should.  
+Had he been reading of the news  
+At home, like neighbor Jim,  
+I&#x27;d risk a cent this accident  
+Had not befallen him
+</td></tr></table>
+
+---
+
+## From _Vermont watchman and State journal._
+
+#### 1879-03-12 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ht by going to the door when  
+he came home and whispering through the  
+key hole: &quot;Is that you, Willie?&quot; Her hus­  
+band&#x27;s name is dohn, and he stays at home  
+every night now, and sleeps with one eye  
+open and a revolver under his pillow.  
+&quot;First chass in astronomy, stand up.  
+Where does the sun rise?&quot; &quot;Please, sir,  
+down in our meadow; I seed it yesterday.&quot;  
+&quot;Hold your tongue, you dunce. Where  
+does the sun rise?&quot; &quot;I know; in the east.&quot;  
+&quot;Right; and why does it rise in the east?&quot;  
+&quot;Because the &#x27;east makes everything rise.&quot;  
+All who do not take a good newspaper  
+should have the following warning read to  
+them:  
+I knew two friends as much alike  
+As ever were two stumps,  
+And no phrenologist could find  
+A difference in their bumps.  
+One took a paper, and his life  
+Was happier than a king&#x27;s;  
+His children all could read and write,  
+And talk of men and things.  
+The other took no paper, and,  
+While strolling through the wood,  
+A tree fell down upon his crown,  
+And killed him-as it should.  
+Had he been reading of the ne  
+t home, line nennit ets
+</td></tr></table>
+
+---
+
 ## [From _The Independent ... Devoted to the Consideration of Politics, Social and Economic Tendencies, History, Literature, and the Arts (1848-1921)_](https://archive.org/details/sim_independent_1879-04-03_31_1583/page/n7/mode/1up?view=theater)
 
 #### 1879-04-03 &middot; [New York](http://dbpedia.org/resource/New_York_City)
@@ -3002,53 +3249,43 @@ Had not befallen him:
 
 ---
 
-## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031492/1879-04-10/ed-1/seq-11)
+## From _The sun._
 
-#### 1879-04-10 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
+#### 1879-04-06 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ws us with a death grip. Muneame  
-tu his aid, and a strong cord was bound around  
-the wolfs mouth, rendering It harmless. The  
-curds were unliUentlonully drawn so tight that  
-the annual died of strangulation mid exhaustion  
-.horny altur b.hiK uUbnrul. If vnivnd to bo  
-u lull-brown black mountain will, tally tbrcu  
-icot bibb, ami nuliibnik probably 11X1 nouutl..  
+ costs, which will be just punishment for taking  
+the case, as they did, on speculation, expecting to ar­  
+range a compromise by which they could get several  
+thousand dollars out of Senator Cameron. The jury  
+agreed within a very few moments after leaving the box  
+that the woman was an impostor, that her case was a  
+ut up job, and that the letters in which Cameron asks  
+her to be his wife were forgeries. Ex Senator Cameron&#x27;s  
+friends are urging him to use the law to punish the wo-  
+man, her lawyers, and a detective whom they employed,  
+for a conspiracy.  
   
-Clrandclounhtcr—“ Hut you will uo to the  
-/uiuTul of yi&#x27;Ut* old lr«eml, ynii&#x27;ilouf t Ofto­  
-iruiiumii—•• O, I ‘iou&#x27;t Know, Dun t lulu to mu  
-SIISI-. Mud. us ever 1 •bull U- able to «cl  
-  
-OUUUKNT GOSSir.  
-  
-SHOULD TAKH THIS I*AL*l£H3.  
-Jn&#x27;t*pen&lt;l‘nl.  
-I knew two friends as much alike  
-As ever you saw two slump*.  
-And no phrenologist emiln find  
-A difference In their bumps.  
-  
-One look a paper, and his life  
-Was happier than « king&#x27;s;  
-Ills children all rould read and wrlle,  
-And talk of men and tliltiij*.  
-  
-Tim other took no piper, and,  
-While strolling through the wood,  
-A tree fell down upon his crown,  
-Ami killed him—as it should.  
-  
-Had ho been rending of Hie news  
-At homo, like Neighbor Jim,  
-1M but a cent this accident  
-Had out bofullon liitu.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_pulaski_ver01%2Fdata%2Fsn84031492%2Fno_reel%2F1879041001%2F0011.jp2/pct:30.188804,3.571429,23.798521,94.895812/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Men Should Take the Papers.  
+rom the Imdependent.  
+I knew two friends as much alik  
+As ever you saw two stumns,  
+And no phrenologist could find  
+A difference in their bumps.  
+One took a paper, and his lite  
+Was happier than a king&#x27;s;  
+His children all could read and write,  
+And talk of men and things.  
+The other took no paper, and  
+e strolling through the wood  
+A tree tell down upon his crown  
+And killed him-as it should.  
+Had he been reading of the news  
+At home, like Neighhor Jim,  
+I&#x27;d bet a cent this acenient  
+Had not befallen him.
+</td></tr></table>
 
 ---
 
@@ -3194,31 +3431,6 @@ Had not befalleu him. Hoi.mes
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/fu_albert_ver01%2Fdata%2Fsn96027724%2F00271766294%2F1879052801%2F0418.jp2/pct:11.875912,20.224192,14.254460,8.413077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## [A WARNING.](http://trove.nla.gov.au/ndp/del/article/127642087)
-
-#### From _The Gundagai Times and Tumut, Adelong and Murrumbidgee District Advertiser (NSW : 1868 - 1931)_
-
-#### 1879-05-30 &middot; [Gundagai, New South Wales](http://dbpedia.org/resource/Gundagai)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-A WARNING. 1 I knew two friends as much  
-alike As ever you uw two stumps ; Ant]  
-no phrenologist could find A difference  
-in their pumps. One took a paper, nnd  
-his lifo Wm happier thnn a king&#x27;s ; His  
-children all could rend nnd writo, And  
-talk of men and things ? &#x27; The other  
-took no papers, and, While strolling  
-through tbe wood, A tree fell &#x27;down upon  
-his crown, And killed him — as it  
-should. Had he lieen reading of the news  
-At home, like neighbor Jim, I&#x27;d bet it  
-cent tbia accident Had nnt befallen him.
-</td></tr></table>
 
 ---
 

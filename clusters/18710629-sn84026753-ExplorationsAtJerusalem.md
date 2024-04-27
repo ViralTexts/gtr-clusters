@@ -1,7 +1,7 @@
 
 # The Explorations at Jerusalem
 
-### 22 reprints from 1867-11-14 to 1871-08-11
+### 29 reprints from 1867-11-14 to 1871-08-11
 
 ## [The Explorations at Jerusalem](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1/)
 
@@ -35,6 +35,92 @@ Further explorations disclosed a subterranean passage, perhaps orginally constru
 #### 1867-11-14 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
+
+---
+
+## From _The sun._
+
+#### 1867-11-29 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Having arrived at a depth of 79 feet, th  
+men were brealing up a stone at the bottom  
+of the shalt. Suddenly the ground gave  
+way, down went the stone and the hammer,  
+the men  arely saving themselves. They at  
+once rushed up and told the sergeant they  
+had found the bottomless pit. I went down  
+to the spot and examined it, and, in order  
+that you may have an idea of the extent of  
+ our work, I will give you a description of our  
+descent,  
+The shaft mouth is on the south side of the  
+Haram Wall, near the southwest angel,  
+among the prickly pears; beside it, to the­  
+east, lving against the Haram Wall, is a large  
+mass of rubbish that has been brought up,  
+while over the mouth itself is a triangular  
+gin, with iron wheel attached, with guy for  
+running up the excavated soll. Looking  
+down the shaft, one sees that it is lined for  
+the first twenty feet with frames ift oin, in  
+the clear. Further down the Haram Wall  
+nd cut through is seen, and a man standing  
+in what appears to be the bottom. An order  
+is given to this man, who repeats it,  
+and then faintly is heard a sepulchral  
+voice answering, as it were from  
+another world. Reaching down to the  
+man who is visible is a 3ift, rope ladder,  
+and on descending by it one finds he is  
+ standing on a ledge which the ladder does  
+not touch by four feet. This ledge is onfthe  
+ edge of a wall ruming north and south and  
+abutting on the Lar wal its ei fa  
+just cuts the centre of the haft, which has to  
+canted off about two feet towards the  
+east, just where some latge, loose stones jut  
+out in the most disagrecable manner. Hett  
+five more trames nave been fixed to keep  
+these siones steady. On peering down from  
+this ledg one sees the Baram wall with its  
+projecting cour as until they are lost in the  
+darkness below, observing, also, at the same  
+time, that two sides of the shait are cutting  
+through the soil, and are relf-supportle  
+Now, to descend this secend drop the ladder  
+is again required; accordingly, having told  
+the man at the bottem to get under cover, it  
+is lowered to the ledge, whence it 1s found  
+that it does not reach to the bottom by  
+sexeral fest. It ts theref re lowrred the ig  
+distance, and one has to reach it by  
+chimbing down hand over hand for about  
+twelve feet. On passing along one notes the  
+marvellous joints of the Haram Wall stones,  
+and also, probably, gets a few blows on skull  
+and knuckles from falling pebbles. Just  
+on reaching the bottom, one fecollects that  
+there is and a pit of unkown depth to be  
+explored, and cantiously straddles across it  
+Then can be seen that one course in the Ha­  
+ram Wall, near the bottom, is quite smooth  
+all over, the stone being fincly dreated, all  
+other courses being only well dreased round  
+the dratta; one also sees two stout boards  
+lying against the Haram Wall, under which  
+the men retire whenever an accidental  
+shower of atones renders their po ition dan  
+gerons. One is now at a depth of seventy­  
+aine feet fom the surface, and from here we  
+commence the exploration of the &quot;bottom­  
+less pit. After dropping a rope down, we­  
+found that it was only sixty-five feet deep,  
+though it looked black enough for anything
+</td></tr></table>
 
 ---
 
@@ -344,88 +430,270 @@ sequent on this discovery. The depth of th
 
 ---
 
-## [From _The Middlebury register._](https://chroniclingamerica.loc.gov/lccn/sn83025667/1871-06-27/ed-1/seq-1)
+## From _The Middlebury register._
 
 #### 1871-06-27 &middot; [Middlebury, Vt.](http://dbpedia.org/resource/Middlebury%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-TllK El&#x27;I.OK.TIO.S AT JkUI&#x27;SALMI.  
-Tho first opcrations woro coiunicnccd on  
   
-the westcrn wall, at a point near what is  
-known as Wilson&#x27;s Arch. It receivcs  
-this name from thc fact that it was first  
-discovcrcd by Captain Wilson, who had  
-not the mcaiiH, howcver, to prosccutc any  
-miiiing opcrations. Captain Warren&#x27;s  
-explorations provcd this arch to be one  
-of a scrics foiniing a viaduct wliich led  
-from tho Toniplo toward thc palaco of  
-Horod ou tho weitern hill. and constitut­  
-ing perliaps tho wry bridgo across which  
-Jesus was comliu&#x27;ti&#x27;il f&#x27;roin l&#x27;ilate to Ilerod  
+basing influence of French fiction is some-  
   
-ou the day nf his trial. Tho reniains of  
+times seen in the English novel, it is be­  
+cause the results of that influence are  
+found to be acceptable to the reader.  
+The excuse of a single reader--of that  
+one, for instance, who is at this moment  
+reading these lines--is that one man does  
   
-a wiuding aipicduct, cut in thc solid rock  
-bcncath this bridgo, wcre also discovcrcd.  
-Part ol this bridgo haa fallcn, and brokcn  
-aud buried thc aqucduct in its fall ; and  
-the original paveiiicnt of the ancient road  
+wall, is a large mass of rubbish that has  
+been brought up; while over the mouth  
+itself is a triangular gin, with iron wheel  
+attached, with guy, for running up the  
   
-iu t!.o valloy itself is now forty-fivc fect  
-below tho prcscnt surfaco formcd by tho  
-ruins of tho ancient walls aud houscs.  
+excavated soil. Looking down the shaft,  
+one sees that it is lined for the first twen­  
+ty feet with frames four feet six inches in  
+the clear; further down the Sanctuary  
+wall and soil cut through are seen, and a  
+man standing at what appears to be the  
+bottom. An order is given to this man,  
+who repeats it, and then, faintly, is heard  
+a sepulchral voice answering, as it were  
+from another world. Reaching down to  
+the man who is visthle is a thirty-four  
+rope-ladder; and on descending by  
+it, one finds he is standing on a ledge  
+which the ladder does not touch by four  
+feet. This ledge is the top of a wall run­  
+ning north and south, and abutting on  
+the Sanctuary wall; its east face just  
+cuts the centre of the shaft, which has to  
+be canted off about two feet toward the  
   
-Nor is this all. A pcrfect nct-work of
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_irasburg_ver01%2Fdata%2Fsn83025667%2F00280777821%2F1871062701%2F0318.jp2/pct:50.869486,62.621702,11.184331,12.163116/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+east, just where some large loose stones  
+  
+not count; that his influence is nothingut out in the mos disgebe maner  
+  
+And it is remarkable that an age whicher five more frames have been fixed to  
+preaches so loudly the gospel of individee the ston ste On ein  
+ual action, which asserts the very unit of o o ti e o ee te ane­  
+society to be the individual, should be the a a i i oei oeo  
+  
+time also in which every man is so likely til they are lost in the darkness below;
+</td></tr></table>
 
 ---
 
-## [From _The Middlebury register._](https://chroniclingamerica.loc.gov/lccn/sn83025667/1871-06-27/ed-1/seq-1)
+## From _The Middlebury register._
 
 #### 1871-06-27 &middot; [Middlebury, Vt.](http://dbpedia.org/resource/Middlebury%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-bcing only wcll-drcsscd  
-around the drafts; one also sccs two stout  
-boards lying agaiiint tho Sanctuary wall,  
-under which tho men rctire wheuover an  
-accidcntal showcr of stoncs rendcrs thcir  
-position dangcrous, Ono is now at a  
-dcpth of seventy-nino fect from tho .sur­  
-faco. and from hcre wo commcncc tho cx-  
   
-ploring of tho &quot;bottomlcss &#x27; pit.&quot; Aftcr .  
-dropping a ropc down, wo found that it  
-was only six fect dccp, though it lookcd &#x27;  
-black cnough for any thing.&quot; m I  
-Furthcr o.ploration3 discloscd a sub-&#x27;  
   
-tcrrancan passagc, perhaps ongtnally con­  
-structcd to carry ofT tho overflow from  
-tho Templo; and the intrepid investigator  
-crawlcd on his hands and fcct 400 fcct  
-along this slimy draiu through thc mud,  
-the passage at tiincs becoming so narrow  
-that ho could barcly squccze through,and  
-thc air so foul as to thrcaten suffocation.  
-Tho difficulty of his position is indicated  
-by thc fact that he had to back out 200  
-fcct bcfore ho could gct to a point whcrc  
-he could tiirn his hcad. From &quot;The He­  
-covery of Jcrusalcm,&quot; by Lymax AnnorT,  
-in Warner&#x27;s Mayazinc fur Juhj.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_irasburg_ver01%2Fdata%2Fsn83025667%2F00280777821%2F1871062701%2F0318.jp2/pct:61.998902,37.660505,11.330771,13.771695/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+observing also, at the same time, that two  
+sides of the shaft are cut through the soil,  
+and are self-supporting. Now to descend  
+this second drop the ladder is again re-  
+quired; accordingly, having told the man  
+at the bottom to get under cover, it is  
+  
+owered to the ledge, from whence it is
+</td></tr></table>
+
+---
+
+## From _The Middlebury register._
+
+#### 1871-06-27 &middot; [Middlebury, Vt.](http://dbpedia.org/resource/Middlebury%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+ThE ExPLORATIONS Ar JERUSALEM.  
+The first operations were commenced on  
+  
+the western wall, at a point near what is  
+known as Wilson&#x27;s Arch. It receives  
+this name from the fact that it was first  
+discovered by Captain Wilson, who had  
+not the means, however, to prosecute any  
+mining operations. Captain Warren&#x27;s  
+explorations proved this arch to be one  
+of a series forming a viaduct which led  
+from the Temple toward the palace of  
+Herod on the western hill, and constitut­  
+ing perhaps the very bridge across which  
+Jesus was conducted from Pilate to Herod  
+  
+on the day of his trial. The remains of  
+  
+a winding aqueduct, cut in the solid rock  
+beneath this bridge, were also discovered.  
+Part of this bridge has fallen, and broken  
+and buried the aqueduct in its fall; and  
+the original pavement of the ancient road  
+  
+in the valley itself is now forty-five feet  
+below the present surface formed by the  
+ruins of the ancient walls and houses.  
+  
+Nor is this all. A perfect net-work of
+</td></tr></table>
+
+---
+
+## From _The Middlebury register._
+
+#### 1871-06-27 &middot; [Middlebury, Vt.](http://dbpedia.org/resource/Middlebury%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+by several feet. It is therefore lowered  
+to the required distance, and one has to  
+reach it by climbing down over hand for  
+about twelve feet. On passing along one  
+notes the marvelous joints of the Sanctu  
+ary wall stones, and also, probably, gets  
+a few blows on skull and knuckles from  
+falling pebbles. Just on reaching the  
+bottom one recollects there is still a pit  
+of unknown depth to be explored, and  
+cautiously straddles across it. Then can  
+be seen that one course in the Sanctuary  
+wall, near the bottom, is quite smooth all  
+over, the stone being finely dressed, al
+</td></tr></table>
+
+---
+
+## From _The Middlebury register._
+
+#### 1871-06-27 &middot; [Middlebury, Vt.](http://dbpedia.org/resource/Middlebury%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+other courses being only well-dressed  
+around the drafts; one also sees two stout  
+boards lying against the Sanctuary wall,  
+under which the men retire whenever an  
+accidental shower of stones renders their  
+position dangerous. One is now at a  
+depth of seventy-nine feet from the sur­  
+face, and from here we commence the ex-  
+  
+ploring of the &quot;bottomless pit.&quot; After  
+dropping a rope down, we found that it  
+was only six feet deep, though it looked  
+black enough for any thing.&quot;  
+Further explorations disclosed a sub  
+  
+terranean passage, perhaps originally con­  
+structed to carry off the overflow from  
+the Temple; and the intrepid investigator  
+crawled on his hands and feet 400 feet  
+along this slimy drain through the mud,  
+the passage at times becoming so narrow  
+that he could barely squecze through, and  
+the air so foul as to threaten suffocation.  
+The difficulty of his position is indicated  
+by the fact that he had to back out 200  
+feet before he could get to a point where  
+he could turn his head.-From &quot;The Re­  
+covery of Jerusalem,&quot; by LyMAn Annoer,  
+in Harper&#x27;s MazasinE for IuLY.
+</td></tr></table>
+
+---
+
+## From _The Middlebury register._
+
+#### 1871-06-27 &middot; [Middlebury, Vt.](http://dbpedia.org/resource/Middlebury%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+some of which were probably used for  
+  
+the storage of food, and others as aqueducts  
+and cisterns. And the whole result more  
+than confirms the ideas of Jewish archi­  
+tectural grandeur which the books of the  
+Bible and the pages of Josephus combin­  
+ed to give, but which have hitherto been  
+regarded by many skeptical minds as  
+  
+apocryphal.  
+  
+Along the southern wall his discoveries  
+were scarcely less interesting. Here he  
+found a double pavement, one twenty­  
+three, the other forty-three feet below the  
+present surface of the ground. Here also  
+  
+he found some curious remains both of  
+  
+Hebrew and of Christian origin. The his knees and feet, Brigham Young  
+  
+they broke it through, and were all in-  
+  
+gulfed, drowned and lost. This, my breth-  
+ren and sisters, is the true and fair ex  
+  
+planation of this circumstance, and the
+</td></tr></table>
+
+---
+
+## From _The Middlebury register._
+
+#### 1871-06-27 &middot; [Middlebury, Vt.](http://dbpedia.org/resource/Middlebury%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+following description of his explorations  
+at this point, taken from one of his letters  
+  
+witen a te tie i afor te ea o a o e oa an a  
+er a more graphic picture of the difficulAs there is nobody to make me acquaint  
+  
+ a e e ee e  e e o e e ee o  
+gations than can be given by any general &quot;It is unnecessary, Sir,&quot; replies Brig­  
+eie a a ee e ee e  
+&quot;On Friday, having arrived at a depth see that he is more perfectly at home  
+of seventy-nine feet, the men were breaktan an o in the croe om and  
+ing up a stone at the bottom of the shaft, that he has a hard, peremptory voice,  
+Suddenly the ground gave way, down plausibly toned down to reception neces­  
+went the stone and the hammer, the men sities. Looking not more than sixty  
+barely saving themselves. They at once ear of a e is past that perio by  
+ru hed up, and told the sergeant that they half a score, and still may have twenty  
+had found the bottomless pit. I went years to live. Of a wonderful robus
+</td></tr></table>
+
+---
+
+## From _The Middlebury register._
+
+#### 1871-06-27 &middot; [Middlebury, Vt.](http://dbpedia.org/resource/Middlebury%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+down to the spot and examined it; and, constitution, equal to all the responsibill­  
+in order that you may have an idea of ties of polygamy, of self-pride, cool self.  
+the extent of our work, I will give you a managemont, and self-will, with an edu­  
+description of our descent.aton chif eigs and an ates  
+The shaft mouth is on the south side and ardor for power and avarice, Youn
+</td></tr></table>
 
 ---
 
@@ -1250,110 +1518,162 @@ in Harper&#x27;s Magazine fur July.
 
 ---
 
-## [From _The Holt County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034039/1871-08-11/ed-1/seq-1)
+## From _The Holt County sentinel._
 
 #### 1871-08-11 &middot; [Oregon, Missouri.](http://dbpedia.org/resource/Oregon%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-rnnonn chnmbors wns nlso dlsclos-cil,  
-somo of which wcro probably used for  
-tho slorngo of food, nnd others ns niiio­  
-ducts nnd clitcrm. And tho wholo re­  
-sult moro tlinu conllrms tho ideni of  
-Jowlsh nrchitccturnl grandeur which  
-tho books or tho lillilo nntl tho pngni ol  
-Tosophus combined to give, but u liich  
-hnvo hithorto boon reunrded bv mnnv  
-skoptlcnl minds ns npocryphal.  
-Along tho southern wnll his discov­  
-eries woro scarcely loss JntorcBtlng.  
-lloro Ho rountt a iiounio pavomcnt, ouo  
-twonty-throo. tho other fortv-threo foot  
-below tho prcsont surfneo of tho ground.  
-Hero also ho lotimi somo curious re­  
-mains both of Hebrew nml of Christian  
-origin. Tho following description of  
-his explorations nl this point, taken  
-from ono of his letters written nt tho  
-tlmo, will nll&#x27;ord tlio render a moro  
-&#x27;rnnhio nlcluro ol tho iltlilciiltlcs nnd  
-dangers which attended his Investiga  
-tions than can no givon uy any gcuoral  
-description :  
-&#x27;On Friday, having nrrived nt n  
-depth of sovonty-niiio foct, tho men  
-woro urcnKiug up a siono at ino oouom  
-of tho slinft. Sudilonly tho ground gnvo  
-wny, down wont tho stono nml 11 o hnm­  
-nior, tho men barely saving themselves,  
-&#x27;i&#x27;liov nl onco rushed up, nnd told tlio  
-sorgennt thoy had fouiiil tho bottomless  
-pit. i went uown to ino spot ami ex­  
-amined It ; nnd, In order that you mny  
-hnvo nn idon of tho oxtcnt of our vorl:,  
-I will givo a description of our descent.  
-&quot;Tho shaft mouth is on the south sldo  
-of the gnnotunry wall, near tho south­  
-west nnglo, nmong tho prlukly-pcnrs :  
-besido it, to the cast, lying against tho  
-Sanctuary wall, is a Inrgo mass of rub­  
-bish thnt hns boon brought up; while  
-over tho mouth itsolf is n triangular  
-gin, with iron wl.ool attached, with guv,  
-tor running up tlio excavated soil.  
-Looking down tho bhatt, ono scos that  
-it is lined for tho first twenty foot with  
-framos four foot six inches in tho clear :  
-furthor down tho Sanctuary wall and  
-soil cut through nro scon, nnd a man  
-standing at what appears to bo tho bot­  
-tom. An order Is given to this mnn,  
-who repoats it, and then, faintly, is  
-hoard n sopulchrnl volco answorlng, as  
-it woro from another world. Hcnching  
-down to tho mnn who is vislblo is a  
-thlrly-four-foot ropo-laddor j and on de­  
-scending by it, ono finds ho Is standing  
-on a lodgo which tho ladder does not  
-touch by four foot. This ledgo is tho  
+The explorations at Jeri  
+SALEINE.  
+The first operations were commenced  
+on the western wall, at a point near  
+what is known as Wilson&#x27;s Arch. It re­  
+ceives this name from the fact that it  
+was first discovered by Captain Wilson,  
+who had not the means, however, to  
+prosecute any mining eperations. Cap­  
+tain Warren&#x27;s explorations proved this  
+arch to be one of a series forming a via­  
+duct which led from the Temple toward  
+the palace of Herod on the western hill,  
+and constituting perhaps the very bridge  
+across which Jesus was conducted fron  
+Pilate to Herod on the day of his trial.  
+The remains of a winding aqueduct, cut  
+in the solid rock beneath this bridge,  
+were also discovered. Part of this  
+bridge has fallen, and broken and buried  
+the aqueduct in its fall; and the origl­  
+nal pavement of the ancient road in the  
+valley itself is now forty-five feet below  
+the present surface formed by the ruins  
+of the ancient walls and houses. Nor is  
+this all. A perfect net-work of subter­  
+rancan chambers was also disclosed,  
+some of which were probably used for  
+the storage of food, and others as aque­  
+ducts and cisterns. And the whole re­  
+sult more than confirms the ideas of  
+Jewish architectural grandeur which  
+the books of the Bible and the pages of  
+Josephus combined to give, but which  
+have hitherto been regarded by many  
+skeptical minds as apocryphal.  
+Along the southern wall his discov­  
+cries were scarcely less interesting.  
+Here he found a double pavement, one  
+twenty-three, the other forty-three feet  
+below the present surface of the ground.  
+Here also he found some curious re­  
+mains both of Hebrew and of Christian  
+origin. The following description of  
+his explorations at this point, taken  
+from one of his letters written at the  
+time, will afford the reader a more  
+graphic picture of the difficulties and  
+dangers which attended his investiga  
+tions than can be given by any general  
+description:  
+&quot;On Friday, having arrived at a  
+depth of seventy-nine feet, the men  
+were breaking up a stone at the bottom  
+of the shaft. Suddenly the ground gave  
+way, down went the stone and the ham­  
+mer, the men barely saving themselves.  
+They at once rushed up, and told the  
+sergeant they had found the bottomless  
+pit. I went down to the spot and ex­  
+amined it; and, in order that you may  
+have an idea of the extent of our work,  
+I will give a description of our descent,  
+&quot;The shaft mouth is on the south side  
+of the Sanctuary wall, near the south­  
+west angle, among the prickly-pears;  
+beside it, to the east, lying against the  
+Sanctuary wall, is a large mass of rub­  
+bish that has been brought up; while  
+over the mouth itself is a triangular  
+gin, with iron wheel attached, with guy,  
+for running up the excavated soil.  
+Looking down the shaft, one sees that  
+it is lined for the first twenty feet with  
+frames four feet six inches in the clear:  
+further down the Sanctuary wall and  
+soll cut through are seen, and a man  
+standing at what appears to be the bot­  
+tom. An order is given to this man,  
+who repeats it, and then, faintly, is  
+heard a sepulchral voice answering, as  
+it were from another world. Reaching  
+down to the man who is visible is a  
+thirty-four-feet rope-ladder; and on de­  
+scending by it, one finds he is standing  
+on a ledge which the ladder does not  
+touch by four feet. This ledge is the  
 top of a wall running north and south,  
-and abutting on tho Sanctuary wnll : its  
-oast fnco just cuts tho coutro of tho shaft,  
-which has to bo cantod off about two  
-foot toward tho oast, just whoro somo  
-largo looso stonos jut out In tho most  
-dlsngrccablo manner. Iforo flvo moro  
-framos havo boon fixed to kcop those  
-stonos steady. On poorliigdown from this  
-lodgo ono soos tho Sanctuary wall, with  
-its projecting coursos, until thoy aro lost  
-In tlio darkness below ; observing nlso,  
-nt tho snmo tlmo, that two sidos of tho  
-shaft nro cut through tho soil, nud nro  
-self-supporting. Now to descend tills  
-second drop tho ladder Is again re­  
-quired ; accordingly, having told tho  
-man nt tho bottom to got undor cover,  
-it Is loworod to tho lodgo, from whouco  
-It is found that it doos not roach to  
-tho bottom by sovoral foot. It Is thcro­  
-foro loworod to tho required dislanco,  
-nud ono lias to roach it by climbing down  
-hand ovor linnd for nbout twelvo foot.  
-On passing nlong ono notes tho mnrvol­  
-oils Joints of tho Sanctuary wnll stonos,  
-and also, probably, gots a fow blows on  
-skull nnd knuckles from falling pobblos.  
-Just on reaching tho bottom ono rocol­  
-loots thoro is still a pit of uiikown depth  
-to bo oxplorod, and cautiously straddles  
-across it. Then can
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559917%2F1871081101%2F0131.jp2/pct:42.106211,39.714091,12.043204,41.701838/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+and abutting on the Sanctuary wall; its  
+east face just cuts the centre of the shaft,  
+which has to be canted off about two  
+feet toward the east, just where some  
+large loose stones jut out in the most  
+disagreeable manner. Here five more  
+frames have been fixed to keep these  
+stones steady. On peering down from this  
+ledge one sees the Sanctuary wall, with  
+its projecting courses, until they are lost  
+in the darkness below; observing also,  
+at the same time, that two sides of the  
+shaft are cut through the soil, and are  
+self-supporting. Now to descend this  
+second drop the ladder is again re­  
+quired; accordingly, having told the  
+man at the bottom to get under cover,  
+it is lowered to the ledge, from whenee  
+it is found that it does not reach to  
+the bottom by several feet. It is there­  
+fore lowered to the required distance,  
+and one has to reach it by climbing down  
+hand over hand for about twelve feet.  
+On passing along one notes the marvel­  
+ous joints of the Sanctuary wall stones,  
+and also, probably, gets a few blows on  
+skull and knuckles from falling pebbles.  
+Just on reaching the bottom one recol­  
+lects there is still a pit of unkown depth  
+to be explored, and cautiously straddles  
+across it. Then can be seen that one  
+course in the Sanctuary wall, near the  
+bottom, is quite smooth all oyer, the  
+stone being finely dressed, all other  
+courses being only well-dressed around  
+the drafts; one also sees two stout  
+boards lying against the Sanctuary wall,  
+under which the men retire whenever  
+an accidental shower of stones renders  
+their position dangerous. One is now at a  
+depth of seventy-nine feet from the sur-  
+face, and from here we commence the  
+exploring of the &quot;bottomless pit.&quot;  
+After dropping a rope down, we found  
+that it was only six feet deep, though it  
+looked black enough for any thing.&quot;  
+Further explorations disclosed a sub  
+terranean passage, perhaps originally  
+constructed to carry off the overflow  
+from the Temple; and the intrepid in­  
+vestigator crawled on his hands and feet  
+400 feet along this slimy drain through  
+the mud, the passage at times becoming  
+so narrow that he could barely squeeze  
+through, and the air so foul as to threat  
+en suffocation. The difficulty of his po  
+sition is indicated by the fact that he  
+had to back out 200 feet before he could  
+get to a point where he could turn his  
+head.-Harper&#x27;s Nagasine,
+</td></tr></table>
 
 ---
 

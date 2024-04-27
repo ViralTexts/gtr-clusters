@@ -1,7 +1,7 @@
 
 # Our Recipe for Curing Meat
 
-### 133 reprints from 1856-12-03 to 1884-11-20
+### 150 reprints from 1856-12-03 to 1884-01-04
 
 ## [Our Recipe for Curing Meat](https://chroniclingamerica.loc.gov/lccn/sn83016348/1862-11-08/ed-1/seq-1/)
 
@@ -113,62 +113,34 @@ tion, from the salt and sugar, would surpris
 
 ---
 
-## [From _Indiana American._](https://chroniclingamerica.loc.gov/lccn/sn84023881/1857-01-02/ed-1/seq-4)
+## From _Indiana American._
 
 #### 1857-01-02 &middot; [Brookville, Ind.](http://dbpedia.org/resource/Brookville%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ay following, been jeeringly tell­  
-inr her tint the great moüve with wo­  
-men in y&quot;ing to church was merely to  
-show their bonnets, at last lost all pa­  
-ind said to him  
-Then, sir, I suppose the reason  
-bv you gentlemen bo rarely come to  
-church is, because you cannot show  
-your hats.&quot;  
   
-mIh tot Cnriug W( i.  
-  
-Tho&amp;o who will carefully adopt:  
-r method of curing poVk .id  
-af, will bo enabled u! enjoy  
-fine hams, tongues, and.dried beef, i  
-i - .  
-and rounds, as the r.roneror ol  
-&#x27; .  
-all tho Kussinns can  
-. . a  
-. immn ml  
-&quot;IlllUtlU&#x27;l,  
-always provided that the moat to  
-be cured is of tho best quality.  
-It is this:  
 To one gallon of water, take  
-1 1-2 lbs of salt, 1-2 lb of sug  
-ar, 1-2 oz of saltpetre, 1-2 oz of  
+I 1-2 lbs of salt, 1-2 lb of sug  
+ar, 1-2 oz of saltpetre, I-2oz of  
 potash.  
-In this ratio the piokle to be  
+In this ratio the pickle to be  
 increased to any quantity desir­  
 ed. Let these be boiled togeth­  
-er, until all tho dirt from the su­  
+er, until all the dirt from the su­  
 gar, (which will be not a little) ri­  
 ses to the top and is skimmed off.  
 Then throw it into a tub to cool,  
 and when cold, pour it over your  
-beef r pork, to remain the usu­  
-al tine, fay four to six weeks.  
+beef or pork, to remain the usu­  
+al time, say four to six weeks.  
 The meat must be well covered  
 with pickle, and should not be  
 put down for at least two days af­  
 ter killing, during which time it  
 should be slightly sprinkled with  
 saltpetre
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_gary_ver01%2Fdata%2Fsn84023881%2F0020219137A%2F1857010201%2F0246.jp2/pct:4.265692,6.221653,19.963437,89.794912/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -287,73 +259,135 @@ surpasses it, if so good.—O&#x27;er. Telegraph
 
 ---
 
-## [From _Columbia Democrat and Bloomsburg general advertiser._](https://chroniclingamerica.loc.gov/lccn/sn85025181/1862-11-22/ed-1/seq-4)
+## From _Council Bluffs bugle._
+
+#### 1862-11-19 &middot; [Council Bluffs, Iowa](http://dbpedia.org/resource/Council_Bluffs%2C_Iowa)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+tity desired. Let these boll together,  
+antil all the dirt from the sugar rises to  
+the top and is skimmed off. Then threw  
+it into a tub to cool, and whes  
+  
+Some omit boiling the pickle, and find  
+it th answer well; though the operaties  
+of boiling purifies the pickle by throwing  
+off the dir always to be found in the sall  
+and sugar.  
+  
+if this receipt is preperly wried, it will  
+never be abandoned. There is none that  
+surpasses it, if to rood,  
+  
+Teleoraph.
+</td></tr></table>
+
+---
+
+## From _Oxford Democrat._
+
+#### 1862-11-21 &middot; [Paris, Me.](http://dbpedia.org/resource/Paris%2C_Maine)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+es to the top and is skimmed off.  
+Then throw it into a tub to cool, and when  
+coll, pour it over your beef or pork, to re-  
+main the usual time, say four or five weeks.  
+The meat must be well covered with pickle,  
+and should not be put down for at least two  
+days after killing, during which time it  
+should be slightly sprinkled with powdered  
+saltpetre, which removes all the surface  
+blood, Ac., leaving the meat fresh and  
+clean.  
+Some omit boiling the pickle, and find it  
+to answer well; though the operation of  
+boiling purifies the pickle, by throwing off  
+the dirt always to be found in salt and sus  
+ear­  
+If this receipt is properly tried, it will  
+never be abandoned. There is none that  
+surpasses it, it so good.  
+Germantown Telegraph
+</td></tr></table>
+
+---
+
+## From _Columbia Democrat and Bloomsburg general advertiser._
 
 #### 1862-11-22 &middot; [Bloomsburg, Pa.](http://dbpedia.org/resource/Bloomsburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-T.  
-&#x27;J o one gallon of water, take 1 lbs. of  
-salt, i lb. ol sugar, joz. of saltpelr-ij oz.  
-of potash. Iu this ratio tbo pickle to be  
+  
+OuR RECEIPT FOR CURING MEAT.  
+To one gallon of water, take II lbs, of  
+salt, I lb, of sugar, 1oz, of saltpeter, I oz.  
+of potash. In this ratio the pickle to be  
 increased to any quantity desired. Let  
 these be boiled together, until all the dirt  
-from the sugar rises to tho top and is  
+from the sugar rises to the top and is  
 skimmed off. Then throw it into a tub  
 to cool, and when cold, pour it over your  
 beef or pork, to remain usual time, say  
 four or five weeks. The meat must be  
 well covered with pickle, and should not  
-bo put down for at least two days after  
-killing, during which time it should be  
+be put down for at least two days after  
+Killing, during which time it should be  
 slightly sprinkled with powdered saltpe­  
-tre, which removes all tho surface blood,  
-&#x27;&amp;c.,. leaving the meat fresh and clean.  
-Rome omit boiling the pickle, and find  
-it to answer well ; though the operation  
-of boiling purifies the picklo by throwing  
-ofFtho dirt always to bo found in all salt  
+tre, which removes all the surface blood.  
+Ac., leaving the meat fresh and clean,  
+Some omit boiling the pickle, and find  
+it to answer well; though the operation  
+of boiling purifies the pickle by throwing  
+off the dirt always to be found in all salt  
 and sugar.  
 If this receipt is properly tried, it will  
-never bo abandoned. Thoro is none that  
+never be abandoned. There is none that  
 surpasses it, if so good.  
-Gamanloivn &#x27;Jtlegraph
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn85025181%2F00237287952%2F1862112201%2F0211.jp2/pct:5.914668,72.951756,13.202710,17.984585/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Germantown Tclegraph
+</td></tr></table>
 
 ---
 
-## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1862-11-22/ed-1/seq-3)
+## From _Sunbury American._
 
 #### 1862-11-22 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-mmed off. Then  
-Miphv it into a tub to cool, ami when coU,  
+  
+OTR RECEIPT FOR CURING MEAT.  
+To one gallon of water,  
+Take 11 lbs, of salt,  
+alb. of sugar,  
+I oz, of saltpetre,  
+4 oz of potash,  
+In this ratio the pickle to be increased to  
+any quantity desired. Let these be boiled  
+together, until all the dirt from the sugar  
+rises to the top and is skimmed off. Then  
+throw it into a tub to cool, and when cold,  
 pour it over your beef or pork, to remain the  
-us-ia! time, say four or five weeks. The  
+usual time, say four or five weeks. The  
 meat must be well covered with pickle, and  
 should not be put down for at least two  
 days after killing, during which time it  
 should be slightly sprinkled with powdered  
-s.dipctrc, which removes all the sut face blood  
-A .-., having the meat fresh and clean.  
-Some omit boiling the pickle, and find it I  
-to an-wcr well; though the operation of&#x27;  
-t.oi!&#x27;.ig pitriiir the pickle by throwing offl  
-i he dirt always to be found in salt and I  
--agar. &quot; j  
-if this rt ipt is properly tried, it will  
-never be abandoned. There is none thatsur-pa.-i.ic-s  
-it, if .,(., g.iod
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776038%2F1862112201%2F1133.jp2/pct:4.118287,44.162437,12.790276,8.812747/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+saltpetre, which removes all the surface blood  
+Kc., leaving the meat fresh and clean.  
+Some omit boiling the pickle, and find it  
+to answer well; though the operation of  
+boiling purifles the pickle by throwing off  
+the dirt always to be found in salt and  
+sugar  
+If this receipt is properly tried, it will  
+never be afandonch. There is none thatsure  
+it, if so good
+</td></tr></table>
 
 ---
 
@@ -388,52 +422,42 @@ graph.
 
 ---
 
-## [From _The daily Gate City._](https://chroniclingamerica.loc.gov/lccn/sn83025182/1862-12-03/ed-1/seq-2)
+## From _The daily Gate City._
 
 #### 1862-12-03 &middot; [Keokuk, Iowa](http://dbpedia.org/resource/Keokuk%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-lf  
-pounds of salt, one-half pound of sugar,  
-  
-one-half ounce of saltpetre, one-half  
-ounce of potash. In this ratio the pickle  
-is to be increased to any quantity desired.  
-Let tlufe be boiled together till all the  
-dirt from the sugar rises to the top, and  
-Nkiuimed off. Then throw it into a tub  
-to cool, and when cold, peur it over your  
+m the sugar rises to the top, and  
+skimmed off. Then throw it into a tub  
+to cool, and when cold, pour it over your  
   
 beef or pork, to remain the usual time,  
-say four or lire weeks. The meat must  
-be well covered with pickle, end should  
+say four or five weeks. The meat must  
+be well covered with pickle, and should  
   
-not be put down for at least two days af­  
+not be put down for at least two days af-­  
 ter killing, during which time it should  
 be slightly sprinkled with powdered salt-  
   
 petre, which removes all the surface  
   
-blood, &amp;c., leaving the meat fresh and  
+blood, &amp;e., leaving the meat fresh and  
 clean.  
   
-Some omit boiling the pickle, and find  
+Dome omit boiling the pickle, and find  
 it to answer well, though the operation  
-of boiling purifies the pieklc by throwing  
+of boiling purifies the pickle by throwing  
   
-off the dirt always to be fund in salt and  
-«ngal^.  
-If ibis receipt is properly tried It will  
-•never bo abandoned. There is hone th-t  
+off the dirt always to be found in salt and  
+sugar.  
+If this receipt is properly tried it will  
+never be abandoned. There is none that  
   
-su rpiutees it, if good*—-£ (terna*  
-|u«n  
+surpasses it i so oode e  
+toWn  
 Telegraph.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_ivysaur_ver01%2Fdata%2Fsn83025182%2F00279528293%2F1862120301%2F1189.jp2/pct:66.410340,24.771305,14.594241,16.421923/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -621,6 +645,80 @@ low Telegraph
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn85038121%2F00280775526%2F1863011501%2F0389.jp2/pct:34.186607,44.354501,12.001484,15.464061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The Lansing state Republican._
+
+#### 1863-10-14 &middot; [Lansing, Mich.](http://dbpedia.org/resource/Lansing%2C_Michigan)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+a half pounds of salt, one  
+half pound of sugar, one-half ounce of salt petre,  
+one half ounce of potash. In this ratio the  
+pickle to be increased to any quantity desired.  
+Let these be boiled together, until all the dirt  
+from the sugar rises to the top and is skimmed  
+off. Then throw it into g tub to cool, and when  
+cold, pour it over your beef or pork, to remain  
+the usual time, say four or five weeks. The meat  
+must be well covered with pickle, and should  
+not be put down for at least two days after kill  
+ing, during which time it should be slightly  
+sprinkled with powdered salt petre, which re  
+moves all the surface blood, &amp;c., leaving the  
+meat fresh and clean.  
+Some omit boiling the pickle, and find it to  
+answer well; though the operation of boilin  
+purifies the pickle by throwing off the dirt al­  
+ways to be found in salt and sugar.  
+If this receipt be properly tried, it will never  
+be abandoned. There is none that sutpasses it,  
+if so good
+</td></tr></table>
+
+---
+
+## From _The Hillsdale standard._
+
+#### 1863-11-03 &middot; [Hillsdale, Mich.](http://dbpedia.org/resource/Hillsdale%2C_Michigan)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+pounds of  
+  
+salt, one half pound of sugar&#x27; one-half ounce  
+  
+of salt petre, one half ounce of potash. In  
+this ratio the pickle to be increased to any  
+  
+quantity desired. Lot these be boiled to­  
+gether, until all the eirt from the sugar rises  
+  
+to the top and is skimmed off. Then throw  
+it into a tub to cool, and when cold, pour it  
+over your beef or pork, to remain, the usual  
+time, say four or five weeks. Tee meat must  
+be well covered with pickle, and should not be  
+  
+put down for at least two days after killing,  
+during which time it should be slightly sprink  
+led with powered calt petre, ewhich removes  
+all the surface blood, &amp;c,, leaving the meat  
+  
+sesh and clear.  
+  
+Some omit boiling the pickle, and find it to  
+  
+answer well; though the operation of boiling  
+  
+purifies the pickle by throwing off the dirt al­  
+ways to be found in salt and sugar.  
+If this receipt be properly tried, it will nev­  
+er be abar doned. There is none that surpass-  
+es it, if so good
+</td></tr></table>
 
 ---
 
@@ -878,6 +976,90 @@ surpasses if, if so good.— O&#x27;er. Telegraph
 
 ---
 
+## From _The independent._
+
+#### 1864-11-26 &middot; [Oskaloosa, Kan.](http://dbpedia.org/resource/Oskaloosa%2C_Kansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+.  
+fresh and ciean,   
+Some omit bolling the pickle, and find  
+it to answer well; though the operation  
+of boiling purifies the pickle by throwe  
+ing off the dirt always to be found in  
+salt or sugar, bus tuo2; ged o  
+If this receipt is properly tried, it  
+will never be abandoned. There is  
+none that surpass it, if so good.Ge
+</td></tr></table>
+
+---
+
+## From _The independent._
+
+#### 1864-11-26 &middot; [Oskaloosa, Kan.](http://dbpedia.org/resource/Oskaloosa%2C_Kansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+ece or Curin et  
+oce  etsee1  
+To one gallon of water, take tI lbs, o  
+of salt, I lb. of sugar, I oz, of saltpeter,  
+oz of potash. In this ratio the pickle  
+to be inereased to any quantity desired, of  
+Let itliese be boiled together until allt-  
+the dirt from the suger rises to the top  
+and is skimmed off. Then throw it  
+into a tub to cool, and when cool, pour  
+it over your beef or pork, to remais the  
+usual time, say four or five wecks. The  
+meat must be well covered with pickle.  
+and should not be put down for at least  
+iwo days after killing, during which  
+time it should be slightly sprinkled with  
+powdered saltpeter, which removes all  
+the surface blood, ac., leaving the meat
+</td></tr></table>
+
+---
+
+## From _Oxford Democrat._
+
+#### 1864-12-02 &middot; [Paris, Me.](http://dbpedia.org/resource/Paris%2C_Maine)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+sugar, one half ox. of saltpetre, one halt  
+ounce of potash. In this ratio the pickle to  
+be increased as desired. Let these be  
+boiled together, until all the dirt from the  
+sugar rises to the top and is skimmed off  
+Then throw it into a tub to cool, and when  
+cold, pour it over your beef or pork, to­  
+remain the usual time, say four or five  
+weeks. The meat must be well covered  
+with pickle, and should not be put down  
+for at least two days, after killing, during  
+th time it shoul be slightly sprinkled  
+with powered saltpeter, which removes all  
+the surface blood, &amp;c., leaving the mest  
+fresh and clear. Some omit boiling the  
+pickle, and find it to answer well; through  
+the operation of boiling purifies the pickle  
+by throwing off the dirt alw ays to be found  
+in salt and sugar  
+If this receipt is properly tried it will  
+never be abandoned. There is none that  
+surpasses it, if so good.  
+(Germantown Telegrap
+</td></tr></table>
+
+---
+
 ## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1864-12-16/ed-1/seq-4)
 
 #### 1864-12-16 &middot; [Bel Air, Md.](http://dbpedia.org/resource/Bel_Air%2C_Harford_County%2C_Maryland)
@@ -1067,6 +1249,42 @@ passes it, if so good
 
 ---
 
+## From _Oxford Democrat._
+
+#### 1865-12-08 &middot; [Paris, Me.](http://dbpedia.org/resource/Paris%2C_Maine)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+as &quot;Our Receipt for Curing Mest.  
+To one gallon of water, take 1 1.2 ibs of  
+salt, 1.2 ib of sugar, 1 2 oz of saltpetre,  
+1I oz, of potash. In this ratio the pickle  
+to be increased to any quantity desired.  
+Let these be boiled together, antil all the  
+dirt from the sugar rises to the top and is  
+skimmed off. Then throw it into a tub to  
+cool, and when cold pour it over your beef  
+or pork, to remain the usual time, say four  
+or five weeks. The meat must be well coy­  
+ered with pickle, and should not be put  
+down for at least two days after killing.  
+during which time it should be slightly  
+sprinkled with powdered saltpetre, which  
+removes all the surface blood, &amp;c., leaving  
+the meat fresh and clean.  
+Some omit boiling the pickle, and find  
+it to answer well; though the operation of  
+boiling purifies the pickle by throwing off  
+the dirt always to be found in salt and  
+gar  
+If this receipt is properly tried, it will  
+never be abandoned. There is none that  
+surpasses it, if so goo
+</td></tr></table>
+
+---
+
 ## Receipt for Curing Meat
 
 #### From _Vermont chronicle._
@@ -1248,6 +1466,36 @@ is none that surpasses it, if so good
 <img alt="Page image" src="https://iiif.archive.org/iiif/sim_london-reader-of-literature-science-art-and-general_1866-01-20_6_141&#0036;30/pct:6.024845,55.347594,25.683230,14.527629/600,/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _Sunbury American._
+
+#### 1866-10-13 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+To one gallon of water, take 14 lbs, of  
+salt, I lb. of sugar, I oz, of saltpetre, I oz, of  
+pot-ash. In this ratio the pickle to be in­  
+creased to any quantity desired. Let these  
+be boiled together until all the irt from  
+the sugar rises to the top and is skimmed  
+off. Then throw it into a tub to cool, and  
+when cold, pour it over your beef or pors,  
+to remain the usual time, say four or five  
+weeks. The meat must be well covered  
+with pickle, and should not be put down  
+for at least two days after killing, during  
+which time it should be slightly sprinkled  
+with powdered saltpetre, which removes all  
+the surface blood, &amp;c., leaving the meat  
+fresh and clean. Some omit boiling the  
+pickle, and find it to answer well, though  
+the operation of boiling purifies the pickle  
+by throwing off the dnt sins
+</td></tr></table>
 
 ---
 
@@ -1588,36 +1836,77 @@ manlouti Telegraph.
 
 ---
 
-## [From _The Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn84024207/1866-12-06/ed-1/seq-1)
+## From _The Lancaster gazette._
 
 #### 1866-12-06 &middot; [Lancaster, Ohio](http://dbpedia.org/resource/Lancaster%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- skimmed  
-off Then throw it into a tub to cool,  
+d is skimmed  
+off. Then throw it into a tub to cool,  
 and when cold, pour it over your beef  
-or pork, to remain the uual lime, say  
-tour or five, weeks, The meat must be  
-well C&#x27;lvcroif with pickle, and should  
-not bo put &quot;down for at least two days  
-after killing, during which time ii  
-should be lightly sprinkled, with pow­  
+or pork, to remain the usual time, say  
+four or five weeks. The meat must be  
+well covered with pickle, and should  
+not be put down for at least two days  
+after killing, during which time it  
+should be lightly sprinkled with pow­  
 dered saltpetre, which removes all the  
-surface ot blood, &amp;o., leaving.tbe meat  
+surface of blood, &amp;e., leaving the meat  
 fresh and clean. Some omit boiling  
-tho piokle, and find it to answer Well,  
+the pickle, and find it to answer well,  
 though the operation of boiling puri­  
-fies tbe pickle by throwing off tho dirt  
-alwaj b to be found in salt and sugar.  
-If this recipe is properly tried, It will  
+fies the piekle by throwing off the dirt  
+always to be found in salt and sugar.  
+If this recipe is properly tried, it will  
 never be abandoned. There is none  
-that Burpasses it, il bo good; German­  
-tWa JeUfra&amp;Li ..&#x27;
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn84024207%2F00296028022%2F1866120601%2F0409.jp2/pct:68.294965,84.305863,11.828561,10.826881/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+that surpasses it, if so good. Serman­  
+town Telegraphuats w
+</td></tr></table>
+
+---
+
+## From _Abbeville press._
+
+#### 1866-12-14 &middot; [Abbeville, S.C.](http://dbpedia.org/resource/Abbeville%2C_South_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+during which time it must be sprinkled  
+with powdered saltpetre, which removes  
+all the surface blood, c, leaving the meat  
+fresh and clean. Some omit boiling the  
+pickle, and find it to answer very well,  
+though the operation of boiling purifies  
+the pickle by throwing off the dirt always  
+to be found tn salt and sugar. If this re  
+be properly tried, it will nover be  
+abandoned. There is none that surpasses  
+it if so good
+</td></tr></table>
+
+---
+
+## From _The Union flag._
+
+#### 1866-12-21 &middot; [Jonesborough, Tenn.](http://dbpedia.org/resource/Jonesborough%2C_Tennessee)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+be sprinkled with pewdered saltpetre,  
+which removes all the anriace blood,  
+ke, leaving the meat fresh and clean.  
+Some omit boiling the pickle, and fiad  
+it to answer well, though the opera  
+tion of boiling purifies the pickle by  
+throwing off the dirt afways to be  
+found in salt and sugar. If the re­  
+ceipt is properly tried, it will never  
+be abandoned. There is none that  
+urpasses it, if so god
+</td></tr></table>
 
 ---
 
@@ -1684,33 +1973,40 @@ loni d. There is none that surpasses it j
 
 ---
 
-## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1867-11-16/ed-1/seq-1)
+## From _Sunbury American._
 
 #### 1867-11-16 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d is skimmed off. Then  
+  
+Onr RTECEIPI fOR CARING MENT.  
+To one gallon of water,  
+Take II lbs, of salt,  
+I lb of sugar,  
+I oz, of saltpetre,  
+a oz of potash.  
+In this ratio the pickle to be increased to  
+any quantity desired. Let these be boiled  
+together, until all the dirt from the sugar  
+rises to the top and is skimmed off. Then  
 throw it into a tub to cool, and when cold,  
 pour it over your beef or pork, to remain  
-tho usual time, say four or five weeks. The  
+the usual time, say four or five weeks. The  
 meat must be well covered with pickle, and  
-6hould not be put down for at least two  
-days after killing, during which timo it  
+should not be put down for at least two  
+days after killing, during which time it  
 should be slightly sprinkled with powdered  
-salt petre, which removes all tho surface  
-blood, &amp;c, leaving tile meat fresh and clean.  
-Some omit boiling tho pickle, and find it tu  
-answer well ; though the operation of boil­  
-ing purities the pickle by throwing off the,  
-dirt always to be found iu salt and sugar.  
-It this leceipt is properly tried, it will  
-never bo ubaudoncd. Thero is none that  
-surpasses it, if so good. Gcrmantotcn To&#x27;
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F0028077604A%2F1867111601%2F0531.jp2/pct:79.599719,66.470347,12.306882,8.135872/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+salt petre, which removes all the surface  
+blood, &amp;c., leaving the meat fresh and clean.  
+Some omit boiling the pickle, and find it to  
+answer well; though the operation of boil­  
+ing purifies the pickle by throwing off the  
+dirt always to be found in salt and sugar.  
+If this receipt is properly tried, it will  
+never be abandoned. There is none that  
+surpasses it, if so good.-GermANTOUN TO
+</td></tr></table>
 
 ---
 
@@ -1881,34 +2177,40 @@ is thrown off by the operation, from the sal
 
 ---
 
-## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1868-11-28/ed-1/seq-1)
+## From _Sunbury American._
 
 #### 1868-11-28 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-iit from the Bugsr  
-rises to the top and is skimmed off. Then  
-throw it into a tub to t: t, and when cold,  
-pour :t over your beef or pork, to remain  
-the Uaual lime, sny four or five weeks. Tho  
-in-T&#x27;it most bo well covered wiih pickle, and  
-ibould not be put dow n fort least two days  
-alter killing w hich time il should beslight!y  
-.- prinkle&#x27;d &#x27;.villi powdered saltpetre, which  
-removes all the surface blood, itc. leaving  
-&#x27;be meat fresh and clean. Some omit boil­  
-ing the pickle, nnd find it to answer well j  
-though tho operation of boiling purities the  
-pickle by throwing off the dirt mwoys to be  
+  
+Gur HECEIpT FOR CURING MEAT.  
+To one gallon of water,  
+Take 11 lbs, of salt.  
+lb. of sugar,  
+I oz, of saltpetre,  
+I oz, of potash.  
+In this ratio the pickle to be increased to  
+any quantity desired. Let these be boiled  
+together, until all the dirt from the sugar  
+rises to the top and is skimined off. Then  
+throw it into a tub to cool, and when cold,  
+pour it over your beef or pork, to remain  
+the usual time, say four or five weeks. The  
+meat must he well covered with pickle, and  
+should not be put down for at least two days  
+after killing which time it should be slightly  
+sprinkled with powdered saltpetre, which  
+removes all the surface blood, &amp;c., leaving  
+the meat fresh and clean. Some omit boil­  
+ing the pickle, and find it to answer well;  
+though the operation of boiling purifies the  
+pickle by throwing off the dirt always to be  
 found in salt and sugar.  
-If this receipt is &#x27;properly tried.it will  
-never be abandoned. Tluro is none that sur­  
+If this receipt is properly tried, it will  
+never be abandoned. There is none that sur­  
 passes it, if so good
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F0028077604A%2F1868112801%2F0752.jp2/pct:79.630589,47.605403,12.100811,8.500478/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -1918,7 +2220,7 @@ passes it, if so good
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-dirt from the  
+from the  
 war rises to the top and 6 skimmed off.  
 Then throw it- into a tub to cool, and when  
 cold, pour it over your beef or pork, to  
@@ -1978,6 +2280,43 @@ none ihat surpasses it, if so good.
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85033699%2F00200293381%2F1868121101%2F0379.jp2/pct:4.410047,24.903694,9.944509,10.129164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The Union flag._
+
+#### 1868-12-18 &middot; [Jonesborough, Tenn.](http://dbpedia.org/resource/Jonesborough%2C_Tennessee)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+&quot;To one gallon of water, take one  
+and a half pounds of salt, one-half  
+pound of sugar, one-half ounce of salt­  
+petre, one-half ounce of potash. In  
+this ratio the pickle may be increased  
+to any quantity desired. Let these  
+be boiled together, until all the dirt  
+from the sugar rises to the top and is  
+skimmed off. Then throw it into a  
+tub to cool, and when cold, poor it  
+over your beef or pork, to remain the  
+usual time, say four or five weeks.  
+The meat must be well covered with  
+pickle, and should not be poured on  
+for at least two days after killing  
+during which time it should be slight­  
+ly sprinkled with powdered saltpeter,  
+which removes all the surface blood,  
+ete. leaving the meat fresh and clean.  
+Some omit boiling the piekle, and find  
+it to answer well; though the opera­  
+tion of boiling purifies the pickle by  
+throwing off the dirt always to be  
+found in salt and sugar. If this re­  
+ceipt is properly tried, it will never be  
+abandoned. There is none that sur­  
+passes it, if so good.
+</td></tr></table>
 
 ---
 
@@ -2109,6 +2448,41 @@ none that t urpasses it, if any so goo
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_ireland_ver01%2Fdata%2Fsn84022644%2F0029586753A%2F1869041701%2F0651.jp2/pct:5.170271,33.204923,12.291822,9.339472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _Dallas herald._
+
+#### 1869-09-25 &middot; [Dallas, Tex.](http://dbpedia.org/resource/Dallas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+To one gallon of water take 11 ibs.  
+of salt, I lb. of sugar, I oz, of sait­  
+petre, I oz of potash. In this ratio  
+the pickle to be increased to any  
+quantity desired. Let these be  
+boiled together until all the dirt  
+from the sugar rises to the top and  
+is skimmed off. Then throw it into  
+a tub to cool, and when cold pour it  
+over the beef or pork, to remain the  
+usual time, say four or five weeks.  
+The meat must be well covered with  
+pickle, and should not be put down  
+for at least two days after killing,  
+during which time it should be  
+slightly sprinkled with powdered  
+saltpetre, which removes all surface  
+blood, &amp;c., leaving the meat fresh  
+and clean. Some omit boiling the  
+pickle, and find it to answer well,  
+though the operation of boiling pu­  
+rifies the pickle by throwing off the  
+dirt always to be found in salt and  
+sugar
+</td></tr></table>
 
 ---
 
@@ -2418,39 +2792,36 @@ none that surpass it, if so good
 
 ---
 
-## [From _Oxford Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83009653/1870-11-11/ed-1/seq-1)
+## From _Oxford Democrat._
 
 #### 1870-11-11 &middot; [Paris, Me.](http://dbpedia.org/resource/Paris%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Oub Hbcii&#x27;k for Curing Μ κ it.—To  
-one gallon ol water, 1 1-2 lbs. of salt, 1-2  
-lb of .sugar, 1-2 oz. ol saltpetre, 1-2 oz. oi  
-potash. In this ratio the pickle to bo in­  
+Oun RECIPE FOR CURING MEAT.To  
+one gallon of water, I 1-2 lbs of salt, 1-2  
+lb of sugar, 1.2 oz, of saltpetre, 1 2oz of  
+potash. In this ratio the pickle to be in­  
 creased to any quantity desired. Let  
-these be boild together until tho dirt from  
-the sugar risen to the top and is skimuied  
-off. Then turow it into a tub to cool, and  
+these be boild together until the dirt from  
+the sugar rises to the top and is skimmed  
+off. Then throw it into a tub to cool, and  
 when cool, pour it over your beef or pork,  
-to remain the usual time, fay (our or tire  
+to remain the usual time, say four or five  
 weeks. The meat must be well covered  
 with pickle, and should not be put down  
-until at least two days alter killing, dur­  
+until at least two days after killing, dur­  
 ing which time it should be slightly  
 sprinkled with powered saltpetre, which  
-removes all tho surface blood, &amp;c., leav­  
-ing the meal ftcsh and clean. Soino  
-omit boiling thu pickle, and find it to  
-answer well; though tho operation of  
-boiling purilies the pickle by throwing off  
+removes all the surface blood, &amp;c., leav­  
+ing the meat fresh and clean. Some  
+omit boiling the pickle, and find it to  
+answer well; though the operation of  
+boiling purifies the pickle by throwing off  
 the dirt always to be found in salt and  
-sugar.—Qtrmantousn Telegraph.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_baxter_ver01%2Fdata%2Fsn83009653%2F00279524019%2F1870111101%2F0627.jp2/pct:70.019896,82.939701,12.351820,12.962482/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+sugar.GermanTOwN Telegraph.
+</td></tr></table>
 
 ---
 
@@ -2716,6 +3087,41 @@ in salt and sugar.—Germantown Teleg&#x27;h
 
 ---
 
+## From _The Conservative._
+
+#### 1870-11-25 &middot; [M'connelsville, Ohio](http://dbpedia.org/resource/McConnelsville%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+To one gallon of water take one and a  
+half pounds of salt, half a pound of sugar,  
+half an ounce of saitpeter, half an ounce  
+of potash. In this ratio the pickle to be in­  
+creased to any quantity desired. Let these  
+be boiled together until all the dirt from  
+the sugar arises to the top and is skimmed  
+off. Then throw it into a tub to cool, and  
+when cold, pour it over your beef or pork,  
+to remain the usual time, say four or five  
+weeks. The meat must be covered with  
+pickle, and should not be put down for at  
+least two days after killing, during which  
+time it should be slightly sprinkled with  
+powdered saltpeter, which removes all the  
+surface blood, &amp;c., leaving the meat fresh  
+and clean. Some omit boiling the pickle,  
+and find it to answer well, though the ope  
+ration of boiling purifies the pickle by  
+throwing off the dirt always to be found  
+in salt and sugar.  
+A  
+baby  
+it
+</td></tr></table>
+
+---
+
 ## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1870-12_4_12/page/n27/mode/1up?view=theater)
 
 #### 1870-12-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
@@ -2800,6 +3206,40 @@ is none that surpasses it, if so good
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_evart_ver01%2Fdata%2Fsn85033781%2F00296023735%2F1870121201%2F0005.jp2/pct:42.759114,30.566742,16.426019,19.389058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The Holt County sentinel._
+
+#### 1871-01-06 &middot; [Oregon, Missouri.](http://dbpedia.org/resource/Oregon%2C_Missouri)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+sugar, half an ounce of saltpeter, half  
+an ounce of potash. In this ratio the  
+pickle to be increased to any quantity  
+desired. Let these be boiled together  
+inth all the dirt from the sugar rises  
+to the top and is skimmed off. Then  
+threw it into a tub to cool, and when  
+cold, pour it over your beef or pork, to  
+remain the usual time, say with pickle,  
+and should not be put down for at least  
+two days after killing, during which  
+time it should be slightly sprinkled with  
+powdered saltpeter, which removes all  
+the surface blood, atc,, leaving the meat  
+fresh and clean. Some omit boiling the  
+piekle, and find it to answer well;  
+though the operation of bolling purifies  
+the pickle by throwing off the dirt al-  
+ways to be found in salt and sugar.  
+If this reseipt iy properly tried it will  
+never be abandonen. There is no  
+that anrpaes If, it ao goot. German  
+eleprap
+</td></tr></table>
 
 ---
 
@@ -2921,6 +3361,34 @@ none that surpass it, if so good
 
 ---
 
+## From _The Ottawa free trader._
+
+#### 1871-01-28 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+t from the sngar rises to the  
+top, and is skimmed off. Then throw it into  
+a tub to cool, and when cold, pour it over  
+your beef, or pork to remain the usual time,  
+say four or five weeks. The meat must be  
+well covered with pickle, and should not be  
+put down for at least two days after killing,  
+during which time it should be slightly  
+sprinkled with powered saltpeter which ro­  
+moves all the surface-blood, etc., leaving the  
+meat fresh and clean. Some omit boiling the  
+pickle, and find it to answer well, though the  
+operation of boiling purities the pickle, by  
+throwing off the idirt always to be tound in  
+salt and sugar. If this receipt is properly  
+tried it will nover le alenle en  a  
+Hievcf be abalicdoned. I Here Is  
+none to surpass it, if so good.
+</td></tr></table>
+
+---
+
 ## Agricultural and Domestic.
 
 #### From _Christian Advocate (1866-1905)_
@@ -2931,34 +3399,31 @@ none that surpass it, if so good
 
 ---
 
-## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1871-02-25/ed-1/seq-3)
+## From _The Ottawa free trader._
 
 #### 1871-02-25 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-car arises  
-to the tp and is skimmed iii Then throw it  
-into a tub to cool, mid when cold pour it over  
-your beef or pork, to rem tin the u.i:a&#x27;. tini&quot;,  
-Hay four or five week. The meat must be  
+irt from the sugar arises  
+to the top and is skimmed off. Then throw it  
+into a tub to cool, and when cold pour it over  
+your beef or pork, to remain the usual time,  
+say four or five weeks. The meat must be  
 well covered with pickle, and should not be  
-put down for at h-at twoihys after killing,  
-during which time it should be siigiitiy  
+put down for at least two days after killing,  
+during which time it should be slightly  
 sprinkled with powdered saltpetre, which re­  
-moves nil the surface blood, etc.. leaving the  
-meat fresh ami clean. Some omit boiling the  
--pickle and find it to answer well: though the  
+moves all the surface blood, etc. leaving the  
+meat fresh and clean. Some omit boiling the  
+pickle, and find it to answer well; though the  
 operation of boiling purifies the pickle by  
-throwing oil&#x27; the dirt always to be found iii  
-salt ami sugar.  
+throwing off the dirt always to be found in  
+salt and sugar.  
 If this receipt is properly tried it will never  
-bo abandoned. There is ntiiie that surpasses it,  
-it so good
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn84038582%2F00212471513%2F1871022501%2F0499.jp2/pct:3.560467,54.999341,17.863720,10.248979/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+be abandoned. There is none that surpasses it,  
+if so good
+</td></tr></table>
 
 ---
 
@@ -3119,9 +3584,9 @@ surpass it, if so goo
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-egraph gives the followingt To one gallon  
-of water, take I1 lbs, of salt, I lb. of sugar,  
-l or of saltpeter, I or, of potash.  
+egraph gives the following:- To one gallon  
+of water, take II lbs of salt, I lb. of sugar,  
+or of saltpeter, I oz of potash.  
 In this ratio the pickle can be increased to  
 any quantity desired. Let these be boiled  
 together until all the dirt from the sugar  
@@ -3134,10 +3599,10 @@ should not be put down for at least two
 days after killing, during which time it  
 should be slightly sprinkled wtth powdered  
 saltpeter, which removes all the surface-blood,  
-Ae, leaving the meat fresh and clean. Some  
+&amp;c., leaving the meat fresh and clean. Some  
 omit boiling the pickle, and find it to answer  
 well, though the operation of boiling purifies  
-the pickle by throwing ofl the dirt always to  
+the pickle by throwing off the dirt always to  
 be found in salt and sugar. If this recipe is  
 properly tried, it will never be abandoned.  
 There is none that surpass it, if so good
@@ -3214,45 +3679,44 @@ graph
 
 ---
 
-## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1872-12-04/ed-1/seq-4)
+## From _The Somerset herald._
 
 #### 1872-12-04 &middot; [Somerset, Pa.](http://dbpedia.org/resource/Somerset%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-of water,  
-Take one and a -half lbs. of salt,  
-&quot; one half lb. of sugar,  
-&quot; one half oz. of saltpeter,  
-&quot; one half rc. of potash.  
+  
+To one gallon of water,  
+Take one and a half lbs of salt,  
+&quot;one half lb. of sugar,  
+&quot;one half oz of saltpeter,  
+&quot;one half oz, of potash.  
 In this ratio the pickle can be in­  
-creased to any quantity desired. It  
-these le boiled together until all the  
+creased to any quantity desired. Let  
+these be boiled together until all the  
 dirt from the sugar rises to the top  
 and is skimmed off. Then throw it  
-into a tub to cool, a:id when cold,  
-pour it over j our boof or pork, to re­  
-main the usual time, nay four or five  
-wo( k. The meat must be well cov­  
+into a tub to cool, and when cold,  
+pour it over your beef or pork, to re­  
+main the usual time, say four or five  
+weeks. The meat must be well cov­  
 ered with pickle, and should not be  
-put down Lr at h ast two days after  
+put down for at least two days after  
 killing, during which time it should  
-be slightly sprinkled with powtfrrod  
+be slightly sprinkled with powdered  
 saltpeter, which removes all the sur­  
-face blood, ., leaving the meat fresh  
-and chan. Some omit boiling the  
-pickle, and .find it to answer well,  
+face blood, ke., leaving the meat fresh  
+and clean. Some omit boiling the  
+pickle, andfind it to answer well,  
 though the operation of boiling puri­  
-fies the pi kle by throwing, off the  
+fies the pickle by throwing off the  
 dirt always to be found in salt and  
 sugar.  
-If this receipt is properlv tried, it  
+If this receipt is properly tried, it  
 will never be abandoned. There is  
-none that surpass it, if so pood
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776464%2F1872120401%2F0110.jp2/pct:4.870973,68.256115,10.200031,13.763950/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+none that surpass it, if so good.  
+Germantown Telegraph
+</td></tr></table>
 
 ---
 
@@ -3334,31 +3798,28 @@ Telegraph
 
 ---
 
-## [From _The weekly Caucasian._](https://chroniclingamerica.loc.gov/lccn/sn85033995/1872-12-14/ed-1/seq-1)
+## From _The weekly Caucasian._
 
 #### 1872-12-14 &middot; [Lexington, Lafayette County, Mo.](http://dbpedia.org/resource/Lexington%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nd is skimmed off. Then throw it int)  
-tub to oooi, and when cold, pour It over your  
-iif; l or pork, to remain the usual time, say four  
-or live weeks. Tbe meat must be well Covered  
-wnb pickle, and snould not be put down for at  
-iea.d two days after killing, during wbicb time  
-it should be slightly sprinkled wnb powdered.  
-?uUpetro, which removes all the surface blood,  
-etc., leaving (he meat fresh and cleao. dome  
-omit boiling tbe pickle, and nnd It to answer  
-it&#x27;ell, thougii the operation of boiling purifies  
-ilie pickle, by throwing off tbe dirt always to  
-Oe lound iu salt and sugar. If this recipe  
-i properly tried, it will never be abandoned,  
-there is none that surpassea it, If so good
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_dagwood_ver01%2Fdata%2Fsn85033995%2F00294556527%2F1872121401%2F0203.jp2/pct:85.597015,53.914276,10.208955,4.392490/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+top and is skimmed off. Then throw it into  
+tub to cool, and when cold, pour it over your  
+beef or pork, to remain the usual time, say four  
+or five weeks. The meat must be well covered  
+with pickle, and should not be put down for at  
+least two days after killing, during which time  
+it should be slightly sprinkled with powdered  
+saltpetre, which removes all the surface blood,  
+etc., leaving the meat fresh and clean. Some  
+omit botling the pickle, and find it to answer  
+well, though the operation of boiling purifles  
+the pickle, by throwing off the dirt always to  
+be lound in salt and sugar. If this recipe  
+is properly tried, it will never be abandoned.  
+There is none that surpasses it, if so good
+</td></tr></table>
 
 ---
 
@@ -3799,33 +4260,6 @@ trial to prove its superiority over th
 
 ---
 
-## [From _The Weekly Oskaloosa herald._](https://chroniclingamerica.loc.gov/lccn/sn84027329/1874-12-17/ed-1/seq-4)
-
-#### 1874-12-17 &middot; [Oskaloosa, Iowa](http://dbpedia.org/resource/Oskaloosa%2C_Iowa)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-pour it over your beef or pork. The meat  
-must he well covered with pickle, and  
-should not be put down for at least two  
-days after killing, during which time it  
-should be slightly sprinkled with powder­  
-ed salt peter, which removes all the sur­  
-face blood, etc., leaving the meat fresh  
-and clean. Some omit boiling the pickle,  
-and find it to answer well, though the  
-operation of boiling purifies the pickle by  
-throwing off the dirt always to he found in  
-salt and sugar. If this receipt is strictly  
-followed, it will require only a single tria
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_celebi_ver01%2Fdata%2Fsn84027329%2F00279528876%2F1874121701%2F0557.jp2/pct:56.384941,40.252570,9.381216,5.923642/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1875-11-04/ed-1/seq-4)
 
 #### 1875-11-04 &middot; [Ellsworth, Me.](http://dbpedia.org/resource/Ellsworth%2C_Maine)
@@ -3942,40 +4376,28 @@ salt and sugar.—Germantown Telegraph
 
 ---
 
-## [From _The Troy herald._](https://chroniclingamerica.loc.gov/lccn/sn86063984/1878-05-08/ed-1/seq-6)
+## From _The Troy herald._
 
 #### 1878-05-08 &middot; [Troy, Mo.](http://dbpedia.org/resource/Troy%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Receipt for Cuiing Meat. To one  
-gallon of water tako 1 ) pounds of salt,  
-half pound of sugar, half ounce of salt­  
-petre, half ounce of potash. In this  
-ratio tho pickle can bo increased to any  
-quantity desired. Let theso bo boiled  
-together until all the dirt from the sugar  
-rises to tho top and is skimmed ort&#x27;. Then  
-throw it Into a tub to cool, and when  
-cold, pour it over your beef or pork. Tho  
-meat must be well-covered with piekle,  
-and should not bo put down for at least  
-two davs after killing, during which timo  
-it should bo Biicrhtlv sprinkled with pow  
+cold, pour it over your beef or pork. The  
+meat must be well-covered with pickle,  
+and should not be put down for at least  
+two days after killing, during which time  
+it should be slightly sprinkled with pow  
 dered saltpetre, which removes all the  
 surface-blood, &amp;c., leaving the meat fresh  
-and clean. Some omit boiling tho pickle.  
+and clean. Some omit boiling the pickle,  
 and find it to answer well, though the  
-operation of boiling purifies the picklo by  
-throwing off tho dirt always to do found  
+operation of boiling purifies the pickle by  
+throwing off the dirt always to be found  
 in salt and sugar. If this receipt is strict­  
-ly followed, it will require only a singlo  
+ly followed, it will require only a single  
 trial to prove its superiority over th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_dorothea_ver01%2Fdata%2Fsn86063984%2F00200292819%2F1878050801%2F2038.jp2/pct:11.001016,66.729195,16.387195,15.399045/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -4120,33 +4542,6 @@ Some omit boiling the pickle and fin
 
 ---
 
-## [From _Farm Journal 1877-2015_](https://archive.org/details/sim_farm-journal_1879-12_4_3/page/n1/mode/1up?view=theater)
-
-#### 1879-12-01 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-it over your beef or pork. The meat must be  
-weil covered with pickle, and should not be put  
-down for at least two days after killing, during  
-which time it should be slightly sprinkled with  
-powdered saltpetre, which removesall thesurface-  
-blood, &amp;c., leaving the meat fresh and clean.”  
-  
-“Some omit,’”’ says Major Freas “‘ boiling the  
-pickle, and find it to answer well, though the  
-operation of boiling purifies the pickle by throw-  
-ing off the dirt always to be found in salt and  
-sugar. Ifthisreceiptis strickly followed, it will  
-require only a single trial to prove its superiorit
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_farm-journal_1879-12_4_3&#0036;1/pct:38.516865,75.273865,22.495040,11.424100/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1879-12-11/ed-1/seq-1)
 
 #### 1879-12-11 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
@@ -4170,6 +4565,56 @@ lowed, it will require only a single trial t
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861903%2F1879121101%2F0377.jp2/pct:70.854380,85.345792,14.717437,6.181015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The home journal._
+
+#### 1880-01-01 &middot; [Winchester, Tenn.](http://dbpedia.org/resource/Winchester%2C_Tennessee)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+and when cold pour it over your beef or  
+pork. The meat must be well covered  
+with pickle, and should not be put down  
+for at least two days after the killing,  
+during which time it should be slightly  
+sprinkled with powdered saltpeter, which  
+removes all the surface blood, &amp;c., leav­  
+ing the meat fresh and clean. Some  
+omit boiling the pickle, and find it to  
+answer well, though the operation of  
+boiling purifies the pickle by throwing off  
+the dirt always to be found in salt and  
+sugar. If this recipe is strictly followed,  
+it will require only a single trial to prov
+</td></tr></table>
+
+---
+
+## From _Richland beacon._
+
+#### 1880-01-03 &middot; [Rayville, La.](http://dbpedia.org/resource/Rayville%2C_Louisiana)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+and when cold pour it over your beef or  
+pork. The meat must be well covered  
+with pickle, and should not be put down  
+for at least two days after the killing,  
+during which time it should be slightly  
+sprinkled with powdered saltpeter, which  
+removes all the surface blood, &amp;c., leav­  
+ing the meat fresh and clean. Some  
+omit boiling the pickle, and find it to  
+answer well, though the operation of  
+poiling purifies the pickle by throwing off  
+the dirt always to be found in salt and  
+sugar. If this recipe is strictly followed,  
+it will require only a single trial to prov
+</td></tr></table>
 
 ---
 
@@ -4287,6 +4732,30 @@ followed it will require only a single trial t
 
 ---
 
+## From _Lancaster daily intelligencer._
+
+#### 1881-11-10 &middot; [Lancaster, Pa.](http://dbpedia.org/resource/Lancaster%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+cold, pour it over your beef or pork. The  
+meat must be well covered with pickle,  
+and should not be put down for at least  
+two days after killing, during which time  
+it should be slightly sprinkled with pow­  
+dered saltpetre, which removes all the  
+surface blood, &amp;c., leaving the meat fresh  
+and clean. Some omit boiling the pickle,  
+and find it to answer very well, though  
+the operation of boiling purifies the pickle  
+by throwing off the dirt always to be found  
+in salt and sugar. If this receipt is strict­  
+ly followed, it will require only a singl
+</td></tr></table>
+
+---
+
 ## [From _The Lake County star._](https://chroniclingamerica.loc.gov/lccn/sn85026421/1881-11-17/ed-1/seq-2)
 
 #### 1881-11-17 &middot; [Chase, Mich.](http://dbpedia.org/resource/Baldwin%2C_Michigan)
@@ -4324,31 +4793,51 @@ trial to prove its superiority over th
 
 ---
 
-## [From _Lancaster daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83032300/1882-11-16/ed-1/seq-4)
+## From _Lancaster daily intelligencer._
 
 #### 1882-11-16 &middot; [Lancaster, Pa.](http://dbpedia.org/resource/Lancaster%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-pour it over your beef or pork. Tho meat  
-must be well covered with piekle, and  
+pour it over your beef or pork. The meat  
+must be well covered with pickle, and  
 should not be put down for at least two  
 days after killing, during which time it  
-should bo slightly sprinkled with powder­  
-ed saltpetre, which removes all tho surface  
-blood. &amp;c., leaving the meat fresh and  
+should be slightly sprinkled with powder­  
+ed saltpetre, which removes all the surface  
+blood, &amp;c., leaving the meat fresh and  
 clean. Some omit boiling the pickle, and  
-find it to answer well, though tho opera­  
-tion of boiling purifies tho pickle by throw­  
-ing off the dirt always to bo found in salt  
+find it to answer well, though the opera­  
+tion of boiling purifies the pickle by throw­  
+ing off the dirt always to be found in salt  
 and sugar. If this receipt is strictly fol­  
-lowed, it will require only a single trial to  
-nrove its suDcrioritv over the common wa
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_joepa_ver01%2Fdata%2Fsn83032300%2F00237282292%2F1882111601%2F0471.jp2/pct:5.448463,15.062075,12.426318,6.324666/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+lowed, it will require only a single trial t
+</td></tr></table>
+
+---
+
+## From _Lancaster daily intelligencer._
+
+#### 1883-11-15 &middot; [Lancaster, Pa.](http://dbpedia.org/resource/Lancaster%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+cold, pour it over your beef or pork. The  
+meat must be well covered with pickle,  
+and should not be put down for at least  
+two days after killing, during which time  
+it should be slightly, sprinkled with  
+powdered saltpetre, which removes all the  
+surface blood, &amp;c., leaving the meat fresh  
+and clean. Some omit boiling the pickle,  
+and find it to answer well, though the  
+operation of boiling purifies the pickle by  
+throwing off the dirt always to be found in  
+salt and sugar. If this receipt is strictly  
+followed, it will require only a sing&#x27;e tria
+</td></tr></table>
 
 ---
 
@@ -4388,41 +4877,6 @@ ceipt is strictly followed it will re­
 quire only a single trial to prove it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_cayman_ver01%2Fdata%2Fsn00065152%2F00279523350%2F1884010401%2F1634.jp2/pct:38.706868,35.568082,17.675042,15.319421/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1884-11-20/ed-1/seq-4)
-
-#### 1884-11-20 &middot; [Grand Rapids [i.e. Wisconsin Rapids], Wis.](http://dbpedia.org/resource/Wisconsin_Rapids%2C_Wisconsin)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-In this ratio the pickle can be in­  
-creased to any quantity desired. L‘t  
-those be boiled together until all the  
-dirt from the sugar rNes to the top  
-and is skimmed off. Then throw ii  
-into a tub to cool, and when  
-cold pour it over your beef or pork.  
-The meat must be well covered with  
-pickle and should not be put down  
-for at least two days after killing,  
-during which time it should be slight­  
-ly sprinkled with powdered saltpeter,  
-which removes all the surface blood,  
-etc., leaving the meat fresh and clear,  
-Some omit boiling the pickle and find  
-it to answer well, though the opera­  
-tion of boiling purifies the pickle by  
-throwing off the diit always to be  
-found in salt and sugar. If this re  
-ceipt is str’dly followed it will require  
-only a single trial to prove its super
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769489%2F1884112001%2F0112.jp2/pct:37.173269,8.320596,14.218989,11.524010/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

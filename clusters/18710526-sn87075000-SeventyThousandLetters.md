@@ -108,27 +108,28 @@ A Paris correspondent writes: “All the ani
 
 ---
 
-## [From _South-eastern Independent._](https://chroniclingamerica.loc.gov/lccn/sn87075000/1871-05-26/ed-1/seq-1)
+## From _South-eastern Independent._
 
 #### 1871-05-26 &middot; [McConnelsville, Ohio](http://dbpedia.org/resource/McConnelsville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ade and sold in New York is immense,  
+lls  
+made and sold in New York is immense,  
 one manufacturer alone having supplied  
 162,000 balls last year. Perhaps the  
-United -States will bat to pieces half a  
+United States will bat to pieces half a  
 million of balls this season. Bats from an  
-important - business alone. They run  
+important business alone. They run  
 through a dozen different varieties. It  
 sounds somewhat preposterous to think  
 of mills running all the year round, turn­  
-ing out bats. As more bats are used tliaa  
-bJlfl, one can form some idea of the enorm­  
+ing out bats. As more bats are used than  
+balls, one can form some idea of the enorm­  
 ous quantity of material consumed. Orders  
 for all base-ball implements are just now  
-at their night and the supply is barely up  
-to the demand. ATew York Time. .  
+at their hight, and the supply is barely up  
+to the demand.-New Fork Times.  
 Seventy thousand letters, filling one  
 hundred and fifty sacks, and weighing  
 nearly eleven hundred pounds, were re­  
@@ -136,7 +137,7 @@ cently mailed from the city of New York
 to various foreign lands within the space  
 of two days. This statement will give  
 some idea of the immensity of the postal  
-buiiness in that city. It is also estimated  
+business in that city. It is also estimated  
 that between one hundred and twenty and  
 one hundred and fifty tons of mail matter  
 are, on the average, handled every day by  
@@ -148,11 +149,8 @@ twenty-four hours. From two to five
 hundred unstamped, misdirected, unad­  
 dressed or unsealed letters and packages  
 daily accumulate in the New York Post  
-.Office. . 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn87075000%2F00237286923%2F1871052601%2F0153.jp2/pct:5.964912,70.635721,11.044277,14.568618/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Office
+</td></tr></table>
 
 ---
 

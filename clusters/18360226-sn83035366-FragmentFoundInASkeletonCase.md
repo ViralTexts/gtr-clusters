@@ -1,7 +1,7 @@
 
 # A Fragment Found in a Skeleton Case
 
-### 177 reprints from 1815-11-01 to 1899-06-05
+### 157 reprints from 1815-11-01 to 1899-06-05
 
 ## [A Fragment Found in a Skeleton Case](http://chroniclingamerica.loc.gov/lccn/sn83035366/1836-02-26/ed-1/seq-4/)
 
@@ -3279,135 +3279,146 @@ If social love that eye employed ; And tread the palace of the sky!
 
 ---
 
-## [From _Wheeling daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn86092535/1858-11-01/ed-1/seq-4)
+## From _Wheeling daily intelligencer._
 
 #### 1858-11-01 &middot; [Wheeling, Va. [W. Va.]](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Behold the ruin I &#x27;tis a skull  
-Once of etherlal spirit full?  
-That narrow cell vu life&#x27;? retreat,  
-ihU space vu thought&#x27;s mysterious seat.  
+Behold the ruin! &#x27;tis a skull  
+Once of etherial spirit full-  
+Thet narrow cell was llfe&#x27;s retreat,  
+Tate space was thought&#x27;s mysterious seat.  
 What beauteous pictures filled this spot!  
-what dreams of pleasure long forgot;  
-Nor .ore, nor joy, nor hope, nor fear.  
-Mare left one trace or record here.  
+What dreams of pleasure long forgot;  
+Nor tove, nor joy, nor hope, nor fear,  
+Have left one trace or record here.  
 Beneath this mouldering canopy  
 Once shone the bright and busy eye;  
-But ?t*rt not at the dismal Told?  
-If social love that eye employed,  
-If with no lawless fire it gleamed.  
-But through the dew of kindness beamed?  
+But start not at the dismal void-  
+If soctal love that eye employed,  
+If with no lawless fire it gleamed,  
+But through the dew of kindness beamed,  
 That eye shall be forever bright,  
 When suns and stars have lost their light.  
-Here In this Icy cavern hong  
+Here in this icy cavern hung  
 The ready, swift, and tuneful tongue;  
-If bold In virtue&#x27;s cause it spoke,  
-Tet gentle concord never broke?  
-J/faUehoocTs honey it disdained?  
-A ad where it could not praise, was chained?  
-That tunefa! tongue shall plead for thee  
-hen Death unveils eternity f  
-Bay, did these fingers delve the mine.  
-Or with its envied rubies shine t  
-To hew the&#x27; rock, or wear the gem.  
-Oan nothing now avail to them I  
+If bold in virtue&#x27;s cause it spoke,  
+Yet gentle concord never broke,  
+Foulsehood&#x27;s homey it disdained,  
+And where it could not praise, was chained-  
+That tuneful tongue shall plead for thee  
+vhen Death unveils eternity!  
+Say, did these fingers delve the mine,  
+Or with its envied rubies shine?  
+To hew the rock, or wear the gem,  
+Can nothing now avail to them!  
 But, if the page of truth they sought,  
-Or comfort to the mournei brought?  
+Or comfort to the mourner brought-  
 These hands a richer meed shall claim  
-Thau all that waits on wealth or fame.  
+han all that waits on wealth or fame.  
 Avails it whether bare or shod  
-These feet the path of duty trod ?  
-if grandeur&#x27;s guilty bribe they spurned
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_austria_ver01%2Fdata%2Fsn86092535%2F00202190625%2F1858110101%2F0417.jp2/pct:4.021289,5.589124,12.783363,13.638893/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+These feet the path of duty trod?  
+If grandeur&#x27;s guilty bribe they spurned
+</td></tr></table>
 
 ---
 
-## [From _Lewisburg chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85055197/1858-12-03/ed-1/seq-1)
+## From _Lewisburg chronicle._
 
 #### 1858-12-03 &middot; [Lewisburg, Pa.](http://dbpedia.org/resource/Lewisburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Pay, did these fingers delve the mine,  
-Or wiih the envied rubies shine !  
+Here, in this essen Aun  
+Perhaps, the ready tuneful tongue!  
+If falsehood&#x27;s honey it disdained,  
+And, where it could not praise, was chained,  
+If loud in virtue&#x27;s cause it spoke,  
+Yet gentle concord never broke,  
+That tuneful tongue shall plead for thee  
+When death unveils eternity!  
+  
+Ferhaps the heart pulsated, here,  
+That&#x27;s often bled, to think the tear  
+Of widowed grief and orphan woe  
+So oft in this cold world should flow,  
+And oft alone in thoughtful mood  
+Hath raised a fervent prayer to God,  
+That he would soothe the troubled breast  
+With grief and penury oppressed!  
+Say, did these fingers delve the mine,  
+Or with the envied rubies shine?  
 To hew the rock, or wear the gem,  
 &#x27;an nothing now avail to them;  
-Hut if the page of Truth they sought,  
-Or comfort to the mr.urncr brought,  
+But if the page of Truth they sought,  
+Or comfort to the mourner brought,  
 Those hands shall meed a richer claim  
-Tuau all that waits cn wealth and fame !  
+Than all that waits on wealth and fame!  
 Avails it whether bare or shod  
-These feet the path of duty trod !  
+These feet the path of duty trod?  
 If from the bowers of joy they fled,  
-To soothe atllictinn&#x27;s humble bed ;  
-It grandeur&#x27;s guilty bribe they spurned,  
-And home to virtue&#x27;s lap returned ;  
+To soothe affliction&#x27;s humble bed;  
+If grandeur&#x27;s guilty bribe they spurned,  
+And home to virtue&#x27;s lap returned;  
 These feet with angels&#x27; wings shall vie,  
-And tread the palace of the sky 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn85055197%2F00280776373%2F1858120301%2F0470.jp2/pct:1.687678,57.680300,11.081741,7.820793/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+And tread the palace of the sky
+</td></tr></table>
 
 ---
 
-## [From _The Hillsborough recorder._](https://chroniclingamerica.loc.gov/lccn/sn84026472/1858-12-08/ed-1/seq-1)
+## From _The Hillsborough recorder._
 
 #### 1858-12-08 &middot; [Hillsborough, N.C.](http://dbpedia.org/resource/Hillsborough%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Found in a case which contained a skeleton in tho  
-Koyal Academy, London.  
-Behold this ruin t &#x27;twaa a skull,  
-Once of ethereal spirit full ;  
-. Tuie narrow cell waa Lifa&#x27;a retreat;  
-Thie apace waa Thought&#x27;a mysterious seat.  
-What beauteous piclurea CU&#x27;d thi spot ;  
-What dreama of pleaaurea long fiugol t  
-Nor joy, nor love, nor hope, nor fiur,  
+Found in a case which contained a skeleton in the  
+Royal Academy, London.  
+Behold this ruin! &#x27;twas a skull,  
+Once of ethereal spirit full;  
+This narrow cell was Life&#x27;s retreat;  
+This space was Thought&#x27;s mysterious seat.  
+What beauteous pictures fill&#x27;d this spot;  
+What dreams of pleasures long forgot!  
+Nor joy, nor love, nor hope, nor fear,  
 Have left one trace of record there.  
-Beneath thia mouldering canopy  
-Once ahone the bright and buxy eye ;  
-But atari not at the dismal void,  
-If social love that eye employ &#x27;d ;  
-II with no lawlcat firo it gleam&#x27;d,  
-But through the dews of kinJnets tieam&#x27;J,  
-That eye ahall be forever bright  
-When stars and suna have sunk in night.  
-Within thia hollow cavern hung  
-The ready, swift, and tuneful tongue;  
-If fnlaehood&#x27;a honey it disdain&#x27;d,  
-And where it could not praise wa cbuio&#x27;d :  
-If bold iu Virtuo&#x27;a cause it spoke,  
+Beneath this mouldering canopy  
+Once shone the bright and busy eye;  
+But start not at the dismal void,  
+If social love that eye employ&#x27;d;  
+If with no lawless fire it gleam&#x27;d,  
+But through the dews of kindness beam&#x27;d,  
+That eye shall be forever bright  
+When stars and suns have sunk in night.  
+Within this hollow cavern hung  
+The ready, swist, and tuneful tongue;  
+If falsehood&#x27;s honey it disdain&#x27;d,  
+And where it could not praise was chain&#x27;d:  
+If bold in Virtue&#x27;s cause it spoke,  
 Yet gentle concord never broke,  
-Thia ailcut tongue shall plead for thra  
+This silent tongue shall plead for thee  
 When Death unfolds Eternity.  
-8:iy, did the finger delve the mine,  
-Or with it envied lubie shine!  
-To hew the rock or wear the zvm,  
+Say, did these fingers delve the mine,  
+Or with its envied rubies shine?  
+To hew the rock or wear the gem,  
 Can little now avail to them.  
 But if the page of Truth they sought,  
 Or comfort to the mourner brought,  
-These hands a richer mead ahull claim  
-Than all that wail on wealth or fame.  
-Availa it whether bar or shod  
-These fet th path of duty tiud ;  
-If from lha bowers of rase they fled  
-To seek affliction&#x27; humble ahed ;  
-If graudeur&#x27;a guilty bribe 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_hawk_ver02%2Fdata%2Fsn84026472%2F00416156372%2F1858120801%2F0813.jp2/pct:63.906282,19.399971,13.310442,23.135728/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+These hands a richer mead shall claim  
+Than all that wait on wealth or fame.  
+Avails it whether bare or shod  
+These feet the path of duty trod;  
+If from the bowers of ease they fled  
+To seek affliction&#x27;s humble shed;  
+If graudeur&#x27;s guilty bribe was spurn&#x27;d,  
+And home to virtue&#x27;s cot return&#x27;d,  
+These feet with Angel&#x27;s wings shall vie,  
+And tread the palace of the sky
+</td></tr></table>
 
 ---
 
@@ -3438,44 +3449,6 @@ If graudeur&#x27;a guilty bribe
 #### 1860-03-19 &middot; [Milwaukee, [Wis.]](http://dbpedia.org/resource/Milwaukee)
 
 [This text is not available under an open license.]
-
----
-
-## [From _The Potter journal._](https://chroniclingamerica.loc.gov/lccn/sn86081096/1860-08-16/ed-1/seq-1)
-
-#### 1860-08-16 &middot; [Coudersport, Pa.](http://dbpedia.org/resource/Coudersport%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Within the hollow cavern liung  
-The ready, swift, and tuneful tongue,  
-If Falsehood&#x27;s honey it disdained,  
-And where it would not praise, was chained;  
-If bold in Virtue&#x27;s cause it spoke,  
-Yet gentle Concord never broke I  
-This silent Tongue shall plead for thee  
-When Time uuveils Eternity.  
-Sar, .did these fingers delve the mine?  
-Or with its envied rubies shine?  
-To hew th rock or wear the gem,  
-Can little BOW avail to them.  
-But if the page of Truth they sought,  
-Or comfort to the mourner brought,  
-These hands a richer meed shall claim  
-Than all that wait on Wealth or Fame.  
-Avails it, whether bare or shod  
-These feet the paths of Duty trod ?  
-If from the bowers of Ease they tied,  
-To seek affliction&#x27;s humble ched,  
-If Grandeur s guilty brilte .fihey sj&gt;s,ir)(j.ed.  
-And homo to Virtue&#x27;s cot returned,  
-These feet with Angel&#x27;s wings shall vie,  
-And tread the.palace of the sky
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn86081096%2F00296028666%2F1860081601%2F0579.jp2/pct:15.358732,25.727243,14.463258,13.099583/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
@@ -3532,60 +3505,6 @@ And tread the palace of the sky.
 
 ---
 
-## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1860-11-03/ed-1/seq-1)
-
-#### 1860-11-03 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Behold this ruin! &#x27;twas a skull,  
-Once of etberial spirit full;  
-This narrow cell was life&#x27;s retreat,  
-This space was thought&#x27;s mysterious seat:  
-What beauteous visions filled this spot.  
-What dreams of pleasure long forgot:  
-Nor Hope nor Love, nor Joy, por Fear,  
-Have left one trace of record here. &quot;~  
-Beneath this mouldering canopy  
-Once ?hone the bright and busy eye;  
-But, start not, ut the dismal void?  
-If social lore that eye employod;  
-If with no lawless fire it gleamed,  
-But through the dew of kindness beamed,  
-That eye shall be forever bright,  
-When stars and sun are sank in night.  
-Within this hollow cavern hung  
-The ready, swift and tuneful tongue;  
-If falsehood&#x27;s honey it disdained,  
-And where it could not praise, was chained;  
-If bold in virtue&#x27;s cause it spoke,  
-Yet gentle ooncord never broke! .  
-This silent tongue shall plead for tn?e  
-When time unveils eternity.  
-Say, did these fingers delve the mine?  
-Or with its envied rubies shine?  
-To how the rock, or wear the gem,  
-Can little now avail to them!  
-But if the page of truth they sought,  
-Or comfort to the mourner brought,  
-These hands a richer meed shall claim,  
-Than all who wait on health or fame.  
-Avails it whether bare or shod,  
-These feet the paths of duty trod?  
-If from tbe bowers of ease tboy fled,  
-To seek afiliction&#x27;s humble shed?  
-If grandeur&#x27;s guilty bribe they spurned,  
-And home to virtue&#x27;s cot returned,  
-These feet with angel&#x27;s wings shall vie,  
-And tread the palace of the sky
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_dior_ver01%2Fdata%2Fsn85025007%2F00415663511%2F1860110301%2F0015.jp2/pct:83.990117,18.530380,14.123945,18.723127/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Cass County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85033611/1860-11-08/ed-1/seq-1)
 
 #### 1860-11-08 &middot; [Dowagiac, Mich.](http://dbpedia.org/resource/Dowagiac%2C_Michigan)
@@ -3636,192 +3555,13 @@ And tread the place of the sky.-.
 
 ---
 
-## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1860-11-09/ed-1/seq-1)
-
-#### 1860-11-09 &middot; [Bedford, Pa.](http://dbpedia.org/resource/Bedford%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-uldering canopy  
-•Once shown the bright and busy eye ;  
-But start not at tho dismal void—  
-If social Love that eye employed;  
-If with no lawless fire it gleamed,  
-But though the dews of kindness beamed.  
-That eye shall be forever bright,  
-When stars and suns are sunk in Night.  
-Within this hollow cavern hung  
-The ready, swiit, and tuneful tongue.  
-If Falsehood&#x27;s honey it disdained,  
-And where it could not praise, was chained ;  
-If hold in Virtue&#x27;s cause it spoke,  
-Yet gentle Con -onl never broke !  
-This silent Tongue shall plead for the#  
-When Time nnvaits Eternity.  
-Say, did these fingers delve the min# 1  
-Or with its envied rubies shine ?  
-To hew the rock, or wear the gem.  
-Can little now avail to them.  
-But if the page of Truth they sought,  
-Or comfort to the mourner brought,  
-These hands a richer ttkend shall claim  
-Than all that wait on Wealth or Faroe.  
-Avails it, whether hare or shod,  
-These feet the path of Duty trod T  
-If from tho bowers of Ease they fled,  
-To seek Affliction&#x27;s humble shod ,  
-If Grandure&#x27;s guilty hrilw they spurued,  
-And home to virtue&#x27;s cot returned,  
-These feet with angels&#x27; wings shall via,  
-And tread the palace of the sky
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028563%2F1860110901%2F0011.jp2/pct:5.842578,35.937192,12.451136,19.532884/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _New Oregon plaindealer._](https://chroniclingamerica.loc.gov/lccn/sn87058042/1861-01-25/ed-1/seq-1)
-
-#### 1861-01-25 &middot; [New Oregon, Iowa](http://dbpedia.org/resource/New_Oregon_Township%2C_Howard_County%2C_Iowa)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-the store of Mnnson &amp; Pierce, bntter,  
-em, tallow, lard, pork, wheat and gr^  
-df^ hides for which the h&#x27;^est once  
-be paid. I11*1*!  
-  
-Avails it whether bare or shod  
-These feet the path of duty trod?  
-If from the bowers of Ease they fled,  
-To seek Affiction&#x27;s humble she
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn87058042%2F00279529340%2F1861012501%2F0301.jp2/pct:21.380859,43.211194,26.516645,51.108739/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Medical and Surgical Reporter (1858-1898)_](https://archive.org/details/sim_medical-and-surgical-reporter_1861-02-09_5_19/page/n22/mode/1up?view=theater)
-
-#### 1861-02-09 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- mouldering canopy  
-  
-Once shone the bright and busy eye;  
-  
-But, start not at the dismal void—  
-  
-If social Love that eye employed ;  
-  
-If with no lawless fire it gleamed,  
-  
-But through the dews of Tietnens beamed,  
-That eye shall be forever bright  
-  
-When the stars and suns are sunk in Night.  
-  
-Within this hollow cavern hung  
-  
-The ready, swift, and tuneful tongue.  
-  
-If Falsehood’s honey it disdained,  
-  
-And where it could not praise, was chained ;  
-If bold in virtue’s cause it spoke,  
-  
-Yet gentle Concord never broke !  
-  
-This silent Tongue shall plead for thee,  
-When Time unveils Eternity.  
-  
-Say, did these fingers delve the mine?  
-Or with its envied rubies shine?  
-  
-To hew the rock, or wear the gem,  
-  
-Can little now avail to them.  
-  
-But if the page of Truth they sought,  
-Or comfort to the mourner brought,  
-These hands a richer meed shall claim  
-Than all that wait on Wealth or Fame.  
-  
-Avails, it whether bare or shod,  
-  
-ese feet the paths of Duty trod?  
-If from the bowers of Ease they fled,  
-To seek A ffliction’s humble shed;  
-If Grandeur’s guilty bribe they spurned,  
-And home to Virtue’s cot returned,  
-  
-ese feet with angel’s wings shall vie,  
-And tread the palace of the sky.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_medical-and-surgical-reporter_1861-02-09_5_19&#0036;22/pct:8.699324,50.221990,35.641892,37.973361/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Potter journal._](https://chroniclingamerica.loc.gov/lccn/sn86081096/1861-06-27/ed-1/seq-1)
-
-#### 1861-06-27 &middot; [Coudersport, Pa.](http://dbpedia.org/resource/Coudersport%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-. J  
-Beneath this mouldering canopy  
-Once shone the bright and busy eye.  
-But start not at the dismal void,  
-Nor si&quot;k for greatness thus destroyed.  
-If with no lawless fire it gleamed,  
-Rut through the dews of kindness beamed,  
-That eve shall be forever bright,  
-When stars and suns are sunk in night.  
-Within this hollow cavern hung  
-The ready, swift, and tuneful tongue.  
-if falsehood&#x27;s honey it disdained,  
-And where it could nit praise was chained;  
-if bold in virtue&#x27;s cause it spoke,  
-Yet gentle concord never br&lt;?ke ;  
-This silent tongue shall plead for thee  
-Whta time uuvails eteruity.  
-Sty did these fingers delve the mine,  
-Or with its envied rubies shine ?  
-To hew the rock or wear the gem,  
-Can little now avail to them;  
-Bit if the page of truth they sought,  
-Or comfort to the mourner brought,  
-These hands a richer meed shall claim  
-Than all that wait on wealth or fame.  
-Avails it whether bare or shod  
-These feet the paths of duty trod ?  
-If from the bowers of ease they tied,  
-To seek affliction&#x27;s humble shed ;  
-If grandeur&#x27;s guilty bribe &lt;liey spurned,  
-And home to virtue&#x27;s cot returned ;  
-These feet with angel&#x27;s wings shall vie,  
-And tread the palace of the sky
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn86081096%2F00296028678%2F1861062701%2F0028.jp2/pct:2.033082,18.333151,14.369847,18.782171/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Bedford gazette._](https://chroniclingamerica.loc.gov/lccn/sn82005159/1861-08-09/ed-1/seq-1)
 
 #### 1861-08-09 &middot; [Bedford, Pa.](http://dbpedia.org/resource/Bedford%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ing canopy  
+anopy  
 f Once shone the bright and busy eye ;  
 But, start not at the dismal void   
 If social love that eye employed ;  
@@ -3854,7 +3594,7 @@ And home to virtue&#x27;s cot returned,
 These feet with Angel&#x27;s wings shall vie,  
 And tread the palace of the sky
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn82005159%2F00296028447%2F1861080901%2F0519.jp2/pct:19.452040,42.431952,13.253981,19.517810/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn82005159%2F00296028447%2F1861080901%2F0519.jp2/pct:19.452040,42.528875,13.253981,19.420887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3943,102 +3683,13 @@ And tread the palace of the sky
 
 ---
 
-## [From _The Abingdon Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84025980/1863-06-26/ed-1/seq-1)
-
-#### 1863-06-26 &middot; [Abingdon [Va.]](http://dbpedia.org/resource/Abingdon%2C_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-i $ Behold tbis ruin t &#x27;Twas a skull.  
-Once of ethereal spirit full;  
-This narrow cell was life&#x27;s retreat,  
-This space was thought&#x27;s mysterious seat.  
-What beauteous visions filled this spot I  
-What dreams of pleasure long forgot I -n.  
-Nor hope, nor love, nor joy, nor fear,  
-Have left one trace of record here.  
-Beneath this mouldering canopy, .  
-Once shone the bright and busy eye;  
-But start not at the dismal void:  
-If social love that eye employed, &#x27;  
-If with no lawless _-c it gleamed,  
-But through the dew of kindness beamed,  
-That eye shall be forever bright,  
-When stars and suns are sunk in night.  
-Within this hollow cavern hong  
-The ready, swift and tuneful tongue.  
-If falsehood&#x27;s honey it disdained,  
-And where it could not praise, was chained ;  
-If bold in virtue&#x27;s cause it spoke,  
-Yet gentle concord never broke,  
-This silent tongue shall plead for thee,  
-While time unvails eternity.  
-Say, did these fingers delve the mine,  
-Or with its envied rubies shine ?  
-To hew the rock or wear the gem,  
-Can little now avail te them. ■  
-But if the page of truth they sought,  
-Or comfort to the mourner brought,  
-These hands a richer meed shall claim  
-Than all that wait on wealth or fame.  
-Avails it whether bare or shod,  
-These feet the paths of duty trod ?  
-If from the bowers of ease they fled,  
-To seek affliction&#x27;s humble shed; ,  
-If grandeur&#x27;s guilty bribe they spurned,  
-And home to virtue&#x27;s cot returned,  
-These feet with angels&#x27; wings shall vie,  
-And tread the palace of the sky
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_barbaro_ver01%2Fdata%2Fsn84025980%2F00280762210%2F1863062601%2F0156.jp2/pct:55.452281,24.307829,17.246826,23.624752/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [VARIETIES.](http://trove.nla.gov.au/ndp/del/article/90261229)
-
-#### From _South Australian Weekly Chronicle (Adelaide, SA : 1858 - 1867)_
-
-#### 1863-07-11 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-ight. Within this hollow cavern  
-hun«: The ready, swift, and tuneful  
-tongue. If falsehood&#x27;s honey is  
-disdained, And when it could not praise,  
-was chained, If bold in virtue&#x27;s cause  
-it spoke, Yet gentle concord never broke  
-! This silent tongue shall plead for  
-thee When time unveils eternity. Say,  
-did these fingers delve the mine ? Or  
-with the envied rubies shine ? To hew  
-the rock or wear the gem Can. little now  
-avail to them. But if the page of truth  
-they sought, Or comfort to the mourner  
-brought, These hands a richer meed shall  
-claim Than all that wait on wealth or  
-fame. Avails it, whether baie or shod  
-These feet the path* of duty trod ? If  
-from the bowers of ease&#x27; they lied To  
-geek affliction&#x27;s humble shed — If  
-grandeur&#x27;s guilty bribe they spurned,  
-And home to virtue&#x27;s cot returned —  
-These feet with angels&#x27; wings shall vie,  
-And tread the palace of the sky
-</td></tr></table>
-
----
-
 ## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://archive.org/details/sim_friends-review-a-religious-journal_1864-02-27_17_26/page/n13/mode/1up?view=theater)
 
 #### 1864-02-27 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-h this moldering canopy  
+dering canopy  
   
 Once shone the bright and busy eye ;  
   
@@ -4108,7 +3759,7 @@ And tread the palace of the sky.
 
 ---
 
-## [From _The Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn84024207/1864-06-16/ed-1/seq-1)
+## From _The Lancaster gazette._
 
 #### 1864-06-16 &middot; [Lancaster, Ohio](http://dbpedia.org/resource/Lancaster%2C_Ohio)
 
@@ -4116,142 +3767,109 @@ And tread the palace of the sky.
 
   
   
-Say, did these finders delve the uuuel  
-, Or with its envied rubies .iliine 1 ., . ,  
-To hew tho rock, or wear tl.e gem,  
-Cunllttlenowavailto them,  
-i, But ifthe page of truth they sought,&#x27; .  
-: . , Or comfort to tho mourner brought. &#x27;  
+Say, did these fingers delve the mine?  
+Or with its envied rubies shine?  
+To hew the rock, or wear the gem,  
+Can little now avail to them.  
+ But if the page of truth they sought,  
+Or comfort to the mourner brought.  
 These hands a richer mead shall claim,  
 Than all that waits on Wealth or Fame.  
-. &#x27; AviiitK It. Whether .bare or shod,  
+a Avails it, whether bare or shod,  
   
-Theso feottlio paths of Duty trod t i . &#x27;. ...  
-j : If from the bowers of Ease they fled,  
-To seek Affliction&#x27;s humble shade. , .  
-If grandeur&#x27;s guilty bribe they spumed, ,  
-And home to Virtue&#x27;s cot returned, &#x27; &#x27;  
-Theeo feet with Angel&#x27;s&#x27;wings shall vie,  
-, And tread the palace ol the sky. ;., &#x27; 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn84024207%2F00296028034%2F1864061601%2F0950.jp2/pct:18.984851,37.334086,11.626992,7.977972/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+These feet the paths of Duty trod?1 bo  
+If from the bowers of Ease they flech,  
+To seek Affliction&#x27;s humble shade.  
+If grandeur&#x27;s guilty bribe they spurned,  
+And home to Virtue&#x27;s cot returned,  
+These feet with Angel&#x27;s wings shall vie,  
+And tread the palace of the skyo igtil al
+</td></tr></table>
 
 ---
 
-## [From _Sixpenny Magazine 1861-1868_](https://archive.org/details/sim_sixpenny-magazine_1865-11-01_11_2/page/n87/mode/1up?view=theater)
+## From _The tri-weekly news._
 
-#### 1865-11-01 &middot; [London, England](http://dbpedia.org/resource/London)
+#### 1866-03-24 &middot; [Winnsboro, S.C.](http://dbpedia.org/resource/Winnsboro%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-th this mouldering canopy  
   
-Once shone the bright and busy eye ;  
-But—start not at the dismal void—  
-  
-If social love that eye employed ;  
-  
+Behold this suin! &#x27;Twas a skull,  
+Once of etherial spirit full;  
+This narrow cell was life&#x27;s retreat,  
+This space was thought&#x27;s mysterious seat,  
+What beauteous visions filled this spot!  
+What dreams of pleasure long forgot!  
+Nor hope, nor love, nor joy, nor fear,  
+Have left one trace or record here.  
+Beneath this mouldering canopy  
+Once shone the bright and busy eye;  
+But start not at the dismal void;  
+If social love that eve employed;  
 If with no lawless fire it gleamed,  
-  
-But through the dews of kindness beamed,  
-That eye shall he for ever bright  
-  
+But through the dew of kindness beamed,  
+That eye shall be forever bright  
 When stars and suns are sunk in night.  
-  
-Within the hollow cavern hung  
-  
-The ready, swift, and tuneful tongue.  
-  
-If falsehood’s honey it disdained,  
-  
-And where it could not praise, was chained ;  
-If bold in Virtue’s cause it spoke,  
-  
+Within this hollow cavern hung  
+The ready, swift and tuneful tongue.  
+If falsehood&#x27;s honey it disdained,  
+And where it could not praise was chained;  
+If bold in virtue&#x27;s cause it spoke,  
 Yet gentle concord never broke,  
-  
 This silent tongue shall plead for thee  
 When time unveils eternity.  
-  
-Say, did these fingers delve the mine ?  
-Or with its envied rubies shine ?  
-  
-To hew the rock or wear the gem,  
-  
+Say, did these fingers delve the mine?  
+Or with its envied rubies shine?  
+To hew the rock, or wear the gem,  
 Can little now avail to them.  
-  
 But if the page of truth they sought,  
 Or comfort to the mourner brought,  
 These hands a richer meed shall claim  
 Than all that wait on wealth or fame.  
-  
-Avails it whether bare or shod,  
-These feet the paths of duty trod ?  
-  
-If from the bowers of Ease they fled  
-To seek Affliction’s humble we  
-  
-If Grandeur’s guilty  
-  
-bribe they spurned,  
-  
-And home to Virtue’s cot returned ;  
-  
-These feet with ang  
-  
-el’s wings shall vie,  
-  
-And tread the palace of the sky.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_sixpenny-magazine_1865-11-01_11_2&#0036;87/pct:45.569294,42.519160,35.883565,43.368877/,600/0/default.jpg"/>
-</td>
-</tr></table>
+Avails it whether bare or shod  
+These feet the paths of duty trod?  
+If from the halls of ease they fled,  
+To seek affliction&#x27;s humble shed,  
+If grandeur&#x27;s guilty bribe they spurned,  
+And home to virtue&#x27;s cot returned,  
+These feet with angels&#x27; wing shall vie,  
+And tread the palace of the sky
+</td></tr></table>
 
 ---
 
-## Poetry.
+## From _Sunbury American._
 
-#### From _Bristol Mercury_
-
-#### 1865-11-25 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
-
-[This text is not available under an open license.]
-
----
-
-## [Our Portfolio. A FOREST LAY.](http://trove.nla.gov.au/ndp/del/article/20309045)
-
-#### From _The Queenslander (Brisbane, Qld. : 1866 - 1939)_
-
-#### 1866-08-18 &middot; [Brisbane, Queensland](http://dbpedia.org/resource/Brisbane)
+#### 1866-04-28 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-sunk in night. Within this hoUow cavern  
-bung, The ready, swift, and tuneful  
-tongue; If falsehood&#x27;s honey it  
-disdained, And where it could not  
-praise, was t^fitntii; If bold in  
-virtue&#x27;s cause it spoke, Yet gentle  
-concord never broke, This sUent tongue  
-shaU plead for thee. When time unveils  
-eternity. Say, did these fingers delve  
-the mine? Or with its envied rubies  
-shine ? To hew the rock, or wear the  
-gem. Can little now avaU to them. But if  
-the page of truth they sought. Or  
-comfort to the mourner brought. These  
-hands a richer meed shall claim, Than  
-all that wait on wealth or fans. Avails  
-it, whether bare or shod, These feet the  
-paths of duty trod? If from the bower of  
-ease they fled, To seek affliction&#x27;s  
-humble shed ; If grandeur&#x27;s guUty bribe  
-they spurned, And home to virtue&#x27;s cot  
-returned ; These feet with angel&#x27;s wings  
-shall vie. And tread the palace of th
+in night.  
+Within this hollow cavern hung,  
+The ready, swift, and tuneful tongue.  
+If falsehood&#x27;s honey is disdained,  
+And when it could not praise, was chained;  
+If cold in virtue&#x27;s cause it spoke,  
+Yet gentle concord never broke,  
+The silent tongue shall plead for thee&quot;  
+When time unveils cternity.  
+Say, did these fingers delve the mine?  
+Or with the envied rubies shine?  
+To hew the rock or wear the gem  
+Can little now avail to them.  
+But if the page of truth they sought,  
+Or comfort to the mourner brought,  
+These hands a richer meed shall claim  
+Than all that wait on Wealth or Fame.  
+Avails it, whether bare or shod,  
+These feet the path of duty trod?  
+If from the bowers of Ease they fled,  
+To zeck affliction&#x27;s humble shed;  
+Grandeur&#x27;s guilty pride they spurned,  
+And home to virtue&#x27;s cot returned,  
+These feet with angel&#x27;s wings shall vie,  
+And tread the palaces of the sky
 </td></tr></table>
 
 ---
@@ -4290,31 +3908,158 @@ And tread the palace ot the sky
 
 ---
 
-## [From _The Hickman courier._](https://chroniclingamerica.loc.gov/lccn/sn85052141/1868-05-02/ed-1/seq-1)
+## From _The Vinton record._
+
+#### 1866-12-20 &middot; [M'arthur, Vinton County, Ohio](http://dbpedia.org/resource/McArthur%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Behold this ruin! &#x27;Twas a skull  
+Once of ethereal spirit full; a­  
+This narrow cell was life&#x27;s retreat,  
+This space was thought&#x27;s mysterious seat;  
+What beauteous visions filled this spot!  
+What dreams of pleasure long forgot!  
+Nor hope, nor joy, love, nor fear,  
+Have left one trace of record here.  
+Beneath this mouldering canopy  
+Once shone the bright and busy eye;  
+But start not at the dismal void;  
+If social love that eye employed-I  
+If with no lawless fire it gleamed,  
+But through the dew of kindness beam&#x27;d,  
+That eye shall be forever bright,&quot;  
+When stars and sun are sunk in night.  
+Within this hollow cavern hung  
+The ready, swift and tuneful tongue;  
+If falsehood&#x27;s honey it disdained,  
+And where it could not praise, was  
+Ichained; selsttov io te 1il;  
+If bold in virtue&#x27;s cause it spoke,   
+Yet gentle concord never broke,  
+This silent tongue shall plead for thee  
+When time unvells eternity.  
+e.  
+Say, did those fingers delve the mine?  
+Or with it envied rubies shine?  
+To hew the rock or wear the gemt0  
+Can little now avail to them;  
+But if the page of truth they sought,  
+Or comfort to the mourner brought,  
+These hands a richer meed shall claim  
+Than all that wait on wealth or fame.  
+Avails it whether, bare or shod,  
+These feet the depths of duty trod?  
+If from the halls of ease they fled  
+To seek Affliction&#x27;s humble shed?   
+If Grandieur&#x27;s guilty bribe they spurn&#x27;d,  
+And honor to Virtue&#x27;s cot returned,  
+These feet with angel&#x27;s wings shall vie,  
+And tread the palace of the sky.
+</td></tr></table>
+
+---
+
+## From _The Hancock Jeffersonian._
+
+#### 1867-03-15 &middot; [Findlay, Ohio](http://dbpedia.org/resource/Findlay%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+could not praise, was chained;  
+If bold in virtue&#x27;s cause it spoke,  
+Yet gentle concord never broke,  
+This silent tongue shall plead for thee  
+When time unveils eternity.  
+Say, did those fingers delve the mine?  
+Or with it envied rubies shine?  
+To hew the rock or wear the gem,  
+Can little now avail to them?  
+But if the page of truth they sought,  
+Or comfort to the mourner brought,  
+Their hands a richer meed shall claim  
+Than all that wait on wealth or fame.  
+Avails it whether, bare or shod,  
+These feet the depths of duty trod!  
+If from the halls of ease they flod  
+To seek Afficition&#x27;s humble shed!  
+If Grandeur&#x27;s guilty bribe they spurn&#x27;d  
+And home to Virtue&#x27;s cot return&#x27;d.  
+These feet with angel&#x27;s wings shall vie,  
+And tread the palace of the sky.
+</td></tr></table>
+
+---
+
+## From _The Hickman courier._
 
 #### 1868-05-02 &middot; [Hickman, Ky.](http://dbpedia.org/resource/Hickman%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-. io new the rock or wear the gem,  
-i hu nine nun- avail io m ill,  
+To new the rock or wear the gem,  
+Oh Iittie now avall to tem,  
 But if the page of truth they sought.  
 Or comfort to the mourner brought,  
 These hands a richer meed shall claim,  
 Than all that wait on wealth or fame.  
-Avails it whether bare or shod.  
-These feet t he path of duty trod ?  
+Avails it whether bare or shod,  
+These feet the path of duty trod?  
 If from the halls of ease they fled,  
 To seek affliction&#x27;s humble shed;  
 If grandeur&#x27;s guilty bride they spurned,  
-And home to virtue&#x27;s cot returned.  
+And home to virtue&#x27;s cot returned,  
 These feet with angel&#x27;s wings shall vie,  
-And tread the- palace of the sky
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_cardinal_ver01%2Fdata%2Fsn85052141%2F00202195301%2F1868050201%2F0052.jp2/pct:26.993548,31.182095,9.935484,6.116906/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+And tread the palace of the sky
+</td></tr></table>
+
+---
+
+## From _Bristol news._
+
+#### 1868-09-18 &middot; [Bristol, Va. & Tenn.](http://dbpedia.org/resource/Bristol%2C_Virginia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ife&#x27;s retreat,  
+This space was thought&#x27;s mysterious seat,  
+What beauteous visions filled this spot!  
+What dreams of pleasure long forgot!  
+Nor hope nor joy, nor love nor fear,  
+Have left one trace of record here.  
+Beneath this moldering canopy  
+Once shown the bright and busy eye;  
+But start not at the dismal void;  
+If social love that eye employed  
+If with no lawless fire it gleamed,  
+But thro&#x27; the dew of kindness beamed;  
+That eye shall be forever bright,  
+When stars and sun are sunk in night.  
+Within this hollow cavern hung  
+The ready, swift, and tuneful tongue;  
+If falsehood&#x27;s honey it disdained,  
+And where it could not praise was chain&#x27;d,  
+If bold in virtues cause it spoke,  
+Yet gentle concord never broke,  
+This silent tougne shall plead for thee  
+When time unveils eternity.  
+Say, did those fingers delve the mine?  
+Or, without envied rubies shine?  
+To hew the rock or wear the gem  
+Can little now avail to them.  
+But if the page of truth they sought,  
+Or comfort to the mourner brought,  
+These hands a richer meed shall claim  
+Than all who wait on wealth or fame.  
+Avails it not whether bare or shod,  
+These feet the depths of duty trod?  
+If from the halls of ease they fled  
+To seek affliction&#x27;s humble shed;  
+If grandeur&#x27;s guilty bribe they spurned,  
+And home to virtue&#x27;s 
+</td></tr></table>
 
 ---
 
@@ -4363,96 +4108,38 @@ These hands a richer mee
 
 ---
 
-## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1869-03-24/ed-1/seq-1)
+## From _The Lincoln County herald._
 
-#### 1869-03-24 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
+#### 1870-11-24 &middot; [Troy, Lincoln County, Mo.](http://dbpedia.org/resource/Troy%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-Behold this rnin! Twas a skull.  
-Once of ethereal spirit full;  
-This narrow ceil was life&#x27;s retreat.  
-This space was thought&#x27;s mysterious seat.  
-w hat beautious vision tilled this spot !  
-w bat dreams or pleasure long forgot !  
-Nor hope, nor joy, nor love, nor fear.  
-Have left one trace of record here.  
-Beneath this monlderlnr eanony  
-Once shown the brigh t and busy eye ;  
-rsui start not at me aismai voio ;  
-If social love that eve employed;  
-If with no lawless Are it gleamed.  
-But through the dew of kindness beamed.  
-i nat eye snail oe iorever Dngm  
-When stars and suns are sunk in night.  
+k in night.  
 Within this hollow cavern hung  
-The ready, swift and tuneful tongue.  
-If falsehood&#x27;s honev it disdained?  
-And whereltcould not praise was chaln&#x27;d;  
-ii ooia in virtue s cause it spoae.  
-Yet gentle concord never broke.  
+The ready, swift and tuneful tongue;  
+If falsehood&#x27;s honey it disdained,  
+And, when it could not praise, was chained  
+If bold in virtue&#x27;s cause it spoke,  
+Yet gentle concord never broke,  
 This silent tongue shall plead for thee  
 When time unveils eternity.  
-ngen  
-Or with its envied rubies shine?  
-To hew the rock, or wear the (em.  
-t an iittie now avail to tnem.  
-But if the page of truth they sought.  
-Or comfort to the mourner brought.  
-The hands a richer meed shall claim  
-Than all that wait on wealth or fame.  
-Avails It whether bare or shod  
-These feet the paths of duty trod ?  
-If from the halls of ease they fled.  
-To seek affliction&#x27;s humble shed.  
-If grauduer&#x27;s guilty bribe they spurned.  
-.-luu oumo io virtue s cot reiumea.  
-These feet with angel&#x27;s wings shall vie.  
-And tread the pa luce of the sky.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286868%2F1869032401%2F0295.jp2/pct:26.244563,16.057274,9.150959,13.871133/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The weekly register._](https://chroniclingamerica.loc.gov/lccn/sn84026817/1870-02-10/ed-1/seq-1)
-
-#### 1870-02-10 &middot; [Point Pleasant, Va. [W. Va.]](http://dbpedia.org/resource/Point_Pleasant%2C_West_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Within this hollow cavern hung  
-The ready,srift.and tuneful tongue, &#x27;  
-]f falsehoods&#x27;* honesty It disdained,  
-And when it could not praiso was chained,  
-If bold, in virtue&#x27;s cause it spoke,  
-Vet rentfo concord never broke!  
-Thia silent tongueahall plead for tlco  
-Wlicr. time unveila ctornity  
-Say. did thew fingers delvo the mine,  
-Or with the envied rubies sliino  
+Say, did these fingers deive the mine?  
+Orwith the envied rubies shine?  
 To hew the rock, or wear the gem,  
 Can little now avail to them.  
-But if thp page of truth you sought,  
-Or con)forts to the mourner brought,  
-These hands a richer meed ahall claim  
-Than all that wait on wealth or fatco.  
-Avails it, whether bare or shod,  
-These feet the path of duty trod;  
-If from the bowers of ease they fled  
-To seek AITcction&#x27;s humble shod:  
-If Grandeur&#x27;s guilty bribe they spumed,  
-And home to Virtue&#x27;s cot returned;  
-Thcso with angels&#x27; wings shall vie,  
-And tread the palace of the sky
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84026817%2F00202193766%2F1870021001%2F0030.jp2/pct:33.428231,27.582349,15.135064,16.527927/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+But if the page of truth they sought,  
+Or comfort to the mourner brought,  
+These hands a richer meed shall claim  
+Than all that wait on wealth or fame.  
+Avails it whether bare or shod,  
+These feet the path of duty trod?  
+If from the bowers of ease they fled,  
+To seek affliction&#x27;s humble shed;  
+If grandeur&#x27;s guilty bride they spurned,  
+And home to virtue&#x27;s cot returned,  
+These feet with angel&#x27;s wings shall vie,  
+And tread the palace of the sky.
+</td></tr></table>
 
 ---
 
@@ -4462,8 +4149,7 @@ And tread the palace of the sky
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- here.  
-Beneath this mouldering canopy  
+eath this mouldering canopy  
   
 Once shone the bright and busy eyej  
 But start not at the dismal void.  
@@ -4502,7 +4188,7 @@ And home to virtue&#x27;s cot returned;
 These feet with angel&#x27;s wings shall vie,  
 And trod the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_odoric_ver01%2Fdata%2Fsn85038145%2F00415665799%2F1871041301%2F0884.jp2/pct:26.181435,24.036173,11.118143,16.341425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_odoric_ver01%2Fdata%2Fsn85038145%2F00415665799%2F1871041301%2F0884.jp2/pct:26.181435,24.829446,11.118143,15.548152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4652,98 +4338,6 @@ And trend the palaeo of the sky
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1872-06-27_43_26/page/n5/mode/1up?view=theater)
-
-#### 1872-06-27 &middot; [New York](http://dbpedia.org/resource/New_York_City)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-When time unvaila etermty.  
-  
-Say, did those fingers delve the mine ?  
-Or with its envied rubies shine ?  
-to To hew the rock or wear the gem  
-Can little now avail to them.  
-  
-Bat if the page of truth they sought.  
-  
-Or comfort to the mourner brought,  
-lliese hands a richer meed shall claim  
-Than all that wait on wealth or feme.  
-  
-A-xroilB It whether bare or shod.  
-  
-These feet the path of duty trod 7  
-If from the halls of ease they fled  
-To seek affliction’s humble shed ;  
-  
-If grandeur’s guilty bribe they spumed,  
-knU home to virtue’s cot retnrned.  
-These feet with angel’s wings shall vie.  
-And tread the pZlace of the shy.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_evangelist-and-religious-review_1872-06-27_43_26&#0036;5/pct:13.601645,24.319149,10.663925,7.425532/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn85033386/1873-08-22/ed-1/seq-1)
-
-#### 1873-08-22 &middot; [Columbia, Tenn.](http://dbpedia.org/resource/Columbia%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Behold this ruin ! Twas a skull  
-Once of etherial Spirit full.  
-This narrow cell was life&#x27;s retreat,  
-This space was Thought&#x27;s mysterious seat.  
-What beauteous visions filled this spot,  
-What dreams of pleasure long forgot,  
-Nor hope, nor love, nor Joy, nor fear,  
-Have left one trace of record here.  
-Beneath tbiB mouldering canopy  
-Once shone the bright and busy eye ;  
-j . But, start not at the dismal void,  
-a If social love that eye employed :  
-If with no lawless fire it gleamed,  
-&#x27;,&#x27; But through the dews of kindness beanie d,  
-That eye shall be forever bright  
-When stars and suns are sunk in nght.  
-Within this hollow cavern hung  
-The ready, swift and tuneful tongue.  
-If Falsehood&#x27;s honey it disdained,  
-And where it could not praise was chained.  
-If bold in Virtue&#x27;s cause it spoke,  
-Yet gentle concord never broke !  
-This silent tongue shall plead for thee,  
-AYhcn time unveils eternity.  
-Say, did these fingers delve the mine?  
-Or&#x27; with it&#x27;s envied rubies shine?  
-To hew the rock or wear the gem  
-Can little now avail to them.  
-But if the page of Truth they sought,  
-Or comfort to the mourner brought,  
-These hands a richer meed shall claim  
-Than all that wait on wealth or fame.  
-Avails it whether bare or shod,  
-These feet the paths of Duty trod ?  
-If from the bowers of ease they fled  
-To seek afflictions humble shed ;  
-If grauduer&#x27;s guilty bribe they spurned,  
-And home to Virtue&#x27;s cot returned,  
-These feet with angel&#x27;s wings shall vie  
-And tread the palace of the sky
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jimmy_ver02%2Fdata%2Fsn85033386%2F00296020709%2F1873082201%2F0138.jp2/pct:16.804408,15.003327,9.182736,13.162564/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Arizona citizen._](https://chroniclingamerica.loc.gov/lccn/sn82014896/1873-11-22/ed-1/seq-1)
 
 #### 1873-11-22 &middot; [Tucson, Pima County, A.T. [i.e. Ariz.]](http://dbpedia.org/resource/Tucson%2C_Arizona)
@@ -4855,13 +4449,64 @@ And tread the palace of the sky
 
 ---
 
+## From _The Middlebury register._
+
+#### 1873-12-02 &middot; [Middlebury, Vt.](http://dbpedia.org/resource/Middlebury%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+This space was thought&#x27;s mysterious seat;  
+What beauteous visions filled this spot!  
+What dreams of pleasure long fergot!  
+Nor hope, nor joy, nor love, nor fear,  
+Have left one trace of record here.  
+Beneath this mouldering canopy  
+Once shone the bright and busy eye;  
+But start not at the dismal void,  
+If social love that eye employed  
+If with no lawless fire it gleamed,  
+But through the dew of kindness beamed  
+That eye shall be forever bright,  
+When sun aud stars are sunk in night.  
+Within this hollow cavern hung  
+The ready, swift, and tuneful tongue.  
+If falsehood&#x27;s honey it disdained,  
+And when it could not praise, was chained;  
+If bold in virtue&#x27;s cause it spoke,  
+Yet gentle concord never broke  
+This silent tongues all plead for thee,  
+When time unvails eternity.  
+Say, did those fingers delve the mine?  
+Or with its envied rubies shino?  
+To hew the rock or wear the gem  
+Can little now avail to them.  
+  
+But if the page of truth they sought,  
+Or comfort to the mourner brought,  
+These hands a richer meed shall claim  
+Than all that wait on wealth or fame  
+Avails it whether, bare or shod,  
+These feet the path of duty trod  
+  
+If from the halls of ease they fled  
+To seek affliction&#x27;s humble shed;  
+If grandeur&#x27;s guilty bribe they spurned,  
+  
+And home to virtue&#x27;s cot returned,  
+These feet with angel&#x27;s wings shall vie,  
+And tread the palace of the sky.
+</td></tr></table>
+
+---
+
 ## [From _Saint Mary's beacon._](https://chroniclingamerica.loc.gov/lccn/sn82006687/1874-01-29/ed-1/seq-1)
 
 #### 1874-01-29 &middot; [Leonard Town, Md.](http://dbpedia.org/resource/Leonardtown%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-f record here.  
+ere.  
 Bensotb this mouldering canopy  
 Once shone the bright and busy ere;  
 Bat Start not at tbs dismal rol l.  
@@ -4901,34 +4546,38 @@ And tread the palace of the sky
 
 ---
 
-## [From _The state journal._](https://chroniclingamerica.loc.gov/lccn/sn87052128/1874-02-13/ed-1/seq-8)
+## From _Clearfield Republican._
 
-#### 1874-02-13 &middot; [Jefferson City, Mo.](http://dbpedia.org/resource/Jefferson_City%2C_Missouri)
+#### 1874-12-02 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-When realms and glory end below. &#x27;  
-Say. did these fingers delve the mine?  
-Or with Its envied rubles shine?  
-To bew the rock or wear the gem.  
-Can little now avail to them.  
-But If the page of truth they sought,  
-Or comfort to tnc mourner brought ;  
-These hauds a richer meed shall claim  
-Than all that wait on wealth or fume.  
-Avails It whether bare or shod, - -  
-These feet the puth of duty trod?  
-If from the bowers of caso they fled.  
-To seek affliction&#x27;s humble shed,  
-If Grandeur&#x27;s guilty prido they spurned, &#x27;  
-And homo to Virtue&#x27;s cot returned ;  
+nk in night.  
+Within this hollow cavern hang  
+The ready, swift and tuneful tongue.  
+If falsehood&#x27;s honey it disdained,  
+And when it could not praise was chained,  
+If bold in virtue&#x27;s cause it spoke,  
+Yet gentle concord never broke,  
+This silent tongue shall plead for thee  
+When time unveils eterntty.  
+Say, did these fingers delve the mine?  
+Or with the envied rubies shine?  
+To hew the rock or wear the gem  
+Can little now avaif to them.  
+But if the page of truth they sought,  
+Or comfort to the mourner brought,  
+These hands a richer meed shall claim  
+Than all that wait on Wealth or Fame.  
+Avails it whether, bare or shod,  
+These feet the path of duty trod  
+If from the bowers of Ease they fled,  
+To seek Affliction&#x27;s humble shed;  
+If Grandeur&#x27;s gilded bower they spurned,  
+And home to Virtue&#x27;s cot returned,  
 These feet with angel&#x27;s wings shall vie,  
-And tread tho palace of tho sky
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_felice_ver01%2Fdata%2Fsn87052128%2F00200292170%2F1874021301%2F0278.jp2/pct:60.528942,32.508954,15.344311,11.546990/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+And tread the palaces of the sky
+</td></tr></table>
 
 ---
 
@@ -5041,48 +4690,45 @@ And home to virtue&#x27;s cot returned,
 
 ---
 
-## [From _The new Northwest._](https://chroniclingamerica.loc.gov/lccn/sn84022673/1875-12-03/ed-1/seq-1)
+## From _Walla Walla statesman._
 
-#### 1875-12-03 &middot; [Portland, Or.](http://dbpedia.org/resource/Portland%2C_Oregon)
+#### 1875-12-11 &middot; [Walla Walla, Wash. Terr.](http://dbpedia.org/resource/Walla_Walla%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-neath this mouldering canopy  
-Once shone tho bright and busy eye.  
-Rut start not at the dismal Told  
-If social Lovo that eye employed;  
-If with no lawless fire it gleamed,  
+ouldering canopy  
+Once shone the bright and busy eye.  
+But start not at the dismal void-  
+If social love that eye employed;  
+If with no law less fire it gleamed,  
 But through the dews of kindness beamed,  
 That eye shall be forever bright,  
-When stars and suns are sunk In night.  
-&quot;Within this hollow cavern hnng  
+When stars and sun are sunk in night.  
+Within this hollow cavern hung  
 The ready, swift, and tuneful tongue.  
-If Falsehood&#x27;s honey It disdained,  
+If falsehood&#x27;s honey it disdained,  
 And where it could not praise, was chained  
-If bold in Virtue&#x27;s cause It spoke,  
-Yet gentle Concord never broke 1  
+If bold in virtue&#x27;s cause it spoke,  
+Yet gentle Concord never broke!  
 This silent tongue shall plead for thee  
-&quot;When Time nnvells Eternity.  
-Say, did these fingers delve tho mine ?  
-Or with Its envied rubies shine T  
+When time unveils eternity.  
+Say, did these fingers delve the mind!  
+Or with its envied rubies shine?  
 To hew the rock, or wear the gem,  
-Can little now avail to them.  
-T5ut if the page of Truth they sought,  
-Or comfort to the mourner brought.  
+Can litt e now avail to them.  
+But if the page of truth they sought,  
+Or comfort to the mourner brought,  
 These hands a richer meed shall claim  
-Than all that wait on AVealth or Fame.  
-Avails It, whether bare or shod,  
-These feet the path of Duty trod T  
-If from the bowers of Ease they fled,  
-To seek Alllictlon&#x27;s humble shed;  
-If Grandeur&#x27;s guilty bribe they spurned,  
-And home to Virtue&#x27;s cot returned,  
-Theso feet with angels&#x27; wings shall vie.  
-And tread the palace of the sky
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_lyonsport_ver02%2Fdata%2Fsn84022673%2F0020029841A%2F1875120301%2F0061.jp2/pct:83.133198,24.094532,11.527803,12.333939/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Than all that wait on wealth or fame.  
+Avails it, whether bare or shod,  
+These feet the path of duty trod?  
+If from the bowers of ease they fled,  
+To seek afiliction&#x27;s humble shed:  
+If grandeur&#x27;s guilty bribe they spurned,  
+And home to virtue&#x27;s cot returned,  
+These feet with angels wings shall vie,  
+And tread the palace of the sky.
+</td></tr></table>
 
 ---
 
@@ -5113,48 +4759,6 @@ These feet with angels’ wings shall vie,
 And tread the palace of the sky
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_frost_ver02%2Fdata%2Fsn85026214%2Fprint00211110247%2F1876120301%2F0003.jp2/pct:7.080212,15.906102,10.830440,6.289453/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Weekly Oskaloosa herald._](https://chroniclingamerica.loc.gov/lccn/sn84027329/1878-02-21/ed-1/seq-1)
-
-#### 1878-02-21 &middot; [Oskaloosa, Iowa](http://dbpedia.org/resource/Oskaloosa%2C_Iowa)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-in night.  
-  
-“Within this hollow cavern hung  
-The ready, swift and tuneful tongue,  
-ff fals ‘hood’s honey it disdained.  
-Ami when it could not praise was chained.  
-If bold in virtue’s cause It spoke.  
-Vet gentle concord mver broke—  
-That silent tongue shall plead for thee,  
-When time unveils eternity.  
-  
-“&gt;ay, did these fingers delve the mine  
-Or with the envied ruby shine?  
-To how the rock or wear the gem,  
-Ci n little now avail to them.  
-  
-But if the page of truth they sought,  
-Or comfort to the mourner brought—  
-These hands a richer meed ahull claim  
-Thau all who wait on weal or fume.  
-  
-“Avails it whether bure or shod.  
-These feet the path of duty trod?  
-If from the bowers of ease they tied,  
-To seek affliction’s humble shed;  
-If grandeur’s guilty bribe they spurned,  
-A nd home to virtue&#x27;s cot returned -  
-These feet with angel’s wings shall rise.  
-And tread the palace of the skies.”
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_celebi_ver01%2Fdata%2Fsn84027329%2F00279528992%2F1878022101%2F0027.jp2/pct:32.410565,21.559448,7.709796,7.549708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5212,171 +4816,6 @@ And tread the palace of the skies.
 
 ---
 
-## [From _The Eaton Democrat._](https://chroniclingamerica.loc.gov/lccn/sn88077272/1878-10-31/ed-1/seq-1)
-
-#### 1878-10-31 &middot; [Eaton, Ohio](http://dbpedia.org/resource/Eaton%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Chnnidc. .,  
-Behold this mini &#x27;Twas a skull,  
-mce of ethe eal spirit full;  
-This Barrow coll was life&#x27;s retreat, , 1  
-This spice was though .&#x27;a mysterious seat.  
-What beauteous Tisions filled this spot!  
-What dreams of pleasure long forgot!  
-Nor ho, nor joy, nor lore, nor fear,  
-- Have let t one trace of record here.  
-Feneath this moldering canopy &#x27; &quot;&#x27;  
-nce shone the bright and busy eye;  
-- Rut stait not at the dismal void;  
-If social lore that eye employed ;  
-If with no lawless fin it gleamed, - &#x27;  
-But through the dew of kindnes beamed,  
-1 hat eye shall be forever bright  
-When atari and sunt are sunk in night. -  
-&#x27; -VFthjD thia hollow cavern hung--&quot; - :&#x27;r :  
-The ready, swift aod tuneful tongue. -  
-If falehood&#x27;a honey it disdained,  
-And where it eouid not praue was chained;, &#x27;-.  
-If bold in virtue&#x27;s cause itspoke, .  
-Yet gentle concord never broke,  
-. This silent longne shall plead for thee  
-When time unveils eternity &quot;  
-Say, did these fingers delvethe mine?  
-Or with its envied rubies shine!  
-To hew the rock, or wear the gem. -  
-Can little now avail to them. &quot;  
-But if the pge of truth they sought,  
-Or comfort to the mourner brought, , &#x27; &#x27; .  
-Tbe bands a richer meed shall cia m  
-Than all that wait on wealth or fame.  
-Avails It whether bared or shod .&#x27;  
-Thee feet the paths of duty tmdt  
-If from the halls of ease they fled, ,  
-To seek affection&#x27;s humble ahed, -,-&#x27;-  
-If grandeur&#x27;s guilty bride they spurned,  
-Add home to virtue&#x27;s cot returned, &#x27;.  
-Those feet with angels&#x27; wings sha I vie,  
-And tread the palace of tbe sky.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn88077272%2F00296027236%2F1878103101%2F0190.jp2/pct:4.941860,18.650227,10.584815,14.743673/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Daily globe._](https://chroniclingamerica.loc.gov/lccn/sn83025287/1879-02-23/ed-1/seq-9)
-
-#### 1879-02-23 &middot; [St. Paul, Minn.](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Behold this ruin&#x27; &#x27;T^ as a skull.  
-Once of ethereal spirit full,  
-This narrow cell was life&#x27;s retreat  
-This space wao thought&#x27;s mysterious&#x27;seat,  
-What beauteous visions filed this spot!  
-What dreams of pleasure long forgot!  
-No hope, aor joy, nor love, nor fear,  
-Have left one trace of record here.  
-Beneath this moldermg canopy  
-One shone the bright and busy eye  
-But start not at the dismal void,  
-If social lo\e that eye employed.  
-If with no lawless hre it gleamed,  
-But through the dew of kindness beamed,  
-That eye shall be forever bright  
-When stars and suns are sunk night.  
-Within this hollow cavern hung  
-The ready, swift and tuneful tongue.  
-If falsehooil&#x27;b honej it disdained,  
-And here it could not praise was chained,  
-If bold in virtue&#x27;s cause it spoke,  
-Yet gentle concord never broke,  
-This silent tongue shall plead for thee  
-When time unveils eternity.  
-Say, did these fingers delve the mine?  
-Or with its envied rubies shme&#x27;  
-To hew the rock, or wear the gem,  
-Can little  
-noweavail tohthem.  
-But if tht1  
-pag of trut they sought,  
-Or comfort to the mourner brought.  
-The hands a richer meed shall claim  
-Than all that wait on wealth or fame.  
-Avails it whether bared or shod  
-Thesg feet the paths f duty trod?  
-If from the halls of ease they fled,  
-To seek affection&#x27;s humble shed,  
-If grandeur&#x27;s guilty bride they spurned,  
-And home to virtue&#x27;s cot returned,  
-These feet with angel&#x27;s wings 6hall vie,  
-And tread the palace of the sky
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_dunbar_ver01%2Fdata%2Fsn83025287%2F00280768133%2F1879022301%2F0313.jp2/pct:8.600523,11.716843,11.536168,17.019257/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Princeton union._](https://chroniclingamerica.loc.gov/lccn/sn83016758/1879-02-26/ed-1/seq-3)
-
-#### 1879-02-26 &middot; [Princeton, Minn.](http://dbpedia.org/resource/Princeton%2C_Minnesota)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Behold this ruin! &#x27;Twas a skull.  
-Once of ethereal spirit full  
-This narrow cell was life&#x27;s retreat  
-This space was thought&#x27;s mysteriousjseat,  
-What beauteous visions filed this spot!  
-What dreams of pleasure long forgot!  
-Nohope, nor joy, nor love, nor fear,  
-Have left one trace of record here.  
-Beneaththis moldering canopy  
-One shone the bright and busy eye  
-But start not at the dismal void  
-If social love that eye employed:  
-If with no lawless fire it gleamed,  
-But through the dew of kindness beamed,  
-That eye shall be forever brieht  
-When stars and suns are sunk in night.  
-Within this hollow cavern hung  
-The ready, swift and tuneful tongue.  
-IT falsehood&#x27;s honey it disdained,  
-And where it could not praise was chained  
-If bold in virtuc&#x27;&amp; cause it spoke,  
-Yet gentle concord never broke,  
-This silent tongue shall plead for thee  
-When time unveils eternity.  
-Say, did these fingers delve the mire?  
-Or with its envied rubies shine?  
-To hew the rock, or wear the gem,  
-Can little now avail to them.  
-But if the page of truth they sought,  
-Or comfort to the mourner brought.  
-The hands a richer meed shall claim  
-Than all that wait on wealth or fame.  
-Avails it whether bared or shod  
-These feet the paths of duty trod?  
-If from the halls of ease they fled,  
-To seek affection&#x27;s humble shed,  
-If grandeur&#x27;s guilty bride they spurned,  
-And home to virtue&#x27;s cot returned,  
-These feet with angel&#x27;s wings shall vie,  
-And tread the palace of the sky
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_goshen_ver01%2Fdata%2Fsn83016758%2F00280767967%2F1879022601%2F0069.jp2/pct:4.473740,11.390982,12.997670,18.677612/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Columbian._](https://chroniclingamerica.loc.gov/lccn/sn83032011/1879-03-14/ed-1/seq-1)
 
 #### 1879-03-14 &middot; [Bloomsburg, Pa.](http://dbpedia.org/resource/Bloomsburg%2C_Pennsylvania)
@@ -5407,57 +4846,53 @@ And trend the palace of the sky
 
 ---
 
-## [From _Memphis daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn83045160/1879-06-01/ed-1/seq-2)
+## From _The south Kentuckian._
 
-#### 1879-06-01 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
+#### 1881-03-22 &middot; [Hopkinsville, Ky.](http://dbpedia.org/resource/Hopkinsville%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Behold mis ruin! &#x27;Twas a skull,  
-Once of ethereal spirit full;  
-This narrow eel&#x27; was Life&#x27;s retreat.  
-This space was Taought&#x27;s nijster&#x27;ous seat.  
-Wtiat beauteous visions tilled this spot!  
-What dreams ot iileasuie Ions forgol!  
-Nor Hope, nor Love, nor Joy, nor tear,  
-Have lelt one trace of record here.  
-Beneath this mo&#x27;.ilerlng canopy  
-Once shone &#x27;.he brlglit and busy eye;  
-But tnrt not at the dismal void;  
-If social Love that eje employed;  
-If with no lawless tire It gleamed.  
-But through the dew of kindness beamed.  
-Thai eye shall be forever bright  
-When stars and suns are sunk In Night.  
-Within this hollow cavern hung  
-The ready, swift and tuneful tongue.  
-It Falsehood&#x27;s hony It disdained.  
-And where &#x27;t could not praise was chained;  
-If bold In Virtue&#x27;s came It snoke,  
-Yet gentle Concord never b oke.  
-This silent tongue shall plead for thee  
-When Time unveils eternity.  
-8ay, did these flneers delve the mine?  
-Or with Its envied rubies shine?  
-To hew the rock, or wear the gem,  
-Can little now avail to them.  
-But If the page of Truth they sought,  
-Or comfort to the mourner brought,  
-These bands a richer meed shall claim  
-Than all that wait on Wealth or Fame.  
-Avails It whether bare or shod  
-These feet the paths of duty trod?  
-If from the bowels of Ease they tied.  
-To seek aflllctlons humble shed;  
-It grandeur&#x27;s guilty bribe they spurned,  
-And home to Virtue&#x27;s cot returned.  
-These feet with angel&#x27; wings shall vie,  
-And tread the palace of the sky
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_charlie_ver01%2Fdata%2Fsn83045160%2F00280779568%2F1879060101%2F0461.jp2/pct:35.275288,25.386221,8.181818,12.160752/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+This space was thought&#x27;s mysterious seat;  
+W liat benmcous pieers piet thisspot!  
+What dreams of pleasures long forgot!  
+Nor love&#x27; nor joy, nor hope, nor fuar,a  
+Has left one trace of record here.  
+Beneath this moldering canopy  
+Once shone the bright and busy eyaifunt  
+But start not at the dismal vold;  
+If social love that eye employed.  
+as fiul?  
+it with no lawless fire it gloamed,  
+ut thro&#x27; the dow of kindness beamed,&quot;  
+That eyes shall be forever bright  
+When stars and suns have lost their light  
+bginan ling asolod jen? ov  
+Hare in this sllens cavern huns go uhinor  
+The ready, swift, and tuneful tongue.  
+If falschood&#x27;s honey it disdainad  
+And where it could not praise, wat chalned;  
+If bold in virtue&#x27;s cause it spoke.  
+Yet gentle concord nover broke,  
+That thueful, tongue shall plead for thee,  
+when desthsunvels cternity.  Ss  
+Say, did these fiugers delve the mil  
+or with its cuvled rubles shinsy  
+To hew the rock or wear the gem  
+Can nothing now avail to them,  
+But if the page of truth they sought,  
+Or comfort to the niourner bronght.  
+These hands a richer meed shall claim  
+Then all that byalts gh wealth or fain.  
+Avalls it whether bare or shod  
+These feet the path of duty trod?  
+If from the bowern ofloy ther sed  
+To soothe affection s humble bed  
+If grandeur&#x27;s gutfty bride ther spurned,  
+And home to virtue&#x27;s lap returned.  
+Thase fect with angel&#x27;s wings shall vit  
+And tread the palale of the sky-37
+</td></tr></table>
 
 ---
 
@@ -5542,7 +4977,6 @@ And tread the palace of the sky
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nopy  
 (Mice shone the bright and busy eye;  
 Hut start not ut the dismal void ?  
 If social love that eye employed,  
@@ -5576,7 +5010,7 @@ And home to Virtue&#x27;s cot returned.
 These feet, with angel&#x27;s wings shall vie  
 And tread the palace of the sky
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_flopeye_ver01%2Fdata%2Fsn84026918%2F00295861423%2F1881042201%2F0040.jp2/pct:6.810193,13.941531,14.772505,16.273689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_flopeye_ver01%2Fdata%2Fsn84026918%2F00295861423%2F1881042201%2F0040.jp2/pct:6.810193,14.264727,14.772505,15.950492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5588,7 +5022,7 @@ And tread the palace of the sky
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-o siione the bright and busy eye ; ]  
+one the bright and busy eye ; ]  
 Hut start not at the dismal void? f  
 If social love that eye employed, I  
 If with no lawless fire it gleamed.  
@@ -5632,7 +5066,6 @@ And tread the palace ol the sky
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of here.  
   
 Beneath this mouldering canopy  
   
@@ -5686,7 +5119,7 @@ And home to Virtue’s cot returned,
 These feet with angel’s wings shall vie  
 And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_journal-of-education_1881-06-30_14_326&#0036;7/pct:11.620017,38.422927,19.571671,24.498057/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_journal-of-education_1881-06-30_14_326&#0036;7/pct:11.620017,39.491580,19.571671,23.429404/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5698,8 +5131,7 @@ And tread the palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- here.  
-Beneath this mouldering canopy  
+eath this mouldering canopy  
 Once shone the bright and busy eye;  
 But start not at the dismal void­  
 If social love that eye employed,  
@@ -5732,7 +5164,7 @@ And home to virtue&#x27;s cot returned,
 These feet with angel&#x27;s wings shall vie  
 And tread the palace of the sky
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_bolivar_ver01%2Fdata%2Fsn85034248%2F00200299383%2F1881071601%2F0126.jp2/pct:33.092021,17.010184,11.486486,14.233754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_bolivar_ver01%2Fdata%2Fsn85034248%2F00200299383%2F1881071601%2F0126.jp2/pct:33.092021,17.701261,11.486486,13.542677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5744,7 +5176,7 @@ And tread the palace of the sky
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ecord here.  
+.  
 Beneath this mouldering canopy  
 Once shone the bright and busy eye;  
 But stu t not at the dismal void—  
@@ -5778,7 +5210,7 @@ And home to virtue’s cot returned,
 These feet with angels’ wings shall vie i  
 And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00279529601%2F1881081801%2F0131.jp2/pct:16.417430,27.059411,10.552340,14.381553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00279529601%2F1881081801%2F0131.jp2/pct:16.417430,27.683475,10.552340,13.757489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5790,7 +5222,7 @@ And tread the palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-this mouldering canopy  
+ering canopy  
   
 Once shone the bright and busy eye ;  
   
@@ -5851,63 +5283,38 @@ And tread the palace of the sky.
 
 ---
 
-## [From _Wichita eagle._](https://chroniclingamerica.loc.gov/lccn/sn85032575/1883-09-06/ed-1/seq-1)
+## From _Burlington weekly free press._
 
-#### 1883-09-06 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
+#### 1884-05-02 &middot; [Burlington, Vt.](http://dbpedia.org/resource/Burlington%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Behold thl ruin. &#x27;Twa a tkull  
-Once of ethereal spirit full ;  
-Thl aarrow cell wa lire&#x27;s retreat,  
-Thl space wa Thought&#x27; mysterious seat.  
-  
-What beauteous visions filled this spot.  
-  
-.Where dteaau of pleasure loag forgot!  
-  
-Nor hope, nor lore, nor Joy, nor rear,  
-Das lea one trace or record here.  
-Beneath this mouldering canopy  
-Once shown the bright and busy eye ;  
-But, start not at the dismal void  
-ir social love that eye employed,  
-  
-K with no lawless fire It gleamed,  
-But through the dew or kindness beamed,  
-  
-That eye shall be forever bright  
-  
-When stars and suns are sunk In night.  
-Within this hollow cavern bung  
+When this hollow cavern hung  
 The ready, swift and tuneful tongue;  
-ir falsehood&#x27;s honey It disdained.  
-And where it could not praise, was chained,  
-U bold In virtue&#x27;s cause it spoke.  
-Yet gentle concord never broke.  
-This silent tongue shall plead for tbee  
-When time unveils eternity.  
-Say, did these fingers delve the mine?  
-Or with Its envied rubles sblne?  
-To hew the rocks, or wear the gem,  
-Cau little now avail to them.  
-But If the page or truth they sought,  
+If falsehood&#x27;s honey it disdained,  
+And where it could not praise, was chained.  
+If bold in virtue&#x27;s cause it spoke,  
+Yet gentle concord never broke,  
+This silent tongue shall plead for thee  
+When time unvells eternity.  
+Sar, did these fingers delve the mine?  
+Or with its envied rubles shine?  
+To hew the rock, or wear them gem,  
+Can little now avail ts them.  
+But if the page of truth they sougkt,  
 Or comfort to the mourner brought,  
 These hands a richer meed shall claim  
-Than all that wait on Wealth and Fame.  
-Avails it, whether bare or shod,  
-These feet the paths of duty trod,  
-ir from the bowers or Ease they fled,  
-To seek Affliction&#x27;s bumble shed ;  
-U Grandeur&#x27;s guilty bribe they spurned,  
-And home to Virtue&#x27;s cot returned.  
-These feet with angels&#x27; wings shall vie,  
-And tread the palace or the sky.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brockovich_ver02%2Fdata%2Fsn85032575%2F00237281895%2F1883090601%2F0436.jp2/pct:32.783053,17.206691,8.867787,17.276874/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Than all that wait on Wealth or Fame.  
+Avails it whether bare or shod  
+These feet the path of duty trod,  
+If from the bowers of Ease they sed,  
+To seck affliction&#x27;s humble shed;  
+If Gran &#x27;eur&#x27;s guilty bribe they spu ned.  
+And home to Virtue&#x27;s cot returned,  
+These feet with angel&#x27;s wing&#x27;s shall vie  
+And tread the palace of the sky.
+</td></tr></table>
 
 ---
 
@@ -5917,7 +5324,7 @@ And tread the palace or the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-this mouldering canopy  
+mouldering canopy  
 Once shone the bright and busy eye;  
 But start not at the dismal void—  
 If social love that eye employed,  
@@ -5997,122 +5404,55 @@ And tread the palace of the sky
 
 ---
 
-## [From _The comet._](https://chroniclingamerica.loc.gov/lccn/sn89058128/1884-08-30/ed-1/seq-4)
+## From _The sun._
 
-#### 1884-08-30 &middot; [Johnson City, Tenn.](http://dbpedia.org/resource/Johnson_City%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-t.  
-Within this hollow cavern hung  
-The r rudy, swift and tuneful tongue. &#x27;  
-If fulslhood&#x27;B honey it disdained,  
-And where it could not praise waH ehiilned,  
-If liold In virtue&#x27;s muse It spoke,  
-Yet gentle eoueord never broke,  
-Thut silent tongue shall plead for tho.o  
-When tiinu mi veils oteruity.  
-Way, did these fingers delve tho mints  
-Or with its envied ruble shine?  
-To how the rock or wear the gem  
-Ian little now avail In thorn;  
-But if the puge of truth they nought,  
-Or comfort to the mourner brought,  
-Thcxe hiindu a richer meed shall claim  
-Tliuu all that waits on wealth or fume.  
-Avails It whethor bare or shod  
-These feet the path of duty trod?  
-If from the bowers of easo thoy iled  
-To seek affection&#x27;s humble shed;  
-If grandeur&#x27;s guilty bribe they spurned.  
-And home to vlrtuo&#x27;s cot returned,  
-These feet with angel&#x27;s wings shall vlo  
-And tread the palace of tho sky
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_hubert_ver01%2Fdata%2Fsn89058128%2F0029602112A%2F1884083001%2F0109.jp2/pct:11.001613,18.322296,10.822433,12.413972/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Physicians' and Surgeons' Investigator; a Monthly Journal Devoted to the Best Interests of the Profession (1880-1889)_](https://archive.org/details/sim_physicians-and-surgeons-investigator_1884-11-15_5_11/page/n24/mode/1up?view=theater)
-
-#### 1884-11-15 &middot; [Buffalo](http://dbpedia.org/resource/Buffalo%2C_New_York)
+#### 1884-12-31 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Behold this ruin! &#x27;Twas a skull  
+Once of ethereal spirit full!  
+This narrow cell was life&#x27;s retreat  
+This space was thought&#x27;s mysterious soat  
+What heauteons pictures diled this spot  
+What dreams of pleasure long forgott  
+Nor love, nor joy, nor hope, nor fear  
+Has left one trace of record here  
+Beneath this mouldering canopy  
+Once shone the bright and busy eye  
+But start not at the dismal void  
+If social love that eye employed  
+If with no lawless fire it gleamed  
+But through the dew of kindness beamed  
+That eye shall be forever bright  
+When stars and suns have lost their light  
+Here, in this silent cavern, hung  
+The ready, swift, and tuneful tongue  
+If falsehood&#x27;s honey it diedained  
+And, where it could not praise, was chalned  
+If bold in virtue&#x27;s cause it spoke  
+Yet gentle concord never broke  
+That tuneful tongue shall plead for thee  
+When death unveils eternity  
   
-But, start not at the dismal void—  
-  
-If social love that eye employed,  
-  
-If with no lawless fire it gleamed,  
-  
-But through the dews of kindness  
-beamed,  
-  
-That eye shall be forever bright,  
-  
-When stars and suns are sunk in night.  
-  
-Ill.  
-  
-Within this hollow cavern hung  
-  
-The ready, swift, and tuneful tongue ;  
-  
-If Falsehood’s honey it disdained,  
-  
-And where it could not praise, was  
-chained ;  
-  
-If bold in Virtue’s cause it spoke,  
-  
-Yet gentle concord never broke,  
-  
-This silent tongue shall plead for thee,  
-  
-When time unveils eternity.  
-  
-IV.  
-  
-Say, did these fingers delve the mine ?  
-  
-Or with its envied rubies shine ?  
-  
-To hew the rock, or wear the gem,  
-  
-Can little now avail to them.  
-  
-But if the page of truth they sought,  
-  
-Or comfort to the mourner brought,  
-  
+Say, did these fingers delve the mine  
+Or with its envied rubies shine?  
+To hew the rock or wear the gem  
+Can nothing now avail to them  
+But if the page of truth they sought  
+Or comfort to the mourner brought  
 These hands a richer meed shall claim  
-  
-Than all that wait or Wealth or Fame. f  
-Vv.  
-  
-Avails it, whether bare or shod,  
-  
-These feet the paths of duty trod,  
-  
-&#x27; If from the bowers of Ease they fled,  
-  
-To seek Affliction’s humble shed ;  
-  
-If Grandeur’s guilty bribe they spurned,  
-  
-And home to Virtue’s cot returned.  
-  
-These feet with angel’s wings shall vie,  
-  
-And tread the palace of the sky.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_physicians-and-surgeons-investigator_1884-11-15_5_11&#0036;24/pct:6.448763,13.725490,85.644876,56.248171/600,/0/default.jpg"/>
-</td>
-</tr></table>
+Than all that waits on wealth or faie  
+Avails it whether bare or shod  
+These feet the path of duty trod?  
+If from the bowers of joy they ied  
+To soothe affliction&#x27;s humble bed  
+If grandeur&#x27;s gullty bribe they spurned  
+And home to virtue&#x27;s lap returned  
+Those feet with angel&#x27;s wings shall vie  
+And tread the palace of the sk
+</td></tr></table>
 
 ---
 
@@ -6189,8 +5529,7 @@ And tread tho palace of the sky
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e.  
-Beineath the mouldering canopy Once  
+h the mouldering canopy Once  
 shone the bright and busy eye. But start  
 not at the dismal void i If social love  
 that eye employed, If with no lawless  
@@ -6284,6 +5623,42 @@ And home to virtue&#x27;s
 #### 1887-08-17 &middot; [Portland, Or.](http://dbpedia.org/resource/Portland%2C_Oregon)
 
 [This text is not available under an open license.]
+
+---
+
+## From _Oxford Democrat._
+
+#### 1888-10-16 &middot; [Paris, Me.](http://dbpedia.org/resource/Paris%2C_Maine)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+at eye shall be forever bright.  
+When stars and suns are sunk in night.  
+Within this hollow cavern hang  
+The ready, swift and tuneful tongue.  
+If falsehood&#x27;s honey it disdained,  
+And where it could not praise was chained,  
+If bold in virtue&#x27;s cause it spoke,  
+Yet gentle concord neser broke,  
+That silent tougue shall plead for thee  
+When time unveils eternity.  
+Say, did these fingers delve the mine,  
+Or with its enviel rubles shine?  
+To hew the rock of woar the gom  
+Can little now avail to thenl;  
+But if the page of trutt, they sought,  
+Or comfort to the mourner brought,  
+These hands a richer nieed shall clalm  
+Than all that waits on wealth or fame  
+Avails it whether bare or shod  
+These feet the path of duty trod?  
+If from the bowers of ease they fied  
+To seek affection&#x27;s hutable shed.  
+If grandeur&#x27;s gutlty bribe they sparned,  
+And home to virtue&#x27;s tot returned,  
+The se feet with angel&#x27;s wings shall vie  
+And tread the palace of the sk
+</td></tr></table>
 
 ---
 
@@ -6385,7 +5760,7 @@ When death unveils eternity.
 
 ---
 
-## [From _The Seattle post-intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83045604/1890-05-06/ed-1/seq-6)
+## From _The Seattle post-intelligencer._
 
 #### 1890-05-06 &middot; [Seattle, Wash. Terr. [Wash.]](http://dbpedia.org/resource/Seattle)
 
@@ -6416,10 +5791,7 @@ If hold in Tlrta-&gt; • cause it spoke.
 Yet gentle roactrt never hrose.  
 That tane.&#x27;ul toorue shall plead for thee  
 Whta tteaih an veils eternity.&#x27;
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_entiat_ver01%2Fdata%2Fsn83045604%2F00202199033%2F1890050601%2F0210.jp2/pct:48.108280,71.209720,11.073262,9.135411/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -6496,7 +5868,7 @@ When death unveils eternity.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ath this mouldering canopy  
+this mouldering canopy  
   
 Once shone the bright and busy eye,  
 But start not at the diemal void  
@@ -6642,7 +6014,7 @@ And tread the palace of the sky !
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-eath this mouldering canopy  
+mouldering canopy  
   
 Once shone the bright and busy eye ;  
   
@@ -6696,82 +6068,6 @@ These feet with angels wings shall vie
 And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/iiif/sim_music-magazine-and-musical-courier_1893-01-18_26_672&#0036;15/pct:68.874869,71.311773,18.349106,20.076308/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Chicago eagle._](https://chroniclingamerica.loc.gov/lccn/sn84025828/1893-01-28/ed-1/seq-7)
-
-#### 1893-01-28 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-CVithin this hoi ow cavern hung  
-rhe ready, swift aul tuneful tongue;  
-If falsehood&#x27;s honey it disdained,  
-tVnd when it could not praise was ch&amp;ineJ;  
-If bold in virtue&#x27;s cause it spoke,  
-Vet gentle concord never broke.  
-1&#x27;his silent tongue shall speak for tie  
-When time unvciU eternity.  
-Say, did those fingers delve the mine?  
-Or with its envied rubies shine?  
-To hew the rook or wear the gem  
-Om little now avail to them.  
-But if the page of truth they sought,  
-Or comfort to the mourner brou ht,  
-Theso hands a richer meed shall claim  
-Than all that wait uu wealth or tamo.  
-avails it whether bare or shod,  
-These feet the paths of duty trod?  
-If from the bowers of cmm they fled  
-To peek affliction&#x27;s bumble shed ?  
-If grandeur&#x27;s guilty br.be U y spurned,  
-And home U fit lie&#x27;s cot returned.  
-These foet with angels&#x27; leet shall vie  
-And tread the palace of the sky
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_article_ver01%2Fdata%2Fsn84025828%2F00202193821%2F1893012801%2F0401.jp2/pct:5.017640,18.197081,13.171305,13.999742/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _St. Landry democrat._](https://chroniclingamerica.loc.gov/lccn/sn88064537/1893-03-25/ed-1/seq-2)
-
-#### 1893-03-25 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Within this hoi ow caveru hung  
-The ready, swift and t meäul tongue;  
-If falsehood&#x27;s honey it disdained,  
-And when it co Jd not praise was chaiuod;  
-If bold in virtue&#x27;s cause it spoke,  
-i T et gentle c mcord never broke  
-This silent tongue shall speak for t:i99  
-When time unveil -i eterniiv.  
-Say, did those fingers dove tha mine?  
-Or with its envied rubies shine?  
-To hew the rock or wear the gom  
-Can litt e now avail to them.  
-But if the page of truth they sought,  
-Or comfort to the mourner brou ht,  
-These hands a richer meed snail claim  
-lhan all ihat waits ou wealth or lamo.  
-Avails it whether bare or shod,  
-These feet tha paths of duty trod?  
-If from the bowers of eas • they fled,  
-To eek affliction&#x27;s humbla shed?  
-If grandeur&#x27;s guilty br.be th y spurned,  
-Am home t &gt; vir ue&#x27;a cot returned,  
-Th. se fott with angels&#x27; leet shall vi#  
-And trea d tho palace of the sky.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064537%2F00295876177%2F1893032501%2F0053.jp2/pct:20.184825,15.942545,11.073281,12.856125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6887,105 +6183,13 @@ When death unveils eternity
 
 ---
 
-## [From _The morning news._](https://chroniclingamerica.loc.gov/lccn/sn86063034/1893-09-03/ed-1/seq-4)
-
-#### 1893-09-03 &middot; [Savannah, Ga.](http://dbpedia.org/resource/Savannah%2C_Georgia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-cord here.  
-Beneath this mouldering canopy  
-Once shone the bright and busy eyo;  
-Hut start not at the dismal void—  
-If social love that eye employed;  
-If with no lawless lire it gleamed.  
-But through the dews of kindness beamed.  
-&#x27;That eye shall be forever bright  
-When stars and suns are sunk ih night.  
-Within this hollow cavern hung  
-The ready, swift and tuneful tongue;  
-If falsehood&#x27;s honey it disdained.  
-And where it could not praise was chained:  
-If bold in Virtue&#x27;s cause it spoke,  
-Yet gentle concord never broke:  
-This silent tongue shall bleed for thee  
-When time unveils eternity.  
-Say. did these fingers delve the mine?  
-Or with its envied rubies shine?  
-To hew the rock, or wear the gem,  
-Can little now avail to them.  
-But if the page of truth they sought,  
-Or comfort to the mourner brought.  
-These hands a richer meed shall claim  
-Than all that w&#x27;ait on wealth or tame.  
-Avails it. whether bare or shod.  
-These feet the paths of duty trod,  
-If from the bowers of Ease they fled,  
-To seek Affliction&#x27;s humble shed;  
-If Grandeur&#x27;s guilty bribe they spurned,  
-And home to Virtue&#x27;s cot returned.  
-These feet with angeis&#x27; wings shall vie  
-And tread the palace of the sky
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_drew_ver02%2Fdata%2Fsn86063034%2F00414182100%2F1893090301%2F0844.jp2/pct:57.549192,68.863620,12.560881,13.925075/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The morning news._](https://chroniclingamerica.loc.gov/lccn/sn86063034/1895-04-15/ed-1/seq-4)
-
-#### 1895-04-15 &middot; [Savannah, Ga.](http://dbpedia.org/resource/Savannah%2C_Georgia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-coid here.  
-Beneath this mouldering canopy  
-Or.ee shone the bright and busy eye;  
-But start not at the dismal void—  
-If social love that eye employed.  
-If with no lawless fire it gleamed,  
-But through the dews of kindness beamed  
-That eye shall ba forever bright,  
-When stars and sun are sunk in night.  
-Within this hollow cavern hung  
-The ready, swift and tuneful tongue;  
-If falsehood’s honey it dt3dained.  
-And when it could not praise, was chained;  
-If bold in virtue&#x27;s cauce it spoke.  
-Yet gentle concords never broke,  
-This silent tongue shall plead for thee  
-When Time unveils Eternity.  
-Say, did these fingers delve the mine?  
-Or with its envied rubies shine?  
-To hew the rock or wear the gem  
-Can little now avail to them.  
-But if the page of truth they sought.  
-Or comfort to the mourner brought.  
-These hands a richer meed shall claim  
-That all that wait on Wealth and Fame.  
-Avails it whether bare or shod.  
-These feet the paths of duty trod?  
-if from the bows of ease they fled  
-To seek affliction&#x27;s humble shed;  
-if grandeur&#x27;s guilty Bribe they spurned.  
-And home to virtue’s cot returned,  
-These feet with angel&#x27;s wings shall vie  
-And tread the palace of the sky
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_endeavour_ver01%2Fdata%2Fsn86063034%2F00414182148%2F1895041501%2F1256.jp2/pct:58.421078,54.898971,12.522650,13.938239/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Dawson news._](https://chroniclingamerica.loc.gov/lccn/sn89053283/1895-04-24/ed-1/seq-3)
 
 #### 1895-04-24 &middot; [Dawson, Ga.](http://dbpedia.org/resource/Dawson%2C_Georgia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-record here.  
+e.  
 Beneath this moualdering canopy  
 Once shown the bright and busy eye;  
 But start not at the dismal void—  
@@ -7019,7 +6223,7 @@ And home to virtue’s cot returned, -
 These feet with angel&#x27;s wings shall vie  
 And tread the palace of the sky
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_abby_ver02%2Fdata%2Fsn89053283%2F00517177003%2F1895042401%2F1030.jp2/pct:19.564747,56.821444,17.285621,20.312448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_abby_ver02%2Fdata%2Fsn89053283%2F00517177003%2F1895042401%2F1030.jp2/pct:19.564747,56.838135,17.285621,20.295757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7066,16 +6270,6 @@ When death unveils eternity.
 
 ---
 
-## Lines to a Skeleton
-
-#### From _The daily inter ocean._
-
-#### 1896-08-15 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
-
-[This text is not available under an open license.]
-
----
-
 ## Poor Humanity
 
 #### From _The daily inter ocean._
@@ -7083,44 +6277,6 @@ When death unveils eternity.
 #### 1896-09-06 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
 [This text is not available under an open license.]
-
----
-
-## [From _Martinsburg independent._](https://chroniclingamerica.loc.gov/lccn/sn84038206/1896-12-05/ed-1/seq-1)
-
-#### 1896-12-05 &middot; [Martinsburg, W. Va.](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-nk in night.  
-Within this hollow cavern hung  
-The ready, swift and tuneiWl tongue.  
-If falsehood’s honey is disdained,  
-And when it could not praise was chained  
-It bold in virtue’s cause it spoke.  
-Yet gentle concord never broke ;  
-The silent tongu; shall plead for thee.  
-When time unveils eternity.  
-Say, did those fingers delve the mine,  
-Or with the envied ruby sbine ?  
-To hew the rock, or wear the gem,  
-Can little now avail to them.  
-But if the page of truth they sought.  
-Or comfort to the mourner brought—  
-These hands a richer meed shall claim  
-Than all that wait on wealth or fame.  
-Avails it whether bare or shod,  
-These feet the path of duty trod ?  
-If from the bowers of ease they fled ?  
-To seek the affliction’s bumble shed ;  
-It grandeur’s guilty bribe they spurned,  
-And home to virtue’s cot returned—  
-These feet with angel’s wings shall rise,  
-And tread the palace of the skies
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_duval_ver01%2Fdata%2Fsn84038206%2F00393349268%2F1896120501%2F0405.jp2/pct:41.152747,23.894018,10.557049,11.848100/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
@@ -7243,73 +6399,6 @@ And tread the palace of the sky.
 
 ---
 
-## [From _Current Literature (1888-1912)_](https://archive.org/details/sim_current-opinion_1897-03_21_3/page/n12/mode/1up?view=theater)
-
-#### 1897-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-bright and busy eye ;  
-  
-But start not at the dismal void —  
-  
-If social love that eye employed ;  
-  
-If with no lawless fire it gleamed  
-  
-But through the dews of kindness beamed,  
-That eye shall be forever bright,  
-  
-When stars and suns are sunk in night.  
-  
-Within this hollow cavern hung  
-  
-The ready, swift, and tuneful tongue.  
-  
-If falsehood’s honey it disdained,  
-  
-And when it could not praise was chained,  
-If bold in virtue’s cause it spoke,  
-  
-TREASURE TROVE: OLD FAVORITES RECALLED  
-  
-  
-  
-  
-  
-Yet gentle concord never broke,  
-That silent tongue shall plead for thee  
-When time unveils eternity.  
-  
-Say, did these fingers delve the mine.  
-Or with its envied rubies shine?  
-  
-To hew the rock or wear the gem  
-Can little now avail to them —  
-  
-But if the page of truth they sought,  
-Or comfort to the mourner brought,  
-These hands a richer meed shall claim  
-Than all that wait on wealth or fame.  
-  
-Avails it whether bare or shod,  
-  
-These feet the paths of duty trod?  
-  
-If from the bowers of ease they fled  
-To seek affliction’s humble shed,  
-  
-If grandeur&#x27;s guilty bribe they spurned  
-And home to virtue’s cot returned,  
-Those feet with angel’s wings shall vie  
-And tread the palace of the sky.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_current-opinion_1897-03_21_3&#0036;12/pct:18.918093,7.478070,59.596577,86.337719/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [TO A SKELETON. [The following verses were published anonypiously in the London "Morning Chronicle" in 1827. Nothwithstanding the offer of a reward of fifty guineas, the authors name has remained a secret until nearly sixty years had passed, when it was learned that the lines were written by Robert Philip, of Gormyre Cottage, Scotland. Toward the end of the year 1826 he wrote the verses while watching for body-snatchers in the parish church-yard of Torphichen, where, during the repairing of the church, the unearthing of a skeleton suggested the subject. The verses were shown to Dr John Alford, who procured a copy, and either by accident or intention dropped a copy in the Royal College of Surgeons, where they were found.]](http://trove.nla.gov.au/ndp/del/article/149738198)
 
 #### From _Geelong Advertiser (Vic. : 1859 - 1924)_
@@ -7318,8 +6407,7 @@ And tread the palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hero.  
-Beneath this molaering canopy Once shone  
+ath this molaering canopy Once shone  
 the bright and busy eye. But start not  
 at the dismal void ! If social love that  
 eye employed, If with no lawless fire it  
@@ -7359,7 +6447,7 @@ tread tho nalace of the sky
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-this moldering canopy  
+ring canopy  
 j Once shone the bright and busy eye.  
 But start not at the dismal void!  
 If social love that eye employed,  
@@ -7394,69 +6482,7 @@ And home to virtue&#x27;s cot returned,
 ; These feet with angels’ wings shall vie  
 And tread the palace of the sky
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_arguingmatch_ver02%2Fdata%2Fsn96060765%2F0038334184A%2F1897042401%2F0059.jp2/pct:31.827893,20.486541,12.371441,16.386981/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Los Angeles times._](https://archive.org/details/sim_los-angeles-times_the-los-angeles-times_1898-11-27/page/n36/mode/1up?view=theater)
-
-#### 1898-11-27 &middot; [[Los Angeles, Calif.]](http://dbpedia.org/resource/Los_Angeles)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-Beneath this smouldering canopy  
-Once shone the bright and busy eye:  
-But start not at the dismal void—  
-If social love that eye employed,  
-If with no lawless fire it gleamed,  
-But through the dews of kin@ness  
-That eye shall be forever bright,  
-When stars and suns are sunk in  
-  
-beamed,  
-night.  
-  
-Within this hollow cavern hung  
-  
-The ready, swift and tuneful tongue;  
-  
-If falsehood’s honey it disdained,  
-  
-And when it could not praise, was chained;  
-If bold in virtue’s cause it spoke,  
-  
-Yet gentle concord never broke,  
-  
-This silent tongue shall plead for thee  
-When Time unveils Eternity.  
-  
-Say, did these fingers delve the mine?  
-Or with its envied rubies shine?  
-  
-To hew the rock or wear the gem,  
-  
-Can little now avail to them.  
-  
-But if the page of Truth they sought,  
-Or comfort to the mourner brought,  
-These hands a richer meed shall claim  
-Than all that wait on Wealth or Fame.  
-  
-These feet the paths of duty trod!  
-  
-If from the bowers of ease they fled  
-  
-To seek affliction’s humble shed; | oh  
-If grandeur’s guilty bribe they spurned,  
-And home to virtue’s cot returned—  
-These feet with angel&#x27;s wings shall vie,  
-And thread the palace of the sky.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_los-angeles-times_the-los-angeles-times_1898-11-27&#0036;36/pct:69.842575,33.317226,16.835056,17.041153/,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_arguingmatch_ver02%2Fdata%2Fsn96060765%2F0038334184A%2F1897042401%2F0059.jp2/pct:31.827893,20.520329,12.371441,16.353193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

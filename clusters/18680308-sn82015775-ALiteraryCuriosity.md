@@ -1,7 +1,7 @@
 
 # A Literary Curiosity
 
-### 193 reprints from 1868-02-26 to 1899-07-20
+### 210 reprints from 1868-02-26 to 1899-07-20
 
 ## [A Literary Curiosity](http://chroniclingamerica.loc.gov/lccn/sn82015775/1868-03-08/ed-1/seq-3/)
 
@@ -100,36 +100,66 @@ LIFE.
 
 ---
 
-## [From _The New Orleans crescent._](https://chroniclingamerica.loc.gov/lccn/sn82015775/1868-03-08/ed-1/seq-3)
+## From _The New Orleans crescent._
 
 #### 1868-03-08 &middot; [New Orleans, La.](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-S26-0. the, ehat Impious self-esteem ;  
-I 2-Rches have wings, and grandeur is a dream.  
-27-Think net ambitibon wi beaouse &#x27;ti brave,  
-, 28-The paths of glory lead bat to the grave.  
-I- 29-What is sambtiona-&#x27;tis a glorious cheat !­  
-s 33-Only destractive to the brave and great.  
-S31-What&#x27;s all the gady glitter of a crown ?  
-t 32-The way to blisas b ot om beds of down.  
-h 33--ow lng we live, not years, but actions, tell;  
-34-That man lives twice who lives the first life  
+see ha e  
+IWhy all this toll for triumphs of an hour?  
+2-Life&#x27;s a short summes, man a flower;  
+catchthe vital breath and die­  
+The cradle and the tomb, alas, so nigh.  
+B.-To be is better far than not to be,  
+ S-Though all man&#x27;s life may seem a tragedy;  
+-But light cares speak when mighty griets a  
+-The bottom is but shallow whence they come.  
+9--Your fate is but the common fate of all;  
+e ae o er t o ma e  
+ Nature to each allots his proper sphere,  
+eo ae o e ei   
+13- Custom does not often reason overrule,  
+14- And throw a cruel sunshine on a fool.  
+15--Live well, how long or short permit to heaven.  
+16. They who forgive most, shall be most forgiven.  
+I7-Sin may be clasped so close we cannot see  
+18--Vile intercourse where virtue has no place;  
+a a e e   
+Thou pendulum betwit a smile and tear  
+A  
+ Her sensual ares let fathles pesues lay  
+-Her sensual shares let faithless pleasues  
+23.-Soar not too high to fall, but stoop to rise,  
+I .We masters grow of all that we despise.  
+O then renounce that impions self-esteem  
+ice ae win and gan de is a dem  
+27- Think not ambition wise because &#x27;tis brave,  
+the paths of gory led but to the gave.  
+ e  aion  ia oo e­  
+eOn detei o te ba an et  
+$1- What&#x27;s all the gaudy glitter of a crown?  
+ The way to blis lies not on beds of down.  
+a e  e e e a  
+34.That man lives twice who lives the first life  
 well.  
-S36-Make, the, while yet we may. your God  
-l your iend.  
-S36-Wom Christians worhip, yet not cempre.  
-had.  
-1­  
-37-The trust that&#x27;s glves guard; and to your­  
-S self be just ;  
-S38-For, live we how we na, yet die we mua
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_psylocke_ver01%2Fdata%2Fsn82015775%2F00200299899%2F1868030801%2F0467.jp2/pct:78.395296,23.226950,16.160850,10.081054/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+ae ten i e e a o o  
+ your triend.  
+Whom Ohristians worshin, vat not comnre.  
+hend.  
+­  
+37.The trust that&#x27;s given guard; and to your­  
+self be just;  
+38-For, live we how we can, yet die we must.  
+Southwell? I1. Congreve: 12, Churchilf, 1, Roe ester; It,  
+Armstrong, 1s, Ellion; 18, Eatly; 17. Trenee, 18 Somertille,  
+e­  
+singer; 24, Cowley; 45 Beattie, 25. Cowper; 2t, Sir Wait  
+Davenant; 28, Grey; 29, Willis: 30, Addison; 31, Dryden; 32.  
+$85. Watkins; 34, Herrick;35, William Mason;  
+7, Dana; 38, Shaks
+</td></tr></table>
 
 ---
 
@@ -417,64 +447,76 @@ speare.
 
 ---
 
-## [From _Daily Davenport Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83045646/1868-04-04/ed-1/seq-2)
+## From _Daily Davenport Democrat._
 
 #### 1868-04-04 &middot; [Davenport, Iowa](http://dbpedia.org/resource/Davenport%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-up and fitting together the following thirty  
-eight tinea from thirty-eight Eagiiah poets.  
-The names of tbe authora are given beiow  
+The names of the authors are given below  
   
-I- -Why all this toil for triumphs nf an hour  
-I.if* a a abort summer, man a^owcr  
-*—Hy turns waratuh tba vital uraalh aaS die,  
+-Why all this toil for triumphs of an hour  
+Life&#x27;s a short summer, man a flower  
+3.-By turne we catch the vital breath and die,  
   
-A—  
   
-Tlie cradle and the t&#x27;unh.aias so nigh  
-r— To be la better far than not to ba,  
--Though all mini&#x27;s life iney seem a tragedy,  
-7—But light cares speak when mighty grioCa  
-are ltnb,  
   
-The bottoai is but shallow whence they  
-ceuie­  
-9- Your fate ia but the common (ate ef all  
-10- linmiagledjoys, here, to no man befall.  
-11— .Nature to earh allots his proper sphere,  
-I Koitune aiakes tolly lier peculiar care  
-1&quot; t&#x27;ustom does not often reason overrule,  
-II Aa I throw n cruel sunshine on a fool.  
-1?. Lire well, bow long or short permit, Iu  
-b«aven  
-18 -Thev who forget most ahall be most for­  
+The cradle and the tomb, aas! so nigh  
+$-To be is better far than not to be,  
+Though all man&#x27;s life may seem a tragedy;  
+7--But light cares speak when mighty griofs  
+are dumb,  
+  
+The bottom is but shallow whence they  
+come-­  
+ Your fate is but the common fate of all  
+10--Unmingled joys, here, to no man befall.  
+1l--Nature to each allots his proper sphere,  
+12-Fortune makes folly her peculiar care  
+13. Custom does not often reason overrule,  
+14And throw a cruel sunshine on a fool.  
+1 Live well, how long or short permit, to  
+heaven  
+1 They who forget most shall be most for.­  
 given.  
-17--Sin nisv be clasped so close we canoot  
-nee its face  
-IS -Vile Intercourse where virtue baa not  
-placo  
-1«--Then Keep eaeh passioa down, howsver  
+17Sin may be clasped so close we cannot  
+see its face  
+18 Vile intercourse where virtue has not  
+place  
+19Then keep each passion down, however  
 dear,  
-2C—Tliiu pendulum, bet wilt a smile aad War.  
-&#x27;.1-ller acosn&amp;l snares let faithless pleasure  
+20. Thou pendulum, betwixt a amile and toar.  
+2l--Her sensual snares let faithless pleasure  
   
-{j,- 1 —Wil&#x27;li craft and skill, to ruin and betray,  
-&#x27;.&quot;t- Soar net too high to fill,  
-but stoop to rias,  
+2! With craft and skill, to ruin and betray.  
+23. Soar not too high to fall,  
+but stoop to rise,  
   
-We masters grow of all that we deapis*.  
-1. —Oh, then renounce tlist impious eell&#x27;-es
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_hypno_ver01%2Fdata%2Fsn83045646%2F00279528621%2F1868040401%2F0498.jp2/pct:24.268841,49.719982,10.119048,14.288381/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+We masters grow of all that we despise.  
+15-Oh, then renounce that impions selfees-­  
+teem  
+$6Riches have wings and grandour is a  
+eam.  
+E7-Think not ambition wise because &#x27;tis  
+brave,  
+28-The paths of glory lead to the grave.  
+29- What is amhition? &#x27;tis a glorious cheat  
+30- Only destructive to the brave and great,  
+st- What&#x27;s all the gaudy glitter of a crown  
+$2 The way to bliss lies not on beds of down.  
+$8- How long we live, not years, but actions  
+tell  
+$4. That man lives twice who lives the first  
+life well.  
+23--Meke, then, white yet you may, your  
+  
+your friend,
+</td></tr></table>
 
 ---
 
-## [From _Daily Davenport Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83045646/1868-04-04/ed-1/seq-2)
+## From _Daily Davenport Democrat._
 
 #### 1868-04-04 &middot; [Davenport, Iowa](http://dbpedia.org/resource/Davenport%2C_Iowa)
 
@@ -482,28 +524,25 @@ We masters grow of all that we deapis*.
 
   
   
-It—Whom I&#x27;hristiaaa worship, yet aot com­  
+36. Whom Christians worship, yet not com-­  
 prehend  
-17—The trust tbat&#x27;o given gaard aad to yonr­  
-eelf be just  
-•S&#x27;-For, life we how we ran,yet die we must  
-1, Youag 2. Dr. Jobuaon S, Pope 4,  
-Prior 6, Sewell 6, Spenser 7, D.imel  
-fi, Sir Walter Raleigh 9, Longfellow 10,  
-Southev 11, Congreve 12, Churchill  
-in, Rochester 14, Armstrong 16,Milton  
-16, B^ily 17, Trench 18, Somerville 19.  
-Tbomaoa 20, Bryon 31, Smollet 22,  
-Crabbe 2U. Masolngor 24, Cawles 23,  
-Boatie 2ti, Cowper 27, Sir Walter Daven­  
-ant 28. Carey 29, Willis 30, Addlatm  
-1, Dryden 32, Francia Quarles :t3, Wat  
-kins :H, Horrick 35, Willi mi Maeon  
-36, lltll 87, Dana S3, Shakesphearc.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_hypno_ver01%2Fdata%2Fsn83045646%2F00279528621%2F1868040401%2F0498.jp2/pct:24.278215,70.008214,9.969066,7.377539/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+$-The trust that&#x27;s given guard and to your-­  
+self be just  
+38.-For, life we how we can, yot die we must.  
+1, Young; 2, De. Johuson. Pope;   
+Prier; 5, Sewell; 6, Spenser; 7. Daniel  
+8, Sir Walter Raleigh; 9, Longfellow; 10,  
+Southey; 11, Congreve; 12, Churchill  
+13, Rochester; 14, Armstrong; 15, Milton  
+16, Baily; 17, Trench; 18, Somerville;19,  
+Thomson; 20, Bryon; 21, Smoltet; 22,  
+Crabbe; 23, Massinger; 34, Cowles. 25,  
+Beatie; 26, Cowper; 27, Sir Walter Daven-­  
+ant; 28, Carey;29, Willis; 30, Addison  
+1, Dryden; 32, Francis Ouarles; 33, Wat  
+kins; 34, Herrick; 35, William Mason  
+36, Hill; 37, Dana; 38, Shakespheare.
+</td></tr></table>
 
 ---
 
@@ -574,6 +613,110 @@ Shakspeare.&#x27; &#x27; . &#x27; . !
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_indianapolisolympians_ver02%2Fdata%2Fsn86058250%2F00271744808%2F1868040901%2F0155.jp2/pct:16.407236,13.424428,12.677044,31.727196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _St. Johnsbury Caledonian._
+
+#### 1868-04-17 &middot; [St. Johnsbury, Vt.](http://dbpedia.org/resource/St._Johnsbury%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+g of  
+Bedsand Beddin  
+Of every dese  
+L o we p  
+the quality, than  
+ion for hotels,  
+.  
+where  
+in the United  
+St. Johnsbury, Vermont.  
+WANTED!I  
+A chance to Make money!!  
+y one knowing of a first rate chance will confer a  
+lavor by informing the suscriber of it. In the mean  
+time he will continue as hertofore to manufacture  
+1NGes of every sryle and quality (except poor onee)  
+i sring MAtiresses of different prices and  
+latr see of all kinds. Will also repair every descrip-  
+h o pholstery  
+J.  
+CASsINO, St. Johnsbury, Vt.  
+WoOD  
+olt ii  
+WOOD!I  
+pared to furnish 16 inch  
+Also proprietor of Job teams,  
+  
+ LiTErarY CArIOSIty.  
+The following remarkable little poem  
+a contribution to the San Francisco  
+  
+Times, from the pen of Mrs. II. A. Dem-  
+ing. The readers will notice that each  
+line is a quotation from some one of the  
+standard authors of England and Ameri-  
+This is the result of a year&#x27;s labori-  
+ous search among the voluminous writ-  
+s of thirty-eight leading poets of the  
+t and present. The number of each  
+line refers to its author below;  
+LiFE  
+1. Why all this toil for triumphs of an hour?  
+2. Life&#x27;s a short summer, a man a flower;  
+5. By turns  
+catch the vital breath and die­  
+ad the tomb, alas! so nigh.  
+I he  
+adle   
+To he is bette  
+I hough all in  
+But light ca  
+dumb.  
+far than not to be,  
+in&#x27;s life may  
+aa tragedy;  
+mighty griefs  
+The botte  
+but shallow whe  
+fate is but th­  
+ngled joys h  
+ommon fate of all;  
+to no man befall.  
+11. Nature to each allots 
+</td></tr></table>
+
+---
+
+## From _St. Johnsbury Caledonian._
+
+#### 1868-04-17 &middot; [St. Johnsbury, Vt.](http://dbpedia.org/resource/St._Johnsbury%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+a guard; and to yourself be  
+I he trus:  
+just;  
+For live   
+how we can, yet die we must.  
+1. Young: 2, Dr. Johinson: 3, Pope:  
+1, Prior: 5, Sewell: B Spencer: 7.  
+Daniel: S. Sir Walter Raleigh: 9,  
+Longfellow: 10, Southwell: I1. Con­  
+greve, 12 Churchill: 13. Rochester:  
+1. Armstrong: 15. Milton: 16, Bailey:  
+17, Trench: 18, Somerville: 19,  
+Thompson; 20, Bryant: 21, Smollett:  
+22. Crabbic: 23, Massinger: 21, Crow­  
+ley: 25. Beattie: 26, Cowper: 27, Sir  
+Walter Pavermnt e Ciray    
+30. Adlison: 31, Dryden: 32,  
+Francis Buarles: 33, Watkins: 34.  
+Herrick: 35, William Mason; 36, Hill:  
+37, Dana: 38, Shakspeare
+</td></tr></table>
 
 ---
 
@@ -800,95 +943,127 @@ Dryden, 32 Francis Quarles, 33 Watkins, 34 Her
 
 ---
 
-## [From _The Hancock Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn85042591/1868-05-01/ed-1/seq-1)
+## From _The Hancock Jeffersonian._
 
 #### 1868-05-01 &middot; [Findlay, Ohio](http://dbpedia.org/resource/Findlay%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ National Bank  
+OF FINDLAY, OHO.  
+(Authorized Capital,  $100,000.)  
+Dasignated Depository and Financial Agent  
+fthe U. S. Bank of Discount, Deposit and  
+Exchange. Interest paid on Special Deposits  
+Sanking Hours--9 to 12 o&#x27;clOck . M., and I  
+a oClock .   
+or  
+E. P. Jones. W. H. WhEeLer, Heery Brown  
+ISAAC DAYIS. J. H. WILSON.  
+ey Banking House in Crook House Block  
+E.D. JONES, PrES.  
+osss is shf. S. siles, Cashn  
   
-The fonowing reatarkaUa little peeai la a  
-ntribatatloa to the San Franelseo Tim.  
-. &#x27;root the pea of Mr. Q. A. DeaWag. The  
-&#x27;eader wlH notice that eaeh line ie a quota  
-&#x27;ion front some oaa of ta standard author.  
-tf England and A merica. This Is the result  
-f ajear &#x27;a laborious search asong the ro­  
-aminoai writing ol thirty .tight leading  
-poets r-f the past and present. The number  
-of each line refers to Its author below.&#x27;  
+i o ee ee e oe  e e o aoe  e el sas hoe ooe eee  oe  to o to   
+LOCKES E BLYMYER, ProprieTors.  
+  
+FINDLAY, OHI0, FRIDAY.  
+MAY 1 1868.  
+Volume 14--Number 50.  
+  
+Hantaeh Zefkersgnian.  
+  
+A LITERARY CURIOSITY.  
+  
+The following remarkable little poom is a  
+ntributation to the San Francisco Times,  
+&#x27;rom the pen of Mrs. H. A. Deming. The  
+reader will notice that each line is a quota  
+tion from some one of the standard authors  
+of England and A merica. This is the result  
+f a year&#x27;s laborious search among the vo­  
+uminous writing of thirty dight leading  
+poets of the past and present. The number  
+of each line refers to its author below.  
   
 LIFE.  
   
-I Why all Itiia toil for trfuaphsef an heart  
-3 Life&#x27;s a abort sumnter, maa a flower.  
-3 By turns wa catch the vital brea th and  
+I Why all this toil for triumphs of an hour?  
+2 Life&#x27;s a short summer, man a flower.  
+3 By turns we catch the vital breath and  
 die  
-4 The cradle ad U tomb, alas, so nigh.  
-5 To be is better far tbaa not to be.  
-Though aU man&#x27;s life may seem a trage­  
-dy, -  
-7 Put light cares speak when mighty  
+4 The cradle and the tomb, alas, so nigh.  
+5 To be is better far than not to be,  
+Though all man&#x27;s life may seem a trage­  
+dy,  
+7 But light cares speak when mighty  
 griefs are dumb.  
-The bottom la but aba low a hence tkey  
-come. Z L ; Z  
-y..ur fate is bat the eommon fata ef all ;  
-Uomitifcled joj-s here tc no maa bebtlL  
-lliKatare to&#x27; each&#x27; allots hia proper  
-: j sphere J f jj f  
-13 Ferlune mates fully her partiamlar  
-care ;  
-13 Custom does ro often reason overrule,  
-14 And throw a erael sunshine on a fool.  
-15 Live well, how long or short p remit to  
+The bottom is but shallow whence they  
+comea  
+Your fate is but the sommon fate of all;  
+Unmingled joys here to no man befall.  
+I! Nature to each allots his proper  
+ sher i  
+12 Fertune makes folly her particular  
+care;  
+13 Custom does not often reason overrule,  
+14 And throw a cruel sunshine on a fool.  
+15 Live well, how long or short premit to  
 Heaven.  
-Is Tber who forgive most shall be most  
+16 They who forgive most shall be most  
 forgiven.  
-17 Sin may be clasped so closs we cannot  
-see its &#x27;ace  
-18 Vile Intercourse where virtue has no  
-plaoe.  
-19 Then keep each passion down, hswever  
+17 Sin may be clasped so close we cannot  
+see its face  
+18 Vile intercourse where virtue has no  
+place.  
+19 Then keep each passion down, hawever  
 dear;  
-30 Thou pendulum betwixt a smile and  
+20 Thou pendulum betwixt a smile and  
 tear.  
-31 Her sensual snares, let faithless plea&#x27;  
-ores lay, ;  
-33 &#x27; WilB craft and skill, to rata and be  
+21 Her sensual snares, let faithless pleas  
+ures lay,  
+2? With craft and skill, to ruin and be  
 tray;  
-33 Soar not to high to fall, bat stoop to  
+23 Soar not to high to fall, but stoop to  
 rise,  
-34 We masters grow or all that we despise.  
-35 O, than, I renounce that Impious self-  
-esteem ;  
-36 Riches have wings, and grand ear Is a  
+24 We masters grow of all that we despise.  
+25 O, then, I renounce that impious self-  
+esteem;  
+26 Riches have wings, and grand eur is a  
 dream.  
-37 Think not ambiti n wise because &#x27;tis  
+77 Think not ambition wise because &#x27;tis  
 brave.  
-38 Tbe paths of glory lead but to the  
+28 The paths of glory lead but to the  
 grave.  
-39 What Is ambition 7 &#x27;tis a glorious  
-. cheat !- -  
-SO Only dest ructive to tbe bravo and  
-treat.  
-31 What&#x27;s all the gaudy glitter of a erownT  
-33 The way to biiss lies not on beds of  
+29 What is ambition?--&#x27;tis a glorious  
+ chet  
+30 Only dest ructive to the brave and  
+great.  
+31 What&#x27;s all the gaudy glitter of a grown?  
+32 The way to bliss lies not on beds of  
 down.  
-33 How long we live, not years, but ao­  
-tions, tell ;  
-34 That man Uvea twice who lives the  
+33 How long we live, not years, but ac­  
+tions, tell;  
+34 That man lives twice who lives the  
 first life well.  
 35 Make, then, while yet we may, your  
-Gad your friend,  
-3C Whom Christaios worship, yet not com­  
-prehend.37 The trust that&#x27;s given guard and to  
-yourself be just ;  
-34 For, live we how we can. yet die meat.  
-l.Youne: 3, Dr. Johnson; .3, Pope ; 4
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85042591%2F00280774972%2F1868050101%2F0150.jp2/pct:13.850260,16.482545,9.622138,35.947857/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+God your friend,  
+36 Whom Christains worship, yet not com­  
+a Te tat tha a sivea gaard andto  
+yourself be just;  
+38 For, live we how we can, yet die must.  
+1, Young; 2, Dr. Johnson;3, Pope;4,  
+Southwell; 11, Congreve; 12. Churchi ll  
+E, Rochester; 14, Armstrong; 15, Milton;  
+16, Bailey; 17, Trench; 18, Somervile; 19,  
+Thompson; 20, Bvron; 21, Smollett; 22,  
+Crabbe; 23. Massinger; 24. Cowley, 25,  
+Beattie; 26, Cowper;27, Sir Walter Daven­  
+ant; 28, Grey; 29, Willis; 30, Addison; 31,  
+Dryden; 32, Francis Quarles; 33, Watkins;  
+34, Herrick; 35, William Mason; 36, Hill;  
+37, Dana; 38, Shaksneare.
+</td></tr></table>
 
 ---
 
@@ -1385,95 +1560,93 @@ Mason ; 36, Hill; 37. Dana; 38. Shakspere.
 
 ---
 
-## [From _Memphis daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn83045160/1868-09-27/ed-1/seq-1)
+## From _Memphis daily appeal._
 
 #### 1868-09-27 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-1 he following remarkable little poem Ls a can­  
-&#x27;ribatton from the &amp;in Francisco Timet, from  
-the pen of Mrs L. A. Oenitng. The reader will  
-notice that each line ls a quotation from somo  
-vine of the standard authors of England and  
+he following remarkable little poem is a con­  
+tribution from the San Francisco imes, from  
+the pen of Mrs L. A. Deming. The reader will  
+notice that each line is a quotation from some  
+one of the standard authors of England and  
   
-America. Tbls la tbe result of a year&#x27;s search  
+America. This is the result of a year&#x27;s search  
   
-e&amp;dlng poets of tbe part and present. Tbe  
-number of each line refers to Its author below :  
-life.  
-1. Why all thl toll for trlumnhioran hour?  
-2. Life a a short summer, man a flower.  
-3. By tnrni we catch the vital breath and die  
-t. The cradle and tomb, alas ! to nigh.  
-S. To be. Is bolter far, than not to be,  
-8. Though ail man&#x27;s lUe may soem a tragedy ;  
+eading poets of the past and present. The  
+number of each line refers to its author below:  
+Life.  
+1. Why all this toll for triumphs of an hour?  
+2. Life&#x27;s a short summer, man a flower.  
+3. By turns we catch the vital breath and die  
+4. The cradle and tomb, alas! so nigh.  
+5. To be, is better far, than not to be,  
+6. Though all man&#x27;s life may seem a tragedy;  
   
-7. Bat light cues speatc when mighty griefs  
+7. But light cares speak when mighty griefs  
 are dumb,  
-8. The bottom ls but shallow whencs they  
+8. The bottom is but shallow whence they  
 come.  
-S. Your rate&#x27;s but the common fate of all ;  
-10. Uninlngted Joys here to no man befall.  
-11. Xalnreto each allats Its proper sphere ;  
+9. Your fate&#x27;s but the common fate of all;  
+10. Unmingled joys here to no man befall.  
+H. Nature to each allets its proper sphere;  
 12. Fortune makes folly her peculiar care.  
   
-13. Custom doss oten reason ove-ruie.  
-.4. And throw a cruel sunshine on a fooL  
-15. Live well; &#x27;how long or short, permit to  
-Heaven ;  
-18. Theywno lorglve mcst shall be most for  
+13. Custom doss often reason overrule,  
+4. And throw a cruel sunshine on a fool.  
+15. Live well; how long or short, permit to  
+Heaven;  
+16. They who forgive most shall be most for  
 given.  
-17. Sin m y be clasped so close ws cannot see  
-Its face  
-13. Vile lnteiconrse, where virtue has no place.  
-19. Then keep each paslon down, however  
+17. Sin may be clasped so close we cannot see  
+its face  
+18. Vile intercourse, where virtue has no place.  
+49. Then keep each passion down, ho wever  
 dear,  
 0. Thou pendulum betwixt a smile and tear.  
   
-21. Hsr sensual snares let falthle-s Pleasure lay,  
-H. With craft and skUI, to ruin and bstray.  
-3. Soar not too hleh to fall but stoop to rise ;  
-H. We masters erow of all that we despite.  
-25. Ob,i&quot;n. I renounce that Impiousself-esteem;  
-X. Rlcuo. -ve wings, and grandeur Is a dream.  
-17. Thiak not ambition wise because &#x27;tis brave ;  
-A. The path of glory lead but to the grave.  
-i). What ls ambttlo a 7 Tls a glorious cheat  
-O. Only destructive to the bravo and greit.  
+2. Her sensual suares let faithle-s Pleasure lay.  
+. With craft and skill, to ruin and betray.  
+3. Soar not too high to fall but stoop to rise;  
+24. We masters grow of all that we despise.  
+2. On, then,I renoance that impious selts  
+26. Richee nave wings, and grandeur is a dream.  
+F. Think not ambition wise because &#x27;tis brave;  
+8. The paths of glory lead but to the grave.  
+29. What is ambition? &#x27;Tis a glorious cheat  
+0. Only destructive to the brave and great.  
   
-31. What&#x27;s all the gaudy glitter of a crown I  
-SZ. The way to hlln lies not on beds of down.  
+31. What&#x27;s all the gaudy glitter of a crown?  
+2. The way to bliss lies not on beds of down.  
 33. How long we live, not years, but actions  
-trll;  
-31. That man lives twice who lives the first life  
+tell;  
+34. That man lives twice who lives the first life  
 well.  
-35. Mate, then, while yet yo may, your God  
+36. Make, then, while yet ye may, your God  
 your friend,  
-38. Whom Chrutlans worship, yet notcompre  
+36. Whom Christians worship, yet not compre  
 hend.  
 37. The trust that&#x27;s given guard, and to your­  
-self he Inst:  
+self be just;  
   
-i3. Far, live we how we can, die we mat.  
-1, Young : 2, Dr. Johnson ; 3, Pope : 4, Prior;  
-5,eweii; fi.tspenser; 7,Danieil; S, Sir Walter  
-Ha&#x27;.elga; 9, longfellow; 10, Couth well ; II, Cen­  
-tre ve; is Churchill; U, Bchenter; 14, Arm­  
-stronz: 15. Milloa: lti. BaPey: 17. &#x27;trench: IS,  
+38. Fer, live we how we can, die we must.  
+I, Young; 2, Dr. Johnson; 3, Pope; 4, Prior;  
+s, Sewelr; 6, Spenser; 7, Daniell; 8, Sir Walter  
+taleign; 9, I ongtellow; 10, South well; 11, Con­  
+greve; 12 Churchill; 13, Rechester; 14, Arm­  
+strong, 15, Milton; 16, Baltey; 17, Trench; 18,  
   
-Sjmervllle; 19, Thomsou ; 20, Byioo; 21, nmol­  
-lu ; 32, crabbe; 23, Massing r; -.4, Cowley ; 6,  
-Beattle; 28, Cowper; 27,Blr waiter Davenant;  
-,Gray; 2, Willis; SO, Addlaon; 31, Dryden;  
+Somerville; 19, Thomson; 2, Byron; 21, Smol­  
+tett; 2, Crabbe; 2, Massing r; 74, Cowley; 25,  
+Beattle; 25, Cowper; 27, Sir Walter Davenant;  
+Gray; 2. Willis; 30, Addison; 31, Dryden;  
   
-32, rauc.siiaaries; iss, waixins; 31, uernc&amp;;  
-Jo, William Mason; 3G, HUI; 37, Dsna
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_bonnielou_ver01%2Fdata%2Fsn83045160%2F00200292984%2F1868092701%2F0385.jp2/pct:50.973975,12.500000,10.705937,25.204721/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+32, Francis Guaries, 35, watkins; 94, Herrick;  
+35, William Mason; 36, HilI; 37, Dana;  
+hakspear
+</td></tr></table>
 
 ---
 
@@ -1487,50 +1660,112 @@ Jo, William Mason; 3G, HUI; 37, Dsna
 
 ---
 
-## [From _The Holt County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034039/1868-10-02/ed-1/seq-1)
+## From _The Holt County sentinel._
+
+#### 1868-10-02 &middot; [Oregon, Missouri.](http://dbpedia.org/resource/Oregon%2C_Missouri)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ of the public indebtedness in the utmost good  
+faith to our creditors at home and abroad, not only  
+according to the letter, but the spirit of the laws un  
+  
+der which it was contracted,  
+4. It is due to the labor of the nation that taxation  
+should be equalized and reduced as rapidly as na­  
+tional faith will permit.  
+5. The national debt, contracted as it has been for  
+the preservation of the Union for all time to come,  
+should he extended over a fair period for redemp­  
+tion, and it is the duty of Congress to reduce the rate  
+  
+of interest thereon whenever it can honestly be done  
+  
+A LITERARY CURIOSITY.  
+The following remarkable little poem is a contri­  
+bution to the San Francisco Times, from the pen of  
+Mrs. H. A. Deming. The reader will notice that  
+each line is a quotation from some one of the stand­  
+ard authors of England and America. This is the  
+result of a year&#x27;s laborious search among the vol­  
+uminous writings of thirty-eight leading poets of the  
+  
+past and present. The number of each line refers  
+to its author below:  
+LIFE.  
+1-Why all this toll for triumphs of an hour  
+2-Life&#x27;s short summer, man a flower.  
+3-Hy turns we catch the vital breath and die  
+The cradle and the tomb, alas, so nigh.  
+5To be is better far than not to be,  
+6-Though all man&#x27;s life may seem a tragedy  
+-But light cares speak when mighty griefs are  
+dumb,  
+The bottom is but shallow whence they come.  
+O.Your fate is but the common fate of all,  
+  
+10- Unmingied joys here to no mall belarts  
+L--Nature to each allots his proper sphere  
+1z-Fortune makes folly her peculiar care;  
+  
+13--Custom does not often reason overrtile.  
+14--And throw a cruel sunshine on a fool.  
+15-Live well, how long or short permit to Heaven,  
+16-They who forgive most shall be most forgiven.  
+I7-Sin may be clasped so close that we can not see  
+  
+face.
+</td></tr></table>
+
+---
+
+## From _The Holt County sentinel._
 
 #### 1868-10-02 &middot; [Oregon, Missouri.](http://dbpedia.org/resource/Oregon%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-The follow fng remarkable little poem Is aconlrl­  
-butlon to the San Francisco Timet, from the pen of  
-Sirs. II, A. Demlng. The reader will notice, thit  
-each lino Is a quotation from some nueof the stand­  
-ard authors ofKngbind and America. 1 hi. Is the  
-result of a year&#x27;s laborious search aiuongtlie vol­  
-umlnous wrlllngs oflhlriy-elght lending poets otitic  
   
-pat and present. The uuinoer oi ssiaiuwnun  
-to Its author below t  
-LIKE.  
-1-Why all this loll for triumph&#x27;s1 of an hour  
-2 Life&#x27;s short summer, man a flower.  
-J lly turns we catch the vital breath and die  
-4 The cradle and the tomb, alas, so high.  
-II To be U better Tar than not to be,  
-O-Thoiigh all man&#x27;s lire may seem a tragedy  
-7-llut light cares speak when mighty grlifs are  
-dumb,  
-The bottom Is but shallow whence Ihey come.  
-0Yonr fate Is bntthe common fate nf all,  
+19.Then keep each passion down, however dear;  
+20- Thou penidulum betwixt a smile and tear.  
   
-10 cnnnngniijoji nereio no nnm uv.....  
-11 Xalnre to caeh allots Ids proper sphere  
-U Forluno mnkes folly her peculiar care I  
+21--Ier sensual snares, let falthless pleasures lay,  
   
-lt-Cusloin does not often reason overrule.  
-II And throw a cruel sun.liluuon nlool.  
-I.W.Ivo well, how long or short permit to Heaven,  
-10 1 he)&#x27; who forgive most shall lie most fnrglteii.  
-17 Sin may be clasped so clo.o that we can not see  
+22-With cralt and skill, to rumn and betray i  
+23.-Soar not too high to fall, but stoop to rise,  
+24-We master grow of all that we despise.  
+25.-O, then, I renounce that impious self-esteem;  
+2464--Riches have wings, and grandeur is a dream;  
+2?-Think not ambition wise because &#x27;tis brave,  
+28-The paths of glory lead but to the grave.  
+20. What is ambition?-&#x27;tis a glorious cheat!  
   
-nice
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559905%2F1868100201%2F0666.jp2/pct:40.804020,16.435289,12.160804,12.270488/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+30- Only destructive to the brave and great.  
+al- What&#x27;s all the gaudy glitter of a crown?  
+32-The way to bliss lies not on beds of down.  
+23-How long we live, not years but actions tell,  
+34-That man lives twice who lives the first life well.  
+35--Make then, while yet we may, your God, your  
+friend.  
+36. Whom Christians worship, yet not comprehend.  
+2;The trust that&#x27;s given guard, and to yourself be  
+as-For live we how we can, yet die we must.  
+  
+1, Youngt 2, Dr. Jolnson; 3, Pope; 4, Prior;5,  
+  
+Sewel; , Sbencer;7, Danial; s, SirWafter Raleigh;  
+9, Longfellow; 10, Southwell; 11, Congreve; 12,  
+Churchill; 13, itochester; 14, Armstrong; 15, Milton;  
+16, Baily!17, Trench; is, somerviile; 19, Thompson:  
+  
+20, Byron;  
+34, Cowley;  
+  
+bryden; 32, Francis Quarles; 37, Watkins; 31,Her­  
+rick; 35; William Mason; 36, Hill; 37, Dana; 48,  
+Shakspeare.
+</td></tr></table>
 
 ---
 
@@ -2502,7 +2737,7 @@ den ; 32, Francis Quarles; 33. Watkins; 34 Herrick;
 
 ---
 
-## [From _Burlington weekly free press._](https://chroniclingamerica.loc.gov/lccn/sn86072143/1869-10-22/ed-1/seq-4)
+## From _Burlington weekly free press._
 
 #### 1869-10-22 &middot; [Burlington, Vt.](http://dbpedia.org/resource/Burlington%2C_Vermont)
 
@@ -2510,77 +2745,74 @@ den ; 32, Francis Quarles; 33. Watkins; 34 Herrick;
 
   
 The following remarkable poem is a contribu­  
-tion to the San Francisco Timet, from the pen  
-of Mrs. E. A. Dealing. The realer will notice  
-that each lice U a quotation from some one of  
+tion to the San Francisco Times, from the pen  
+of Mrs. E. A. Deming. The reader will notice  
+that each line is a quotation from some one of  
 the standard authors of England and America.  
-This is the result of a year&#x27;s Uborions search  
+This is the result of a year&#x27;s laborious search  
 among the voluminous writings of thirty-eight  
 leading poets of the past and present. The num­  
-ber of eeh line refers to its author below :  
-lWby all this toil for triumphs of an hoar?  
-2 Life&#x27;s a short summer, man a flower.  
-3 By turn we catch the vital breath and die,  
-1 The craile and the tomb, alas so nigh !  
-5 To be is better, far, than not to be,  
-6 Tho&#x27; all man&#x27;s life may seem a tragedy ;  
-7 But light cares speak when mighty zifts are  
+ber of each line refers to its author below:  
+1- Why all this toil for triumphs of an hour?  
+2--Life&#x27;s a short summer, man a flower.  
+3--By turn we catch the vital breath and die,  
+4-The cradle and the tomb, alas so nigh!  
+o--To be is better, far, than not to be,  
+6--Tho&#x27; all man&#x27;s life may seem a tragedy;  
+7--But light cares speak when mighty gifts are  
 dumb.  
-S The bottom is bat shallow whence they  
-S Tour fate is bat the common fate of all,  
-10 Unmingled joys to no man here befall.  
-1 1 Nature to eaeh allotta his proper sphere ;  
-12 Fortune makes folly her rculiar care;  
-13 Custom dees sot often reason overrule,  
-11 And throw a cruel sunshine on a fool,  
-15 Lire well, how long or short permit to  
+8. The bottom is but shallow whence they  
+S--Your fate is but the common fate of all,  
+10--Unmingled joys to no man here befall.  
+I1- Nature to each allotts his proper sphere;  
+12- Fortune makes folly her peculiar care;  
+3--Custom does not often reason overrule,  
+14-And throw a cruel sunshine on a fool,  
+15--Live well, how long or short permit to  
 Heaven,  
-lti They who forgive most shall be most for­  
-given.17 Sia may be clasped so close we cannot see  
-its fiice  
-16 Vile intercourse where virtue has no place  
-19 Then keep each passion down, however  
-dear ;  
-20 Thou pendulum bet ii a smile and tear  
-21 Uer sensual snares, let faithless pleasures  
---J With craft and skill, to ruin and betray;  
-23 Soar not high to fall, bat stoop to rite,  
-24 We masters grow of all that vie despise.  
-2o Oh, then I renounce that impious self­  
-esteem.2C Riches have wings, and grandeur is a  
+16- They who forgive most shall be most for­  
+ Sin may be clasped so close we cannot see  
+its face  
+18. Vile intercourse where virtue has no place.  
+19. Then keep each passion down, however  
+dear;  
+20. Thou pendulum betwix a smile and tear  
+21--Her sensual snares, let faithless pleasures  
+22- With craft and skill, to ruin and betray;  
+23--Soar not high to fall, but stoop to rise,  
+21. We masters grow of all that we despise.  
+25.-Oh, then I renounce that impious self-­  
+- hichcy have wings, and grandeur is a  
 dream.  
-27 Think not ambition he because &#x27;tis brave,  
-The paths of clory lead bat to the grave.  
-29 What is ambition? &#x27;tis a glorious obeat !  
-30 Only destructive to the brave and great.  
-:;l What&#x27;s all the gaudy glitter of a crown ?  
-32 The way to bliss lies not on beds of down.  
-33 How long we live, not years, but actions tell ;  
-;U That man lives twice who lives the first life  
+27--Think not ambition wise because &#x27;tis brave,  
+The paths of glory lead but to the grave.  
+29. What is ambition? &#x27;tis a glorious cheat!  
+30. Only destructive to the brave and great.  
+31- What&#x27;s all the gaudy glitter of a crown?  
+32. The way to bliss lies not on bels of down.  
+33--How long we live, not years, but actions tell;  
+34-That man lives twice who lives the first life  
 well;  
-So Make then, jet while we may, your God  
+25- Make then, yet while we may, your God  
 your friend,  
-36 Whom Christian; worship, vet not compre  
+36- Whom Christians worship, yet not compre  
 hend.  
-37 The trust that&#x27;s given guard; and to your  
+37- The trust that&#x27;s given guard; and to your  
 self be just;  
-.18 For, live we how we can, yet die we must  
+38. For, live we how we can, yet die we must.  
 1, Young; 2, Dr. Johnson; 3, Pope; 4, Prior;  
-.), Sewell; 6, Spencer; 7, Daniel; 6, Sir Walter  
-Raleigh ; f, Longfellow; 10, Southwell; 11,  
-Congreve ; 12. Churchill ; 13, Rochester ; 14,  
-Armtnmc; 15, .Milton; 16, liiyley: 17, Trench;  
-1?, Somerville; 19, Thompson; M), Byron; 21  
-Smollett; 22, Crmbbe; 23, Uassinger; 21. Cow­  
-ley : 25, Heattie; 2G, Cowper; 27, Sir Walter  
-Davensut; 2t, Grey; 29. Willis; 80, Addison;  
-31, Dryden; 32, Francis Quarter; 23, W&#x27;atkina;  
-31, llerrick; ii, William Mason; 36, Hill; 37,  
-Diana; 3b, Shakspeare
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_burlington_ver01%2Fdata%2Fsn86072143%2F0028077702A%2F1869102201%2F0389.jp2/pct:16.895140,25.753913,9.880719,26.835475/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+5, Sewell; 6. Spencer; 7, Daniel: S, Sir Walter  
+Raleigh; 2, Longfellow; 10, Southwell; 11,  
+Congreve; 12, Churchill; 13, Rochester; 14,  
+Armstrong; 15, Milton; 16, Bayley: 17, Trench;  
+18, Somervilie; 19, Thompson; 20, Byron; 21  
+Smollett; 22, Crabbe; 23, Massinger; 21, Cow­  
+ley; 25, Beattie; 26, Cowper; 27, Sir Walter  
+Davenant; 28, Grey; 29, Willis; 30, Addison:  
+31, Dryden; 32, Francis Quarles; 33, Watkins;  
+34, Herrick; 35, William Mason; 36, Hill; 37,  
+Diana; 38, Shakspeare
+</td></tr></table>
 
 ---
 
@@ -2622,61 +2854,107 @@ leading poets of the past and present :—
 
 ---
 
-## [From _The Lincoln County herald._](https://chroniclingamerica.loc.gov/lccn/sn90061771/1869-12-16/ed-1/seq-1)
+## From _The Lincoln County herald._
+
+#### 1869-12-16 &middot; [Troy, Lincoln County, Mo.](http://dbpedia.org/resource/Troy%2C_Missouri)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ clubs at any time at  
+club gates. Ten per cent commission allowed on  
+clubs. I t. 1a toe8   
+Papers not sent unless paid in advance, and in­  
+variably discontinued at end of time paid fos.  
+Remittances can be made at our risk in Draft,  
+Tost-omee Grors, or segistere BOTtoFS.  
+Adress,GEORGE KNAPP ACO.,  
+111 and 113 Chesnut street, St. Louiss Mo.  
+YT  
+eveeY EAmiliY  
+In the county should have the Harald. It pub  
+lishes all the Local and County News, Legal  
+Advertisements, Delinquont Land List, Notices  
+of Strays, an many other matters of interest te  
+the citizens of Lincoln County.  
+  
+  
+eo  oe  
+  
+  
+  
+  
+it ae  
+A,  
+3!  
+.  
+oi  
+The following remarkable little poom fre ap-  
+pegred in the Somkrazcizzo Times, contributed  
+by Mrs, H. A. Demutzg! The reador wilt netlee  
+that each line is a apotation from some one of  
+the standard authors of anglan an samorips.  
+This is the result of a year&#x27;s laborions search  
+I. why all this talf tlf iamghg of an heurt  
+T. Lifo&#x27;s short summer, man a dower.  
+s. By tufat we catay the väsy breath and at  
+s. The craie and tne tomb, dtas! do sigh.  
+5.To be, in bottes fanthan not to be
+</td></tr></table>
+
+---
+
+## From _The Lincoln County herald._
 
 #### 1869-12-16 &middot; [Troy, Lincoln County, Mo.](http://dbpedia.org/resource/Troy%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-14. Ana throw a cruel snehlae on. n.nfsT.  
-It.  
-Uva well) hew loaf er sheet, paU  
-Ueaven given.  
-They who forgive molt&#x27; shall be molt fori  
-Sin may be clasped so c  
-:..:itiia , .  
-dote we aaaaot see  
-18. Vile Intercourse, where virtue has no place.  
-10. Tbtfa afoipeaehpaesTon dowwlWejeVer dear,  
+1d. And throw a cruel subenise on 5,4094.  
+15.  
+Live well; how long or short, permit  
+Heaven;iven  
+They who forgive most shall be most fort  
+Sin may be clasped so e  
+a   
+close wo cannot see  
+18. Vile intercourse, where virtue has no place,  
+19. Thes Eoep each passion dowh, hewover dear,  
 20. Thou pendulum betwixt a smile and tear.  
-21. Her sensusl snares ret faithless pleasure lay,  
-22. With craft and skill to rain and betray.  
-13. &#x27;Boar not too high to fall Im attVop&#x27; to&#x27; rlaa  
-14. We tn asters grow of &#x27;all that we dctplie.  
-11. Oh. then I renounce that Impious ielf-es-  
-1 teeml &quot; &#x27; &quot;  
-20. Riches have wings, and grandeur h a dream.  
-27. Think not ambition wise became &#x27;tit brave)  
-28. Tee raths of glory lead bet to the grave. I  
-20. What Is ambition T &#x27;TIs a glorious cheat  
-30. Destructive only to the brave and great.  
-3U .Wtai&#x27;a all the gaudy glitter of, a trpwa f  
-32; The way to bliss la not on beds of down.  
-33. How long we live, not years, but actions tall  
-34 That man lives twlco who &#x27;lives the Urst life  
-&quot; &#x27; stall. year friend,  
-U. Make, then, while &#x27;yet ya may, your Ood  
-Whom Christiana worship; .yet -mot oesfpre-  
-h&#x27;end. self  
-37. Tho trast that&#x27;s given gaaW and to yonr-  
-28. For live we how wa caa, dia-we atast.-. .  
-1, Young. 2, Dr. Johnson. 3, Pope. 4, Prior.  
-&amp;, Sewell. , Spenser, f, Daniel. 8, Sir Walter  
-Raleigh. 9, Longfellow. lO.Southwell. 11, Con-  
-greve. 12, Churchill. 13, Rochester. 14, Arm­  
-strong. IS, Milton. 18, Bally, If, Traaeh.  
-18, Somirville. IV, Thompson. 10, Byren.  
-21, Smollett. ll.Crabbe. S3, Muslnger. 24,  
-Cowley. 24, Beat tie. 28, Cawper. ST, Sir Wal  
-ter Devenant. 18, Grey. 1, Willi.&#x27;. 30, Addi­  
-son. 31, Dryden. 82, Francis Quarts. S3, Wat­  
-kins. S4,Uerrlok. 3i, William Mason. 3,niU.  
-37,Daha. 88, Sfaakspeare
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_dorothea_ver01%2Fdata%2Fsn90061771%2F00200292790%2F1869121601%2F0851.jp2/pct:19.681557,24.369616,14.329943,24.416601/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+21. Her sensual snares let faithless pleasure lay,  
+22. With craft and skill to ruin and betray.  
+2s.Soor hot too high to fall bih atbop to rise  
+44. We masters grow of all that we despise.  
+25. Oh, then I renounce that impious self-ese  
+ t o e  
+26,, Riches have wings, and grandour is a dream.  
+27. Think not ambition wise because &#x27;tis brave;  
+28. The paths of glory lead but to the grave.I  
+29. What is ambition? &#x27;Tis a glorious cheat  
+30. Destructive onty to the brave and great.  
+31. Whas&#x27;s all the goudy giltter of a empwa?  
+32. The way to bliss is not on beds of down.  
+33. How long we live, not years, but actions tell  
+34 That man lives twice who lives the first life  
+well, 1s. 1787 fyour friend,  
+35. Make, then, while yet ye may, your God  
+Whom Christians wership, yet not compre-  
+hend.  
+27. Tho trust that&#x27;s given guard, and to your-  
+38. For live we how we can, die we must.  
+I, Young. 2, Dr. Johnson. 3, Pope. 4, Prior.  
+5, Sewell. 6, Spenser. 7, Daniel. 8, Sir Walter  
+Raleigh. 9, Longfellow. 10, Southwell. 11, Cone  
+greve. 12, Churchill. 18, Nochester. 16, Arm­  
+strong. 15, Milton. 16, Bally. I8, Tsench.  
+18, Somerville. 16, Thompson. 20, Byron.  
+2, Smollett. 3. Crabbe. 33, Massinger. 24,  
+Cowley. 25, Beattle. 26, Cowper. 37, Sir Wal  
+ter Dovenant. 26, Gray. 39, Willis. 80, Addi­  
+son. 31, Dryden. 32, Francis Quarles. 38, Wat­  
+kins. 34, Herrick. 35, William Mason. 36, Hill.  
+37, Dana. 38, Shakspeare
+</td></tr></table>
 
 ---
 
@@ -2814,6 +3092,91 @@ yet not comprehend. Till. 37. The trust
 that&#x27;s given guard, and to yourself be  
 just. Ditn. 38. For, live we how we can,  
 yet die we must. Shakslenae
+</td></tr></table>
+
+---
+
+## From _The Daily state register._
+
+#### 1871-12-24 &middot; [Carson City, Nev.](http://dbpedia.org/resource/Carson_City%2C_Nevada)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+joys, to no man befall.  
+  
+. Your fat:  
+19. Unmming  
+  
+. Nature to each allots his proper sphere,  
+12. Fortune makes folly her peculiarcare.  
+  
+43. Custom doe  
+14. And throw  
+1. Live well. I  
+  
+aften ro  
+crucls  
+  
+on overrule.  
+shine on a fo  
+  
+ng or short permit to  
+  
+most, shall be  
+  
+. They who forgive th  
+  
+the mnost folgiven.  
+17. Sin may be clasped so close we can  
+&#x27;sce its face,  
+1s. Vile intercourse where virtue has not  
+place.  
+They keep each passion down, how­  
+ever dear,  
+Thou pendulum--betwixt a smile and  
+tear.  
+gt. Her sensual snares, let faithiess pleas
+</td></tr></table>
+
+---
+
+## From _The Daily state register._
+
+#### 1871-12-24 &middot; [Carson City, Nev.](http://dbpedia.org/resource/Carson_City%2C_Nevada)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+sioWl1.  
+ How long we live, not years, but  
+actions tell,  
+That man lives twice, who lives the  
+life well.  
+s. Make, then, while you may, your God,  
+your friend.  
+. Whom Christians worship yet not  
+comprehend.  
+. The truest that&#x27;s given--guard--and to  
+yourself be just,  
+as, For live as how we can--yet die we  
+mnust.  
+1. Young: 2, Dr. Johnson; 3. Pope;  
+4. Prior: , Sewell; 6. Spencer; 7, Dan­  
+ier: S. Sir Walter Raleigh; 9, Long  
+fellow; 10, southwell; I1, Congreve;  
+in, Churchitl. Ists Fochesternlly  
+15, Milton; 16, Baily; 17,  
+French; 18, Somerville: 19, Thomp-  
+son: 30, Byron; 21, Smollett;-,  
+rabbe; 23, Masainger; 21, Cowley;  
+Beattie; 26, Cowper; 27, Sir Walter  
+avenant; 28, Grey; 29, Willis; 36.  
+Addson: 31. Dryden; 32, Francis,  
+juarles; 23, Watkins; 31, Herrick; 33,  
+William Mason; 36, Hill; 37, Dana;  
+18, Shakspeart.
 </td></tr></table>
 
 ---
@@ -2985,6 +3348,31 @@ Times from the pen of Mrs. H. A. Deming, an
 <img alt="Page image" src="https://iiif.archive.org/iiif/sim_notes-and-queries_1873-09-13_12_298&#0036;2/pct:47.559932,66.813602,37.585616,2.581864/600,/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _Memphis daily appeal._
+
+#### 1873-12-14 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Only destructive to the brave and great.  
+  
+What&#x27;s all the gandy glitter of a crown?  
+The way to bliss lies not on beds of down  
+How long we live, not years but actions tell;  
+e a o oe o a watkin  
+That man lives twice, who lives the first life  
+Wake then, while yet we may, your God your  
+friend,--MMusON.  
+Whom christians worship, yet not compre-  
+hend.-ITLT.  
+The trust thats given guard, and to yourself  
+be jusr,--DanG.  
+For, live we how we can, yet die we must
+</td></tr></table>
 
 ---
 
@@ -3214,6 +3602,80 @@ rick; 35. Mason; 36. Hill; 37.. Dana; 38. Shak­
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_garfield_ver01%2Fdata%2Fsn89067274%2F00294556266%2F1876101201%2F0028.jp2/pct:5.783891,20.428637,14.882333,35.624715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The Jasper weekly courier._
+
+#### 1876-10-13 &middot; [Jasper, Ind.](http://dbpedia.org/resource/Jasper%2C_Indiana)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+The distance in their play  
+&quot;Tis now the voiceless hour  
+Of Autumn days.  
+A POETICL MELNGE.  
+The following poem is composed of quota­  
+tions from thirty-eight different authors,  
+each of the thirty-eight lines being a distinct  
+quotation, as will be seen by reference to the  
+foot-note appended:  
+LiFE.  
+1. Why all this toil for triumphs of an hour?  
+e. Lite&#x27;s a short summer, man a flower;  
+2. By turns we catch the vital breath and die  
+To he is better far than not to be.  
+Though all man&#x27;s life seems a tragedy;  
+7. But light cares speak, when mighty griels  
+s.The bottom is but shallow whence they come.  
+tour fate is but the common fate of  
+19. Usmingled joys here to no man fall.  
+H. Nature to each allots his proper sphere,  
+n.Fortune makes folly her peculiar care;  
+B. Cnstom does not often reason overrule,  
+It. And throw a cruel suns hine on a fool.  
+B. Live well--how long or short, permit to  
+he aven;  
+i8. They who forgive most shall be most for­  
+ere er o cess wen ete  
+l  
+Is. Vile intercourse where virtue has not place;  
+D. Thes keep each passion down, however dear,  
+e. Thou penduium betwixt a smile and tear;  
+H. Her sens ual snares let faithless pleasure lay,  
+at. With craft and skill, to ruin and betray;  
+ Soar not too high to fall, but stoop to rise;  
+2t. We masters grow of all that we despise.  
+S. O0, then, renounce that impious self-esteem  
+S. Kiches have wings, and grandeur is a dream,  
+t7. Teik not ambition wise because &#x27;tis brave;  
+1s. The path of glory leads but to the grave.  
+S. What&#x27;s ambition? &#x27;Tis a glorious cheat,  
+D. Only destructive to the brave and great.  
+H. What&#x27;s all the gaudy glitter of a crown?  
+2. The way to bliss lies not on beds of down.  
+B. How long we live, not years, but actions tell;  
+$4. That man  
+well  
+lives twice who lives the first life  
+Make, then, while yet you imay, your God  
+your friend.  
+Whem Christians worship, yet not compre-  
+hend.  
+s7. The trust that&#x27;s given guard, and to yourself  
+B. For, live we how we can, die we must.  
+1. Young; 2. Dr. Sam Johnson; 3. Alexander  
+Pope; Prior; 5. Sewell; G. spencer; . Daniel,  
+$SIr WalTeR Raleigh;9. H. W. Longfellow; le.  
+Sou thwell; 11. Congreve; L. Churchill; 13.  
+Eochester; 14. Armstrong; 15 Milton; 16. Baily;  
+Hf. Treach; 18. Somerville; 19. Thompson; 20.  
+ByrON; 11. Smollett; 27. Crabbe; 23 Massinger,  
+4. Cowley; $5. Beattie; 6. Cowper;27. Sir W.  
+IvEnaNT. 8. Gray; 9 Willis; 30. Addison,  
+$. Drrden
+</td></tr></table>
 
 ---
 
@@ -4137,6 +4599,52 @@ Aifdisin; 31 Dryden; 32 I&#x27;pmcB Quarics ;
 
 ---
 
+## From _The Holt County sentinel._
+
+#### 1880-03-12 &middot; [Oregon, Missouri.](http://dbpedia.org/resource/Oregon%2C_Missouri)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+The following remarkable compllation is a contry  
+bunloi to ti ant Francisco Ttnics fron t.y  
+Mrs. 11. A. Deming. The reader will notice that caca  
+line is a quotation from some of the standard, tn­  
+thors of Itstand and America. This is the rsult of  
+year&#x27;s labotious search among the leading poeis of
+</td></tr></table>
+
+---
+
+## From _The Holt County sentinel._
+
+#### 1880-03-12 &middot; [Oregon, Missouri.](http://dbpedia.org/resource/Oregon%2C_Missouri)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ ruin and betray. Cubbe.  
+Soar not too highto fall, but stoop to ris Tesetnger.  
+We masters grow of all that we despise, Cbuctey.  
+Then, I renounce that implous self-esteeny:  
+Liches have wings, and grandour is a dream.  
+Thtok not ambition wise because tis brave.  
+  
+The paths of glory lead but to the srave &#x27;res  
+What is ambition?--&#x27;tis a glorious cheat!  
+Only destructive to the brave and great. dddison.  
+hat&#x27;s all the gaudy glitter of a crown? Drydot.  
+The way ta hliss lits not on beds of down. Quaries.  
+low long we tive not years but actions tell  
+  utLit.  
+That man lives twice who lives the first life wch  
+Make then, while yet we may, your God your friend,  
+a christtans worship, yet not comprehend  
+The trust that&#x27;s given guard, and to yourself be just  
+eo  
+For live we how we can. yet die we must
+</td></tr></table>
+
+---
+
 ## [From _The Princeton union._](https://chroniclingamerica.loc.gov/lccn/sn83016758/1880-08-12/ed-1/seq-6)
 
 #### 1880-08-12 &middot; [Princeton, Minn.](http://dbpedia.org/resource/Princeton%2C_Minnesota)
@@ -4346,84 +4854,184 @@ For, live we how we can, yet die we must
 
 ---
 
-## [From _Memphis daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn83045160/1881-03-27/ed-1/seq-2)
+## From _Memphis daily appeal._
 
 #### 1881-03-27 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-The following verv remarkable littln nnem  
+The following very remarkable little poem  
 is a contribution to the San Francisco Times  
-from the pen ot Mrs. 11. A. Deming. The  
-reader will sec that each line is a quotation  
-trom some one ol tue standard authors ot  
+from the pen of Mrs. H. A. Deming. The  
+reader will see that each line is a quotation  
+from some one of the standard authors of  
 England and America. This is the result of  
-a year s laborious search among the volu  
-unnous writings of thirty-eight leading poets  
-of the pat aud present. The number of  
-each line relcrs to iu author below i  
+a year&#x27;s laborious search among the volu  
+minous writings of thirty-eight leading poets  
+of the past and present. The number of  
+each line refers to its author below:  
 LIFE.  
-1. W hy all this toil for triumphs of an hour?  
-J. Life&#x27;s a short summer, limn a liower.  
-8. Ity turns we cntch the vital breath and die;  
+1. Why all this toil for triumphs of an hour?  
+2. Life&#x27;s a short summer, man a flower.  
+3. By turns we catch the vital breath and die;  
 4. The cradle and the tomb, alas! so nigh.  
-6. To be is better far than not to lie,  
-A ThAliuh .11 inu,!!..,,..,-.., . (.,,...!,..  
-;7. Hut lifc-ht cares speak when mighty griefs are  
-uuino,  
-a. The bottom is but shallow whence they come,  
-i. Your fate is but tho common fate of all :  
-10. t&#x27;ninint;led joys liore no man cau befall.  
-11. Nature Is each allots its proT sphere;  
-12. Fortune makes folly her peeuliarcare,  
-l;t. Custom does often reason overule.  
-It. Ami throw acruelsuushiueon a fool.  
-1.&quot;. Live well; how lonir or short, permit to heaven,  
-hi. They who forgive most shall be most forgiven.  
-17. in may be clasped so close we cannot see its  
+5. To be is better far than not to be,  
+ Though all man&#x27;s lifamoy soem o trogody  
+$7. But light cares speak when mighty griefs are  
+dumd,  
+S. The bottom is but shallow whence they come.  
+9. Your fate is but the common fate of all;  
+10. Unmingled joys here no man can befall.  
+11. Nature to each allots its proper sphere;  
+12. Fortune makes folly her peculiar care,  
+13. Custom does often reason overule.  
+14. And throw a cruel sunshine on a fool.  
+15. Live well; how long or short, permit to heaven,  
+16. They who forgive most shall be most forgiven.  
+17. Sin may be clasped so close we cannot see its  
 face  
-IS. Vile interconrse where virtue has no place.  
-19. Then keep each nation dowD. however dear,  
-20. Thou pendulum betwixt a smile nud a tour. &#x27;  
--1. Her sensual snares let faithless pleasure lav,  
-i:. With craft and skill to ruin and betrav:  
-2.1. Soar not too high to fall, but stoop to rise;  
-Jl. We musters j:row nf a&#x27;.l that we despise.  
-2.V O. then renounce that impious self-esteem!  
-LVi. ltiches have wluss, and grandeur is a dream.  
-JT. Thiuk not ambition wise because &#x27;tis brave;  
-. The paths of ;lory lend but to the grave.  
-2t. What is ambition? Tis a glorious client  
-50. Only destructive to the brave and great.  
-51. What&#x27;s all the gaudy glitter oi acrown?  
-M. The w to Mix lion not oi leds of down,  
-.tt. How long we 1k, m,i j cars but uetions tell  
-34. That man lives twice who lives the tirst l&#x27;fo  
-well. &#x27;  
-So. Make then, white yet wo umv, your tiod  
-your friend.  
-01. Whom christians worship, vet not compre­  
-hend.87. The trust that&#x27;s given guard, und to yourself  
-he just;  
-S. For live we how we can, d;e we must.  
+18. Vile intercourse where virtue has no place.  
+19. Then keep each passion down, however dear,  
+20. Thou pendulum betwixt a smile and a tear.  
+2l. Her sensual snares let faithless pleasure lay,  
+22. With craft and skill to ruin and betray:  
+26. Soar not too high to fall, but stoop to rise;  
+2l. We masters grow of all that we despise.  
+25. O, then renounce that impious self-esteem!  
+26. Riches have wings, and grandeur is a dream.  
+27. Think not ambition wise because &#x27;tis brave;  
+The paths of glory lead but to the grave.  
+20. What is ambition? &#x27;Tis a glorious cheat  
+30. Only destructive to the brave and great.  
+31. What&#x27;s all the gaudy glitter of a crown?  
+32. The way to bliss lies not on beds of down.  
+33. How long we live, not years but actions tell  
+34. That man lives twice who lives the first life  
+well.  
+35. Make then, while yet we may, your God  
+your friend,  
+36. Whom christians worship, yet not compre­  
+s7. The end that&#x27;s given guard, and to yourself  
+be just;  
+38. For live we how we can, dje we must.  
 1, Young; 2, Dr. Johnson; 3, Pope; 4,  
-Prior; 5, iSewell; 6, Spenser; 7, Daniel; 8,  
-Sir Walter Scott; f, Longfellow; 10, South­  
-Veil; 11, Congreve; J2, Churchill; 13, Roch­  
-ester 14. Amiktrifr,g; 1&quot;, Milton; lt, Bai­  
-ley; 17, Trench; 18, Souierville; ID, Thomp­  
-son; 20, Kyron; 21, Smollett; 22, Crabbe;  
-23, Massinger; 21, Cowley; 25, Beattie; 20,  
-Cowper; 27, Sir Walter levcnant; 2S, Grav;  
-2ii. VilKs; 30, Addison; 31, Drvdeu; 32.  
-Francis Charles; 3, Watkins; 34, Ilerrick;  
-3. William Mason; 3U, rill; 3J, Dana; 3S,  
-auakespeare
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_charlie_ver01%2Fdata%2Fsn83045160%2F0028077960A%2F1881032701%2F0281.jp2/pct:32.159748,72.361024,9.012086,19.706433/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Prior; 5, Sewell; 6, Spenser; 7, Daniel; 8,  
+Sir Walter Scott; 9, Longfellow; 10, South­  
+vell; 11, Congreve; 12, Churchill; 13, Boch­  
+ester; 14, Armstrong; 15, Milton; 16, Bai­  
+ley; 17, Trench; 18, Somerville; 19, Thomp­  
+son; 20, Byron; 21, Smollett; 22, Crabbe;  
+23, Massinger; 24, Cowley; 25, Beattie; 26,  
+Cowper; 27, Sir Walter Devenant; 28, Gray;  
+20, Willis, 30, Addison; 31, Dryden; 32,  
+Francis Charles; 33, Watkins; 34, Herrick;  
+35, William Mason; 36, Pill; 37, Dana; 38,  
+Shakespeare
+</td></tr></table>
+
+---
+
+## From _The Chickasaw messenger._
+
+#### 1881-04-07 &middot; [Okolona, Miss.](http://dbpedia.org/resource/Okolona%2C_Mississippi)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+The following very remarkable  
+ttle poem is a contribution to the  
+an Francisco Times, from the  
+of Mrs II A. Deming. The readet  
+will see that each line is a quotation  
+f. om some one of the standard an­  
+thors of England and America. Th  
+is the result of a year&#x27;s laborious  
+earth among the voluminous writ­  
+ings of thirty eight leading poets of  
+the past and present. The number  
+of each line refers to its author be­  
+low:  
+Life  
+this toil for  
+Why all this toil for triumphs of an  
+hour ?  
+Life&#x27;s a short summer, man a flower,  
+By turns we catch the vital breath and  
+die;  
+The cradle and the tomb, alas! so nigh,  
+To be is better far than not to be,  
+Though all man&#x27;s life may seem a trage-  
+dy;  
+But light cares speak when mighty griefs  
+are dumb  
+The bottom is but shallow whence the  
+come,  
+Your fate is but the common fate of all;  
+Unmingled joys here no more can befall;  
+Nature to each allots its proper sphere  
+Fortunes makes folly her peculiar care,  
+Custom does often reason overrule,  
+And throw a cruel
+</td></tr></table>
+
+---
+
+## From _The Chickasaw messenger._
+
+#### 1881-04-07 &middot; [Okolona, Miss.](http://dbpedia.org/resource/Okolona%2C_Mississippi)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Riches have wings, and grandeur is a  
+dream,  
+Think not ambition wise because &#x27;tis  
+brave   
+The paths of glory lead but to the grave.  
+What is ambition? &#x27;Tis a glorious  
+cheat  
+Only destructive to the brave and great,  
+What&#x27;s all the gaudy glitter of a  
+crown?  
+The way to bliss lies not on beds of  
+down,  
+How long we live, not years but actions  
+tell-  
+That men lives twice who lives the first  
+life well,  
+Make then, while yet we may, your God  
+your friend,  
+Whom christians worship, yet not com­  
+rhe trust that&#x27;e given guerd, and to your-  
+selt be just;  
+For live we how we can, die we must.  
+26.  
+27.  
+I  
+36.  
+4.  
+35,  
+36.  
+37.  
+38,  
+I, Young; 2, Dr. Johnson; 3,  
+Pope; 4, Prior; b, Sewell; 6, Spen­  
+cer; 7, Daniel; 8, Sir Walter Scott;  
+9, Longtellow; 10, Southwell; 11,  
+Congreve; 12, Churchill; 13, Roches­  
+ter; 14, Armstrong; 15, Milton; 16,  
+Bailey; 17, Trench; 18, Somerville;  
+19, Thompson; 20, Byron; 21,  
+Smollett; 22, Crabbe; 23, Massin­  
+ger; 24, Cowley; 25, Beattie; 26,  
+Cowper; 27, Sir Walter Devsnant,  
+28, Gray; 29, Willis; 30, Addison;  
+31, Dryden; 32, Francis Charles; 33,  
+Watkins; 34, Herrick; 35, William  
+Mason; 36, Pill; 37, Dana; 38,  
+Shakespeare
+</td></tr></table>
 
 ---
 
@@ -4490,6 +5098,25 @@ For; live we how we can, yet die we mus
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85026455%2F0020219803A%2F1881052101%2F0556.jp2/pct:6.360665,33.598369,12.026696,12.324159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The south Kentuckian._
+
+#### 1881-08-30 &middot; [Hopkinsville, Ky.](http://dbpedia.org/resource/Hopkinsville%2C_Kentucky)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+The following remarkable compila  
+tion is a contribution to the San Fran-  
+cisco T&#x27;imes trom the pen of Mrs. If  
+A. Deming. The reader will notice  
+that each line is a quotation from  
+some of the standard authors of Eng  
+land and America. This is the result  
+of a years laborious search among the
+</td></tr></table>
 
 ---
 
@@ -4605,106 +5232,103 @@ Dana; 33, Shakspere.-Gu
 
 ---
 
-## [From _The daily Cairo bulletin._](https://chroniclingamerica.loc.gov/lccn/sn87082573/1882-08-27/ed-1/seq-1)
+## From _The daily Cairo bulletin._
 
 #### 1882-08-27 &middot; [Cairo, Ill.](http://dbpedia.org/resource/Cairo%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-The following very rtmarkabhs little  
+The following very remarkable little  
 poem is a contribution to the San Francisco  
 Times from the pen of Mrs. H. A. Deming.  
-Tho reader will see that each line is a  
-piotatiou ti&#x27;oiu some one of tho standard  
+The reader will see that each line is a  
+quotation from some one of the standard  
 authors of England and America. This is  
-ihe result of a year&#x27;s laborious search among  
-the voluminous wrilingsof thirty-eight lead­  
-ing poets ot tliu past and present. The  
+the result of a year&#x27;s laborious search among  
+the voluminous writings of thirty-eight lead­  
+ing poets of the past and present. The  
 number of each line refers to its author  
-below :  
-LIKK.  
-1. Why all this toil for tiiuuiphsof an  
+below:  
+LIFE.  
+1. Why all this toil for triumphs of an  
 hour?  
-2. Lite&#x27;s a short btiinnier, man a flower.  
+2. Life&#x27;s a short summer, man a flower.  
 3. By turns we catch the vital breath and  
-iliu;  
+die;  
 4. The cradle and the tomb, alas! so nigh.  
-r. To be is bi tter far than not to he.  
-(i. Though all men&#x27;s life may scum a  
-tragedy ;  
-7. But tight cares speak when mighty  
+5. To be is better far than not to be.  
+6. Though all men&#x27;s life may seem a  
+tragedy;  
+7. But light cares speak when mighty  
 griefs are dumb,  
 8. The bottom is but shallow whence they  
 come,  
-!). Your fate is but the common fate of  
+9. Your fate is but the common fate of  
 all;  
-10. Unmiugled joys here no man can he­  
-fall.11. Naturo to each allots its proper sphere;  
-12. Fortuue makes folly her peculiar cat&quot;,  
-13. Custom does otten reason overrule.  
-14. And throw a cruel suus&#x27;iino on it fool.  
-15. LivD well; how long or tdiort, permit  
+10. Unmingled joys here no man can be­  
+Il. Nitire to cach allots its proper spheres  
+12. Fortune makes folly her peculiar care,  
+13, Custom does often reason overrule.  
+14. And throw a cruel sunshine on a fool.  
+15. Live well; how long or short, permit  
 to heaven.  
-10. They who forgive most shall bo most  
+16. They who forgive most shall be most  
 forgiven.  
-17. Siti may bo clasped so close wu cannot  
-site its face  
-18. Vilo intercourse where virtue has no  
+17. Sin may be clasped so close we cannot  
+see its face  
+18. Vile intercourse where virtue has no  
 place.  
-19. Then keep each pusBion down, however  
-il oar,  
+19. Then keep each passion down, however  
+dear,  
 20. Thou pendulum betwixt a smile and a  
 tear.  
-21. Hit sensual snares let faithless pious­  
-uro lay,  
+21. Her sensual snares let faithless pleas­  
+ure lay,  
 22. With craft and skill to ruin and betray;  
 23. Soar not too high to fall, but stoop to  
 rise;  
-24. We masters grow of all that wo despise.  
-23. Ob, thru renounce that impious self-  
-esteem 1  
-20, Hichos have wings, and grandeur Is a  
+24. We masters grow of all that we despise.  
+25. Oh, then renounce that impious self-  
+esteem!  
+26. Riches have wings, and grandeur is a  
 dream.  
-27. Think not ambition wisa becuuso &#x27;tis  
+27. Think not ambition wise because &#x27;tis  
 brave;  
   
-28. Thu paths 0f giry lead but to tho  
+28. The paths of glory lead but to the  
 grave.  
-29. What is ambition? &#x27;Tia a glorious  
+29. What is ambition? Tis a glorious  
 Only destructive to the brave and great.  
-31. What&#x27;s all hid gaudy glitter of a  
-ct own?  
-32. T he w iy to bliss lies uot on beds of  
+31. What&#x27;s all the gaudy glitter of a  
+crown?  
+32. The way to bliss lies not on beds of  
 down.  
-33. Hmv long we live, not years but ac­  
-tions tell &#x27; r  
-31. That man lives twice who lives tl im  
+33. How long we live, not years but ac­  
+tions tell-  
+34. That man lives twice who lives the  
 first life well.  
-ii&quot;). Make then, while yet we may, your  
-God your fiiend,  
-30. Whom Christians worship, yet not  
+35. Make then, while yet we may, your  
+God your friend,  
+36. Whom Christians worship, yet not  
 comprehend.  
-37. The trim that&#x27;s given guard, and to  
-j oin self be just ;  
-3!J. For live we how wo can, die we must.  
-1, V&#x27;nuir; 2, Dr. Johnson; 3, lope;4,  
-Prior; 5, Sewell ; fl, Spencer; 7, Daniel; 8  
-Sir Walter Scott ;D, Imgfellow; 10, South­  
+37. The trust that&#x27;s given guard, and to  
+yourself be just;  
+38. For live we how we can, die we must.  
+I, Young; 2, Dr. Johinson; 3, Pope;4,  
+Prior;5, Sewell; 6, Spencer; 7, Daniel; S  
+Sir Walter Scott;9, Longfellow; 10, South­  
 well; 11, Congreve; 12, Churchill; 13,  
-It oeheMer; M, Armstrong; 15, Milton; 10,  
-B.tiiey; 17, Trench; 1H, Somerville; 19,  
-Thompson; 20. Byron; 21, Smollett ; 22,  
-t&#x27;rabbe; 23, Msin!JTr; 24, Cowley; 2o,  
-Bel tie; 20, Cowper; 2T. Sir Walter Devo­  
-nant; 28, Gray; 21), Willis; 30, Addison; 31,  
-Dryden; 32, Francis Charles ; 33, Watkh s;  
-34. llerrick; 35. William Mason ; 30, Fill ;  
-37, I) ma; 38, Shakpearo
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_archives_ver01%2Fdata%2Fsn87082573%2F00211101106%2F1882082701%2F1267.jp2/pct:34.429205,9.721105,29.850746,86.122285/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Rochester; 14, Armstrong; 15, Milton; 16,  
+Bailey; 17, Trench; 18, Somerville; 19,  
+Thompson; 20, Byron; 21, Smollett; 22,  
+Crabbe; 23, Massinger; 24, Cowley; 25,  
+Bettie; 26, Cowper; 27, Sir Walter Deve­  
+nant; 28, Gray; 29, Willis; 30, Addison; 31,  
+Dryden; 32, Francis Charles; 33, Watkins;  
+34, Herrick; 35, William Mason; 36, Pill;  
+37, Dana; 38, Shakspeare
+</td></tr></table>
 
 ---
 
@@ -4952,92 +5576,89 @@ Daua; 3S, Shakespeare
 
 ---
 
-## [From _The Evening critic._](https://chroniclingamerica.loc.gov/lccn/sn82014424/1882-09-26/ed-1/seq-1)
+## From _The Evening critic._
 
 #### 1882-09-26 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Tbo following vory romarkablo llttlo poom  
-Is a contribution to tho San rrauclsco Tim&#x27;s  
-from tbo&#x27; pen ot Mr. H. A. Doming. Tho reader  
-will seo that each lino Is a quotation from somo  
-ono ot tbo standard authors ot England and  
-America. This Is tho result of yoars of labor­  
-ious search among tho voluminous writings ot  
-thirty-eight leading poets ot tho past nnd  
-preeent. Tho numbor ot oach lino rofors to Its  
-author bolow:  
-1. Why all tbls toll for triumphs ot an hour?  
-2. Ltfo&#x27;s a short summer, man&#x27;s a flower.  
-a. By turns wo catch tho vital breath and die  
-4. Tho cradle and tho tomb, alas I so nigh.  
-ft. To bo Is better far than not to bo.  
-0. Though all mon&#x27;s lives may soem a  
-tragedy:  
-7. But light cares speak whon mighty grlofs  
-nro dumb.  
-8. Tho bottom Is but shallow whence they  
-como.  
-I), Your fato Is but tbo common fato ot alt :  
-10. Unmlnglcd Joys horo no man can befall;  
-11. Nature to oach allots Us proper sphere;  
-12. l&#x27;ortuno makes tolly hor pocullar caro.  
-IU. Custom doos often reason overrule,  
-It. And throw a cruel sunshlno on a fool.  
-15. Ltvo well; how long or short, pormlt to  
+The following very remarkablo little poom  
+is a contribution to the San Francisco Times  
+from the pen of Mr. H. A. Deming. The reader  
+will see that each line is a quotation from some  
+one of the standard authors of England and  
+America. This is the result of years of labor­  
+ious search among the voluminous writings of  
+thirty-eight leading poets of the past and  
+present. The number of each line refers to its  
+author below:  
+1. Why all this toll for triumphs of an hour?  
+2. Life&#x27;s a short summer, man&#x27;s a flower.  
+3. By turns we catch the vital breath and dle.  
+4. The cradle and the tomb, alas! so nigh.  
+D. To be is better far than not to be.  
+G. Though all men&#x27;s lives may seem a  
+tragedy;  
+7, But light cares speak when mighty griofs  
+are dumb.  
+8. The bottom is but shallow whence they  
+come.  
+D. Your fate is but the common fate of all;  
+10. Unmingled joys here no man can befall;  
+11. Nature to each allots its proper sphere;  
+12, Fortune makes folly her peculfar care.  
+13. Custom does often reason overrule,  
+14. And throw a cruel sunshine on a fool.  
+15 Live well; how long or short, permit to  
 heaven.  
-10. Thoy who forglvo most shall bo most tor­  
-given.17. Bin may bo claspod so closo wo cannot soo  
-Its faco  
-18. Vllo intercourse where Irtuo has no  
-place  
-10. Then keep oach passion down, howovor  
+16. They who forgive most shall be most for­  
+ur. sin may be clasped so close wo cannot sce  
+its face.  
+18. Vile intercourse where virtue has no  
+place.  
+19. Then keep each passion down, however  
 dear.  
-20. Thou pendulum betwixt a emtio and tear.  
-21. Her&#x27; sensual snares let faithless pleasure  
+20. Thou pendulum betwixt a smile and tear.  
+21. Her sensual snares let faithless pleasure  
 lay,  
-22. With craft and skill to rulu aud betray,  
-23. Soar not too high to fall, but Btoop to rise  
-2 1. Wo masters grow of all that wo dospl3C  
-20. Ob, then, rcnounco that Impious solt-  
-esteem I  
-20. Riches havo wings, and grandeur Is a  
+22. With craft and skill to ruin and betray.  
+23. Soar not too high to fall, but stoop to ris0.  
+24. We masters grow of all that we despise.  
+25. Oh, then, renounce that impious self-  
+esteem!  
+26, Riches have wings, and grandeur is a  
 dream.  
-27. Think not ambition wlso becauso &#x27;tis  
-bravo:  
-28. Tho pathsot glory load but to Ino grave  
-21). What Is ambition? &#x27; ris a glorious cheat­  
-no. Only destructlvo to tho bravo and great,  
-til. What&#x27;s all tho gaudy gllttor of a crown?  
-32. Tiro way ot bliss lies notou beds of down.  
-33. How long wo live, not years, but actions,  
-toll  
-31, That man lives twlcowho lives tlio first  
-llfo well.  
-30. Mark then, whllo yet yp may, your OoJ  
-yourfrlond.  
-30. V bom Christians worship, yet not compre­  
-hend.37. Tho trust that&#x27;s glvon guard, aud to your  
-self bo Just;  
-38. l&#x27;or Uvo wo how wo can, dlo wo must.  
-I, Young; 2, Dr. Johnson; :i, 1&#x27;opo; -I,  
-Prior: B, Bowoll; (I, Sponcnr; 7, Daniel: b,  
-Sir Walter Scott; 0, Longfollow; 10, South­  
-well; 11, Cougreve; 12, Churcblll; 13, Itoch­  
-estor: 1 1, Armstrong: io, Milton: 1(1, Balloy;  
-17, Trench: 18, Bomorvlllo; 10, Thomson;  
-20, Byron: 21, Smollott; 22, Crabbo: 23, Mas­  
-singer; 21, Cowley: 20, lleattle: 211, Oownor;  
-27, sir Walter Dovonnnt; as, Orays 20, Willis;  
-30, Addison; 31,Dryden;32, l&#x27;rnncls Charlos;  
-33, WatUlns; 31,Uerrlck; 35, William Mason:  
-Oil, Pill; 37, Dana; us, shakspoar
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_harry_ver01%2Fdata%2Fsn82014424%2F00211102871%2F1882092601%2F0300.jp2/pct:42.310978,48.851604,12.067493,28.294511/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+27. Think not ambition wise because &#x27;tis  
+brave;  
+2s, the paths of glory lead but to the grave.  
+20. What is ambition? &#x27;Tis a glorious cheat­  
+30. Only destructive to the brave and great.  
+31. What&#x27;s all the gaudy glitter of a crown?  
+32, The way of bliss lies not on beds of down.  
+30. How long we live, not years, but actions,  
+tell  
+34. That man lives twice who lives the first  
+life well.  
+35, Mark then, while yet ye may, your Gdod  
+your friend.  
+36. Whom Christians worship, yet not compre­  
+ar. The trust that&#x27;s given guard, and to your  
+self be just;  
+38. For live we how we can, die we must.  
+I, Young; 2, Dr. Johnson; B, Pope; 4,  
+Prior; 5, Sewell; 6, Spencer; 7, Dantel; 8,  
+Sir Walter Scott; 9, Longfellow, 10, South­  
+well; 11, Congreve; 12, Churchill; 1, ltoch­  
+ester; 14, Armstrong; 15, Milton; 16, Balley;  
+17, Trench; 18, Somerville; 10, Thomson;  
+20, Byron; 21, Smollett; 22, Crabbe; 23, Mas­  
+singer; 21, Cowley; 25, Beattie; 20, Cowpor;  
+27, Sir Walter Devenant; 28, Gray; 29, Willis;  
+30, Addison; 1, Dryden; 32, Francis Charles;  
+36, Watkins; 1, Herrick; 35, William Mason;  
+30, Pill; 37, Dana; 38, Shakspeare
+</td></tr></table>
 
 ---
 
@@ -6567,60 +7188,95 @@ winuit. 1. Young; 2.-Dr. Jofas0n ;
 
 ---
 
-## [From _Oxford Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83009653/1883-10-23/ed-1/seq-1)
+## From _Oxford Democrat._
 
 #### 1883-10-23 &middot; [Paris, Me.](http://dbpedia.org/resource/Paris%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-[The following very remarkable little  
-1&#x27;iH&#x27;iu Is a contribution to the Sau Francis­  
-co Timet, from the pen of Mr. If. A. l&gt;em·  
-ing. The reader will nee that each line 1»  
-a iju&gt;&gt;tation from eome one of the staudard  
-mi thorn of Euglaud ami America. This h  
-the nsult of yearn of laborious search  
-stnong the voluminous writings of thirty­  
-« Ight leading poets of the pint and preseut.  
-The nutnlwr of each Hue refers to its au­  
-thor below :]  
-1 Why m!1 litis toil for triumphs of an hour?  
-*. I.lfe&#x27;s a short summer. man&#x27;s η flower,  
-3. Hy turns wo rateh the vital brra&#x27;h anil «He,  
-4. The cradle anil Uie tomb, alas so nigh.  
-5. To t&gt;e I* better far than not to be,  
-c. Though all men&#x27;s lives may seem a tragi··  
-rfy;  
-7. Hut light rare* speak when mighty grief*  
-are ituinb,  
-S. The bottom Is but shallow whence they  
-come.  
-9. Your fate Is but the common fate of hII ;  
-to. t&#x27;ninli glril joys here no man run befall;  
-li. Nature to each allots It» proper sphere;  
-I.·. rmtuiiK makes folly her particular care.  
-) 1. Cu»t&lt; ui doea often reason overrule,  
-II. ΛιιιΙ thrown a cruel sunahlne on a fool.  
-15 Litre well; how long or abort, j&gt;erinlt to  
-heaven ;  
-1 |ii. They w ho forgive most shall be moat for­  
+The following very remarkable little  
+poem is a contribution to the San Francis­  
+co Times, from the pen of Mr. H. A. Dem-  
+ing. The reader will see that each line is  
+a quotation from some one of the standard  
+authors of England and America. This is  
+the result of years of laborious search  
+among the voluminous writings of thirty­  
+eight leading poets of the past and present.  
+The number of each line refers to its au­  
+thor below:  
+1. Why all this toil for triumphs of an hour?  
+T. Life&#x27;s a short summer, man&#x27;s a flower,  
+3. By turns we catch the vital breath and die,  
+4. The cradle and the tomb, alas so nigh.  
+5. To be is better far than not to be,  
+6. Though all men&#x27;s lives may seem a trage-  
+dy:  
+7. But light cares speak when mighty griefs  
+are dumb,  
+S. The bottom is but shallow whence they  
+conle.  
+9. Your fate is but the common fate of all;  
+10. Unmingled joys here no man can befall;  
+1t. Nature to each allots its proper sphere;  
+12. Fortune makes folly her particular care.  
+14. Custom does often reason overrule,  
+11. And throws a cruel sunshine on a fool.  
+15. Live well; how long or short, permit to  
+heaven;  
+1. They who forgive most shall be most for­  
 given.  
-IT. Sin may be claspcd so close we cannot see  
-Its face­  
-&#x27;s. Vile Intercourse » here virtu·· ha· no place,  
-j it*. 1 lien keep each passion down, however  
-«tear,  
-&#x27; .0. Tbou peinlulum betwixt a «mile ami tear,  
--1. 11*·r sensual unarms let faitblea
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_baxter_ver01%2Fdata%2Fsn83009653%2F0027952407a%2F1883102301%2F0538.jp2/pct:27.864427,15.244280,12.857429,17.422525/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+17. Sin may be clasped so close we cannot see  
+its face­  
+18. Vile intercourse where virtue has no place.  
+19. Then keep each passion down, however  
+dear,  
+to. Thou pendulum betwixt a smile and tear.  
+21. Her sensual snares let faithless pleasure  
+lay  
+22. With craft and skill to ruin and betray.  
+24. Soar not too high to fall, but stoop to rise,  
+24. We masters grow of all that we despise.  
+25. Oh, then renounce that impious self-es­  
+teem!  
+26. Riches have wings and grandeur is a  
+dream;  
+27. Think not ambition wise because &#x27;tis  
+brave;  
+28. The paths of glory lead but to the grave.  
+2. What is ambition? &#x27;Iis a glorious cheat-  
+30. Only destructive to the brave and great,  
+i1. What&#x27;s all the gaudy glitter of a crown?  
+2. The way of bliss lies not on beds of down.  
+43. How long we live not years but actions  
+tell-  
+3t. That man lives twice who lives the first life  
+well,  
+A Make then while yet you may, your God  
+your friend,  
+2. Whom Christians worship, yet not compre­  
+hend  
+7. The trust that&#x27;s given guard and to your­  
+self be just,  
+4s. So live we how we can, die we must.  
+-l, Young; 2, Dr. Johnson; 3, Pope; t, Prior;  
+5, Sewell; 6, Spencer; 7, Daniel, S. Sir Walter  
+scott; 9, Longfellow; 10, Southwell; 11, Con  
+greve; 12, Churchill; 1, Rochester; 1, Arm  
+strong; 15, Milton; 16, Bailey; 17, Trench; 18,  
+somerville;9, Thompson; 20 Ryron; &quot;I. Smol  
+ett;2, Crabbe; 23, Massinger; 24, Cowley; 25,  
+steattie; 26, Cowper; 2, Sir Walter Devenant,  
+Gray; 29, Willis; 30, Addison: 31, Dryden,4  
+Francis Charles; , Watkins; 3t, Herrick, 35,  
+William Mason; 36, Pill; 57, Dana, 38, Shakes-  
+pear
+</td></tr></table>
 
 ---
 
-## [From _Seattle daily post-intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83045611/1883-10-27/ed-1/seq-4)
+## From _Seattle daily post-intelligencer._
 
 #### 1883-10-27 &middot; [Seattle, W.T. [Wash.]](http://dbpedia.org/resource/Seattle)
 
@@ -6628,125 +7284,122 @@ j it*. 1 lien keep each passion down, however
 
   
   
-The reader of the following will »b  
-serve that each line is a quotation froui  
-one of the standard author* of England  
+The reader of the following will ob  
+serve that each line is a quotation from  
+one of the standard anthors of England  
 and America. This is the result of years  
-of laborious search among the volumiu­  
-ous writings of thirty HgM leariinflp [»&gt;  
-ets of the putt and th»- prewnt. The  
-number of each one refers to its author  
+of laborious search among the volumin­  
+ous writings of thirty-eight leading po  
+ets of the past and the present. The  
+number of each one refers to its anthor  
 below:  
   
-1. Why ail this toil for triumphs of an  
+1. Why all this toil for triumphs of an  
 hour?  
-2. Life&#x27;s a short summer, man « a  
+2. Life&#x27;s a short summer, man&#x27;s a  
 flower.  
-;j. By turns we catch the vital breath  
+3. By turns we catch the vital breath  
   
 and die.  
-4. The cradle and the* tomb, ala*&#x27; so  
+4. The cradle and the tomb, alas! so  
   
 nigh.  
-5. To be is better far than not to t»e,  
-G. Though all men&#x27;s lives mav aeetn s  
+5. To be is better far than not to be,  
+6. Though all men&#x27;s lives may seem a  
 tragedy;  
-7. Hut light cares speak when might)  
+7. But light cares speak when mighty  
 griefs are dumb,  
-M. The bottom is but shallow whence  
-thev acme.  
-Yoor fate is but the eornmon fate of  
+S. The bottom is but shallow whence  
+they come.  
+Your fate is but the common fate of  
 all;  
 10. Unmingled joys here no man can  
 befall.  
-11. Nature to each allot* its proper  
+11. Nature to each allots its proper  
 sphere.  
 12. Fortune makes folly her particular  
-oare.  
-IS. Custom does often reason overrule,  
-14. And throws a cruel sunshine on a  
+GARE.  
+18. Custom does often reason overrule,  
+1t. And throws a cruel sunshine on a  
 fool.  
-If». Live well; how long or short, permit  
+15. Live well; how long or short, permit  
 to heaven;  
-Hi. Those who forgive most shall lie most  
+16. Those who forgive most shall be most  
   
 forgiven.  
-17. Sin laay be clasped w&gt; close we cannot  
+17. Sin may be clasped so close we cannot  
   
-see its faoe—  
-iH. Vile intercourse where virtue has no  
+see its face-  
+18. Vile intercourse where virtue has no  
   
 place.  
-I if. Then keep eaeti {Mission down, luiw  
+19. Then keep each passion down, how  
 ever dear,  
-20. Thou pendulum betwixt a smile and  
+20. Thon pendulum betwixt a smile and  
   
-lour.  
+tear.  
 21. Her sensual snares let faithless  
 pleasure lay,  
-22. With craft and skill to ruin and  
+2. With craft and skill to ruin and  
   
 betray.  
-Hoar not too high to fall, but stoop  
+Soar not too high to fall, but stoop  
 to rise,  
-:&#x27;4, We master* grow of all th it wti  
+24. We masters grow of all that we  
   
 despise.  
-25. Oh, then, renounce tlmt impions  
+25. On, then, renounce that impious  
   
-self est em!  
-&#x27;At. Kiches have wings and grandeur is  
+self-est em!  
+26. Riches have wings and grandeur is  
   
 a dream.  
 27. Think not ambition wise because &#x27;tis  
   
 brave;  
-2H. The path to glory leads but to the  
+28. The path to glory leads but to the  
 grave.  
-2!». What is ambition? &#x27;Tis a glorious  
+20. What is ambition? &#x27;Tis a glorious  
   
-oheat—  
-.&#x27;so. Only destructive to the brave and  
+cheat-  
+30. Only destructive to the brave and  
   
 great.  
-31. What&#x27;s all the gaudy glitter of a  
+31. What&#x27;s all the gandy glitter of a  
   
-crown ?  
-.&#x27;l2. The way of bliss lies not on beds of  
+crown?  
+32. The way of bliss lies not on beds of  
 down.  
   
-:Ci. How lung we live not years, but  
+2. How long we live not years, but  
   
 actions, tell;  
-&#x27;.&#x27;l. That mail lives twice who lives the  
-first life weli;  
-8!». Make, theu, while yet yeu may, your  
+2t. That man lives twice who lives the  
+first life well;  
+35. Make, then, while yet you may, your  
 God your friend,  
-:&lt;O. Whom Christians worship, yet not  
+36. Whom Christians worship, yet not  
 comprehend.  
-:17. The trust that&#x27;s guard, and to  
+37. The trust that&#x27;s given guard, and to  
 yourself be just;  
-For, live wo how we out, die we  
+For, live we how we can, die we  
   
 must.  
-1, Young; 2, Dr. Johnson; 8, Fope; 4,  
-Frior; ft, Hewell; &lt;!, Spenser; 7, Daniel;  
-N, Sir Walter Soott; 1». Longfellow; 10.  
-Southwell; 11, Congreve; I&#x27;.&#x27;, Churchill;  
-13, ltoahester; 14, Armstrougr 15, Mil  
-tou; 10, Bailey; 17, Trench; IM, Sorner  
-ville; lit, Thompson; 20, Byron; 21. Nmol  
-Ivtt; 22, Crabbe; 2tt, Massinger; 24, Cow  
-ley; 25, Beattie; 2l&#x27;&gt;, (Viwper; 27. Sir Wal­  
-ter Devenaut; 2H, Grey; HI, Willis; :VO,  
-Addison; HI, Drydeu; 32, FrancisCharbs;  
-38, Watkms; :M, llerrick; .&#x27;&lt;s, William  
-Mason; :!*», Fill; 87, Dana, 3*. Shake  
-speare.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_dungeness_ver03%2Fdata%2Fsn83045611%2F00202198892%2F1883102701%2F0521.jp2/pct:7.125136,7.390079,10.931927,39.681511/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+I, Young; 2, Dr. Johnson; 3, Pope; 4,  
+Prior; 5, Sewell; 6, Spenser; 7, Daniol;  
+S, Sir Walter Scott; 9, Longfellow; 10,  
+Southwell; Il, Congreve; 12, Churchilf;  
+13, Rochester; 14, Armstrong 15, Mil  
+ton; 16, Bailey; 17, Trench; 18, Somer  
+ville; 19, Thompson; 20, Byron; 21, Smol  
+lett; 22, Crabbe; 23, Massinger; 24, Cow  
+ley; 25, Beattie; 26, Cowper; 27, Sir Wa­  
+ter Devenant; 28, Grey; 20, Willis; 30,  
+Addison; 31, Dryden; 32, FrancisCharles;  
+33, Watkins; 34, Herrick; 35, William  
+Mason; 36, Pill; 37, Dana, 38, Shake  
+Speare.
+</td></tr></table>
 
 ---
 
@@ -7166,6 +7819,143 @@ Dana 3S Shakespher
 
 ---
 
+## From _The sun._
+
+#### 1887-02-11 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+English poets. The names of the authors are given below  
+hy all this toll for triumphs of an hour  
+g--Llife&#x27;s a short summer, man a flower,  
+--By turns we catch the vital breath, and die,  
+-The cradle and the tomb, alas! so nigh  
+-To be is better far than not to be.  
+-Though all man&#x27;s life may seem a tragedy;  
+J-But light cares speak when inighty cares are dumb,  
+S-The bottom is but shallow whence they come,  
+-Your fate is but the common fate of all;  
+Unmingled joys here to no man befall  
+I1-Nature to each allots his proper sphere,  
+aFortune makes folly her pecular care;  
+--Custom does often reason overrule,  
+14. And throw a cruel sunshine on a fool  
+to-Live well, how long or short, permit to heaven,  
+1- They who forgive most shall be most forgiven,  
+Bin may be clasped so close we cannot see its face  
+--Vile intercourse where virtue has not place;  
+i Then keep each passion down, however dear  
+-Thou pendulum betwixt a smile and tear.  
+al-Her sensual snares, let faithless pleasure lay  
+-With craft and skill to ruin and betray;  
+--Soar not too high to fall, but stoop to rise,  
+a1-We masters grow of all that we despise,  
+o--, then renounce that impious self esteem;  
+an-liches have wings, and grandeur is a dream.  
+27- Think not ambition wise because &#x27;tis brave,  
+-The path of glory leads but to the grave.  
+ge-What is ambition? &#x27;Tis a glorious cheat,  
+-Uinly destructive to the brave and great.  
+-What&#x27;s all the gandy glitter of a crown?  
+The way to bliss lies not on beds of down  
+-How long we live, not years, but actions, tell;  
+-That man lives twice who lives the first life well.  
+Make, then, while yet ye may, your God your friend.  
+aWhom Christians worship, yet not comprehend.  
+The trust thar&#x27;s given gnard, and to yourself be just;  
+For, live we how we can, yet die we must  
+i young; 2, Dr. dohnson, a, Pope Prior Sewell;  
+u Npenser J Dantel a, Sir Walter Raleigh 9. Longfel  
+low, 10, Southwell; 11, Congreve; 12, Churchill; 13,  
+Gochester; 1. Armstrong. I5, Milton; 16 Haily; i7.  
+Trench: 18, Somerville; 19, Thomson; 20. Byron; 21  
+Smollett, 22 Crabbe; 23, Massinger: 24. Crowley  
+Beattte; 26 Cowper; 27, Sir Walter Davenant; 28, Bray  
+a Wils 30, Addison; 31, Dryaen: 32, Francis Quarles  
+33, Watkins; 34 Herrick; 
+</td></tr></table>
+
+---
+
+## From _The Washington critic._
+
+#### 1887-02-12 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+of the authors are given below  
+1--Why all this toil for triumphs of an hour  
+2-Life&#x27;s a short summer, man a flower  
+3--By turns we catch the vital breath, and  
+die.  
+4-The cradle and the tomb, alas! so nigh  
+-To be is better far than not to be,  
+-Though all man&#x27;s life may seem a  
+tragedy.  
+-But light cares speak when mighty care  
+are dumb,  
+S--The bottom is but shallow whence they  
+P-Your fate is but the common fate of all;  
+10. Unming ed loys here to no man befall  
+11--Nature to each allots his proper sphere  
+1-Fortune makes folly her pecullar caro;  
+1Custom does often re ison overrule,  
+4.-And throw a cruel sunshine on a fool  
+15--Live well, how long or short, perinit to  
+heaven  
+16-They who forgive most shall be mos  
+torgiven  
+1.-Sin may be clasped so close we cannot see  
+18--Vile intercoure where virine has not  
+mnitce:  
+19-Then keep each passion down, however  
+dear;  
+20- Thou pendulnm betwin&#x27; a smile and tear  
+2-Her sensnat snares, let falthiess pleasure  
+la  
+-With eraft and skill to ruin and betray;  
+2 Soar not too hign to full, but stoop to  
+riss  
+--We masters grow of all that we dospise  
+5O, then renmie that impious seifesteem  
+26--hiches have wings, and grandeur is a  
+dream  
+2.-Thik not ambition wise because &#x27;tis  
+brave.  
+The path of glory leads but to the grave.  
+2--What is ambition? &#x27;Tis a glorions chea  
+30.-Only destruclive to the brave and great  
+31-What&#x27;s all the gauly glltier of a crown  
+The way to bilss lies not on heds of down  
+-How long we live, not years, but actious  
+tell  
+31-That man liver twice who lives the first  
+llin well  
+45-Make, then, while yet ye may, your od  
+your friend  
+-Whom Christians worship, yet not com  
+prehend  
+The trust that&#x27;s given guard, and to your  
+elf be just;  
+For, live we how we can, yet die we must  
+1. Young: 2, lir. dohnson;3, Pope; 4, Prior  
+. ewell; o. Spenser; a, Daniel: S,SSir Walter  
+Ialeigh:3. Longiellow: 10, Southwell; 1t, Con  
+grevet 12, Churchill; 13, Hocheter; 14, Arm  
+strong; 15, Milton; 16, Baily; 17, Trench: 14  
+Somerville; 19, Thompson: 20, Byron; 2f  
+Smollett;22, Crabbe; 23, Massinger; 21, Crow  
+ley; 25, Beattle; 20, Cowper; 27. Sir Walter  
+Davenant; 25, Gray;. Willis; 30, Adlison;  
+31, Dryen; 32, Francis Quarles; 37, Watkins;  
+24, Herrick; 35, William Mason; 340, Hill; 37,  
+Dana; 38, Shakspear
+</td></tr></table>
+
+---
+
 ## A Curicus Life Poem
 
 #### From _The daily inter ocean._
@@ -7406,6 +8196,75 @@ peare
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_lucretia_ver01%2Fdata%2Fsn86086852%2F00271768928%2F1887021801%2F0242.jp2/pct:25.087743,56.764311,9.886503,34.146430/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The Vermont watchman._
+
+#### 1887-02-23 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+and fitting together the following thirty-  
+eight lines from thirty-eight English poets.  
+The names of the authors are given below:  
+1--Why all this toil for triumphs of an hour?  
+2--Life&#x27;s a short summer, man a flower.  
+3--By turns we catch the vital breath and die,  
+4-The cradle and the tomb, alas! so nigh.  
+5-To be is better far than not to be,  
+6-&#x27;Though all man&#x27;s life may seem a tragedy:  
+?-But light cares speak when mighty cares are  
+duml  
+8.The bottom is but shallow whence they come.  
+9--Your fate is but the common fate of all;  
+0. Unmingled joys here to no man befall.  
+I--Nature to each allots his proper sphere,  
+12- Fortune makes folly her peculiar care;  
+13- Custom does often reason overrule,  
+14.-And throw a cruel sunshine on a fool.  
+15--Live well, how long or short, permit to heaven,  
+16-They who forgive most shall be most forgiven.  
+17--Sin may be clasped so close we cannot see its  
+face-  
+18- Vile intercourse where virtue has not place.  
+19-Then keep each passion down, however dear,  
+20--Thou pendulum betwixt a smile and tear;  
+21--Her sensual snares let faithless pleasure lay  
+22-With craft and skill to ruin and betray.  
+23--Soar not too high to fall, but stoop to rise,  
+--We masters grow of all that we despise  
+25.O, then renounce that impious self-esteem  
+26- Riches have wings, and grandeur is a dream  
+2--Think not ambition wise because &#x27;tis brave,  
+28-The path of glory leads but to the grave  
+29-What is ambition? &#x27;Tis a glorious cheat,  
+30- Only destructive to the brave and great  
+31- What&#x27;s all the gaudy glitter of a crown?  
+32- The way to bliss lies not on beds of down.  
+33- How long we live, not years, but actions, tell  
+34--That man lives twice who lives the first life well.  
+35--Make, then, while yet ye may, your God your  
+friend,  
+36- Whom Christians worship, yet don&#x27;t comprehend.  
+3?-The trust that&#x27;s given guard, and to yourself be  
+just;  
+38--For, live we how we can, yet die we must  
+1, Young; 2, Dr. Johnson; 3, Pope; 1,  
+Prior; 5, Sewell: 6, Spenser; 7, Daniel; 8,  
+Sir Walter Raleigh; 9, Longfellow; 10, South  
+well; 11, Congreve; 12, Churchill; 13, Rocl  
+ester; 14, Armstrong; 15, Milton; 16, Bailey;  
+17, Trench; 18, Somerville; 19, Thomson;  
+20, Byron; 21, Smollett; 22, Crabbe; 23, Mas  
+singer; 21, Crowley; 25, Beatte; 26, Cowper;  
+27, Sir Walter Davenant; 28, Gray; 29,  
+Willis; 30, Addison; 31, Dryden; 32, Fran-  
+cis Quarles; 33, Watkins; 31, Herrick; 35,  
+William Mason; 36, Hill; 37, Dana; 38  
+Shakspeare
+</td></tr></table>
 
 ---
 
@@ -7775,6 +8634,95 @@ I &gt;an:»: 5*. sliakspeare.
 #### 1887-03-05 &middot; [Milwaukee, Wis.](http://dbpedia.org/resource/Milwaukee)
 
 [This text is not available under an open license.]
+
+---
+
+## From _Seattle daily post-intelligencer._
+
+#### 1887-03-06 &middot; [Seattle, W.T. [Wash.]](http://dbpedia.org/resource/Seattle)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+$-By tarns we eatch the vital breath,  
+and dio-  
+4--The cradle and the tomb, alas! so  
+nigh.  
+S--To be is better far than not to be,  
+S--Though all man&#x27;s life may seem a  
+tragedy;  
+I--But light cares speak when mighty  
+S--The bottom is hut shallow whence  
+they some.  
+D--Your fate is but the common fats of  
+all;  
+10- Unmingled joys here to no man be­  
+fall.  
+H--Nature to each allots his proper  
+12--Fortune makes folly her peculiar  
+13--Custom does often reason overrule,  
+14- And throw a ornel sunshine on a  
+fool.  
+15--Live well, how long or short, per­  
+mit to heaven.  
+16--They who forgive most shall be  
+most forgiven.  
+17- Sin may be clasped so close we can  
+not see its face.  
+18.-Vile intercourse where virtue has  
+not place;  
+19- Then keep each passion down, how  
+ever dear:  
+20. Thou pendulum betwixe a smile  
+tear;  
+2--Her sensual snares, let faithless  
+pleasure lay.  
+2.-With craft and skill to ruin and be­  
+tray;  
+23- Soar not too high to fall, but stoop  
+to rise.  
+24. We masters grow of all that we de  
+spise.  
+25- O, then renounce that impious self  
+2.- Riches have wings, and grandeur is  
+a dream.  
+27. Think not ambition wise because  
+&#x27;tis brave.  
+2- The path of glory leads but to the  
+a-what is ambition? &#x27;tis a glorious  
+cheat.  
+30- Only destructive to the brave and  
+31- What&#x27;s all the gandy glitter of a  
+crown?  
+32- The way to bliss liss not on beds of  
+down.  
+38--How long we live, not years but ac­  
+tions tell;  
+34.-That man lives twice who lives the  
+first life well.  
+then, while yet ye may, your  
+God your friend.  
+36- Whom Christians worship, yet nor  
+comprehend,  
+37- The trust that&#x27;s given guard, and to  
+yourself be just;  
+38--For, live how we can, yet die we  
+must.  
+I, Young; 2, Dr. Johnson; 3, Pope; 4,  
+Prior; 5, Sewell; 6, Spenser; 7, Daniel;  
+S. Sir Walter Rdeigh; 9, Longfellow;  
+10, Southwell; I1, Congreve; 12, Ohurch  
+hill; 13, Rochester; 14, Armstrong; 15,  
+Milton; 16, Baily; 17, Trench; 18, Som  
+erville; 19, Thomson; 2. Byron; 21,  
+So ollett; 22, Crabbe; 23, Massinger;  
+2, Crowley; 25, Beattie; 2, Cowper;  
+27, Sir Walter Davenant; 28, Gray; 20,  
+Willis; 30, Addison; 31, Dryden; 32,  
+Francis Quarles; 33, Watkins; 3t, Her­  
+rick; 35, William Mason; 36, Hill; 37,  
+Dana; 38, Shakspeare.
+</td></tr></table>
 
 ---
 

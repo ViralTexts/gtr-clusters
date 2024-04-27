@@ -1,7 +1,7 @@
 
 # The Judge Needed the Money
 
-### 60 reprints from 1887-02-11 to 1897-08-14
+### 62 reprints from 1887-02-11 to 1897-08-14
 
 ## [The Judge Needed the Money](https://chroniclingamerica.loc.gov/lccn/sn2001063112/1887-03-04/ed-1/seq-7/)
 
@@ -172,6 +172,43 @@ Auf/vsta [Ga.) Chronicle.
 
 ---
 
+## From _The Daily times._
+
+#### 1887-03-06 &middot; [Richmond, Va.](http://dbpedia.org/resource/Richmond%2C_Virginia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+The udge Needed the Money.  
+I have just heard the following good stor  
+on Chief Justice Bleckiey. All who knoy  
+Judg Blecaley and recall his long wavln  
+halr and beard will appreciate the story  
+Judge blockley was on his way to the a  
+preme court one morning, when he was a  
+I by a little street ramin, with an e  
+ceedingly dirty face, with the customar  
+sir?&quot;  
+Hie was quite importunate, and the jodr  
+i impressed with the oppressive unt  
+f the boy&#x27;s face, said. &quot;Idon&#x27;t want  
+shins, but if you will go wash your face!  
+give you a dime.&quot;  
+&quot;All right, sir.&quot;  
+Well, let me see you do it.&quot;  
+The boy went over to an artesian hyira  
+and made his ablution. Returning, he he  
+out his hand for the dime.  
+The judge said, &quot;Well, sir, you&#x27;ve carr  
+your money, hero it is&quot;  
+The boy said: &quot;I don&#x27;t want your mone  
+old fellow; take it and have your hair cu  
+i which he scampered off. Angu  
+Ga.) Chronicle
+</td></tr></table>
+
+---
+
 ## [From _St. Paul daily globe._](https://chroniclingamerica.loc.gov/lccn/sn90059522/1887-03-07/ed-1/seq-4)
 
 #### 1887-03-07 &middot; [Saint Paul, Minn.](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
@@ -279,53 +316,50 @@ scampered off.—Augusta (Ga.) Chronicle.
 
 ---
 
-## [From _Fort Worth daily gazette._](https://chroniclingamerica.loc.gov/lccn/sn86064205/1887-03-14/ed-1/seq-4)
+## From _Fort Worth daily gazette._
 
 #### 1887-03-14 &middot; [Fort Worth, Tex.](http://dbpedia.org/resource/Fort_Worth%2C_Texas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-by themselves where when their food is  
+by themselves, where, when their food is  
   
-thrown in they vault over each others  
+thrown in, they vault over each other&#x27;s  
   
-fro as plavfai cs  
+fro as playful as  
   
-Score One or tho Gamin  
-Augusta Chronicle  
+Score One for the Gamin  
+Augusta Chronicie  
 All who know Judge Bleckley and  
   
 re  
   
-call his long waving hair and beard will  
-appreciate this story He was on bis  
+call his long, waving hair and beard will  
+appreciate this story: He was on his  
 way to the Supreme court one morning  
 when he was accosted by a little street  
-gamin with an exceedingly dirtv face  
-with the customary ushine em He  
-was importunate and the Judge being  
+gamin, with an exceedingly dirty face  
+with the customary &quot;shine, em?&quot; He  
+was importunate, and the Judge, being  
 impressed with the oppressive untidiness  
-of the boys face suid I dont want a  
-shine but if you will go wash your face  
-Ill dime All sir  
+of the boy&#x27;s face, said: &quot;I don&#x27;t want a  
+shine, but if you will go wash your face  
+I&#x27;ll give you a dime.&quot; &quot;All right, sir  
   
-give you a right  
-Well let me see you do it The boy  
+give you a dime.&quot; &quot;All right  
+Well, let me see you do it.&quot; The boy  
 went over to an artesian hydrant and  
-made his ablution Returning he held  
+made his ablution. Returning, he held  
   
-out his hand for the dime The Judge said  
+out his hand for the dime. The Judge said  
   
-Well sir youve earned vour money  
-here it is The boy said I dont  
-want your money old fellow you take it  
-and have your hair cut saying which he  
-scampered off The Judge thought ii s
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_echo_ver03%2Fdata%2Fsn86064205%2F00206535581%2F1887031401%2F0039.jp2/pct:38.204171,74.490944,14.098973,14.157111/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Well, sir, you&#x27;ve earned your money  
+here it is.&quot; The boy said: &quot;I don&#x27;t  
+want your money, old fellow; you take it  
+and have your hair cut,&quot; saying which he  
+scampered off. The Judge thought it s
+</td></tr></table>
 
 ---
 
@@ -775,80 +809,94 @@ pered off. The Judge thought it s
 
 ---
 
-## [From _St. Johnsbury Caledonian._](https://chroniclingamerica.loc.gov/lccn/sn84023253/1887-04-07/ed-1/seq-2)
+## From _St. Johnsbury Caledonian._
 
 #### 1887-04-07 &middot; [St. Johnsbury, Vt.](http://dbpedia.org/resource/St._Johnsbury%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-The Judge Needed the Money.  
-From On AugutUx, Oa., ChronicU.  
+The JuDGE Needed thE MonEy.  
+FrOM THE AUgUSTa, GA., ChroNICLE.  
   
 I have just heard the following good  
 story on Chief Justice Bleckley. All  
 who know Judge Bleckley and recall  
-his long waviug hair and beard will  
+his long waving hair and beard will  
 appreciate the story. Judge Bleckley  
 was on his way to the supreme court  
 one morning when he was accosted by  
 a little street gamin, with an exceed  
 ingly dirty face, with the customary  
-&quot;Shine, sir!&quot;  
+&quot;Shine, sir?&quot;  
 He was quite importunate, and the  
 judge, being impressed with the op  
 pressive untidiness of the boy&#x27;s face,  
-said : &quot;I don&#x27;t want a shiue, but if you  
+said: &quot;I don&#x27;t want a shine, but if you  
 will go wash your face I&#x27;ll give you a  
 dime.&quot;  
 &quot;All right, sir.&quot;  
 &quot;Well, let me see you do it.&quot;  
-Ihe boy went over to au artesian  
-hydrant aud made his ablution. Re  
-turning, he h-dd out his hand for the  
+The boy went over to an artesian  
+hydrant and made his ablution. Re  
+turning, he held out his hand for the  
 dime.  
-The judge said : &quot;Well, sir, you&#x27;ve  
-earned your money ; here it is.  
-1 he boy said : &quot;I  
-dou&#x27;t want you
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_alburg_ver02%2Fdata%2Fsn84023253%2F0020029631A%2F1887040701%2F0489.jp2/pct:75.314361,5.688784,11.065520,12.614260/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+The judge said: &quot;Well, sir, you&#x27;ve  
+earned your money; here it is.  
+The boy said: &quot;I  
+don&#x27;t want your  
+have your hair cut.&quot; Saying which he  
+scampered off
+</td></tr></table>
 
 ---
 
-## [From _Madison times._](https://chroniclingamerica.loc.gov/lccn/sn88064405/1887-04-09/ed-1/seq-1)
+## From _Madison times._
 
 #### 1887-04-09 &middot; [Tallulah, Madison Parish, La.](http://dbpedia.org/resource/Tallulah%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-All who know Jud ge Bhlecklvy antd  
-recall his long,. waving hair and earl|  
-will appreciate this story. lie was ,in  
+The remedy we  
+are told, &quot;was to dig a hole in the  
+earth and lay them on their bellies with  
+their mouths in it; if that fail they tun  
+them full of good ale; but if that fail  
+they conclude them desperate.&quot;Good  
+The Results of Beer.  
+&quot;There,&quot; said a clerical-looking man,  
+pointing to an individual who had jus  
+emerged from a saloon and stumbled  
+into the gutter, &quot;you see the results of  
+beer.&quot;  
+And there, sald a rednosed loo­  
+ing person, pointing to the large and  
+imposing residence of a brewer on the  
+opposite side of the street, &quot;you see the  
+results of beer.&quot;--Norristown Her ald.  
+Score One For The GAmin  
+All who know Jud ge Bleckley and  
+recall his long, waving hair and beard  
+will appreciate this story. He was on  
 his way to the supreme courtone morn­  
-Ing whoaen he was acoosted by a 1 ttle  
-street gamin, with an exoeedingly dlr­  
-t faoe, with theoustolmary &#x27;sh:nne. it?  
-He wasu quite impoMrtunate. and te  
-judge, bein2 impres-el with the op­  
-preasive unt dness o4 the bor&#x27;s face.  
-said: &quot;Idon&#x27;t want a shtine, but if yeto  
-will go wash your face I&#x27; give you: a  
-dime.&quot; &quot;All right. sir.&quot; &quot;Wel. let  
-me see you ido it.&quot;&#x27; The boy weot  
-over to an arte-ian hydrant and malde  
-his ablut:on. lreturning he hell out hIis  
+ing when he was accosted by a little  
+street gamin, with an exceedingly dir­  
+ty face, with the oustomary &#x27;shine, sir?  
+He was quite importunate, and the  
+judge, being impressed with the op­  
+pressive untidiness of the boy&#x27;s face.  
+said: &quot;I don&#x27;t want a shine, but if yo  
+will go wash your face I&#x27;ll give you a  
+dime.&quot; &quot;All right, sir.&quot; &quot;Well, let  
+me see you do it.&quot; The boy wen  
+over to an artesian hydrant and made  
+his ablution. Returning he held out his  
 hand for the dime. The judge said:  
-&quot;&#x27;Well sir, you&#x27;ve earned your money:  
-hereitas&quot; The boy said: &quot;I don&#x27;t  
-want your nmey. old fellow; yop take 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_onslaught_ver01%2Fdata%2Fsn88064405%2F0020029998A%2F1887040901%2F0262.jp2/pct:55.484330,84.987562,13.639601,12.077114/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+&quot;Well, sir, you&#x27;ve earned your money;  
+here it is.&quot; The boy said: &quot;I don&#x27;t  
+want your money, old fellow; you take  
+t and have your hair cut,&quot; sayi
+</td></tr></table>
 
 ---
 
@@ -904,39 +952,39 @@ saying which he scampered off. Th
 
 ---
 
-## [From _The Dallas daily herald._](https://chroniclingamerica.loc.gov/lccn/sn83025733/1887-04-11/ed-1/seq-3)
+## From _The Dallas daily herald._
 
 #### 1887-04-11 &middot; [Dallas, Tex.](http://dbpedia.org/resource/Dallas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-All who know Jml ge Bleokley am  
-recall his long, waving hair and iiean  
-will appreciate this story, lie was on  
+never has to hesitate for a word.  
+New York Mail and EiT press.  
+Score One For The Gamin.  
+All who know Jud ge Bleckley and  
+recall his long, waving hair and beare  
+will appreciate this story. He was on  
 his way to the supreme court one morn  
-ing when he was accosted by a tittle  
-street gamin, with au exceedingly dir­  
-ty face, with the customary &#x27;shine, sir?&#x27;  
-Hi! was quite importunate, ami the  
+ing when he was accosted by a little  
+street gamin, with an exceedingly dir­  
+ty face, with the customary &#x27;shine, sir?  
+He was quite importunate, and the  
 judge, being impressed with the op  
-prcssivo untidiness of tho hoy&#x27;s face,  
-said: &quot;I don&#x27;t wast a shine, but if you  
-will go wash your face I&#x27;ll rive vou :i  
-dime.&#x27; &quot;All right, sir.&quot; &quot;Well, let  
-me see you do it.&quot; Tho boy went  
+pressive untidiness of the boy&#x27;s face,  
+said: &quot;I don&#x27;t want a shine, but if you  
+will go wash your face I&#x27;ll give you a  
+dime.&quot; &quot;All right, sir.&quot; &quot;Well, let  
+me see you do it. The boy went  
 over to an artesian hydrant and made  
-his ablution. Returning he held out hit  
+his ablution. Returning he held out his  
 hand for the dime. The judge said  
 &quot;Well, sir, you&#x27;ve earned your money;  
-here ills.-&#x27; The boy saal: &quot;I don&#x27;t  
-want your money, old fellow; you taki  
-it and have your hair cut.&quot; saying  
-which he scampered oil&#x27;. The jml l
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_eagle_ver01%2Fdata%2Fsn83025733%2F00200297167%2F1887041101%2F0670.jp2/pct:42.748292,57.600534,16.841829,15.468046/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+here it is.&quot; The boy said: &quot;I don&#x27;t  
+want your money, old fellow; you take  
+it and have your hair cut,&quot; saying  
+which he scampered off. The jud
+</td></tr></table>
 
 ---
 
@@ -1542,6 +1590,67 @@ pered off
 
 ---
 
+## From _The Middleburgh post._
+
+#### 1887-07-14 &middot; [Middleburgh, Snyder Co., Pa.](http://dbpedia.org/resource/Middleburg%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+s so,&quot; said Bivens, and I&#x27;ll  
+accept the compromise.&quot;  
+So when the lion got within reach  
+Roach blazed away at it and Bivens  
+reached down and drove his knife  
+clean up to the hilt in the monster&#x27;s  
+breat. The lion fell to the ground  
+aith a bullet hole in his head and  
+cloven inches of steel in his lungs.  
+Then Roach and Bivens descended  
+from the tree. They had escaped so  
+narrowly that they could not be  
+other than friends. Each was indebt  
+d to the other for his life. They  
+resolved not to separate, and now  
+they are engaged in the bandict busis  
+ness together in the Idaho f stnes.  
+ses  
+Rough on the Judge­  
+I have just heard the following  
+good story on Chief Justice Bleckly,  
+ys a writer in Augusta (G.)  
+Chronicle. All who know Judge  
+Bleckly and recall his long, waving  
+hair and beard will  
+appreciate the  
+story. Judge Bleckly was on his  
+way to the Supreme Court one  
+morning when he was accosted by a  
+little street gamin, with an exceed-  
+ingly dirty faco, with the customary  
+&quot;Shine, sir?&quot;  
+He was quite importunate, and  
+the Judge, being impressed with the  
+oppressive untidinens of the boy&#x27;s  
+face, said: &quot;I don&#x27;t want a shine,  
+but if you go wash your face I&#x27;ll  
+give you a dime.&quot;  
+All right, sir,&quot;  
+&quot;Well, let me see you do it.&quot;  
+The boy went over to an artesian  
+bydrant and made his ablution. R-  
+turning, he held out his hand for  
+the dime.  
+The Judge  
+said: &quot;Well,  
+earned your money, here it is.&quot;  
+The boy said: &quot;I don&#x27;t want your  
+money, old fellow; you take it and  
+have your hair cut.&quot;  
+Saying which he scampered off
+</td></tr></table>
+
+---
+
 ## [THE HUMOURIST.](http://trove.nla.gov.au/ndp/del/article/165223060)
 
 #### From _The Sydney Mail and New South Wales Advertiser (NSW : 1871 - 1912)_
@@ -1661,43 +1770,59 @@ hair cut- Saying which he scampered off
 
 ---
 
-## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1887-10-26/ed-1/seq-1)
+## From _The Somerset herald._
 
 #### 1887-10-26 &middot; [Somerset, Pa.](http://dbpedia.org/resource/Somerset%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-I have ju-4 heard the following good  
-story on Chief Justice Bleckly, hmvs a  
-writer in the Augusta (Ga.) i lir-nurlt  
+We are martyrs to our own faults.  
+To live fast means too often to die fast.  
+Misdirected labor is waste of activity.  
+Nearly all great men have had remar­  
+kable memories.  
+Do the truth you know, and you shall  
+learn the truth you need to know.  
+Feebleness of means is, in fact, the fee­  
+bleness of him that employs them.  
+Call not that man wretched who,  
+whatever ills he suffers, has a child to  
+love.  
+Extraordinary afflictions are not al­  
+ways the punishments of extraordinary  
+graces.  
+False men are not to taken into confi­  
+dence, nor fearful men into a post that  
+requires resolutions.  
+Rough on the Judge.  
+I have just heard the following good  
+story on Chief Justice Bleckly, says a  
+writer in the Augusta Ga.) Chronicle  
 All who know Judge Bleckly and re­  
-call bis long wavy hair and beard wilt  
-appreciate the story. Judge I&#x27;.le. kly was  
+call his long wavy hair and beard will  
+appreciate the story. Judge Bleckly was  
 on his way to the Supreme Court one  
 morning when he was accosted by a lit­  
-tle street gamin, w ith an exi-eedingly dir­  
-ty face, wi h tbe customary &quot; Shine, sir?&quot;  
-He was quite importune, and tbe Judge,  
-lieing impressed with the oppressive un­  
-tidiness of the boy&#x27;s five, said : &quot; I don&#x27;t  
-want a shine, but if you go wash yonr  
-face I&#x27;ll give yon a dime.&quot;  
+tle street gamin, with an exceedingly dir­  
+ty face, with the customary &quot;Shine, sir?&quot;  
+He was quite importune, and the Judge,  
+being impressed with the oppressive un­  
+tidiness of the boy&#x27;s face, said: &quot;I don&#x27;t  
+want a shine, but if you go wash your  
+face I&#x27;ll give you a dime.&quot;  
 &quot;All right, sir.&quot;  
-&quot; Well, let me see you do it.&quot;  
+&quot;Well, let me see you do it.&quot;  
 The boy went over to an artesian hy­  
 drant and made his ablution. Returning  
 he held out his hand for the dime.  
-The Judge said ; &quot; WelL sir, you&#x27;ve  
-earned your money ; here it is.&quot;  
-The boy said : &quot; I don&#x27;t want your  
-money, old fellow, you take il and get  
-your hair cut.&quot; Saying which he kuu­  
-(ered off
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776506%2F1887102601%2F0537.jp2/pct:84.969180,66.891729,10.020547,12.804437/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+The Judge said; &quot;Well, sir, you&#x27;ve  
+earned your money; here it is.&quot;  
+The boy said: &quot;I don&#x27;t want your  
+money, old fellow, you take it and get  
+your hair cut.&quot; Saying which he scam­  
+pered off
+</td></tr></table>
 
 ---
 

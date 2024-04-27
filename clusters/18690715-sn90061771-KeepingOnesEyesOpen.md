@@ -1,7 +1,7 @@
 
 # Keeping One's Eyes Open
 
-### 306 reprints from 1869-06-12 to 1896-06-18
+### 289 reprints from 1869-06-24 to 1896-06-18
 
 ## [Keeping One's Eyes Open](https://chroniclingamerica.loc.gov/lccn/sn90061771/1869-07-15/ed-1/seq-1)
 
@@ -25,37 +25,6 @@ You&#x27;ll have peace to your end,
 
 ---
 
-## [sim_saturday-review-uk_the-saturday-review_1869-06-12_27_711](https://archive.org/details/sim_saturday-review-uk_the-saturday-review_1869-06-12_27_711/page/n14/mode/1up?view=theater)
-
-#### From unknown source
-
-#### 1869-06-12
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-uotes himself when he says, neatly enough, “a man with a great  
-deal of religion displayed in his shop window keeps a very small  
-stock within ” ; and there is something of homely wit and wisdom  
-in the genial saying, “ Don’t go to law unless you have nothing  
-to lose; for lawyers’ houses are built on fools’ heads.” “ Beware  
-of no man more than of yourself; we carry our worst enemies  
-within us.” In a word, as in all these bundles of conceits, the  
-verdict must be that which Martial gave as to his own  
-epigrams :—  
-Sunt bona, sunt quedam mediocria, sunt mala plura,  
-Were it not that Mr. Spurgeon occasionally breaks out with pas-  
-sicnate insolence against all other teachers of religion as, ipso facto,  
-knaves and hypocrites and impostors, because they do not conform  
-to the Tabernacle type of teachers, we should be almost disposed  
-to part with him in good temper. But what can be said i
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-review-uk_the-saturday-review_1869-06-12_27_711&#0036;14/pct:9.676396,47.414495,36.516497,12.947883/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## KEEPING ONE'S EYES OPEN.
 
 #### From _New York Observer and Chronicle (1833-1912)_
@@ -66,144 +35,225 @@ to part with him in good temper. But what can be said i
 
 ---
 
-## [From _The Lincoln County herald._](https://chroniclingamerica.loc.gov/lccn/sn90061771/1869-07-15/ed-1/seq-1)
+## From _The Lincoln County herald._
 
 #### 1869-07-15 &middot; [Troy, Lincoln County, Mo.](http://dbpedia.org/resource/Troy%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-Keeplag One&#x27;s -Eyes Opea.  
-Nobody . is moro like an honest man  
-than a thorough rocue. When vou see a  
-man with a great deal of religion dls-  
-ir .1 - ! l L..  
-Dinveu iu bib buud wiuuun, juu war,  
-depend upon it be keeps a very smalt  
-stock ot it within. lo not obeose your  
-friend by his looks : hsndsone shoes  
+ng nothing in the rubic about  
+the woman&#x27;s dress, thought he could  
+not refuse to marry her in her chemise  
+only. At Kitron in Lindsey there was  
+a popular belief that the woman must  
+be actually nude wheff she left her resi  
+dence for that of her intended husband,  
+in order to relfeve him from her debts;  
+and a case of this kind occurred. A wo  
+man left her house from her bed room  
+window in a state of nudity, and put on  
+her clothes as she stood upon the top of  
+the ladder by which she accomplished her  
+descent. The notion of a marriage in  
+a chemise was prevented at Cottenham, in  
+Cambridgeshire recently.  
+Keeping One&#x27;s EyEs Open.  
+Nobody is more like an honest man  
+than a thorough rogue. When you see a  
+man with a great deal of religion dis-  
+ anan cedass sas bae  
+plaved in ats onon window, you may,  
+depend upon it he keeps a very small  
+stock of it within. Do not ohoose your  
+friend by his looks: handsone shoes  
 often pinch the feet. Don&#x27;t be fond of  
-compliments: remember,&#x27; &quot;Thank, yon,  
-pussy, and tiiont yen; pussy,&quot; allied me  
+compliments: remember, &quot;Thank you,  
+pusay, and thank you, pussy, killed the  
 cat. Don&#x27;t believe in the man who talks  
-most : for mowing cats&#x27; arc vory seldom  
-good mbusers. By no&#x27; means put yourself  
-in another nsrson&#x27;a nower : if vou nut  
+most; for mowing cats are very seldom  
+good mousers. By no means put yourself  
+in another nerson&#x27;s nower; if you put  
 your thumb between two grinders, they  
-are very npt 10 uno. urine, nuimug wuu  
-out seeing it : &#x27;sign&#x27; nothing without read  
-ing it, &#x27;and make sure.thst it Is no more  
-thsn it says. Vin t go. to lavrunioss you  
-have nothing&#x27;to lose :. lawyers houses are  
-built on fools&#x27; heads. In any business,  
-never wado&#x27; into water where you cannot  
-seo ine pottom. rut no aepenaenco upon  
-the label of a bag ; and count money, alter  
-your, own, kin. ,840 the eaok opened  
-Wore&#x27; you &#x27;buy what Is in it; for,&#x27; &#x27;he  
-who trades in tne dark asks to be oheatod.  
-Keen clear Of the man who does not  
-value his own &#x27;character.. Beware of  
-every one &#x27;who swears; hit who would  
-blaspheme v his Maker, wonld make no  
-bonos of lying or stealing. Beware of  
-no man more than, yoursolf : We carry  
-our worst enemies&#x27; within us. .When&#x27; a  
-new opinion or doctrine pomes before you,  
-do not bite till. you. know whether it is  
-bread or n stone ; and do topi he sure that  
-tbq, gingerbread, is good because of the  
-gilt on 1 Never shout halloa ! till you  
-are quite out of the wood ; and don&#x27;t cry  
-fried fish till they are&#x27; caught in &#x27;the net.  
+are very aps to bite. Drine nothing wite  
+out seeing it; sign nothing without read  
+ing it, and make sure that it is no more  
+than it says. Don&#x27;t go to law unless you  
+have nothing to lose: lawyers houses are  
+built on fools&#x27; heads. In any businéss,  
+never wade into water where you cannot  
+see the bottom. Tut no dependence upon  
+the label of a bag; and count money after  
+your own kin. See the sack opened  
+bofore you buy what is in it; for he  
+who trades in the dark asks to be cheated.  
+Keop clear of the man who does not  
+value his own character. Beware of  
+every one who swears; he who would  
+blaspheme his Maker, would make no  
+bones of lying or stealing. Beware of  
+no man more than yourself; we carry  
+our worst enemies within us. When a  
+new opinion or doctrine comes before you,  
+do not bite till you know whether it is  
+bread or a stone; and do not be sure that  
+the gingerbread is good because of the  
+gilt on it. Never shout halloa! till you  
+are quite out of the wood; and don&#x27;t cry  
+fried fish till they are caught in the net.  
 There&#x27;s always time enough to boast-  
-wait a little, longer. ion;t throw, away  
-the dirty: water till&#x27; you&#x27; have  
-i sol  
-keep on ntteraplog the roals till yon can  
-getheUer&#x27;work ; for the poorest pay. is  
-better thah&#x27;none, aftd tbo humblest office  
-f- L.i... .L.&#x27;ll &#x27; U.lLi&quot; &#x27;. I ti...i .  
-etheit  
-il uoncr man .twiug ovi ui iiaHiuyuioua.  
-Always glvo&#x27;up the&#x27;, road&#x27; &#x27;-to&#x27; hulls&#x27; and  
-madmen arid, nover fight1 with n opal i  
-hearer, or contend with A base, chsraoter.  
-fpr they will bo sure to blaOkon ypu.  
-. Neither trait nor eoaUnd, ,  
-. Nor Ity.wagara, nor Itai, - .  
-And yoo Bay depend &#x27; &#x27;  
-&#x27; i Tea&#x27;ll bare paaee toTyeur and,  
-Her. C. II- Spergeon
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_dorothea_ver01%2Fdata%2Fsn90061771%2F00200292790%2F1869071501%2F0757.jp2/pct:49.966450,57.239110,14.784165,33.923535/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+wait a little longer. Don&#x27;t throw away  
+the dirty water till you have  
+o o  
+keep on at seraping the roads till you can  
+get better work; for the poorest pay is  
+better than none, and the humblest office  
+a aisen aed tth duslas fnlgaana  
+et bett  
+is botter than being ous of siploy mont.  
+Always give up the road to bulls and  
+madmen; and nover fight with a coal  
+heaver, or contend with a base character,  
+for they will be sure to blacken you.  
+Neither trust nor contend,   
+Wor lay wagars, nor lend,  
+And you may depend  
+4! Yeu&#x27;ll have peace to yeur end,  
+Rev. C. H Spargeon
+</td></tr></table>
 
 ---
 
-## [From _The weekly Arizona miner._](https://chroniclingamerica.loc.gov/lccn/sn82014899/1869-08-21/ed-1/seq-1)
+## From _The Manchester journal._
+
+#### 1869-08-03 &middot; [Manchester, Vt.](http://dbpedia.org/resource/Bennington%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+KEEPIN ONE&#x27;s ErES OPEN. Nobody  
+is more like an honest man than a  
+thorough rogue. When you see a man  
+with a great deal of religion displayed  
+in his shop window, you may depend  
+upon it he keeps a very small stock of  
+it within. Do not choose your friend  
+by his looks; handsome shoes often  
+pinch the feet. Don&#x27;t be fond of com­  
+liments: remember &quot;Thank you,  
+pussy,&quot; killed the cat. Don&#x27;t believe  
+in the man that talks most, for mew-  
+ing cats are very seldom good mousers.  
+By no means put yourself in another  
+person&#x27;s power; if you put your  
+thumb between two grinders, they are  
+very apt to bite. Drink nothing with  
+out seeing if; sign nothing without  
+ reading &#x27;it, and make sure that it  
+means no more than it says. Don&#x27;t  
+go to law unless you have nothing to  
+lose; lawyer&#x27;s honses are built on  
+fool&#x27;s heads. In any business, never  
+  
+wade into water where you can not see nervons, and awake in the morning  
+bottom. Put no dependence upon thee ei a ii an­  
+ae of a a an on o oe e o eo o a­  
+ater o o in e te aer wo te ar so ait  
+pened before you buy what is in i fore oee e ia  
+e e ae in te dar ae to to the other will lose. This is the  
+  
+et or lear fethe wat wl  
+e e e ee e e  
+who does not value his own character.  
+Leware of every one who swares; he  
+who would blaspheme his Maker,  
+would make no bones of lying or steal  
+ing. Beware of no man more than  
+yourself; we carry our worst enemies  
+within us. When a new opinion of  
+doctrine comes before you, do not bite  
+till you know whether it is bread or  
+stone; and do not be sure that the  
+gingerbread is good because of the gilt  
+on it. Never shout halloa! till you are  
+quite out of the wood, and don&#x27;t cry  
+out fried fish till they are caught in the  
+net. There&#x27;s always time to boast  
+ wait a little a longer. Don&#x27;t throw  
+away dirty water till you have got clean.  
+Keep on at scraping the road till you  
+can get better work, for the poorest  
+pay is better than none, and the hum­  
+blest office is better than being out of  
+employment. Always give up the road  
+to bulls and madmen; and never fight  
+with a coal-heaver or contend with a  
+base character, for they will be sure to  
+blacken you.
+</td></tr></table>
+
+---
+
+## From _The weekly Arizona miner._
 
 #### 1869-08-21 &middot; [Prescott, Ariz.](http://dbpedia.org/resource/Prescott%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Nobody is more like nn hmcst man than n  
-thorough rogue. When ;ou see a man with  
-n great deal of religion dajiayed in his r.hop  
-window, you may dependbpon it he keeps a  
+Keeping One&#x27;s Eyes Open.  
+IFrom Rev. C. H. Spurgeon&#x27;s &quot;JohnPloughman&#x27;s TalkI  
+Nobody is more like an henest man than a  
+thorough rogue. When tou see a man with  
+a great deal of religion dsplayed in his shop  
+window, you may dependupon it he keeps a  
 very small stock of it within. Do not choose  
-your friend by his looU; handsome shoes  
-often pinch the feet, Dm&#x27;t be fond of com­  
-pliments; remember &quot;Think y..u, pussy, and  
-thauk you, pussy,&quot; killedUic cat. Don&#x27;t be­  
-lieve in the man who talks most, for mowing  
-cats arc vory seldom goo uioumws. IJy no  
-means put yourself In anoter jR-tron&#x27;s jxiwer;  
-if you put your thumb baxcon two grinder,  
-tkey aro very apt to bUt Drink nothing  
-without seeing it ; sign rntling without read­  
-ing it, am! make sua- thd it means nothing  
-more than It says. Dont go to law uiiIom  
-you have nothing to he: lawyer&#x27;s horn  
-are built on fvoW heaih In Any busine,  
-never wade into water were you cannot mjc  
-tho bottom. Put no djiendenee Uwn the  
-label of a bsg. and cout money after your  
-own km. Sf theuck (X-nd Marc yu Iwv  
-what is in it, for he wlnxrailtis in the dirk  
-asks to be cheated. Ken cltwr of the titan  
-who doe not value his ii cbanwter.He-wait-  
-of every one wboani; ho wtw would  
-llapbeiHf his Maker, W jild Hiake vm Woj  
-of Ijingor stealing. ltd are f no man more  
-than of yrlf ; we cwjy osir wol enemWv  
-with us. When a new jfitnitm or doctHtM­  
-oonim lrefore yau, do iHillte till you knvw  
-whether it is lmd eraita; ami do wt  
-be sure that tiie nverhUd is gs.fMl bwauvt  
-of the gilt on it, here! tAtoat Mkm ! till  
-yen are rjuite out of the rood, ami dna&#x27;t ery  
-friesl ft-h until they aretaueht in the net  
-There&#x27;s always time enoijti to bat wall a  
-little lunger. Dtm&#x27;t trf- away dsrty water  
-till ymi have got dmui. rerp atertpinj:  
-the ronds till you can gt better mrk, fr  
-the Mret rwy is betteribsn none, arwi the  
-humbltrtt ollkc ti better than being out ol  
-employment. Always pie up tie road ta  
+your friend by his lools; handsome shoes  
+often pinch the feet. Don&#x27;t be fond of com­  
+pliments; remember &quot;Thisk you, pussy, and  
+thank you, pussy,&quot; killed the cat. Don&#x27;t be­  
+lieve in the man who talle most, for mewing  
+cats are very seldom goot mousers. By no  
+means put yourself in anoder person&#x27;s power;  
+if you put your thumb batween two grinders,  
+they are very apt to bie Drink nothing  
+without seeing it; sign natking without read­  
+ing it, and make sure that it means nothing  
+more than it says. Dont go to law unless  
+you have nothing to loe; lawyer&#x27;s hom  
+are built on fools&#x27; head. In any business,  
+never wade into water there you cannot see  
+the bottom. Put no dpendence upon the  
+label of a bag, and cout money after your  
+own kin. See the sack oened before you buy  
+what is in it, for he whotrades in the dark  
+asks to be cheated. Kep clear of the man  
+who does not value his ion character. He  
+of every one who swars; he who would  
+blaspheme his Maker, wuld make no bones  
+of lying or stealing. Bo are of no man more  
+than of yourself; we cary our worst enemies  
+with us. When a new spinion or doctrine­  
+comes before you, do nobite till you know  
+whether it is bread or a stone; and do not  
+be sure that the gingerbpad is good because  
+of the gilt on it. Nevel shout halloa! till  
+you are quite out of the rood, and don&#x27;t cry  
+fried fish until they are paught in the net.  
+There&#x27;s always time enoth to boast--wait a  
+fittle longer. Don&#x27;t tha away dirty water  
+till you have got clean. Aeep on at scraping  
+the roads till you can gt better work, for  
+the poorest pay is betterthan none, and the  
+humblest office is better than being out of  
+employment. Always gie up the road to  
 bulls and mad men; and never fight with a  
-cdaWiestver or contend wlh a bs. ehirtcter,  
-for they will be urc to biken jxu.  
-&#x27; Neither trHfl ner oettnod.  
-Nr lay wsgo. bar had,  
-A ad vu may deeal  
-Yeull have peae t ysaieaJ
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_apachetrout_ver01%2Fdata%2Fsn82014899%2F00211105483%2F1869082101%2F0690.jp2/pct:40.164298,23.115578,16.718472,28.083274/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+coal-heaver or contend wih a base charecter,  
+for they will be sure to bicken you.  
+Neither trust nor coatend.  
+Nor lay wages, nor lad,  
+And you may depent  
+You&#x27;ll have peace to yeuiend
+</td></tr></table>
 
 ---
 
@@ -257,70 +307,72 @@ never fight with a coal-heaver, or contend wit
 
 ---
 
-## [From _Santa Fe weekly gazette._](https://chroniclingamerica.loc.gov/lccn/sn84022168/1869-08-28/ed-1/seq-4)
+## From _Santa Fe weekly gazette._
 
 #### 1869-08-28 &middot; [Santa Fe, N.M.](http://dbpedia.org/resource/Santa_Fe%2C_New_Mexico)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,-t ; &#x27;  
-The late Jbn.I. 1&#x27;helps, who wua ono of in the old fumilv lii&#x27;de m I not in t i &#x27;u i . :;. &#x27;  
-the itmochis. leaves mi estate of eight &#x27; M-iybo oh are a I&#x27;uchelur, fru-tv m I f &#x27; . .  
-millions, and Mosses Taylor lias plodded in- : Then, pdur I&#x27;eilow, Siiur J iv ntL&#x27;hi i- noi&#x27;t­  
-to a fortuno uf e-pial value. I&#x27;mUiULphm &#x27; jug t( you, ji.rt as ou are nothing totti.y-9-  
-! bolv. &#x27;Get a wil&#x27;o. iilih-eui l or hi u-k-.-ve&#x27;i; 1  
-. , i but.&quot; nb.ive all, tnUH-ved. (iet a tittle home j  
-u . i no matter ho.v little ft oi&#x27;.i. jut to h..i I&#x27;  
-.ilirBfOII Ad WIT. !Uo or two and a hall, an I then get the tw..  
-Nobody is more like an honest man than &#x27; m lw I&#x27;11&#x27; &quot;- 11 M iinrlny iiiiíhi,  
-a thorough mgue. When vou see a man and then road Uih panigraph by tliu light ol ,  
-with a great deal of roligiuii tliM.layed iu his your wife&#x27;s eyes, and thank 0d an I take  
-hop window, you may ilupcii&#x27;t upon it ho courage. &quot;  
-keeps a very small stuck within i)u not -  
-chuoiO your friend by his looks; h uidsouie A wvou: hte m:.ii th&#x27;t .1 ipmi. nrrivinii at .  
-aboca often pinch the feet. JJon&#x27;t bo found &#x27;. San l-&#x27;rancisio.lulv --. brmiht twelve mi.i  
-of CotnplimenU; romember, &quot;Thanlt ym, Ulrud more t&#x27;hiuanien. mil í Io.i.IH wrtii &quot;I  
-pumy, and thank you, pussy,&quot; killed the opium, which Uoe Ciiin ioie a,t-.M te to &#x27;  
-cat. Don&#x27;t beliovo In ttm man who tall; nmuggle in, was seized on that &quot;ne ve-i I. j  
-moni; for mewing cats are very seldom good These oium seizunM are bi-i&#x27;oin&#x27;ntg a vi:i-  
-inousors. Hy no means put ytmolf in an- ; consider aldu sotircu of rev.iue to the in.v­  
-other person&#x27;s power; if you put your thumb j urniiiunt, for the Chinese are pcrsit&#x27;-nt yei  
-bolween grinders, they are very apt ti bite. eluiusy smugglers, and uro oailv tumgnt  
-iJrink nothing without seeing it; sign noth-1 (if all tho einclovmenti to which (&#x27;bin ni&#x27;-u j  
-ing without reading it, and make suro it -apply ihemeivts in San Kram-isco tb.-y 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_coyote_ver02%2Fdata%2Fsn84022168%2F00296025185%2F1869082801%2F0374.jp2/pct:8.552230,54.051441,28.130727,12.454071/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Santa Fe weekly gazette._](https://chroniclingamerica.loc.gov/lccn/sn84022168/1869-08-28/ed-1/seq-4)
-
-#### 1869-08-28 &middot; [Santa Fe, N.M.](http://dbpedia.org/resource/Santa_Fe%2C_New_Mexico)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
+great body of hisare his treasures after all, and not in the  
+wealth is the result of great application, a an o in the boksae the ecor  
+The late Johnt). Phelps, who was one ofin the old family iblean not in the bank.  
+the same class, leaves an estate of eightMay be yon are a bachelor, frosty and forty.  
+millions, and Mosse. Tay lor has plodded in Then or eo aa i i ot­  
+to a fortune of epual value.  Thifasdetphin ing to you jst as yo are nothing to any  
+body. Get a wife, blus-eyed or black-evel;  
+aoe ao a taee et a ie om  
+e ee e ae o ie o a o o  
+spurgeons advice.  ortwo and a half, and than got the two,  
+Nobody is more like an honest man thanor two and half in it of a Saturday night,  
+a thorogh rogu. en o s a an a e e i aa e e i o  
+with a great deal of religion displayed in his o i eean tan o an a  
+hop window, you may depend pon it eoe  
+keeps a very small stock within o not eee e  
+choose your friend by his looks; handsomea a te aan aii a  
+shocs often pinch the feet. Don&#x27;t be foondan an is u 2 bogh twelve hun  
+of compliments; remember, &quot;Thank you, dred more Chinamen, and $15,000 werth of  
+pussy, and thank you, pussy,&quot; killed the o wi te inen aee o  
+cat. Don&#x27;t believe in the man who talksmuggle in was seized on that one vessel  
+most; for mewing cats are very seldom goodThese opium seizures are becoming a ver  
+mousors. By no means put yourself in an onee so o e to te t­  
+other person&#x27;s power; if you put your thu ee o te i a ee e  
+between grinders, they are very apt to bite. lumsy smugglers, and are easily caught  
+Drink nothing without seeing it; sign noth of all the employ ments to which hinamen  
+ing without reading it, and make sure it a teee in an anio te  
+means no more than it says. Don&#x27;t go to ee to best suced in the laundry bus  
+law unless you have nothing to lose; lawe te a wonderfe as ermen  
+yers&#x27; houses are built on fools&#x27; heads. In anytogh they insist upon dampening clothes  
+business, never wade into water where you by taking the water in their mouths and  
   
-b te till yuu knoiv whether it is bread or a hopeare unlert lined that they may iu Uuu­  
-slone; and do not be sure than the ginger-, ,mrn iu wiuh tliin.  
-bread is gooj because of tbe gill on it. I ... -  
-NW hout ballu: till you re quite out of t , u Mf)ollilu.,  
-tnj woo l; oud never cry Iriel ll-.li till tbev I  
-are caucht in tbo net. There&#x27;s alwa time Mr í&#x27;o&#x27;IÍk, in Iv ree.-nt book, &#x27; i &#x27;ur N&#x27;.-iv  
+cannot see the bottom. Tut no dependance  
+upon the label of bag; and count money af-  
+ter your own kin. See the sack open before  
+you buy what is in it; for he who trades in  
+the dark asks to be cheated. Keep clear of  
+the man who dees not value his own char  
+acter. Beware of every man who swear.  
+he who would blaspheme the Maker, would  
   
-nouiib to boat wait a little longer. Don&#x27;t  
+make no bones of lying or stealing. Beware of the price charged by the San Francisco  
+of no man more than of yourself; we carry washerwome for half the work. Conse­  
+our worst enemies within us. When a new quently, the Chinamen as washermen are  
+opinion or doctrine comes before you, do not very successful, so much so that strong  
+bte till you know whether it is hread or a hopes are entertained that they may in time­  
+stone; and do not be sure than the gingere o a te  
+bread is good because of the gilt on ito  
+Never shout hallo! till you are quite out of i oonsin  
+the wood; and never cry fried fish till they  
+are caught in the net. There&#x27;s always time! Mr Cofin, in his recent book, &quot;Our New  
   
-mruw away dirty water till you have got cii.-iu on a man uiim uu ir-qite-. ti-1- in  
-clean;kMjponcrapingthorondstilloui&#x27;uii In ii-: &#x27;The moon in ut it lull pouring i:s  
-Cat butter work; for the poorest pay Is hotter mvs from tl;e znnith stn.iglitib&#x27;wn U;.ou u.s  
-than being out of emplitytuenl. Always withn power tnat i lmo.il as unbear.ble n  
-Kiv up the road to bulls and mad men; and that oí the sun hi mid -lay. Tin-ru U im heal  
-never fight with coalhuavor, or contend in it. ra. hut th-y have gre it i ll&#x27;eet u-o
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_coyote_ver02%2Fdata%2Fsn84022168%2F00296025185%2F1869082801%2F0374.jp2/pct:8.918754,74.144266,27.580941,6.323728/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+nough to boast--wait a little longer. Don&#x27;t  
+  
+o aa dirt water ti o ae oe o e a e  o o e   
+clean; keep on scraping the roads till you canai The mon is at its ul poring is  
+get better work; for the poorest pay is betteras from the zeith straight down upon a  
+than being out of employment. Always with a power that is almost as unbearable a  
+give up the road to bulls and madmen; and that of the sun at mi day there is o he  
+never fight with a coalheaver, or contendin it a but they have get effect po
+</td></tr></table>
 
 ---
 
@@ -560,7 +612,7 @@ the fo efiM stateessnW, &quot;iwheh; we ar
 
 ---
 
-## [From _Democratic enquirer._](https://chroniclingamerica.loc.gov/lccn/sn86079037/1869-09-08/ed-1/seq-2)
+## From _Democratic enquirer._
 
 #### 1869-09-08 &middot; [M'arthur, Vinton County, Ohio](http://dbpedia.org/resource/McArthur%2C_Ohio)
 
@@ -569,35 +621,35 @@ the fo efiM stateessnW, &quot;iwheh; we ar
   
   
 Nobody is more like an honest man than  
-a thorough roue. When you see a man  
-with a great fWl of religion displayed in  
-his shop window, yon may depend upon it  
-be keeps a very small f-tock of it within.  
+a thorough rogue. When you see a man  
+with a great deal of religion displayed in  
+his shop window, you may depend upon it  
+he keeps a very small stock of it within.  
 Do not choose your friend by his looks;  
 handsome shoes often pinch the feet.  
 Don&#x27;t be fond of compliments; remember  
-&#x27;liiauK you, pnssy, buu thanu you,  
-pussy,&quot; killed the cat. Dont believe  
-iu mo man wuo lams most; tor  
+&quot;Thank you, pussy, and thank you,  
+pussy,&quot; killed the cat. Don&#x27;t believe  
+in the man who taiks most; for  
 mewing cats are very seldom good  
 mousers. By no means put yourself in an­  
 other persons power; if you put your thumb  
 between two grinders, they are very apt to  
-bite. Drink nothingwilhoutseeing it, sign  
+bite. Drink nothing without seeing it, sign  
 nothing without reading it, and make sure  
 that it means no more than it says. Don&#x27;t  
 go to law unless you have nothing to lose;  
-lawyer&#x27;s houses are built on fools heads. Iu  
-any business, never wude into water where  
-you cannot see the bottom, Put no depend­  
-ence upon the label of a bag; aud count  
-money after your kin. Bee the sack open  
+lawyer&#x27;s houses are built on fools heads. In  
+any business, never wade into water where  
+you cannot see the bottom. Put no depend­  
+ence upon the label of a bag; and count  
+money after your kin. See the sack open  
 before you buy what is in it; for he who  
-trndos in the dark aslis tobe cheated. Keep  
+trades in the dark asks to be cheated. Keep  
 clear of the man who does not value his  
 own character. Beware of the man who  
 swears, he who would blaspheme the  
-Makpr would make no bones of lying or  
+Maker would make no bones of lying or  
 stealing. Beware of no man more than of  
 yourself; we carry our worst enemies with  
 us. When a new opinion of a doctrine  
@@ -605,23 +657,21 @@ comes before you, do not bite till you know
 whether it is bread or a stone; and do not  
 be sure that the ginger-bread is good be  
 cause of the gilt on it. Never shout  
-hallo I till you are quite out of the  
+hallo! till you are quite out of the  
 wood; and never cry fried fish until they  
 are caught in the net. There is always  
-time enongn to uoast wait a little ionizer.  
-Don&#x27;t throw away dirty water till yon have  
+time enough to boast--wait a little longer.  
+Don&#x27;t throw away dirty water till you have  
 got clean; keep on scraping the roads till  
-you cau get better work; tor the poorest  
+you can get better work; for the poorest  
 pay is better than none; and the humblest  
-oOloe is better than being ont of employ  
-ment. Always give up tho road to balls  
-and madmen, and never fight with a coul  
-heaver, or rontend with a base character,  
-for they will be sure to blacken yon, Ikv
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn86079037%2F00280774893%2F1869090801%2F0159.jp2/pct:21.995590,62.694301,12.183021,22.137306/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+office is better than being out of employ  
+ment. Always give up the road to bulls  
+and madmen, and never fight with a coal  
+heaver, or contend with a base character,  
+for they will be sure to blacken you.--Hev.  
+G H. SpurgEON.
+</td></tr></table>
 
 ---
 
@@ -916,7 +966,7 @@ formly agree to this
 
 ---
 
-## [From _The Conservative._](https://chroniclingamerica.loc.gov/lccn/sn87075001/1869-09-10/ed-1/seq-2)
+## From _The Conservative._
 
 #### 1869-09-10 &middot; [M'connelsville, Ohio](http://dbpedia.org/resource/McConnelsville%2C_Ohio)
 
@@ -924,60 +974,57 @@ formly agree to this
 
   
   
-Nobody is more liko au honest Diau than  
+Nobody is more like an honest man than  
 a thorough rogue. When you see a man  
-wuh a great ileal of religion displayed in  
+with a great deal of religion displayed in  
 his shop window, you may depend upon it  
-ne Keeps a very small stock ot it within.  
+he keeps a very small stock of it within.  
 Do not choose your friend by his looks;  
-handsome shoes often pinch the feet.  
-Don&#x27;t be fund of compliments; remember  
-11, unit you, pussy, and thank ycu,  
-pussy,&quot; killed tho cut. Don&#x27;t believe  
-iu tho man who talks most; for  
-mewing cats aro very seldom good  
-moiisers. iiy no means put Yourself iu an  
+handsome shoes often pinch the feet,  
+Don&#x27;t be fond of compliments; remember  
+Thank you, pussy, and thank you,  
+pussy,&quot; killed the cat. Don&#x27;t believe  
+in the man who talks most; for  
+mewing cats are very seldom good  
+mousers. By no means put yourself in an  
 other persons power; if you put your thumb  
-between two grinders, they ale very apt to  
-Into. Drink nothing without seeing it, wgu  
-nothing without leading it, and make sure  
-that it melius no more than it ssvs. Don&#x27;t  
-go to law unless you have uothing to lose;  
-lawyer&#x27; houses arc built on fools heads. In  
-any business, never waduiutn water where  
-you cannot see the bottom, l&#x27;ut uodeptud­  
-ence upon the label of a bug; uud count  
-money idler your kin. See tho sack open  
-befoie jou buy what is in it; for he who  
-trades iu the dai kusl.s to be cheated. Keep  
-c-leur of the man who does nut value, his  
-on character, lieware of the mau who  
-swears, he who would blasiihemo the  
+between two grinders, they are very apt to  
+bite. Drink nothing without seeing it, sign  
+nothing without reading it, and make sure  
+that it means no more than it says. Don&#x27;t  
+go to law unless you have nothing to lose;  
+lawyer&#x27;s houses are built on fools heads. In  
+any business, never wade into water where  
+you cannot see the bottom. Put no depend­  
+ence upon the label of a bag; and count  
+money after your kin. See the sack open  
+before you buy what is in it; for he who  
+trades in the dark asks to be cheated. Keep  
+clear of the man who does not value his  
+own character. Beware of the man who  
+swears, he who would blaspheme the  
 Maker would make no bones of lying or  
-stealing, iieware oi no man more than ol  
-yourself; we cany our worst enemies with  
-us. When it new c.piuiou of a doctriue  
-comes before you, do not lute till von know  
+Stealing. Beware of no man more than of  
+yourself; we carry our worst enemies with  
+us. When a new opinion of a doctrine  
+comes before you, do not bite till you know  
 whether it is bread or a stone; and do not  
-bo suie thut the ginger-bieud is good be-  
-cajje ot tuu gut ou it, roYer shout  
-hallo I till you ate quito out of th  
-wouu;ana never cry irieii usn nntil they  
-are cuught in the tu-t. &#x27;l ucre is always  
-time enuugu iu nousi-wait a little lonuer.  
-Don t throw away dirty water till yon huve  
-got clean; keep ou i, craping tha roads till  
-yon can get better work; lor the poorest  
-pay ia better than none; aud the humblest  
-omce is better muu ueing out nt employ  
-ment. Always give up the load to bulls  
-and mudinou, uud never fight with a coal  
-heaver, or contend with a baso character,  
-Tor I hey will be sure to blacken you.-- Ur
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn87075001%2F00237286935%2F1869091001%2F0664.jp2/pct:21.446289,61.916533,11.791643,21.928166/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+be sure that the ginger-bread is good be-  
+caudse of the gilt on it. Never shout  
+hallo! till you are quite out of the  
+wood, and never cry fried fish until they  
+are caught in the net. There is always  
+time enough to boast--walt a little longer.  
+Don&#x27;t throw away dirty water till you have  
+got clean; keep on scraping the roads till  
+you can get better work; for the poorest  
+pay is better than none; and the humblest  
+ofce is better than being out of employ  
+ment. Always give up the road to bulls  
+and madmen, and never fight with a coal  
+heaver, or contend with a base character,  
+for they will be sure to blacken you.- He
+</td></tr></table>
 
 ---
 
@@ -1021,7 +1068,147 @@ Corn
 
 ---
 
-## [From _The Tiffin tribune._](https://chroniclingamerica.loc.gov/lccn/sn87076794/1869-09-17/ed-1/seq-4)
+## From _National opinion._
+
+#### 1869-09-10 &middot; [Bradford, Vt.](http://dbpedia.org/resource/Bradford%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+sign nothing without reading it, and  
+make sure that it means no more  
+than it says.  
+In any business never wade into  
+water where you cannot see the bot
+</td></tr></table>
+
+---
+
+## From _National opinion._
+
+#### 1869-09-10 &middot; [Bradford, Vt.](http://dbpedia.org/resource/Bradford%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+When you see a man with a  
+  
+of religion displaye  
+  
+reat  
+  
+deal of religion dispiayed in his  
+  
+shop window, you may depend upon  
+it he keeps a very small stock of if  
+within.  
+  
+A citizen of Washington whom we  
+will call Mr. P. once rang at the doo  
+of the British Minister, and tellir  
+the servant that he had importr  
+business with the Minister.   
+shown into an ante room, wher h  
+was soon joined by that official, when  
+the following dialogue took place:  
+&quot;May I ask, sir, what business it is  
+  
+that you have with me  
+  
+There is always time enough to  
+boast, wait a little longer.  
+Nobody is more like an honest  
+  
+man than a thorough rogue.  
+Always give up the road to bulls  
+and madmen; and never fight with  
+a coal heaver, nor contend with a  
+base character, for they will be sure  
+to blacken you
+</td></tr></table>
+
+---
+
+## From _The weekly Panola star._
+
+#### 1869-09-11 &middot; [Panola, Miss.](http://dbpedia.org/resource/Sardis%2C_Mississippi)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+the rejoicings of their families, and  
+  
+brings her home to cherish her  
+  
+ithont seeing it; sign mothing  
+without, reading it, and make sure  
+that it means no more than it says.  
+  
+Don&#x27;t go to law unless you have  
+nothing to lose; lawyers houses are  
+built on fools heads. In any bust­  
+ness never wade into water where  
+  
+ou cannot see the bottom. Put no  
+  
+dependence upon the label of a bag;  
+and count money after your  
+kin. Sey the sack before you buy  
+what is in it; for he who trades in  
+the dark asks to be cheated. Keep  
+clear of the man who does not value  
+  
+his own character. Beware of every  
+man, who swears; he who would  
+blaspheme the Maker would make  
+no bones of lying or stealing. Be­  
+ware of no man more than of your  
+self; we carry our worst enemies  
+with us. When a new opinion of a  
+tod bin fctnion16  
+doctrine comes before you, do not  
+bite till you know whether it is  
+bread or a stone; and do not be sure  
+that the ginger bread is good be  
+cause of the gilt on it.&quot; Never shout  
+dodnot bas ghg  
+hallo! till you are quite out of the  
+  
+ods; and never cry friend fish  
+  
+they are caught in the net.  
+  
+There  is always time enough to  
+  
+boast-wait a little longer. Don&#x27;t  
+be inm 1177 gisb afe Joalpith  
+  
+throw away dirty water till you  
+have got clean; keep on scraping  
+the roads until you can get better  
+rne bilitoinnde lo  
+work; for the poorest pay is better  
+  
+than none, and the humblest office  
+uple thlisasobi  
+  
+is better than being out of employ  
+ment. Always give up the roads to  
+bulls and madmen, and never fight  
+b o i  
+with a coal-heaver, or contend with  
+led alifolt df liall nih  
+a base character, for they will be  
+sure to blacken you.Spurgcon.  
+  
+Wood
+</td></tr></table>
+
+---
+
+## From _The Tiffin tribune._
 
 #### 1869-09-17 &middot; [Tiffin, Ohio](http://dbpedia.org/resource/Tiffin%2C_Ohio)
 
@@ -1029,28 +1216,28 @@ Corn
 
   
   
-&#x27;  
+  
 Nobody is more like an honest  
 man than a thorough rogue.  
-WheTi you .cce a man with a great  
+When you see a man with a great  
 deal of religion displayed in his shop  
-window, A&#x27;ou may depend upon it  
-keeps n. yerv small stock of it with-  
+window, you may depend upon it  
+keeps a very small stock of it with-  
 in.  
 Do not choose your friend by his  
 the feet.  
-Don&#x27;t he fond of compliments; re-  
-member, &#x27;&#x27;Thiink you pussy, and  
+Don&#x27;t be fond of compliments; re-  
+member, &quot;Thank you pussy, and  
 thank you, pussy,&quot; killed the cat.  
-Don&#x27;t believe in the man who:  
+Don&#x27;t believe in the man who  
 talks most; for mewing cats are very  
 seldom good mousers.  
 By no means put yourself  
 in another person&#x27;s power;  
-jyou put your thumb between  
-! grinders, they are very apt to bite,  
-j Drink notliing without seeing  
-! sign nothing withont reading it, and  
+you put your thumb between  
+grinders, they are very apt to bite.  
+Drink nothing without seeing  
+sign nothing withont reading it, and  
 make sure that it means no more  
 than it says.  
 Don&#x27;t go to law unless you have  
@@ -1058,11 +1245,11 @@ nothing to lose; lawyers houses are
 built on fools&#x27; heads.  
 In any business never wade into  
 water where you cannot see the bot  
-tom,  
-Put no dependence upon the la-  
+tom.  
+Put no dependence upon the la  
 bel of a bag; and count money after  
 your own kin.  
-bee the sack open before you buy  
+See the sack open before you buy  
 what is in it; for he who trades in  
 the dark asks to be cheated.  
 Keep clear of the man who does  
@@ -1071,16 +1258,16 @@ Beware of every man who swears;
 he who would blaspheme the Maker,  
 would make no bones of lying or  
 healing.  
-Beware of no man more than, of  
+Beware of no man more than of  
 yourself; we carry our worst ene­  
 mies with us.  
 When a new opinion or doctrine  
 comes before you, do not bite until  
-you Know Avnetner it is bread or a  
+you know whether it is bread or a  
 stone; and do not be sure that the  
 gingerbread is good because of the  
 gilt on it.  
-!Ncver shout halloo ! till you are  
+Never shout halloo! till you are  
 quite out of the wood; and never cry  
 fried fish till they are caught in the  
 net.  
@@ -1088,8 +1275,8 @@ There is always time to boast
 wait a little longer.  
 Don&#x27;t throw away dirty water till  
 you have got clean; keep on scraping  
-the roads till von carierot better  
-work;for the poorest pay is better  
+the roads till you can got better  
+work; for the poorest pay is better  
 than none, and the humblest office  
 is better than being out of employ  
 ment.  
@@ -1097,11 +1284,8 @@ Always give up the road to bulls
 and madmen; and never fight with  
 a coal-heaver, or contend with a  
 bad character, for they will be sure  
-to blacken vou.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn87076794%2F00280775113%2F1869091701%2F0651.jp2/pct:34.660684,45.461088,10.726304,34.306569/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+to blacken you.
+</td></tr></table>
 
 ---
 
@@ -1479,22 +1663,37 @@ is now on exhibition at the
 
 ---
 
-## [From _The Manchester journal._](https://chroniclingamerica.loc.gov/lccn/sn83025668/1869-10-12/ed-1/seq-4)
+## From _The Manchester journal._
 
 #### 1869-10-12 &middot; [Manchester, Vt.](http://dbpedia.org/resource/Bennington%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-mies w ith us.  
+By no ncans put yourself in ar  
+other person&#x27;s power; if you put  
+your thun b between two grinders,  
+  
+they are very apt to bite.
+</td></tr></table>
+
+---
+
+## From _The Manchester journal._
+
+#### 1869-10-12 &middot; [Manchester, Vt.](http://dbpedia.org/resource/Bennington%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+the feet.  
+Beware of no man more than  
+yourself; we carry our worst ene­  
+mies with us.  
 Don&#x27;t believe in the man who talks  
-most ; for mew ing cats aro very sel­  
-dom good mouscrs.  
-Not long since s premium was of
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_iceberg_ver01%2Fdata%2Fsn83025668%2F00415629229%2F1869101201%2F0346.jp2/pct:18.491675,52.561218,12.634672,4.090007/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+most; for mewing cats are very sel­  
+dom good mousers
+</td></tr></table>
 
 ---
 
@@ -1929,7 +2128,21 @@ two grinders, they are apt to bite.
 Drink nothing without seeing it; sign  
 nothiug without reading it, and make sure  
 that it means no more than it says.  
-Sever shout hallo ! till you are quite out  
+Sever shout hallo ! till you are quite ou
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028575%2F1869110501%2F0627.jp2/pct:84.339014,65.577240,11.172527,22.200016/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1869-11-05/ed-1/seq-1)
+
+#### 1869-11-05 &middot; [Bedford, Pa.](http://dbpedia.org/resource/Bedford%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
 of the wood ; and Dever cry fried fish till  
 they are caught in the net.  
 Don&#x27;t go to law unless you have nothing  
@@ -1947,7 +2160,7 @@ only their own inclination, have forgotten
 that others have a claim to the same defer­  
 once.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028575%2F1869110501%2F0627.jp2/pct:84.339014,65.577240,11.290240,30.993808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028575%2F1869110501%2F0627.jp2/pct:84.410666,87.847794,11.218588,8.723254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2040,6 +2253,42 @@ The man who, on last Wednesda
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F00212470193%2F1869110501%2F0109.jp2/pct:29.427016,22.431525,10.630023,47.602035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _National opinion._
+
+#### 1869-11-05 &middot; [Bradford, Vt.](http://dbpedia.org/resource/Bradford%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+worth a world of heartless beauty.  
+Drink nothing without seeing it;  
+sign nothing without reading it, and  
+mnake sure that it meals no more  
+than it says.  
+Put no dependsnce upon the label  
+of a bag; and count money after  
+your own kith and kin
+</td></tr></table>
+
+---
+
+## From _National opinion._
+
+#### 1869-11-05 &middot; [Bradford, Vt.](http://dbpedia.org/resource/Bradford%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Don&#x27;t believe the man who talks  
+most; for mewing cats are very  
+seldom goon mousers  
+Let no one count  
+his friends till they  
+the number o
+</td></tr></table>
 
 ---
 
@@ -2290,13 +2539,89 @@ to blacken you.-SrintaBaif
 
 ---
 
-## All Sorts and Sizes
+## From _The weekly Panola star._
 
-#### From _Bangor daily Whig & courier._
+#### 1869-12-11 &middot; [Panola, Miss.](http://dbpedia.org/resource/Sardis%2C_Mississippi)
 
-#### 1869-12-06 &middot; [Bangor, Me.](http://dbpedia.org/resource/Bangor%2C_Maine)
+<table style="width: 100%;"><tr><td style="width: 50%">
 
-[This text is not available under an open license.]
+  
+upon the begs verified. Should any  
+purceptible difference in weight be­  
+I down, the contents of the  
+leficient bag are counted, and the  
+crror correted. In examining small  
+coin, such as dollars and quarter  
+cagles a shade of difference in  
+anl requc  
+count of the contents has invariably  
+far, that the amount was  
+correc  
+There are about $75,0000,000  
+goll coin, $10,000 silver coin, and  
+about $1,5000,000 gold and silver  
+ontrol of the Assistant Treas  
+ e   
+bood tdriee.  
+aee ae e o e e   
+looks, handsome sboes often pine  
+  
+YOu.  
+ad  
+the man who taiks the most; for  
+la a ae tery tetom  
+a another&#x27;s power; if you put  
+they are very apt to bite. Drink  
+nothing wihout seeing it; sign noth-  
+ee e e e  
+g witont reading it and make  
+sure that il means no more than it  
+have nothing to lose; lawyers hous  
+are built on fools&#x27; heads. In any  
+where you canot see the bottom.  
+Fut no dependence upon the label  
+of a bag; and count money after  
+your kin. Sce the sack open before  
+you buy what is in it; for he who  
+los i the dael a to a   
+trades in the dark asks to be cleat-  
+ed. Keep clear of the man who  
+does not value his character. Be-  
+ware of him who swears; he who  
+  
+would blapsheme the Maker would  
+make no bones of lying or stealing.  
+self; we carry our worst enemies  
+with us. When a new opinion of a  
+doctrine comes before you, do not  
+bife till you know whether it is  
+bread or stone, and do not be sure  
+that gingerbread is good because of  
+b   t it Hniod.  
+till you are quite out of the woods,  
+and never cry friend fish till they  
+are caught in the net. There is  
+alwavs time enough to bonsl. wor  
+ longer Dont thow away  
+ longer ont trow away  
+vater till you have clean wa-  
+ eo o e  
+ vio e weev walt  
+a lititle  
+dirty water  
+er keep on scratching the roads  
+till you can get better work, for  
+the poorest pay is better than none  
+A&#x27;  
+and the humblest officer is better  
+than being out of employment. Al  
+ways give up the road to bulls and  
+ewe stmuirammeaw.  
+coal heaver, or contend wih a base  
+o ta e e  
+charaete, tor they will be surc to  
+a i ae
+</td></tr></table>
 
 ---
 
@@ -2431,6 +2756,36 @@ we carry onr worst enemies within u?
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84026840%2F00202192488%2F1869122001%2F0235.jp2/pct:79.273504,13.110450,15.933048,27.039209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _Clearfield Republican._
+
+#### 1869-12-22 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+tween the Mexicans and the Texans  
+Don&#x27;t be too fond of compliments.  
+Remember, &quot;thank you, pussy, and  
+thank you, pussy,&quot; killed the cat
+</td></tr></table>
+
+---
+
+## From _Clearfield Republican._
+
+#### 1869-12-22 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+When you see a man with a good  
+deal of religion displayed in his shop  
+window, you may depend upon it he  
+keeps a very small stock of it within
+</td></tr></table>
 
 ---
 
@@ -2739,67 +3094,6 @@ Do not choose your friend by his looks.
 
 ---
 
-## [From _The Plymouth Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84038005/1870-03-24/ed-1/seq-4)
-
-#### 1870-03-24 &middot; [Plymouth, Ind.](http://dbpedia.org/resource/Plymouth%2C_Indiana)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-One of the sages says: &quot;Don&#x27;t go to  
-law unless you have nothing to lose: law­  
-yers&#x27; houses are built on fools&#x27; heads.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_dillinger_ver02%2Fdata%2Fsn84038005%2F0020029581A%2F1870032401%2F0124.jp2/pct:26.169923,12.717324,11.029078,1.288501/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Dodgeville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033019/1870-03-25/ed-1/seq-4)
-
-#### 1870-03-25 &middot; [Dodgeville, Wis.](http://dbpedia.org/resource/Dodgeville%2C_Wisconsin)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-One of the sages says: “Don’t go to  
-law unless you have nothing to lose: law­  
-yers’ houses are built on fools’ heads.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_flobberworm_ver01%2Fdata%2Fsn85033019%2F0041421552A%2F1870032501%2F0682.jp2/pct:42.949699,32.582214,12.146720,1.412726/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Gallipolis journal._](https://chroniclingamerica.loc.gov/lccn/sn85038121/1870-04-28/ed-1/seq-1)
-
-#### 1870-04-28 &middot; [Gallipolis, Ohio](http://dbpedia.org/resource/Gallipolis%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-ally supply the family linen.  
-t-W One of the sages says: &quot;Don&#x27;t :  
-to law unless you have nothing to  
-lose; lawyer&#x27;s houses are built on fools&#x27; ,  
-heads.&quot; . : f  
-m m  
-tW Philosophers say that closing -1  
-eyes makes the sense of hearing-more  
-acute. A wag suggests that this :. i  
-accounts for the many eyes that close a  
-our churches on Sundays. .  
-ST Don&#x27;t depend upon your own :­  
-lungs alone; use the lungs of the Press. 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn85038121%2F00280775356%2F1870042801%2F0064.jp2/pct:83.484979,77.238417,11.656652,7.652264/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn85033386/1870-05-13/ed-1/seq-4)
 
 #### 1870-05-13 &middot; [Columbia, Tenn.](http://dbpedia.org/resource/Columbia%2C_Tennessee)
@@ -2985,24 +3279,6 @@ sure to blacken you.?Rev. G. H. Spurgeon
 
 ---
 
-## [From _Raftsman's journal._](https://chroniclingamerica.loc.gov/lccn/sn85054616/1870-06-22/ed-1/seq-1)
-
-#### 1870-06-22 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-of time be aunexed to the United States.  
-One of the sages says : Don&#x27;t go to law  
-unless you have nothing to lose : Lawyers&#x27;  
-houses are built on fools&#x27; heads.&quot;
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477825%2F1870062201%2F0399.jp2/pct:30.281083,93.621749,12.847043,2.783950/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028821/1870-10-13/ed-1/seq-1)
 
 #### 1870-10-13 &middot; [Millersburg, Holmes Co., O. [Ohio]](http://dbpedia.org/resource/Millersburg%2C_Ohio)
@@ -3163,50 +3439,60 @@ ter, for thoy will bo sure to blackcu you
 
 ---
 
-## [From _The Plymouth Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84038005/1870-11-10/ed-1/seq-1)
+## From _The Plymouth Democrat._
 
 #### 1870-11-10 &middot; [Plymouth, Ind.](http://dbpedia.org/resource/Plymouth%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-N&#x27;oi&#x27;.ohy is more like an hOsstMl man  
-than a t In UtNtgh rogue.  
-When you see a man with a etest desl of  
-religion displayed in his -hop window,  
-you ma depend upon it he keeps a eery  
+Nonopy is more like an honest man  
+than a thorough rogue.  
+When you see a man with a great deal of  
+religion displayed in his shop window,  
+you may depend upon it he keeps a very  
 small stock of it within.  
-Ho not choose your friend tv hi&quot; look  
-handsome slue: often pinch the feet  
-Ho not be fond of compliments ; re mem  
-!er &quot;thank VOU, pUMJ, aswj thank JTOU,  
-itiv-y.&#x27;&#x27; kill Ine cat  
-IVw&#x27;t believe the man who talk the  
-ino-t, for me wing cats am wry sesdeaa  
-good mouaers  
-By no mean put veajraalf in another  
+Do not choose your friend by his look  
+handsome shoes often pinch the feet  
+Do not be fond of compliments; remem  
+ber &quot;thank you, pussy, and thank you,  
+oussy, kill the cat  
+Don&#x27;t believe the man who talks the  
+most, for mewing cats are very seldom  
+good mousers  
+By no means put yourself in another  
 person&#x27;s power; if you put your thumb  
-between two grindera, thcv arc very apt to  
+between two grinders, they are very apt to  
 bite.  
-Prink nothing without seeing it; sign  
-nothing Without teadnsg it ; and make sure  
-that it in ans no more than it sswa  
-Don&#x27;t goto law unleea yon hare noth  
-ing to lose; lawyer&#x27;s Imitats are built oi  
-fio!s&quot; heads.  
-I &#x27;ut no dependence on tin label of a bag .  
-and count money after your ow n kind  
-In any Imsinesa never wade into wijat  
-1 Iu re yon i annot see t he bottom  
-See the a k Op-n Iwfore von buv wlut  
-hi in it ; for he w ho trade in the du; k ,ik-  
-to be t boated  
-Keep clear of a BUM w ho noea lot valtM  
-hi- ow n ehiiwets
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_dillinger_ver02%2Fdata%2Fsn84038005%2F0020029581A%2F1870111001%2F0269.jp2/pct:73.141004,80.997748,10.969473,14.178070/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Drink nothing without seeing it; sign  
+nothing without reading it; and make sure  
+that it means no more than it says  
+Don&#x27;t go to law unless you have noth  
+ing to lose; lawyer&#x27;s houses are built on  
+fools&#x27; heads.  
+Put no dependence on the label of a bag,  
+and count money after your own kin
+</td></tr></table>
+
+---
+
+## From _The Plymouth Democrat._
+
+#### 1870-11-10 &middot; [Plymouth, Ind.](http://dbpedia.org/resource/Plymouth%2C_Indiana)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+In any business never wade into water  
+where you cannot see the bottom  
+See the sack open before you buy what  
+is in it; for he who trades in the dark asks  
+to be cheated  
+Keep clear of a man who does not value  
+his own character  
+s  
+To CUT WHALEBONE EAsILY. Hold i
+</td></tr></table>
 
 ---
 
@@ -3447,64 +3733,69 @@ value his own character.
 
 ---
 
-## [From _Democratic enquirer._](https://chroniclingamerica.loc.gov/lccn/sn86079037/1870-12-21/ed-1/seq-1)
+## From _Democratic enquirer._
 
 #### 1870-12-21 &middot; [M'arthur, Vinton County, Ohio](http://dbpedia.org/resource/McArthur%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Spurgeon&#x27;s Advice Gratis.  
   
-Nobody is more like at  
-houest man than a thorough  
+Nobody is more like an  
+honest man than a thorough  
 rogue.  
-When you see a mm with a  
+When you see a man with a  
 great deal of religion displayed  
 in his shop window, you may  
 depend upon it he keeps a  
-very sinal stock of it within.  
+very smal stock of it within.  
 Do not choose your friend  
 by his looks: handsome shoes­  
 often pinch the feet.  
 Do not be fond of compli­  
 ments; remember &quot;thank you,  
-nnsy, and thank you pussy,&quot;  
+pussy, and thank you pussy,&quot;  
 killed the cat.  
-Don&#x27;t bclivo the man who  
+Don&#x27;t belive the man who  
 talks the most, for mewing  
 cats are very seldom good  
 mousers.  
-Dy no means put yourself in  
-another person&#x27;s power; if your  
+By no means put yourself in  
+another person&#x27;s power; if you  
 put your thumb between two  
-grinders, they are very apt to.  
+grinders, they are very apt to  
 bite.  
 Drink nothing without see­  
 ing it; sign nothing without  
 reading it; and make sure that  
 it means no more than it says.  
 Don&#x27;t go to law unless you  
-have nothing to lose; lawyers&#x27;  
+have nothing to lose, lawyers&#x27;  
 houses are built on fools&#x27; heads.  
 Put no dependence on the  
 label of a bag, and count mon­  
-ey after your own kind.  
+ey after your own kind
+</td></tr></table>
+
+---
+
+## From _Democratic enquirer._
+
+#### 1870-12-21 &middot; [M'arthur, Vinton County, Ohio](http://dbpedia.org/resource/McArthur%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
 In any business never wade  
 into water where you cannot  
 see the bottom.  
-See the sack open before yors  
-buy what is in it; for he who&#x27;  
+See the sack open before you  
+buy what is in it; for he who  
 trades in the dark asks to be  
 cheated.  
 Keep clear of a man who  
-does not valne his owncharacter.  
-  
-The Tariff on Plows.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn86079037%2F00280774893%2F1870122101%2F0409.jp2/pct:79.721305,13.783220,12.486249,35.474205/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+does not value his own cha
+</td></tr></table>
 
 ---
 
@@ -3715,21 +4006,8 @@ ing to lose ; lawyer&#x27;s houses are built on
 fool&#x27;s hemla.  
   
 Put no dependance on the btbie of a  
-bag, and oonnt money after your ow
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn85054524%2F00296028721%2F1871010601%2F0003.jp2/pct:22.507566,48.743834,10.194553,19.461596/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Centre Hall reporter._](https://chroniclingamerica.loc.gov/lccn/sn85054524/1871-01-06/ed-1/seq-1)
-
-#### 1871-01-06 &middot; [Centre Hall, Pa.](http://dbpedia.org/resource/Centre_Hall%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+bag, and oonnt money after your own  
+kind.  
   
 In any business never wade into water  
 where yon cannot sec the Iwttom.  
@@ -3739,7 +4017,7 @@ dark asks to be cheated.
 Keep clear of a man who does not  
 value his own character.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn85054524%2F00296028721%2F1871010601%2F0003.jp2/pct:22.568093,68.590937,10.095115,2.904375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn85054524%2F00296028721%2F1871010601%2F0003.jp2/pct:22.507566,48.743834,10.194553,22.751478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3846,16 +4124,6 @@ hit awn character
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_fullmoon_ver01%2Fdata%2Fsn84022991%2F00513688076%2F1871011001%2F0348.jp2/pct:31.540342,79.783117,13.271895,17.985061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## Wise and Witty
-
-#### From _Daily evening bulletin._
-
-#### 1871-01-14 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -4016,6 +4284,35 @@ value his own character.
 
 ---
 
+## From _The Sweetwater enterprise._
+
+#### 1871-01-19 &middot; [Sweetwater, Tenn.](http://dbpedia.org/resource/Sweetwater%2C_Tennessee)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+change their mindoften never get a good  
+I halmomtainet tinl bunii) ad?  
+one.  
+He that covereth a transgression pro-  
+cureth love, but he that repeateth a mat­  
+ter separateth very friends,ad banol  
+ t hionge eollas haz hoo a  
+If you have been tempted to evil, fly  
+from it; it is not falling into the water,  
+but lying in it, that drowns.   
+One-half of the children of England do  
+not go to school Thirty per cent of the  
+English army can not read or write. to  
+Hare the courage to wear your old  
+elothes until you can pay for new ones.  
+Occasional praise is wholesome as well  
+as agreeable, I torlssow whvol had o?  
+Do not choose your friend by his looks;  
+handsome shoes often pinch the feet
+</td></tr></table>
+
+---
+
 ## [From _Herald and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033429/1871-01-19/ed-1/seq-1)
 
 #### 1871-01-19 &middot; [Jonesborough, Tenn.](http://dbpedia.org/resource/Jonesborough%2C_Tennessee)
@@ -4048,7 +4345,21 @@ that it means no more &quot;than It says&#x27;. &#x27; &#x27; &#x27;
 to Jose; lawyer1 houses are built on fool&#x27;s  
 beads. , ) , , . ,, ...,f, , y.  
 . Put no dependence on the label of a bajf  
-and count money after your own kind.&#x27; ,  
+and count money after your own kind.&#x27; 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033429%2F00280779313%2F1871011901%2F0095.jp2/pct:85.577313,15.374732,11.181634,12.955032/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Herald and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033429/1871-01-19/ed-1/seq-1)
+
+#### 1871-01-19 &middot; [Jonesborough, Tenn.](http://dbpedia.org/resource/Jonesborough%2C_Tennessee)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
 In any business never wade into water  
 where you cannot sea the bottom. . ;  
 Bee&#x27; the sack open before you buy what  
@@ -4064,7 +4375,7 @@ during 1870, furnishes the, following in­
 teresting . atatlstica t Bishops 8 ; Mftual  
 conferences. 72 traveling preachera 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033429%2F00280779313%2F1871011901%2F0095.jp2/pct:85.550304,15.374732,11.208643,20.267666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033429%2F00280779313%2F1871011901%2F0095.jp2/pct:85.550304,28.308351,11.154625,7.334047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4127,9 +4438,12 @@ See the sack open before you buy what
 is in it; for he who trades in the dark  
 asks to be cheated.  
 Keep clear of a man who does not  
-value his own character
+value his own character.  
+Gems of Thought.  
+Marrage is a desperate thing.—Selden.  
+If yon would
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340652%2F1871012001%2F0015.jp2/pct:51.207729,54.563178,11.018519,25.773730/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340652%2F1871012001%2F0015.jp2/pct:51.207729,54.563178,11.018519,28.088827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4151,23 +4465,7 @@ value his own character
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-to each othor&#x27;aarms.&quot;  
-A marriage certificate was procured  
-without delay, and within ten days of  
-the time when the decree of divorce was  
-signed, the wife and ex-husband had re-  
-nlitfhted their troth at the altar, and two  
-of the happiest mortals in the whole city  
-celebrated their second marriage.  
-Mr. Feebler, of the Globe, Theater.  
-Boston, gave the net receipts) of his ben  
-efit, amounting to ?o-l, to charities.  
-dividing t :SU00 among twelve of the most.  
-deserving institutions in iioslon, and re-  
-3uestiog that the balance be given to the  
-ramatic fund, if any such exist in that  
-city- las  
-&quot;7 rr i &#x27;  
+  
 In any business never wade into water  
 where you cannot see the bottom. Put  
 no dependence upon the label of a bag.  
@@ -4176,7 +4474,7 @@ it. See the sack opened before yon buy
 what is in it, for he who trades in the  
 dark askt to be cheated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779398%2F1871012501%2F0076.jp2/pct:42.137343,83.544126,12.474604,11.790332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779398%2F1871012501%2F0076.jp2/pct:42.177976,92.158516,12.291751,3.175942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4227,9 +4525,11 @@ u&#x27;l
   
 water where you cannot .see the  
 torn.  
-Bee the sack open before you buy w
+Bee the sack open before you buy wl  
+  
+for he who Uadea in the dar%^
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_flareon_ver02%2Fdata%2Fsn84027183%2F00279528979%2F1871012601%2F0624.jp2/pct:78.672194,74.594678,15.414291,12.535878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_flareon_ver02%2Fdata%2Fsn84027183%2F00279528979%2F1871012601%2F0624.jp2/pct:78.672194,74.594678,15.414291,12.985804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4370,26 +4670,16 @@ bag, and, count money after your
 own aiiiu.  
 &quot;In any business never wade into  
 the water where you cannot see the  
-bottom.
+bottom.&quot;  
+A Tocon Story. There is a place  
+in Maine so rocky mat wnen the na  
+tives plant corn they look for crevices  
+in tne rocks, ana snoot tne grains in  
+with a musket; they can&#x27;t raise ducks  
+mere no now, ior the stones are so  
+thick the ducks can&#x27;t get their bill
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286947%2F1871021501%2F0137.jp2/pct:56.005375,18.241309,9.541408,7.266530/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1871-02-17/ed-1/seq-6)
-
-#### 1871-02-17 &middot; [Paw Paw, Mich.](http://dbpedia.org/resource/Paw_Paw%2C_Michigan)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Generalities.  
-In any business never wade into tho  
-water where you cannot see the bottom
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_evart_ver01%2Fdata%2Fsn85033781%2F00296023735%2F1871021701%2F0267.jp2/pct:80.889684,10.770933,13.524223,1.835116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286947%2F1871021501%2F0137.jp2/pct:56.005375,18.241309,9.541408,10.647580/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4490,16 +4780,6 @@ water where you cannot see the bot
 
 ---
 
-## Quips and Cranks
-
-#### From _The Cleveland morning herald._
-
-#### 1871-03-04 &middot; [Cleveland, Ohio](http://dbpedia.org/resource/Cleveland)
-
-[This text is not available under an open license.]
-
----
-
 ## [From _The Daily telegraph._](https://chroniclingamerica.loc.gov/lccn/sn88064499/1871-03-08/ed-1/seq-2)
 
 #### 1871-03-08 &middot; [Monroe, La.](http://dbpedia.org/resource/Monroe%2C_Louisiana)
@@ -4594,44 +4874,58 @@ not value his own character Aye.
 
 ---
 
-## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1871-03-15/ed-1/seq-1)
+## From _Clearfield Republican._
 
 #### 1871-03-15 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+SpergEoN&#x27;s Advice GrAtis--No  
   
-Don t believo tho man w ho talks  
+body is more like an honest man than  
+a thorough rogne.  
+When you see a man with a great  
+deal of religion displayed in his win  
   
-most; for mewing cats are very sel  
+dow, you may depend upon it he keeps  
+a very small stock within.  
+o o oo e o eee  e   
   
-dom good monsors. , . . ,i.iil .i.;, -,,v ,nJ ... v,. &#x27; .
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477850%2F1871031501%2F1065.jp2/pct:61.159362,79.976935,34.801050,1.528038/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+bo not hoose your a o o a i oi in te  o o  
+o ao o oen io o oe e  
+  
+the feet.  
+Do not be fond of compliments; re­  
+member that &quot;thank you, pussy, and  
+  
+thank you, pussy,&quot; killed the cat.
+</td></tr></table>
 
 ---
 
-## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1871-03-15/ed-1/seq-1)
+## From _Clearfield Republican._
 
 #### 1871-03-15 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-In any business don&#x27;t wado into wa­  
-ter w here yon connot see the bottom.  
-Sec Ihe suck open before you buy  
-what is in il ; for he w ho trades in the  
+The Dominican navy is and has been! where else, disgusts white men,  
+  
+nothing to lose; lawyer&#x27;s houses are  
+built on fools&#x27; heads.  
+Pat no dependence on the label of a  
+bag; and count money after your own  
+kind.  
+In any business don&#x27;t wade into wa­  
+ter where you cannot see the bottom.  
+See the sack open before you buy  
+what is in it; for he who trades in the  
 dark asks to be cheated.  
-Keep clear of a man that doe not  
-valuo his own rlinrnctcr
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477850%2F1871031501%2F1065.jp2/pct:61.341143,88.309067,11.310846,3.387632/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Keep clear of a man that does not  
+value his own character
+</td></tr></table>
 
 ---
 
@@ -4887,75 +5181,78 @@ sure that it means no more than it says
 
 ---
 
-## [From _The Jasper weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn84023963/1871-03-31/ed-1/seq-4)
+## From _The Jasper weekly courier._
 
 #### 1871-03-31 &middot; [Jasper, Ind.](http://dbpedia.org/resource/Jasper%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ever  
+lost.  
+Some of our choicest blessings have  
+to be forced upon tss.  
+A man cannot leave a better legicy  
+to the  
+world than a well educated fimily.  
+Not&#x27; Ig is troublesome that we wii  
+o t o ee oe e e  
+de willingly.  
+Itinciple, in the long run, triumphs  
+over policy; therefore, principle is the  
+AY  
+Lef policy.  
+The merits of our actions consist not  
+in doing extraordinary actions, but in  
+doing ordinary actions well.  
+There cannot be greater treachery than  
+first to raise a confidence and then de  
+ceive it.  
+To do right and trust (iad for con  
+quences, is the greatest bravery and the  
   
-Nobody is more like an lionc st mail  
-than a thurougli lOgMa.  
-When yuu see a man with n great deal  
-of religio displayed in lux window voui  
-may depend upon it lie keeps a verv  
-Miian siock within.  
-I&#x27;O UOt C I lOOse OUT friend bv his  
-l.wiL. liimlaoH. -V . - .. ..s.. &quot;i .1  
-umiks. nanaaouc alioei often pinch the  
-lll&#x27;t.  
-iro not lie fund atf f ! In mm-1  
-iiiemoer uiai &quot;thank oii. pussy.  
-Ihiink you iiu-v.&quot; killed the est. &#x27;  
-.1 ....  
-&#x27;  
-aild  
-I Ion&#x27; laaftaMaatla. I .n . . &#x27;  
-&quot; &quot; &quot; w.i.v ti.v aaat.ii i v liHK- llif  
-IllOst  
-lor mewing cut arc seldom good  
-mouse rs.  
+SpurgEON AdvicE GrAtIs.  
+Nobody is more like an hone st man  
+than a thorough rogue.  
+When you see a man with a great deal  
+of religion displayed in his window you  
+may depend upon it he keeps a very  
+SMAll STOCK WiThin.  
+Do not choose your friend by his  
+lookg e handsosle stanas ofton us, I  
+looks; handsome shoes often pinch the  
+sect.  
+Do not be fond of comnliments; res  
+member that &quot;thank you, pussy,  
+thank you pussy&quot; kled the cat  
+aAa  
+.  
+and  
+Doss&#x27;t beilave the soan ssd o tolte the  
+es  esan vw a shsadss w  teas 1  
+iost  
+for mewing cats are seldom good  
+ssiolisers.  
 By no means put yourself in another  
-person&#x27;s power: if you put your thumb  
-tetweoa two grinders the are Tery apt  
+person&#x27;s power; if you put your thumb  
+between two grinders they are very apt  
 to bite.  
-Drink nothing without seeing it ; sigu  
-WOtaltag without realiiig it. and make  
-SUrS that it means uo more than it says.  
-Don&#x27;t go to law unless youliarc noth­  
-i.ig to lose; lawyer&#x27;s houses are built on  
-fe&#x27;a head&quot;.  
-Put no dependence on the label or a  
-bag: and count moiiev after vour own  
+brink nothing without seeing it; sign  
+nothing without reading it, and make  
+sure that it means no more than it says.  
+Don&#x27;t go to law unless you have noth­  
+ing to lose; lawyer&#x27;s houses are built on  
+foor&#x27;s heads.  
+Put no dependence on the label of a  
+bag; and count money after your own  
 kind.  
-in any busiuess don&#x27;t wade iut w ater  
+In any business don&#x27;t wade into water  
 where you cannot see the bottom.  
-See the sack open before you bu v what  
-is lu it: for he who trades in the dark  
+See the sack open before you buy what  
+is in it; for he who trades in the dark  
 asks to be cheated.  
-Keep clear of a innn that does not val­  
-ue his own character. The Aje
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_bird_ver02%2Fdata%2Fsn84023963%2F00200295924%2F1871033101%2F0837.jp2/pct:4.837618,35.494450,14.732747,19.248234/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Tri-weekly Kentucky yeoman._](https://archive.org/details/xt71jw86ks3d/page/n0/mode/1up?view=theater)
-
-#### 1871-04-15 &middot; [Frankfort, Ky.](http://dbpedia.org/resource/Frankfort%2C_Kentucky)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-JrafDo not choose your friend by his looks ;  
-handsome shoes often pinch the feet.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/xt71jw86ks3d&#0036;0/pct:22.176759,12.104231,13.932079,0.910619/600,/0/default.jpg"/>
-</td>
-</tr></table>
+Keep clear of a man that does not val­  
+ue his own character. THE Are
+</td></tr></table>
 
 ---
 
@@ -5008,9 +5305,14 @@ and count the money after your twn kiu.
 In any business never wade In the water  
 where you cannot see the bottom, :. ;  
 &#x27; Keep clear of a man who does not value  
-his own character. - &#x27; ;
+his own character. - &#x27; ;,  
+. .. . J &#x27; !  
+-,, - A. Recipe for Happiness. -: .r- &#x27;.  
+It is simply when you rise in the morn­  
+ing to form the resolution to make the day  
+a happy &#x27;ne to a fellow-creature. &#x27; It i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_grady_ver01%2Fdata%2Fsn85033437%2F00200293708%2F1871041601%2F0383.jp2/pct:32.856089,18.082627,14.568266,19.735169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_grady_ver01%2Fdata%2Fsn85033437%2F00200293708%2F1871041601%2F0383.jp2/pct:32.856089,18.082627,14.568266,21.800847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5032,6 +5334,27 @@ The Directors of the Washington Lif
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn85038238%2F00296028812%2F1871042001%2F0160.jp2/pct:29.253825,11.744966,10.552607,2.187422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _Spirit of the age._
+
+#### 1871-04-20 &middot; [Woodstock, Vt.](http://dbpedia.org/resource/Woodstock%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+other day: &quot;I shall miss her; she was  
+a very expensive woman.&quot;  
+Cood Counsel- In any business,  
+never wade into water where you can­  
+not see the bottom. Put no dependence  
+upon the label of a bag; and count  
+moncy before you receipt for it. See  
+the sack opened before you buy what is  
+in it; for he who trades in the dark  
+asks to be cheated
+</td></tr></table>
 
 ---
 
@@ -5143,11 +5466,9 @@ Put no dependence on the label of a
 bag, and count the money after your  
 own kin.  
 In any business never wade in the wa­  
-ter where you cannot see the bottom.  
-Keep clear of a man who does not val­  
-ue his own character
+ter where you cannot see the bottom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84026840%2F00202192488%2F1871042401%2F0503.jp2/pct:62.481078,60.088649,15.561611,13.490075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84026840%2F00202192488%2F1871042401%2F0503.jp2/pct:62.481078,60.088649,15.561611,12.487955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5332,11 +5653,21 @@ religion displayed in his shop window, you
 may d epud upOn it he keeps a very small  
 stock ot .IthIn.  
 Do not your friend by his looks;  
-lbandsomuehoes often pinch the feet.  
-Drink_ nothing wi.Eont seeing it; sign  
-bin on dt It; and make sure  
-tatit mens no more tan it says.  
-Don&#x27;t go to law ualess you have nothing  
+lbandsomuehoes often pinch the feet
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F00212475087%2F1871050602%2F0445.jp2/pct:27.569797,72.582253,12.404822,3.576770/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1871-05-06/ed-2/seq-3)
+
+#### 1871-05-06 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
 to lose; lawyers&#x27; houses are built on tbols&#x27;  
 Put no dependence on the label of a&#x27;bag,  
 and count money after your own kind.  
@@ -5354,80 +5685,56 @@ Hold on ta your hand when about to strike,
 piatch.,st or doan improper act.  
 Hold On to your foot when you are on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F00212475087%2F1871050602%2F0445.jp2/pct:27.553934,72.582253,12.515863,13.197906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F00212475087%2F1871050602%2F0445.jp2/pct:27.553934,78.003490,12.515863,7.776670/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The morning star and Catholic messenger._](https://chroniclingamerica.loc.gov/lccn/sn86086284/1871-05-21/ed-1/seq-7)
-
-#### 1871-05-21 &middot; [New Orleans [La.]](http://dbpedia.org/resource/New_Orleans)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-An old baebhelor compares life to a shirt­  
-botton, because it so often hangs by a  
-thread.  
-Don&#x27;t go to law unless you have nothing  
-to loose; lawyers&#x27; houses are built on fools&#x27;  
-heads.  
-Is a &quot;grass widow&#x27;s&quot; husband a &quot;roving  
-blade 5&quot; If so, should the widow put on  
-weeds 9&quot;  
-A doctor was asked to dance the lancers
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_Cypher_ver01%2Fdata%2Fsn86086284%2F00280761692%2F1871052101%2F0952.jp2/pct:1.257862,21.869402,14.884696,6.041361/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Democratic enquirer._](https://chroniclingamerica.loc.gov/lccn/sn86079037/1871-05-24/ed-1/seq-1)
+## From _Democratic enquirer._
 
 #### 1871-05-24 &middot; [M'arthur, Vinton County, Ohio](http://dbpedia.org/resource/McArthur%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-live  
+s may live  
 by Grant&#x27;s grants and thus ex­  
-emplify Grant&#x27;s .loyalty, that  
+emplify Grant&#x27;s loyalty, that  
 Grant&#x27;s grantees may sound  
-Grant&#x27;s granting praises bo­  
+Grant&#x27;s granting praises be­  
 fore Grant&#x27;s enemies and by  
 this means evince to a wicked  
 and perverse generation that  
-urant, by his grants, has en­  
+Grant, by his grants, has en­  
 deared Grant to Grant&#x27;s gran­  
 tees if to none of Grant&#x27;s grant­  
-less grantees. Amcu.  
+less grantees. Amen.  
   
-Stop your half from fafh&#x27;ft-rf oat  
-by using Halt&#x27;s Vegetable Sicilian  
-Katr Jlcnewer, a euro prevention.  
+Sror your hair from falling out  
+by using Hall&#x27;s Vegetable Sicilian  
+Hair Renewer, a sure prevention.  
   
 Good Advice.  
   
-Spurgeon sententious y ex­  
+Spurgeon sententiously ex­  
 presses a number of thoughts  
 &quot;worth remembering,&quot; in the  
 following appropriate sentences  
-which lie publishes as &quot;advice  
+which he publishes as &quot;advice  
 gratis:&quot;  
 Nobody is more like an hon­  
 est man than a thorough rogue.  
 When you see a man with a  
-great deal ot religion display­  
+great deal of religion display­  
 ed in his shop window, you  
 may depend upon it he keeps  
 a very small stock of it within  
 Do not choose your friend  
-by his looks ;&quot; handsome shoes  
+by his looks; handsome shoes  
 often pinch the feet.  
 Do not be too fond of com­  
-pliments ; remember &quot;Thank  
-you, pussy, and thank yon, pus  
+pliments; remember &quot;Thank  
+you, pussy, and thank you, pus  
 sy, kill the cat.  
 Dont believe the man who  
 talks the most, for mewing cats  
@@ -5438,53 +5745,45 @@ put your thumb between two
 grinders they are very apt to  
 bite.  
 Drink nothing without see  
-ing if, sign nothing without  
+ing it, sign nothing without  
 reading it, and make sure that  
 it means no more than it says.  
-Don&#x27;t ao to law unless yon  
+Don&#x27;t go to law unless you  
 have nothing to lose; lawyers  
-houses are built on tools&#x27; beads  
+houses are built on fools&#x27; heads  
 Put no dependence on the  
-label of a ba&quot; and count mon  
-ey after youi own kind.  
+label of a bag, and count mon  
+ey after your own kind.  
 In any business never wade  
 into water where you can not  
 see the bottom.  
-See the pack open before you  
+See the sack open before you  
 buy what is in it; for he who  
 trades in the dark asks to be  
 cheated.  
 Keep clear of a man who  
-does not value his owncharacter.  
-  
-A CRADLE SONG.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn86079037%2F00280774893%2F1871052401%2F0498.jp2/pct:31.732892,12.465914,24.466519,81.976367/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+does not value his own chara
+</td></tr></table>
 
 ---
 
-## [From _The Tipton advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84027398/1871-05-25/ed-1/seq-4)
+## From _The Tipton advertiser._
 
 #### 1871-05-25 &middot; [Tipton, Cedar Co., Iowa](http://dbpedia.org/resource/Tipton%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-tbe leaves are destroyed the frnit with  
-•rs aud fails off  
+the leaves are destroyed the frnit with  
+ers and falls off  
   
-Western Lund.  
+WeSterN FURGL.  
   
-When jou tee a man with a great  
-deal of religion displayed in Ins shop  
-window, you may depend upon it tt tip  
-keeps a very small stock within.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn84027398%2F00279529418%2F1871052501%2F1112.jp2/pct:3.078795,87.798867,11.182856,3.549621/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+When you see a man with a great  
+deal of religion displayed in his shop  
+window, you may depend upon it it he  
+keaps a very small stock within.
+</td></tr></table>
 
 ---
 
@@ -5612,38 +5911,92 @@ small stock within.
 
 ---
 
-## [From _The Holt County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034039/1871-07-21/ed-1/seq-4)
+## From _The Holt County sentinel._
 
 #### 1871-07-21 &middot; [Oregon, Missouri.](http://dbpedia.org/resource/Oregon%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ical experiences  
   
-Nobody is more llko nn honbst man  
+was worthy of a man of more so briety:  
+&quot;Anyhow, I was just as good when they  
+  
+turned me out as when they took  
+in.&quot;  
+  
+of all particulars, address  
+  
+A $ sasaely  
+  
+Birds&#x27; N.  
+  
+EY, BOCr S HINGHAM,  
+est Nurseries, Burlington, lowa.  
+  
+S&quot;)C A MONTH.  
+  
+Hred, Maine.  
+  
+Ioree and fauutea e  
+  
+nished. Expenses paid. I, $w  
+  
+le parer, seos war ti a a  
+  
+oes all at once. War ranted anticeta Trico 22.  
+  
+D. H. WHIMTEMOKE, Worcester, Mass.  
+  
+Goon Advice  
+Spurgeon sententiously expresses a  
+number of thoughts &quot;worth remember­  
+ing&quot; in the following appropriate sen­  
+tences, which he publishes as &quot;advice  
+gratis.&quot;  
+Nobody is more like an honest man  
 than a thorough rogue.  
-Wh6n you soo n man with n groat doal  
-of religion displayed In his shop window  
-you may depend upon it ho kcups a very  
-Kmnll stock of It within.  
+When you see a man with a great deal  
+of religion displayed in his shop window  
+you may depend upon it he keeps a very  
+small stock of ft within.  
   
-Do not chooso yoltr friend by liU&#x27;  
+Do not choose your friend by his  
   
-looks : handsome shoes often pinch tho  
+looks: handsome shoes often pinch the  
   
 feet.  
-l)i Ink nothing without seeing It, sign  
+Drink nothing without seeing it, sign  
   
-iiothltiif without, rcadiuif it. and make  
+nothing without reading it, and make  
   
-fiti to that It means no rnoro than it says.  
+sure that it means no more than it says.  
   
-Don&#x27;t go io law unless you nnvo notu­  
-tug to Iiiho ; lawyers&#x27; houses are built on  
-fools&#x27; heads
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559917%2F1871072101%2F0122.jp2/pct:33.069307,8.522420,12.187219,6.685575/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Don&#x27;t go to law unless you have noth­  
+ing to lose; lawyers&#x27; houses are built on  
+fools&#x27; heads.  
+Put no dependence on the label of a  
+bag, and count money after your own  
+kind.  
+In any business never wade into water  
+where you cannot see the bottom.  
+See the sack open before you buy  
+what is in it, for he who trades in the  
+dark asks to be cheated.  
+Keep clear of a man who does not val­  
+ue his own character.  
+Hold on to your tongue when you are  
+just ready to swear, lie or speak harshly,  
+or use an improper word.  
+Hold on to your hand when you are  
+about to strike, pinch, steal or do an  
+improper act!  
+Hold on to your foot when you are  
+on the point of kicking, running away  
+from study or pursuing the path of er­  
+ror, or shame, or crime.  
+Hold on to your temper when you
+</td></tr></table>
 
 ---
 
@@ -5707,27 +6060,6 @@ keeps a very small stock of it within
 
 ---
 
-## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1871-09-22/ed-1/seq-1)
-
-#### 1871-09-22 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-more they are condensed the deeper ther  
-burn. Southey.  
-When you seo a man with a good deal  
-of religion displayed in his shop window,  
-you may depend upon it he keep3 a very  
-small slock of it within.  
-HVe often omit the good wa might do i
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85033699%2F00200293447%2F1871092201%2F0285.jp2/pct:72.831612,92.994538,10.837842,3.953930/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## Condensed Wisdom
 
 #### From _Daily evening bulletin._
@@ -5780,16 +6112,6 @@ cheated. — . -? . -?. It is easier to
 inoreasd our wants, bo it ever so muoh,  
 than to reduce them, be it ever s
 </td></tr></table>
-
----
-
-## MISCELLANEA.
-
-#### From _Trewman's Exeter Flying Post_
-
-#### 1871-09-27 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -5861,7 +6183,7 @@ Keep clear of a man who does not
 
 ---
 
-## [From _Memphis daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn83045160/1871-10-01/ed-1/seq-2)
+## From _Memphis daily appeal._
 
 #### 1871-10-01 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
 
@@ -5869,18 +6191,15 @@ Keep clear of a man who does not
 
   
 and wound up, and set to true time.  
-When you see a man wuh a good  
+When you see a man with a good  
 deal of religion displayed in his shop  
 window, you may depend upon it he  
 keeps a very small stock of it within
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_bonnielou_ver01%2Fdata%2Fsn83045160%2F00200293022%2F1871100101%2F0373.jp2/pct:86.468843,15.273876,9.465875,2.059925/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
-## [From _The home journal._](https://chroniclingamerica.loc.gov/lccn/sn95068565/1871-10-05/ed-1/seq-2)
+## From _The home journal._
 
 #### 1871-10-05 &middot; [Winchester, Tenn.](http://dbpedia.org/resource/Winchester%2C_Tennessee)
 
@@ -5888,37 +6207,11 @@ keeps a very small stock of it within
 
   
   
-Win u y on see a man with a good  
+When you see a man with a good  
 deal of religion displayed in his shop  
 window, you may depend upon it he  
-keeps a ven small stock of it within.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn95068565%2F00280779155%2F1871100501%2F0165.jp2/pct:46.079224,86.191626,12.853678,2.106817/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1871-10-06/ed-1/seq-1)
-
-#### 1871-10-06 &middot; [Bolivar, Hardeman County, Tenn.](http://dbpedia.org/resource/Bolivar%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-true time.  
-When von see a man with a good  
-deal of religion displayed in his shop  
-window, you may depend upon it  
-he krops a very small slock of it  
-within.  
-The poverty of the poor man is the  
-least part of his misery. In all the  
-storms of fortune, it i the first on
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470119%2F1871100601%2F0395.jp2/pct:71.199470,40.830756,10.497018,4.341582/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+keeps a very small stock of it within.
+</td></tr></table>
 
 ---
 
@@ -5990,6 +6283,26 @@ mouscrs.—[Spur^eon,
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F00295876141%2F1871100701%2F0388.jp2/pct:17.357513,91.151284,12.370466,4.959562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _Macon beacon._
+
+#### 1871-10-07 &middot; [Macon, Miss.](http://dbpedia.org/resource/Macon%2C_Mississippi)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+true time.  
+When you see a man with a good  
+deal of religion displayed in his shop  
+window, you may depend upon it  
+he keeps a very small stock of it  
+within.  
+The poverty of the poor man is the  
+least part of his misery. In all the  
+storms of fortune, it is the first on
+</td></tr></table>
 
 ---
 
@@ -6138,75 +6451,89 @@ keeps a very small stock of it within
 
 ---
 
-## [From _The Tiffin tribune._](https://chroniclingamerica.loc.gov/lccn/sn87076794/1871-12-07/ed-1/seq-4)
+## From _The Tiffin tribune._
 
 #### 1871-12-07 &middot; [Tiffin, Ohio](http://dbpedia.org/resource/Tiffin%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Keeping One&#x27;s Eyes Open.  
+ epins onee te ores  
   
-j  
-Noliody in iiiorc like and hont-t  
-man than a thorough rogue. When !  
-lyonwjeaman with a great deal of  
-, religion displayed in his shop window, J  
-you may depend upon it lie k&quot;eps a j  
-very small rtock ol it within. Do not  
-choose your friends by his looks:;  
-handsome shoes often pinch the feet. ;  
-Don&#x27;t Ie fond of compliments: re-:  
-member &quot;Thank you, pussy,&quot; killed I  
-the cat. Don&#x27;t believe in the man j  
+  
+Nobody is more like and honest  
+man than a thorough rogue. When  
+you see a man with a great deal of  
+ religion displayed in his shop window,  
+you may depend upon it he keeps a  
+very small stock of it within. Do not  
+choose your friends by his looks;  
+handsome shoes often pinch the feet.  
+Don&#x27;t be fond of compliments; re  
+member &quot;Thank you, pussy,&quot; killed  
+the cat. Don&#x27;t believe in the man  
 that talks most, for mewing cats are  
-very seldom good mousers. JJy no  
-means put yourself iu another persons !  
-power; if you put your thumb be- j  
-tween two grinders, they are very apt j  
-to bite. Drink nothing without seeing !  
+very seldom good mousers. By no  
+means put yourself in another persons  
+power; if you put your thumb be  
+tween two grinders, they are very apt  
+to bite. Drink nothing without seeing  
 it; sign nothing without reading it,  
 and make sure that it means no more  
 than it says. Don&#x27;t go to law unless  
-you have nouiinjji&#x27;T. injur­  
-es are built on fools&#x27; head. In any  
+you have nothing lose, la wyeranous­  
+es are built on fools&#x27; heads. In any  
 business, never wade into water where  
-yon can not see the bottom. Put no  
-dependence upon the label of a bar?,  
-and count money after your kin. Hee  
-ti.o .Act onen before vou huv what is  
-in it, for he who traies in the dark I  
-aks to be cheated. Keep clear of the j  
-mai who does not value his own 1  
-character. Re ware of every one who  
-suears, he who would blaspheme liis :  
-Maker, would make no bones of lying !  
-or stealing. lieware of no man more &#x27;  
-than of yourself ; we carry our worst j  
-enemies within us. When a new i  
+you can not see the bottom. Put no  
+dependence upon the label of a bag,  
+and count money after your kin. See  
+the sack open before you buy what is  
+in it, for he who trades in the dark  
+asks to be cheated. Keep clear of the  
+man who does not value his own  
+character. Beware of every one who  
+swears, he who would blaspheme his  
+Maker, would make no bones of lying  
+or stealing. Beware of no man more  
+than of yourself; we carry our worst  
+enemies within us. When a new  
 opinion or doctrine comes before you,  
 do not bite till you know whether it is  
-bread or stone f and do not be sure that  
-the gingerbread js good ln-cause of the  
-gilt on iL .Never shout halloa! till j  
-you are mute out of the wood, and :  
-don&#x27;t cry fried fish till they are caught i  
-in the net. There&#x27;s always time i  
-enough to boast wait a little longer, j  
-lon&#x27;t throw away dirty water till you i  
-have got clean. Keep on at scraping!  
-the road till you can get lietter work, j  
-for the poorest pay is better than nonej  
-and the humblest office is lietter than &#x27;  
+bread or stone; and do not be sure that  
+the gingerbread is good because of the  
+gilt on it. Never shout halloa! till  
+you are quite out of the wood, and  
+don&#x27;t cry fried fish till they are caught  
+in the net. There&#x27;s always time  
+enough to boast--wait a little longer.  
+Don&#x27;t throw away dirty water till you  
+have got clean. Keep on at scraping  
+the road till you can get better work,  
+for the poorest pay is better than none.  
+and the humblest office is better than  
 being out of employment. Always  
 give up the road to bulls and madmen;  
 and never fight with a coalheaver or  
-contend with a base character,for they  
-will lie sure to blacken you.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn87076794%2F00280775125%2F1871120701%2F0304.jp2/pct:13.286813,3.205959,9.569923,20.930484/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+contend with a base character, for they  
+will be sure to blacken you.
+</td></tr></table>
+
+---
+
+## From _The Iowa plain dealer._
+
+#### 1871-12-08 &middot; [New Oregon, Howard County, Iowa](http://dbpedia.org/resource/Cresco%2C_Iowa)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+When you see a man with a good  
+deal of religion displayed in his shop-­  
+window, you may depend upon it he  
+keeps a very small stock of it with­  
+in-
+</td></tr></table>
 
 ---
 
@@ -6228,12 +6555,9 @@ thumbs between t.vo &#x27;grindery tliey are
 very apt to bite.  
 Put no dependence on a label f a  
 lag, and count money after. your own  
-kind.&quot;; :-:. --&quot; - -&#x27; -  
-In any business never wade in the  
-water where you cannot see the bot­  
-tom, i &quot; -f&quot;.
+kind.&quot;; :-:. --&quot; - -&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn84022643%2F00416152615%2F1871120901%2F0677.jp2/pct:40.728477,83.913489,13.410596,8.535961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_quartz_ver02%2Fdata%2Fsn84022643%2F00416152615%2F1871120901%2F0677.jp2/pct:40.728477,83.913489,13.410596,6.654722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6290,13 +6614,9 @@ Put on dependence on the label of a bag,
 and count money after your own kind.  
 In any business never wade into water  
 where you cannot see the bottom.  
-See the sack open before you buy what  
-» is m*Tt; for he who trades&#x27;in t&#x27;ao dark asks  
-i to be cheated.  
-Keep clear of a man who does not value  
-his own character
+See the sack open before you buy wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_otters_ver02%2Fdata%2Fsn89053987%2F00414184418%2F1871121301%2F0143.jp2/pct:68.457888,46.533885,12.684856,30.499511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_otters_ver02%2Fdata%2Fsn89053987%2F00414184418%2F1871121301%2F0143.jp2/pct:68.766311,46.533885,12.317121,28.093924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6339,16 +6659,6 @@ within
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_annapolis_ver01%2Fdata%2Fsn85025350%2F00415627610%2F1872010601%2F0071.jp2/pct:80.879417,55.624928,11.978439,2.859675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## Grains of Gold
-
-#### From _Daily evening bulletin._
-
-#### 1872-02-03 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -6576,7 +6886,7 @@ his own character
 
 ---
 
-## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1872-04-27/ed-1/seq-2)
+## From _Gold Hill daily news._
 
 #### 1872-04-27 &middot; [Gold Hill, N.T. [Nev.]](http://dbpedia.org/resource/Gold_Hill%2C_Nevada)
 
@@ -6584,14 +6894,41 @@ his own character
 
   
 ance about the first of May.  
-Whkn you aee a man with a good  
-deal of religion displayed In his shop  
-window, you may depend upon It he  
-keep· «very small stock of it within.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_osceola_ver01%2Fdata%2Fsn84022046%2F00279555211%2F1872042701%2F0404.jp2/pct:9.161169,91.375587,11.597549,2.708624/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+When you see a man with a good  
+deal of roligion displayed in his shop  
+window, you may depend upon it he  
+keeps a very small stock of it within.
+</td></tr></table>
+
+---
+
+## From _St. Johnsbury Caledonian._
+
+#### 1872-06-14 &middot; [St. Johnsbury, Vt.](http://dbpedia.org/resource/St._Johnsbury%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Good Maxims.  
+Drink nothing without seeing it;  
+sign nothing without reading it; and  
+make sure that it means no more than  
+it says.  
+Don&#x27;t go to law unless you have noth­  
+ing to lose; lawyers&#x27; houses are built  
+on fools&#x27; heads.  
+Put no dependence on the label of a  
+bag, and count money after your own  
+kind.  
+In any business, never wade into  
+water where you cannot see the bottom.  
+See the sack open before you buy  
+what is in it, for he who trades in the  
+dark asks to be cheated.  
+Keep clear of a man who does not  
+value his own character.  
+Value the friendship of him wh
+</td></tr></table>
 
 ---
 
@@ -6602,7 +6939,6 @@ keep· «very small stock of it within.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Virtue pardons the wicked, as tbe  
 sandal tree perfumes the axe which  
 strikes it.  
 Don&#x27;t go to law unless you have  
@@ -6618,7 +6954,7 @@ what is in it, for he who trades in
 dark aska to be cheated.  
 In conversation, a wise man ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286856%2F1872061901%2F0204.jp2/pct:54.885816,39.843850,9.383253,7.602713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237286856%2F1872061901%2F0204.jp2/pct:54.885816,40.266223,9.383253,7.180340/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6703,6 +7039,25 @@ sure te&quot;&#x27;
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_mastiff_ver01%2Fdata%2Fsn83045462%2F00280654383%2F1872073101%2F0108.jp2/pct:57.561658,93.037113,13.511878,1.770514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The Holt County sentinel._
+
+#### 1872-08-02 &middot; [Oregon, Missouri.](http://dbpedia.org/resource/Oregon%2C_Missouri)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+adulterating white sugar.  
+When you see a man with a great deal  
+  
+of religion displayed in his shop window,  
+  
+ou may depend upon it he keeps a very  
+small stock of it within.
+</td></tr></table>
 
 ---
 
@@ -6887,36 +7242,28 @@ blacken yow-SpurgooT
 
 ---
 
-## [From _The Vinton record._](https://chroniclingamerica.loc.gov/lccn/sn85038222/1872-09-19/ed-1/seq-4)
+## From _The Vinton record._
 
 #### 1872-09-19 &middot; [M'arthur, Vinton County, Ohio](http://dbpedia.org/resource/McArthur%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-same sort stolen.&quot;  
-Air editor and his wife were  
-walking out in the bright moon  
-light one evening. Like all ed  
-itor&#x27;s wives she was of an ex­  
 ceedingly poetic nature, and  
 said to her mate, &quot;Notice that  
 moon; how bright and calm  
-and beautilnl!&quot; &quot;Couldn&#x27;t think  
+and beautilul!&quot; &quot;Couldn&#x27;t think  
 of noticing it,&quot; returned the  
-editor, afor less than the usual  
-iates$1.50 for twelve lines.  
-IS any business never wade  
-into water where yon can not  
+editor, &quot;for less than the usual  
+rates--$1.50 for twelve lines.  
+In any business never wade  
+into water where you can not  
 see bottom.  
 See the sack open before you  
-bay what is in it, for he who  
+buy what is in it, for he who  
 trades in the dark asks to be  
-cheated. 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn85038222%2F00280774911%2F1872091901%2F0370.jp2/pct:5.075529,72.668024,12.145015,14.799728/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+cheated
+</td></tr></table>
 
 ---
 
@@ -6968,7 +7315,7 @@ for they will be sure to blacken you.
 
 ---
 
-## [From _The Lincoln County herald._](https://chroniclingamerica.loc.gov/lccn/sn90061771/1872-09-25/ed-1/seq-1)
+## From _The Lincoln County herald._
 
 #### 1872-09-25 &middot; [Troy, Lincoln County, Mo.](http://dbpedia.org/resource/Troy%2C_Missouri)
 
@@ -6976,14 +7323,11 @@ for they will be sure to blacken you.
 
   
 honor.&quot;  
-Always givo up the road to bulls and  
-madmen ; and never flebt with a coal  
+Always give up the road to bulls and  
+madmen; and never fight with a coal  
 heaver, or contend with a base character,  
-for they will bo snre lo blaeken yon
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_dorothea_ver01%2Fdata%2Fsn90061771%2F00200292807%2F1872092501%2F0573.jp2/pct:77.166225,23.103023,14.389920,3.285009/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+for they will be sure to blacken you
+</td></tr></table>
 
 ---
 
@@ -7091,6 +7435,16 @@ you.—Spurgeon.
 
 ---
 
+## When you see a man with a great deal of religion displayed in his shop window, you may depend upon it he keeps a very small stock of it within
+
+#### From _The Congregationalist._
+
+#### 1872-11-21 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
+
+[This text is not available under an open license.]
+
+---
+
 ## [From _River Falls journal._](https://chroniclingamerica.loc.gov/lccn/sn85033255/1873-01-03/ed-1/seq-4)
 
 #### 1873-01-03 &middot; [River Falls, Pierce County, Wis.](http://dbpedia.org/resource/River_Falls%2C_Wisconsin)
@@ -7134,48 +7488,6 @@ t&quot;Phen do ladies look most killing?
 When they are ready, /or sleighing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84027008%2F00294551499%2F1873010401%2F0231.jp2/pct:81.854932,28.564929,16.452991,11.739012/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1873-01-21/ed-1/seq-3)
-
-#### 1873-01-21 &middot; [New Bloomfield, Pa.](http://dbpedia.org/resource/New_Bloomfield%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-are tho Emperor William, and nearly  
-twice as many who think they ai Bis­  
-mark,t3FJ&quot; Drink nothing without, seeing it J  
-sign nothing without reading it, and mako  
-sure it means uo more than what it says.  
-td9D not go to law unless you have  
-nothing to lose ; lawyers houses are built  
-on fools&#x27; heads, &#x27; &#x27; : ; 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776804%2F1873012101%2F0459.jp2/pct:77.476080,87.052754,17.119214,6.540190/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Marshall County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038034/1873-02-20/ed-1/seq-6)
-
-#### 1873-02-20 &middot; [Plymouth, Ind.](http://dbpedia.org/resource/Plymouth%2C_Indiana)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Do not go to law unless you have  
-nothing to lose; lawyers&#x27; houses are  
-built on fools&#x27; heads.  
-A Danbury man was much relieved to  
-find that the term Credit Mobilier was  
-not a name for hog cholera
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_dean_ver02%2Fdata%2Fsn84038034%2F00271740566%2F1873022001%2F0564.jp2/pct:79.931127,45.721567,14.138129,3.406652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7327,48 +7639,19 @@ A Fearful Vistou.—The Paris Sob- r
 
 ---
 
-## [From _The Andrew County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85034076/1873-06-13/ed-1/seq-1)
+## From _The Andrew County Republican._
 
 #### 1873-06-13 &middot; [Savannah, Mo.](http://dbpedia.org/resource/Savannah%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-A dbdnkex Toledo man wrote on the  
-wall of his cell : &quot;Jug not, that ye be  
-notjugged.&quot;  
-Don&#x27;t go to law unless, yon have  
 nothing to lose; lawyers&#x27; houses are  
-built oh fools&#x27; heads.  
-See -&#x27;the sack open before you buy  
+built on fools&#x27; heads.  
+Sey the sack open before you buy  
 what is in it, for he who trades in the  
 dark asks to be cheate
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_eadweard_ver01%2Fdata%2Fsn85034076%2F00200292364%2F1873061301%2F0332.jp2/pct:81.746988,47.431602,12.650602,5.332217/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Frostburg mining journal._](https://chroniclingamerica.loc.gov/lccn/sn85025350/1873-06-14/ed-1/seq-1)
-
-#### 1873-06-14 &middot; [Frostburg, Md.](http://dbpedia.org/resource/Frostburg%2C_Maryland)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-wall of bis cell : “Jug not, that ye be  
-not jugged.”  
-Don’t go to law unless you have  
-nothing to lose; lawyers’ houses are  
-built on fools’ heads.  
-See the sack open before you buy  
-what is in it, for lie who trades in the  
-dark asks to be cheated
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_annapolis_ver01%2Fdata%2Fsn85025350%2F00415627610%2F1873061401%2F0385.jp2/pct:81.392705,48.313885,11.885935,4.724142/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -7384,179 +7667,6 @@ looks. Handsome shoes often pinch your
 feet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F00415623458%2F1874062001%2F0511.jp2/pct:81.394266,29.133453,13.889443,1.439959/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Wilmington daily commercial._](https://chroniclingamerica.loc.gov/lccn/sn84020594/1874-08-24/ed-1/seq-1)
-
-#### 1874-08-24 &middot; [Wilmington, Del.](http://dbpedia.org/resource/Wilmington%2C_Delaware)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-—Don&#x27;t go to law unless you have nothing to  
-loose ; lawyers&#x27; houses are built on fools&#x27; heads
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_jinx_ver01%2Fdata%2Fsn84020594%2F00271742563%2F1874082401%2F0212.jp2/pct:28.382917,14.559456,12.571977,0.805874/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1874-08-28/ed-1/seq-3)
-
-#### 1874-08-28 &middot; [Romney, Va. [W. Va.]](http://dbpedia.org/resource/Romney%2C_West_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-the \\ heeling Inttlligcnccr, thinks a pair of spurs  
-is all the Hppnrel a fellow wants.  
-— Don&#x27;t go to law unless you have nothing to  
-lose; lawyers&#x27; houses are built cn fools’ heads
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187146%2F1874082801%2F0898.jp2/pct:30.289101,25.914504,12.559977,2.778959/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1874-09-02/ed-1/seq-1)
-
-#### 1874-09-02 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-An old cynic says; &quot;With many women,  
-going to church is little better than looking  
-into a bonnet-shop !&quot;  
-Don&#x27;t go to law unless you have nothing to  
-lose ; lawyers&#x27; houses are built on fools&#x27; heads
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F0033289495A%2F1874090201%2F0243.jp2/pct:78.653222,90.103453,13.963425,2.791973/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1874-09-02/ed-1/seq-4)
-
-#### 1874-09-02 &middot; [Abbeville, S.C.](http://dbpedia.org/resource/Abbeville%2C_South_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-* &#x27;&#x27;Do not sing that song again,&quot; is  
-tho sarcastic titl-e of a new son?.  
-V ? ?  
-Don*t go to law unless you have  
-nothing to lose; lawyers&#x27; houses are  
-built on fools&#x27;.heads
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn84026853%2F00202194023%2F1874090201%2F0056.jp2/pct:0.633663,21.797261,13.795380,3.007420/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Manitowoc tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033153/1874-09-04/ed-1/seq-3)
-
-#### 1874-09-04 &middot; [Manitowoc, Wis.](http://dbpedia.org/resource/Manitowoc%2C_Wisconsin)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Hooted sorrow—An aching tooth.  
-Don’t go to law unless you have noth­  
-ing to lose; lawyers’ houses are built on  
-fool’s heads.  
-A lady barber has been driven out of  
-Dubuque by the married ladies of that  
-place. The latter thought she scrape
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033153%2F00271769726%2F1874090401%2F0687.jp2/pct:3.986617,6.274683,13.891900,4.082119/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Puget Sound dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84022793/1874-09-10/ed-1/seq-4)
-
-#### 1874-09-10 &middot; [Seattle, Wash. Terr.](http://dbpedia.org/resource/Seattle)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-ALL SORTS.  
-Don’t go to law unless-you  
-have nothing to lose: lawyer&#x27;s  
-houses are built on fools  
-heads.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_bittern_ver01%2Fdata%2Fsn84022793%2Fno_reel%2F1874091001%2F0556.jp2/pct:12.811565,8.560733,11.256231,4.002239/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Middletown transcript._](https://chroniclingamerica.loc.gov/lccn/sn84026820/1874-09-12/ed-1/seq-1)
-
-#### 1874-09-12 &middot; [Middletown, Del.](http://dbpedia.org/resource/Middletown%2C_Delaware)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-things, may out off a valuable life in an  
-hour, and leave the fair hopes of usefulness  
-and enjoyment but a shapeless wreck.  
-un­  
-Don&#x27;t go to law unless you have noth­  
-ing to lose, lawyers&#x27; houses are built on  
-fools&#x27; heads,
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_bombarda_ver01%2Fdata%2Fsn84026820%2F00271765289%2F1874091201%2F0162.jp2/pct:43.494272,87.966045,12.397709,6.324900/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Ottumwa weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn92056106/1874-10-29/ed-1/seq-3)
-
-#### 1874-10-29 &middot; [Ottumwa, Wapello County, Iowa](http://dbpedia.org/resource/Ottumwa%2C_Iowa)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Into water w tie re yon can&#x27;t soe tho bot­  
-tom. See the pack open before you  
-buy. what Is In it for ho that trades la  
-the dark asks to be cheated. Keep  
-clear of a man who dooe not value his  
-own character. Bo virtuous and yo
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn92056106%2F0027952875A%2F1874102901%2F0616.jp2/pct:23.576240,49.336502,10.096448,2.777435/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1874-11-19/ed-1/seq-4)
-
-#### 1874-11-19 &middot; [Jackson C.H., Ohio](http://dbpedia.org/resource/Jackson%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-It is a strange fact that wise men learn  
-more from fools than fools do from wise  
-men.  
-Don&#x27;t go to law unless you have nothing  
-to lose; lawyers&#x27; houses are built on  
-fools&#x27; heads
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296029014%2F1874111901%2F0330.jp2/pct:4.052166,11.620358,10.867878,2.661646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7696,21 +7806,8 @@ small stock of it within
   
 tom.Do not choose your friend by his  
 looks; handsome shoes often pinch  
-the feet
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_johnwooden_ver01%2Fdata%2Fsn86058250%2F00271744821%2F1875090801%2F0132.jp2/pct:27.720348,79.436095,10.405332,1.724339/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1875-09-08/ed-1/seq-1)
-
-#### 1875-09-08 &middot; [Richmond, Ind.](http://dbpedia.org/resource/Richmond%2C_Indiana)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+the feet.  
+Put do dependence on the label of  
 a bag, and count money after your  
 own kind. ,  
 Don&#x27;t go to law unless you have  
@@ -7738,28 +7835,7 @@ deal ol religion displayed in his shop
 window, you may depend upon it he  
 keeps a very small stock of it within
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_johnwooden_ver01%2Fdata%2Fsn86058250%2F00271744821%2F1875090801%2F0132.jp2/pct:27.693145,81.708027,10.459739,12.012117/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1875-09-23/ed-1/seq-2)
-
-#### 1875-09-23 &middot; [Hillsborough [Hillsboro], Highland County, Ohio](http://dbpedia.org/resource/Hillsboro%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Funny Any thing a rich man says.  
-Te excite laughter, doubloons are even  
-superior to a poor devil&#x27;s mishaps.  
-One of the sages says : &quot; Don&#x27;t go to  
-law unless you have nothing to lose;  
-lawyers&#x27; houses are built on fools&#x27;  
-heads.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283612%2F1875092301%2F0164.jp2/pct:85.475379,26.789493,9.724373,3.137060/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_johnwooden_ver01%2Fdata%2Fsn86058250%2F00271744821%2F1875090801%2F0132.jp2/pct:27.693145,79.436095,10.473341,14.284050/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8203,77 +8279,86 @@ the bottom
 
 ---
 
-## [From _The Findlay Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn85026034/1878-05-10/ed-1/seq-4)
+## From _The Findlay Jeffersonian._
 
 #### 1878-05-10 &middot; [Findlay, Hancock County, Ohio](http://dbpedia.org/resource/Findlay%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-g and evening  
-alueh depends bri tuis. &#x27;  
-U. , Lse only tin pails for milking..  
-7. Tin strainer pails are the best for  
-straining , milk. . Sotue . dairvmen&#x27; use  
+hed both morning and evening  
+Mfuch depends on this.  
+6. Use only tin pails for milking.  
+7. Tin strainer pails are the best for,  
+straining milk. Some dairvmen use  
 strainer pails and also a cloth stretched  
-across the can thus straining the milk  
+across the can,-thus straining the milk  
 twice. We advise this double strain  
 ing of milk. It costs you but little  
 trouble, while it will greatly add to the  
 value of the butter aud cheese made  
-ot  
-in  
+of  
+InI  
 to  
   
 American Dairyman.  
   
-GOOD ADVICE.  
+G00 AdvICE.  
   
-Spurgeon sententlously expresses a  
+Spurgeon sententiously expresses a  
 number of thoughts &quot;worth remem  
-beriDg&#x27; in the following appropriate  
+bering&quot; in the following appropriate  
 sentences, which he publishes as &quot;ad  
-vice gratis.&quot; . . . . ..  
+vice gratis.&quot;est $83;  
 Nobody is more like an honest man  
-than a thorough rogue. :  
+than a thorough rogue.  
 When you see a man with a great  
 deal of religion displayed in his shop  
-window, you may depend upon It that  
+window, you may depend upon it that  
 he keeps a very small stock within.  
-Do not choote your friend by his  
-looks ; handsome shoes often pinch the  
-feet .......  
+Do not choose your friend by his  
+looks; handsome shoes often pinch the  
+feet.  
 Do not be fond of compliments; re  
 member &quot;Thank you, pussy, and thank  
 you, pussy,&quot; killed the cat.  
 Don&#x27;t believe the man who talks the  
 most; for mewing cats are seldom  
-good mouse rs. &#x27;  
+good mousers.  
 By no means put yourself in another  
-persons, power. .IX you put, your  
-thumb between two grinders they&quot; are  
-very apt to-bite. Tl; &#x27; &#x27;.. ;-.&#x27;;&#x27;; : . v -  
-Drink - nothing&#x27; Witboac sieehrg &#x27; it,&quot;  
-sign rjolbugwttbbnt reading It, aud  
-i . , t ji  
-maao sure tuat, n means no more ttian  
-says. v...U-?  
+person&#x27;s power.If you put your  
+thumb between two grinders they are  
+very apt to bite, moy lo svaliowe  
+Drink nothing without seeing it,&quot;  
+sign nothing withont reading it, and  
+o ee tho e o e eo o  
+msne sure that it means no more than  
+says.ateets  
 Don&#x27;t go to law unless you have noth  
-to lose, lawyer&#x27;s hooflea are bailt  
-on footo beads. &#x27; v - i : -&#x27;  
-1&#x27;ut no dependence on the label of a  
-bag, and count money after your owo  
-kind. . - ,  
-If in any business never wade iuto  
+to lose, lawyer&#x27;s houses are built  
+on fools heads.  ocI be  
+Put no dependence on the label of a  
+bag, and count money after your own  
+kind
+</td></tr></table>
+
+---
+
+## From _The Findlay Jeffersonian._
+
+#### 1878-05-10 &middot; [Findlay, Hancock County, Ohio](http://dbpedia.org/resource/Findlay%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+If in any business never wade into  
 water when you cannot see the bottom.  
-See tbe sack open before you buy  
+See the sack open before you buy  
 what is in it; for he who trades in the  
 dark asks to be cheated.  
 Keep clear of a man who does not  
-his own character. 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85026034%2F00280774996%2F1878051001%2F0525.jp2/pct:26.759769,62.443389,10.368176,27.791892/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+his own character.  
+I
+</td></tr></table>
 
 ---
 
@@ -8339,88 +8424,75 @@ value his own character.
 
 ---
 
-## [From _The Troy herald._](https://chroniclingamerica.loc.gov/lccn/sn86063984/1878-05-29/ed-1/seq-3)
+## From _The Troy herald._
 
 #### 1878-05-29 &middot; [Troy, Mo.](http://dbpedia.org/resource/Troy%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ich naylrab, a livln in a  
-villv at the North Pole, where It is cud  
-skatln ol the year round. Avontl&quot; Wen  
-i no oio man nan sen so no inrouo out nis  
-feet rite and left, llko skatln, and set  
-down kcr-plump, nnd pushed his fingers  
-up thro his hnlr, wich mado it stand out,  
-and hollered, Mia, 1ml &#x27;&#x27;nnd nasht his  
-teeth fritcflc. Then tho dokter he bnkt  
-of. tlio doktcr did. and shaked his head.  
-and said, &#x27;Tuku ti black draft 1 &#x27; &quot;  
-Good Aflrlre.  
-dntnttrnn sententlouslv exnresses a  
+wud now be a rich naybob, a livin in a  
+villy at the North Pole, where it is gud  
+skatin ol the year round. Avont!&quot; Wen  
+the ole man had sed so he throde out his  
+feet rite and left, like skatin, and set  
+down ker-plump, and pushed his fingers  
+up thro his hair, wich made it stand out,  
+and hollered, &quot;Ha, ha!&quot; and nasht his  
+teeth fritefle. Then the dokter he bakt  
+of the dokter did, and shaked his head.  
+and said, &quot;Take a black drast!&quot;  
+Good Adviee.  
+Spurseon sententiously expresses a  
 number of thoughts &quot;worth remember­  
 ing&quot; in the following appropriate sen­  
-tences, which he nublislies its &quot;advice  
+tences, which he publishes as &quot;advice  
 gratis.&quot;  
-Nobody is more like an honest man than  
+Nobody is more likean honest man than  
 a thorough rogue.  
-Wlien you see a man Willi a groat ucai  
+When you see a man with a great deal  
 of religion displayed in his shop window,  
-you may depend upon it that ho keeps  
-a My small stock within.  
-m not chooso your friend by his looks ;  
-handbomu shoes often pinch tho feet.  
-Do not bo fond of compliments : re  
+you may depend upon it that he keeps  
+Amary small stock within.  
+Do not choose your friend by his looks;  
+handsome shoes often pinch the feet.  
+Do not be fond of compliments; re  
 member &quot;Thank you, pussy, and thank  
-you, pussy, &#x27; hilled tho cut.  
-Don&#x27;t uo neve uio man wno t.iiks ino  
-most ; for mewing cuts uro seldom good  
+you, pussy, killed the cat.  
+Don&#x27;t believe the man who talks the  
+most; for mewing cats are seldom good  
 mousers.  
-By no means put yourself In another  
+By no means put yourself in another  
 person&#x27;s power. If you put your thumb  
-betwcvti two grinders they uro very apt  
+between two grinders they are very apt  
 to bite.  
 Drink nothing without seeing it, sign  
-nothing without, and make suro that it  
-means no more thun it says.  
-Don&#x27;t go to low unless you havo nothing  
-to lose, lawyer&#x27;s houses ur , built on fools  
-1 1 en i is.  
-Put no dpppndpnco on the label of n  
-Iwtr. and count money after your own  
-kihd.  
-If in anv business never wmlo Into  
-water when you cannot see the bottom.  
-See tlio saek oncn lx-foro volt buy what  
-is in it ; for ho who trades in tho dar
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_dorothea_ver01%2Fdata%2Fsn86063984%2F00200292819%2F1878052901%2F2059.jp2/pct:41.355390,24.421864,17.209178,28.206027/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+nothing without, and make sure that it  
+means no more than it says.  
+Don&#x27;t go to law unless you have nothing  
+to lose, lawyer&#x27;s houses ar built on fools  
+heads.  
+Put no dependence on the label of a  
+bag, and count money after your own  
+kind
+</td></tr></table>
 
 ---
 
-## [From _Ottumwa weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn92056106/1878-09-04/ed-1/seq-2)
+## From _The Troy herald._
 
-#### 1878-09-04 &middot; [Ottumwa, Wapello County, Iowa](http://dbpedia.org/resource/Ottumwa%2C_Iowa)
+#### 1878-05-29 &middot; [Troy, Mo.](http://dbpedia.org/resource/Troy%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-A mortgage on your farm, and yet  
-you hire a man to do your work, and  
-fou go to town.  
-  
-Hon&#x27;t go to law unless you have  
-nothing to lose lawyers&#x27; houses are  
-built ou fools heads.  
-  
-We never knew, or even heard of a  
-farmer, who kept out of debt, goin
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn92056106%2F00279528761%2F1878090401%2F0488.jp2/pct:49.162856,9.127195,8.838757,3.451304/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+If in any business never wade into  
+water when you cannot see the bottom.  
+Sce the sack open before you buy what  
+is in it; for he who trades in the dark  
+asks to be cheated.  
+Keep clear of a man who does not  
+value his own character
+</td></tr></table>
 
 ---
 
@@ -8838,70 +8910,68 @@ Horatio Seymour walks through th
 
 ---
 
-## [From _Walla Walla statesman._](https://chroniclingamerica.loc.gov/lccn/sn86072040/1879-10-18/ed-1/seq-1)
+## From _Walla Walla statesman._
 
 #### 1879-10-18 &middot; [Walla Walla, Wash. Terr.](http://dbpedia.org/resource/Walla_Walla%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+others as they have been to me.  
   
 Nobody is more like an honest man than  
-a thorough rogue. “&#x27;hen you see amm with  
-.1 great deal of religion displayml in his shop  
-&quot;Illilow, you may depend upon it he lieeiu a  
+a thorough rogue. When you see a man with  
+a great deal of religion displayed in his shop  
+window, you may depend upon it he keeps a  
 very small stock of it within. Do not choose  
 your friend by his looks; handsome shoes  
-often pinch the. feet. Don&#x27;t be fond of coin­  
-pliments; rememher. &quot;Thank you. pussy.  
-and thank you, pussy.&quot; killed the eat.  
-Don&#x27;t believe in the man who talks most:  
-for niewing cats are Very seldom good mous­  
-ers. By no means put youra-lt‘ in another  
-person‘s pou&#x27;er ; it&quot; you put your thumb be­  
-tween two grinders, they are “Ty apt to  
-bite. Drink liutltllig without seeing it; sign  
-nothing without reading it. and make sure  
-that it means no more than it says. Ih-n‘t  
-go to law unless you have nothing to loan:  
-lawyers. houses are built on fools&#x27; heads. In  
+often pinch the feet. Don&#x27;t be fond of com­  
+pliments; remember, &quot;Thank you, pussy,  
+and thank you, pussy,&quot; killed the cat.  
+Don&#x27;t believe in the man who talks most;  
+for mewing cats are very seldom good mous­  
+ers. By no means put yourself in another  
+person&#x27;s power; if you put your thumb be­  
+tween two grinders, they are very apt to  
+bite. Drink nothing without seeing it; sign  
+nothing without reading it, and make sure  
+that it means no more than it says. Don&#x27;t  
+go to law unless you have nothing to lose;  
+lawyers&#x27; houses are built on fools&#x27; heads. In  
 any business, never wade into water where  
-you canno. see the hottmu. l&#x27;ut no depend­  
-enoe upon the lalnl of a hag: and count  
+you cannot see the bottom. Put no depend­  
+ence upon the label of a bag; and count  
 money after your own kin. See the sack  
-opened lK‘l-t&#x27;rt: you luiy what is in it- for he  
-who trades in the dark a~ks to he cheated.  
-Keep clear of the man \\ ho does not value.  
-hs oun character. Beware of every one.  
-who sii&#x27;ears; he who would hlaspheme his  
-.\laker would make no hones of lying or steal­  
+opened before you buy what is in it for he  
+who trades in the dark asks to be cheated.  
+Keep clear of the man who does not value  
+hs own character. Beware of every one  
+who swears; he who would blaspheme his  
+Maker would make no bones of lying or steal­  
 ing. Beware of no man more than of your-  
-Self : We carry our worst enemies within us.  
-“&#x27;lien anew opinion or doctrine comes he­  
+self; we carry our worst enemies within us.  
+When a new opinion or doctrine comes be­  
 fore you, do not bite till you know whether  
-it is bread or a stone; and do not he sure  
-that. the gingerhrezid is good heeause of the  
+it is bread or a stone; and do not be sure  
+that the gingerbread is good because of the  
 gilt on it. Never shout hollo! till you are  
-quite out of the Wood: and don&#x27;t. cry fried  
-hsh till they are caught in the net. There&#x27;s  
-always time enough to bout “wait a little  
+quite out of the wood; and don&#x27;t cry fried  
+fish till they are caught in the net. There&#x27;s  
+always time enough to boast-wait a little  
 longer. Don&#x27;t throw away dirty water till  
-you have got clean ; keep on at scraping the  
-roads till you can get better work ; for the  
-[unrest pay i; better than none, and the  
-humblest nllic‘e is hettcr than being out of  
+you have got clean; keep on at scraping the  
+roads till you can get better work; for the  
+poorest pay is better than none, and the  
+humblest office is better than being out of  
 employment. Always give up the road to  
-hulls and madmen; and iiever light with a  
-C:I;|l-ltt::l\‘cr or contend with a hue charac­  
-ter ; for they will he sure to hlackcn you.  
-“ Neither trust our contend,  
-Nor lay wagers, nor len-II  
-And you mat; depend ..  
-You&#x27;ll hare peace to your rial.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_bittern_ver01%2Fdata%2Fsn86072040%2Fno_reel%2F1879101801%2F0889.jp2/pct:64.406869,27.251991,11.372735,23.196474/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+bulls and madmen; and never fight with a  
+coal-heaver or contend with a base charac­  
+ter; for they will be sure to blacken you.  
+&quot;Neither trust nor contend,  
+Nor lay wagers, nor lend,  
+And you may depend  
+You&#x27;ll have peace to your end.
+</td></tr></table>
 
 ---
 
@@ -9041,40 +9111,6 @@ he keeps a very small stock of it within
 
 ---
 
-## [From _The Meridional._](https://chroniclingamerica.loc.gov/lccn/sn88064005/1881-07-16/ed-1/seq-2)
-
-#### 1881-07-16 &middot; [Abbeville, La.](http://dbpedia.org/resource/Abbeville%2C_Louisiana)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-clothing that will devour you.  
-  
-Don&#x27;t go to law unless you have  
-nothing to lose; lawyers houses  
-are built on fool&#x27;s heads.  
-  
-Corsets for summer wear are to  
-be made of nets. -Another oppor­  
-tunity for the girls to entangle the  
-fellows in their meshes.  
-  
-There is a new bakery in town,  
-Mr. J. M. Beauzis has bought Mr.  
-L. Ourblin&#x27;s bakery, and Mr. Ber­  
-trand an experienced baker com­  
-menced this week to put the ba­  
-kery into operation.  
-  
-It is slightly rumored tlhat a  
-coffee house is to be erected i
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_emmet_ver01%2Fdata%2Fsn88064005%2F00200299036%2F1881071601%2F0736.jp2/pct:12.833890,36.928191,14.774624,15.359043/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1881-09-24/ed-1/seq-1)
 
 #### 1881-09-24 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
@@ -9160,23 +9196,6 @@ vaiue his own character.
 A New Firm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_nova_ver02%2Fdata%2Fsn86092518%2F00383341644%2F1881092601%2F0301.jp2/pct:36.541203,46.181247,10.925768,19.867295/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Frank Leslie's Popular Monthly (1876-1904)_](https://archive.org/details/sim_american-magazine-1876_1883-05_15_5/page/n57/mode/1up?view=theater)
-
-#### 1883-05-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-Don’r go to law, unless you have nothing to lose;  
-lawyers’ houses are built on fools’ heads.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_american-magazine-1876_1883-05_15_5&#0036;57/pct:54.512373,87.339268,39.374090,2.225519/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9312,26 +9331,6 @@ to bite
 
 ---
 
-## [From _The Penn's Grove record._](https://chroniclingamerica.loc.gov/lccn/sn85035524/1887-02-05/ed-1/seq-4)
-
-#### 1887-02-05 &middot; [Penn's Grove, Salem Co., N.J.](http://dbpedia.org/resource/Penns_Grove%2C_New_Jersey)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-one.”  
-Don’t go to law unless you have  
-nothing to lose, lawyer’s houses are  
-built on fools’ heads.  
-Traveling men should investigate the ad­  
-vantages offered by the Okand Unio
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_irene_ver02%2Fdata%2Fsn85035524%2F00332897093%2F1887020501%2F0823.jp2/pct:52.108434,87.095018,10.564316,3.093520/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1887-02-09/ed-1/seq-4)
 
 #### 1887-02-09 &middot; [Mifflintown, Juniata County, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
@@ -9349,27 +9348,6 @@ betwten two grinders they are very apt
 to bite.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776701%2F1887020901%2F0644.jp2/pct:41.649233,70.764120,11.052999,2.785587/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1887-02-09/ed-1/seq-4)
-
-#### 1887-02-09 &middot; [Mifflintown, Juniata County, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-Don&#x27;t 10 to law unless you have  
-nothing to lose, lawyer&#x27;s houses are  
-built on fools&#x27; heads. .  
-  
-Traveling men should Investigate the ad­  
-vantages offered by the Grand Uxio
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776701%2F1887020901%2F0644.jp2/pct:53.120642,88.717097,11.157601,2.568362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9983,29 +9961,6 @@ of God and of men is the only certificat
 
 ---
 
-## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1891-08-21/ed-1/seq-3)
-
-#### 1891-08-21 &middot; [Woodstock, Va.](http://dbpedia.org/resource/Woodstock%2C_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-make sore that it means nothing mor?  
-than it saya. Don&#x27;t go to law unless you  
-are forced to and have some thing to lose.  
-In any business never wade in where you  
-cannot see the bottom. Put no depen?  
-dence in the label of a bag, and count  
-money before yon receipt for it. See the  
-sack before you buy what is in it, for be  
-who trade? in the dark asks to be cheated.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_ozzyosbourne_ver01%2Fdata%2Fsn85026941%2F00175032393%2F1891082101%2F0132.jp2/pct:4.584585,94.028314,11.366366,4.975179/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1891-09-29/ed-1/seq-2)
 
 #### 1891-09-29 &middot; [Charles Town, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
@@ -10036,33 +9991,7 @@ Mr. Aaron Lynn, of Woodsboro
 
 ---
 
-## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1891-10-02/ed-1/seq-1)
-
-#### 1891-10-02 &middot; [Romney, Va. [W. Va.]](http://dbpedia.org/resource/Romney%2C_West_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-means nothing more than it *ay«.  
-Don’t go to law unless you are lorced  
-to and havs e&gt;metLing to lose, fn  
-any business never wade in where  
-you esanot see the bot&#x27;oui. Put no  
-dependence in the label of a bag, and  
-count money before you rrceip it. He#  
-the sack before you buy what is In  
-it, for he who trados in the dark asks  
-to be cheated.  
-Kven the lexical of men can usual*  
-ly see some work that tome othe
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187195%2F1891100201%2F0152.jp2/pct:73.256808,87.845646,10.982212,6.875086/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Fair play._](https://chroniclingamerica.loc.gov/lccn/sn87052181/1891-12-12/ed-1/seq-2)
+## From _Fair play._
 
 #### 1891-12-12 &middot; [Ste. Genevieve [Mo.]](http://dbpedia.org/resource/Ste._Genevieve%2C_Missouri)
 
@@ -10080,10 +10009,7 @@ ey before you receipt for it. See
 the sack before you buy what&#x27;s in  
 it, for he who trades in the dark  
 asks to be cheated. Never r
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_gordon_ver01%2Fdata%2Fsn87052181%2F00200292546%2F1891121201%2F0814.jp2/pct:18.772771,32.692572,12.023011,7.538102/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -10416,67 +10342,6 @@ is in it, for he who trades in the dark
 asks to be cheated.—Ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_fennel_ver01%2Fdata%2Fsn2001063544%2F0033289982A%2F1894052501%2F0845.jp2/pct:40.045888,25.314012,16.921108,8.386149/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1894-05-30/ed-1/seq-4)
-
-#### 1894-05-30 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-to make him better than himself.  
-W8T One of the sages says: &quot;Don&#x27;t go to  
-law unless you have nothing to lose ; lawyers&#x27;  
-houses are built on fools&#x27; heads.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861952%2F1894053001%2F0282.jp2/pct:14.456547,23.962050,13.659326,2.160861/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1894-06-06/ed-1/seq-1)
-
-#### 1894-06-06 &middot; [Anderson Court House, S.C.](http://dbpedia.org/resource/Anderson%2C_South_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-but it proposes to make him better  
-than himself.  
-? One of the sages says: &quot;Don&#x27;t  
-go to law unless you have nothing to  
-lose; lawyers&#x27; houses are built on  
-fools&#x27; heads.&quot;  
-? Dwarfs live much longer than 3  
-giants, the latter unusually havin
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551165%2F1894060601%2F0106.jp2/pct:88.361554,24.565305,11.172908,4.320702/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1894-06-13/ed-1/seq-1)
-
-#### 1894-06-13 &middot; [Edgefield, S.C.](http://dbpedia.org/resource/Edgefield%2C_South_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-One of the sages says : &quot;Don&#x27;t go  
-to law unless you have nothing to  
-lose ; lawyers&#x27; houses are built on  
-fools&#x27; heads.&quot;  
-Christianity does not propose to  
-make a man better thau his neigh­  
-bor, but it proposes to make hi
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_jinx_ver01%2Fdata%2Fsn84026897%2F00211101271%2F1894061301%2F0142.jp2/pct:85.358772,65.355279,12.221761,5.225478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

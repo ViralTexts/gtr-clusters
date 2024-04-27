@@ -1,7 +1,7 @@
 
 # American Inventions
 
-### 173 reprints from 1872-10-24 to 1891-01-17
+### 162 reprints from 1872-09-05 to 1891-01-17
 
 ## [American Inventions](https://chroniclingamerica.loc.gov/lccn/sn89077510/1875-08-21/ed-1/seq-1/)
 
@@ -17,25 +17,54 @@ The great American inventions, which have been adopted all over the world, are t
 
 ---
 
+## From _New-York tribune._
+
+#### 1872-09-05 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+spr  
+intaneously the world&#x27;s circumference  
+I pause in the enumeration, not for  
+want of material, but because it is necessary to pause  
+  
+l, the inventions or discover  
+heipal usefulness or i  
+have been made since the foundation of our Govern­  
+ of them quit  
+AMERICA IN THE CONCOURSE OF INDUSTRIes.  
+In conclusion, the inquiry naturally presents itself,  
+istrials of the United States, in  
+ons, and what is the part  
+which we are contributing to the march of industrial  
+wvement! The reply, I believe, will be one of which  
+I not be ashamed. There is hardly an industry to  
+f which we have not largely contributed.  
+gin, without which the machine-spinner and  
+the power-doom would be helpless, is American. The  
+th permits an unlimited enlargement  
+breadth of the web, is American.  
+machine is American. Navigation by steam is Ameri­  
+can. The mower and reaper are American. The  
+printing-presses are American. The hot air  
+is American. The sewing-machine is  
+The machine manufacture of wool cards is  
+hole india-rubber industry is Ameri­  
+e band-saw originated, I believe, in America.  
+The machine manufacture of horseshoes is American.  
+f which the large capabilities are yet to  
+American. The gauge lathe is Ameri-  
+can. The only successful composing-machine for 
+</td></tr></table>
+
+---
+
 ## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1872-10-24/ed-1/seq-7)
 
 #### 1872-10-24 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-which did not  
-resemble the original one in the least, A friend  
-called. “I have just dropped a duet,” said Rossi­  
-ni, “I wish yon would g&gt; t if for me. You will  
-And it somewhere under the bed. ’ The friend felt  
-or the duet with his cane, fished it out, and hand&quot;  
-ed it to the composer. “Now, w hich do you like  
-best?” asked Ross’ni ; “I have written two.”  
-He sang the air of them both. The triend pre.  
-lerred the first; so did Rossini, ana decided to turn  
-the second duet into a trio. He finished his trio,  
-got up, dressed, sent the two pieces to the theat&quot;  
-rical copyist, and went out to oreakfast.   
   
 The great American inventions, which have been  
 adopted all over the world, are the following  
@@ -52,9 +81,42 @@ large scale. The electro magnet, and its practical
 application, by Henry &amp; Morse. The only suc­  
 cessful composing machine for printers. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85033123%2F00514151234%2F1872102401%2F0063.jp2/pct:20.846082,56.676141,14.726620,15.926688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_dynamite_ver01%2Fdata%2Fsn85033123%2F00514151234%2F1872102401%2F0063.jp2/pct:20.846082,64.500637,14.686710,8.102192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The Andrew County Republican._
+
+#### 1872-10-25 &middot; [Savannah, Mo.](http://dbpedia.org/resource/Savannah%2C_Missouri)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+American Inventions.  
+In respect to notable inventive  
+achievements during the last hundred  
+years, America is far ahead of any other  
+nation. The cotton gin, without which  
+the machine spinner and the power  
+loom would be helpless, is American.  
+The power shuttle, which permits an  
+unlimited enlargement of the breadth  
+of the web, is American. The planing  
+machine is American. Navigation by  
+steam is American. The mower and  
+reaper are American. The rotary print­  
+ing presses are American. The hot-air  
+engine is American. The sewing ma­  
+chine is American. The machine manu-  
+facture of wool cards is American. The  
+whole india-rubber industry is Ameri  
+can. The hand-saw originated in Amer­  
+ica. The machine manufacture of  
+horse-shoes is American. The sand­  
+blast, of which the large capabilities ar
+</td></tr></table>
 
 ---
 
@@ -142,32 +204,31 @@ facture of wool-cards is American. Ih
 
 ---
 
-## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1873-09-24/ed-1/seq-4)
+## From _The Somerset herald._
 
 #### 1873-09-24 &middot; [Somerset, Pa.](http://dbpedia.org/resource/Somerset%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e  
-beautiful and wealthy young widow,  
+utiful and wealthy young widow,  
 an intimacy that deepened into love  
 on both sides before many weeks  
-passed. .  
+passed. 71746.  
 They were married on Rosa&#x27;s twen­  
-tieth birthday, and now Pr. Colton,  
+tieth birthday, and now Dr. Colton,  
 happy in the possession of a lovely  
 and loving wife, a fortune and a  
 large practice, can complacently con­  
 template his darker days of starva­  
-tion and despair. i  
+tion and despair.  
 &quot;And no professional advice that I  
-ever gave,&quot; ne is wont to say, &quot;ever  
+ever gave,&quot; he is wont to say, &quot;ever  
 proved more valuable than that I  
-gave to Rose Cardcn, for it saved her  
+gave to Rose Carden, for it saved her  
 from squalor and ignorance, me from  
 starvation and robbery, and has made  
 two lives happy.&quot;  
-Amrinn iBveatieua.  
+AmErICaN INVENTIOls.  
 The cotton gin, without which the  
 machine spinner and the power loom  
 would be helpless, is American. The  
@@ -176,16 +237,75 @@ limited enlargement of the breadth or
 the web, is American. The plaining  
 machine is American. Navigation  
 by steam is American. The mower  
-and reaper are American. Tbe rotary  
+and reaper are American. The rotary  
 printing presses are American. The  
 hot-air engine is American. The  
 sewing machine is American. The  
 machine for the manufacture of wood  
 cards is American. The whole I
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776464%2F1873092401%2F0279.jp2/pct:15.449267,63.154324,10.299511,16.382137/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
+
+---
+
+## From _Clearfield Republican._
+
+#### 1873-10-01 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+n. It is considered a day&#x27;s  
+work to mine three cubio yards of  
+coal. More than half the work is done  
+when the &quot;bearings&quot; are made. The  
+machine, in half an hour, makes the  
+&quot;bearings&quot; under more coal than a  
+man can mine in a day. Counting  
+the labor of making the &quot;bearings&quot; as  
+half, then the machine accomplishes  
+as much in an hour as a good miner  
+can in a day; or, as much in a day as  
+ten good miners. It takes two men  
+to run the machine now, though one  
+will probably be able to do it when it  
+is perfected. The motive power is  
+designed to be compressed air; at  
+present it is steam.  
+American Inventions.  
+The cotton gin, without which the  
+machine spinner and the power loom  
+would be helpless, is American. Th
+</td></tr></table>
+
+---
+
+## From _The weekly Arizona miner._
+
+#### 1873-10-04 &middot; [Prescott, Ariz.](http://dbpedia.org/resource/Prescott%2C_Arizona)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+are, after all, that they will worry him to  
+death.&quot;  
+HAIL CoLunEIa!The cotton-gin, without  
+which the machine-spinner and the power­  
+loom would be helpless, is American. The  
+power-shuttle, which permits an unlimited  
+enlargement of the breadth of the web, is  
+American. The mower and reaper are Amer­  
+ican. The rotary printing presses are Amer  
+ican. The hot-air engine is American. The  
+sewing machine is American. The machine  
+manufacture of wool cards is American. The  
+whole india-rubber industry is American.  
+The hand-saw originated, we believe, in  
+America. The machine manufacture of  
+horseshoes is American. The sand-blast, of  
+which the large capabilities are yet to be de­  
+veloped, is American. The gauge-lath is  
+American. The only successful composing  
+machine for printers is American. The grai
+</td></tr></table>
 
 ---
 
@@ -261,6 +381,21 @@ of which the large capabilities are yet to
 
 ---
 
+## From _The Tiffin tribune._
+
+#### 1873-12-04 &middot; [Tiffin, Ohio](http://dbpedia.org/resource/Tiffin%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+The cotton-gin, without which the  
+machine-spinner and the power-loom  
+would be helpless, is American. Th
+</td></tr></table>
+
+---
+
 ## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1874-01-10_18_889/page/n6/mode/1up?view=theater)
 
 #### 1874-01-10 &middot; [New York](http://dbpedia.org/resource/New_York_City)
@@ -308,16 +443,9 @@ printing-press
 ited enlargement of the web.  
   
 planing-machine is  
-and the hot-air engine. The sewing.  
-American, though lately  
-The whole ludia  
-The band-saw, the sand-  
-blast, the machine manufacture of horseshoes, the  
-gauge-lathe, the grain-clevator, are all believed to have  
-originated in this country. The artificial manufacture  
-of ice was firet invented by an American; and the es
+and the hot-air engine. The sewing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_harpers-weekly_1874-01-10_18_889&#0036;6/pct:72.077603,84.126181,19.646365,8.704453/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_harpers-weekly_1874-01-10_18_889&#0036;6/pct:72.077603,84.126181,19.646365,4.622132/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -414,41 +542,6 @@ are American. The hot-air engine is Amer-
 ican. The sewing-machine is American. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_harrier_ver01%2Fdata%2Fsn84036143%2F00295861174%2F1874060401%2F0188.jp2/pct:40.961306,36.963007,16.581016,13.951870/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1874-06-12/ed-1/seq-3)
-
-#### 1874-06-12 &middot; [Paw Paw, Mich.](http://dbpedia.org/resource/Paw_Paw%2C_Michigan)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-tions originated in this c -untry ? The  
-cotton-gin, without which the machine-  
-spinn- r and the powerdooin would be  
-helpless, is an American invention, as  
-well as tic power-shuttle, which permits  
-of an unlimited enlargement of the  
-breadth of the web. Theplaning-ma-ohine  
-is American. Navigation by steam  
-is American ; so also is the mower and  
-reaper, the rotary printing press, and  
-the hot-air engine. The sewing-ma-  
-chine ie, we  
-believe, American, though  
-latelv claimed as an English invention.  
-i The whole India-rubber industry is  
-American. The band-saw, the sand-  
-! gauge lathe and the grain-elevator are  
-all believed to have originated in this  
-country. The artificial manufacture of  
-ice was first invented by an American ;  
-and the essential features anl mos
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023747%2F1874061201%2F0498.jp2/pct:78.745952,77.502042,14.130115,10.161356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,21 +660,7 @@ cessful composing machine for printing
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- through any screens, which  
-ought retain the invaluable silk threads  
-Hy an arrangement above the wire cloth,  
-a shower of short pieces of the blue silk  
-thread ie dropped in streaks across the pa  
-per wl^ile it is being formed. The upper  
-side, on which the blue silk is dropped, is  
-the one used for the face of the notes, and  
-from the manner in which the threads are  
-applied, must show them more distinctly  
-than the reverted side, although they are  
-imbedded deeply enough to remain fixed.  
-The mill is guarded night and day, by of­  
-ficials, to prevent the abstraction of any  
-paper !—rasper Trade Journal.  
+  
 The great American inventions, which  
 have been adopt* d ail over the werld, are  
 the following : 1. The ootton-gin, with­  
@@ -600,7 +679,7 @@ The grain elevator. 13. The artificial
 The electro-magnet, aad its practical ap­  
 plication, by Hear Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_amethyst_ver01%2Fdata%2Fsn89077510%2F00332897895%2F1875082101%2F0714.jp2/pct:74.271272,79.697513,11.529065,15.255704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_amethyst_ver01%2Fdata%2Fsn89077510%2F00332897895%2F1875082101%2F0714.jp2/pct:74.271272,87.234043,11.529065,7.719175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -622,23 +701,7 @@ plication, by Hear Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. &#x27;  
-^ h . is ß entlenian appeared to be very cool, and  
-clal ? ls ^ be had only vindicated the honor  
-? f tbe lad y and defended himself; he positive­  
-^ refuses to make any statement.  
-The wound received by Mr. Terrebonne  
-^ q mte severe, entering the mouth and  
-| j ,lw &#x27; crushiog the |  
-I Mr. Ed. A. Dncras was released on bonds  
-of i200 °- at 2 °&#x27; c l° ck P- M., Monday. Mr.  
-&quot;(Terrebonne&#x27;s condition is somewhat im­  
-_  
-I proved. A certificate was given&#x27;Tv toe D*hv! I  
-J XT...___ T V. °/-. * _ — I f  
-Rician, and Messrs. John Grayer and John |  
-Llambias are Mr. Ducras&#x27;s bondsmen.  
-American Inventions Abroad.  
+  
 The great American inventions which have  
 been adopted all over the world are the fol­  
 lowing : 1. The cotton gin, without which  
@@ -656,7 +719,7 @@ artificial manufacture of ice on a large scale.
 plication, by Henry and Morse. 15. The only  
 successtul composing machine for printers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_jigglypuff_ver01%2Fdata%2Fsn86079018%2F0029587434A%2F1875083101%2F0429.jp2/pct:33.994126,78.002577,16.042584,16.469072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_jigglypuff_ver01%2Fdata%2Fsn86079018%2F0029587434A%2F1875083101%2F0429.jp2/pct:34.599853,86.739691,14.537445,7.731959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -668,21 +731,7 @@ successtul composing machine for printers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-CENT number of the Houston (Tex.)  
-Telegraph says: “ A shipment of Texas  
-pig-iron was made yesterday to the last  
-place one would imagine possible —to En­  
-gland. Some time since a lot of Texas  
-iron ore was sent to the iron manufactur­  
-ers of England for assay and test, as to  
-quality. The result was so satisfactory,  
-and the quality was found to be so excel­  
-lent, a shipment of pig-iron was ordered  
-as an experiment. If it be found that this  
-ore can be profitably obtained and manu­  
-factured a large tracle will soon spring up,  
-and a rapid development of our iron  
-mines result. Speed the day, say we.”  
+  
 The great American inventions, which  
 have been adopted all over tlie world, are  
 the following: 1. The cotton-gin, without  
@@ -702,7 +751,7 @@ net and its practical application, by Hen­
 ry and Morse. 15. The only successful  
 composing-machine for printers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_flobberworm_ver01%2Fdata%2Fsn85033019%2F00414215543%2F1875090301%2F0423.jp2/pct:81.565016,65.276563,12.251435,14.970351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_flobberworm_ver01%2Fdata%2Fsn85033019%2F00414215543%2F1875090301%2F0423.jp2/pct:81.565016,72.042384,12.251435,8.204530/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -714,21 +763,7 @@ composing-machine for printers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ent number of the Houston (Tex.)  
-Telegraph says : &quot; A shipment jOf Texas  
-pig-iron was made yesferday to &#x27; the last  
-place one would imagine possible to En­  
-gland. Some time since a lot of Texas  
-iron ore was sent to the iron manufactur­  
-ers of England for assay and test as to  
-quality, ine result was so satisfactory,  
-and the quality was found to be so excel­  
-lent, a shipment of pig-iron was ordered  
-as an experiment. If it be found that this  
-ore can be profitably obtained and manu­  
-factured a large trade will soon spring up,  
-and a rapid development :of our iron  
-mines result Speed the day, say we.&quot;  
+  
 The great American inventions; which  
 have been adopted all over the world, are  
 the following : 1. The cotton-gin, without  
@@ -748,7 +783,7 @@ net and its practical application, by Hen­
 ry and Morse. 15. The Only successful  
 composing-machine for printers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016739%2F00295877510%2F1875090401%2F0071.jp2/pct:38.556774,43.710503,10.930315,14.384592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016739%2F00295877510%2F1875090401%2F0071.jp2/pct:38.556774,50.300933,10.930315,7.794162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -760,21 +795,7 @@ composing-machine for printers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ber of the Houston (Tex.)  
-Telegraph says : &quot;A shipment of Texas  
-pig-iron was made yesterday to the last  
-place one would imagine possible to En­  
-gland. Some time since a lot of Texas  
-iron ore was sent tq lie iron nianufactur­  
-ers of England for&quot; assay and test as to  
-quality. The result was so satisfactory.,  
-and the quality : was found to be so excel­  
-lent, a shipment of pig-iron was ordered  
-as an experiment If it be found that this  
-ore can be profitably obtained and mantw  
-factored a large trade will soon: spring up,  
-and a rapid development of our iron  
-mines&#x27; result. . Speed, the day, say we.&quot; &#x27;  
+  
 The great American inventions, which  
 have been adopted all over the world, are  
 the following: 1. The cotton-gin, without  
@@ -794,7 +815,7 @@ and its practical application, by Hen­
 ry and Morse. 15. The only successful  
 composing-machine for printers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_norgay_ver01%2Fdata%2Fsn84028194%2F0029602899A%2F1875090401%2F0255.jp2/pct:54.436384,72.792859,9.542411,12.998288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_norgay_ver01%2Fdata%2Fsn84028194%2F0029602899A%2F1875090401%2F0255.jp2/pct:54.436384,78.698948,9.542411,7.092199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -816,43 +837,7 @@ composing-machine for printers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-o cut ?  
-: &#x27;How  
-coffee with a fork mea  
-: &quot; Y&lt;  
-soup with a fork  
-fork  
-knife  
-slurp&quot;  
-oath with a knife  
-very impatient &quot;  
-To pick your  
-the pick of the lot&#x27;  
-To drum on your plate with yoi  
-almost crazy.&quot;  
-head with a fork meaua :  
-with you.&quot;  
-the butter means  
-;  
-: &#x27;1  
-teeth with a fork means:  
-•i »  
-knife and  
-: &quot;I  
-fork me  
-&quot;1  
-To scratch 3  
-itch for an acquaints::  
-To dip 3  
-knife i  
-not very particular, yot  
-To let your knife blip and Bplatter the gravy  
-out of your plate mean«: &#x27; I am exceedingly  
-happy io be here.&quot;  
-To draw the knife half way down your throat  
-means: &quot;I am enjoying myuelf very well, I  
-&#x27;I  
-Hon* Abroad.  
+  
 The great American inventions, which hav  
 been adopted alljover the world, are thus  
 merated . 1. The cotton gin, without which the  
@@ -868,7 +853,7 @@ elevator. 12. The artificial manufacture of ice
 a large scale. 14. The electro magnet, and  
 practical application, by Henry and Morse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_jinx_ver01%2Fdata%2Fsn84020594%2F00271741698%2F1875091301%2F0911.jp2/pct:17.770793,15.127737,13.926499,16.076642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_jinx_ver01%2Fdata%2Fsn84020594%2F00271741698%2F1875091301%2F0911.jp2/pct:17.915861,25.054745,12.572534,6.149635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -993,22 +978,7 @@ tor printer
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-rs of that party sud­  
-denly di-covcr that he is a&#x27;hircliii2,&quot;&quot;sell­  
-ing himself to the money jiowcr.&quot; They  
-prai-s.il the man whin they thought him an  
-iiiemy to the Republican party ; now that  
-they find him its friinJ, they treat him  
-with the Mliut ahu-e. Bat Schnrz has met  
-alme bore, and will caro nothing for the  
-mud now thrown at him by tho-e who fear  
-his power araon the jieople. Een those  
-who arc bitterly opio-ed to him, admit  
-that his sin-echos during the Ohio cam­  
-paign, lotli in English and German, will  
-injure the chances of the Democracy to a  
-erv great extent.  
-AMERICAN INVENTIONS ABROAD.  
+  
 The great American inventions, which  
 ha e been adopted all over the world, are  
 . the following : 1. The cotton gin, without  
@@ -1028,7 +998,7 @@ practical apfl icatton, by Henry and Morse.
 13. The oidy successful comosing machine  
 for printers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_funston_ver01%2Fdata%2Fsn84027691%2F0023728334A%2F1875100701%2F0169.jp2/pct:5.346777,49.527387,9.960281,17.450315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_funston_ver01%2Fdata%2Fsn84027691%2F0023728334A%2F1875100701%2F0169.jp2/pct:5.346777,58.034416,9.960281,8.943286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1040,22 +1010,6 @@ for printers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ick, sharp way: ‘I want 4000 locks, no two  
-alike, no one key to open another lock, and  
-three extra keys for each lock—16,000 in all;  
-and I want them in three months.’’ ‘All  
-right; [ can do the job.” “Have you any  
-means to carry out the contract?’ ‘*‘ Not a  
-cent.’ ‘*Then how do you expect to be able  
-to take it?’ “Lexpect you to lend me the  
-money.”’ Mr. Ralston looked at the man, gave  
-him one searching glance, and, seeing in him  
-the right stuff, said, ‘‘ All right; I&#x27;ll do it,  
-Come here to-morrow morning, sign the con-  
-tract, and get the money.” The man carried  
-out the contract to the letter.  
-  
-  
   
 The great American inventions, which have  
 been adopted all over the world, are the follow-  
@@ -1074,7 +1028,7 @@ The electro-magnet, and its practical applica-
 tion, by Henry and Morse. 15. The only suc-  
 cessful composing machine for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_chiltons-iron-age_1875-10-07_16_15&#0036;4/pct:72.419859,72.846238,16.536357,19.547437/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_chiltons-iron-age_1875-10-07_16_15&#0036;4/pct:72.556685,82.470011,16.399531,9.923664/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1086,39 +1040,6 @@ cessful composing machine for printers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ded the discovery of Neptun  
-For him, its chief interest must have ,  
-sided in the confirmation of his method of  
-procedure afforded by the discovery of,  
-planet through the careful study of py,  
-turbations due to that planet’s attraction),  
-Such confirmation was afforded at othe  
-steps of the work. In fact, the who,  
-series of Leverrier’s labors affords perhay  
-the noblest illustration of the value of &amp;.  
-duction guided by and suggesting obsg.  
-vations, since Newton’s Principia fry  
-proved the svperiority of that metho  
-over mere induction.—Cornhill Magazine.  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-AMERICAN INVENTIONS ABROAp,  
-  
-  
   
 The great American inventions, which  
 have been adopted all over the world, ay  
@@ -1139,7 +1060,7 @@ practical application, by Henry and Mors,
 15. the only successful composing machine  
 for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_school-journal_1875-10-09_6_234&#0036;5/pct:77.158849,17.251131,19.323028,31.315988/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_school-journal_1875-10-09_6_234&#0036;5/pct:77.292111,32.503771,19.189765,16.063348/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1151,7 +1072,22 @@ for printers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ to use their knives on him  
+&#x27;diligently, is all that saved the life of  
+L„ in Devane. He was finally extri­  
+jcuted Iran the jaws of the maddened  
+monster, and escaped with u few  
+painful, though not dangerous bruises  
+and bites. The alligator was about  
+eight feet in length, and it was with  
+difficulty that six or eight strong and  
+courageous men succeeded, after in­  
+serting their knives in several tender  
+places, in bringing him ashore. He  
+fought desperately as long as life las­  
+ted, and in his dying moments he set up  
+a deafening roar almost equal to that  
+of a lion.  
 American Inventions .«Abroad. —The  
 great American inventions, which have  
 been adopted all over the world, are  
@@ -1174,7 +1110,7 @@ Henry and Morse. 15.—The only
 successful composing machine for  
 printers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn84022135%2F00295869483%2F1875102201%2F0215.jp2/pct:56.045082,67.593361,18.015710,17.500000/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn84022135%2F00295869483%2F1875102201%2F0215.jp2/pct:56.045082,53.205394,18.220628,31.887967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1220,24 +1156,6 @@ Itfor priutera is American. The grai
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-The negro leader, struck by  
-an explosive bullet, fell dead. Each pro-  
-jectile made a victim among the assailants,  
-who finally decided to retreat, after having  
-lost eighty-two of their number. ‘When at  
-the extreme limit of his explorations, Colo-  
-nel Chaille-Long perceived a curtain of  
-smoke, which appeared to indicate that the  
-country beyond was peopled by other  
-tribes, but all is yet mystery concerning  
-those unexplored regions. After the read-  
-ing of his narrative, listened to with intense  
-interest, warm and sympathetic applause  
-came from all parts of the hall.  
-  
-  
-  
-AMERICAN INVENTIONS ABROAD.  
   
 The great American inventions, which  
 have been adopted all over the world, are  
@@ -1260,7 +1178,7 @@ practical application, by Henry and Morse.
 15. the only successful composing machine  
 for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1875-11-20_53_47&#0036;5/pct:75.311791,52.210253,20.011338,27.581724/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1875-11-20_53_47&#0036;5/pct:75.311791,65.620357,20.011338,14.171620/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1272,25 +1190,7 @@ for printers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-gantic hotel is about to bo  
-built in London, with American cap­  
-ital, by an American architect, with  
-American speed, after an American  
-plan, and to be managed on the  
-American system. A site not tar  
-from the House of Commons, and  
-close to St. James’ Park, has been  
-purchased, and it is said that a year  
-hence the tirst visitors may take up  
-their abode in the new establish­  
-ment. The hotel will make np 1,000  
-beds ; the dining-room will accom­  
-modate 700 persons at the same  
-time, and a staff of 400 servants  
-will be required to carry on the du­  
-ties of the house.  
-• —mm- •   
-American Invention Abroad,  
+  
 The great American inventions  
 which have been adopted all ov r  
 the world, are the following: 1.  
@@ -1315,7 +1215,7 @@ successful composing machine for
 printers.  
 t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_florence_ver01%2Fdata%2Fsn85040344%2F00271769283%2F1875112501%2F0586.jp2/pct:60.763139,8.638105,17.222051,37.617555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_florence_ver01%2Fdata%2Fsn85040344%2F00271769283%2F1875112501%2F0586.jp2/pct:60.763139,25.983978,17.222051,20.271682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1345,25 +1245,7 @@ threw the goblet on the floor. The ufacture of ice on a large scale. 14 Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, be wood now be a  
-old grA heded nutn which we is Downed  
-to respeck wether tha got Any sense or  
-not. some ole codjers don t kno enny  
-thing cent what tha dun wen tha wnz  
-a bov wich I don&#x27;t beleeve ever hap-  
-pined. Bat this other boy I knode mi­  
-self an it is troo. I wood not live al­  
-wais, bat i want to gro np an be a de-  
-kin furst, so i obey my payrenta; ana  
-git Hayfle to take my pickter, an my  
-days are gettin longer in the land.  
-Johnny.  
-&quot;-Vo, dolly.&quot; said a little) girl to her  
-chinA baby, as she was going out, &quot;I  
-tan&#x27;t take &#x27;on down town &#x27;id me &#x27;oa  
-ain&#x27;t dot no Yin-back !&#x27; &quot;  
-cries  
-iBveatleas.  
+  
 The great American inventions, whk-h  
 have been adopted all over the world,  
 are the following: 1. The cotton gin  
@@ -1379,7 +1261,7 @@ cation by Henry and Morse. 15. The
 only successful composing machine for  
 printers,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776671%2F1875120101%2F0443.jp2/pct:72.231925,79.177898,10.915124,17.156334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776671%2F1875120101%2F0443.jp2/pct:72.231925,87.951482,10.915124,8.382749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1425,41 +1307,6 @@ printer*.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t up .and stagger -on, but has  
-  
-for a week past. Horse trotting has, Dever learned who he was or how badly  
-  
-perhaps been the most interesting fea- he wa3 hurt.  
-  
-Some fast horses, for green ones,  
-  
-ri A fTf A TITITT  
-  
-VVri. A. JTXVXVXX pages, giving a Trea  
-  
-ties on Calarru. and con Laming innumerable cases of  
-cures, sent vkek. by addressing the Proprietors, LIT-  
-  
-TLEFIELU A UO , Manchester, a.  
-  
-ture  
-  
-have been brought out,  
-  
-takes the lead, so far.  
-  
-NORTH TROT.  
-John W. Currier has bought J  
-  
-B. Hunt&#x27;s saw mill in this village.  
-  
-Chas. Wheeler  
-  
-B.  
-  
-this place, organized a Lyceum, la  
-  
-Friday evening.  
   
 The great American inventions which  
 have been adopted all over the world  
@@ -1493,7 +1340,7 @@ l 11.. 1&#x27; . I ttl&#x27;FUl-.&quot;&quot;, 1 &quot; J s.. .w.
   
 inecouinon party at tue rronuer The only successful composing machine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194989%2F1875121301%2F0190.jp2/pct:25.182534,65.739711,33.586256,14.071190/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194989%2F1875121301%2F0190.jp2/pct:25.297065,69.922136,22.233357,9.888765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1505,22 +1352,7 @@ inecouinon party at tue rronuer The only successful composing machine
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-eyes, and we land safe on the opposite  
-shore.  
-Mrs. Andrew Foster, of Goose Creek  
-Louisa County, Iowa, is a buxom lady of  
-about 300 pounds avoirdupois, and rejoices  
-in a full set of whiskers, black and glossy,  
-about three inches long, and with a mous­  
-tache which many young men would be  
-proud of, and for the like of which they  
-have squandered in vain many a ducat for  
-“six weeks pomade.” Mrs. Foster in the  
-luxuriant growth of hair on her face, is as  
-great a curiosity as any of the so called  
-“bearded womeu” traveling with shows  
-and a greater than many, as there is no  
-“make up” about her whiskers.  
+  
 The great American inventions which have  
 been adopted all over the world are the fol­  
 lowing: 1. The cotton-gin, without which  
@@ -1539,7 +1371,7 @@ The electro magnet, and its practical appli­
 cation by Henry and Morse. 15. The only  
 successful composing machine for printers,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340676%2F1876011301%2F0219.jp2/pct:83.394248,79.952742,11.159225,17.675040/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340676%2F1876011301%2F0219.jp2/pct:83.441920,88.770053,11.111553,8.857729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1551,22 +1383,7 @@ successful composing machine for printers,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ll those hours  
-of the night and day when the lamp is not  
-burning) will explode a thousand times  
-while a lamp with moderately tight-fitting  
-wick, filled every evening, will not explode  
-once. Outside of these calculations, of  
-course, are those cases where idiots fill  
-lamps or draw oil with the blaze of another  
-lamp inclose proximity, or uses kerosene to  
-kindle fires with. Such persons, if arrived  
-at years of discretion, if biown up or  
-burnt up.will receive little sympathy from  
-the community at large, being simply the  
-victims of their own consummate ani un­  
-pardonable i&#x27;olly.  
-American Inventions.  
+  
 The great American inventions, which  
 have been adopted all over the world, are  
 the following:  
@@ -1592,7 +1409,7 @@ application, by Henry and Morse.
 15. The only successful composiug  
 machine for prihters
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_broadsheet_ver01%2Fdata%2Fsn92053942%2F00295879889%2F1876012001%2F0063.jp2/pct:18.380642,24.780316,12.160695,20.152314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_broadsheet_ver01%2Fdata%2Fsn92053942%2F00295879889%2F1876012001%2F0063.jp2/pct:18.396153,33.063855,12.083139,11.868776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1604,28 +1421,6 @@ machine for prihters
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- occurs the faroiliar line “  
-little Lamb.”  
-  
-Mary had a  
-  
-se  
-  
-A jeweller of Lyon, a certain M. Carriat,  
-has lately died, leaving the whole of his for  
-tune, estimated at 500,000 francs, to the town  
-of Bourg, where he was born. M. Carriat  
-always lived with the utmost economy and  
-was indeed generally considered a miser  
-But it seems now that his object far from  
-being the mere accumulation of wealth, was  
-to create in Bourg an establishment to be  
-called the Institution Carriat, in which  
-should be gratuitously taught drawing, ge  
-ometry, and mathematics, as well as singing  
-and instrumental music.  
-  
-ee +  
   
 The great American inventions, which  
 have been adopted ail over the worid, are the  
@@ -1644,455 +1439,7 @@ large scale. 14. The electro-magnet, and its
 practical application, by Henry and Morse.  
 15. The only successful composing machine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_school-journal_1876-02-19_8_244&#0036;0/pct:70.235602,61.214070,20.916230,29.273828/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## General and Personal
-
-#### From _St. Louis globe-Democrat._
-
-#### 1879-05-28 &middot; [St. Louis [Mo.]](http://dbpedia.org/resource/St._Louis)
-
-[This text is not available under an open license.]
-
----
-
-## [From _The Iola register._](https://chroniclingamerica.loc.gov/lccn/sn83040340/1879-05-30/ed-1/seq-1)
-
-#### 1879-05-30 &middot; [Iola, Allen County, Kansas](http://dbpedia.org/resource/Iola%2C_Kansas)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-credit to American genitu for at least  
-15 inventions and discoveries which, it  
-says, have been adopted all over the  
-world. These triumphs of American  
-genius are thus enumerated? First, the  
-cotton gin; second, the planing ma­  
-chine; third, the grass mower and grain  
-reaper; fourth, the rotary printing  
-press; fifth, navigation by steam; sixth,  
-tho hot air or caloric engine; seventh,  
-tho sewing machine; eighth, the India  
-rubber industry: ninth, the machine  
-manufacture of horseshoes; tenth, the  
-sand blast for carving; eleventh, the  
-gauge lathe; twelfth, the grain elevator;  
-thirteenth, artificial ice manufacture on  
-a large scale; fourteenth, the electro­  
-magnet and its practical application;  
-fifteenth, the composing machine fo
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_dole_ver01%2Fdata%2Fsn83040340%2F00237283156%2F1879053001%2F0048.jp2/pct:56.331570,75.668037,12.416226,9.352518/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Morning appeal._](https://chroniclingamerica.loc.gov/lccn/sn86076999/1879-06-04/ed-1/seq-2)
-
-#### 1879-06-04 &middot; [Carson City, Nev.](http://dbpedia.org/resource/Carson_City%2C_Nevada)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-the American genius for at least fifteen inven  
-  
-tions and discoveries which, it says, have  
-been adopted all over the world. These tri­  
-umphs of American inventive genius are thus  
-  
-enumerated: First, the cotton gin; second,  
-the planing machine; thirl, the grass mower  
-and grain reaper; fourth, the rotary printing  
-press; fifth, navigation by steam; sixth, the  
-hot air, or caloric engine: seventh, the sewing  
-machine; eighth the india rubber industry;  
-ninth, the machine manufacture of horse  
-6hoes; tenth, the sand blast for carving;  
-eleventh, t e gu ige lathe; twelfth, the grain  
-elevator; thirteenth, artificial ice manufact­  
-ure on a large scale; fourteenth, the electro­  
-magnet and its practical application; fifteenth,  
-the composing machine for printers. It i
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_dayton_ver01%2Fdata%2Fsn86076999%2F00415627336%2F1879060401%2F0690.jp2/pct:4.407544,80.437204,17.343173,11.862991/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Oxford Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83009653/1879-06-10/ed-1/seq-3)
-
-#### 1879-06-10 &middot; [Paris, Me.](http://dbpedia.org/resource/Paris%2C_Maine)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-to the American genius for at least 15 in­  
-ventions aud discoveries which have been  
-adopted all over the world. They are the  
-1 cotton gin, the planing machine, the grass  
-mowers and graiu reaper, the rotary print­  
-ing press, uavigatiou by steam, the hot  
-air or caloric engine, the sewing machine,  
-the India rubber industry, the machine  
-manufacture of horse shoes, the sand blast  
-for carving, the gauge lathe, the grain ele­  
-vator, artificial ice manufacture on a large  
-scale, the electro-magnet and its practical  
-application, aud the composing machine  
-for printers
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_baxter_ver01%2Fdata%2Fsn83009653%2F00279524056%2F1879061001%2F0334.jp2/pct:30.470500,87.626451,12.566592,6.381997/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1879-06-11/ed-1/seq-3)
-
-#### 1879-06-11 &middot; [Mifflintown, Juniata County, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-inventions and discoveries which have been  
-adopted all over the world. They are the  
-cotton gin, the planing machine, the grass  
-mower and grain reaper, the rotary printing  
-press, navigation by steam, the hot air or  
-caloric engine, the sewing machine, the india  
-rubber industry, the machine manufacture  
-of horse shoes, the sand ballast for earring,  
-the guage lathe, the gram elevator, artificial  
-ice manufacture on a Urge scale, theelectro-magnet  
-and its practical application, and  
-the composing machine for printers
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_hetzel_ver01%2Fdata%2Fsn86053634%2F00280776683%2F1879061101%2F0522.jp2/pct:27.132170,6.903951,10.640067,6.096176/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Fayette County herald._](https://chroniclingamerica.loc.gov/lccn/sn85038145/1879-06-19/ed-1/seq-1)
-
-#### 1879-06-19 &middot; [Washington [Washington Court House], Fayette County, O. [Ohio]](http://dbpedia.org/resource/Washington_Court_House%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-teen inventions and discoveries which,  
-it says, have been adopted all over the  
-world. -These triumphs of American gen­  
-ius are thus enumerated: First, the cot­  
-ton gin; second, the planing machine;  
-third, the grass mower and grain reaper;  
-fourth, the rotary printing press; fifth,  
-navagation by steam: sixth, hot air or  
-caloric engine; seventh, the sewing ma­  
-chine ; eighth, the india rubber industry;  
-ninth, the machine manufacture of horse  
-shoes; tenth, the sand blast for carving;  
-eleventh, the gauge lathe ; twelfth, the  
-grain elevator; thirteenth, artificial ica  
-manufacture on alarge scale ; fourteentn,  
-the electro-magnet and its practical ap  
-plication ; fifteenth, the composing ma  
-chine for printers. It is not rtea tna
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_odoric_ver01%2Fdata%2Fsn85038145%2F00415665817%2F1879061901%2F0541.jp2/pct:82.783938,76.076555,10.893018,8.833272/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1879-06-26/ed-1/seq-3)
-
-#### 1879-06-26 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-at least fifteen inventions and dis­  
-coveries which it says have been  
-adopted all over the world. These  
-triumphs of American-genious are  
-thus enumerated: First, the cotton  
-gin; second, the planing mashine;  
-third, the grass mower and grain  
-reaper; fourth, the rotary printing  
-press; fifth, navigation by steam;  
-Bixth, the hot air or caloric engine;  
-seventh, the sewing mashine;  
-eighth, the India rubber industry;  
-ninth, the machine manufacture of  
-horse shoes; tenth, the sand blast  
-for carving; eleventh, the gauge  
-lathe; twelfth, the grain elevator,  
-thirteenth, artificial ice manufac­  
-ture on a large scale; fourteenth,  
-the. electro-magnet and its practi­  
-cal application; fifteenth, the com­  
-posing machine for printers. It i
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020539%2F1879062601%2F0526.jp2/pct:53.408302,77.719077,9.732056,9.854140/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1879-07-31/ed-1/seq-4)
-
-#### 1879-07-31 &middot; [Ravenna, O. [Ohio]](http://dbpedia.org/resource/Ravenna%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-American genius for at least fifteen in­  
-ventions and discoveries whicb.it savs)  
-have been adopted all over the world.  
-These triumphs of American gunius  
-are thus enumerated ; First, the cot  
-ton gin ; second, tbe planing machine:  
-third, the grass mower and grain reap  
-er ; fourth, tbe rotary printing press ;  
-fifth, navigation by steam ; sixth, bot  
-air caloric engines ; seventh, tbe sew  
-ing machine; eighth, the india rub  
-ber industry ; ninth, tbe machine man  
-ufacture of horse shoes; tentb, the  
-sand blast for carving ; eleventh, the  
-gauge lathe ; twelfth, the grain eleva  
-tor; thirteenth, artificial ice menu  
-factureon a large scale; fourteenth,  
-the electromagnet and its practical ap­  
-plication; fifteenth, tbe composing  
-machine for printers. It is not ofte
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027194%2F1879073101%2F0466.jp2/pct:18.781800,7.686899,10.757378,10.592922/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _American Machinist 1877-2009_](https://archive.org/details/sim_american-machinist_1879-08-30_2_17/page/n2/mode/1up?view=theater)
-
-#### 1879-08-30 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-American genius for at least fifteen inventions  
-and discoveries which, it says, have been  
-adopted all over the world. These triumphs  
-of American genius are thus enumerated :  
-First, the cotton gin; second, the planing  
-machine; third, the grass mower and grain  
-reaper; fourth, the rotary printing press;  
-fifth, navigation by steam; sixth, hot air or  
-caloric engine; seventh, the sewing machine;  
-eighth, the india rubber industry; ninth, the  
-machine for manufacture of horse shoes;  
-tenth, the sand blast for carving; eleventh,  
-the gauge-lathe; twelfth, the grain elevator;  
-thirteenth, artificial ice manufacture on a  
-large scale; fourteenth, the electro-magnet  
-and its practical application; fifteenth, the  
-composing machine for printers.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_american-machinist_1879-08-30_2_17&#0036;2/pct:8.616928,10.789149,19.633508,13.825524/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Cincinnati daily star._](https://chroniclingamerica.loc.gov/lccn/sn85025759/1879-09-02/ed-1/seq-6)
-
-#### 1879-09-02 &middot; [[Cincinnati, Ohio]](http://dbpedia.org/resource/Cincinnati)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-inventions and discoveries which, it says,  
-have been adopted all over the world.  
-These triumphs of American genius  
-are thus enumerated : First, Cfle cotton  
-gin; second, the planting machine; third,  
-the grass mower and grain reaper; fourth,  
-the rotary printing press; fifth, navigation  
-by steam ; sixth, the hot air or caloric en­  
-gine; seventh, the sewing machine; eighth,  
-the India rubber industry; ninth, the nV­  
-chine manufacture of horse shoes; tenth,  
-the sandblast for carving; eleventh, the  
-gauge lathe; twelfth, the grain elevator;  
-thirteenth, artificial ice manufacture on a  
-large scale; fouiteenth, the electro-mag.  
-net and its practical application : fifteenth,  
-the composing machine for printers. I
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_himilco_ver01%2Fdata%2Fsn85025759%2F00296026955%2F1879090201%2F0087.jp2/pct:81.761872,79.297876,14.475797,9.025162/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## American Inventions
-
-#### From _Milwaukee daily sentinel._
-
-#### 1879-09-04 &middot; [Milwaukee, Wis.](http://dbpedia.org/resource/Milwaukee)
-
-[This text is not available under an open license.]
-
----
-
-## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1879-09-10/ed-1/seq-1)
-
-#### 1879-09-10 &middot; [Watertown, Wis.](http://dbpedia.org/resource/Watertown%2C_Wisconsin)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-for at least fifteen inventions and discov­  
-eries which, it says, have been adopted  
-all over the world. These triumphs of  
-American genius are thus enumerated:  
-First, the cotton gin; second the planing  
-machine; third, the grass mower and  
-grain reaper; fourth, the rotary printing  
-Eress; fifth navigation by steam; sixth,  
-ot air or caloric engine; seventh, the  
-sewing machine; eighth, the Indian rub­  
-ber industry; ninth, the machine for  
-manufacture of horse shoes; tenth, the  
-sand blast for carving; eleventh, the  
-guage lathe; twelfth, the grain elevator;  
-thirteenth, artificial ice manufacture on  
-a large scale; fourteenth, the electro­  
-magnet and its practical application; fif­  
-teenth, the composing machine for print­  
-ers
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00279550018%2F1879091001%2F0545.jp2/pct:47.471649,79.313939,14.449712,10.132980/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1879-09-10/ed-1/seq-2)
-
-#### 1879-09-10 &middot; [Watertown, Wis.](http://dbpedia.org/resource/Watertown%2C_Wisconsin)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-American genius for at least fifteen inven­  
-tions and discoveries which, it says, have  
-been adopted all over the world. These  
-triumphs of American genius are thus  
-enumerated: First, the cotton gin; sec­  
-ond, the planing machine; third, the  
-grass mower and grain reaper; fourth,  
-the rotary printing press; fifth, naviga­  
-tion by steam; sixth, hot air or caloric  
-engine; seventh, the sewing machine;  
-eighth, the India rubber industry;  
-ninth, the machine for manufacture of  
-horse shoes; tenth, the sand blast for  
-carving; eleventh, the gauge lathe;  
-twelfth, the grain elevator; thirteenth,  
-artificial ice manufacture on a large  
-scale; fourteenth, the electro-magnet and  
-its practical application; fifteenth, the  
-composing machine for printers.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00279550018%2F1879091001%2F0546.jp2/pct:4.675590,82.820051,14.844767,11.895512/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-09-11/ed-1/seq-1)
-
-#### 1879-09-11 &middot; [Lansing, Minn.](http://dbpedia.org/resource/Austin%2C_Minnesota)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-American genius for at least fifteen.in ven­  
-tions and discoveries which,:it sayp, have  
-been adopted all over the world. These  
-triumphs of .American genius are thus  
-enumerated:|First, the cotton |i| sec­  
-ond, the ^•ning nlaohine third, the  
-grass mower and grain reaper fourth,  
-the/otary printing press fifth, naviga­  
-tion brifteam iwtt?|.hdt aj^oKciloric  
-engine seventh, the sewing machine  
-eighth, the India rubber industry  
-ninth, the machine for manufacture of  
-hone shoes tenth, the sand blast for
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479755%2F1879091101%2F0160.jp2/pct:26.842211,75.629319,10.846231,6.839215/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-09-11/ed-1/seq-1)
-
-#### 1879-09-11 &middot; [Lansing, Minn.](http://dbpedia.org/resource/Austin%2C_Minnesota)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-twelfth, the grain elevator thirteenth^  
-artificial ice manufacture on jt large  
-scale fourteenth the electro-magnet and  
-its practical application fifteenth, the  
-composing machine for printers.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479755%2F1879091101%2F0160.jp2/pct:26.886432,82.931269,10.830151,2.723963/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Superior times._](https://chroniclingamerica.loc.gov/lccn/sn85040344/1879-09-13/ed-1/seq-2)
-
-#### 1879-09-13 &middot; [Superior, Wis.](http://dbpedia.org/resource/Superior%2C_Wisconsin)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-American genius for at least fifteen inven­  
-tions and discoveries which, it says, have  
-been adopted all over the world. These  
-triumphs of American genius are thus  
-enumerated: First, the cotton gin; sec­  
-ond, the planing machine; third, the  
-grass mower and grain reaper; fourth,  
-the rotary printing press; fifth, naviga­  
-tion by steam; sixth, hot air or caloric  
-engine; seventh, the sewing machine;  
-eighth, the India rubber industry;  
-ninth, the machine for manufacture of  
-horse shoes; tenth, the sand blast for  
-carving; eleventh, the gauge lathe;  
-twelfth, the grain elevator; thirteenth,  
-artificial ice manufacture on a large  
-scale; fourteenth, the electro-magnet and  
-its practical application; fifteenth, the  
-composing machine for printers
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_florence_ver01%2Fdata%2Fsn85040344%2F0027176960A%2F1879091301%2F0761.jp2/pct:6.795263,74.255668,12.503469,10.773971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_school-journal_1876-02-19_8_244&#0036;0/pct:70.314136,76.134644,20.837696,14.353253/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2116,52 +1463,29 @@ horse shoes. 10. The sand blast for carving.
 13 Artificial ice manufacture on a large  
   
 scale. 14. The electro-magnet and its practical  
-application. 14. The composing machine  
-for printers
+application. 14. The composing machin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861903%2F1879100201%2F0338.jp2/pct:3.105725,47.750844,15.068196,6.234925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861903%2F1879100201%2F0338.jp2/pct:3.105725,47.750844,15.068196,6.231910/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Helena weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84036143/1879-10-23/ed-1/seq-1)
+## From _The sun._
 
-#### 1879-10-23 &middot; [Helena, Mont.](http://dbpedia.org/resource/Helena%2C_Montana)
+#### 1880-04-13 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-American genius for at least fifteen inven­  
-tions and discoveries, which, it says, have  
-been adopted all over the world. These tri­  
-umphs of American genius are thus enume­  
-rated: 1st, the cotton gin; 2nd, the planing  
-machine; 8d, tbe grass mower and grain  
-reaper; 4th, the rotary printing press; 5th,  
-navigation by steam; 6th, hot air or caloric  
-engine; 7th, the sewing machine; 8th, the  
-robber industry; 9th, the machine for the  
-manufacture of horse shoes; 10th, the sand  
-blast for carving; lltb, the gauge lathe; 12th,  
-the grain elevator; 13tb, artificial icemano­  
-facture on a large scale; 14th, tbe electro­  
-magnet and its practical application; 15tb,  
-tbe composing machine for printers.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_harrier_ver01%2Fdata%2Fsn84036143%2F00295861204%2F1879102301%2F0360.jp2/pct:55.038023,88.037634,16.682510,8.788255/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## Multiple News Items
-
-#### From _The Wisconsin state register._
-
-#### 1879-11-29 &middot; [Portage, Columbia County, Wis.](http://dbpedia.org/resource/Portage%2C_Wisconsin)
-
-[This text is not available under an open license.]
+of world-wide adoption are: I. The cotton gin. 2 The  
+Planing machine. 3. The grass mower and reaper. a  
+The rotary printing press. 5. Navigation by steam. G  
+The hot air engine. 7 The sewing machine. STh  
+India rubber industry. 9. The machine manutacture of  
+horseshoes. 10. The sand blast for carving. 11, The  
+gauge lathe. 12. The grain elevator. 13. Artificial ic
+</td></tr></table>
 
 ---
 
@@ -2211,30 +1535,32 @@ gaoge lathe. 12. The gram elevator. 13
 
 ---
 
+## From _The New Orleans daily Democrat._
+
+#### 1880-04-19 &middot; [New Orleans, La.](http://dbpedia.org/resource/New_Orleans)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+3. The planing machine. 3. The grass i  
+and reaper. 4. The rotary printing press. H.  
+Navigation by steam. 6. The hot air engine.  
+7. The sewing machine. 3. The India rubb  
+e   
+horse shoes. 10, The sand blast for carving.  
+. The gauge lathe. 12. The grain elevate  
+13. Artificial ice making on a large seale. 14
+</td></tr></table>
+
+---
+
 ## [From _Connecticut western news._](https://chroniclingamerica.loc.gov/lccn/sn84027718/1880-04-21/ed-1/seq-1)
 
 #### 1880-04-21 &middot; [Salisbury, Litchfield Co., Conn.](http://dbpedia.org/resource/Canaan%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-well, iu com­  
-pany with a colored woman, while driv­  
-ing to her home in a covered farm wagon  
-from Red Bank, N. J., struck a match to  
-light her pipe, when a spark ignited the  
-canvas cover. .The colored woman  
-jumped out of the wagon, but Mrs. Still­  
-well remained until the entire cover was  
-burned, when the frightened horses  
-broke away, overturning the vehicle and  
-leaving the woman, who was enveloped  
-in flames, lying on the road. Some farm  
-hands, noticing her peril, tried to stamp­  
-out the flames, but without success,  
-.until, with their spades, they buried her  
-in the sand. Her injuries are fatal.  
-The great American inventions of  
-world-wide adoption are : 1. The cotton  
+  
 gin. 2. The planing machine. 3. The  
 grass mower and reaper. 4. The rotary  
 printing press. 5. Navigation by steam.  
@@ -2245,7 +1571,7 @@ shoes. 10. The sand blast for carving.
 11. The gauge lathe. 12. The grain  
 elevator. 13. Artificial ice making on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_animals_ver01%2Fdata%2Fsn84027718%2F00271763840%2F1880042101%2F0082.jp2/pct:62.385996,19.199715,11.032657,14.604607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_animals_ver01%2Fdata%2Fsn84027718%2F00271763840%2F1880042101%2F0082.jp2/pct:62.385996,28.995488,11.003236,4.808834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2266,12 +1592,9 @@ sewing machine. 8. The India-rubber
 industry. 9. Tho machine manufacture  
 of horseshoes. 10. Tho saud blast for  
 carving. 11. Tho gauge lathe. 12. The  
-grain elevator. 13. Artificial-ice making  
-on a largo scale. 14. Tho electric mag­  
-net and its practical application. 15.  
-The composing machine for printers
+grain elevator. 13. Artificial-ice makin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023760%2F1880042301%2F0475.jp2/pct:7.482536,46.007354,13.997851,7.693033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023760%2F1880042301%2F0475.jp2/pct:7.482536,46.007354,13.997851,5.760347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2293,12 +1616,9 @@ air engine. 7. The sewing machine
 Tho machine manufacture of horse­  
 shoes. 10. The sand blast for carving.  
 II. The gauge lathe. 12. Tka grain  
-elevator. 13. Artificial ice making  
-on a large scale. 14. The electric  
-magnet and its practical application.  
-15. The composing machine for prin
+elevator. 13. Artificial ice makin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_elk_ver01%2Fdata%2Fsn93061632%2F0029602482A%2F1880042301%2F0405.jp2/pct:52.227074,66.734331,13.135371,8.525755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_elk_ver01%2Fdata%2Fsn93061632%2F0029602482A%2F1880042301%2F0405.jp2/pct:52.227074,66.734331,13.135371,6.533875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2319,12 +1639,9 @@ sewing machine. 8. The India rubber
 industry. 9. The machine manufacture I  
 of horseshoes. 10. The&#x27; sand blast for  
 carving. 11. The gauge lathe. ,12. The  
-grain elevator. 13. Artificial ice making  
-on a large scale. 14. J.he electric mag­  
-net and its practical application. : 15.  
-The composing machine for printers. . 
+grain elevator. 13. Artificial ice makin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_norgay_ver01%2Fdata%2Fsn84028194%2F00296029002%2F1880050101%2F0523.jp2/pct:65.595568,33.842149,9.667590,4.827831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_norgay_ver01%2Fdata%2Fsn84028194%2F00296029002%2F1880050101%2F0523.jp2/pct:65.595568,33.842149,9.667590,3.680038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2345,12 +1662,9 @@ I rotary printing Dress. 5. Navigation by
 1 industry. 9. The machine manufacture  
 of horseshoes. 10. The sand blast for  
 I carving. 11. The gauge lathe. 12. The  
-r grain elevator. 13. Artificial ice mak1  
-lag on a large scale. 14. Th** electric  
-: magnet and its practical application.  
-15. The composing machine for print
+r grain elevator. 13. Artificial ice mak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F00237287253%2F1880050501%2F0329.jp2/pct:44.875278,15.320969,11.064460,5.748095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F00237287253%2F1880050501%2F0329.jp2/pct:44.875278,15.320969,10.883346,4.549144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2371,12 +1685,9 @@ sewing machine. 8. The India rubber
 industry. 9. The jnaehraejrranufacture  
 of horseshoeS.ailOi &#x27;The sand blast for  
 earring. 1 1. -The gauge lathe. 12. The  
-grain elevator J 13 Artificial ice making  
-on a large scale. 14. i- The electric mag­  
-net and its practical application. 15.  
-The composing machine for printers. 
+grain elevator J 13 Artificial ice makin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_hobbs_ver01%2Fdata%2Fsn84024283%2F00294556801%2F1880051301%2F0159.jp2/pct:24.103448,84.763682,13.810345,6.218905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_hobbs_ver01%2Fdata%2Fsn84024283%2F00294556801%2F1880051301%2F0159.jp2/pct:24.103448,84.763682,13.810345,4.726368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2400,12 +1711,9 @@ sewing machine. 8. The India rubber
 industry. 9. The machine manufacture  
 of horseshoes. 10. The sand blast for  
 carv ing. 11. The gauge lathe. 12. The  
-grain elevator 1 . 13. Artificial ice making  
-on a laige scale. 14. The electric ma«£  
-net and its practical application. 15.  
-The composing machine for printers. 
+grain elevator 1 . 13. Artificial ice makin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_meowth_ver01%2Fdata%2Fsn85034235%2F0029587403A%2F1880052001%2F0090.jp2/pct:22.661164,82.891949,14.426101,8.726165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_meowth_ver01%2Fdata%2Fsn85034235%2F0029587403A%2F1880052001%2F0090.jp2/pct:22.661164,82.891949,14.426101,7.137182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2456,67 +1764,6 @@ tvator. 1J. Artificial ice makin
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1880-06-17_50_25/page/n6/mode/1up?view=theater)
-
-#### 1880-06-17 &middot; [New York](http://dbpedia.org/resource/New_York_City)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-fifteen inventions and discoveries, which, it  
-says, have been adopted all over the world.  
-First, the cotton gin ; second, the planing ma¬  
-chine ; third, the grass mower and grain reap¬  
-er ; fourth, the rotary printing-press ; fifth,  
-navigation by steam ; sixth, hot air or caloric  
-engine ; seventh, the sewing machine ; eighth,  
-the India rubber industry ; ninth the machine  
-for the manufacture of horse-shoes ; tenth, the  
-sand-blast for carving ; eleventh, the gauge  
-lathe ; twelfth, the grain elevator ; thirteenth,  
-the artificial ice manufacture on a large scale ;  
-fourteenth, the electro-magnet and its practical  
-application ; fifteenth, the composing machine  
-for printers.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_evangelist-and-religious-review_1880-06-17_50_25&#0036;6/pct:48.244048,55.671098,13.735119,6.668096/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Daily Republican._](https://chroniclingamerica.loc.gov/lccn/sn84038114/1880-06-24/ed-1/seq-1)
-
-#### 1880-06-24 &middot; [[Wilmington, Del.]](http://dbpedia.org/resource/Wilmington%2C_Delaware)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-fifteen inventions and disoove&#x27;ies which  
-it says have been adopted all over the  
-world. These triumphs of American  
-genius are thus enumerated: First, the  
-cotton gin; second, the plaining ma­  
-chine; third, the grass mower and grain  
-reaper;fourth, the rotary printing press;  
-fifth, navigation by steam; sixth, the  
-hot air or calorio engine; seventh, the  
-sewing machine; eighth, the India, rub­  
-ber industry; ninth, the machine  
-manufactnre of horse shoes; tenth, the  
-cand blast for oarving; eleventh, the  
-gauge lathe; twelfth, the grain elevator;  
-thirteenth, artificial ioe manufacture on  
-a large scale, fourteenth, the electro­  
-magnet and its practical application;  
-fifteenth, the composing machine fo
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_fidelius_ver01%2Fdata%2Fsn84038114%2F00271741558%2F1880062401%2F0625.jp2/pct:24.803536,54.026520,13.089391,9.152652/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## Facts of Science and Art
 
 #### From _Boston investigator._
@@ -2524,37 +1771,6 @@ fifteenth, the composing machine fo
 #### 1880-07-14 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
-
----
-
-## [From _The Rock Island Argus._](https://chroniclingamerica.loc.gov/lccn/sn92053943/1880-11-06/ed-1/seq-3)
-
-#### 1880-11-06 &middot; [Rock Island, Ill.](http://dbpedia.org/resource/Rock_Island%2C_Illinois)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-inventions and .discoveries which, it says  
-have been adopted all over the world.  
-lnesa tnriumpns ot American genius  
-are thus enumerated: first, the cotton  
-gin; second the planting machine: third.  
-the grass mower and grain reaper; fourth  
-therotaty printing press; ultb. navigation  
-by steam; sixth, the .hot air or caloric ec  
-cine: seventh, the sowing machine; eighth  
-the India rubber industry; ninth: the ma  
-chine manufactureHof horse shoes; tenth  
-the sand blast for carving; eleventh, the  
-gaugo lathe; twelfth, the grain elevator;  
-thirteenth, artmciai ice inanuiaciuro on a  
-large ecale; fourteenth, the electro magnet  
-and its practical application; fifteenth  
-the composing machine for printers. I
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_columnist_ver01%2Fdata%2Fsn92053943%2F00295873553%2F1880110601%2F0653.jp2/pct:29.915418,37.269974,12.257011,7.989751/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
@@ -2572,12 +1788,9 @@ steam ; 6. The hot-air engine ; 7. Tlie sewing-
 machine ; 8. The India rubber industry ; 9. The  
 machine manufacture of horseshoes ; 10. The  
 sand-blast for carving; . 11. The gauge lathe;  
-12. The grain elevator ; 13. Artificial ice-mak¬  
-ing on a large scale; 14. The electric magnet  
-and its practical application. 15. The compos¬  
-ing machine for printers. A sixteenth must b
+12. The grain elevator ; 13. Artificial ice-mak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_evangelist-and-religious-review_1881-01-27_52_4&#0036;6/pct:22.419725,33.565609,13.274083,4.888508/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_evangelist-and-religious-review_1881-01-27_52_4&#0036;6/pct:22.419725,33.565609,13.274083,3.537736/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2629,14 +1842,49 @@ sewing maobine. 8. The, india rubber
 industry. 9. Tbe machine manufacture  
 of horseshoes. &#x27; 10. Tbe sand blast for :  
 carving. 11. The gauge lathe. 12. The  
-grain elevator. 13. Artificial ice making  
-on a large scale. .14. The electric msg  
-et and its practical application. k15.  
-The composing machine for printerst&#x27;
+grain elevator. 13. Artificial ice makin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027406%2F1881042601%2F0457.jp2/pct:85.153609,76.039329,11.392033,5.589398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027406%2F1881042601%2F0457.jp2/pct:85.153609,76.039329,11.392033,4.210751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The Dallas daily herald._
+
+#### 1881-06-02 &middot; [Dallas, Tex.](http://dbpedia.org/resource/Dallas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+00.  
+During April, 99,952 passengers arrived in  
+the United States, of whom 95 390 were im­  
+migrants. Of these Germany sent 38 898,  
+England and Wales 7,387, Scotland 1,454,  
+France 466, Italy 2,811 Russia 1 362, Aus­  
+tria 1,842, Denmark 656, Sweden 3,505, Nor­  
+way 2462, Switzerland 2,066, Canada  
+12306, China 1,523, and the remainder from  
+various other countris. For the nine  
+months ended March 31, the arrivals of im­  
+migrants numbered 357,396, an increase of  
+142,800 as compared with the same period  
+of last year.  
+  
+The fifteen great American inventions of  
+  
+world wide adoption are: I. The cotton gin.  
+2. The planing machine. 3. The grass mower  
+and reaper. 3. The rotary printing press 5  
+Navigation by steam. 6. The hot air engine.  
+7. The sewing machine. 8. The India rubber  
+  
+industry. 9. The machine manufacture of  
+  
+horse shoes 10. The sand blast for carving.  
+I1 The gauge lathe. 12. The grain elevator.  
+13. Artifiaal ice-making on a large scale. 1
+</td></tr></table>
 
 ---
 
@@ -2650,30 +1898,48 @@ The composing machine for printerst&#x27;
 
 ---
 
-## [From _The daily Cairo bulletin._](https://chroniclingamerica.loc.gov/lccn/sn87082573/1881-06-10/ed-1/seq-1)
+## From _The daily Cairo bulletin._
 
 #### 1881-06-10 &middot; [Cairo, Ill.](http://dbpedia.org/resource/Cairo%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+mpared  
+with the results obtained by the census  
+of 1870:  
+1880. 1870.  
+No, of establishments. in 15  
+Emptoyes,82 15307  
+Capital91814  
+Wages paid,0 7889,  
   
-2. Tho planing machine.  
-5. The grass mower and reaper.  
-4. Tho rotary printing press.  
-6. Navigation by steam.  
-G. Tho hot air engine.  
+Materials used01,00 5,904,365  
+Value of product, 21,003,464 18,40,507  
+The investigation into the growth and  
+extent of this industry included only  
+those works which manufacture glass  
+from crude material, and not those in  
+which manufactured glass is a raw ma­  
+terial, such as manufactories of painted  
+or stained glass, mirrors, chemists&#x27;  
+ware, etc.  
+Our Great Inventions.  
+The fifteen great American inventions  
+of world-wide adoption are:  
+1. The cotton gin.  
+2. The planing machine.  
+3. The grass mower and reaper.  
+4. The rotary printing press.  
+5. Navigation by steam.  
+6. The hot air engine.  
 7. The sewing machine.  
-8. The India rubber Industry.  
-9. Tho machine manufacture of horse­  
-shoes.10. Tho sand blast for carving.  
-11. Tho gaugo lathe.  
+8. The India rubber industry.  
+9. The machine manufacture of horse­  
+sho The sand blast for carving  
+11. The gauge lathe.  
 12. The grain elevator.  
-13. Artiliclal Ice making on a largo  
-calo
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_archives_ver01%2Fdata%2Fsn87082573%2F00211101131%2F1881061001%2F1139.jp2/pct:79.280397,80.016105,14.185277,7.368139/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+13. Artificial ice making on a larg
+</td></tr></table>
 
 ---
 
@@ -2739,13 +2005,9 @@ rubber industry. 9. The machine ~
 manufacture of horsesboes. 10.  
 The sand blast for carving. 11­  
 The gauge lathe. 12. The grain b  
-elevator. 13. Artificial ice mak-I  
-mg on a large scale. 14. The  
-electric magnet and its practical 1  
-application. 15. The composing  
-machine for printers. A sixteent
+elevator. 13. Artificial ice mak-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F0023728706A%2F1881061501%2F0303.jp2/pct:74.284951,85.396255,12.219804,9.971696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F0023728706A%2F1881061501%2F0303.jp2/pct:74.284951,85.396255,12.219804,7.271936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2890,7 +2152,7 @@ tical application.-
 
 ---
 
-## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1881-09-07/ed-1/seq-1)
+## From _Clearfield Republican._
 
 #### 1881-09-07 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
@@ -2899,24 +2161,21 @@ tical application.-
   
 of the finest telescope in the world, an  
 observatory and an ample endowment  
-of tho chair of astronomy, tbe whole  
-valued at 1120,0011.  
+of the chair of astronomy, the whole  
+valued at $120,000.  
 The fifteen great American inven­  
-tions of world-wide adoption are : 1.  
-The cotton gin. i. Tbe planing ma­  
-chine. &#x27;A. The grass mower and reaper.  
-4. The rotary printing press. 5. Nav­  
-igation by steam, ti. Tho hot air en­  
-gine. 7. The sowing machine, ti. Tbe  
-India rubber industry. &#x27;J. The ma­  
+tions of world-wide adoption are: I,  
+The cotton gin. 2. The planing ma­  
+chine. 3. The grass mower and reaper.  
+1. The rotary printing press. 5. Nav­  
+igation by steam. 6. The hot air en­  
+gine. 7. The sewing machine. 8. The  
+India rubber industry. 9. The ma­  
 chine manufacture of horseshoes. 10.  
-Tho sand blast for carving. 1 1. The  
-guugo lathe., 12, Tho grain elevator.  
-13. Artificial ico making on a larg
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477874%2F1881090701%2F0988.jp2/pct:75.625876,37.559567,10.114160,7.638989/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+The sand blast for carving. Il. The  
+guage lathe. 12. The grain clevator.  
+13. Artificial ice making on a larg
+</td></tr></table>
 
 ---
 
@@ -3072,7 +2331,7 @@ li The grain elevator.
 
 ---
 
-## [From _The Saline County journal._](https://chroniclingamerica.loc.gov/lccn/sn84027670/1882-10-26/ed-1/seq-1)
+## From _The Saline County journal._
 
 #### 1882-10-26 &middot; [Salina, Kan.](http://dbpedia.org/resource/Salina%2C_Kansas)
 
@@ -3082,23 +2341,20 @@ li The grain elevator.
 The hot-air engine.  
 The sewing machine.  
 The Indian rubber industry.  
-The &#x27;machine manufacture of  
+The machine manufacture of  
 3.  
 4.  
-a.  
-u.  
+6.  
+6.  
 7.  
-8.  
-.  
+S.  
+a  
 horse-shoes.  
 10. The sand blast for carving.  
-11. Tbegague lathe.  
+11. The gague lathe.  
 12. The grain elevator.  
-13. Al Uncial Ice-maklngon a larg
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_funston_ver01%2Fdata%2Fsn84027670%2F00237283399%2F1882102601%2F0388.jp2/pct:48.601216,57.546588,10.790617,4.800691/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+13. Artificial ice-making on a larg
+</td></tr></table>
 
 ---
 
@@ -3121,38 +2377,6 @@ large scale. 14. The electro-magnet and its prac-
 tical application. 15. The telephone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/iiif/sim_school-journal_1884-08-16_28_5&#0036;3/pct:65.758048,75.461538,27.829699,9.980769/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1884-09_79_3/page/n50/mode/1up?view=theater)
-
-#### 1884-09-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-American nation for at least fifteen inven-  
-tions and discoveries which, it says, have  
-been adopted all over the world. These tri-  
-umphs of American genius are thus enumer.  
-ated: First, the cotton-gin; second, the  
-planing-machine ; third, the grass-mower and  
-grain-reaper; fourth, the rotary printing  
-press ; fifth, navigation by steam ; sixth, the  
-hot-air or caloric engine; seventh, the sew-  
-ing-machine ; eighth, the India-rubber (vul-  
-canite process) industry ; ninth, the machine  
-manufacture of horseshoes ; tenth, the sand-  
-blast for carving; eleventh, the gauge lathe ;  
-twelfth, the grain-elevator; thirteenth, arti-  
-ficial ice manufacture on a large scale ; four-  
-teenth, the electro-magnet and its practical  
-application ; fifteenth, the composing ma-  
-chine for printers.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_phrenological-journal-and-science-of-health_1884-09_79_3&#0036;50/pct:46.961806,69.671659,34.201389,19.585253/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3360,6 +2584,26 @@ electric magnet and its practical application ; and
 
 ---
 
+## From _The Manchester journal._
+
+#### 1887-08-18 &middot; [Manchester, Vt.](http://dbpedia.org/resource/Bennington%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+gin, 2, the planing machine, 5 the grass  
+mower and reaper; I, the rotary printing  
+  
+press; 5, navigation by steam; 6, the hot  
+ir engine; 7 the sowing machine; 5, th  
+India rubber industry; 9 the machine  
+manufacture of horseshoes; 10, the sand-  
+blast for carving; I1, the gangs lathe; 12,  
+the grain elevator, 13, artificial ice mak
+</td></tr></table>
+
+---
+
 ## [From _The Republican._](https://chroniclingamerica.loc.gov/lccn/sn88065202/1887-08-20/ed-1/seq-7)
 
 #### 1887-08-20 &middot; [Oakland, Md.](http://dbpedia.org/resource/Oakland%2C_Maryland)
@@ -3500,6 +2744,25 @@ vator; 13, artificial ice-making on
 
 ---
 
+## From _The Washington critic._
+
+#### 1887-09-10 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+2, the planting machine; 3, the grass mower  
+and reaper; 4, the rotary printing press; 5,  
+navigation by steam; O, the hot-air engine;  
+7, the sewing-machine; 8, the India-rubber  
+industry; 9, the machine manufacture of  
+horse-shoes; 10, the sand-blast for carving;  
+11, the gauge lathe; 12, the grain elevator;  
+13, artificlal ice-making on a large scale
+</td></tr></table>
+
+---
+
 ## [From _American: A National Journal 1880-1900_](https://archive.org/details/sim_american-a-national-journal_1887-09-10_14_370/page/n14/mode/1up?view=theater)
 
 #### 1887-09-10 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
@@ -3588,6 +2851,25 @@ grain elevator; 13, artificial ice-making on a larg
 
 ---
 
+## From _Middlebury register._
+
+#### 1887-09-16 &middot; [Middlebury, Vt.](http://dbpedia.org/resource/Middlebury%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+B, the planing machine; 5, the grass mower  
+and reaper; 4, the rotary printing press; 5,  
+navigation by steam; 6, the hot air engine;  
+7, the sewing machine; 8, the India rubber  
+industry; 0, the machine manufacture of  
+horseshoes; 10, the sand blast for carving; I1,  
+the gauge lathe; 12, the grain elevator; 13,  
+artificial ice making on a large scale; 14, th
+</td></tr></table>
+
+---
+
 ## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1887-09-21/ed-1/seq-7)
 
 #### 1887-09-21 &middot; [Abbeville, S.C.](http://dbpedia.org/resource/Abbeville%2C_South_Carolina)
@@ -3615,50 +2897,46 @@ elevator; 13, artificial ice-making on
 
 ---
 
-## [From _Fort Worth daily gazette._](https://chroniclingamerica.loc.gov/lccn/sn86064205/1887-09-22/ed-1/seq-3)
+## From _Fort Worth daily gazette._
 
 #### 1887-09-22 &middot; [Fort Worth, Tex.](http://dbpedia.org/resource/Fort_Worth%2C_Texas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- charge of  
-grand larceny and got two years in the  
-penitentiary Rufus Climer white was  
+nd larceny and got two years in the  
+penitentiary. Rulus Climer, white, was  
 found guilty of assault to commit rape  
   
-and fined S35 Important cases are set  
-for tomorrow and Friday  
-Mrs Preston of Preston Springs near  
-this city was severely if not fatally in­  
+and fined $35. Important cases are set  
+for to-morrow and Friday  
+Mrs. Preston of Preston Springs, near  
+this city, was severely if not fatally in­  
 jured this evening by being thrown from  
-her buggy She had three of her grand­  
-children in tne buegy who were all more  
-or less injured one severely The horse  
+her buggy. She had three of her grand­  
+children in the buggy, who were all more  
+or less injured, one severely. The horse  
 was badly frightened and demolished the  
 buggy  
-Fifteen Famous American l veatlone  
-Diyton Democrat  
+Fiftsen Famous American Iaventions  
+Dayton Democrat  
 The fifteen great American inventions  
-of worldwide adoption are  
-1 The cotton gin  
-2 The planing machine  
+of world-wide adoption are  
+1. The cotton gin  
+2. The planing machine  
   
-3 The grass mover and reaper  
-4 The rotary printing press  
-5 Navigation by steam  
-G The hot air engine  
-7 The sewing machine  
-8 The India rubber industry  
-9 The machine manufacture of horse­  
+3. The grass mower and reaper  
+. The rotary printing press  
+5. Navigation by steam  
+6. The hot air engine  
+7. The sewing machine  
+8. The India rubber industry  
+9. The machine manufacture of horse­  
 shoes  
-10 The sandblast for carving  
-11 The gaJge lathe  
-12 The crain elevator  
-13 Artificial Icemaking on a larg
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_echo_ver03%2Fdata%2Fsn86064205%2F0020653560A%2F1887092201%2F0513.jp2/pct:30.750894,25.510147,14.677337,16.651635/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+10. The sandblast for carving  
+11. The gauge lathe  
+12. The grain elevator  
+13. Artificial ice-making on a larg
+</td></tr></table>
 
 ---
 
@@ -3735,25 +3013,36 @@ tical application.
 
 ---
 
-## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1887-09-24/ed-1/seq-6)
+## From _The Ottawa free trader._
 
 #### 1887-09-24 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-U, the .binni;; machine; 8, the grass mower  
-and reaper; 4, the rotary printing press; 6,  
-navigation by steam; 0, tho hot air engine.;  
+k and low sides. It is covered with  
+Hindu rugs and has two large, soft pillows  
+worked in Turkish embroidery. At each  
+corner the chair is supported by ropes which  
+depend from the roof and which run through  
+hollow pieces of mahogany, making the sup­  
+ports seem like slender and flexible wooden  
+columns. &quot;In the Parsee chair,&quot; it seems, &quot;a  
+lady may lounge and swing in the most pic­  
+turesque of attitudes, without suffering that  
+curvature of the spine which the hammock  
+entails.&quot;-Exchange.  
+Fifteen American InventIOns.  
+The fifteen great American inventions of  
+world wide adoption are: I, the cotton gin;  
+2, the planing machine; 3, the grass mower  
+and reaper; 4, the rotary printing press; 5,  
+navigation by steam; 6, the hot air engine;  
 7, the sewing machine; 8, the India rubber  
-industry; it, the machine maun fact ure of  
-horseshoes; ID, the sand blast for carving; 11,  
-the gauge lathe; 13, the grain elevator; 13.  
-artillcial ice making on a large scale; 11, th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_cataloging_ver01%2Fdata%2Fsn84038582%2F00212471574%2F1887092401%2F0258.jp2/pct:37.152435,71.863371,14.375863,3.973950/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+industry; 9, the machine manufacture of  
+horseshoes; 10, the sand blast for carving; I1,  
+the gauge lathe; 12, the grain elevator; 15,  
+artificial ice making on a large scale; 14, th
+</td></tr></table>
 
 ---
 
@@ -3944,27 +3233,41 @@ horseshoes.
 
 ---
 
-## [From _The Ouachita telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85034336/1887-10-08/ed-1/seq-2)
+## From _The Ouachita telegraph._
 
 #### 1887-10-08 &middot; [Monroe, La.](http://dbpedia.org/resource/Monroe%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-The cotton gin; (2) the planing nas­  
-Schine; (3) the grass ratn or and rea.  
-t per ; (4) the rotary printing press; (5)  
-navigation by ste.am; (6) the hot air  
-engine; (7) the sewing machine; (8)  
+, &quot;Thurs-  
+day, Oct. 20, 1887, Parlor P,St. Charles  
+IIOsO?  
+The meeting of the Democratic State  
+Central Committe will, therefore, be  
+he hold on Thursday, Oct 20, 1887, at  
+12 o&#x27;clock m., in Parlor P, St. Charle  
+Hotel, New Orleans. The att ndance  
+of every member of the committee is  
+ respectfully requested, as business of  
+importance is to be transacted.  
+LEON JASTREMSEI, PreS&#x27;t.  
+Our Fifteen Great InvenTiOns.  
+USafety Valve.I  
+The fifteen great American inven­  
+tions of world-wide adoption are: (I)  
+The cotton gin; (2) the planing ma­  
+chine. 43) the grass mower and reas  
+chine; Co) the grass mowor and rea  
+navigation by steam; (6) the hot air  
+engine; () the sewing machine; (8)  
 the india rubber industry; (9) the  
 machine manufacture of horseshoes;  
 (10) the sand blast for carving; (11) the  
-electric lath ; (12) the grain eleva­  
-tor; (13) artificial ice making on 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_angel_ver01%2Fdata%2Fsn85034336%2F00211101040%2F1887100801%2F0499.jp2/pct:81.223415,65.825364,14.644521,5.925694/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+electric lath; (12) the grain eleva­  
+tor; (13) artificial ice making on a  
+large scale; (1d) the electric magnet  
+large scale. G0) the electric mogne
+</td></tr></table>
 
 ---
 
@@ -4090,26 +3393,23 @@ elevator; 13, artificial ice making on
 
 ---
 
-## [From _The Iowa plain dealer._](https://chroniclingamerica.loc.gov/lccn/sn83025167/1887-10-27/ed-1/seq-1)
+## From _The Iowa plain dealer._
 
 #### 1887-10-27 &middot; [New Oregon, Howard County, Iowa](http://dbpedia.org/resource/Cresco%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-tho cotton gin 2. tho planing machine  
-3, tho gra?s mower and reaper 4, tho  
-rotary printing press 5, navigation by  
-steam. C, tho hot-air engine 7, tho  
-sowing machine 8. tho India-rubber  
-industry 9 tho machine manufacture  
-of horseshoes 10, tho sand-blasts for  
-carving 11, tho gauge lathe 12, the  
-grain elevator 13, artificial ice-makin
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_lapras_ver01%2Fdata%2Fsn83025167%2F00279528414%2F1887102701%2F0630.jp2/pct:81.519711,78.087688,10.674460,4.563842/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+the cotton gin; 2, the planing machine,  
+3, the grass mower and reaper; 4, the  
+rotary printing press; 5, navigation by  
+steam. 6, the hot-air engine; 7 the  
+sewing machine; 8 the India-rubber  
+industry, 9 the machine manufacture  
+of horseshoes; 10, the sand-blasts for  
+carving; 11, the gauge lathe; 12, the  
+grain elevator, 13, artificial ice-makin
+</td></tr></table>
 
 ---
 
@@ -4287,6 +3587,25 @@ manufacture of horseshoes; 10, the sand-
 blast for carving ; 11, the gauge Jathe  
 ;, ,12, the grain elevator : 13,  
 artificial icemakinp on a large scale ;
+</td></tr></table>
+
+---
+
+## From _The Big Sandy news._
+
+#### 1887-11-24 &middot; [Louisa, Ky.](http://dbpedia.org/resource/Louisa%2C_Kentucky)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+3, the planing machine; 3, the grass mower  
+and reaper; 4, the rotary printing press; s,  
+navigation by steam; 6, the hot air engine;  
+I, the sewing machine; S, the India rubber  
+industry; 9, the machine manufacture of  
+horseshoes; 10, the sand blast for carving; I1,  
+the gauge latlo; 17, she grain elevator; 18,  
+artificial ice making on a large scale; 14, th
 </td></tr></table>
 
 ---
@@ -4716,7 +4035,7 @@ grain elevator ; 13, artificial ice
 
 ---
 
-## [From _Arizona silver belt._](https://chroniclingamerica.loc.gov/lccn/sn84021913/1888-09-29/ed-1/seq-4)
+## From _Arizona silver belt._
 
 #### 1888-09-29 &middot; [Globe City, Pinal County, Ariz.](http://dbpedia.org/resource/Globe%2C_Arizona)
 
@@ -4735,10 +4054,7 @@ The India rubber industry 9 The
 machinemanufacfure of horse shoes  
 10 Tho sandblast for carving 11  
 Tho gauge lathe 12 Th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_blackwidow_ver01%2Fdata%2Fsn84021913%2F00211105112%2F1888092901%2F0093.jp2/pct:19.603025,60.891594,12.022684,7.701986/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 

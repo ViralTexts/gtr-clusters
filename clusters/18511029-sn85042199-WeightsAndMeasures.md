@@ -1,7 +1,7 @@
 
 # Weights and Measures
 
-### 179 reprints from 1851-06-26 to 1890-08-14
+### 191 reprints from 1851-06-26 to 1890-08-14
 
 ## [Weights and Measures](https://chroniclingamerica.loc.gov/lccn/sn85042199/1851-10-29/ed-1/seq-4/)
 
@@ -38,43 +38,40 @@ Of salt, fifty pounds.
 
 ---
 
-## [From _The Davenport gazette._](https://chroniclingamerica.loc.gov/lccn/sn82014073/1851-06-26/ed-1/seq-3)
+## From _The Davenport gazette._
 
 #### 1851-06-26 &middot; [Davenport, Scott Co., Iowa](http://dbpedia.org/resource/Davenport%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-likfii to inean the above, excepting the following  
-relation to the bushel. A bushel of the res­  
+taken to mean the above, excepting the following  
+relation to the bushel. A bushel of the res-­  
 pective articles hereafter mentioned will mean  
-the amount of weights iu this section specified  
-that is to tay,  
+the amount of weights in this section specified  
+that is to say,  
   
 Of wheat sixty pounds,  
-of thelled corn, tifly-six pounds,  
-Of corn in the cob, seventy pmradSf  
-Of rye, lifty-si.x pounds,  
-Of oats, thirty-live pounds&#x27;,  
-Ol birlfy, forty-eight pounds,  
+Of shelled corn, fifty-six pounds,  
+Of corn in the cob, seventy pounds,  
+Of rye, fifty-six pounds,  
+Of oats, thirty-five pounds,  
+Of barley, forty-eight pounds,  
 Of potatoes, sixty pounds,  
-Ot beans, sixty pounds,  
+Of beans, sixty pounds,  
 Of bran, twenty pounds,  
-Of clover seed, bitty pounds,  
-Ol timothy seed, t«r&#x27;y-!ive pounds,  
+Of clover seed, sixty pounds,  
+Of timothy seed, fortyfive pounds,  
 Of flax seed, fifty-six pounds,  
 Of hemp seed, forty-four pounds,  
-Of buckwheat, filH-two pounds.  
+Of buckwheat, fifty-two pounds,  
 Of blue grass seed, fourteen pounds,  
 Of castor beans, forty-six pounds.  
 Of dried peaches, thirty-three pounds,  
-Of dried apple«, twenty-four pounds,  
-Ot onioni, fifty-seven pounds,  
-Ol salt, lilty pound*
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_flareon_ver02%2Fdata%2Fsn82014073%2F00279529200%2F1851062601%2F0389.jp2/pct:2.159532,48.163447,13.186813,11.310898/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Of dried apples, twenty-four pounds,  
+Of onions, lifty-seven pounds,  
+Of salt, fifty pounds
+</td></tr></table>
 
 ---
 
@@ -186,6 +183,40 @@ Of salt, fifty pounds.
 
 ---
 
+## From _The Evansville daily journal._
+
+#### 1851-10-08 &middot; [Evansville, Ia. [i.e. Ind.]](http://dbpedia.org/resource/Evansville%2C_Indiana)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+ following table o the number of pounds in a  
+busher of the various articles. I may be of  
+interest to some of our farming friends:  
+Of wheat sixty pounds  
+Of shelled corn, fitty six pounds.  
+On corn in the cob, seventy pounds.  
+Of rye, fifty-six pounds.  
+Of oats, thirty five pounds.  
+Of barley, forty-eight pounds.  
+Of potatoes, sixty pounds.  
+Of beans, sixty pounds.  
+Of bran twenty pounds.  
+Of clover seed, sixty pounds.  
+Of timothy seed, forty-five pounds.  
+Of flax-seed, fifty-six pounds-  
+Of hemp seed, forty-four pounds.  
+Of buckwheat, fifty-two pounds.  
+Of blue grass seed, fourteen pounds.  
+Of castor beans, forty six pounds.  
+Of dried peaches, thirty-three pounds.  
+Of dried apples, twenty-four pounds.  
+Of onions, fifty-seven pounds.  
+Of salt, fifty pounds
+</td></tr></table>
+
+---
+
 ## [From _Tarboro' press._](https://chroniclingamerica.loc.gov/lccn/sn85042204/1851-10-18/ed-1/seq-1)
 
 #### 1851-10-18 &middot; [Tarborough, (Edgecombe Co., N.C.)](http://dbpedia.org/resource/Tarboro%2C_North_Carolina)
@@ -219,6 +250,27 @@ Of salt, fifty pounds
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn85042204%2F00296023085%2F1851101801%2F0170.jp2/pct:39.220250,55.782587,17.486180,17.554102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The Hillsdale standard._
+
+#### 1851-10-21 &middot; [Hillsdale, Mich.](http://dbpedia.org/resource/Hillsdale%2C_Michigan)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Weights &amp; Measures.  
+The following table of the number of pounds  
+  
+of various articles to a bushel, is taken from  
+the revised Statutes of 1846.  
+  
+Of wheat 60 pounds.  
+Of Clover Seed, 60 lbs.  
+Of Rye, 56 b  
+Of Indian Corn, 56 lhs.
+</td></tr></table>
 
 ---
 
@@ -429,39 +481,36 @@ Of salt, fifty pounds
 
 ---
 
-## [From _The Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn87070038/1851-11-13/ed-1/seq-1)
+## From _The Lancaster gazette._
 
 #### 1851-11-13 &middot; [Lancaster, Ohio](http://dbpedia.org/resource/Lancaster%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Wkiohts an n MkatUiiks Tlio full owing ta  
-ble of the nuinhor of p. muds of various a. tick&#x27;s to  
-u bushel may ho of interest to our reudera:  
-Ot wlio.t, sixty pnaii.ls.  
-Of sliRllod corn, lil&#x27;ly-six pounds.  
-Of . ru oa tho coh, seventy five pounds.  
-litryo, fifty-six pound..  
-Of outs, thiity-two piiuudj.  
-Of bur ey, loi ly eiuhl p .u ids.  
-Ol middlings lorty live pounds.  
+Weiohts And MeAsures.  The following ta  
+ble of the number of pounds of various articles to  
+a bushel may be of interest to our readers:  
+Of wheat, sixty pounds.  
+Of shelled-corn, fifty-six pounds.  
+Of corn on the cob, seventy-five pounds.  
+Ot rye, fifty-six pounds.  
+Of oats, thirty-two pounds.  
+Of bar ey, forty eight pounds.  
+Of middlings forty-five pounds.  
 Of bran, twelve pounds  
-Of aborts, eighteen pounds.  
-&#x27; Of clover sued, sixty pounds.  
-Of timothy seed furty-live iiiiuujs .  
-Of flux seed, fifiy-aix p.itiuds.  
-Of hotnp soe.l, foi ty four p iiinds.  
-Of liluo.gi&#x27;iiaa seed, fourteen pounds.  
+Of shorts, eighteen pounds.  
+Of clover seed, sixty pounds.  
+Of timothy seed forty-five pounds.  
+Of flax seed, fifty-six pounds.  
+Of hemp seed, forty four pounds.  
+Of blue grass seed, fourteen pounds.  
 Of castor beans, forty-six pounds.  
-Of dried peaulwi, tllirly-tinee pounds. -  
-Of drioil apples, tweuty-(ivi) pounds..  
-Of onioii&quot;. lilty-soven pounds.  
-Of salt., fifty pound
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn87070038%2F00296028058%2F1851111301%2F0945.jp2/pct:43.171635,72.054487,12.565751,9.928381/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Of dried peaches, thirty-three pounds.  
+Of dried apples, twenty-five pounds.  
+Of onions, fifty-seven pounds.  
+Of salt, fifty pound
+</td></tr></table>
 
 ---
 
@@ -734,36 +783,33 @@ Of Salt, fifty pounds
 
 ---
 
-## [From _Lewisburg chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85055197/1851-12-03/ed-1/seq-1)
+## From _Lewisburg chronicle._
 
 #### 1851-12-03 &middot; [Lewisburg, Pa.](http://dbpedia.org/resource/Lewisburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Weights and Erasure.  
-The following table of the uumocr of  
-pounds of various articles to tho bushel,  
-may be of interest to some of our forming  
-friends :  
-Of wheat, sixty potmds.  
-Of fhelled-corn, fifty-nine pounds.  
+Weights and Measures.  
+The following table of the uumber of  
+pounds of various articles to the bushel,  
+may be of interest to some of our farming  
+friends:  
+Of wheat, sixty pounds.  
+of shelled-corn, fifty-nine pounds.  
 Of corn, in the cob, seventy pounds.  
-Of oats, thirty -five pounds.  
+Of oats, thirty-five pounds.  
 Of barley, forty-eight pounds.  
 Of beans, sixty pounds.  
 Of bran, twenty pounds.  
 Of clover seed, sixty pounds.  
 Of timothy seed, forty-five pounds.  
-Of flax seed, fifty-six pound  
+Of flax seed, üfty-six pound  
 Of hemp seed, forty-four pounds.  
 Of buckwheat, fifty-two pounds.  
-Of blue grass seed, fourteen pounds.  
+of blue grass seed, fourteen pounds.  
 Of castor beans, forty-six pounds
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn85055197%2F0028077635A%2F1851120301%2F0458.jp2/pct:54.251764,81.250000,12.402525,11.372717/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -810,40 +856,37 @@ Of castor beans, forty-six pounds
 
 ---
 
-## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1851-12-06/ed-1/seq-1)
+## From _Sunbury American._
 
 #### 1851-12-06 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-WriotiTS and M oscn k.s. The foi&#x27;lowir1;;  
+Wriohts ANd Meastres. The following  
 table of the number of pounds of various ar­  
-tides lo a bushel may be of interest to soma  
-of our fanning friends :  
-Of w heat, sixty pounds.  
-Of shelled com, forty-six pounds.  
-Of corn, mi the cub, seventy pounds.  
-Of calf! thirty-five pounds.  
+ticles to a bushel may be of interest to some  
+of our farming friends:  
+Of wheat, sixty pounds.  
+Of shelled corn, forty-six pounds.  
+Of corn, on the cob, seventy pounds.  
+Of oats thirty-five pounds.  
 Of barley, forty-eight pounds.  
 Of potatoes, sixty pounds.  
 Of beans, sixty pounds.  
-Of bini&#x27;, twetuy pounds&#x27;.  
-Ol clove r-sc fd, sixty pounds.  
-Of timothy -seed, lorly-live pounds.  
-Ol tiar-5!&#x27;ci, lifiy-siv pounds  
-Oi hem p-seed, lolly-lour pounds.  
-Ill 1 uckw heal, foity-two pounds.  
-Ol hlue-gi ass seed, fourteen pounds.  
-Of casloi-beans, folly-six pounds.  
-Of ibied poaches, thirty-three pounds.  
-Ol dried apples, twenty-five pounds.  
-Of onions, fifiy-nvetr pounds.  
+Of bran, twenty pounds.  
+Of clover-seed, sixty pounds.  
+Of timothy-seed, forty-five pounds.  
+Of flax-seed, fifty-six pounds  
+Of hemp-seed, forty-four pounds.  
+Of buckwheat, forty-two pounds.  
+Of blue-grass seed, fourteen pounds.  
+Of castor-beans, forty-six pounds.  
+Of dried peaches, thirty-three pounds.  
+Of dried apples, twenty-five pounds.  
+Of onions, fifty-seven pounds.  
 Of salt, fifty pounds
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776026%2F1851120601%2F0392.jp2/pct:79.304897,52.264760,12.269616,14.065348/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -854,19 +897,19 @@ Of salt, fifty pounds
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
- Weights and Measures.  
+Weights and Measures.  
 The following table of the number of lbs.  
 of various articles to a bushel, may be of  
 interest to our readers:  
 Of wheat, sixty pounds.  
-Of shelled corn, fifty-six pounds.  
+Of shelled corn, fifty-six pounds,  
 Of corn on the cob, seventy pounds.  
 Of rye, filty-six pounds.  
 Of oats, thirty-six pounds.  
 Of barley, forty pounds.  
 Of potatoes, sixty pounds.  
 Of bran, twenty pounds.  
-Of clover seed, sixty pounds.  
+Of clover seed, sixty pounds,  
 Of Timothy seed, forty-five pounds.  
 Of flax seed, forty-five pounds.  
 Of hemp seed, forty-four pounds.  
@@ -1138,6 +1181,40 @@ Of timothy seed, forty-five pounds. the other officer and three men pursued an
 
 ---
 
+## From _The Rutland herald._
+
+#### 1852-01-22 &middot; [Rutland, Vt.](http://dbpedia.org/resource/Rutland%2C_Vermont_(city))
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+The fol&#x27;owing table of pounds of va­  
+rious articles to a bushel, may be of in­  
+terest to our readers:  
+Of wheat, sixty pounds.  
+Of shelled corn, fifty-six pounds.  
+Of corn on the cob, seventy-five  
+pounds.  
+Of rye, fifty-six pounds.  
+Of oats, thirty-two pounds.  
+Of barley, forty-eight pound  
+Of middling, forty-five pounds.  
+Of bran, twelve pounds.  
+Of shorts, eighteen pounds.  
+Of cloverseed, forty-five pounds.  
+Of timothy seed, fifty-five pounds.  
+Of flax seed, fifty-six pounds.  
+Of hemp seed, forty-four pounds.  
+Of blue grass aced, fourteen pounds.  
+Of caster beans, forty-six pounds.  
+Of dried peaches, thirty-three pound.  
+Of dried apples, twenty-five pounds.  
+Of onions, fifty-seven pounds.  
+Of salt, fifty pounds
+</td></tr></table>
+
+---
+
 ## [From _Christian Watchman and Reflector (1851-1861)_](https://archive.org/details/sim_watchman-examiner_1852-01-22_33_4/page/n3/mode/1up?view=theater)
 
 #### 1852-01-22 &middot; [Boston](http://dbpedia.org/resource/Boston)
@@ -1178,6 +1255,46 @@ Of salt, fifty pounds.
 <img alt="Page image" src="https://iiif.archive.org/iiif/sim_watchman-examiner_1852-01-22_33_4&#0036;3/pct:44.600077,66.298379,7.952545,7.603295/,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The Middlebury register._
+
+#### 1852-01-28 &middot; [Middlebury, Vt.](http://dbpedia.org/resource/Middlebury%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+raphical dictionary. This lady  
+has recently attracted the attention and  
+cited the admiration of the civilized worl  
+by her energetic and persevering efforts te  
+send telief to her adventurous husband in  
+the frozen regions of the North, or to ascer­  
+tain his fate and that of his companions.  
+Such devoted affection deserves to be res  
+warded by the safe return of her husband,  
+and all would rejoice to hear of her warmest  
+hopes being gratified. So far it is worthy  
+of note, that the only trace of Capta Franks  
+lin has been discovered by American ves sels  
+Pounds in a Bushel.  
+Howe many pounds in a Burhel?  
+Of wheat, sixty pounds,  
+Of shelled corn, fifry-six pouinds.  
+Of corn on the cob, seventy poundae  
+Of rye, fifty-six pounds.  
+Of oats, thirty-six pounds.  
+Of barley, forty pounds.  
+Of potatoes, sixty pounds.  
+Of bran, twenty pounds.  
+Of clover seed, sixty pounds.  
+Of timothy seed, forty-five pounds.  
+Of hemp seed forty four pounds.  
+Of buckwheat, fisly two pounds.  
+Of blue grass seed, fourteen pounde.  
+Of castor beaus, forty six pounds.  
+Of dried peachas, thirty-three pounds.
+</td></tr></table>
 
 ---
 
@@ -1412,71 +1529,65 @@ Of salt, seventy five pounds
 
 ---
 
-## [From _Hannibal journal._](https://chroniclingamerica.loc.gov/lccn/sn87091069/1852-04-01/ed-1/seq-2)
+## From _Hannibal journal._
 
 #### 1852-04-01 &middot; [Hannibal, Mo.](http://dbpedia.org/resource/Hannibal%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-&#x27; W EIG UTS AND M EASURES. -.&quot;i  
-Th following table of tho number of pound,  
-or varioiH articles to t!i0 busliel, may be of in­  
-terest to our readers:  
-Of wheat, sixiy ioutids.  
-i eorn V&quot; tlie cJb&#x27; Jeventy-live pound.  
-Of rye, fifty-six poui.ris. .&quot; ;  
-1 Of oats, thirly-two pounds. &#x27;  
-Of barley, forty-eight poUndsi&#x27; - &#x27;-Of  
-middling,, forty-five pound,. i  
-Ofbr.ii&#x27;., twelve uounil;  
-&#x27; &#x27;? aborts, cighteon pound,.  
-Of clover soed, forty -four pounls.  
-Of liemp seed, forty-four pounds. .l  
-Of blue grass sue I, fourteen fiounile. .  
-Ait castor brans, (or:y-six pounds. i  
-Of dried pe.iclies, ihirly-tliroe pounds. i  
-Of drier? arflee, (wctity-hve pound.  
-Of onions, fifty-seven &quot;pounds.  
-Of salt, fifty p&#x27;xi.ils.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_imogen_ver01%2Fdata%2Fsn87091069%2F00280779714%2F1852040101%2F0109.jp2/pct:82.346590,69.230769,13.982365,11.346509/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+WEiGHTS AND MEASUrEs.  
+The following table of the number of pounde  
+of various articles to the bushel, may be of in­  
+terest to our readers;  
+Of wheat, sixty pounds.  
+a corn on the cob, seventy-five pounds.  
+Of rye, fifty-six pounds. f  
+Of oats, thirty-two pounds.  
+Of barley forty-eight pounds, r  
+middlings, forty-five pounds.n  
+Of bran, twelve pounds.  
+Of shorts, eighteen pounds.  
+Of cloyer seed, forty-four pounds,  
+Of hemp seed, forty-four poundspn alg  
+Of blue grass seed, fourteen pounds.  
+Of eastor beans, forty-six pounds. suf ai  
+Of dried peaches, thirty-three pounds, l  
+Of dried apples, twventy-five pounds.  
+Of onions, fifty-seven pounds.  
+Of salt, fifty pounds
+</td></tr></table>
 
 ---
 
-## [From _Burlington free press._](https://chroniclingamerica.loc.gov/lccn/sn84023127/1852-06-18/ed-1/seq-1)
+## From _Burlington free press._
 
 #### 1852-06-18 &middot; [Burlington, Vt.](http://dbpedia.org/resource/Burlington%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-bushel o( the various articles :  
-Uf wheal, bixly pounds.  
-Of com, in the cob, seventy pounds.  
-Of shelled corn, lifty-oix pounds.  
-Of rye, tidy-six potinds.  
-Of oats, thirty-ltve&#x27;poiiuds.  
-Of hirley, furly-cight pouiips.  
-Ol potatoes, sixty pounds.  
+bushel of the various articles:  
+Of wheat, sixty pounds.  
+Of corn, in the cob, seventy pounds.  
+Of shelled corn, fifty-six pounds.  
+Of rye, fifty-six pounds.  
+Of oats, thirty-five pounds.  
+Of barley, forty-eight pounps.  
+Of potatoes, sixty pounds.  
 Of beans, sixty pounds.  
-Ol bran, twenty pounds.  
+Of bran, twenty pounds.  
 Of clover-seed, sixty pounds­  
-0 tiuiolhy-seed, forty-live pounds.  
+O timothy-seed, forty-five pounds.  
 Of hemp-seed, forty-four pounds.  
-Of buckwheat, lifty-two pounds,  
+Of buckwheat, fifty-two pounds.  
 Of blue-grass seed, fourteen pounds.  
-Of castor beans, forty. six pounds.  
-Ofdrjed peaches, thirly-threo pounds.  
+Of castor beans, forty-six pounds.  
+Of dried peaches, thirty-three pounds.  
 Of dried apples, twenty-four pounds.  
-Of ojiioiu, lifly-seven pounds.  
-Of sail, fifty pounds
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_adamant_ver01%2Fdata%2Fsn84023127%2F0028077697A%2F1852061801%2F0524.jp2/pct:18.295475,75.844046,10.512414,9.959034/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Of onions, fifty-seven pounds.  
+Of salt, fifty pounds
+</td></tr></table>
 
 ---
 
@@ -1543,52 +1654,49 @@ Of castor beans, forty .six ponnds
 
 ---
 
-## [From _The Sumter banner._](https://chroniclingamerica.loc.gov/lccn/sn86053240/1853-04-12/ed-1/seq-4)
+## From _The Sumter banner._
 
 #### 1853-04-12 &middot; [Sumterville, S.C.](http://dbpedia.org/resource/Sumter%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-at the soil be dry, other&#x27;vise it is  
+p, that the soil be dry, otherwise it is  
   
-apt to rot the plants; and render, then&gt;  
+apt to rot the plants, and render them  
 unfit for use.  
-For the autumnal ciop. the white is  
-superior in flavor,, but thu red (a said  
-by some to be better calculated tbr  
+For the autumnal etop, the white is  
+superior in flavor, but the red is said  
+by some to be better calculated for  
 standing through the winter. If long  
 and hard frosts be apprehended, a  
 quantity of celery should be taken up,  
 and laid in a bed of sand or light earth,  
-in a shade or cellai; for when the  
-ground is deeply frozen, it is soi  
+in a shade or cellar; for when the  
+ground is deeply frozen, it is som  
 times impossible to get it out without  
-tea ring it to pieces, and it may be kept  
+tearing it to pieces, and it may be kept  
 very well for several weeks in a cellar.  
-Southern Cultivator.  
+Southern Cultivafor.  
 How many Pounds in a Bushel.  
 Of wheat, sixty pounds.  
 Of shelled corn, fifty-six pounds.  
 Of corn on the cob, seventy pounds.  
 Of rye, fifty-six pounds.  
-Of oats, thirty-six pounds.  
+Of oats, thirty six pounds.  
 Of barley, forty pounds.  
 Of potatoes, sixty pounds.  
 Of bran, twenty pounds.  
-Of clover-sced, sixty pounds.  
+Of clover-seed, sixty pounds.  
 Of timothy-seed, forty-five pounds.  
-Of hem p-seed, forty-four pounds.  
-or buchwheat, fifty-two pounds.  
+Of hempseed, forty-four pounds.  
+of buchwheat, fifty twe pounds.  
 Of blue grass seed, fourteen pounds.  
 Of castor beans, forty-six pounds.  
-Of dried peaches, thirty-three pounds,  
+Of dried peaches, thirty-three pounds.  
 Of dried apples, twenty-four pounds.  
-Of onions, fifty-seven pounds.  
+Of enions, fifty-seven pounds.  
 Of salt, fifty pounds
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn86053240%2F00237288476%2F1853041201%2F0305.jp2/pct:4.379598,4.952533,25.280205,91.863967/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -2072,39 +2180,36 @@ Qf salt, fifty-six pounds.
 
 ---
 
-## [From _The weekly Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn88078726/1854-05-11/ed-1/seq-4)
+## From _The weekly Lancaster gazette._
 
 #### 1854-05-11 &middot; [Lancaster, Ohio](http://dbpedia.org/resource/Fairfield%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-jtiTWe give below the weight of various  
+ We give below the weight of various  
 articles of farm products, at which they  
 are all bought and sold:  
-A bushel of whoat, sixty pounds.  
+A bushel of wheat, sixty pounds.  
 Of shelled corn, fifty-six pounds.  
-Of corn in tho cob, seventy pounds.  
+Of corn in the cob, seventy pounds.  
 Of oats, thirty-two pounds.  
-Of barley, forty -eight pounds.  
+Of barley, forty-eight pounds.  
 Of potatoes, sixty pounds.  
-. Of beans, sixty pounds.  
-: Of bran, twenty pounds.  
-Of clover seod, sixty -two pounds.  
-Of timothy seed, forty- five pounds.  
-Of flax seod, fifty-six pounds.  
+Of beans, sixty pounds.  
+Of bran, twenty pounds.  
+Of clover seed, sixty-two pounds.  
+Of timothy seed, forty five pounds.  
+Of flax seed, fifty-six pounds.  
 Of hemp seed, forty-four pounds.  
 Of buckwheat, fifty-two pounds.  
-Of bluo-grass seed, fourteen pounds.  
+Of blue-grass seed, fourteen pounds.  
 Of castor beans, forty-six pounds.  
 Of dried peaches, thirty-three pounds.  
 Of dried apples, twenty-four pounds.  
-, Of onions, fifty -seven pounds.  
+Of onions, fifty-seven pounds.  
 Of salt, fifty pounds
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn88078726%2F00296028046%2F1854051101%2F0359.jp2/pct:8.517350,71.129266,12.355415,11.674792/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -2118,7 +2223,7 @@ Of salt, fifty pounds
 
 ---
 
-## [From _The Cedar County advertiser._](https://chroniclingamerica.loc.gov/lccn/sn85049614/1854-06-03/ed-1/seq-4)
+## From _The Cedar County advertiser._
 
 #### 1854-06-03 &middot; [Tipton, Iowa](http://dbpedia.org/resource/Tipton%2C_Iowa)
 
@@ -2126,28 +2231,25 @@ Of salt, fifty pounds
 
   
 A bushel of wheat, sixty pounds.  
-Ol shelled v,m, fifty-six pounds.  
-Ol corn in the cob, seventy pounds.  
+Of shelled corn, fifty-six pounds.  
+Of corn in the cob, seventy pounds.  
 Of oats, thirty-two pounds.  
-Ol barley, forty-eight pounds.  
-Ol potatoes, six! y pounds.  
-Ot beans, sixty pounds.  
+Of barley, forty-eight pounds.  
+Of potatoes, sixty pounds.  
+Of beans, sixty pounds.  
 Of bran, twenty pounds.  
 Of clover seed, sixty-two pounds.  
-Of timothy seed, forty-five {Hjunds.  
-Oi Mux seed, fifty-six pounds.  
-Ol he-rip s&#x27;ed, lorty-fotir pounds.  
+Of timothy seed, forty-five pounds.  
+Of flax seed, fifty-six pounds.  
+Of hemp seed, forty-four pounds.  
 Of buckwheat, fifty-two pounds.  
-Oi blue-grass seed, fourteen pounds.  
-Ol istor U-atts, forty-six pounds.  
-Ol dried {n-aches, thirty-three pounds.  
-Oi dried apples, twenty-four pounds.  
+Of blue-grass seed, fourteen pounds.  
+Of castor beans, forty-six pounds.  
+Of dried peaches, thirty-three pounds.  
+Of dried apples, twenty-four pounds.  
 Of onions, fifty-seven pounds.  
 Of salt, fifty pounds.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn85049614%2F0027952939A%2F1854060301%2F0119.jp2/pct:24.210526,8.557904,11.754386,10.417831/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -2461,69 +2563,82 @@ Of salt, fifty pounds
 
 ---
 
-## [From _The Evansville daily journal._](https://chroniclingamerica.loc.gov/lccn/sn82015672/1855-05-04/ed-1/seq-2)
+## From _The Evansville daily journal._
 
 #### 1855-05-04 &middot; [Evansville, Ia. [i.e. Ind.]](http://dbpedia.org/resource/Evansville%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-A bushels of wheat sixty pounds. &#x27;  
+A bushels of wheat sixty pounds.  
 Of shelled corn, fifty-six pounds.  
-&#x27; Of corn on the cob, seventy pounds.  
-. Of rye, fiftv-six pounds.  
-Of oats, thirty-five pounds. ; . .  
+&quot;Of corn on the cob, seventy pounds.  
+Of rye, fifty-six pounds.  
+Of oats, thirty-five pounds, n  
 Of barley, forty-eight pounds.  
-Of beanssixty pounds.  
-. Of bran, twenty pounds.. ;  
-Of clover seed, sixty-two pounds. &#x27;  
-Of timothy Beed, forty-five pounds.  
-Of flax seed, forty-one pounds&#x27;. . .&#x27;S ,  
-Of hemp 6ced, forty-one pounds.  
+Of beans, sixty pounds.  
+Of bran, twenty pounds.  
+Of clover seed, sixty-two pounds.  
+Of timothy seed, forty-five pounds.  
+Of flax seed, forty-one pounds. 5  
+Of hemp seed, forty-one pounds.  
 Of buckwheat, fifty-two pounds.  
 Of blue grass seed, fourteen pounds.  
 Of castor beans, forty-six pounds.  
 Of bried peaches, thirty-three pounds.  
-Of dried. apples, tweny-four pounds.  
-&#x27; Of onions, fifty-seven pounds.  
-Of salt, filty pounds.&#x27; i. &#x27;
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_harrison_ver01%2Fdata%2Fsn82015672%2F00296021866%2F1855050401%2F0577.jp2/pct:51.890464,75.216529,12.760634,10.549932/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Of dried apples, tweny-four pounds.  
+Of onions, fifty-seven pounds.  
+Of salt, fifty pounds
+</td></tr></table>
 
 ---
 
-## [From _M'arthur Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87075163/1855-05-04/ed-1/seq-2)
+## From _M'arthur Democrat._
 
 #### 1855-05-04 &middot; [McArthur, Vinton County, Ohio](http://dbpedia.org/resource/McArthur%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-A bushel of wiieat, sixty pounds,  
-Of shelled corn, fifty-six pounds.  
-Of corn on the cob, aeteuty pounds.  
-Of rye, fiftyfiv pounds,  
-Of oats, thirty-fire pounds,  
-Of barley, forty-eight pounds.  
+A bushel of wheat, sixty pounds,  
+Of shelled corn, fifty-six pounds,  
+Of corn on the cob, seventy pounds.  
+Of rye, fifty-five pounds,  
+Of oats, thirty-five pounds,  
+Of barley, forty-eight pounds,  
 Of beans, sixty pounds,  
 Of bran, twenty pounds,  
-Of clover seed, sixty two pounds,  
+Of clover seed, sixtytwo pounds,  
 Of timothy seed, forty-five pounds.  
-Of lat seed&#x27; fifty-sis pounds,  
-Of hemp seed, fony-ooe pounds,  
-Of buckwheat, fifty-two pound,  
-Of blue graasaesd. fourteen pouuds.  
-Of castor beao. forly-iix pounds,  
-Of dried p aches, thirty-three pounds  
+Of flax seed&#x27; fifty-six pounds,  
+Of hemp seed, forty-one pounds,  
+Of buckwhest, fifty-two pounds,  
+Of blue grass seed, fourtesn pounds,  
+Of castor beans, forty-six pounds,  
+Of dried peaches, thirty three pounds  
 Of dried apples, twenty-four pounds  
-T)f onions, nfty-aeven pounds.  
-Of sM, 10 J poinds.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn87075163%2F00280774947%2F1855050401%2F0086.jp2/pct:23.525848,85.565940,13.025040,10.163551/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Of onions, fifty-seven pounds,  
+Of salt, fifty pounds.
+</td></tr></table>
+
+---
+
+## From _The Cedar County advertiser._
+
+#### 1855-06-20 &middot; [Tipton, Iowa](http://dbpedia.org/resource/Tipton%2C_Iowa)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+  
+The following table of the number of  
+of various articles to a bushel may  
+be of interest to our farming friends  
+  
+Of wheat, 70 24 alitl Pauwns  
+Of shelled corn, 3
+</td></tr></table>
 
 ---
 
@@ -2677,37 +2792,34 @@ Of salt, fifty pounds.
 
 ---
 
-## [From _Nashville daily patriot._](https://chroniclingamerica.loc.gov/lccn/sn86053516/1856-08-06/ed-1/seq-2)
+## From _Nashville daily patriot._
 
 #### 1856-08-06 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-What Hakes a Bcshil. The following tihle of  
-the number of pounds of various articles to a bash-  
+Whar Makes a Bushel. The following table of  
+the number of pounds of various articles to a bush-  
 el may be of interest to our readers:  
 Wheat, sixty pounds.  
-Corn, swelled, fifty six ponnds.  
+Corn, shelled, fifty six ponnds.  
 Corn, on the cob, seventy pounds.  
 Rye, fifty-six pounds.  
-Oats, thirtvsix pounds.  
+Oats, thirty-six pounds.  
 Barley, forty six pounds.  
-Buck wheat, fifty two pounds.  
-Irish potato 8, sixty pounds.  
+Buck wheat, fifty-two pounds.  
+Irish potatoes, sixty pounds.  
 Sweet potatoes, fifty pounds-  
-Onions, fiftyevrn pounds.  
-Beans, sixty pouuds.  
+Onions, fifty-seven pounds.  
+Beans, sixty pounds.  
 Bran, twenty pounds.  
 Clover seeds, sixty pounds.  
 Timothy seed, forty-five pounds.  
-Flax seed&#x27; forty-five poun.ls,  
-II &#x27;-rap seed, forty-five pounds.  
-Blue Grass, seed, fourteen ponnds
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn86053516%2F00212470077%2F1856080601%2F0126.jp2/pct:58.153581,12.618753,12.395743,8.684428/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Flax seed&#x27; forty-five pounds,  
+Hemp seed, forty-five pounds.  
+Blue Grass, seed, fourteen pounds
+</td></tr></table>
 
 ---
 
@@ -2830,6 +2942,37 @@ Of |wpib6.
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn84027237%2F0027952942A%2F1856110701%2F0030.jp2/pct:69.383135,80.493217,25.896057,13.235978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _New Orleans daily crescent._
+
+#### 1856-11-17 &middot; [[New Orleans, La.]](http://dbpedia.org/resource/New_Orleans)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+WHAT MAKES A BUSHEl- The following table of  
+the number of various articles to a bushel may be of  
+interest to our readers:  
+Wheat, sixty pounds.  
+Corn, shelled, fifty-six pounds.  
+Corn, on the cob, seventy pounds.  
+Oats, thirty-six pounds.  
+Rye, fifty-six pounds.  
+Barley, forty-six pounds.  
+Buckwheat, fifty-two pounds.  
+Arish Potatoes, sixty pounds.  
+Sweet Potatoes, fifty pounds.  
+Onions, fifty-seven pounds.  
+Beans sixty pounds.  
+Bran, twenty pounds.  
+Clover Seed, sixty pounds.  
+Timothy Seed, forty-five pounds.  
+Flax Seed, forty-five pounds.  
+Hemp Seed, forty-five pounds.  
+Blue Grass Seed, fourteen pounds
+</td></tr></table>
 
 ---
 
@@ -2983,9 +3126,10 @@ Clover seed, sixty pounds.
 Timothy seed, forty-five pounds.  
 Flax seed, forty-five pounds.  
 Hemp seed, forty-five pounds.  
-Blue grass seed, fourteen pounds
+Blue grass seed, fourteen pounds.  
+Dried peaches, thirty-three pound
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477771%2F1857022501%2F0634.jp2/pct:34.998307,73.751467,14.138165,12.270179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85054616%2F00212477771%2F1857022501%2F0634.jp2/pct:34.998307,73.751467,14.138165,12.883036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2998,41 +3142,6 @@ Blue grass seed, fourteen pounds
 #### 1857-03-01 &middot; [Atlanta](http://dbpedia.org/resource/Atlanta)
 
 [This text is not available under an open license.]
-
----
-
-## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1857-03-14/ed-1/seq-4)
-
-#### 1857-03-14 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-What makes a Bushel. -The follow­  
-ing table of ihe number of pounds oi rati­  
-ons. articles to a bushel, may be of inter­  
-est to our readers:  
-Wheat sixty bounds;  
-Corn, shelled, fifty-six pounds:  
-Corn, on the cob, seventy pounds:  
-K&gt;e, fifty-six pounds;  
-Oats, ihirtv-six pounds;  
-Barley, forty-six pounds;  
-Buckwheat, fifty-two pounds;  
-Irish potatoes, sixty pounds;  
-Sweet potatoes, fifty pounds;  
-Onions, fifty-seven pounds;  
-Beans, sixty pounds;  
-Bran, twenty pounds;  
-Clover seed,sixty pounds;  
-Timothy seed, fort) -five pounds;  
-Hemp seed, forty-five pounds;  
-Blue grass seed, fourteen pounds
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn85033133%2F00514159348%2F1857031401%2F0048.jp2/pct:6.843950,28.045843,12.631416,11.616162/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
@@ -3059,74 +3168,6 @@ Timothy seed, forty -live pounds; hemp seed, fort \ -
 five pounds; blue grass seed, fourteen pounds
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/iiif/xt7hqb9v3q6j&#0036;1/pct:5.669526,83.691369,17.213726,6.533621/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1857-03-18/ed-1/seq-4)
-
-#### 1857-03-18 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-What Makes a Hushel. The follow.  
-table of the number of pounds of var­  
-ious articles to a bushel, may be ol inter­  
-est.Wheat, sixty pounds.  
-Corn, shelled, fifty-six pound.  
-Corn, on the cob, seventy pounds.  
-Rye, fifty-siE pounds.  
-Odt, thirty-six pounds.  
-Barley, forty-six pounds.  
-Huckw heal, fifty-two pound. : .  
-1 risli Potatoes, sixty pounds.  
-Sweet Potatoes, fifty pound-.  
-Onions, fifty-seven pounds.  
-Deans, sixty pounds.  
-Bran, twenty pounds. ,  
-Clover seed, sixty pounds. &#x27;  
-Timothy seed, forty-five pounds.  
-Flax seed, fony.five pounds.  
-Hemp seeel, forty-five p-wnds.  
-Blue grass seed, fourteen pounds. &#x27;  
-Dried peaches, thirty-three pounds
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237283703%2F1857031801%2F0489.jp2/pct:16.249604,78.219743,10.722205,12.903226/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Cooper's Clarksburg register._](https://chroniclingamerica.loc.gov/lccn/sn85059716/1857-03-20/ed-1/seq-4)
-
-#### 1857-03-20 &middot; [Clarksburg, Va. [W. Va.]](http://dbpedia.org/resource/Clarksburg%2C_West_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-*? &quot;What Makes a Bushel.?The follow-;  
-ing table of the number of pounds of the  
-rarieua articles to a bushel may be of in­  
-terest to our readers :  
-Wheat, Mxty pounds.  
-Com, shelled, Gfty-six pounds.  
-Corn, on the cob, seventy pounds.  
-Kye. tifty six pounds.  
-Oats. 3G pound*.  
-Barley,^forty-six pounds.  
-Buckwheat, fifty-two pounds.  
-J?i?h I&#x27;ota&#x27;oes, rixty pounds.  
-Sweet Potatoes, tiity pom ds.  
-Onions, fifty-seven pounds.  
-Teans, sixty pound?.  
-Bran, twelve founds.  
-Clover seed, sixty pcunds.  
-Timothy Seed, forty-five pounds.  
-Flax seed, forty five pounds
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_kuwait_ver02%2Fdata%2Fsn85059716%2F00201293031%2F1857032001%2F0248.jp2/pct:2.703291,33.775801,13.159499,11.412811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3492,6 +3533,36 @@ blue grass seed, fourteen pounds ; drie
 
 ---
 
+## From _Wheeling daily intelligencer._
+
+#### 1858-09-22 &middot; [Wheeling, Va. [W. Va.]](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+table of the number of various articles to a  
+bushel may be of interest to our readers:  
+Wheat, sixty pounds.  
+Corn, shelled, fifty-six pounds.  
+Corn, on the cob, seventy pounds.  
+Oats, thirty-six pounds.  
+Rye, fifty-six pounds.  
+Buckwheat, fifty-two pounds.  
+Irish Potatoes, sixty pounds.  
+Sweet Potatoes, fifty pounds.  
+Onions, fifty-seven pounds.  
+Bran, twenty pounds.  
+Clover Seed, sixty pounds.  
+Timothy Seed, forty-five pounds.  
+Elax Seed, forty-five pounds,  
+Hemp Seed, forty-five pounds.  
+Slue Grass Seed, fourteen-pounds.  
+Beans, sixty pounds.  
+Dried Peaches, thirty-three pounds
+</td></tr></table>
+
+---
+
 ## [From _Clarksville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061076/1858-09-24/ed-1/seq-1)
 
 #### 1858-09-24 &middot; [Clarksville, Tenn.](http://dbpedia.org/resource/Clarksville%2C_Tennessee)
@@ -3660,40 +3731,37 @@ be of interest to our readers,—Wheat, GO lbs
 
 ---
 
-## [From _The Council Bluffs nonpareil._](https://chroniclingamerica.loc.gov/lccn/sn84027096/1859-06-18/ed-1/seq-1)
+## From _The Council Bluffs nonpareil._
 
 #### 1859-06-18 &middot; [Council Bluffs [Iowa]](http://dbpedia.org/resource/Council_Bluffs%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-woman a guinea, and ns she was about to of weights herein specified  
+woman a guinea, and as she was about too we ein ecfe  
   
-01 Wheat, sixty pounds.  
+Of Wheat, sixty pounds.  
 Of Shelled Corn, fifty-six pound.  
-Of Corn in tbe Cob, seventy pounds.  
+Of Corn in the Cob, seventy pounds.  
 Of Rye, fifty-six pounds.  
 Of Oats, thirty-five pounds.  
 Of Barley, forty-eight pounds.  
-Of i&#x27;otatoes, sixty pouuds.  
+Of Potatoes, sixty pounds.  
 Of Sweet Potatoes, forty-six pounds.  
-Of Benns, sixty pounds.  
-Of Uran, sixty pounds.  
-Of (.&#x27;lover Seed, sixty pounds.  
-Of Timothy Seed, forty-live pounds.  
-Of Flax Seed, fifty-six rnnds.  
-Of lleinp Seed, forty-four pounds.  
-Of Buckwheat, fifty-two pound&quot;.  
-Of ltiue lirass Seed, fourteen pounds.  
-Of C.iior Bean&quot;, forty-six pounds.  
-Of Uriel Peaches, thirty-three pound*.­  
-Of Dried Apples, tv#nty four pounds.  
-Of Onions, fifty-seven pounds.  
+Of Beans, sixty pounds.  
+Of Bran, sixty pounds.  
+Of Clover Seed, sixty pounds.  
+Of Timothy Seed, forty-five pounds.  
+Of Flax Seed, fifty six pounds.  
+Of Hemp Seed, forty-four pounds.  
+Of Buckwheat, fifty-two pounds.  
+Of Blue Grass Seed, fourteen pounds.  
+Of Castor Beans, forty-six pounds.  
+Of Dried Peaches, thirty-three pounds.­  
+Of Dried Apples, twnty-four pounds.  
+Of Unions, fifty-seven pounds.  
 Of Salt, fifty pounds
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84027096%2F00279529479%2F1859061801%2F0446.jp2/pct:72.930685,70.150946,22.962726,9.416549/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -3785,6 +3853,36 @@ Of Onions, fifty-seven pounds,
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767766%2F1859092401%2F0160.jp2/pct:50.109084,45.260564,15.842733,13.117359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The weekly Panola star._
+
+#### 1860-02-16 &middot; [Panola, Miss.](http://dbpedia.org/resource/Sardis%2C_Mississippi)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+A bushel of wheat, sixty pounds.  
+Of shelled corn, fifty-six pounds.  
+Of corn on the cob, seventy pounds.  
+Of rye, fifty-six pouids, eeslmasg  
+Of oats, thirty-five peunds.  
+Or barley, forty eight pounds.  
+Of potatoes, sixty pounds.  
+Of beans, sixty poands.  
+Of bran, swenty pounds.  
+Of timeth seed, forty-five pounds, a  
+Of fax seed, fifty-six pounds.  
+Of heme seed, forty-four pounds.  
+Of bockwheat, slry-two pounds. tid  
+Of bhse wrass seed, sowrtcen pounda.  
+Of eastor beans, forvy-four pounds.I  
+Of ried peaches thirty three pounds.  
+Of gried apples, twonty four pbands,  
+Of eaions, inty eeven peuada. A  
+Of ssh, ffty couwa,e se oatug
+</td></tr></table>
 
 ---
 
@@ -4297,7 +4395,7 @@ Of hemp-seed, forty-four pounds.
 
 ---
 
-## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1861-01-09/ed-2/seq-3)
+## From _Clearfield Republican._
 
 #### 1861-01-09 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
@@ -4305,28 +4403,60 @@ Of hemp-seed, forty-four pounds.
 
   
   
-reference ;  
+stick it up in some prominent place for  
+reference:  
 Of wheat, sixty pounds.  
 Of shell-corn, fifty-six pounds.  
-Of corn in the cob, soventy pounds,  
-Ot rye, fifty-six pDunds.  
+Of corn in the cob, seventy pounds.  
+Of rye, fifty-six pounds.  
 Of barley, forty-seven pounds.  
-Of potatoes, sixty pounds. ,  
-Of beans, fixty pound.  
+Of potatoes, sixty pounds.  
+Of beans, sixty pounds.  
+  
+of bran, twenty pounds.  
+Of clover seed, sixty pounds.  
+Of timothy seed, forty-five pounds.  
+Of flaxseed, fifty-eight pounds,  
+Of hemp seed, fifty-four pounds.  
+Of buckwheat, forty-eight pounds.  
+Of blue grass seed, fourteen pounds.  
+Of caster beans, thirty-three pounds.  
+If dried peaches, thirty-three pounds.  
+Of dried apples, twenty-four pounds  
+Of onions, fifty-seven pounds.  
+Of cats, thirty pouuds.
+</td></tr></table>
+
+---
+
+## From _Clearfield Republican._
+
+#### 1861-01-09 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+stick it up in some prominent place for Interests and Exchange  
+  
+reference:  
+Of wheat, sixty pounds,  
+Of shell-corn, fifty-six pounds.  
+Of corn in the cob, seventy pounds.  
+Of rye, fifty-six pounds,  
+of barley, forty-seven pounds.  
+Of potatoes, sixty pounds.  
+Of beans, sixty pounds.  
 Of bran, twenty pounds.  
 Of clover seed, sixty pounds.  
-Of timothy seed, forty five pminds.  
+Of timothy seed, forty-five pounds.  
 Of flaxseed, fifty-eight pounds.  
-Of lii-MiM-t sofid. fiftvfour pounds.  
+Of hemp seed, fiftys four pounds.  
   
-Of buck-vheat, forty-eight pounds,  
-or t,inn irrnss aped, fourteen pounds  
+Of buck wheat, forty-eight pounds,  
+Of blue grass seed, fourteen pounds  
   
-Of east r beans, thirty-three pounds.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477849%2F1861010902%2F0296.jp2/pct:16.945107,84.787994,14.276416,8.611394/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Of caster beans, thirty-three pounds.
+</td></tr></table>
 
 ---
 
@@ -4357,16 +4487,6 @@ Of blue grass seed, fourteen pounds
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027479%2F1861011601%2F0046.jp2/pct:58.709199,23.830708,10.682493,9.450523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## What Makes a Bushel
-
-#### From _Lowell daily citizen and news._
-
-#### 1861-04-30 &middot; [Lowell, Mass.](http://dbpedia.org/resource/Lowell%2C_Massachusetts)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -4446,6 +4566,40 @@ Of salt, fifty lbs
 
 ---
 
+## From _Puget Sound herald._
+
+#### 1861-06-27 &middot; [Steilacoom, W.T. [Wash.]](http://dbpedia.org/resource/Steilacoom%2C_Washington)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+STANDARD WEIGHTS ANd MEASURES.The  
+following table of the number of pounds  
+of various articles to the bushel may be  
+useful to many of our patrons.  
+Of wheat, sixty pounds.  
+Of shelled corn, fifty-six pounds.  
+Of corn on the cob, seventy pounds-  
+Of rye fifty-sia pounds.  
+Of oats, thirty two pounds.  
+of barley, forty pounds   
+potatoes, siaty pounds.  
+Of bran, twenty pounds.  
+Of clover seed, forty-five pounds.  
+Of timothy aced forty-five pounds.  
+Of flax seed, forty-five pounds.  
+Of buckwheat, fifty-two pounds.  
+of blue grass seed, fourteen pounds.  
+Of castor beans, fortyix pounds,  
+Of dried peaches, thirty-three pounds.  
+Of dried apples, twenty-four pounds.  
+Of green apples, forty-six pounds.  
+Of onions, fifty-seven pounds.  
+Of salt, fifty pounds.
+</td></tr></table>
+
+---
+
 ## [From _The Louisville daily journal._](https://archive.org/details/xt7gms3jxj87/page/n0/mode/1up?view=theater)
 
 #### 1861-07-19 &middot; [Louisville, Ky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
@@ -4513,6 +4667,39 @@ Of salt, fifty pounds.
 <img alt="Page image" src="https://iiif.archive.org/iiif/xt7gms3jxj87&#0036;0/pct:45.610212,80.741080,29.716687,12.705855/600,/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _Ashtabula weekly telegraph._
+
+#### 1862-05-03 &middot; [Ashtabula, Ohio](http://dbpedia.org/resource/Ashtabula%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+What MakEs a Busher.  
+  
+The following table of the number of  
+pounds of various articles to a bushel, may  
+be of interest to our readers   
+Wheat, sixty pound;  
+Corn, shelled, fifty-six pounds;  
+Corn, on the cob, seventy pounds;  
+Rye, fifty-six pounds;  
+Oats, thirty six pounds;  
+Barley forty-six pounds;  
+Buckwheat, fifty-two pounds,  
+Mish potatoes, sixty pounds;  
+Sweet potatoes, fifty pounds;  
+Onions, fifty-seven pounds;  
+Beans, sixty pounds;  
+Bran, twenty pounds;  
+Clover seed, sixty pounds;  
+Timothy seed, forty-five pounds;  
+Hemp seed, forty-five poundt;  
+Blae grass seed, fourteen pounds
+</td></tr></table>
 
 ---
 
@@ -4638,6 +4825,42 @@ Dried apples, twenty- four pounds
 
 ---
 
+## From _The Union and journal._
+
+#### 1863-12-18 &middot; [Biddeford, Me.](http://dbpedia.org/resource/Biddeford%2C_Maine)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+What Makes a Bushel.  The following  
+table of the number of pounds of various  
+articles to make a bushel, may be of interest  
+to some of our readers:  
+Wheat, sixty pounds.  
+Corn, shelled, fifty-six pounds.  
+Corn, on the cob, seventy pounds.   
+Rye, fifty-six pounds.  
+Oats, thirty-two pounds.  
+Barley, forty-six pounds.  
+Buckwheat, fifty-two pounds.  
+Irish potatoes, fifty pounds.  
+Sweet potatocs, fifty pounds.  
+Onions, fifty-seven pounds.  
+Beans, sixty pounds.  
+Bran, twenty pounds.  
+Clover-seed, sixty pounds.  
+Timothy-soed, forty five pounds.  
+Hemp-sced, forty-five pounds.  
+Blue grass seed, fourteen pounds.  
+Dried peaches, thirty-threo pounds.  
+Flax-soed, fifty-six pounds.  
+Castor Beans, forty-six pounds.  
+Dried apples, twenty-four pounds
+</td></tr></table>
+
+---
+
 ## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1864-02-12/ed-1/seq-2)
 
 #### 1864-02-12 &middot; [Manitowoc, Wis.](http://dbpedia.org/resource/Manitowoc%2C_Wisconsin)
@@ -4708,37 +4931,65 @@ Diicd peaches, thirty-three pounds.
 
 ---
 
-## [From _The Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn84024207/1864-12-01/ed-1/seq-1)
+## From _Daily national Republican._
+
+#### 1864-11-29 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+WHAT MAKES A BusHEl.- The following  
+table of the number of pounds of various arti  
+cles to a bushel, may be of interest to our rea  
+ders  
+Wheat, sixty pounds.  
+Corn, shelled, fifty-six pounds.  
+Corn, on the cob, seventy pounds  
+Rye, fifty-six pounds  
+Oats, thirty-six pounds.  
+Barley, forty-six pounds  
+Buckwheat, fifty-six pounds.  
+Irish potatoes, sixty pounds.  
+Sweet potatoes, fifty pounds.  
+Onions, fifty-seven pounds  
+Beans, sixty pounds.  
+Bran, twenty pounds.  
+Clover seed, sixty pounds.  
+Timothy seed, forty-five pounds.  
+Hemp seed, forty-five pounds  
+Blue-grass seed, fourteen pound
+</td></tr></table>
+
+---
+
+## From _The Lancaster gazette._
 
 #### 1864-12-01 &middot; [Lancaster, Ohio](http://dbpedia.org/resource/Lancaster%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-The following table of the number of .  
-pounds of various articles 16 a bushel,&#x27;  
+The following table of the number of  
+pounds of various articles to a bushel,  
 may be of interest to our readers:  
   
-Wheat, sixty pounds. : .  
-Corn, shelled, fifty-aix. pounds. ,  
-. Corn, on the cob, seventy pounds.- f  
+Wheat, sixty pounds.  
+Corn, shelled, fifty-six pounds.  
+Corn, on the cob, seventy pounds.  
 Rye, fifty-six pounds.  
-. Oats, thirty -six p6ttnd.-  
-Barley, forty -six pound..  
-Buckwheat, fifty-six ponnda.  
-Irish potatoes, sixty pounds. .  
-; Sweet potatoes,&#x27; fifty poundsv  
-Onions, fifty-seven pounds. : ; 1  
-Beans, sixty pounds. :. .  
-Bran, twenty poundr.  
-Clover aeed, s,ixty pounds;  
-Timothy seed, forty-five pounds&#x27;.  
-Hemp seed, forty five pbUnds.  
-&#x27; Blue-grass seed1, four teen pounds
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn84024207%2F00296028034%2F1864120101%2F1046.jp2/pct:82.439782,79.274037,13.131313,10.778609/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Oats, thirty-six pounds.  
+Barley, forty-six pounds.  
+Buckwheat, fifty-six ponnds.  
+Irish potatoes, sixty pounds.  
+Sweet potatoes, fifty pounds.  
+Onions, fifty-seven pounds. ban  
+Beans, sixty pounds.  
+Bran, twenty pounds.  
+Clover seed, sixty pounds.  
+Timothy seed, forty-five pounds.  
+Hemp seed, forty-five pounds.  
+Bluegrass seed, fourteen pounds
+</td></tr></table>
 
 ---
 
@@ -4769,6 +5020,36 @@ Hemp seed, forty five pbUnds.
 #### 1865-02-10 &middot; [Concord [N.H.]](http://dbpedia.org/resource/Concord%2C_New_Hampshire)
 
 [This text is not available under an open license.]
+
+---
+
+## From _The Caledonian._
+
+#### 1865-03-03 &middot; [St. Johnsbury, Vt.](http://dbpedia.org/resource/St._Johnsbury%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+WHAT MAKEs A Busliel. The follow.  
+ing table of the number of pounds of va­  
+rious articles to a bushel may be of inter­  
+est to our readers:  
+Wheat, fifty-six pounds.  
+Corn on the cob, seventy pounds.  
+Rye, fifty-six pounds.  
+Oats, thirty-six pounds.  
+Barley, forty-six pounds.  
+Buckwheat, fifty-six pounds.  
+Irish potatoes, sixty pounds.  
+Sweet potatoes, fifty pounds.  
+Onions, fifty-seven pounds.  
+Beans, sixty pounds.  
+Bran, twenty pounds.  
+Clover seed, sixty pounds.  
+Timothy seed, forty-five pounds.  
+Hemp seed, forty-five pounds.  
+Blue-grass seed, fourteen pounds
+</td></tr></table>
 
 ---
 
@@ -4961,9 +5242,10 @@ Diied Peaches, thirty three pounds.
 Flax Sm d fifty six pounds.  
 Castor Beans, forty six pounds.  
 Dried Apples, twenty four pounds.  
-Coal, seventy six pounds
+Coal, seventy six pounds,  
+ggyThe most agreeable of all companion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_indianhead_ver01%2Fdata%2Fsn83016368%2F00415627476%2F1865120901%2F0201.jp2/pct:68.347417,81.100087,12.236228,10.679768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_indianhead_ver01%2Fdata%2Fsn83016368%2F00415627476%2F1865120901%2F0201.jp2/pct:68.347417,81.100087,12.236228,11.678387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5006,7 +5288,37 @@ Dried Apples, twenty-four pounds
 
 ---
 
-## [From _Dallas herald._](https://chroniclingamerica.loc.gov/lccn/sn84022278/1866-09-15/ed-1/seq-4)
+## From _The Lancaster gazette._
+
+#### 1866-03-01 &middot; [Lancaster, Ohio](http://dbpedia.org/resource/Lancaster%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+The following table of the number of  
+pounds of various articles to a bushel  
+may be of interest to our readers:  
+Wheat, sixty pounds.   
+Corn, shelled, fifty-six pounds.  
+Corn, on the cob, seventy pounds.  
+Rye, fifty-six pounds.  
+Oats, thirty-six pounds. at   
+Barley, forty-six pounds.   
+Buckwheat, fifty-six pounds. s  
+Irish potatoes, sixty pounds.e;  
+Sweet potatoes, fifty pounds.  
+Onions, fifty seven pounds, upean  
+Beans, sixty-pounds.  
+Bran, twenty pounds.   
+Clover seed, sixtypounds.   
+Timothy seed, forty-five pounds.  
+es seon, lorty ave pouuess  
+Blue grass seed, fourteen pounds
+</td></tr></table>
+
+---
+
+## From _Dallas herald._
 
 #### 1866-09-15 &middot; [Dallas, Tex.](http://dbpedia.org/resource/Dallas)
 
@@ -5014,67 +5326,30 @@ Dried Apples, twenty-four pounds
 
   
 weights of various articles of pro­  
-duce and the rates by which the)&#x27;  
-should ho bought and sold.  
-A l&#x27;)ush?l of w heat, sixt y pounds.  
-Of shelled corn, lift)- six poundsp  
-Of&#x27;cwnon the cob, seventy pounds.  
-Ul rye, filly six poun Is.  
+duce and the rates by which they  
+should be bought and sold.  
+A bushel of wheat, sixty pounds.  
+Of shelled corn, fifty six poundsr  
+Of corn on the cob, seventy pounds.  
+Of rye, fifty six pounls.  
 Of oats, thirty six pounds.  
 Of barley, forty eight pounds.  
 Of potatoes, sixty pounds.  
 Of beans, sixty pounds.  
-Ot bran, twenty pounds.  
-Of Hover seed, sixty two pounds.  
-Of timotllV seed, forty fivo pounds,  
+Of bran, twenty pounds.  
+Of clover seed, sixty two pounds.  
+Of timotly seed, forty five pounds.  
 Of flax seed, fifty six pounds.  
 Of hemp seed, forty four pounds.  
-Of buck-wheat, filly two pounds.  
-&#x27;f castor beans, forty six pounds.  
-Of dried jieachos, thirty three  
+Of buck-wheat, fifty two pounds.  
+&quot;f castor beans, forty six pounds.  
+Of dried peaches, thirty three  
 pounds.  
-Of dried Apples, t wenty four  
+Of dried apples, twenty four  
 pounds.  
 Of onions, fifty seven pounds.  
 Of salt, fifty pounds
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_eagle_ver01%2Fdata%2Fsn84022278%2F00200296539%2F1866091501%2F0485.jp2/pct:4.925847,30.534040,11.087571,12.705531/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1867-01-19/ed-1/seq-4)
-
-#### 1867-01-19 &middot; [Auburn, Placer County, Calif.](http://dbpedia.org/resource/Auburn%2C_California)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-What Makes a Bushel.—The following  
-table of the number of pounds of various ai­  
-tides to a bushel, may be of interest to our  
-readers:  
-Wheal, sixty pounds.  
-Corn, shelled, fifty-s&#x27;x pounds.  
-Corn, on the cob, seventy pounds.  
-Rye, fifty-six pounds.  
-Oats, fifty six pounds.  
-Barley, forty-six pounds.  
-Hu. kwheat,fifty-six pi unds.  
-Irish Potatoes,sixty pounds,  
-Sweet Potatoes, fifty pounds.  
-Onions, fifiyiseven pounds.  
-Beans sixty pounds.  
-Bran, twenty pounds.  
-Clover seed, sixty pounds­  
-&#x27;timothy seed, forty-five pounds.  
-Hemp seed, forty five pounds.  
-Blue-grass seed, fourteen pounds
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279558017%2F1867011901%2F0017.jp2/pct:7.405780,32.485953,14.508885,11.395094/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -5189,21 +5464,18 @@ Of salt, fifty pound
 
 ---
 
-## [From _The Rutland daily globe._](https://chroniclingamerica.loc.gov/lccn/sn84022473/1874-06-05/ed-1/seq-2)
+## From _The Rutland daily globe._
 
 #### 1874-06-05 &middot; [Rutland, Vt.](http://dbpedia.org/resource/Rutland%2C_Vermont_(city))
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-What Makes a Huaiiia. Tho follow­  
-ing table of tho number of pounds of va­  
-rious articles to, a bushel, may be of in.  
-tercst 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84022473%2F00280777547%2F1874060501%2F0528.jp2/pct:39.637353,92.704294,10.607434,2.010628/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+WHAT MAKES A BusHEL. The follow­  
+ing table of the number of pounds of va­  
+rious articles to a bushel, may be of in-  
+terest
+</td></tr></table>
 
 ---
 
@@ -5391,6 +5663,37 @@ of dried apples, twenty-five pounds, and of all other arti
 
 ---
 
+## From _The Chickasaw messenger._
+
+#### 1881-05-12 &middot; [Okolona, Miss.](http://dbpedia.org/resource/Okolona%2C_Mississippi)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+not profitable. The following table  
+of the number of pounds of various  
+articles it takes to make a bushel may  
+be of interest to our readers  
+Wheat, 50 pounds.  
+Corn, shelled, 66 pounds.  
+Rye, 56 pounds.  
+Barley 46 pounds.  
+Buckwheat, 52 pounds.  
+Irish potatoes, 50 pounds.  
+Sweet potatoes, 60 pounds.  
+Onions, 57 pounds.  
+Beans, 60 pounds.  
+Bran, 20 pounds.  
+Clover seed, 60 pounds.  
+Timothy seed, 445 pounds.  
+Hemp seed, 45 pounds.  
+Blue grass seed, 14 pounds.  
+Dried peaches, 14 pounds.  
+Flax seed, 56 pounds
+</td></tr></table>
+
+---
+
 ## [From _Mexico weekly ledger._](https://chroniclingamerica.loc.gov/lccn/sn89067274/1882-02-23/ed-1/seq-2)
 
 #### 1882-02-23 &middot; [Mexico, Mo.](http://dbpedia.org/resource/Mexico%2C_Missouri)
@@ -5459,6 +5762,36 @@ Of salt, fifty pounds
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_eyelet_ver02%2Fdata%2Fsn85034375%2F00199917067%2F1882031101%2F0184.jp2/pct:48.613963,56.282808,13.783368,9.350394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The Copiah signal._
+
+#### 1882-04-28 &middot; [Hazlehurst, Miss.](http://dbpedia.org/resource/Hazlehurst%2C_Mississippi)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+duce:  
+A bushel of wheat, sixty pounds.  
+Of shelled corn, fifty-six pounds.  
+Of corn on the cob, seventy pounds.  
+Of rye fifty-six pounds.  
+Of oats, thirty-five pounds.  
+Bar&#x27;ey, forty-eight pounds.  
+Beans, sixty pounds.  
+Bran, twenty pounds.  
+Clover seed, sixty pounds.  
+Timothy seed, forty-five pounds.  
+Flax seed, fifty-six pounds.  
+Hemp seed, forty-one pounds.  
+Buckwheat, fifty-two pounds.  
+Blue grass seed, fourteen pounds.  
+Castor oil beans, forty-six pounds.  
+Dried peaches, thirty-three pounds.  
+Onions, fifty-seven pounds.  
+Salt, fifty pound.
+</td></tr></table>
 
 ---
 

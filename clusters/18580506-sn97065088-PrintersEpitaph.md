@@ -1,7 +1,7 @@
 
 # A Printer's Epitaph
 
-### 36 reprints from 1854-10-12 to 1897-05-27
+### 40 reprints from 1854-10-12 to 1897-05-27
 
 ## [A Printer's Epitaph](http://chroniclingamerica.loc.gov/lccn/sn97065088/1858-05-06/ed-1/seq-1/)
 
@@ -140,6 +140,75 @@ The impression lives through an eternal age
 
 ---
 
+## From _Daily Davenport gazette._
+
+#### 1854-11-16 &middot; [Davenport, Iowa](http://dbpedia.org/resource/Davenport%2C_Iowa)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+n, square;  
+  
+  
+  
+LECLAEE  
+  
+K TIN, block Zink and Coke, Antimony, for  
+sale by Davenporr e cLAtgk.  
+ELLOws and Smith-too&#x27;s for sal low by  
+DAVENPOET F LE CLAIrE.  
+  
+spikes and  
+  
+finishing Nails, all sizes, for salo  
+  
+by  DaveNpOrtA LE ChAtRE.  
+  
+Wiwnow  
+  
+and large  
+  
+WY kegs, by DAvenporte LeCLAIre,  
+  
+  
+  
+Fish, Nos I and 2 in half barrels in store  
+and  
+sale by  
+  
+DALzEll a un  
+  
+AArooden WAkE- a fresh supply of Willow and  
+Wooden Ware, Marilla Mats, ae, ae, for cals at  
+in DALzElls  
+  
+  
+  
+NeALLiBLE Counterfeit Deteet  
+for sale atNot  
+  
+y AW Lathrop.  
+  
+No? Le Claire Block.  
+  
+now and then a pun or  
+  
+over  
+  
+clad in the  
+  
+On a prinfer.  
+Here lies a form--place no imposing stone  
+To mark the bed where wesry it has tnth  
+  
+Tis matter dead!--its mission all being dun&#x27;  
+To be distributed to dust again.  
+The body&#x27;s but the type, al best, of man  
+  
+Whose impress is the apirite
+</td></tr></table>
+
+---
+
 ## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1854-11-23/ed-1/seq-4)
 
 #### 1854-11-23 &middot; [Bath, Me.](http://dbpedia.org/resource/Bath%2C_Maine)
@@ -160,6 +229,27 @@ The impression lives through an eternal age
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014356%2F00332895667%2F1854112301%2F0399.jp2/pct:6.356801,19.782251,12.308043,5.056834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The Ottawa free trader._
+
+#### 1854-11-25 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+On A printen:  
+Here lies a form--place no imposing stone  
+To mark the bed where weary it havlain;  
+&#x27;Tis matter dead!--its mission all beisg done;  
+To be distributed to dust again  
+The body&#x27;s but the type, at bes, of man,  
+Whose impress is the sprits deathless  
+page!  
+Worn out, the type is thresn to piagain,  
+The impression lives to ll eternal age.
+</td></tr></table>
 
 ---
 
@@ -267,7 +357,7 @@ A Frist Eate Hit
 
 ---
 
-## [From _The Hillsdale standard._](https://chroniclingamerica.loc.gov/lccn/sn85033637/1855-06-26/ed-1/seq-1)
+## From _The Hillsdale standard._
 
 #### 1855-06-26 &middot; [Hillsdale, Mich.](http://dbpedia.org/resource/Hillsdale%2C_Michigan)
 
@@ -275,18 +365,15 @@ A Frist Eate Hit
 
   
 ON A PRINTER.  
-Here lie a form placo no imposing atone,  
-To mark the bed where weary it i lain;  
-&#x27;Tia matter dead I its mission being done  
+Here lies a form--place no imposing stone,  
+To mark the bed where weary it is lain;  
+&#x27;Tis matter dead!--its mission being done  
 To be distributed to dust again.  
-The body&#x27; but the type, at best, of man,  
-Whose impress Is the spirit&#x27;s deathless page;  
-Worn out, the type i thrown to pi again  
-The impression live through an eternal age
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668144%2F1855062601%2F0775.jp2/pct:36.026012,83.259212,12.196532,4.531978/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+The body&#x27;s but the type, at best, of man,  
+Whose impress is the spirit&#x27;s deathless page;  
+Worn out, the type is thrown to pi again  
+The impression lives through an eternal age
+</td></tr></table>
 
 ---
 
@@ -336,26 +423,23 @@ The impression lives through an eternal ag
 
 ---
 
-## [From _New Orleans daily crescent._](https://chroniclingamerica.loc.gov/lccn/sn82015753/1856-12-08/ed-1/seq-4)
+## From _New Orleans daily crescent._
 
 #### 1856-12-08 &middot; [[New Orleans, La.]](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-The Printer&#x27;s Epitaph.  
-Hero lies a form-place no imposing atone  
-To mwrk the head, where weary it is lain,  
-&#x27;Tis molter dead, its mission being done,  
-To be distribruted to dust again,  
+The PriNTER&#x27;s EipItaPn.  
+Here lies a form,place no imposts   
+To mark the head, where weary it is lain,  
+Tis matter dead, its mission being done,  
+To be distributed to dust again,  
 The body is but the type, at best, of man,  
-Whose impress is the spirit&#x27;s deathless page;  
-Worn out, the type is thrown to pi again,  
-The impression lives through an eternal age
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_pearse_ver01%2Fdata%2Fsn82015753%2F00212475385%2F1856120801%2F1300.jp2/pct:6.198686,7.443110,10.324302,4.250948/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Whose impress is the spirit&#x27;s deathless page.  
+Worn out, the tzpe is thrown to pi again,  
+The impression lives through an e 
+</td></tr></table>
 
 ---
 
@@ -402,6 +486,24 @@ The impression lives through an eternal age
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_ariel_ver01%2Fdata%2Fsn82015418%2F00212474228%2F1857032601%2F0193.jp2/pct:4.362934,20.991040,12.316602,4.744926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The Hillsdale standard._
+
+#### 1857-07-07 &middot; [Hillsdale, Mich.](http://dbpedia.org/resource/Hillsdale%2C_Michigan)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+To mark the red where it is lain!  
+&#x27;Tis watter dean! its mission all being done,  
+To be distrinuted to dust again.  
+The body&#x27;s but the rype at best of man,  
+Whose impress is the spirit&#x27;s deathless PAGR:  
+Worn out, the tyes is thrown to pi again,  
+The impression lives through an an eternal age
+</td></tr></table>
 
 ---
 
@@ -493,28 +595,25 @@ The wnpression lives through an eternal age.
 
 ---
 
-## [From _The Winchester home journal._](https://chroniclingamerica.loc.gov/lccn/sn97065088/1858-05-06/ed-1/seq-1)
+## From _The Winchester home journal._
 
 #### 1858-05-06 &middot; [Winchester, Tenn.](http://dbpedia.org/resource/Winchester%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-licanism. A Printer&#x27;s Epitaph.  
-Here lies a form; placeno imposing stone  
+  
+Here lies a form; place no imposing stone  
 To mark the head, where weary it is lain,  
 Tis matter dead, its mission being done,  
-To be dislriluted to dust again.  
+To be distributed to dust again.  
 The body is but the Type, at best, of man,  
 Whose impress is the spirit&#x27;s deathless  
-page;  
-Worn out, the type is thrown iopi again,  
-The impression Iirei through en tiers al  
+page?  
+Worn out, the type is thrown to pi again,  
+The impression lives through an eternal  
 age.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065088%2F00212470478%2F1858050601%2F0473.jp2/pct:63.107379,86.613749,14.897021,7.977936/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -594,6 +693,26 @@ The impression lives through an eternal age
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202199276%2F1858111101%2F0990.jp2/pct:8.828797,39.795274,9.222779,4.006066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The Nashville daily union._
+
+#### 1864-02-20 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+PHITEITS EPITAPH.  
+Here lie; a form--place no imposing ston  
+To mark the head, where weary, it is lain;  
+Tis malter dead,- &#x27;ts mistion all being done;  
+To be distrituted to dust again;  
+The body is but the teps, at best of man,  
+Whose impress is the spirit&#x27;s death less pags;  
+Worn out, the type is thrown to pf again,  
+The impression lives through an eternal age
+</td></tr></table>
 
 ---
 

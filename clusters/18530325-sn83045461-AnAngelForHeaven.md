@@ -1,7 +1,7 @@
 
 # Wanted--An Angel For Heaven
 
-### 110 reprints from 1853-01-27 to 1879-08-16
+### 117 reprints from 1853-01-27 to 1879-08-16
 
 ## [Wanted--An Angel For Heaven](https://chroniclingamerica.loc.gov/lccn/sn83045461/1853-03-25/ed-1/seq-1/)
 
@@ -92,47 +92,65 @@ them,” though “ they may not return to thee.”—(i
 
 ---
 
-## [From _Lewisburg chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85055197/1853-01-28/ed-1/seq-1)
+## From _Lewisburg chronicle._
 
 #### 1853-01-28 &middot; [Lewisburg, Pa.](http://dbpedia.org/resource/Lewisburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-Waatsi Aa Angel for Heaven.  
+in&#x27;s  
+merits have been told. He was the true  
+father of the American Union. It was  
+Franklin who suggested the Congress of  
+   
+A4, and but for his wisdom, and the  
+eJowe aea  
+cunmaence that wisdom inspired, it is a  
+matter of doubt whether thas  
+Congress  
+would have taken effect. It was Franklin  
+who suggested the bond of the Union  
+which binds these States from Florida to  
+Maine. Franklin was the greatest diplo-  
+ ei o e ee o e  
+o   
+ver spote a wod ton eto  
+snoke a ward too lales he tase  
+speak the right word at the right  
+West Branch papers.  
+Resolved, That this Convention adjourn  
+e die. Signed by the officers.  
+Wanted--An Angel for Heaven.  
 And so death closed those little eyes  
-shrouded thfir bright glauces. Oh that  
-the sun would not come sti earning in on  
-his shrouded ferm as if there wcre no grief  
-in the world !  
-ring&#x27;c:s on hL white fjrehiad. You could  
-woep your very soul away, to think those  
-cherub lips wiil never, never ui.cUmc.  
-Vaiuly you c!a.p and esclasp the pssive,  
-iar.ing iiand that waudercJ so tften ever  
-your cheek. Vainly your anguished glanco  
-pt rives to r-&#x27;-d the dim story of lova  
+shrouded their bright glances. Oh that  
+the sun would not come streaming in on  
+his shrouded form as if there were no grief  
+in the world!  
+ringlets on his white forehead. You could  
+weep your very soul away, to think those  
+cherub lips will never, never unclose.  
+Vainly you clasp and unclasp the passive,  
+iarling hand that wandered so often over  
+your cheek. Vainly your anguished glance  
+strives to read the dim story of love  
 in those faded orbs. The voice, sweet as  
 winds blowing through wreathed shells,  
-lumber, forever. And still tho busy  
-world knosks at your door, wiil let yon  
-have no peace. It should in your ear ; if.  
+lumbers forever. And still the busy  
+world knocks at your door, will let you  
+have no peace. It shouts in your ear; its  
 chariots rumble by; it smiles broadly in.  
-your care-worn fare; it mocks you as yoq  
-sew tbe shroud ; it meets you at tbe eoflir  
-t the grave ; aud its heavy footatcps trar ()p  
-up and down in tbe empty rooms f rent  
-whence you have homo your dead. Jiut  
-it comes never in the hush of uight to wipe  
-away year tears !  
-Wasted an angel for heaven? Cxi  
-you look wp f Can you bear the sp&#x27;j  
-of the sight ? Ten thousand celc  
-ings, and jour own radiant Isagel i
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn85055197%2F0028077635A%2F1853012801%2F0675.jp2/pct:79.647495,68.970991,12.782931,21.561553/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+your care-worn face; it mocks you as you  
+sew the shroud; it meets you at the coffir  
+t the grave; and its heavy footsteps trar up  
+up and down in the empty rooms from  
+whence you have borne your dead. But  
+it comes never in the hush of night to wipe  
+away your tears!  
+Wanted--an angel for heaven? CAr  
+you look up? Can you bear the sp&#x27;and  
+of the sight? Ten thousand cele  
+ings, and your own radiant chi hangel i
+</td></tr></table>
 
 ---
 
@@ -265,6 +283,36 @@ not return to thee. i anny fern
 
 ---
 
+## From _New Orleans daily crescent._
+
+#### 1853-03-22 &middot; [[New Orleans, La.]](http://dbpedia.org/resource/New_Orleans)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+e befors. Still remembered, loved and che­  
+hed by the hearth and at the board; th  
+places not yet filled; even though their succes  
+sors draw life from the same faith  
+where their dying heads were pillowed.  
+&quot;Two in heaven!&quot;  
+Safely housed from storm and tempest;  
+sickness there; no drooping head, nor  
+eye, nor weary feet. By the green pastur  
+tended by the Good Shepherd, linger the  
+lambs of the heavenly fold.  
+&quot;Two in heaven!&quot;  
+Earth less attractive! Eternity a  
+Invisible cords, drawing the maternal soul  
+ward. &quot;Still, small&quot; voices, ever wh  
+I to the world-weary spirits.  
+&quot;Two in heaven!&quot;  
+Mother of angels! Walk softly! holy eyt  
+watch thy footsteps! cherub forms bend to li
+</td></tr></table>
+
+---
+
 ## [From _Martinsburg gazette._](https://chroniclingamerica.loc.gov/lccn/sn84038468/1853-03-23/ed-1/seq-1)
 
 #### 1853-03-23 &middot; [Martinsburg, Va. [W. Va.]](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
@@ -283,7 +331,7 @@ There spoke the mother
 
 ---
 
-## [From _Lynchburg daily Virginian._](https://chroniclingamerica.loc.gov/lccn/sn85034360/1853-03-24/ed-1/seq-1)
+## From _Lynchburg daily Virginian._
 
 #### 1853-03-24 &middot; [Lynchburg [Va.]](http://dbpedia.org/resource/Lynchburg%2C_Virginia)
 
@@ -291,36 +339,33 @@ There spoke the mother
 
   
   
-Two in Heaven.—‘ You have two child-on,&#x27;  
-said I. ‘T have four,” was the reply: ‘‘two oti  
-earth, two in heaven.”  
-There spoke the mother! Still hers! only pone  
+Two IN HEAYEN.  &quot;You have two children,&quot;  
+said I. &quot;I have four,&quot; was the reply: &quot;two on  
+earth, two in heaven.&quot;  
+There spoke the mother! Still hers! only gone  
 before! Still remembered, loved, and cherish­  
-ed hy the hearth and at the hoard; their places  
-not ye t filled: even thouph their successors  
-draw life from the same faithful hieast where  
+ed by the hearth and at the board; their places  
+not yet filled; even though their successors  
+draw life from the same faithful breast where  
 their dying heads were pillowed.  
-“Two in hea\en?”  
+&quot;Two in heaven?&quot;  
 Salely housed from storm and temp­  
 est; no sickness there; no drooping head, nor  
-fading eye. nor weary feet. By the green pas­  
-tures,tended bv the (r Hid Shepherd .linger the  
-little la mbs of the heavenly fold.  
-“To in heaven?”  
-Earth less attractive? Eternity neater? In­  
+fading eye, nor weary feet. By the green pas­  
+tures, tended by the Good Shepherd linger the  
+little lambs of the heavenly fold.  
+&quot;Two in heaven?&quot;  
+Earth less attractive? Eternity nearer? In­  
 visible cords, drawing the maternal soul up­  
-ward. “Still, small&quot; voices, ever whispering,  
+ward. &quot;Still, small&quot; voices, ever whispering,  
 come? to the world weary spirits.  
-“Two in heaven?”  
-Mother of angel-! W illk softly! holy eyes,  
-watch thy footsteps! cherub form* bend to. lis­  
-ten! Keep thy spirit free from enith taint; so  
-shalt thou “go to them,” though they may not  
+&quot;Two in heaven?&quot;  
+Mother of angels! Walk sostly! holy eyes,  
+watch thy footsteps! cherub forms bend to- lis­  
+ten! Keep thy spirit free from earth taint; so  
+shalt thou &quot;go to them,&quot; though they may not  
 return to thee.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_exmoor_ver01%2Fdata%2Fsn85034360%2F00393347958%2F1853032401%2F0772.jp2/pct:19.655172,72.569544,18.017241,17.109980/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -526,96 +571,90 @@ your own radiant child-angel in their mids
 
 ---
 
-## [From _The Sumter banner._](https://chroniclingamerica.loc.gov/lccn/sn86053240/1853-04-05/ed-1/seq-6)
+## From _The Sumter banner._
 
 #### 1853-04-05 &middot; [Sumterville, S.C.](http://dbpedia.org/resource/Sumter%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-TwzUHuNa &#x27;You have two  
-hidrenv&#x27; said . or  
-I have four,&quot;vas the reply; &quot;two foi  
-t earth and two in heaven. ne  
-Thus spoke the mother! Still here!- cu  
-1ly &#x27;gone beforel&#x27; Still remember- to  
-d, loved and cherished, by the he  
-earth and the board; their places not its  
-&#x27;et filled; even though their succes- fo  
-ors draw life from the same faith- co  
-ul breast where their dying heads te  
-vhere pillowed.  
-&quot;Two in Ihcaven!&quot;  
-Safely housed from storm and temn- B,  
-iest; no sickness there, nor drooping  
-weads, nor fading eye, nor weary c  
-eet. By the green pastures, tended et  
-)y the good Shepherd, linger the fit­  
-le lambs of the heavenly Ibld.  
-&quot;Two in Ileaven!&quot;  
-Earth less attractive! Eternity  
-learer! Invisible cords, drawing the  
-naternal soul ipwards. -Still small  
-roices, ever whispering &#x27;conic,&quot; to the  
-,vorld-weary spirit. 01  
-&quot;Two in ieaven!&quot; C  
-Mother of angels! Walk softly! ho- h  
-y eyes watch thy footsteps! cherub ir  
-&#x27;orms bend to listen! Keep thy spir  
-t free from earth taint; so shalt thou  
-To to them, tho&#x27; they may not re. n  
-urn to thee. F.iNNY FsI. 0
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn86053240%2F00237288476%2F1853040501%2F0300.jp2/pct:30.023571,4.997925,14.122962,18.814832/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Sumter banner._](https://chroniclingamerica.loc.gov/lccn/sn86053240/1853-04-05/ed-1/seq-7)
-
-#### 1853-04-05 &middot; [Sumterville, S.C.](http://dbpedia.org/resource/Sumter%2C_South_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-&#x27;0von iAVN,&quot;.You have two  
-child etd&quot; said 1.  
-I haveofour,&quot; ias the roply; &quot;two  
-on earth and two in heaven.  
-Thus spoke the mother! Still here!­  
-only &#x27;gone beforel&#x27; Still remember.  
+Two iHave. &quot;You have two  
+children?&quot; said Iee e  
+I have four,&quot; was the reply, &quot;two  
+in earth and two in heaven.&quot;   
+Thus spoke the mother! Still here!  
+ly gone before!&#x27; Still remembero  
 ed, loved and cherished, by the  
-hearth and the board; their places not  
-yet filled; even though their succes­  
-sors draw life from the same fatith­  
-ful brealst where their dying heads  
+tearth and the board; their places not  
+et diled, aven though thelaces no  
+sors draw life from the same faith  
+ful breast where their dying heads  
 where pillowed.  
-&quot;Two in ilvaren!&quot;  
-Safely housed from storm and tem­  
+&quot;Two in Heaven!&quot;  
+Safely housed from storm and tem  
 pest; no sickness there, nor drooping  
 heads, nor fading eye, nor weary  
 feet. By the green pastures, tended  
-by the good Shepherd, linger the lit.  
-tle lambs of the heavenly fold.  
+by the good Shepherd, linger the lit.­  
+le lambs of the heavenly fold.  
 &quot;Two in Heaven!&quot;  
 Earth less attractive! Eternity  
-nearer! Invisible cords, drawing the  
-maternal soul upwards. -Still small  
-voices, ever whispering &#x27;come,&quot; to the  
-world-weary spirit.  
-&quot;T1&#x27;7wo in H1eaven!&quot;  
-Mother of angels! Walk softly! ho­  
-ly eyes watch thy footsteps! cherul&gt;  
+ncarer! Invisible cords, drawing the  
+maternal soul upwards. Still small  
+voices, ever whispering come,&quot; to the  
+vorld-weary spirit. e  
+&quot;Two in Heaven!&quot;  
+Mother of angels! Walk softly! ho  
+ly eyes watch thy footsteps! cherubi  
 forms bend to listen! Keep thy spir  
 it free from earth taint; so shalt thou  
-go to them, tho&#x27; they may not re­  
-turn to thee. FANNY FFILN
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn86053240%2F00237288476%2F1853040501%2F0301.jp2/pct:29.547675,4.753268,13.247362,18.820373/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+to to them, tho&#x27; they may not re  
+turn to thee.Fanny Feu
+</td></tr></table>
+
+---
+
+## From _The Sumter banner._
+
+#### 1853-04-05 &middot; [Sumterville, S.C.](http://dbpedia.org/resource/Sumter%2C_South_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Two in HEavEs. &quot;You have two  
+children?&quot; said I  
+I have four,&quot; was the reply; &quot;two  
+on earth and two in heaven.  
+Thus spoke the mother! Still here!­  
+only gone before!&quot; Still remember.  
+ed, loved and cherished, by the  
+hearth and the board; their places not  
+yet filled; even though their succes.­  
+sors draw life from the same faith.­  
+ful breast where their dying heads  
+where pillowed.  
+&quot;Two in Heaven!&quot;  
+Safely housed from storm and teme­  
+pest; no sickness there, nor drooping  
+heads, nor fading eye, nor weary  
+feet. By the green pastures, tended  
+by the good Shepherd, linger the lit  
+tle lambs of the heavenly fold.  
+&quot;Two in Heaven!&quot;  
+Earth less attractivel Eternity  
+nearer! Invisible cords, drawing the  
+maternal soul upwards. Still small  
+voices, ever whispering &#x27;come,&quot; to the  
+world-weary spirit.  
+&quot;Two in Heaven!&quot;  
+Mother of angels! Walk softlyt ho-­  
+ly eyes watch thy footstepst cherub  
+forms bend to listen! Keep thy spir  
+it free from earth taint; so shalt thou  
+go to them, tho&#x27; they may not ree­  
+turn to thee.FANNY FeaN
+</td></tr></table>
 
 ---
 
@@ -817,6 +856,65 @@ may not return to thee.--0/n*e Branch
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_emeralds_ver02%2Fdata%2Fsn85025007%2F00414215890%2F1853041601%2F0360.jp2/pct:8.283355,34.745600,12.501811,12.085333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The Caledonian._
+
+#### 1853-04-16 &middot; [St. Johnsbury, Vt.](http://dbpedia.org/resource/St._Johnsbury%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Commission Merchants  
+  
+&quot;You have two children,&quot; said I. &quot;I have  
+four,&quot; was the reply; &quot;two on earth, two in  
+heaven.&quot;  
+There spoke the mother. Still hers, only  
+rone before! Still remembered, loved and  
+cherished, by the hearth and at the board:
+</td></tr></table>
+
+---
+
+## From _The Caledonian._
+
+#### 1853-04-16 &middot; [St. Johnsbury, Vt.](http://dbpedia.org/resource/St._Johnsbury%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+tended by the Good Shepherd, linger the lit  
+  
+tle lambs of the heavenly fold  
+&quot;Two in heaven!&quot;  
+  
+and pursue it with a well-timed zeal; th
+</td></tr></table>
+
+---
+
+## From _The Caledonian._
+
+#### 1853-04-16 &middot; [St. Johnsbury, Vt.](http://dbpedia.org/resource/St._Johnsbury%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Invisible cords, drawing the maternal soul  
+upwards. &quot;Still, small&quot; voices ever whisper­  
+ing, come! to world-weary spirits.  
+&quot;Two in heaven!&quot;  
+Mother of angels! walk softly! holy eve­  
+watch thy foot-steps. Cherub forms bend to  
+listen. Keep thy spirit free from earth taint,  
+so shalt thou &quot;go to them, though they mav  
+not return to thee.
+</td></tr></table>
 
 ---
 
@@ -1138,7 +1236,7 @@ ly to your beautiful treasures, children of earth
 
 ---
 
-## [From _Hannibal journal._](https://chroniclingamerica.loc.gov/lccn/sn89067494/1853-05-21/ed-1/seq-2)
+## From _Hannibal journal._
 
 #### 1853-05-21 &middot; [Hannibal, Mo.](http://dbpedia.org/resource/Hannibal%2C_Missouri)
 
@@ -1146,48 +1244,90 @@ ly to your beautiful treasures, children of earth
 
   
 We were shown to-day a beautifully exe­  
-cuted Ten Dollar Note of the Citv Hank of  
+cuted Ten Dollar Note of the City Bank of  
   
-Two in lit vr.N. &#x27;Yon linen two children,&quot;  
+Two in HeaveN. &quot;You have two children,&quot;  
 aid I.  
-&#x27;I have four,&quot; was the. reply; &quot;two on earth,  
+&quot;I have four,&quot; was the reply; &quot;two on earth,  
 two in heaven.&quot;  
-Tliero upoke tho mother 1 Slill here ! only  
+There spoke the mother! Still here! only  
   
-New Haven, Conn., pronounced by the clierinhcd by tho hearth and at the board; their  
-tethers at Page &amp; Bacon&#x27;s tn bo counter- places not yet fillcJ; ant even though thei
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_imogen_ver01%2Fdata%2Fsn89067494%2F00280779726%2F1853052101%2F0220.jp2/pct:10.787402,57.475582,41.443570,5.972953/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+New Haven, Conn, pronounced by the cherished by the hearth and at the board; their  
+tellers at Page a Bacon&#x27;s to be counter places not yet filled; and even though their  
+feit, and better calculated to pass without successoors draw life from the same faith­  
+detection than any which have yet appeara be er their din eas we i­  
+ed. The signatures are an exceedingly oe o  
+close imitation of the genine the engra e i e  
+ving a little darker, and not quite as finely a ose o soran tepes e  
+executed as in the gennine-paper a little sickness there; no drooping head, nor fading  
+ the oel e tan   eyes, nor weary feet. By the green pastures,  
+courser, and the general appearance of the tended by the Good Shepherd, linger the little  
+whole not quite as clean and transparent lambs of the heavealy fold.  
+as that of the genine. We adise the in  in ee  
+experienced to refuse all notes of this plate a e aa i  e ­  
+until familiar with the points of difference visible cords, drawing the maternal soul upward.  
+between the good and bad. The fact that &quot;Still, small voices,&quot; ever whispering, &quot;come!&quot;  
+a number of these have been rejected at to the world-weary spirits.  
+the above named hotise this morning, lead  in ee  
+us to mistrust that many may soon be afloat, Mother of angel walk softly holy eyes  
+unless great precaution be used. The coun watch thy footstepl cherub forms bend to   
+ee an e e toeo  en e e e e o a ao  
+terfeit can readily be told on comparisonthalt thougo to them,&quot; though &quot;they may no
+</td></tr></table>
 
 ---
 
-## [From _Hannibal journal._](https://chroniclingamerica.loc.gov/lccn/sn89067494/1853-05-21/ed-1/seq-2)
+## From _The Rutland County herald._
 
-#### 1853-05-21 &middot; [Hannibal, Mo.](http://dbpedia.org/resource/Hannibal%2C_Missouri)
+#### 1853-05-21 &middot; [Rutland, Vt.](http://dbpedia.org/resource/Rutland%2C_Vermont_(city))
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-as that of the genuine. Wo adviso tho in- &quot;Two in heaven!&quot;  
-uxperiencod to refuse nil notes of this plate j &#x27; drib less attractive! Eternity nearer! In­  
-Until familiar with tho points of difforenco , v&#x27;&#x27;hlocord, drawing the. maternal soul upward,  
-bttwern this good and had. The fact that &#x27; &quot;Still, small voices,&quot; ever whispering, &quot;como!&quot;  
-8 number of theso have been rejected at tj ,no world-woiry spirits,  
-the above numod house this morning, lemls JW. ia &#x27;&quot;uvc,!!&quot;,  
-us to mistrust tint many mav soon be afloat. ,)l , r ,of ,,nKclV ,wM? rrtl)!. hoJy &#x27;r&#x27;  
-unless great precaution be used. The coun alfh.!hy isleH c&#x27;,cn&#x27;b ,orn,&#x27; b;J n &#x27;  
-ifo-r!i k .11 &quot;&quot;&#x27;l-,u&quot; ,len! Keep thy spirit free from earth &#x27;tumt: so  
-lut t?&#x27;d, J,a co,nlM,nwnhaltihou ifto them,&quot; thouKh -Uhcy may no
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_imogen_ver01%2Fdata%2Fsn89067494%2F00280779726%2F1853052101%2F0220.jp2/pct:10.813648,69.853494,41.469816,7.644628/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+WANTeD-AS AAGel sor SeaveN.  
+And so death closed those little eyes  
+hrouded their bright glances. Oh, that  
+the sun would not come streaming in on  
+his shrouded form, as if there was no grief  
+in the world.  
+How swectly he sleeps, that little covet­  
+ed angel! How lightly curl the glossy  
+ningiets on his white forehead! You could  
+weep your very soul away to think those  
+cherub lips will never, never unclose.  
+Vainly you clasp and unclasp that passive,  
+larling hand, that wandered so often over  
+your cheek, Vainly your anguished glance  
+strives to read the dim story of love in those  
+faded orbs. The voice, sweet as wind  
+blowing through wreathed shells, slumben  
+for ever. And still the busy world knocks  
+at your door, and will let you have no  
+seace. It shouts in your ear; its chariots  
+rumtble by; it smiles broadly in your care­  
+worn face; it mocks you as you sew the  
+shroud; it meets you at the coffin--at the  
+grave; and its heavy footsteps tramp up  
+and down in the empty rooms from whence  
+you have borne your dead. But it comes  
+never in the hush of night to wipe away  
+your tears!  
+Wanted--an angel for heaven! Can you  
+look up? Can you hear the splendor of that  
+sight Ten thousand celestial beings, and  
+your ow n radiant child-angel in their midst.  
+in &#x27;is eyes a glory light,  
+n his trow s giors crow a.  
+anted--angels for heaven! Cling  
+e eee  e  ee oe  
+a closcly to your beautiful treasures, chil-  
+too  
+dren of earth
+</td></tr></table>
 
 ---
 
-## [From _Hannibal journal._](https://chroniclingamerica.loc.gov/lccn/sn87091069/1853-05-26/ed-1/seq-4)
+## From _Hannibal journal._
 
 #### 1853-05-26 &middot; [Hannibal, Mo.](http://dbpedia.org/resource/Hannibal%2C_Missouri)
 
@@ -1195,61 +1335,58 @@ lut t?&#x27;d, J,a co,nlM,nwnhaltihou ifto them,&quot; thouKh -Uhcy may no
 
   
   
-Two ix He a vex. &#x27; You have two children,&quot;  
+Two in HeaveN. &quot;You have two children,&quot;  
   
 said I  
   
-&#x27;I have four.&quot; was the reply; &quot;two on earth  
+&quot;I have four,&quot; was the reply; &quot;two on earth  
   
 two in heaven.  
   
-There spoke the mother 1 Still here ! only  
+There spoke the mother! Still here! only  
   
-eone before. Slill remembered, loved, and  
+gone before. Still remembered, loved, and  
   
 cherished by the hearth and at the board; their  
   
-places noi yet nucu; ana even mougn men  
-sucressoors draw life from the same faith.  
+places not yet niled; and even though thei  
+successoors draw life from the same faith  
   
-ful breast where their dyinj heads were pil  
+ful breast where their dying heads were pil  
   
 lowed.  
   
-&#x27;&#x27;Two in heavon 1&quot;  
+&quot;Two in heavon!&quot;  
   
-Safely housed from storm and tempest: no  
+Safely housed from storm and tempest; no  
   
-sickness there; no drooping bead; nor fading  
+sickness there; no drooping head; nor fading  
   
 eyes, nor weary feet. By the green pastures  
   
 tended by the Good Shepherd, linger the little  
   
-lambs ol the heavenly lold  
+lambs of the heavenly fold  
 &quot;Two in heaven!&quot;  
   
-Eirlh less attractive! Eternity nearer! In  
+Earth less attractive! Eternity nearer! In  
   
 visible cords, drawing the maternal soul upward  
   
-&quot;Mill, small voices, evar whispering, &quot;come&#x27;.  
+&quot;Still, small voices,&quot; ever whispering, &quot;come!  
   
 to the world-weary spirits.  
-&#x27;Two in heaven!&quot;  
+&quot;Two in heaven!&quot;  
   
-Mother or angels 1 walk sol tly ! holy eyei  
+Mother of angels! walk softly! holy eyer  
 watch thy footsteps! cherub forms bend to lis  
   
 ten! Keep thy spirit free from earth &#x27;taint;  
   
-shall thou &quot;go to them,&quot; though &quot;they may not  
+shalt thou &quot;go to them,&quot; though &quot;they may not  
   
 return to thee
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_imogen_ver01%2Fdata%2Fsn87091069%2F00280779714%2F1853052601%2F0255.jp2/pct:38.291475,42.665537,13.990096,15.219540/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -1612,50 +1749,61 @@ t&#x27;-nonreturn-to theo.&quot;&#x27; .&#x27; &#x27;
 
 ---
 
-## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1855-04-14/ed-1/seq-1)
+## From _The Ottawa free trader._
 
 #### 1855-04-14 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-Wanted AsAxnEi. ron Heaves. And  
-so death closed thoso little eyes shrouded  
+Madame Ra---having engaged for herself  
+alone thirty for the 20th of the month­  
+twelve flaxen haired, twelve with black hair,  
+and six bald headed gentlemen.  
+The bald headed ones cost twenty-five  
+frances a head. Incy are taugnrw tgard  
+air, and are expected to present young mag  
+istrates, lawyers, and young men of promise  
+worn out by midnight toil. There is a fine  
+looking old soldier, who has been decorated  
+with the ribbon of the &quot;Legion of Honor,&quot;  
+who will not furnish himself for less than  
+thirty franes, who, besides, requires a sec  
+ond pair of gloses of his hostess at two  
+o&#x27;clock in the morning.  
+WANTED.AN ANGEL FOR HEAvEN.And  
+so death closed those little eyes--shrouded  
 their bright glances. O, that sun would not  
-come streaming in on that shrouded form, ss  
-if there wero no grid in the world.  
-How sweet ho sleeps that little coveted  
+come streaming in on that shrouded form, as  
+if there were no grief in the world.  
+How sweet he sleeps--that little coveted  
 angel! How lightly curl the glossy rings  
-on his forehead! You could wocp your  
-very soul away, to think thoso cherub lips  
-will never, nover unclose. Yainly you clasp  
+on his forehead! You could weep your  
+very soul away, to think those cherub lips  
+will never, never unclose. Vainly you clasp  
 and unclasp that passive, darling hand that  
 has wandered so often over your cheek.  
-Yainly your anguished glance strives to  
-resp Ihe dim story of love in those faded  
-orbs. The voice, sweet ss winds blowing  
-wreathed shells, slumbers forvcT. And still  
+Vainly your anguished glance strives to  
+reap the dim story of love in those faded  
+orbs. The voice, sweet as winds blowing  
+wreathed shells, slumbers forver. And still  
 the busy world knocks at your door,  
 and will let you have no peace. It shouts  
-in your ear ; its chariots rumble by ; it smiles  
-broadly in your careworn face ; it mocks  
+in your ear; its chariots rumble by; it smiles  
+broadly in your careworn face; it mocks  
 you as you sew the shroud; It meets  
-you st the coffin, at the grave, and its heavy  
+you at the coffin, at the grave, and its heavy  
 footsteps tramp up and down in the empty  
 rooms from whence you have borne your  
-dead. But it comes never in tiie hush of  
-night, so wipe away your tears t  
-Wanted an angel for Heaven! Can you  
+dead. But it comes never in the hush of  
+night, so wipe away your tears!  
+Wanted--an angel for Heaven! Can you  
 look up? Can you bear the splendor of that  
-sight ? Ten thousand celestial beings, and  
-your own radient child in their midst  
-Wanted angels for Heaven ! Cling not  
+sight? Ten thousand celestial beings, and  
+your own radient child in their midst.  
+Wanted--angels for Heaven! Cling not  
 too closely to your beautiful treasures, chil­  
-dren of earth 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn84038582%2F00212472062%2F1855041401%2F0175.jp2/pct:62.271630,55.767250,11.047915,14.289392/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+dren of earth
+</td></tr></table>
 
 ---
 
@@ -1932,6 +2080,52 @@ children of earth!
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026050%2F00280775782%2F1855052501%2F0091.jp2/pct:43.995532,46.635346,12.567492,27.732486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The Texas Republican._
+
+#### 1855-05-26 &middot; [Marshall, Tex.](http://dbpedia.org/resource/Marshall%2C_Texas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+WaNEEN--In ANgEL fOR HEArEN.And  
+so Death closed those little eyes--shrouded  
+their bright glances. Oh! that the sue  
+would not come streaming in on that  
+shrouded form, as if there were no griof in  
+the world  
+Hnw sweetly he sleeps, that little coveted  
+angel! How lightly eud the glossy ring  
+lets on his white forehead! You could  
+weep your very soul away to think those  
+cherub lips will never, never unclose  
+Vainly you clasp and unclasp that  
+ling hand that has wandered so often  
+over your cheek. Vainly your anguished  
+strive to read the dim story of  
+love in those faded orhs. The voice, sweet  
+as winds blowing through wreathed shells,  
+slumbers for ever. And still the busy  
+world knncks at your dour, and will let you  
+have no peace. It shouts in your ear; its  
+chariots rumble by; it smiles broadly in your  
+care-worn face; it mocks you at the cofsin,  
+at the grave, and its heavy foot-steps  
+tramp up and down in empty rooma from  
+whence you have borne your dead. But  
+it comes never in the hush of night, so  
+wipe away your tears!  
+Wanted-an angel for Heaven! Can  
+you look up? Can you bear the splendor  
+of that sight? Ten thousand celestial be­  
+ings, and your own radiant child in their  
+midst.  
+Wanted angels for Heaven! Cling  
+not too closely to your beautiful treasuree,  
+chibtren of Earth
+</td></tr></table>
 
 ---
 
@@ -2268,49 +2462,46 @@ earth.? Fanny Fkrn, in Olive Branch
 
 ---
 
-## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85038518/1855-08-19/ed-1/seq-1)
+## From _Nashville union and American._
 
 #### 1855-08-19 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-WanM-An , Angel of Heaven.  
-And so death closed tho3e little eyes shrouded  
-their bright&quot; glances. Oh I that the sun would not  
+Wanted- In Angel ef Heaven.  
+And so death closed those little eyes--shrouded  
+their bright glances. Oh! that the sun would not  
   
-come streaming in upon his shrouded form, aa if  
-there were no grief in the world I  
-How sweetly he sleeps, that lit tie covered angel I  
+come streaming in upon his shrouded form, as if  
+there were no grief in the world!  
+How sweetly he sleeps, that little covered angel!  
 How lightly curl those glossy ringlets on his white  
-forehead. You could&quot; weep your soul away, to  
-Uiiok those cherub Iip3 will never, never unclose.  
-Vainly you clasp and unclasp the passive, darlinir  
-hand that wandered often over your cheek. &quot;Vain  
-ly your anguish glance tries to read the dim storr  
-of love ia those shaded orbs. The voice, sweet as  
+forchead. You could weep your soul away, to  
+think those cherub lips will never, never unclose.  
+Vainly you clasp and unclasp the passive, darling  
+hand that wandered often over your cheek. Vain  
+ly your anguish glance tries to read the dim story  
+of love in those shaded orbs. The voice, sweet as  
 winds blowing through wreathed shells, slumber for  
-ever. And still the busy world knocis, at your  
-door, and will let you have no peace. It shoots  
-in your ear; 1L3 chariots rumble by; it smiles in  
-I your care-worn face; it mocks you as you sew the  
-j shroud; it meets you at the church, at the grave;  
-and its heavy footsteps tramp np and down in tho  
-empty rooun, from whence yon have borne your  
-dead. But it comes never ii the hu3h of night to  
-wipo away your tears 1  
-Wanted an Angel of neaven ! Can yon loos  
-up ? Tea thousand celestial beings, and your owa  
+ever. And still the busy world knocks, at your  
+door, and will let you have no peace. It shouts  
+in your ear; its chariots rumble by; it smiles in  
+ your care-worn face; it mocks you as you sew the  
+ shroud, it meets you at the church, at the grave;  
+and its heavy footsteps tramp up and down in the  
+empty rooms, from whence you have borne your  
+dead. But it comes never in the hush of night to  
+wipe away your tears!  
+Wanted--an Angel of Heaven! Can you look  
+up? Ten thousand celestial beings, and your owa  
 radiant child in their midst.  
-&quot;Ia his eyes a glorious Hglit,  
-Oa his bead a glory crown.  
-Wanted Angels for heaven! Cling nit too  
+&quot;In his eyes a glorious light,  
+On his head a glory crown.  
+Wanted. Angels for heaven! Cling not too  
 closely to your beautiful treasures, children of  
-earth. Olive Branch
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_chet_ver01%2Fdata%2Fsn85038518%2F00200293204%2F1855081901%2F0169.jp2/pct:82.299131,23.356091,12.593383,17.008025/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+earth.Olive Branch
+</td></tr></table>
 
 ---
 
@@ -2391,7 +2582,96 @@ taint, so shalt thou &#x27;go to them,&#x27; though
 
 ---
 
-## [From _Council Bluffs bugle._](https://chroniclingamerica.loc.gov/lccn/sn82014139/1855-10-02/ed-1/seq-5)
+## From _Council Bluffs bugle._
+
+#### 1855-10-02 &middot; [City of Council Bluffs, Iowa](http://dbpedia.org/resource/Council_Bluffs%2C_Iowa)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+heie onnets.  
+Sandasky Ragistor  
+  
+.  
+  
+  
+  
+nil arededy  
+  
+  
+  
+around the plast after trans  
+  
+oeg  
+  
+will  
+  
+feet apart  
+  
+each way, i will take 10 000 plants to  
+the acre. Hoe them slightly at first, un  
+til the roots become clinched, and after  
+ward no cultivation is needed, unless to  
+keep out weeds and grass. The plants  
+may be expected to run together and cov-  
+  
+ground in two or three years.  
+  
+atered  
+  
+with a ranberry  
+  
+A farmer had occasion to send  
+  
+e ei i an oe e a a a o  
+  
+o  
+  
+Dutchman, to a neighboing town for a o e e ea ie oo­  
+arre of molases. he weter beine ane o i e te o  i  
+warm and the road rough, and the  
+drio  
+his white forehead!--You could weep  
+er orove diing ater fa the o e e  
+  
+el ai  
+  
+dat so I sthops de car an sotean  
+  
+  e e broadly in your careworn face; it mocks  
+  
+steps  
+  
+down flat of de road mit my pack and  a ea e o ee i o  
+scart de cart, and it runned away mit d
+</td></tr></table>
+
+---
+
+## From _Council Bluffs bugle._
+
+#### 1855-10-02 &middot; [City of Council Bluffs, Iowa](http://dbpedia.org/resource/Council_Bluffs%2C_Iowa)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Wanted an Angel for Heav n.  
+  
+And so death closed those little eyes-  
+shrouded their  
+bright glan  
+  
+es.  
+  
+sod  
+  
+you as yon sew the shroud; it meets you at  
+  
+coffin, at the grave, and its
+</td></tr></table>
+
+---
+
+## From _Council Bluffs bugle._
 
 #### 1855-10-02 &middot; [City of Council Bluffs, Iowa](http://dbpedia.org/resource/Council_Bluffs%2C_Iowa)
 
@@ -2399,64 +2679,110 @@ taint, so shalt thou &#x27;go to them,&#x27; though
 
   
   
-heavy&quot; foot-  
+sun would not come streaming in on  
+  
+in travel.  
+decision, land oda  
+  
+When a  
+  
+that the  
+  
+shrouded form, as if there were no griaf in  
+the world.  
+  
+that  
+  
+ay, to think those cherub  
+  
+ei i eer an o a o a  
+  
+and unclisp that passive, darling hand that  
+  
+  
+la-ses took a notion to  
+generally called. But we will  
+tell the story in his own words  
+I gomed along and gomed along, til I  
+o o e i a an on e o o ee o e a in oi o  
+blacksmit&#x27;s shop and den I looks around  
+  
+wandered  
+  
+so  
+  
+often  
+  
+over  
+  
+your  
+  
+ea o an e ae i o ea  
+the dim story of love in those faded orbs.  
+  
+wre athe I  
+  
+ochind der bung hole. Thinks I, I vill still the busy world knocks at your door,  
+  
+heavy foot.  
   
 tramp up and down in the empty rooms  
-frm whence you have born your dead.  
-But it romea never iw the huih of ui^ht, ao  
+from whence you have born your dead.  
+But it comes never in the hush of night, so  
   
-win.&#x27; away yo  
-t.&#x27;d  
+wine away yo  
+ted  
   
 your tears!  
   
-Wanted—an *r\£el for Heaven Can  
-you look up Can yon be.»r the splendor  
-of that *ight Ten thousand celestial be­  
-inrs, an 1 your own rclient child in tfceir
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn82014139%2F0041566896A%2F1855100201%2F0126.jp2/pct:62.704446,44.233343,14.614144,4.997878/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Wanted- an angel for Heaven!Can  
+you look up? Can you bear the splendor  
+of that sight? Ten thousand celestial be-­  
+ings, and your own radient child in their  
+  
+closley to your beautiful treasures, chil
+</td></tr></table>
 
 ---
 
-## [From _Spirit of the times._](https://chroniclingamerica.loc.gov/lccn/sn84028880/1855-10-23/ed-1/seq-1)
+## From _Spirit of the times._
 
 #### 1855-10-23 &middot; [Ironton, Ohio](http://dbpedia.org/resource/Ironton%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Yet romembered, loved, and chorished I  
+Two on Earth and Two in Feaven.  
+&quot;Lady, how many children have you?&quot;  
+&quot;Four,&quot; was the prompt reply. &quot;I  
+have two on earth, and two in heaven!&quot;  
+Thou art mother of angels, then.  
+They are yet yours, only gone before!  
+Yet remembered, loved, and cherished!  
 Their places are not yet filled, though  
 their successors draw life from the same  
-breast : that their predecessors&#x27; dying  
+breast that their predecessors&#x27; dying  
 heads were pillowed on.  
-&quot;Two in Heaven !&quot;  
+&quot;Two in Heaven!&quot;  
 No pain, no sickness there, nor  
 drooping head, nor failing eye, nor wea­  
 ry feet. Rejoicing in the heavenly pas­  
-tures, guarded by tho Good Shepherd  
+tures, guarded by the Good Shepherd  
 little lambs of the heavenly fold.  
-&quot;Two in Heaven !&quot;  
--Earth, then, is less attractive.  
+&quot;Two in Heaven!&quot;  
+---Earth, then, is less attractive.  
 Eternity seems nearer. Those invisible  
 little spiritual cords twine around you,  
-and draw vour soul upward. Like still  
+and draw your soul upward. Like still  
 small voices, ever whispering, &quot;Come to  
 the world, where spirits live.  
-&quot;Two in Heaven &quot; 1  
+&quot;Two in Heaven!&quot;  
 Mother of cherubs! walk softly!  
 Little angels watch thy steps. Spirit  
-forms stoop to listen I Keep thy soul  
-free from earth ; thou shalt go to them,  
-though they cannot return to thee !  
-Authority
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn84028880%2F00296027558%2F1855102301%2F0530.jp2/pct:18.751183,56.047454,12.828761,14.467593/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+forms stoop to listen! Keep thy soul  
+free from earth; thou shalt go to them,  
+though they cannot return to thee
+</td></tr></table>
 
 ---
 
@@ -3217,13 +3543,13 @@ On her brow a glory crown.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-TitE Cnrd. Asont. Death has closed  
+The CHILd-AnGEL.Death has closed  
 those little eyes and forever shrouded their  
-bright glances. How sweetly she aleeps, that  
+bright glances. How sweetly she sleeps, that  
 little coveted angel! How lightly curl the  
 glossy ringlets on her forehead! You could  
 weep your very soul away to think those  
-cherub lips will never, never unclose. Vain  
+cherub lips will never, never unclose. Vain­  
 ly you clasp and uuclasp that passive, darling  
 hand that wandered so often over your cheeks.  
 Vainly your anguished glances strive to read  
@@ -3233,7 +3559,7 @@ wreaths and garlands, slumbers forever.
 And still the busy world knocks at your door  
 and will let you have no peace. It shouts in  
 your ear, it smiles in your face, it meets you  
-at the coffin, at the grave,its heavy footsteps  
+at the coffin, at the grave, its heavy footsteps  
 tramp up and down in the empty room from  
 whence you have borne your dead. But it  
 comes never in the hush of night to wipe  
@@ -3349,56 +3675,40 @@ night to wipe away your tears! In the
 
 ---
 
-## [From _Sugar planter._](https://chroniclingamerica.loc.gov/lccn/sn86079096/1859-08-20/ed-1/seq-1)
+## From _Sugar planter._
 
 #### 1859-08-20 &middot; [West Baton Rouge [i.e. Port Allen, West Baton Rouge Parish, La.]](http://dbpedia.org/resource/Port_Allen%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-THE CHILD-ANGEL.-Death has  
-closed those little.eyes and foreyer  
+THE CHILD-ANGEL--Death has  
+closed those little eyes and forever  
 shrouded their bright glances. How  
-sweetly she sleeps, that littlt cove­  
-ted angel ! H.ow li; itly curls the  
-glossy ringlets: oi her forehead iYou  
-could weep your -very soil away  
+sweetly she sleeps, that little cove­  
+ted angel! How lightly curls the  
+glossy ringlets on her forehead You  
+could weep your very sonl away  
 to think those cherub lips will never,  
-never uncdbse.: aily youi clasp and  
-unclatp that passive, darling hand  
-that wandlered so often -bvei; ,your  
-eheeks Vainly your arnguished  
-glances strive- to,read the&#x27;diun story  
-of love in thoslfaded_ orbs: :_That  
-voice,. as_ wind blowfngfig.tlrough  
-ever . A-nd still the bisy iworld. kno­  
-,k- at youir door, and: will let your  
-hayve n, peace. -It shouts -in -your  
-ear, it smiles in ybtfi. face, it meets  
-oou at the coffin, at the grave, and  
-its heavy footstepsa--:tramp &#x27;p and  
-down in the&quot;- eltpty room from  
-Sr.- hteueeyo&quot;cTig.- &#x27; ,=oie ySou- r e. i.  
-But it coin s n evcri f the, hIus&#x27;h of  
-inighit to wipe awiay ydur ts ! T In  
-the solemn sile-infe o6ftbe grave  
-we feel the&#x27; force o1 the sickening  
-serooW which i.ii&#x27;gs heavily 0upon  
-the heart, as thlionh it wotildijir ess&quot;  
-it down into thei narow space over  
-which-the spirit dwells in i iinful  
-ensperise Blut a bright viiiobifibtel  
-the eye. aniyout look itup ? cani  
-you, bear the, spler.dor of\th~sightL:  
-ten thousand celestial beings,. and,  
-&#x27;our radiant child-angel in h th~  
-iidst: of tl e-- .  
-In her eyes oftglory bright  
-On herb-ro a glory crown. &quot; -x
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_sands_ver01%2Fdata%2Fsn86079096%2F00212475002%2F1859082001%2F0326.jp2/pct:81.039326,36.634948,15.449438,27.840254/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+never unclose. Vainly you clasp and  
+unclasp that passive, darling hand  
+that wandered so often over your  
+cheeks. Vainly your anguished  
+glances strive to read the dim story  
+of love in those faded orbe. That  
+woee an wind bowing throg  
+ever. And still the busy world kno­  
+chke at your door, and will letyo  
+have no peace. It shouts in your  
+ear, it emiles in your face, it meets  
+ou at the coffin, at the grave, and  
+its heavy footsteps tramp up and  
+down in the empty room from  
+But it coraes navep in thetusl  
+But it comes never in the hush of  
+night to wipe away your tears! In  
+the solemn silence of the grav
+</td></tr></table>
 
 ---
 
@@ -3465,44 +3775,41 @@ On lier brow a glory crown
 
 ---
 
-## [From _Memphis daily appeal._](https://chroniclingamerica.loc.gov/lccn/sn83045160/1861-09-22/ed-1/seq-1)
+## From _Memphis daily appeal._
 
 #### 1861-09-22 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Twi in HsyvKt &quot;You ba.e two ciii!­  
-drei V&quot; laid I.  
-&#x27; 1 have four,&quot; wasth: reply; &quot;two on earth  
-am&#x27;, two in heaven.&quot;  
-Thin sppke the inotb -i! S&#x27;ill hers! only  
-&quot;gone befof e!&quot; Still raaaefaoeffd, lovert and  
-eberiaiied, b t:. hearth nn-l ibe hoard; their  
-place not yet fi ieJ; even though their surcea­  
-sors draw uf.; frcm tbe same taiibful breast  
-whrr ttn ir dying heads were pillowed.  
-&#x27;Two in ties vet I&quot;  
-Safety housed from storm ac tcmpet&#x27;; no  
-eickr,: 3s tbe re, nr 4i u.ijiing heads, nor fading  
-eyes, nor wr.aiy fert. By tue green pastures,  
-tend, red by the good shepnerd, linger the little  
+Two in HeaveN.--&quot;You have two chil­  
+dren?&quot; said I.  
+&quot;I have four,&quot; was the reply; &quot;two on earth  
+and two in heaven.&quot;  
+Thus spoke the mother! Still hers!--only  
+&quot;gone before!&quot; Still rememhered, loved and  
+cherished, by the hearth and the board; their  
+place not yet filled; even though their succes­  
+sors draw life from the same faithful breast  
+where their dying heads were pillowed.  
+&quot;Two in heaver!&quot;  
+Safely housed from storm and tempest; no  
+sickness there, nor drooping heads, nor fading  
+eyes, nor weary feet. By the green pastures,  
+tendered by the good shepherd, linger the little  
 lambs of the heavenly fold.  
-&quot; Two In henvenl&quot;  
-Earth less attractive! Eternity neiredl In­  
-visiiile cords, drawii uis nantsraaj soul up  
-wards. &quot;Still small voices,&quot; ever whisneriii­  
-&quot;cinne,&quot; to tile world-weary spirit.  
-&quot;Two in heaveid7&#x27;  
-Mother of angele! Walk snftM holy eyes  
-wa&#x27;ch thv fooisup! cluiub forms head to  
-tttburl K-ep th ej.irit fra from earth taint;  
-so shait thy soul go to them, though they may  
-not re&#x27;. urn Lo thee
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_bonnielou_ver01%2Fdata%2Fsn83045160%2F00200290033%2F1861092201%2F0238.jp2/pct:39.903424,58.222077,10.579456,9.855639/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+&quot;Two in heaven!&quot;  
+Earth less attractivel Eternity nearedl In­  
+visible cords, drawing the maternal soul up  
+wards. &quot;Still small voices,&quot; ever whisperin­  
+&quot;come,&quot; to the world-weary spirit.  
+&quot;Two in heaven!&quot;  
+Mother of angels! Walk softly! holy eyes  
+watch thy fooksteps! cherub forms head to  
+listen! Keep thy spirit free from earth taint;  
+so shalt thy soul go to them, though they may  
+not return to thee
+</td></tr></table>
 
 ---
 
@@ -3516,56 +3823,53 @@ not re&#x27;. urn Lo thee
 
 ---
 
-## [From _The independent._](https://chroniclingamerica.loc.gov/lccn/sn85029094/1864-06-11/ed-1/seq-1)
+## From _The independent._
 
 #### 1864-06-11 &middot; [Oskaloosa, Kan.](http://dbpedia.org/resource/Oskaloosa%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Wanted An Angel roa Heavsv.  
+WANTED-AN ANGEL FOR HEAVEs.  
 And so death closed those little eyes  
 shrouded their bright glances. Oh,  
 that the sun would not come streaming  
 in on his shrouded form, as if there was  
-uo grief in the world.  
-How sweetly he sleep3, that litllo  
-coveted angeL&#x27;. How lightly curl the  
-glossy ringlets on his white foieheadi  
+no grief in the world.  
+How sweetly he sleeps, that little  
+coveted angel! How lightly curl the  
+glossy ringlets on his white forehead!  
 You could weep your very soul away  
-to think those chettib lips will never,  
-never ninclose. Vainly you clasp and  
+to think those cherub lips will never,  
+never unclose. Vainly you clasp and  
 unclasp that passive, darling hand, that  
 wandered so often over your cheek.  
-Vainly yeuf-anguished glance strives  
+Vainly your anguished ghince strives  
 to read the dim story of love in those  
-faded orbs. Tito voice, sweet as winds  
-blowing thrdugh wreathed shells, slum­  
+faded orbs. The voice, sweet as winds  
+blowing through wreathed shells, slum­  
 bers for ever. And still the busy world  
-knocks nt your door, and will let you  
+knocks at your door, and will let you  
 have no peace. It shouts in your ear;  
 its chariots rumble by; it smiles broadly  
 in your care-worn face; it mocks you as  
-you sew th j shroud; it meets you at the  
-coffin, at tho grave; and its heavy foot­  
+you sew the shroud; it meets you at the  
+coffin, at the grave; and its heavy foot­  
 steps tramp up and down in the empty  
 rooms from whence you have borne  
 your dead. But it comes never in the  
 hush of night to wipe away your tears!  
-Wanted an angel for heaven 1 Can  
-you look up ? Can you bear the splen­  
+Wanted--an angel for heaven! Can  
+you look up? Can you bear the splen­  
 dor of that sight? Ten thousand celes­  
 tial beings, and your own radiant child­  
 angel in their midst,  
-&quot;In&quot; his eyes a glory-light,  
+&quot;In his eyes a glory, light,  
 On his brow a glory crown.&quot;  
-Wanted angels fi-r heaven 1 Cling  
+Wanted--angels for heaven! Cling  
 not too closely to your beautiful treas­  
-ures, children of earth 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn85029094%2F00237281858%2F1864061101%2F0691.jp2/pct:56.150864,48.494596,12.548467,22.014925/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+ures, children of earth
+</td></tr></table>
 
 ---
 

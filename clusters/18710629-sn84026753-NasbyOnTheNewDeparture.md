@@ -315,7 +315,7 @@ Prreoi.Em V.Nxssr.
 
 ---
 
-## [From _The Tiffin tribune._](https://chroniclingamerica.loc.gov/lccn/sn87076794/1871-06-08/ed-1/seq-4)
+## From _The Tiffin tribune._
 
 #### 1871-06-08 &middot; [Tiffin, Ohio](http://dbpedia.org/resource/Tiffin%2C_Ohio)
 
@@ -323,266 +323,267 @@ Prreoi.Em V.Nxssr.
 
   
   
-CONFEDRIT X ROADS.  
+in which Mr. Joseph Eigler takes  
   
-(wich is in the State of Kentucky,  
+ing in which Mr. Joseph Bigler takes  
+  
+Conpedrit eRoads,  
+  
+twich is in the State of Kentucky,  
   
 May 25, 1871.  
   
 A calm and comprehensive survey  
 uv the politikle field satisfied me,  
-tome months ago, that without some  
+some months ago, that without some  
 shift in the position of the Dimocracy,  
-oar how uv success wuz exceedingly  
+our hope uv success wuz exceedingly  
 thin. The rezolooshens interdoost by  
 Vallandygum into the Convenshun of  
-the Dimocracy uv aionigumery coun­  
+the Dimocracy uv Montgumery coun­  
 ty, Ohio, wuz to me a new lite. Troo,  
-thev have the slite disadvantage uv  
-abloorin everthlng that is Dimocratic,  
-and uv tuttin the Dimocratic party  
-on purely .Republican ground, but wat  
-uv that 7 1 kin 8 tan a even so suaain  
+they have the slite disadvantage uv  
+abjoorin everthing that is Dimocratic,  
+and uv puttin the Dimocratic party  
+on purely Republican ground, but wat  
+uv that? I kin stand even so suddin  
 a change ez that. Wat I want is the  
 soopreme happiness uv kickin that  
-nigger Lubbock out nv the postofSs at  
-the Corners, ana uv puiun myseu in  
+nigger Lubbock out uv the postoffis at  
+the Corners, and uv puttin myself in  
 his place, and Kernal McPelter and  
 Elder Pennibacker who hev bin lan-  
-guittbin outside the offises nv Assessor  
+guishin outside the offises uv Assessor  
 and Collector, are actooatid by the  
-same hieh and holy impulses. Ef to  
-do this requires the ockepyin of Ke-  
-nublickin around, tne war cry uv us  
+same high and holy impulses. Ef to  
+do this requires the ockepyin of Re-  
+publickin ground, the war cry uv us  
 three is &quot;ockepy.&quot; Kentucky is shoor  
 to go Democratic anyhow, and if we  
 kin by so simple a process ez passin  
-resoioosbens indoose enun aissausnea  
-BeDublicklns in the close Northern  
-states to rote with us to elect a Dimo  
+resolooshens indoose enulf dissatisfed  
+Republickins in the close Northern  
+states to vote with us to elect a Dimo  
 cratic President who will give us these  
-boons, we three are for passin tnese  
-resoioosbens no matter what they are.  
-This being my understands uv Val­  
-landygnm&#x27;s movement, I acted onto it  
+boons, we three are for passin these  
+resolooshens no matter what they are.  
+This being my understandin uv Val­  
+landygum&#x27;s movement, I acted onto it  
 to wunst.  
 I got the leadin Dimocracy uv the  
-Corners, together one n i te at Bascom&#x27;s.  
-Tnat 1 mite git em an at one time  
-V 1 AAa V a  
-for tli  
+Corners, together one nite at Bascom&#x27;s.  
+That I mite git em all at one time  
+Us  
+for the  
 waited till the reglar evenin  
-raid on the nigeera and northern set-  
-tlen ud toarda Garrets town, k no win  
+raid on the niggers and northern set-  
+tiers up toards Garretstown, knowin  
 that on their return they&#x27;d all stop at  
 Bascom&#x27;s for a drink, and that ef  
-thev&#x27;d been successful in their hanidn  
-and burn in they&#x27;d be in good humor  
-and ready to adopt anytinncr i snooa  
-ufcesL It was a very short consul  
-taxhun but very satisfactry. There  
-wuz some objecahuns on the part of a  
+they&#x27;d been successful in their hangin  
+and burnin they&#x27;d be in good humor  
+and ready to adopt anything I shood  
+uggest. It was a very short consul  
+tashun but very satisfactry. There  
+wuz some objecshuns on the part of a  
 few to what they called an abandon  
-ment nv Dimocratic ideas, but Bas  
-com settled their hash in very shaft  
+ment ny Dimocratic ideas, but Bas  
+com settled their hash in very short  
 meter. He remarkt that it wuz neces  
 sary that the offises be in the hands of  
-his friends lor odvious reasons, lie  
+his friends for obvious reasons. He  
 wantid pay and he knowed uv no oth  
-er war to rit it. He believed in the  
-fullest freedom uv thought and act  
-sben. and that every one shood ex  
+er way to git it. He believed in the  
+fullest freedom uv thought and ack  
+shen, and that every one shood ex  
 press himself untrameled, but he  
 coodn&#x27;t abide a idiot. If there wuz  
-any one in theassemblitre so stupid ez  
-to difler with him on this question, let  
-him make nisaeit Known, rso sich  
-man ever shood Bit a drop at his bar.  
-never: sich a man wnz not deservin  
+any one in the assemblige so stupid ez  
+to differ with him on this question, let  
+him make hisself known. No sich  
+man ever shood git a drop at his bar,  
+never; sich a man wuz not deservin  
 uv even the commonest necessaries uv  
 life. Several who had riz to their feet  
-to obiect, dropt ez though they hed  
+to object, dropt ez though they hed  
 bin shot.  
 It wuz determined to hold a public  
-meetin tne next nite at tne cnurcn to  
-make a public endorsement of ullan  
-dyeum&#x27;s idea.  
-tne prinsinie od ick oi me meet  
+meetin the next nite at the church to  
+make a public endorsement of Vullan  
+dygum&#x27;s idea.  
+the prinsiple oblick of the meet  
 in wuz to convins the Republicans uv  
-tiie doubtful States that the Dimocra  
-cv uv the South really acceptid the  
+the doubtful States that the Dimocra  
+cy uv the South really acceptid the  
 situashen, and ment, in dead earnest,  
-to recornlze Ui irreat principle uv  
-equality. I arranged to have all the  
-nircers uv the Corners present, and  
+to recognize the great principle uv  
+equality, I arranged to have all the  
+niggers uv the Corners present, and  
 saved for em the best seats in the  
-house Joe. Bigler and Pollock come,  
+house. Joe. Bigler and Pollock come,  
 uv course, wich I coodn&#x27;t help.  
-I opened the exercises by makiu  
+I opened the exercises by makin  
 short speech ez I took the chair. I re-  
 a leaden uv em. I knowd that our  
 colored fellow-citizens hed been dis-  
 pitefully yoosed, and that doo respeck  
-tied not been alluz paid to our fellow-  
+hed not been alluz paid to our fellow-  
 citizens of the North, but that time  
 hed now passed and I hoped forever.  
 The Dimocracy of the North, through  
 Vallandygum, hed spoke, they hed  
-accepted the situashen, halleloogy.and  
-irom mis lime nenceiortn and toreve&#x27;  
-there;wua to be nothing but peece. I  
-then offered thefollerin resolooshen:  
-Heolved, That the Dimocrisy of the  
-Yoonlted States recognize the legality  
+accepted the situashen, halleloogy, and  
+from this time henceforth and foreve  
+therewuz to be nothing but peece. I  
+then offered the follerin resolooshen:  
+Resolved, That the Dimocrisy of the  
+Yoonited States recognize the legality  
 uv all the amendments made to the  
-Constitooshen door in and since the  
+Constitooshen doorin and since the  
 onpleasantnis, and most heartily ac  
 quiesce in all the results uv the war  
 that they not only withdraw all their  
 oppossihen to yooniversal suffrage,  
-but pledge theirselves to see that eur  
-Airikin fellow-citizens hev not only  
+but pledge theirselves to see that our  
+Afrikin fellow-citizens hev not only  
 this right but all others heretofore en­  
-joyed excloosively by the Caucaben.  
+joyed excloosively by the Caucashen.  
 I put the question ez to the adop  
-uui uv uie raKuoosneen, ana ll wuz  
-carried yoonanimusly. It wood hev  
-bin well bed I stopped here, but I  
-didn&#x27;t. My prevaiiu weekness is to  
+nen uv the resoloosheen, and it wuz  
+carried yoonanimusly. It wood hey  
+bin well hed I stopped here, but I  
+didn&#x27;t. My prevalin weekness is to  
 slop over and I slopt on this okkashen  
-leariuiiy. l called upon the citizens  
-uv the Corners to prove their faith bv  
+fearfully. I called upon the citizens  
+uv the Corners to prove their faith by  
 their works. &quot;There are,&quot; I said in a  
 spasm of delite, present at this meet  
-in iwetiy-two uv our fellow-citizens  
-nv Afrikin descent. Let em steo  
-Kirreru on itiia piaiform let lJeeRln  
-Pocram. Elder Pennibacker. Biscom.  
+in twer ty-two uv our fellow-citizens  
+uv Afrikin descent. Let em step  
+forrerd on this Dlatform,--ie0 IleekiH  
+Pogram, Elder Pennibacker, Bascom.  
 Issaker Gavitt and eighteen other  
-white citizens steobed forrerd. also.  
+white citizens stepped forrerd, also,  
 Let em clasp each other by the hand  
-while I wave over em the flag &quot;V our  
-common ken try.&quot;  
-It wnz done. The twenty twa nig­  
+while I wave over em the flag uy our  
+common kentry.&quot;  
+It wuz done. The twenty two nig­  
 gers stepped forred, the whites desig­  
-nated advanced, the two lines trasoed  
-each other by the hand, and I wnz  
+nated advanced, the two lines grasped  
+each other by the hand, and I wuz  
 about to wave, when Joe Bigler riz.  
 He begged me to wait a minit till he  
-had made his remark. The site afore  
-him moved him almost to tecra. f &#x27;.r  
-he had ever harbored a susoisien that.  
+hed made his remark. The site afore  
+him moved him almost to teers. Tf  
+he had ever harbored a suspishen that!  
 there wuzn&#x27;t anything generous in the  
-neniucKy oreast tie took it all back  
-The ackshen uv to-nite wuz not onl v  
-just but It wuz generous.  
-&quot;Uenerous !&quot; sed he, &quot;thi niggers  
-wood be in a devlish bad war ef von  
-nean i aeciuea on givin em tnetr rites,  
-uv yoor own akkord fox there ain&#x27;t no  
-power now that kin compel yos to do  
-it. I j ist got a northern paper alas  
+Kentucky breast he took it all back  
+The ackshen uv to-nite wuz not only  
+just but it wuz generous.  
+&quot;Generous!&quot; sed he, &quot;the niggers  
+wood be in a devlish bad way ef voo  
+nedn&#x27;t decided on givin em their rites,  
+uv yoor own akkord for there ain&#x27;t no  
+power now that kin compel yoe to do  
+it. I jist got a northern paper--alas  
 the Republikin party is split into frag  
-ments remarkably small fragments,  
+ments-remarkably small fragments.  
 Grant assaulted Sumner in the Capi  
-tol, last Monday. Logan hex bin  
-stoned by the Itepublikins uv Phila  
-deify on his way home, the Central  
-lmmittees nv Ohio. Inipanv anri  
-xuinoy hev divided, and each frack  
-,hen bn CallM COn Venshen, and the  
-TriboQn throws up Us.  
-ponge and sex that nothin under  
-hevin kin prevent the success ut tie  
-the Democratic candidate fur tie  
+tol, last Monday, Logan hez bin  
+stoned by the Republikins uv Phila  
+delfy on his way home, the Central  
+Committees uv Chio. Inieany and  
+Tilinoy hey divided, and each frack  
+shen hez called a convenshen, and the  
+Triboon throws up the  
+ponge and sez that nothin under  
+hevin kin prevent the success uv the  
+the Democratic candidate for the  
 Presidency, no matter who he may be  
-or wai piauorm ne is put onto. In  
-lew uv the dissolooshen uv the .Re  
+or wat platiorm he is put onto. In  
+iew uv the dissolooshen uv the Re  
 publikin party, and the fact that the  
-niggers ain&#x27;t now eot no nertecktpni.  
-its really generous that voo  
-xne Kepulikin party is p-me, in  
-pieces! ner it T&#x27; easDed my twenty.  
-i herit?&quot; ganred mv twenty-  
-iww wuite irienus in lonous.  
-&quot;it nei !&quot; respond id Bigler.  
-&quot;Then,&quot; sed Deekin Pogram. his  
-eyes flaahin with unwontid fir.  
-WHAT WE&#x27;VE DONE AXD lEDDOST  
-cowxt! Take that, too black  
-CC88 1&quot;  
-And with a strength and awivltr?  
-wich I hed n&#x27;t lookt tor In one an ao-ta  
-ins uectin recht the darkey whose  
-nana ne nea bin erasnin. a mr.i  
-powerful blowatweeu the eyes which  
-bisted him elan off the niafforrr.  
-me otners roiiered soot, and in their  
-seat sprang on ine platform after em  
-and wui a executin war rianc i.i,I  
-most frantic descripshen onto their&quot;  
-prosiraie Doaies. it wuz with rliffl.l  
-culty that Pollock and Bigler restrain-&#x27;  
-ed em from t&amp;kia uv em out and  
-ban gin nv em. i  
-Jus a matter uv course the resaloo-  
-then Will rescinded, and Others adonfc  
-afflrmin our adherence to t&quot;e c,Fn  
-teoaben e it yooet to be, the illegall  
-ty nv tne ameodmenU, and the  
+niggers ain&#x27;t now got no perteclters.  
+its really generous that yoo  
+The Repulikin party is gone to  
+pleces! hez it?&quot; gasped my tuenty.  
+I hez it?&quot; gasped my twenty-  
+two white friends in Korious.  
+&quot;It hez!&quot; respondid Bigler.  
+&quot;Then,&quot; sed Deekin Pogram, his  
+eyes flashin with unwontid fire,  
+What we&#x27;ve Done And sed poN&#x27;t  
+connt! Take that, Yoo Black  
+cuss!&quot;  
+And with a strength and activity  
+wich I hedn&#x27;t lookt for in one so agid  
+the Deckin fecht the darkey whose  
+hand he hed bin graspin, a most  
+powerful blow atween the eyes which  
+histed him clean off the platform  
+The others follered soot, and in their  
+teal sprang off the platform after em  
+and wuz a executin war dances uy the  
+most frantic descripshen onto their!  
+prostrate bodies. It wuz with dim.  
+culty that Pollock and Bigler restrain-I  
+ed em from takin uv em out and  
+hangin uv em.  
+Ez a matter uv course the resaloo-  
+shen wuz rescinded, and others adopt.  
+affirmin our adherence to the tht  
+tooshen ez it yoost to be, the illegall  
+ty uv the amendments, and the  
 nateral soopremacy uv the white man  
-over the d d nitreer.after wich we sH.  
-journexl to Bascom&#x27;s, er. is our custom  
-and there organized fresh raida onto  
+over the d--d nigger after wich we ad.  
+journed to Bascom&#x27;s, ez is our custom  
+and there organized fresh raids onto  
 our nateral enemies.  
-The next morn in I notised a  
-Iyer look on Bigler&#x27; face and like­  
-wise on Pollock&#x27;s. Thev rrinned at  
-m ex I passed, with a broad Dig w-ich  
-couldn&#x27;t account for. Laibbock. the  
-nierer Postmaster, bust into a mar a.  
-walked into his ods. tndl marii.  
+The next mornin I notised a  
+lyer look on Bigler&#x27;s face and like­  
+wise on Pollock&#x27;s. They grinned at  
+me ezI passed, with a broadnis wich  
+couldn&#x27;t account for. Lubbock, the  
+nigger Postmaster, bust into a roar eg  
+walked into his offis, and I ancrily  
 demandid the reason for his hilarity  
-MDat mlsUke ob Bigler&#x27;s,&quot; returned  
-be, lan chin r louder than befnre.  
-&#x27;&#x27;What mistake V I aakMi tjimin  
+&quot;Dat mistake ob Bigler&#x27;s,&quot; returned  
+he, laughing louder than before.  
+&quot;What mistake?&quot; I asked, turnin  
 pale, for a suspishun wuz crecpin over  
 me.  
-Why. he didn&#x27;t ret no nanor at all  
-and&quot; &#x27;  
+Why, he didn&#x27;t get no paper at all  
+and-  
   
 &quot;And all that story about the split  
-In the Eepublikln partv North wnz  
-one uv his infernal lies !&quot;  
-&quot;Dat&#x27;s about de correct aU.te ob de  
-case !&quot; replied the nigger bovrln all  
-hia Ivories. &quot;Bigler wanted to see ef  
-yoor pentance wuz genjoine dat&#x27;a  
-about all dab. woz ob it. He &#x27;sprest a :  
-desire to aasertane jist hou- ix-eceable j  
+in the Republikin party North wuz  
+one uv his infernal lies!&quot;  
+&quot;Dat&#x27;s about de correct state ob de  
+case!&quot; replied the nigger showln all  
+his ivories. &quot;Bigler wanted to see ef  
+yoor pentance wuz genooine--dat&#x27;s  
+about all dah wuz ob it. He &#x27;sprest a  
+desire to assertane jist how peeceable  
 yood be to de nigger and de Northern  
-people uown nean, er nan wuzu t no &#x27;  
-Publikiu party up North to hold vo..;  
+people down heah, ef dan wuzn&#x27;t no  
+Publikin party up North to hold yoo;  
 dat wuz all.&quot;  
-And the nigger laffedafeeiidih latT.  
-&quot;Dat wuz ail !&quot; he reeatel.  
-It wuz enutf. I guess the cuss found  
-out all that he wanted to. I&#x27;v course  
-thia &quot;outrage,&quot; ez they call it, will git  
+And the nigger laffed a feendish laff.  
+&quot;Dat wuz all!&quot; he repeated.  
+It wuz enuff. I guess the cuss found  
+out all that he wanted to. Uv course  
+this &quot;outrage,&quot; ez they call it, will git  
 nto the northern papers, and uv  
-course Vallandyg&#x27;im&#x27;s assershun will  
-explode itself without iiurun any  
-body. Joe isigier w my evil genius.  
-I shel never be able to ran things ez I  
+course Vallandygum&#x27;s assershun will  
+explode itself without hurtin any  
+body. Joe Bigler is my evil genius.  
+I shel never be able to run things ez I  
 want to so long ez he lives.  
   
-PETROLEUM V. NASBY,  
+PeTrOleUMV. NaseY,  
   
-(wich wuz Postmaster.)
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn87076794%2F00280775125%2F1871060801%2F0197.jp2/pct:39.614531,4.535340,18.330560,90.367702/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+(wich wuz Postmaster.I
+</td></tr></table>
 
 ---
 
@@ -1460,7 +1461,7 @@ laff.
 
 ---
 
-## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1871-06-24/ed-1/seq-1)
+## From _Sunbury American._
 
 #### 1871-06-24 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
@@ -1468,245 +1469,242 @@ laff.
 
   
 From the Toledy Blade.  
-Confediut X Roads (which i3 in tho  
-State of Kentucky), May 24, 1871. A calm  
-and comprenensivo survey uv mo pouuiue  
-HaM snt.ififrl mi. mmfi mnnlhft ncft. thnfc  
-without some shift in the position uv tho  
-uiniocrisy our nope uv bucccss wua esceeu­  
+Coneedrit x RoAds (which is in the  
+State of Kentucky), May24, 1871.-A calm  
+and comprenensive survey uy the poltikle  
+iald satisfierd me, some months ago, that  
+without some shift in the position uv the  
+Dimocrisy our hope uv success wua exceed­  
 ingly thin. The resolooshens interdoost  
-by Vallandygum into tho Convenshun of  
-tho Democrisy uv Montgomery county,  
-OhiOuWuz to be a new life. Troo. they  
-hev the elite &#x27;disadvantage uv abjobnn  
+by Vallandygum into the Convenshun of  
+the Democrisy uv Montgomery county,  
+Ohio, wuz to be a new life. Troo, they  
+hev the slite disadvantage uv abjobrin  
 everything that is Democratic, and uv put­  
-tin the Democratic party on purely ltepub­  
-kin ground, but wat uv that r 1 kin stand  
-even so siuidcn a change cz mat. at a  
-want is the sooprenio happiness uV kickiu  
-that nigger Lubbock Qtit.uv tho postofiis at  
-the Coruers, aud uv . puttin myself in his  
-place, aud Kernel Mc Feltor aud Elder  
-rennibackcr, who hev biu languishin out  
-aAn il.a ntttona uv A bsMinr hurt fYillpctnr  
+tin the Democratic party on purely Repub­  
+kin ground, but wat uv that? I kin stand  
+even so sudden a change ez that. Wat I  
+want is the soopreme happiness uv kickin  
+that nigger Lubbock out uv the postoffis at  
+the Corners, and uv puttin myself in his  
+place, and Kernel Mc Pelter and Elder  
+Pennibacker, who hey bin languishin out  
+eldo the offices ny Assessor and Collector  
 are actooatid by the same high and holy  
-s i .1 - u : ,,; t.n .,1 V...  
-impulses. x.i tu uu ims idun mu  
-pyin uv Rcpublikin ground, tho war cry uv  
-us three is &quot;okkepy.&quot; KeBtucky is shoor  
+eerlee If to do thie roculros the oro  
+Impuises. E to do this tedutles the  
+pyin uv Republikin ground, the war cry uv  
+us three is &quot;okkepy.&quot; Kentucky is shoor  
 to go Democratic anyhow, and if we kin  
-by so simple a process ez pasein rosoloor  
-shens ludooso enuff dissatisfied Kcpublkins  
-in tho close Northern States to vote witli  
+by so simple a process ez passin resoloo-  
+shens indoose enuff dissatisfied Republkins  
+in tho close Northern States to vote with  
 us to elect a Democratic President who will  
-give u these boons, we three are for pass­  
-ing these resolooshcus, no matter what they  
-are. This beiu my understands uv  
-Vallandygum&#x27;s movement, 1 actid outo it  
+give us these boons, we three are for pass­  
+ing these resolooshens, no matter what they  
+are. This bein my understandin uv  
+Vallandygum&#x27;s movement, I actid onto it  
 to wunst.  
-I got the lecdjn Dimocracy uv the Cor­  
-ners together oue nite at liascom&#x27;s. That  
-1 mite get eu all at one time&#x27; I wailed till  
-the rcgler eveuing for tho raid ou the rig­  
+I got the leedin Dimocracy uv the Cor­  
+ners together one nite at Bascom&#x27;s. That  
+I mite get em all at one time I waited till  
+the regler evening for the raid on the nig­  
 gers and Northern settlers up towards Gar­  
-lettstown, know in that, on their return,  
-they&#x27;d all stop at liascom&#x27;s fora driuk, aud  
-that ef they&#x27;d bin successful in their hungiu  
-aud burniu they&#x27;d be in good humor, aud  
+rettstown, know in that, on their return,  
+they&#x27;d all stop at Bascom&#x27;s for a drink, and  
+that ef they&#x27;d bin successful in their hangin  
+and burnin they&#x27;d be in good humor, and  
 ready to adopt anything I shood suggest.  
-It wuz a very short but a very satisluctry  
-cousulUifcher). There wuJ somo objickshuns  
+It wuz a very short but a very satisfactry  
+consultashen. There wuz some objickshuns  
 on the part of a few to what they called an  
-abandonment uv Dimocratie ideas, bu);  
-Buscotu settled their hash in very short  
-metre, lie remarkt that It wuz necessary  
-that tho olHces be in tho bauds uv his  
-friends for obvlott reasons, lie wanted  
-pay aud he knowed uv no other way to git  
-IU lUs bcleeyed lu the fullest freedom uv  
-thought and acksheu, aud that every ouo  
-should expret himself untratuiuelcd, but  
-he coodent abido a Idiot. If there wuz any  
-oue In that assemblage so stoopid ez to dit­  
-ILr with him ou that questiou, kit him make  
-himself kuowu. Nosichwau shood ever  
-til a drop at his tar, never; such a ono  
-wuz uot dcscrviuuv even the coiuiuoues,  
-necessaries uv lit&#x27;&quot;. Several who had riz to  
-their ut to object dropt as UiomjU they  
-bod Uh!U shot, ....  
-It wuz doU&#x27;riuinea to nom a puuuo pieci-  
-iu the next iu t 1,40 l.Uu.rJ;Ul, Jak ,  
-public eudorseuiDut of Vallaudyc.uiu&#x27;a  
-IlliH&#x27;JIe  
-tz the prlusiiial obliet uv the iufctin wur.  
-to couvuis Urn itepubukiusuv the douUiul  
-butca that lb lVooim rasy uv the boutli  
-rually accented the siluaatuu, aud luciit, lu  
-ded earnest, lo rwoogui
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F0028077604A%2F1871062401%2F0954.jp2/pct:82.582369,53.085376,12.591273,36.545506/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+abandonment uv Dimocratic ideas, but  
+Bascom settled their hash in very short  
+metre. He remarkt that it wuz necessary  
+that the offices be in the hands uv his  
+friends for obvions reasons. He wanted  
+pay and he knowed uv no other way to git  
+it. He beleeved in the fullest freedom uv  
+thought and ackshen, and that every one  
+should express himself untrammeled, but  
+he coodent abide a idiot. If there wus any  
+one in that assemblage so stoopid ez to dif­  
+fer with him on that question, let him make  
+himself known. No sich man shood ever  
+git a drop at his bar, never; such a one  
+Wus not deservin uv even the commonest  
+necessaries uv life. Several who had riz to  
+their feet to object dropt as though they  
+hed been shot,  
+It wuz determined to hold a publle micet  
+in the next nite at the church to make  
+public endorsement of Vallandygum&#x27;s  
+idees.  
+Ez the prinsipal objict uv the meetin wur  
+to convins the stepublikins uv the doubtful  
+States that the Democrasy uv the South  
+really accepted the situashen, and ment, in  
+ded earnest, to recognize the great prinal­  
+pal uy equality, I arranged to hev all the  
+higgers dy the Corners present and saved  
+fof em the best seats in the house, doe  
+Bigler and Pollock cum uy course, which I  
+ holth exercisce by makin a short  
+ansech es I took the chair. I rejoiat that  
+the time had finally arrived when the lion  
+and the lamb hed layed down together, and  
+a child wus the leadin av tin. I  
+Continued oa reank rege
+</td></tr></table>
 
 ---
 
-## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1871-06-24/ed-1/seq-4)
+## From _Sunbury American._
 
 #### 1871-06-24 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 that our colored fellow-citizens hed bin  
-desnitcfully yooaed, trad that duo respect  
-had not bin ltnz paid to our fellow-citizens  
+despitefully yoosed, and that due respect  
+had not bin alluz paid to our fellow-citizens  
 uv the North, but that time hed now pass­  
-ed, and I hoped forever. The Domoorisy  
-uv the North, through Vallandyum, hed  
-spoke, they hed accepted the situoshen,  
-hallcloogy, ttndlrom this time henceforth  
-aud forever there vuz nothin but peeco. I  
-tlicn offered the following resoloosb.cn :  
-&quot;Itesolvcd, That tho IMinocrisy uv the  
-Yoonitcd States rccognizo the legality uv  
-all tho amendments made to theConstitoo­  
-slicn dooring and since the late onpleasant­  
+ed, and I hoped forever. The Demoorisy  
+uv the North, through Vallandygum, hed  
+spoke, they hed accepted the situashen,  
+halleloogy, and from this time henceforth  
+and forever there wuz nothin but peece. I  
+then offered the following resolooshen:  
+&quot;Resolved, That the Dimocrisy uv the  
+Yoonited States recognize the legality uv  
+all the amendments made to the Constitoo­  
+shen dooring and since the late onpleasant­  
 nis, and that they recognize and most hear­  
-tily acquicsco in all tho romilta uv the war;  
+tily acquiesce in all the results uv the war;  
 that they not only withdraw all their oppo­  
-sition to yoouivcrsal suffrage, but pledgo  
-thcirselvcs to see that our Afrikin follow  
-citizens hev not only this but all other rites  
-heretofore enjoyed escloosivcly by the Cau­  
-cashcu.&quot;I put tho question cz to tho adosphen uv  
-tho resolooshen, and it wuz carried yoon­  
-nnimously. It wood hev bin well lied I  
-Btoppcd here, but I didn&#x27;t. My provalin  
+sishen to yooniversal suffrage, but pledge  
+theirselves to see that our Afrikin fellow  
+citizens hey not only this but all other rites  
+heretofore enjoyed excloosively by the Cau­  
+cashelt the question es to the adosphen uy  
+the resolooshen, and it wuz carried yoon­  
+animously. It wood hey bin well hed I  
+stopped here, but I didn&#x27;t. My prevalin  
 weekness is to slop over and I slopt on this  
-okkasion fearfully. I called upon tho citi­  
-zens uv tho Corners to prove their faith by  
-their works. &quot;Thero are,&quot; I said In a spasm  
-of dclito, &quot;present at this mcctin twenty­  
-two uv our fellow-citizens uv Afrikin de­  
-scent. Let em step forrcrd on this plat­  
-form let Dcckin Pograni, Elder Pcnni­  
-backcr. Bascom, Issaker Gavitt and eigh­  
+okkasion fearfully. I called upon the citi­  
+zens uv the Corners to prove their faith by  
+their works. &quot;There are,&quot; I said in a spasm  
+of delite, &quot;present at this meetin twenty­  
+two uy our fellow-citizens uv Afrikin de­  
+scent. Let em step forrerd on this plat­  
+form--let Deekin Pogram, Elder Penni­  
+backer, Bascom, Issaker Gavitt and eigh­  
 teen other white citizens step forrerd, also.  
-Let them clasp each other by tho hand  
-while I wave over em tho flag uv our com­  
-mon kontry.&#x27;  
-It wuz done. Tho twenty-two niggers  
-stepped forred, tho whites designated ad­  
+Let them clasp each other by the hand  
+while I wave over em the flag uv our com­  
+mon kontry.&quot;  
+It wuz done. The twenty-two niggers  
+stepped forred, the whites designated ad­  
 vanced, the two lines grasped each other  
-by tho hand, and J, was about to wave,  
-when Joe. lJigler riz. Ho begged mo to  
-wait a minit tul ho had made his remark.  
-Tho silo beforo him almost moved him to  
-ters. Ef ho hod ever harbored a suspishcu  
-that there wuzn&#x27;t any tiling generous in tho  
-Kentucky breast ho took it all back, l&#x27;ho  
-ncksliun uv to-nite wuz not OBly just tmt  
+by the hand, and I was about to wave,  
+when Joe. Bigler riz. He begged me to  
+wait a minit till he had made his remark.  
+The site before him almost moved him to  
+teers. Ef he hed ever harbored a suspishen  
+that there wuzn&#x27;t anything generous in the  
+Kentucky breast he took it all back. The  
+ackshun uv to-nite wuz not only just but  
 it was generous.  
-&quot;licucrous 1&quot; sed I, &quot;why generous ?&quot;  
-&quot;llccoz,&quot; sed ho, &quot;tho niters wood be  
-in a dcvlish bad way ef yw nedn&#x27;t decided  
-on given cm their rites, uv yoor own ak­  
-koru, for there ain&#x27;t no power now tuat kin  
-compel voo&#x27;to do it. I .list cot a northern  
+&quot;Generous!&quot; sed I, &quot;why generous?&quot;  
+&quot;Becoz,&quot; sed he, &quot;the niggers wood be  
+in a devlish bad way ef yoo hedn&#x27;t decided  
+on given em their rites, uv yoor own ak­  
+kord, for there ain&#x27;t no power now that kin  
+compel yoo to do it. I jist got a northern  
   
-paper
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F0028077604A%2F1871062401%2F0957.jp2/pct:5.770258,5.694697,12.466607,27.312159/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1871-06-24/ed-1/seq-4)
-
-#### 1871-06-24 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-nicnts. Uraut assaulted Sumner In tho  
+paper--alas! the Republikin party is split  
+ito tiragments-remarhatbly small frag  
+ments. Grant assaulted Sumner in the  
 Capital last Monday, Logan hes bin stoned  
-by tho Itcpublikins uv l&#x27;hiladelfy on his  
-way home, tho Central Committees uy  
-Ohio, Injeany and lllinoy hev divided, and  
-each frackshen hes called a convensliun,  
-and tho Noo York IViboon throws un the  
-Bpongo andscz that nothin under hcviukiu  
-movent tuc success uv tho Democratic can  
-ilidatc for tho Presidency, no matter who  
-ho may be or wat platiorm ho is put onto.  
-In view of the dissolooshen uv the Kc-  
-publikin party, and tho fact that tho nig­  
-gers ain&#x27;t now got no pcrtcctors, its really  
-generous that yoo &quot;  
-&quot;Tho licpublikin party is gono to pieces  
-&#x27;hcz it,&quot; gasped my twenty-two whito  
+by the Republikins uv Philadelfy on his  
+way home, the Central Committees uy  
+Ohio, Injeany and Illinoy hev divided, and  
+each frackshen hes called a convenshun,  
+and the Noo York Triboon throws up the  
+sponge and sez that nothin under hevin kin  
+prevent the success uv the Democratic can  
+didate for the Presidency, no matter who  
+he may be or wat platform he is put onto.  
+In view of the dissolooshen uv the Re-  
+publikin party, and the fact that the nig­  
+gers ain&#x27;t now got no pertectors, its really  
+generous that yoo--&quot;  
+&quot;The Republikin party is gone to pieces  
+hez it,&quot; gasped my twenty-two white  
 friends in korious.  
-&quot;It hcz.&quot; resnonded TJialpr.  
-&quot;Then,&quot; saiil Dcekin Pogram, Lis eyes  
-flashin with unwontid Arc, &quot;what we&#x27;ve  
-done and sed don&#x27;t count I Tako that you  
+&quot;It hez,&quot; responded Bioler.  
+&quot;Then,&quot; said Deekin Pogram, his eyes  
+flashin with unwontid fire, &quot;what we&#x27;ve  
+done and sed don&#x27;t count! Take that you  
 black cuss.&quot;  
 And with a strength and activity wich  
-I hedn&#x27;t lookt for in one to agid, the Dee­  
-Liu fecht tho darkey whos baud ho hed bin  
-graspin a most powerful blow atween tho  
-eyes, which lusted him clean oil tho plat  
-form. Tho others follercd suit, and in their  
-zeal sprang off tho platform after cm, and  
-waz a executin war dances uy tho most  
-frantic derjcripshen unto their prostrate  
-bodies. It wuz withdifliculty that Pollock  
-and Biglcr restrained em from takin uv em  
+I hedn&#x27;t lookt for in one so agid, the Dee­  
+kin fecht the darkey whos hand he hed bin  
+graspin a most powerful blow atween the  
+eyes, which histed him clean off the plat  
+form. The others follered suit, and in their  
+zeal sprang off the platform after em, and  
+waz a executin war dances uv the most  
+frantic descripshen unto their prostrate  
+bodies. It wuz with difficulty that Pollock  
+and Bigler restrained em from takin uv em  
 out and hanging uv em.  
 Ez matter uv course the resolooshen wuz  
-reciuded, and others adopted allirmin our  
-adhcrenco to the constitushun ez it yoost  
-to bo, the illegality uv tho amendments, and  
-tne natural soopremacy uv the whito man  
-over 1110 u a nigger, alter winch wo  
+recinded, and others adopted affirmin our  
+adherence to the Constitushun ez it yoost  
+to be, the illegality uv the amendments, and  
+the natural soopremacy uv the white man  
+over thed--- nigger, after which we  
 adjourned to Bascom&#x27;s, ez is our custom,  
-aud there organized fresh raids onto our  
+and there organized fresh raids onto our  
 nateral enemies.  
-Tho next mornin.&#x27; I notised a pccoolyer  
-look on Bigler&#x27;s &amp;.&amp;, likewise on Pollock&#x27;s.  
-They grinned at rhc as I passed, with a  
-vruiuima inac x coiuun&#x27;i account lor. Lub­  
-bock, tho nigger postmaster, bust into a  
-roor ez I walked into his oflis, and I an­  
-grily demanded tho reason for his hilarity.  
-&quot;Dat mistako ob Bigler&#x27;s,&quot; returricd he,  
+The next mornin&#x27; I notised a pecoolyer  
+look on Bigler&#x27;s facde, likewise on Pollock&#x27;s.  
+They grinned at me as I passed, with a  
+oroadhis that I coudn&#x27;t account for. Lub­  
+bock, the nigger postmaster, bust into a  
+roor ez I walked into his offis, and I an­  
+grily demanded the reason for his hilarity.  
+&quot;Dat mistake ob Bigler&#x27;s,&quot; returned he,  
 laughing louder than before.  
-&quot;What mistake ? I asked, turnin palo,  
-for a suspishen wuz crecpin over me.  
-&quot;Why, hedidn&#x27;tgetnopaperat all, and&quot;  
-&quot;And all thftl Estorv about tho sulit in tho  
-Kcpublikiu party North wuz ouo uv his in  
-ternal lies 1&quot;  
-&quot;Dat&#x27;s about do correct state ob de caso!&quot;  
-replied tho nigger, showiu all his ivories.  
-&quot;Biglcr wanted to see of yoor pentance  
-wuz irenooiue dat&#x27;s about all dali wuz ob  
-it. Ho &#x27;sorest a desire to assertano jist  
-how peccable yood bo to do nigger aud do  
-Northern people down hcah, ef dali wuzn&#x27;t  
-no &#x27;I&#x27;ublikm party up North to hold yoo  
-rial wins all.&quot;  
-Aud tho nigger laded a feendish laff.  
-&quot;Dat wuz all 1&quot; ho repeated.  
-It wuz cnulf. I guess the euss found out  
-an that no wanted to. Uv course this  
-&quot;outr
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F0028077604A%2F1871062401%2F0957.jp2/pct:5.859305,33.454596,12.430988,34.587939/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+&quot;What mistake?&quot; I asked, turnin pale,  
+for a suspishen wuz creepin over me.  
+&quot;Why, he didn&#x27;t get no paperat all, and  
+&quot;And all that story about the split in the  
+Republikin party North wuz one uv his in  
+fernal lies!&quot;  
+&quot;Dat&#x27;s about de correct state ob de case!&quot;  
+replied the nigger, showin all his ivories.  
+&quot;Bigler wanted to see ef yoor pentance  
+Wue genooine--dat&#x27;s about all dah wuz ob  
+it. He &#x27;sprest a desire to assertane jist  
+how peecable yood be to de nigger and de  
+Northern people down heah, ef dah wuzn&#x27;t  
+no &#x27;Publikin party up North to hold yoo  
+dat wuz all.&quot;  
+And the nigger laffed a feendish laff.  
+&quot;Dat wuz all!&quot; he repeated.  
+It wuz enuff. I guess the cuss found out  
+all that he wanted to. Uy course this  
+&quot;&#x27;outrage,&quot; as they will call it, will get into  
+de Northern papers, and uv course Val­  
+landygum&#x27;s assershun will explode with  
+out hurting anybedy. Joc Bigler is my  
+evil genius. I shel never be able to run  
+things ez I want to so loug as he lives.  
+PETROLDUM V. NAsnY,  
+(wich wuz Postmaster.)
+</td></tr></table>
 
 ---
 
@@ -2291,213 +2289,234 @@ lives. Prtbolkim V. N a?by, ! i
 
 ---
 
-## [From _Burlington weekly free press._](https://chroniclingamerica.loc.gov/lccn/sn86072143/1871-06-30/ed-1/seq-4)
+## From _Burlington weekly free press._
 
 #### 1871-06-30 &middot; [Burlington, Vt.](http://dbpedia.org/resource/Burlington%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- groand,  
-bar wa: ut thtf I kin stand even so tailen a  
-chan-V ei that. W at I want it the eoopretne  
-happtiiws ut ktclin that nigger Lubbock out ut  
-the puitofns at the Corecrf, and ur put tin mj­  
-self in his place, and Kernel Mcl&#x27;eUer and Uder  
-Pennibirker w bo her bin Unguis bin outride the  
-offices ut asswor aad collector are artooated  
-by the !tw high and holy imrra&#x27;He. Ef to do  
-this rt-..uirt the okkepyic ut Republican  
-CTooode, the war cry ut us three it &quot; okkepy &#x27;  
-Kcntceky is thoor to go lHmocntic anjbow,  
-ani if we kin by to simple m process pam  
-reolocwhens inieoe ecuff disiti&quot;fiJ Uepobb­  
-kins in the close Northern states to Tote with ue  
-to elect a L&#x27;emoeratk president who will gWe us  
-these boons, we three are for pwsin these rtf­  
-olooabeas no matter wat they are This being  
-ray tinderrtandm ot Vallandygum moTfiaent,  
-I aetid onto to it at want:.  
-I got the fcedin Wwocriy u the Corner to­  
-gether one nite at Kascom&#x27;f. That I might get  
-em H at one time, I waited til the regler eTenin  
-for the raid on the niggers and Northern Hitlers  
-uptoanJs Oirrettstown. knowing that on their  
-return they&#x27;d all stop at BanomB for a drink,  
-and that ef they&#x27;d Inn woceseful in their haogta  
-and burnin tlwy&#x27;d be in good humor and ready  
-to alopt anything I ebood aoggeet. It wax a  
-Tery thcrt but a Terr Satisfactory coEBalUjben.  
-There was pome obiickehuns on the part or a  
-few to wat they called as abandonment ut Ihra­  
-ocratic I&#x27;lwe. t ut lliscom fettled their hash in  
-very tbnrx metre He remarked that it wuz  
-neeVetary that the oftses be in the bands ut his  
-frwids fur otTiu rcuone. He want id pay and  
-be know-! ut d i.tbcr way to git it IJe ba­  
-ttel ed in the fu&#x27;.ieet freedom ut thought and  
-askflben, aud that erery one stood expreM h.­  
-telf untrameled, but be coodent abide a idiot. I f  
-there wuz any one in that asaemMage ao stoopid  
-cx to differ with him on this question, let bim  
-dike hit wlf known So men man shood ever git  
-drop at his r-ar, never ; eich a one wui not  
-deserrin uv eren the commonest neeefane uv  
-life Several who had ni to their feet to object,  
-dropt ez though they bed been aboi  
-It vac determined to hold a public meeting the  
-next niie at the church to make a public indorse­  
-ment uv Vallandygam idea  
-Ei the principle object of the meetin wui tn  
-oonTins the Repnblikine ut the doubtful states  
-I hit the Dimoensy ut the South really acceptid  
-the fttuaeben, and meat, in dead earnest, to re­  
-oognipe the great prinsiple ut equality, I ar­  
-ranged to hev al! the niggers ut the Corner!  
-present, and pared for cm the best seats in the  
-bouse Joe Btgler and Pollock come, ut ooorte,  
+  
+mich Hr. Joseph Bigler Takes a  
+CoxredaIr N Roads, (which is in the state  
+of Kentucky.) May 31, 1871. A calm and  
+comprehensive survey uv the politikle field sat-  
+isfied me, some months ago that without some  
+shift in the position uv the Dimocrisy, our hope  
+uy success was exceedingly thin. The resoloos­  
+hens introdoost by Vallandygum into the con­  
+venshun uv the Dimocrisy uv Montgomery  
+county, Ohio, wuz to me a new lite. Troo, they  
+hey the slite disadvantage uv abjoorin evry­  
+thing that is Dimocratic, and uy puttin the  
+Dimocratic party on purely Republikin ground,  
+but wat uv that? I kin stand even so sudden a  
+change ex that. Wat I want is the soopreme  
+happiness uv kickin that nigger Lubbock out uy  
+the postosfis at the Corners, and uv puttin my­  
+self in his place, and Kernel Mcpelter and Eider  
+Pennibacker who hev bin languishin outzide the  
+offices uv assessor and collector are actooated  
+by the same high and holy impulses. Ef to do  
+this requires the okkepyin uv Republican  
+grounds, the war cry uv us three is &quot;okkepy.&quot;  
+Kentucky is shoor to go Dimocratic anyhow,  
+and if we kin by so simple a process ex passin  
+resolooshens indoose enuff dissatisfied Republi­  
+kins in the close Northern states to vote with us  
+to elect a Democratic president who will give us  
+these boons, we three are for passin these res­  
+clooshens no matter wat they are. This being  
+my understandin uv Vallandygum&#x27;s movement,  
+I actid onto to it at wunst.  
+I got the leedin Dimocrisy uv the Corners to­  
+gether one nite at Bascom&#x27;s. That I might get  
+em all at one time, I waited till the regler evenin  
+for the raid on the niggers and Northern settlers  
+up toards Garrettstown, knowing that on their  
+return they&#x27;d all stop at Bascom&#x27;s for a drink,  
+and that ef they&#x27;d bin successful in their hangin  
+and burnin they&#x27;d be in good humor and ready  
+to adopt anything I shood suggest. It wuz a  
+very short but a very satisfactory consultashen.  
+There was some objickshuns on the part uv 
+</td></tr></table>
+
+---
+
+## From _Burlington weekly free press._
+
+#### 1871-06-30 &middot; [Burlington, Vt.](http://dbpedia.org/resource/Burlington%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+few to wat they called an abandonment uv Dim­  
+ocratic idees, but Bascom settled their hash in  
+very short metre. He remarked that it wuz  
+necessary that the offises be in the hands uv his  
+frends for obvius reasons. He wantid pay and  
+he knowed uv no other way to git it. He be­  
+leeved in the fullest freedom uv thought and  
+ackshen, and that every one shood express hi­  
+self untrameled, but he coodent abide a idiot. If  
+there wuz any one in that assemblage so stoopid  
+ez to differ with him on this question, let him  
+make hisself known. No sich man shood ever git  
+drop at his bar, never; sich a one wuz not  
+deservin uv even the commonest nesesaries uv  
+life. Several who had riz to their feet to object,  
+dropt ez though they hed been shot  
+It was determined to hold a public meeting the  
+next nite at the church to make a public indorse­  
+ment uv Vallandygum&#x27;s ides  
+Ez the principle object of the meetin wuz to  
+convins the Republikins uv the doubtful states  
+that the Dimocrisy uv the South really acceptid  
+the situashen, and ment, in dead earnest, to re­  
+cognise the great prinsiple uv equality, I ar­  
+ranged to hev all the niggers uv the Corners  
+present, and saved for em the best seats in the  
+house. Joe Bigler and Pollock come, uv course,  
 wich I coodent help.  
-I opeaed the exercises by making a thort  
-epeech ez I took the chair. 1 rejoipt that the  
-time bed 5 n ally ami when the boo and the  
-lamb bed layed down together and a email child  
-wuz a lea in ut em. I knowd that our colored  
-feUow-cit. ece bed bin difpilefally yoosed, and  
-tbatdoo redpeck bed not bin allaz paid to cur  
+I opened the exercises by making a short  
+speech ez I took the chair. I rejoist that the  
+time hed finally arriv when the lion and the  
+lamb hed layed down together and a small child  
+wuz a leadin uv em. I knowd that our colored  
+fellow-citirens hed bin dispitefully yoosed, and  
+that doo respeck hed not bin alluz paid to our  
 fellow-citizens uv the North, but that time hed  
-now paaed and I hoped forever. The Ihmocrisy  
-ut the North, through VaUandjgiun, bed ppoke,  
-they bed acceptid the situsjben,halleloogy, and  
+now passed and I hoped forever. The Dimocrisy  
+uv the North, through Vallandygum, hed spoke,  
+they hed acceptid the situashen, halleloogy, and  
 from this time henceforth and forever there wuz  
-to be nothm but peeoe. I then offered the fbllenn  
-ret aloof ben :  
-Rewired, That the Dimoerify uv the Voonited  
-States recognize the legality uv all th amend­  
-ments made the the conetitooBheo do .in and  
-ince the late onpleacantnis, and that they re­  
-cognize and most heartily acquire oe in all the  
-recalta of the war ; that they not only withdraw  
-all their opposisben to yoinivereal satfraje, bat  
-pledge theirselfes to tee that our Afnkin rellow­  
-eitizenc ber not only this but al! other rites  
-heretofore enjoyed excloosively by the Ciasa­  
-cbec1 pat the question ez to the aiopshen uv the  
-resolooehen, and it was carried yoooaniaoasly.  
-It wood bev bin well bed I stopped here, bat I  
-didn&#x27;t. My prevailin weakDese if to slop over  
-and I plopt on thip okkishun fearfully. I called  
-upon the citizens ut the Corners to prove their  
-faith by their works. 44 There are, I Fed, in a  
-ppwm of delite, present at this meeting twenty­  
-two uv oar fellow-citizens uv Afrikin descent.  
-Let em Etep forrcrd on this platform let leekin  
-1&#x27;ogram, tder Tenmbacker, Casoom, Issaker  
-Gavitt and eighteen others white citizen? Etep  
-forrerd, also. Let them clatp each other by the  
-hind while I ware over cm the tUg ut our com­  
-mon kentry.&#x27;  
-It wuz done The twenty-two nigger? itepped  
+to be nothin but peece. I then offered the follerin  
+resoloochen:  
+Resolved, That the Dimocrisy uv the Yoonited  
+States recognize the legality uv all the amend­  
+ments made the the constitooshen doorin and  
+ince the late onpleasantnis, and that they re­  
+cognize and most heartily acquiesce in all the  
+results of the war; that they not only withdraw  
+all their opposishen to yooniversal suffrage, but  
+pledge theirselves to see that our Afrikin fellow­  
+citizens hev not only this but all other rites  
+heretofore enjoyed excloosively by the Cauca­  
+th t. t the question es to the adopshen ur the  
+resolcoshen, and it was carried yoonanimously.  
+It wood hev bin well hed I stopped here, but I  
+didn&#x27;t. My prevailin weakness is to slop over  
+and I slopt on this okkashun fearfully. I called  
+upon the citizens uv the Corners to prove their  
+faith by their works. &quot;There are,&quot; I sed, in a  
+spasm of delite, &quot;present at this meeting twenty­  
+two uv our fellow-citizens uv Afrikin descent.  
+Let em step forrerd on this platform--let Deekin  
+Pogram, Elder Pennibacker, Bascom, Isssker  
+Gavitt and eighteen others white citizens step  
+forrerd, also. Let them clasp each other by the  
+hand while I wave over em the flag uv our com­  
+mon kentry.&quot;  
+It wuz done. The twenty-two niggers stepped  
 forrerd, the whites designated advanced, the  
-two lines grasped each other by the hand, and 1  
-wuz about to wave, wben Joe Bigler riz He  
-begged me to wait a minit till he bad made his  
+two lines grasped each other by the hand, and I  
+wuz about to wave, when Joe Bigler riz. He  
+begged me to wait a minit till he had made his  
 remark. The site afore him moved him almost  
-tu teers. Efhebed ever harbored a puspishen  
-that there wazn&#x27;t anything generou in the  
+tu teers. Ef he hed ever harbored a suspishen  
+that there wuzn&#x27;t anything generous in the  
 Kentucky breast he took it all back. The ack­  
-fben uv to-night wuz not only just, but it wuz  
+shen uv to-night wuz not only just, but it wuz  
 generous.  
-Generous &quot;&#x27;sedl, &quot; why generous &#x27;  
-14 Iteeoc,&quot; sed he, &quot; the niegers wod be m a  
-deTibh bad way ef you helnt decided nu givin  
-em their ntes, ut yoor own akkord, for there  
-ain&#x27;t no power now that caxi compel yoo to do it.  
-1 just got t Northern paper alas &#x27; the K?pub­  
-likin party is split into fragments remarkably  
-small fragments. Grant totalled Suiuner in  
-the Capitol, last Monday. Logan ber beesi atoned  
-by the Republikins of PhiUJelfy on his way  
-home, the central committees av Ohio, Injeaoy  
-and Illinoy her divided, and each frackshen hex  
-called a conventhen, and the New lorkTribouc  
-throws tip the sponge and sez that nothing ander  
-herin kin prevent the success av the Democratic  
-candidate tor the Presidency, no matter who be  
-may be or wat platform be is pat onto. In view  
-uv the disfcolooeben av the Kepubhkio part,  
-and the tact that the niggers ain&#x27;t now go; no  
-perteckters, its really generous that yoo &#x27;  
-The Kepublikin party is gone to piece faei  
-it?&quot; gapped my twenty-two white friends in  
-koriouA.  
-Ithcz&#x27;&quot; responded Bigler.  
-&#x27; Then,&quot; sed leekin Poram, hi? eyes flaehin  
-with unwontid fire, &quot;what we&#x27;re done and sed  
-don&#x27;t count &#x27; Take that, yoo bl&amp;ck cups &#x27;&quot;  
-And, with the strength and actmry wich I  
-hadn&#x27;t lookt for in oae so agid, the deck in fecbt  
-the darkey, whose hand be bed bin eraspin, a  
-most powerful blow at ween tbe eyes wich histel  
-him clean off the platform The others fullered  
-Boot, and in their zeal sprang off tbe platform  
-after cm, and wuz a exectttin war dance of the  
-most frantic descripbhun onto their prostrate  
-belies. It wuz with difficulty that Pollock and  
-Bigler restrained em from taxin uv em oat and  
-hisgtn ut em.  
-Ez a matter ut coarse the resolasion wuz re­  
-scinded, and others adopted affirm in our adhe­  
-rence to the cocptoetben ez it yoost to be, the  
-illegality uv tbe amendments, and the nitera:  
-p.opremicy av the white man over thed d nig­  
-ger, after wich we adjourned to lUconTs, ez is  
-our custom, and there organised fresh raid onto  
-oar n atert I enemies.  
-The next mornin I itotised a pecoolyer look on ;  
-Bigler&#x27;c face, and likewise on Pollock&#x27;s. They  
-grinned at me cx X passed, with a broadnis wich  
-1 couldn&#x27;t aooount for. Lubbock, the nigzer j  
-postmaster, bast into a roar ez I walkt into his I  
-ofiii, and I angrily demanded the reason for his 1  
+Generous!&quot; sed I, &quot;why generous?&quot;  
+&quot;Becoz,&quot; sed he, &quot;the niggers wood be in a  
+devilish bad way ef you hedn&#x27;t decided on givin  
+em their rites, uv yoor own akkord, for there  
+ain&#x27;t no power now that can compel yoo to do it.  
+I just got a Northern paper--alas! the Repub­  
+likin party is sphit into fragments--remarkably  
+small fragments. Grant assaulted Sumner in  
+the Capitol, last Monday, Logan hez been stoned  
+by the Republikins of Philadelfy on his way  
+home, the central committees uv Ohio, Injeany  
+and Illinoy hev divided, and each frackshen hez  
+called a convenshen, and the New York Triboon  
+throws up the sponge and sez that nothing under  
+hevin kin prevent the success uv the Democratic  
+candidate for the Presidency, no matter who he  
+may be or wat platform he is put onto. In view  
+uv the dissolooshen uv the Republikin party,  
+and the fact that the niggers ain&#x27;t now got no  
+perteckters, its really generous that yoo--&quot;  
+The Republikin party is gone to pieces hez  
+it?&quot; gasped my twenty-two white friends in  
+korious.  
+It hez!&quot; responded Bigler.  
+&quot;Then,&quot; sed Deekin Pogram, his eyes flashin  
+with unwontid fire, &quot;what we&#x27;ve done and sed  
+don&#x27;t count! Take that, yoo black cuss!&quot;  
+And, with the strength and activity wich I  
+hadn&#x27;t lookt for in one so agid, the deckin fecht  
+the darkey, whose hand he hed bin graspin, a  
+most powerful blow atween the eyes wich histed  
+him clean off the platform. The others foliered  
+soot, and in their zeal sprang off the platform  
+after em, and wuz a executin war dances of the  
+most frantic descripshun onto their prostrate  
+bodies. It wuz with difficulty that Pollock and  
+Bigler restrained em from takin uv em out and  
+hangin uv em.  
+Ez a matter uv course the resolusion wuz re­  
+scinded, and others adopted affirmin our adhe­  
+rence to the constooshen ez it yoost to be, the  
+illegality uv the amendments, and the nateral  
+soopremacy uv the white man over thed--d nig­  
+ger, after wich we adjourned to Hascom&#x27;s, ez is  
+our custom, and there organised fresh raids onto  
+our nateral enemies.  
+The next mornin I notised a pecoolyer look on  
+Bigler&#x27;s face, and likewise on Pollock&#x27;s. They  
+grinned at me ez I passed, with a broadnis wich  
+I couldn&#x27;t account for. Lubbock, the nigger  
+postmaster, bust into a roar ez I walkt into his  
+offis, and I angrily demanded the reason for his  
 hilarity.  
-lUt mistake ob Bigler&#x27;e,&#x27; returned he, !  
+Dat mistake ob Bigler&#x27;s,&quot; returned he  
 laughing louder than before.  
-What mistake,&quot; I aiked, turnin pale, for a &#x27;  
+What mistake,&quot; I asked, turnin pale, for a  
   
-t  
-I  
+.  
+.  
   
-saspicum wm creeptn over me  
-&quot; Why he didn&#x27;t get no paper at all, and - &quot;  
-&quot; And all that story about the split in tbe Ue-  
-f-ublikan party-North wuz one av his infernal  
+suspicion wuz creepin over me  
+&quot;Why he didn&#x27;t get no paper at all, and-&quot;  
+&quot;And all that story about the split in the He-  
+publikan party-North wuz one uv his infernal  
 lies  
-Ia&#x27;s about de correct ttAte ob deoase &#x27; &quot;  
-repJieJ tbe nigger, showing all his iTeries.  
-&quot; Bigler wanted to see if your peuUBOe wuz  
-genooine dat&#x27;s about all dab wuz obit. He&#x27;  
-sprat a desire to aseertane jiet how preceable  
-yood be to ue nigger and de Northern people  
-down heah, cf dah wuzn&#x27;t no Publican party  
-up North to bold yoo ; dat wuz all &quot;  
-And the niggers la tied a feendish la  
-Dat wuz all &quot; he repeated.  
-ltwuzenaff. I guess the com found oat all  
-he wanted to. Ut course this 41 outrage,&quot; as  
-they will call it, wip get into the Northern pa­  
-pers, and uv course VaBandygam&#x27;s auerchun  
-will explode itsdf without hurtin anybody. Joe  
-Bijler is an evil rtcius. I peel never be able  
-two run things ez I want to so long as be lives.  
-Peteolecm V. Napbt.  
-(wich was Postmatter 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_burlington_ver01%2Fdata%2Fsn86072143%2F00280777031%2F1871063001%2F0108.jp2/pct:4.325383,11.724494,10.323959,67.573842/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Dat&#x27;s about de correct state ob de case!&quot;  
+replied the nigger, showing all his iveries.  
+&quot;Bigler wanted to see if your pentance wuz  
+genooine--dat&#x27;s about all dah wuz ob it. He&#x27;  
+sprest a desire to aseertane jist how peeceable  
+yood be to de nigger and de Northern people  
+down heah, ef dah wuzn&#x27;t no&#x27; Publican party  
+up North to hold yoo; dat wuz all&quot;  
+And the niggers laffed a feendish la  
+Dat wuz all!&quot; he repeated.  
+It wuz enuff. I guess the cuss found out all  
+he wanted to. Uv course this &quot; outrage,&quot; as  
+they will call it, will get into the Northern pa­  
+pers, and uv course Vallandygum&#x27;s asserchun  
+will explode itself without hurtin anybody. Joe  
+Bigler is an evil genius. I shel never be able  
+two run things ez I want to so long as he lives.  
+PETROLEUM V. NAsnY.  
+(wich wuz Postmaster.
+</td></tr></table>
 
 ---
 
-## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1871-07-01/ed-1/seq-1)
+## From _Ashtabula weekly telegraph._
 
 #### 1871-07-01 &middot; [Ashtabula, Ohio](http://dbpedia.org/resource/Ashtabula%2C_Ohio)
 
@@ -2505,179 +2524,192 @@ Peteolecm V. Napbt.
 
   
   
-CONFEDERIT X ROADS, May 24th, 1871.  
+CoNFeDeRIt x Roads, May 24th, 1871.  
   
-A calm and comprehensive survey uv tbe  
-poltiele fa-Id, satisfied w. some months ago,  
-that without some sbift in tbe position uv tbe  
-Dimocriry, our hope of success was exceed  
-ingly tbin. Tbe resoloosbnns inturdoost by  
-Vallandygum into tbe Convcnsuun ur me  
-Ditnocrisy of Montgomery county, OIiS, was  
-to mo a near life. Tmo, tliey ber tbe slite  
-disadvantage uv abjuorin everything that iz --Dimocratic,  
-and uv pittlin tbe Diuiocratic i  
-parly on purely Kepublikiu ground, but wat ;  
-uvtbat? I kin stand even so suddeu chances ,  
-er that. Wat I want iz the sooprcnie happi­  
-ness uv kiekin that nigger Lubbock out nv  
-tbe postolBs at tbe Corners, and uv puttin my- -  
-self in bis place, and Kerne! McPelter and  
-Elder Penny backer, who have been languish- . ,  
-in outside tbe offisesuv Assessor and Collector-nre  
-ectooatld by tbe same high and holy im­  
-pulses. Ef to do this requires tbe okkypyinjf &#x27;  
-uv Republikin pround, the war cry.uv us tbro  
-ii &#x27;okkvpy.&#x27; Kentucky ir. shoor to ge Ditno- &#x27;  
-cratic anyhow, and if we ken by so simple a i  
-process ez passin resoloosbuns unloose enua  
-disatistied Itepublkins in tbe close .Northern  
-Stales to vote with us .to electa Ditnocratio&#x27;  
-President wbo will give us these boons, M  
-tbre are forpasbin tliese rvsolusbuns no niaU .  
-tcr wat tlicy are This be&#x27;m my understanding , .  
-uy Vallandygum&#x27;s movement, I uolid onto it  
-at wpnst. &#x27; , J  
-I got tbe letdin Dlnncracy uv tbe. Corners  
-together oue nite at Bascoui&#x27;a. That I mite  
-get em sll at one lime, I waited till tbe reglcr  
-evenin for tbe raid on the niggcra and north-  
-ern selllers up toards Garretlstown, knowin  
-that on their return they&#x27;d all stop at D.iscora&#x27;s ;&#x27;  
+A calm and comprehensive survey uv the  
+polticle field, satisfied me, some months ago,  
+that without some shift in the position uv the  
+Dimocrisy, our hope of success was exceed  
+ingly thin. The resolooshuns interdoost by  
+Vallandygum into the Convenshun uv the  
+Dimocrisy of Montgomery county, Ohis, was  
+to me a new life. Troo, they hev the slite  
+disadvantage uv abjoorin everything that is  
+and uv puttin the Dimocratic I  
+party on purely Republikin ground, but wati  
+uv that? I kin stand even so sudden changes,  
+ez that. Wat I want iz the soopreme happi­  
+ness uv kickin that nigger Lubbock out uv  
+the postoffis at the Corners, and uv puttin my  
+self in his place, and Kerne? McPelter and  
+Elder Pennybacker, who have been languish-,  
+in outside the offises uv Assessor and Sollector  
+actooatid by the same high and holy im­  
+pulses. Ef to do this requires the okkvpying  
+uv Republikin ground, the war cry, uv us thre  
+iz okkypy.&quot; Kentucky iz shoor to go Dimo- so  
+cratic anyhow, and if we ken by so simple a  
+process ez passin resolooshuns indoose enull  
+disatisfied Republkins in the close  Northern  
+States to vote with us to elect a Dimocratic  
+President who will give us these boons, we  
+thre are for passin these resolushuns no mats is  
+ter wat they are This bein my understanding;  
+uy Vallandygum&#x27;s movement, I actid onto it  
+at wonst.  
+I got the leedin Dimocracy uv the Corners  
+together one nite at Bascom&#x27;s. That I mite  
+get em all at one time, I waited till the regler  
+evenin for the raid on the niggers and north-  
+ern settlers up toards Garrettstown, knowin  
+that on their return they&#x27;d all stop at Bascom&#x27;s  
 for a drink, and that ef they&#x27;d bin successful  
-in their bangin and biinihi they&#x27;d be In good &#x27;­  
-humor and ready to adopt anything I sbood .  
-sucgest. It was a very short but a very satis- ;  
-factory consul tasben. There w uz some olj eck- ,  
-sbuns on tbe part uv a few to wat tUcy called  
-an abandonment uv Dimociatic idecs,br.t 1  
-Boscom settled their hash la very short me&#x27;ter. :  
-lie remsrkt that it wuz necessary tha&#x27;. the  
-offlses be placed In the hands uy his, friends.  
-for obvlus reasons. He wantid py and he ,  
-knowd uv no other way to git It. lie beleeved M  
-in the fullest freedom uv thought and scksken, ,  
-snd that every one should expresse ntsselX  
-free and untrsmeled, bin he coodent abide a ?  
-idiot Ef there wuz toy one lo that aasem- ,  
-blsge so stoopid ez to differ witn Ida o this  
-Question, let him, make htaself kLown. ,-$0:Ut  
-ion man should ever git a drop at bis bar, -a  
-aever.tiolkafinematsaoiQeawria ur .ow -j  
-tbeomiDonst eeeeassries at. if- Baversij i .  
-rhv kad ris o Xfaail tael aO oUloei, aUcpS Ui.)  
-though tbey bed bin shot. .:. 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn83035216%2F00280775186%2F1871070101%2F0542.jp2/pct:81.875450,62.851033,14.056875,33.699216/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+in their hangin and burnin they&#x27;d be in good­  
+humor and ready to adopt anything I shood  
+suggest. It was a very short but a very satis. f  
+factory consultashen. There wuz some objeck  
+shuns on the part uv a few to wat they called  
+an abandonment uv Dimocratic idees, but  
+Boscom settled their hash in very short me&#x27;ter.  
+He remarkt that it wuz necessary that the  
+offises be placed in the hands uv his friends  
+for obvius reasons. He wantid pay and he  
+knowd uv no other way to git it. He beleeved  
+in the fullest freedom uv thought and ackshen,  
+and that every one should expresse hisself  
+free and untrameled, but he coodent abide a  
+idiot. Ef there wuz any one in that assem-  
+blage so stoopid ez to differ with him on this  
+question, let him make hisself known. Nons  
+ich man should ever git a drop  at his bar,   
+neven; sicha one wut nof doservin ay isveniie  
+the commonest inecessaries uv, life. Saveral  
+tho had tiz to their teet to object, dropt on is  
+though they hed bin shet.
+</td></tr></table>
 
 ---
 
-## [From _Ashtabula weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83035216/1871-07-01/ed-1/seq-2)
+## From _Ashtabula weekly telegraph._
 
 #### 1871-07-01 &middot; [Ashtabula, Ohio](http://dbpedia.org/resource/Ashtabula%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-lored fellow-citizens  
-Led bin dispitet&#x27;ally yoosed, and thatdoo  
-tenpeck bed not a litis bin paid to our(el-low-ctiiiftuv  
-the North, but that lime  
-bed now passed and 1 hoped forever.  
-The Diinocrisy nv the North, through  
-Vallandygura, bed spoke, they hed ae  
-vepted the sUuashcii, ImlU&#x27;luogy, and  
-from ibie time bcncetorlh and lorever  
-there wuz to be notliiu Imi peace. I  
-the offered the lollop in resoluoghen :  
-Jietolved, Thai the Diinocrisy uv the  
-Yoouiied biate recognize the lecalitv  
-uv all the amendnu&#x27;iu made to the Con-  
-etkooshen duorhv atws sinco the laic  
-oiipleusiiis, and that they tveogiiiztt and  
-most heartily acquiesce in all the resul&#x27;s  
-uv the war j, lliatlU&#x27;y willulru all then  
-opposishen to yoonivcrsul suftVager but  
-pledge theirntlt to to see that iiur Mi lken  
-tellow-citizeus hev not only this but all  
-oilier riles heretofore enjoyed excloosive­  
-ly by the Casx-awlun..  
-I put the question z to the adoption  
-. uv the resolooslien, ami it wuz carried,  
-yooiiaiiiinoui-ly. It would hev bin well  
-bed 1 stopl here, but 1 didu&#x27;t. My pre­  
-vailin weekuebs iz to slop over, and 1  
-idopl on this okkasioii fearfully, i called  
-upon the citizens uv the Corners to  
-prove tbeir worts.&#x27; &#x27;There in,&#x27; I said, in  
-sv spasm uv delite, &#x27;resent at this meeiiii  
-twenty-two uv our tullow-cilizeus uv  
-Al&#x27;rikin descent. Let em step torrerd on  
-this pliUkiraa let Deckiu P jgium, Elder  
-Penuibacker, lJascom, Luaker (Javitt,  
-ami eighteen other white citizens step  
-foireid, also. Let cm clasp each oilier  
-by the hand wlnlo I wave ottr cm the  
-uv our common kentry.&#x27;  
-It wuz done. Thetwenty-two niggers  
-slept foiTcrd, the whites designated tul­  
-vanccd, the two lines grasped each other  
-by the hand, aud wuz about to wave,  
-when Joe Uigler riz. lie begged me to  
-vail a miuit till he bed made Ins remark.  
-The site a lore him moved him almost to  
-tcers. Ef he lied ever harbored a us­  
-pishen that there wusii&#x27;t anything goner­  
-- ous in llie Kentucky breast he look it nil  
-back. The acksheu uv lo-uite wui uol  
+Ir wus determined to hold a public  
+meetin the next nite at the church to  
+be a publin endorsement uw wallandy­  
+gum&#x27;s idees.  
+the prinsiple, objick ny the meetin  
+wuz to convins the Republikins uv the  
+doubtful States that the Dimocrats uv  
+the South really acceptid the situashen,  
+and meant, in dead earnest, to recognize  
+the great prinsiple uv equality, I arrang.­  
+d to hey all the niggers av the Corners  
+present, and saved for em the best seats  
+in the house. Joe Bigler and Pollock  
+come, uv course, wich I coodent help.  
+I opened the exercises by makin a short  
+peech ez I took the chair. I rejois that  
+he time hed finally arriv when the lion  
+and the lamb hed layed down together  
+ad a small child wuz a loadin uv em. I  
+knowd that our colored fellow-citizens  
+hed bin dispitefully yoosed, and that doo  
+respeck hed not allus bin paid to our iel  
+the North, but that time  
+hed now passed and I hoped forever.  
+The Dimocrisy uv the North, through  
+Vallandygum, hed spoke, they hed ac  
+cepted the situashen, halleloogy, and  
+from this time henceforth and forever  
+there wuz to be nothin but peace. I  
+then offered the followin resolooshen:  
+Resolved, That the Dimocrisy uv the  
+Yoonited States recognize the legality  
+uv all the amendments made to the Cone  
+stitooshen doormn and since the late  
+onpleasnis, and that they recognize and  
+most heartily acquiesce in all the results  
+uv the war; that they withdraw all then  
+opposishen to yooniversal suffrage, but  
+pledge theirselves to see that our Afriken  
+fellow-citizens hey not only this but all  
+other rites heretofore enjoyed excloosive­  
+ly by the Cancashen.  
+I put the question oz to the adopshen  
+ uv the resolooshen, and it wuz carried.  
+yoonanimously. It would hev bin well  
+hed I stopt here, but I didn&#x27;t. My pre­  
+vailin weekness iz to slop over, and I  
+slopt on this okkasion fearfully. I called  
+upon the citizens av the Corners to  
+prove their works. &#x27;There is,&#x27; I said, in  
+a spasm uv delite, &#x27;resent at this meetin  
+twenty-two uv our fellow-citizens uv  
+Afrikin descent. Let em step forrerd on  
+this platform--let Deekin Pogram, Elder  
+Pennibacker, Bascom, Isaaker Gavitt,  
+and eighteen other white citizens step  
+forrerd, also. Let em clasp each other  
+by the hand while I wave over em the  
+uv our common kentry.&quot;  
+It wuz done. The twenty-two niggers  
+stept forrerd, the whites designated ad­  
+vanced, the two lines grasped each other  
+by the hand, and wuz about to wave,  
+when Joe Bigler riz. He begged me to  
+wait a minit till he hed made his remark.  
+The site afore him moved him almost to  
+teers. Ef he hed ever harbored a sus­  
+pishen that there wuzn&#x27;t anything gener­  
+ous in the Kentucky breast he took it all  
+back. The ackshen uv to-nite wuz not  
 only just but it wuz generous.  
-&#x27;Generous f said I, &quot;why generous ?&#x27;  
-&#x27;Ueeoz,&#x27; said he, &#x27;the niggers wood be  
-in a devilish bad way el yuo hedu&#x27;t de­  
-cided on givin cm tluir rites uv  
-yo or own akkord, lor there ain&#x27;t no  
-1&#x27;ower now that kin compel you to do it.  
-jist got a Northern paper alas 1 the  
-Kepublikiu party iz rplit into fragments  
+&quot;Generous!&quot; said I, &quot;why generous?&quot;  
+&quot;Becoz,&quot; said he, &quot;the niggers wood be  
+in a devilish bad way ef yoo hedn&#x27;t de­  
+cided on givin em their rites uv  
+yoor own akkord, for there ain&#x27;t no  
+power now that kin compel you to do it  
+jist got a Northern paper--alas! the  
+Republikin party iz split into fragments  
 remarkably small fragments. Grant  
-nsoaulted. Sumner in the Capitol lahl  
+assaulted. Sumner in the Capitol last  
 Monday. Logan hez bin stoned by the  
-iiepublikins uv 1&#x27;hiladelfy on his way  
-Lome, the Central Committees uv Ohio,  
-lnjiany lllinoy hev divided, and each  
-Irackbhen btz ea.led a cwtivei.hlniii,  
-aud thu No York Triboon throws up  
-the sponge and eez thai iiollnn undo  
-Levin Liu prevent the wieeess uv the  
-Dimocraliu candidate for the 1&#x27;residiney,  
-no mailer who hu may be ov wat plat­  
-form ho is put onto. In view uv tho  
-tlissoloiitdicn uv the Kepublikiu parly,  
-and the tael that the niggers ain&#x27;t now  
-got do ei tecklcrrt, Us really generous  
-that yoo &#x27;  
-&#x27;The Uepublikin party iz gone to  
-pieces ! hez it V gapped my twenty-two  
-black friends in krimi.  
-&#x27;It hez !&#x27; rcHiioudid liiglcr.  
-&#x27;Thou said i)eekin 1&#x27;ogram, his eyes  
-dash in with unwound tire, &#x27;what we&#x27;ve  
-done nud sod don&#x27;t count ! Take that,  
-yoo black cuss !&#x27;  
+Republikins uv Philadelfy on his way  
+home, the Central Committees uv Ohio,  
+Injeany Illinoy hev divided, and each  
+frackshen hez called a convenshun,  
+and the Noo York Triboon throws up  
+the sponge and sez that nothin under  
+hevin kin prevent the success uv the  
+Dimocratic candidate for the Presidency,  
+no matter who he may be or wat plat­  
+form he is put onto. In view uv the  
+dissolooshen av the Republikin party,  
+and the fact that the niggers ain&#x27;t now  
+got no perteckters, its really generous  
+that yoo,-&quot;  
+&quot;The Republikin party iz gone to  
+pieces! hez it?&quot; gasped my twenty-two  
+black friends in korious.  
+&quot;It hez!&#x27; respondid Bigler.  
+&quot;Then,&#x27; said Deekin P&#x27;ogram, his eyes  
+dashin with unwontid fire, &quot;what we&#x27;ve  
+done and sed don&#x27;t count! Take that,  
+yoo black cuss!&quot;  
 And with a strength and activity wich  
-I hedu&#x27;t lookl tor ouu aoagid, the lVckin  
-clcht the darky whose liuuu lie lieu uiu  
-praspiu a mwt powcrlul Wow atweeii  
-.he eye wioli hlstea turn clean on me  
-Jlattorm. lho others toUerea hoo!, ami  
-i their zeal sprang off the platlorm alter  
-n, auu WUZ a cxccuuil wui uiiueen uv  
-.he most frantic deHcripshcn onto cm
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn83035216%2F00280775186%2F1871070101%2F0543.jp2/pct:5.011511,14.371174,12.944927,50.306066/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+I hedn&#x27;t lookt for one so agid, the Deekin  
+eteht the darky whose hand he hed bin  
+graspin a most powerful blow at ween  
+the eyes wich histed him clean off the  
+blatform. The others follered soot, and  
+a their zeal sprang off the platform after  
+n, and wus a executin war dalices uv  
+the most frantic descripshen onto em.
+</td></tr></table>
 
 ---
 

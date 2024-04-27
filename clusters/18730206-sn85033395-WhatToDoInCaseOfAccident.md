@@ -1,7 +1,7 @@
 
 # What to Do in Case of Accident
 
-### 265 reprints from 1872-09-11 to 1896-01-29
+### 210 reprints from 1872-09-11 to 1896-01-29
 
 ## [What to Do in Case of Accident](https://chroniclingamerica.loc.gov/lccn/sn85033395/1873-02-06/ed-1/seq-4/)
 
@@ -106,116 +106,57 @@ Suck poisoned wounds, unles
 
 ---
 
-## [From _The weekly Panola star._](https://chroniclingamerica.loc.gov/lccn/sn83016951/1872-10-26/ed-1/seq-3)
+## From _The weekly Panola star._
 
 #### 1872-10-26 &middot; [Panola, Miss.](http://dbpedia.org/resource/Sardis%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Professor Wilder, of Cornoll Uni­  
-versity, gives thsse short rules of ac­  
+Professor Wilder of Cornell Uni­  
+versity, gives these short rules of ac­  
 tion in case of accident. It would  
 not be a bad thing to cut them out  
 and carry them in one&#x27;s pocket­  
 book, or better yet, commit them to  
 memory.  
 For dust in the ears avoid rub­  
-bing; dash wator into them; remove  
+bing; dash water into them; remove  
 cinders, etc., with the round point  
 of a lead pencil.  
 Remove insects from the ear by  
 tepid water; never put a hard instru­  
 ment into your ear.  
 If an artery is cut compress above  
-he wound; if a vein is cutcompresi  
+he wound; if a vein is cut compress  
 below.  
-If choked get upon ull fours and  
+If choked get upon all fours and  
 cough.  
-Smother a fire with carpets, etc.,  
+Smother a fire with carpets, etc.  
 water will often spread burning oil  
-and iucrcase danger. Before passing  
+and increase danger. Before passing  
 through smoke, take a full breath  
-aud then stoop low; but it csrbonic  
+and then stoop low; but it carbonic  
 is suspected, walk erect.  
 Suck poisoned wounds, unless  
-your mouth is sore, ciilnrge the  
+your mouth is sore, enlarge the  
 wound, or cut out the part without  
-dslay; hold the wounded part nslong  
-us can be borne to a hot coal, or the  
+delay; hold the wounded part as long  
+as can be borne to a hot coal, or the  
   
 end of a cigar.  
   
-In cac of poisoning, excte vom  
+In case of poisoning, excite vom  
   
-king by tickling the throat, by warm  
+iting by tickling the throat, by warm  
   
 water and mustard.  
   
-For acid poisons give nlkilies; for  
+For acid poisons give alkalies; for  
   
 alkaline poisons give acids; white  
 of an egg is good in most cases.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_icydrop_ver05%2Fdata%2Fsn83016951%2F00295878484%2F1872102601%2F0797.jp2/pct:23.249902,38.574567,11.243645,21.093106/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Middletown transcript._](https://chroniclingamerica.loc.gov/lccn/sn84026820/1872-11-09/ed-1/seq-1)
-
-#### 1872-11-09 &middot; [Middletown, Del.](http://dbpedia.org/resource/Middletown%2C_Delaware)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-Vil-l« r, of Corn« Il I niv. r­  
-*ity, given iln-kv ►l.-rt rubs I r :»••  
-titui in cn*e* of uecbbtjt. It would n*»t  
-he a bad thing to cut them &lt;»ut mi l carry  
-them in on«&#x27;» |»oi*k»t-Look «, r, Letter yet. ,  
-commit them to memory. i  
-l&gt;or «lu t in tl.o eye... i.,l nibbing :  
-• I :if*h water into them; piii-iw eiu-1 i&gt;.  
-•to., with the totliiü j it.t of :i Lsul j ji  
-Hcmove insert« from tli • car Ly t• -pi&lt;l  
-water, never put :i hur l iu-tj.«:ii tit int *  
-Popular dtlisccllanij.  
-j  
-or  
-How Long Branch was Settled«  
-i  
-eil  
-L».&#x27;L&gt;w.  
-tIn* ear.  
-If any artery is cut, compress  
-the wound ; if a vein i* cut eonipr­  
-If choked, get upon all fours an i  
-For slight hums, .lip the pari iu cold  
-water : if the »kin is destroyed, cov» r &#x27;  
-with varnish  
-Smother a fire with carpets, etc ; water  
-will often spread burning oil, and incr&lt; »«c  
-Before pushing tlirmigli smoke,  
-your  
-W&#x27;Oind, or,  
-cough.  
-danger  
-tnke a full breath and then stoop lour, but  
-if carbon i* su*p . teil, walk « r« » f  
-! Suck poisoned wounds, unit •  
-mouth i* son?; enlarge the  
-better, cut out the part without d-lay ;  
-hold the wounded part a* long a* can L  
-home to a hot cml. or m I nf :  
-&#x27; In ease of p »i« uiing. ■ \ it • vi.miting  
-by tickling tho throat w ith warm watt r  
-and mustard  
-For n .&lt;1 poisons g
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_bombarda_ver01%2Fdata%2Fsn84026820%2F00271765277%2F1872110901%2F0405.jp2/pct:55.863708,14.430759,13.094295,51.531292/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -776,55 +717,55 @@ for fainting, lay the person flat
 
 ---
 
-## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1873-01-04/ed-1/seq-3)
+## From _The Ottawa free trader._
 
 #### 1873-01-04 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-u!e for action in ta- of iK tident. Ir  
-W( U d iiot be a bad tluu to rut thiui (ut and  
-Carrj them in one&#x27;s potket-tioi.k, or, better  
-Jet. cniiiiiiit. them tomeiiio y ;  
-For dus in the eyes, ivoi 1 rubbing; dish  
-water in them ; remove l ind. rs, etc., with the  
-round point of a lead ju-neil.  
-ll &#x27;Uiove any insect from the ear by using  
-tepid water never put a hard inMru.nent in  
+  
+What to do in C&#x27;ase of AccidEnss.  
+Prof Wilder, Cornell University, gives these  
+short rules for action in case of accident. It  
+would not be a bad thing to cut them out and  
+carry them in one&#x27;s pocket-book, or, better  
+yet, commit them to memory:  
+For dust in the eyes, avold rubbing; dash  
+water in them; remove cinders, etc., with the  
+round point of a lead pencil.  
+Remove any insect from the ear by using  
+tepid water--never put a hard instrument in  
 to the ear.  
-11 an artery is cut, compress above the  
-Wf.und ; if a Vein Is cot. compress below.  
-If choked, then pet upon all fours ami  
-cou&#x27;h.  
-For slight burns, dip the part in old water ;  
-ift&#x27;iiebkin t.s destroyed, cover witli varnish.  
+If an artery is cut, compress above the  
+wound; if a vein is cut, compress below.  
+It choked, then get upon all fours and  
+cough.  
+For slight burns, dip the part in cold water;  
+if the skin is destroyed, cover with varnish.  
 Smother a fire with carpets, etc., water will  
-often spread burning m!, irid imiee the  
-danor. Jietr; pasinp tlirm.h ke, t ike  
-a fiiil breath and stoop : but if cirl&#x27;oii sus  
-ptcted, wttik erect.  
-Ni k poinij-d w minds, unites your nifutli  
-i ole ; inl ilgiMhe wound, 1 r, bi tier, cut out  
-the p-irt without de&#x27; it ; Im&#x27;.l fie wounded  
-part hs lon as can be b iriic in a hot coal or  
-ted of a tig-ir.  
-In esse of poisoning, excite Vi&#x27;mttin by  
-tnklinp the throat or by warm water and  
-tl)l!&#x27;ird.  
+often spread burning oil, and increase the  
+danger. Before passing through smoke, take  
+a full breath and stoop; but if carbon is sus  
+pected, walk erect.  
+Suck poisoned wounds, unless your mouth  
+is sore; enlarge the wound, or, better, cut out  
+the part without delay; hold the wounded  
+part as long as can be borne to a hot coal or  
+end of a cigar.  
+In case of poisoning, excite vomiting by  
+tickling the throat or by warm water and  
+mustard.  
   
-For acid pitoii, jive a&#x27;.ka&#x27;i ; fur alkaline  
+For acid poisons, give alkali; for alkaline  
   
-poiro.is, j;ite HCids white ot et&#x27;irs is r.od in  
+poisons, give acids--white of eggs is good in  
   
-rao.it c-e; in a cuse of opium poisoning,  
+most cases; in a case of opium porsoning,  
   
-pive s&#x27;ronL&#x27; foi&#x27;ee, and keep movinj;.  
-F r apoplexy, rai-etlie head and body : for  
-lainting, lay the person flit
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn84038582%2F00212471513%2F1873010401%2F1303.jp2/pct:4.485382,34.008515,17.280737,19.545865/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+give strong coliee, and keep moving.  
+For apoplexy, raise the head and body: for  
+fainting, lay the person flat
+</td></tr></table>
 
 ---
 
@@ -1124,57 +1065,73 @@ for fainting, lay the person flat
 
 ---
 
-## [From _The Lincoln County herald._](https://chroniclingamerica.loc.gov/lccn/sn90061771/1873-01-29/ed-1/seq-1)
+## From _The Lincoln County herald._
 
 #### 1873-01-29 &middot; [Troy, Lincoln County, Mo.](http://dbpedia.org/resource/Troy%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+nld have his work touch the  
+heads of the nation, we know of no way  
+he could sooner accomplish such an ob­  
+ject than by making combs.  
+The young man who would nave the  
+fruits of his labor brought before the  
+eyes of the people will become an opti,  
+cint. whe wors boing castly seen ture  
+cannot be difficult to learn.  
+A man can always make s (sjcent in  
+he perfumerg business.  
+4f a young man is a paragon of honor,  
+esuthfalnese and sobriety, has never sworn  
+brofane word, and has twenty thousand  
+dollars that he has no use for, then he  
+should immediately start--a newspaper,  
+F. C., Saturday Night.  
   
-What to do la Case or Accidents  
+NO. 4.  
+  
+What to do in Case of Accident.  
 Prof. Wilder, of Cornell University,  
-gives thesn short rules for action in cases  
-of accident. It would uot be a bad thing  
-to out them out and csrry them in ones&#x27;  
-pocket buok, or better yet, commit them  
-to memory :  
-For dust in tho eye, avoid rubbing ;  
+gives these short rules for action in cases  
+of accident. It would not be a bad thing  
+to out them out and carry them in ones&#x27;  
+pocket book, or better yet, sommit them  
+to memory:  
+For dust in the eye, avoid rubbing;  
 dash water into them; remove cinders,  
-etc , with tho round point of a lead  
-pencil,  
-llemove in toots irom the ear by tepid  
-water- nme put a hard instrument into  
-tbo car.  
-If an artery is cut, compress abovo the  
-wound ; if a vein is cut, compress below.  
+etc with the round point of a lead  
+pencil.  
+Remove in seots from the ear by tepid  
+water-nevre put a hard instrument into  
+the ear.  
+If an artery is cut, compress above the  
+wound; if a vein is cut, compress below.  
 If choked, get on all fours and cough.  
 For slight burns, dip the part in cold  
-water ; if tho skin is destroyed, cover  
+water; if the skin is destroyed, cover  
 with varnish.  
-Smother a fire with carpets, eto , water  
+Smother a fire with carpets, etc, water  
 will often spread burning oil, and increase  
 danger. Before passing through smoke,  
 take a full breath and then stoop low,  
-but if oarbon is suspected, walk erect.  
-Suck poisoned wound?, unless your  
-mouth is sore ; enlargo tho wound, or  
-better, cut out the part without delay :  
-hold tho wounded part as long as can be  
-iporno to a hot coal, or end ot a cigar.  
-. In caso ot poisoning excite voinilin by  
-tickling tbe throat or by warm water and  
+but if carbon is suspected, walk erect.  
+Suck poisoned wounds, unless your  
+mouth is sore; enlarge the wound, or  
+better, cut out the part without delay;  
+hold the wounded part as long as can be  
+Iborne to a hot coal, or end of a cigar.  
+In case of potsoning excite vomiting by  
+tickling the throat or by warm water and  
 mustard.  
 For acid poisons, give alkalies; for  
-alkaline poisons give acids white of egg  
-is good in most casas ; in eases of opium  
-poisoning, give strong coffee, aud keep  
+alkaline poisons give acids--white of egg  
+is good in most cases; in cases of opium  
+poisoning, give strong coffee, and keep  
 moving.  
-For apoplexy, ratso the head &#x27;and  
-body ; for fainting, lay the person flat
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_dorothea_ver01%2Fdata%2Fsn90061771%2F00200292807%2F1873012901%2F0641.jp2/pct:63.480774,12.217547,14.781062,23.515662/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+For apoplexy, raise the head and  
+body; for fainting, lay the person flat
+</td></tr></table>
 
 ---
 
@@ -1285,6 +1242,76 @@ body for fainting, lay the parson fiat.
 #### 1873-02-01 &middot; [Ruby City, I.T. [Idaho]](http://dbpedia.org/resource/Ruby_City%2C_Idaho)
 
 [This text is not available under an open license.]
+
+---
+
+## From _The weekly Arizona miner._
+
+#### 1873-02-01 &middot; [Prescott, Ariz.](http://dbpedia.org/resource/Prescott%2C_Arizona)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ular boulders  
+found in meadows and the terraces of rivers  
+not reached by water can be accounted for  
+only in this way.  
+General O. O. Howard has endorsed Sena  
+tor Pomeroy as &quot;pure and simple in private  
+life strietly terererete in evarthie tt a  
+pleasant little family around him, a regular  
+attendant at church, a man of prayer, al  
+ways leaning on the mighty arm of strength  
+ago Tribune says this proves, of course, that  
+tomeroy has never swindled the Govern-  
+ment or the Pattawatomie Indians. Senator  
+Pomeroy now owes it to General Howard to  
+give him a good backing. Then everythined  
+will be lovelene  
+  
+  
+  
+What to do in case of Accident.  
+  
+ Prof. Wilder, of the Cornell University,  
+gives these short rules for action in cases of  
+accident. It would not be a bad thing to  
+cut them out and carry them in one&#x27;s pocket-  
+For dust in the eyes, avoid rubbing, dash  
+ater into them; remove cinders, &amp;c., with  
+the round point of a lead pencil.  
+Remove insects from the ear by teprd  
+water; never put a hard instrument into the  
+car.  
+If an artery is cut, compress above the  
+wound; if a vein is cut, compress below.  
+If choked, get upon all fours and cough.  
+For slight burns, dip the part in cold  
+water; if the skin is destroyed, cover with  
+varnish.  
+Smother a fire with carpets, &amp;c.; water  
+will often spread burning oil, and increase  
+danger. Before passing through smoke, take  
+a full breath and then stoop low; but if car  
+bon is expected, walk erect.  
+Suck poisoned wounds, unless your mouth  
+is sore; enlarge the wound, or, better, cut  
+out the part without delay; hold the wound-  
+ed part as long as can be borne to a hot coal,  
+or end of a cigar.  
+In a case of poisoning, excite vomiting by  
+tickling the throat or by warm water and  
+mustard.  
+For acid poisons, give alkalis; for alkaline  
+poisons, give acids- white of egg is good in  
+most cases; in cases of opiumn poisoning,  
+flive strong coffee and k  
+keep moving.  
+on the back, with the  
+If in water, float  
+nose and mouth projecting  
+For apoplexy, raise the head and body;  
+fainting, lay the person flat
+</td></tr></table>
 
 ---
 
@@ -1855,7 +1882,7 @@ For fainting, lay the person flat.
 
 ---
 
-## [From _National opinion._](https://chroniclingamerica.loc.gov/lccn/sn84022552/1873-02-28/ed-1/seq-4)
+## From _National opinion._
 
 #### 1873-02-28 &middot; [Bradford, Vt.](http://dbpedia.org/resource/Bradford%2C_Vermont)
 
@@ -1863,20 +1890,41 @@ For fainting, lay the person flat.
 
   
   
-i ioieoi nviiuer, oi ornen i niver­  
-sity, give these short rides of action  
-in case of accident. It Would not be a  
-bad thing to cut this out ami carry it in  
-one&#x27;s pookotbook, or, better yet, com­  
+I toesor wlider, of Cornell Univer­  
+sity, gives these short rules of action  
+in case of accident. It would not be a  
+bad thing to cut this out and carry it in  
+one&#x27;s pocketbook, or, better yet, com­  
 mit them to memory:  
-For dust in the eves, avoid rubbing,  
-dash water into them ; remove cinders,  
+For dust in the eyes, avoid rubbing,  
+dash water into them; remove cinders,  
 etc., with the round point of a pencil.  
 Remove insects from the ear by tepid
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_kirby_ver02%2Fdata%2Fsn84022552%2F00202197231%2F1873022801%2F0443.jp2/pct:44.578548,33.230941,12.322367,4.635577/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
+
+---
+
+## From _National opinion._
+
+#### 1873-02-28 &middot; [Bradford, Vt.](http://dbpedia.org/resource/Bradford%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+but  
+und­  
+ot  
+  
+ed part as long as can be borne to  
+  
+coal or the ed of a cigar.  
+In case of poisoning, excite vomiting  
+by tickling the throat, or by warm mus­  
+taf f, acid poisons give alkalies; for  
+alkaline poisons, give acids; white of  
+an egg is good in most cases.
+</td></tr></table>
 
 ---
 
@@ -2094,39 +2142,6 @@ bo4y ; for tawtin« lay the person flat
 
 ---
 
-## [From _Wilmington daily gazette._](https://chroniclingamerica.loc.gov/lccn/sn84026837/1873-03-11/ed-1/seq-3)
-
-#### 1873-03-11 &middot; [Wilmington, Del.](http://dbpedia.org/resource/Wilmington%2C_Delaware)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-h the nose  
-and mouth projecting,  
-For apoplexy, raise the head aud body; for  
-fainting, lay the person flat.  
-I» any artery is cut, compress above the  
-wound; if a vein is cut, compress below.  
-Remove water from the ear by tepid water  
-never put a hard instrument into the ear.  
-.. £ or 8 &#x27; l * h , t b , urns - dl P th e part in cold water;  
-ir in© skin is destroyed, cover with varnhli  
-..iV™ 8 ® °* P° i500i &quot;K. oxcite vomiting by  
-tickling the throat, or by warm water and  
-mustard.  
-£° r . d îi 9 }. &#x27; n l (&#x27; e *f avdld rubbing; dash  
-jfer Into &lt;hem; remove cindér», &amp;e, wiih the  
-round point ofa lead pencil.  
-for acid poisons, give alkalie; for alLalinp  
-poisons give acids; while of an egg 1* good in  
-moat casgs; io a case of opium poisoning give  
-strong cofie© and keep moving
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_accio_ver01%2Fdata%2Fsn84026837%2F0027174030A%2F1873031101%2F0266.jp2/pct:5.629771,23.063602,16.603053,10.091310/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1873-03-13/ed-1/seq-4)
 
 #### 1873-03-13 &middot; [Centre Hall, Pa.](http://dbpedia.org/resource/Centre_Hall%2C_Pennsylvania)
@@ -2176,27 +2191,27 @@ body; for fainting, lie flat
 
 ---
 
-## [From _The Ouachita telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85034336/1873-03-15/ed-1/seq-4)
+## From _The Ouachita telegraph._
 
 #### 1873-03-15 &middot; [Monroe, La.](http://dbpedia.org/resource/Monroe%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-WHAT TO DO IN CASE OF AN ACCI­  
+WHAT TO DO In CASE OF An accI­  
 DENT.  
 Professor Wilder, of Cornell Univer­  
 sity, gives these short rules in case of  
 accident. It would not be a bad thing  
 to cut them out and carry them in one&#x27;s  
 pocket book, or better commit them to  
-memory.  
+memorw.  
 For dust in the eyes, avoid rubbing;  
 dash water in them; remove cinders,  
-etc., with the round point of a lead  
+ete with the round point of a lead  
 pencil.  
 Remove insects from ear by tepid  
-water-never put a hard instrument  
+water,-never put a hard instrument  
 into the ear.  
 If an artery is cut, compress above  
 the wound; if a vein is cut compress  
@@ -2216,20 +2231,17 @@ Suck poisoned wounds, unless your
 mouth is sore, enlarge the wound, or,  
 better, cut out the part without delay;  
 hold the wounded part as long as can  
-be borne at a hot coal or end ofa cigar.  
+be borne at a hot coal or end of a cigar.  
 In case of poisoning, excite vomiting  
 by tickling the throat or by warm  
-water and mustard.  
+water and mustared.  
 For acid poisons, give alkalis; for  
-acids-white of an egg is good in most  
+acids,-white of an egg is good in most  
 cases; in case of opium poisoning, give  
 strong coffee, and keep moving.  
 For appohlexy, raise the head and  
-body; for fainting, lay the person fiat
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_angel_ver01%2Fdata%2Fsn85034336%2F00211101027%2F1873031501%2F0726.jp2/pct:8.046683,7.890639,14.782965,26.492473/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+body; for fainting, lay the person flat
+</td></tr></table>
 
 ---
 
@@ -2239,7 +2251,7 @@ body; for fainting, lay the person fiat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- dust in tbe eyes, avoid rub­  
+yes, avoid rub­  
 ding ; dash water into them ; remove  
 cinders with the round point of a  
 lead pencil.  
@@ -2280,9 +2292,62 @@ For apoplexy, raise the head and
 body; for fainting lay the p&lt; rsun  
 flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn85033133%2F00514159373%2F1873031801%2F0657.jp2/pct:17.120763,9.049899,10.835357,20.046499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn85033133%2F00514159373%2F1873031801%2F0657.jp2/pct:17.120763,9.081130,10.835357,20.015268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The Fairfield herald._
+
+#### 1873-03-19 &middot; [Winnsboro, S.C.](http://dbpedia.org/resource/Winnsboro%2C_South_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+What to Do in Case of ateldent.  
+Prof. Wilder of the Cornal Univer.  
+sity gives these short rules fot action in  
+cases of accident.  
+For dust in the eyes, avoid rube  
+bing; dash water into them; remove  
+cinders, Ase., with the round point o  
+a lead pencil.  
+Remove water from the ear with  
+tepid water; never put a hard instru  
+ment into the ear.  
+If an artery is cut, compress above  
+the wound; if a vein is cut, compres  
+below.  
+If chalked, get upon all fours and  
+cough.  
+For slight burns dip the part ir  
+oold water; if the skin is destroyed  
+cover with varnish.  
+Smother a fire with oarpets, ke.  
+water will often spread burning of  
+and increase danger. Before passing  
+through smoke, take a full breath and  
+then stoop low, but if carbon is aus.  
+pected, walk erect.  
+Suck poisoned wounds, unless yom  
+mouth is sore, enlarge the wound, of  
+better out out the part without delay  
+hold the wounded part as long as ca  
+he borne to a hot coal, or end of  
+eigar.  
+In case of poisoning, exerte vomic  
+ing by tickling the throat or by wa  
+water and mustard.  
+For acid poisons, give alkalis; fo  
+alkaline poisons, give acids-white  
+egg is good in most cases; in case  
+opium poisoning give strong coff.  
+and keep moving.  
+If in water, float on the back, with  
+the nose and month preeethuc  
+For appoplexy, raise the head an
+</td></tr></table>
 
 ---
 
@@ -2333,30 +2398,47 @@ for fainting, lie fiat
 
 ---
 
-## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1873-04-02/ed-1/seq-4)
+## From _Clearfield Republican._
 
 #### 1873-04-02 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-rrofossor Wildor, of Cornell Univor.  
-sitr, gives those short rules of action  
-in case of accident. It would not ba  
-a bad thing to cut Ibis out and carry  
-it in ones pockelbook, or, better yot  
-commit loom lo memory;  
+Professor Wilder, of Cornell Univer.  
+sity, gives these short rules of action  
+in case of accident. It would not be  
+a bad thing to eut this out and carry  
+it in ones pocketbook, or, better yet  
+commit them to memory!  
 For dust in the eyes, avoid rubbing,  
--dash water into them ; roraovo cinders,  
-etc., with the round poiut of a pencil  
-llomovo insects from tbe car by  
-tepid water; never put a bard instru  
-mont into your oar.  
-If any artery is cut, compress belo
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477862%2F1873040201%2F0360.jp2/pct:3.269036,60.828436,11.573604,6.392432/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+dash water into them; remove cinders,  
+ete, with the round point of a pencil  
+Remove insects from the ear by  
+tepid water; never put a hard instru  
+ment into your ear.  
+If any artery is cut, compress below  
+If choked, get upon all fours and  
+cough.  
+Smother a fire with carpets, etc  
+water will often spread burning oil  
+and increase danger. Beforo passing  
+through smoke, take a full breath and  
+then stoop low, but if carbonic is sus-  
+pected walk erect.  
+Suck poisoned wounds, or, cut out  
+the part without delay; hold the  
+wounded part as long as can be borne  
+to a hot coal or the end of a cigar  
+In case of poisoning, excite vomit.  
+ing by tickling the throat, or by warm  
+mustard.  
+For acid poisons give alkalies; for  
+alkaline poisons, give acids; white of  
+an egg is good in most cases.  
+For apoplexy, raise the head and  
+body; for lainting, lie flat
+</td></tr></table>
 
 ---
 
@@ -2449,10 +2531,7 @@ bhmr cm-a; or end of a cigar
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-will bo found useful to remember:  
-  
-For dust In tho eyes, avoid rubbing ; dash  
+id rubbing ; dash  
 water m them; remove cinders, oto., with tho  
 round point of a load pencil.  
 llomovo water from tho oar by tepid water ?  
@@ -2481,7 +2560,7 @@ coffee, and keep moving.
 If in water; tfdal oh the back, with the nose  
 and mouth projecting. - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_fullerton_ver02%2Fdata%2Fsn84031492%2Fno_reel%2F1873040901%2F0003.jp2/pct:69.406045,14.155418,13.033037,12.217256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_fullerton_ver02%2Fdata%2Fsn84031492%2Fno_reel%2F1873040901%2F0003.jp2/pct:69.406045,14.565852,13.033037,11.806822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2548,45 +2627,64 @@ fee and keep moving
 
 ---
 
-## [From _The Holt County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034039/1873-04-11/ed-1/seq-1)
+## From _The Holt County sentinel._
 
 #### 1873-04-11 &middot; [Oregon, Missouri.](http://dbpedia.org/resource/Oregon%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t:  
-For dust In the eyes, avoid rubbing,  
-dash water Into them; remove cinders,  
-etc., with tho round point or a lead pen­  
-cil.Itemovo Insects from the car by tepid  
-water ; never put a hard instrument into  
+siness to come after, and pick up the  
+words which others let slip in a running  
+talk, or to check their impetuosity, that  
+he may point out to them their missteps.  
+Had ho lived in the days of Solomon, he  
+would have flattered the royal sage with  
+an intimation that some of his proverbs  
+were but plagiarisms; or, had he been a  
+contemporary of Solomon&#x27;s father, would  
+have felt himself bound to give the slayer  
+of Gollah some lessons on the use of the  
+sling, and hinted to the sweet singer of  
+Israel his private opinion that the shep­  
+herd bard did not perfectly understand  
+the uso of the harp.- ExchaNgE.  
+What to Do in Case of Accident.  
+Proressor Wilder, of Cornell Uni­  
+versity, gives these short rules for action  
+in cases of accident:  
+For dust in the eyes, avoid rubbing.  
+dash water into them; remove cinders,  
+etc. with the round point of a lead pen­  
+ell emove inseets from the ear by tepid  
+water; never put a hard instrument into  
 the ear.  
-If an artery is cut, compress bdovo tno  
-otind ; ir a vein Is cut. compress below.  
-It clioKcu, get upon nu luureuiiu cuun.  
-For light burns, dip the part In cold  
-atcr : If tho skin is destroyed, cover .with  
-varnish. , r  
-Smother n lire with carpets, etc. ; water  
-will often spread burning oil, and inCrcaso  
-danger. Before passing through Bmoke,  
-take a full breath and then stoop low, but&#x27;  
-ir carbon Is suspected, walk erect.  
-suck poison wouncis, uniessyuuniiuuui&quot;  
-la inrn T&#x27;&quot;lllnriT,l tlin WOllllll. Or. UCttCl&#x27;.  
-cut out tho part without delay;. .Hold  
-tho wounded part as long aa can uu uunu  
-to a hot coal, or end of 41 cigar.  
-In naan nf nnknilllll&#x27;. exclto VOlnltlllir  
-by tlckllnsr tho thro.it, or by -warntwateri  
-and mustard. For acid poisons&#x27; give acids .  
-white of egg is good In most casos ; in  
-caso of opium poisoning, give strong cof­  
-fee nnd keep moving. 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559917%2F1873041101%2F0481.jp2/pct:81.568900,56.188419,10.916348,11.931435/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+If an artery is cut, compress above the  
+ound; if a vein is cut, compress below.  
+If choked, get upon all lours an cou  
+For light burns, dip the part in cold  
+ater: if the skin is destroyed, cover with  
+varnish.  
+Smother a fire with carpets, etc.; water  
+will often spread burning oil, and increase  
+danger. Before passing through smoke,  
+take a full breath and then stoop low, but  
+if carbon is suspected, walk erect.  
+Suck poison wounds, unless your moatit  
+is sore. Enlarge the wound, or, better,  
+cut out the part without delay. Hold  
+the wounded part as long as can be borle  
+to a hot coal, or end of a cigar.  
+In case of poisoning, excite vomiting  
+by tickling the throat, or by warm water  
+and mustard. For acid poisons give acids.  
+white of egg is good in most cases; in  
+case of opium poisoning, give strong cot­  
+fee and keep moving.  
+If in the water, hoat on the buen, witit  
+the nose and mouth projecting.  
+For apoplexy, raise the read and bodyi  
+for fainting, lay the person flat
+</td></tr></table>
 
 ---
 
@@ -2595,16 +2693,6 @@ fee nnd keep moving.
 #### From _Little Rock daily republican._
 
 #### 1873-04-17 &middot; [[Little Rock, Ark.]](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
-
-[This text is not available under an open license.]
-
----
-
-## What to do in Case of Accident
-
-#### From _Ohio Farmer (1856-1906)_
-
-#### 1873-04-19 &middot; [Cleveland](http://dbpedia.org/resource/Cleveland)
 
 [This text is not available under an open license.]
 
@@ -2810,7 +2898,7 @@ for fainting, lay ibe person flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-below.  
+w.  
 If choked, get on nil fours and congh.  
 For slight burns, dip the part in cold water; if  
 the skin isdi-stniyi-d, cover with varnish.  
@@ -3291,49 +3379,56 @@ for fainting lay the person flat.
 
 ---
 
-## [From _The daily dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84024738/1873-05-24/ed-1/seq-4)
+## From _The daily dispatch._
 
 #### 1873-05-24 &middot; [Richmond [Va.]](http://dbpedia.org/resource/Richmond%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ibbing; dash  
-water in t lictn : remove cinders, etc., with  
+  
+wherein the tail was to be put and tied in a  
+knot so that the animal could not withdraw  
+it.  
+  
+WhAr To Do IN CASE oF ACCIDENT.Pro-­  
+  
+the following short rules for action in cases  
+of accident, which will be found useful to re-­  
+member:  
+For dust in the eyes, avoid rubbing; dash  
+water in thein; remove cinders, etc., with  
 the round point of a lead pencil.  
-UVtnove water from the ear by tepid  
-water; never put a hard instrument iti the  
-? ar.  
-It any artery is cut, compress above the  
-wound: if a vein is cut, compress below.  
-If choked. get on all fours and cough.  
-l or slight burns, dip the part in cold  
-&#x27;water; if the skin is destroyed, cover with  
+Remove water from the ear by tepid  
+water; never put a hard instrument in the  
+ear.  
+If any artery is cut, compress above the  
+wound; if a vein is cut, compress below.  
+If choked, get on all fours and cough.  
+For slight burns, dip the part in cold  
+water; if the skin is destroyed, cover with  
 varnish.  
-Smother a tire with carpets, etc. ; water  
-will often spread burning oil and increase  
+Smother a fire with carpets, ete.; water  
+will offen spread burning oil and increase  
 the danger. Before passing through smoke  
-tak?* a long breath, and then stoop low ; but  
-it carbolic avid gas is susjiected, walk erect.  
-Suck poisoned wounds unless your mouth  
-i- sole. Enlarge the vvouud: or, betteiyeut  
-out the part without delay ; hold the wound­  
+take a long breath, and then stoop low; but  
+if carbolic acid gas is suspected, walk erect.  
+Suick poisoned wounds unless your mouth  
+is sore. Enlarge the wound; or, better, cut  
+out the part without delay; hold the wound.­  
 ed part as long as can be borne to a hot coal  
 or end of a cigar.  
-In case of poisoning, excite vomiting by  
-tickling the throat, or by warm water anil  
-mustard.  
+in case of poisoning, excite vomiting by  
+tickling the throat, or by warm water and  
+mnustard.  
 For acid poisons, give alkalies; for alka­  
-line poisons, give acids? white of egg is good  
-in most cases, in a ease of opium poison­  
-ing. give strong coffee, and keep moving.  
-If in vvab r, float on the back, with the  
-no?e and mouth projecting.  
+line poisons, give acids--white of egg is good  
+in most cases. In a case of opium poison-­  
+ing, give strong coffee, and keep moving.  
+If in water, float on the back, with the  
+nose and mouth projecting.  
 For apoplexy, raise the head and body,  
-tor fjinting, lay the person flat
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kors_ver02%2Fdata%2Fsn84024738%2F00271742046%2F1873052401%2F0512.jp2/pct:2.448262,47.359450,13.923080,15.325845/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+for fainting, lay the person flat
+</td></tr></table>
 
 ---
 
@@ -3416,7 +3511,7 @@ m
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t in the eyej avoid rubbing; dash  
+avoid rubbing; dash  
 water ia them; remove cinders, etc., with  
 the round point of a lead pencil.  
 Remove water from the ear by tepid wa.  
@@ -3449,86 +3544,56 @@ nose and mouth projecting.
 For apoplexy, raise the hea l and body ;  
 for fainting, lay the person flit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197607%2F1873060401%2F0093.jp2/pct:28.524590,50.961964,11.047755,13.876603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197607%2F1873060401%2F0093.jp2/pct:28.524590,50.973021,11.047755,13.865546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Tiffin tribune._](https://chroniclingamerica.loc.gov/lccn/sn87076794/1873-06-05/ed-1/seq-1)
+## From _The Tiffin tribune._
 
 #### 1873-06-05 &middot; [Tiffin, Ohio](http://dbpedia.org/resource/Tiffin%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-&quot;The snowy, snowy daisies.&quot;  
-  
-What to Do in Case of Accident.  
-  
-j  
-i  
-:  
-j  
-i  
-1  
-I  
-I  
-&#x27;  
-!  
-Professor Wilder, of Cornell I &quot;ni- 1  
-versity, in Moore&#x27;s Bural New Yorker,  
-gives the following short rules for ac­  
-tion in ca-es of accidjiit, which will  
-be found useful to remember:  
-For dust in the eyes, avoid rubbing: !  
-dash water in them; remove cindeis, 1  
-Ac , with the round po.nl of a lead  
-pencil. ,  
-i;em.oVe water lioui the ear ny li­  
-pid water. Never put a hard instru­  
+put a hard instru­  
 ment into the ear.  
-I fan artery is cut, compress above  
+If an artery is cut, compress above  
 the wound: if a vein is cut, compress  
 below.  
-If choked, gt on all fours and  
+If choked, get on all fours and  
 cough.  
-For slight burns, lip tiie part in  
-Cold water; if liie skin is destroyed  
+For slight burns, lip the part in  
+cold water; if the skin is destroyed  
 cover with varnish.  
-Smother a lire with carpets, &amp;c.,  
-water wiil often spread burning ml  
+Smother a fire with carpets, ac.,  
+water will often spread burning oil  
 and increase the danger. Before  
 passing through smoke take a long  
 breath and then stoop low; but if car­  
 bonic acid gas is suspected, walk  
-erect.  
-.uck poi?  
-neii wounds unless  
+crect.  
+Suck pois  
+ned wounds unless  
 your  
-ru,,utb is y,i ; enlarge the wound; or,  
-.u -r, cut tin- pari without delay;  
-hold the wound -d part as long as can  
-i be borne lo a hot c.a! or the en I of a  
-i cigar.  
-I :i ea-e of poisoning, ex&#x27;-it v .ini:­  
-i mg I.y tickling the throat or l y wa 111  
-, water and mustard.  
-For acid poisons, give alkalies fir  
-alkaline poisons, give acids white of  
-egg is good in most ca-es in a ca-e of  
-; opium rfiisoniiig, give strong cdlV-e  
-1 and k&#x27; p moving.  
-If 111 water, Hoal on me i.a K, wun  
-the no.-e and iiioutii projecting.  
-For apoplexy raise the bead and  
-body; f r fainting lay the person i!a&#x27;.  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn87076794%2F00280775137%2F1873060501%2F0009.jp2/pct:59.095463,63.447514,9.331616,17.889503/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+mouth is sore; enlarge the wound; or,  
+etter, cut the part without delay;  
+hold the wounded part as long as can  
+ be borne to a hot coal or the end of a  
+icigar.  
+In case of poisoning, excite vomit­  
+ing by tickling the throat or by warm  
+water and mustard.  
+For acid poisons, give alkalies; for  
+alkaline poisons, give acids- white of  
+egg is good in most cases; in a case of  
+opium poisoning, give strong coffee  
+and keep moving.  
+If in water, float on the bach, with  
+the nose and mouth projecting.  
+For apoplexy raise the head and  
+body; for fainting lay the person flat.
+</td></tr></table>
 
 ---
 
@@ -3629,52 +3694,57 @@ l or apoplexy, raise the head an
 
 ---
 
-## [From _Burlington weekly free press._](https://chroniclingamerica.loc.gov/lccn/sn86072143/1873-06-13/ed-1/seq-1)
+## From _Burlington weekly free press._
 
 #### 1873-06-13 &middot; [Burlington, Vt.](http://dbpedia.org/resource/Burlington%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+President AAngell of Michigan University,  
+will, this year, invite his Seniors to a lunch  
+on the afternoon of Class Day, instead of to  
+an evening reception, as has heretofore  
+been the custom.  
+I seful Hints.  
+Prof. Wilder of Cornell University gives  
+the following short rules for action in cases  
 of accident, which will be found useful to  
-remember :  
-For dust in the eye, avoid rubbing ; dash  
+remember;  
+For dust in the eye, avoid rubbing; dash  
 water in them; remove cinders, etc., with  
 the round point of a lead pencil.  
 Remove water from the ear by tepid  
-water ; never put a hard instrument into  
+water; never put a hard instrument into  
 the ear.  
 If an artery is cut, compress above the  
-wound ; it a vein is cut compress below.  
-If choked, get on all fours and cough .  
-For slight bums, dip the part in cold  
-water , if thckin is destroyed, cover with  
+wound; if a vein is cut compress below.  
+If choked, get on all fours and cough.  
+For slight burns, dip the part in cold  
+water; if the skin is destroyed, cover with  
 varnish.  
-Smother a fire with carpets ; water will  
+Smother a fire with carpets; water will  
 often spread burning oil and increase the  
 danger. Before passing through smoke  
-take a long breath, arid tben stoop low ; if  
-caiwun. iiciu gu. is suspevieu, nau cresjv.  
-Snck poisoned wounds, unless your  
-mouth is sore; enlarge the wrund; or  
-better, cut out the part without delay .  
-hold the wounded prt as long as canoe  
+take a long breath, and then stoop low; if  
+on e sa a sus ecte wu cet  
+Suck poisoned wounds, unless your  
+mouth is sore; enlarge the wound; or  
+better, cut out the part without delay.  
+hold the wounded part as long as can be  
 borne to a hot coal or end of a cigar.  
-In ca-e of poisoning;, excite vomiting by  
+In case of poisoning, excite vomiting by  
 tickling the throat or by warm water.  
-If in water, float on the Hck with the  
+If in water, float on the back with the  
 nose and mouth projecting.  
-For apoplexy, rai-e the bead and body ;  
-for fainting la the person flat.  
-For acid poison, give alkalies ; fur al­  
-kaline poisons give acids white of egg is  
-good in most cases ; in a case of opium  
+For apoplexy, raise the head and body;  
+for fainting lay the person flat.  
+For acid poisons, give alkalies; for al­  
+kaline poisons give acids--white of egg is  
+good in most cases; in a case of opium  
 poisoning give strong coffee, and keep  
 moving
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_burlington_ver01%2Fdata%2Fsn86072143%2F00280777031%2F1873061301%2F0519.jp2/pct:63.968113,43.907182,9.867139,12.691211/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -3694,8 +3764,7 @@ moving
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-will be found useful to remember  
+r  
   
 For dust in the eyes avoid rnbbing  
 dash water into them remove cinders,  
@@ -3743,51 +3812,59 @@ the nose and mouth projecting.
 For apoplexy raise the head and  
 body for faluting, lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn92056106%2F0027952875A%2F1873061901%2F0335.jp2/pct:66.815566,46.105373,10.039370,17.253781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn92056106%2F0027952875A%2F1873061901%2F0335.jp2/pct:66.815566,46.667896,10.039370,16.691258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The home journal._](https://chroniclingamerica.loc.gov/lccn/sn95068565/1873-06-19/ed-1/seq-4)
+## From _The home journal._
 
 #### 1873-06-19 &middot; [Winchester, Tenn.](http://dbpedia.org/resource/Winchester%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-compress  
+  
+  
+member:  
+For dust in the eyes, avoid rubbing;  
+dash water in them; remove cinders,  
+etc. with the round point of a lead  
+pencil.  
+Remove water from the ear by tepid  
+water; never put a hard instrument into  
+the ear.  
+If an artery is cut, compress above  
+the wound; if a vein is cut, compress  
 below.  
-If choked, get on all fours and cougb.  
+If choked, get on all fours and cough.  
 For slight burns, dip in cold water;  
-tho skin is destroyed, cover with  
+the skin is destroyed, cover with  
 varnish.  
-Hmother a firs with carpets, etc.;  
+Smother a fire with carpets, etc.;  
 water will often spread burning oil and  
-ncreaso tho dancer. Before passing  
-through Binoko tuko a long breath, and  
-then stoop low ; but if carbolic acid gas  
-is suspected, walk erect.  
-Huek poisoned wo&#x27;iixIh, unless your  
-mouth is soro ; enlarge tho wound ; or  
-better, cut out the part without delay ;  
-hold the wounded part as loug as can  
-bo borne to a hot coal or end of a cigar.  
-In case of poisoning, exeito vomiting  
-by tickling tho throat, or by warm water  
+ncrease the danger. Before passing  
+through smoke take a long breath, and  
+then stoop low; but if carbolic acid gas  
+is suspected, walk erect,  
+Suck poisoned wounds, unless your  
+mouth is sore; enlarge the wound; or  
+better, cut out the part without delay;  
+hold the wounded part as long as can  
+be borne to a hot coal or end of a cigar.  
+In case of poisoning, excite vomiting  
+by tickling the throat, or by warm water  
 and mustard.  
-For ucid poisons, give alkalies; for  
-alkaline poisons, give acids, white 01  
-egg is good in most cases ; in a case of  
-opium poisoning give strong coffee, ami  
+For acid poisons, give alkalies; for  
+alkaline poisons, give acids, white of  
+egg is good in most cases; in a case of  
+opium poisoning give strong coffee, and  
 keep moving.  
-If in water, float on tho Buck, with  
-the noso and mouth projecting.  
-For apoplexy, raise tho head and  
-body; for fainting, lay the persAi flat
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn95068565%2F00280779155%2F1873061901%2F0561.jp2/pct:21.578100,12.176387,12.318841,17.211949/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+If in water, float on the back, with  
+the nose and mouth projecting.  
+For apoplexy, raise the head and  
+body; for fainting, lay the person flat
+</td></tr></table>
 
 ---
 
@@ -3797,14 +3874,7 @@ body; for fainting, lay the persAi flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-Remove water from the ear by tepid  
-  
-water ; never put a hard instrument into  
-the ear.  
-If an artery ia cut, compress above  
-the wound ; if a vein is cut, compress  
+ress  
 below.  
 If choked, get on all fours and cough.  
 For slight burns, dip in cold water ;  
@@ -3834,7 +3904,7 @@ tho nose and mouth projecting.
 For apoplexy, raise the head and  
 l)ody ; for fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F00212470181%2F1873061901%2F0106.jp2/pct:15.441886,5.479922,10.147525,16.496968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F00212470181%2F1873061901%2F0106.jp2/pct:15.441886,7.584945,10.147525,14.391946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3880,43 +3950,40 @@ for fainting, lay the person flat
 
 ---
 
-## [From _The home journal._](https://chroniclingamerica.loc.gov/lccn/sn95068565/1873-06-26/ed-1/seq-1)
+## From _The home journal._
 
 #### 1873-06-26 &middot; [Winchester, Tenn.](http://dbpedia.org/resource/Winchester%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-ful to preserve and remember : For  
-dnstiii tho eves, avoid rubbing; dash  
-water into them ; remove cinders, etc.,  
+ful to preserve and remember: For  
+dust in the eyes, avoid rubbing; dash  
+water into them; remove cinders, etc.,  
 with the round point of a lead pencil  
-Remove water from the ear by ojld wa  
-tor ; never put a hard instrument into  
-tho car. If choked, get upon all-fours i  
-and cough. For slight burns, slip tho  
-parts iu cold water ; if the skin is de­  
+Remove water from the ear by cold wa  
+ter; never put a hard instrument into  
+the ear. If choked, get upon all-fours  
+and cough. For slight burns, slip the  
+parts in cold water; if the skin is de­  
 stroyed, cover with varnish. Smother  
 a fire with carpets, etc.; water will of­  
 ten spread burning oil and increase  
 danger. Before passing through smoke,  
-take full breath nnd then btoop low;  
-but if carlMUiio ucid gus is expected.  
-walk erect. Iu case ol poisoning, ex­  
-nito vomiting by tickling tho throat, or  
-by warm water aud mustard. For acid  
-poisons, give alkalies ; for alkaline  
-poisons, tise acids white of an egg is  
-good in most cases ; in n case of opium  
-poisoning, give strong entice and keep  
-moving. If iu water, tlout ou thu buck,  
-with thu nose and mouth projecting.  
-For apoplexy, raise the head aud body ;  
-for fainting, lay tho person flat
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn95068565%2F00280779155%2F1873062601%2F0562.jp2/pct:79.099678,76.192474,12.942122,15.218912/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+take a full breath and then stoop low;  
+but if carbonic acid gas is expected,  
+walk erect. In case of poisoning, ex­  
+cite vomiting by tickling the throat, or  
+by warm water and mustard. For acid  
+poisons, give alkalies; for alkaline  
+poisons, use acids- white of an egg is  
+good in most cases; in a case of opium  
+poisoning, give strong coffee and keep  
+moving. If in water, float on the back,  
+with the nose and mouth projecting.  
+For apoplexy, raise the head and body;  
+for fainting, lay the person flat
+</td></tr></table>
 
 ---
 
@@ -3962,41 +4029,79 @@ for fainting, lay the person flat.
 
 ---
 
-## [From _The McArthur enquirer._](https://chroniclingamerica.loc.gov/lccn/sn87075167/1873-07-02/ed-1/seq-1)
+## From _The McArthur enquirer._
 
 #### 1873-07-02 &middot; [M'arthur, Vinton County, Ohio](http://dbpedia.org/resource/McArthur%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+lesticks; uses the frying pan from.  
+day to day without washing; sube  
+stitutes her apron, or dress for at  
+holder, or dish-towel; mixed upion  
+pancakes with her fingers artertant  
+combing her hair; and pounds   
+beefsteaks on a table where she has a  
+hoon cooumin nutuolof Jndi f uitt boog  
+been seoulins khlves.Lash aa sotaiqoto  
+The only guard against starva  
+tion, if you must submit to such a  
+state of things, is never to go near ons  
+the kitchen. Even then there is&quot;&quot;  
+danger of being poisoned, or of dy-  
+ing from eating your &quot;peck of dirt&quot; to  
+in too much of a hurry.Eim  
+Orlou, arluititoms le niatun od! of  
   
-onuother fire - with carpets.  
-kctfz water - wilr.6fien3 gbreSwliZ  
-burning oil tcViid&quot;C;&#x27;increase  
-the ilaiTger,;.- rPeforo ,vPft?lfta  
-t lirough smoke take a long  
-breath, ,a li&#x27;d, Iheii pfoop 6yf i&#x27;br  
-if carbolio acid gas issuspected--walk,  
-erect, ,. , t  
-, ; buck poisoned wounds un­  
-less yotir, luouthis sore; enlarge,  
-wounds or,1 what -is better, veufc&quot;  
-put the parts VwitWuirdelay&#x27;  
-hold the wounded part a long&quot;  
-as cap ho. born to, a k9fMi&#x27;,,w&#x27;&#x27;&#x27;  
-end of a cigar. &#x27; &quot; 1 &#x27; .u&quot;i&quot;  
-... I&#x27;caso of &#x27;poisoning&#x27;, JfacftC  
-vomiting by tickling the throat,&quot;  
-or by;,&#x27;warm, water, find.m&#x27;ustad,&#x27;,,&#x27;  
-, &#x27; For acid poisons,&quot;give alka--lies  
-;&#x27; for alkalin&#x27; bpisons&#x27;giye&#x27;,&#x27;&#x27;&#x27;,  
-acids white of an egg is good  
-iu most case j in cases of opi­  
+What to do in Case of Accident.  
+  
+Prof Wilder, of Cornell Unis  
+versity, gives the following ta  
+short rules for action in cases of e  
+accident which will be found  
+useful to remember. e fos ttar autwot  
+For dust in the eyes, avoidut  
+rubbing; dash water in them;   
+remove cinders, etc with the  
+round point of a lead pancil. tras  
+Remove water from the ear fo  
+by tepid, water; never put a  
+hard instrument into the eargaiom  
+If an artery is cut, compress  
+above the wound; if a vein tisa  
+cut, compress helow.  a tal a  
+If choked get on all foursl  
+and cough. olt t tita  
+For slight burns,dip the  
+part in cold water;&#x27;if the skin  
+is destroyed cosferd wifl ald  
+nish. u113 94 Va  
+e o  e  
+Smother fire with carpets,  
+kc. water willetolten lo sprende?  
+hurning oil  and increase  
+the danger.e Before passing  
+through smoke take a long  
+breath, and then stoop low; but  
+if irbolie aoid gas is saspoct.  
+erect  
+ Suck posoned wound un­  
+less your mouth is sore; enlarge  
+wounds or, what is better, cut  
+out the parts without delay  
+hold the wounded part as long-n  
+as can be born to a hot coal or  
+end of a cigar. tatt hohaest daid anue  
+In case of poisoning incite  
+vomiting by tickling the throat,  
+or by warm water and mustard,  
+iFor acid poisons, give allsa  
+for alkalin poisons give  
+acids,-white of an egg is good  
+in most cases; in cases of opi­  
 um poisoning give strong coffee  
-and keep moving. nt-iiiyr. a h 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn87075167%2F00280774893%2F1873070201%2F0965.jp2/pct:84.934652,67.071922,12.168845,16.099309/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+and keep movingnund  yt wou wa
+</td></tr></table>
 
 ---
 
@@ -4154,63 +4259,85 @@ body; for fainting, lay the person fla
 
 ---
 
-## [From _The Tipton advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84027398/1873-07-31/ed-1/seq-4)
+## From _The post._
+
+#### 1873-07-17 &middot; [Middleburg, Snyder County, Pa.](http://dbpedia.org/resource/Middleburg%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+ting by tickling the throat, or by  
+warm water and mustard.  
+For acid poisons, give alkalies; for  
+alkaline poison, give acids--white of  
+  
+an egg is good in most cases; in a case  
+of opium poisoning, give strong coffee  
+and keep moving.  
+If in the water float on the back,  
+with the nose and mouth projecting.  
+or apoplexy, raise the head and  
+body; for lainting, lay the person flat.
+</td></tr></table>
+
+---
+
+## From _The Tipton advertiser._
 
 #### 1873-07-31 &middot; [Tipton, Cedar Co., Iowa](http://dbpedia.org/resource/Tipton%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- iu the eyes avoid rubbiug  
-dash water into them removeoinders,  
-Ac., with the round point of a lead  
+  
+  
+For dust in the eyes avold rubbing  
+dash water into them; remove cinders,  
+&amp;c., with the round point of a lead  
 pencil.  
   
-Uemove wax from the ear by tepid  
-water never put a hard instrument  
+Remove wax from the ear by tepid  
+water; never put a hard instrument  
 into the ear.  
   
 If any artery is cut, compress above  
-the wound, if a vein is cut compiess  
+the wound, if a vein is cut compress  
 below.  
   
-If choked, get on ail fours aod  
+If choked, get on all fours and  
 cough.  
-For slight burus, dip the part in  
-cold water if the sltiu is destroyed  
+For slight burns, dip the part in  
+cold water; if the skin is destroyed  
 cover with varnish.  
   
-Hmother a tire with carpets, 4c,  
-water ofieu spreads burning oil and  
+Smother a fire with carpets, ke.  
+water often spreads burning oll and  
 increases the danger. Before passing  
-through smoke lake a long breath  
-and then stoop low but if carbolic  
+through smoke take a long breath  
+and then stoop low; but if carbolic  
 acid, walk erect.  
   
-Huck poisoned wounds unless your  
-mouth is sore. Kularge the wound  
+Suck poisoned wounds unless your  
+mouth is sore. Enlarge the wound  
 or better, cut out the part without de  
 lay. Hold the wounded part as long  
-as cau be borne to a hot coal or end of  
+as can be borne to a hot coal or end of  
 a cigar.  
   
 In case of poisoning excite vomiting  
 by tickling the throat or by warm  
-water aud mustard.  
+water and mustard.  
   
-For acid poisons give alkalies for  
-alkaliue poisons ^ive acid-t—white of  
+For acid poisons give alkalies; for  
+alkaline poisons give acids--white of  
 egg is good in most cases. In a case of  
-opium {Kiisouing give strong coffee  
+opium poisoning give strong coffee  
 and keep moving.  
   
-If In water, ti »at on the back, witb  
-the nose aud mouth projecting.  
+If in water, float on the back, with  
+the nose and mouth projecting.  
 For apoplexy, raise the head and  
-body for fainting, lay the person fla
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_lapras_ver01%2Fdata%2Fsn84027398%2F00279528438%2F1873073101%2F0329.jp2/pct:38.247797,56.692942,11.233800,19.140939/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+body; for fainting, lay the person fla
+</td></tr></table>
 
 ---
 
@@ -4380,27 +4507,7 @@ in most cases.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nd place  
-them in a stone jar, with as much sugar, as  
-Jou have tomatoes, a’ml let them stand two  
-days; then pour oft’the syrup ami boil and  
-skim it until no skuni rises. Then pour as  
-before, then hoil and skim again. After a  
-third time they arc fit to dry, i the weather  
-is good; if not, let them stand in I lie syrup  
-until drying weather. Then place them on  
-large earthen plates or dishes, and put them  
-in the sun to dry, which will take about a  
-week, after which pack them down in small  
-wooden hoses, with fine white sugar bet ween  
-ea;h layer. Tomatoes prepared in this man­  
-ner will keep for years.  
-What to do in Case of Accident.—Prof.  
-Wilder, of Cornwell ITnversi y, gives the  
-following short rules for action in case nfTie­  
-cidcnt, which it will he found useful to pre­  
-serve or remembei.  
-For dust in the eyes, avoid rubbing; dash  
+ rubbing; dash  
 water into them; remove cinders, etc., with  
 the round point of a lead pencil.  
 Remove water from the ear by tepid wa­  
@@ -4426,7 +4533,7 @@ In case of poisoning, excite vomiting by
 tickling tbe throat or by warm water and  
 mustard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557840%2F1873100401%2F0167.jp2/pct:7.325671,19.592329,15.032838,25.848196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557840%2F1873100401%2F0167.jp2/pct:7.369133,31.202226,14.989376,14.238300/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4492,14 +4599,7 @@ for fainting, lay the person flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-MISCELLANEOUS EXTRACTS. ? What to do in  
-Case or! Accident. — Professor Wilder,  
-of Cornell University (says Moore&#x27;s  
-Rural New j Yorker) gives the following  
-,short rules ifor action in case of  
-accident, which will! be found useful to  
-remember : — For dujit in the eyes,  
-avoid rubbing ; dash wateri in them ;  
+ateri in them ;  
 remove cinders, &amp;c, with the round point  
 of a lead pencil. Eemove water from the  
 ear by tepid water ; never ! put a hard  
@@ -4528,7 +4628,7 @@ give uoids — whito of egg is good in
 most cases ; in a cako of opium/  
 poisoning givo strong coffee; and ittSep  
 moving. If in water, lloat on the buck,  
-with the noso und mouth projecting. For
+with the noso und mouth projecting. Fo
 </td></tr></table>
 
 ---
@@ -4709,48 +4809,47 @@ bing; dash cold water in them
 
 ---
 
-## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1874-01-31/ed-1/seq-2)
+## From _The Ottawa free trader._
 
 #### 1874-01-31 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-  
-of acci lent, which will be found useful to re-  
-momb-  
-For .lust in the eyes, avoid rubhi.&#x27;ig; dash  
-watur in them; remove cinders, etc., with  
-the found point of a lead pencil.  
-Unwove wax ti otn the ear by tepid water;  
-uevej- put a hard instrument Into the ear.  
-If iau artery is cut, compress above the  
-woutul; if a vein is cut, compress bclov.  
-If cJiokcd, get on all fours and cough..  
-For slight burns, dip the part iu -cold  
-water; if the shin is destroyed, cover with  
+For dust in the eyes, avoid rubbing; dash  
+water in them; remove cinders, etc., with  
+the sound point of a lead pencil.  
+Remove wax from the ear by tepid water;  
+never put a hard instrument into the ear.  
+If an artery is cut, compress above the  
+wound; if a vein is cut, compress below.  
+If choked, get on all fours and cough.  
+For slight burns, dip the part in cold  
+water, if the skin is destroyed, cover with  
 varnish.  
 Smother a fire with carpets, etc.; water  
 will often spread burning oil and increase  
-the daii--r. He fore passing through smoke,  
-take a long breath, then stoop low; but !l  
-carbonic acid gas is suspected, wMk erect.  
+the danger. Before passing through smoke,  
+take a long breath, then stoop low; but if  
+carbonic acid gas is suspected, walk erect.  
 Suck poisoned wounds, unless your mouth  
-is sore; enlarge the wound, or, better, cut  
-out the part without delay; hold the wound  
-cd part as I.-jjg 11s can be borne to a hot coal  
+is sore; calarge the wound, or, better, cult  
+out the part witheut delay; hold the wound  
+ed part as long as can be borne to a hot coal  
 or end of a cigar.  
-In e iM- of poisoning, excite vomiting by  
-tickling tin throat, or by warm wa&#x27;i r and  
-mils;, ml.  
-For acid poi-ons, give alk..lie : for alka­  
-line poison-., give acids u bile of eg g is good  
-in mo; civs; in a case of opium poisoning,  
-give strong coifee, and keep moving
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_cataloging_ver01%2Fdata%2Fsn84038582%2F00212471525%2F1874013101%2F0396.jp2/pct:50.524883,72.335930,15.027216,14.696950/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+In case of polsoning, excite vomiting by  
+tickling the throat, or by warm water and  
+mustard.  
+For acid poisons, give alkalies; for alka­  
+line poisons, give acids--white of eggis good  
+in most cases; in a case of opium poisoning,  
+give strong coffee, and keep moving.  
+If in water, float on the back, with the  
+nose and mouth projecting.  
+For apoplexy, raise the head and body:  
+  
+for fainting, lay the person fal.
+</td></tr></table>
 
 ---
 
@@ -4812,8 +4911,7 @@ body ; for fainting, lay tho persou flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-IVsiHt Bitloin Cascof nil Aceiticut.  
+itloin Cascof nil Aceiticut.  
 Prof. Wilder, of Cornell University,  
 gives the following short rules for action  
 in case of accident, which it will bo found  
@@ -4910,8 +5008,6 @@ for fainting, lay the person fiat
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-short~rules for action in case of  
-accident will be found useful to  
 remember. For dust in the eyes, avoid  
 rubbing--dash water in them; remove  
 cinders, &amp;o., with the rmond point of a  
@@ -5007,9 +5103,6 @@ body; for fainting, lay the person flat
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-  
-The following short rules for ac­  
-tion, in case of accident, will be  
 found useful to remember. For  
 dust in the eyes avoid rubbing;  
 dash water in them ; remove cinders,  
@@ -5060,23 +5153,6 @@ apoplexy, raise the head and bod
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-f.Hwlng short rules for action, in case  
-of accident, will be found lueful to re­  
-mertbor: For du-it in the eyes avoid  
-rubbing ; dash water in thnn ; remove  
-cindtr, ete.. with the round point ot a  
-led pencil. Dtnme was fc-om tha ear  
-with tepid water ; never put a hard In­  
-strument in tlie ear. If any artery Is cnt  
-compress above the wound ; if a v.iin is  
-cnt, compress btrow.. rf choking, get om  
-all fours and cough. For slight burns,  
-dip the wound in cold water ; if the skin  
-is destroyed, cover with a paste of white  
-ulng and water. Smother a fie with  
-etrpet, e&#x27;e; water v. ill often rpnad  
-b&#x27;irning oil and increase the danger.  
-Before! I --e isnivr,- tana  
 long breath, then stoop tow j but, if car­  
 bonic acid gas Is suspected, walk erect.  
 Suck poisoned wo raid, unless jour  
@@ -5093,7 +5169,7 @@ cases ; in case of opium-poUoning give
 strong coffee and keep moving. If in  
 water float on the back, with nose an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn87076843%2F00280775745%2F1874062601%2F0916.jp2/pct:27.533675,41.578676,10.615779,16.160185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn87076843%2F00280775745%2F1874062601%2F0916.jp2/pct:27.533675,50.141643,10.583708,7.597219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5105,25 +5181,7 @@ water float on the back, with nose an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-What to I In Vstmv of Arc-ideMt.  
-  
-Prof. Wilder: of Cornea UbSersitr,  
-gavs iVtoore 9 iiurai rsew i orer, giy $ j  
-the following short rule for. action io  
-cases of accident, hieh.will bo found  
-useful to remember  
-For dust in the ves, avoid rubbing,  
-dash water into them; remove cinders,  
-etc., with the round point of a lead pencil.  
-Keniove water f i cm the ear uy tepiu  
-water ; never put a hard instrument into  
-the ear.  
-If any artery is cat, compress above  
-the wound ; if a vein is cut, compress  
-below.  
-If choked, get oi all fours and cough.  
+ked, get oi all fours and cough.  
 For slight burns, dip the part in cold  
 water; if the skit is destroyed, cover  
 witb varnish.  
@@ -5151,7 +5209,7 @@ nose and mouth projecting.
 For apoplexy, raise, the head and body ;  
 for fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016926%2F00295877480%2F1874090301%2F0450.jp2/pct:15.918938,4.672193,11.851852,20.368177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016926%2F00295877480%2F1874090301%2F0450.jp2/pct:16.156534,12.154161,11.516422,12.886209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5164,10 +5222,6 @@ for fainting, lay the person flat
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-may be others who will have larger amounts.  
-What To Do.?Professor Wilder, of Cor?  
-nell I&#x27;niversity, gives these short rules for ac?  
-tion in case of accident :  
 For dusi in the eyes, avoid rubbing, dash  
 water into them ; remove cinders, rtc with  
 the round point of a lead pencil. Remove in?  
@@ -5193,7 +5247,7 @@ case of opium poisoning, give strong coffee ami
 keep moving. It&#x27; in water. Iloat on the back,  
 with the nose and mouth projecting. Fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551281%2F1874110501%2F0250.jp2/pct:82.152231,75.055447,15.626519,14.938030/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551281%2F1874110501%2F0250.jp2/pct:82.152231,77.667971,15.626519,12.325506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5206,8 +5260,6 @@ with the nose and mouth projecting. Fo
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Presence of Mini&gt;.?Prof. Wilder, of  
-Cornell Hniversity, gives these short rules  
 for action in case of accident: Fur dust  
 in the eyes, avoid rubbing, dash water into  
 thorn; remove cinders, etc., with the round  
@@ -5241,7 +5293,7 @@ and mouth projectiag. For apoplexy, raise
 the head and body; for fainting, lay the  
 person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn86053067%2F00415620184%2F1874110501%2F0255.jp2/pct:56.415508,3.989296,26.734943,93.848808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn86053067%2F00415620184%2F1874110501%2F0255.jp2/pct:56.469154,3.989296,26.681297,93.848808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5254,9 +5306,6 @@ person flat
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Pkkskxck of Mind. Professer Wilder,  
-of Cornell University, gives these short  
-ruh-s for action in case of accident: &quot;Foi  
 dust in the eves, avoid rubbing, clash wa  
 ter into them; remove cinders, etc., will-  
 the round point of a lead pencil Rrmovi  
@@ -5285,52 +5334,55 @@ If in water, float on the back, with tht
 nose and mou&#x27;h projecting. For aponlexy,  
 raise the bead and liocty; for fainting, la
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_animals_ver01%2Fdata%2Fsn84027718%2F00271763815%2F1874110601%2F0197.jp2/pct:72.717979,32.164083,10.968307,15.674164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_animals_ver01%2Fdata%2Fsn84027718%2F00271763815%2F1874110601%2F0197.jp2/pct:72.717979,33.795595,10.968307,14.042652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1874-11-11/ed-1/seq-1)
+## From _Clearfield Republican._
 
 #### 1874-11-11 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
-dent: For dust in tho eyes, avoid  
-rubbing, dash water into them ; re­  
-move cinders, etc., with tho round  
-point of a lead pencil, licmovo in­  
+  
+PreSENCE OF MIND.--Professor Wil­  
+der, of Cornell University, gives these  
+short rules for action in case of acci­  
+dent: For dust in the eyes, avoid  
+rubbing, dash water into them; re­  
+move cinders, ete with the round  
+point of a lead pencil. Remove in­  
 sects from the ear by tepid water;  
-never put n hard instrument into the  
-ear. If an artery Is cut, compress  
-above tbo wound; if a vein is cut,  
-Leompross below. If choked, get upon  
-all lours and cough, l or light burns,  
+never put a hard instrument into the  
+ear. If an artery is cut, compress  
+above the wound; if a vein is cut,  
+rcompress below. If choked, get upon  
+alf fours and cough. For light burns,  
 dip the part in cold water; if the skin  
 is destroyed, cover with varnish.  
-Smother a lire with carpets, etc. ; wa­  
-ter will Olten spread oil, and increase  
-tbe danger. Before passing through  
-smoke, take a full breath, nnd then  
-stoop low, hut if carbon is suspected,  
-walk erect. Suck poison wounds, nn­  
-less ynnr mouth is sore. Knlargo the  
-wound, or, better, cut out the part  
+Smother a fire with carpets, etc,; wa­  
+ter will often spread oil, and increase  
+the danger. Before passing through  
+smoke, take a full breath, and then  
+stoop low, but if carbon is suspected,  
+walk erect. Suck poison wounds, un­  
+less your mouth is sore. Enlarge the  
+wound, or, better, eut out the part  
 without delay. Hold the wounded  
-part us long as can be borno to a hot  
-eonl or end of a Cigar. In case of  
+part as long as can be borne to a hot  
+coal or end of a cigar. In case of  
 poisoning, excite vomiting by tickling  
-tho throat, or by water and mustard.  
-For acid poisons, give acids ; in case  
-of opium poisoning, give strong coffee  
+the throat, or by water and mustard.  
+For acid poisons, give acids; in case  
+of oplum poisoning, give strong coffee  
 and keep moving. If in water, float  
-on the back, with tho nose and mout
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477862%2F1874111101%2F0687.jp2/pct:55.864849,76.013222,9.848339,12.906007/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+on the back, with the nose and mouth  
+projecting. For apoplexy, raise the  
+head and body; for fainting, lay the  
+person flat,
+</td></tr></table>
 
 ---
 
@@ -5430,7 +5482,6 @@ fla
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Prof. Wilder gives these short rules  
 for action in case of accident: For dust  
 in the eyes, avoid rubbing, dash water  
 into them; remove cinders, etc., with  
@@ -5462,9 +5513,51 @@ back, wiih the nose and mouth project­
 ing. For apoplexy, raise the head and  
 body; for fainting, ley the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768758%2F1874112501%2F0378.jp2/pct:64.507476,56.510937,14.111697,16.033448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768758%2F1874112501%2F0378.jp2/pct:64.507476,57.025995,14.111697,15.518391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The home journal._
+
+#### 1874-11-26 &middot; [Winchester, Tenn.](http://dbpedia.org/resource/Winchester%2C_Tennessee)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+for action in case of accident: For dust  
+in the eyes, avoid rubbing, dash water  
+into them; remove cinders, etc., with  
+the round point of a lead pencil. Re­  
+moveinsects from the ear by tepid water;  
+never put a hard instrument into the  
+ear. If an artery is cut, compress above  
+the wound; if a vein is cut, compress  
+below. If choked, get upon all fours,  
+and cough. For light burns, dip the  
+part in cold water; if the skin is de­  
+stroyed, cover with varnish. Smother  
+a fire with carpets, etc.; water will often  
+spread burning oil, and increase the  
+danger. Before passing through amoke  
+take a full breath, and then stoop low,  
+but if carbon s suspected, walk erect.  
+Suck poison wounds, unless your mouth  
+is sore. Enlarge the wound, or, better,  
+cut out the part without delay. Hold  
+the wounded part as long as can be  
+borne to a hot coal, or end of a cigar. In  
+case of poisoning, excite vomiting by  
+tickling the throat, or by water or mus­  
+tard. For acid poisons, give acids; in  
+case of opium poisoning, give stron­  
+coffee and keep moving. If in water,  
+lloat on the back, with the nose and  
+mouth projectirg. For apoplexy, raise  
+the head and body; for fainting, lay  
+the person flat,
+</td></tr></table>
 
 ---
 
@@ -5499,13 +5592,9 @@ borne to a hot coal, or end f a cigar. In
 case f poisoniBg, &#x27; excite vomiting by  
 tickling the throat, or by water ornui­  
 tard. For acid poison&amp;ygive acids ; in eade  
-of opium poisoning, give strong cmlVeand  
-keep moving. If in water,&#x27; float on the  
-back, with the nose and mouth projecting.  
-For apoplexy, raise the head and body ;  
-for fainting, lay the person flat.
+of opium poisoning, give strong cmlVean
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn86053488%2F00212470016%2F1874112601%2F0158.jp2/pct:82.822757,84.384138,10.972179,11.662183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn86053488%2F00212470016%2F1874112601%2F0158.jp2/pct:82.822757,84.384138,10.972179,10.036262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5518,6 +5607,10 @@ for fainting, lay the person flat.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+water the natural color will return in a  
+few hours. Prof. Gahha also found that  
+asters acquire a pleasing odor when sub­  
+mitted to the fumes of ammonia.  
 —Prof. Wilder gives these short rules  
 for action, in case of accident: For dust  
 in the eyes, avoid rubbing, dash wafCi  
@@ -5543,52 +5636,9 @@ wounded pari as long as can he borne to
 a hot coal, or end of a cigar. In case of  
 poisoning, excite vomiting by tickling  
 the throat, nr by water or mustard. For  
-acid poisons, give acids; in case of opium  
-poisoning, give strong coffee and kecj)  
-moving. It in water, float on the hack,  
-w itli the nose and mouth projecting. For  
-apoplexy, raise the head and body; for  
-fainting, lay the person flat
+acid 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271769805%2F1874112601%2F1564.jp2/pct:59.975862,43.878805,17.537905,17.668746/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Montgomery County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83016209/1874-11-27/ed-1/seq-1)
-
-#### 1874-11-27 &middot; [Rockville, Md.](http://dbpedia.org/resource/Rockville%2C_Maryland)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-1 given these short rules for action in case  
-of accident : For dust in tho eyes, avoid  
-nibbing, dash water into them ; remove  
-cinders, Ac., with the round point of a  
-load-pencil. Remove in-;eets from the  
-car by tepid water; never put a hard in­  
-strument into the ear. If an artery incut  
-cumpic . above the wound; if a vein is  
-&#x27;•nt compress below. If choked get upon  
-;II fours, and cough. For light ourns,  
-dip the part, in cold water; if the skin i  
-destroyed enver with varnish. Smother  
-a tire with carpets, &amp;&lt;*.; water will often  
-spread hurtling oil, ami increase the dan­  
-ger. Before (ro wing through smoke take  
-| a full breath, and then stoop low, hut if  
-carbon i*: suspected them walk erect. Suck  
-poison wounds, unless your mouth insure.  
-Enlarge tbo wounds, or, better, cut out  
-| the part without d day. Hold the wound-  
-I od part us long as can be borne to u hot  
-! coal, or end of a cigar, fo ease of pois­  
-oning excite vomiting by tickling the  
-| throa
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fireweed_ver01%2Fdata%2Fsn83016209%2F00383342399%2F1874112701%2F0806.jp2/pct:79.009872,51.914532,11.841462,12.905220/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_jane_ver01%2Fdata%2Fsn86086770%2F00271769805%2F1874112601%2F1564.jp2/pct:59.975862,41.491775,17.530361,17.172433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5642,54 +5692,6 @@ for fainting, lay the person flat.
 
 ---
 
-## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1874-11-27/ed-1/seq-1)
-
-#### 1874-11-27 &middot; [Bolivar, Hardeman County, Tenn.](http://dbpedia.org/resource/Bolivar%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Prof. Wilder gives these short rules  
-for action in case of accident : For dnst  
-in the eyes, avoid rubbing, dash water  
-into them; remove cinders, etc., with  
-the round point of a lead pencil. Re­  
-raoveinsects from the ear by tepid water;  
-never put a hard instrument into the  
-ear. U an artery is cut, compress above  
-the wound ; if a vein ia cut, oompref s  
-beiow. li ennrea, get upon all fours.  
-and oongh. For light burns, dip the  
-part in cold water ; if the akin is de­  
-stroyed, cover with Tarnish. Smother  
-a fire with carpets, eta; water will often  
-  
-spread burning oil. and increase the  
-  
-danger. Before passing through smoke,  
-take a full breath, and then stoop low,  
-but if carbon :s suspected, wait erect.  
-Suck poison wounds, unless your mouth  
-is sore. .Enlarge, the wound, or, better,  
-cut out the part without delay. Hold  
-the wounded part as long as can be  
-borne to a hot coal, or end of a cigar. In  
-case of poisoning, exGite vomiting by  
-tickling the throat, or by water or mus­  
-tard. For acid poisons, give acids ; in  
-case of opium poisoning, give strong  
-coffee and keep moving. If in water,  
-float on the back, with the nose and  
-mouth projecticg. For apoplexy, raise  
-the head and body; for fainting, lay  
-the person flat
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470120%2F1874112701%2F0193.jp2/pct:60.654429,13.901099,22.120245,81.241758/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## Presence of Mind
 
 #### From _Daily evening bulletin._
@@ -5697,6 +5699,49 @@ the person flat
 #### 1874-11-28 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
+
+---
+
+## From _The People's vindicator._
+
+#### 1874-11-28 &middot; [Natchitoches, La.](http://dbpedia.org/resource/Natchitoches%2C_Louisiana)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+wider iseor enTrofesor  
+case of ascideut. For dust in sha  
+ros, avold rubbing, dach water inte  
+em; remove cinders, etce with the  
+round point of a lead penell. ke­  
+move inseets irom the ear by tapid  
+water; never put a hard instrum  
+into the ear. If an artery is eut.  
+compress above the wound; if a velnl  
+is cut, compress below. If choked,  
+get upon all fours and cougk. For  
+light burns, dip the part in cold wa-  
+ter; if the skin is destroyed, cover  
+the part with varnish. Smother a  
+fire with carpets, etc.; water will of­  
+ten spread burning oil and increase  
+Bofore pasalng through amdke  
+fall bresth and steop low, bat it  
+in is suspected walk erect. Suck  
+polson wounds, unless your mouth is  
+sore. Enlarge the wound, or, better  
+eut out the part without delay. Hold  
+the wounded part as long a can  
+ne to a hot coal or end of a ciga  
+In case of polsoning, excite vomiting  
+by tiekling the throat, or by hot wa­  
+ey neid astdese of aidpoisone,  
+ve acide; in case of opium poison  
+ing, give strung coffee and keep mor  
+ing. If in water, float on the ba  
+with mouth and nose projecting. For  
+apopleng, maise the head and body
+</td></tr></table>
 
 ---
 
@@ -5842,7 +5887,6 @@ the person flat
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-gives these short rules for action in  
 case of accident: For dust in the eyes,  
 avoid rubbing, d.ish waier into them;  
 remove cinders, etc., with the rennd  
@@ -5872,7 +5916,7 @@ poisoning, give strong coffee and keep
 moving. If in water, float on the back,  
 with the uese and mouth projecting. Eo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_casper_ver01%2Fdata%2Fsn84026810%2F00393349190%2F1874120501%2F0379.jp2/pct:3.370566,66.476164,14.721732,17.539030/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_casper_ver01%2Fdata%2Fsn84026810%2F00393349190%2F1874120501%2F0379.jp2/pct:3.370566,67.089490,14.721732,16.925704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5885,7 +5929,6 @@ with the uese and mouth projecting. Eo
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Profossor Wilder gives these short  
 rules for action in case of accident: For  
 dust in the eyes, avoid rubbing, dash  
 water into them; remove cinders, etc.,  
@@ -5915,7 +5958,7 @@ case of opiam poisoning, give strong
 coffee and kepp moving. If in water,  
 float ou the back, with the nose an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779428%2F1874121001%2F1156.jp2/pct:42.945801,29.208779,12.784444,14.005198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779428%2F1874121001%2F1156.jp2/pct:42.945801,29.685244,12.784444,13.528732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6010,47 +6053,6 @@ body; for fainting, lay the person flat
 
 ---
 
-## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1874-12-18/ed-1/seq-1)
-
-#### 1874-12-18 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-ter cives these short rules for action in  
-case of accident: For dust in the eyes,  
-avoid rubbing, dash water into them  
-remove cinders, etc., with the round  
-point of a lead pencil. Remove insects  
-from the ear with tepid water ; never  
-nut a hard instrument into tbe ear. If  
-an artery is cut, compress above lb  
-wound ; if a vein is cut, compress lelow,  
-If choked, get upon all fours and cough  
-For light burns dip the part in cold wa  
-ter; If the skin is destroyed, cover with  
-varnish. Smother a fire with carpets,  
-etc.; water will often spread burning oil  
-and increase the danger. Before passing  
-through smoke, take a full breath, an  
-then stoop low, but if carbon if suspect  
-ed walk erect. Suck poison wounds,  
-unless your mouth is sore. Enlarge tbe  
-wound, or better, cut out the part with­  
-out delay. Hold tbe wounded part as  
-long as can be borne to a hot coal, or  
-end of a cigar. In case of poisoning,  
-excite vomiting by tickling the throat or  
-by water or mustard. For acid poisons  
-give acids ; in case off opium poisoniDg  
-give strong c.ffee andkeep moving. I
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628481%2F1874121801%2F0632.jp2/pct:40.876801,73.114264,13.030242,17.550411/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Van Buren press._](https://chroniclingamerica.loc.gov/lccn/sn84022991/1874-12-22/ed-1/seq-1)
 
 #### 1874-12-22 &middot; [Van Buren, Ark.](http://dbpedia.org/resource/Van_Buren%2C_Arkansas)
@@ -6103,6 +6105,45 @@ projecting For appoplexy, raise th
 
 ---
 
+## From _The Dallas daily herald._
+
+#### 1874-12-24 &middot; [Dallas, Tex.](http://dbpedia.org/resource/Dallas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+For dust in the eyes, avoid rubbing,  
+dash water into them; remove cin­  
+ders, etc., with the round of a lead  
+pencil. Remove insects froin the ear  
+by tepid water; never put a hard in­  
+strument into the ear. If an artery is  
+cut, compress above the wound; if a  
+vein is cut, compress below. If choked,  
+get upon all fours and cough. For  
+light burns, dip the part in coid water;  
+if the skin is destroyed, cover withvar­  
+nish. Smother a fire with carpefs, etc.;  
+water will often spread burning oll,  
+and increase the danger. Before pass­  
+ing through smoke, take a full breath,  
+nd then stoop low, but if carbon is  
+  
+suspected, then walk orcet. Suck  
+poisun wounds, unless your nionth I  
+  
+sore. Enlarge the wound, or, batter,  
+ut ouit the part without delay. Hold  
+the wounded part as long as can be  
+horne to a hot coal, or end of a eigar,  
+In case of polsoning, axcite vomiting  
+by tickling the throal, or by water or  
+mmustard. F&#x27;or acld polsons, kive neids;  
+a case of oplum polst hing, give stron
+</td></tr></table>
+
+---
+
 ## [From _The Somerset press._](https://chroniclingamerica.loc.gov/lccn/sn85038088/1874-12-25/ed-1/seq-1)
 
 #### 1874-12-25 &middot; [Somerset, Ohio](http://dbpedia.org/resource/Somerset%2C_Ohio)
@@ -6110,6 +6151,12 @@ projecting For appoplexy, raise th
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+isfied with yourself, that it will be worse  
+for you than if you had missed one some  
+times and repented of it. God loves  
+your fault mixed with penitence, more  
+than your virtue seasoned with pride.&quot;  
+Presence of Mind.  
 Professor Wilder gives these short  
 rules for action in case of accident: For  
 dust in the eyes, avoid rubbing, dash  
@@ -6142,9 +6189,51 @@ with the nose and mouth projecting
 For apoplexy, raise the head and body  
 for fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn85038088%2F00296028903%2F1874122501%2F0263.jp2/pct:74.272658,51.103854,9.702970,16.054866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn85038088%2F00296028903%2F1874122501%2F0263.jp2/pct:74.242193,47.197910,9.733435,19.960810/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The Dallas weekly herald._
+
+#### 1874-12-26 &middot; [Dallas, Tex.](http://dbpedia.org/resource/Dallas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+For dust in theeyes, avoiderubbinig,  
+dasn water into them; remove cin­  
+ders, etc. with the round of a lead  
+pencil. Remove insects from the ear  
+by tepid water; never put a hard in­  
+strument into the ear.If an artery is  
+cut, compress above the wound; if a  
+vein is cut, compress below. If choked,  
+get upon all fours and cough.For  
+etsunstunnes opdea  
+if the sleln is destroyed, cover withvar­  
+nish. Smother a fire with carpets, ete.  
+water will often spread burning oll,  
+and increase the danger. Before pass­  
+ing through smoke, take a full breath,  
+and then stoop low, but if carbon is  
+suspected, then walk erect. Suck  
+poison wounds, unless your mouth is  
+sore. Enlarge the wound, or, better,  
+cut out the part without delay. Hold  
+the wounded part as long as can be  
+borne to a hot coul, or engdsoion cigar.  
+In case of poisoning, excite vomiting  
+by tickling the throat, or by water or  
+mustard. For acid poisons, give acids;  
+in case of opium poisoning, give strong  
+coffee, and keep moving. If in water,  
+loat on the back, with the nose and  
+mouth projecting. For apoplexy, raise  
+the head and body, for fainting, fay the  
+person flatae
+</td></tr></table>
 
 ---
 
@@ -6191,7 +6280,6 @@ flat.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Prof. Wilder gives these short rules  
 for action in case of accident : For dnst  
 in the eye, avoid rubbing, dash water  
 into them; remove cinders, eta, with  
@@ -6223,7 +6311,7 @@ with the nose and mouth projecting.
 For appoplexy, raise the head and body;  
 for fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_dole_ver01%2Fdata%2Fsn83040340%2F00237283132%2F1875010901%2F0007.jp2/pct:56.010979,13.755796,11.546203,18.434734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_dole_ver01%2Fdata%2Fsn83040340%2F00237283132%2F1875010901%2F0007.jp2/pct:56.010979,14.359983,11.546203,17.830547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6246,10 +6334,6 @@ for fainting, lay the person flat
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-  
-Presence of Mind in Accidents,  
-Professor Wilder gives these short  
-rules for action in case of accident:  
 For dust in the eyes, avoid rubbing,  
 and dash water into them; remove  
 cinders, etc., with the round end of a  
@@ -6282,7 +6366,7 @@ with the nose and mouth projecting.
 For apoplexy, raise the head and body;  
 for fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768758%2F1875011301%2F0431.jp2/pct:35.044499,71.341172,14.698596,18.937004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768758%2F1875011301%2F0431.jp2/pct:35.044499,73.297645,14.675658,16.980531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6330,7 +6414,6 @@ the head and body, For fainting, lay the person flat.”
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-der gives these short rules for action  
 in case of accident: For dust ia the  
 eyes, avoid rubbing, dash watei in  
 to them; remove cinders, etc, with  
@@ -6361,7 +6444,7 @@ mustard. For acid poisons, give
 acids; in case of opium poisoning,  
 give strong coffee and keep moving
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn88078580%2F00280775198%2F1875030501%2F0271.jp2/pct:81.164328,76.109549,10.885341,14.488324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn88078580%2F00280775198%2F1875030501%2F0271.jp2/pct:81.164328,76.598606,10.885341,13.999266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6424,9 +6507,6 @@ for fainting, lay the person flat
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-I&#x27;RESENTK OF MIND.  
-| Professor Wilder gives these short  
-i rules for action in case of accident;  
 i For dust in tho eyes avoid rubbing,  
 j dash water into them; remove cinders,  
 i etc., with the round of a lead pencil.  
@@ -6457,7 +6537,7 @@ I! give strong coliee and keep moving.
 ’ For apoplexy, raise the h adml body.  
 &#x27; For fainting, lay tU person dat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F0041562346A%2F1875040201%2F0160.jp2/pct:73.761553,71.270845,14.136578,23.529412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_alvarez_ver01%2Fdata%2Fsn84026688%2F0041562346A%2F1875040201%2F0160.jp2/pct:73.761553,73.785963,14.136578,21.014294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6480,9 +6560,6 @@ I! give strong coliee and keep moving.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-ProftaSOr Wilder gives these short  
-rules for action in case of accident: For  
-i -..L :j l l ; , .  
 uusi in ine eyes, avoid ruDDing; aasn  
 water into them; remove cinders, etc ,  
 with the round point of a lead pencil.  
@@ -6514,58 +6591,7 @@ and mouth projecting. For apoplexy,
 raise the head and body; for fainting lay &quot;  
 the person flat. ; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033673%2F0028077943A%2F1875051201%2F0446.jp2/pct:77.060343,52.607809,14.886124,16.564685/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1875-05-20/ed-1/seq-1)
-
-#### 1875-05-20 &middot; [Centre Hall, Pa.](http://dbpedia.org/resource/Centre_Hall%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-them to return to Paris, to makehis  
-home and fortune their*.  
-  
-Presence of Xiad*  
-Professor Wilder gives these short  
-rales for action in case of son dec t :  
-For dust in the eye, avoid robbing;  
-dash water into them ; remove cin­  
-ders, etc.. with the round point of a  
-lead pencil.  
-Remove insects from the ear by tepid  
-water; never put a hard instrument into  
-the ear.  
-If an artery is cut. compress above  
-the wound; if • vein is cut, compress  
-below.  
-  
-If choked, get on all fours, and  
-cough.  
-For light burns, dip the part in cold  
-water; if the skin is destroyed, cow  
-with varnish.  
-Smother s fire with carpets, etc.; water  
-will often spread burning oil, and in­  
-crease the danger.  
-Before passing through smoke, take a  
-full breath, and then stop low; but if  
-carbon is suspected, walk ewei.  
-Suck poison wounds, unless your  
-mouth i sore. Enlarge the wound, or,  
-t *tttT, cut out the part affected, or hold  
-the wound as long as can be borne to a  
-hot coal, or end of a cigar.  
-In cane of poisoning, excite vomiting  
-by tickling the throat, or by water or  
-uiustard.  
-For acid poisons, give strong coffe
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83032058%2F00296028733%2F1875052001%2F0227.jp2/pct:76.495726,57.988186,9.763649,15.347895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033673%2F0028077943A%2F1875051201%2F0446.jp2/pct:77.060343,53.846154,14.886124,15.326340/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6578,8 +6604,6 @@ For acid poisons, give strong coffe
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Presence of .Mind.—Prof. Wilder gives  
-these short rules for action in case of acci­  
 dent: For dust in the eyes, avoid rubbing;  
 dash water into them; remove cinders,  
 etc., with the round point of a lead pencil.  
@@ -6610,9 +6634,52 @@ with the nose and mouth projecting. For
 apoplexy, raise the head and body; for  
 fainting lay tlie person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625509%2F1875052801%2F0295.jp2/pct:74.278260,45.770891,10.889184,14.129881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625509%2F1875052801%2F0295.jp2/pct:74.278260,46.688415,10.872076,13.212356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _Bradford opinion._
+
+#### 1875-06-05 &middot; [Bradford, Vt.](http://dbpedia.org/resource/Bradford%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+For dust in the eye, avoid rub-  
+ing; dash water into them; re  
+move cinders, etc., with the round  
+point of a led pencil.  
+Remove insects from the ear by  
+tepid water; never put a hard in  
+strument into the ear.  
+If an artery is cut, compress  
+pove the wound; if a vein is cut,  
+compress below.  
+If chocked, get on all fours, and  
+cough.  
+For light burns, dip the part in  
+cold water; if the skin is destroyed,  
+cover with varnish.  
+Smother a fire with carpets, etc.  
+water will often spread burning oil,  
+and increase the danger.  
+Before passing through smoke,  
+take a full breath, and then stoop  
+low; but if carbon is suspected,  
+walk erect.  
+Suck poison wounds, unless your  
+mouth is sore. Enlarge or, better  
+cut out the part affected, or hold  
+the wound as long as can be borne  
+to a hot coal, or end of a cigar.  
+In case of poisoning, excite vomi­  
+ting by tickling the throat, or by  
+water and mustard.  
+For acid poisons, give strong cof­  
+fee and keep moving
+</td></tr></table>
 
 ---
 
@@ -6623,11 +6690,6 @@ fainting lay tlie person flat
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-rates will go up and the war will  
-end.  
-  
-Presences of Mind In Accidents.  
-Prof. Wilder gives these short rules  
 for action in case of accident: For  
 dust in the eyes avoid rubbing, and  
 dash water into them; remove cinders,  
@@ -6660,9 +6722,51 @@ and keep moving. If you fall into the
 water, float on the back, with the  
 nose and month projecting. For apo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn85033133%2F00514159385%2F1875062401%2F0300.jp2/pct:70.772947,49.898545,10.735373,18.744752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn85033133%2F00514159385%2F1875062401%2F0300.jp2/pct:70.772947,53.071648,10.735373,15.571648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _Walla Walla statesman._
+
+#### 1875-07-10 &middot; [Walla Walla, Wash. Terr.](http://dbpedia.org/resource/Walla_Walla%2C_Washington)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+   
+PRESENCE OF MINd.- Prof. Wilder, of  
+Cornell University, gives these short rules  
+for action in case of accident: For dust in  
+the tyes, avoid rubbing dash water int  
+them; remove cinders, etc., with the round  
+point of a lead pencil. Remove insects from  
+ the ear by tepid water; never put a hard in­  
+strument into the car. If any artery is on,  
+ compress above the wound; if a vein is cut,  
+compress below. If choked, get upon all  
+fours and cough. For light burns, dip the  
+part in cold water; if the skin is destroyed,  
+cover with varnish. Smot her a fire with ca­  
+pets, ete.; water will often spread burning  
+oil, and inerease danger. Before passing  
+through smoke ake a full breath, and thet  
+stoop low, but if earbon is suspected, wall  
+erset. Suck poison wounds unless you  
+ mouth is sore. Enlarge the wound, or, bet  
+  
+ter, cut out the part without delay. Hold  
+the wounded part as long as can be borne to  
+a lbt coal or end of a cigar. In case of pois  
+oning, excite vomiting by tickling the throat,  
+or by water and mustard. For acil poisons,  
+give acids; white of egg is good in most  
+cases; in case of opium poisoning, give strong  
+coffee and kep moving. If in water, float  
+on the back, with the nose and month pros  
+jecting. For apoplexy, raise the head an
+</td></tr></table>
 
 ---
 
@@ -6805,42 +6909,41 @@ varnish
 
 ---
 
-## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1875-09-22/ed-1/seq-1)
+## From _Clearfield Republican._
 
 #### 1875-09-22 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Professor Wildor gives these short rules  
-for action in case of accident : For dust  
-in tho .yes, avoid nibbing, and&#x27; dash  
-wator into thorn ; remove cinders, Ac,  
-with th. round end of a lead pencil.  
-iiomove insects irom tn. ear by tepid  
-wator; novcr put a bard instrument  
-into th. ear. If an artery is cut, com­  
+with the round end of a lead pencil.  
+Remove insects from the ear by tepid  
+water; never put a hard instrument  
+into the ear. If an artery is cut, com­  
 press below. If choked, get upon all  
-fours and cough. For light bums, dip  
+fours and cough. For light burns, dip  
 the part in cold water. Smother the  
-fir. with carpets, Ac; water will often  
-spread burning oil, and Inoreaso tho  
-dnnger. Before passing through smoko  
+fire with carpets, &amp;e.; water will often  
+spread burning oil, and increase the  
+danger. Before passing through smoke  
 take a full breath, and then stoop low,  
-but if carbon i. suspected, walk erect.  
+but if carbon is suspected, walk erect.  
 Suck poisoned wounds unless your  
-mouth is sore. Enlarg. th. wound,  
-or, better, cut out tha part without  
-delay. It old the wonnded part as long  
-aa can be born, to a hot ooal or ond of  
-a cigar. In case of poisoning, axcite  
-vomiting by tickling th. throat or by  
-hot mustard. - For acid poisons, glv.  
-acids ; in csm of opium poisoning, giv
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477862%2F1875092201%2F0859.jp2/pct:33.505359,83.134632,10.063517,11.224193/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+mouth is sore. Enlarge the wound,  
+or, better, eut out the part without  
+delay. Hold the wounded part as long  
+as can be borne to a hot coal or end of  
+a eigar. In case of poisoning, excite  
+vomiting by tickling the throat or by  
+hot mustard. For acid poisons, give  
+acids; in case of opium poisoning, give  
+strong coffee and keep moving. If  
+you fall into water, float on the back,  
+th the nose and mouth projecting.  
+For  
+apoplexy, raise the head and body;  
+fainting, lay the person flat
+</td></tr></table>
 
 ---
 
@@ -6881,82 +6984,6 @@ wii ii varniMi
 
 ---
 
-## What to Do in Case of Accident
-
-#### From _The Galveston daily news._
-
-#### 1875-11-21 &middot; [Houston [Tex.]](http://dbpedia.org/resource/Houston)
-
-[This text is not available under an open license.]
-
----
-
-## [From _The Weekly Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015484/1875-11-25/ed-1/seq-4)
-
-#### 1875-11-25 &middot; [Troy, Kan.](http://dbpedia.org/resource/Troy%2C_Kansas)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Vhat to do i.v Case of Accident. Prof.  
-Wilder, of Cornell University, gives these short  
-rales for action in case of accident:  
-For dust in the eyes, avoid robbing; dash cold  
-water iu them: remove cinders, etc, with tbe  
-round point of a lead pencil.  
-Remove insects from tbe ear by tepid water.  
-Never put a bard instrument into tbe ear.  
-If an artery iscnt, compress it above the wonnd;  
-if a vein is cut, compress it below.  
-If choked, go npon all fours and congh.  
-lor slight burns, dip tbe part in cold water; if  
-the skiu is destroyed, cover with varnish.  
-For apoplexy, raise tbe head and body; for  
-fainting, lay tbe person flat.  
-Citocp. Cronp can be cured in one minute,  
-aud the remedy is simply alnm and sugar. The  
-way to accomplish the deed is to take a knife or  
-grater and shave off in small particles about 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015484%2F00294555651%2F1875112501%2F0513.jp2/pct:30.335226,82.213494,12.566404,8.248001/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1875-11-25/ed-1/seq-1)
-
-#### 1875-11-25 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-What to do in Case of an Acci­  
-dent.Prof. Wilder, of Cornell Univer­  
-sity, gives these thort rules for ac­  
-tion in case of accident:  
-For dust ia the eyes, avoid rub­  
-bing; dash cold water in them; re­  
-move cinders, etc., with the round  
-point of a lead pencil.  
-Remove insects Irora the ear by­  
-tepid water. Never put a hard in­  
-strument into the ear.  
-If an artery is cut, compress it  
-below.  
-If choked, go upon all fours and  
-cough.  
-For slight burn-, dip the part in  
-cold water; if the kin is destroyed,  
-cover with varuih.  
-For aioplexy, raise the head an
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033964%2F00212470181%2F1875112501%2F0617.jp2/pct:74.223010,83.204193,9.637405,11.360529/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Albion, A Journal of News, Politics and Literature (1822-1876)_](https://archive.org/details/sim_albion-a-journal-of-news-politics-and-literature_1875-11-27_53_48/page/n6/mode/1up?view=theater)
 
 #### 1875-11-27 &middot; [New York](http://dbpedia.org/resource/New_York_City)
@@ -6964,7 +6991,6 @@ For aioplexy, raise the head an
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Prof. Wilder gives these short rules for  
 action in case of accident: For dust in the  
 eyes, avoid rubbing ; dash water into them;  
 remove cinders, ete., with the round point  
@@ -6995,41 +7021,7 @@ mouth projecting. For apoplexy, raise the
 head and body; for fainting lay the person  
 flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1875-11-27_53_48&#0036;6/pct:49.835886,33.729569,19.064551,23.904160/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Knoxville Whig and chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85042534/1875-12-01/ed-1/seq-8)
-
-#### 1875-12-01 &middot; [Knoxville, Tenn.](http://dbpedia.org/resource/Knoxville%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-What to do ia Casi of an Accident  
-Prof. Wilder, of Cornell University,  
-gives these short rules for action iu  
-case of accideut :  
-For dust in the eyes, avoid rubbing ;  
-dash cold water In them ; remove cin­  
-ders, ete., with the round point of  
-lead pencil.  
-Remove Insects from the ear by tepid  
-water. Never put a hard instrument  
-into the ear. ,  
-If an artery la cut, compress it above  
-the wouud ; If a vein Is cut, compress  
-it below.  
-If choked, go upon all fours and  
-cough.  
-For slight burns, dip the part in  
-cold water; if the skin Is destroyed,  
-cover with varnish.  
-For apoplexy, raise the head an
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_furry_ver01%2Fdata%2Fsn85042534%2F00200293575%2F1875120101%2F1216.jp2/pct:35.048587,13.393552,13.847173,10.309921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1875-11-27_53_48&#0036;6/pct:49.835886,34.583952,19.064551,23.049777/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7119,9 +7111,6 @@ fee and keep moving. It you fall int
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Presence of Mind.—Professor Wilder,  
-of Cornell University, gives the following  
-short rules for action in case of accident:  
 Por dust in the eyes, avoid rubbing, dash  
 water into them; remove cinders, &amp;e., with  
 the round point of a lead pencil; remove  
@@ -7150,7 +7139,7 @@ back with the mouth and nose projecting.
 For apoplexy, raise the head and body;  
 for fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_klepper_ver02%2Fdata%2Fsn84024653%2F00393349529%2F1876012801%2F0198.jp2/pct:73.785935,77.541787,11.194575,15.436094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_klepper_ver02%2Fdata%2Fsn84024653%2F00393349529%2F1876012801%2F0198.jp2/pct:73.785935,79.112731,11.194575,13.865150/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7210,418 +7199,6 @@ For apoplexy, raise the head an
 
 ---
 
-## What to Do in Case of Accidents
-
-#### From _Milwaukee daily sentinel._
-
-#### 1876-02-26 &middot; [Milwaukee, Wis.](http://dbpedia.org/resource/Milwaukee)
-
-[This text is not available under an open license.]
-
----
-
-## [From _New York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85026214/1876-03-05/ed-1/seq-6)
-
-#### 1876-03-05 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-For dust in the eyes, avoid rubbing ; dash cold,  
-water in them ; remove cinders, etc, with the round,  
-point of a lead-pencil.  
-Remove insects from the ear by terpid water j  
-never put a hard instrument into the ear.  
-If an artery is cut, compress it above tne wound ;;  
-if a vqin is cut, compress it below.  
-If choked, go upon all fours and cough.  
-For slight burns, dip the part in cold water ; i3&gt;  
-the skin is distroyed, cover with varnish
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_eliot_ver01%2Fdata%2Fsn85026214%2Fprint00211110235%2F1876030501%2F0006.jp2/pct:82.350529,82.156194,12.098979,3.238475/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Weekly Oskaloosa herald._](https://chroniclingamerica.loc.gov/lccn/sn84027329/1876-03-09/ed-1/seq-1)
-
-#### 1876-03-09 &middot; [Oskaloosa, Iowa](http://dbpedia.org/resource/Oskaloosa%2C_Iowa)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-For dust in the eyes, avoid rubbing;  
-dash cold water in them ; remove cinders,  
-etc., with the round point of a lead peucii.  
-Remove insects from the ear with tepid  
-water; never put a hard instrument into  
-the ear.  
-  
-If choked, go upon all fours and cough.  
-For slight burns, dip the part in cold  
-water; if the skin is destroyed, cover with  
-varnish.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_celebi_ver01%2Fdata%2Fsn84027329%2F00279528888%2F1876030901%2F0177.jp2/pct:75.827882,63.863661,9.222540,4.303168/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Milan exchange._](https://chroniclingamerica.loc.gov/lccn/sn86053488/1876-03-09/ed-1/seq-1)
-
-#### 1876-03-09 &middot; [Milan, Gibson County, Tenn.](http://dbpedia.org/resource/Milan%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Prcf. &quot;Wilder, of Cornell University,  
-rives these short rules for action in case  
-of accident :  
-For dust in the eyes avoid rubbing;  
-dash cold water in them; remove cin­  
-ders, etc., with the round point of a lead  
-pencil.  
-Remove insects from the ear by te­  
-pid water; never put a hard instrument  
-into the ear.  
-If an artery is cut compress it above  
-the wound ; if a vein is cut, compress  
-it kelow.  
-If choked, go upon all-fours and  
-cough.  
-For slight burns, dip the part in cold  
-water ; if the skin is destroyed cover  
-with varnish.  
-For apoplexy, raise the head an
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn86053488%2F00212470016%2F1876030901%2F0418.jp2/pct:71.293863,85.403655,10.743546,8.558871/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Oneida Circular (1871-1876)_](https://archive.org/details/sim_oneida-circular_1876-03-09_13_10/page/n6/mode/1up?view=theater)
-
-#### 1876-03-09 &middot; [Brooklyn](http://dbpedia.org/resource/Brooklyn)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-OvuicK PRESCRIPTIONS.—Professor Wilder. of  
-  
-l| University, gives these short rules for ac  
-  
-Cornell  
-  
-tion in case of accident  
-  
-rubbing; dash cold  
-  
-For dust in the eyes, avoid g;  
-water in them; remove cinders, etc., with the round  
-point of a lead pencil.  
-  
-Remove insects from the ear by tepid water;  
-never put a hard instrument into the ear.  
-  
-If an artery is cut compress it above the wound ;  
-  
-| if a vein is cut, compress it below.  
-  
-| If choked go upon all fours and cough,  
-  
-  
-  
-80  
-  
-For slight burns dip the part in cold water; if  
-the skin is destroyed, cover with varnish.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_oneida-circular_1876-03-09_13_10&#0036;6/pct:59.061135,79.100318,26.282751,10.987261/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1876-03-11_8_247/page/n11/mode/1up?view=theater)
-
-#### 1876-03-11 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-Professor Wilder, of Cornell University,  
-gives these short rules for action in case of  
-accident :  
-  
-For dust in the eyes avoid rubbing; dash  
-cold water in them; remove cinders, etc.,  
-with the round point of a lead pencil  
-  
-Remove insects from the ear by tepid  
-water; never put a hard instrument in the  
-ear.  
-  
-If an artery is cut compress it above the  
-wound ; if a vein is cut, compress it below.  
-If choked go upon all fours and cough.  
-  
-For slight burns dip the part in cold  
-water; if the skin is destroyed, cover with  
-varnish.  
-  
-For raise the head and body,  
-for fainting lay the person flat
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_school-journal_1876-03-11_8_247&#0036;11/pct:8.350785,59.512103,19.528796,14.844932/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The anti-monopolist._](https://chroniclingamerica.loc.gov/lccn/sn85025587/1876-03-23/ed-1/seq-6)
-
-#### 1876-03-23 &middot; [Saint Paul, Minn.](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Professor Wilder, of Cornell Universi­  
-ty, gives these short rules of action in  
-case ol accident:  
-For dust in the eyes, avoid rubbing;  
-dash cold water in them; remove cin­  
-ders, etc., with the round point of a lead  
-pencil.  
-Remove insects Irom the ear by tepid  
-water; never put a hard instrument iuto  
-the ear.  
-If an artery is cut compress it above  
-the wound; it a vein is cut. compress it  
-below.  
-If choked go upon all fours and cough.  
-For slight burns dip the part in cold  
-water; if the skin is destroyed, cover  
-with varnish
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_ballet_ver01%2Fdata%2Fsn85025587%2F00383346770%2F1876032301%2F0116.jp2/pct:33.463690,50.340806,13.263810,9.058060/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1876-03-23/ed-1/seq-4)
-
-#### 1876-03-23 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-What to Do in Case of Acci­  
-dents.—Professor Wilder, ot Cornell  
-University, gives these short rules for  
-action in case of accident :  
-For dust in the eyes, avoid rub  
-bing ; dash cold water in them ; re­  
-move cinders, etc , with the round  
-point of a led pencil.  
-Remove insects from the ear by  
-tepid water. Never put a hard in­  
-strument into the ear.  
-If an artery is cut, compress it  
-above the wound ; if a vein is cut,  
-compress it below.  
-If choked, go upon all fours and  
-cough.  
-For slight burns, dip the part in  
-cold water ; it the skin is destroyed,  
-cover with varnish.  
-For apoplexy, raise the head an
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn85033133%2F00514159385%2F1876032301%2F0459.jp2/pct:39.303811,67.009225,10.535360,9.710351/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Osceola times._](https://chroniclingamerica.loc.gov/lccn/sn84022982/1876-03-25/ed-1/seq-1)
-
-#### 1876-03-25 &middot; [Osceola, Ark.](http://dbpedia.org/resource/Osceola%2C_Arkansas)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Worth Knowing.—Prof. Wilder, of  
-Cornell university, gives these short rules  
-for action in ease ot accident: For dust  
-in the eyes avoid rubbing; dash cold  
-water in them ; remove cinders, etc., with  
-the round point of a lead pencil. Re­  
-move insects from the ear by tepid water ;  
-never put a haril instrument into the  
-oar. If any artery is cut compress it  
-above the wound ; if a vein is cut, com­  
-press it lielow. If choked go upon all  
-fours and cough. For slight burns dip  
-the part in cold water; if the akin is de­  
-stroyed, cover with varnish. For apo
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_galactic_ver01%2Fdata%2Fsn84022982%2F00513688647%2F1876032501%2F0239.jp2/pct:69.079613,80.194091,12.151423,7.018390/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Martinsburg independent._](https://chroniclingamerica.loc.gov/lccn/sn84038206/1876-03-25/ed-1/seq-6)
-
-#### 1876-03-25 &middot; [Martinsburg, W. Va.](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Prof. Wilder, of Cornell Univer­  
-sity, gives these short rules for ac­  
-tion in the case of accident:  
-For dust in the eyes, avoid rub­  
-bing ; dash cold water in them ;  
-remove cinders, etc., with the  
-round point of a lead-pencil.  
-Remove insects from the ear by  
-tepid water; never put a hard in­  
-strument into the ear.  
-If an artery is cut, compress it  
-above the wound ; if a vain is cut  
-compress it below.  
-If choked, go upon all fours and  
-cough.  
-For slight burns, dip the part in  
-cold water ; if the skin is destroy­  
-ed cover with varnish
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_casper_ver01%2Fdata%2Fsn84038206%2F00393349190%2F1876032501%2F0922.jp2/pct:22.527690,65.754190,14.522350,11.162709/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Rutland daily globe._](https://chroniclingamerica.loc.gov/lccn/sn84022473/1876-03-29/ed-1/seq-1)
-
-#### 1876-03-29 &middot; [Rutland, Vt.](http://dbpedia.org/resource/Rutland%2C_Vermont_(city))
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Professor Wilder, of Cornell University,  
-gives these short rules for action In caso of  
-accidents;  
-For dust in the eyes, avoid rubbing;  
-dash cold water in them; rcmoe cinders,  
-itc, with the round point of a lead pencil.  
-Remove inserts from tlio ear by tepid  
-water; never put a hard instrument Into  
-tho ear.  
-If an artery is cut, compress it nbovo  
-the wound; if a vein it cur, compress It  
-below.  
-It choked, go upon alt fours, and cough.  
-For slight burns, dip the pait in cold  
-water; if thu skin is destroyed, cover with  
-varnish
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84022473%2F00280777560%2F1876032901%2F0298.jp2/pct:83.999260,79.472477,10.913799,7.095757/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Opelousas courier._](https://chroniclingamerica.loc.gov/lccn/sn83026389/1876-04-01/ed-1/seq-2)
-
-#### 1876-04-01 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-WoaTr KNowGo.--Prof. Wilder, of  
-Cornell university, gives these short rules  
-for action in ase of accident: For dust  
-in the eyes avoid rubbing; dash cold  
-water in them ; remove cinders, etc., with  
-the round point of a lead pencil. Re­  
-move ineeets from the ear by tepid water;  
-never put a hard instrument into the  
-ear. If any artery is cut compress it  
-above the wound; if a vein is cut, com­  
-prees it below. If choked go upon all  
-rs and cough. For slight burns dip  
-the pt in cold water; if the skin isde­  
-stroyed, cover with varnish. For apo
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lenin_ver01%2Fdata%2Fsn83026389%2F00212474903%2F1876040101%2F0265.jp2/pct:31.852103,88.983254,12.703528,6.925837/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Washington standard._](https://chroniclingamerica.loc.gov/lccn/sn84022770/1876-04-08/ed-1/seq-1)
-
-#### 1876-04-08 &middot; [Olympia, Wash. Territory](http://dbpedia.org/resource/Olympia%2C_Washington)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-For dust in the eyes, avoid rubbing; clash  
-cold water in theui; remove cinders, etc..  
-with the round point of a lead pencil.  
-Remove Insects from the ear by tepid water;  
-never put a hard instrument into the ear.  
-If an artery is cut, compress above the  
-wound; if a vein is cut, compress it below.  
-If choked, go upon all fours and cough.  
-For slight burns, dip the part in cold wa­  
-ter; if the skin is (b stroyeu, cover with va
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_juno_ver02%2Fdata%2Fsn84022770%2F00200291074%2F1876040801%2F0260.jp2/pct:4.507732,86.757897,12.434388,4.290565/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1876-04-14/ed-1/seq-4)
-
-#### 1876-04-14 &middot; [Deer Lodge, Mont.](http://dbpedia.org/resource/Deer_Lodge%2C_Montana)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Professor Wilder, of Cornell University.  
-gives these short rueles for action in case of ci  
-:e. accident: 0Ix  
-xi) For dust in the eyes, avoid rubbing; ~  
-g. dash cold water in them; remove cinder,  
-etc., with the round point of a black lead ,a  
-0- pencil.  
-Remove insects from the ear by tepid xt  
-a- water; never put a hard instrument into  
-the ear.  
-he, If an ai tery is cut, compress it above the  
-it. wound; if a vein is cut, compress it be.  
-rd low.  
-P5- If choked, go upon all fours, and cough.  
-For slight burns, dip the part in cold wa­  
-on ter; if the skin is destroyed, oover with  
-ng varnish
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_lynx_ver01%2Fdata%2Fsn84038125%2F00294554841%2F1876041401%2F0500.jp2/pct:26.398704,52.567450,12.529446,8.768494/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1876-04-17/ed-1/seq-1)
 
 #### 1876-04-17 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
@@ -7629,11 +7206,6 @@ ng varnish
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-what is to be done with this wide-spread  
-corruption ? Washington Chronicle.  
-Presence of Mind.  
-Professor Wilder eives these short rules  
-for action in case of accident :  
 For dust in the eye, avoid rubbing; dash  
 water into them : remove cinders, etc., with  
 the round point of a lead pencil.  
@@ -7656,234 +7228,9 @@ suspected, walk erect.
 is sore. Enlarge the wound, or, better, cut  
 out the part as long as ean be born to a ho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022998%2F1876041701%2F0276.jp2/pct:80.458530,73.411545,14.362778,15.126661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022998%2F1876041701%2F0276.jp2/pct:80.485502,77.066030,14.335806,11.472176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1876-04-20/ed-1/seq-4)
-
-#### 1876-04-20 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Professor Wilder, of Cornell Uni­  
-versity, gives these short rules for  
-action in case of accident :  
-For durt in the eyes, avoid rub­  
-bing ; dash cold water in them, re­  
-move cinder, etc., with the round  
-point of a lead pencil.  
-Remove insects from the ear by  
-tepid water ; never put a hard instru­  
-ment into the ear.  
-If an artery is cut, compress it  
-above the wound ; if a vein is cut,  
-compress it below.  
-If choked, go upon all fours, and  
-cough.  
-For slight burns, dip the part in  
-cold water ; if the skin is destroyed,  
-cover with varnish.  
-For apoplexy, raise the head an
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn85033133%2F00514159385%2F1876042001%2F0475.jp2/pct:51.960523,41.485765,10.798435,9.315615/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Buchanan County bulletin._](https://chroniclingamerica.loc.gov/lccn/sn84027186/1876-04-21/ed-1/seq-4)
-
-#### 1876-04-21 &middot; [Independence, Iowa](http://dbpedia.org/resource/Independence%2C_Iowa)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-Prof, Wilder, of Cornell Universi­  
-ty, gives these short rules for action  
-in case of accident:  
-  
-For dust in the eyes, avoid rub­  
-bing dash cold water in theiu re­  
-move cinders, etc., with tho round  
-point of a lead pencil.  
-  
-Remove insects from tho ear by  
-tepid water never put a hard instru­  
-ment into the eai.  
-  
-If an artery is cut, compress it  
-above the wound if a vein is cut,  
-compress it below.  
-  
-When choked, go upon all fours  
-and cough.  
-For slight burns dip the part in  
-cold water if the skin is destroyed,  
-cover with varnish.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_electabuzz_ver01%2Fdata%2Fsn84027186%2F00279528918%2F1876042101%2F0067.jp2/pct:54.966529,84.865900,9.893680,8.532567/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [AMALGAMATION OF THE MINING AND LAND DEPARTMENTS.](http://trove.nla.gov.au/ndp/del/article/88256606)
-
-#### From _Bendigo Advertiser (Vic. : 1855 - 1918)_
-
-#### 1876-05-19 &middot; [Bendigo, Victoria](http://dbpedia.org/resource/Bendigo)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-PRESCRIPTIONS.-Professor Wilder, of  
-Cornell University, gives these short  
-rules for action in case of  
-accident:-For dust in the eyes, avoid  
-rubbing; dash cold water in them; remove  
-cinders, &amp;c., with the round point of a  
-lead pencil. Remove insects from the ear  
-by tepid water; never put a hard  
-instrument into the ear. If an artery is  
-cut compress it above the wound; if a  
-vein is cut, compress it below. If  
-choked, go on all fours and cough. For  
-slight burns dip the part in cold water;  
-if the skin is destroyed, cover with  
-varnish. For apoplexy raise the head an
-</td></tr></table>
-
----
-
-## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1876-06_92_552/page/n83/mode/1up?view=theater)
-
-#### 1876-06-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-PROFESSOR WILDER, of Cornell University, notes  
-these handy prescriptions: For dust in the eyes avoid  
-rubbing; dash cold water in them; remove cinders,  
-ete., with the round point of a lead-pencil. Remove  
-insects from the ear by tepid water; never put &amp;  
-hard instrument into the ear. If an artery is cut,  
-compress it above the wound; if a vein is cut, com-  
-press it below. If choked, go upon all fours and  
-cough. For slight burns dip the part in cold water;  
-if the skin is destroyed, cover with varnish. Fo
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_godeys-magazine_1876-06_92_552&#0036;83/pct:56.942337,75.567108,34.559939,9.806238/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1876-06-10_20_1015/page/n6/mode/1up?view=theater)
-
-#### 1876-06-10 &middot; [New York](http://dbpedia.org/resource/New_York_City)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-* For dust in the eyes, avoid rubbing ; dash cold wa-  
-ter in them ; remove cinders, etc., with the round point  
-of alead-pencil. Remove insects from the ear by tepid  
-water; never put a hard instrument into the ear. If  
-an artery is cut, compress it above the wound; if a  
-vein is cut, compress it below. If choked, go upon  
-all fours and cough. For slight burns, dip the part in  
-cold water ; if the skin is destroyed, cover with varnish
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_harpers-magazine_1876-06-10_20_1015&#0036;6/pct:51.581633,81.700680,19.744898,3.860544/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Harper's weekly journal of civilization._](https://archive.org/details/sim_harpers-weekly_1876-06-10_20_1015/page/n6/mode/1up?view=theater)
-
-#### 1876-06-10 &middot; [New York, N.Y.](http://dbpedia.org/resource/New_York_City)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-“ For dust in the eyes, avoid rubbing ; dash cold wa-  
-ter in them ; remove cinders, etc., with the round point  
-of alead-pencil. Remove insects from the ear by tepid  
-water; never put a hard inetrument into the ear. If  
-an artery is cut, compress it above the wound; if a  
-vein is cut, compress it below. If choked, go upon  
-all fours and cough. For slight burns, dip the part in  
-cold water ; if the skin is destroyed, cover with varnish
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_harpers-weekly_1876-06-10_20_1015&#0036;6/pct:52.173913,84.955449,18.792271,3.975326/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [Miscellaneous.](http://trove.nla.gov.au/ndp/del/article/148510898)
-
-#### From _Maryborough Chronicle, Wide Bay and Burnett Advertiser (Qld. : 1860 - 1947)_
-
-#### 1876-07-13 &middot; [Maryborough, Queensland](http://dbpedia.org/resource/Maryborough%2C_Queensland)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Prescriptions. — Professer Wilder, of  
-Cornell University, gives these short  
-rules for action in case of accident : —  
--For dust in the eyes, avoid rubbing ;  
-dash cold water in them ; remove  
-cinders, &amp;cM with the round point of a  
-lead pencil.- Remove - insects from the  
-ear by tepid water ; never put a hard  
-instrument into the ear. If ah artery is  
-i cut, compress it above the . wound ;  
-if a ! vein is cutj compress it below.  
-If choked, go on all fours and cough.  
-For slight burns, dip the part in cold  
-water ; if the j skin is destroyed,  
-cover with varnisli. ! For apoplexy
-</td></tr></table>
-
----
-
-## [The Naturalist. Queensland Philosophical Society.](http://trove.nla.gov.au/ndp/del/article/19768243)
-
-#### From _The Queenslander (Brisbane, Qld. : 1866 - 1939)_
-
-#### 1876-08-12 &middot; [Brisbane, Queensland](http://dbpedia.org/resource/Brisbane)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-PBaßCßißioM.~Profea*or Wilder, of  
-Cornell University, gives these short  
-roles for action in case of  
-accident:—For dust in the eyes, avoid  
-rubbing; dash cold water in them ;  
-remove cinders, etc., with the round  
-point of a lead pencil. Remove insects  
-from the ear by tepid water ; never put  
-a bard instrument into the ear. If any  
-artery is cut compress it above the  
-wound ; if a vein is cut, compress it  
-below. If choked go on all fours and  
-cough. For alight burns dip the part in  
-cold water ; if the akin is destroyed,  
-cover with varnish. For apoplexy rai
-</td></tr></table>
 
 ---
 
@@ -7975,89 +7322,6 @@ the person flat
 
 ---
 
-## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1876-09-30/ed-1/seq-4)
-
-#### 1876-09-30 &middot; [Elkton, Md.](http://dbpedia.org/resource/Elkton%2C_Maryland)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-What to no in Case of Accidents.—Professor Wilder,  
-of Cornell University, gives these short rules for action  
-in case of accidents :  
-For dust in the eyes, avoid rubbing; dash cold water  
-In them; remove cinders, etc., with the round point of  
-a lend penril.  
-Remove insects from the ear by tepid water. Never  
-put a hard instrument into the ear.  
-If an artery is cut, compress it above the wound: if  
-a vein is cut, compress it below.  
-If choked, go upon all fours and cough.  
-For slight burns, dip the part in cold water; if the  
-skin is destroyed, cover with varnish
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624542%2F1876093001%2F0473.jp2/pct:3.885091,39.733376,11.036601,5.130100/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## Professor Wilder, of Cornell University gives these short rules for action in case of accident
-
-#### From _Inter ocean._
-
-#### 1876-10-11 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
-
-[This text is not available under an open license.]
-
----
-
-## Article 1 -- No Title
-
-#### From _Prairie farmer._
-
-#### 1876-10-28 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Indianapolis)
-
-[This text is not available under an open license.]
-
----
-
-## [From _The Russellville Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84023017/1876-11-16/ed-1/seq-3)
-
-#### 1876-11-16 &middot; [Russellville, Ark.](http://dbpedia.org/resource/Russellville%2C_Arkansas)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-Rules of Action in Case of  
-Accident.  
-Professor Wilder, of Cornell  
-j University, gives these short  
-lines:  
-For dust in the eyes, avoid rup­  
-hing; dash cold water in them,  
-! remove cinders etc., with the  
-round point of a lead pencil.  
-Remove insects from the ear by  
-tepid water; never put a hard in -  
-i strumeut into the ear.  
-If an artery is cut, compress it  
-abo e the wound; if a vein is  
-cut compress it below.  
-If 3011 are choked, go on all  
-, fours and cough.  
-For slight burns, dip the pait  
-in cold water; if the skin is de­  
-stroyed, cover it with varnish.  
-For apoplexy raise the hea
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_igglybuff_ver01%2Fdata%2Fsn84023017%2F00414213005%2F1876111601%2F0362.jp2/pct:13.832200,7.595114,11.871693,14.084655/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1876-12-21_49_51/page/n7/mode/1up?view=theater)
 
 #### 1876-12-21 &middot; [Boston](http://dbpedia.org/resource/Boston)
@@ -8103,212 +7367,22 @@ the person flat.
 
 ---
 
-## [From _The Manitowoc tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033153/1877-03-08/ed-1/seq-1)
-
-#### 1877-03-08 &middot; [Manitowoc, Wis.](http://dbpedia.org/resource/Manitowoc%2C_Wisconsin)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Pjtor, Burt G. of Cornell  
-  
-University, gives these short rules : For  
-dust in the eyes, avoid rubbing; !  
-dash cold water in them;remove cinders,  
-etc., with the round point of a lead pencil.  
-Remove insects from tho ear by tepid wa­  
-ter; never put a hard instrument into the  
-ear. If an artery is cut, compress it above  
-the wound ; if a vein is cut, compress it  
-below. If yon are choked, go on all-fours  
-and cough. For slight burns, dip the part  
-in cold water; if the skin is destroyed, ;  
-cover it with varnish. For apoplexy, rais
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033153%2F00271769738%2F1877030801%2F0657.jp2/pct:49.510981,15.344220,21.139327,82.213510/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## House and Farm
-
-#### From _Southwestern Christian advocate._
-
-#### 1877-04-26 &middot; [New Orleans, La.](http://dbpedia.org/resource/New_Orleans)
-
-[This text is not available under an open license.]
-
----
-
-## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1877-05-03/ed-1/seq-3)
-
-#### 1877-05-03 &middot; [Hillsborough [Hillsboro], Highland County, Ohio](http://dbpedia.org/resource/Hillsboro%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-rules : For dust in the eves, avoid rub­  
-bing; dash cold water in them; remove  
-cinders, etc., with the round point of a  
-lead pencil. Remove insects from the  
-ear by tepid water ; never put a hard in­  
-strument into theear. It an artery iscut,  
-compress it below. If you are choked,  
-go on all fours and cough. For slight  
-burns, dip the part iu cold water ; if the  
-skin is destroyed, cover it with varnish
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283600%2F1877050301%2F0025.jp2/pct:35.868050,92.561264,9.787827,4.328897/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1877-07-11/ed-1/seq-1)
-
-#### 1877-07-11 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-fessor Wilder, of Cornell University, gives  
-these short rules for action in case of  
-dents ;  
-For dust in the eyes, avoid rubbing;  
-dash cold water in them ; remove cinders,  
-etc., with the round point of a lead pencil­  
-Remove insects from the ear by tepid  
-water,  
-tho-car.  
-11 an artery is cut, compress it above  
-the wound ; if a vein is cut, compress it  
-below.  
-If choked go upon all fours and cough.  
-For slight burns, dip the part in cold  
-water ; if the skin is destroyed, cover with  
-varnish
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00332894961%2F1877071101%2F0241.jp2/pct:79.872713,15.667336,12.171838,9.407928/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1877-07-28/ed-1/seq-6)
-
-#### 1877-07-28 &middot; [Westminster, Md.](http://dbpedia.org/resource/Westminster%2C_Maryland)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-What to do in Case of Accidents.  
-—Professor Wilder, of Cornell University,  
-gives these short rules for action in case of  
-accidents;  
-For dust iu the eyes, avoid rubbing, dash  
-cold water iu them; remove cinders, etc.,  
-with the round point of a lead pencil.  
-Remove insects from the car by tepid  
-water. Never put a hard instrument into  
-the car.  
-If any artery is cut, compress it above  
-tho wound; if a vein is cut, compress it  
-below.  
-If choked go upon all fours aud cough.  
-For slight burns, dip the part in cold  
-water; if the skin is destroyed, cover with  
-varnish
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623781%2F1877072801%2F0143.jp2/pct:17.226655,28.987241,11.311774,8.124003/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Florida agriculturist._](https://chroniclingamerica.loc.gov/lccn/sn96027724/1878-05-29/ed-1/seq-2)
-
-#### 1878-05-29 &middot; [DeLand, Fla.](http://dbpedia.org/resource/Jacksonville%2C_Florida)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-ft Quick Prescriptions.—Prof. Wil­  
-der of Cornell University, gives these  
-short rules for action in case of acci­  
-dent :—For dust in the eyes avoid  
-rubbing, dash cold water in them;  
-remove cinders, etc., with the round  
-point of a lead pencil. Remove in­  
-sects from the ear by tepid water;  
-never put a hard instrument into the  
-ear. If any artery is cut, compress  
-it above the wound; if a vein is cut,  
-compress it below. If choked, go  
-upon all fours and cough. For slight  
-burns, dip the part in cold water&#x27;; if  
-the skin be destroyed, cover with  
-varnish. For apoplexy, raise th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/fu_albert_ver01%2Fdata%2Fsn96027724%2F00271766294%2F1878052901%2F0018.jp2/pct:76.899293,76.738287,15.227473,11.169620/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Claiborne guardian._](https://chroniclingamerica.loc.gov/lccn/sn88064118/1878-08-21/ed-1/seq-1)
+## From _Claiborne guardian._
 
 #### 1878-08-21 &middot; [Homer, La.](http://dbpedia.org/resource/Homer%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-What to Doe In Ca of Accident.  
-Prof. Wilder, of Cornell Univer  
-sity, gives these short rules for ac.  
-tion in case of accident. It would  
-not be a bad thing to cat them out  
-and carry them in one&#x27;s pocket.  
-book, or, better yet, commit them to  
-memor.:  
-For dust In the eyes, avoid ruab  
-bing; dash water in then; remove  
-cinders, etc., with the round point  
-of a pencil.  
-Remove insects from the ear by  
-tepid water--never put a hard in  
-strument into the ear.  
-If an artery is cut, compress  
-above the wound; if a rein is cut,  
-compress below.  
-If choked, get upon all fours and  
-cough.  
+  
 For slight burns, dip the part in  
-cold water, if the skin is destroyed,  
-corer with varnish.  
+t mit hua e the ea  
+cover with varnish.  
 Smother a fire with carpets, etc.,  
-water will often spread burning oil  
-and Increase danger. Before passn  
-ing through smoke, take a tall  
-breath and then stoop low, bet if  
-carbon is suspected, walk erect.  
-Buck poisoned wounds, unless  
-four mouth is sore; enlarge the  
-wound, or better, eat the part with­  
-cat delay; bold the wp/nded part,  
-as long as can e be ane, to a beo  
-coal or the end of a cigar.  
-In ease of poiseulag, excite eom­  
-tting by tickling the threat, or by  
-warm water asd mastard.  
-For acid poisons, gve alkalls;  
-for alkaline poltsg e sda-v -  
-whit of egg good in mot eases  
-In a eae ao m Iag
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_karma_ver01%2Fdata%2Fsn88064118%2F00280761783%2F1878082101%2F0209.jp2/pct:81.620150,57.426542,14.771954,27.236035/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+water will often spread burning oll  
+nd increase danger. Before pas  
+and increase danger. Before pas
+</td></tr></table>
 
 ---
 
@@ -8329,6 +7403,9 @@ In a eae ao m Iag
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+glad to repeat the counsel with due  
+change of names, and all due solemnity.  
+Presence of Mind. Professor Wil­  
 der gives these short rules for action in  
 case of accident : For dust in the eyes,  
 avoid rubbing, dash water into them.  
@@ -8359,7 +7436,7 @@ poison give strong coffee and keep mov­
 ing. If in water float on the back, with  
 the nose and mouth projecting. F
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_grandfather_ver01%2Fdata%2Fsn85042098%2F00415667425%2F1879052201%2F0156.jp2/pct:64.587973,51.254954,14.866370,16.888528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_grandfather_ver01%2Fdata%2Fsn85042098%2F00415667425%2F1879052201%2F0156.jp2/pct:64.587973,48.541815,14.922049,19.601666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8372,8 +7449,6 @@ the nose and mouth projecting. F
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-  
-Professor Wilder gives these short rules for action in case  
 of accident: For dust in the eyes, avoid rubbing, dash water  
 into them. Remove cinders, etc., with the round point of a  
 lead pencil. Remove insects from the ear by tepid water;  
@@ -8414,7 +7489,6 @@ and mouth projecting. For apoplexy raise the head an
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Prof. Wilder gives these short rules for  
 action in case of accident : For dust in the  
 eyes, avoid rubbing ; dash water into them.  
 Remove cinders, etc., with the round poiut  
@@ -8439,31 +7513,7 @@ In case of poisoning exe&#x27;te vomiting by
 tickling the throat or by water or mustard.  
 For acid poisons give acids; in case o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296023000%2F1879060601%2F0302.jp2/pct:64.119694,35.338025,14.572025,13.339731/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _West-Jersey pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83032103/1879-06-12/ed-1/seq-1)
-
-#### 1879-06-12 &middot; [Bridgeton, N.J.](http://dbpedia.org/resource/Bridgeton%2C_New_Jersey)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-wash water, etc. An immense amount of  
-the very best of fertilizers can be made in  
-this way.  
-In case of poisoning, excite vomiting by  
-tickling the throat, or by warm water and 1  
-mustard. For acid poisons, give alkali; for  
-alkaline poisons, give acids—white of eggs  
-is good in most cases; in a case of opium i  
-poisoning, give strong coffee and keep mov­  
-ing about
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00279529595%2F1879061201%2F0099.jp2/pct:72.581947,29.856698,11.500888,5.074766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296023000%2F1879060601%2F0302.jp2/pct:64.119694,35.892514,14.572025,12.785242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8510,48 +7560,6 @@ For acid jioisous, give acids; iu ease of opium
 
 ---
 
-## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1879-07-24/ed-1/seq-1)
-
-#### 1879-07-24 &middot; [Manitowoc, Wis.](http://dbpedia.org/resource/Manitowoc%2C_Wisconsin)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-For dust iu the eyes, avoid rubbing,  
-dash water into them. Remove cinders,  
-ets., with round point of a lead pencil.  
-Remove insects from the car by tepid  
-water; never put a hard instrument into  
-the ear.  
-If an artciy is cut, compress above the  
-wound; if a vein is cut, compress below.  
-If choked, got upon c&#x27;l fours and  
-cough.  
-For light burns, dip (he part in cold  
-water; if the sk&gt;u is destroyed, cover with  
-varnish.  
-Smother a lire with carpet, etc., water  
-will often spread burning oil and increase  
-the danger.  
-Before passing through smoke, take a  
-full breath, and then stoop low, but if  
-carbon is suspected, walk erect.  
-Suck poison wounds, unless your  
-mouth is sore: enlarge the wound, or  
-better, cut out the part without delay.  
-Hold the wounded part os long as can be  
-borne on a hot coal, or end of a cigar.  
-In caso of poisoning, excite vomiting  
-by tickling tho throat, or by water or  
-mustard. For acid poisonings, give  
-acids; in case of opium poisonings, giv
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769349%2F1879072401%2F0723.jp2/pct:60.799790,51.339148,10.856792,15.546434/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn86053402/1879-08-07/ed-1/seq-4)
 
 #### 1879-08-07 &middot; [Cleveland, Tenn.](http://dbpedia.org/resource/Cleveland%2C_Tennessee)
@@ -8583,19 +7591,6 @@ FiFn Frittebs. Take the remains o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-IN CASE OF ACCIDENTS,  
-Professor Wilder gives these short rules for action  
-in case of accidents:  
-For dust in the eves, avoid rubbing; dash water  
-into them. Remove cinders, ete., with the round  
-  
-point of a lead pencil. Remove insects from the  
-ear by tepid water; never put a hard  
-  
-  
-  
-  
   
 light barns, dip the part in cold water; if the skin  
 is destroyed, cover with varnish. Smother a tire  
@@ -8643,16 +7638,6 @@ If choked, get upon all fours and cough. For
 
 ---
 
-## "PRESENCE OF MIND."
-
-#### From _Aberdeen Journal_
-
-#### 1879-08-25 &middot; [Aberdeen, Scotland](http://dbpedia.org/resource/Aberdeen)
-
-[This text is not available under an open license.]
-
----
-
 ## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1879-08-30_59_6/page/n6/mode/1up?view=theater)
 
 #### 1879-08-30 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
@@ -8685,43 +7670,43 @@ tard, In case of opium ison give stron
 
 ---
 
-## [RULES IN CASE OF ACCIDENT.](http://trove.nla.gov.au/ndp/del/article/135964519)
+## From _The interior journal._
 
-#### From _Newcastle Morning Herald and Miners' Advocate (NSW : 1876 - 1954) _
-
-#### 1879-08-30 &middot; [Newcastle, New South Wales](http://dbpedia.org/resource/Newcastle%2C_New_South_Wales)
+#### 1879-09-26 &middot; [Stanford, Ky.](http://dbpedia.org/resource/Stanford%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-gives these .hat rules for action in  
-case of accident... For dust in the eyes  
-avoid rubbing dash water into them.  
-Remove cinder &amp;c., with the round point  
-of a led pencil. Remove insects from the  
-r by tepid water; never put a hard  
-instrument into the ear. If an artery is  
-cat, compress above the wound; iii vein  
-is cut, compress below If shoked, get  
-upon all fours and cough. F light burns  
-dip the part in cold water; if the skin  
-is destroyed, cover with varnish.  
-Smother a fire with carpet, &amp;c.; water  
-will often spred buraing oil, and  
-increase the danger, Beflre passing  
-through smoke take a fall breath, and  
-then stoop low; but if oarbon is  
-suspected, walk erect. Suck poison  
-wounds, unless your mouth ih sore;  
-enlarge the wound, or better cat out the  
-parm without delay. Hold the wounded  
-part as lng as can bh borns to a hot  
+  
+tion in the case of accidents: For  
+dust in the eyes--avoid rubbing, dash  
+water into them. Remove cinders,  
+&amp;c., with the round point of a lead  
+pencil. Remove insects from the ear  
+by tepid water; never put a hard in  
+strument into the ear. If an artery is  
+cut, compress above the wound; if a  
+vein is cut, compress below. If choked,  
+get upon all-fours and cough. For  
+light burns, dip the part in cold water;  
+if the skin is destroyed, cover with  
+varnish. Before passing through  
+smoke, take a long breath, and then  
+stoop low; but if carbon is suspected,  
+walk erect. Suck poisoned wounds,  
+unless your mouth is sore; enlarge the  
+wound, or, better cut out the part  
+without delay. Hold the wounded  
+part as long as can be borne to a hot  
 coal, or end of a cigar. In case of  
-poisoning, excite vomiting by tickling  
-the ithroar, or by water or mns&#x27;ard. For  
-acid poisons, give acidd; in caco of  
-opium poisons, give otreng coffee, and  
-keep mov;ng I, in water float on th
+oisoning, excite vomiting by tickling  
+the throat, or by water or mustard.  
+In the case of opium poisoning, give  
+strong coffee and keep moving. If in  
+the water, float on the back, with the  
+nose and mouth projecting. For ap  
+oplexy, raise the head and body; for  
+fainting, lay the person flat. &quot;Brev
 </td></tr></table>
 
 ---
@@ -8774,9 +7759,6 @@ and keep moving. If in water, float o
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-These short rules for action in case  
-of accident are good: For dust in the  
-! eyes, avoid rubbing, and dash water  
 jin them. Remove insects from the  
 par by tepid water; never pnt a hard  
 j instrument into the ear. If any ar­  
@@ -8800,7 +7782,7 @@ oning, excite vomiting by tickling the
 I thr at or by hot water or mustard,  
 i In case of opium poison give stron
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn84022135%2F00295869598%2F1879101701%2F0326.jp2/pct:75.838123,48.403919,17.840038,21.365360/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn84022135%2F00295869598%2F1879101701%2F0326.jp2/pct:75.838123,50.995575,17.840038,18.773704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8813,9 +7795,6 @@ i In case of opium poison give stron
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-gives three short rules for action in case of  
-accidents: For dust in the eyes, avoid rubbing  
-; dash water into them. Remove &#x27;Cinders,  
 etc, with the round point of a led pencil.  
 Remove insects from the ear by&#x27;tepid  
 water; never put a hard instrument into the  
@@ -8843,7 +7822,7 @@ lay the body flat.
 A Strange Sect.-?Benjamin Roe, a former,  
 of Osakona, Wisconsin, has started one o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861903%2F1879102301%2F0349.jp2/pct:83.728770,26.705195,15.774234,15.209801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861903%2F1879102301%2F0349.jp2/pct:83.728770,28.210222,15.774234,13.704774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8986,10 +7965,7 @@ wounded part UH long as eau bo borno to
 a hot coal, or mid of a cigar, lu cuso  
 of poisoning, excite vomiting by  
 tickling tho thront or by water or  
-mustard. In caso of opium poisoning give  
-strong oolloo and keep moving. If in tho  
-water lloat on tho buck, with tho HOBO  
-and mouth projecting. For apoplexy rnis
+mustard. In caso of opium poisoning giv
 </td></tr></table>
 
 ---
@@ -9001,7 +7977,6 @@ and mouth projecting. For apoplexy rnis
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-der gives these short rules for action in  
 case of accidents : For dust in the eyes,  
 avoid rubbing; dash water into them.  
 Remove cinders,,. etc., with the round  
@@ -9029,7 +8004,7 @@ the throat by water or mustard. For
 acid poisona, give alkalies; in case of  
 opium poison, give strong coffee, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn88077272%2F00296027236%2F1879122501%2F0443.jp2/pct:52.746310,31.110531,10.624785,12.266736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn88077272%2F00296027236%2F1879122501%2F0443.jp2/pct:52.746310,31.567271,10.624785,11.809996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9042,6 +8017,8 @@ opium poison, give strong coffee, an
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+In Case of Accidents.—Prof. Wil­  
 der gives these short rules for action in  
 case of accidents: For dust in the eyes,  
 avoid rubbing; dash water into them.  
@@ -9071,88 +8048,7 @@ acid poisons, give alkalies; in case of
 opium poison, give strong coffee, and  
 keep moving. If in water, float on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_anoka_ver02%2Fdata%2Fsn83025287%2F0010049386A%2F1880010401%2F0016.jp2/pct:71.144628,43.051555,13.065591,14.911292/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Worthington advance._](https://chroniclingamerica.loc.gov/lccn/sn85025620/1880-01-08/ed-1/seq-1)
-
-#### 1880-01-08 &middot; [Worthington, Minn.](http://dbpedia.org/resource/Worthington%2C_Minnesota)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-der gives these short rules for action in  
-case of accidents: or dust in the eyes,  
-avoid rubbing dash water into them  
-cinders, etc., with the round  
-point of a lead pencil. insects  
-from the ear by tepid water never put  
-a hard instrument into the ear. If an  
-artery is cut, compress above the  
-if a vein is cut, compress below. If  
-choked, get on all fours and cough.  
-Fo light burns, dip the part in cold  
-water if the skin is destroyed, cover  
-with varnish. Smothe a fire with car­  
-pets, etc. water will often spread burn­  
-ing oil and increase the danger. Before  
-passing through smoke, take a full  
-breath and then stoop if carbon  
-is suspected, walk erect. S poison  
-wounds, unless your month is sore en  
-large the wound or, better, at he  
-part without delay. the  
-part as long as can be borne to a  
-coal, or of a cigar. I case o
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_golf_ver01%2Fdata%2Fsn85025620%2F00212479317%2F1880010801%2F0606.jp2/pct:82.710582,77.108609,10.365347,10.540314/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn00065151/1880-01-10/ed-1/seq-6)
-
-#### 1880-01-10 &middot; [Big Stone City, Grant County, Dakota [S.D.]](http://dbpedia.org/resource/Big_Stone_City%2C_South_Dakota)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-avoid rubbing dash water into them, i be the let. ln rl.eaniiu..  
-  
-Remove cinders, etc., with the round pain demanded re-t, and­  
-point of a lead pencil, liemove insects to be just the tiling notliin:  
-from the ear by tepid water never put articular symptom pruve  
-  
-hurA •!,« It  
-  
-a hard instrument into the ear. If an  
-artery is cut, compress above the wound  
-if a vein is cut, compress below. If  
-choked, get upon all fours ami cough.  
-For light burns, dip the part in cold­  
-water if the skin is destroyed, cover  
-with varnish. Smother a fire with cu­  
-i ts, etc. water will often spread burn­  
-ing ii and increase the danger. Before  
-passing through smoke, take a full  
-breath and then stoop low but if carbon  
-inspected, walk erect. Suck poison  
-^•••&#x27;inds, unless your mouth is sore en­  
-Lirgc the wound, or, better, cut out the  
-part without delay. Hold the wounded  
-part as long as can be borne to a hot­  
-coal, or end of a cigar. In case of  
-poisoning, excite vomiting by tickling  
-the thro11 by water or mustard. For  
-acid poisons, give alkalies in cast- of  
-pium poison, give strong coffee, an
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_cayman_ver01%2Fdata%2Fsn00065151%2F00279523350%2F1880011001%2F0153.jp2/pct:66.224633,38.877716,33.768669,14.838913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_anoka_ver02%2Fdata%2Fsn83025287%2F0010049386A%2F1880010401%2F0016.jp2/pct:71.144628,42.479649,13.065591,15.483198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9364,15 +8260,6 @@ iug.For apoplexy, raise the head an
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-will be found useful to remember :-For  
-dust in the eyes, avoid rubbing ; dash  
-water in them ; remove oinders, &amp;c, with  
-the round point of a lead pencil. Remove  
-wax from the ear with tepid water ;  
-never put a hard instrument in the ear.  
-If any artery is out, compres B abovo  
-the wound ; if a vein is out, compress  
-below. If ohoking, get on all fours and&quot;  
 oough. For Blight burna, dip the parta  
 in cold water ; if the skin is  
 destroyed, oover with a paste of  
@@ -9522,43 +8409,41 @@ j water float on the back with the]
 
 ---
 
-## [From _Macon beacon._](https://chroniclingamerica.loc.gov/lccn/sn83016943/1886-09-25/ed-1/seq-4)
+## From _Macon beacon._
 
 #### 1886-09-25 &middot; [Macon, Miss.](http://dbpedia.org/resource/Macon%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-In ease of aceident. Vor tliist in the  
-eyes avoid rubbing; tlnslt water in  
+in case of accident. For dust in the  
+eyes avoid rubbing; dash water in  
 them; remove cinders, etc., with the  
-round point of a lead pncil. Remove  
-wax from the tar with tepid water  
-never put a hunt Instrument in the  
-ear. If nn artery is cut, eomprcss above  
-the wound; if a vein is ,,,, Con,piSH  
-below. If choked, get ,,  
-and couch lr slight burns, , lip t10  
-part in cold water; if th.. skin is des­  
-troyed, coyer with varnish. Smother  
-of, f&quot;r,,,i,s&#x27; ,,,,,&#x27;! Wlll&quot;r &quot;&#x27;ill  
-often spead burning n, um, ,  
-danger, efore pssingthrongl,.,,ok,  
+round point of a lead pencil. Remove  
+wax from the ear with tepid water  
+never put a hard instrument in the  
+ear. If anartery is cut, compress above  
+the wound; if a vein is cut, compress  
+below. If choked, get up  
+and cough. For slight burns, dip the  
+part in cold water; if the skin is des­  
+troyed, cover with varnish. Smother  
+ofen bean carpets, ete.; water will  
+often spead burning oil, and I  
+danger. Before passing through smokd  
 take a full breath and then stoop low  
-but if carbon is susp,,..ed. walk crecu  
-S uk poisoned wouiuiH, unlesH your  
-mo utli is sore; enlarge the wound, or  
-be ter . cut onl tl,,, without delay­  
-holdthe wounded part as long ns S  
-be. borne to a hot coal, or id of a  
-cigar. In case of poising xelte  
-vomiting hy tickling tlie throat or 1  
-warm waie.r and mustard. For acid  
-poisons, give alkalies; for alka
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_applejack_ver01%2Fdata%2Fsn83016943%2F00295877832%2F1886092501%2F0181.jp2/pct:68.687291,80.421196,11.747492,12.269022/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+but if carbon is suspeeted, walk crecl  
+suck poisoned wounds, unless your  
+mouth is sore; enlarge the wound, or  
+better, eut out the part without delay­  
+hold the wounded part as long as can  
+be borne to a hot coal, or end of a  
+cigar. In case of poisoning exeite  
+vomiting by tickling the throat or by  
+warm water and mustard. For acid  
+poisons, give alkalies; for alkal  
+isoning giv
+</td></tr></table>
 
 ---
 
@@ -9625,26 +8510,7 @@ For apoplexy raise the head an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-he world is that now in use  
-in a dam at Austin, Tex. The main  
-cable is 1,350 feet long and two and  
-one-half inches in diameter. The  
-hoisting apparatus will lift a weight  
-of seven tons and carry it the entire  
-length of the span in about a minute  
-and a half.  
   
-The largest diamond in the world  
-is the Braganza, which weighs 1,880  
-carats, and is one of the Portuguese  
-crown jewels. It was found in Brazil  
-in 1731. The celebrated Koh-i-noor  
-has been known to history since 1526.  
-It was captured by the British troops  
-during the 8ikh meeting, and pres­  
-sented to Queen Victoria in 1850.  
-«­  
-Emergency Notes.  
 If choked, get upon all fours and  
 cough.  
 For apoplexy raise the head and  
@@ -9672,7 +8538,7 @@ lay; hold the wounded part as long
 as can be borne to a hot coal or end  
 of a cigar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_bullfrog_ver01%2Fdata%2Fsn84022060%2F00332890566%2F1892033001%2F0305.jp2/pct:25.463918,22.747365,17.557990,35.791397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_bullfrog_ver01%2Fdata%2Fsn84022060%2F00332890566%2F1892033001%2F0305.jp2/pct:25.463918,37.334240,17.454897,21.204522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9717,13 +8583,9 @@ Suck poisoned wounds unless your
 mouth is sore; enlarge the wound or,  
 better, cut out the part without delay;  
 hold the wounded part as long as can  
-‘be borne to a hot coal or end of a cigar.  
-  
-Smother fire with carpets, etc. ; water  
-will often spread burning oil and in-  
-crease danger
+‘be borne to a hot coal or end of a cigar.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_los-angeles-times_the-los-angeles-times_1892-04-04&#0036;3/pct:69.641060,76.755915,12.462261,12.995019/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_los-angeles-times_the-los-angeles-times_1892-04-04&#0036;3/pct:69.641060,76.755915,12.420329,11.513076/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9781,26 +8643,7 @@ mustard
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- carry away.  
   
-Hofttou&#x27;* Now Fad#  
-Boston has a new fad. At the Muse­  
-um of Arts two statues, one nf Hermes  
-of Praxiteles, the other the Venus Gen­  
-atrix, both colored In the manner of the  
-ancient Greek statues, are displayed.  
-; The statues are in the color of nature,  
-&#x27; and the critic* are enthusiastic as to  
-their beauty. The artist is Joseph Liu­  
-don Smith.  
-A Record Breaker.  
-The Central Railroad of New Jersey  
-is the proud possessor of a new engine  
-which is a record breaker. Running  
-light the other day, that is, with no  
-car* attached, it got over a mile of track  
-in 39U seconds.  
-Kmercenrjr Note*.  
 If choked, get upon all fours and  
 cough.  
 For apoplexy raise the head and body;  
@@ -9827,7 +8670,7 @@ better, cut out the part without delay;
 hold the wounded part as long as can  
 be borne to a hot coal or end of a cigar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_gore_ver01%2Fdata%2Fsn86092518%2F0041418666A%2F1892041201%2F0222.jp2/pct:28.200875,31.449760,13.019655,23.076387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_gore_ver01%2Fdata%2Fsn86092518%2F0041418666A%2F1892041201%2F0222.jp2/pct:28.517569,41.832045,12.702961,12.694102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9840,24 +8683,6 @@ be borne to a hot coal or end of a cigar
 #### 1892-04-20 &middot; [Atchison, Kan.](http://dbpedia.org/resource/Atchison%2C_Kansas)
 
 [This text is not available under an open license.]
-
----
-
-## [From _The Sauk Centre herald._](https://chroniclingamerica.loc.gov/lccn/sn89064489/1892-04-21/ed-1/seq-4)
-
-#### 1892-04-21 &middot; [Sauk Centre, Stearns County, Minn.](http://dbpedia.org/resource/Sauk_Centre%2C_Minnesota)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-For dust in the eyes, avoid rubbing;  
-dash water in them; remove cinders,  
-etc., with the round point of a lead pen­  
-cil.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_baseball_ver02%2Fdata%2Fsn89064489%2F00393340137%2F1892042101%2F0294.jp2/pct:49.050566,88.719502,10.542714,1.801362/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
@@ -9919,86 +8744,6 @@ by tickling the throat or by warm water
 and mustard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_elk_ver01%2Fdata%2Fsn91068084%2F00296023218%2F1892042201%2F0517.jp2/pct:38.697318,52.705042,16.618774,32.871673/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Los Angeles times._](https://archive.org/details/sim_los-angeles-times_the-los-angeles-times_1892-04-24/page/n6/mode/1up?view=theater)
-
-#### 1892-04-24 &middot; [[Los Angeles, Calif.]](http://dbpedia.org/resource/Los_Angeles)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-dt; J.  
-A. — * captain; C A. Cowan, first lieu-  
-tenant; W. J. Lamrick, second lieutenant;  
-Ray Jessup, secretary and Treasurer; Ar-  
-thur Everest, bugler.  
-  
-COLTON,  
-  
-A party of 150 Coltonites went around  
-the loop on the Kite-shaped Track yester-  
-day, stopping at Craften Retreat to attend  
-the opening.  
-  
-Colton ple are pleased to learn of the  
-favor with which Mrs. Treglar is being re-  
-ceived inthe musical circles of Los Angeles.  
-  
-A new ten-inch water pipe is to be put in  
-from Olive street to the park, thus supply-  
-ing the need of greater carrying. capacity  
-80 long felt.  
-  
-When an Emergency Demands It.  
-If choked, get upon all fours and  
-  
-cough.  
-  
-It an artery is cut, compress above  
-the wound; if a vein is cut, compress  
-below.  
-  
-For apoplexy raise the head and body;  
-for fainting, lay the person flat.  
-  
-Remove matter from the ear with  
-tepid water; never put a hard instru-  
-ment into the ear.  
-  
-In case of poisoning, excite vomiting  
-by tickling the throat or by warm water  
-and mustard.  
-  
-For otight burns dip the part in col
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_los-angeles-times_the-los-angeles-times_1892-04-24&#0036;6/pct:47.502806,79.595268,13.692480,15.523039/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Los Angeles times._](https://archive.org/details/sim_los-angeles-times_the-los-angeles-times_1892-04-24/page/n8/mode/1up?view=theater)
-
-#### 1892-04-24 &middot; [[Los Angeles, Calif.]](http://dbpedia.org/resource/Los_Angeles)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-Smother fire with carpets, etc., water  
-will often spread burning oil and in-  
-crease danger. Before passing through  
-smoke take a full breath and then st  
-low, but if carbonic gas is suspec  
-walk erect.  
-  
-—  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_los-angeles-times_the-los-angeles-times_1892-04-24&#0036;8/pct:0.373552,11.189290,91.333582,84.333748/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10108,24 +8853,7 @@ if carbonic acid gas is suspected walk erect
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;s way is  
-decidely the liest. He gets rid of the  
-cause of the headache, and as the en­  
-tire household has been moaning,  
-“l’oor papal&quot; lie has their sympathy.  
-The woman just lets the headache go  
-away ; irritates and upsets everybody,  
-and it is certain tiiat it will rome hack  
-another day. Why are the women  
-sucli geese &#x27;.’ W&#x27;hy, when they feel  
-ill, don’t they just have it out by going  
-to tied and making the best of it? It  
-is a much more sensible way and  
-much more satisfactory. Headaches  
-are alisoiutely the skeletons in some  
-houses, tiecaiise they bring so much  
-terror with them.  
-KMKkUtll V MWTI.M.  
+  
 If choked, get upon all fours and  
 cough.  
 For appopiexy raise the head and  
@@ -10151,58 +8879,11 @@ mouth is sore ; enlarge the wound or
 better, cut out the part without delay;  
 hold tiie woundod part aa long as can  
 be borne to a hot coal or end of a  
-cigar.  
-Smother fire with carpets, etc.;  
-water will often spread burning oil  
-and increase danger. Before passing  
-through smoke take a full breath And  
-then stoop low, but if carbolic acid gas  
-is suspected walk erect.—From a Book  
-of l’rofessor B. (4. Wilder of Cornell.  
-  
-A Mo** Vail.  
-Mr. J. P. Blaise, an extensive real  
-estate dealer in this city, narrowly es­  
-caped one of the severest attacks of  
-pneumonia while in the northern part  
-ot the State during the recent blixxard.  
-Mr. Blaize had occasion to driv
+cigar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_quartz_ver01%2Fdata%2Fsn86076200%2F00279554103%2F1892043001%2F0075.jp2/pct:4.384520,36.634238,12.520585,28.492087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_quartz_ver01%2Fdata%2Fsn86076200%2F00279554103%2F1892043001%2F0075.jp2/pct:4.384520,45.767388,12.397077,12.127922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## [From _The Cheyenne daily leader._](https://chroniclingamerica.loc.gov/lccn/sn86072173/1892-04-30/ed-1/seq-3)
-
-#### 1892-04-30 &middot; [Cheyenne, Wyo.](http://dbpedia.org/resource/Cheyenne%2C_Wyoming)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-For dust in the eyes, avoid rubbing;  
-dash water in them; remove cinders,  
-etc., with the round point of a lead pen­  
-cil.  
-“Jack Frost&quot; is the leading flour in the  
-West.  
-  
-Labor and the Third I’arty
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wyu_diamondville_ver05%2Fdata%2Fsn86072173%2F00514150060%2F1892043001%2F0091.jp2/pct:43.635449,5.620365,23.021904,46.355580/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## Emergency Notes.
-
-#### From _Southern Cultivator (1843-1906)_
-
-#### 1892-05-01 &middot; [Atlanta](http://dbpedia.org/resource/Atlanta)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -10402,24 +9083,6 @@ Why It Is That the Expert Manipulator
 
 ---
 
-## [From _Woman's chronicle._](https://chroniclingamerica.loc.gov/lccn/sn90050094/1892-05-07/ed-1/seq-4)
-
-#### 1892-05-07 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-For dust in the eyes, avoid rubbing;  
-dash water in them; remove cinders,  
-etc., with the round point of a lead pen­  
-cil
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_andromeda_ver01%2Fdata%2Fsn90050094%2F00513687862%2F1892050701%2F0474.jp2/pct:49.098287,64.050619,19.559663,3.109749/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Salt Lake herald._](https://chroniclingamerica.loc.gov/lccn/sn85058130/1892-05-08/ed-1/seq-5)
 
 #### 1892-05-08 &middot; [Salt Lake City [Utah]](http://dbpedia.org/resource/Salt_Lake_City)
@@ -10480,24 +9143,6 @@ by tickling the throat or by warm wa?
 ter and mustard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lilac_ver01%2Fdata%2Fsn86071868%2F00175031698%2F1892051301%2F0254.jp2/pct:17.777778,33.980671,16.115942,16.753282/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Los Angeles herald._](https://chroniclingamerica.loc.gov/lccn/sn84025968/1892-05-17/ed-1/seq-10)
-
-#### 1892-05-17 &middot; [Los Angeles [Calif.]](http://dbpedia.org/resource/Los_Angeles)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-For dust in the eyes, avoid rubbing;  
-dash water in them; remove cinders,  
-etc., with the round point of a load pen­  
-cil.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_plasse_ver01%2Fdata%2Fsn84025968%2F00280769447%2F1892051701%2F0158.jp2/pct:7.858566,89.015619,13.082669,1.942047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10606,55 +9251,6 @@ ling the throat or by warm water and mustard.
 
 ---
 
-## [From _Dakota farmers' leader._](https://chroniclingamerica.loc.gov/lccn/sn00065127/1892-06-24/ed-1/seq-3)
-
-#### 1892-06-24 &middot; [Canton, S.D.](http://dbpedia.org/resource/Canton%2C_South_Dakota)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-water when put on to cook, and when  
-it is done, letting it remain in the  
-pot until cold.  
-  
-SMOTHER fire with carpets, etc.  
-water will often spreading burning  
-oil and increase danger. Before pass­  
-ing through smoke take a full breath  
-and then stoop low, but if carbonic  
-acid gas is suspected walk erect.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_volvo_ver01%2Fdata%2Fsn00065127%2F00295876505%2F1892062401%2F0756.jp2/pct:75.859781,62.937657,13.546389,5.041643/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Audubon County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85049838/1892-07-28/ed-1/seq-4)
-
-#### 1892-07-28 &middot; [Audubon, Audubon Co., Iowa](http://dbpedia.org/resource/Audubon%2C_Iowa)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-makes a pretty dressing table cover  
-or scarf. The edge can be hem­  
-stitched. and then have a lace frill  
-sewed around it   
-  
-Smother fire with carpets, etc.;  
-water will often spread burning oil  
-and increase danger. Before passing  
-through smoko taka a full breath and  
-then stoop low. but if carbonic gas is  
-suspected walk erect—Prof. B. U
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_gardevoir_ver02%2Fdata%2Fsn85049838%2F00340584399%2F1892072801%2F0563.jp2/pct:52.336716,87.023305,10.652316,4.620513/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [What to do in Case of Accident.](http://trove.nla.gov.au/ndp/del/article/19013058)
 
 #### From _The Maitland Mercury and Hunter River General Advertiser (NSW : 1843 - 1893)_
@@ -10696,103 +9292,6 @@ by warm water and mu« I ard. If in
 
 ---
 
-## [From _The midland journal._](https://chroniclingamerica.loc.gov/lccn/sn89060136/1892-08-12/ed-1/seq-4)
-
-#### 1892-08-12 &middot; [Rising Sun, Md.](http://dbpedia.org/resource/Rising_Sun%2C_Maryland)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-mouth is sore ; enlarge the wound,  
-or better, cut out the part without  
-delay; hold the wounded parts us  
-long as can be borne to a but coal or  
-end of a cigar.  
-Smother fire with carpets etc.;  
-water will often spread burning oil  
-and increase danger. Before passing  
-through smoke take a full breath and  
-then sloop low, but if carbonic acid  
-| gas is suspected walk erect
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_belair_ver01%2Fdata%2Fsn89060136%2F00279522564%2F1892081201%2F0152.jp2/pct:43.092689,78.641766,12.465121,8.236182/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## Home Hints
-
-#### From _The Emporia daily gazette._
-
-#### 1892-08-26 &middot; [Emporia, Kan.](http://dbpedia.org/resource/Emporia%2C_Kansas)
-
-[This text is not available under an open license.]
-
----
-
-## [From _The Kootenai herald._](https://chroniclingamerica.loc.gov/lccn/sn86091083/1892-09-02/ed-1/seq-2)
-
-#### 1892-09-02 &middot; [Kootenai, Idaho](http://dbpedia.org/resource/Kootenai%2C_Idaho)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-a  
-f  
-For dust in the eyes, avoid rubbing;  
-dash water in them; remove cinders,  
-etc., with the round point of a lead pen­  
-■L  
-  
-J  
-A METAMORPHOSI
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_kellerman_ver01%2Fdata%2Fsn86091083%2F00415669070%2F1892090201%2F0400.jp2/pct:7.972973,4.591232,31.148649,89.203199/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [What to do in Case of Accident.](http://trove.nla.gov.au/ndp/del/article/61246249)
-
-#### From _Clarence and Richmond Examiner (Grafton, NSW : 1889 - 1915)_
-
-#### 1892-09-06 &middot; [Grafton, New South Wales](http://dbpedia.org/resource/Grafton%2C_New_South_Wales)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-.-ii.,.: For dust in- the eyes,  
-iivojd|irubbing; dash water into thom í  
-remove cinders, etc., with the round  
-part of it lend pencil. .^Remove ,mutter  
-from the eur with tepid water ; never  
-put a hard&#x27; instrument into thé oar. ...  
-&#x27;?A If an artery bo cut compress above  
-the wound ; if n. vein is cut compress  
-below. . ... If choked get;iipon all  
-fours arid cough. For slight liui&#x27;iis  
-dip the &#x27;part in cold water, if the skin  
-is destroyed covetfwithvurnish. ;  
-Smother fire with carpets, etc., water  
-will often spread burning oil, and  
-increase dan-ger&#x27;.&#x27; 1 Before passing  
-through smoke1 take ii full breath, mid  
-then stoop low ; but if car-bonic acid  
-gas is suspected walk&#x27;erect. Suck  
-poisoned wounds; unless lybur mouth is  
-sore ; enlarge the wound, or better,  
-cutout tile part without delay : hold  
-tho1 wounded part as long as can bo  
-borne: to a hot coal or end of ii  
-cigar.. ..« ? Jn case of ; poisoning  
-.excite vomiting hy tickling tho  
-throut,by¡,warm water and mus-tard., 
-</td></tr></table>
-
----
-
 ## [From _The state rights democrat._](https://chroniclingamerica.loc.gov/lccn/sn84022644/1893-02-17/ed-1/seq-4)
 
 #### 1893-02-17 &middot; [Albany, Linn County, Oregon](http://dbpedia.org/resource/Albany%2C_Oregon)
@@ -10800,11 +9299,6 @@ throut,by¡,warm water and mus-tard.,
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-  
-Tiof Wildr of Cornell Universit gives  
-thi followine short rules for action In case  
-  
-of accident, whUh it will be found useful to  
 preserve or remember:  
 For dnst in the eyes, avoid rubbing; dash  
 water In them: remove cinders, etc, with the  
@@ -10842,106 +9336,7 @@ ticklise tee throit or bv warm wler and
   
 mustard.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_mazama_ver01%2Fdata%2Fsn84022644%2F00295868351%2F1893021701%2F0163.jp2/pct:27.863597,28.428172,9.909647,13.642724/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Roanoke times._](https://chroniclingamerica.loc.gov/lccn/sn86071868/1893-02-24/ed-1/seq-7)
-
-#### 1893-02-24 &middot; [Roanoke, Va.](http://dbpedia.org/resource/Roanoke%2C_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Smotiirii fire with carpets, etc.; water  
-will often spread burning oil and in?  
-crease danger. Before passing through  
-smoke taken full breath ami then stoop  
-low. but if carbonic acid gas is sus?  
-pected walk erect.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lilac_ver01%2Fdata%2Fsn86071868%2F00175031704%2F1893022401%2F0963.jp2/pct:15.317668,94.986783,16.683404,3.737125/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1893-03-02/ed-1/seq-3)
-
-#### 1893-03-02 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Smother fire with carpets, etc; water  
-will often spread burning oil and in­  
-crease danger. Before passing through  
-smoke take a full breath and then stoop  
-low, but if carbonic acid gas is sus­  
-pected walk erect
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_ingalls_ver02%2Fdata%2Fsn82014635%2F00237286777%2F1893030201%2F0627.jp2/pct:17.200599,84.621229,12.065868,2.930323/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## SALE OF WORK AT DUNDONALD.
-
-#### From _Belfast News-Letter_
-
-#### 1893-11-25 &middot; [Belfast, Ireland](http://dbpedia.org/resource/Belfast)
-
-[This text is not available under an open license.]
-
----
-
-## [From _Capital journal._](https://chroniclingamerica.loc.gov/lccn/sn99063954/1894-01-29/ed-1/seq-3)
-
-#### 1894-01-29 &middot; [Salem, Or.](http://dbpedia.org/resource/Salem%2C_Oregon)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-does not some silversmith invent  
-a combination candlestick, matchbox  
-and tray? Thero aro such things in Eng­  
-land.Silver and leather aro a strong combin­  
-ation in bag tags, umbrella straps, dog  
-collars and leadoM and railroad ticket  
-cases.  
-Tho holly in chrysopraso aud diamond  
-and tho mistletoe in somiprecious stones,  
-with jewels, havo been promiuont dur­  
-ing the holidays.  
-Ono of the most amusing things seen  
-was an architect&#x27;s rule mounted in sil­  
-ver, to which was affixed a spray of for­  
-getmenots. How tho man who got that  
-in his stocking must havo sworn! Jew­  
-elers&#x27; Circular.  
-EMERGENCY NOTES.  
-If choked, get upon all fours and  
-cough.  
-If in tho water, float on the back, with  
-tho nose and mouth projecting.  
-For apoplexy, raiso the head and body.  
-For fainting, lay tho person flat.  
-If an artery is cut, coinpres3 above  
-the wound; if a vein is cut, compress be­  
-low.Incase of poisoning, excite vomiting  
-by tickling tho throat or by warm water  
-and mustard.  
-For slight burns, dip the part in cold  
-water. If the skin is destroyed, cover  
-with varnish.  
-Smother fire with carpets, etc Water  
-will often spread burning oil and in­  
-crease dangor.  
-Remove matter from tho ear wit
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_desalvo_ver01%2Fdata%2Fsn99063954%2F0028076033A%2F1894012901%2F0733.jp2/pct:14.927048,68.198031,12.832024,23.698102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_mazama_ver01%2Fdata%2Fsn84022644%2F00295868351%2F1893021701%2F0163.jp2/pct:27.907316,29.967351,9.865928,12.103545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11070,17 +9465,7 @@ fainting, lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-tul to remember. For dust In tho eyes  
-avoid rubbing dash wntor In them; re­  
-move cindors, otc, with tho round  
-point of a load pencil. Remove was  
-from tho car with tepid water; never  
-put n hard instrument In the ear. If  
-any artery is cut comprcs3 abovo the  
-wound: if a vein is cut. compress be  
-low. If choking, got on nil fours and  
-cough. For slight burns dip tho parta  
+burns dip tho parta  
 In cold water If tho Bkin Is destroyed,  
 cover with a paste of whitening and  
 water. Smother a flro with carpets,  
@@ -11105,7 +9490,7 @@ moving. If in water float on tho baok
 with nose and mouth projecting. For  
 iipoplexy, raise the head and body, fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/okhi_ellis_ver01%2Fdata%2Fsn86063952%2F00237281214%2F1896012901%2F0794.jp2/pct:17.395780,31.100787,12.214788,17.163505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/okhi_ellis_ver01%2Fdata%2Fsn86063952%2F00237281214%2F1896012901%2F0794.jp2/pct:17.481558,35.785263,12.129010,12.479030/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

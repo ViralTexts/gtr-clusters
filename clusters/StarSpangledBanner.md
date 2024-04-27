@@ -1,7 +1,7 @@
 
 # Star Spangled Banner
 
-### 225 reprints from 1814-09-26 to 1899-10-20
+### 183 reprints from 1814-09-26 to 1899-10-20
 
 ## [Star Spangled Banner](https://chroniclingamerica.loc.gov/lccn/sn84024736/1814-09-28/ed-1/seq-4/)
 
@@ -138,23 +138,7 @@ liesvc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-O ! fay, can you fee, by the dawn’s early light,  
-What so proudly we hailed at the wwilight’s  
-lalt gleaming,  
-Whose broad firipcs and bright stars through the  
-peritous fight, :  
-Q’er the ramparts we watched were so gailant­  
-ly fireaming ?  
-And the Rockets red glare, the Bombs burfling  
-in air,  
-Gave proof through the night that our flag was  
-still there ;  
-O ! fay, does that star spangle banner yet  
-wave,  
-O’er the land of the free, and the home of the  
-brave ?  
-On the shore dimly seen through the mists of the  
+en through the mists of the  
 deep,  
 Where ch foe’s haughty host in dread silence  
 reposes,  
@@ -196,7 +180,7 @@ wave
 O’er the land of the free, and the home of the  
 brave.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nhd_avalon_ver02%2Fdata%2Fsn83025588%2F00517010820%2F1814101101%2F0168.jp2/pct:5.854310,20.720458,17.005149,33.436903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nhd_avalon_ver02%2Fdata%2Fsn83025588%2F00517010820%2F1814101101%2F0168.jp2/pct:5.878146,29.711622,16.981312,24.445739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -629,30 +613,6 @@ brave.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-  
-  
-  
-  
-  
-DR. WOOD  
-  
-  
-  
-was, therefore, brought up the bay to the mouth of  
-the Petapsco, where the flag vessel was kept under |  
-the guns of a frigate, and he was compelled to wit-  
-ness the bombardment of Fort M’Henry, which the |  
-Admiral had boasted that he would carry in a few  
-hours, and that the city must fall. He watched the  
-flag at the fort through the whole day with an anxiety  
-that can be better felt than described, until the night  
-prevented him from seeing it. In the night he watch-  
-ed the bomb-shells, and at early dawn his eye was  
-again greeted by the proudly-waving flag of his |  
-country.]  
-  
-  
-  
 O! say can you see, by the dawn’s early light,  
 What so proudly we hail’d at the twilight’s last  
 gleaming,  
@@ -691,19 +651,9 @@ A home and a country should leave us no more?
   
 Their blood has wash’d out theit foul foot-steps’ pollu-| as to those: who wish to attain a cerrect knowledge o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_jesuit-or-catholic-sentinel_1831-07-02_2_44&#0036;7/pct:12.427071,30.462003,53.471412,50.043178/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_jesuit-or-catholic-sentinel_1831-07-02_2_44&#0036;7/pct:12.427071,46.999136,53.471412,33.506045/600,/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## Poetry
-
-#### From _Raleigh register, and North-Carolina gazette._
-
-#### 1839-10-05 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -713,26 +663,7 @@ Their blood has wash’d out theit foul foot-steps’ pollu-| as to those: who w
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ould be disclosed  
   
-He was therefore brought up the Bay to the mouth  
-  
-of the Patapsco, where the flag-vessel was kept un­  
-der the guns of a frigate, and he was compelled to  
-  
-witness the bombardment of Fort McHenry, which  
-the Admiral had boasted that he would carry in a  
-few hours, and that the city must fall. He watch  
-  
-ed the flag at the Fort through the whole day, with  
-an anxiety that can be better felt than described,  
-  
-until the night prevented him from seeing it. In  
-  
-the night -he watched the bomb shells, and at early  
-dawn his eye was again greeted by the proudly  
-  
-waring flag of his country.&quot;  
 O! say can you see, by the dawn&#x27;s early light,  
   
 What so proudly we hailed at the twilight&#x27;s last  
@@ -1072,108 +1003,9 @@ beam,
 In full glory reflected now shines on the  
 stream,  
 ’Tie the Star Spangled Banner, O, long may  
-it wave,  
-O&#x27;er the laud of the free and the home of the  
-brave.  
-And where is that band, that so vauntingly  
-swore.  
-That the havoc of war and the battle’s con­  
-fusion,  
-A home and a country should leave us no  
-more,  
-Their Hood has washed out their foul foot­  
-steps’ polution,  
-No refuge could save the hireling slave,  
-From the terror of flight or the gloom us the  
-grave,  
-Anu the Star Spangled Banner in triumph doth  
-wave,  
-O’er tbe land of the free and the home of the  
-brave.  
-O 1 thus be it ever when freemen shall stand,  
-Between their lov’d homo aud the war’s de­  
-solation, ,  
-Blest with vicl’ry aud peace, may heaven res­  
-cued land,  
-Praise the power that bath made, and pre­  
-served us a nation !  
-Then conquer we must, when
+it wave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn87082161%2F00514159324%2F1845061401%2F0458.jp2/pct:51.073418,18.076378,15.068354,32.136198/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _American Republican and Baltimore daily clipper._](https://chroniclingamerica.loc.gov/lccn/sn83009567/1845-09-12/ed-1/seq-1)
-
-#### 1845-09-12 &middot; [Baltimore, Md.](http://dbpedia.org/resource/Baltimore)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-00 1 do. 3 do. 10.00  
-1 do. 1 week, 1.75 1 do. 6 do. IG.OO  
-1 do. 2 do. 2.75 | 1 do. 1 year. 30.00  
-Ten lines or less make a square—if an advertisement  
-exceeds ten lines, the price will be in proportion.  
-A)! advertisements are payable at the time of their  
-Insertion.  
-  
-0(7-THE WEEKLY CLIPPER, a targe Family  
-Newspaper, containing all the select Blotter of the  
-daily, is published every Saturday morning,at the low  
-price of $!.00 per annum.  
-ft?&quot; Ali papers sent by mail,are !i&#x27;co*f£nurdthe day  
-■ which the advance payment expires.  
-  
-THE STAR-SPANGLED BANNER.  
-BY FRANCIS S. KEY.  
-TCNE—&quot;vJnacrcon in I/cavcn.&quot;  
-O; say can you see by the dawn&#x27;s early light,  
-What so proudly we had&#x27;d at Hie twilight&#x27;s last  
-Klenmine,  
-Whose broad stripes and bright stars through the  
-perilous light,  
-O&#x27;er the rmp iris we watched were so gallantly  
-streaming?  
-And the rocket&#x27;s red glare, the bombs bursting in air.  
-Gave proor through tl|e night that our Hag was still  
-there;  
-O! say, does the star-spangled banner vet wave,  
-O&#x27;er ihe land f the free and the home of the brave:  
-  
-On the shore, dimly seen through the midst of the  
-deep,  
-Where the foe&#x27;s haughty host iri dread silence re­  
-poses;  
-W;iat is that which the breeze o&#x27;er the towering steep,  
-As it fitfully blows, half conceals, halt&quot; discloses?  
-Now it catches the gleam of the morning&#x27;s first beam  
-In full glory reflected now shines on the stream;  
-Tis the star-spangled banner, O! long may it wave.  
-O&#x27;er the laud of the free and the home of the brave!  
-  
-And where is that band who so vauntingly swore  
-That the havoc of war and the battle&#x27;s confusion  
-A home arid n country should leave us no more?  
-Their blood has wash&#x27;&lt;l out their foul footsteps  
-pollution.  
-No refuge could save the hireling and slave  
-From the terror of flight, or the gloom of Hie grave;  
-And the star-spangled haulier in triumph doth wave,  
-O&#x27;er the land ot the free and the homo of the brave.  
-  
-0! tins be it ever when freeman shall stand  
-Between their lovr.ii tmiie and the war&#x27;s desolation,  
-li&#x27;e-s&#x27;d with victory and peace, may the Heaven­  
-rescued land,  
-I&#x27;iaise the power that hath made and preserved us  
-a nation!  
-Then conquer wr must, when our cause i: is just,  
-Arid this lie our motto:—&#x27;-In (tod is our trust!&quot;  
-And the star-sp
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_jalapeno_ver02%2Fdata%2Fsn83009567%2F0029602613A%2F1845091201%2F0886.jp2/pct:2.425876,20.387275,15.036581,25.159059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn87082161%2F00514159324%2F1845061401%2F0458.jp2/pct:51.073418,18.076378,15.068354,17.177594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1309,13 +1141,122 @@ O&#x27;er the Land of the Free and the Home of the Brave
 
 ---
 
-## Star Spangled Banner
+## From _American Lancaster gazette._
 
-#### From _Milwaukee daily sentinel._
+#### 1855-03-01 &middot; [Lancaster, Ohio](http://dbpedia.org/resource/Lancaster%2C_Ohio)
 
-#### 1856-06-05 &middot; [Milwaukee, [Wis.]](http://dbpedia.org/resource/Milwaukee)
+<table style="width: 100%;"><tr><td style="width: 50%">
 
-[This text is not available under an open license.]
+  
+Gter the Lad of the Froe nd the home of the Brave?  
+On the shore dimly seen through the mists of the dedp.  
+Waere the fo&#x27;s haagity hast in decad silence ro­  
+wo. atwhich tha brsese ofer ths towering steep,  
+As fitfully blows, half conceals, half discloses?  
+ We Now it catches the gleam  
+O, the morning&#x27;s first beam,  
+In full glory reffected now shines on the stream:  
+  
+TIs the Star-spangted Banner, oh! long may it wave  
+O&#x27;er the land of the Froe, and the home of the Brave?  
+  
+And where is that band, who so vauntingly swore  
+That the havoc of war and the battle&#x27;s confusion  
+A home and a country, should leave us no more?  
+  
+Thsir blood his wash&#x27;d out their foul footstops&#x27; pol-  
+  
+lution,  
+ No rafug could save  
+ The hireling and slave,  
+Prom the terror of flight or the gloom of the grave,  
+And the Star-spangled Banner in triumph doth wave,  
+O&#x27;er the land of the Free, and the home of the Brave.  
+Oh? thus be it ever; when Freemen shall stand,  
+Betwaen their lov&#x27;d home, and the war&#x27;s desolation,  
+blest with gict&#x27;ry and peace, may this heaven-resen&#x27;d  
+innd.  
+Praise the Po wor that hath made and preserv&#x27;d us a  
+nation    
+  
+at. Then conquer we must,  
+ee we Whon our cause it isjust,  
+And this be our motto- &quot;In God is our trust;&quot;  
+And the Star-spangled Banner in triumph shall wavi­  
+O&#x27;er the land of the Free and the home of the Brave
+</td></tr></table>
+
+---
+
+## From _Sunbury American._
+
+#### 1856-07-19 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+O! say, can you see, by the dawn&#x27;s early  
+light,  
+What so proudly we hail&#x27;d at the twilight&#x27;s  
+last gleaming.  
+Whose stripes and bright stars, through the  
+perilot fight,  
+O&#x27;er the ramparts we watch&#x27;d were so gal­  
+lantly streaming:  
+And the rocket&#x27;a red glare, the bombs burst­  
+ing in air.  
+Gave proof through the night that our flag  
+was still there!  
+O! say, does that star-spangled banner yet  
+Whve  
+O&#x27;er the land of the free and the home of  
+the brave?  
+On the shore, dimly seen through the mists  
+of the deep,  
+Where the foe&#x27;s haughty host in dread si-  
+lence reposes,  
+What is that which the breeze, o&#x27;er the tow&#x27;.  
+ring steer  
+As it fitfully hlows, half conceals, half dis­  
+closes:  
+Now it catches the gleam of the morning&#x27;s  
+first beam.  
+In full glory reflected, now shines on the  
+stream:  
+&#x27;Tis the star-spanglod banner! O, longtmay  
+it wave  
+O&#x27;er the land of the free, and the home of  
+the brave.  
+And where is that band who so vauntingly  
+swore  
+That the havoc of war and the battle&#x27;s con­  
+A homfusion, a country shall leave us no  
+more?  
+Their blood has wash&#x27;d out their foul foot­  
+steeps&#x27; pollution:  
+No refuge could save the hirling and slave  
+From the terror of flight, or the gloom of  
+the grave  
+And the star-spangled in triumph doth  
+wave  
+O&#x27;er the land of the free, and the home of  
+the brave.  
+O! thus be it ever when freemen shall stand  
+Between their loved home and the war&#x27;s de­  
+solution;  
+Blest with victory and peace, may the heaven  
+rescned land  
+Praise the power that hath made and pre-  
+served us a nation!  
+Then conquer we must, when our cause it is  
+just,  
+And this be our motte--&quot;In God is our  
+trust!&quot;  
+And the star-spangled banner in triumph  
+shall wave  
+O&#x27;er the land of the free, and the home of  
+the brave
+</td></tr></table>
 
 ---
 
@@ -1544,50 +1485,9 @@ W ii&lt;-re the foe&#x27;s haughty host in dread silence reposes.
 What is that which II e breeze o&#x27;er the toweriug steep.  
   
 As it Mtfully blows, half conceals half discloses/  
-Now it catches the gleam of the morning&#x27;s first beam .  
-In full glory reflected now shines on the stream;  
-  
-&quot;Tla the star-spangled banner, o: long may it mh-I  
-free and the nome of the I  
-  
-O&#x27;er the  
-  
-; brave-  
-  
-ingly U  
-  
-,le&#x27;s cot  
-  
-And where is the band w ho bo vaunli  
-  
-That the havoc of war and the battle  
-A home and a country should leave us no more?  
-  
-Their blood has washed out their foul footstep&#x27;s pol-  
-lution.  
-  
-No refuge could save the hireling or slave  
-  
-From the terror of flight or tbegloom of the grave;  
-  
-And the star-spangled banner in triumph doth wave  
-OVr the land of the free aud the home of the brave.  
-  
-u: thus be it ever w hen freemen shall aland  
-  
-Between their loved homeand war&#x27;s desolation;  
-Bless&#x27;d w ith victory and peace, may the Heaven res-  
-cued land  
-  
-Praise the power thai bath made and preserved us a  
-nation:  
-  
-Then conquer we must, when our cause it is lust,  
-And this be our motto— &quot;In God is our trust!&quot;  
-  
-And the star-spangled b
+Now it catches the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/xt7qbz61847r&#0036;1/pct:21.317829,36.973425,14.418605,15.933620/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/xt7qbz61847r&#0036;1/pct:21.364341,36.973425,14.372093,6.997795/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1666,6 +1566,66 @@ O’er the land of the free, and the home of the brave
 <img alt="Page image" src="https://iiif.archive.org/iiif/sim_liberator_1858-04-02_28_14&#0036;3/pct:8.364662,8.503321,14.066416,23.173624/,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _Sunbury American._
+
+#### 1858-07-03 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+O! say can you see by the dawn&#x27;s early light,  
+What so proudly we hail&#x27;d at the twilight&#x27;s  
+last gleaming,  
+Whose broad stripes and bright stars through  
+the perilous fight,  
+O&#x27;er the rampart we watched were so gal­  
+lantly streaming?  
+And the rockets red glare, the bombs burst­  
+ing in the air  
+Gave proof through the night that our flag  
+was still there,  
+O! say, does that star spangled banner yet  
+wave,  
+O&#x27;er the land of the free and the home of  
+the Brave?  
+On the shore, dimly seen through the mist of  
+the deep,  
+Where the foe&#x27;s haughty host in dead si­  
+lence reposes;  
+What is that which the breeze o&#x27;er the tow­  
+ering step  
+As it fitfully blows, half concealed, half dis.  
+closes?  
+Now it catches the gleam of the morning&#x27;s  
+first beam  
+In full glory reflected now shines on the  
+stream;  
+&#x27;Tis the star-spangled banner, O! long  
+may it wave,  
+O&#x27;er the lang of the free and the home of  
+the brave.  
+Aud where is that band who so vauntingly  
+swore,  
+That the havoc of war and the battle&#x27;s con­  
+A home eil h country should leave us no  
+more?  
+Their blood has washed out their foul foot­  
+steps pollution,  
+No refuge could save the hireling and slave  
+From the terror of fight, or the gloom of the  
+grave;  
+And the star-spangled  
+banner in triumph  
+doth wave,  
+O&#x27;er the land of the free and the home of  
+brave.  
+O! thus be it ever when freemen shall  
+stand  
+Between their loved home and the wars de
+</td></tr></table>
 
 ---
 
@@ -1767,12 +1727,39 @@ beam,
 In full glory reflected, now shines on the stream,  
 ’Tts the Star-Spangled Banner.&#x27; oh long may it  
 wave  
-O’er the land of the free, and the home of the brave!  
-Oh thus be it ever, when Freemen shall stan
+O
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn90059500%2F00383347191%2F1859070901%2F0116.jp2/pct:6.240564,13.403846,10.900017,10.145921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn90059500%2F00383347191%2F1859070901%2F0116.jp2/pct:6.240564,13.403846,10.900017,9.421212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The New York herald._
+
+#### 1860-02-22 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Oh! say, can you see by the dawn&#x27;s early light,  
+What so proudly we hail&#x27;d at the twilight&#x27;s last gleaming,  
+Whose broad stripes and bright stars thro&#x27; the perilous  
+fight,  
+O&#x27;er the rampart we watch&#x27;d were so gallantly streaming;  
+And the rockets&#x27; red glare, the bombs bursting in air,  
+Gave proof through the night that our flag was still there.  
+OnI say, does the star spangled banner yet wave  
+O&#x27;er the land of the free and the home of the brave?  
+Chorus- Accompanied by the band.  
+On the shore dimly seen thro&#x27; the mists of the deep,  
+Where the foe&#x27;s haughty host in dread silence reposes,  
+What is that which the breeze, o&#x27;er the towering steep,  
+As it fitfully blows, half conceals, half discloses?  
+Now it catches the gleam of the morning&#x27;s first beam,  
+In full glory reflected now shines in the stream.  
+Tis the star spangled b
+</td></tr></table>
 
 ---
 
@@ -1782,13 +1769,7 @@ Oh thus be it ever, when Freemen shall stan
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d of the free and the home ui fin- brave.  
-On the sh&lt; re dimly seen through the mists of the deep.  
-Where the f.w&#x27;s haughty hosts in dead sileuce re­  
-j poses.  
-What is that uliirh the bre-aeoer the towering steep,  
-it fitfully blows, half conceals liait • ):.-.-limes.  
-Now It catches the gleam of the morning&#x27;s first beam,  
+e gleam of the morning&#x27;s first beam,  
 ill full glory reflected now shines o&#x27;er the stream:  
 &gt;Tis the star spamried tnuner—O! long may it wave  
 O&#x27;er the land of the free and the home of the brave!  
@@ -1812,7 +1793,7 @@ And this be our motto. &quot; In (iod is our trust!
 And tile star spangled banner in triumph shall wave  
 O&#x27;er the land of the free and the home of the brave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032276%2F00296028599%2F1860062801%2F0355.jp2/pct:21.509393,10.528177,14.915273,11.899709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032276%2F00296028599%2F1860062801%2F0355.jp2/pct:21.509393,13.145485,14.915273,9.282402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1873,21 +1854,71 @@ O&#x27;er the land of the free and the home of the brave
 
 ---
 
+## From _Gazette and sentinel._
+
+#### 1860-07-14 &middot; [Plaquemine, Parish of Iberville, La.](http://dbpedia.org/resource/Plaquemine%2C_Louisiana)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+O! say can you see by the dawn&#x27;s early light  
+What so prou ily we hailed at the twilight&#x27;s last gleam­  
+ing,  
+Whose broad stripes and bright stars through the perilous  
+ight,  
+O&#x27;er the ramparts we watch&#x27;d were so gallantly stream-­  
+ing,  
+And the rocket&#x27;s red glare, and the bomb&#x27;s bursting in ait,  
+Gave proof through the night that our flag was still there  
+Oh! say, does that star-spangled banner yet wave,  
+Oer the land of the free and the home of the brar  
+ot The shore dimly seen throngh the mists of the des  
+Ihere the foe  hanghty host in dread silence reposes,  
+&quot;hett that which the lreege o er the toa ing steer  
+As it fitfully blows, half conccals, half discloses  
+now ficatches the gleam of the morning&#x27;s first heam
+</td></tr></table>
+
+---
+
+## From _Richmond daily Whig._
+
+#### 1860-09-05 &middot; [Richmond, Va.](http://dbpedia.org/resource/Richmond%2C_Virginia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+O say, can you see by the dawn&#x27;s early light,  
+what so proudly we hal&#x27;od at the twilight&#x27;s last gleaming  
+Whose hroad stripes and bright stars through the periious fight,  
+O&#x27;er the ramparts we watched wers so gallantly streaming?  
+And the rocket&#x27;s red glare, the be mbs bursting in the air,  
+Gave proof through the ight that our flag was still there:  
+O say, does that star-spangled banner yet wave  
+O&#x27;er the land of the free and the home of the brave?  
+if.  
+On the shore dimly seen through the mists of the deep,  
+Where the foe&#x27;s haughty host in dread silence reposes,  
+What 1n that which the breeze, o&#x27;er the towering steep,  
+As it fi fully blows, half conceils, half discloses?  
+Now it catches the gleam of the morning&#x27;s first beam,  
+In full glory reflected now shines on the stream:  
+&#x27;Tis the star-spangled banner, O! long may it wave  
+O&#x27;er the land of the fee and the home of the brave,  
+I1I.  
+And where is the band who so vauntingly swore,  
+&quot;Mid the havoc ef war and thee battle&#x27;s co
+</td></tr></table>
+
+---
+
 ## [From _The constitutional union._](https://chroniclingamerica.loc.gov/lccn/sn87090585/1860-11-16/ed-1/seq-4)
 
 #### 1860-11-16 &middot; [Des Arc, Ark.](http://dbpedia.org/resource/Des_Arc%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-O say, can you sec by the dawn’s early light.  
-What so proudly we hailed at the twilight a last  
-(totaling,  
-Whose broad stripes and bright stars through the  
-perilous light.  
-O’er the ramparts we watched so gallantly stream­  
-ing?  
-And the rocket’s red glare, the bombs bursting in  
+are, the bombs bursting in  
 air,  
 Gave proof through the night that our flag was  
 there.  
@@ -1933,69 +1964,61 @@ wave
 O’er the land of the free and the home of the  
 brave.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_dragonair_ver01%2Fdata%2Fsn87090585%2F00414212414%2F1860111601%2F0010.jp2/pct:4.587824,6.853147,12.820419,23.466918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_dragonair_ver01%2Fdata%2Fsn87090585%2F00414212414%2F1860111601%2F0010.jp2/pct:4.616953,9.951587,12.791290,20.368478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Evansville daily journal._](https://chroniclingamerica.loc.gov/lccn/sn82015672/1861-01-10/ed-1/seq-1)
+## From _The Evansville daily journal._
 
 #### 1861-01-10 &middot; [Evansville, Ia. [i.e. Ind.]](http://dbpedia.org/resource/Evansville%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-stid there.  
-Oh! say, does the et&#x27;ir spangled banner still  
+?  
+On the shore dimly seen  
+through the mist of the  
+deep,  
+Where the foe&#x27;s haughty host  
+reposes,  
+dread silence  
+What is that, which the breeze o&#x27;er the tow.  
+ering  
+steep,  
+As it fitfully blows, half conceals, half discloses?  
+Now it catches the gleam of the morning&#x27;s first  
+beam,  
+In full glory reflected now shines on the stream;  
+&#x27;T is the star spangled banner. Oh! long may  
+it wave,  
+O&#x27;er the land of the free, and the home of the  
+brave!  
+And where is the band who so vauntingly swore  
+That the havoc of war, and the battle&#x27;s con­  
+a homs afaslot ntry should leave us no more  
+home and a country should leave us no more?  
+Their blood has wash&#x27;d out their foul footstep&#x27;s  
+pollution.  
+No refuge could save the hireling and slave,  
+From the terror of flight or the gloom of the grave;  
+And the star spangled banner in triamph doth  
 wave,  
 O&#x27;er the land of the free and the home of the  
-brave ?  
-0a bo Bliore. diui&#x27;y seen  
-through the mint of the  
-deep,  
-Whete the f..e&#x27;s haughty host  
-repose.,  
-dread sileuco  
-XVhat is that, which the breeze o&#x27;er the towi  
-erius  
-steep.  
-As it fitfully blows, half conceals, half di.-closes ?  
-Now it catches the gleam of the morning&#x27;s iiist  
-beam,  
-Iu full lory reflected now shines on the stream ;  
-&#x27;T is the star spangled banner. Ob ! long may  
-i t wave,  
-O&#x27;er the land of the free, uud the home of the  
-brave !  
-And inhere Is tbe baud who to vant.tiugly swoio  
-That the havoc of war, and the battle&#x27;s cou­  
-fusluu, ...-A  
-home and a country should leave us do more ?  
-Their blood has wash&#x27;d out their Ibul loo&#x27;step&#x27;s  
-pollution.  
-No reiuge could save the hireling- and slave,  
-From the torrorof flight or the gloom of the grave ;  
-And the slar spangled banner iu triamph doth  
-wave.  
-O&#x27;er the laud of the five anj the home of the  
-brave !  
-Oh ! thus he it ever when freemen shall stand  
-Between their lov&#x27;d home and war&#x27;s desolation ;  
-Bless d with victory aud peace, may tho IIi. iv.-n  
-rescu&#x27;d laud  
-Praise the power that hutli made and preserv&#x27;d  
-us a nation. &#x27;  
-Then coiiqusr we must, when our cause it is just,  
-And OiLs be our motto u In God is our trust ! &quot;  
-Ami the star spungled banner iu triumph shall  
+brave!  
+Oh! thus be it ever when freemen shall stand  
+Between their lov&#x27;d home and war&#x27;s desolation;  
+Bless&#x27;d with victory and peace, may the Hoaven  
+rescu&#x27;d land  
+Praise the power that hath made and preserved  
+us a nation.  
+Then conquer we must, when our cause it is just,  
+And this be our motto--&quot;In God is our trust!&quot;  
+And the star-spangled banner in triumph shall  
 wave,  
-O&#x27;er the land of the fieo aud the home t Ih  
-brave ! 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_irvington_ver01%2Fdata%2Fsn82015672%2F00296021970%2F1861011001%2F0139.jp2/pct:32.472089,66.967276,12.344498,17.328008/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+O&#x27;or the land of the freo and the home of the  
+brave
+</td></tr></table>
 
 ---
 
@@ -2006,41 +2029,6 @@ brave !
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Oh! s ay can yon see by the dawn&#x27;s early light,  
-What so proudly we bailed at the twilight&#x27;s last  
-a-leaminr.  
-  
-Whose broad atripes and bright start thro&#x27; the  
-periloat fight, - &#x27; &quot; &quot;  
-k O&#x27;er the ramparts we watch&#x27;d were so gallantly  
-  
-And the rocket&#x27;s red glare tha. bombs bursting  
-  
-ia air, - - &#x27; -  
-Gave proof through the night that our flag was  
-  
-si in mere. . . : .  
-Ohl sav. does that star snancled banner yet wave,  
-  
-O&#x27;er the land of the free, and the home of the  
-  
-.- bravei .: .-  
-  
-thro&#x27; the mists of the  
-  
-alienee  
-  
-On the shore dimly seen  
-  
-deep,  
-Where the foe-s banghty tost in dread  
-rtDosea. i &#x27; i-  
-  
-What is that which the breeze, o&#x27;er , the tow&#x27;ring  
-steep ;  
-- As it fitfully Wows, half conceals, half discloses:  
-  
-HOW II caicuca me liicaut vi uc wmum  
   
 beam,  
 In fall glory reflected, now shines on the stream:  
@@ -2075,7 +2063,7 @@ Then conquer we bust, for oar cans itn just,
 Ana this be oar motto &#x27; In God is oar trust,&quot;  
 And the star spa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_henri_ver01%2Fdata%2Fsn86063325%2F00200292480%2F1861021401%2F0621.jp2/pct:6.883260,26.413502,12.683554,24.163150/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_henri_ver01%2Fdata%2Fsn86063325%2F00200292480%2F1861021401%2F0621.jp2/pct:6.883260,36.736990,12.646843,13.839662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2113,26 +2101,9 @@ In full glory reflected now shines on the stream;
 ’Tis the star spangled banner, O long may it w ave,  
 O&#x27;er the land of the free and the home of the brave.  
 And where is the band who so vauntingly swore  
-That the havoc of war and the battle’s confusion  
-A home and a country should leave us no more?  
-Their blood has washed out their foul footsteps’  
-pollution;  
-No refuge could save the hireling and slave,  
-From the terror of flight or the gloom of the grave;  
-And the star spangled banner in triumph doth wave  
-O’er the land of the free and the home of the brave.  
-O thus be it ever where 1 &gt;eemen shall stand  
-Between their loved hotXtsand war’s desolation;  
-Bless’d with victory and peace may the Heaven­  
-rescued land  
-Praise the power that hath made and preserved us a  
-nation!  
-Then conquer we must, when our cause it is just,  
-And this be our motto—“ln God is our trust!”  
-And the star-spangled banner in triumph shall wave  
-O’er the land of the free and the home of the brave
+That the havoc of war and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mb_artemis_ver01%2Fdata%2Fsn83021205%2F00517172182%2F1861042301%2F0073.jp2/pct:3.582074,13.909335,12.503268,19.616502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mb_artemis_ver01%2Fdata%2Fsn83021205%2F00517172182%2F1861042301%2F0073.jp2/pct:3.582074,13.909335,12.503268,11.735175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2144,16 +2115,7 @@ O’er the land of the free and the home of the brave
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-On. y can you see by the dawn&#x27;i early light,  
-Whntso proudly we hail&#x27;d at the twilight&#x27; last  
-gleam me.  
-Whose broad ttripet and bright itara thru&#x27; the  
-perilous fight,  
-O&#x27;er the ramparU we watched were ao gnljant-  
-ly streaming;  
-And the rocket&#x27; red glare, the bomb bursting  
+ red glare, the bomb bursting  
 in air,  
 Gave proof through the night that our Bag wa  
 till there?  
@@ -2199,121 +2161,46 @@ wave
 O&#x27;er the land of the free, and the home of the  
 brave.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn87076766%2F00280775848%2F1861042301%2F0516.jp2/pct:11.316397,13.914619,19.255196,35.038260/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn87076766%2F00280775848%2F1861042301%2F0516.jp2/pct:11.316397,18.183649,19.255196,30.769231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Alleghanian._](https://chroniclingamerica.loc.gov/lccn/sn85054845/1861-04-25/ed-1/seq-1)
+## From _Daily Ohio statesman._
 
-#### 1861-04-25 &middot; [Ebensburg, Pa.](http://dbpedia.org/resource/Ebensburg%2C_Pennsylvania)
+#### 1861-04-25 &middot; [Columbus, Ohio](http://dbpedia.org/resource/Columbus%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Oh 1 say can you see by the dawn&#x27;s early light,  
-What so proudly we hailed at the twilight&#x27;s  
-last gleaminjr ?  
-Whose broad stripes and bright stars through  
-the perilous fight,  
-O&#x27;er the ramparts we hailed were so gal­  
-latnly streaming;  
-And the rocket&#x27;s red glare, the bombs burst­  
-ing in air,  
-Gave proof through the night that our flag  
-wa3 still there !  
-Oh, say does the Star Spangled Banner yet  
-wave,  
-O&#x27;er the land of the free and the home of  
-the brave ?  
-On the shore dimly seen thro&#x27; the mists of the  
-deep, . . -  
-Where the foe&#x27;s haughty host in dread si­  
-lence reposes,  
-What is that which the breeze, o&#x27;er the tow­  
-ering steep,  
-As it fitfully blows, half conceals, half dis­  
-closes ?  
-Now it catches the gleam of the morning&#x27;s  
-first beam,  
-In full glory reflected now shines on the  
-stream ;  
-&#x27;Tis the Star Spangled Banner! oh, long may­  
-it wave,  
-O&#x27;er the land cf the free and the borne of  
-the brave !  
-And where is that band who so vauntingly  
-swore,  
-&#x27;Mid .the havoc of war and the battle&#x27;s con­  
-fusion,home and a country should greet us no  
-more ?  
-Their Hood shall wash out their foul foot­  
-steps&#x27; pollution ;  
-No refuge can save the hireling and slave  
-Trom the terror of flight, or the gloom of  
-the grave ;  
-And the Star Spangled Banner ! in triumph  
-shall wave  
-O&#x27;er the land of the free, and the home of the  
-brave !  
-Oh ! thus be it ever, when freemen shall stand  
-Between their loved homes and the war&#x27;s  
-desolation.  
-Blet with victory and peace, may the l.eav&#x27;n  
-rescued land  
-Praise the &#x27;power that hath made and pre­  
-served us a nation ;  
-Then conquer we must, for our cause it is  
-just,  
-Let this be our motto In God be our trust­  
-And the Star Spangled Banner 1 in triumph  
-shall wave,  
-O&#x27;er the land of the free, and the home of  
-the brave 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn85054845%2F00212477667%2F1861042501%2F0048.jp2/pct:17.030227,23.246445,15.222811,39.336493/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## From _Vermont watchman and State journal._
-
-#### 1861-04-26 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-ugh the night that our flag was still therer  
-o say, does that Star Spangled Hanner yet wave  
-o&#x27;er the land of the Free and the home of the Brave?  
-H.  
-lon that shore, dimly seen through the mists of the deep,  
-where the foe&#x27;s haughty host in dread silence reposes,  
-hat is that which the breere, o&#x27;er the toweving steep,  
-As it fitfully blows, now conceals, now discloses?  
-Nos it catches the sle am of the morning&#x27;s flrst beam,  
-In full glory refleeted now shlnes in the stream:  
-&quot;Tis the Star Spangled Banner; o long may it  
-o&#x27;er the land of the Free and the heme of the Brave!  
-mt.  
+  
+say, can you see, by the dawn&#x27;s early light,  
+What so proudly we halled, at the twilight&#x27;s last gleam­  
+ing?  
+Whose broad stripes and brightistars, through the peril­  
+ous figh, as    
+O&#x27;er the ramparts we watched, were so gallantly stream-  
+ing;  
+And the rockets&#x27; red glare, the bombs bursting in air.  
+Gave proof through the night that our flag was still there:  
+O say, does that Star Spangled Banner yet wave  
+O&#x27;er the land of the free and the home of the brave?  
+  
+.  
+  
+On that shore, dimly seen through the mists of the deep,  
+Where the foe&#x27;s haughty host in draad silence reposes,  
+what is that which the breese, o er the towering steep,  
+As it fitfully blows, now conceals now diseloses?  
+Now it catches the gleam of the morning&#x27;s first beam,  
+In full gtory reflec ed now shines in the stream:  
+T is the Star epangied Banner; O, long may it wave  
+O&#x27;er the land of the free and the home of the bravel  
+  
+  
 And where are the foes who so vauntingly swore  
-That the havoc of war and the battle&#x27;s confusion,  
-A home and a country should leave us no more:  
-Thelr blood has washed out their fout footstep&#x27;s pollutlon;  
-No refuge could save the hlreling and slav  
-From the terror of Sisht, or the gloom of the gravet  
-And the Star Spangled Banner in triumph doth wave  
-o&#x27;er the lanI of the Free and the home of the Brave!  
-1Yv.  
-o thus be it ever, when Freemen shall stand  
-tetween their loved hemes and red wat&#x27;s desolation;  
-Biest with Victory and Peace, may the Heav&#x27;n rescued land  
-Praise the Power that hath made and preserved us a nation:  
-Thon conqu r we must, when our eause it is just,  
-And this be our motte, &quot;in cod is orr riesr&quot;  
-And the Star Spangled Banner in triumph shall wave  
-o&#x27;er the land of the Free and the home of the Brave
+That the havoc of war, and the battle&#x27;s confu
 </td></tr></table>
 
 ---
@@ -2408,170 +2295,47 @@ brave
 
 ---
 
-## [From _The Hillsdale standard._](https://chroniclingamerica.loc.gov/lccn/sn85033637/1861-04-30/ed-1/seq-1)
+## From _The Hillsdale standard._
 
 #### 1861-04-30 &middot; [Hillsdale, Mich.](http://dbpedia.org/resource/Hillsdale%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+re, the bombs bursting in air  
+Gave proof through the night that the flag was  
+till there;  
+Oh, say, does the Star-Spangled banner still wave  
+O&#x27;er the land of the free and the home of the brave  
+On the shore dimly seen through the mists of the  
   
-O&#x27;er tho bind of the free and the homo of tho  
-brave!  
-0 thus x it ever, when freemen shall stand  
-Between their lov&#x27;d home and the war&#x27;s desola­  
-tion,Blest with riet&#x27;ry and peace, may theIleav&#x27;n-rcscu-ed  
-land  
-Traise tho Tower that hath made and preserr&#x27;d  
-us a nation;  
-Then conquer we must, when our cause it is Just,  
-And this le our motto &quot;In (xl is our truat?&quot;  
-And the star-spunglvd bannerin ti-iumrh shall wave  
-OVr tho laud of the free and the home of the brave
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668156%2F1861043001%2F0858.jp2/pct:18.223016,24.832571,12.688822,5.751036/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Civilian & telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83016179/1861-05-02/ed-1/seq-1)
-
-#### 1861-05-02 &middot; [Cumberland, Md.](http://dbpedia.org/resource/Cumberland%2C_Maryland)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Ob! say can you sec by the dawn&#x27;s early  
-light,  
-What so proubly we linil&#x27;d at t he twilights  
-last gleaming?  
-Whose broad stripes and bright stars thro&#x27;  
-the perilous light.  
-O&#x27;er the ramparts we wutcli&#x27;d were so gal­  
-lantly streaming;  
-And the rocket&#x27;s red glare, the bombs burst­  
-ing in air,  
-Gave proof through the night that our flag  
-was still there!  
-Oh say, does the star-banglud banner yet  
-O&#x27;er the land of the free and tho home of  
-the brave.  
-On the shore dimly seen thro&#x27; the mists of  
-tho deep,  
-Where the foe&#x27;s haughty host in dread si­  
-lence reposes,  
-What is that which the breeze, o&#x27;er the tow­  
-ering steep  
-As it fitfully blows, half conceals, half dis­  
-closes;  
-Now it catches the gleam of the morning&#x27;s  
-first beam.  
-11l full glory reflected now shines on the  
-stream;  
-&#x27;Tin the star-spangled banner! oli long may  
-it wave.  
-O&#x27;er the land of the free, and tho home of  
-the brave!  
-And where is that hand who so vauntiogly  
-swore,  
-&#x27;Mid the havoc of war and the hut Lie&#x27;s con­  
-fusion,  
-A borne and a country should greet us uo  
-more;  
-&#x27;l&#x27;beir blood shall wash out their 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_kale_ver01%2Fdata%2Fsn83016179%2F00296026189%2F1861050201%2F0473.jp2/pct:36.198787,22.524952,11.084293,22.908093/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _St. Cloud Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83016836/1861-05-02/ed-1/seq-1)
-
-#### 1861-05-02 &middot; [Saint Cloud, Stearns County, Minn.](http://dbpedia.org/resource/St._Cloud%2C_Minnesota)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Oh! say can you see by the dawn&#x27;s early light,  
-What so proudly we hailed at the twilight&#x27;s  
-last gleaming,  
-Whose broad stripes and bright stars thro&#x27; the  
-perilous fight.  
-  
-O&#x27;er the ramparts we watched, were ao gal­  
-lantly streaming,  
-And the rocket&#x27;s red glare, the bombs bursting  
-in air,  
-  
-Gave proof thro&#x27; the night, that ourflagwas  
-still there  
-Oh, saydoes thestarspangledbanner yet wave,  
-  
-O&#x27;er the land of the free, and the home of  
-the brave  
-  
-On the shore dimly seen thro&#x27; the mists of the  
 deep,  
-Where the foe&#x27;s haughty host in dread silence  
-reposes.  
-What is that which the breese o&#x27;er the tower­  
-ing sweep  
-  
-As it fitfully blows, half conceals, half dis­  
-closes  
-Now it catches (he gleam of themorning&#x27;s first  
+Where the foes haughty host in dred silence reposes  
+What is that which the breeze, o&#x27;er the towering  
+steep,  
+As it fitfully blows; half conceals, half discloses;  
+Now it catches the gleam of the morning&#x27;s first  
 beam,  
-  
-In full glory reflected now shines on the  
-stream:  
-&#x27;Tis the star spangled banner, eh, long may it  
-wave,  
-  
-O&#x27;er the land of the free, and the home of  
-tho brave.  
-  
-And where is that band who so vauntingly  
-swore,  
-That the havoc of war, and the battle&#x27;s con­  
-fusion,  
-A home and a country should leave us no more?  
-  
-Their blood has wasned out their foul foot­  
-step&#x27;s pollution.  
-No refuge could save the hireling and slave,  
-  
-From the terror of flight, or the gloom of the  
-grave:  
+In full glory reflected now shines in the stream,  
+Tis the Star-Spangled banner, O, long may it wave  
+O&#x27;er the land of the free and the home of the brave.  
+And where is that band who so vauntingly swore,  
+That the havoc of war and the battle&#x27;s confusion,  
+A home and a country shall leave us no more?  
+Their blood has washed out their foul footsteps&#x27;  
+pollution.  
+No refuge could save the hireling and slave  
+From the terror of flight or the gloom of the grave;  
 And the star spangled banner in triumph doth  
-wave,  
-  
-O&#x27;er the land of the free, and the home of  
-the brave.  
-  
-Oh! thus be it ever, when freemen shall stand  
-Between their loved home and the war&#x27;s des  
-olation,  
-Bless&#x27;d with victory and peace, may the heav­  
-en-rescued land,  
-  
-Praise the power that has made and preserv­  
-ed us a nation.  
-Then conquer we must, when our cause it is  
-  
-JUat.  
-  
-And this be our motto, &quot;IN GOD IS OUR  
-TrusT  
-And the star spangled banner in triumph shall  
-wave,  
-  
-O&#x27;er the land of the free, and the home of  
-the brave.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_datsun_ver01%2Fdata%2Fsn83016836%2F00212472529%2F1861050201%2F0163.jp2/pct:22.762636,19.036776,14.415500,31.485066/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+O&#x27;er the land of the free and the home of the  
+brave!  
+O thus be it ever, when freemen shall stand  
+Between their lov&#x27;d home and the war&#x27;s desola­  
+mo ith pistly and pece, may the leavaruen  
+land  
+Praise the Power that hath made and preserved  
+us a nation;  
+Then conquer we must, when our cause it is just
+</td></tr></table>
 
 ---
 
@@ -2623,321 +2387,13 @@ brave
 
 ---
 
-## [From _Pomeroy weekly telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85038184/1861-05-03/ed-1/seq-1)
-
-#### 1861-05-03 &middot; [Pomeroy, Meigs County, Ohio](http://dbpedia.org/resource/Pomeroy%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Oi say, call you see, ley il;e dawn&#x27;s early light,  
-What so proudly we hail&#x27;d at the I wilihi&#x27;s  
-last gleaming, v  
-Whose broad snipes and bright stais, through  
-the pc ilous tight,  
-O&#x27;er the laiup.uts we watch d were so gal­  
-lant iy si i earning ?  
-And the rocket&#x27;s ie.l glare, the bombs bursting  
-in air,  
-Gave proof through the night that our flag  
-was still I here ;  
-O! say, dues lhat star-spangled banner yet  
-wave  
-O&#x27;er the land of the free and the home of the  
-brave .&#x27;  
-On the shore, dimly seen through the mi3ts of  
-the deep,  
-Where i he loe 8 haughty host in dread silence  
-reposes ;  
-What is thai which the breeze, o&#x27;er the tower­  
-ing steep,  
-As it litiuily blows, half-conceals,h&#x27;ali-Jisjlo-.es  
-.&#x27;  
-Now it catches the gleam of the morning&#x27;s  
-first beam,  
-In fiillglory reflected now shines on the stream ;  
-&quot;1&#x27;is the star-spangled banner, O! long may  
-it wave  
-O&#x27;er tho laud of the free and the home of the  
-brave!  
-And where is that Band whoso Tauntingly swore  
-That the havocf war and the b.itile&#x27;s con­  
-fusion .  
-A home and a country should leave us no move?  
-Their blood has wash d out iheir loul loot­  
-steps pollution.  
-Xouefuge could save ihe hireling aud slave  
-r&#x27;lOiii the tenor of UighLulie g&#x27;ooiil of the  
-gr.ve; )  
-And the stav-spiu&#x27;-wimcr in triumph  
-uuth wave  
-O&#x27;er the l.nid of the free and the home of the  
-brave.  
-l)! ihus.be it ever when freemen shall stand  
-Between their loved home and tho war&#x27;s  
-desolation!  
-Bless&#x27;d with victory and peace, may the Heavan­  
-reseued laud, .. .  
-Praise tliu Power lh:it hath made and pre-  
-sei vd u
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn85038184%2F00296026785%2F1861050301%2F0385.jp2/pct:28.575446,27.379060,10.842357,21.769248/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _New-York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn83030364/1861-05-04/ed-1/seq-1)
-
-#### 1861-05-04 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Oh! say can you see, by the dawn’s early light,  
-What so proudly we hailed at the twilight’s last  
-gleaming?  
-Whose broad stripes and bright stars, through  
-the perilous fight,  
-O’er ihe ramparts we watched, were so gal­  
-lantly streaming;  
-And tbe rocket’s red glare, the bombs bursting  
-in air,  
-Gave proof through the night that our IlAg was  
-still there.  
-CHORUS.  
-Oh! say, does that Star-spangled banner yet  
-wave  
-O’er the land ef the free and the home of the  
-brave ?  
-On the shore, dimly seen through the mist of the  
-deep,  
-Where the foe’s haughty host in dread silence  
-reposes,  
-What is that which the breeze, o’er the towering  
-steep,  
-As it fitfully blows, half conceals, half dis­  
-closes ?  
-Nowit catches the gleam of the morning’s first  
-beam,  
-In full glory reflected, now shines in the stream.  
-CHORUS.  
-’Tis the Star-spangled banner—oh! long may it  
-wave  
-O’er the land of the free and the home of the  
-brave !  
-And where is that band who so vauntingly swore,  
-’Mid the havoc of war, and the battle’s confu­  
-sion,  
-A home and a country they’d leave us no more ?  
-Their blood has washed out their foul footstep’s  
-pollution;  
-No refuge could save the hireling and slave  
-From the terror of flight, or the gloom of the  
-grave.  
-CHORUS.  
-And the Star-spangled banner in triumph doth  
-wave  
-O’er the land of the free and the home of the  
-brave.  
-Oh ! thus be it ever, when freemen shall stand  
-Between their loved home and war’s desola­  
-tion !  
-Blessed with victory and peace, may the Heaven­  
-rescued land  
-Praise the Power that hath made and prese
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_collins_ver01%2Fdata%2Fsn83030364%2Fprint00211110107%2F1861050401%2F0001.jp2/pct:31.221759,22.426010,12.030761,19.535365/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Burlington weekly hawk-eye._](https://chroniclingamerica.loc.gov/lccn/sn84027060/1861-05-04/ed-1/seq-3)
-
-#### 1861-05-04 &middot; [Burlington [Iowa]](http://dbpedia.org/resource/Burlington%2C_Iowa)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- of arms  
-and ammunition hss been duly handed over with­  
-oat disturbance or commotion, and are now safe  
-at Springfield.  
-  
-The Democrat learns frm good authority,  
-that when General Pillow telegrapfiedi from Nash­  
-ville to Montgomery that be could raise ten  
-thousand volunteers to join the Southern army,  
-be was informed that tbe troops were not de­  
-sirabie, inlni, accompanied with provuunif. This  
-shows where the pinob is In the OottOB State i.  
-  
-A privateering office is publicly announced in  
-the New Orleans papers.  
-  
-THK PATRIOT* WIN),  
-  
-r&#x27;j &quot;The Star (tpaugled Manner.*&#x27;  
-[wtiTTKS BT HUSC1S SCOTT KIT.]  
-O say can you see, by the dawn&#x27;s early light,  
-  
-What so proudly we hail&#x27;d at tho twilights  
-last gleaming  
-Whose broad stripes aud bright stars, through  
-the perilous fight,  
-O&#x27;er the ramparts we watched, were so gallant•  
-ly streaming  
-And the rockets&#x27; red glare, tbe bombs bursting  
-in  
-air,  
-Gave proof through the night that our flag was  
-still there.  
-0 say, does the star spangled banner still wave  
-O&#x27;er the hind of the free and the home of the  
-brave  
-On the shore, dimly seer, through tbe mist of the  
-deep,  
-Where the foe&#x27;s haughty host in dread silence re­  
-poses  
-What is that which the breeze o&#x27;er the towering  
-steep,  
-As it fitfully blows, half conceals, half di9closes  
-Sow It catches the gleam of the morning&#x27;s first  
-beam,  
-In full glorv reflected new shines on the Btream  
-Tis the star spangled banner, O long may it  
-wave,  
-O&#x27;er the land ot the free snd the home of the  
-brave.  
-  
-:V  
-  
-itf Vfu?  
-  
-And where is the band who so vuuntingly swore  
-That the havoc of war and the battle&#x27;s confusion  
-A home and a eountry should leave us no more?  
-Their blood has washed out their foul footsteps&#x27;  
-pollution  
-No refuge could save the hireling and slave,  
-From the terror of flight or tho gloom of the  
-grave  
-And the star spangled bander in triumph doth  
-wave  
-O&#x27;er the laud of the free and the.homo of the  
-brave. &#x27;&quot;&#x27;^v S  
-  
-O thus be it ever where freemen shall stand  
-Between their loved homes and war&#x27;s desolation  
-Uless&#x27;d with victory and peace, may the heaven­  
-rescucd land  
-i&#x27;raise the power that hath made aud preserved&#x27;  
-us a nation!  
-Then conquer we must, when our cause it is just,  
-And this be our motto—&quot;/n God it our trust I&quot;  
-And the star spangled b
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn84027060%2F00415668909%2F1861050401%2F0065.jp2/pct:24.817338,4.484649,22.492101,93.421053/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Burlington weekly hawk-eye._](https://chroniclingamerica.loc.gov/lccn/sn84027060/1861-05-04/ed-1/seq-4)
-
-#### 1861-05-04 &middot; [Burlington [Iowa]](http://dbpedia.org/resource/Burlington%2C_Iowa)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-e amount of arms  
-and ammunition has been duly banded over with­  
-out disturbance or commotion, and are now safe  
-|t fiprinufield.  
-  
-The Democrat learns from good authority,  
-that when General Pillow telegraphed from Nash  
-ville to Montgomery that bo could raise ten  
-thousand volunteers to join the Southern arm?)  
-he waa Informed that the troops were not de­  
-sirable, ml*H, accompanied uith prcmiicmi. This  
-shows where the pinch is in the Qotton States.  
-  
-A privateering office is pnblioly annoop$din  
-tbe New Orleans papers. V  
-  
-A  
-  
-tmriTBion MNO.  
-&quot;The) Mar Spaugled •aBSer.&quot;  
-S [waiTTKS BT r&amp;ANCIB SCOTT EXT.]  
-O say can you see, by the dawn&#x27;s early light,  
-  
-What so proudly we hail&#x27;d at the twilighta  
-laat gleaming  
-Whose broad atripes and bright atars, through  
-the perilous fight,  
-O&#x27;er the ramparts we watehed, were so  
-gallant­  
-ly streaming  
-And the rockets&#x27; red glare, the bombs bursting  
-in  
-air,  
-Gave proof through the night that our flag waa  
-still there.  
-0 say, does the atar spangled banner still wsve  
-O&#x27;er the lund of tbe free and the home of the  
-brave?  
-  
-On the shore, dimly seen through the mist of the  
-deep,  
-Where the foe&#x27;s haughty host in dread silence re­  
-poses  
-What ia that which the breeze o&#x27;er the towering  
-steep,  
-As it fitfully blows, half conceals, half discloses  
-Now it catchcs the gleam of the morning&#x27;s first  
-beain,  
-In full glory reflected new shines on the stream  
-Tis the star spangled banner, O long may it  
-wave,  
-O&#x27;er the land oi tho free and the home of the  
-brave.  
-  
-And where is the band who 16 Vauntingly swore  
-That the havoc of war and the battle&#x27;s confusion  
-A home and a country should leave ns no more  
-Their blood has washed out their foul footsteps&#x27;  
-pollution  
-No refuge could save the hireling and slave,  
-From the terror of flight or the gloom of the  
-grave  
-And the star spangled banner ih triumph doth  
-wave  
-O&#x27;er the laud of thp free and the.^ome pf the  
-tjvg- brave.  
-  
-thus be it ever where freemen shall stand  
-Between their loved homes and war&#x27;s desolation  
-Bless&#x27;d wit
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn84027060%2F00415668909%2F1861050401%2F0066.jp2/pct:24.693938,3.826271,22.981985,93.843745/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Dwight's Journal of Music, a Paper of Art and Literature 1852-1881_](https://archive.org/details/sim_dwights-journal-of-music-a-paper-of-art-and-literature_1861-05-04_19_5/page/n8/mode/1up?view=theater)
 
 #### 1861-05-04 &middot; [Boston, Massachusetts](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-flag was still  
-there : {  
-  
-Oh, say, does that Star-Spangled Banner yet wave  
-  
-O’er the land of the free and the home of the brave ?  
+home of the brave ?  
   
 On that shore, dimly seen through the mists of the  
 deep,  
@@ -3031,6 +2487,79 @@ shines in the strea
 
 ---
 
+## From _The daily Gate City._
+
+#### 1861-05-09 &middot; [Keokuk, Iowa](http://dbpedia.org/resource/Keokuk%2C_Iowa)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+O, say, can you see, from the dawn&#x27;s early light,  
+What so proudly we hailed at the twilight&#x27;s fast  
+gleaming,  
+Whose stripes and bright stars, thro&#x27; the perilous  
+-night,  
+  
+O&#x27;er the ramparts we watched were so gallantly  
+streaming  
+And the recket&#x27;s red glare,  
+  
+Bombe bursting in air,  
+  
+Gave proof thro&#x27; the night that our flagewas still  
+therer  
+O, say, does that star spangled banner yet wave,  
+Wer the land of the free, and the home of the brave!  
+  
+On the shore dimly seen thro&#x27; the mists of the deep,  
+Whero the foe&#x27;s haughty host in dread silenss  
+reposes,  
+What is that which the breese o&#x27;er the towering  
+steep,  
+  
+As it fitfully blows, half conceals, half  
+discloses?  
+Now it catches the gleam,  
+Of the morning&#x27;s first beam,  
+In full glory reficcted, now shines in the stisamt  
+&#x27;Tis the star spangled banner! Oh, long may it  
+wave  
+O&#x27;er the land of the free, and the home of the brave.  
+  
+And where is that band who so vauntingly swore  
+That the havoc of war, and the battle&#x27;s confusion,  
+A home and a country shall leave us no more?  
+Their blood has washed out their foal footsteps&quot;  
+pollution:  
+  
+No retuge can save  
+hireling and slave  
+  
+From the terror of flight, or the gloom of the grave,  
+And the star spangled banner in triumph shall  
+wave  
+O&#x27;er the land of the free, and the home of the brave.  
+  
+O thus be it ever, when freemen shall stand  
+Between their loved home and the war&#x27;s desola-  
+tion  
+Blest with victory and peace, may the heaven-res-  
+cued land  
+  
+Praise the power that has made and ipreserved us  
+a nation.  
+Then conquer we must,  
+  
+When our cause it is just,  
+  
+And this be our motto, &quot;In God is our trust.&quot;  
+And the star spangled banner in triumph shall  
+wave  
+O&#x27;er the land of the free, and the home of the brav
+</td></tr></table>
+
+---
+
 ## [From _The Cass County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85033611/1861-05-09/ed-1/seq-4)
 
 #### 1861-05-09 &middot; [Dowagiac, Mich.](http://dbpedia.org/resource/Dowagiac%2C_Michigan)
@@ -3093,68 +2622,169 @@ O&#x27;er the land of the free and the home of the brave
 
 ---
 
-## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1861-05-17/ed-1/seq-1)
+## From _Clearfield Republican._
 
-#### 1861-05-17 &middot; [Watertown, Wis.](http://dbpedia.org/resource/Watertown%2C_Wisconsin)
+#### 1861-05-15 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Oh ! say can you see by the dawn’s early light,  
-What so proudly we hailed at twilight’s last  
-gleaming ;  
+Oh I say, can you see by the dawn&#x27;s early light,  
+What so proudly we hail&#x27;d at the twilight&#x27;s last  
+gleaming,  
 Whose broad stripes and bright stars through the  
-perilous fight,  
-O’er the ramparts we watched. were so gallantly  
-streaming ;  
-And the rocket’s red glare, the bombs bursting  
-in air.  
+peri ous fight,  
+O&#x27;er the ramparts we watche&#x27;d were so gallantly  
+streaming?  
+And the rockets red glare, the bombs bursting in  
+ir  
 Gave proof through the night that our flag was  
-still there :  
-Oh ! say, does the star-spangied banner still  
-wave,  
-O’er the land of the free and the home of the  
-brave ?  
-On the shore, dimly seen through the mist of the  
+till there;  
+Oh I say does the star-spangled banner yet wave  
+O&#x27;er the land of the free, and the home of the  
+brare  
+On the shore dimly seen through the mists of the  
 deep,  
-Where the foe’s haughty host in dread silence  
+Where the foe&#x27;s haughty host in dread silence  
 reposes,  
-What is that, which the breeze o’er the towering  
+What is that which the breeze, o&#x27;er the towering  
+As it fitfully blows, half conceals half discloses;  
+Now it catches the gleam of the morning&#x27;s first  
+beam,  
+In full glory reflected now shines on the stream:  
+&#x27;Tis the star-spangled banner, oh! long may it  
+O&#x27;er the land of the free, and the home of the brave!  
+And where is that band who vauntingly swore  
+That the havoc of war and the battle&#x27;s confusion  
+A home and a country should leave us no more?  
+Their blood has wash&#x27;d out the foul footsteps&#x27;  
+po lution.  
+No refuge could save the hire ling an! slave  
+From the terror of flight or the gloom of the grave,  
+And the star-spangled t anner in triumph doth  
+wavo  
+O&#x27;er the land of the free, and the home of the  
+brave.  
+Oh! thus be it ever when freemen shall stand  
+Betwe en their loved home and the war&#x27;s deso­  
+les atic victory and peace, may the Heaven­  
+rescued land  
+Praise the Power that hath made and preserv­  
+ed us a nation.  
+Then ConquEr we nest, when our cause it i
+</td></tr></table>
+
+---
+
+## From _Clearfield Republican._
+
+#### 1861-05-15 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Oh I say, can you see by the dawn&#x27;s early light,  
+what so proudly we hail&#x27;d at the twilight&#x27;s last  
+gleaming,  
+Whose broad stripes and bright stars through th  
+peri ous fight,  
+G&#x27;er the ramparts we watche&#x27;d were so gallantly  
+streaming?  
+And the rockets red glare, the bombs bursting in  
+air,  
+dave proof through the night that our flag was  
+till there;  
+Oh! say does the star-spangled banner yet wave  
+oer the land of the free, and the home of the  
+brave?  
+on the shore dimly seen through the mists of the  
+deep,  
+Where the foe&#x27;s haughty host in dread silence  
+reposes,  
+What is that which the breeze, o&#x27;er the towering  
+tee?  
+As it fitfully blews, half conceals half discloses;  
+low it eatches the gleam of the morning&#x27;s first  
+beam,  
+In full glory reflected now shines on the stream:  
+Tis the star-spangled banner, oh! long may it wave  
+Gerthe land of the free, and the home of the brave!  
+And where is that band who vauntingly swore  
+That the havoe of war and the battle&#x27;s confusion  
+A home and a country should leave us no more?  
+Their blood has wash&#x27;d out the foul footsteps&#x27;  
+po lution.  
+No refuge could save the hire ling an! slave  
+From the terror of flight or the gloom of the grave;  
+And the star-spangled banner in triumph doth  
+wave  
+O&#x27;er the land of the free, and the home of the  
+brave.  
+Ch! thus be it ever when freemen shall stand  
+Betw e en their loved home and the war&#x27;s deso­  
+Bies dation, ictory and peace, may the lleave
+</td></tr></table>
+
+---
+
+## From _The Tipton advertiser._
+
+#### 1861-05-16 &middot; [Tipton, Cedar Co., Iowa](http://dbpedia.org/resource/Tipton%2C_Iowa)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+lare, the bombs bursting  
+in air,  
+Gave proof through the night that our flag was  
+still there?  
+Oh, say, does that star spangled banner yet wave  
+O&#x27;er the land of the free and the home of the brave  
+  
+On the shore dimly seen thro&#x27; the mists of the  
+deep,  
+Where the foe&#x27;s haughty host in dread silence  
+reposes,  
+What is that which the breeze o&#x27;er the tow&#x27;ring  
 steep,  
-Aa it fitfully blows, half conceals, half discloses ?  
-Now it catches the gleam of the morning’s first  
-dream.  
-In full glory reflected now shines on the stream :  
-’Tis the star-spangled banner, O long may it  
-wave,  
-O’er the land of the free and the home of the  
-brave.  
-And where is the band that so vaultinglr swore  
-That the havoc of war, and the battle&#x27;s confu­  
-sion,  
-A home and a country should leave us no more ?  
-Their blood has washed out their foul footsteps’  
-pollution :  
-No refuge could save the hireling and slave.  
+  
+As it fitfully blows half conceals, half discloses:  
+Now it catches the gleam of the morning&#x27;s first  
+  
+In full glory reflected now shines on the stream:  
+&#x27;Tis the star spangled banner! Oh, long may it  
+wave  
+O&#x27;er the land of the free and the home of the  
+brave  
+  
+And where is that band who so vauntingly swore  
+That the havoc of war and the battle&#x27;s confusion  
+A home and a country shall leave us no more  
+  
+Their blood has washed out their foul foot.­  
+steps&#x27; pollution  
+No refuge could save the hireling and slave,  
 From the terror of flight or the gloom of the  
-grave ;  
-And the star-spangled banner in triunrph doth  
-wave,  
-O’er the land of the free and the home of the  
+grave  
+And the star spangled banner in triumph doth  
+s wave  
+O&#x27;er the land of the free and the home of the  
 brave.  
-Oh ! thus be it ever, when freedom shall stand  
-Betw en their loved home and war’s desolation :  
-Bless&#x27;d with victory and peace, may the Heaven  
-rescued land,  
-Praise the power that hath made and preserved  
-us a nation.  
-Then conquer we must when our cause it is just,  
-And this be our motto—11 In God is our trust!”  
-And the star-spangled b
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768710%2F1861051701%2F0193.jp2/pct:29.617321,11.141294,12.512588,28.858706/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+  
+Oh, thus be it ever, when freemen shall stand  
+Between their loved homes and the war&#x27;s des-­  
+olation  
+Blest with vict&#x27;ry and peace, may the heaven res-­  
+cued land  
+  
+Praise the power that hath made and presery-­  
+ed us a nation  
+Then conquer we must, when our cause it is just,  
+And this be our motto- &quot;In Gop is our trust!&quot;  
+And the star spangled banner in triumph shall  
+wave  
+O&#x27;er the land of the free and the home of the  
+brave&#x27;!
+</td></tr></table>
 
 ---
 
@@ -3204,86 +2834,6 @@ Then conquer we must, when our cause it in just,
 And this be our moito-&quot;-&quot; In God is our Cruet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85033622%2F00296026462%2F1861052901%2F0430.jp2/pct:21.192722,24.184238,13.999326,21.946048/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The star of the north._](https://chroniclingamerica.loc.gov/lccn/sn85025182/1861-05-29/ed-1/seq-1)
-
-#### 1861-05-29 &middot; [Bloomsburg, Pa.](http://dbpedia.org/resource/Bloomsburg%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-O say can you see, by ihe dawn&#x27;s early Sight  
-hat so proudly we hailed at me iwi-;  
-light&#x27;s last gleaming ; . !  
-Whose broad Stripes andbrighlSlars through  
-the perilous tight, j  
-O er the rmparts we watched, were so!  
-gallantly streaming ! j  
-And the rockets red glare, the bombs burst-!  
-mg in air,  
-Cave proof through the night that our  
-fla  
-was still there.  
-O say, does that Star Spangled Banner yet 1  
-wave.  
-O&#x27;er the land of the tree and the home of  
-the brave  
-if.  
-On that shore, dimly seen through the mist  
-of the deep,  
-Where the toe&#x27;s haughty host in dread ti-  
-lence reposes.  
-What is that which, the breeze, o&#x27;er  
-the  
-towering steep,  
-As it fitlully blows, half conceals, half  
-discloses ?  
-Now it catches the gleam of the morning&#x27;s  
-first beam,  
-la full glory reflected now shines on the  
-stream.  
-Tis the Star Spangled Banner ! O long mar  
-it wave  
-O&#x27;er the laud of the free and the home of  
-tae brave.  
-HI.  
-  
-And where are the foes who so vauutingly  
-swore . .  
-That the havoc of war, and the battle&#x27;s  
-confusion,  
-A home ana a country should leave us no  
-more ?  
-Their blood has washed out their foul  
-footstep&#x27;s pollution &quot;  
-No refuge could save the hireling and slave  
-- From the terror of flight, or the gloom of the  
-grave;  
-And the Star Spangled Banner in triumph  
-. doth wave  
-O&#x27;er the land of the free and the home of  
-the brave !  
-- - &quot; IT.  
-O thus be it ever when freemen shall stand  
-Between their loved homes au J the war&#x27;s  
-desolation,  
-- Blest with victory and peace, may the heav  
-en rescued land ,  
-Fraie the Power that hath made and pre­  
-serves os a nation !  
-Then conquer we must, when oar cause is  
-so jtm, .  
-And this be onr motto, &#x27;In God is our trust !&#x27;  
-And the Star Spangled Banner iu triumph  
-shall wave  
-O&#x27;er the laud of the free and the home of  
-: &#x27; . the brave 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn85025182%2F00212477886%2F1861052901%2F0196.jp2/pct:4.425652,55.461988,13.361522,32.807018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3349,7 +2899,7 @@ Between their loved homes and the war&#x27;s desola­
 tiou,  
 Blest with victory and peace, may the heaven­  
 rescued land  
-Praise the power that hath made and preserved a
+Praise the power that hath made and preserv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028563%2F1861062101%2F0129.jp2/pct:3.743092,16.680442,14.190387,21.533436/!600,600/0/default.jpg"/>
 </td>
@@ -3357,62 +2907,83 @@ Praise the power that hath made and preserved a
 
 ---
 
-## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1861-06-28/ed-1/seq-4)
+## From _Sunbury American._
 
-#### 1861-06-28 &middot; [Bedford, Pa.](http://dbpedia.org/resource/Bedford%2C_Pennsylvania)
+#### 1861-06-29 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Oh 1 say cm you see by the &lt;Jawn&#x27;3 early light,  
-What no proudly we hailed at the twilight&#x27;a last  
-gleaming—  
-Whose broad stripes and bright star* through the  
-perilous tight,  
-O&#x27;er the ram &gt; rts we watched, were so gallantly t  
-stran:i&#x27;-g !  
-And the rocket&#x27;s red glare, the bombs bursting in  
-air,  
-Gave proof through die oight that our flag was still  
-there ;  
-O ! say does tliat Star-Spangled Banner yet wave  
-O&#x27;er the land of the free, and the home of tha  
-bra re!  
-Oa that shore dilnly seen through the mists of the  
-deep,  
-Where the foe&#x27;s haughty host lu dread silence re­  
-poses.  
-What is that *liich the bre ze, o&#x27;er the towering  
-steep,  
-As it fitfully blows, now conceals, now discloses 7  
-Now it catches the gleam of the morniug&#x27;s first  
-beam,  
-ID full glory r. fleeted now shines on the stream ;  
-Tin the Star Spangl -d Banner, O long may it wave  
-Ocr the I.ai 01 the free, and the home of the  
-brave!  
-And where is,that band who so Tauntingly swore  
-That the havoc of war aal the battle&#x27;s confusion  
-A home and a country should leave us DO more F  
-Their blood has washed out their foul footsteps&#x27;  
-pollution.  
-No &quot;-efugw could save the hireling and slave  
+O! say can you see by the dawn&#x27;s early  
+light,  
+What so proudly we hailed at the twilight&#x27;s  
+ last gleaming,  
+Whose broad stripes and bright stars through  
+the perilous fight,  
+O&#x27;er the ramparts we watched were so gal­  
+ lantly streaming,  
+And the rockets red glare, the bombs burst.  
+ei i e   
+Gave proof through the night that our flag  
+was still there,  
+O! say, does that star spangled banner yet  
+wave.  
+O&#x27;er the land of the free and the home of  
+the Brave?  
+On the shore dimly seen through the mist of  
+the deep,  
+Where the foe&#x27;s haughty host in dead si  
+lence reposes;  
+What is that which the breeze o&#x27;er the tow-  
+ering steep  
+As it fitfully blows, half concealed, half  
+discloses!  
+Now it catches the gleam of the morning&#x27;s  
+first beam  
+In full glory reflected now shines on the  
+stream;  
+&#x27;Tis the star-spangled banner, O! long  
+may it wave,  
+O&#x27;er the land of the free and the home of  
+the brave.  
+And were is that band  
+who so vauntingly  
+swore,  
+That the havoc of war  
+and the battle&#x27;s  
+confusion  
+A home and a country should  
+leave us no  
+more?  
+Their blood has washed out their foul foot­  
+steps pollution,  
+No refuge could save the hireling and  
+slave  
 From the terror of flight, or the gloom of the  
-grave ;  
-And the star-spangled banner in triumph doth wave  
-O&#x27;er the land of the free, and the home of the  
-bravo.  
-&lt;b I thus he it ever, when freemen shail stand  
-Between their loved homes and the war&#x27;s desola­  
-tion,  
-Blest with victory and peace, may the beaven­  
-rescued land  
-Praise the power that hath fbade and preserved us  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028563%2F1861062801%2F0134.jp2/pct:9.137347,19.060439,14.209017,21.643451/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+grave;  
+And the star-spangled banser in triumph  
+doth wave,  
+O&#x27;er the land of the free and the home of  
+the brave.  
+O! thus be it ever w  
+hen freemen shall  
+stand  
+Between their loved home and  
+desolation.  
+the war&#x27;s  
+Blessed with victory and peace, may the  
+Heaven-rescued land,  
+Praise the power that has made and  
+served us a nation!  
+pre-  
+Then conquer we must when our cause it is  
+just,  
+And this be our motto: &quot;In God is our  
+trust!&#x27;  
+And the star spangled banner in triumph  
+shall wave,  
+O&#x27;er the land of the free and the home o
+</td></tr></table>
 
 ---
 
@@ -3422,16 +2993,7 @@ Praise the power that hath fbade and preserved us
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-0! say can yoa see by the (lawn&#x27;s early  
-light,  
-What so proudly we hailed at the twi­  
-light&#x27;s last gleaming,  
-Whoae broad Stripes and; bright Stars,  
-through the perilous figi*t,  
-0&#x27;?r the ramparts we watched were bo  
-gallantly streaming j  
-And the rocket&#x27;s red glare, the bombs  
+mbs  
 bursting in air,  
 Gave proof through the night that OUR  
 Flag was still there,  
@@ -3487,87 +3049,7 @@ And the Star Spangled Banner in triumph
 O&#x27;er the land of the free, and the home of  
 the brave.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_kuwait_ver02%2Fdata%2Fsn84026772%2F00202192476%2F1861070401%2F0010.jp2/pct:8.456387,9.943649,30.975275,85.683259/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The American union._](https://chroniclingamerica.loc.gov/lccn/sn84026772/1861-07-05/ed-1/seq-4)
-
-#### 1861-07-05 &middot; [Martinsburg, Va. [W. Va.]](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-0! say (V,n you nee by the dawn&#x27;s ear)?  
-light,  
-What so proudly we hailed at the twi­  
-light&#x27;s lust gleaming,  
-Whose broad Stripes and bright Startf*  
-through the perilous light,  
-O&#x27;er the ramparts we watched were m  
-gallantly streaming,  
-And the rocket&#x27;s red glare, the bomb#  
-bursting jn air,  
-\
-Gave proof through the night that oi&#x27;h  
-Flag was still there,  
-0! say docs that Star Spangled Banner  
-yet wave ?  
-O&#x27;er the land of the free and the house  
-of the brave.  
-On the shore dimly Been through the uiixls  
-fff the deep,  
-Where the foe&#x27;s haughty host iu diead al­  
-ienee reposes,  
-What is that which the breeze o&#x27;er the tow­  
-ering steep,  
-As it. fitfully blows, half conceals, half dis­  
-closes,  
-Now it catches the gleam, of the morning&#x27;s  
-first beam,  
-In full glory reflected now shines on the  
-stream,  
-&#x27;Tis the Star Spangled Banner, 0 long wsf  
-it ware  
-O&#x27;er the land of the free and tho home of  
-the brave.  
-  
-And where ia that band who bo v?uutii?g!j  
-swore  
-That the havoc of war,and the battle&#x27;s con­  
-fusion,  
-A home and a couutry ehould leave us ?o  
-more,  
-Their blood has washed out their foul foot­  
-steps pollution,  
-No refuge could save,the hireling and alav-o  
-From the terror of flight, or the gloom of  
-tho grave,  
-And the Star Spangled Banner, in triumph  
-shall wave,  
-O&#x27;er the land of the free, and the home of  
-the brave.  
-1 ? i  
-0! thus be it ever when freeman shall stand  
-Between their loved homes, and the war&#x27;?  
-desolation,  
-Blest with vict&#x27;ry and peace, may the heav­  
-en rescued land,  
-Praifie the power that hath mado and pre­  
-served us a nation,  
-Then conquer we must., for our cause it i?  
-just,  
-And this be our motto: &quot;IN GOD IS 0UI1  
-TRUST.&quot;  
-Aud the Siar Spauglcd Banner in triumph  
-shall wave;  
-O&#x27;er the land of tho free, and tho home of  
-tho brave.  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_kuwait_ver02%2Fdata%2Fsn84026772%2F00202192476%2F1861070501%2F0014.jp2/pct:67.605938,7.879183,28.084462,86.009818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_kuwait_ver02%2Fdata%2Fsn84026772%2F00202192476%2F1861070401%2F0010.jp2/pct:8.456387,21.290209,30.975275,74.336699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3619,84 +3101,6 @@ O&#x27;er the land of the free and the home of the brave!
 
 ---
 
-## [From _The American union._](https://chroniclingamerica.loc.gov/lccn/sn84026772/1861-07-06/ed-1/seq-4)
-
-#### 1861-07-06 &middot; [Martinsburg, Va. [W. Va.]](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-0! say can you see by the davru&#x27;s early  
-light,  
-What so proudly we hailed at the twi­  
-light&#x27;s last gleaming,  
-Whose broad Stripes and bright Star#,  
-through the perilous fight,  
-O&#x27;er the ramparts rre watched were ??  
-gallantly streaming,  
-And the rocket&#x27;s red glare, the bomb#  
-bursting in air,  
-Gave proof through the night that ov*  
-Flag was still there,  
-0! say does that Star Spangled Banner  
-yet wave ?  
-O&#x27;er the land of the free and the homa  
-of the brave.  
-On the shore dimly eeenthreugh the miatc  
-of the deep,  
-Where the foe&#x27;s haughty host in dread al­  
-ienee reposes,  
-What is that whioh the breeae o&#x27;er the t?w­  
-cring steep,  
-As it fitfully blows, half conceals, half di?­  
-J 1 i ,  
-closes,  
-Now it catches the gleam, of tbo morning&#x27;s  
-first beam,  
-Iu full glory reflected uow shines on th?  
-stream,  
-&#x27;Tis the Star Spangled Banner, 0 long may  
-U wave ?  
-O&#x27;er the land of the free and tholiome ef  
-the bravo.  
-  
-And where is that band who so vauntingly  
-swore  
-That the havoc of war,and the battle&#x27;s oen­  
-fusion,  
-A home and a country should leave ub no  
-more,  
-Their blood has washed out their foul fool­  
-steps pollution,  
-No refuge could save,the hireling and slav*  
-From the terror of flight, or the gloom of  
-the gravo,  
-And the Star Spangled Banner, in triumph  
-shall wave,  
-O&#x27;er the land of the frse, and tho home of  
-the brave.  
-0! thus be it ever when freeman shall stand  
-Between their loved hoiue3, and tho war&#x27;i  
-desolation,  
-Blest with vict&#x27;ry and peaie, may the L#jt­  
-en rescued laud,  
-Praise the power that hath made and pre­  
-served us a nation,  
-Then-conqucr jve must, for mr cause it it  
-just,  
-And this be our motto: &quot;IN GOD IS OUR  
-TRUST.&quot;  
-And the Star Spangled Banner ia triattpl  
-shall wave,  
-O&#x27;er the laud of tbo freo, and the Loae of  
-tbo brave.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_kuwait_ver02%2Fdata%2Fsn84026772%2F00202192476%2F1861070601%2F0018.jp2/pct:65.540541,9.297091,28.516979,81.919437/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Centre Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84009409/1861-07-11/ed-1/seq-1)
 
 #### 1861-07-11 &middot; [Bellefonte, Pa.](http://dbpedia.org/resource/Bellefonte%2C_Pennsylvania)
@@ -3729,85 +3133,9 @@ As it fitfuily blows, half conceals, half disc-loses? !
 Now it catches the gleam of the morning&#x27;s first j  
 bom :  
 In full glory reflected, now shines on the stream&#x27;  
-&#x27;Tis the Star-spangled banner 1 0 long &#x27;,mav it  
-wave,  
-O&#x27;er the land of the freo, and the home of the  
-brave !  
-And where is that band who so vsuntingly swore ,  
-That the havoc of war, and the battle&#x27;s oonfu&quot; j  
-skm,  
-A home and a country should leave us no more ? ;  
-Their blood has wasb&#x27;l out their foul footstep&#x27;s j  
-pollution.  
-No refuge could save the hireling and slave,  
-From the terror of flight orthe gloom of the grave j  
-And the Star-spangled banner, in triumph doth I  
-wave,  
-O&#x27;er the land of the free and the home of the  
-brave 1  
-Ph 1 thas btfit ever, when freemen shall stand  
-Between their loved home and war&#x27;s desolation-  
-Blessed with victory and peace, iiwy the Hearen­  
-fecCued land  
-jFraiso the power that hath made and preserved  
-us a nation 1  
-Then conquer we muzt, when onr cause it is jus&#x27;  
-And this be our nrotto—&#x27;frr &#x27;imJ is our trust !&#x27;  
-And the Star-s
+&#x27;Tis the Star-spangled 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lydia_ver01%2Fdata%2Fsn84009409%2F00295869045%2F1861071101%2F0177.jp2/pct:5.485743,28.357471,12.490537,27.350135/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1861-07-12/ed-1/seq-4)
-
-#### 1861-07-12 &middot; [Bedford, Pa.](http://dbpedia.org/resource/Bedford%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-bs butsting in  
-air,  
-Gave proof through the night that our fltg was still  
-there ;  
-0 ! Say dues that Star-Spangled Banner yet wave  
-O&#x27;er the land of the free, and the home of the  
-brave!  
-On that shore diruly seen through the hiists of the  
-deep.  
-Where the foe&#x27;s haughty host in dread silence re­  
-pos&lt; s.  
-What is that which the breeze, o&#x27;er the towering  
-steep,  
-As it fitfully blows, now conceals, now discloses ?  
-Now it catches the gleam of the morning&#x27;s first  
-beam.  
-In full glory reflected now shines on the stream j  
-Tis the Star-Spangled Banner, O long may it wave  
-O&#x27;er the land 01 the free, and the home of the  
-brave!  
-And where is that band who so vauntingly swore  
-That the havoc of war and the battle&#x27;s confusion  
-A home and a country should leave us rib more ?  
-Their blood has washed out their foul footsteps&#x27;  
-pollution.  
-No refuge could save the hireling and slave  
-From the terror of flight or the gloom of the  
-grave ;  
-And the star-spangled banner in triumph doth wave  
-O&#x27;er the land ot the free, and the home of the  
-brave.  
-Oh ! thus he it ever, when freemen shall stand  
-Between their loved homes and the war&#x27;s desola­  
-tion,  
-Blest with victory and peace, may the heaven­  
-rescued land  
-Praise the power that hath made and preserved us  
-a nation.  
-Then conquer we must, when
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028563%2F1861071201%2F0138.jp2/pct:8.814411,20.975919,14.266624,19.387674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lydia_ver01%2Fdata%2Fsn84009409%2F00295869045%2F1861071101%2F0177.jp2/pct:5.485743,28.357471,12.490537,14.026685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3879,64 +3207,6 @@ O&#x27;er the land of t
 
 ---
 
-## [From _The Connecticut Common School Journal and Annals of Education, Published Monthly Under the Direction of the Conn. State Teachers' Association (1851-1866)_](https://archive.org/details/sim_connecticut-common-school-journal-annals-of-education_1861-08_8_8/page/n20/mode/1up?view=theater)
-
-#### 1861-08-01 &middot; [Hartford](http://dbpedia.org/resource/Hartford%2C_Connecticut)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Oh! say can you see by the dawn’s early light,  
-What so proudly we hailed at the twilight’s last gleaming;  
-Whose broad stripes and bright stars through the perilous fight,  
-O’er the ramparts we hailed were so gallantly streaming?  
-  
-  
-  
-  
-  
-The Star Spangled Banner.  
-  
-And the rocket’s red glare, the bombs bursting in air,  
-Gave proof through the night that our flag was still there?  
-Oh! say does that star-spangled banner still wave  
-O’er the land of the free and the home of the brave?  
-  
-On the shore, dimly seen through the mists of the deep,  
-Where the foe’s haughty host in dread silence reposes;  
-  
-What is that which the breeze, o’er the towering steep,  
-As it fitfully blows, half conceals, half discloses ?  
-  
-Now it catches the gleam of the morning’s first beam,  
-  
-In full glory reflected now shines on the stream ;  
-’Tis the star-spangled banner, O! long may it wave  
-O’er the land of the free and the home of the brave.  
-  
-And where is the band who so vauntingly swore  
-That the havoc of war and the battle’s confusion,  
-A home and a country should leave us no more?  
-Their blood has washed out their foul footsteps’ pollution.  
-No refuge could save the hireling and slave, »  
-From the terror of flight or the gloom of the grave;  
-And the star-spangled banner in triumph shall wave,  
-O’er the land of the free and the home of the brave.  
-  
-Oh thus be it ever when freemen shall stand  
-Between their loved homes and war’s desolation;  
-Blessed with victory and peace may this heaven-rescued land  
-Praise the power that hath made and preserved us a nation;  
-Then conquer we must, when our cause it is just,  
-And this be our motto—“In God is our trust!”  
-And the Star-Spangled Banner
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_connecticut-common-school-journal-annals-of-education_1861-08_8_8&#0036;20/pct:18.841912,81.398104,60.202206,7.020142/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1861-08-02/ed-1/seq-4)
 
 #### 1861-08-02 &middot; [Bedford, Pa.](http://dbpedia.org/resource/Bedford%2C_Pennsylvania)
@@ -3987,75 +3257,9 @@ Between their loved homes and the war&#x27;s desola­
 tion,  
 Blest with vialorv and peace, may the heaven­  
 rescued land  
-Praise the power that hath made and preserved us  
-a nation.  
-Then conquer we must, when our cause it is just,  
-Ami this be our motto—&quot;ln y(Mj js our trust&quot;—  
-And the star-spangled
+Praise the power that hath made and preserved u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028563%2F1861080201%2F0146.jp2/pct:8.618404,20.458323,14.187218,23.430697/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1861-08-09/ed-1/seq-4)
-
-#### 1861-08-09 &middot; [Bedford, Pa.](http://dbpedia.org/resource/Bedford%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Oh ! eny can you see by the dawn&#x27;s early lig&#x27;.t.  
-What s &gt; oronTy ■• bailed .it the twilight&#x27;s lasi  
-gloaming—  
-Whose brosd-stripes and bright atars threagh tin  
-pi-rHoiw fight.  
-O&#x27;er tho ramp, rts wo wa-clio 1, were so gallant h  
-streaniii g !  
-And the rocket&#x27;s rod glare, the bombs bursting it  
-air,  
-Gave proof through the night that our flig was stii  
-there ;  
-O ! say does that Star-Spangled Banner yet wave  
-O&#x27;er the land of the free, ani the home of th&lt;  
-brave!  
-On that shore dimly seen tbrungb the mists of tin  
-deep.  
-Where the foe&#x27;s haughty host in dread silence re  
-poses.  
-What is that which the breeze, o&#x27;er the t&lt;*Terinj  
-steep,  
-As it fitfully blows, now conceals, now discloses f  
-Now it catches the gleam of the morning&#x27;s firs  
-beam.  
-In full glory reflected now shines on the stream ;  
-Tis the Star-Spangled Banner, 0 long may it wavt  
-O&#x27;er tho land or tho free, ADd the home of tin  
-brave!  
-And where is that band who so Tauntingly swore  
-That the havoc of war and the battle&#x27;s confusion  
-A homo and a country should leave us no more ?  
-Their blood has washed cut their foul footsteps1  
-pollution.  
-No refuge could save the hireling and slave  
-From the terror of flight or the gloom of the  
-grave;  
-And the star-spangled banner in triumph doth wave  
-O&#x27;er the land of the free, and the home of the  
-brave,  
-Ob! thus be it ever, when freemen shall stand  
-Between their loved homes and the war&#x27;s desola­  
-tion,  
-Blest with victory and peace, may the heaven­  
-rescued land  
-Praise the power that hath made and preserved us  
-a nation.  
-Then conquer vo must, wh . our cause it is just.  
-And this be our motto— &quot;In G i is oifrtrusi&quot;—  
-And the star-spangled ba
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028563%2F1861080901%2F0150.jp2/pct:6.932528,19.163405,14.087491,23.330566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028563%2F1861080201%2F0146.jp2/pct:8.618404,20.458323,14.187218,21.633816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4111,12 +3315,44 @@ Between their loved homes and the war&#x27;s desola­
 tion,  
 Blest with victory aud peace, may the beaven­  
 rescued land  
-Praise the power that hath made and preserved us  
-a 
+Praise the power that hath made and preserved u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028563%2F1861081601%2F0154.jp2/pct:9.227636,19.059484,13.943287,21.919000/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028563%2F1861081601%2F0154.jp2/pct:9.227636,19.059484,13.943287,21.582819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The Hillsdale standard._
+
+#### 1861-12-17 &middot; [Hillsdale, Mich.](http://dbpedia.org/resource/Hillsdale%2C_Michigan)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+eights the beauty of of the world. (Laughter  
+and loud applause.  
+  
+And where is that band who so vauntingly swore,  
+That the havoc of war and the battle&#x27;s confusion,  
+A home and a country should leave us no more?  
+Their blood has washed out their foul footstep&#x27;  
+pollution.  
+No refuge can save the hireling and slave  
+From the terror of flight or the gloom of the grave;  
+And the Star-Spangled Sanner in triumph shall wave  
+O&#x27;er the land of the free and the home of the brave.  
+O, thus be it ever when freemen shall stand  
+Between their loved home and the war&#x27;s desolation,  
+Blest with victory and peace, may the Heaven res­  
+cued land  
+Praise the power that hath made and preserved us  
+a nation;  
+Then conquer we must, when our cause it is just,  
+And this be our motto--&quot;In God is our trust!&quot;  
+And the S ar-Spangled Banner in triumph shall wave  
+O&#x27;er the land of the free and the home of the brave.
+</td></tr></table>
 
 ---
 
@@ -4127,6 +3363,57 @@ a
 #### 1862-02-13 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
+
+---
+
+## From _The daily Evansville journal._
+
+#### 1862-08-26 &middot; [Evansville, Ind.](http://dbpedia.org/resource/Evansville%2C_Indiana)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+O say can you see by the dawn&#x27;s early light,  
+What so proudly we hail&#x27;d at the twilight s last  
+gleaming;  
+Whose broad s ripes and bright stars through the  
+periious fight,  
+O er the ramparts we watch&#x27;d were so gallantly  
+streaming.  
+And the rocket&#x27;s red glare, the bombs bursting  
+in air,  
+Gave proof through the night that our fiag was  
+still there,  
+say does that star-spagled banner yet wave  
+O&#x27;er the land of the free and the home of the  
+brave.  
+On the shore dimly seen through the mists of the  
+Ps  
+Where the foe&#x27;s haughty host in dread silence  
+reposes;  
+What is that which the breeze o&#x27;er the towering  
+steep.  
+As it fitf lly blows, half conceals, half discloses;  
+Now it catches the gleam of the mot ning&#x27;s first  
+beam,  
+In full glory reflected now shines in the stream,  
+&#x27;Tis the star-bangled banner, O long may it wave  
+O&#x27;er the land of the free and the home of th  
+brave.  
+O thus be it ever, when freemen shall stand  
+Between thetr lov&#x27;d home and the war&#x27;s deso-  
+lation,  
+Blest with vict&#x27;ry and peace, may the Heav&#x27;n­  
+rescued lan  
+Praise the Power that hath mado and preserved  
+us a nation;  
+Then conquer we must, when our cause it is just,  
+And this be our motto-&quot;In God is our trust!&quot;  
+And the star spangled banner in triumph shall  
+wave  
+O&#x27;er the land of the free and the home of the  
+bravely4a
+</td></tr></table>
 
 ---
 
@@ -4196,267 +3483,92 @@ brave.
 
 ---
 
-## [From _Richmond Whig._](https://chroniclingamerica.loc.gov/lccn/sn84024669/1864-07-02/ed-1/seq-1)
-
-#### 1864-07-02 &middot; [Richmond, Va.](http://dbpedia.org/resource/Richmond%2C_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-No refuge could save the hireling »uu elate  
-Prom the terror ol flight, or the gloom of the grave.  
-Oh, thus be It ever, when freemen shall stand  
-Between their lov’d home and the war&#x27;s desolation •  
-Blest with vict’ry and peace, may tbe heaten rescued land  
-Pratae the Power th.t hath made and preserved us a nation.  
-Then ornquer we must, for our came It is Just.  
-Acd this bs our mono, “/is Hod U our trus
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_hanoverian_ver01%2Fdata%2Fsn84024669%2F00414184753%2F1864070201%2F0319.jp2/pct:34.533687,23.003492,14.326806,3.135429/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Notes and Queries 1849-2014_](https://archive.org/details/sim_notes-and-queries_1864-11-26_6_152/page/n0/mode/1up?view=theater)
-
-#### 1864-11-26 &middot; [London, England](http://dbpedia.org/resource/London)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-“ O! say, can you see, by the dawn’s early light,  
-  
-What so proudly we hailed at the twilight’s last  
-gleaming ;  
-Whose broad stripes and bright stars, through the  
-perilous fight,  
-O’er the ramparts we watched were so gallantly  
-¢ j ! 5  
-streaming!  
-And the rockets’ red glare, the bombs bursting in air,  
-Gave proof through the night that our flag was still  
-there;  
-O! say, does the star-spangled banner yet wave,  
-O’er the land of the free, and the home of the brave?  
-‘On the shore, dimly seen, through the mists of the  
-} y  
-deep,  
-Where the foe’s haughty host, in dead silence reposes,  
-What is that which the breeze o’er the towering  
-stee Ps  
-As it fitfully blows, half conceals, half discloses ?  
-Now it catches the gleam of the morning’s first beam,  
-Its full glory reflected, now shines on the stream :  
-’Tis the star-spangled banner, O! long may it wave,  
-O’er the land of the free, and the home of the brave!”  
-The air of “ The Star-spangled Banner” may  
-be “ almost note for note that of ‘ When Vulcan  
-forged the bolts of Jove,” but it certainly i  
-wholly and completely, that of a still finer an
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_notes-and-queries_1864-11-26_6_152&#0036;0/pct:43.918919,20.876289,36.993243,30.831186/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Ebensburg Alleghanian._](https://chroniclingamerica.loc.gov/lccn/sn85054846/1865-06-29/ed-1/seq-2)
-
-#### 1865-06-29 &middot; [Ebensburg, Pa.](http://dbpedia.org/resource/Ebensburg%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-er the land of the free and the home of  
-the brave 1  
-On the hore, dimly seen thro the mists of  
-the deep,  
-Where the foe&#x27;s haughty host in dread si­  
-lence reposes,  
-What is that which the breeze o&#x27;er the tow­  
-criug stcc  
-As it fitfully blows, half conceals, half dis­  
-closes !  
-Now it cntcbes the gleam of the morning&#x27;s  
-first beam,  
-In fall glory reflected now shines in the  
-stream :  
-&quot;lis the Stsr-Spangled Banner, O long may­  
-it ware  
-O&#x27;er the land of the free and tLe borne of  
-the bravo I  
-And where is that band who so Tauntingly  
-swore  
-That the havoc of war and the battle&#x27;s con­  
-fusionA homo and a country should leave us no  
-more  
-Their blood has washed out their foul foot­  
-steps&#x27; pollution 1  
-No refuge can save the hireling and slave  
-From the terror of flight, or the gloom of the  
-grave ;  
-And the Star Spangled Banner in triumph  
-shall wave  
-O&#x27;er the hmd of the free and the heme of  
-the brave ! ,  
-O thus be it ever, when freemen shall stand  
-Between their loved homo and the war&#x27;s  
-desolation ;  
-Blest with victory and peace, may theheav-e-rescued  
-land  
-Traise the Power that hath made and pre­  
-served us a natiop.  
-Then conquer we must, when our cause it is  
-just.  
-And this be our motto uIn God is our  
-trust 1&quot;  
-And the Star-Spangled Banner in triumph  
-shall wave  
-O&#x27;er the land of tho free and the home of  
-the brave 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn85054846%2F00212477679%2F1865062901%2F0024.jp2/pct:8.646392,26.611060,14.460346,24.680073/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1865-07-01/ed-1/seq-1)
+## From _Sunbury American._
 
 #### 1865-07-01 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-O ! r.T &#x27;inn yori tec ly tho da-rn&#x27;i early  
+O! shy can you see by the dawn&#x27;s early  
 light,  
-What o proudly m hailed at the tivl­  
-light&#x27;e hiBt gtL&#x27;aniirg, 1  
-Whose broad stripe unci bright ftan through  
-tht ptrilous tiglit,  
-O&#x27;er tho rampart we watched were lo  
-gallantly strtiunritg, 1 &#x27; &#x27;  
-And the rockcta red glare, the boatba burst­  
-iflg iri air  
-Oitve proof through the night that car flag  
-wus still there,  
-O! tty does that tar spangled banner Trt  
+What so proudly we hailed at the twi­  
+light&#x27;s last gleaming,  
+Whose broad stripes and bright stars through  
+the perilous fight,  
+O&#x27;er the ramparts we watched were so  
+gallantly streaming,  
+And the rockets red glare, the bombs burst­  
+ing in air  
+Gave proof through the night that our flag  
+was still there,  
+O! say does that star spangled banner yet  
 wave,  
-O&#x27;er tlie land of the free and the home of  
+O&#x27;er the land of the free and the home of  
 the brave?  
-On the shore dimly eeun through the mist of  
-the doep, :&#x27;  
-Where the foe&#x27;sjhaughty host in dead si­  
-lence repasi&#x27;S ; &#x27;  
-What is tlitit which tlie breefe tt&#x27;er the tow-  
-ering steep . :  
-As it fitfully blows, &#x27; half Concealed, half  
-discloses 1 &#x27;  
-Now it catches the glenm of the morning&#x27;s  
-&#x27; &#x27; firnt beam s &#x27; &#x27; &#x27;  
-In full glory reflected now shiues on the  
-stream ; &quot; &#x27; &#x27; &#x27; &#x27; &#x27; 1 &quot;  
-Tis the stur apanglerd banner, O! long may  
+On the shore dimly seen through the mist of  
+the deep,n i  
+Where the foe&#x27;s haughty host in dead si­  
+lence repases;nd tond  
+What is that which the breeze o&#x27;er the tow-  
+ering steepitne tin!  
+As it fitfully blows, half concealed, half  
+discloses!  
+Now it catches the gleam of the morning&#x27;s  
+first beam oi  
+In full glory reflected now shines on the  
+stream;l ite ntlo bug  
+Tis the star-spangled hanner, Ol long may  
 it wave,  
-O&#x27;er tho laud of the free and the home of  
-the brave. &#x27; &#x27;  
-And where is that band who so Tauntingly  
-. wore, &#x27; . -  
-That the havoc of war and the battle&#x27;s  
-confnaion , &#x27; ; .,i  
-A home und a country should leare us no  
-. niiiru? &#x27; .  
-Their blood has washed out their foul  
-footstep, pollution.  
-No refuge could save the hireling and  
-slave .!  
-From the terror of flight, or tho gloom of  
-the grave ;...  
-And the btnr-spanglcd banner in. triumph  
-k dotli wave,&#x27; 1 ---..  
-O&#x27;er the land of tha free and tho home of  
+O&#x27;er the land of the free and the home of  
 the brave.  
-O ! thus be  
+And where is that band who so vauntingly  
+ swore, miavt4 inzonnyubs  
+That the havoc of war and the battle&#x27;s  
+confusion  entnang vellwadon  
+A home and a country should leave us no  
+more?l atif ordeolld silf  
+Their blood has washed out their foul  
+footsteps, pollution,  
+No refuge could save the hireling and  
+slave  
+From the terror of flight, or the gloom of  
+the grave;  
+And the star-spangled banner in triumph  
+doth wave,  ess  
+O&#x27;er the land of the free and the home of  
+the brave.  
+O! thus be  
 it ever when freemen  
 shall  
-11 stand  
+alun stand  
 Between their loved home and  
-tho wars  
+the war&#x27;s  
 desolation.  
-Blessed with victory and p&#x27;cnSe,  
+Blessed with victory and peace,  
 may the  
-- Heaven-rescued land,  
-&#x27; Praise the power that has made and  
-&#x27;. &#x27; served tis A nation 1 &quot; &#x27; &#x27;  
-prc-  
-Then conn tier&#x27; we tnuot when our cause it is  
-Junt, &#x27; &#x27;  
-And tins be our motto: &#x27;In God it our  
-: trust  
-&#x27; And the star spttngh d banner in triumph  
-shall Wave,&#x27;  
-O&#x27;er the land of the frco and the home of  
-&#x27; i the brave. 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F0028077604A%2F1865070101%2F0099.jp2/pct:29.795327,17.355256,12.932440,32.419899/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Heaven-rescued land,  
+Praise the power that has made and  
+served us a nation!  
+pre-  
+Then conquer we must when our cause it is  
+just,  
+And this be our motto: &#x27;In God is our  
+trust  
+And the star spangled banner in triumph  
+shall wave,  
+O&#x27;er the land of the free and the home of  
+I the brave
+</td></tr></table>
 
 ---
 
-## [From _The Round Table. A Saturday Review of Politics, Finance, Literature, Society and Art (1863-1869)_](https://archive.org/details/sim_round-table-a-saturday-review-of-politics-finance_1866-04-14_3_32/page/n3/mode/1up?view=theater)
+## [From _The Round Table. A Saturday Review of Politics, Finance, Literature, Society and Art (1863-1869)_](https://archive.org/details/sim_round-table-a-saturday-review-of-politics-finance_1866-04-14_3_32/page/n4/mode/1up?view=theater)
 
 #### 1866-04-14 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s the text differs a little  
-  
-  
-  
-  
-  
-  
-  
-poor Cherry! “ the righteous perish and no man layeth  
-  
-from the one we are accustomed to read and sing, we  
-  
-  
-  
-  
-  
-MME a A  
-  
-  
-  
-  
-  
-- — =  
-  
-”  
-  
-n,  
-  
-  
-  
-  
-  
-ein  
-  
-  
-  
-Aprit 14, 1866]  
-  
-give it below with the variations of Griswold and Dana.  
-The expression, “his foul footstep’s pollution,” refers to  
-a British officer who boasted in the hearing of Mr. Key  
-that_Fort McHenry would soon be reduced, a mistaken  
-prophesy, which the latter recalled after the bombard.  
-ment when he looked down upon the blood-stained deck  
-of the vessel in which he was confined.  
-  
-THE STAR-SPANGLED BANNER.  
   
 O say, can you see, by the dawn’s early light,  
   
@@ -4503,7 +3615,7 @@ And this be our motto, In God is our trust.
 And the star-spangled banner in triumph shall wave  
 O’er the land of the free and the home of the brave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_round-table-a-saturday-review-of-politics-finance_1866-04-14_3_32&#0036;3/pct:39.383188,63.667169,57.177948,28.765060/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_round-table-a-saturday-review-of-politics-finance_1866-04-14_3_32&#0036;4/pct:7.287118,15.794428,26.528384,25.301205/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4528,6 +3640,60 @@ Their blood has wash’d out their foul footsteps’ pollution.
 
 ---
 
+## From _Daily Ohio statesman._
+
+#### 1867-10-21 &middot; [Columbus, Ohio](http://dbpedia.org/resource/Columbus%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+say, can you see by the dawn&#x27;s early light,  
+What so proudly we hailed at the twilight&#x27;s last  
+ gleaming,  
+Whose broad stripes and bright stars, through the  
+perilous fight,  
+ O&#x27;er the ramparts we watched, were so gallantly  
+streaming?  
+And the rocket&#x27;s red glare, the bombs bursting in  
+air.  
+Gave proof through the night that our flag was still  
+there.  
+O! say, does that star-spangled banner still  
+wave  
+O&#x27;er the land of the free and the home of the  
+brave !  
+On the shore, dimly seen through the mists of the  
+deep,  
+Where the foe&#x27;s haughty hosts in dread silence  
+redoses.  
+What is that which the breeze o&#x27;er the towering  
+As it ifally blo  
+it fitfully blows, half conceals, half discloses?  
+Now it catches the gleam of the morning&#x27;s first  
+beam.  
+In full glory reflected, now shines on the stream:  
+Tis the star-spangled banner, OI long may it  
+wave  
+O&#x27;er the land of the free, and the home of the  
+al brave.  
+Ol thus be it ever when freemen shall stand.  
+Between their loved home and the war&#x27;s desola  
+tion;  
+Blest with victory and peace, may the Heaven­  
+rescued land  
+Praise the Power that hath made and preserv&#x27;d  
+us a nation.  
+Then conquer we must, for our cause it is just  
+And this be our motto, &quot;In God is our trust!&quot;  
+And the star-spangled banner in triumph shall  
+Wave  
+O&#x27;er the land of the free, and the home of the  
+brave.
+</td></tr></table>
+
+---
+
 ## [From _American Phrenological Journal (1838-1869)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1869-07_49_7/page/n39/mode/1up?view=theater)
 
 #### 1869-07-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
@@ -4543,217 +3709,311 @@ Their blood has wash’d out their foul footsteps’ pollution.
 
 ---
 
-## Memorial Day in Bangor
+## From _Gold Hill daily news._
 
-#### From _Bangor daily Whig & courier._
-
-#### 1870-05-31 &middot; [Bangor, Me.](http://dbpedia.org/resource/Bangor%2C_Maine)
-
-[This text is not available under an open license.]
-
----
-
-## Memorial Day in Bangor
-
-#### From _Bangor daily Whig & courier._
-
-#### 1870-05-31 &middot; [Bangor, Me.](http://dbpedia.org/resource/Bangor%2C_Maine)
-
-[This text is not available under an open license.]
-
----
-
-## [From _The New York herald._](https://chroniclingamerica.loc.gov/lccn/sn83030313/1871-07-13/ed-1/seq-6)
-
-#### 1871-07-13 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
+#### 1869-07-03 &middot; [Gold Hill, N.T. [Nev.]](http://dbpedia.org/resource/Gold_Hill%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-O&#x27; aay. does that Star Spangled Banner yet wave  
-O&#x27;er the land of the iroe and the home of the brave 1  
-And irhere is the hand irhoso Tauntingly sipore.  
-Mid the havocQf tear and the battle&#x27;s confusion,  
-A home and a country they&#x27;d ieave us no more ?  
-Their blood hath wash&#x27;d out their foul footsteps&#x27;  
-pollution :  
-Xo refuge could sane the hireling ami slave  
-From the terror of flight or the gloom of the grave,  
-And the Star Spangled Banner in triumph doth  
-wave  
-O&#x27;er the laud of the tree and the home of the brave.  
-O! thus be it ever, when freeman shall stand  
-Between our loved home and the war&#x27;s desolation:  
-Bless&#x27;d with victory and peace, may the heavenrescued  
-land  
-Praise the power that hath made and preserved us  
-u nation I  
-Then conquer we must, for our cause It Is just.  
-And this be our inotlo, &quot;In (iod is our trust,&quot;  
-And the Star-Spuugled Banner in triumph shall  
-wav
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_itchweed_ver01%2Fdata%2Fsn83030313%2F00271743750%2F1871071301%2F0137.jp2/pct:49.271832,9.692080,16.853446,11.672916/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Ot say, can you see, by the dawn&#x27;s early  
+light,  
+What so proudly we hail&#x27;d at the twilight&#x27;s  
+o last ge ming  
+Whose broad stripes and bright stars,  
+through the perilous fight  
+O&#x27;er the ramparts we watch&#x27;d, were so  
+ aa ein  
+And the rockets red glare, the bombs burt­  
+ing in air,  
+Gave proof thro&#x27; the night that our flag  
+a was sti there  
+O! say, does not the star-spangled banner  
+yet wave.  
+O&#x27;er the land of the free and the home of the  
+brave?  
+on the shore, dimly seen through the mists  
+wc  e  
+Where the foe&#x27;s haughty host in dread si­  
+lence reposes,  
+What is that which the breeze o&#x27;er the tow­  
+ering steep   
+As it fitfully blows, half conceals, half dis  
+closes?  
+Now it catches the gleam of the morning&#x27;s  
+first beam;  
+Its full glory reflected now shines on the  
+  
+&quot;Tis the star-spangled banner, O! long may  
+it wave,  
+O&#x27;er the land of the free and the home of the  
+brave.  
+And where is the band who so flauntingly  
+swore,  
+&quot;Mid the havoe of war and the battle&#x27;s con­  
+fusion,  
+A home and a country they&#x27;d leave us no  
+more?  
+Their blood hath wash&#x27;d out their foul  
+footsteps&#x27; pollution;  
+No refuge could save the hireling and slave  
+From the terror of flight, or the gloom of the  
+grave,  
+And the star-spangled banner in triumph  
+doth wave,  
+O&#x27;er the land of the free and the home of the  
+brave.  
+O! thus be it ever, when freemen shall  
+stand  
+Between our loved home and the war&#x27;s  
+desolation;  
+Bless&#x27;d with victory and peace, may the  
+heaven-rescued land  
+Praise the power that hath made and pre­  
+served us a nation!  
+Then conquer we must, for our cause it is  
+just,  
+And this be our motto, &quot;In God is our  
+trust.&quot;  
+And the star-spangled banner in triumph  
+shall wave,  
+Oer the land of the free and the home of  
+the brave
+</td></tr></table>
 
 ---
 
-## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1872-06-29/ed-1/seq-1)
+## Memorial Day in Bangor
+
+#### From _Bangor daily Whig & courier._
+
+#### 1870-05-31 &middot; [Bangor, Me.](http://dbpedia.org/resource/Bangor%2C_Maine)
+
+[This text is not available under an open license.]
+
+---
+
+## From _Clearfield Republican._
+
+#### 1871-11-01 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+O! say, can you see by the dawn&#x27;s carly light,  
+What so proudly we hailed at the twilight&#x27;s last  
+gleaining  
+Whose broad stripes and bright stars, through the  
+erilous fight,  
+O&#x27;er the ramparts we watched, were so gallantly  
+streaming?  
+And the rockets&#x27; red glare, the bombs bursting in  
+ir,  
+Gave proof thro&#x27; the night that our flag was still  
+there.  
+O! say does that Star Spangled Banner yet wave  
+O&#x27;er the land of the free and the home of the brave?  
+And where is the band who so rauntingly swore,  
+Mid the haroe of war and the buttle&#x27;s confasion,  
+A home and a country they&#x27;d leave uts no more?  
+Their blood hath wushed out their foul footsteps&#x27;  
+pollution.  
+No refuge could eave the Atrelin und slare  
+From the terror of flight, or the gloom of the grave,  
+And the Star-Spangled Banner in triumph doth  
+wave  
+O&#x27;er the land of the free and the home of the brave.  
+O! thus be it ever, when freeman shall stand  
+Between our loved home and the war&#x27;s desola­  
+tion;  
+Blessed with victory and peace, may the heaven­  
+rescued land  
+Praise the power that hath made and preserved  
+us a nation!  
+Then conquer we must, for our case it is just,  
+And this be our motto, &quot;In God is our trust.&quot;  
+And the Star-Spangled Banner in triumph shall  
+wave  
+O&#x27;er the land of the free and the home of the brave
+</td></tr></table>
+
+---
+
+## From _Sunbury American._
 
 #### 1872-06-29 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-mbs bursting In  
+  
+I! say can you see by the dawn&#x27;s early light,  
+What so proudly we hailed at the twilight&#x27;s  
+last gleaming,  
+Whose broad stripes and bright stars through the  
+perilous fight,  
+O&#x27;er the ramparts we watched were so gallant­  
+ly streaming,  
+And the rockets red glare, the bombs bursting in  
 air.  
 Gave proof through the night that our flag was  
 still there,  
-O I say docs that star spangled banner yet wave,  
-O&#x27;er the land of the free nnd tho home of the  
-brave I  
+O! say does that star spangled banner yet wave,  
+O&#x27;er the land of the free and the home of the  
+brave?  
 On the shore dimly seen through the mist of the  
 deep,  
-Where the foe&#x27;s haughty host lu dead silence  
-reposes ;  
+Where the foe&#x27;s haughty host in dead silence  
+reposes;  
 What is that which the breeze o&#x27;er the towering  
 steep  
-As it tit fully blows, half concealed, half dis­  
-closes !  
+As it fitfully blows, half concealed, half dis­  
+closes!  
 Now it catches the gleam of the morning&#x27;s first  
 beam  
-In full glory reflected now shines on the stream s  
-&#x27;TIs the star-spangled banner, O ! long may it  
+In full glory reflected now shines on the stream;  
+&#x27;Tis the star-spangled banner, O! long may it  
 wave,  
-O&#x27;er the land of the free aud the home of the  
+O&#x27;er the land of the free and the home of the  
 brave.  
-And where Is that band who so vauntingly  
+And where is that band who so vauntingly  
 swore,  
-That the havoc of war and the battle&#x27;s cn fu­  
-sionA home und a country should leave us no morel  
+That the havoc of war and the battle&#x27;s cenfu­  
+A home and a country should leave us no more!  
 Their blood has washed out their foul foot­  
 steps, pollution,  
 No refuge could save the hireling and slave  
 From the terror of flight, or the gleam of the  
-grave ;  
-Aud the star-spangled banner In triumph doth  
+grave;  
+And the star-spangled banner in triumph doth  
 wave,  
-O&#x27;er the land of the free and the homo of the  
+O&#x27;er the land of the free and the home of the  
 brave.  
-O ! thus be It ever when freemen shall stand  
-Between their loved home nnd the war&#x27;s deso­  
-lation.Blessed with victory uud peace, may the Heaven­  
+Od thus be it ever when freemen shall stand  
+Between their loved home and the war&#x27;s deso­  
+Blessed titth victory and peace, may the Heaven­  
 rescued land,  
 Praise the power that has made and preserved  
-us a nation !  
-Then couquer we must when our cause it is Just,  
-And this be our motto: &#x27;In God is our trust !&#x27;  
-And the star-spangled banner iu triumph shall  
+us a nation!  
+Then conquer we must when our cause it is just,  
+And this be our motto: &quot;In God is our trust!&quot;  
+And the star-spangled banner in triumph shall  
 wave,  
-O&#x27;er the land of the free and tho home of the  
-brave
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776051%2F1872062901%2F0093.jp2/pct:43.056310,19.672594,12.746696,21.436636/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+O&#x27;er the land of the free and the home of the  
+br
+</td></tr></table>
 
 ---
 
-## [From _White Cloud Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015486/1872-07-04/ed-1/seq-4)
-
-#### 1872-07-04 &middot; [White Cloud, Kan.](http://dbpedia.org/resource/White_Cloud%2C_Kansas)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-O ! sar, can you ace, by the dawn&#x27;s early light.  
-What so proudly we nailed at tbe twilight&#x27;s hut gleaming I  
-Whose broad stripes and bright stars, through the penlous  
-fight.  
-O&#x27;er tbe ramparta we watched were so gallantly stream,  
-ing!  
-And the rocket&#x27;s red glare, the bombs unrsting in air.  
-Gave proof, thron-h the night, that our nag was still there!  
-O! say, does that stsr spangled banner et wave  
-O&#x27;er the land of the free, and the home of tbe brave f  
-On the shore, dimly seen through the mists of tbe deep,  
-Whero the foe&#x27;s hauchtv IkmC in dread silence reiwmca.  
-J What is that which tbe breeze, o&#x27;er the towering steeji.  
-as it uiiuuj uiows. uaii nincnun, nan uisciosesi  
-Xow it catches the gleam of tbe morning&#x27;s first beam.  
-In full clorr reflected, now shines on tbe stream:  
-Tis the star-spangled banner! O. long mav it ware  
-O er tbe land of the free, and the home of the brave!  
-And where Is that band who so vauntinglv swore  
-That the havoc of war and the tattle&#x27;s confusion,  
-A home and a country should leave us no more!  
-Their bluod has washed out their foul ftwtteipollutiun.  
-Xo refuge could save the hireling and slave  
-From the terror of flight or tbe gloom of the crave;  
-And the star-spangled lianuer in triumph iloth w ave  
-O&#x27;er the land of the free, and the home of the brave!  
-O! thus Ite 11 ever, when freemen shall stand  
-Iletween their lored home and the war&#x27;s desolation !  
-KIet with victory and sace, may the heaven rescued land  
-l&#x27;raise the Power that hath made sud preserved us a nation!  
-Then ennoner we must, when onr cause it la just.  
-And this be our motto MIn (iod is our trust:&quot;  
-Anil the star spaugled luuner iu triumph sliall ware  
-OertheLiudof the free, and tho home of the brare
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015486%2F0029455564A%2F1872070401%2F0473.jp2/pct:30.555047,26.540487,12.932772,12.124662/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Bristol news._](https://chroniclingamerica.loc.gov/lccn/sn85026955/1872-11-05/ed-1/seq-1)
+## From _Bristol news._
 
 #### 1872-11-05 &middot; [Bristol, Va. & Tenn.](http://dbpedia.org/resource/Bristol%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-0 (Sfly, can you eee by the dawn&#x27;s early liglit,  
-What bo proudly we hailed at the twilight&#x27;s  
+O say, can you see by the dawn&#x27;s early light,  
+What so proudly we hailed at the twillght&#x27;s  
 last gleaming,  
 Whose broad stripes and bright stars through  
 the perilous fight,  
-O&#x27;r the ramparts we watched were bo gal­  
-lantly streaming ?  
+O&#x27;r the ramparts we watched were so gal­  
+lantly streaming?  
 And the rocket&#x27;s red glare, the bombs burst­  
 ing in air,  
 Gave proof through the night that our flag  
 was still there.  
 O say, does that star spangled banner  
-yet waTe  
+yet wave  
 O&#x27;er the land of the free and the home  
-of the brare.  
-II.  
+of the brave.  
+H.  
 On the shore dimly seen through the mists  
-of the deep.  
+of the deep,  
 Where the foe&#x27;s haughty host in dread si  
 lence reposes,  
 What is that which the breeze, o&#x27;er the tow  
 ering sleep,  
-As it fitfully blows half conceals, half die  
-closet-?  
+As it fitfully blows half conceals, half dis  
+closes?  
 Now it catches the gleam of the morning&#x27;  
-first beam.  
+first beam,  
 In full glory reflected now shines on the  
 stream.  
-&#x27;Tis the 6tar-epangled banner. 0! Ion:  
-may it ware  
+&#x27;Tis the star-spangled banner. Of lon,  
+may it wave  
 O&#x27;er the land of the free and the home of  
-the braye.  
+the brave.  
 III.  
-And where is that band who so Tauntingly  
+And where is that band who so vauntingly  
 swore,  
-&#x27;Mid the havoc of war and the battle&#x27;s
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_grady_ver01%2Fdata%2Fsn85026955%2F0020029354A%2F1872110501%2F0889.jp2/pct:27.946905,22.508497,10.864233,15.623287/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+&#x27;Mid the havoc of war and the battle&#x27;s c
+</td></tr></table>
+
+---
+
+## From _Sunbury American._
+
+#### 1873-07-05 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+O! say can you see by the dawn&#x27;s early light, fe  
+What so proudly we hailed at the twilight&#x27;s  
+last gleaming,  
+Whose broad stripes and bright stars through the  
+perilous fight  e  
+O&#x27;er the ramparts we watched were so gallant-  
+ly streaming, smes sncitnno  
+And the rockets red glare, the bombs bursting in  
+aira o e e of  
+Gave proof through the night that our flag was  
+still there.  
+O! say does that star spangled banner yet wave,  
+O&#x27;er the land of the free and the home of the  
+o1 brave? beled olI sonoviHg  
+On the shore dimly seen through the mist of the  
+deep,   
+Where the foe&#x27;s haughty host in dead silence  
+f reposes ;ils bmrovrins el ias on  
+What is that which the breeze o&#x27;er the towering  
+steep  
+As it fitfully blows, half concealed half dis­  
+closes!  
+Now it catches the gleam of the morning&#x27;s first  
+beam  
+In full glory reflected now shines on the stream;  
+&#x27;Tis the star-spangled banner, O! long may it  
+wave,  
+O&#x27;er the land of the free and the home of the  
+brave.  
+And where is that band who so vauntingly  
+sWore,  
+That the havoc of war and the battle&#x27;s confu­  
+A hoine oind a country should leave us no rore?  
+Their blood has washed out their foul foot­  
+step&#x27;s pollution.  
+No refuge co uld save the hireling and slave  
+From the terror of flight, or the gleam of the  
+grave;  
+And the star-spangled banner in triumph doth  
+wave,  
+O&#x27;er the land of the free and the home of the  
+ brave.  
+O! thus be it ever when freemen shall stand  
+Between their loved home and the war&#x27;s deso.­  
+lation;  
+Blessed with victory and peace, may the Heaven-  
+rescued land, Jn  
+Praise the power that has made and preserved  
+us a nation!  
+Then conquer we must when our cause is just,  
+And this be our motto: &quot;In God is our trust!&quot;  
+And the star-spangled banner in triumph shall  
+wave,  
+O&#x27;er the land of the free and the home of the  
+brave
+</td></tr></table>
 
 ---
 
@@ -4905,7 +4165,7 @@ Between their loved homes and the war&#x27;s d. s.i
 lati ml  
 Blest with victory and peace, may the h- hv  
 rescued lan 1  
-Praise the Pow&lt; r that hath made and pieserv f
+Praise the Pow&lt; r that hath made and piese
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_tonopah_ver01%2Fdata%2Fsn84022053%2F00279554619%2F1875070101%2F0681.jp2/pct:29.987760,7.549557,12.367401,19.081260/!600,600/0/default.jpg"/>
 </td>
@@ -4919,22 +4179,7 @@ Praise the Pow&lt; r that hath made and pieserv f
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ough the per.  
-ilous fight.  
-&#x27;)&#x27;er the ramparts we watched were so gallantl}  
-streaming!  
-Ind the rocket&#x27;s red glare. the hombs burstingin air  
-gave proof through the night that our flag was still  
-there;  
-) say, does that star-spangled banner yet wave  
-O&#x27;er the land of the free and the home of the brave?  
-On that shore dimly seen through the mists of thb  
-deep,  
-Where the foe&#x27;s haughty host in dread silence re­  
-poses,  
-What is that which the breeze, o&#x27;er the towering  
-steep,  
-Is it fitfully blows now conceals now discloses ?  
+iscloses ?  
 Now it catches the gleam of the morning&#x27;s first beam.  
 In fall glory reflected, now shines on the stream;  
 T is the star-spangled banner I 0 long may it wave  
@@ -4960,196 +4205,9 @@ And this be our motto. &quot;In God is our trust &quot;;
 And the star-spangled banner in triumph shall wave  
 O&#x27;er the land of the free and the horme of the brave I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_lynx_ver01%2Fdata%2Fsn84038125%2F00294554841%2F1875070201%2F0331.jp2/pct:16.052784,49.956217,11.325406,17.250438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_lynx_ver01%2Fdata%2Fsn84038125%2F00294554841%2F1875070201%2F0331.jp2/pct:16.052784,56.436077,11.209397,10.770578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## [From _Northern Ohio journal._](https://chroniclingamerica.loc.gov/lccn/sn84028194/1875-07-03/ed-1/seq-3)
-
-#### 1875-07-03 &middot; [Painesville, Ohio](http://dbpedia.org/resource/Painesville%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Oh! Say, can you see, by the dawn&#x27;s early light.  
-What so proudly we hailed at the twilight&#x27;s  
-last gleaming?  
-Whose broad stripes and bright stars, through  
-the nerilous fieht.  
-O&#x27;er tbe ramparts we watched, were so gal­  
-lantlv streaming;  
-And tbe Rocket&#x27;s red glare, the bombs bursting  
-in air,  
-Gave proof thro&#x27; the night, tbat our flag was  
-still there;  
-Oh ! say, does the star spangled banner yet wave  
-O&#x27;er the land of tbe free and the borne of the  
-brave,  
-On the shore dimly seen thro&#x27; tbe mists of the  
-deen.  
-  
-Where the foe&#x27;s haughty host in dred silence  
-reposes.  
-What is that which tbe breeze o&#x27;er the towering  
-sweep.  
-As It fitfully blows, half conceals, half dis­  
-closes;Now it catches the gleam of the morning&#x27;s first  
-beam.  
-In full glory reflected now shines on the .  
-stream; -  
-&#x27;Tis the star spangled banner, oh! long may it  
-wave.  
-O&#x27;er the land of the free, and the home of tbe &quot;  
-braver &#x27;  
-And where is that band wbo so vauntingly  
-swore.  
-That the (avoc of war, and the battles confu­  
-sionA home and a country should leave ns no moref  
-Thei r lood has washed out their foul footsteps  
-pollution.  
-No refuare could save the hireling- and slave.  
-  
-From the terror of flight or the gloom of the  
-grave:  
-And the star spangled banner in triumph doth  
-wave  
-O&#x27;er the land of the free, and the home of tbe  
-brave.  
-.5. Chorus, Red, White and blue.  
-iia. the rem of theocean.  
-hom&amp;lf4--uro and the free. 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_norgay_ver01%2Fdata%2Fsn84028194%2F0029602899A%2F1875070301%2F0219.jp2/pct:85.418126,58.223039,10.001401,14.497549/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Monmouth inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032307/1875-08-19/ed-1/seq-4)
-
-#### 1875-08-19 &middot; [Freehold, N.J.](http://dbpedia.org/resource/Freehold_Township%2C_New_Jersey)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-oh! say, &lt;-au you see. by the dawns early light.  
-What bo proudly we hailed at the twilight’s last  
-gleaming?  
-Whose broad btripes and bright stars through the  
-perilous fight.  
-O’er tho ramparts we watched were so gallantly  
-streaming;  
-And the rochets red glare, tho bombs bursting in air.  
-Gave proof through the night that our flag was still  
-there;  
-oh! say, does that Btar-spangled banner yet wave  
-O’er the land of tho free and the home of the brave?  
-On the shore, dimly seeu through the mists of the deep,  
-Where the foe’s haughty host in dread silence reposes.  
-What is it which the breeze, o’er the towering steep,  
-As it fitfully blows, half conceals, half discloses?  
-Now it catches the glsam of the morning’s first beam,  
-In full glory reflected now shines on the stream;  
-&quot;Pis the star-spangled banner! oh, long may it wave,  
-O’er the land of the free and the home of the brave!  
-And where is that band, who so vauntingly swore  
-That the havoc of war and the battle’s confusion,  
-A homo and a country should leave us no more?  
-Their blood has w ashed out their foul footstep’s pol­  
-lution.  
-No refuge could save the hireling and slave,  
-From the terror of death and the gloom of the grave;  
-And the star-spangled banner in triumph shall wave.  
-O’er the land of the free and the home of the brave!  
-«&gt;!i! thus be it ever when freemen shall stand  
-t vtwerij tb#ir loved homes and tho war’s desolation;  
-lilest with victory and peace, may the heaven-rescued  
-laud  
-Praise the power that has made and preserved us a  
-nation.  
-Then conquer we must, for our cause it is just,  
-\n»l tliis be our motto, “ Iu God is our trust.”  
-And llie star-span
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_eggharbor_ver01%2Fdata%2Fsn83032307%2F00513685282%2F1875081901%2F0132.jp2/pct:4.711617,25.736906,11.035743,12.256395/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Leisure Hour, an Illustrated Magazine for Home Reading 1852-1905_](https://archive.org/details/sim_leisure-hour-an-illustrated-magazine-for-home-reading_1876-02-05_25_1258/page/n10/mode/1up?view=theater)
-
-#### 1876-02-05 &middot; [London, England](http://dbpedia.org/resource/London)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-night that our flag was still there; O say, does that  
-Se A SOR! SRE Sa AE ecm — % ima  
-ee oat  
-  
-the bombs burst-ing in air,  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-star - span-gled ban - ner yet wave O’er the  
-&lt; 2. fa. ~  
-— 2 OO  
-t : -) ys. ~~ t a. = + L i) = -) + . tl  
-land of the free and the home of the brave?  
-  
-  
-  
-  
-  
-92  
-  
-On the shore, dimly seen through the mists of the deep,  
-Where the foe’s haughty host in dead silence reposes,  
-What is that which the breeze o’er the towering steep,  
-As it fitfully blows, half conceals, half discloses ?  
-Now it catches the gleam of the morning’s first beam,  
-Its full glory reflected, now shines on the stream ;  
-*Tis the star-spangled banner, O! long may it wave  
-O’er the land of the free and the home of the brave.”
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_leisure-hour-an-illustrated-magazine-for-home-reading_1876-02-05_25_1258&#0036;10/pct:45.886525,79.653996,39.148936,11.086745/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## The Star Spangled Banner
-
-#### From _The Wisconsin state register._
-
-#### 1876-07-01 &middot; [Portage, Columbia County, Wis.](http://dbpedia.org/resource/Portage%2C_Wisconsin)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -5159,11 +4217,7 @@ O’er the land of the free and the home of the brave.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-j^egnhl  
-. ■ ; :.... ._^rrxr.— _r  
-WATERTOWN, WBS.  
-WEDNESDAY, JULY 5, 1876.  
-THE STAR SPANGLED BANNER.  
+  
 O say can you see by the dawns early lijarht.  
 What so proudly we hail&#x27;d at the twilight’s last  
 gleaming;  
@@ -5195,38 +4249,9 @@ beam,
 In full glory reflected now shines in the stream,  
 ’Tis the star spangled banner, O long may it  
 wave,  
-O’er the laud of the free and the home of the  
-brave.  
-Chorus.  
-And where is that band who so vauntingly swore,  
-That the havoc of war and the battle’s con­  
-fusion,  
-A home and a country shall leave us no more ?  
-Their blood has washed out their foul footstep’s  
-pollution.  
-No refuge can save the hireling and slave,  
-From the terror of fiight o’er the gloom of the  
-grave.  
-And the star spangled banner in triumph shall  
-wave,  
-O’er the land of the free and the ho me of the  
-brave.  
-Chorus.  
-Oh ! thus be it ever, when freemen shall stand  
-B etween their loved home and the war’s deso­  
-lation;  
-Blest with victory and peace, may the heaven  
-rescued land  
-Praise the power that hath made and preserved  
-us a nation.  
-Then conquer we must, when our cause it is just,  
-And this be our motto—“ In God is our trust”—  
-And the star spangled banner in triumph shall  
-wave.  
-O’er the land of the free and the home of the  
-brave.
+O’er the laud of the free and the home o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F0027176876A%2F1876070501%2F0410.jp2/pct:8.119051,5.480804,14.166344,30.160866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F0027176876A%2F1876070501%2F0410.jp2/pct:8.157815,11.329386,14.041435,12.543356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5314,62 +4339,70 @@ brave.
 
 ---
 
-## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1876-07-13/ed-1/seq-2)
+## From _Gold Hill daily news._
 
-#### 1876-07-13 &middot; [Hillsborough [Hillsboro], Highland County, Ohio](http://dbpedia.org/resource/Hillsboro%2C_Ohio)
+#### 1876-11-02 &middot; [Gold Hill, N.T. [Nev.]](http://dbpedia.org/resource/Gold_Hill%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Oh, say, can you see by the dawn&#x27;s early light  
-What so proudly we hailed at the twilight&#x27;s last  
-gnawing.  
-Whose broad stripes and bright stars througfc the  
-perilous tight  
-O&#x27;er the ramparts we watched were so gallantly  
-streaming;  
-And ths rocket&#x27;s red glare, the bombs bursting in  
-air.  
-Gave proof through the night that our flag was still  
-there.  
-Oh, say, does the star-spangled banner still wave  
-O&#x27;er tne land of the free and the home of the  
-brave?  
-On the shore, dimly seen through the mists of the  
-deep,  
-Where the foe&#x27;s haughty host in dread silence re­  
-poses,What is that which the breeze o&#x27;er the towering  
-steep,  
-AbU litfuily lilrnrs, half conceals, half disriosrsT  
-Now it catches the gleam of the morning&#x27;s firm  
-beam.  
-In full glory reflected now shines od the stream ;  
-&#x27;Tis ino star-spangled banner, oh, long way it  
-wave  
+Oh I say can you see by the dawn&#x27;s early light,  
+What so proudl we hailed at the twilight&#x27;s  
+last gleaming!  
+Whose broad stripes and bright stars through  
+the perilous fight,  
+O&#x27;er the ramparts we watch&#x27;d were so gal­  
+lantly streaming?  
+And the rockets&#x27; red glare, the bombs bursting  
+in air!  
+Oave proof through the night that our flag wes  
+still there  
+Oh! say does the star spangled banner yet  
+wave.  
+Oer the land of the free, and the home of the  
+brave!  
+Chores-OhI say does the Star spangled Ban­  
+ner yet wave,  
+O&#x27;er the lant of the free and the home  
+of the brave?  
+On the shore dimly seen through the mists of  
+the deep,  
+Where the foe&#x27;s haughty host in dretd silence  
+What is that which the breeze, w&#x27;er the tower­  
+As it auully blowe, halt conceale, halt  
+discloses?  
+Now it catches the gleam of the morniog&#x27;s first  
+beam  
+In full glory 
+</td></tr></table>
+
+---
+
+## From _Gold Hill daily news._
+
+#### 1876-11-02 &middot; [Gold Hill, N.T. [Nev.]](http://dbpedia.org/resource/Gold_Hill%2C_Nevada)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+&quot;Tis the Star Spangled Hanner, Oh I long may  
+it wave.  
 O&#x27;er the land of the free and the home of the  
-brave.  
-And where is the band who so vauntingly swore  
-That the havoc of war, and the battle&#x27;s confusion,  
-A home and a country would leave us no more ?  
-Their blood has washed out their foul footsteps&#x27;  
-pollution.  
-No refuge could save the hireling and slave  
-From the terror of flight or the gloom of the grave;  
-And the star-spangled banner in triumph doth  
-wave  
-O&#x27;er the land of the free and the home of the  
-brave.  
-Oh, thus be it ever when freemen shall stand  
-Between their loved homes and war&#x27;s desolation ;  
-Blesaed with victory and peace may theheaven-rescued  
-land  
-Praise the power that bath made and preserved us  
-a nation.  
-Then conquer we must when our cause 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283612%2F1876071301%2F0336.jp2/pct:44.915386,4.028939,9.843192,15.092928/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+brave!  
+CHORes-&quot;Tis the Star spangled Banner, ete.  
+O thus be it ever, when freemen shall stand  
+Between their lov&#x27;d home and the war&#x27;s des­  
+olation;  
+Blest with victory and peace, may the heav&#x27;n  
+rescued land,  
+Praiss the pow&#x27;r that hath made and pre­  
+serves us a nation.  
+Then conquer we must, when our cause it is  
+And this be our motto: In God is our trust;  
+And the Star spat gled Uanner in triumph shall  
+Wavs,  
+O&#x27;er the land of the free and home of the brave
+</td></tr></table>
 
 ---
 
@@ -5450,28 +4483,6 @@ O&#x27;er the land of the tree and the home of the brav
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-little smaller than  
-those above.  
-  
-STAR-SPANGLED BANNER.  
-  
-  
-  
-pacing the deck of the vessel, composed that  
-  
-immortal song, ‘ The Star-Spangled Banner.’ The  
-rude, first draught of it was written on the back of  
-a letter, and he wrote it out at full length on his  
-arrival in Baltimore.” Soon after, it was printed,  
-and at once became exceedingly popular. ‘‘It  
-was sung everywhere, in public and private, and  
-created intense enthusiasm.”  
-  
-Although the famous song is no doubt well  
-known to most of our readers, we here reprint it in  
-full, as it was originally written by Mr. Key:  
-  
-Tue STAR-SPANGLED BANNER.  
   
 O say can you see, by the dawn’s early light,  
 What so proudly we hailed at the twilight’s last gleaming;  
@@ -5521,146 +4532,7 @@ when our cause it is just,
   
 ‘In Gop ts our Trust
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saint-nicholas-a-magazine-for-boys-and-girls_1881-07_8_9&#0036;70/pct:30.574324,19.297251,54.222973,66.336073/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1884-07-18/ed-1/seq-1)
-
-#### 1884-07-18 &middot; [Woodstock, Va.](http://dbpedia.org/resource/Woodstock%2C_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-Celleloid and Rubber plates.  
-flold and Porcelain rivoting, clasps, fcc,, Special |  
-attention given to filling and preserving the na?  
-tural teeth, and correcting the Irregularities.  
-All work warranted first class.  
-gar Teeth extracted absolutely without pain by I  
-the use of Nitrous OxideOas­  
-March 19,-tf.  
-TTTlLLIAMSfc ORABILL,  
-FIBE INSrjRANOK AGENTS,  
-WOODS TO CM, VA.  
-We are prepared to Ininrc property Is th? Vtr­  
-atnla Firs and Marine Insurance Company, and I  
-the Lynchburg Banklag and Insurance Company  
-Both are first class companies and Insure at tbo  
-ual premiums, ,  
-  
-The Star ??paiiKle?I Banner.  
-O say can you see by the dawn&#x27;s early light,  
-What so proudly wo hail&#x27;d at tho twi?  
-light&#x27;s last gleaming;  
-Whose sttipei and blight stars thro&#x27; the  
-perilous night,  
-o&#x27;.i- the tampan?, we watched were so  
-gallantly streaming;  
-And tlio nickel&#x27;s red glare, the bombs  
-bursting in air.  
-Qare proof thro&#x27;th? night that our Flag  
-wat still then,  
-O say dues the Star-Spangled Kanner yet  
-w ave,  
-O&#x27;er the Land of the Free and the Home  
-of th? Brave.  
-On the shore, dimly seen thro&#x27; the mists of  
-the deep,  
-Where the foe&#x27;s haughty host in dread  
-silence repose.-;  
-What is that which the breeze, o&#x27;er the  
-tow Bring steep,  
-As it fitfully blows, half conceals, half  
-discloses;  
-Now it catches the breeze of tho morning&#x27;s  
-titst beam,  
-In full glory reflected, now shines in tho  
-stream,  
-Tie the Star-Spangled Banner, Oh ! long  
-rUBJ ?I wave,  
-O&#x27;er the Land of the Free and the Home of  
-the Jiiave.  
-And where is that band who so Tauntingly  
-swore.  
-That the havoc of war and the battle&#x27;s  
-confusion,  
-A home and a country shall leavo us no  
-more,?  
-Their Mood has wash&#x27;d out their foot?  
-s
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_ozzyosbourne_ver01%2Fdata%2Fsn85026941%2F0017503237A%2F1884071801%2F0116.jp2/pct:15.173388,13.952401,23.939537,84.792925/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Connecticut western news._](https://chroniclingamerica.loc.gov/lccn/sn84027718/1884-09-17/ed-1/seq-1)
-
-#### 1884-09-17 &middot; [Salisbury, Litchfield Co., Conn.](http://dbpedia.org/resource/Canaan%2C_Connecticut)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Oh, say, can yon see by the dawn&#x27;s early light  
-What so proudly we hailed at the twilight&#x27;s  
-last gleaming;  
-Whose broad stripes and bright stars thro&#x27; the  
-perilous fight  
-O&#x27;er the ramparts we watched were so gal  
-lantly streaming;  
-And the rocket&#x27;s red glare, the bomb bursting  
-in air,  
-Gave proof through the night that our flag  
-was still there.  
-Oh, say, does the star-spangled banner  
-yet ware  
-O&#x27;er the land of the free and the home  
-of the brave.  
-On the shore, dimly seen through the mists of  
-the deep,  
-Where&#x27;s the foe&#x27; haughty host in dread  
-sik-noe reposes,  
-What is that which the breeze, o&#x27;er the tower­  
-ing steep,  
-As it- fitfully blows, half eonoeala, half dis­  
-closes?Now it oatohes ths gleam of the morning&#x27;s first  
-b am,  
-In full glory refleoted, now shines in the  
-. stream.  
-&#x27;Us ths star-spangled banner 1 Oh,  
-long may it wave  
-O&#x27;er the land of the free and the home  
-of the brave. v  
-And where is that band who so vauntingly  
-swore &quot;  
-That the havoc of war aud the battle&#x27;s con­  
-fusion,A home, and a eouutry should leave us no  
-more?  
-Their blood has washed out their foul foot­  
-steps&#x27; pollution;  
-No refuge ean save the hireling and Blave  
-From the terror of flight or the gloom of the  
-grave;  
-And the star-spangled banner in  
-triumph shall wave  
-O&#x27;er the land of the free and the home  
-of the brave.  
-Oh, thus be it ever when freemen shall stand  
-Between their loved home and war&#x27;s desola­  
-tion;Blest with victory and peace, may the  
-Leaven-rescued land  
-Praise the power that hath made and  
-preserved us a nation.  
-Then, conquer we must, when our cause it  
-is Just,  
-And this be our motto: &quot;In God is our trust,&quot;  
-And the star-epangled banner in  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_beatles_ver01%2Fdata%2Fsn84027718%2F00271762677%2F1884091701%2F0175.jp2/pct:4.065999,16.140560,10.960519,27.623585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saint-nicholas-a-magazine-for-boys-and-girls_1881-07_8_9&#0036;70/pct:45.016892,52.734486,37.753378,32.898838/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5787,6 +4659,75 @@ of the brave!
 
 ---
 
+## From _The Panola weekly star._
+
+#### 1885-08-01 &middot; [Sardis, Miss.](http://dbpedia.org/resource/Sardis%2C_Mississippi)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+t say can you see by the dawn&#x27;s carly  
+,  
+What so proudly we hailed at the  
+twilight&#x27;s last gleaming,  
+Whose broad stripes and bright stars  
+thro the perilous fight  
+O&#x27;er the ramparts we watched were  
+allantly streaming;  
+And the rocket&#x27;s red glare, the bomb  
+bursting in air  
+Cave proof through the night that our  
+flag was still there:  
+O say does that star-spangled banner yet  
+  
+  
+er the land of the fice and the homea heth wer perfected from the  
+  
+te bave  
+from the shore dimly seen, thro&#x27; the  
+mists of the steep  
+Where the foes&#x27; haughty host in  
+silence reposes,  
+What is that which the breeze o&#x27;er the  
+lowering deep,  
+As it fitfully blows, half conceals,  
+half discloses?  
+How it catches the gleam of the morn-  
+ing&#x27;s first bea  
+In full glory reflected now shines if  
+the stream;  
+Tis the star-spangled banner!-O  
+may it wave  
+O&#x27;er the land of the free and the home  
+of the brave.  
+And where is that band who so vaunt.  
+ingly swore  
+That the havoc of war, and the bat-  
+tle&#x27;s confusion  
+A home and a country should leave us  
+no mioire  
+Their blood has washed out their tou  
+footsteps&#x27; pollution,  
+No refuge could save the hireling and  
+slave  
+From the terror of Right or the gloom  
+of the grave;  
+And the star-spangled banner in triumiph  
+ioth wave  
+er the land of the free and the home  
+of the brave.  
+And thus be it ever, when freeme  
+shall stand  
+fictween their loved homes and the  
+war&#x27;s desolation;  
+blest with victory and peace may this  
+Heaven-rescued land  
+Praise the power that hath made and  
+preserved us a n
+</td></tr></table>
+
+---
+
 ## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1887-06-18_33_25/page/n8/mode/1up?view=theater)
 
 #### 1887-06-18 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
@@ -5818,17 +4759,9 @@ In full glory reflected, now shines on the stream ;
 O’er the land of the free, and the home of the brave?  
   
 Oh! thus be it ever, when freemen shall stand  
-Between their loved homes, and the war’s desolation ;  
-Blest with victory and peace, may the heaven-rescued  
-land  
-Praise the power that hath made and preserved us a  
-nation ;  
-Then conquer we must, when our cause it is just,  
-And this be our motto, “ In God is our trust—”  
-And the star-spangled banner, in triumph shall wave,  
-O’er the land of the free, and the home of the brave.
+Between their loved homes, and the war’s d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_school-journal_1887-06-18_33_25&#0036;8/pct:33.850763,7.074387,28.676471,29.236963/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_school-journal_1887-06-18_33_25&#0036;8/pct:33.850763,7.074387,28.649237,21.836656/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5895,75 +4828,6 @@ While the land of the free, Is the home of
 me orave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_dole_ver01%2Fdata%2Fsn83040340%2F0023728320A%2F1887070101%2F0136.jp2/pct:31.660900,67.444501,12.456747,20.938446/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Butler citizen._](https://chroniclingamerica.loc.gov/lccn/sn86071045/1887-07-01/ed-1/seq-2)
-
-#### 1887-07-01 &middot; [Butler, Pa.](http://dbpedia.org/resource/Butler%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Oh, siy, can you see, by the dawn&#x27;s early light.  
-What so proudly we i,ailed at twilight&#x27;s last  
-gleaming,  
-Whose broad stripes and bright stars, thro&#x27; the  
-perilous fight,  
-Or&#x27;e the ramparts we watched were so gal­  
-lantly streaming?  
-And the rocKet&#x27;s red glare, the bombs bursting  
-in aU  
-Gave proof through the night that our flag is  
-still there.  
-Oh, say, does the star spangled banner yet wave  
-Or&#x27;e the land of the free and the home of the  
-brave.  
-On the shore dimly seen thro&#x27; the mists of the  
-deep,  
-Where the foe&#x27;s haughty host in dread silence  
-reposes,  
-What is (hat which tlio bi-oc;&gt;o, or e tiie lower­  
-ing steep,  
-As it fitfully blows, half conceals, half dis­  
-closes?  
-Now it catches the gleam of the morning&#x27;s ilist  
-t&gt;e;»?;j,  
-In full glory reflected, now shines on the  
-stream.  
-&#x27;Tis the star spangled banner! Oh, long may it  
-wave  
-Or&#x27;e the land of the free and the home of the  
-brave:  
-And where is that band who so vauntingly swore  
-That the havoc of war and the battle&#x27;s con­  
-fusion  
-A home and a country should leave us no more?  
-Their blood has washed out their foul steps&#x27;  
-pollution.  
-N&#x27;o refuge could save the hireling and slave  
-From the terror of flight or the gloom of the  
-grave ;  
-And the star »pangl»d banner in triumph doth  
-wave  
-Or&#x27;e the land of the free and the home of the  
-brave.  
-Oh, thus it is ever whou fro 3mon shall stand  
-Between their loved home and wild wars  
-desolation ;  
-Blest with victory and peaco, may the Heaven  
-rescued laud  
-Praise the power that has made and preserv­  
-ed us a Nation;  
-Then coiup-or we must, when our cause it is just,  
-And tills be our motto, &#x27;&#x27;ln God is our Trust.&quot;  
-And the star spangled banner in triumph shall  
-wave  
-Or&#x27;e the land of the free, and the home
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_erie_ver02%2Fdata%2Fsn86071045%2F00296026487%2F1887070101%2F0347.jp2/pct:54.610304,42.865088,9.942756,23.387910/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6040,27 +4904,7 @@ O’er the land of the free and the home of the brave!”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- per­  
-manently cured, as when apparently  
-cured, a cold will bring them on  
-again and every succeeding cold will  
-aggravate them. These are facts which  
-no observing person can deny. It is of  
-the utmost importance that every eold  
-be- cured as quickly as possible after  
-the first symptoms appear and it has  
-been abundantly proven that there Is  
-no medicine that will cure s cold la  
-!««* time than Chamberlain’s Cough  
-Remedy, besides it leaves the system In  
-as healthy a condition ae It was before  
-the odd was contracted.  
-For sale by Groan A Bentley.  
-% Sw /: f  
-*a&#x27; . * J  
-- mc-zgsh; Mfi  
   
-THE SONO OF THE DAT.  
 O, say can you see by the dawn’s early light.  
 What so proudly we hailed at the twilight’s  
 last gleaming—  
@@ -6121,7 +4965,7 @@ wave
 O’er the land of the free and the home of the  
 brave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_ditto_ver02%2Fdata%2Fsn87058308%2F00279529030%2F1888112201%2F0246.jp2/pct:32.385275,7.085307,17.616406,90.339703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_ditto_ver02%2Fdata%2Fsn87058308%2F00279529030%2F1888112201%2F0246.jp2/pct:41.280888,7.548043,8.720793,21.476400/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6185,16 +5029,6 @@ brave
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_dole_ver01%2Fdata%2Fsn83040340%2F00237283211%2F1889070501%2F0331.jp2/pct:17.258535,38.974684,12.197633,19.924051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## The Star Spangled Banner
-
-#### From _The Irish world and American industrial liberator._
-
-#### 1890-06-07 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -6289,26 +5123,7 @@ brave
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-RINARIAN,  
-Bkl Air, Md.  
-Office In Democrat Building.  
-Over four years associated with Dr. R. Ward,  
-of Baltimore. 30my  
   
-Tie Em ui Intelliwer.  
-Is Published Kerry Friday by  
-FREDERICK W. BAKER.  
-Terms—sl.so A YEAR, in Advance.  
-Transient Advertisements.—One Square, 3  
-insertions or less. Sl.flO. Each subsequent insertion  
-25 cents. Longer advertisements in the same pro­  
-portion. A space equal to six lines makes a square  
-Figure-work double price.  
-(Obituaries and Personal Communications will  
-be inserted at 10 cents per line.]  
-tST&quot; Yearly Advertisements at Special Rates.  
-poetical  
-THE STAR-SPANGLED BAN’VeK.  
 O say, can you see by the dawn’s early light  
 What so proudly we hailed at the twilight&#x27;s last  
 gleaming?—  
@@ -6362,7 +5177,7 @@ And the star-spaugled banner in triumph shall
 wave  
 O’er the laud of the free and the home of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625558%2F1890070401%2F0109.jp2/pct:62.462661,10.069857,22.050665,85.390839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625558%2F1890070401%2F0109.jp2/pct:73.495752,17.754093,11.013694,15.407129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6374,12 +5189,7 @@ O’er the laud of the free and the home of th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-Oh ! say can you see by the dawn’s early light,  
-What so proudly we hailed at the twilight’s last gleaming ?  
-Whose broad stripes and bright stars, thro’ the perilous fight,  
-O’er the ramparts we watched were so gallantly streaming;  
-And the rockets’ red glare, the bombs bursting in air,  
+ bombs bursting in air,  
 Gave proof thro’ the night that our flag was still there.  
 Oh say does that Star-Spangled Banner yet wave,  
 O’er the Land of the Free, and the Home of the Brave ?  
@@ -6408,19 +5218,9 @@ And this be our motto “ In God is our trust,”
 And the Star-Spangled Banner in triumph shall wave,  
 O’er the Land of the Free, and the Home of the Brave!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_deal_ver01%2Fdata%2Fsn91064026%2F00513685142%2F1890071001%2F0346.jp2/pct:72.434133,32.088938,21.418272,15.651020/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_deal_ver01%2Fdata%2Fsn91064026%2F00513685142%2F1890071001%2F0346.jp2/pct:72.434133,33.928081,21.182331,13.811877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## German-American
-
-#### From _The Galveston daily news._
-
-#### 1891-10-07 &middot; [Houston [Tex.]](http://dbpedia.org/resource/Houston)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -6431,25 +5231,6 @@ O’er the Land of the Free, and the Home of the Brave!
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Oh! say can you see by the dawn’s early light,  
-  
-What so proudly we hailed at the twilight’s last gleaming;  
-Whose broad stripes and bright stars through the perilous fight,  
-O’er the ramparts we watched, were so gallantly streaming.  
-  
-And the rocket’s red glare, the bombs bursting in air,  
-Gave proof through the night that our flag was still there.  
-Oh, say does the star-spangled banner yet wave,  
-  
-O’er the land of the free, and the home of the brave ?  
-  
-On the shore dimly seen through the mists of the deep,  
-Where the foe’s haughty host in dread silence reposes,  
-  
-What is that which the breeza o’er the lowering steep,  
-As it fitfally blows, half conceals, half discloses ?  
-  
-Now it catches the gleam of the morning’s first beam,  
   
 In full glory reflected now shines on the stream ;  
   
@@ -6466,7 +5247,7 @@ And this be our motto, ‘‘ In God is our trust.’’
 And the star-spangled banner, in triumph shall wave,  
 O’er the land of the free and the home of the brave.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_journal-of-education-1875_1892-02-11_35_6&#0036;4/pct:32.343887,51.881720,26.517150,20.683112/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_journal-of-education-1875_1892-02-11_35_6&#0036;4/pct:32.343887,63.219481,25.043975,9.345351/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6479,10 +5260,9 @@ O’er the land of the free and the home of the brave.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-bat - tle’scon-fu-sion,A . . home and a country should leave usno more? Their blood has wash’d  
 war’s des -o-lation; Blest with vict’ry and puns may the heav’n-rescued land Praise Ys — ’r that hath
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_pennsylvania-school-journal_1892-07_41_1&#0036;45/pct:17.865340,35.521141,74.598317,3.343166/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_pennsylvania-school-journal_1892-07_41_1&#0036;45/pct:17.865340,36.602753,74.598317,2.261554/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6494,27 +5274,7 @@ war’s des -o-lation; Blest with vict’ry and puns may the heav’n-rescued la
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-the anxious hours. .Morn­  
-ing came. It found him with eves still fastened on the fort. The star-spangled  
-banner lioated proudly in the morning breeze, and the echoes of déliant cheers  
-were -Ikm-um from the tort to his wars. At the same moment the outburst Oi ,  
-cannon and the thunder of mortars proclaimed that the spirits and courage of  
-its defenders were buoyant as ever. The attack had been foiled: his home, Jus  
-friends were saved. It was a proud moment : and his emotions found utter­  
-ance in the picturesque and impassioned ode, which lias become forever asso­  
-ciated with the national banner :  
-O, say, can you see by the dawn&#x27;s early light,  
-What so proudly we hailed at the twilight&#x27;s last gleaming 1  
-Whose broad stripes and bright stars thro&#x27; the perilous tight,  
-O&#x27;er the ramparts we watched were so gallantly streaming:  
-And the rocket&#x27;s red glare, the bombs bursting in air,  
-Gave proof through the night that our flag was still there.  
-O, sav, does that star-spangled banner yet wave  
-O&#x27;er the land of the free and the home of the brave.&quot;  
-On the shore, dimly seen through the mists of the deep,  
-Whore the foe&#x27;s haughty host in dread silence repose ,  
-What is that which the breeze, o&#x27;er the towering steep,  
-As it fitfully blows, half conceals, half discloses?  
+alf discloses?  
 Now it catches the gleam of the morning&#x27;s first beam,  
 Jti full glory reflected now shines on the stream,  
 &quot;Tis the star-spangled banner! O, long may it wave  
@@ -6537,7 +5297,7 @@ And the star-spangled banner in triumph shall wave
 O&#x27;er the land of the free and the home of the brave!  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_angelou_ver01%2Fdata%2Fsn86091092%2F00295869343%2F1892070201%2F0222.jp2/pct:23.991557,15.443896,34.169794,30.903206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_angelou_ver01%2Fdata%2Fsn86091092%2F00295869343%2F1892070201%2F0222.jp2/pct:26.242964,26.310111,31.871482,20.036991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6549,25 +5309,7 @@ O&#x27;er the land of the free and the home of the brave!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-Invade the shrine where sacred lies,  
-O r toil and blood the weil-carn&#x27;d prize.  
-While offering peace sincere and Just,  
-In heav&#x27;n we place a manly trust,  
-That truth and Justice will prevail,  
-And eveiy scheme of bondage fail.  
-Chobus.  
-Sound, sound the trump of fame.  
-Let Washington&#x27;s great name  
-King thro&#x27; the world with loud applause.  
-King thro&#x27; the world with loud applause,  
-Let every clime to freedom dear,  
-Listen with a Joyful ear.  
-With equal skill, with Godlike pow&#x27;r  
-He governs in the fearful hour,  
-Of horrid war or guides with case,  
-Tho happier times of honest peace.  
-CHORUS.  
-STAR SPANGLED BANNER.  
+  
 O say can you see by the dawn&#x27;s early light,  
 What so proudly we hail&#x27;d at the twilight&#x27;s  
 last gleaming;  
@@ -6598,13 +5340,9 @@ In full tory reflect&#x27;d, now shines In the
 stream.  
 Chorus.  
 Tis the Star Spangled Banner, Oh! long may  
-Jt wave,  
-O&#x27;er the Land of the Free, and the home of  
-the brave.  
-  
-assemblages in the park of the common peo
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_eisenhower_ver01%2Fdata%2Fsn84024546%2F00237282188%2F1892070401%2F0056.jp2/pct:3.864279,9.126661,25.937795,87.049091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_eisenhower_ver01%2Fdata%2Fsn84024546%2F00237282188%2F1892070401%2F0056.jp2/pct:3.883129,83.835096,12.422243,11.608354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6732,23 +5470,7 @@ Aud the Star Spangled Bauun- iu triump
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-lay,“ i  
   
-for better than these we have nothing to exhibit.  
-They, indeed, are our crown jewels; the truest,  
-thougb the inevitable, offsprings of ouf civiliza-  
-tion and development; the representatives of a  
-manhood vitalized and invigorated by toil and  
-care, of a womanhood elevated and inspired by  
-liberty and education. God bless the children  
-and their mothers! God bless our country’s flag  
-And God be with us now and ever, God in the  
-  
-- roof-tree’s shade and God on the highway, God  
-  
-in the winds and waves, and God in all our hearts |  
-The following songs were then sung:  
-“The Star Spangled Banner.”  
 O! say can you see, by the dawn’s early light,  
 That so proudly we hail d at the twilight’s last  
   
@@ -6805,89 +5527,7 @@ wave
 O&#x27;er the land ofthe free and the home of the  
 &#x27; brave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/per_chicago-daily-tribune_the-chicago-daily-tribun_1892-10-22_51_296&#0036;9/pct:41.672500,67.139341,11.328200,19.900471/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Martinsburg herald._](https://chroniclingamerica.loc.gov/lccn/sn85059533/1894-01-20/ed-1/seq-3)
-
-#### 1894-01-20 &middot; [Martinsburg, W. Va.](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Oil! say, can you see by the dawn’s early  
-light,  
-What so proudly we hailed at the twi- j  
-light’s last gleaming;  
-Whose broad stripes and bright stars j  
-through the perilous fight.  
-O’er the ramparts we watch&#x27;d, weie so j  
-gallantly streaming?  
-And the rockets red glare, the bombs  
-bursting in air,  
-Gave proof through the night that our :  
-Hag was still there.  
-Oh! say, does the star-spangled banner i  
-, still wave  
-O’er the land of the free and the home  
-of the brave?  
-On the shore, dimly seen, through the  
-mist of the deep,  
-Where the foe’s haughty host in dead  
-silence reposes,  
-What is that which the breeze o’er the  
-towering steep.  
-As it fitfully blows, half conceal’d, half  
-discloses?  
-Now it catches the gleam of the morn­  
-ing’s first beam,  
-In full glory lefleeted, now shines on the  
-stream.  
-’Tis the star stangled banner; Oh! long  
-may it wave  
-O’er the land of the free and the home  
-of the brave.  
-Oh! thus be it ever, when freemen shall  
-stan
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_boros_ver02%2Fdata%2Fsn85059533%2F00393349116%2F1894012001%2F0221.jp2/pct:33.959614,17.740417,10.241440,13.776059/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Primary Education 1893-1926_](https://archive.org/details/sim_primary-education_1894-02_2_2/page/n21/mode/1up?view=theater)
-
-#### 1894-02-01
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Oh, say can you see by the dawn’s early light,  
-What so proudly we hailed at the twilight’s last gleaming,  
-Whose broad stripes and bright stars thro’ the perilous fight,  
-O’er the ramparts we watched, were so gallantly streaming?  
-And the rockets red glare, the bombs bursting in air,  
-Gave proof through the night that our flag was still there ;  
-Oh say, does the star-spangled banner yet wave  
-Oe’r the land of the free and the home of the brave?  
-  
-On the shore dimly seen through the mists of the deep,  
-Where the foe’s haughty host-in dread silence reposes,  
-What is that which the breeze o’er the towering steep,  
-  
-As it fitfully blows, half conceals, half discloses?  
-  
-Now it catches the gleam of the morning’s first beam,  
-  
-In full glory reflected, now shines on the stream !  
-&quot;Tis the STaR-SPANGLED BANNER ! oh, long may it wave  
-O’er the land of the free, and the home of the brave !
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_primary-education_1894-02_2_2&#0036;21/pct:13.882863,74.764890,75.027115,15.595611/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/per_chicago-daily-tribune_the-chicago-daily-tribun_1892-10-22_51_296&#0036;9/pct:41.742506,72.238870,11.232737,14.800942/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6969,16 +5609,6 @@ of the brave
 
 ---
 
-## O, Say! Can You See?
-
-#### From _The Galveston daily news._
-
-#### 1894-09-17 &middot; [Houston [Tex.]](http://dbpedia.org/resource/Houston)
-
-[This text is not available under an open license.]
-
----
-
 ## [From _The Iola register._](https://chroniclingamerica.loc.gov/lccn/sn83040340/1895-07-05/ed-1/seq-8)
 
 #### 1895-07-05 &middot; [Iola, Allen County, Kansas](http://dbpedia.org/resource/Iola%2C_Kansas)
@@ -7047,28 +5677,13 @@ the brave
 
 ---
 
-## Stories of Famous Songs.
-
-#### From _Lloyd's Illustrated Newspaper_
-
-#### 1895-11-24 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
 ## [From _American Spirit 1892-2015_](https://archive.org/details/sim_american-spirit_1895-12_7_6/page/n62/mode/1up?view=theater)
 
 #### 1895-12-01 &middot; [Washington, D.C., District of Columbia](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-‘*Oh, say! can you see, by the dawn’s early light,  
-What so proudly we hailed at the twilight’s last gleaming,  
-Whose broad stripes and bright stars thro’ the perilous fight,  
-O’er the ramparts we watched were so gallantly streaming?  
-And the rockets red glare, the bombs bursting in air,  
+ombs bursting in air,  
 Gave proof through the night that our flag was still there !  
 Oh, say, does the Star Spangled Banner yet wave  
 O’er the land of the free and the home of the brave?  
@@ -7102,7 +5717,7 @@ And this be our motto ‘‘In God is our trust !’’
 And the Star Spangled Banner in triumph shall wave  
 O’er the land of the free and the home of the brave !’’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_american-spirit_1895-12_7_6&#0036;62/pct:21.852190,26.000000,52.874088,48.647059/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_american-spirit_1895-12_7_6&#0036;62/pct:22.080292,31.911765,52.645985,42.735294/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7115,50 +5730,6 @@ O’er the land of the free and the home of the brave !’’
 #### 1896-01-23 &middot; [Topeka, Kan.](http://dbpedia.org/resource/Topeka%2C_Kansas)
 
 [This text is not available under an open license.]
-
----
-
-## [From _The Advance._](https://chroniclingamerica.loc.gov/lccn/sn91064026/1896-07-02/ed-1/seq-1)
-
-#### 1896-07-02 &middot; [Jamesburg, N.J.](http://dbpedia.org/resource/Jamesburg%2C_New_Jersey)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-he perilous  
-fight,  
-O’er the ramparts we watched, were so gallantly stream­  
-ing?  
-And the rockets’ red glare, the bombs bursting in air,  
-Gave proof through the night that our flag was still there.  
-Oh ! say, does that star-spangled banner yet wave  
-O’er the land of the free, and the home of the brave ?  
-On that shore dimly seen through the mists of the deep,  
-Where the foe&#x27;s haughty host in dread silence reposes,  
-What is that which the breeze o’er the towering steep,  
-As it fitfully blows, now conceals, now discloses ?  
-Now it catches the gleam of the morning’s first beam,  
-In full glory reflected, now shines on the stream ;  
-’Tis the star-spangled banner, oh ! long may it wave  
-O&#x27;er the land of the free, and the home of the brave.  
-And where is that band who so vauntingly swore  
-That the havoc of war and the battle’s confusion  
-A home and a country should leave us no more?  
-Their blood has washed out their foul footsteps’ pollu­  
-No refuge could save the hireling and slave  
-From the terror of flight, or the gloom of the grave,  
-And the star-spangled banner in triumph doth wave  
-O’er the laud of the free, and the home of the brave.  
-Oh ! thus be it ever when freemen shall stand  
-Between their loved homes and the war&#x27;s desolation :  
-Blest with victory and peace, may the heaven-rescued land  
-Praise the power that hath made and preserved us a na­  
-Then conquer we must, when our cause it is just,  
-And this be our motto, “ In God is our trust.”  
-And the star-spangled banner in t
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_deal_ver01%2Fdata%2Fsn91064026%2F00513685154%2F1896070201%2F0805.jp2/pct:6.614018,16.147115,21.270155,15.932914/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
@@ -7217,34 +5788,6 @@ Blest with victory and peace
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-algic twinges  
-shoot through the frame.  
-  
-. They are the short-sighted men and women  
-who put up with this state of things when the  
-risk is so great and the remedy so easily within  
-their reach. As weakness, nervousness. lan-  
-guor and sleeplessness are clearly the result of  
-  
-| low nervous nutriticn, so permanent reilef w)1)  
-  
-¢ome from rapidly building up the wasted  
-nerve tissues, Paine’s celery compound is the  
-means best calculated for this end..  
-  
-Lig  
-  
-hair has sold for from 35 to 48 cents and }  
-  
-president;  
-  
-Secretary C. E. Bailey reported that  
-  
-JOSEPH RODMAN DRAKE:  
-  
-LP  
-  
-THE STAR-SPANGLED BANNER.  
   
 O say, can you see, by the dawn’s early light,  
   
@@ -7285,19 +5828,9 @@ And this be our motto, ‘In God is oar trust.’’
 Ana the star-spangled banner in triumph shall wave  
 ‘ O’er the land of the free and the home of the brave!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_los-angeles-times_the-los-angeles-times_1896-10-24&#0036;9/pct:31.282852,34.254462,51.962878,61.530097/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_los-angeles-times_the-los-angeles-times_1896-10-24&#0036;9/pct:45.540407,54.116292,19.924442,22.887482/,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## Victory
-
-#### From _The North American._
-
-#### 1896-11-04 &middot; [Philadelphia, Pa.](http://dbpedia.org/resource/Philadelphia)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -7307,31 +5840,7 @@ Ana the star-spangled banner in triumph shall wave
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-m even the &quot;old house furni­  
-ture&quot; of the Rhine, surround himself  
-with the sweet and tender associations  
   
-of &quot;Fatherland,&quot; and wheresoever he  
-  
-may be the great names of German his­  
-tory shine like stars In the heaven  
-above him. And the Irishman, though  
-  
-the political existence of his country  
-is merged in a kingdom whose rule he  
-  
-may abhor, yet still do the chords oi  
-his heart vibrate responsive to the  
-  
-tn.naa nf the ham of Erin, and the  
-  
-lowly shamrock 1b dearer to his soul  
-than the fame-crowning lanrel, the  
-  
-love-breathing myrtle, or storm-dar-  
-  
-THE STAR-SPANGLED BANNER.  
-BY FRANCIS SCOTT KEY.  
 O say, can you see, by the dawn&#x27;s early  
 light,  
 What so proudly we hall&#x27;d at the twi­  
@@ -7357,38 +5866,7 @@ Iwhat Is that which the breeze, o er the
 towering Bteep,  
 :As It fitfully blows, now conceals, no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_austen_ver01%2Fdata%2Fsn86063592%2F00296025628%2F1897062601%2F0415.jp2/pct:4.524297,21.883090,48.370881,22.373620/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Las Vegas daily optic._](https://chroniclingamerica.loc.gov/lccn/sn86063592/1897-06-26/ed-1/seq-3)
-
-#### 1897-06-26 &middot; [Las Vegas, N.M.](http://dbpedia.org/resource/Las_Vegas%2C_New_Mexico)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-tne ld.uu ui i .n ,, wUh nil tho sul-  
-  
-of the brave!  
-  
-&#x27;And where is that band who so vaunt­  
-i ingly sworo  
-;That the havoc of war and the battle s  
-j confusion  
-I A home and a country should leave us  
-no more?  
-&#x27;Their blood has washed out their foul  
-  
-footsteps&#x27; poliuuon,  
-  
-of deBDeratlon, you wish all the sul-  
-  
-nhur and saltpetre of the under king
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_austen_ver01%2Fdata%2Fsn86063592%2F00296025628%2F1897062601%2F0415.jp2/pct:4.878049,48.071944,23.943400,5.354953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_austen_ver01%2Fdata%2Fsn86063592%2F00296025628%2F1897062601%2F0415.jp2/pct:4.598771,31.816324,12.027555,12.440387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7400,27 +5878,7 @@ nhur and saltpetre of the under king
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-Cambridge  
-has recently celebrated with exercises  
-in its factories, its churches and its  
-schools, tho completion of its tenth  
-year as a “no licenso” town. It is gen­  
-erally admitted that tho city Is more  
-orderly and more prosperous than over  
-before, and there is no disposition to  
-revoke the banishment pronounced up­  
-on the saloon. Tho no-llcenso pol cy  
-has not entirely done away with the  
-sale of liquor in Cambridge, but as one  
-of Its supporters says, it has made it  
-easy for a man to do right, and hard  
-for him to do wrong.  
   
-Rocky Ford Enterprise.  
-  
-THE STAR-SPANGLED BANNER.  
-  
-BY FRANCIS SCOTT KEY.  
 O say, can you see, by the dawn&#x27;s early  
 light.  
 What so proudly we hail’d at the twi­  
@@ -7486,7 +5944,7 @@ umph shall wave
 O’er the land of the free and the home  
 of the bravo.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/cohi_fairplay_ver01%2Fdata%2Fsn90051265%2F00383340974%2F1897070101%2F0320.jp2/pct:1.530083,5.195064,82.365145,91.147492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/cohi_fairplay_ver01%2Fdata%2Fsn90051265%2F00383340974%2F1897070101%2F0320.jp2/pct:14.918309,40.764331,12.649118,35.783240/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7655,9 +6113,7 @@ of the brave
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-THE STAR-SPANGLED BANNER.  
   
-BY FRANCIS SCOTT KEY.  
 O say, can you see, by the dawn’s early  
 light.  
 What so proudly we hail’d at the twi­  
@@ -7722,10 +6178,9 @@ trust!&quot;
 And the star-spangled banner In tri­  
 umph shall wave  
 O’er the land of the free and tho home  
-of the brave.  
-
+of the brave.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/cohi_leadville_ver01%2Fdata%2Fsn90051167%2F00340586049%2F1897070201%2F0007.jp2/pct:3.519159,30.482839,13.045503,37.332752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/cohi_leadville_ver01%2Fdata%2Fsn90051167%2F00340586049%2F1897070201%2F0007.jp2/pct:3.519159,31.951716,13.045503,35.863874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7983,63 +6438,6 @@ of the brave
 
 ---
 
-## [From _The Yale expositor._](https://chroniclingamerica.loc.gov/lccn/sn98066406/1897-07-02/ed-1/seq-3)
-
-#### 1897-07-02 &middot; [Yale, St. Clair County, Mich.](http://dbpedia.org/resource/Yale%2C_Michigan)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-Ait  
-  
-  
-  
-  
-  
-  
-tOf I  
-  
-  
-  
-U Hit.  
-  
-  
-mi  
-  
-THE STAR-SPANGLED BANNER.  
-BY FRANCIS SCOTT KEY.  
-O say, can you see, by the dawn&#x27;s early  
-light,  
-What so proudly we hall&#x27;d at the twi­  
-light&#x27;s last gleaming  
-Whose broad stripes and bright stars,  
-through the clouds of the fight,  
-O&#x27;er the ramparts we watched were so  
-gallantly streaming!  
-And the rocket&#x27;s red glare, the bombs  
-bursting In air,  
-Gave proof through the night that our  
-flag was still there;  
-0 say, does that star-spangled banner  
-yet wave  
-O&#x27;er the land of the free and the home  
-of the brave?  
-On that shore dimly seen through the  
-mists of the deep.  
-Where the foe&#x27;s haughty host In dread  
-  
-silence reposes,  
-What is that which the breeze, o er the  
-towering steep,  
-As It fitf ally blowe, now conceals, aow  
-discloses?  
-Now It catches the gleam 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_baldwin_ver01%2Fdata%2Fsn98066406%2F00296023346%2F1897070201%2F0077.jp2/pct:7.972073,6.914473,27.033609,42.187323/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The McCook tribune._](https://chroniclingamerica.loc.gov/lccn/sn94056415/1897-07-02/ed-1/seq-3)
 
 #### 1897-07-02 &middot; [McCook, Neb.](http://dbpedia.org/resource/McCook%2C_Nebraska)
@@ -8145,27 +6543,7 @@ d
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ng the German, Russian and French  
-armies would number, each, more tha i  
-three million men; the Italian and  
-Austrian about two millions each. To  
-support such multitudes would soon  
-empty any &quot;war chest.&quot; A country  
-like Germany, whose public debt Is  
-only about ten dollars per capita—  
-Italy&#x27;s debt is almost eighty dollars  
-for each Inhabitant—could resort to  
-taxation, and by various means with­  
-stand a long strain. But it staggers  
-imagination to dwell upon the burdens  
-that protracted war would lay upon  
-the unhappy subjects of the bankrupt  
-nations.  
-•  
   
-  
-THE STAR-SPANGLED BANNER.  
-BY FRANCIS SCOTT KEY.  
 O say, can you see, by the dawn&#x27;s early  
 light,  
 What so proudly we hail&#x27;d at the twi­  
@@ -8190,210 +6568,11 @@ What Is that which the breeze, o&#x27;er the
 towering steep,  
 is it fitfully blows, now conceals, now  
 discloses?  
-Now It catches the gleam of the morn­  
-ing&#x27;s first beam,  
-In full glory reflected now shines on  
-the stream;  
-Tis the star-spangled banner; O long  
-may it wave  
-O&#x27;er the land of the free and the home  
-of the brave!  
-And where is that band who so vaunt­  
-ingly swore  
-That the havoc of war and the battle&#x27;s  
-confusion  
-A home and a country should leave us  
-no more?  
-Their blood has washed out their foul  
-footsteps&#x27; pollution.  
-No refuge could save the hireling and  
-slave  
-From the terror of flight or the gloom  
-of the grave;  
-And the star-spangled banner In tri­  
-umph doth wave  
-O&#x27;er the land of the free and the home  
-of the brave.  
-0! thus be It ever, when freemen shall  
-stand  
-Between their loved homes and the  
-war&#x27;s desolation!  
-Blest with victory and peace, may the  
-hea.v&#x27;n -reEcued land  
-Praise the power that hath made and  
-preserved us a nation.  
-Then conquer we must, when our cause  
-it is just,  
-And this be our motto—&quot;In God is our  
-trust!&quot;  
-And the star-spangled banne
+Now It catches the gleam 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_angelou_ver01%2Fdata%2Fsn86091092%2F00295869355%2F1897073101%2F0386.jp2/pct:6.754658,33.571904,35.067288,57.589880/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_angelou_ver01%2Fdata%2Fsn86091092%2F00295869355%2F1897073101%2F0386.jp2/pct:25.129400,35.336218,16.692547,16.245007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## [From _Peterson Magazine (1894-1897)_](https://archive.org/details/sim_peterson-magazine_1897-10_7_10/page/n19/mode/1up?view=theater)
-
-#### 1897-10-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-een through the mists of the deep,  
-Where the foe’s haughty host in dread silence reposes,  
-  
-What is that which the breeze o’er the towering steep  
-As it fitfully blows, half conceals, half discloses ?  
-  
-Now it catches the gleam of the merning’s first beam;  
-  
-Its full glory reflected now shines cn the stream ;  
-  
-Tis the star-spangled banner, oh! long may it wave  
-  
-O’er the land of the free and the home of the brave.  
-  
-And where is the band who so vauntingly swore,  
-Mid the havoc of war and the battle’s confusion,  
-A home and a country they’d leave us no more ?  
-Their blood hath washed out their foul foot-steps’  
-pollution ;  
-No refuge could save the hireling and slave  
-From the terror of flight, or the gloom of the grave,  
-And the star-spangled banner in triumph doth wave  
-O’er the land of the free and the home of the brave.  
-  
-Oh! thus be it ever, when freemen shall stand  
-Between their loved home and the war’s desolation ;  
-Blessed with victory and peace, may the Heaven-res-  
-cued land  
-  
-  
-  
-be  
-  
-Cre  
-  
-  
-  
-  
-  
-  
-  
-The Peterson Magazine, October, 1897.  
-  
-  
-  
-  
-  
-  
-  
-The original ** Star-Spangled Banner.’  
-  
-Praise the Power that hath made and preserved us a  
-nation.  
-Then conquer we must, for our cause it is just,  
-And this be our motto, ‘*In God is our trust,””  
-And the star-spangled banner in triumph shall wave  
-O’er the land of the free and the home of the brave.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_peterson-magazine_1897-10_7_10&#0036;19/pct:52.166667,65.599534,43.208333,25.989523/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Willmar tribune._](https://chroniclingamerica.loc.gov/lccn/sn89081022/1897-12-14/ed-1/seq-4)
-
-#### 1897-12-14 &middot; [Willmar, Minn.](http://dbpedia.org/resource/Willmar%2C_Minnesota)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Chorus.  
-Oh. say, does the star-spangled banner vet  
-wave.  
-O&#x27;er the land of the free and the home of  
-the brave?  
-On the shore dimly seen, where temperance  
-shall reign.  
-We&#x27;ll anchor at last beyond Rum&#x27;s sea of  
-trouble&#x27;.  
-If we work with a will, shirking not toil or  
-pain.  
-And we&#x27;ll show the proud scorners our  
-dream is no bubble.  
-  
-None a license shall pay.  
-To take men&#x27;s souls away  
-  
-We&#x27;ll work for just laws where&#x27;s a will  
-there&#x27;s a way.  
-Chorus.  
-Oh. where is that band who so vauntingly  
-swore  
-To make and use laws for the people&#x27;s pro­  
-tection
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_edsel_ver01%2Fdata%2Fsn89081022%2F00212472724%2F1897121401%2F0412.jp2/pct:52.518724,16.255993,13.491331,9.023674/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Willmar tribune._](https://chroniclingamerica.loc.gov/lccn/sn89081022/1897-12-14/ed-1/seq-6)
-
-#### 1897-12-14 &middot; [Willmar, Minn.](http://dbpedia.org/resource/Willmar%2C_Minnesota)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-Chorus.  
-  
-Oh. suy, does the star-spangled banner vet  
-wave.  
-O&#x27;er the land of the free and the home of  
-the brave?  
-On the shore dimly seen, where temperance  
-shall reign.  
-Weil anchor at last beyond Jium&#x27;s sea of  
-trouble.  
-If wo work with a will, shirking not toil or  
-  
-pain  
-  
-And we&#x27;ll  
-  
-show the proud scorners our  
-  
-dream is no bubble.  
-None a license shall pay.  
-To take men&#x27;s souls away.  
-We&#x27;ll work lor just laws Where&#x27;s a will  
-there&#x27;s a way.  
-  
-Chorus.  
-  
-Oh. where is that band who so vauntingly  
-swore  
-To make and use laws for the people&#x27;s pro­  
-tection
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_edsel_ver01%2Fdata%2Fsn89081022%2F00212472724%2F1897121401%2F0414.jp2/pct:52.441220,16.341327,13.515460,8.960773/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## The Star Spangled Banner
-
-#### From _The Emporia weekly gazette._
-
-#### 1898-03-31 &middot; [Emporia, Kan.](http://dbpedia.org/resource/Emporia%2C_Kansas)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -8403,24 +6582,6 @@ tection
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e governments of these two na­  
-tions be not driven to undertake a war  
-that must not only threaten bankruptcy  
-and revolution and possibly a worse calam­  
-ity to Spain, but be costly beyond expres­  
-sion In the sacrifice of blood and treasure  
-to the American people.&quot;  
-Dr. Hall Convalescent.  
-New York. April 3.-Bev. Dr. John Hall,  
-pastor of the Fifth Avenue Presbyterian  
-church, is convalescing. He has passed  
-through any danger perlo&#x27;d that may have  
-existed, and at his residence to-day It was  
-said he contemplated participating in com­  
-munion service next Sunday.  
-  
-0 ii mi STTnTnnnsTriiT r&quot;i iTtii sei  
-  
   
 O say, can you see by the dawn&#x27;s early Hfjht  
 What so proudly to balled at the twilight&#x27;s last  
@@ -8452,7 +6613,7 @@ O&#x27;er the land of the free and the home ot the brarcl
 And where Is that band who so Tauntingly swore  
 That the havoc of war and the battle&#x27;s confusio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_dred_ver01%2Fdata%2Fsn86063615%2F00211109142%2F1898040401%2F0845.jp2/pct:18.670946,6.324499,37.813857,89.131959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_dred_ver01%2Fdata%2Fsn86063615%2F00211109142%2F1898040401%2F0845.jp2/pct:31.829337,16.295050,12.554276,10.040668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8553,250 +6714,6 @@ desolation!
 
 ---
 
-## [From _The Salt Lake herald._](https://chroniclingamerica.loc.gov/lccn/sn85058130/1898-04-18/ed-1/seq-4)
-
-#### 1898-04-18 &middot; [Salt Lake City [Utah]](http://dbpedia.org/resource/Salt_Lake_City)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- Is ability to see the  
-folly to say nothing of the sin of wrong­  
-doing Purely as a matter of policy the  
-collegebred man if anybody should  
-avoid going wrong  
-Wasatch Wave The long looked for  
-message of President McKinley has at  
-last been submitted to congress While  
-It is perhaps disappointing to some of his  
-satellites Is it in accord with the great  
-luminaries around which hi vacillates I  
-and that ought to be enough What Is the  
-freedom or slavery of a few millions of  
-benighted Cubans compared with the  
-financial welfare O these great luminousI  
-orbs of terrestrial crsationI  
-  
-THE STARSPANGLED BANNER  
-O say can you see by the dawns early  
-light  
-What so proudly we hailed at the twilights  
-lights last gleaming  
-Whose broad stripes and bright stars  
-through the perilous fight  
-Ojr the rampart we watched were so  
-gallantly streaming  
-And the rockets red glare the bombs  
-bursting In air I  
-Gave proof through the night that our  
-flag was still there  
-O say does the starspangled banner yet  
-wave  
-Oer the land of the fre and the home  
-of the brave  
-On that shore dimly seen through the  
-mists of the deep  
-her the foes haughty host in dread  
-silence raposcs  
-What is that which the breeze oer tho  
-I towering steep  
-As discloses it fitfully blows nowconcealsnow  
-  
-Now it catches tie gleam of the morn­  
-ings first beam  
-In full glory reflected now shines on the  
-stream  
-Tis the starspangled banner 0 long  
-may it wave  
-Oer the land of the free and the home  
-of the brave  
-And where Is that band who so vauntlngly  
-swore  
-That confusion the havoc of warandthebattles  
-A home and a country shall leave us no  
-more  
-Their blood has washed out their foul  
-footsteps pollution  
-No refuge could save the hireling and  
-slave  
-From the terror of fight or the gloom of  
-the crave  
-And the starspangled banner in triumph  
-doth wave  
-Oer the land of the free and the home  
-of the bravo  
-0 thus bo it ever when freemen shall  
-stand  
-Between their loved homes and the  
-wars desolation  
-Blest with vlctry and peace may the  
-heavenrescued land  
-Praise the power that hath made and  
-preserved us a nation  
-Then conquer we must wh
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/uuml_collins_ver01%2Fdata%2Fsn85058130%2F0020653476A%2F1898041801%2F0478.jp2/pct:43.568000,43.940602,13.168000,29.053207/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Oskaloosa herald._](https://chroniclingamerica.loc.gov/lccn/sn87058308/1898-04-21/ed-2/seq-4)
-
-#### 1898-04-21 &middot; [Oskaloosa, Mahaska County, Iowa](http://dbpedia.org/resource/Oskaloosa%2C_Iowa)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-rs, through tbs perilous flight  
-O’er the ramparts ws watched, were so gallantly streaming!  
-And the rocket’s red glare, the bombs bursting in air,  
-Gave proof through the night that our flag was still there;  
-Oh say, the star-spangled banner yet wave  
-O’er the land of the free and the home of the brave?  
-Os that shore dimly seen through the mists of the deep  
-Where the foe’s haughty host in dread silence reposes,  
-Wiat Is that which the breeze, o’er the towering steep,  
-As it fitfully blows, now conceals, now discloses?  
-Now it catches the gleam of the morning’s first beam,  
-In full glory reflected, now shines on the stream;  
-’Tis the star-spangled banner t O, long may it wave  
-O’er the land of tte free and the home of the brave I  
-And where is that band who so vauntingly swore  
-That the havoe of war and the battle’s confusion  
-A home and a country shall leave us no more?  
-Their blood has washed ont their foul footsteps’ pollution.  
-No refuge eould save the hireling and slave  
-From the terror of flight and the gloom of the grave;  
-And the star-spangled banner in triumph doth wave  
-O&#x27;er the land of the free and the home of the brave l  
-O, thus be it ever when freemen shall stand  
-Between their loved homes and the war’s desolation I  
-Blessed with viet’ry and peace, may the heaven-rescued land  
-Praise the Power that has made and preserved us a nation.  
-Then conquer we must, when our cause it is just,  
-And this be our motto: “ In God is our trust;&quot;  
-And the star spangled banner in triumph shall wave  
-O’er the land of the free and the hose of the brave!
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_exeggutor_ver01%2Fdata%2Fsn87058308%2F0027952908A%2F1898042102%2F0134.jp2/pct:52.135174,13.721487,12.720321,13.386684/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Oskaloosa herald._](https://chroniclingamerica.loc.gov/lccn/sn87058308/1898-04-21/ed-1/seq-5)
-
-#### 1898-04-21 &middot; [Oskaloosa, Mahaska County, Iowa](http://dbpedia.org/resource/Oskaloosa%2C_Iowa)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-h the perilous flight  
-O’er the ramparts we watched, were so gallantly streaming I .  
-And the rocket’s red glare, the bombs bursting in air,  
-Gavo proof through the night that our flag was still there;  
-Oh say, does the star-spangled banner yet wave  
-O’er the land of the free and the home of the brave!  
-  
-O i that shore dimly seen through the mists of the deep  
-Where the foe’s haughty host in dread silence reposes,  
-Wiat is that which the breeze, o’er the towering steep,  
-As it fitfully blows, now conceals, now discloses!  
-Now it catches the gleam of the morning’s first beam,  
-In full glory reflected, now shines on the stream;  
-’Tis the star-spangled banner 1 O, long may it wave  
-O’er the land of tte free and the home of the brave I  
-  
-And where is that band who so vauntingly swore  
-  
-That the havoc of war and the battle’s confusion  
-A borne and a country shall leave ns no more?  
-  
-Their blood has washed out their foul footsteps’ pollution.  
-No refuge could save the hireling and Blave  
-From the terror of flight and the gloom of the grave;  
-And the star-spangled banner in triumph doth wave  
-O&#x27;er the land of the free and the home of the brave 1  
-  
-O, thus be it ever when freemen shall stand  
-  
-Between their loved homes and the war’s desolation 1  
-Blessed with vlct’ry and peace, may the heaven-reeened land  
-Praise the Power that has made and preserved ns a nation.  
-Then conquer we must, when our cause it Is just,  
-And this be oar motto: “In God is oar trust;’’  
-And the star spangled banner In triumph shall wave  
-O’er the land of the free and the hoae of the brave!
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_kyogre_ver01%2Fdata%2Fsn87058308%2F00279529078%2F1898042101%2F0514.jp2/pct:51.815115,12.257796,13.064823,13.607762/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Lincoln County leader._](https://chroniclingamerica.loc.gov/lccn/sn85033162/1898-04-22/ed-1/seq-2)
-
-#### 1898-04-22 &middot; [Toledo, Lincoln County, Or.](http://dbpedia.org/resource/Toledo%2C_Oregon)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-OSAY, i-Sn you see by the dawn&#x27;s early  
-IlK&#x27;ht  
-What so proudly we hailed at the twi­  
-light&#x27;s lust gleaming?  
-Whose hroad strlpeR and bright stars,  
-through the perilous light  
-O&#x27;er the ramparts we wutched, were so  
-gallantly streaming!  
-And th rnfkt&#x27;s red tlaie, the bomos burst­  
-ing In air.  
-Gave proof through the night that our flag  
-was still there;  
-O say, docs that utar-spaugled banner yet  
-wave  
-O&#x27;er the land of the free and the home of  
-the brave?  
-On that shore dimly seen through the mists  
-of the deep.  
-Where the foe&#x27;s naughly host in dread sil­  
-ence reposes.  
-What is that which the breeze, o&#x27;er the tow­  
-erlng steep,  
-as ii ntruiiy blows, now conceals,  
-discloses?  
-Now It catches the gleam of the morning&#x27;s  
-first beam,  
-In full glory reflected, now shines on the  
-stream;  
-&#x27;Tis the star-spangled banner! O, long may  
-it wave  
-O&#x27;er the land of the free and the home of  
-the brave!  
-And where Is that band who so vauntlngly  
-swore  
-&#x27;Mid the havoc of war and  
-confusion.  
-battle&#x27;s  
-A home and a country they&#x27;d leave us no  
-more?  
-Their blood has washed out their foul foot­  
-steps&#x27; pollution.  
-Xo refuge could save the hireling and slave  
-From the terror of flight or the gloom of the  
-grave;  
-And the star-spangled banner In triumph  
-doth wave  
-O&#x27;er the land of the free and the home of  
-the brave!  
-0. thus be it ever when freemen shall stand  
-Between their loved homes and the war&#x27;
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_flycatcher_ver01%2Fdata%2Fsn85033162%2F00200298500%2F1898042201%2F1342.jp2/pct:62.543353,19.040028,17.138728,22.989727/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Topeka state journal._](https://chroniclingamerica.loc.gov/lccn/sn82016014/1898-04-25/ed-2/seq-4)
 
 #### 1898-04-25 &middot; [Topeka, Kansas](http://dbpedia.org/resource/Topeka%2C_Kansas)
@@ -8881,18 +6798,9 @@ Its full glory reflected now shines on the stream;
 ! Tis the star-spangled banner, 0! long may it wave  
 O&#x27;er the land of tho free and the home of the brave.  
 And where is the baud who so vauntingly swore,  
-Mid the havoc of war and the baltlo&#x27;s contusion,  
-A home and a country they&#x27;d leave us no mere?  
-Their blood hath wash&#x27;d out thoir foul footsteps pollution;  
-No refuge could save the hireling and slave  
-From tlie terror of flight, or the gloom of the grave,  
-And the star-spangled banner in triumph doth wave  
-O&#x27;er tho land of the free and ihe home of the brave  
-0! thus be it ever, when freemen shall stand  
-Between our loved borne and the war desolation;  
-Bless&#x27;d 
+Mid the havoc of war and the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_fidelius_ver01%2Fdata%2Fsn88053055%2F00271741212%2F1898042801%2F0420.jp2/pct:38.352783,5.490956,22.217235,18.217054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_fidelius_ver01%2Fdata%2Fsn88053055%2F00271741212%2F1898042801%2F0420.jp2/pct:38.352783,5.490956,22.127469,12.144703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9035,136 +6943,6 @@ Trips to Thibet&#x27;!
 
 ---
 
-## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1898-05-06/ed-1/seq-1)
-
-#### 1898-05-06 &middot; [Bel Air, Md.](http://dbpedia.org/resource/Bel_Air%2C_Harford_County%2C_Maryland)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Oh.’ say can you see,by the dawn’s early light.  
-What so proudly we hailed at the twilight&#x27;s  
-last gleaming;  
-Whose broad stripes and bright stars,  
-through the perilous fight.  
-O’er the ramparts we watched were so  
-gallantly streaming?  
-And the rockets’ red glare, the bomb;* burst­  
-ing in air.  
-Gave proof, through the night, that our !!:•■;  
-was still there.  
-Oh! say, does that Star-Spangled Banner  
-yet wave  
-O&#x27;er the land of the free and the home of  
-the brave ?  
-On the shore, dimly seen, through the mists  
-ol the deep.  
-Where the foes haughty host in dread si­  
-lence reposes;  
-What is that which the breeze, o’er the tow­  
-ering St€‘Op,  
-As it fitfully blows, now conceals, now dis­  
-closes?  
-Now it catches the gleam of the morning&#x27;s  
-first beam.  
-In full glory reflected, now shines on the  
-stream;  
-’Tis the Star-Spangled Banner—oh! iojig  
-may it wave  
-O’er the laud of the free and the home of  
-brave!  
-And where is the band who so vaunting! v  
-swore  
-That the havoc of war and the battle&#x27;s eon­  
-fusion,  
-A home and a country should leave us  
-more—  
-Their blood lias washed out their foul foot­  
-steps’ pollution.  
-No refuge could save the hireling and slave.  
-From the terror of llight or the gloom of tin  
-grave.  
-And the Star-Spangled Banner in triumph  
-doth wave  
-O&#x27;er the land of the free and the home of  
-the brave!  
-Ohlthus be it ever, when freemen shall stand  
-Between their loved home and the war&#x27;s  
-desolation;  
-Blessed with victory and peace, may the i  
-Heaven-rescued land  
-Praise the power that hath made and pre­  
-served us a nation.  
-Then conquer we must when our cause if is  
-just.  
-And this be our motto: “In God is our trust.“  
-And the Star-Spangled Banner in triumph  
-shall wave  
-O’er the laud of the free and the home o
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625571%2F1898050601%2F0496.jp2/pct:60.984270,19.415882,10.786517,18.146060/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [THE SPANISH-AMERICAN WAR. RIOTING IN MADRID. SPANISH GOVERNMENT CENSURED. REVOLUTION IN THE AIR. PROJECTED ATTACK ON PUERTO RICO. SPANISH CAPE VERDE SQUADRON. TURNS UP AT CADIZ. AN INSULT TO BRITAIN. | London, May 4.](http://trove.nla.gov.au/ndp/del/article/3209196)
-
-#### From _The West Australian (Perth, WA : 1879 - 1954)_
-
-#### 1898-05-06 &middot; [Perth, Western Australia](http://dbpedia.org/resource/Perth)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Oh, say, can you see by the dawn&#x27;s early  
-light What so proudly we hailed at the  
-twi-light&#x27;s last gleaming ; Whose broad  
-stripes and bright stars through the  
-perilous fight. O&#x27;er the ramparts we  
-watched, were so gallantly streaming?  
-And the rocket&#x27;s red glare, the bombs  
-bursting in air, Gave proof through the  
-night that our flag was still there? Oh,  
-say. does that star-spangled banner yet  
-wave O&#x27;er the land of the free and the  
-home of the brave. On the shore dimly  
-seen through the mists of the deep,  
-Where the foe&#x27;s haughty host in dread  
-silence reposes. What is that which the  
-breeze o&#x27;er the towering steep. As it  
-fitfully blows, half-conceals, half  
-discloses ? Now it catches the gleam of  
-the morning&#x27;s first beam, In full glory  
-reflected, now shines on the stream.  
-&#x27;Tis the star-spangled banner; oh, long  
-may it wave O&#x27;er the land of the free  
-and the home of the brave. Now, where is  
-chat band who so vaunt ingly swore That  
-the havecof war and the battle&#x27;s  
-confusion, A home and a country should  
-leave us no more? Their blood has washed  
-out their foul footsteps&#x27; pollution. No  
-refuge could save the hireling and slave  
-From the terror of flight or the gloom  
-of the grave. But the star-spangled  
-banner in triumph doth wave O&#x27;er the  
-land of the free and the home of the  
-brave. Oh, thus be it ever when free men  
-shall stand Between their loved home and  
-the war&#x27;s desolation. Blest with vict&#x27;ry  
-and peace, may our heaven-rescued land  
-Praise the Power that hath made and  
-preserved us a nation. Then conquer we  
-must when our cause it is just. And this  
-be our motto, &quot;In God is our trust.&quot; And  
-the star-spangled banner in triumph ?  
-shall wave O&#x27;er the land of the free and  
-the home of the brave. TRANSFER OF TH
-</td></tr></table>
-
----
-
 ## [From _Waterbury evening Democrat._](https://chroniclingamerica.loc.gov/lccn/2016270503/1898-05-07/ed-1/seq-1)
 
 #### 1898-05-07 &middot; [Waterbury, Conn.](http://dbpedia.org/resource/Waterbury%2C_Connecticut)
@@ -9234,42 +7012,9 @@ ing&#x27;s first beam,&#x27;
 In full glory reflected, now shines on  
 the stream;  
 &#x27;Tis tbe star spangled banner; oh, long  
-may it wave  
-O&#x27;er the land of tbe free and the home  
-of the brave!  
-And where are the foes who so vaunt­  
-Ingly swore  
-That the havoc of war and the battle&#x27;s  
-confusion  
-A home and a country should leave us  
-no mure?  
-Their blood has wash&#x27;d out their foul  
-footsteps pollution.  
-No refuge could save the hireling and  
-slave  
-From the terror of flight, or the gloom  
-ox tbe grave:  
-And the star-spangled &#x27;banner in tri­  
-umph doth wave  
-O&#x27;er the land of the free, and the home  
-oi me brave.  
-Oh, thus be it ever, when freemen  
-shall stand  
-Between their loved homes and the  
-war&#x27;s desolation!  
-Blest with vii tory and peace, may the  
-beaten rescued land  
-Praise tbe Power tbat hath made and  
-preserved us a nation:  
-Then ci nquer we must, when our cause  
-itidiust:  
-And this be our motto: &quot;In God is  
-our trust;&quot;  
-And the s&#x27;ar-spangled banner in  
-triumph hll wave  
-O&#x27;er the land of the fr
+may
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_ferrari_ver02%2Fdata%2Fsn86064199%2F00200296667%2F1898050701%2F0438.jp2/pct:82.698731,54.633490,12.692051,29.266980/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_ferrari_ver02%2Fdata%2Fsn86064199%2F00200296667%2F1898050701%2F0438.jp2/pct:82.882432,54.633490,12.508350,13.853396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9282,75 +7027,6 @@ O&#x27;er the land of the fr
 #### 1898-05-09 &middot; [Atchison, Kan.](http://dbpedia.org/resource/Atchison%2C_Kansas)
 
 [This text is not available under an open license.]
-
----
-
-## The Star Spangled Banner
-
-#### From _Morning Oregonian._
-
-#### 1898-05-11 &middot; [Portland, Or.](http://dbpedia.org/resource/Portland%2C_Oregon)
-
-[This text is not available under an open license.]
-
----
-
-## [THE STAR-SPANGLED BANNER.](http://trove.nla.gov.au/ndp/del/article/33154476)
-
-#### From _Western Mail (Perth, WA : 1885 - 1954)_
-
-#### 1898-05-13 &middot; [Perth, Western Australia](http://dbpedia.org/resource/Perth)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-January ll, 1843.&quot; Oh, say, can you see  
-by Ijhe dawn&#x27;s early light What so  
-proudly we hailed at the twi- . light&#x27;s  
-last gleaming ; Whose broad stripes and  
-bright stars through the perilous fight,  
-^ O&#x27;er the ramparts we watched, were so  
-gallantly streaming ? And the rocket&#x27;s  
-red glare, the bombs bursting in air,  
-Gave proof through the night that our  
-flag was still there. Oh, say, does that  
-star-spangled banner yet wave O&#x27;er the  
-land of the free and the home of the  
-brave. On the shore dimly seen through  
-the mists of the deep. Where the foe&#x27;s  
-haughty host in dread . silence reposes,  
-What is that which the breeze o&#x27;er the &#x27;  
-towering steep, - / ? As it fitfully-bio  
-w£, half-conceals, half discloses ?. . r  
-Now it catches tho gleam of the  
-morning&#x27;s first beam, In full glory  
-reflected, now shines on the stream.  
-&#x27;Tis the star-spangled banner; oh, long  
-. may it wave O&#x27;er thc land of the free  
-aud the home of the brave, Now, where is  
-chat band who so vaunt ingly swore That  
-the hav«c of war and tho battle&#x27;s  
-confusion, A home and a country should  
-le?.ve us no more? Their blood has  
-washed out their foul footsteps&#x27;  
-pollution. No refuge could save the  
-hirdin » and slave From the terror of  
-flight or the gloom of the grave. I But  
-the star-spangled banner in triumph doth  
-wave O&#x27;er the land of the fr»e and the  
-home of the brave. Oh, thus be it ever  
-when free men shall stand Between their  
-loved home and the war&#x27;s desolation.  
-Blest with vicfry and&quot; peace, ma; our .  
-heaven-rescued land Praise the Power  
-that hath made and preserved us a  
-nation. . Then conquer we must when our  
-cause it is just. And this be our motto,  
-&quot;In God is bur trust.&quot; And the star-  
-spangled banner in triumph shall wave  
-O&#x27;er the land of the free and the home  
-of the brave
-</td></tr></table>
 
 ---
 
@@ -9460,39 +7136,9 @@ home of the brave.
 And whère is the band that so Taunt­  
 ingly sworb,  
 Mid the havoc of war and the battle&#x27;s  
-confusion,  
-A home and a country they&#x27;d leave  
-us no more?  
-Their blood hath wash&#x27;d our their  
-foul footsteps&#x27; pollution;  
-No refuge could save the hireling  
-and slave  
-From the terror of flight, or the  
-gloom of the grave,  
-And the star-spangled banner in tri­  
-umph doth wave  
-O&#x27;er the land of the free and the  
-home of the brave
+confusi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cotton_ver01%2Fdata%2Fsn89065008%2F00199916555%2F1898051901%2F0456.jp2/pct:12.384899,27.711970,12.615101,31.094140/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Florence daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn90051342/1898-05-20/ed-1/seq-3)
-
-#### 1898-05-20 &middot; [Florence, Colo.](http://dbpedia.org/resource/Florence%2C_Colorado)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-2.20 n the shore Aimly scen thro&#x27; the mists of the deep, Whero the foe&#x27;s haughty hest in dread  
-8 And where is that band who so vauntingly swore, That the havoe of war and the  
-. O thus ba it ever when Freemen shall stand Between their lov&#x27;d home, and the  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/cohi_bowerman_ver01%2Fdata%2Fsn90051342%2F00513680454%2F1898052001%2F0253.jp2/pct:64.825276,10.338638,26.346558,2.149233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cotton_ver01%2Fdata%2Fsn89065008%2F00199916555%2F1898051901%2F0456.jp2/pct:12.430939,27.711970,12.569061,23.410224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9533,35 +7179,7 @@ blood-has wash&#x27;d out their foul footsteps&#x27; po-lu-fion No refuge could 
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ntels,  
-Head and Foot Stones.  
-Office: On Queen Street. Opposite the  
-Valley House, Martinsburg.  
-JOHN HELLER,  
-Manufacturer of  
-FIRST-CLASS BUGGIES AND  
-CARRIAGES.  
-—  
-I  
-Ordered Work  
-a Specialty.  
-West King Street, Martinsburg.  
-Bibles and Testaments,  
-all slies, American B. Society,  
-Pabvin E. Deatrick,  
-Treas. and Librarian.  
--AT­  
-H. N. DEA TRICK’S SHOE STORE.  
-WANTFfl every smoker  
-yyniiiLUi ToHeU)1 7 two.cen,  
-sti.iJ.pH to help pay postage, packing  
-Ac., and we will mail sample box of our  
-Non-Nicotine Midget Cigars.  
-Only one box to one address.  
-Address: LANDIS A CO.,  
-Shippensburq, Pa.  
   
-STAR SPANGLED BANNER.  
 O! say can you see, by the dawn’s early  
 light.  
 What so proudly we hailed at the twi­  
@@ -9596,29 +7214,9 @@ O’er the land of the free and the home
 of the braye.  
 And where is that band who so vaunt  
 ingly swore,  
-’Mid the havoc of war and the battle’s  
-confusion,  
-A home and a country they’d leave us no  
-more?  
-Their blood has washed out their foul  
-
+’Mid the havoc of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_casper_ver01%2Fdata%2Fsn85059533%2F00393349128%2F1898052801%2F0866.jp2/pct:19.357430,14.279796,29.563253,78.680431/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _San Antonio daily light._](https://chroniclingamerica.loc.gov/lccn/sn86090439/1898-05-29/ed-1/seq-12)
-
-#### 1898-05-29 &middot; [San Antonio, Tex.](http://dbpedia.org/resource/San_Antonio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-1- o say can you see by the dawn&#x27;s early light, What so proudly we hail&#x27;d at th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_frisco_ver01%2Fdata%2Fsn86090439%2F00517175134%2F1898052901%2F1243.jp2/pct:37.358609,73.819555,27.042313,0.552085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_casper_ver01%2Fdata%2Fsn85059533%2F00393349128%2F1898052801%2F0866.jp2/pct:34.277108,15.053169,14.643574,18.481563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9647,21 +7245,6 @@ Pow’r that hath made and preserv’d us a nation: And this be our motto-&quot;
 
 ---
 
-## [From _Sistersville oil review._](https://chroniclingamerica.loc.gov/lccn/sn86092351/1898-06-01/ed-1/seq-7)
-
-#### 1898-06-01 &middot; [Sistersville, W. Va.](http://dbpedia.org/resource/Sistersville%2C_West_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-1. O say can you see by the dawn&#x27;s early light, What so proudly we hail&#x27;d at th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_mara_ver01%2Fdata%2Fsn86092351%2F00271767675%2F1898060101%2F0149.jp2/pct:52.580941,7.380550,29.724089,0.761564/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Pennsylvania School Journal 1852-1980_](https://archive.org/details/sim_pennsylvania-school-journal_1898-06_46_12/page/n65/mode/1up?view=theater)
 
 #### 1898-06-01 &middot; [Lancaster, Pennsylvania](http://dbpedia.org/resource/Lancaster%2C_Pennsylvania)
@@ -9669,11 +7252,13 @@ Pow’r that hath made and preserv’d us a nation: And this be our motto-&quot;
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+twilight’s last gleaming, Whose broad stripes and rht stars, thro’ the perilous fight, O’er the ramparts we  
+si - lence re-pos-es, What is that whichthe breeze, o’erthe tower-ingsteep, As it fit - ful-ly  
 bat - tle’scon fu-sion, A home and a y should leave usno more? Their blood has wash’d  
 war’s des-o-lation; Blest with vict’ry and peace, may the heav’n-res eck 1 Praise the pow’r that hath  
 a Se S i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_pennsylvania-school-journal_1898-06_46_12&#0036;65/pct:20.507246,35.599415,70.615942,3.654971/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_pennsylvania-school-journal_1898-06_46_12&#0036;65/pct:20.507246,33.357700,70.615942,5.896686/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9686,152 +7271,6 @@ a Se S i
 #### 1898-06-05 &middot; [New Orleans, La.](http://dbpedia.org/resource/New_Orleans)
 
 [This text is not available under an open license.]
-
----
-
-## [From _The silver star._](https://chroniclingamerica.loc.gov/lccn/sn90051344/1898-06-09/ed-1/seq-3)
-
-#### 1898-06-09 &middot; [Dolores, Colo.](http://dbpedia.org/resource/Dolores%2C_Colorado)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Oh! .l?’h?n you see, by the dawn&#x27;s early  
-Wha! 80 s)roudlly we hailed at the twi­  
-light&#x27;s last genmlnf.: S  
-Whose stripes and bright stars, through  
-the perilous fight,  
-O&#x27;er the ramparts we watched, were so  
-gallantly streaming.  
-And the rocket&#x27;s red glare, the bombs  
-bursting in air,  
-Gave proof throuxh the night that our  
-flag was still there!  
-Chorus—  
-Oh! ua?&#x27; does that star spangled banner  
-still wave,  
-O&#x27;er the land of the free and the home of  
-the brave!  
-On the shore, dimly seen through the mist  
-of the deep,  
-Where the foe&#x27;s haughty host in dread  
-silence reposes;  
-What is that which the breese, o&#x27;er the  
-towerlnf steep,  
-As it fitfully blows, half congceals, half  
-discloses?  
-Now {t catches the gleam of the morn-  
-Imi&#x27;a first beam,  
-In full glory reflected, now shines in  
-the stream.  
-Chorus—  
-&#x27;Tis the star spangled banner, oh, long  
-may it wave,  
-O&#x27;er the land of the free and the home of  
-the brave!  
-And where is that band who so vaunting­  
-ly swore,  
-‘Mid the havoc of war and the battle&#x27;s  
-confusion,  
-A home and a country they&#x27;d leave us no  
-more?  
-Their blood has washed out their foul  
-footsteps&#x27; pollution;  
-No relfuga could save the hireling and  
-slave  
-From the terror of flight, or the gloom of  
-the grave.  
-Chorus—  
-And the star spangled banner in triminph  
-shall wave,  
-O&#x27;er the land of the free and the home f  
-the brave!  
-Oh! tllmudbe it ever, when freemen sh:ll  
-stand,  
-Between their loved home and the war&#x27;s  
-desolation;  
-Blest with victory and peace, may the  
-heaven-rescued land  
-Pralse the Power that hath made and  
-preserved us a nation,  
-Then conquer we must, when our cause  
-it is {:nt,  
-And this our motto: ‘“ln God is our  
-trust.”  
-Chorus—  
-And the star spangled banner in triumph  
-shall wave,  
-While the land of the free is the home of  
-the brave
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/cohi_alta_ver01%2Fdata%2Fsn90051344%2F00340586116%2F1898060901%2F0265.jp2/pct:16.999721,6.928429,14.295696,29.090457/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The silver lance._](https://chroniclingamerica.loc.gov/lccn/sn90051407/1898-06-10/ed-1/seq-3)
-
-#### 1898-06-10 &middot; [Crystal, Colo.](http://dbpedia.org/resource/Crystal%2C_Colorado)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-And jiSlred *lare* the bombs  
-bursting in air,  
-Gave proof through the night that our  
-flag was still there!  
-Chorus—  
-Oh! say, does that star spangled banner  
-still wave.  
-O’er the land of the free and the home of  
-the brave!  
-On the shore, dimly seen through the mist  
-of the deep,  
-Where the foe’s haughty host In dread  
-silence reposes;  
-What is that which the breeze, o’er the  
-towering steep,  
-As U fitfully blows, half corv?eals, half  
-discloses?  
-Now it catches the gleam of the morn­  
-ing s first beam.  
-In full glory reflected, now shines in  
-the stream.  
-Chorus—  
-Tis the star spangled banner, oh, long  
-may It wave.  
-O’er the land of the free and the home of  
-the brave!  
-And where is that band who so vauntlng­  
-ly swore,  
-’Mid the havoc of war and the battle’s  
-confusion,  
-A home and a country they’d leave us no  
-more’  
-Their blood has washed out their foul  
-footsteps’ pollution;  
-No refuge could save the hireling and  
-slave  
-From the terror of flight, or the gloom oi  
-the grave.  
-Chorus—  
-And the star spangled banner In triumph  
-shall wave.  
-O’er the land of the free and the home t&gt;f  
-the brave!  
-Oh! thus be It ever, when freemen sh» 11  
-stand.  
-Between their loved home and the war «  
-desolation;  
-Blest with victory and peace, may the  
-heaven-rescued land  
-Praise the Power that hath made and  
-preser
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/cohi_baldwin_ver01%2Fdata%2Fsn90051407%2F00414214356%2F1898061001%2F0195.jp2/pct:18.246110,8.759421,14.731259,22.952740/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
@@ -9874,33 +7313,6 @@ of the brave
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-Tombs, Mantels,  
-Head and Foot Stones.  
-Office: On Queen Street, Opposite the  
-Valley House, Martinsburg.  
-JOHN HELLER,  
-Manufacturer of  
-FIRST-CLASS BUGGIES AND  
-CARRIAGES.  
-Ordered Work  
-a Specialty.  
-West King Street, Martinsburg.  
-Bibles and Testaments,  
-all slues, American B. Society,  
-P jjaviN E. Dkatrick,  
-Treas. and Librarian.  
--AT­  
-H. N. DEA TRICK *8 SHOE STORE.  
-WANTED,™ smoker  
-1 ■ To send 7 two-oen,  
-stamps to help pay postage, packing  
-Ac., and we will mail sample box of our  
-Non-Nicotine Midget Cigars.  
-Only one box to one address.  
-Address: LANDIS &amp; CO..  
-Shipphnsbckq, Pa.  
-  
-%»« MAfeWAira&amp;m auras®*»*»  
   
 O say, can you see. by the dawn’s early light, \
 What so proudly we hailed at the twilight&#x27;s last gleaning, j  
@@ -9938,7 +7350,7 @@ I, And this be our motto, “In God is our trust!&quot;
 fc And the star-spangled banner in triumph shall wave  
 &#x27; While the laud of the free is the home of the brave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_casper_ver01%2Fdata%2Fsn85059533%2F00393349128%2F1898061102%2F0890.jp2/pct:17.103904,16.271521,75.444123,78.778577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_casper_ver01%2Fdata%2Fsn85059533%2F00393349128%2F1898061102%2F0890.jp2/pct:33.071679,19.023426,59.476348,16.585521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10067,24 +7479,6 @@ the brave
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t know the result of the  
-attack until the- morning light should  
-make all plain, and they waited with  
-sickening anxiety.  
-  
-Here it was that the song began. As  
-our hero paced the deck, almost over-  
-whelmed with eager suspense, the noble  
-utterance came to him. He took a letter  
-from his pocket and on the back jotted  
-down the first rude draft of it as the  
-dawn spread softly over the sky and  
-showed, clearly and more clearly, the un-  
-shaken defense, with the beloved flag  
-above it. So in the hour of victory, out  
-of the midst of the conflict, issued the  
-matchless battle song—The Star-Span-  
-gled Banner.  
   
 O say, can you see, by the dawn’s early light,  
 What so proudly we hailed at the twilight’s last  
@@ -10145,7 +7539,7 @@ And this be our motto: “ In God is our trust’’;
 And the star-spangled banner, O long may it wave  
 O’er the land of the free and the home of the brave!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1898-06-30_83_26&#0036;13/pct:39.419476,38.762626,26.560549,53.324916/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_congregationalist-and-herald-of-gospel-liberty_1898-06-30_83_26&#0036;13/pct:39.419476,56.565657,26.061174,35.521886/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10179,68 +7573,6 @@ Tow&#x27;r that hath made and preserv&#x27;d us a nation: And thia be our motto 
 Fob Sale Chkai A good horse, with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_calumet_ver01%2Fdata%2Fsn86086632%2F00296023504%2F1898070101%2F1092.jp2/pct:17.229072,10.752688,72.258274,10.065403/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _St. Nicholas; an Illustrated Magazine for Young Folks (1873-1907)_](https://archive.org/details/sim_saint-nicholas-a-magazine-for-boys-and-girls_1898-07_25_9/page/n81/mode/1up?view=theater)
-
-#### 1898-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-ilous fight,  
-O’er the ramparts we watched, were so gallantly  
-streaming !  
-And the rockets’ red glare, the bombs bursting in air,  
-Gave proof through the night that our flag was still  
-there.  
-Oh! say, does that star-spangled banner yet wave  
-O’er the land of the free and the home of the brave ?  
-  
-On that shore, dimly seen through the mists of the  
-deep,  
-Where the foe’s haughty host in dread silence re-  
-  
-poses,  
-What is that which the breeze, o’er the towering  
-steep,  
-  
-As it fitfully blows, half conceals, half discloses ?  
-Now it catches the gleam of the morning’s first beam;  
-In full glory reflected, now shines on the stream;  
-  
-T is the star-spangled banner; oh, long may it wave  
-O’er the land of the free and the home of the brave!  
-  
-And where is that band who so vauntingly swore  
-That the havoc of war and the battle’s confusion  
-  
-A home and a country should leave us no more?  
-Their blood has washed out their foul footsteps’  
-  
-ollution.  
-  
-No refuge could save the hireling and slave  
-  
-From the terror of flight or the gloom of the grave;  
-  
-And the star-spangled banner in triumph doth wave  
-  
-O’er the land of the free and the home of the brave!  
-  
-Oh! thus be it ever when freemen shall stand  
-Between their loved homes and the war’s desolation!  
-Blessed with victory and peace, may the heaven-rescued  
-land  
-Praise the power that hath made and preserved us  
-a nation.  
-Then conquer we must, for our cause it is just;  
-And this our motto: “In God is our trust.”  
-And the star-spangled banne
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saint-nicholas-a-magazine-for-boys-and-girls_1898-07_25_9&#0036;81/pct:10.664062,38.248848,36.796875,42.943548/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10332,198 +7664,12 @@ O&#x27;er the land of the free and the home of the brave.
 
 ---
 
-## [From _Freeland tribune._](https://chroniclingamerica.loc.gov/lccn/sn87080287/1898-07-04/ed-1/seq-1)
-
-#### 1898-07-04 &middot; [Freeland, Pa.](http://dbpedia.org/resource/Freeland%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- thro*  
-the perilous tight  
-O&#x27;er the ramparts we watched, were so  
-gallantly streaming!  
-And the rockets red glare, the bombs burst­  
-ing in air,  
-Gave proof through the night that our flag  
-was still there;  
-0 say, does the star-spang&#x27;e I banner yet  
-wave  
-O&#x27;er the land of the free and the homo of  
-brave?  
-On that shore dimly seen through the mists  
-of the deep,  
-Where the foci&#x27;s haugty host in dread sil­  
-ence reposes,  
-What is that which the breixe o&#x27;er the tow­  
-ering steep,  
-As it fitfully blows, now conceals, now  
-discloses?  
-Now it catches the glenm of the morning&#x27;s  
-first beam,  
-In full glory reflected, now shines on the  
-stream;  
-•Tis the star-spangled banner! O, long may  
-It wave  
-O&#x27;er the laud of the free and the home of  
-the brave I  
-And where is that baud who so vauntingly  
-swore  
-&#x27;Mid the havoc of war and the battle&#x27;s  
-confusion,  
-A home and a country they&#x27;d leave us no  
-more?  
-Their blood has washed out their foul  
-footstep&#x27;s pollution.  
-No refuge could save the hireling and slave  
-From the terror of flight or ll&gt;e gloom of  
-the grave;  
-And the star-spangled banner in triumph  
-doth wave \
-O&#x27;er the land of the free and the homo of  
-the brave I  
-O, thus be it over when freemen shall stand  
-Between their loved homes and the war&#x27;s  
-desolation.  
-Blest with vict&#x27;ry and peace, may the heav­  
-en rescued laml  
-Praise the power that hath made and pre­  
-served us a nation.  
-Then conquer we must, for our cause it is  
-just,  
-And this be our motto: &quot;In God is our  
-trust;  
-And the star-spangled banner in triumph  
-shall wave  
-O&#x27;er the land of the free and the home of  
-the brave
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lydia_ver01%2Fdata%2Fsn87080287%2F00296028794%2F1898070401%2F0012.jp2/pct:16.563147,27.080831,12.379525,33.859619/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Zion's Herald (1868-1910)_](https://archive.org/details/sim_zions-herald_1898-07-13_76_28/page/n10/mode/1up?view=theater)
-
-#### 1898-07-13 &middot; [Boston](http://dbpedia.org/resource/Boston)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-“© 7 you see, by the dawn’s early  
-lig bt,  
-What so proudly we hailed at the twi-  
-light’s last gleaming;  
-Whose broad stripes and Sight stars thro’  
-the perilous fight  
-O’er the ramparts we watched were so  
-gallantly streaming —  
-And the rockets’ red glare, the bombs  
-bursting in air,  
-Gave proof through the night that our flag  
-was stili there;  
-O say, does that star-spangled banner yet  
-  
-wave  
-O’er tne land of the free and the home of  
-the brave ?  
-  
-** From the shore dimly seen thro’ the mists  
-of the deep,  
-Where the foe&#x27;s haughty host in dread  
-silence reposes,  
-What is that whicn the breeze o’er the  
-towering steep,  
-As it fitfaliy blows, half conceals, half  
-discloses ?  
-Now it catches the gleam of the mcrning’s  
-first beam,  
-In full glory reflected now shines in the  
-stream;  
-&quot;Tis the star-spangled banner—O long  
-may it wave  
-O’er the iand of the free and the home of  
-the brave!  
-  
-** And where is that band who so vauntingly  
-  
-swore  
-That the havoc of war and the battle’s  
-confusion  
-A home and a country should leave as no  
-more ?  
-Their blood has washed out their foul  
-footsteps’ poliution.  
-No refuge could save the hireling and slave  
-From ats a of tiight or the gloom of  
-t  
-And the st sne-anenaied banner in triumph  
-doth wave  
-O’er the land of the free and the home of  
-the brave.  
-  
-“ And — it ever, when freemen shall  
-stan  
-Between their loved homes and the war’s  
-desolation ;  
-Blest with vict’ ty and peace may this  
-heaven: rescued land  
-Praise the Power that hath made and  
-preserved us a nation.  
-Then sm we must, when our cause it  
-8 jus
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_zions-herald_1898-07-13_76_28&#0036;10/pct:37.279152,27.372685,26.442874,42.824074/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1898-08-04_72_31/page/n7/mode/1up?view=theater)
 
 #### 1898-08-04 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-aven” had been adapted to it by its author, and  
-  
-i Durang, mounting a rush-bottom chair,  
-  
-e lines for the first time, unless Key had sung  
-  
-them to himself.  
-hen the theatre opened, t  
-  
-every night after the play. There :  
-  
-discussion as to what became of the flag referred to in  
-  
-the song. It has been located “positively” in various  
-  
-laces.  
-“ The version of the song printed below is taken from  
-the volume, * Poems of the late Francis 8. Key, Esq.,’  
-ublished in New York, in 1857, with an introductory  
-etter by Mr. Key’s brother-in-law, Chief Justice Taney.  
-  
-  
-  
-he new song was omg  
-ere has been muc  
-  
-  
-  
-  
-  
-O say, can you see, by the dawn’s early light,  
-What 20. proudly we hailed, at the ht’s last  
-  
-gleam  
-  
-Whose “broad, Fi ~ and bright stars through the  
-  
-erilous  
   
 P ramparts we watched, were so gallantly  
 streaming ;  
@@ -10543,13 +7689,20 @@ Where’ ‘the foe’s haughty host in dread silence
 reposes,  
   
 What is that which the breeze, o’er the towering steep,  
-As it fitfully blows. , now discloses ?  
-  
-Now it eatches the gleam of the morning’s first beam,  
-  
-In full glory reflected now shines in the stream :  
-  
-*Tis the Star Spangled Banner; O long may ft wave  
+As it fitfully blows. , now discloses ?
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1898-08-04_72_31&#0036;7/pct:11.429309,31.039229,19.762642,6.039229/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1898-08-04_72_31/page/n7/mode/1up?view=theater)
+
+#### 1898-08-04 &middot; [Boston](http://dbpedia.org/resource/Boston)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
   
 O’er the land of the free and the home of the brave!  
   
@@ -10582,98 +7735,7 @@ And the Star Spangled Banner in triumph shall wave
   
 O’er the land of the free and the home of the brave!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1898-08-04_72_31&#0036;7/pct:11.403509,23.279422,19.788442,23.950447/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Independent._](https://chroniclingamerica.loc.gov/lccn/sn85047097/1898-08-06/ed-1/seq-1)
-
-#### 1898-08-06 &middot; [Honolulu, H.I.](http://dbpedia.org/resource/Honolulu)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Oh I say can you see by the dawns  
-early light  
-What so proudly wo hailed at the  
-twilights last gleaming  
-Whose stripes and bright stars thro  
-the perilous fight  
-Oer tho ramparts we watched were  
-bo gallantly streaming  
-And the rockets red glare the  
-bombs bursting in air  
-Gave proof thro tho night that our  
-flag was still there  
-Gnonus  
-Oh say does that star spangled  
-banner yet wave  
-Oer tho land of tho free and the  
-home of the brave  
-On the shore dimly seen thro the  
-mist of tho deep  
-  
-Whore the foes haughty host in  
-dread silence reposes  
-What is that which tho breeze oer  
-tho towering steep  
-As it fitfully blows half conceals  
-half discloses  
-Now it catohos the gleam of the  
-mornings first beam  
-  
-In full glory roflocted now shines  
-in tho stream  
-Ononus  
-Tis tho star spangled banner Oh I  
-long may it wave  
-Oer tho land of the froe and tho  
-homo of tho bravel  
-And whoro is that band who so  
-vauntingly sworo  
-Mid the havoo of war and tho bat­  
-tles confusion  
-A home and a country theyd loavo  
-ub no morel  
-  
-Their blood has washd out their  
-foul footsteps pollution  
-No refuge could save the hireling  
-and slavo  
-From tho terror of flight or the  
-gloom of the grave  
-Cuonua  
-And tho star spangled bannor iu  
-triumph shall wave  
-  
-  
-llie lanl oC Vie froo and tho  
-homo of tho bravt  
-  
-O tin bo it over when fr omen  
-shal staud  
-Botweeu their Iovd homo and tho  
-wars desolation  
-Blest with viotry and peace may  
-the heavn rosoued land  
-Fraiie the Power that hath mado  
-and preserved us a nation  
-Then conquer wo must for our  
-oauso it is just  
-And this be our motto In God is  
-our trust  
-  
-Choiius  
-And the star spangled bannor  
-  
-in  
-  
-triumph spall wave  
-While tho land of the freo
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_angel_ver01%2Fdata%2Fsn85047097%2F00211100394%2F1898080601%2F0135.jp2/pct:41.800153,12.618026,33.460463,83.291845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1898-08-04_72_31&#0036;7/pct:11.403509,38.265657,19.788442,8.964212/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10783,35 +7845,7 @@ O&#x27;er the land of the free and the home of the brave
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-mast fall. They watched the flag at the  
-fort through the whole day, with an anxiety  
-that can be better felt than described, until the  
-night prevented Mr. Key and his friend from  
-seeing it In the night they watched the bomb­  
-shells, and at early dawn their eyes were again  
-greeted by the flag of their country. The Bri­  
-tish were finally defeated and retired, and Mr.  
-Key and his friends were released. The lines  
-that follow were written while the battle was  
-proceeding, and on Mr. Key’s return to the city  
-were immediately printed in handbill form,  
-and sung by the multitude amid great rejoic­  
-ing :  
-  
-O say, can you see by the dawn’s early light  
-What so proudly we hailed at the twilight’s last gleaming?  
-Whose broad stripes and bright stars, thro’ the,perilous  
-fight  
-O’er toe ramparts we watched, were so gallantly stream­  
-ing!  
-And the rockets’ red glare, the bombs bursting in air,  
-Gave proof through tne night that our flag was still there;  
-O say, does the star-spangled banner yet wave  
-O’er the land of the free and the home of the brave?  
-On that shore dimly seen through the mists of the deep,  
-Where the foe’s haughty hostln dread silence reposes.  
-What is that which the breeze o’er the towering steep,  
-As it fitfully blows, now conceals, now discloses?  
+iscloses?  
 Now it catches the gleam of the morning’s first beam,  
 In frill glory reflected, now shines on the stream ;  
 ’Tis the star-spangled banner! O. long may it wave  
@@ -10834,7 +7868,7 @@ And this be our motto : “In God is our trust;
 And the star-spangled banner in triumph shall wave  
 O’er the land of the free, and the home of the brave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_deal_ver01%2Fdata%2Fsn91064026%2F00513685166%2F1899070101%2F0571.jp2/pct:49.030906,20.483900,20.881351,27.437693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_deal_ver01%2Fdata%2Fsn91064026%2F00513685166%2F1899070101%2F0571.jp2/pct:49.083290,37.347644,20.776585,10.573949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10926,8 +7960,6 @@ The words were set to music soo
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-tripes floating over the fort after firing Baa ceased, proclaiming am .American viciory.j  
-1  
 L O say can von see by the dawn&#x27;s early light. What so proudly we bail&#x27;d at the  
 2. On the shore dimly seen thro&#x27; the mists of the deep, Where the foe&#x27;s haughty host in dread  
 &amp;. And where ie that band who so vauntingly swore. That the havoc of war and the  
@@ -10938,7 +7970,7 @@ si-lence re pos es; What is that which the breeze, o&#x27;er the towering steep 
 bat-tie&#x27;s con-fns-ion, A home and a ooun - try shall leave us no more Their  
 war&#x27;s desolation ; Blest with vict&#x27;ry and peace, may the Heav&#x27;n nescu&#x27;d land, Praise tbe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_hickory_ver01%2Fdata%2F2016270503%2F00271762859%2F1899102001%2F0147.jp2/pct:31.354862,8.289533,24.427205,8.604896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_hickory_ver01%2Fdata%2F2016270503%2F00271762859%2F1899102001%2F0147.jp2/pct:31.354862,10.692296,24.427205,6.202132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

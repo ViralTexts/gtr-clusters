@@ -1,7 +1,7 @@
 
 # The Scene at Pere la Chaise
 
-### 37 reprints from 1871-06-01 to 1871-08-19
+### 38 reprints from 1871-06-01 to 1871-08-19
 
 ## [The Scene at Pere la Chaise](https://chroniclingamerica.loc.gov/lccn/sn82014064/1871-06-15/ed-1/seq-1/)
 
@@ -116,6 +116,26 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 #### 1871-06-09 &middot; [Newcastle-upon-Tyne, England](http://dbpedia.org/resource/Newcastle_upon_Tyne)
 
 [This text is not available under an open license.]
+
+---
+
+## From _New-York tribune._
+
+#### 1871-06-14 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+The Cemetery of Pere-la-Chaise presents a  
+deplorable sight; the resting places of the dead are much  
+deliled; the monuments have been greatly imured by  
+the firing; coffins have been broken, and the remains lie  
+scattered over the ground. You may measure the dead  
+not by numbers but by the rod. They lie in a double tier  
+on the grass, powdered over with a coating of lime.  
+There are many women among them, and faces the  
+ferocity of which makes one sick to look upon
+</td></tr></table>
 
 ---
 
@@ -395,28 +415,29 @@ to look upon
 
 ---
 
-## [From _Gold Hill daily news._](https://chroniclingamerica.loc.gov/lccn/sn84022046/1871-07-06/ed-1/seq-2)
+## From _Gold Hill daily news._
 
 #### 1871-07-06 &middot; [Gold Hill, N.T. [Nev.]](http://dbpedia.org/resource/Gold_Hill%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-ore much defiled; the monuments  
-have been greatly injured by the firing ;  
-coffin* have been broken, and the re­  
+TErrihle Aspeor oF Pere-LA­  
+CHAISE.  The Cemetery of Pere-la­  
+Chalse, Paris, presents a deplorable  
+sight; the resting places of the dead  
+are much defiled; the monuments  
+have been greatly injured by the firing;  
+coffins have been broken, and the re­  
 mains lie scattered over the ground.  
 You may measure the dead not by  
-numbers but by the rod. Tliey lio in a  
+numbers but by the rod. They lie in a  
 double tier on the grass, powdered  
-over with a coating ol lime. There are  
+over with a coating of lime. There are  
 many women among them, and faces  
 the ferocity of which make one sick to  
 look upon
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_osceola_ver01%2Fdata%2Fsn84022046%2F0027955520A%2F1871070601%2F0020.jp2/pct:20.347063,81.848783,11.751526,4.897074/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 

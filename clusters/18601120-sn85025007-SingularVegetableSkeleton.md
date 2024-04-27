@@ -1,7 +1,7 @@
 
 # A Singular Vegetable Skeleton
 
-### 80 reprints from 1860-11-17 to 1877-09-23
+### 87 reprints from 1860-11-13 to 1877-09-23
 
 ## [A Singular Vegetable Skeleton](http://chroniclingamerica.loc.gov/lccn/sn85025007/1860-11-20/ed-1/seq-4/)
 
@@ -13,6 +13,44 @@
 
 A SINGULAR VEGETABLE SKELETON.—A singular story is told of an apple tree planted over the grave of Roger Williams. This tree had pushed downward one of its main roots in a sloping direction, and nearly straight course, toward the precise spot that had been occupied by the skull of Roger Williams. There making a turn conforming with the circumference, the root followed the direction of the back-bone to the hips, and thence divided into two branches, each one following the leg bone to the heel, where they both turned upwards to the extremities of the toes of the skeleton. One of the roots formed a slight crook at the part occupied by the knee joint, thus producing an increased resemblance to the outlines of the skeleton of Roger Williams, as if, indeed, moulded thereto by the powers of vegetable life.  
 
+</td></tr></table>
+
+---
+
+## From _New-York daily tribune._
+
+#### 1860-11-13 &middot; [New-York [N.Y.]](http://dbpedia.org/resource/New_York_City)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ry fine,&quot; and  
+ted her husband greatly for bis taste in  
+her. And when the told himd  
+women who would surpass her, he said  
+thut would either never be, or else a very long time.  
+is to her presence, the attendance on preaching  
+atraordinarily hirge. During her visit at the  
+sdon station, hundreds went to see her, who sald  
+could feel satisfied to die now that they had seen  
+suuch a wonderful being as a white wor  
+Charles D, Johnson, esy, the editor of The Coct  
+ret, published at North Stratford, died  
+place last week, at the early  
+He was a lawyer by profession, and had be  
+ed with The Democrat since 1838.  
+  
+A singular story is told of an apple tree plantes  
+over the grave of Roger Williams. This tree hadl  
+pushed downward one of its main roots in a sloshg  
+direction, and nearly straight course, towurd the pred  
+cise spot that had been occupied by the skull of Rogar  
+Williams. There making a turn conforming with its  
+circumference, the root followed the direction of the  
+back-bone to the hips, and thence divided into twe  
+branches, each one following a leg bone to the beel)  
+where they both turned upward to the extremities of  
+of the skeleton of Roger Williams, as if, indeed, molded  
+thereto by the powers of vegetable life. This singular
 </td></tr></table>
 
 ---
@@ -44,35 +82,32 @@ indeed, molted thereto by the powers of vegetable life. Thi
 
 ---
 
-## [From _Daily Nashville patriot._](https://chroniclingamerica.loc.gov/lccn/sn83025725/1860-11-20/ed-1/seq-2)
+## From _Daily Nashville patriot._
 
 #### 1860-11-20 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-tons were clearing it of earth, the loot of an  
+tons were clearing it of earth, the root of an  
 adjacent apple tree was discovered. This  
 tree had pushed downwards one of its main  
-roots in a sloping direction ana nearly  
-Btraight course towards the precise spot tbat  
-had been occupied by the sknll of Roger  
+roots in a sloping direction and nearly  
+straight course towards the precise spot that  
+had been occupied by the skull of Roger  
 Williams. There making a turn conform  
 ing with its circumference, the root followed  
 the direction of the back-bone to the hips,  
 and thence divided into two branches, each  
 one following a leg-bone to the heel, where  
-they both turned upwards to the extemitte3  
-of the toes of the fckeleton. One of the roots  
-formed a sligiit crook at the part occupied  
+they both turned upwards to the extemities  
+of the toes of the skeleton. One of the roots  
+formed a slight crook at the part occupied  
 by the knee joint, thus producing an in  
 creased resemblance to the outlines of the  
-skt-1 ;iou of Roger Williams, as if, indeed.  
+skeleton of Roger Williams, as if, indeed,  
 moulded thereto by the powers of vegetabl
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_kitty_ver01%2Fdata%2Fsn83025725%2F00212470284%2F1860112001%2F0486.jp2/pct:28.068060,40.492170,11.039657,9.427932/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -120,6 +155,53 @@ to by the powers of vegetable life
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_dior_ver01%2Fdata%2Fsn85025007%2F00415663511%2F1860112001%2F0074.jp2/pct:2.843834,62.024838,14.129280,17.232353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The daily Gate City._
+
+#### 1860-11-23 &middot; [Keokuk, Iowa](http://dbpedia.org/resource/Keokuk%2C_Iowa)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+t, a whip  
+in his hand, and a burnous thrown over his  
+shoulders, and you have the Sicilian Priest  
+Padre Santaleone. He is preaching about  
+the revolution, and love to Garibaldi, and  
+Victor Emanuel, and to Maria Santissima,  
+and he reminde them that Liberty and relig-­  
+ion are not incompatible with one another,  
+and then he winds up with &quot;Viva Garibaldi.&quot;  
+&quot;Viva Vittorio Emmanuelli,&quot; &quot;Viva Maria  
+whish last  
+  
+an ooo o onion ii o e  e o  eee o  
+the sufferers in Kansas. Gena Pomeroy seveI thne Call Bocte--to be elese out-immediately,  
+No. S Eetes House. ep  
+that three things are specially needed. Ist,  
+  
+ld  
+  
+A singular story is told of an apple  
+tree planted over the grave of Roger Wil-­  
+liams. This tree had pushed dewnward one  
+of its main roots in a sloping direction, and  
+nearly straight course, toward the precise  
+spot that had been occupied by the skull of  
+Roger Williams. There making a turn con  
+forming with its circumference, the rootfol  
+lowed the direction of the backbone to the  
+hips, and thence divided into two branches,  
+each one following a leg bone to the heel,  
+where they both turned upward to the ex-­  
+tremity of the toes of the skeleton. One of  
+the roots formed a slight crook at the part  
+occupied by the knee joint, thus producing  
+an increased resemblance to to the outlines  
+of the skeleton of Roger Williams, as if, in-­  
+deed, modeled thereto by the powers of veg-
+</td></tr></table>
 
 ---
 
@@ -236,40 +318,46 @@ powers of vegetable life. This singularly form
 
 ---
 
-## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1860-12-22/ed-1/seq-2)
+## From _Sioux City register._
 
 #### 1860-12-22 &middot; [Sioux City, Iowa](http://dbpedia.org/resource/Sioux_City%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+day and Thursday of next week be set  
+Secretary, with the approbation of the apart for Territorial business, aggreed to,  
+President, is authorized to cause such porThe House of Representatives  
+tion of the resury notes as ay bea e ae eton  a ote of  
+deemed expedient to be issued in paymento  recoenin the ee of a  
+of warrants in favor of the public credia ain coni i te onion  
+tors or other persons lawfully entitled toan a o oe  
+payment who may choose to receive said! On motion of Mr Grow. Wednesday  
   
-A lingular (.tory is told ef an apple  
-tree planted over ihe grave of&quot; Roger Wit  
+and Thursday were set apart for the con-­  
+sideration of Territorial business.  
+  
+ROGER WILLIYMs REMAINs.  
+  
+A singular story is told of an apple  
+tree planted over the grave of Roger Wil  
   
 liams. This tree had pushed downward  
   
-T|j  
+Th  
   
-out, .. i i- mn i«v.r  
+e e  a ete aeo e i a avinsever  
   
-e  
+1  
   
-favor resistance in some rnuiner.  
-Montgomery Admrtiser yesterd iy pun- tion and nearly straight course toward the  
-lisbed a presentment of the grand jury of precise spot that had been occupied by  
-the Federal District Coutt, declaring the  
-  
-rederal Government worthless and impo­  
-tent, a, ii&#x27;iisance, for committing violations  
-of ihe Cotiati ution, by States nullify u
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84031042%2F00279529303%2F1860122201%2F0487.jp2/pct:44.838855,62.621133,27.383367,5.323516/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+favor resistance in some manne  
+ongoer erier eea u o a e o oa e  
+lished a presentment of the grand jury of precise spot that had been occupied by  
+the Federal District Court, declaring th
+</td></tr></table>
 
 ---
 
-## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1860-12-22/ed-1/seq-2)
+## From _Sioux City register._
 
 #### 1860-12-22 &middot; [Sioux City, Iowa](http://dbpedia.org/resource/Sioux_City%2C_Iowa)
 
@@ -277,49 +365,32 @@ of ihe Cotiati ution, by States nullify u
 
   
   
-one of its main roots in a sloping direc- i,H rurnishwi t.I.V  
+one of its main roots in a sloping direc be furnl he by  
   
-tlie skilil  
+tha Shudt  
   
-,,f  
+of  
   
-1{ j2(r  
+Ioor  
   
 following a leg bone to the heel, where  
-they both turned upward to the eitreroi-  
+they both turned upward to the extremi-  
   
-sr out of the lattefs lei&#x27;.isal to surrender I ties of lb# toes of the skeleton. One o
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84031042%2F00279529303%2F1860122201%2F0487.jp2/pct:45.413568,64.453472,27.270678,6.381448/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1860-12-22/ed-1/seq-2)
-
-#### 1860-12-22 &middot; [Sioux City, Iowa](http://dbpedia.org/resource/Sioux_City%2C_Iowa)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
+out of the latter eusal to surrender of te to of te seton. One of  
   
-it the motion (nils, other steps wiil be im  
-tncdiat Iy taken.  
+fugitive slaves upon Magollin&#x27;s requisition.  
+If the motion fails, other steps will be im  
+mediat ly taken.  
   
-tljp roots formed a slight crook at tho fia.rt  
+the roots formed a slight crook at the part  
   
 occupied by the knee joint, thus producing  
-an increased resemblance to ihe outlines  
-  
-Much dissatisfaction is expressed at the of the skeleton of Roger Ui liams, as i
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84031042%2F00279529303%2F1860122201%2F0487.jp2/pct:44.861393,71.012653,23.833671,2.221658/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+an increased resemblance to the outlines
+</td></tr></table>
 
 ---
 
-## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1860-12-22/ed-1/seq-2)
+## From _Sioux City register._
 
 #### 1860-12-22 &middot; [Sioux City, Iowa](http://dbpedia.org/resource/Sioux_City%2C_Iowa)
 
@@ -329,19 +400,16 @@ Much dissatisfaction is expressed at the of the skeleton of Roger Ui liams, as i
   
 Williams. There,  
   
-waking a turn conforming with its cir­  
-cumference, the root followed the direc­  
+making a turn conforming with its cir-­  
+cumference, the root followed the direc-  
   
 tion of the back bone to the hips, and  
 thence divided into two branches each one
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84031042%2F00279529303%2F1860122201%2F0487.jp2/pct:56.964165,66.146164,11.708362,2.856417/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
-## [From _St. Charles City Republican intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn82014141/1860-12-27/ed-1/seq-2)
+## From _St. Charles City Republican intelligencer._
 
 #### 1860-12-27 &middot; [St. Charles City [Charles City], Iowa](http://dbpedia.org/resource/Charles_City%2C_Iowa)
 
@@ -349,11 +417,11 @@ thence divided into two branches each one
 
   
   
-Roger Williams&#x27; grave at Provi­  
+Roger Williams&#x27; grave at Provi-­  
 dence has a tree upon it which was  
 planted some years ago. Its roots are  
 said to have followed the direction of  
-the back bone of the skeleton, and  
+the back-bone of the skeleton, and  
 thence divided into two branches,  
 each one following a leg bone to the  
 heel, where they both turned upward  
@@ -361,12 +429,9 @@ to the extremities of the toes of the
 skeleton. One of the roots formed a  
 slight crook at the part occupied by  
 the knee joint, and the entire root,  
-thus following the source of its nour­  
+thus following the source of its nour-­  
 ishment from the phosphates of th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn82014141%2F00279529455%2F1860122701%2F0841.jp2/pct:46.735541,80.745823,10.071705,8.186998/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -440,7 +505,7 @@ to by the powers of vegetable life. &#x27;This si
 
 ---
 
-## [From _The Jeffersonian Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84028083/1861-01-04/ed-1/seq-4)
+## From _The Jeffersonian Democrat._
 
 #### 1861-01-04 &middot; [Chardon, Ohio](http://dbpedia.org/resource/Chardon%2C_Ohio)
 
@@ -448,32 +513,51 @@ to by the powers of vegetable life. &#x27;This si
 
   
   
-Singular Very. A singular story is  
-told of on apple Ireo planted over Ihe grave  
-of Kogor Williams. This tree find pushed  
-downward ono of its main roots in n sloping  
-direction, and nearly straight courso, toward  
-tho prociso spot thnt had boon occupied by  
-tho skull of linger Williams. There making  
+SINGULAR. VERY.- A singular story is  
+told of on apple tree planted over the grave  
+of Roger Williams. This tree had pushod  
+downward one of its main roots in a sloping  
+direction, and nearly straight course, toward  
+the precise spot that had been occupied by  
+the skull of Roger Williams. There making  
 a turn conforming with its circumference,  
-thn root followed tlio direction of tlio back­  
-bone to thn hips, and tlienco divided imo  
-two brunches, each ono followiug a leg bono  
-to ihu heol, whore they both turned up  
-ward to tho extremities of tho toes of tho  
-gi0e)n. ono of tho roots formed a slight  
-crook at tlio part occupied by tho knee  
-joint, thus producing an increased rosoin  
+the root followed the direction of the back­  
+bone to the hips, and thence divided into  
+two branches, each one following a leg bone  
+to the heel, where they both turned up  
+ward to the extremities of the toes of the  
+skeleton. One of the roots formed a slight  
+crook at the part occupied by the knce  
+joint, thus producing an increased resem  
 in  
-;  
-of I  
-tiliinco to tho outlines of iho skeleton of  
-linger Williams, as if, indeed, moulded  
-thereto by tho powers of vegetable life
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_horatio_ver01%2Fdata%2Fsn84028083%2F00280775241%2F1861010401%2F0440.jp2/pct:16.399018,27.579222,13.319479,16.784836/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+  
+of  
+blance to the outlines of the skeleton of  
+Roger Williams, as if, indeed, moulded  
+thereto by the powers of vegetable life
+</td></tr></table>
+
+---
+
+## From _The Constitutional._
+
+#### 1861-01-05 &middot; [Alexandria, La.](http://dbpedia.org/resource/Alexandria%2C_Louisiana)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+lanted over the grave of Roger William  
+are sard to have followed the direction of  
+the hackhoue of the skeleton and thenes  
+divided into two branches, each one follow­  
+ing a leg bone to the heel, where they  
+oth turned upward to the extremities of  
+the toes of the skeleton. One of the roots  
+formed a slight crook at the part occupied  
+the kne joint and the entire root thu­  
+following the source of its nourishmen  
+from the phosphates of the bones, prese
+</td></tr></table>
 
 ---
 
@@ -544,38 +628,65 @@ power of vegetable life. This singularl
 
 ---
 
-## [From _The Texas Republican._](https://chroniclingamerica.loc.gov/lccn/sn83025730/1861-04-13/ed-1/seq-1)
+## From _Holmes County farmer._
+
+#### 1861-04-04 &middot; [Millersburg, Ohio](http://dbpedia.org/resource/Millersburg%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+FREAK OF NATURE. A story is told of  
+an apple tree planted over the grave of  
+Roger Williams to this effect: The tree had  
+pushed downward one of its main roots  
+in a sloping direction, and nearly straight  
+course, toward the precise spot that had  
+been occupied by the skull of Roger Wil­  
+liams; there making a turn conforming  
+with its circunference, the root followed  
+the direction from the backbone to the  
+hips and thence divided into two branches  
+each one following the leg-bone to the  
+heel, where they both turned upward to  
+the extremities of the toes of the skeleton.  
+One of the roots formed a curve at the  
+part occupied by the knee-joint, thus  
+producing an increased semblance to the  
+outlines of the skeleton, as if, indeed,  
+molled thereto by the powers of veget
+</td></tr></table>
+
+---
+
+## From _The Texas Republican._
 
 #### 1861-04-13 &middot; [Marshall, Tex.](http://dbpedia.org/resource/Marshall%2C_Texas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-A fN\»;n..\K Stokv - A singular s;nry  
-! IK told ..{ .Ill apple tr&lt;■*• planted !.»•( v tin  
-urra ve &lt;&lt;l Koger William*. This tiee had  
-pushed downward one of its main root#  
-in a «!«»|»it&gt;trdirection, and nearly straight  
-«• urse, t-waul the pit -cise spot th.it Iti«&lt;l  
-been oriMlpi&#x27; &#x27;I I v I In* &gt;.kull &quot;I  
-Williams Tln*n\ making a turn Con­  
-forming with its circumference, tin* i&quot; &gt;t j  
-11»ll&lt;i\vt•(i the &lt;1 iv«*i-1»• &gt;fi ••! tin- backbone  
-to tin- I i p s, ami lin net divided into two  
-In .i•» lie.-, e;ieh one following a h g bone &gt;  
-t.. llie ht-el, where they both turind up­  
-wunl to the «*x I remit ics of the toes of the  
-skeleton. One •»I the I&#x27;oolN f• d a  
-slight crook at the purl oeenpied by the  
+A SINOULAR SrORy. A singular story  
+is told of an apple tree planted over the  
+grave of Roger Williams. This tree had  
+pushed downward one of its main roots  
+in a sloping direction, and nearly straight  
+course, toward the precise spot that had  
+been occupied by the skull of  
+Williams. There, making a turn con­  
+forming with its circumference, the root  
+followed the dircction of the backbrne  
+to the hips, and thence divided into two  
+branches, each one following a leg bone  
+to the heel, where they both turned up­  
+ward to the extremities of the toes of the  
+skeleton. One of the roots formed a  
+slight crook at the part occupied by the  
 knee joint, thus producing an increased  
-resemblance to the outlines &#x27;»f the skele  
-ton ot liogef Williams, as if iltd* eil,  
+resemblance to the ontlines of the skele  
+ton of Roger Williams, as if indeed,  
 moulded thereto by the powers of vege­  
 table life. This singular formed roo
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_eastland_ver01%2Fdata%2Fsn83025730%2F00279520944%2F1861041301%2F1152.jp2/pct:27.717027,55.955812,13.216916,10.778898/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -610,40 +721,37 @@ outlines of the skeleton as if, indeed, mould
 
 ---
 
-## [From _The Vermont transcript._](https://chroniclingamerica.loc.gov/lccn/sn84023246/1864-03-18/ed-1/seq-1)
+## From _The Vermont transcript._
 
 #### 1864-03-18 &middot; [St. Albans, Vt.](http://dbpedia.org/resource/St._Albans_(town)%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-FniMc or N.VTttni: A stoiy is told  
-of an apple froo planted over the grave  
-of Boger Williams to this effect : Tho  
-tree had publied dowiiAarel one of its  
-main loots in a sloping direction, m,.l  
-iiearh straight course, toAiHrel the pre­  
-cise spot that had been ocenpicdln  
-the skull of Roger Williams ; then&#x27;,  
+Freak oF NATeRE. A story is told  
+of an apple tree planted over the grave  
+of Roger Williams to this effect: The  
+tree had pushed downward one of its  
+main roots in a sloping direction, and  
+nearly straight course, toward the pre­  
+cise spot that had been occupied by  
+the skull of Roger Williamns; there,  
 making a turn conforming with its  
-circumference, the root followed tho  
-direction of the back-bune to the L.p,  
-and tin nee elivided into Iavo branches.  
-eiifh one following the leg-bone to th  
-lu-el, where they hoth turned upward  
-to tlie e&#x27;xtronietius of the toes of the  
-skele ton. One of the roots formeel ..  
+circumference, the root followed the  
+direction of the back-bone to the hips,  
+and thence divided into two branches,  
+each one following the legbone to the  
+heel, where they both turned upward  
+to the extremeties of the toes of the  
+skeleton. One of the roots formed a  
   
-curve at the part occupied by M ktu -  
+curve at the part occupied by the knee-  
   
-joint, uius producing an uiere?ed re-  
+joint, thus producing an increased re-  
   
-blacks, and tho ignorance of mental  
+blacks, and the ignorance of mental  
 slavery of six millions of white men
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84023246%2F00280777511%2F1864031801%2F0002.jp2/pct:40.547264,66.639709,51.403696,18.142607/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -748,6 +856,33 @@ a slight crook at the knee, which makes th
 #### 1866-10-04 &middot; [Cleveland [Ohio]](http://dbpedia.org/resource/Cleveland)
 
 [This text is not available under an open license.]
+
+---
+
+## From _The sun._
+
+#### 1866-10-13 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+lapse of more than 180 years. Near the  
+grave stood a venerable apple tree, whan  
+and by whom planted is not known. Thi  
+tree had sent two of its main roots into the  
+graves of Mr. and Mrs. Williams.  
+The larger root had pushed its way  
+through the earth till it reached the  
+precise spot occupied by the skull  
+of Roger Williams. There thaking a  
+turn, as if going round the skull, it  
+followed the direction of the backbone to  
+the hips. Here it divided into two branches,  
+sending one along each leg to the heel,  
+where they both turned upward to the toes  
+One of these roots formed a slight crook at  
+the knee, which made the whole bear 
+</td></tr></table>
 
 ---
 
@@ -992,6 +1127,31 @@ One of these roots formed a slight crook at th
 
 ---
 
+## From _The Union and journal._
+
+#### 1866-10-26 &middot; [Biddeford, Me.](http://dbpedia.org/resource/Biddeford%2C_Maine)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Near the grave stood a venerable apple  
+tree, when and by whom planted is not  
+kuown. This tree had sent two of its main  
+roots into the graves of Mr. and Mrs. Wil­  
+liams. The larger root had pushed its way  
+through the earth till it reached the precise  
+spot occupied by the skull of Roger wil­  
+liams. There making a turn, as if going  
+round the skull, it followed the direction  
+of the backbone to the hips. Here it di­  
+vided into two branches, sending one along  
+each leg to the heel, where they both  
+turned upward to the toes. One of these  
+roots formed a slight crook at the knee
+</td></tr></table>
+
+---
+
 ## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1866-10-26/ed-1/seq-1)
 
 #### 1866-10-26 &middot; [Portland, Me.](http://dbpedia.org/resource/Portland%2C_Maine)
@@ -1046,23 +1206,23 @@ the knee, which made the whole bear a very clos
 
 ---
 
-## Who Ate Roger Williams?
+## From _Daily Davenport Democrat._
 
-#### From _Bangor daily Whig & courier._
+#### 1866-10-30 &middot; [Davenport, Iowa](http://dbpedia.org/resource/Davenport%2C_Iowa)
 
-#### 1866-10-31 &middot; [Bangor, Me.](http://dbpedia.org/resource/Bangor%2C_Maine)
+<table style="width: 100%;"><tr><td style="width: 50%">
 
-[This text is not available under an open license.]
-
----
-
-## Roger Wiliams—Search for His Remains—His Body Absorbed by the Roots of a Tree—A Curious Incident
-
-#### From _Daily evening bulletin._
-
-#### 1866-11-02 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
-
-[This text is not available under an open license.]
+  
+way through the earth till it reached the  
+precise spot occupied by the skull of Roger  
+Williams. There making a turn as if coing  
+around the skull, it followed the direction  
+of the backbone to the hips. Here it divid-­  
+ed into two branches, sending one along  
+each leg to the heel, where they both turned  
+upward to the toes. One of these roots I rm  
+co a slight crook at the knee, which make
+</td></tr></table>
 
 ---
 
@@ -1091,16 +1251,6 @@ formed a slight crook at . the knee
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn87075001%2F00237286935%2F1866110201%2F0075.jp2/pct:22.695449,47.023723,13.788409,8.106535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## ROGER WILLIAMS.
-
-#### From _Glasgow Herald_
-
-#### 1866-11-03 &middot; [Glasgow, Scotland](http://dbpedia.org/resource/Glasgow)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -1173,7 +1323,6 @@ formed a slight crook at th
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Near the grave stood a venerable apple  
 tree, when and by whom planted is not  
 known. This tree had sent two of its main  
 roots into the graves of Mr. and Mrs. Wil­  
@@ -1326,6 +1475,33 @@ at the knee, which made the whole bea
 
 ---
 
+## From _Oxford Democrat._
+
+#### 1866-12-07 &middot; [Paris, Me.](http://dbpedia.org/resource/Paris%2C_Maine)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+which had survived the lapse of more than  
+one hundred years. Near the grave stood  
+a venerable apple-tree, when and by whom  
+planted is not known. The tree has sent  
+two of its main roots into the graves of Mr.  
+  
+and Mrs. Williams. The larger root had  
+pushed its way through the searth till it  
+reached the precise spot occnpied by the  
+skull of Roger Williams. There making a  
+turn, as if going round the skull, it follow­  
+ed the direction of the back bone to the  
+hips. Here it divided into branches, seral­  
+ing one along each leg to the heel, where  
+they both turn upward to the toes. One  
+of these roots formed a slight crook at th
+</td></tr></table>
+
+---
+
 ## GENERAL NEWS.
 
 #### From _Bristol Mercury_
@@ -1388,6 +1564,32 @@ sending one along each leg to the heel,
 where they both turned upward to the  
 toe. One of these roots formed a slight  
 crook at the knee, which makes the whol
+</td></tr></table>
+
+---
+
+## From _The home journal._
+
+#### 1867-01-12 &middot; [Winchester, Tenn.](http://dbpedia.org/resource/Winchester%2C_Tennessee)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+ple tree, when and by whom planted is  
+not known. This treehad sent two of  
+its main roots into the graves of Mr.  
+and Mrs. Williams. The larger root  
+had pushed its way through the earth  
+till it reached the precise spot occupied  
+by the skull of Roger Williams. There  
+making a turn, as if going round the  
+skull, it followed in the direction of  
+the back bone to the hips. Here it  
+divided into two branches, sending one  
+along each leg to the heels, where they  
+both turued upward to the toes. One  
+One of these roots formed a slight  
+crook at the knee, which makes th
 </td></tr></table>
 
 ---
@@ -1499,6 +1701,35 @@ at the knee, which makes the whole bear
 <img alt="Page image" src="https://iiif.archive.org/iiif/xt76125qbf9s&#0036;0/pct:82.461024,40.969435,12.402561,5.063291/600,/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The Ottawa free trader._
+
+#### 1867-03-16 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+the lapse of more than 189 years. Near the grave  
+stood a venerable apple tree, when and by whom  
+planted, is unknown. This tree had sent two  
+of its main roots into the grave of Mr. and Mrs.  
+Williams. The large root had pushed its way  
+through the carth till it reached the precise spot  
+occupied by the skull of Roger Williams. There  
+making a turn as if going around the skull, fol­  
+lowed the direction of the backbone to the  
+hips. Here it divided into two branches, send­  
+ing one along each leg to the heel, where they  
+both turned upwards to the toes. One of these  
+roots formed a slight crook at the knee which  
+makes the whole bear a close resemblance to the  
+human form. The single root is preserved with  
+great care, not only as an illustration of the  
+great principle of vegetation, but for its historic  
+association. There were the graves exiptied o
+</td></tr></table>
 
 ---
 
@@ -1649,10 +1880,6 @@ at the knee, which made the whole bea
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-lapse of more than 280 years. Near the  
-grave stood a venerable apple tree, but  
-when and by whom planted is not known.  
-This tree hassent two of its main roots  
 into the gravesof Mr.and Mrs. Williams.  
 The larger root has pushed its way  
 through the earth till it reached the pre  
@@ -1670,35 +1897,7 @@ This singular root is preserved with great
 care, uot only as an illustration of a great  
 principle of vegetation, but tor its hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340652%2F1871092901%2F0155.jp2/pct:62.888925,40.952615,11.014832,11.567027/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Hawaiian gazette._](https://chroniclingamerica.loc.gov/lccn/sn83025121/1871-11-15/ed-1/seq-3)
-
-#### 1871-11-15 &middot; [Honolulu [Oahu, Hawaii]](http://dbpedia.org/resource/Honolulu)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-hair, that had survived the lapse of more than  
-hundred and eighty years. Near tbe grave stood  
-a venerable apple, tree, bnt when and by whom  
-planted is not known.  
-This tree bad sent two of Us main roots Into tbe  
-graves of Mr. and Mrs. WiUIams. Tho larger root  
-bas pushed its waythrougb the earth till It reached  
-tho precise spot occupied by the skull of Roger  
-Williams, There, maklnga tnrn at If going around  
-tbe skull. It followed the direction of tbe back-bone  
-to tho hips. Here It divided into two branches,  
-tending one along each leg to the bee, where they  
-both turned upward to the toes. One of these root  
-formed a slight crook at the knee, which made t
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_azure_ver01%2Fdata%2Fsn83025121%2F0021110885A%2F1871111501%2F0132.jp2/pct:43.925912,50.042076,12.329762,6.774194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_juniper_ver01%2Fdata%2Fsn83032103%2F00383340652%2F1871092901%2F0155.jp2/pct:62.888925,43.383256,11.014832,9.136386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1733,39 +1932,65 @@ a slight crook at the knee, which make
 
 ---
 
-## [From _The Jasper weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn84023963/1872-09-27/ed-1/seq-2)
+## From _The Manchester journal._
+
+#### 1872-05-30 &middot; [Manchester, Vt.](http://dbpedia.org/resource/Bennington%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+vived the lapse of more than one hundred  
+  
+and eighty years. Near the graves stood  
+a venerable apple tree, but when and by  
+  
+whom planted is not known.  
+This tree had sent two of its main roots  
+into the graves of Mr, and Mrs. Williams,  
+The larger root had pushed its way  
+through the earth till it reached the pre­  
+cise spot occupied by the skull of Roger  
+Williams. There making a turn as if go­  
+ing around the skull, it followed the di­  
+rection of the backbone to the hips. Here  
+divided into two branches, it sent one  
+along each leg to the heel, where they  
+both turned upward to the toes. One of  
+these roots formed a slight crook at th
+</td></tr></table>
+
+---
+
+## From _The Jasper weekly courier._
 
 #### 1872-09-27 &middot; [Jasper, Ind.](http://dbpedia.org/resource/Jasper%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-A Remarkable Story.  
+A RemarkablE Story.  
 A singular story is told of an apple­  
 tree planted over the grave of Roger  
-Williams, this tree had pushed down­  
+Williams. This tree had pushed down­  
 ward one of its main roots in a sloping  
-direction, and in a nearly &quot;straight  
-course, toward the precise spot that in&#x27;  
-been occupied by the skull f Hoger  
+direction, and in a nearly straight  
+course, toward the precise spot that had  
+been occupied by the skull of Roger  
 Williams. There, by making a turn  
 conforming with its circumference, the  
 root followed the direction of the back­  
 bone unto the hips, and thence divided  
 into two branches, each one following a  
-leg-bone to the heel, where the&quot;y both  
+leg-bone to the heel, where they both  
 turned upward to the extremities of  
 the toes of the skeleton. One of the  
 roots formed a slight crook at the part  
-occupied by the kneejoint, thus pro­  
+occupied by the knee joint, thus pro­  
 ducing an increased resemblance to the  
 outlines of a skeleton of Roger Wil­  
-liame, as if, indeed, molded thereto by  
-the powers of vegetable life. Thissingularly-forme
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_bird_ver02%2Fdata%2Fsn84023963%2F00200295924%2F1872092701%2F1264.jp2/pct:82.199284,67.390139,16.831683,13.384244/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+liams, as if, indeed, molded thereto by  
+the powers of vegetable life. Thisai
+</td></tr></table>
 
 ---
 
@@ -1776,6 +2001,31 @@ the powers of vegetable life. Thissingularly-forme
 #### 1874-03-05 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
+
+---
+
+## From _New-York tribune._
+
+#### 1874-03-23 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+in 1860 when the grave of Roger was opened, and  
+not a fragment of his remains could be found. The  
+root of an adjacent apple tree has been pushed  
+downward in a sloping direction and nearly straight  
+course toward the precise spot that had been ocen­  
+pied by the skull of Roger Williams. Thence it fol­  
+lowed the direction of the back-bone to the hips,  
+and thence divided into two branches, each one fol  
+lowing a leg-bone to the heel, where they both  
+turned upward to the extremity of the toes of the  
+skeleton. One of the roots formed a slight crook at  
+the part occupied by the knee-joints, thus producing  
+an increased resemblance to the outlines of the skel-  
+eton; but not a fragment of Roger&#x27;s remains re-
+</td></tr></table>
 
 ---
 

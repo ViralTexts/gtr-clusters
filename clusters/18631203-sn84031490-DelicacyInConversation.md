@@ -545,62 +545,78 @@ yoars is excrutiating.
 
 ---
 
-## [From _The Lansing state Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016318/1863-12-30/ed-1/seq-1)
+## From _The Lansing state Republican._
 
 #### 1863-12-30 &middot; [Lansing, Mich.](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-  
-,o exhibi&#x27;s it  
+to exhibits it  
 from Johnny  
-: Artnv of the  
+Army of the  
   
-ir.ere is ppea;:.g wc-, spea-iing c-is..y, sp&#x27;.-as.  
-ing j j-t&#x27;y ar-1 spvakir.; sea-o&#x27;.ahly. It is of­  
-fend. :.g agilr.st the !-: to spexk of entertain  
-rner.ts before the it d;gent ; of sou-. d limbs and  
+There is speaking well, speaking easily, speak-  
+ing justly and speaking seasonably. It is of­  
+fending against the last to speak of entertain  
+ments before the indigent; of sound limbs and  
 health before the infirm; of houses and lands  
-before one who has Lot si n.uih a a dwelling;  
-in a word, to speak of vo ir rro-t-tritv before  
+before one who has not so much as a dwelling;  
+in a word, to speak of your prosperity before  
   
-the miserable. Tnl conversation ;s cruel, and an article
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn83016318%2F00296024582%2F1863123001%2F0217.jp2/pct:63.895282,81.399080,19.692175,3.658145/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+the miserable. This conversation is cruel, andan aricle
+</td></tr></table>
 
 ---
 
-## [From _The Jeffersonian Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84028083/1864-01-01/ed-1/seq-1)
+## From _The Jeffersonian Democrat._
 
 #### 1864-01-01 &middot; [Chardon, Ohio](http://dbpedia.org/resource/Chardon%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+entence. He knew it was something  
+about a blazing torch, but what it was  
+do he could not for the life of him tell.  
+The sentence was deemed too important  
+to be left out, so he wrote it as follows:  
+&quot;You may throw a spark into a barrel  
+gunpowder, and it will explode and spread  
+devastation around; but, if you place  
+blazing torch on a turnpike road, all that  
+it will do will be to burn down the turn­  
+pike gate.&quot;  
   
-Dklioact in Conversation. A maxim  
-of Bruyero&#x27;s is going the rounds of  
-English newspapers. It will do (or New  
+Ca­  
+pable of vast improvement, is beyond all  
+she  
+Oll  
+one,  
+WAr.  
+of  
+de­  
+pendence on America for cotton, and  
+de­  
+pendence on China for tea. more dis­  
+appointed in their calculations, than have  
+DELICACY IN CONVERSATION. -A maxim  
+of Bruyere&#x27;s is going the rounds of  
+English newspapers. It will do for New  
 York:  
-well, sposkiug  
-&quot;Tbere is speakiuj  
-easuy, speaking justly and speaking sen-  
-tonably. It is offending against the  
+well, speaking  
+&quot;There is speaking  
+easily, speaking justly and speaking sea-  
+sonably. It is offending against the  
 to speak of entertainments before the indi  
-gent; of tound limbs and health before  
-iulirm; of houses and lands before  
-who bas not to much at b dwelling, in  
+gent; of sound limbs and health before  
+iufirm; of houses and lands before  
+who has not so much as a dwelling, in  
 word to speak of your prosperity before  
-tbe miserable. This conversation is cruel,  
+the miserable. This conversation is cruel,  
 and the comparison which naturally ari­  
 ses in them betwixt their condition  
 yours is excruciating.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_horatio_ver01%2Fdata%2Fsn84028083%2F0028077523A%2F1864010101%2F0115.jp2/pct:57.269137,86.787225,12.187324,8.706431/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -631,7 +647,7 @@ dition and yours is excruciating.”
 
 ---
 
-## [From _The daily Gate City._](https://chroniclingamerica.loc.gov/lccn/sn83025182/1864-01-07/ed-1/seq-2)
+## From _The daily Gate City._
 
 #### 1864-01-07 &middot; [Keokuk, Iowa](http://dbpedia.org/resource/Keokuk%2C_Iowa)
 
@@ -639,24 +655,21 @@ dition and yours is excruciating.”
 
   
   
-DELICACY IN Coitvkrsatiow.—There  
+DELicAcY IE CoNvERSATION.There  
   
-is speaking we&#x27;ll, speaking easily, speak­  
-ing justly, and apeakin^ Reasonably. It  
+is speaking well, speaking easily, speak.­  
+ing justly, and speaking seasonably. It  
 is offending against the last to speak of  
-entertainments before thf indigent of  
+entertainments before the indigent; of  
 sound limbs and health before the infirm  
-of honses and lands before one wbo has  
-uot so much as a dwelling in a word, to  
-speak of your prosperity before the mis­  
+of houses and lands before one who has  
+not so much as a dwelling; in a word, to  
+speak of your prosperity before the mis-­  
 erable. This conversation is cruel, and  
 the comparison which naturally arises in  
 them betwixt their condition and yours is  
 excruciating.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_ivysaur_ver01%2Fdata%2Fsn83025182%2F00279528311%2F1864010701%2F0433.jp2/pct:19.221790,20.722129,12.306096,7.337501/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -860,7 +873,7 @@ and yours, is excruciating. Rufoxn.—W
 
 ---
 
-## [From _Democratic enquirer._](https://chroniclingamerica.loc.gov/lccn/sn86079037/1870-11-16/ed-1/seq-2)
+## From _Democratic enquirer._
 
 #### 1870-11-16 &middot; [M'arthur, Vinton County, Ohio](http://dbpedia.org/resource/McArthur%2C_Ohio)
 
@@ -868,7 +881,7 @@ and yours, is excruciating. Rufoxn.—W
 
   
   
-Telling the Truth. It  
+TELlING THe TRuTH. It  
 has been observed that there is  
 speaking well, speaking easily,  
 speaking justly and speaking  
@@ -880,16 +893,15 @@ that if you need anything in the
 Dry and Fancy Goods line,  
 there is positively no better  
 place in this part of the country  
-to got any and every kind of  
-Goods for Fall and . Winter  
-wear than at the House of DAN&quot;.  
-Will &amp; Bros. Another new  
+to get any and every kind of  
+Goods for Fall and. Winter  
+wear than at the House of DAN.  
+WILl E Bros. Another new  
 assortment is now arriving from  
-the city where the choices
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn86079037%2F00280774893%2F1870111601%2F0394.jp2/pct:31.454114,5.666710,11.895639,14.186137/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+the city--where the choicest  
+selection of goods were made  
+by Aaron Will of the firm
+</td></tr></table>
 
 ---
 

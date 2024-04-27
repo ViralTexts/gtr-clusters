@@ -1,7 +1,7 @@
 
 # The Properties of the Tomato
 
-### 228 reprints from 1834-08-22 to 1897-01-19
+### 234 reprints from 1834-08-22 to 1893-02-25
 
 ## [The Properties of the Tomato](https://chroniclingamerica.loc.gov/lccn/sn84023127/1852-08-20/ed-1/seq-1/)
 
@@ -170,11 +170,7 @@ a grateful vegetable, and salutary to health, in the summer months
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-1st. That ; the tomato) i* one of the  
-most powerful t!r obstruents ot the Mate­  
-ria Medie at I tit:it in all those r.fVrrtioiiN  
-of the Siv i. ami other organs where cal­  
+ans where cal­  
 omel is indicated, it is probably ti e most  
 t ll. etise a. d It ;s&quot;. harmful r? medial agent  
 know :i to the pro 1? &gt;-ion.  
@@ -201,7 +197,7 @@ ed, or in form of a catsup, with their dai­
 ly food, as it is the most healthy article  
 of the Materia Alunentnria
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_apple_ver01%2Fdata%2Fsn84026472%2F00416156992%2F1835082101%2F0123.jp2/pct:54.897661,57.908134,17.866715,18.319256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_apple_ver01%2Fdata%2Fsn84026472%2F00416156992%2F1835082101%2F0123.jp2/pct:54.909844,59.832620,17.848441,16.394770/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2128,6 +2124,29 @@ checks, a fit of coughing. It was used ina drie
 
 ---
 
+## From _Sunbury American and Shamokin journal._
+
+#### 1840-09-26 &middot; [Sunbury, Northumberland Co., Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+ring indigestion, and diseases of the liver and  
+lungs. A writer in the Farmer&#x27;s Register, says it  
+has been tried by several persons, to his knowledge,  
+with decided success. They were afflicted, says  
+he, with chronic cough, the primary cause of  
+which, in one case, supposed to be diseased liver  
+in another, diseased lungs. It mitigites and some­  
+imes effectually checks a fit of coughing. It was  
+useed in a dried state, with a little sugar mixed with  
+it, to render it more agreeable to the taste. The  
+writer expresses a conviction, that if freely used in  
+July, August and September, it would prove a co
+</td></tr></table>
+
+---
+
 ## The Tomato
 
 #### From _Ohio observer._
@@ -2192,16 +2211,6 @@ harmful remedial agent known to the profession.
 
   
   
-from it, which will altogether supercede the use of cal- |  
-  
-omel in the cure of disease.  
-  
-my ‘ “ |  
-3d. ‘Phat he has successfully treated serious diarrhea | ; a ; ‘a  
-iby G.V. Ellis one of the Demonstrators of Anatomy in |  
-  
-| Edinburgh College; A Treatise on Pyrosis Idiopathiea,  
-  
 with this artiele alone.  
   
 4th. That when used as an article of diet, it is almost  
@@ -2211,7 +2220,7 @@ Sih. ‘That persons removing from the east or north, to
 the west or south, should by all means make use of it as  
 analiment; as it would in that event, save them from
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39&#0036;2/pct:49.362380,28.552227,29.250797,3.715438/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_unitarian-register-and-the-universalist-leader_1841-09-25_20_39&#0036;2/pct:49.388948,29.809908,14.160468,2.457757/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2483,6 +2492,76 @@ use of it either raw, cooked, or in the } of a cet- ‘fine, sos ion Oda avec ib
 
 ---
 
+## From _The Middlebury people's press._
+
+#### 1841-10-12 &middot; [Middlebury, Vt.](http://dbpedia.org/resource/Middlebury%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+and within a few years has become a gencral  
+favorite in this country.  
+Dr. Bennett, a medical professor in one of  
+our colleges, considers it an invaluable article  
+of diet. He ascribes to it high medical prop­  
+erties, and declares,  
+&quot;Ist. That it (the tomato) is one of the  
+most powerful deobstruents of the Materia  
+MMedica, and that in all of those affections of  
+the liver and other organs where calomel is  
+indicated, it is probably the most effective and  
+least harmful remedial agent known in the  
+profession.  
+&quot;2d. That a chemical extract will be ob­  
+tained from it, which will altogether supersede  
+the use of calomel in the cure of disease.  
+&quot;3d. That he has successfully treated se­  
+rious diarrhoea with this article alone.  
+&quot;4th. That when used as an article of diet  
+OI Gict  
+it is almost a sovereign remedy for dyspepsia  
+or indigestion.  
+  
+  
+  
+&quot;5th. That persons removing from theof Wirtem ber she uiet and silenty and  
+  
+east or north to the south or west, should by all  
+means make use of it as an aliment, as it  
+would in that event save them from the dan-  
+ger attendant upon those violent bilious at-  
+fck towhich almest all aeclimated perse  
+tachs to whien imost an echiated person  
+are liable.  
+6th. That the citizens in ordinary should  
+make use of it either raw, cooked, or in the  
+form of a catsup, with their daily food, as it is  
+ eea oaeeoae e  
+mentariad.&quot;  
+Professor Rafinesque, of France, says: &quot;It  
+is everywhere deemed a very healthy vegeta­  
+ble, and an invaluable article of food.&quot;  
+Professor Dickens writes: &quot;I think it more  
+wholesome than any other acid sauce.&quot;  
+Professor Dungleson says: &quot;It may be  
+loeked woon ae one of tho moet wholeeome A  
+ a e  
+eeeenlente tat belen to te eet  
+valuable esculents that belong to the vegeta  
+Iis conideae efecen  
+in curing  
+gestion and diseases  
+  
+o te lier an unge eo e an o e a ae­  
+ner&#x27;s Register says, it has ted a vast sund of inteligence and anecdote.  
+  
+A writer in the Farmer  
+  
+been tried by several persons, to his knowledgee a e o ee e a ea
+</td></tr></table>
+
+---
+
 ## [From _The philanthropist._](https://archive.org/details/sim_cincinnati-weekly-herald-and-philanthropist_1841-10-13_6_15/page/n3/mode/1up?view=theater)
 
 #### 1841-10-13 &middot; [New Richmond, Ohio](http://dbpedia.org/resource/New_Richmond%2C_Ohio)
@@ -2701,6 +2780,22 @@ times effectually cheeks, a fit of coughing
 
 ---
 
+## From _Sunbury American and Shamokin journal._
+
+#### 1843-10-14 &middot; [Sunbury, Northumberland Co., Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+been used for a cough with decided success,  
+says a writer in the Farmer&#x27;s Register. In ons  
+case the cough was from a discased state of the  
+liver, in another from the lungs. It mitigates  
+and sometimes effectually checks a fit of cough
+</td></tr></table>
+
+---
+
 ## [From _Michigan Farmer (1843-1908)_](https://archive.org/details/sim_michigan-farmer_1843-10-15_1_17/page/n5/mode/1up?view=theater)
 
 #### 1843-10-15 &middot; [Lansing](http://dbpedia.org/resource/Lansing%2C_Michigan)
@@ -2746,43 +2841,6 @@ who has cooked tomatoes in many ways, is ex
 #### 1846-09-19 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
-
----
-
-## [From _The daily dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84024738/1852-07-19/ed-1/seq-1)
-
-#### 1852-07-19 &middot; [Richmond [Va.]](http://dbpedia.org/resource/Richmond%2C_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-mate and country, has ascribed to it properties,  
-which if possessed by the same, would be cal­  
-culated to place it in a somewhat eminent po­  
-sition among those articles also of the Materia  
-Medica.  
-It has been asserted by Dr. Bennett, a medi­  
-cal professor of some celebrity, that these quali­  
-ties and effects were somewhat analogous to  
-those of mercury, and thut a chemical extract  
-will be obtained from it, which will altogether  
-supersede the use of calomel in the cure of dis­  
-ease. This impression has become at the pres­  
-ent day quite a popular belief, and though com­  
-paratively harmless, we have no just grounds  
-for considering it otherwise than erroneous. In  
-the first place, among the articles of the ma­  
-teria alimentariae theie are fevr things more  
-generally employed than this at present allu­  
-ded to. and as far as our experience goes be  
-yond the usual properties of a vegetable sub­  
-acid. we know of nothing further that we may  
-justly credit it with, except some mild modifi­  
-cation of its effects, dependent upon the s
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_manowar_ver01%2Fdata%2Fsn84024738%2F00202190911%2F1852071901%2F0059.jp2/pct:33.345326,58.602151,14.391078,11.019389/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
@@ -2917,86 +2975,133 @@ with the dirt.
 
 ---
 
-## [From _Burlington free press._](https://chroniclingamerica.loc.gov/lccn/sn84023127/1852-08-20/ed-1/seq-1)
+## From _The Middlebury register._
+
+#### 1852-08-18 &middot; [Middlebury, Vt.](http://dbpedia.org/resource/Middlebury%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+says of this vegetable, &quot;it is deemed  
+very healty, and an invaluable article  
+of food.&quot;  
+Dunglison says:--&quot;It may be look  
+  
+ed upon as one of the most wholesome a o e ia eeo o­  
+and valuable sculents that belong to ularity is a dangerous elevation, wheth-  
+  
+A writer in the Farmer&#x27;s Register  
+says:&quot;It has been tried by several  
+persons with decided success. They  
+  
+were affficted with chronic cough, the tinguished child of popularity,&quot; if they  
+primary cause of which, in one case,knew the peril, the miadness, and dis­  
+was supposed to be diseased liver, ina on o in o wi te ceta  
+another, diseased lungs. It mitigates of the popular breath is exposed?&quot;  
+and sometimes effectually checks a fit When the poet heard the fate of his  
+o oi oo e  eee e e o i e a e o  
+  
+The method most commonly adopt­  
+ed in preparing this fruit for daily use,  
+is to cut them in slices, and serve with  
+salt, pepper, and vinegar as you do  
+cucumbers.  
+To stew them, remove them ripe  
+from the vines, slice up, and put them  
+in a pot over the stove or fire, without  
+water. Stew them slowly, and when  
+done, put in a small piece of good but­  
+ter, and eat them as you do apple­  
+sauce. Some add a little flour bread,  
+finely crumbed, or a couple of erackers  
+pulverized  
+  
+Jessie, the Flower of Dunblane.  
+The following sketch forms an interesting ep­  
+isode in the life of the talented, but unfor
+</td></tr></table>
+
+---
+
+## From _Burlington free press._
 
 #### 1852-08-20 &middot; [Burlington, Vt.](http://dbpedia.org/resource/Burlington%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Menl fruit. It has, however, long boon  
-l,,r culinary purposes, in various countries  
-01 Lhropo, uud has ol late years been exten  
-lively cultiVvitoiL and becuum a general tavor  
-llu 111 tl,w country. Dr. Bennett, a pro essor  
-celebrity, considers U un invaluable  
-, &quot;&#x27;C10 &#x27; Uiei, aim ascrioes io u very i.npor  
+several weeks since for the Galipagos, and  
+To many persons there is something unplea-  
+ellent fruit. It has, however, long been  
+for culinary purposes, in various countries  
+of Europe, and has of late years been exten  
+sively cultivated, and become a general favor  
+ite in this country. Dr. Bennett, a professor  
+celebrity, considers it an invaluable  
+article of diet, and ascribes to it very linpor  
   
-taut medicinal properties. He declares. : ,)1)Urs before (leccils(;. His remains left for  
-L hat tho lomato is one of the inot pow- ,Just01 a 4 0.dock ;tcMm)(lIlied by his wile,  
-erlul deobstruouis ot the Mattrui Mclwt, and j A,eMM (;oodrich) iuuj l)llIlcln, of Massarhn­  
-that III all those alloctioiis ot the liver, and oth-1 Cleveland, of Connecticut, and Eastman.  
+tant medicina poerties e eae o e i e  e e o  
+ That the Tomato is on of the most pooton at oock acompanied by his wie  
+erful deobstruonts of the Meteri lledic, ande oi an anan o a­  
+that in all those afections of the liver and oe eea o o e i a aa  
   
-or organs where calomel is indicated, it is pro­  
-bably tho most ell&#x27;uctivo and loist harmful re­  
-medial agent known m the profession  
-12. That a chemical extract will ho obtained  
-from it, which will altogether supersede tiio use  
-of calomel in the euro of diseases.  
-II. That he has successfully treated diarrhoea,  
-wilh this article alone.  
-I That when used as an article of diet, it is  
+er organs where calomel is indicated, it is pro­  
+bably the most effective and least harmful re­  
+medial agent known in the profession  
+2. That a chemical extract will be obtained  
+from it, which will altogether supersede the use  
+of calomel in the cure of diseases.  
+3. That he has successfully treated diarrhoea,  
+with this article alone.  
+! That when used as an article of diet, it is  
 almost a sovereign remedy for dyspepsia and in­  
-digestion..&quot;). That persons arriving from tho east or  
+hgestionl  persons arriving fiom the cast or  
 north, to the south or west, should by all means  
-make use of it us an uliuient, as it would, in  
-Wat event, save them the danger attendant up­  
+make use of it as an aliment, as it would, in  
+that event, save them the danger attendant up­  
 on those violent bilious attacks to which al­  
-most all unacclimated persons aro liable.  
-(i. That the cilr.eus in ordinary .should make  
-use of it, either raw, cooked, or m the form of  
-a catsup, with their daily food, as it is the moit  
-healthy article in tho maltrta iiliinentnriu.  
-Profes-or Raliiicsqitu of Franco says; &quot;It is  
-every vvh.&#x27;ie deemed a very healing vegetable,  
+most all unacclimated persons are hiable.  
+G. That the citizens in ordinary should make  
+use of it, either raw, cooked, or in the form of  
+a catsup, with their daily food, as it is the most  
+healthy article in the materia alimentarid.  
+Professor Ralinesque of France says: &quot;It is  
+everywhere deemed a very healing vegetable,  
 vegetable, and invaluable article of food.&quot;  
-Dunglesoii savs : &quot;It may ho looked upon  
-as one of thu most wholesome and valuable cs-  
-I UUJK? uliu &quot;U&#x27;V&quot;- &quot;&#x27;VY2&quot;&quot;&quot;0  
-li.(.liibbiiillifil.. ihu .i.ii-t Hi il II in in in fun.  
-sidored mure whu&#x27;csJiuu than any other acrid  
-sauce.  
-A writer in the Farmer&#x27;s Register says; &quot;It  
+Dungleson says:--&quot;It may be looked upon  
+as one of the most wholesome and valuable es-  
+u e ti o to ta os  
+e   eao   
+sidered more wholesome than any other acrid  
+Sauce.  
+A writer in the Farmer&#x27;s Register says: &quot;It  
 has been tried by several persons, with decided  
-success. They wena alllicted vv ith a chronic  
+success. They were afflicted with a chronic  
 cough, the primary cause of which, in one case,  
-w is supposed to bo diseased liver in another,  
-di-eiised lungs. It mitigates, and sometimes  
+was supposed to be diseased liver--in another,  
+diseased lungs. It mitigates, and sometimes  
 effectually checks a fit of coughing.&quot;  
-The method most commonly adopted in pro­  
-paring this fniit for daily use,&quot; is to cut tliennu  
-slices, an 1 serve with sill, pepper nnd vinegar,  
+The method most commonly adopted in pre­  
+paring this fruit for daily use, is to cut them in  
+slices, and serve with salt, pepper and vinegar,  
 as you do cucumbers.  
-To stew them ; lemovc them ripe from the  
-vines, slice up. and put them in a pot over the  
-Bimu mu, - iinuiii &quot;...i... o y u.no siwi. - ,  
-ly. -and when done, put in a small piece ol gcmdi  
-butter, an.l cat them as you do apple sauce.  
-Some add a little Hour, bread finely crumbled,  
-or a couplo of crackers pulverized.  
+To stew them: remove them ripe from the  
+vines, slice up, and put them in a pot over the  
+ate f  ot nat  te o  
+ly, and when done, put in a small piece of good  
+butter, and eat thein as you do apple sauce.  
+Some add a little flour, bread finely crumbled,  
+or a couple of crackers pulverized.  
 The Tomato is a fruit very easily raised. If  
-tho seed be sown in May, in good rich soil, ol&#x27;  
-&quot; &#x27;&quot;&quot; &quot;&quot;&quot; &#x27;&quot;&quot; &#x27;j &quot;  
-&quot;F&#x27; mauurp. tlicro i I rarely bo an danger  
-0 &#x27; T&#x27; Wl .be?,m tu lc!in-  
-a warm nature, with a sulliciency of old, well  
-! should bo lirovulad vvith a trollw, or tied to  
-flaked fixed u. tlie bo.1, to keep the fruit from  
-being injured by coming m contact with th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_adamant_ver01%2Fdata%2Fsn84023127%2F0028077697A%2F1852082001%2F0560.jp2/pct:56.711468,59.376323,25.274917,33.145195/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+the seed be sown in May, in good rich soil, of  
+ alint luttit, itl d uileieliy   
+tted manure, there will rarely be an danger  
+of failure. When the vines begin to lean.  
+a warm nature, with a sufficiency of old, well  
+ should be provided with a trellis, or tied to  
+stakes fixed in the soil, to keep the fruit from  
+being injured by coming in contact with th
+</td></tr></table>
 
 ---
 
@@ -3472,38 +3577,38 @@ coming in contact with the dirt
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- violets and clove gillivers, modest as  
-sxite mern and nimble as your own im  
+ts and clove gillivers, modest as  
+carly morn, and nimble as your own im  
 agination of Desdemona or Gertrude of  
-wyoming. Vou&#x27;re lost. It&#x27;s all over  
-with you. And that comesol going inte  
+Wyoming. You&#x27;re lost. It&#x27;s all over  
+with you. And that comes of going into  
   
 yellow, striped and marbled with red;  
 tender, sprightly, pleasant flavor. Later  
 than Early Harvest; smaller and less  
-productive. Adapted to the privategar  
+productive. Adapted to the private gar­  
 den, for which it is fine. Ripens early in  
 August.  
-We are indebted to the N.E. Farmer  
+We are indebted to the N. E. Farmer  
 for the above.  
   
 the country, out of the way of vanity  
 and temptation and fancying farm-houses  
-to the nice old-fashioned places of old  
-established contentment. Er. Puper.  
-THE Tomato.  
+to the nice old-fashioned places of old­  
+established contentment.-ET. Paper.  
+THE TOMATO.  
 To many persons there is something  
 unpleasant, not to say disgusting, in the  
-flavor of this excellent frut. It has,  
+flavor of this excellent fruit. It has,  
 however, long been used for culinary  
 purposes, in various countries of Europe,  
 and has of late years been extensively  
 cultivated and become a general favorite  
 declares:  
 1. That the tomato is one of the most  
-powerful deobstruments of the Hateria  
-Hedica, and that in all those affections  
-of the liver and other organs where cal  
+powerful deobstruments of the Materia  
+Medica, and that in all those affections  
+of the liver and other organs where cal­  
 omel is indicated, it is probably the most  
 effective and least harmful remedial  
 agent known in the profession.  
@@ -3511,40 +3616,40 @@ agent known in the profession.
 obtained from it, which will altogether  
 supersede the use of calomel in the cure  
 of diseases.  
-. That he has successfully treated  
-diarrhoa with this article alone.  
+3. That he has successfully treated  
+diarrhoea with this article alone.  
 1. That when used as an article of  
 diet, it is almost a sovereign remedy for  
 dyspepsia and indigestion.  
-o. That persons arriving from east or  
+5. That persons arriving from east or  
 north, to the south or west, should by  
 all means make use of it as an ailment,  
 as it would, in that event, save them the  
-danger attendant upon those violent bil  
-ious attacks to which almost all unacell  
+danger attendant upon those violent bil­  
+ious attacks to which almost all unacch­  
 mated persons are liable.  
-o. That the citizens in ordinary should  
+6. That the citizens in ordinary should  
 make us of it, either raw, cooked, or in  
 the form of a catsup, with their daily  
 food, as it is the most healthy article in  
-the rrrtertd onimertreric.  
-Prolessor Rafinesque, of France, says:  
-It is everywhere deemed a very heal  
-ing vegetable, and va luable artile of  
+the marlerta alimentraria.  
+Professor Rafinesque, of France, says:  
+&quot;It is everywhere deemed a very heal  
+ing vegetable, and valuable article of  
 food.&quot;  
-Dungleson says:&quot; It may be looked  
+Dungleson says:--&quot;It may be looked  
 upon as one of the most wholesome and  
-valuable esculents that belong to the veg  
+valuable esculents that belong to the veg­  
 etable kingdom.&quot;  
 Prof. Dickens asserts that it may be  
 considered more wholesome than any  
 other acrid sauce.  
-A writer in the Frmer&#x27;s Eegister  
-saysto-lt has been tried by several per  
+A writer in the Farmer&#x27;s Register  
+says:-It has been tried by several per­  
 sons, with decided success. They were  
-afflicted with a chronic cough, the pri  
+afflicted with a chronic cough, the pri­  
 mary cause of which, in one case, was  
-supposed to be diseased liver.in anoth  
+supposed to be diseased liver---in anoth­  
 er, diseased lungs. It mitigates, and  
 sometimes effectually checks a fit of  
 coughing.  
@@ -3560,7 +3665,7 @@ in a small piece of good butter, and eat
 as you do apple sauce. Some add a lit  
 tle flour, bread, finely crumbled, or a  
 couple of crackers pulverized.  
-To Danss SanAp. Take small salad,  
+To DRESs SALAD.- Take small salad,  
 lettuce, endive, celery, radishes, an
 </td></tr></table>
 
@@ -4073,6 +4178,59 @@ generally cultivated and used as an article o
 
 ---
 
+## From _The Middlebury register._
+
+#### 1855-07-18 &middot; [Middlebury, Vt.](http://dbpedia.org/resource/Middlebury%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Raietig and Preserving Tomatoes.  
+To many persons there is something  
+unpleasant, not to say disgusting, in  
+the flavor of this excellent fruit. It  
+has, however, long been used for culina­  
+ry purposes in various countries of Eu­  
+rope, and has of late been extensively  
+cultivated, and become a general favorite  
+in this country. Dr. Bennett, a profess­  
+or of some celebrity, considers it an in­  
+valuable article of dist, and ascribes to  
+it very important medical properties.  
+He declares:  
+1. That the Tomato is one of the  
+most powerful deobstruents of the Ma­  
+teria Medica, and that in all those af­  
+fections of the liver and other organs  
+where calomel is indicated, it is probably  
+the most affective and least harmful rem­  
+edial agent known in the profession.  
+That a chemical extract will be ob­  
+tained from it which will altogether su­  
+persede the use of calomel in the cur  
+of disease.  
+3. That he has successfully treated  
+diarrhoa, with this article alone.  
+4. That when used as an article of di­  
+et, it is almost a sovereign remnedy for  
+dyspepsia and indigestion.  
+5. That persons arriving from the eas  
+or north to the south or west, should by  
+all means make use of it as an a liment,  
+as it would, in that event, save them the  
+danger attendant upon those violent bil­  
+ious attacks to which almost all unae­  
+climated persons are liable.  
+6. That the citizens in ordinary should  
+make use of it, either raw, cooked, or in  
+the form of a catsup, with their daily  
+food, as it is the most healthy article in  
+the materiad alimenturia.  
+aa o e e o
+</td></tr></table>
+
+---
+
 ## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1855-08_7_8/page/n34/mode/1up?view=theater)
 
 #### 1855-08-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
@@ -4142,114 +4300,107 @@ are becoming more fayorably every week
 
 ---
 
-## [From _Indiana American._](https://chroniclingamerica.loc.gov/lccn/sn84023881/1857-07-03/ed-1/seq-4)
+## From _Indiana American._
 
 #### 1857-07-03 &middot; [Brookville, Ind.](http://dbpedia.org/resource/Brookville%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Raisimo and PaMtRf.a Tomatoi  
-T. many persona there ia something  
-unpleasant, not to say digusung, in tba  
-fl vor of this excellent truit. It has, how­  
-ever, lonjj been used for culinary pur­  
-pose in various countries in Europe,  
-and baa been of late extensively cultivat­  
+RAIsInO AND PrEsErVino TOMator  
+To, many persons there is something  
+unpleasant, not to say digusting, in the  
+favor of this excellent fruit. It has, how­  
+ever, long been used for culinary pur­  
+poses in various countries in Europe,  
+and has been of late extensively cultivat­  
 ed, and become a general favorite in the  
 country. Dr. Bennett, a professor of  
-some celebrity, considers it an invaluable  
-article of diet, and ascribe to it very  
+some eelebrity, considers it an invaluable  
+article of diet, and ascribes to it very  
 important medical properties: He de  
-elaree:  
-1. That the tomato ie one of the moat  
-powerful aperient of the Materia Medi­  
-ca, and thai in all those affections of the  
-liver aad organs where calomel is indi­  
-cated it is probably the moat affective  
-and leeet harm lul remedial agent known  
-to tha profeasion.  
+clares:  
+1. That the tomato is one of the most  
+powerful aparients of the Materia Medi­  
+ca, and that in all those affections of the  
+liver and organs where calomel is indi­  
+cated it is probably the most effective  
+and least harmful remedial agent known  
+to the profession.  
 2. That a chemical extract will be  
 obtained from it which will altogether  
-supersede the use of calomel in the core  
-otdiseraae.  
+supersede the use of calomel in the cure  
+of disease.  
 3. That he has successfully treated  
-diarrhea with this article alone.,  
-4. That when uaed as an article of  
-diet, it is almost a sovereign remedy for  
-djarjaneia and indigestion.  
-6. That person arriving from the  
-E ist or North to the booth or West,  
-should by all mean make use of it aa an  
-aliment, as it would in that event, sava  
-them the daager attendant upon those  
-violent bhjlioue attacks to abieh almost  
-all uoaeclimated persona are liable.  
-6. That the citizen in ordinary should  
-make use of it, either raw, cooked, or a  
-the form of a caisup, with their daily  
-food, as it ia the mot healthy article in  
+diarrhea with this article alone!  
+. That when used as an article of  
+diet, it is almost a sovereign rsmedy for  
+dy spepsia and indigestion.  
+5. That persons arriving from the  
+East or North to the South or West,  
+should by all means make use of it as an  
+aliment, as it would in that event, save  
+them the danger attendant upon those  
+violent billious attacks to which almost  
+all unacclimated persons are liable.  
+6. That the citizens in ordinary should  
+make use of it, either raw, cooked, or in  
+the form of a catsup, with their daily  
+food, as it is the most healthy article in  
 the materia alemntaria
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_gary_ver01%2Fdata%2Fsn84023881%2F0020219137A%2F1857070301%2F0353.jp2/pct:6.882390,68.882899,10.603609,20.684836/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
-## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1857-08-22/ed-1/seq-1)
+## From _The Ottawa free trader._
 
 #### 1857-08-22 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-! Raising and Preserving Tomatoes. To  
-j many persons there is something unplcas­  
-j ant, not to say disgusting, in the flavor of  
-i this excellent fruit It has, however, long  
-I been used lor culinary purpose in various  
-; countries in Europe, and has been of late  
-i extensively cultivated, and become a gce-  
-ral ftvorite in the country. Lr. JJennttt, a  
-; professor of somu celebrity, considers it an  
-! invaluable article of diet, and ascribes to it  
-i very importirit medical properties. He de­  
-! clarcs :  
-i 1. That the tomatoe is one of the most.  
-powerful aperients of the materlt melira,  
-and that in all of those ailections of the liv-  
-i el aim visun mjieiu .stynn I i- 1 11-41 i v IV  
-. i i . .t . ,r i ,  
-i it is prohabiV the most itShctive and less  
-&#x27; li.emliil i  
+ many persons there is something unpleas­  
+ant, not to say disgusting, in the flavor of  
+ this excellent fruit. It has, however, long  
+ been used for culinary purpose in various  
+ countries in Europe, and has been of late  
+extensively cultivated, and become a gene-  
+ral favorite in the country. Dr. Bennett, a  
+ professor of some celebrity, considers it an  
+ invaluable article of diet, and ascribes to it  
+very important medical properties.He de­  
+ clares:  
+ That the tomato is one of the most  
+powerful aperients of the materia medica,  
+and that in all of those affections of the liv-  
+ U at aot tiiiI i tletut t  
+aeeea oeoe  
+it is probably the most affective and less  
+e.  
 harmful remedial agent known to the pro  
 fession.  
-2. That a chemical ex&#x27;ract will beobt-iin-ed  
+. That a chemical extract will be obtain  
 from it which will altogether supercede  
-the ue of calomel in the cure of disease.  
-ii. That he has successfully treated dia-  
-rho&#x27;a with this a  
-! -i. Then when  
+the use of calomel in the cure of disease.  
+3. That he has successfully treated dia-  
+rhea with this a  
+4. Then when  
 rticle alone.  
-u-ed as au article of diet,  
-sla and indigestion.  
-5. That persons arr&#x27;vin from the E-it or  
-North to the S uth or West, should by all  
+used as an article of diet,  
+sia and indigestion.  
+5. That persons arriving from the East or  
+North to the South or West, should by all  
 means make use of it as an aliment, as it  
-woulJ, in that event, save them the danger  
-attendant upon tlicse violent Lillious attacks  
-t which a&#x27;tiiost all unacciimated persons  
-arc liable.  
-C. That the citizens in ordinary health  
-should make use of it, cither raw, cooked,  
-or in the forui of a catsup, with their daily  
+would, in that event, save them the danger  
+attendant upon those violent billious attacks  
+to which almost all unacclimated persons  
+are liable.  
+6. That the citizens in ordinary health  
+should make use of it, either raw, cooked,  
+or in the form of a catsup, with their daily  
 food, as it is the most healthy article in the  
-materia alituenturia
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn84038582%2F00212472062%2F1857082201%2F0600.jp2/pct:74.159043,37.773517,11.386348,17.482517/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+muteria alimeatarid
+</td></tr></table>
 
 ---
 
@@ -4545,6 +4696,41 @@ food, as it is a most healthy article,—Ze
 
 ---
 
+## From _Sioux City register._
+
+#### 1858-09-23 &middot; [Sioux City, Iowa](http://dbpedia.org/resource/Sioux_City%2C_Iowa)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Bennet, a professor of some celeb  
+rity, considers the tomato an invaluable  
+article of diet, and ascribes to it very im  
+portant medical properties  
+1st. That the tomato is one of the most  
+powerful aperients of the Materia Medica,  
+and that in all those affections of the liver  
+and organs where calomel is indicated, it  
+is probably the most effective and least  
+harmful remedial agent known to the pro-­  
+fession.  
+And. That a chemical extract will be  
+obtained from it, which will supersede the  
+use of calomel in the cure of disease.  
+3rd. That he has successfully treated  
+diarrhoea with this article alone.  
+4th. That when used as an article of di­  
+et, is almost a sovereign remedy for dys.­  
+pepsia and indigestion.  
+5th. That it should be constantly used  
+with our daily food; either cooked, raw,  
+or in the form of catsup, as it is the most  
+healthy article now in use.
+</td></tr></table>
+
+---
+
 ## [From _The Ashland union._](https://chroniclingamerica.loc.gov/lccn/sn83035173/1858-09-29/ed-1/seq-4)
 
 #### 1858-09-29 &middot; [Ashland, Ashland County, Ohio](http://dbpedia.org/resource/Ashland%2C_Ohio)
@@ -4783,6 +4969,45 @@ A schoolmaster belonging to
 
 ---
 
+## From _The daily Gate City._
+
+#### 1859-01-10 &middot; [Keokuk, Iowa](http://dbpedia.org/resource/Keokuk%2C_Iowa)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+THE TOMATO--ITS PROPERTIES. Dr. Ben­  
+nett, a professor of some celebrity, considers  
+  
+to it very important medical properties.  
+1. That the tomato is one of the most powe­  
+erful aperients of the Materia Medica, and  
+that in all those affections of the liver and  
+organs, where calomel is indispensable, i is  
+  
+  
+  
+the most effective and least harme  
+  
+ul remedial agent known to the profese­  
+sion.  
+  
+  
+  
+  
+  
+That a chemical extract will be obtained  
+it which will altogether supersede the  
+use of calomel in the cure of disease.  
+3. That he has successfully treated diar-­  
+rhoea with this article alone  
+. That when used as an article of diet, it  
+almost a sovereign remedy for dispepsia  
+and indigestion.
+</td></tr></table>
+
+---
+
 ## [From _American union._](https://chroniclingamerica.loc.gov/lccn/sn86092124/1859-02-04/ed-1/seq-4)
 
 #### 1859-02-04 &middot; [Morgantown, Va. [W. Va.]](http://dbpedia.org/resource/Morgantown%2C_West_Virginia)
@@ -4801,23 +5026,23 @@ ledge, with decided success
 
 ---
 
-## [From _St. Charles City Republican intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn82014141/1859-04-21/ed-1/seq-1)
+## From _St. Charles City Republican intelligencer._
 
 #### 1859-04-21 &middot; [St. Charles City [Charles City], Iowa](http://dbpedia.org/resource/Charles_City%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-THE TOMATO ITS PROPERTIES.  
-I)r. Bennett, a professor of some  
-celebrity, considers the tomato an in­  
+THE TOMATO--ITS PROpErTIES.  
+Dr. Bennett, a professor of some  
+celebrity, considers the tomato an in-­  
 valuable article of diet, and ascribes  
 to it very important medical qualities.  
 1. The tomato is one of the most  
 powerful aperients of the Materia  
-Medico, and in those affections of  
+Medica, and in those affections of  
 the liver and organs, where calomel  
-is indospensable, it is probably the  
+is indespensable, it is probably the  
 most effective and least harmful agent  
 known to the profession.  
 2. That a chemical extract will be  
@@ -4826,26 +5051,23 @@ supercede the use of calomel in the
 cure of disease.  
   
 That he has successfully treated  
-diairlnea with this article alone.  
+diarrhoa with this article alone.  
 4. That when used as an article of  
 diet, it is almost a sovereign remedy  
 for dyspepsia and indigestion.  
   
-Romantic .$fide|j.  
+ullllt Watltl.  
   
 dress  
   
-itig alter the vines are well started  
-and they will soon cover the gronnd  
+ing after the vines are well started  
+and they will soon cover the ground  
 and take care of themselves. Dig for  
 immediate use at any time when large  
-enough, as the A&#x27;ansemcml variety is  
+enough, as the Nansemond variety is  
 good at any stage of growth. Dig  
-all when the Iaires are tirst touche
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn82014141%2F00279529455%2F1859042101%2F0490.jp2/pct:42.981466,22.306673,20.279424,16.343156/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+all when the leares are first touche
+</td></tr></table>
 
 ---
 
@@ -4927,7 +5149,7 @@ daily food ; either cooked, raw, or in the for
 
 ---
 
-## [From _Daily Iowa State Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014134/1859-08-03/ed-1/seq-2)
+## From _Daily Iowa State Democrat._
 
 #### 1859-08-03 &middot; [Davenport, Iowa](http://dbpedia.org/resource/Davenport%2C_Iowa)
 
@@ -4935,31 +5157,28 @@ daily food ; either cooked, raw, or in the for
 
   
   
-Ben­  
+Ben-  
   
-nett, a professor of some celebrity,con­  
+nett, a professor of some celebrity, con-­  
 siders the tomato an invaluable article  
-of diet, and ascribes to it very impor­  
+of diet, and ascribes to it very impor-  
   
 tant medical properties  
 1st. That the tomato is one of the  
 most powerful aperients of the liver  
-and other organs where calomel is  
-indicated, it is probably one of tbe  
+and other organs; where calomel is  
+indicated, it is probably one of the  
 most effective and the least harmful  
-remedial agents known to the profes­  
+remedial agents known to the profes-­  
 sion.  
-&#x27;Jd. That a chemical extract will be  
+2d. That a chemical extract will be  
 obtained from it that will supersede  
-the use of calomel in the cure of dis­  
+the use of calomel in the cure of dis-­  
 ease.  
 3d. That he has successfully treated  
 diarrhea with this article alone.  
 4th. That when used as an article o
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_gastly_ver01%2Fdata%2Fsn82014134%2F00279529285%2F1859080301%2F0597.jp2/pct:38.372644,15.236052,11.404755,10.772532/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -5006,48 +5225,88 @@ raw, or in form of catsup, it is tho mo
 
 ---
 
-## [From _The Wyandot pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87076863/1859-08-05/ed-1/seq-2)
+## From _Lynchburg daily Virginian._
 
-#### 1859-08-05 &middot; [Upper Sandusky, Ohio](http://dbpedia.org/resource/Upper_Sandusky%2C_Ohio)
+#### 1859-08-06 &middot; [Lynchburg [Va.]](http://dbpedia.org/resource/Lynchburg%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Tub Tomato as Food Dr. Bennot, a  
-professor of some, celebrity, considers the  
-tomato an invaluable article of diet, and  
-ascribes to it very important medical  
-properties: . 4 , &quot; - i  
-1st. , That the tomato, is one of the  
-most powerful aperients of the liver and  
-other organs; wbere eolomel is indicated  
-it is probably one of the most effective  
-and the least harmful remedial agent
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn87076863%2F0029602885A%2F1859080501%2F0359.jp2/pct:35.543562,76.814444,14.649190,7.168395/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+  
+Gaily Wirginian.  
+The TomAto as Food.  
+Dr. Bennet, a professor of some celebrity, con­  
+siders the tomato an invaluable article of diet,  
+and ascribes to it very important medical ir per­  
+ties:  
+1st. That the tomato is one of the most power­  
+ful aperients of the liver and other organs; where  
+calomel is indicated, it is probably one of the most  
+effective and least harmful remedial agents known  
+to the profession. 2nd. That a chemical extract  
+will be obtained from it that will supersede the  
+use of calomel in the cure of disease. 3d. That  
+he has successfully treated diarrhoa with this ar­  
+ticle alone. 4th. That when used as an article of  
+diet it is almost sovreign for dyspepsia and indi­  
+gestion. 5th. That it should be constantly used  
+for daily food; either cooked, raw, or in any form  
+of catsup, it is the most healthy article now in  
+uise.  
+The New York Ecening Ibst in copying the a­  
+bove says, if the first clause of this statement is  
+correct, that the tomato is &quot;one of the most pow
+</td></tr></table>
 
 ---
 
-## [From _The Evansville daily journal._](https://chroniclingamerica.loc.gov/lccn/sn82015672/1859-08-09/ed-1/seq-2)
+## From _Wheeling daily intelligencer._
+
+#### 1859-08-08 &middot; [Wheeling, Va. [W. Va.]](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+the rinds or refuse parts of green encumbers  
+are left lying. Try it.  
+  
+The ToMATo As FooD.Dr. Bennett, a pro-­  
+fessor of some celebrity, considers the tomato  
+an invaluable article of diet, and ascribes to it  
+very important medical properties:  
+1st. That the tomato is one of the most pow-­  
+erful aperients of the liver and other organs;  
+where calomel is indicated, it is probably one  
+of the most eflective and least harmful remedial  
+agents known to the profession. 2d. That a  
+chemical extract will be obtained from it that  
+will supercede the use of calomel in the cure of  
+disease. 3d. That he has successfully treated  
+diarrhoa with this article alone. th. That  
+when used as an article of diet it is almost sov-­  
+creign for dyspepsia and indigestion. 5th. That  
+it should be constantly used for daily food;  
+either cooked, raw, or in any form of catsup, it  
+is the most healthy article now in use
+</td></tr></table>
+
+---
+
+## From _The Evansville daily journal._
 
 #### 1859-08-09 &middot; [Evansville, Ia. [i.e. Ind.]](http://dbpedia.org/resource/Evansville%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-:i fair price to the government.  
+a fair price to the Government.  
 Dr. Bennett, a professor of some ce  
 lebrity, considers the tomato an invaluable  
 article of diet, and ascribes to it very im­  
 portant medical properties:  
 1st. That the tomato is one of the most  
 powerful aperients of the liver and othe
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_irvington_ver01%2Fdata%2Fsn82015672%2F00296021945%2F1859080901%2F0391.jp2/pct:20.081109,72.396745,12.153323,4.614275/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -5137,28 +5396,6 @@ powerful aHperients of the liver and othe
 
 ---
 
-## [From _The Ashland union._](https://chroniclingamerica.loc.gov/lccn/sn83035173/1859-08-31/ed-1/seq-4)
-
-#### 1859-08-31 &middot; [Ashland, Ashland County, Ohio](http://dbpedia.org/resource/Ashland%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-TfiE TomAto as Food. -Dr. Bennet a pro  
-  
-fessor of some celebrity, considers the tomato  
-an invaluable article of diet, and ascribes to it  
-very important medical properties:  
-1st. That tbe tomato is one ot tne most pow­  
-erful aperients of the liver and other organs 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn83035173%2F00296027297%2F1859083101%2F0147.jp2/pct:31.157833,7.398628,12.118557,2.981909/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [GOVERNMENT GAZETTE.](http://trove.nla.gov.au/ndp/del/article/5687228)
 
 #### From _The Argus (Melbourne, Vic. : 1848 - 1957)_
@@ -5216,30 +5453,6 @@ without wafer. Stir them slowly, and
 when dono, put in a small j piece of  
 good butter, and eat them as yo« do j  
 apple saUco. &#x27;Some add a little flou
-</td></tr></table>
-
----
-
-## From _Vermont watchman and State journal._
-
-#### 1859-09-02 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Tue Towaro as Foon. Dr. Bennet, a  
-professor of some celebrity, considers the  
-tomato an invaluable article of diet, and as  
-cribes to it very important medical properties:  
-&quot;That the tomato is one of the most power  
-ful aperients of the liver and other organs.  
-Where calomel is indicated it is probably one  
-of the most effective and the least harmful  
-remedial agents known to the profession.  
-That a chemical extract will be obtained from  
-it that will supersede the use of calomel in  
-the cure of disease. That he has successful  
-ly treated diarrhoea with this article alone
 </td></tr></table>
 
 ---
@@ -5308,34 +5521,31 @@ the form of catsup, it is tho most health
 
 ---
 
-## [From _Sugar planter._](https://chroniclingamerica.loc.gov/lccn/sn86079096/1859-09-10/ed-1/seq-1)
+## From _Sugar planter._
 
 #### 1859-09-10 &middot; [West Baton Rouge [i.e. Port Allen, West Baton Rouge Parish, La.]](http://dbpedia.org/resource/Port_Allen%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-TuE T MATO As FooD.-Dr. Ben­  
-nett, a professor of some celebrity?  
+THE T MATO AS FOOD. Dr. Ben­  
+nett, a professor of some celebrity.  
 considers the tomato an invaluable  
 article of diet, and ascribes to it  
 very important medical properties:  
-1st. That the tomato is one of  
+Ist. That the tomato is one of  
 the most powerful aperients of the  
 liver and other organs; where calo­  
-mel is indicated, it is probabiy one  
+mel is indicated, it is probably one  
 of the most effective and the least  
 harmful remedial agents known to  
 the profession. 2d. That a chemi­  
-cal extr:act will be obtained from it  
-that willsupersedethe use ofcalornel  
-in the cure of diseases. 3(1. That  
+cal extract will be obtained from it  
+that will supersede the use of calomel  
+in the cure of diseases. 3d. That  
 he has successfully treated diarrhoea  
-with this artiIle alone. 4th. Tha
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_sands_ver01%2Fdata%2Fsn86079096%2F00212475002%2F1859091001%2F0338.jp2/pct:78.468900,37.082373,14.832536,11.880760/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+with this article alone. 4th. Tha
+</td></tr></table>
 
 ---
 
@@ -5459,78 +5669,36 @@ little flour and fine crumbs , o
 
 ---
 
-## [From _Colman's rural world and valley farmer._](https://archive.org/details/sim_colmans-rural-world_1859-10_11_10/page/n25/mode/1up?view=theater)
-
-#### 1859-10-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-Dr Bennet, a professor of some celebrity,  
-considers the tomato an invaluable article of  
-diet, and ascribes to it very important medical  
-properties :
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_colmans-rural-world_1859-10_11_10&#0036;25/pct:54.616530,27.705113,33.581534,4.375743/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Arkansas true Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014282/1860-02-15/ed-1/seq-1)
-
-#### 1860-02-15 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-I tiE Iomato. Dr. Rennet, a Professor  
-of some celebrity considers the tomato an  
-invaluable article of diet, and ascribes to it  
-very important medical properities:  
-1st. 1 hat the tomato is one of the most  
-powerful aperients of the liver and othe
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_charmander_ver01%2Fdata%2Fsn82014282%2F00414212438%2F1860021501%2F0676.jp2/pct:61.173145,82.648018,10.929329,2.778946/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Lansing state Republican._](https://chroniclingamerica.loc.gov/lccn/sn83016318/1861-06-12/ed-1/seq-4)
+## From _The Lansing state Republican._
 
 #### 1861-06-12 &middot; [Lansing, Mich.](http://dbpedia.org/resource/Lansing%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Tt Tomato Its Properties. Dr. Bennet,  
-professor or some celebrity, considers it an in­  
+THE TONATO--ITS PROPERTIES.  Dr. Bennet,  
+professor of some celebrity, considers it an in­  
 valuable article of diet, and ascribes to it very  
-important medical properties :  
+important medical properties:  
 1. That the tomato is one of the most power­  
 ful aperients of the Materia Medica, and that in  
 all those affections of the liver and organs where  
-calomel is indicated, it is probably the roost effec­  
+calomel is indicated, it is probably the most effec­  
 tive and least harmful remedial agent known to  
 the profession.  
-Z. That a chemical extract will be obtained  
-from it which will altogether supercede the nse  
+2. That a chemical extract will be obtained  
+from it which will altogether supercede the use  
 of calomel in the cure of disease.  
-S. That he has successfully treated diarrhoea  
+3. That he has successfully treated diarrhoea  
 with this article alone.  
 4. That when used as an article of diet, it is  
-annual a sovereign remedy for dyspepsia and in  
+elmost a sovereign remedy for dyspepsia and in  
 digestion.  
-fi. That the citizens in ordinary should make  
+5. That the citizens in ordinary should make  
 use of it, either raw, cooked, or in the form of a  
 catsup, with their daily food, as it is the most  
-neaithy article in the materia a imeneari
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn83016318%2F00296024570%2F1861061201%2F0519.jp2/pct:5.437705,66.273187,12.936958,9.833474/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+healthy article in the materia a imeneari
+</td></tr></table>
 
 ---
 
@@ -5640,34 +5808,6 @@ line orumbs of bread.— Victoria
 
 ---
 
-## [From _Weekly Trinity journal._](https://chroniclingamerica.loc.gov/lccn/sn85025202/1861-08-31/ed-1/seq-1)
-
-#### 1861-08-31 &middot; [Weaverville, Calif.](http://dbpedia.org/resource/Weaverville%2C_California)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-that environs it.  
-The Tomato.—Dr. Bennot, a professor of some  
-celebrity, considers the tomato an invaluable ar­  
-ticle of diet, and ascribes to it very important  
-medical proprieties.  
-1st. That the tomato is one of the most power  
-ful aperients of the liver and other organs; where  
-calomel is indicated, it is probably one of the  
-most effective and the least harmful remedial  
-agent known to the profession.  
-2d. That a chemical extract will lie obtained  
-from it lliut will supersede Hie use of calomel in  
-, the cure of diseases.  
-ltd. That he lias successfully treated diarrliie
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn85025202%2F00279557293%2F1861083101%2F0387.jp2/pct:62.329157,76.272583,15.024677,7.444283/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [SCRUB TIMBERS OF THE CLARENCE AND RICHMOND DISTRICTS.](http://trove.nla.gov.au/ndp/del/article/4601248)
 
 #### From _The Courier (Brisbane, Qld. : 1861 - 1864)_
@@ -5743,6 +5883,29 @@ and ascribes to it very important properties
 <img alt="Page image" src="https://iiif.archive.org/iiif/sim_maine-farmer_1862-08-21_30_36&#0036;0/pct:67.117814,85.383085,11.961846,1.323383/600,/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _Oxford Democrat._
+
+#### 1862-08-29 &middot; [Paris, Me.](http://dbpedia.org/resource/Paris%2C_Maine)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+The TowAro as Foon. Dr. Bennett, a  
+professor of some celebrity, considers the to­  
+mato an invaluable article of diet, and as­  
+cribes to it very important properties  
+First, that the tomato is one of the  
+most powerful aperients of the liver and  
+other organs; where calomel is indicated, it  
+is probably one of the most effective and  
+least harmful remedial agents known to the  
+profession. Second, that a chemical extract  
+will be obtained from it which will super-  
+code the use of calomel in the cure of dis
+</td></tr></table>
 
 ---
 
@@ -5837,6 +6000,36 @@ of calomel in tho cure of diseases. 3.
 That he has successfully troated  
 diarrhoea with this article alone. 4.  
 That when used as a diet it ÍB almost 
+</td></tr></table>
+
+---
+
+## From _Daily State sentinel._
+
+#### 1865-08-07 &middot; [Indianapolis, Ind.](http://dbpedia.org/resource/Indianapolis)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Tue ToEaTO as FoOd--A good medical an­  
+thority ascribes to the tomato the following very  
+important medical qualities:  
+I. That the tomato is one of the most power­  
+ful aperine of the liver and other organs; where  
+calomel is indicated it is one of the most effective  
+and the least harmful medical agent known to  
+the profession.  
+2 That a chemical extract will be obtained  
+from it that will supercede the use of calomel in  
+the cure of disease.  
+3. That he has successfully treated diarrhoa  
+with this article alone.  
+4. That when used as an article of diet, it is  
+almost sovereign for dyspepsia and indigestion  
+5. That it should be constantly used for daily  
+food. Either cooked or raw, or in the form of  
+catsup, it is the most healthy article now in  
+uSE
 </td></tr></table>
 
 ---
@@ -6150,115 +6343,186 @@ some article in Use. &#x27; v &#x27; &quot;
 
 ---
 
-## [From _The Fairfield herald._](https://chroniclingamerica.loc.gov/lccn/sn84026923/1866-08-15/ed-1/seq-4)
+## From _The tri-weekly news._
 
-#### 1866-08-15 &middot; [Winnsboro, S.C.](http://dbpedia.org/resource/Winnsboro%2C_South_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Tim ToMATO FoR Foo.-A goo  
-medical authority ascribes to the toma  
-to the followi-ng very important medi  
-cal qualft fes e  
-1. That the tomuto i&#x27;s one of thi  
-most powerful aperients of the five  
-and other organs ;. where calomel i  
-indicated, it is one-of the most effec  
-tive and least harmful medical agent  
-known to the profession..  
-2. That a chemical extract will b,  
-obtained from it that will superced,  
-the use of caloiel in the cure of dim  
-case.  
-3.. That he has successfully treateo  
-diarrhea with this article alone.  
-4. That when used as an article o  
-diet, it is almost sovereign for dyspep  
-sia and mitidigestion.  
-5. That it should be constautly usc  
-for daily food. Either cooked o  
-raw, or in the form of catsup, it is th  
-muost wholesoie article in use.  
-Tiu. CasS1 oF fit. DAVIs.--Tho Ile
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_drinksmall_ver01%2Fdata%2Fsn84026923%2F00237288361%2F1866081501%2F0036.jp2/pct:43.778996,24.902853,12.601340,14.499833/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Fairfield herald._](https://chroniclingamerica.loc.gov/lccn/sn84026923/1866-08-15/ed-1/seq-5)
-
-#### 1866-08-15 &middot; [Winnsboro, S.C.](http://dbpedia.org/resource/Winnsboro%2C_South_Carolina)
+#### 1866-08-09 &middot; [Winnsboro, S.C.](http://dbpedia.org/resource/Winnsboro%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Tim To,1ATO FOR Foon.-A good  
-med ical authority ascribes to the toma­  
-to- tie folowi~ng very important medi­  
-cal quralftfes:­  
-1. That the- tomuto i&#x27;s one&#x27; of the  
+medical authority ascribes to the tomae.  
+to the following very important medi  
+cal qualities;  
+1. That the tomato is one of the  
 most powerful aperients of the liver  
-and other organs ;. where calomel is  
-indicated, it is one of the most effee­  
-tive and least hariful medical agents  
-known to the profession..  
-2. That a chemical extract will be.  
-obtained from it that will supercede  
-the use of calonmel in the cure of dis­  
+and other organs; where calomel is  
+indicated, it is one of the most effece­  
+tive and least harmful medical agents  
+known to the profession.  
+lemical extract will be  
+obtained from it that will superceds  
+the use of calomel in the cure of dise­  
 ease.  
-3. That he hs successfudly treated  
+3. That he has successfully treated  
 diarrhea with this article alone.  
 4. That when used as an article of  
-diet, it is almost sovereign for dyspep­  
-sia and nidigestion.  
-5. That it should be comtantly used  
+diet, it is almost sovereign for dyspop-­  
+sia and indigestion.  
+5. That it should be constantly used  
 for daily food. Either cooked or  
-raw, or in the form of citsup, it is the  
-llost wiholesoie article in use.  
-T.: C.s or fai. DAvis.--The Her.  
-u/d&#x27;s Wahiinaigton correspondent, on  
-Friday, says the arrival o- Charle
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_drinksmall_ver01%2Fdata%2Fsn84026923%2F00237288361%2F1866081501%2F0037.jp2/pct:43.553348,25.406726,13.257630,15.360765/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+raw, or in the form of catsup, it is the  
+most wholesome article in use.  
+Lor? Brougham has departed fro
+</td></tr></table>
 
 ---
 
-## [From _Sioux City register._](https://chroniclingamerica.loc.gov/lccn/sn84031042/1866-09-01/ed-1/seq-1)
+## From _The Fairfield herald._
+
+#### 1866-08-15 &middot; [Winnsboro, S.C.](http://dbpedia.org/resource/Winnsboro%2C_South_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+medical authority ascribes to the tomae  
+to the follawing very important medi  
+cal qualities:  
+1. That the tomato is one of the  
+most powerful aperients of the liver  
+and other organs; where calomel i  
+indicated, it is one of the most effec-  
+tive and least harmful medical agent  
+known to the profession.  
+2. That a chemical extract will b  
+obtained from it that will superced.  
+the use of calomel in the cure of dis.  
+case.  
+9. That he has successfully treated  
+diarrhea with this article alone.  
+4. That when used as an article of  
+diet, it is almost sovereign for dyspep  
+sia and indigestion.  
+5. That it should be constantly usec  
+for daily food. Either cooked on  
+raw, or in the form of catsup, it is the  
+most wholesome article in use.  
+ThE CASE OF MR. DAVIs.  The He
+</td></tr></table>
+
+---
+
+## From _The Fairfield herald._
+
+#### 1866-08-15 &middot; [Winnsboro, S.C.](http://dbpedia.org/resource/Winnsboro%2C_South_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+medical authority ascribes to the tomas­  
+to the following very important medf­  
+cal qualities;­  
+1. That the tomato is one of the  
+most powerful aperients of the liver  
+and other organs; where calomel is  
+indicated, it is one of the most effee-­  
+tive and least harmful medical agents  
+known to the profession.  
+2. That a chemical extract will be  
+obtained from it that will supercede  
+the use of calomel in the cure of dis-­  
+case.  
+9. That he has successfully treated  
+diarrhea with this article alone.  
+4. That when used as an article of  
+diet, it is almost sovereign for dyspep-­  
+sia and indigestion.  
+5. That it should be constantly used  
+for daily food. Either cooked or  
+raw, or in the form of catsup, it is the  
+most wholesome article in use.  
+THE CASE oF MR. DAvIs.- The Her
+</td></tr></table>
+
+---
+
+## From _Sioux City register._
 
 #### 1866-09-01 &middot; [Sioux City, Iowa](http://dbpedia.org/resource/Sioux_City%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+ThE ToMAto  
+  
+As  
+  
+Foon.--A good medi-  
+  
 cal authority ascribes to the tomato the  
-following very important medical quali­  
+following very important medical qualis­  
 ties  
-1. That the tomato is one of the most  
-powe-tul aperients of the liver and other  
-organs where calomel is indicated, it is  
-one of the most effective and least Harm­  
-ful medical agents known to the pro­  
+I. That the tomato is one of the most  
+powe ful aperients of the liver and other  
+organs; where calomel is indicated, it is  
+one of the most effective and least narm-­  
+ful medical agents known to the pro-­  
 fession.  
-2. That a chemical extract will be ob«  
-taiued trotn it that will supercede the use  
-oi calomel iu the cure of disease.  
-3. That he has successfully treated di­  
-arrhoea with this article aline.  
-4. lbat when used as an article of di­  
+2. That a chemical extract will be obe  
+tained from it that will supercede the use  
+of calomel in the cure of disease,  
+5. That he has successfully treated di-­  
+arrhoa with this article alone.  
+4. That when used as an article of di­  
 et, it is almost sovereign for dyspepsia  
-and indigent ion.  
-5 That it should be constantly used  
-for daily lood. Kither cooked or raw,  
-or in tbe forjs of catsup, U is the mos
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn84031042%2F00279529315%2F1866090101%2F0622.jp2/pct:74.642424,65.911787,12.863030,10.712103/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+and indigestion.  
+5. That it should be constantly used  
+for daily food. Either cooked or raw,  
+or in the fore of catsup, it is the most  
+wholesome article in use.  
+  
+EDITORIALs.- 
+</td></tr></table>
+
+---
+
+## From _The Vermont transcript._
+
+#### 1866-09-14 &middot; [St. Albans, Vt.](http://dbpedia.org/resource/St._Albans_(town)%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+THIE VERMONT TRANSCRIDT.  
+ssseate staons a  
+  
+AI  
+  
+  
+ThE TOMATO AS FoOD. A good medi­  
+cal authority ascribes to the tomato  
+the following medical qualities:  
+1. That the tomato is one of the  
+most powerful aperients of the liver  
+and other organs; where calomel is  
+indicated, it is one of the most effect  
+  
+ive and least harmful medical agents  
+known to the profession.  
+2. That a chemical extract will be  
+obtained from it that will supersede  
+the use of calomel in the cure of dis  
+CfSO.  
+3. That he has successfully treated  
+diarrhoea with this article alone.  
+4. That when used as an article of  
+diet, it is almost sovereign for dyspep  
+sia and indigestion.  
+5. That it should be constantly used  
+for daily food. Either cooked or raw,  
+or in the form of catsup, it is the most  
+wholesome article in use.  
+mey What is the difference &#x27;twixt
+</td></tr></table>
 
 ---
 
@@ -6282,123 +6546,155 @@ or in tbe forjs of catsup, U is the mos
 
 ---
 
-## [From _Buchanan County bulletin and guardian._](https://chroniclingamerica.loc.gov/lccn/sn87058351/1868-02-28/ed-1/seq-4)
-
-#### 1868-02-28 &middot; [Independence, Iowa](http://dbpedia.org/resource/Independence%2C_Iowa)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-ectiovs the iirtr and organs, »Wi«  
-ralomel is indipensible, ii i- jvr .hably  
-the niobt effec ive and lea&#x27;-t harmful  
-remedial agent kcovvn to the proles*­  
-ion.  
-1 That a chemical extract aid be  
-obtained from it which will altogeth­  
-er «i[i»i ?-cde the ast ol calouul iu the  
-core of di-eas. s.  
-a That he has successfully treated  
-&quot;diarr&#x27;.aea with this srticle alone.  
-  
-That when used as au article of  
-diet, it i% almost a sovereign remedy  
-tor dyspepsia and indigestion.  
-5. That the citizens fhoidd inf.ke  
-daily u^e of it, either raw, cooked, or  
-in the rm of catsup, with their daily  
-imd, a* n is a a.o#t healthy article.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_electabuzz_ver01%2Fdata%2Fsn87058351%2F00279529388%2F1868022801%2F0345.jp2/pct:4.194452,57.588044,9.843433,8.537998/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Tipton advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84027398/1868-03-12/ed-1/seq-4)
+## From _The Tipton advertiser._
 
 #### 1868-03-12 &middot; [Tipton, Cedar Co., Iowa](http://dbpedia.org/resource/Tipton%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ripen in  
-May or une and may be at once plant­  
+ maple which ripen in  
+May or June and may be at once plant-­  
 ed. Such seedlings, if the ground is  
-wet! fitted its for corn, wiH jjrow to the  
-hight of three or four feet the first sea­  
-eon, and seven or eight the second—  
-making the tnostWantifh! trees we hare  
-in this climate. Every farmer is inter­  
+well fitted as for corn, will grow to the  
+hight of three or four feet the first sea-­  
+son, and seven or eight the second-  
+making the most beautiful trees we have  
+in this climate. Every farmer is inter-­  
 ested in this matter, and every one by  
-looking about and making an investiga­  
-tion tor hftttseli. oan at once reatize the  
-necessity for action in this direction.—  
-MarahalUotra Tim i s.  
+looking about and making an investiga-­  
+tion for himself, can at once realize the  
+necessity for action in this direction.  
+Marshalltomon Times.  
   
-this important interest is 1  
-efe^gfte 4ny ih  
-lf  
-•PIlP^ fri* .tlM .tearth  
-The rapid di«u txaranei  
+this important interest is i  
+ee es day th  
+e.  
+sthg fro the dearth  
+The rapid disappearance  
   
-y«K TtujiAjF(*~kr% PsomiiTiKa-^  
-Bennett, a&quot; professor of some cele­  
+THE TOMAO--Its ProPertieS.  
+Bennett, a professor of some cele-­  
 brity, considers it an invaluable article  
 of diet, and ascribes to  
   
-It very important  
+it very important  
   
 medical properties:  
-1. That the toaiato ia one of the most  
-powerful aperients of the Materia Med­  
-ica, and that in all those afleetions of  
+1. That the tomato is one of the most  
+powerful aperients of the Materia Med-­  
+ica, and that in all those affections of  
 the liver and organs, where calomel is  
-iudispenaible, it is probably the most  
-.effective and least harmful remedial  
-agent known to {He profession.  
-2. That a chemical exu&#x27;uct will be ob­  
-tained frohi it which will altogather  
-supersede the use of calomel iu the cure  
-«of diseases  
+indispensible, it is probably the most  
+effective and least harmful remedial  
+agent known to the profession.  
+2. That a chemical extract will be ob-­  
+tained from it which will altogather  
+supersede the use of calomel in the cure  
+tof diseases  
 3. That  
-diarrena w  
-4^ That when used as an article of di­  
+diarroa w  
+4. That when used as an article of di-­  
 et, it is almost a sovereign remedy for  
 dyspepsia and indigestion.  
-6. That the citizens should in alt i? dally  
-use of it, either raw, coo.&#x27;^fl, or in th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_charizard_ver01%2Fdata%2Fsn84027398%2F00279529418%2F1868031201%2F0464.jp2/pct:4.536921,12.668279,12.734668,40.286175/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+5. That the citizens should make dally  
+use of it, either raw, cooked, or in the  
+form of catsup, with their daily  
+  
+with this article alone.  
+  
+as it is a most healthy article.--RepOs:  
+4toryI
+</td></tr></table>
 
 ---
 
-## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1869-11-18/ed-1/seq-1)
+## From _The Tiffin tribune._
 
-#### 1869-11-18 &middot; [Hillsborough [Hillsboro], Highland County, Ohio](http://dbpedia.org/resource/Hillsboro%2C_Ohio)
+#### 1869-08-20 &middot; [Tiffin, Ohio](http://dbpedia.org/resource/Tiffin%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-shoes should be treated as suggested,-  
-and worn a little sevtral months be  
-fore put to daily service. This is tha  
-true way to save your shoe money.  
-Hearth and Horn.  
-  
-The Tomato.  
-  
-Dr. Bennet, a professor of some ce­  
-lebrity, considers; -the tomato an In­  
-valuable article of diet, and ascribes to  
-it very important medical properties:  
+readers.  
+Dr. Bennett, a professor of celeb.  
+rity, considers the tomato an iny  
+uable article of diet, and ascribes to  
+it very important medical properties  
 1st. That the tomato is one of the  
-most powerful aperients of the live
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F00237283636%2F1869111801%2F0036.jp2/pct:81.243081,39.409393,10.786019,6.522770/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+most powerful aperients of the liver  
+and other organs; where calomel  
+indicated, it is probably one of the  
+most effective and the least harmfu  
+remedial agents known to the profess  
+ion.  
+2d. That a chem cal extract will be  
+obtained from it that will supersede  
+the use of calomel in the cure ofd  
+sease.  
+3d. That he has successfully treat  
+ed diarrhoea with that article alone  
+4th. That when used as an article  
+of diet, it is almost sovereign for dys  
+pepsia and indigestion.  
+5th. That it should be constantly  
+used for daily food; either cooked  
+raw, or in the form of catsup, it  
+the most healthy article in use.  
+  
+Your conscience will generally  
+point out the right direction  
+take as you walk along the road  
+life.  
+  
+Strike for the Rock  
+  
+and began to skim over the water,  
+down the bay, only one old tar, wh
+</td></tr></table>
+
+---
+
+## From _The Sweetwater enterprise._
+
+#### 1869-12-02 &middot; [Sweetwater, Tenn.](http://dbpedia.org/resource/Sweetwater%2C_Tennessee)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+I was allowed to play; and  
+then I could play with much more pleasure  
+than if I had the thought of an unfinished  
+task before my mind. I early formed the  
+habit of doing everything in time, and it  
+soon became easy to do so. It is to this I  
+owe my prosperity.&quot; Let every one who  
+roads this do likewis  
+I Ualtd thiS  Io18o  
+A genius out west has just patented a  
+machine for making chestnuts out of sweet  
+potatoes. He is a brother to the old man  
+who put handles to prickly pears and sold  
+them for curry-combs.  
+  
+The Tomato as Food.  
+The annexed is strictly true, and worthy  
+of careful attention by our readers:  
+Dr. Bennett, a professor of some celeb­  
+rity, considers the tomato an invaluable  
+article of diet, and ascribes to it very im­  
+portant medical properties:  
+1st. That the tomato is one of the most  
+powerful aperients of the liver and other  
+organs, where calomel is indicated, it is  
+probably one of the most effective and the  
+least harmful remedial agents known to  
+the profession.  
+2d. That a chemical extract will be ob­  
+tained from it that will supercede the use  
+of calomel in the cure of disease.  
+3d. That he has successfully treated  
+diarrhe with that article alone.  
+4th. That when used as an article o
+</td></tr></table>
 
 ---
 
@@ -6486,44 +6782,41 @@ liceman cries, when be make
 
 ---
 
-## [From _The Fairfield herald._](https://chroniclingamerica.loc.gov/lccn/sn84026923/1871-09-20/ed-1/seq-1)
+## From _The Fairfield herald._
 
 #### 1871-09-20 &middot; [Winnsboro, S.C.](http://dbpedia.org/resource/Winnsboro%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-The Tomato --ha Properties.  
+The Tomate--lis Properties.  
 Dr. Bennet, a professor of some  
 celebrity, considers it an invaluable  
-article of diet, and ascribes to it very  
-important medical properties:  
-I. That the tomato is one of the  
-most powerful aperiente of the Mate­  
-ria Medics, and that in those affec­  
+artiole of diet, and ascribes to it very  
+important medical proporties:  
+1. That the tomato is one of the  
+most powerful aperients of the Mate-­  
+ria Medica, and that in those affec-­  
 tions of the liver and organs where  
-calomel is indispensable, it is proba­  
-bly the most effective and least harm­  
-fulI remeidial agent known to the pro.  
+calomel is indisponsable, it is proba-­  
+bly the most effective and least harme­  
+ful remedial agent known to the pros  
 fession.  
 2. That a chemical extract pill can  
 be obtained from it which will alto.  
-gether supercedo the use of ealomel in  
-the cure of disease.  
-~3. That tie has successfully treated  
-diarrhoea with this article alone.  
-4. That when used as an artiele of  
+gether superoede the use of calomel in  
+the oure of disease.  
+. That te has uoconsfally treated  
+diarrhoa with this article alone.  
+4. That when used as an article of  
 diet, it is almost a sovereign remedy  
-for dyspopsia and indigestion.  
-5.&#x27;IThat the citizens in ordinary  
+for dyspepsia and indigestion.  
+5. That the citizons in ordinary  
 should make use of it, either raw,  
 cooked, or in a form of a catsup, with  
-their dlaily food, as It isi a mnosb  
-healthy article.--epository
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_drinksmall_ver01%2Fdata%2Fsn84026923%2F0023728835A%2F1871092001%2F0009.jp2/pct:81.569316,65.278905,13.995023,16.637674/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+their daily food, as it is a most  
+healthy article.--Repository
+</td></tr></table>
 
 ---
 
@@ -6620,6 +6913,35 @@ healthy article
 
 ---
 
+## From _The Cairo daily bulletin._
+
+#### 1871-12-15 &middot; [Cairo, Ill.](http://dbpedia.org/resource/Cairo%2C_Illinois)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+THE TOMATO AND ITS PROPERTIES.  
+Dr. Bennett, a professor of some celelut  
+ty, considers it an invaluable article of diet,  
+medicinal ne toi very important and  
+1. That the tomato is one of the most  
+powerful aparients of materia medica, and  
+that in all those affections of the liver and  
+organs where calomel is indispensable it  
+a probably the most effective and lest  
+prtfaful remedical agent known to the  
+obiainchat a chemical extract pill can be  
+ia and indigestion. o yspep  
+6. That the citizens in ordinary should  
+make use of it, either raw, cooked, of in  
+the form of a catsup, with their dail fo  
+itis a most healthy article.  
+  
+The CAiro Dail
+</td></tr></table>
+
+---
+
 ## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85033699/1871-12-29/ed-1/seq-3)
 
 #### 1871-12-29 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
@@ -6667,44 +6989,6 @@ is a most healthy article.
 
 ---
 
-## [From _Herald and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033429/1872-01-25/ed-1/seq-1)
-
-#### 1872-01-25 &middot; [Jonesborough, Tenn.](http://dbpedia.org/resource/Jonesborough%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-nortint medical properties:  
-j 1. That the toinnto is one of the&#x27; mol  
-I powerful aperients of materia medics, and&quot;  
-j that i i all those affections of the liver and  
-orgaiiA w hiTJ calomel in indisjeiisable,it(  
-is pnb:.b!y the most effective and Jeast  
-&#x27; hauuful remedial acnt known ty tho pro-,  
-j f.-s-iou. u .-&#x27;ri  
-J 2. Thct a chemical extract pill esn be  
-) obtained from it which will altogether u-1  
-J perscde the u.?e of calomel in the crof:  
-I disease. . - - :  
-3. That he  
-has successfully treated di  
-!;e:i with this artiele-alwre.&#x27;-  
-4. That when uad as, ftnrt&#x27;sV?if dial  
-it is th ino-t sovereign rumedy for dys­  
-pepsia and indigestion. &#x27; &#x27; &#x27; &#x27;  
-o. That the eitisena in ordlanry&#x27; sliosli 1  
-make use of it either raw.enokcd orio doi  
-form of a catup, with their dairy food,. as i  
-The African Diamond l&#x27;leIa.  
-J. II. Riley, who recently returned  
-from the diamond lie I da of South Africa
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033429%2F00280779313%2F1872012501%2F0301.jp2/pct:84.310275,49.978439,11.723298,12.257439/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## Temperance and Health
 
 #### From _The Congregationalist._
@@ -6712,27 +6996,6 @@ from the diamond lie I da of South Africa
 #### 1872-02-15 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
-
----
-
-## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1872-02-23/ed-1/seq-4)
-
-#### 1872-02-23 &middot; [Bolivar, Hardeman County, Tenn.](http://dbpedia.org/resource/Bolivar%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-peculiarly useful in all those af  
-fections of the liver and other or  
-gans where calomel is considered  
-indispensable ; and believes that a  
-chemical pill can be obtained from  
-it which will altogether supercede  
-the use of calomel. He Bays .tha
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470119%2F1872022301%2F0470.jp2/pct:8.131604,50.697419,10.659355,3.756178/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
@@ -6772,6 +7035,23 @@ daily food, as it is a most healthy article
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026118%2F00280776348%2F1872040301%2F0264.jp2/pct:7.790290,55.913836,12.331549,15.501520/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _Spirit of the age._
+
+#### 1873-07-24 &middot; [Woodstock, Vt.](http://dbpedia.org/resource/Woodstock%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+to her fifth husband.  
+THE TOMATO AS FoOD.- Dr. Ben­  
+nett, a professor of some celebrity,  
+considers the tomato an invaluable  
+article of diet, and ascribes to it very  
+important properties
+</td></tr></table>
 
 ---
 
@@ -6892,26 +7172,26 @@ The following dialogue between
 
 ---
 
-## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1874-07-01/ed-1/seq-4)
+## From _The Somerset herald._
 
 #### 1874-07-01 &middot; [Somerset, Pa.](http://dbpedia.org/resource/Somerset%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-men can ret tin an open air praver  
+men can get up an open air praver  
 meeting.  
-Kenya&#x27;s of the Tomato.  
-Dr. Bennett, a professor cf some  
+RenEHIts of THe TMATO.  
+Dr. Bennett, a professor of some  
 celebrity, considers the tomato as  
 an invaluable article of diet, and as­  
 cribes to it very important medical  
-properties :  
+properties:  
 1. That the tomato is one of the  
 most powerful aperients of the  
-materia medico, and that in all those  
+materia medica, and that in all those  
 affections of the liver and organs  
-where calomel is indcspensiblc, it is  
+where calomel is indespensible, it is  
 prabably the most effective and least  
 harmful remedial agent known to the  
 profession.  
@@ -6919,20 +7199,17 @@ profession.
 can be obtained from it which will  
 altogether supersede the use of calo­  
 mel in the use of diseas.  
-S. That he has successfully treated  
-diarrhu-a with this article alone.  
+3. That he has successfully treated  
+diarrhoa with this article alone.  
 4. That when used as an article of  
 diet, it is almost a sovereign remedy  
 for dispepsia and indigestion.  
 5. That the citizens in ordinary  
 should make use of it either raw,  
 cooked, or in the form of catsup, with  
-their daily&#x27;food, as it is a most healthy  
+their daily food, as it is a most healthy  
 article
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776452%2F1874070101%2F0418.jp2/pct:24.217391,55.056180,10.000000,14.792189/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -7167,6 +7444,36 @@ ledged by every thinking man tha
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84027008%2F00294551220%2F1874072301%2F0080.jp2/pct:65.660630,53.330605,16.505091,20.652026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The Somerset herald._
+
+#### 1874-08-05 &middot; [Somerset, Pa.](http://dbpedia.org/resource/Somerset%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+. That the tomato is one of the most  
+powerful aperients of the materia medica,  
+and that in all those affections of the liver,  
+and organs where calomel is indispensable  
+it is nrobably the most effective and least  
+harmful remedial agent known to the pr­  
+feo.. a chemical extract pill can be  
+obained from it which will ahogether  
+the use of calomel in the cure of  
+a That he has snecesty treste   
+with this article alone.  
+2. That when used as an article of diet,  
+it is almost a sovereign remedy for dysper­  
+sin and indigestion.  
+5. That the citizens in ordinary life  
+should mahe use of it either raw, cooked,  
+or in the form of catsup, with their da  
+  
+food, as it is a most healthy article
+</td></tr></table>
 
 ---
 
@@ -7469,26 +7776,34 @@ article alone. Fourth, that when use
 
 ---
 
-## [From _The daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83045610/1877-03-17/ed-1/seq-4)
+## From _The daily intelligencer._
 
 #### 1877-03-17 &middot; [Seattle, Wash. Territory [i.e. Wash.]](http://dbpedia.org/resource/Seattle)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-in tb# army, and was a member of  
+in the army, and was a member of  
 Parliament for Saltash and Sudbury  
-successively from IH2O to 1832 He  
-married the only daughter of the sec­  
-ond Karl of Ko«slyn.  
-Dit Hksnktt, a professor of some  
-celebrity, considers the tomsto sin in- j  
-valuable article of diet: and ascribes to  
-it very important medical properties
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_camas_ver01%2Fdata%2Fsn83045610%2F00202198193%2F1877031701%2F0352.jp2/pct:6.335642,43.516110,12.597613,5.342436/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+successively from 1826 to 1832. He  
+married the only daughter of the see­  
+ond Earl of Rosslyn.  
+Dr. Bennett, a professor of some  
+celebrity, considers the tomato an in  
+valuable article of diet, and ascribes to  
+it very important medical properties:  
+First, that the tomato is one of the most  
+powerful aperients of the liver and oth-  
+er organs; where calomel is indicated it  
+is probably one of the most effective  
+and the least harmful remedial agents  
+known to the profession. Second, that  
+a medicinal extract is obtained from  
+it that will supersede the use of calo­  
+mel in the cure of disease. Third, that  
+he has successfully treated diarrhea with  
+this article alone. Fourth, that whe
+</td></tr></table>
 
 ---
 
@@ -7533,51 +7848,53 @@ materia oilmen. taria. THERE are stil
 
 ---
 
-## [From _The Saline County journal._](https://chroniclingamerica.loc.gov/lccn/sn84027670/1882-02-09/ed-1/seq-4)
+## From _The Saline County journal._
 
 #### 1882-02-09 &middot; [Salina, Kan.](http://dbpedia.org/resource/Salina%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ngs keep the  
-sun away ; neighborhood of trees is  
+ings keep the  
+sun away; neighborhood of trees is  
 very injurious; plenty of sun from  
 sun up till sun set very beneficial.  
-in  
-CURE FOR RATTLESNAKE BITE.  
+S  
+CURE FOR SATTAESNANE BITE.  
 One teaspoonful of salt, one table-  
 spoonful of gunpowder, the yolk of  
-oneege; mixed together it will make  
+one ege; mixed together it will make  
 a thick paste. Apply some of this to  
 the bite; it will draw out the poison.  
-When it gets full of poison. It will  
+When it gets full of poison, it will  
 look greasy and fall off. Put on until  
-all the poison is out This paste will  
+all the poison is out. This paste will  
 not stick to any place but on the bite.  
 I have cured two severe cases and know  
-it will cure. IP. P. M.. Sioux IUIU.  
+it will cure.-W.P. M., Siour Fulls,  
 D. T.  
-HOUSEHOLD.  
-The Tomato st Food.  
+NOUSEEOLD.  
+The TOMaTO as Food.  
 Dr. Bennett, a professor of some ce­  
-lebrity, considers the tomato an Inval­  
-uable article of diet, aud ascribes to it  
+lebrity, considers the tomato an inval­  
+uable article of diet, and ascribes to it  
 very important medicinal properties  
-&quot; 1st, that the tomato is a very pow­  
-erful a)erient of the liver and other  
+&quot;Ist, that the tomato is a very pow­  
+erful aperient of the liver and other  
 organs; where calomel is indicated  
-it is probably one of the mosteilei-t-ive  
+it is probably one of the most efler  
 and the least painful remedial  
-agents known to the profession. I&#x27;d,  
+agents known to the profession. 2,  
 that a chemical extract will be obtain­  
 ed from it that will supercede the use  
-of calomel in the cure of disease. 3d,  
+of calomel in the cure of disease. 3,  
 that he has successfully treated diar­  
-rhoea with this article alone. 4th, tha
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_funston_ver01%2Fdata%2Fsn84027670%2F00237283399%2F1882020901%2F0241.jp2/pct:40.441303,33.115683,11.015342,15.966490/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+rhoa with this article alone. 4th, that  
+when used as an article of diet it is  
+almost sovereign for dyspepsia and  
+indigestion. 5th, that it should be  
+constantly used as daily food--either  
+cooked, raw or in the form of catsup
+</td></tr></table>
 
 ---
 
@@ -7836,34 +8153,6 @@ in the treatment of diseases. Dysentery
 has been successfully treated by this  
 article of diet alone, and when used  
 simply as an article of food, is said t
-</td></tr></table>
-
----
-
-## [NEWS IN BRIEF.](http://trove.nla.gov.au/ndp/del/article/88432834)
-
-#### From _The Colac Herald (Vic. : 1875 - 1918)_
-
-#### 1897-01-19 &middot; [Colac, Victoria](http://dbpedia.org/resource/Colac%2C_Victoria)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-that in most instances the country press  
-of New South Wales was in favor of the  
-policy he represented, because they,  
-living amongst the producneers of the  
-colony, knew how much depended upon the  
-judicious fostering of natives  
-industries. Dr Bennett says-&quot;The tomato  
-is one of the most powerful deobstrnents  
-(medicines for removing obstructions) of  
-the materis medics ; and in all  
-affections of the liver it is probably&#x27;  
-the most effective and least harmful  
-remedial agent known. When used as an  
-article of diet it is almost a sovereign  
-remedy for dyspepsia and indigestion.
 </td></tr></table>
 
 ---

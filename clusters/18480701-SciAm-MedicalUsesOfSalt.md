@@ -1,7 +1,7 @@
 
 # Medical Uses of Salt
 
-### 204 reprints from 1848-05-16 to 1897-07-15
+### 202 reprints from 1848-05-16 to 1897-07-15
 
 ## [Medical Uses of Salt](http://collections.library.cornell.edu/moa_new/index.html)
 
@@ -150,61 +150,56 @@ warrior, so it is with men atthe present day,
 
 ---
 
-## [From _The daily crescent._](https://chroniclingamerica.loc.gov/lccn/sn82015378/1848-07-12/ed-1/seq-1)
+## From _The daily crescent._
 
 #### 1848-07-12 &middot; [[New Orleans, La.]](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, bequeathes :o Harvard  
-University, for the purposes of the Observatory, the  
-munificent sum of $1(X),000. Mr. Phillips left  
-property, to tbe value of $900,000.  
-TiTf .ES and U mbrellas .—They are as fond of.  
-titles in the East as we are in the &quot; Great West.&quot;  
-Among his other high-sounding titles, the King of  
-Ava has that of &quot; Lord of Twenty-four i &#x27;mbrellas.&quot;  
-This looks as if .V had prepared himse&#x27;f for a long  
-reign.  
-A S courge .—Much of the country tri the north­  
-ward of tbe Island of Montreal, Canada, about St.  
-Eusiache, has been completely de\ p.st;tted by^tiu­  
-caterpillars and grass-hoppers.  
-M edical U ses of S alt .— In many cases of  
-disordered stomaeh, a &#x27; teaspoonfull of salt taken  
+  
+MEDICAL LSEs oF SALT. In many cases of  
+disordered stomach, a teaspoonfull of salt taken  
 three times a day is a certain cure. In the violent  
-internal aching termed cholic, add a imndfull of  
-Isalt to tt pint of cold w ater— drmk it, anti go to bed ;  
-j t j s one of the fifieediest remedies known. The  
-samemust be done on tlie ^trst symptom- of plague,  
-and will revive a person who seems dead front a  
-heavy fall; etc. In an apoplectic fit, no ime should  
-be tost in pouring salt and water down the throat ,  
-if sufficient sensibility remain to allow swallowing ;  
+internal aching termed cholic, add a handfull of  
+salt to a pint of cold water--drink it, and go to bed;  
+it is one of the speediest remedies known. The  
+same must be done on the first symptoms of plague,  
+and will revive a person who seems dead from a  
+heavy fall, etc. In an apoplectic fit, no ime should  
+be lost in pouring salt and water down the throat,  
+if sufficient sensibility remain to allow stvallowing;  
 if not, the head must be sponged with cold water  
-uètil the senses return, w hen salt and water will  
-completely restore tlie patient from hi» lethargy.  
-In the tit, the feet should be placed in warm water,  
-with mustard added, and the legs briskly rubbed,  
-all bandages removed from the neck, -.le., and a  
-cool apartment procured, if possible. In many  
-eases of severe bleeding at the lung*, when otRer  
-remedies fail. Dr. Rush fo.lnrl two teaspoonfuHs of  
-salt completely stayed the flow of Woo«l. in cases  
-of bite from a mail dog, wash the jmrt with strong  
-brine for an hour, then bind or some salt with a  
-rag. This prevents ill eimseqtjeßcs-&quot; El »d cares.  
-In toothache, warm salt iand wafer, held to the  
-part, and renewed two or three times, v.-iil relieve  
-in most cases. In scorbutic habite, use salt plenti­  
-fully, and a vegetable diet ; if&#x27; he gums be affected,  
-wash the month with brine; if &#x27;he teeth be covered  
+until the senses return, when salt and water will  
+completely restore the patient from hit lethargy.  
+In the fit, the feet should be placed in warm water.  
+with mustard added, and the legs brisitly rubbed;  
+all bandages removed from the neck,etc., and a  
+cool apartment procured, if possible. in many  
+cases of severe bleeding at the lungs, wthen other  
+remedies fail, Dr. Rush found two teaspoonfulis of  
+salt completely stayed the flow of blood In cases  
+of bite from a mad dog, wash the part tith strong  
+brine for an hour, then bind on some slt with a  
+rag. This prevents ill consequences, alid cures.  
+In toothache, warm salt and water, held to the  
+part, and renewed two or three times, Will relieve  
+in most cases. In scorbutic habits, use lt plent
+</td></tr></table>
+
+---
+
+## From _The daily crescent._
+
+#### 1848-07-12 &middot; [[New Orleans, La.]](http://dbpedia.org/resource/New_Orleans)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+fully, and a vegetable diet; if the gums be affected,  
+wash the mouth with brine if the teeth be covered  
 with tartar, wash them twice a day with salt and  
-water. In swelled riert, wash the 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_diglett_ver01%2Fdata%2Fsn82015378%2F0029587238A%2F1848071201%2F0040.jp2/pct:65.134529,66.284648,14.517937,21.655117/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+water. In swelled neck, wash th
+</td></tr></table>
 
 ---
 
@@ -579,6 +574,38 @@ of the body. For the relief ot the animal, thus af
 
 ---
 
+## From _The Charlotte journal._
+
+#### 1850-05-29 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+sensibility remain to allow swallowing; if nol  
+the head must be sponged with cold  
+until the sense return, when salt will com­  
+pletely restore the patient from the lethargy.  
+  
+The General Assembly of the presbyte a te fant houtd a led o warm
+</td></tr></table>
+
+---
+
+## From _The Charlotte journal._
+
+#### 1850-05-29 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+drink it, and go to bed; it is one of the speed­  
+iest remedies known. The same will revive
+</td></tr></table>
+
+---
+
 ## [From _The Madisonian._](https://chroniclingamerica.loc.gov/lccn/sn86074079/1850-05-30/ed-1/seq-1)
 
 #### 1850-05-30 &middot; [Canton, Miss.](http://dbpedia.org/resource/Canton%2C_Mississippi)
@@ -796,47 +823,123 @@ salt water.?[Scicntiiiic American.
 
 ---
 
-## [From _The Hillsborough recorder._](https://chroniclingamerica.loc.gov/lccn/sn84026472/1850-09-04/ed-1/seq-2)
+## From _The Hillsborough recorder._
 
 #### 1850-09-04 &middot; [Hillsborough, N.C.](http://dbpedia.org/resource/Hillsborough%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-is a certain rnre. In the violent internal  
+Mediral use of Sall.-in may cases of  
+disordered stomach, a tea-spoon full of salt  
+is a certain cure. In the violent internal  
 aching, termed cholic, add a tea-spoon full  
-of salt lo a pinl of cold water drink it  
-and go lo bed; it it one of the speediest  
-remedies known.&#x27; The same will revive  
+of salt to a pint of cold water--drink it  
+and go to bed; it is one of the speediest  
+remedies known. The same will revive  
 a person who seems almost dead from re­  
-ceiving a heavy fall. , &#x27;  
-; In an apoplectic fi no lime should be  
+ceiving a heavy fall.  
+In an apoplectic fit no time should be  
 lost in pouring down salt and water, if  
-suflieient sensibility remain to allow of  
-swallowing; if not, the head &#x27; must be  
+sufficient sensibility remain to allow of  
+swallowing; if not, the head must be  
 sponged with cold water until the sense  
-return, when sail will completely restore  
-the patient from ihe lethargy. ,  
-In a fit, the feel should be placed in  
-warm water, with mustard added; and ihe  
-legs&#x27; briskly rubbed, all bandage removed  
-from the ncrk, and a cool apartment pro  
-cured if possible. &quot; In many eases of se­  
+return, when salt will completely restore  
+the patient from the lethargy.  
+In a fit, the feet should be placed in  
+warm water, with mustard added; and the  
+legs briskly rubbed, all handage removed  
+from the neck, and a cool apartment pro  
+cured if possible. In many cases of se­  
 vere bleeding at the lungs, and when other  
-remedies fail.&#x27; Dr. Rush found two lea  
-spoons full of tall completely stayed the  
-blood. &#x27; &#x27; &#x27; &quot; .. ,,;. !  
+remedies fail. Dr. Rush found two tea  
+spoons full of salt completely stayed the  
+bood   e  a  
 In toothache, warm salt and water held  
-to the pari, and renewed, two or thne  
-times, will relieve in most cases. If ti e  
-j ,,.,I,S  
+to the part, and renewed, two or three  
+times, will relieve in most cases. If the  
+gums  
 be affected wash the mouth with  
-brine; if ihe teeth be covered wilh tartar,  
-Wah litem twice a day with salt water
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_hawk_ver02%2Fdata%2Fsn84026472%2F00416156360%2F1850090401%2F0347.jp2/pct:82.646547,61.142482,14.567615,17.728168/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+brine; if the teeth be covered with tartar,  
+wash them twice a day with salt water
+</td></tr></table>
+
+---
+
+## From _The Charlotte journal._
+
+#### 1850-09-18 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+MeDiCaL uSE of salT.  
+In many cases of disordored slomach, a  
+tea spoon full of salt is a certain cure. In the  
+  
+violent internal aching, termed cholic, add a  
+  
+tea spoon full of salt to a pint of cold water,  
+drink it and go to hed; it is one of the  
+peediest remedies known. The samo will  
+revive a person who seems aalmost dead from  
+receiving a heavy fall.  
+  
+In apopleclic fits no time must he  
+  
+pout
+</td></tr></table>
+
+---
+
+## From _The Charlotte journal._
+
+#### 1850-09-18 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Nol teHaii10 alow til Swallay tuni not l e    
+  
+the head must be sponged with cold water  ie e a a ee e io  
+  
+ticlay. His businers was very fatigning and  
+  
+the seatner or pessive, and the next morning  
+he was seized with the cholera while in the  
+  
+til the sense relurn, ahen salt will completely  
+  
+restore the patient from the lethargy.  
+In a fit, the fect should be placed in warm  
+  
+water, with mustard added; and the legs briske e a ee oi oa an  
+ly rubbed, all bandage removed froth the nosk,ee ie io o he  
+and a cool apartment procured if pusuble, a o oo iae o a  
+  
+In many cases of sovere b&#x27;eeding at the lungs, o  a e eoere api and  
+and when other remedics fail, D. Rush founo i o e i an e o  
+  
+two tea-spoons full of salt completely stayed e o e o a 
+</td></tr></table>
+
+---
+
+## From _The Charlotte journal._
+
+#### 1850-09-18 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+In toothache, warm salt and water held to  
+the part, and renewed, two or threo times,  
+will relieve in most cases. If the gums be  
+affected wash the mouth with brine; if the  
+teeth be covered with tartar wash them twice  
+a day with salt water.--Seientise Imeriean.
+</td></tr></table>
 
 ---
 
@@ -889,51 +992,65 @@ salt meat in injurious if used much.— Scien
 
 ---
 
-## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1851-01-25/ed-1/seq-2)
+## From _Sunbury American._
 
 #### 1851-01-25 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Mkdicai, Use of Salt. In many cases of  
+MEdicAl Use oF SALT. In many cases of  
 disordered stomachs, a teaspoonful of salt is a  
 certain cure. In the violent internal pain,  
-termed cliolic, a teaspoonful of salt, dissolved  
+termed cholic, a teaspoonful of salt, dissolved  
   
-in a pint of cold water, taken as soon as pos
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776026%2F1851012501%2F0210.jp2/pct:46.012592,45.372460,12.119622,2.948646/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+in a pint of cold water, taken as soon as pos  
+  
+Another  
+  
+PEpSIN, the Trne  
+  
+Juice! A great Dyspepsia Curer, prepare
+</td></tr></table>
 
 ---
 
-## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1851-01-25/ed-1/seq-2)
+## From _Sunbury American._
 
 #### 1851-01-25 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-dies known, The same will relieve a person  
-who seems almost dead from teceiving a  
+dies known. The same will relieve a person  
+who seems almost dead from receiving a  
 heavy fall.  
 In an apoplectic fit, no time should be lost  
-in pouring; down sail water, if sufficient sen­  
-sibility remains lo allow of swallowing;; if uolj  
-ihe head mutt be sponjjed wilh cold water  
-liulil the same returns, when the sail will  
-completely nstuie the patient from lliolethargy.  
+in pouring down salt water, if sufficient sen­  
+sibility remains to allow of swallowing; if not,  
+the head must be sponged with cold water  
+until the same returns, when the salt will  
+completely restore the patient foom the let  
   
-lu case of severe bleeding; at the lung!, and  
-when other remedies failed, Dr. Ktish, touud  
-that two teaspoonslul oi salt completely slav­  
-ed the blood. New York Courier
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776026%2F1851012501%2F0210.jp2/pct:46.082546,49.675508,12.259531,8.253386/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+In case of severe bleeding at the lungs, and  
+when other remedies failed, Dr. Rush, found  
+that two teaspoonsful of salt completely stay­  
+ed the blood.New York Courier,  
+  
+Mr. Bascrort, the historian, has estima­  
+ted that at least one-third of the white popu­  
+lation of the United States are directly de­  
+scended from the twenty-two thousand Puri­  
+tan emigrants who first settled New England.  
+A yound Lany once hinted to a gentleman  
+that her thimble was worn out, and asked  
+what reward she should receive for her in­  
+dustry. He made an answer the following  
+day, by sending her a new one with the fol­  
+lowing lines;  
+&quot;I send you a thimble, for fingers nimble,  
+Which I hope will fit when you try it
+</td></tr></table>
 
 ---
 
@@ -1007,33 +1124,6 @@ A MODEL EDITOR
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1851-02-01_30_1540/page/n3/mode/1up?view=theater)
-
-#### 1851-02-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-| pouring down salt water, if sufficient sensibility  
-  
-remains to allow of swallowing; if not, the head  
-  
-must be spnnged with cold water until the sense  
-retarns, when the salt will  
-lethargy.  
-In case of severe bleeding at the hwngs, and  
-found that  
-  
-completely restore the  
-jent from the
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-evening-post_1851-02-01_30_1540&#0036;3/pct:75.914229,29.977461,8.194814,2.659654/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## From _Vermont watchman and State journal._
 
 #### 1851-02-06 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
@@ -1041,63 +1131,133 @@ jent from the
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-jest jump to me, and ?ll take the conceit  
-&#x27;water, if sufficient sensibility remains to  
-lallow of swallowing:  
+jest jump to me, and I&#x27;ll take the conceit  
+water, if sufficient sensibility remains to  
+allow of swallowing;  
 if not, the head must  
-be sponged with cold water until the sense  
-returns, when the salt will completely res  
+ be sponged with cold water until the sense  
+returns, when the salt will completely re-  
 store the patient from the lethargy. In case  
 of severe bleeding at the lungs, and when  
-lother remedies failed, Dr. Rush found that  
-two teaspoontuls of salt coupletely stayed  
+other remedies failed, Dr, Rush found that  
+two teaspoontuls of salt completely stayed  
 the blood
 </td></tr></table>
 
 ---
 
-## [From _The Middlebury register._](https://chroniclingamerica.loc.gov/lccn/sn83025667/1851-02-19/ed-1/seq-1)
+## From _The Middlebury register._
 
 #### 1851-02-19 &middot; [Middlebury, Vt.](http://dbpedia.org/resource/Middlebury%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-fit, nn tiine should ba lost in pouring  
-ilu au sall watcr, if sudicicnt sensibility  
-rcmains tn allo.v of swallouiiig ; if not,  
+MEoicAl Use or SAnT.-In many  
+cases of disordered stomach, a tea-spoo.  
+ful of salt is a certain cure. In the vio­  
+lent internal pain, termed colic, a tea­  
+spoonful of salt, dissolved in a pint of  
+cold water, taken as soon as possible,  
+with a short nap immediately after, is  
+one of the most effectual and speedy  
+remedies known. The same will relieve  
+a person who seems almost dead from  
+receiving a heavy fall. In an apoplectic  
+fit, no time should be lost in pouring  
+down salt water, if sufficient sensibility  
+remains to allow of swallowing; if not,  
 the head must be sponged with cold  
-uater uu&#x27;.il the sense rcturus, wlien tho  
+water until the sense returns, when the  
 salt will completely restore the patient  
-from lellinray. In case nf severe bleed
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_irasburg_ver01%2Fdata%2Fsn83025667%2F00280777791%2F1851021901%2F0242.jp2/pct:85.448916,57.652903,11.164861,4.377523/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+from lethargy. In case of severe bleed­  
+ing at the lungs, and when other reme­  
+dies failed, Dr. Rush found that two tea  
+poonfuls of salt completely stayed the  
+blood. A tea-spoonful of salt is some­  
+times a cure for a severe headache.  
+The LuNGs.  The following simple  
+experiment is said to be a test of the  
+soundness of the lungs. Let the patient  
+deau to a fall broath and then hein t
+</td></tr></table>
 
 ---
 
-## [From _The Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn87070038/1851-03-06/ed-1/seq-2)
+## From _The Hillsborough recorder._
+
+#### 1851-02-26 &middot; [Hillsborough, N.C.](http://dbpedia.org/resource/Hillsborough%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+of disurdered stomach a tenspoonful of salt  
+is a certain cure. In the vialent internal  
+pain, termed colic, a teaspoonful of sait,  
+dissoived in a pint of coid water, taken as  
+soon as possible, with a short sap, imme­  
+diately after, is ene of the most effectual  
+and speedy remedies known. The same  
+will relieve a person who seeins almost  
+dead from receiving a heavy fall, in an  
+apoplectic fit, no time sheedd be tost in  
+pouring down salt and water, if sufficeint  
+sensibility remains to allow of swallow  
+ing; if not, the head must be sponged  
+with cold water until the senses return,  
+when the salt will completely vestore the  
+ o o eoe  
+patient from the lethargy. In case of  
+severe bleeding at the lungs, and when  
+other remedies failed. Dr. Rush found  
+that two teaspoonfuls of salt completely  
+stayed the blood
+</td></tr></table>
+
+---
+
+## From _The Lancaster gazette._
 
 #### 1851-03-06 &middot; [Lancaster, Ohio](http://dbpedia.org/resource/Lancaster%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-lime should be lout in pouring down salt  
-&#x27;water, if suflieienl sensibility remains to  
+Mspieat. Uss or DAnt.-In many  
+cases of disordored stomach, a tea spoon-  
+ful of salt is a certain cure. In the vio  
+lont internal pain, termed colic, a tea  
+ spoonful of salt, dissolved in a pint of  
+cold water, taken as soon as possible,  
+with a short nap immediately after, is one  
+of the most effectual and speedy remedies  
+known. The same will relieve a person  
+who seems almost dead from receiving  
+a heavy fall. In an apoplectic fit, no  
+time should be lost in pouring down salt  
+water, if sufficient sensibility remains to  
 allow of swallowing; if not, the head must  
 be sponged with cold water until the  
-sense returns, when the salt will com­  
-. plotely restore the puiiunt from lethar­  
+sonse returns, when the salt will com­  
+pletely restore the patient from lethar­  
 gy. In case of severe bleeding at the  
-lungs, and wheu other it-muiliys fuilod,  
-I)r. Kuan found lhallwo tea spoonfuls  
-ofaaltcompletly stayed the blood. . A le
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn87070038%2F00296028058%2F1851030601%2F0796.jp2/pct:5.241621,85.309243,12.977397,5.489924/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+lungs, and when other remedies failed,  
+De. Rusn found that two tea spoonfuls  
+of salt completly stayed the blood. A ten  
+spoonful of salt is sometimes a cure for  
+ a severe headache.  
+AMERICANS AT THE WOrLD&#x27;s FAin  
+Frazier&#x27;s Magazine communicates the  
+surprising information that 20,000 Amer  
+icans have socured biths to go to the  
+World&#x27;s Fair. There will be a consider  
+able addition to the rumber before the  
+exhibition closes.  
+  
+THE RAIROAd Bill. The bill pro  
+  
+vides under certain restrictions, that th
+</td></tr></table>
 
 ---
 
@@ -1858,88 +2018,144 @@ cureu, i
 
 ---
 
-## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1855-10-20/ed-1/seq-1)
+## From _The Ottawa free trader._
 
 #### 1855-10-20 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-i:i pour. 1. e, uow n salt anirwa&#x27;-er, it sulli,.ie:it  
-sens. biiily leinainsto a.lu-v swallowing; if  
-not, the head must bu sponged with cold wa­  
-ter utitil the senses return, when salt wiil  
-cuiuplel.&#x27;ly restore the patient fiooi the leth­  
-al L-V.  
-111 a 111. uiit ivi 1 ciiu&#x27;.ii&#x27;i tie- niuee-a III S4I HI  
-1 i . r.i ti - r....i . t .11 1. . 1. ...,i ! .  
-&#x27; water, with mustard added, and the leg.&#x27;  
-. l.i. .I....I ..II I  
-bnskiy rubbed, all bandages removed fruin  
-the lu ck, and a cool apui tincrit procured is  
+Medical Use of Salt.  
+In many cases of disordered stomach, a  
+teaspoonful of salt is a certain cure. In the  
+violent internal aching, termed cholic, take  
+a teaspoonful of salt and a pint of cold water;  
+drink it and go to bed, it is one of the spee­  
+diest remedies known. The same will revive  
+a person almost dead from receiving a heavy  
+fall, &amp;c.  
+In an apolectic fit, no time should be lost  
+in pouring down salt and water, if sufficient  
+sensibility remains to allow swallowing; if  
+not, the head must be sponged with cold wa­  
+ter until the senses return, when salt will  
+completely restore the patient from the luth­  
+algy.  
+I a , t et Sliould tt placet it aI il  
+oae the aot chenld he aned i  
+water, with mustard added, and the legs  
+eel ollred oll   
+briskly rubbed, all bandages removed from  
+the neck, and a cool apartment procured is  
 possible. In any cases of severe bleeding at  
-the lungs, and when other remedies failed  
-Ur. Kush found that two teaspooulul.s of salt  
-completely stayed tile blood.  
-In o.u uf a bite from a nul-d g, wash  
-tho patt with strong brine for an hour, and  
-bind on s iiin- salt w itli a rig.  
-In toothache, warm sail and water held  
-to the part, and ii timed two or three times,  
-w l. ruhivo in most ca-es. If the gums I 0  
-allected, wash thu mouth with brine; if the  
-teeth bo covered with tartar, wash them  
-tw ice a day with salt and water.  
-In bwuiled neck, wash the part with biine,  
-and diinK il twice a day until cured.  
-Salt will expel worms, if used iu tho food  
+the lungs, and whon other remedies failed  
+Dr. Rush found that two teaspoonfuls of salt  
+completely stayed the blood.  
+In case of a bite from a mad-dog, wash  
+the part with strong brine for an hour, and  
+bind on some salt with a rag.  
+In toothache, warm salt and water held  
+to the part, and renewed two or three times,  
+will relieve in most cases. If the gums be  
+affected, wash the mouth with brine; if the  
+teeth be covered with tartar, wash them  
+twice a day with salt and water.  
+In swelled neck, wash the part with brine,  
+and drink it twice a day until cured.  
+Salt will expel worms, if used in the food  
 at a moderate degree, and aids digestion;  
-but salt meat is injurious if used much
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn84038582%2F00212472062%2F1855102001%2F0267.jp2/pct:73.366575,51.068265,11.433975,12.376238/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+but salt meat is injurious if used much.  
+deientific merican.  
+Chinese Mode of Treating Cholera  
+The Chinese Missionary writes to the  
+CI-  
+cilta Cuttolica, of July 12th, as follows:  
+One morning after having said mass, I  
+felt symptoms of the cholera. I had a difll­  
+culty of breathing almost amounting to suf­  
+focation. A cold so intense took possession  
+of my arms and legs that I could not feel a  
+hot iron applied to them. Just then a Chi­  
+nese Christian came in to see me, and as  
+soon as he looked at me he said, &quot;Father
+</td></tr></table>
 
 ---
 
-## [From _American Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn85026105/1855-10-25/ed-1/seq-1)
+## From _American Lancaster gazette._
 
 #### 1855-10-25 &middot; [Lancaster, Ohio](http://dbpedia.org/resource/Lancaster%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-; , - Jrlcdlcal ust; of . Salt. i, ,v.  
+Ah, very little-nothing that could warm water with mustard added, and the  
+make the slightest differenceere miere tri leg briskly rubbed, all bandages removed  
+eee   oe o te e a a o ae e­  
+A mere trifte! Well, aven that will cured if posstble.. In many ensesofe  
+The nimnencee bein o te an an en o­  
+of the peril gave our sronaut presencs ofe ei a  e on to te  
+in a  e  aeoe o e e e  
+dead. I saw her lastweek near Belfast. In cas ofa bite from a mad dog was  
+She is living with a family who love her the part with strong brine for an hour  
+  
+and treat her as their own. In a very short  
+time, if you will allow us to descend, you  
+will meet her.&quot; &quot;The madman looked at  
+him with a wild doubting gaze. Ttease?  
+&quot;Yes,&quot; continued Brown eagerly, anx­  
+ious to confirm the impression he had made  
+tyou fuill see her, your darling little  
+Emma, running to meet you withg out  
+stretched arms, and her fair, golden curls  
+the ind  idoe  
+waving in the wind.  
+air wa
+</td></tr></table>
+
+---
+
+## From _American Lancaster gazette._
+
+#### 1855-10-25 &middot; [Lancaster, Ohio](http://dbpedia.org/resource/Lancaster%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+ Medical use of Salt lerovee  
 In many cases of a disordered stomach  
-a teaspoonful of salt; is a certain,cure., riln  
-the violent inleinnl aohlhg, termed cholio,  
-add a tesspootful of salt lo a pint oftcold  
-water.fjrink; it and go to bed it is one  
-of, fhe speediest remedies, knojtn.&#x27;; The  
-same v will revive a person who seems al­  
-most Jead; from, receiving ,n rery.heavy  
-falh-nU .f ji .vV&#x27;.it!--&#x27;!.&#x27; ili ,.! -.--i  
-. In flu apoplectic fit, no time should be  
+a teaspoonful of salt is a certain cure.In  
+the violent internal aching, termed cholic,  
+add a teaspoonful of salt to a pint ofecold  
+water--drink it and go to bed,--it is one  
+of the speediest remiedies, known. The  
+same will revive a person who seems al­  
+most dead from receiving a very heavy  
+fall,  la at zi hat, poasdruisth adt of son  
+In fin apoplectic fit, no time should be  
 lost in pouring down the salt and water, if  
-suffioient ; sensibility . remain to ; allow of  
-swallowing;) it , not,; tbo ; bead . must be  
-sponged with. cold Water until (.the senss  
-return, when., salt will completely restore  
-... . . . i . i  
-men pica on aome w.to rag.  
+sufficient sensibility remain to allow of  
+swallowing; if not, the thead must be  
+sponged with cold water, until the sense  
+return, when salt will completely restore  
+eooao a e a  
+then bind on Some Shit with AEag.  
 In toothache, warm salt and water held  
-to, ..thf .part,nd,renewd;4wo Cf, three  
-times, will reljeve in most, oases: Jf the  
-gums, be AfJacted wash tlve mouth wKli  
-brine; , if; the. teeth be, ootwed itb tartar  
-wash theffi twice a day with salt and wa­  
-ter. -  
-Ia -awaited neck. wash ttlie.- part t with  
-briaet Wr4, drink ft tw.i0.&quot; fVi d
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn85026105%2F00296028046%2F1855102501%2F0646.jp2/pct:43.157895,73.191663,13.056325,20.351451/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+to the part, and renewed two or three  
+times, will relieve in most cases. If the  
+gums he affected wash the mouth with  
+brine; if the teeth be covered with tartar  
+wash them twice a day with salt and wa­  
+ter.  
+Insswelled neck, washethe part with  
+brine, and drink it twice a day  
+Salt will expel worms if used in food in  
+a moderate degree, and aids digestion, but  
+salt meat is injurious if used much,Scien-  
+  
+  
+weeppesaespahioenapoephsestr tertutaros
+</td></tr></table>
 
 ---
 
@@ -2240,25 +2456,25 @@ erate degree, and aids digestion, but salt meat is kindly and perverse as that o
 
 ---
 
-## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1856-08-09/ed-1/seq-2)
+## From _Sunbury American._
 
 #### 1856-08-09 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Medical Use op Salt. In many cases of  
-disordered stomach, a tenspoonl&#x27;iil or salt is  
-a cetain cure. In the violent internal aching,  
+MEDiCAL Use or SALr. In many cases of  
+disordered stomach, a teaspoonful of salt is  
+a cetain cure. In the violent internal aching.  
 termed cholic, add a teaspoonful of salt to a  
-pint of col J water; drink it and go to bed ;  
+pint of cold water; drink it and go to bed;  
 it is one of the speediest remedies known.  
-Tho same will revive a person who seems  
-almost dead from receiving a heavy full, &amp;c.  
-In an apoplectic fit, no timo should be lost  
-in pouring.down salt ond water, if sufficient  
-sensibility remuin to allow of swallowing; if  
-cot, the heud must be sponged with cold water  
+The same will revive a person who seems  
+almost dead from receiving a heavy fall, &amp;c.  
+In an apoplectic fit, no time should be lost  
+in pouring down salt and water, if sufficient  
+sensibility remain to allow of swallowing; if  
+not, the head must be sponged with cold water  
 until the sense returns, when salt will com­  
 pletely restore the patient from the lethargy.  
 In a fit, the feet should be placed in warm  
@@ -2266,28 +2482,28 @@ water, with mustard added, and the legs
 briskly rubbed, all bandages removed from  
 the neck, and a cool apartment procured, if  
 possible. In many cases of severe bleeding  
-at the lungs, and when other remedies fuiled,  
-Dr. Rush found that two teuspoonsful of salt  
-completely stayed the blood. Jn case of a  
+at the lungs, and when other remedies failed,  
+Dr. Rush found that two teaspoonsful of salt  
+completely stayed the blood. In case of a  
 bite from a mad dog, wash the part with a  
-strong brine for on hour, and then bind on  
-some suit with a rag. In toothache, warm  
-suit and water held to the part, and removed  
+strong brine for an hour, and then bind on  
+some salt with a rag. In toothache, warm  
+salt and water held to the part, and removed  
 two or three times, will relieve it in most  
-cases. H tho gums be affected, wush the  
-mouth with briuq. If the toeth be covered  
-with tartar, wash them twice a duy with salt  
-eud water Iu swelled neck, wash the part  
-with brine, and Uriuk it, also, twice a day,  
+cases. If the gums be affected, wash the  
+mouth with brine. If the teeth be covered  
+with tartar, wash them twice a day with salt  
+and water. In swelled neck, wash the part  
+with brine, and drink it, also, twice a day,  
 until cured.  
 Salt will expel worms, if used in food in a  
-moderate degree, and aids digestion, but suit  
-meat is injurious, if used much. Ex.  
-A very flue young mare, belonging to Dr
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776038%2F1856080901%2F0266.jp2/pct:4.535479,71.579827,12.710315,18.584564/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+moderate degree, and aids digestion, but salt  
+meat is injurious, if used much.-Er.  
+A very fine young mare, belonging to Dr.  
+James S. Dougal, of this place, in coming up  
+on the other side of the river, a few days ago,  
+ran against a cow, and breaking the shafts o
+</td></tr></table>
 
 ---
 
@@ -2328,57 +2544,55 @@ salt and water .—Mtdiad Joormd.
 
 ---
 
-## [From _The independent press._](https://chroniclingamerica.loc.gov/lccn/sn93067882/1856-08-15/ed-1/seq-2)
+## From _The independent press._
 
 #### 1856-08-15 &middot; [Abbeville C.H., S.C.](http://dbpedia.org/resource/Abbeville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-IVZeJicai Use o 1 Salt.  
-In many cases of disordered stomach, a j  
-| teaspouiiful of salt is a certain cure. In the ;  
-j violent internal aching, termed cliulic, add j  
-a teaspoonful of salt to a pint of colli water;  
-drink it and go to bed ; it is one of  
-i the speediest remedies known. The same |  
-i will revive a person who seems almost dead i  
-I from n?f?f&#x27;ivm?r ;i Iio.&#x27;ivv i&#x27;,)l A-.. 1.. &gt;., n.&lt;_l  
   
-oplectic fit, no time should bo lost in pouring  
-down salt and water, if sufficient sensibility  
-remain to allow of .swallowing; if not,!  
-the head nmst be sponged with cold wattir  
-until the sense returns, when salt will complctely  
+Medical Use of Salt.  
+In many cases of isordered stemach, a  
+teaspoonful of salt is a certain cure. In the  
+violend interual aching, terruel cholis, ald  
+a ten poonful of salt to a pint of coll wa  
+drink it and go to bed; it is one of  
+the speediest remedics known. The rame  
+will revive a person who seems almost dead  
+from receiving a heavy fall, Ec. In an ap  
+  
+eplectie fit, no tine should he lost in pour  
+down salt and water if suileient ensti  
+remain to allow of swallowing; if not,  
+the head must be sponged with cold water  
+aniil the rense roturns when ralt will com  
 restore the patient from the lethargy.  
-In a lit, the feet should he placed in warm  
+In a fit, the feet should be placed in warm  
 water, with mustard added, and the legs  
-hrisklv rubbed, all bandages removed from  
+briskly rubbed, all bandages removed from  
 the neck, and a cold apartment procured,  
-if possible. In many cases of Severe bleeding  
-of the lung.-, ami when other remedies  
-failed, l)r. Rush found that two teaspoonfuls  
-of salt completely stayed the blood. Tn  
+i persitic. In many cases of aevere lfced  
+of the lungs, and when other remedies  
+fatlel. Te fush found that two fenspoon  
+of salt completely stayed the blood. In  
 case of a bite from a mad dog, wash the  
 part with a strong brine for an hour, and  
 then bind on some salt with a rag. In  
   
-i looinacne, wanii, sail an.i water liehl to llie  
-&#x27; pail, ami 10moved two or three times, will  
-relieve it. in most eases. It* the gums bo  
-allWted, wash the month with brine. If  
-the teeth he covered with tartar, wash them  
-twice a tlay with salt and water. In swelled  
+toothache, warm, salt and water held to the  
+part, and removed two or three times, will  
+relieve it in most cases. If the gums be  
+affected, wash the mouth with brine. If  
+the feeth be covered with tartar, wash them  
+twice a day with salt and water. In swelled  
 neck, wash the part with brine, and drink  
-it, also, twice a da}&#x27;, until cured.  
+it, also, twice a day, until cured.  
 Salt will expel worms, if used in food in  
 a moderate degree, and aids digestion, but  
   
-salt meat is injurious, if used much.?Kx
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_idacox_ver02%2Fdata%2Fsn93067882%2F0020219428A%2F1856081501%2F0403.jp2/pct:35.469725,52.270605,17.850115,23.113488/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+salt meat is injurious, if used much.Er
+</td></tr></table>
 
 ---
 
@@ -2390,32 +2604,32 @@ salt meat is injurious, if used much.?Kx
 
   
 Medical use of Salt.  
-I many cases of disordered stom  
+I many cases of disordered stom­  
 ach, a teaspoonful of salt is a certain  
 cure. In the violent internal aching,  
 termed colic, add a teaspoonful of  
 salt to a pint of cold water; drink  
-it and go to bed; it is one the of spe  
+it and go to bed; it is one the of spe­  
 diest remedies known. The same  
-will revive a person who seems al  
+will revive a person who seems al­  
 most dead from receiving a heavy  
-fall, c.  
+fall, &amp;c.  
 In an apoplectic fit, no time should  
 be lost in pouring down salt and wa  
 er, if sufficient sensibility remain to  
 allow of swallowing; if not, the  
-head must be sponged with cold wa  
+head must be sponged with cold wa­  
 ter until the senses return, when salt  
 will completely restore the patient  
 from the lethargy.  
 In a fit, the feet should be placed  
 in warm water, with mustard added,  
-and the legs briskly rubbed, all band  
+and the legs briskly rubbed, all band­  
 ages removed from the neck, and a  
-cool apartment procured, if possibl.  
+cool apartment procured, if possible  
 In many cases of severe bleeding at  
 the lungs, and when other remedies  
-fail, Dr. Rush found that two tea  
+fail, Dr. Rush found that two tea­  
 spoons full of salt completely stayed  
 the blood.  
 In case of a bite from a mad-dog,  
@@ -2435,66 +2649,56 @@ a day, until cured.
 Salt will expel worms, if used in  
 food in a moderate degree, and aids  
 digestion, but salt meat is injurious,  
-if used much.  
-ulting Huy. This practice  
-we have reason to thinkis greatly  
-overdone. Two puarts of fine salt  
-to each ton of hay, scattered through  
-it, is sufficient. It is a wasteful  
-thing to get hay in half made an
+if used much
 </td></tr></table>
 
 ---
 
-## [From _Houma Ceres._](https://chroniclingamerica.loc.gov/lccn/sn83026391/1856-08-23/ed-1/seq-3)
+## From _Houma Ceres._
 
 #### 1856-08-23 &middot; [Houma, Parish of Terrebonne, La.](http://dbpedia.org/resource/Houma%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-IMaICAL. Use or SA.T.-In many ca.  
-,sea of disordered stomach, a teaspoonful  
-I of salt is a certain cure. In the violent  
+ses of disordered stomach, a tonsnoenfiil  
+ses of disordered stomach, a teaspoonfel  
 internal aching, termed cholic, add a tea­  
 spoonful of salt to a pint of cold-water;  
 drink it and go to bed; it is one of the  
 speediest remedies known. The same  
 will revive a person who seems almost  
-dead from receiving a heavy fall, &amp;c. In  
+dead from receiving a heavy fall, rc. In  
 an apoplectic fit no time should be lost in  
-pouring down sait and water, if sufficient  
-sensibility remains to allow ofswallowing;  
-if not the head must Ie sponged with cold  
+pouring down salt and water, if sufficient  
+sensibility remains to allow of swallowing;  
+if not the head must he sponged with cold  
 water until the sense returns, when salt  
 will completely restore the patient from  
 the lethargy. In a fit, the feet should be  
-placed in warm.water, with mustard  
+placed in warm-water, with mustard  
 added, and the legs briskly rubbed, all  
 bandages removed from the neck, and a  
 cool apartment procured, if possible. In  
-many caes of severe bleeding at the  
+many cases of severe bleeding at the  
 lungs, and when other remedies failed,  
-Dr. Rush found that two teaspoonsfil o  
+Dr. Rush found that two teaspoonsful o  
 salt completely stayed the blood. In case  
 of a bite from a mad dog, wash the part  
 with a strong brine for an hour, and then  
 bind on some salt with a rag. In tooth­  
-ache, warm salt and water he4to the part,  
-and removed two or three times, will re.  
-lieve itin most cases. If the gums be  
-affected. wash the mouth with brine. I  
+ache, warm salt and water held, to the part,  
+and removed two or three times, will re-  
+lieve it in most cases. If the gums be  
+affected wash the mouth with brine. I  
 the teeth be covered with tartar, wash  
 them twice a day with salt and water. In  
 swelled neck, wash the part with brine,  
 and drink it, also, twice a day until cured.  
 Salt will expel worms, if used in food in a  
 moderate degree, and aids digestion, but  
-salt meat i; injurious, if used much.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_gonne_ver01%2Fdata%2Fsn83026391%2F00202190108%2F1856082301%2F0225.jp2/pct:20.254630,4.912281,18.472222,25.657895/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+salt meat is injurious, if used much.
+</td></tr></table>
 
 ---
 
@@ -2753,82 +2957,81 @@ if used much
 
 ---
 
-## [From _Indiana American._](https://chroniclingamerica.loc.gov/lccn/sn84023881/1857-03-20/ed-1/seq-1)
+## From _Indiana American._
 
 #### 1857-03-20 &middot; [Brookville, Ind.](http://dbpedia.org/resource/Brookville%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-led leal UM of tail.  
-In many cases of diaordere) stomach, a  
+edical Use of Sais.  
+In many cases of disordered stomach, a  
 teaspoonful of salt is a certain cure. In  
-tho violent internal aching termed cholir,  
-add a tcaspnnr.ful of salt to a pint of cold  
-water; drink it and go to bed; it is ono of  
-tho speediest cures known. The same  
-will revive u person who seema almost  
-dead from a heavy fall, dec. In an apo­  
-plectic fit, no timo should be lost in pour­  
-ing down salt .voter, if sufficient sensibili­  
-ty remains to allow of iwallowing; if not,  
+the violent internal aching termed cholic,  
+add a teaspoonful of salt to a pint of cold  
+water; drink it and go to bed; it is one of  
+the speeaiest cures known. The same  
+will revive a person who seems almost  
+dead from a heavy fall, &amp;c. In an apo­  
+plectic fit, no time should be lost in pour­  
+ing down salt water, if sufficient sensibili­  
+ty remains to allow of swallowing; if not,  
 the head must be sponged with cold water  
-until tho sense returns, when salt will  
-&#x27; completely restore the patient from lethar  
+until the sense returns, when salt will  
+ completely restore the patient from lethar  
 gy. In a fit, the feet should be placed in  
 hot water, with mustard added, and the  
-lege briskly rubbed, all bandages removed  
+legs briskly rubbed, all bandages removed  
 from the neck, and a cool apartment  
-procured, if powible. In many cases of  
+procured, if possible. In many cases of  
 severe bleeding at the lungs, and when  
 other remedies failed, Dr. Rush found that  
-two tcaapoonfula of salt completely stayed  
+two teaspoonfuls of salt completely stayed  
 the blood. In case of a bite from a mad  
 dog, wash the part with a strong brine for  
-au hour, aud then bind on some salt with  
+an hour, and then bind on some salt with  
 rag. In toothache, warm salt and water  
-&#x27; held to the part, and removed two or three  
-times, will relieve it in most cases. If tho  
-gums bo affected, wash the month with  
-brine. If tho teeth be covered with tartar,  
+held to the part, and removed two or three  
+times will relieve it in most cases. If the  
+gums be affected, wash the mouth with  
+brine. If the teeth be covered with tartar,  
 wash them two or three times a day with  
-Mit and water
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_gary_ver01%2Fdata%2Fsn84023881%2F0020219137A%2F1857032001%2F0289.jp2/pct:56.675186,73.320634,10.003651,18.327652/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+salt and water
+</td></tr></table>
 
 ---
 
-## [From _The home journal._](https://chroniclingamerica.loc.gov/lccn/sn97065087/1857-03-27/ed-1/seq-1)
+## From _The home journal._
 
 #### 1857-03-27 &middot; [Winchester, Tenn.](http://dbpedia.org/resource/Winchester%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+MedicaL Use or SAlr.- In many cases  
+of disordered stomach, a teaspoonful of  
 salt is a certain cure. In the violent in­  
 ternal aching termed cholic, add a tea­  
 spoonful of salt to a pint of cold water;  
 drink it and go to bed; it is one of the  
-speediest cures kijown. The same will  
+speediest cures known. The same will  
 revive a person who seems almost  
 dead from a fall, &amp;c. In an apoplectic  
-fit, no time should bo lost in pouring  
-down salt and water, if suHicicnt sen­  
+fit, no time should be lost in pouring  
+down salt and water, if sufficient sen­  
 sibility remains to allow swallowing;  
 if not, the head be sponged with cold  
 water until the senses return, when  
 salt will completely restore the patient  
 from the lethargy. In a fit, the feet  
 should be placed in hot water, with  
-mustard added, and tho legs briskly  
-rubb?d, all bandages removed from the  
+mustard added, and the legs briskly  
+rubbed, all bandages removed from the  
 neck, and a cool apartment procured, if  
-possible. Iu many cases of severe  
+possible. In many cases of severe  
 bleeding at the lungs, and when other  
 remedies failed, Dr. Rush found that  
-two tcaspoonfuls of salt completely  
+two teaspoonfuls of salt completely  
 stayed the blood. In case of a bite  
 from a mad dog, wash the part with a  
 strong brine for an hour, and then bind  
@@ -2837,13 +3040,10 @@ ache, warm salt and water held to the
 part, and removed two or three times,  
 will relieve it in most cases. If the  
 gums be affected, wash the mouth with  
-brine. If the tooth bo covered with  
+brine. If the teeth be covered with  
 tartar, wash them twice a day with  
 salt and water
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065087%2F00212470478%2F1857032701%2F0233.jp2/pct:63.171717,16.770439,15.171717,25.663238/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -2924,6 +3124,49 @@ wash them twice a day with salt and water
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn83045450%2F00296022767%2F1857040101%2F0103.jp2/pct:22.040614,61.091135,14.743272,12.734036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The weekly Panola star._
+
+#### 1857-05-20 &middot; [Panola, Miss.](http://dbpedia.org/resource/Sardis%2C_Mississippi)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+mfust he sponged with cold water thil  
+the sense feiuth, when sall will cuti  
+etely restore the paticht from the  
+etharsy.  
+In a fit, the feet should be placed  
+in warm water, with mustard atdided,  
+id the legs briskly rubbed, all bat  
+dages removed from the neck and a  
+coul apariment procured, if possible  
+In many cases of severe bleeding at  
+the lungs, and when other remedies  
+fail, Dr. ush found that two teaspoon  
+fulls of salt completely stayed the  
+blond.  
+In ease of a bite from a mad dog,  
+wash the part with a strong brine for  
+an hour, and then bind on some salt  
+ith a rar.  
+In toothache, warm salt and water  
+held to the part, removed two or three  
+times, will remove it in most cases.  
+If the gums be affected, wash the  
+mouth with brine. If the teeth be  
+covered with tartar, wash them twice  
+a day with salt and water.  
+In swelled neck, wash the part with  
+brine, and drink it, also, twice a day,  
+until cured.  
+Salt will expel worms, if used in  
+food in a moderate degree, and aids  
+ligestion, but salt meat is injurious,  
+when used much
+</td></tr></table>
 
 ---
 
@@ -3284,30 +3527,52 @@ is injurious, if used much.
 
 ---
 
-## [From _Oxford Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83009653/1857-10-02/ed-1/seq-1)
+## From _Oxford Democrat._
 
 #### 1857-10-02 &middot; [Paris, Me.](http://dbpedia.org/resource/Paris%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-wti&#x27; ii nalt will completely rcftora the patient  
+MedicAL Use or SaLr. In many cases  
+f disordered stomach, a tea-spoonful of salt  
+is a certain cure. In the violent internal  
+aching, termed cholic, add a teaspoonful of  
+salt to a pint of cold water; drink it and  
+to to bed; it is one of the speediest reme-  
+dies known. The same will revive a person  
+who scems almost dead from receiving a  
+heavy fall, &amp;c.  
+In an apoplectic fit, no time should be  
+lost in pouring down salt and water, if sul­  
+int sensibility remain to allow of swal­  
+lowing; if not, the head must be sponged  
+with cold water until the sense returns,  
+when salt will completely restore the patient  
 from the lethargy.  
-In u tit, the feet nhould I** placed in warm  
-water, with mustard added, and the leg#  
-• -ri&gt;»kljr ruh&#x27; ■ &lt;!, all lundagee tenoird from  
-the ncck, and a cool upurtmcnt procured,  
-if ]• v«ible. Iii tunny cm* 4 of erven bleed*  
-in^ at the Iuti^«, and when other maedi&gt;-«  
-failed, Dr. Ku»h found that two toaipoon*­  
-fal of i^lt completely itajred the hlood.  
-In of u lute from n mad dog, wa«h  
-llir | &gt;rt with a ctrong brine for an hour,  
-an 1 then bind on eome eolt with a rag
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_allagash_ver02%2Fdata%2Fsn83009653%2F00279523970%2F1857100201%2F0580.jp2/pct:29.861558,81.149763,12.481219,7.887207/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+In a fit, the feet should be placed in warm  
+water, with mustard added, and the legs  
+briskly rubbed, all bandages removed from  
+the neck, and a cool apartment procured,  
+if possible. In many cases of severe bleed-  
+ing at the lungs, and when other remedies  
+failed, Dr. Rush found that two teaspoons­  
+ful of salt completely stayed the blood.  
+In case of a bite from a mad dog, wash  
+the part with a strong brine for an hour,  
+and then bind on some salt with a rag.  
+In toothache, warm salt and water held  
+to the part, and removed two or three times,  
+will relieve it in most cases. If the gums  
+be affected, wash the mouth with brine. If  
+the teeth be covered with tartar, wash them  
+twice a day with salt and water.  
+In swelled neck, wash the part with brine,  
+and drink it, also, twice a day, until cured.  
+Silt will expel worms, if used in food in  
+a moderate degree, and aids digestion, but  
+salt meat is injurious, if used much
+</td></tr></table>
 
 ---
 
@@ -3328,10 +3593,9 @@ fit. no time should be lost in pouring down
 salt and water, if the patient can ewallow ; if  
   
 not, the head must be sponged well with cold  
-water until the senses return, when salt will  
-completely restore the patient from lethargy
+water until the senses return, when salt wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-evening-post_1857-11-07_1893&#0036;3/pct:24.697802,83.294574,13.228022,5.813953/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-evening-post_1857-11-07_1893&#0036;3/pct:24.697802,83.294574,13.228022,5.348837/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3503,30 +3767,6 @@ prisoned the Spirits of Washington and Jackson, whos
 
 ---
 
-## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1858-01-02/ed-1/seq-1)
-
-#### 1858-01-02 &middot; [Auburn, Placer County, Calif.](http://dbpedia.org/resource/Auburn%2C_California)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-is a certain cure for the colie. Put a tea­  
-spoonful of salt in a pint of cold water, drink  
-it, and then go to bed. The same will re­  
-lieve a person who has had a heavy fall.—  
-In an apoplectic fit no time should he lost,  
-in pouring down salt and water if the patient  
-can swallow: if not, the head must do sponged  
-well with cold water until the senses return  
-when the salt will completely restore the pa  
-tient from lethargy. Salt wille xpel worms, i
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557967%2F1858010201%2F0213.jp2/pct:47.921296,88.808331,14.722222,5.760612/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Red Wing sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025569/1858-01-16/ed-1/seq-6)
 
 #### 1858-01-16 &middot; [Red Wing, M.T. [i.e. Minn.]](http://dbpedia.org/resource/Red_Wing%2C_Minnesota)
@@ -3659,11 +3899,9 @@ apoplectic fit, no time should be lost in
 pouring down salt and water, if the pa­  
 tient can swallow if not, his head  
 must be sponged well with cold water  
-until the senses return, when Bait will  
-completely restore the patient from  
-lethargy. Salt will expel worms, i
+until the senses return, when Bait wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn84027253%2F00279528517%2F1858013001%2F0104.jp2/pct:86.186620,61.519858,11.278195,7.795790/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn84027253%2F00279528517%2F1858013001%2F0104.jp2/pct:86.186620,61.519858,11.278195,6.726373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3947,6 +4185,43 @@ In swelled neck, wash the part in brine twic
 
 ---
 
+## From _The weekly Panola star._
+
+#### 1860-05-24 &middot; [Panola, Miss.](http://dbpedia.org/resource/Sardis%2C_Mississippi)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+lungs, and when  
+Hush found two sn  
+taved the biond,  
+ayors  
+watits  
+is of  
+dine  
+at the  
+her  
+lies fatled  
+Le  
+salt completely  
+In case of a bit  
+bite fr.  
+om a mad dog, wash  
+the part with at  
+brine for an hour;  
+t  
+n bind on salt with a rag.  
+In toothache, salt and warm water held  
+to the part, and renewed two or three  
+times, will relieve in most cases. If the  
+gums be affected, wash the mouth with  
+rine; if the teeth be tartared, wash them  
+twice a day with salt water.  
+In swelled neck, wash the part with brin
+</td></tr></table>
+
+---
+
 ## [From _The Lancaster ledger._](https://chroniclingamerica.loc.gov/lccn/sn84026900/1860-05-30/ed-1/seq-1)
 
 #### 1860-05-30 &middot; [Lancaster, S.C.](http://dbpedia.org/resource/Lancaster%2C_South_Carolina)
@@ -3956,14 +4231,21 @@ In swelled neck, wash the part in brine twic
   
 Medical Use of Salt.  
 | In many cases of disordered stomach,  
-a teaspoonlul nf sail is a eeriain cure. It:  
-j the violent internal n-hing, termed colie,  
-old a le sponiitiil ot sail to a pint of cold  
-; water? drink it and gt) to bed ; it is m e  
-if the speed :eat r&lt; medics known. The  
+a teaspoonlul nf sail is a eeriain cure. It
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_irmookrastrut_ver01%2Fdata%2Fsn84026900%2F00295862646%2F1860053001%2F0933.jp2/pct:70.057962,42.566073,13.753305,2.087942/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Lancaster ledger._](https://chroniclingamerica.loc.gov/lccn/sn84026900/1860-05-30/ed-1/seq-1)
+
+#### 1860-05-30 &middot; [Lancaster, S.C.](http://dbpedia.org/resource/Lancaster%2C_South_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
   
-otiuo win revive ? !?* who seems almost  
-j bead from ? 11*-.%vv l?ll  
 lu an apoplectic tit, no time should Ini  
 osi iti nouiing down sait and water it&#x27;  
 I si.tticieul sensibility remain lo allow the  
@@ -3992,7 +4274,7 @@ I tio in twice a day wiih salt water.
 In swelled neck, wash the part with  
 brine twice a day until cured
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_irmookrastrut_ver01%2Fdata%2Fsn84026900%2F00295862646%2F1860053001%2F0933.jp2/pct:70.027456,42.566073,14.149888,21.220942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_irmookrastrut_ver01%2Fdata%2Fsn84026900%2F00295862646%2F1860053001%2F0933.jp2/pct:70.027456,47.902356,14.149888,15.884659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4051,6 +4333,43 @@ tion ; but salt meat is injurious if use
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn85054845%2F00212477655%2F1860071901%2F0657.jp2/pct:61.079635,31.704545,14.353163,24.507576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _Dayton daily empire._
+
+#### 1863-02-27 &middot; [Dayton [Ohio]](http://dbpedia.org/resource/Dayton%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+of  
+A  
+shall  
+says that in many cases  
+of disordered stomach, a teaspoonful of salt  
+certain cure. In a violent internal pain  
+termed cholic, a teaspoonful of salt dissolved  
+n a pint of cold water taken issoon as  
+possible, with a shortinap immediately after,  
+is one of the mast effectual and speedy reme­  
+dies known. The same will revive a person  
+ho seems almost dead from a very heavy fall.  
+In an appoplecric fit, no time should be lost  
+n pouring downaalt water, if suflictent sensi  
+bility remain to allow of swallowing; if not,  
+the head must be sponged with cold water,  
+until the senses return, when salt will com-  
+pletely restore the patient from the lethargr  
+n a fit the feet should be placed inwarm  
+water, with mustard added, and the lega briskly  
+rubbed; all oandages removed from the neck,  
+and a cool aperient procured if possible. In  
+cases of severe blecding at the lungs, when  
+other remedies failed, Dr. Rush found that  
+two teaspoonsful of salt completely stayed the  
+blood,
+</td></tr></table>
 
 ---
 
@@ -4272,69 +4591,89 @@ completely stayed the blood.
 
 ---
 
-## [From _The Vermont transcript._](https://chroniclingamerica.loc.gov/lccn/sn84023246/1865-03-10/ed-1/seq-1)
+## From _The Vermont transcript._
 
 #### 1865-03-10 &middot; [St. Albans, Vt.](http://dbpedia.org/resource/St._Albans_(town)%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-down snlt water, if sufficient sensibil­  
+MEDICAL USE OF SALT. The Medical  
+World says, in many cases of disor­  
+dered stomach, a tablespoonful of salt  
+is a certain cuer. In a violent intern­  
+al pain termed colic, a teaspoonful of  
+salt, dissolved in a pint of cold water,  
+taken as soon as possible, with a  
+short nap immediately after, is one of  
+the most effectual and speedy reme­  
+dies known. The same will relieve a  
+person who seems almost dead from a  
+very heavy fall In an apoplectic fit,  
+no time should be lost in pouring  
+down salt water, if sufficient sensibil­  
 ity remain to allow of swallowing; if  
-not, until tho sonses return, when  
-salt will completely restore tho pa­  
-tient from tho lethargy. In n fit, tho  
-feet should bo placed in warm water,  
-with mustard added, and tho legs  
-briskly rubbed; nil tho bandages re­  
-moved frpm tho neck, and coul npori­  
-out procured, if possiblo. In- caso of  
-sovero blooding nt tho lungs, when  
-othor remedies failed, Dr. Hush found  
-that twp teaspoonfula of. salt com  
-pletely stayed tho blood.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_foxville_ver01%2Fdata%2Fsn84023246%2F00280777511%2F1865031001%2F0197.jp2/pct:41.459400,86.712164,12.893197,9.219858/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+not, until the senses return, when  
+salt will completely restore the pa­  
+tient from the lethargy. In a fit, the  
+feet should be placed in warm water,  
+with mustard added, and the legs  
+briskly rubbed; all the bandages re­  
+moved from the neck, and col aperi­  
+ent procured, if possible. In case of  
+severe bleeding at the lungs, when  
+other remedies failed, Dr. Rush found  
+that two teaspoonfuls of salt com  
+pletely stayed the blood.
+</td></tr></table>
 
 ---
 
-## [From _The Manchester journal._](https://chroniclingamerica.loc.gov/lccn/sn83025668/1865-04-11/ed-1/seq-1)
+## From _The Manchester journal._
 
 #### 1865-04-11 &middot; [Manchester, Vt.](http://dbpedia.org/resource/Bennington%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-disordered stomach, a table-spoonful of  
-salt is a certain cure. Iu a violent in­  
+salt is a certain cure. In a violent in­  
 ternal pain termed colic, a teaspoon­  
-ful of suit, dissolved in a pint of cold  
-water, taken as soon as possible, w ith  
-a short nyp immediately after, is one  
+ful of salt, dissolved in a pint of cold  
+water, taken as soon as possible, with  
+a short nap immediately after, is one  
 of the most effectual and speedy rem­  
 edies known. The same will relieve a  
-pi.r.-oii w ho seems almost dead from a  
+person who seems almost dead from a  
 very heavy fall. In an apoplectic fit,  
-no time should be lout in pouring down  
+no time should be lost in pouring down  
 salt water, if sufficient sensibility re­  
-main to allow of swallowing; it not,  
-&#x27;until the senses return, win n salt will  
-Completely restore the patient from  
-I he lethargy. In a fit, the feet should  
-be phced in warm water, with mus­  
+main to allow of swallowing; if not,  
+tuntil the senses return, when salt will  
+completely restore the patient from  
+the lethargy. In a fit, the feet should  
+be placed in warm water, with mus­  
 tard added, and the legs bsiskly rub­  
-bed ; nil the bandage removed from  
-the neck, and cool nut rient procured,  
+bed; all the bandages removed from  
+the neck, and cool aperient procured,  
 if possible. In case of severe bleed­  
-in;; nt tiie lungs, when oilier reim dies  
-failed, Dr. Rush found that two it a-  
-j spoonfuls if salt completely slayed ih
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_iceberg_ver01%2Fdata%2Fsn83025668%2F00415629217%2F1865041101%2F0767.jp2/pct:43.073096,68.856098,12.456946,13.449987/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+ing at the lungs, when other remedies  
+failed, Dr. Rush found that two tea-  
+ spoonfuls of salt completely stayed the  
+blood.  
+LIOHT MARCHING ORDER. Sher­  
+man&#x27;s army was in light marching or­  
+der when it passed in review before  
+its commander and Generals Scho-  
+field and Slocum at Goldsboro on the  
+ad. It was, for the most part, hat  
+shoeless coatless and half breech­  
+less. The boys had light hearts,  
+ though, and their poverty stricken ap­  
+pearance did not trouble them in the  
+least. They had seen a good deal of  
+the country on their march, and at  
+the review the country saw 
+</td></tr></table>
 
 ---
 
@@ -4747,32 +5086,6 @@ baffle pursuit and pass unsuspected amon
 
 ---
 
-## [From _Western sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84026526/1878-10-10/ed-1/seq-1)
-
-#### 1878-10-10 &middot; [Winston [i.e. Winston-Salem], N.C.](http://dbpedia.org/resource/Winston-Salem%2C_North_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Mi-:ii a 1. L&#x27;si-: oi- Salt. In lnany  
-casi&#x27;.s of disordered stomach a tea­  
-spooriful of salt is a certain cute. Id  
-the vioIcVit hiicnitfl ritllhig; tehnei!  
-colic, add a teaspoonfiil ot silt to&#x27; d  
-piiit of cold water, drink it and go to&#x27;  
-bed : it is one of the speediest ic me­  
-dics&#x27; I&#x27;uovhi. The same will revive it  
-person who seems almost dead from&#x27;  
-receiving a very heavy fall, tfe.  
-In an ei-opleue lit, no lime should  
-he lost, in pourins down salt water, i
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_adam_ver02%2Fdata%2Fsn84026526%2F0029587966A%2F1878101001%2F0426.jp2/pct:78.954248,51.876586,12.091503,6.571390/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1879-06-28_58_49/page/n9/mode/1up?view=theater)
 
 #### 1879-06-28 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
@@ -5096,12 +5409,6 @@ if used much
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Siomach, a teaspoonful of salt is a eel-. eipitated, and beaten line. Th&#x27; thin,  
-tain cure. In the violent internal ach- : endless theets were woven around a cold  
-ing termed colic, add a teaspoonful of i cylinder, and when of sufficient thick­  
-salt to a pint of cold water, drink it and ! ness cut, removed, and dried in the sun.  
-go to bed ; il is one of the speediest and , Strips one-fourth, of an inch thick, when  
-best remedies known. The same will dry and before rolling, were as pliant as  
   
 revive a p rson who seems almost dead  
 fiom receiving a fall. etc. In an a no- i  
@@ -5135,7 +5442,7 @@ anu drink twice u day, also, until cured.
 a moderate !egrce, and ai.l diction,  
 but salt meat is injurious u used much
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477710%2F1880050701%2F0418.jp2/pct:40.724763,34.477105,23.353466,16.149432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477710%2F1880050701%2F0418.jp2/pct:40.724763,37.182340,11.834915,13.444197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5242,6 +5549,70 @@ aid digestion, but salt meat Is Injurious
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_drinksmall_ver01%2Fdata%2Fsn93067705%2F00237288439%2F1880052201%2F1021.jp2/pct:17.341281,3.734111,13.589317,18.407691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _The post._
+
+#### 1880-05-27 &middot; [Middleburg, Snyder County, Pa.](http://dbpedia.org/resource/Middleburg%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Use of Salt.  
+In many cases of disordored  
+stomach, a teaspoonful of salt is  
+certain cure. In the violent internal  
+aching termed colic, ald a teaspoon­  
+ful of salt to a pist of cold water,  
+drink it and go to bed; it is one of  
+the spoediest and best remnedies  
+known. The same will revive a per  
+son who seems almost dead from ro  
+ceiving a fall, etc In an applectic  
+fit, no tim should be lost in pouring  
+down salt water, if sufflient sensi  
+bility remains to allow of swallow-  
+ing it; if not, the heal must be  
+sponged with cold water until the  
+onses return, when salt will com­  
+plotely restore the patient from his  
+lethargy. In a fit, the feet should  
+be placed in warm water with mu­  
+tarl added, and the logs briskly rub­  
+bed, all bandages removed from th  
+neck, and a cool apartment procured  
+if possible. In many cases of bleed­  
+ng at the lungs, whon other romedies  
+fail, Dr. Rush found that two te a-  
+poonfuls of salt co uple tely stayed  
+the blood. In the case of a bite of  
+a mad dog, wash the part with a  
+streng brine for an hour; then bind  
+on some salt with a rag. In tooth­  
+ache, warm saltwater held to the  
+part and renowed two or threr  
+times will relieve in most cases. If  
+the teeth be covered with tartir,  
+wash twice a day with salt and wa­  
+ter. In swelled neck, wash the part  
+with brine, and drink twice a day,  
+alse, until cured. Salt will expel  
+worms, if used in food in a moder­  
+ate degree, and aid digestion, but  
+alt meat is iajurious if used much.  
+Watering Gardens.  
+In the summer droughts which  
+at e eeee  
+low and then occur, it is common to  
+see persons overywhere at work  
+watering the garden to keep things  
+alive untll the regular rains come.  
+It is, however, the experience of all,  
+the more a garden is watered the  
+more it wants, and thus on the whol
+</td></tr></table>
 
 ---
 
@@ -5527,57 +5898,66 @@ commonest bgure lo-day 1 tear be is a
 
 ---
 
-## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84023296/1881-01-26/ed-1/seq-1)
+## From _Spirit of the age._
 
 #### 1881-01-26 &middot; [Woodstock, Vt.](http://dbpedia.org/resource/Woodstock%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-down salt and water, if sufBcient sensi  
-bilitv remalus to allow of swallowing;  
-if nol the hoad must bo sponged with  
-cold wnter until tho Eenses reiurn,  
-when salt will completely restore tbo  
-Patient from his lolhargy. In a fit,  
-the feet should be placed iu warm  
+UsE oF SALT. In many cases of  
+disordered stomach, a teaspoonful of  
+salt is a certain cure. In the violent  
+internal aching, termed colic, add a  
+  
+teaspoonful of salt to a pint of cold  
+water, drink it and go to bed; it is  
+one of the speediest and best remedies  
+known. The same will revive a per-  
+son who seems almost dead from re-  
+ceiving a fall, etc. In an apoplectic  
+fit, no time should be lost in pouring  
+down salt and water, if sufficient sensi  
+bility remains to allow of swallowing;  
+if not the head must be sponged with  
+cold water until the senses return,  
+when salt will completely restore the  
+Patient from his lethargy. In a fit,  
+the feet should be placed in warm  
 water with mustard added, and the  
-logs briskly rubbed, all bandages re­  
-mnvod from the ncck. and acool  
-apartment &#x27;procured if possible. In  
-inany cases ot bleedtng at the mngs  
-when olher remedies fail, Dr. Rusb  
+legs briskly rubbed, all bandages re­  
+moved from the neck, and a cool  
+apartment procured if possible. In  
+many cases of bleeding at the lange  
+when other remedies fail, Dr. Rush  
 found that two teaspoonfuls of salt  
-cemnletolv staved tbo blood. In caso  
-i V  
-of bito from mad dog, wash tho part  
-with Btrong bnne for ao hour, tnen  
-bind on somo salt with a rag. In  
-toothache, warm salt aud water held  
-to the part, and renewed two or .threo  
+cempletely stayed the blood. In case  
+a e oe  
+of bite from mad dog, wash the part  
+with strong brine for an hour, then  
+bind on some salt with a rag. In  
+toothache, warm salt and water held  
+to the part, and renewed two or three  
 times, will relieve in most cases. If  
-tho teoth be covered with tarter, wash  
-twiue a day with salt and water. In  
-swelled neck, wash tho part with  
-biiue, and drink.twice a day, also, un­  
+the teeth be covered with tarter, wash  
+twice a day with salt and water. In  
+swelled neck, wash the part with  
+brine, and drink twice a day, also, un­  
 til cured. Salt will expel worms, if  
-used in food in a modurato . degree,  
-nnd aid digestiou, but, salt. raeat is in-  
+used in food in a moderate degree,  
+and aid digestion, but salt meat is in-  
 jurous if used much.  
 I never saw a garment too fine for  
-mau or maid j there never was a chair  
-too good for a cobler or a coopcu or a  
-king to set in j never a houso too  
-fine to shelter tho human head.  
+man or maid; there never was a chair  
+too good for a cobler or a cooper or a  
+king to set in; never a house too  
+fine to shelter the human head.  
 These elements about us, the glorious  
-skv, the impetial sun, are not too  
-good ior he human race.. Eleganco  
-fits man. But do wo not value these  
-tools for houso keeping a little mor
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_killington_ver02%2Fdata%2Fsn84023296%2F00200296126%2F1881012601%2F0607.jp2/pct:79.667450,48.368721,12.091090,26.980839/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+sky, the imperial sun, are not too  
+good for the buman race. Elegance  
+fits man. But do we not value these  
+tools for house keeping a little mor
+</td></tr></table>
 
 ---
 
@@ -5722,27 +6102,6 @@ been added, and placed upon the ches
 
 ---
 
-## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1881-06-24/ed-1/seq-2)
-
-#### 1881-06-24 &middot; [Ebensburg, Pa.](http://dbpedia.org/resource/Ebensburg%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-ter, and immediately after with cold.  
-t or the violent internal agony termed  
-eolic, take a teaspoonf ul of salt in a pint  
-of cold water; drink it and go to bed.  
-It is one of the speed ist remedies known.  
-The same will revive a person who seems  
-almost dead from a heavy fall
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477710%2F1881062401%2F0628.jp2/pct:66.023280,91.471611,11.684102,3.209733/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Gloucester County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87068079/1881-06-30/ed-1/seq-1)
 
 #### 1881-06-30 &middot; [Woodbury, N.J.](http://dbpedia.org/resource/Woodbury%2C_New_Jersey)
@@ -5861,49 +6220,25 @@ heavy fal
 
 ---
 
-## [From _The home journal._](https://chroniclingamerica.loc.gov/lccn/sn95068565/1881-07-20/ed-1/seq-4)
+## From _The home journal._
 
 #### 1881-07-20 &middot; [Winchester, Tenn.](http://dbpedia.org/resource/Winchester%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-To Ci hi: Coi. ie. For the violent in­  
+To CeRE Conic. For the violent in­  
 ternal agony termed colic, take a lea­  
-spoonful of &#x27;salt in a pint of cold wider;  
-drink if and go to bed. It is one of the  
-speediest remedies klloHII. The same  
+spoonful of salt in a pint of cold water;  
+drink it and go to bed. It is one of the  
+speediest remedies known. The same  
 will revive a person who seems almost  
 dead from a heavy fall.  
-Clioi I&#x27;.--A towel or llannel cloth  
-wrung out of hot vinegar in which a Ill­  
-He salt has been added, and placed upon  
-the ciie.il ami throat changing ever
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn95068565%2F00280779180%2F1881072001%2F0331.jp2/pct:21.331924,39.226674,12.325581,5.281591/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Magnolia gazette._](https://chroniclingamerica.loc.gov/lccn/sn85034447/1881-07-22/ed-1/seq-4)
-
-#### 1881-07-22 &middot; [Magnolia, Miss.](http://dbpedia.org/resource/Magnolia%2C_Mississippi)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-To Curb Colic. —For the violent in­  
-ternal agony termed colic, take a teu­  
-spoouful of salt in a pint of cold water:  
-drink it and go to bed. It is one of tie«  
-speediest remedies known. Tho s:  
-vs ill revive a person who seems almost  
-dead from a heavy fall
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_ikat_ver01%2Fdata%2Fsn85034447%2F00199917262%2F1881072201%2F0503.jp2/pct:21.193416,53.246753,14.377572,3.733766/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+ChOuP. A towel or flannel cloth  
+wrung out of hot vinegar in which a lit­  
+tle salt has been added, and placed upon  
+the chest and throat-changing ever
+</td></tr></table>
 
 ---
 
@@ -5965,52 +6300,6 @@ person who seems ului&#x27;Mtt dead from a
 heavy fall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83008556%2F00296028526%2F1881081101%2F0322.jp2/pct:69.766748,15.332658,12.749989,3.407940/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Rock Island Argus._](https://chroniclingamerica.loc.gov/lccn/sn92053943/1881-08-15/ed-1/seq-3)
-
-#### 1881-08-15 &middot; [Rock Island, Ill.](http://dbpedia.org/resource/Rock_Island%2C_Illinois)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-out pain; or burnt alum pulverized and  
-applied is an old reliable remedy.  
-For the violent internal agony termed  
-colic, take a teaspoonf ul of salt in a  
-pint of cold water; drink it and go to  
-bed. It is one of tho speediest reme­  
-dies known. The same will revive a  
-Eersou who seems almost dead from a  
-vy fall
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_deadline_ver01%2Fdata%2Fsn92053943%2F00295873577%2F1881081501%2F0156.jp2/pct:29.384454,43.262245,11.846638,4.218420/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Mankato free press._](https://chroniclingamerica.loc.gov/lccn/sn83016589/1881-08-19/ed-1/seq-1)
-
-#### 1881-08-19 &middot; [Mankato, Blue Earth County, Minn.](http://dbpedia.org/resource/Mankato%2C_Minnesota)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-out piling or burnt alum pulverized aud  
-applied is an old reliable remedy.  
-For the violent internal agony turino I  
-colic, take a teaspoonful of salt iu a  
-pint of cold water; drink it and go to  
-bed. It is one of tile speediest reme­  
-dies knowu. Tiie same will revive a  
-person who seems almost dead from a  
-heavy fall
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_fencing_ver02%2Fdata%2Fsn83016589%2F00393340666%2F1881081901%2F0139.jp2/pct:63.206046,37.247330,9.250420,3.580002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6096,54 +6385,6 @@ known. The same will revive a person who
 seems almost dead from a heavy fall.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295861915%2F1881090101%2F0296.jp2/pct:16.498491,95.411326,13.393704,3.246675/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1881-09-09/ed-1/seq-4)
-
-#### 1881-09-09 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-tdeTFor the. Violent internal aponv  
-termed colic, take a teaspoon! ul of salt in a  
-&#x27;.ipiotof cold waterj drink it and go to bed,  
-JLt is one of the speediest Remedies .&#x27;known.  
-The same will , revive a person who seems  
-almost dead from a heavy fall.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296023012%2F1881090901%2F0153.jp2/pct:7.914764,91.002762,14.805590,3.367325/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1881-09-15/ed-1/seq-4)
-
-#### 1881-09-15 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-verizea ana applied is an old rem  
-edy. t  
-For the violent .internal agony  
-termed colic, take a teaspoonful of  
-salt to a pint of cold water; drink  
-  
-it and go to bed. It i9 one of the  
-speediest remedies known. The  
-same will revive a person who  
-seems almost dead from a heavy  
-fall.  
-For hoarseness take the whites bi  
-two eggs and beat them with tw
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020540%2F1881091501%2F0385.jp2/pct:15.643564,35.247390,10.056577,5.549251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6440,24 +6681,6 @@ vastly better than it. There are tw
 
 ---
 
-## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1881-12-30/ed-1/seq-1)
-
-#### 1881-12-30 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-For colic, take a teaspoonful of salt in  
-a pint of cold water, drink it and go to bed.  
-It will revive a person who seems almost  
-dead from a heavy tall.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lippizaner_ver01%2Fdata%2Fsn84024653%2F00393349554%2F1881123001%2F0211.jp2/pct:84.612919,95.059213,10.935246,2.027887/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The new dominion._](https://chroniclingamerica.loc.gov/lccn/sn86092182/1881-12-31/ed-1/seq-4)
 
 #### 1881-12-31 &middot; [Morgantown, W. Va.](http://dbpedia.org/resource/Morgantown%2C_West_Virginia)
@@ -6557,26 +6780,6 @@ a day with salt and water
 
 ---
 
-## [From _Martinsburg independent._](https://chroniclingamerica.loc.gov/lccn/sn84038206/1882-01-21/ed-1/seq-2)
-
-#### 1882-01-21 &middot; [Martinsburg, W. Va.](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-cattle undigested.  
-For Colic—Take a teaspoonful of j  
-salt in a pint of cold water, drink it  
-and go to bed. It will relieve a per­  
-son who seems almost dead from a  
-heavy fall
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_casper_ver01%2Fdata%2Fsn84038206%2F00393349207%2F1882012101%2F0844.jp2/pct:8.140214,10.435144,14.824732,4.257899/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Knoxville daily chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033437/1882-01-29/ed-1/seq-4)
 
 #### 1882-01-29 &middot; [Knoxville, Tenn.](http://dbpedia.org/resource/Knoxville%2C_Tennessee)
@@ -6671,41 +6874,6 @@ salt and water
 
 ---
 
-## [From _Centre Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84009409/1882-03-23/ed-1/seq-6)
-
-#### 1882-03-23 &middot; [Bellefonte, Pa.](http://dbpedia.org/resource/Bellefonte%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-people find comfort in celery.  
-For the violent internal agony termed  
-colic, tako a teanpoonful of salt in a pint  
-of water; drink it and go to bod. It  
-is ono of the speediest remedies known.  
-The same will revive a person who  
-seems almost dead from a heavy fall.  
-A cold in the eye is aver. common  
-affection, and consists of an inflamed  
-condition of the membrane covering  
-the eyeball and lining the eyelids, and  
-is often due, as the name implies, to  
-exposure to a draught. The patient  
-feels as if some dust had got into the  
-eye, and sometimes be hardly persuaded  
-to the contrary; the white of the eye  
-itself is seen to bo reddened, and there  
-is a constant flow of blinding, scalding  
-tears. The best treatment is to foment  
-tho eyes with pure warm water, or let­  
-ter, with water in which two or thre
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn84009409%2F00296028769%2F1882032301%2F0216.jp2/pct:65.498118,13.918956,14.227240,14.053104/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Sacramento daily record-union._](https://chroniclingamerica.loc.gov/lccn/sn82014381/1882-04-15/ed-1/seq-6)
 
 #### 1882-04-15 &middot; [Sacramento [Calif.]](http://dbpedia.org/resource/Sacramento%2C_California)
@@ -6726,26 +6894,26 @@ who seems almost dead from a heavy fail.
 
 ---
 
-## [From _The commonwealth._](https://chroniclingamerica.loc.gov/lccn/sn92073906/1883-07-12/ed-1/seq-4)
+## From _The Pascagoula democrat-star._
 
-#### 1883-07-12 &middot; [Scotland Neck, N.C.](http://dbpedia.org/resource/Scotland_Neck%2C_North_Carolina)
+#### 1882-07-28 &middot; [Pascagoula, Miss.](http://dbpedia.org/resource/Pascagoula%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-For the violent international agony  
-termed colic, take a teaspoon ful of  
-salt in a pint of water ; drink and go  
-to bod. It is one of the soeediest  
-remedies known. The same will re  
-vive a person who seems almost dead  
+To CurE COliC. For the violent  
+internal agony termed colic, take a  
+teaspoonful of salt in a pint of wa­  
+ter; drink it and go to bed. It is  
+one of the speediest remedies  
+known. The same will revive a  
+person who seems allmost dead  
 from a heavy fall.  
-M iss Parloa gives this cure for  
-hoarseness : Bake a lemon or sou
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_mitchell_ver01%2Fdata%2Fsn92073906%2F00416156700%2F1883071201%2F0186.jp2/pct:32.302192,78.355226,12.871133,5.128498/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Stewced Tomatoes--Pour scal  
+ding water over them, drain  
+off and pour over cold water,  
+slip off the skins and cut ou
+</td></tr></table>
 
 ---
 
@@ -7034,6 +7202,49 @@ completely stayed ihe blood
 
 ---
 
+## From _Oxford Democrat._
+
+#### 1885-12-29 &middot; [Paris, Me.](http://dbpedia.org/resource/Paris%2C_Maine)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Vedical use of Silt- In many cases of  
+lisordered stomach, a teaspoonful of salt  
+is a certain cure. In the violent internal  
+aching, termed colic, add a teaspoonful of  
+salt to a pint of cold water; drink it and  
+go to bed; it is one of the speediest rem  
+edies known. The same will revive a per­  
+son who seems almost dead from receiy­  
+ing a heavy fall. In an spoplectic fit no  
+time should be lost in pouring down salt  
+and water, if sufficient sensibility remain  
+to admit of swallowingt if not, the head  
+must be sponged with cold water until the  
+senses return, when salt will completely  
+restore the patient from his lethargy. In  
+a fit, the feet should be placed in warm  
+water, with mustard added, and the legs  
+riskly rubbed, all bandages removed from  
+the neck, and a cool spartment procured,  
+if possible. In many cases of severe bleed­  
+ing at the lungs, and when other remedies  
+falled, Dr. Rush found that two teaspoon  
+fuls of salt completely stayed the blood  
+in case of a bite from a mad dog, wash th  
+part with strong brine for an hour, and  
+hen bind on some salt with a rag. I n  
+toothache, warm salt and water held to the  
+part, and renewed two or three times, will  
+relleve it in most cases. If the gums are  
+affected, wash the mouth with brine. If  
+the teeth be covered with tartar, wash  
+them twice a day with salt and water
+</td></tr></table>
+
+---
+
 ## [From _The Salt Lake herald._](https://chroniclingamerica.loc.gov/lccn/sn85058130/1886-02-21/ed-1/seq-5)
 
 #### 1886-02-21 &middot; [Salt Lake City [Utah]](http://dbpedia.org/resource/Salt_Lake_City)
@@ -7049,56 +7260,6 @@ The same will revive a person who seems
 almost dead from a heavy fal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/uuml_fisher_ver01%2Fdata%2Fsn85058130%2F00206535118%2F1886022101%2F0382.jp2/pct:34.926228,23.089479,14.225941,2.908443/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Washington standard._](https://chroniclingamerica.loc.gov/lccn/sn84022770/1886-05-21/ed-1/seq-1)
-
-#### 1886-05-21 &middot; [Olympia, Wash. Territory](http://dbpedia.org/resource/Olympia%2C_Washington)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-dye.  
-  
-For the violent internal agony  
-termed colic, take&#x27;a teaspoouful of  
-salt in a pint of water; drink it and  
-go to bed. It is one of the speedieat  
-remedies known. The same will re­  
-vive a person wheo almost dead from  
-a heavy full.  
-  
-A feverish thirst that cannot be  
-queucbed by water may bo alleviated  
-&#x27;bus: Place a slico of bread upon  
-burning coals, and when it is aflame  
-throw it into a tumbler of water
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_juno_ver02%2Fdata%2Fsn84022770%2F00200291104%2F1886052101%2F0576.jp2/pct:71.383922,41.808180,10.780978,7.955633/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1886-07-15/ed-1/seq-4)
-
-#### 1886-07-15 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-For thej violent internal agony  
-termed colic, take a teaspoonful of  
-salt rn a pint ol water; drink it and  
-go to bed, It is one of the speed  
-est remedies known. The same will  
-revive a person who seems almost  
-dead from a heavy fall
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020552%2F1886071501%2F0756.jp2/pct:25.634249,81.538637,9.408034,3.303612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7123,52 +7284,6 @@ vive a person who seems almost dead
 from a heavy fall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_ernie_ver01%2Fdata%2Fsn86090474%2F00296020515%2F1886103001%2F0343.jp2/pct:41.929002,80.419397,15.941058,6.657929/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Salt Lake herald._](https://chroniclingamerica.loc.gov/lccn/sn85058130/1886-10-31/ed-1/seq-10)
-
-#### 1886-10-31 &middot; [Salt Lake City [Utah]](http://dbpedia.org/resource/Salt_Lake_City)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-For the violent internal agony termed  
-colic take a teasponful of salt in a pnt  
-of water drink it and go to bed It is  
-one ol the speediest remedies known  
-The same will relieve a person who  
-seems almost dead from a heavy fal
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/uuml_eaton_ver01%2Fdata%2Fsn85058130%2F00206535064%2F1886103101%2F0474.jp2/pct:26.245691,34.498508,14.008148,2.916532/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Southern standard._](https://chroniclingamerica.loc.gov/lccn/sn86090474/1887-02-19/ed-1/seq-7)
-
-#### 1887-02-19 &middot; [McMinnville, Tenn.](http://dbpedia.org/resource/McMinnville%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-H is &#x27;l-l. i  
-  
-J-or trie vioieni . internal agony  
-  
-termed colic, take a teuspoonful of  
-  
-silt in a pint of water; drink it and  
-  
-to bed. It is one of the speediest  
-venu&#x27;dics known. The same will  
-revive a person who seems almost  
-dead from a heavy fall.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_ernie_ver01%2Fdata%2Fsn86090474%2F00296020515%2F1887021901%2F0475.jp2/pct:8.948989,89.653836,15.677221,4.262464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7525,18 +7640,6 @@ A Git EAT GOLD MINE IN ORINA.-W. Watson
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-stomach, a toaspoouful of salt is a  
-cortain euro. __Iu.tho violent mtornnl  
-aching, torinod colic, add a teaspoonfnl  
-of salt to a pint of cold water, drink  
-it, and go to bod; it is ono of tho  
-speediest remedies known. Tho samo will  
-rovivo&#x27;a person who sooms almostrdead  
-from rocoiviug a heavy fall, &amp;c..&#x27; 1 ^ 1  
-iIn an apoplectic ht 110 timo should bo  
-lost in pouring down salt wator, if  
-sufficient sensibility remains to  
-allow,of .swallo\yiug.; if,&#x27; not, tho  
 bond must liojsponged^witlwcbltl water&#x27;  
 with mustard n&#x27;dded, aiid tho- legs,  
 briskly rubbed, all bandages  
@@ -7670,7 +7773,7 @@ used much.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-Use of Salt. In many eaaea of disordered  
+  
 atomaoh, a teaapoonful of salt ia a  
 oertain onte.&#x27;-&#x27; Ia tbe riolent internal  
 aching, termed &#x27;colic, add ( teaapoonful  
@@ -7704,7 +7807,7 @@ and drink it twice a day, also, until
 cured. Salt will expel worms, if used in  
 &#x27;tjgi food in a moderate -degree, and  
 aids digestion, but aalt meal ia  
-injurio&#x27;da fl uted&#x27; muob.
+injurio&#x27;da fl uted&#x27; muob
 </td></tr></table>
 
 ---

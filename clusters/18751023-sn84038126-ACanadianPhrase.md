@@ -1,7 +1,7 @@
 
 # A Canadian Phrase
 
-### 53 reprints from 1874-09-24 to 1882-03-10
+### 52 reprints from 1874-09-24 to 1882-03-10
 
 ## [A Canadian Phrase](https://chroniclingamerica.loc.gov/lccn/sn84038126/1875-10-23/ed-1/seq-2/)
 
@@ -73,35 +73,67 @@ In every line Lord Dufferin gives proof of the long-transmitte
 
 ---
 
-## [From _Spirit of the age._](https://chroniclingamerica.loc.gov/lccn/sn84023296/1874-11-18/ed-1/seq-1)
+## From _Spirit of the age._
 
 #### 1874-11-18 &middot; [Woodstock, Vt.](http://dbpedia.org/resource/Woodstock%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-A Canadian Phuase. Canada&#x27;s  
+, when, through the  
+outskirts of the town, with stealthy  
+tread, stole a muffled figure. Along  
+the level, and down the grade, passed  
+a form, with a speed to which that of  
+bearer of the fiery cross, at the com-  
+mand of Roderick Dhu, was but a  
+snail&#x27;s pace. The wheezing of an im-  
+mense pair of lungs heralded its ap­  
+proach; the retreating sound of  
+ponderous footsteps announced its  
+transit. The inmates of wayside  
+houses, started by the unwonted  
+sounds, hastened to the doors only to  
+hear the last, fading echoes.  
+It was Obadiah Fuller, fleeing from  
+the destruction of his idol.Over  
+ a    
+land Monthly.  
+A CANADIAN PHRASE. Canada&#x27;s  
 bright and sensible Governor-General,  
-Lord Dufl&#x27;erin, has given the Do­  
-minion people a new by-word, wliich  
-has spread with cloctric rapidity from  
-ono end of Canada to the other. On  
-his voyage out, being called npou by  
-tho emigrants to address them, he  
+Lord Dufferin, has given the Do­  
+minion people a new by-word, which  
+has spread with electric rapidity from  
+one end of Canada to the other. On  
+his voyage out, being called upon by  
+the emigrants to address them, he  
 alluded to this phrase, which had  
-grated harshly on his ears : &quot;He had  
-the misfortnne to have too many  
-childron.&quot; Lord D. said : &quot;I remark­  
-ed that perhap3 no better idea could be  
-given of tho differences between the  
-old country anu their new home than  
-by tho fact that whereas iu England a  
-struggling man might bo overweight-  
-cd m the battle of lifo by a numerou
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_killington_ver02%2Fdata%2Fsn84023296%2F00200296114%2F1874111801%2F0337.jp2/pct:84.508366,58.623865,12.295544,12.301013/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+grated harshly on his ears: &quot;He had  
+the misfortune to have too many  
+children.&quot; Lord D. said: &quot;I remark­  
+ed that perhaps no better idea could be  
+given of the differences between the  
+old country and their new home than  
+by the fact that whereas in England a  
+struggling man might be overweight-  
+ed in the battle of life by a numerous  
+family in the land to which thow  
+were going a man could scarcely have  
+too many children. Here I was ap-  
+aoa  
+lauded lustily, with a cheerfiil ac.  
+companiment of laughter also, when  
+tY . At viiw Satte ul   
+Ili thui Oi bhe Dao. By a Stalw at  
+Aaae a e e ee  
+you are, Sir; thats what Ive beer  
+got up the slang phrase, &quot;Thats wha  
+Ye e    as   
+   
+alyo oss odote ae do eilses Is  
+the round of the papers, and one hear  
+every where, &quot;That&#x27;s what Ive beer  
+follin toniltptwep in Ha
+</td></tr></table>
 
 ---
 
@@ -112,6 +144,66 @@ cd m the battle of lifo by a numerou
 #### 1874-11-20 &middot; [Lowell, Mass.](http://dbpedia.org/resource/Lowell%2C_Massachusetts)
 
 [This text is not available under an open license.]
+
+---
+
+## From _St. Johnsbury Caledonian._
+
+#### 1874-11-20 &middot; [St. Johnsbury, Vt.](http://dbpedia.org/resource/St._Johnsbury%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+achelor friend was  
+preaching on the sinner&#x27;s excuses. &quot;I  
+have bought a piece of ground, and  
+wish to go and see it, said one. Here  
+is want of inclination to attend to di­  
+ine things said the preacher.An  
+said, &quot;I have bought five yoke of  
+oxen, and must needs go and prove  
+them. This seems a case of necessity.  
+A third said, &#x27;I have married a wife,  
+and therefore I can not come.&quot; Here i­  
+a case of natural impossibility, from  
+which we may infer,&quot; continued our  
+bachelor preacher, &quot;that one woman  
+will pull a man further from the Lord  
+than fen steers.&quot; Editor&#x27;s Drawer, in  
+Harper&#x27;s lagasine for December.  
+A CANADian PHrAse. Canada&#x27;s  
+bright and sensible Governor-General,  
+Lord Dufferin, has given the Dominion  
+ people a new by-word, which ha­  
+ spread with electric rapidity from one  
+end of Canada to the other. On his  
+voyage out, being called upon by the  
+emigrants to address them, he alluded  
+o  ae  a ate a  
+ly on his ears: &quot;He had the misfortune  
+to have too many children.&quot; Lord D.  
+&quot;I remarked that perhaps no  
+better isdea could be sixen of the difle  
+between the old country and their  
+new home than by the fact that where-  
+England a struggling man might  
+be overweighted in the battle of life  
+by a numerous family, in the land to  
+which they were going a man could  
+scarcely have too many children. Here  
+I was applauded lustily, with a cheer-  
+ful accempaniment of laughter also,  
+when I was further greeted with an  
+approving thump on the back by a  
+stalwart young emigrant, who cried  
+Right you are, Sir; that&#x27;s what  
+I&#x27;ve been telling Emily.&quot; The Cana­  
+dians have got up the slang phrase.  
+&quot;That&#x27;s what Ire been telling Emily,&quot;  
+having had the anecdote made familiar  
+ by going the round of the papers, and  
+one hears every where, &quot;That&#x27;s what  
+&#x27;ce been telling Emily.&quot;Editor&#x27;s Draw
+</td></tr></table>
 
 ---
 
@@ -273,35 +365,52 @@ home than by the fact that whereas in England | electrical apparatus being in re
 
 ---
 
-## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1874-12-02/ed-1/seq-1)
+## From _The Somerset herald._
 
 #### 1874-12-02 &middot; [Somerset, Pa.](http://dbpedia.org/resource/Somerset%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-! ed ia the battle of life by nuraer-  
-in:  
-....0...  
-! ous family.ia the land to which they j  
+A CAnRDIAn PHraae.  
+Canada&#x27;s bright and sensible Gov-  
+ernor General, Lord Dufferin, has  
+given the Dominion people a new  
+by-word, which has spread with elee-  
+tn Ottl U 18 vuya wsets  
+ing called upon by the emigrants to  
+address them, he alluded to this  
+  o a e eree  elon  
+y  att at  ou it esit  
+oe o a e e oeo  
+a atruo  
+ed in the battle of life by a numer-  
+lil.  
+ae  
+ous family in the land to which they  
 were going a man could scarcely have  
-j too many children. Here I was e.p -  
-p! a tided lustily, with a d eerful ac-  
-eouipammc-nt o: laughter ais  
+too many children. Here I was ap-  
+plauded lustily, with a cheerful ac-  
+companiment of laughter als  
 I was further greeted with  
-Wiita  
-a&#x27;l  
-proving ti timpon the back by a stal­  
+Whel  
+lI  
+proving thump on the back by a stal­  
 wart young emigrant, who cried out,  
-&#x27;flight you are, sir; that&#x27;s what I&#x27;ve  
-beea telling Emilv.&#x27;&quot; The Canadians  
-ha.e got up the slang phrase, &quot; Th .&#x27;&#x27;.  
-irh.nf ri&#x27;tf .&#x27;I&#x27;ll f,&#x27;!!itl.t l in ii&#x27; liflvin i&#x27; f  
-had the anecdote made familiar b
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776452%2F1874120201%2F0505.jp2/pct:75.312773,21.831379,10.299680,6.957007/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+&quot;Right you are, sir; that&#x27;s what I&#x27;ve  
+been telling Emily.&quot; The Canadians  
+have got up the slang phrase, &quot;Thate  
+nhe? Prse beon feling Amif havine  
+had the anecdote made familiar by  
+   oate  
+  
+  
+  
+contry an thel ew nolies than t  
+  
+going the round of the papers and i an e ee in i  
+one hears every where, &quot;That&#x27;s what they rarely fail. Regarding death a
+</td></tr></table>
 
 ---
 
@@ -447,48 +556,56 @@ telling Emily.&quot;— Hurptn Ifogwfnyo
 
 ---
 
-## [From _The Tipton advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84027398/1874-12-03/ed-1/seq-4)
+## From _The Tipton advertiser._
 
 #### 1874-12-03 &middot; [Tipton, Cedar Co., Iowa](http://dbpedia.org/resource/Tipton%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-  
-•THAT&#x27;S WHAT I&#x27;VE BKI:\ TEI.I­  
-ISO  
-EMILY.&quot;—Theabovesentence has  
+EtItY.&quot;The above sentence has  
 become a by-word in Canada, having  
 spread with almost electric rapidity  
 from one end of the Dominion to the  
-Other. It had its origin as follows:  
-When Ixrd Dufferin, the new, and  
-withal bright an I sensible Governor  
-General of Canada,was on his way to  
-Amerioa the last time, he was called  
-upon to make a speech to the emi­  
-grants 011 board. He did so: and in  
-the course of his practical talk refer­  
+other. It had its origin as follows:  
+When Lord Dufferin, the new, and  
+withal bright and sensible Governor  
+General of Canada, was on his way to  
+America the last time, he was called  
+upon to make a speech to the emi-­  
+grants on board. He did so; and in  
+the course of his practical talk refer-­  
 red to a phrase which he had heard  
-on board ship since he started—a  
-certain man saying tint he &#x27;*h id the  
-misfortune to have too many chil­  
-dren.&quot; Lord D. Comba&#x27;tedth s idea  
-saying in conclusion that whereas i-i  
-England a struggling man night  
-overweijhed in the battle of life by  
-numerous faraily,iu the land to winch  
-they were going atnan could scarcely  
-have too many children. Ilerj It  
+on board ship since he started--a  
+certain man saying that he &quot;had the  
+misfortune to have too many chil-­  
+dren.&quot; Lord D. combatted this idea  
+saying in conclusion that whereas in  
+England a struggling man might  
+overweighed in the battle of life by  
+numerous family, in the land to which  
+they were going a man could scarcely  
+have too many children. Here h  
 was applauded lustily, while one stal­  
 wart young emigrant was so delight  
 ed at the sentence that he greeted  
 the speaker with an approving thump  
-on tiie back.exelaiming in triumphan
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_lapras_ver01%2Fdata%2Fsn84027398%2F00279528438%2F1874120301%2F0617.jp2/pct:16.904277,24.354473,11.321740,14.183308/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+on the back, exclaiming in triumphant  
+tones, &quot;That&#x27;s just what I&#x27;ve been  
+telling Emily!&quot;  
+  
+Lord Dufferin on reaching home  
+repeated the anecdote, and the quaint  
+phrase &quot;took,&quot; until now one hears  
+everywhere throughout Canada the  
+oftentimes irrelevant exclamation:  
+&quot;That&#x27;s just what I&#x27;ve been telling  
+Emily!&quot;  
+  
+Idleness is the source of a great  
+deal of vice and crime, but it is sela­  
+dom that a satistical view of the rela-
+</td></tr></table>
 
 ---
 
@@ -534,55 +651,54 @@ back, exclaiming in triumphant tone
 
 ---
 
-## [From _The interior journal._](https://chroniclingamerica.loc.gov/lccn/sn84038328/1874-12-04/ed-1/seq-5)
+## From _The interior journal._
 
 #### 1874-12-04 &middot; [Stanford, Ky.](http://dbpedia.org/resource/Stanford%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ild, unearthly yowl, which shocked  
+Simpson&#x27;s nerves so much that he  
+dropped the trap-door and fell down the  
+step-ladder on the head of Mrs. Simpson,  
+who was standing below, dressed in a  
+thing with a frill on it, and armed with a  
+palm-leaf fan and a bed slat, determined  
+to protect Simpson to the death  
+Mr. Simpson has since sold the house  
+to a man who makes sausage and fur tip­  
+pets. He keeps the concrete soft and  
+sticky all the year round by means of  
+fires in the garret, and it is whispered  
+ around Tuckahoe that his actual gains  
+average forty dollars a night.  
+ThefS MheF TEE SEEN TEHTING NOITN.  
   
-damage the texture, it may be removed the dihVrrnee between the old country  
-by the following process: Peal and j and their new home than by the fact  
-slice two onions, and extract the juice that wherras in England a struggling  
-bysqnerting or pounding. Then cut I msn might be overweighted in tht battle  
-up half an ounce of white snap, add of life by a too numerous family, ia  
-two ouncet of fuller&#x27;t earth, and mix the land to which they were going a  
-Airm with the onion juice and half a nian could scarcely have too many chil
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_albatross_ver01%2Fdata%2Fsn84038328%2F00280763391%2F1874120401%2F0600.jp2/pct:52.679659,51.103294,21.660577,3.677646/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The interior journal._](https://chroniclingamerica.loc.gov/lccn/sn84038328/1874-12-04/ed-1/seq-5)
-
-#### 1874-12-04 &middot; [Stanford, Ky.](http://dbpedia.org/resource/Stanford%2C_Kentucky)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-j fmigr,nu m ,ress theme alluded to  
-i M phriw,( whirh UA tntr,i h,rhiT  
-on bi, r. 1Ir Bi th miafortune of  
-having ton many children.&quot;  
-ird Ihifferin said : &quot; I remarked that  
-a cheerful accompaniment of Isughtrr  
-also, whrn I wit lurther greeted with aa  
-ayproving thump on the hark by a stal­  
+Canada&#x27;s bright and sensible Governor  
+General Lord Dufferin, has given to the  
+Dominion people a new by-word, which  
+has spread with electric rapidity from  
+f Canada to the other. On  
+ his voyast out, being call  
+upon by the  
+emigrants to address them, he alluded to  
+ this phrase, which had grated harshly  
+on his ear: &quot;He had the misfortune of  
+having too many children.&quot;  
+ord Dufferin said: &quot;I remarked that  
+a cheerful accompaniment of laughter  
+also, when I was further greeted with an  
+ayproving thump on the back by a stal­  
 wart young emigrant, who cried out,  
-&#x27; Right you are, that&#x27;s what I&#x27;ve been  
-telling Emily.&#x27;&quot;  
-The Canadians have got up the tltng  
-phrase, &quot; That&#x27;s what I&#x27;ve been telling  
-Emily,&quot; hiving hid the aneedtfte made  
-familiar by going the roundsof the news­  
-paters, and now one bears rvrrywhere,  
-&quot;Thst&#x27;s what Pre been telling Emily.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_albatross_ver01%2Fdata%2Fsn84038328%2F00280763391%2F1874120401%2F0600.jp2/pct:63.459196,47.857371,10.901340,13.799169/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+&quot;Right you are, that&#x27;s what I&#x27;ve been  
+telling Emily.&quot;  
+The Canadians have got up the slang  
+phrase, &quot;That&#x27;s what I&#x27;ve been telling  
+Emily,&quot; having had the anecdote made  
+familiar by going the rounds of the news­  
+papers, and now one hears everywhere,  
+&quot;That&#x27;s what I&#x27;ve been telling Emily.
+</td></tr></table>
 
 ---
 
@@ -682,55 +798,52 @@ everywhere, &quot;That&#x27;s what I&#x27;ve been tellin
 
 ---
 
-## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1874-12-09/ed-1/seq-1)
+## From _The Somerset herald._
 
 #### 1874-12-09 &middot; [Somerset, Pa.](http://dbpedia.org/resource/Somerset%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-A ranavdiast F&#x27;jrase.  
-Canada a bright and nensibio Gov­  
-ernor General, Lord DutTerin,&#x27; ha  
-c-iven the Dominion people a pew  
-by-word, which has spread with elec-j  
-trie rapidity from one end of Canada  
-to tbe other. Oa his voyage out, be­  
+A CaNadIaN PhraNE.  
+Canada&#x27;s bright and sensible Gov­  
+ernor General, Lord Dufferin, ha  
+given the Dominion people a new  
+by-word, which has spread with elec  
+tric rapidity from one end of Canada  
+to the other. On his voyage ont, be­  
 ing called upon by the emigrants to  
   
-aAAraaa tKn h Athl.lp.l tri t.HSi.t &#x27;t  
+addrese them he alluded to thise  
   
-ou..vo ciui, ..v. ,  
-phrase, which had gr.atca so uar.-,niy  
+teas toss e  eo  
+phrase, which had grated so harshly  
 on his ears: &quot;He had the misfortune  
 to have too many children.&quot; Lord  
 D. said: &quot;I remarked that perhaps  
-no better idea could be givfn o&#x27; tbe  
+no better idea could be given of the  
 differences between the old and new  
-country and their new home? than  
-by tbe fact that whereas in England  
-a struggling man migbtbe ovcrweigh­  
+country and their new homes than  
+by the fact that whereas in England  
+a struggling man might be overweigh­  
 ed in the battle of life by a numer­  
-ous family.in the land to which they  
-were going a raaa could scarcely have  
-too many children. Hro I was ap­  
-plauded lustily, with a cleerful ac­  
+ous family in the land to which they  
+were going a man could scarcely have  
+too many children. Here I was ap­  
+plauded lustily, with a cheerful ac­  
 companiment of laughter also, when  
 I was further greeted with an ap­  
 proving thump on the back by a stal­  
 wart young emigrant, who cried out,  
-&#x27;Right vou are, sir; that1.-) what I&#x27;ve  
-been telling Emily.&#x27;&quot; Th? Canadians  
-hac got up the slang phrase, &quot;Thal&#x27;.i  
-u-hat I&#x27;ve been telling Emily,&quot; having  
-had tbe anecdote mado familiar by  
-going the round of tbe papers, and  
-one hoars every where, &quot;1&#x27;itaf what  
-I&#x27;ve been telling Emily.1
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776452%2F1874120901%2F0509.jp2/pct:75.314236,13.026477,11.692488,16.903139/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+&quot;Right you are, sir; thaths what I&#x27;ve  
+been telling Emily.&quot; The Canadians  
+have got up the slang phrase, &quot;That&#x27;s  
+what l&#x27;ve been telling Emily,&quot; having  
+had the anecdote made familiar by  
+going the round of the papers, and  
+one hears everywhere, &quot;That&#x27;s what  
+I&#x27;ce been telling Emily.
+</td></tr></table>
 
 ---
 
@@ -843,7 +956,7 @@ I&#x27;ve here telling Emily.&quot;—Harper&#x27; Mag
 
 ---
 
-## [From _The Tiffin tribune._](https://chroniclingamerica.loc.gov/lccn/sn87076794/1874-12-17/ed-1/seq-1)
+## From _The Tiffin tribune._
 
 #### 1874-12-17 &middot; [Tiffin, Ohio](http://dbpedia.org/resource/Tiffin%2C_Ohio)
 
@@ -851,42 +964,39 @@ I&#x27;ve here telling Emily.&quot;—Harper&#x27; Mag
 
   
   
-Lord Dufferin bas given the Do­  
+Lord Dufferin has given the Do­  
 minion people a new by-word, which  
-bas spread with electric rapidity from  
+has spread with electric rapidity from  
 one end of Canada to the other. On  
-bis voyage out, being called upon by  
+his voyage out, being called upon by  
 the emigrants to address them, he  
 alluded to the phrase, which had  
-grated harshly on bis ear : &quot;He bail  
-tbe misfortune to have too many chil­  
-dren.&quot; Lord D. said : &quot;I remarked  
+grated harshly on his ears: &quot;He had  
+the misfortune to have too many chil­  
+dren.&quot; Lord D. said: &quot;I remarked  
 that perhaps no better idea could be  
-given of tbe difference between tbe  
-old country and their new borne than  
+given of the difference between the  
+oid country and their new home than  
 by the fact that whereas in England a  
 struggling man might be overweight­  
-ed in tbe battle or life by a numerous  
-family, in the land to which tbey  
+ed in the battle of life by a numerous  
+family, in the land to which they  
 were going a man can scarcely have  
-too mny children. Here I was ap­  
+too many children. Here I was ap­  
 plauded lustily, with a cheerful ac­  
 companiment of laughter also, when  
 I was further greeted by a thump on  
 the back by a stalwart young emi­  
-grant, who cried oat. &#x27;Right yoa are  
+grant, who cried out, &quot;Right you are  
 sir; that&#x27;s what I&#x27;ve been telling  
-Emily.&#x27; &quot; Tbe Canadians have got  
+Emily.&quot;&quot; The Canadians have got  
 up the slang phrase, &quot;That&#x27;s what  
 I&#x27;ve been telling Emily,&quot; having had  
 the anecdote made familiar by going  
 the round of the papers, and one hears  
 everywhere, &quot;That&#x27;s what I&#x27;ve been  
 telling Emily,
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn87076794%2F00280775137%2F1874121701%2F0345.jp2/pct:59.935083,79.106425,8.933108,11.609958/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -1038,51 +1148,48 @@ appreng hmp , +ito e by º otal
 
 ---
 
-## [From _The Findlay Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn85026034/1874-12-25/ed-1/seq-1)
+## From _The Findlay Jeffersonian._
 
 #### 1874-12-25 &middot; [Findlay, Hancock County, Ohio](http://dbpedia.org/resource/Findlay%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-F.MILY. Canada&#x27;s bright and sensible  
+EMIlY.--Canada&#x27;s bright and sensible  
 Governor-General, Lord Dufferin, has  
 given to the Dominion people a new by  
-word, which has spread with electrio  
+word, which has spread with electric  
 rapidity from one end of Canada to the  
 other. On his voyage out, being called  
-upon by the emigrants to address them.  
-he alluded to the phrase, which bad  
-grated liarshly on his ear, &quot;He had the  
+upon by the emigrants to address them,  
+he alluded to the phrase, which had  
+grated harshly on his ear, &quot;He had the  
 misfortune of having too many chil  
 dren.&quot;  
 Lord Dufferin said: &quot;I remarked that  
 perhaps no better idea could be given  
-of dillerence between the old country  
+of difference between the old country  
 and their new home than by the fact  
-that whereas in England a. struggling  
+that whereas in England a struggling  
 man might be overweighed in the battle  
 of life by a too numerous family, in the  
-land to xv Inch thwy were going a man  
+land to which they were going a man  
 could scarcely have too many children.  
-Here I wits applauded lustily with a  
+Here I was applauded lustily with a  
 cheerful accompaniment of laughter al­  
 so, when I was further greeted with an  
 improving thump on the back by a stal­  
 wart young emigrant, who cried out,  
-&#x27;liight, you are sir; that s what I ve  
-been telling Emily.&#x27;&quot;  
-idie Canadians have got up the slang  
+&quot;Right, you are sir; that&#x27;s what I&#x27;ve  
+been telling Emily.&quot;  
+The Canadians have got up the slang  
 phrase, &quot;That&#x27;s what I&#x27;ve been telling  
-hiiiilv. having had tne anecdote made  
+Emily,&quot; having had the anecdote made  
 familiar by going the rounds of the  
-newspapers, aud now one hear every  
-where, &quot;That s what 1 ve been telling  
-Emily.&quot; Harper&#x27;a Mmjazine
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85026034%2F00280774984%2F1874122501%2F0475.jp2/pct:83.279364,43.708452,9.420077,13.687085/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+newspapers, and now one hears every.  
+where, &quot;That&#x27;s what I&#x27;ve been telling  
+Emily.&quot;--Harper&#x27;s MazAzINE
+</td></tr></table>
 
 ---
 
@@ -1134,39 +1241,29 @@ That&#x27;ll what I&#x27;ve been Idling Kmlly.&#x27;
 
 ---
 
-## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1875-01-09/ed-1/seq-7)
+## From _The Ottawa free trader._
 
 #### 1875-01-09 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-together.&#x27; And Mr. Uovburne read : p.-rhapi 20 better idea could be given of the  
-I cannot hope, dear Jennie, that you could : difference between the old country and their  
-foruive nn-: I saw that them was uo mercvl new home, than by the fact that when as in
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_cataloging_ver01%2Fdata%2Fsn84038582%2F00212471525%2F1875010901%2F0804.jp2/pct:34.577259,77.952650,30.145773,1.466236/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1875-01-09/ed-1/seq-7)
-
-#### 1875-01-09 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
+erly be made Secretary of State; and then it  
+could be said we have returned to the gov­  
+ernment of our fathers.  
   
-ons family, in the land to which they werj, said &#x27;He guessed be d walk around fur a  
-gotnga m-i- could hcarct-ly haveioo many I while.&#x27; The woman sought to di.-cour.-.gc  
-children. Here I was applauded lustily,) nun, but he would. He w as absent f..r about  
-with ;t cheertal accompaniment of laughter&#x27; half an hour, and ca&#x27;.e buck with a cut in  
-al io, when I was further greeted with an im-! his ear. a bloody shirt bosom, a no-e like a
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_cataloging_ver01%2Fdata%2Fsn84038582%2F00212471525%2F1875010901%2F0804.jp2/pct:49.698737,80.387409,30.398445,2.555825/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Mind Youn WiFe. While a middle aged  
+  
+overcope e watin at the anin eot  
+  
+welghed in the battle of life by a too numervesterday to go West, the man got up and  
+  
+ous family, in the land to which they were said He guessed he&#x27;d walk around for a  
+gong a man could scarcely have o man wi e woman so o icoge  
+children. Here I was applauded lustily, nim but he would. He was absent or abont  
+with a cheerful accompaaiment of laughter half an hour, and case back with a cut in  
+also, when I was further greeted with an ini ara bo shi oso a o ie 
+</td></tr></table>
 
 ---
 
@@ -1615,47 +1712,71 @@ Emily.
 
 ---
 
-## [From _The Dallas daily herald._](https://chroniclingamerica.loc.gov/lccn/sn83025733/1875-03-05/ed-1/seq-2)
+## From _The Dallas daily herald._
 
 #### 1875-03-05 &middot; [Dallas, Tex.](http://dbpedia.org/resource/Dallas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-(Junadii&#x27;s bright and sensible gov­  
-ernor genernl, JiOid Dufl&#x27;erin, hits  
-given to the dominion people u new  
-bv-word. which has unread with  
-eloe.trio rapidity from one end of  
-- anauu to tne other. un ins voyage  
-out, . being culled on,, by tho emi­  
-gritnts to atldress, them, ho iill,uded  
-to this phriiMV which had grated  
-harshly on his can &quot;Ho hud the  
-misfortune , of having too many  
-ehildrVn: &#x27;fjord lAilTerin Vuid  
+th. But his health, which  
+had been failing for some time, rap­  
+idly declined, and he died on Sun­  
+day morning, the 14th inst. He  
+had all the grace and consolation of  
+receiving all the sacraments of the  
+church before his death.  
+Warm hearted and generous, the  
+ever faithful friend of the poor, the  
+outeast and the orphan, in his last  
+hours Mr. McKenna forgot not those  
+whom he had always assisted during  
+life, as his bequests to the Infant  
+Orphan asylum and the House of  
+Good Shepherd, in his last will and  
+testament--New Orleans Morning  
+Star, 20th ult, aid to na  
+That&#x27;s Whatl I&#x27;ve Been Teiling  
+EmIly.&quot;  
+Canada&#x27;s bright and sensible gov­  
+ernor general, Lord Dufferin, has  
+given to the dominion people a new  
+byword, which has spread with  
+electric rapidity from one end of  
+anada to the other. On his voyage  
+out, being called on by the emi­  
+grants to address them, he alluded  
+to this phrase, which had grated  
+harshly on his ear: &quot;He had the  
+misfortune of having too many  
+children. Lord Dufferin said  
 remarked that perhaps no better  
-idea could bo given of the difference  
-between the old conntrv and their  
-new homo&#x27; limn by the fuel that  
-whereas in hngland n struggling  
-man might Ihi ovei woighed in- tbe  
-battle of lite by a too numerous  
-family, in the land to which Ihey  
-were goin;uvni:tn cotihl, Kiircolv  
-bavu too many cliildron. Here I  
-wan upilauded lustily With a cheer­  
-fnl aecompanimentof laughter also,  
-when I wn furl lie? greeted by nu  
-upproving mump on, the buck by  
-ft  
-Miaiwiri young pmigranl, &#x27; &#x27;Jiig  
+idea could be given of the difference  
+between the old country and their  
+new home than by the fact that  
+whercas in England a struggling  
+man might he overweighed in the  
+battle of life by a too numerous  
+family, in the land to which they  
+were going a man could searcely  
+have too many children. Here I  
+was applauded lustily, with a cheer­  
+ful accompaniment of laughter also,  
+when I was further greeted by an  
+appraving thump on the back by  
+  
+stalwart young emigrant. &#x27;Ig  
 you are sir; that&#x27;s what I&#x27;ve be  
-Jiigh
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_bentley_ver01%2Fdata%2Fsn83025733%2F00200297544%2F1875030501%2F0661.jp2/pct:32.488575,74.141812,12.401329,15.475521/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Right  
+lecft  
+telling Emily.&quot;&quot; The Canadians  
+have got up the slang phrase,  
+&quot;That&#x27;s what I&#x27;ve been telling  
+Emily,&quot; having had the aneedote  
+made familliar by going the rounds  
+of the newspapers, and now one  
+hears everywhere, &quot;That&#x27;s what  
+I&#x27;ve heen telling Emily.
+</td></tr></table>
 
 ---
 
@@ -1791,53 +1912,68 @@ been tellin&#x27; Emily.&quot; We (Register) hav
 
 ---
 
-## [From _The Dallas weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84022279/1875-03-13/ed-1/seq-4)
+## From _The Dallas weekly herald._
 
 #### 1875-03-13 &middot; [Dallas, Tex.](http://dbpedia.org/resource/Dallas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-, .Canada&#x27;s bright and sensible gov  
-ei iior general, Lord Duff&#x27;urin, hus  
-givon to tho dominion people u new  
-by-word, Which has spread with  
+mittee of the  
+Delaware diocese have taken the same  
+action.  
+BurLINGTON, N. J., March 6.-The  
+standing committees of the diocese of  
+New Jersey refuse to consent to Jag-  
+ger&#x27;s consecration. The DeKoven  
+papers have not been received.  
+NEW ORLEANS, March 6.-General  
+Sheridan and Col. Forsythe, of his  
+staff, left this afternoon for the west  
+via the Jackson railroad.  
+NEw York, March 6. Loans,  
+decrease, $500,000; spocie, decrease,  
+500,000, legal tenders, decrease, 9400,  
+000; deposits, decrease, $3,500,000; cir-  
+culation, decrease, $1,000,000; reserves,  
+decrease, $6,500,000.  
+&quot;That&#x27;s What I&#x27;ve Been Telling  
+Canada&#x27;s bright and sensible gov  
+ernor general, Lord Dufferin, has  
+given to the dominion people a new  
+by-word, which has spread with  
 electric rapidity from one end of  
 Canada to the other. On his voyage  
-out, being called on by the cmi  
-grants to address them, ho alluded  
-lo this phrase, which hud grated  
-harshly on his car : &quot;Ho hud the  
-inisfortuno of. having too many  
-children. I... Jjord .Uniterm sit id : ;  
-remarked &#x27; thai &#x27;perhaps no belter  
-idea could be gi ven ol the difference  
-between tho old country and tlieir  
+out, being called on by the emi  
+grants to address them, he alluded  
+to this phrase, which had grated  
+harshly on his ear: &quot;He had the  
+misfortune of having too many  
+children.&quot; Lord Dufferin said:  
+remarked that perhaps no better  
+idea could he given of the difference  
+between the old country and their  
 new home than by the fact that  
-whereas in England it struggling  
-mini might ho ovorwoighod in the  
-battle ot lilo by it too numerous  
-family, in tlio land to which they  
-woro going a man could senrcoly  
-have too many children. Here i  
-was applauded lustilj&#x27;, with u cheer  
-ful Accompaniment of laughter also,  
-when 1 wus further greeted by un  
+whereas in England a struggling  
+man might be overweighed in the  
+battle of life by a too numerous  
+family, in the land to which they  
+were going a man could scarcely  
+have too many children. Here I  
+was applauded lustily, with a cheer  
+ful accompaniment of laughter also,  
+when I was further greeted by an  
 approving thump on the back by a  
-stalwart young emigrant, &#x27;Right  
-you are sir : that s what 1 vo boon  
-tolling Emily. &#x27; The Canadians  
-havo got up the slung phrase,  
+stalwart young emigrant, &quot;Right  
+you are sir; that&#x27;s what I&#x27;ve been  
+telling Emily.&quot; The Canadians  
+have got up the slang phrase,  
 &quot;That&#x27;s what I&#x27;ve been telling  
-Emily, having had tho nnecdole  
-made lamiinar oy going mo rounds  
-of the newspapers, und now ono  
-hoars everywhere, &quot;That&#x27;s what  
+Emily,&quot; having had the anecdote  
+made familliar by going the rounds  
+of the newspapers, and now one  
+hears everywhere, &quot;That&#x27;s what  
 I&#x27;ve been telling Emily.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/txdn_eagle_ver01%2Fdata%2Fsn84022279%2F00200296552%2F1875031301%2F0688.jp2/pct:39.105839,57.944183,10.857664,18.361426/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 

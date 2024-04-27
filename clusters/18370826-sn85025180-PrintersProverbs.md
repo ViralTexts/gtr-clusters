@@ -1,7 +1,7 @@
 
 # Printers Proverbs
 
-### 159 reprints from 1837-08-26 to 1881-11-03
+### 173 reprints from 1837-08-26 to 1881-11-03
 
 ## [Printers Proverbs](https://chroniclingamerica.loc.gov/lccn/sn85025180/1837-08-26/ed-1/seq-1/)
 
@@ -951,6 +951,21 @@ oneB
 
 ---
 
+## From _The Hillsborough recorder._
+
+#### 1840-10-15 &middot; [Hillsborough, N.C.](http://dbpedia.org/resource/Hillsborough%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Prefer thy county paper to any  
+other, subscribe immediately for it.  
+pay in advance, and it shall be well  
+with thee and thy little ones
+</td></tr></table>
+
+---
+
 ## [From _Jeffersonian Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053954/1841-11-03/ed-1/seq-1)
 
 #### 1841-11-03 &middot; [Stroudsburg, Pa.](http://dbpedia.org/resource/Stroudsburg%2C_Pennsylvania)
@@ -1462,6 +1477,35 @@ being struck ofT or look over the shoulders
 
 ---
 
+## From _The Columbia Democrat._
+
+#### 1844-07-27 &middot; [Bloomsburg, Pa.](http://dbpedia.org/resource/Bloomsburg%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+PrINTERS PrOvErbS.  Never enquire  
+thon of the printer of the News, for be­  
+hold it is his duty at the appointed time  
+to give it unto thee without asking.  
+It is not fit that thou should&#x27;st ask of  
+him who is the author of an article, for  
+his duty requires him to keep such  
+things unto himself.  
+When don d-Deint  
+ing Office have a care to thyself thou  
+lost not touch the types, for thou may&#x27;st  
+cause the printer much trouble.  
+Look not at the Copy which is in the  
+hands of the compositor, for that is not  
+meet in the sight of the Printer.  
+Neither peep over the oulside while  
+tis being worked off, or look over the  
+shoulders of the Editor while he is rea
+</td></tr></table>
+
+---
+
 ## PRINTERS' PRECEPTS.
 
 #### From _The Catholic Telegraph (1831-1846)_
@@ -1702,6 +1746,38 @@ little ones.&quot; When the Earl o
 
 ---
 
+## From _Wheeling times and advertiser._
+
+#### 1846-12-31 &middot; [Wheeling, Va. [W. Va.]](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+1. Never inquire thou of the editor for the  
+news, fos behold it ishis dufy at the appoint­  
+ed time to give it to thee without askiing.  
+2. When thou dost write for his paper,  
+never sty unto him, &quot;what thinkest thou of  
+my piece?&quot; for it may be the truth will offend  
+thee.   
+13. It is not fit that thou should&#x27;st ask of  
+him who is the author of any article, for his  
+duty requireth him to keep it to himself.  
+4. When thou dost enter a priuting office  
+have a care to thyself that thou dost not touch  
+a type, for thou mayest cause the printer much  
+trouble.  
+5. Look thou not at the copy waich is in  
+the hands of the compositors; for &#x27;tis not meet  
+in the eyes of the printer.  
+.6. Neither evamine thou the proof sheet,  
+for it is not ready to meet thine eye, and thou  
+mayest not understand it.  
+7 When thou sendest a communication t
+</td></tr></table>
+
+---
+
 ## [From _Christian Watchman (1819-1848)_](https://archive.org/details/sim_watchman-examiner_1847-09-10_28_37/page/n3/mode/1up?view=theater)
 
 #### 1847-09-10 &middot; [Boston](http://dbpedia.org/resource/Boston)
@@ -1808,6 +1884,52 @@ and thy little ones
 
 ---
 
+## From _Spirit of the age._
+
+#### 1847-10-28 &middot; [Woodstock, Vt.](http://dbpedia.org/resource/Woodstock%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+e who have not paid for the last  
+half volume, by forwarding one dollar and  
+seventy-five cents immediately, will be en­  
+titled to a receipt to the close of the next  
+volume. Any portion of the last volume  
+for which subscription is due can be set­  
+tled in the same ratio--that is, at the rate  
+of $1,50 for the past and $1,00 for the  
+next volume, in advance.  
+We trust our subscribers will consider  
+it an object to comply with these terms,  
+for by so doing they will procure their pa­  
+per for a less price and enable us to con­  
+duct the business much more to the ad­  
+vantage of all concerned.  
+Oct, 27, &#x27;47.  
+Printers&#x27; Proverbs.  
+1. Never enquire thou of the editor for the  
+news, for behold it is his duty at the appointed  
+time, for him to give it unto thee without thy ask­  
+ing. When thea dest write for his paper, never  
+say unto him, &quot;what thinkest thou of my piece?&quot;  
+for it may be that the truth might offend thee.  
+3. It is not fit that thou should ask of him who  
+is the author of any article, for his duty requires  
+him to keep such things to himself.  
+A. When thou dost enter into a printing office,  
+have a care unto thyself, that thou dost not touch  
+the type; for thou mayst cause the printor much  
+trouble.  
+5. Look not thou at the copy which is in the  
+hands of the compositors, for that is not meet in  
+the sight of the printer.  
+6. Neither examine thou the proof sheet; for it  
+is not ready to meet thine eye, that thou mayest  
+understand it.-Eater Veies Leter
+</td></tr></table>
+
+---
+
 ## Printer's Proverbs
 
 #### From _The Semi-weekly Natchez courier._
@@ -1818,45 +1940,42 @@ and thy little ones
 
 ---
 
-## [From _The Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn87070038/1847-10-29/ed-1/seq-1)
+## From _The Lancaster gazette._
 
 #### 1847-10-29 &middot; [Lancaster, Ohio](http://dbpedia.org/resource/Lancaster%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-.&#x27; Printers Proverbs.  
+PrinTerS PrOvErbS.  
 I. Never enquire thou of the editor  
 for the news, for behold it is his duty at  
 the appointed time to give it unto thee  
-without asking. &#x27;  
-II. Whon tbou dost write for his pa;  
-per, never say unto him, &quot; w hat thinkest  
+without asking.  
+H. When thou dost write for his pa-  
+per, never say unto him, &quot;What thinkest  
 thou of my piece?&quot; for it may be that the  
-truth might offend thee. .  
-III. It is not nt that thou sbouldatask  
+truth might offend thee.  
+III. It is not fit that thou shouldst ask  
 of him who is the author of any article, for  
 his duty requires him to keep such things  
-to himself. . .- &quot; &#x27; - &#x27; &quot; &#x27;  
+to himself.S7y   
 IV. When thou dost enter into a print  
 ing office, have a care unto thyself, that  
 thou dost not touch the type; for thou  
 mayest cause the printer much trouble.  
-w&#x27;r . .1 . . .1 I 1  
-V. Look not thou at tne copy wnicn is  
+oe  o ee  oo  
+V. Look not thou at the copy which is  
 in the hands of the compositors, for that  
-is not meet in the sight of the printer.  
+is not meet in the sight of the printor.  
 VI. Neither examine thou the proof  
-sheet; foi it is not ready lo meet thine  
+sheet; for it is not ready to meet thine  
 eye, that thou mayest understand it.  
-VII. Preferthine own county newspa  
-pertoany other subscribe immediately  
+VII, Prefer thine own county newspa  
+per to any other--subscribe immediately  
 for it and pay in advance, and it shall be  
-well withjthee and thy littleones. Exite
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn87070038%2F00296028058%2F1847102901%2F0079.jp2/pct:42.676623,73.300234,12.693854,15.473728/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+well with thee and thy little ones.Exite
+</td></tr></table>
 
 ---
 
@@ -1920,43 +2039,76 @@ and thy little one
 
 ---
 
-## [From _Juliet signal._](https://chroniclingamerica.loc.gov/lccn/sn84024082/1847-11-16/ed-1/seq-1)
+## From _Juliet signal._
 
 #### 1847-11-16 &middot; [Juliet [i.e. Joliet], Ill.](http://dbpedia.org/resource/Joliet%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Pkixtebs&#x27; Fhoverbs: Never inquire  
-fhou of the editor for the news,, for.; be­  
-hold it is his &#x27;duty at the- appointed limo  
-(ogive it unto thee without nsking c ... .  
-&quot;H.i-When though dost write for hi  
-paper, never sayinto him What thinkw  
-est thou of my -peace?&quot; for it may be thai  
-th&#x27;a truth might offend thee. -- -:  
-1 IIL It is riot fit &quot;that 4 thou : should ask  
-of hirii who?is &#x27;the author of any&quot; article,  
-for his - duty requires him to keep - ; such  
-things to himself. &quot; ,;&#x27; &#x27;  
-IV&quot;. When thou dost &#x27; enter&#x27; into k  
-printing office, have a care &quot; unto thyaelf;  
+PRINTERS&#x27; PROVERNS. Never inquire  
+thou of the editor for the news, for be­  
+hold it is his duty at the appointed time  
+to give it unto thee without askinge basy  
+&quot;I. When though dost write for hi  
+paper, never say unto him--&quot;What think-  
+est thou of my peace?&quot; for it may be that  
+the truth might offend thee. noowiesel  
+HI It is not fit that thou should ask  
+of him who is the author of any article,  
+for his duty requires him to keep such  
+things to himself. aohangsis  
+IV. When thou dost enter into a  
+printing office, have a care unto thyself,  
 that thou dost not touch the type; for thou  
-mayest cause the &quot;printer much trooble. N  
-, V. Look not thou at the copy which is  
-in .the hands otho corripositors, .-fir that  
-is not meet In the sight of the pririier. . i  
-t . VI. Neither sxaniine , thou - the proof  
-sheet; for, it is net ready to meet , thine  
-eye, that thou mayest understand it,r,  
-YH. Prefer thine own city newspaper  
-to any other subscribe immediately 1 for  
+mayest cause the printer much truoble.  
+V. Look not thou at the copy which is  
+in the hands of the compositors, for that  
+is not meet in the sight of the printer.   
+o VI. Neither examine thou the proof  
+sheet; for it is not ready to meet thine  
+eye, that thou mayest understand it.  
+VII. Brefer thine own city newspaper  
+to any other--subscribe immediately for  
 it and pay in advance, and it shall be well  
-wilh thee and thy little &quot;, ones. Extr
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_cataloging_ver01%2Fdata%2Fsn84024082%2F0021247163A%2F1847111601%2F0265.jp2/pct:79.058070,29.777283,14.631916,16.369710/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+with thee and thy little ones.Et
+</td></tr></table>
+
+---
+
+## From _Baton-Rouge gazette._
+
+#### 1847-11-20 &middot; [Baton-Rouge, La.](http://dbpedia.org/resource/Baton_Rouge%2C_Louisiana)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+FHIN FBR&#x27;S PROVERBS.  
+I Never inquire thou of the editor for the  
+bews, for behol it is his duty at the sppoint­  
+ed time to give it uinto thee without asking  
+11. When thou dos&#x27; write for his paper, ney  
+er say unto him, &quot;What thinkest thou of my  
+piese?&#x27; forit may be that the truth might of  
+fend the.  
+I. It is not fit that thou should ask of him  
+who is the author of any articles, for his duty  
+requires him to keap sush things to himself,  
+1V When thon dost enter into a printing office  
+have a care unto thyself, that thou dost bot  
+toneh the type; for thou mayest canes the  
+printer much trouble.  
+VLook not thou at the copy which is in  
+the hands of the compositor, for that is not  
+moet in the sight of the printer,  
+VI. Neither evamine thou the proof shest  
+for it is not ready to meet thine eys, that thou  
+mayest uinderstand it.  
+VII. Prefor thine own city neu anaper to sy  
+ather--subscribe immediately for i ante  
+n advanse, and it shall be walf with thes  
+and thy little ones
+</td></tr></table>
 
 ---
 
@@ -2105,45 +2257,48 @@ VII. Prefer thy own city newspaper to
 
 ---
 
-## [From _The Charlotte journal._](https://chroniclingamerica.loc.gov/lccn/sn84020716/1848-05-10/ed-1/seq-1)
+## From _The Charlotte journal._
 
 #### 1848-05-10 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-might offend thee. coldeal and d.rke.t hour of fate, ..ill twine  
-2 II i not fit thai thou ahould.l ask ofi its tanditls around the crumbling altars and  
-him who ia the author nf any article, for broken arcbra of the desolate lemp&#x27;.ee of  
   
-hia dutu rrouires htm to keep such things tbo huinau h.ail I  
+for behold it is his duty, at the appoiled oe o o i o e  
+ti e, to give it to thee without asking an fe and fadee am the muttion  
+2. When thou dost write for his paperof te in ean ee e a  
+never say unto him, what thinkest thou of something green, something beautiful to  
+my piece! for it may be that the truth see, and grateful to the soul, will, in the  
+might offend the  ode and dares hor of ate ti tine  
+3. It is not fit that thou shouldet ask ofits ten arun the ruin aar an  
+him who is the author of any arlicle, foro ae o te ete tee of  
   
-j i -  
+hi dut eires i o ee o tie e e  
   
-to hiinaelf.  
+ oa ooee  
+  
+to himself.  
   
 4. When thou dost enter into a printing  
 office, have care unto thyself, that thou  
   
-touch not the typo for thou way eel cause  
+touch not the type for thou mayest cause  
   
-ihe printer much trouble.  
+the printer much trouble.  
   
-5. Look not inou al ine copy win  
-in the hands of the compositor, for that ia  
+5. Look not thou at the copy whi  
+in the hands of the compositor, for that is  
   
-not meet in the eight of the printer.  
-8. Neither examine thou the proof sheets,  
-for it ia not ready to meet thin eye lhal  
-thou mayeal understand it.  
+not meet in the sight of the printer.  
+6. Neither examine thou the proof sheets,  
+for it is not ready to meet thine eye that  
+thou mayest understand it.  
 7. Prefer thine own county newspaper  
-to any other; end subscribe immediately  
-for it, and pay in advance, end it ahall be  
-well with Ibce end thy little onei. Ex. pa
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_chestnut_ver01%2Fdata%2Fsn84020716%2F00415667711%2F1848051001%2F0070.jp2/pct:32.702350,81.223902,29.590949,11.072714/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+to any other; and subscribe immediately  
+for it, and pay in advance, and it shall be  
+well with thee and thy little ones.- Er.Pa
+</td></tr></table>
 
 ---
 
@@ -2154,6 +2309,29 @@ well with Ibce end thy little onei. Ex. pa
 #### 1848-05-20 &middot; [Tallahassee [Fla.]](http://dbpedia.org/resource/Tallahassee%2C_Florida)
 
 [This text is not available under an open license.]
+
+---
+
+## From _Lynchburg Virginian._
+
+#### 1848-07-13 &middot; [Lynchburg [Va.]](http://dbpedia.org/resource/Lynchburg%2C_Virginia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+ghke thou of the editor the news, fiar behuld  
+if is his duty to give it to thee at the appoinied thn  
+9tthtail a­  
+It is nat fit thou shcaldst ask of him who is the anth  
+nor of any atticle, for his duty requires him to keep  
+such things to hm  
+When thon dast enter into a printing office, have  
+lype,I  
+navest cause the poiuter much trouble.  
+Prefer thine ewn country new-papers to anyther  
+ecribe immediately for it and pay in advance, and it  
+be well with thee and thy little ones
+</td></tr></table>
 
 ---
 
@@ -2445,6 +2623,37 @@ and thy little ones. Picayune
 #### 1850-04-10 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
 [This text is not available under an open license.]
+
+---
+
+## From _Lynchburg Virginian._
+
+#### 1850-07-01 &middot; [Lynchburg [Va.]](http://dbpedia.org/resource/Lynchburg%2C_Virginia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+PRINTErsPrOYErBS.  
+Never enquire thon of the editor for the news, for be­  
+hold it is his duty, at the appointed time, to give it unto  
+thee without asking.  
+When thou dost write for his paper, never say unto  
+him &quot;what thinkest thou of my picce?&quot; for it may be  
+that the truth may offend thee.  
+It is not fit that thou shouldst ask him who is the an  
+thor of an article, for his duty requires him to keep such  
+things to himself.  
+When thou dost enter into his office, have a care  
+unt thys if that thou dost not look at what may be ly­  
+ing open, for that is not meet in the sight of good breed  
+ing.  
+Neither examine thou the prof-sheet, for it is not  
+yet ready to mect thine eye, that thou mayest under  
+stand it.  
+Prefer the bost conducted newspaper to any other, and  
+sulescribe immediately for it, and pay in advance, and it  
+shall be well with thee, and thy liitle ones
+</td></tr></table>
 
 ---
 
@@ -2790,37 +2999,46 @@ with thee and thy littie ones
 
 ---
 
-## [From _The Southern star._](https://chroniclingamerica.loc.gov/lccn/sn87065523/1856-03-29/ed-1/seq-3)
+## From _The Southern star._
 
 #### 1856-03-29 &middot; [Panola, Miss.](http://dbpedia.org/resource/Batesville%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Prtnter,s Proverbs  
-Never inquire thou of the editor ih  
+Printer,s Proverbs  
+Never inquire thou of the editor the  
 news, for behold it is his duty at the  
 appointed time to give it unto thee  
 without asking.  
-When th ud-st wrt f-r his paper,  
-never say u i o I im &#x27;wt t thinker thou  
-ofmypiec ?&#x27; fori&#x27;, may Le th.t tc  
-truth would ff ndtluje.  
-It is not fit that thou svouldst ask  
-him who is the au hor of an article, for  
-his duty requhes him to keep suck  
+When th u dost write for his paper,  
+never say unto him what thinkest thou  
+of my piec? for it may be that the  
+truth would off nd thee.  
+It is not fit that thou shouldst ask  
+him who is the author of an article, for  
+his duty requires him to keep such  
 things to himself.  
-When thou do?t enter his office, take  
+When thou dost enter his office, take  
 heed unto thyself that thou dost not  
-look at what may be ling open; for  
-that is not raett in the sight of good  
-breedii-g. Neither examine thou the  
-proof sheet&#x27; for it is not ready t meet  
-thine eye, that thou mayest understan
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_hoitytoity_ver01%2Fdata%2Fsn87065523%2F00295878174%2F1856032901%2F0462.jp2/pct:62.485227,53.698342,14.857336,15.569887/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+look at what may be lying open; for  
+that is not meet in the sight of good  
+breeding. Neither examine thou the  
+proof sheet&#x27; for it is not ready to meet  
+thine eye, that thou mayest understand  
+it   
+If thou art so unfortunate as to chew  
+tobaco, spit not upon his stove, for it  
+would be an act of impoliteness on thy  
+part.   
+When he gives thee thy paper read  
+it not in his presence, for that is against  
+the rule laid down by great men.  
+Prefer thine own county paper to any­  
+other, and subscribe immediately for i,  
+and pay in advance, and it shall be well  
+with thee and thy little ones
+</td></tr></table>
 
 ---
 
@@ -3010,6 +3228,36 @@ thee and thy little ones
 
 ---
 
+## From _Oxford Democrat._
+
+#### 1856-06-13 &middot; [Paris, Me.](http://dbpedia.org/resource/Paris%2C_Maine)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+PaINTER&#x27;s PRoverus. Never enquire  
+thou of the editor the iews, for behold it is  
+his duty at the appoin ed time to give it un­  
+to thee for five cents.  
+When thou dost write for his paper, never  
+say unto him, &quot;what thinkest thou of my  
+piece?&quot; for it may be that the truth may  
+offend thee.  
+It is not fit that thou shouldest ask him  
+who is the author of an article, for his duty  
+requires him to keep such things to himself  
+When thou dost enter into his office, take  
+heed unto thyself that thou dost not look at  
+what may be laying (pen, for that is not  
+meet in the sight of good breeding.  
+Prefer thine own county paper to any  
+other, and subscribe immodiately for it, and  
+pay in advance, and it will be well with thee  
+and thy little ones
+</td></tr></table>
+
+---
+
 ## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1856-07-26/ed-1/seq-1)
 
 #### 1856-07-26 &middot; [Brownville, Nemaha County, N.T. [Neb.]](http://dbpedia.org/resource/Auburn%2C_Nebraska)
@@ -3082,28 +3330,28 @@ with thee and with thy little ones
 
 ---
 
-## [From _The Winchester home journal._](https://chroniclingamerica.loc.gov/lccn/sn97065088/1857-08-01/ed-1/seq-1)
+## From _The Winchester home journal._
 
 #### 1857-08-01 &middot; [Winchester, Tenn.](http://dbpedia.org/resource/Winchester%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Printers&#x27; Proverbs.  
+PrINTERS&#x27; PrOvErbS.  
 1. Never inquire thou of the editor for  
-tho news; for behold, it is his duty at the  
+the news; for behold, it is his duty at the  
 appointed time to give it unto thee with  
 out asking.  
 2. When thou dost write for his paper,  
 never say unto him, &quot;what thinkest thou  
-of my piece?&quot; for it may be that tho truth  
+of my piece?&quot; for it may be that the truth  
 may offend thee.  
 3. It is not fit that thou should ask of  
 him who is the author of an article upon  
 subjects of public concernment, for duty  
 equires him to keep such things unto  
 himself.  
-4. When thou float enter into the print  
+4. When thou dost enter into the print  
 ing office, have a care unto thyself that  
 thou dost not touch the types; for thou  
 mayest cause the printer much trouble.  
@@ -3114,53 +3362,47 @@ and he might knock thee down.
 6. Neither examine the proof-sheet  
 for it is not ready to meet thine eye, that  
 thou mayest understand it.  
-7, Prefer jour own county paper, the  
+7. Prefer your own county paper, the  
 &quot;Home Journal,&quot; to all other journals;  
 subscribe immediately, and pay for it in  
-advance, and it shall be well with ibee  
+advance, and it shall be well with thee  
 and thy little ones
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn97065088%2F00212470478%2F1857080101%2F0311.jp2/pct:16.847826,37.970027,14.975845,22.152589/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
-## [From _Nashville union and American._](https://chroniclingamerica.loc.gov/lccn/sn85038518/1857-09-06/ed-1/seq-3)
+## From _Nashville union and American._
 
 #### 1857-09-06 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-PRINTERS&#x27; PROVERBS.  
-1. Never inquire thou of the editor for the  
-news ; for behold, it is his duty at the appointed  
+PRINTERS&#x27; PrOvERBS.  
+I. Never inquire thou of the editor for the  
+news; for behold, it is his duty at the appointed  
 time to give it unto thee without asking.  
 2. When thou dost write for his paper, never say  
-unto him, &quot;what thinkett thou of my piece?&quot; for it  
+unto him, &quot;what thinkest thou of my piece?&quot; for it  
 may be that the truth would offend thee.  
 3. It is not fit that thou shouldst ask of him  
 who is the author of an article upon subjects of  
 public concernment, for duty requires him to keep  
-suoh things unto himself.  
+such things unto himself.  
 4. When thou dost enter into a printing office  
 have a care unto thyself that thou do not touch the  
-type, forthou mayeat cause the printer much trouble.  
-5. Look thou not at tho copy which is in the hands  
-of the compositors ; for that is not meet in the sight  
+type, for thou mayest cause the printer much trouble.  
+5. Look thou not at the copy which is in the hands  
+of the compositors; for that is not meet in the sight  
 of the printer, and he might knock thee down.  
-C. Neither examine the proof-sheet, for it is  
-not ready to meet thine eye, ihat thou xnayest un­  
+6. Neither examine the proof-sheet, for it is  
+not ready to meet thine eye, that thou mayest un­  
 derstand it.  
-7. Prefer the Union nnd American to all other  
-journals subscribe immediately for it, py in  
+7. Prefer the Union and American to all other  
+journals subscribe immediately for it, pay in  
 advance, and it shall be well with thee and thy little  
 ones
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_dolly_ver01%2Fdata%2Fsn85038518%2F00200293241%2F1857090601%2F0237.jp2/pct:5.262313,42.430678,12.963260,9.899705/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -3242,7 +3484,7 @@ may est noderUencMt
 
 ---
 
-## [From _Daily Iowa State Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014134/1857-10-17/ed-1/seq-2)
+## From _Daily Iowa State Democrat._
 
 #### 1857-10-17 &middot; [Davenport, Iowa](http://dbpedia.org/resource/Davenport%2C_Iowa)
 
@@ -3251,17 +3493,49 @@ may est noderUencMt
   
   
 1. Never inquire thou for the news  
-fof behold, it is his duty at the appoin­  
+for behold, it is his duty at the appoin.­  
 ted time to give it unto thee without  
-&quot;king.  
-2. when thou dost write for his pa­  
-per, never say unto him, &quot;Whatthink­  
-eat thou of my piece V for it may be  
-that the truth would offend thee.&#x27;
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_gastly_ver01%2Fdata%2Fsn82014134%2F00279529261%2F1857101701%2F0155.jp2/pct:4.927413,83.573931,9.646758,4.030489/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+asking.  
+2. When thou dost write for his pa-­  
+per, never say unto him, &quot;What think.­  
+est thou of my piece?&quot; for it may be  
+that the truth would offend thee.&quot;
+</td></tr></table>
+
+---
+
+## From _Daily Iowa State Democrat._
+
+#### 1857-10-17 &middot; [Davenport, Iowa](http://dbpedia.org/resource/Davenport%2C_Iowa)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+3. It is not fit that thou shouldest  
+ask of him, who is the author of an ar  
+ticle upon subjects of public concern-­  
+ment, for duty requires him to keer  
+such things to himself.  
+4. When thou dost enter into the  
+printing office have a care unto thy  
+self that thou do not touch the type,  
+for thou mayest cause the printer much  
+  
+mnasses  
+  
+the great  
+  
+issues  
+  
+From the U.S neonomist.  
+  
+Specie in the Country Total Ciroulation.­  
+At this time when certain parties, from  
+intereted motives, persist in aseribing the  
+present panis to a too great depletion of  
+the precious metals from the currency, i
+</td></tr></table>
 
 ---
 
@@ -3810,6 +4084,44 @@ and thy little ones. THE PATRIOTI
 
 ---
 
+## From _The Tiffin tribune._
+
+#### 1858-07-23 &middot; [Tiffin, Ohio](http://dbpedia.org/resource/Tiffin%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+  
+1. Never inquire thou of the Editor for  
+the news, for behold! it is his duty as the  
+appointed time, to give it unto thee withou  
+asking.  
+2. When thou dost write for his paper,  
+never ask him &quot;What thinkest thou of my  
+piece?&quot; for it may be that the truth might  
+offend thee,  
+3. It is not fit that thou shouldst ask of  
+him who is the author of an article upon  
+subjects of public concernment, for duty  
+requires him to keep such things unto  
+himself.  
+4. When thou dost enter into the print  
+ing office, thou shouldst avoid loud talk­  
+ing, and have care unto thyself that thou  
+dost not touch the type or the press, for  
+thou mayest cause the printer much troub­  
+e. Lock thou nof at copy which is is  
+the hands of the compositors for that is  
+not meet in the sight of the printer, and  
+he might knock thee down.  
+o. Never examine the proof sheets, for  
+it is not ready to meet thine eye, that  
+thou mayest understand it.
+</td></tr></table>
+
+---
+
 ## [From _Theatrical Journal 1839-1871_](https://archive.org/details/sim_theatrical-journal_1858-08-11_19_974/page/n6/mode/1up?view=theater)
 
 #### 1858-08-11
@@ -3925,44 +4237,40 @@ amine thou the proof sheet, for it isnot ready to meet thine eye, tha
 
 ---
 
-## [From _American Lancaster gazette._](https://chroniclingamerica.loc.gov/lccn/sn85026105/1858-09-02/ed-1/seq-1)
+## From _American Lancaster gazette._
 
 #### 1858-09-02 &middot; [Lancaster, Ohio](http://dbpedia.org/resource/Lancaster%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-i. Never inquire thou of the Editor for  
-the news, for behold 1 it is&#x27;hisduty at the ap­  
-pointed time, Io give it unto thee without  
-skiog. &quot; &quot;  
-. 2. When thoo dost write for his paper  
-never ask hint. &#x27;What tbinkeat thou of my  
-p!ecf&#x27; for It may be that tbe truth might  
-offend tbee.  
+I. Never inquire thou of the Editor for  
+the news, for behold! it is his duty at the ap­  
+pointed time, to give it unto thee without  
+sking.  
+2. When thou dost write for his paper  
+never ask him, &quot;What thinkest thou of my  
+piece?&quot; for it may be that the truth might  
+offend thee.  
 3. It is not fit that thou shouldst ask  
-of bim who is the author of an ar icle up­  
-on fr&amp;hjeett of puhlio esocernment, for  
-duty requites bim to keep such thing un­  
+of him who is the author of an ar icle up­  
+on subjects of public concernment, for  
+duty requirés him to keep such thing un­  
 to himself.  
-4. When thou dost enter into tbe  
+4. When thou dost enter into the  
 printing office, thou shouldst avoid loud  
-talking. And have a care unto thyself that  
-thdu dost riot touch the type or the press  
-for thou mayest &#x27;cause the ptioter mueb  
-trouDle.  
+talking, and have a care unto thyself that  
+thou dost not touch the type or the press  
+for thou mayest cause the printer much  
+trouble.  
   
-6i Never examine tbe proof absets, for  
-it is not ready to meet I bine eye, lltat tbou  
-may eft understand it. . . .  
-9. Look thou not it copy which is in  
-the bands of tbe compositor, for that is  
-not meet in the sight ol the printer, and  
-be might knot tbee down. 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_drake_ver01%2Fdata%2Fsn85026105%2F00296028046%2F1858090201%2F0828.jp2/pct:69.467584,25.096366,12.332488,14.151982/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+5. Never examine the proof sheets, for  
+it is not ready to meet thine eye, that thou  
+mayest understand it.  
+6. Look thou not at copy which is in  
+the hands of the compositor, for that is  
+not meet in the sight of the printar, an
+</td></tr></table>
 
 ---
 
@@ -4055,99 +4363,71 @@ not meet in the sight of the printer, aud h
 
 ---
 
-## [From _Randolph County journal._](https://chroniclingamerica.loc.gov/lccn/sn86058541/1859-02-24/ed-1/seq-3)
+## From _Randolph County journal._
 
 #### 1859-02-24 &middot; [Winchester, Randolph County, Ind.](http://dbpedia.org/resource/Winchester%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-1&#x27;i:iti:i:s&#x27; IY.ovr.i:ns. Never in­  
+PrINTEHs&#x27; PrOvEres.-Never in­  
 quire thou of the editor the news, for  
 behold it is his duty at the appointed  
 time to give it unto thee without ask­  
-ing.When thou dost write for his paper,  
-never say unto him &#x27;what thinke.st thou  
-of my piece?&#x27; lest that the truth will  
+in &quot; Then thou dost write for his paper,  
+never say unto him what thinkest thou  
+of my piece?&quot; lest that the truth will  
 offend thee.  
-Jt is not fit that thou shouldst ask  
-him who is the author of .vt article,  
-tr his duty requires him to keep such  
-thing&#x27;s to himself.  
+It is not fit that thou shouldst ask  
+him who is the author of an article,  
+or his duty requires him to keep such  
+things to himself.  
 When thou dost enter into his office,  
-hive care to thyself that thou tlost not  
-look at what may belying open, for it  
+have care to thyself that thou dost not  
+look at what may be lying open, for it  
 is not mete in the eyes of good breed­  
-ing.Neither examine the proof sheet, for  
+in. e ther examine the proof sheet, for  
 it is not ready to meet thine eye, until  
   
-thou mayest understand it.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_fairmount_ver02%2Fdata%2Fsn86058541%2F00202191472%2F1859022401%2F0257.jp2/pct:16.837402,28.607897,11.083261,11.172566/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+thou mavest understand it.
+</td></tr></table>
 
 ---
 
-## [From _The home journal._](https://chroniclingamerica.loc.gov/lccn/sn95068565/1859-07-28/ed-1/seq-1)
+## From _The home journal._
 
 #### 1859-07-28 &middot; [Winchester, Tenn.](http://dbpedia.org/resource/Winchester%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- morning they look like starved  
-Arabs. The old man calls tbem  
-round him, nnd, wilh an air of gravi­  
-ty, asks;  
-&quot; Who&#x27;ll give a cent to have a nice  
-warm biscuit for brenkfust f&quot;  
-It is needless to say that the cents  
-wcro forthcoming. Good plan.  
-&quot;This world is all a fleeting show,&quot;  
-said a priest lo a culprit on the gal.  
-low. &quot; Ve.&quot; was the prompt reply,  
-.... :r 1M ...i...  
-f i- &quot; &quot; &#x27;&quot;  
-i ee lie bov a little longer !n  
   
-Number 529.  
-  
-PRINTER&#x27;S PROVERBS. .  
-Wo give tho following for the bene­  
-fit of thoso who are in Iho habit of  
-hanging around printing offices. Wo  
-hope they will read and profit there  
-by:  
-1. Never enquire thou of the Edi­  
+I Never enquire thou of the Edi­  
 tor for the news, for behold it is his  
-duty at the appointed time, to givo  
-it to theo without asking.  
-2. When thou dost write for hia  
+duty at the appointed time, to give  
+it to thee without asking.  
+2. When thou dost write for his  
 paper never ask him, &quot;what thinkest  
-thou of my piece ?&quot; for it may bo tho  
+thou of my piece!&quot; for it may be the  
 truth may offend thee.  
 3. It is not fit that thou shouldst  
-ask of him who is tho author of an  
-article upon public concernment, for&#x27;  
+ask of him who is the author of an  
+article upon public concernment, for  
 duty requires him to keep such things  
 unto himself.  
-1. When thou dost enter into tho  
+4. When thou dost enter into the  
 printing office, thou shouldst avoid  
-loud talking und have care unto thy  
-self that thou dost not touch the typo  
-or the press for thou mayest cause tho  
+loud talking and have care unto thy-  
+self that thou dost not touch the type  
+or the press for thou mayest cause the  
 printer much trouble.  
 5. Never examine the proof sheet,  
 for it is not ready to meet thine eyes  
-that thou mnyest understand it.  
-(i. hook thou not at tho copy which  
+that thou mayest understand it.  
+6. Look thou not at the copy which  
 is in the hand of the compositor, for  
-that is not meet in tho sight of a prin­  
-ter, and ho might knock thee down
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_arthur_ver01%2Fdata%2Fsn95068565%2F00212470478%2F1859072801%2F0731.jp2/pct:66.461183,9.660883,26.025814,84.095689/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+that is not meet in the sight of a prin­  
+ter, and he might knock thee down
+</td></tr></table>
 
 ---
 
@@ -4331,7 +4611,7 @@ meet in the sight of the printer
 
 ---
 
-## [From _Greenbrier weekly era._](https://chroniclingamerica.loc.gov/lccn/sn85059652/1861-03-23/ed-1/seq-1)
+## From _Greenbrier weekly era._
 
 #### 1861-03-23 &middot; [Lewisburg, Va. [W. Va.]](http://dbpedia.org/resource/Lewisburg%2C_West_Virginia)
 
@@ -4339,65 +4619,59 @@ meet in the sight of the printer
 
   
 Never inquire thou of the printer  
-for new?., f&#x27;.r behold iris liis duty  
-fit the appointed time to g&lt;ve it unto  
-thee without nuking.  
-When thou do- 1 write for his pa­  
-per, never say unto him, &#x27;What  
-think est thou of my piece ?&#x27; for it  
-may be th.it the truth may offend  
+for news, for behold it is his duty  
+at the appointed time to give it unto  
+thee without asking.  
+When thou dost write for his pa-­  
+per, never say unto him. &quot;What  
+thinkest thou of my piece? for it  
+may be that the truth may offend  
 thee.  
-It is not fit that thou should&#x27;.?1  
-ask him who is the author of an ar­  
-ticle, for his duty rcjuirs him to keep  
+It is not fit that thou should&#x27;st  
+ask him who is the author of an ar-­  
+ticle, for his duty requirs him to keep  
 such to himself.  
 When thou dost enter a printing  
-olTice, have a care upon thyself that  
+office, have a care upon thyself that  
 thou dost not touch the type, for thou  
-mavst rau-e the printer trouble.  
-Look thou not at th* copy which  
-i? in the hands of the compositor:  
+mayst cause the printer trouble.  
+Look thou not at the copy which  
+is in the hands of the compositor,  
 for that is not meat in the sight of  
 the printer&#x27;s eye.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_gorn_ver01%2Fdata%2Fsn85059652%2F00415664953%2F1861032301%2F0007.jp2/pct:61.417038,57.612680,11.701242,12.588021/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
-## [From _Juliet signal._](https://chroniclingamerica.loc.gov/lccn/sn84024082/1861-04-16/ed-1/seq-1)
+## From _Juliet signal._
 
 #### 1861-04-16 &middot; [Juliet [i.e. Joliet], Ill.](http://dbpedia.org/resource/Joliet%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Never inquire thru of the printer for  
-news, for behold it is bis duty at the op­  
-pointed time to give it cnta thee without  
+Never inquire theu of the printer for  
+news, for behold it is his duty at the ap­  
+pointed time to give it unto thee without  
 asking.  
 When thou dost write for his paper nev­  
-er say unto bim, what tbinkest thou of  
+er say unto him, &quot;what thinkest thou of  
 my piece?&quot; for it may be that the truth  
 may offend thee.  
-It is not fit that thou sbouldst ask Lira  
-who is the author of the article, for bis  
-duty requires bim to keep such to bim&#x27;elf.  
-W ben thou dost enter a printing office,  
+It is not fit that thou shouldst ask him  
+who is the author of the article, for his  
+duty requires him to keep such to himself.  
+When thou dost enter a printing office,  
 have a care upon thyself that thou dost not  
-touch the type ; for thou mayest cause the  
-printer more trouble than thou thinkest.  
+touch the type; for thou mayest cause the  
+printer more trouble than thon thinkest.  
 Look then not at the copy which is in the  
-hands of the compositor, for tUot is not  
-meet io the eight tf the printer.  
-Pain People. There is a set of people  
-whom we cannot bear the pinks of fash­  
-ionable propriety whose every word i
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_cataloging_ver01%2Fdata%2Fsn84024082%2F00212471616%2F1861041601%2F0064.jp2/pct:72.121604,68.397097,11.335705,10.050437/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+hands of the compositor, for that is not  
+meet in the sight of the printer.  
+Prin PeoPle.  There is a set of people  
+whom we cannot bear--the pinks of fash­  
+ionable propriety, whose every word i
+</td></tr></table>
 
 ---
 
@@ -4435,21 +4709,21 @@ cers in the regular army is designated in th
 
 ---
 
-## [From _Washington statesman._](https://chroniclingamerica.loc.gov/lccn/sn84022799/1862-01-10/ed-1/seq-4)
+## From _Washington statesman._
 
 #### 1862-01-10 &middot; [Walla Walla, Wash. Terr.](http://dbpedia.org/resource/Walla_Walla%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-PnlNTEn’s Pnovnnns.—-Never inquire  
+PrINTER&#x27;s PROVEres.- Never inquire  
 thou of the editor the news, for behold it  
 is his business, at the appointed time, to  
 give it unto thee without asking. It is not  
-ﬁt that thou shouldst ask him who is the  
+fit that thou shouldst ask him who is the  
 author of an article, for his duty requires  
 him to keep such things to himself.  
-When thou dost enter his oﬂice, take  
+When thou dost enter his office, take  
 heed unto thyself that thou dost not look  
 at what may be laying open; for that is  
 not meet in the sight of good breeding.  
@@ -4461,10 +4735,7 @@ Prefer thine own city paper to any other,
 and subscribe for it immediately. Pay in  
 advance, and it shall be well with thee and  
 thy little ones
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_bittern_ver01%2Fdata%2Fsn84022799%2Fno_reel%2F1862011001%2F0020.jp2/pct:11.626977,55.819049,13.226408,9.621085/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -4546,85 +4817,86 @@ mayest understand it.
 
 ---
 
-## [From _Cedar Falls gazette._](https://chroniclingamerica.loc.gov/lccn/sn83025161/1862-09-12/ed-1/seq-1)
+## From _Cedar Falls gazette._
 
 #### 1862-09-12 &middot; [Cedar Falls, Iowa](http://dbpedia.org/resource/Cedar_Falls%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-PRINTER&#x27;S PROVERBS.—When thotf dost  
+christian-like manner, it should be sharp,  
+quick and decisive, that the blessing of peace  
+and union may once more be the people&#x27;s.  
+Ho. Nepublican.  
+  
+PRINrer&#x27;s Proverns. When thou dost  
 write for his paper never say unto him, &quot;what  
-thinkest thou of my piuceV&quot; for it iuay  
+thinkest thou of my piece?&quot; for it may  
 be  
-lhal the tiuth would offend thee.  
-2. It is not lit tlut thou shouldst nsk hint  
-who is the author of an article of public CQB­  
+that the truth would offend thee.  
+2. It is not fit that thou shouldst ask him  
+who is the author of an article of public con­  
 cernment, for duty requires him to keep such  
 things to himself.  
-3. When thou dost enter Mio printing office,  
+3. When thou dost enter the printing office,  
 have a care unto thyself that thou dost not  
 touch the type, for thou may  
 est cause the  
-print much trouble.  
+printer much trouble.  
 4. Look not at the copy  
-which is in tho  
-hands of the compositor for that is not  
-ineot  
-in the sight of tho priuter and ho might  
+which is in the  
+hands of the compositor; for that is not  
+meet  
+in the sight of the printer and he might  
 knock thee down.  
-5. Never examine tho proof sheet, for it la  
-not ready to meet thiue eye, that thou tnay­  
-est undurstand it.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn83025161%2F00279529327%2F1862091201%2F0504.jp2/pct:84.203151,41.641840,13.008602,9.485454/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+5. Never examine the proof sheet, for it is  
+not ready to meet thine eye, that thou may-­  
+est understand it.
+</td></tr></table>
 
 ---
 
-## [From _The Hillsdale standard._](https://chroniclingamerica.loc.gov/lccn/sn85033637/1862-10-07/ed-1/seq-1)
+## From _The Hillsdale standard._
 
 #### 1862-10-07 &middot; [Hillsdale, Mich.](http://dbpedia.org/resource/Hillsdale%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Prihtiso Proyxuds. When thou &#x27; dost  
+the CommarciulIdance tamnts the taste and is avar fras  
+  
+PrinTiNo PrOverns.  When thou dost  
   
 write for his paper, never say unto him.  
-&quot;What thiokest thou of my piece P for it  
+&quot;What thinkest thou of my piece!&quot; for it  
   
-may be that tbe trutn would offend, thee.  
+may be that the truth would offend thee.  
   
-2. It is not fit that thou shouldat aik  
+2. It is not fit that thou shouldst ask  
   
-him who is tbe author of an &quot;article npon sub  
+him who is the author of an article upon sub  
   
 jects of public concernment, for duty requires  
   
-uiui io aenp rucn taings to nimseii.  
+him to keep such things to himself.  
   
-3. Wben thou dost enter tbe printing ofn  
+3. When thou dost enter the printing offi  
   
 ce, have a care unto thyself, that thou touch  
   
-not tbe type, for thou mayest cause the prin  
+not the type, for thou mayest cause the prin  
   
-ter mucu trouble, and beside, it is pt-ous mat  
+ter much trouble, and beside, it is pious mat  
   
-ter and sutler not tbe touch of profane hand  
+ter and suffer not the touch of profane hand  
   
-war, and not in tbe execution  
+war, and not in the execution  
   
-of any military duty, is &quot;in tbe executon of  
+of any military duty, is &quot;in the executon of  
 his office;&quot; and whether having resorted to  
   
-personal violence, be did not put himself on 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_beulah_ver01%2Fdata%2Fsn85033637%2F00415668168%2F1862100701%2F0044.jp2/pct:69.159877,62.055957,25.363964,9.535785/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+personal violence, he did not put himself on 
+</td></tr></table>
 
 ---
 
@@ -4665,6 +4937,39 @@ thou mayest understand it
 
 ---
 
+## From _The daily Wabash express._
+
+#### 1862-11-05 &middot; [Terre-Haute, Ind.](http://dbpedia.org/resource/Terre_Haute%2C_Indiana)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+I. When thou dost write for this paper ney­  
+er say unto him, &quot;What thinkest thou of my  
+piece?&quot; ler it may be that the truth may of­  
+ fend thee.  
+11. It is not fit that thou should ask who  
+is the author of an article upon subjects of  
+public concernment, for duty requires him to  
+eep those things to himself.  
+I When thou dost enter into the prin  
+ting office, have a care unto thysel that thou  
+dost not touch the type, for thou mayest  
+cause the printer much trouble.  
+1v. Look thou not at thy copy which is  
+in the hand of the  
+tor for that  
+meet in the oves of the brinter and he mis.  
+e e e o e e oeeoe eooe e oooe  
+knock thee down  
+  
+V. Never examine the proof sheets fora  
+it is not ready to meet thine eve, that thou  
+mavest understand it
+</td></tr></table>
+
+---
+
 ## [From _Civilian & telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83016179/1863-05-28/ed-1/seq-1)
 
 #### 1863-05-28 &middot; [Cumberland, Md.](http://dbpedia.org/resource/Cumberland%2C_Maryland)
@@ -4683,7 +4988,7 @@ asking.
 
 ---
 
-## [From _Washington statesman._](https://chroniclingamerica.loc.gov/lccn/sn84022799/1863-08-08/ed-1/seq-1)
+## From _Washington statesman._
 
 #### 1863-08-08 &middot; [Walla Walla, Wash. Terr.](http://dbpedia.org/resource/Walla_Walla%2C_Washington)
 
@@ -4692,48 +4997,73 @@ asking.
   
 Never inquire of an editor for the news, for be­  
 hold, it is his duty at the appointed time to give it  
-‘ unto thee without asking. .
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_bittern_ver01%2Fdata%2Fsn84022799%2Fno_reel%2F1863080801%2F0327.jp2/pct:42.191759,90.980131,12.085137,1.574994/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+unto thee without asking.
+</td></tr></table>
 
 ---
 
-## [From _Sugar planter._](https://chroniclingamerica.loc.gov/lccn/sn86079096/1866-03-10/ed-1/seq-1)
+## From _The independent._
+
+#### 1865-11-11 &middot; [Oskaloosa, Kan.](http://dbpedia.org/resource/Oskaloosa%2C_Kansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+PrINTEas PrOveess.  Never inquire  
+thou of an e litor for the news, for be­  
+hold it is his business, at the appointed  
+time, to give it unto thee without ask-  
+It is not right that thou should&#x27;st ask  
+him who is the au thor of an article, for  
+his duty requireth him to keep such  
+things unto himself.  
+When thou dost enter his office, take  
+heed unto thyself that thou dost not  
+look at what may be lying open, for  
+that is not meet in the sight of good  
+breeding.  
+Neither examine thou the proof sheet  
+for it is not ready to meet thine eye  
+that thou mayest understand it.  
+Prefer thine own town paper to any  
+other, subscribe for it immediately, pay  
+for it in advance and it shall bet well  
+with thee and thy little ones
+</td></tr></table>
+
+---
+
+## From _Sugar planter._
 
 #### 1866-03-10 &middot; [West Baton Rouge [i.e. Port Allen, West Baton Rouge Parish, La.]](http://dbpedia.org/resource/Port_Allen%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-PRINTiuR&#x27; Pi:,viun.--Never enqnire  
-thou of the editor, the news ; for behold  
-it is his duly at the appointed time to  
+PRiNTER&#x27;S ProvEres. Never enquire  
+thou of the editor, the news; for behold  
+it is his duty at the appointed time to  
 give it unto thee without asking.  
-When thou dst write for his paper,  
-never say unto hin, &quot; What tlinkest  
-thou of my piece ?&quot; for it miay be that  
+When thou dost write for his paper,  
+never say unto him, &quot;What thinkest  
+thou of my piece?&quot; for it may be that  
 the truth would offend thee.  
-It is not tit that thou should0;t ask him  
-who is the ae bur of an article ; for his  
-duty re&#x27;quires him to keep such things to  
+It is not fit that thou shouldst ask him  
+who is the anthor of an article; for his  
+duty requires him to keep such things to  
 himself.  
-When thou drt enter into his office  
+When thou dost enter into his office  
 take heed unto thyself that thou dost not  
-look at what is lying open ; tfr that is  
-not meet in the sight of good bre. ding.  
+look at what is lying open; for that is  
+not meet in the sight of good breeding.  
 Neither examine thou the proof sheet, for  
-it is noe ready to meet thine, eye that  
-thou m:iytet understand it.  
+it is nor rendy to meet thine, eye that  
+thou mayest understand it.  
 Prefer thine own country paper to any  
 other, and subscribe immediately for it  
 and pay in advance, and it shall be well  
 with thee and thy little ones
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_sands_ver01%2Fdata%2Fsn86079096%2F00212475026%2F1866031001%2F0032.jp2/pct:56.742557,39.991208,17.381786,15.504103/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -4812,6 +5142,28 @@ thou&#x27;mavest Utldeistanil It.
 
 ---
 
+## From _The daily Cairo bulletin._
+
+#### 1881-01-27 &middot; [Cairo, Ill.](http://dbpedia.org/resource/Cairo%2C_Illinois)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Never inquire thou of the editor for  
+the news, for behold, it is his buisiness  
+at the appointed time to give it to thee  
+without asking.  
+It is not right that thou should&#x27;st ask  
+him who is the author of an article, for  
+his duty requires him to keep such  
+things to himself.  
+hen thou doest enter into his office,  
+take heed unto thyself that thou doest  
+not look at what may be lying open an
+</td></tr></table>
+
+---
+
 ## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1881-03-03/ed-1/seq-1)
 
 #### 1881-03-03 &middot; [Ravenna, O. [Ohio]](http://dbpedia.org/resource/Ravenna%2C_Ohio)
@@ -4834,6 +5186,35 @@ not look at what may be lying open an
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027200%2F1881030301%2F0296.jp2/pct:82.580645,19.275241,10.410557,4.696627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _Weekly Chillicothe crisis._
+
+#### 1881-04-07 &middot; [Chillicothe, Livingston Co., Mo.](http://dbpedia.org/resource/Chillicothe%2C_Missouri)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Never inquire thou of the editor for  
+the news, for behold, it is his business  
+at the appointed time to give it to thee  
+without asking.  
+It is not right that thou shouldst ask  
+who is the author of an article, for his  
+duty requires him to keep such things  
+to himself.  
+When thou dost enter into his office,  
+take heed unto thyself that thou dost  
+not look at what may be lying up and  
+concerneth thee not, for that is not  
+meet in the sight of good breeding.  
+Neither examine thou the proof-  
+sheet, for it is not ready to meet thy  
+sight as thou mayest understand.  
+Prefer thine own town paper to any  
+other, and be sure to subscribe for i
+</td></tr></table>
 
 ---
 

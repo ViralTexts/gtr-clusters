@@ -1,7 +1,7 @@
 
 # The World Is Agreeable
 
-### 97 reprints from 1834-05-13 to 1882-05-18
+### 100 reprints from 1834-05-13 to 1882-05-18
 
 ## [The World Is Agreeable](https://chroniclingamerica.loc.gov/lccn/sn83016348/1842-04-16/ed-1/seq-1)
 
@@ -803,6 +803,48 @@ bosom of our common mother. Et is not becom
 
 ---
 
+## From _The spirit of the age._
+
+#### 1840-11-07 &middot; [Woodstock, Vt.](http://dbpedia.org/resource/Woodstock%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Nonle SentiMeNts. This is an agreeable  
+world after all. If we would only bring ourselves  
+to look at the objects that surround us in their true  
+light, we should see beauty where before we be­  
+held deformity, and listen to harmony where we  
+before could hear nothing but discord. To be sure  
+there is a great deal of anxiety and vexation to  
+meet; we cannot expect to sail upon a summer  
+coast forever; yet if we preserve a calm eye and  
+steady hand, we can so trim our sails and manage  
+our helm as to avoid the quick sands and weather  
+the storms that threaten shipwreck. We are mem­  
+bers of one great family; we are travelling the  
+same road, and shall arrive at the same goal. We  
+breathe the same air; are subject to the same  
+bounty, and we shall lie down upon the bosom of  
+our common mother. It is not becoming then that  
+brother should hate brother; it is not proper that  
+friend should deceive friend; it is not right that  
+neighbor should injure neighbor. We pity that  
+man who can harbor enmity against his fellow;  
+he loses half the enjoyment of life--he embitters;  
+his own existence. Let us tear frem our eyes the  
+colored medium that invests every object with the  
+green hue of jealousy and suspicion; turn a deaf  
+ear to the tale of scandal--breathe the spirit of  
+charity from our hearts let the rich gushings of hu­  
+man kindness swell up as a sountain--so that the  
+&quot;golded age&quot; will become no fiction, and the isl­  
+ands of the blessed bloom in more than &quot;Hesper­  
+ian beauty.
+</td></tr></table>
+
+---
+
 ## Noble Sentiments.
 
 #### From _Trumpet and Universalist Magazine (1828-1851)_
@@ -1092,54 +1134,51 @@ more than ” Hesjierian beauty.”
 
 ---
 
-## [From _The Illinois free trader and LaSalle County commercial advertiser._](https://chroniclingamerica.loc.gov/lccn/sn82014968/1843-03-03/ed-1/seq-1)
+## From _The Illinois free trader and LaSalle County commercial advertiser._
 
 #### 1843-03-03 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-This U an agreeable world after all.  
-If vo would only bring ourselves to look  
-at the objects that surround us in their .  
-Iruo light, wo should sec beauty where  
+This is an agreeable world afier all.  
+If we would only bring ourselves to look  
+at the objects that surround us in their  
+true light, we should see beauty where  
 before we beheld deformity, and listen to  
 harmony where before we could hea  
-nothing but discord. &#x27;Vo be sure there is  
-a great deal of anxicly to meet ; we can­  
-not ejipect to sail upon a summer coast  
-forever ; yet if wo preserve a calm eye&#x27;  
-and steady hand, we can so trim our sail&#x27;  
-and manage our helm as to avoid the&#x27;  
-quicksands and weather tho storm thav  
-tlirentcns shipwreck. We are members  
-of one great family ; w.c arc travelling tho&#x27;  
-same road and shall arrive at the samo  
-goal. We breathe the same air ; are sub  
-jeet to the same bounty, and we shall lie-down  
-upon the bosom of our common,  
-mother. It is not becoming then, thai  
-brother should hale brother; it-U not  
-proper that friend should deceive friend ;  
+nothing but discord. To be sure there is  
+a great deal of anxiety to meet; we can­  
+not expect to sail upon a summer coast  
+forever; yet if we preserve a calm eye  
+and steady hand, we can so trim our sail  
+and manage our helm as to avoid the  
+quicksands and weather the storm that  
+threatens shipwreck. We are members  
+of one great family; we are travelling the  
+same road and shall arrive at the same  
+goal. We breathe the same air; are sub  
+fect to the same bounty, and we shall his  
+upon the bosom of our common  
+mother. It is not becoming then, that  
+brother should hate brother; it is not  
+proper that friend should deceive friend:  
 it is not right that neighbor should injure  
 neighbor. We pity the man who can  
-harbor enmity against his follow, he loses  
-half the enjoyments of life he embitters  
-his own existence. Let us tear from our,  
+harbor enmity against his fellow, he loses  
+half the enjoyments of life--he embitters  
+his own existence. Let us tear from our  
 eyes the colored medium that invests  
 every object with the green hue of jeal  
-ousy and suspicion. Turn a deaf ear to.  
-tho talc of scandal ; breathe the spirit of  
+ousy and suspicion. Turn a deaf ear to  
+the tale of scandal; breathe the spirit of  
 charity from our hearts; let the rich gush­  
-ings of human kindness swell up as rt  
-fountain, so that the &quot; golden age&#x27;, will  
-become no fiction, and the island of the  
+ings of human kindness swell up as a  
+fountain, so that the &quot;golden age&quot; will  
+become no siction, and the island of the  
 blessed bloom in more than &quot;Hesperian  
 beauty.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_bibliography_ver01%2Fdata%2Fsn82014968%2F00212472025%2F1843030301%2F0583.jp2/pct:81.365854,52.500691,15.746341,25.200332/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -1499,6 +1538,58 @@ kindness swell up as from a fountain ;
 so the &#x27; golden o^e &#x27; will become no  
 fiction, itmle&#x27;u.rfVt-Rori.of ihe  
 hlesaed &#x27; bloom in TzirsHGAM^NTnr— Th
+</td></tr></table>
+
+---
+
+## From _The Ripley advertiser._
+
+#### 1844-06-01 &middot; [Ripley, Miss.](http://dbpedia.org/resource/Ripley%2C_Mississippi)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+ o e   
+  
+threatens shipwreck, we are membert afand o botter in future.  
+  
+a g  s  
+  
+a odan a ae ae  e  i a  oo  
+e ee e a e a e a o  e o e e e ee  
+  
+o o e e oe e e e e o a o e e e  e  
+  
+bounty, and shall lo do ee e e o e e e e oe   
+  
+ oee e o on e a i o o eoo  
+  
+e o ur common ee o   o e  e e eeee e o e  
+  
+o e e e ee  e e e oa a ei e ee  
+  
+eii o oe e e o o iee on oan o o o ee  
+  
+friend; it is not right that neighbor shollepenin and melanche  
+inu eeoe ee o e on e en e ii e e  
+  
+can harbor enmity against his tan wheosophy of life, they might become use  
+loses half the anid aginst his fellow, heiten ore o oan  e  
+  
+e  e o e  ee e o e o a e o e o eo  
+  
+e i o exe edi that ine ee e eee e o ee  
+  
+every obec with the ee i a eeeoe e a ar or  
+  
+and suspicion; turn a deaf car to the tals oftroe o o te io a  
+scandal, breathe the spirif of char i a oo te bus a e of  
+  
+our hearts; let the rich gusin o o oe e e e e ereerinand  
+  
+man may behold his ad ar.The young  
+  
+morrow in the true light of peal ect on th
 </td></tr></table>
 
 ---
@@ -2134,49 +2225,46 @@ Hyperian beauty
 
 ---
 
-## [From _Columbus Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83016867/1849-12-01/ed-1/seq-2)
+## From _Columbus Democrat._
 
 #### 1849-12-01 &middot; [Columbus, Miss.](http://dbpedia.org/resource/Columbus%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Bbattifcl TnoccnT.&#x27;l his is an agreeable  
+BEAETIFEL THOUCHT.This is an agreeable  
 world after all. If we would only bring ourselves  
-to lock at the objects that surround us in &#x27; their  
+to look at the objects that surround us in their  
 true light, we should see beauty where before we  
 beheld deformity, and listen to harmony, where  
 we before could hear nothing but discord. To be  
-sure there is a great deal of anxiety to meet ; we  
-cannot expect to sail upon a Summer sea forever;  
-vet if we persevere with a calm eye and a steady  
-Rand, we can so trim our sails and manage our  
+sure there is a great deal of anxiety to meet; we  
+cannot expect to sail upon a summer sea forever;  
+yet if we persevere with a calm eye and a steady  
+hand, we can so trim our sails and manage our  
 helm as to avoid the quicksands and weather the  
 storms that threaten shipwreck. We are mem­  
-Tiers ef one great family; we are all travelling  
-the same Toad and shall arrive at the same goal.  
-Wc breathe the free air, we are subject to the  
-same bounty and shall lie down on tha bosom of  
-the same common mother. It is not becoming then  
-that brother should hate brother ; It is not proper  
-that friei.d should deceive fiiend ; it is not right  
+bers of one great family; we are all travelling  
+the same road and shall arrive at the same goal.  
+We breathe the free air, we are subject to the  
+same bounty and shall lie down on the bosom of  
+the same common mother. Itis not becoming then  
+that brother should hate brother; it is not proper  
+that friend should deceive friend; it is not right  
 that neighbor should injure neighbor. We pity  
 that man who can harbor enmity against his  
-fellow ; he losses half the enjoyments ol life ; he  
-embitters his own existence. Let us tear from  
+fellow; he losses half the enjoyments of life; he  
+embitters his own cxistence. Let us tear from  
 our eyes the colored medium that invests every  
 object with the green hue of jealousy and suspi­  
-cion; turn a deal ear to the tale of scandal ;  
-breathe the spirit of charity from our lips ; and  
-from our hearts let the- rich gushinca of human  
-kimfness swell up oi from a fountain, to the  
-!ory ol the &quot;golden age&quot; will become no fiction,  
-and the &quot;island of tho blessed&quot; bloom in more  
+cion; turn a deat ear to the tale of scandal;  
+breathe the spirit of charity from our lips; and  
+from our hearts let the rich gushings of human  
+kindness swell up as from a fountain, so the  
+tory of the &quot;golden age&quot; will hecome no fiction,  
+and the &quot;island of the blessed&quot; bloom in more  
 than Hesperian beauty
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016867%2F00295877637%2F1849120101%2F0982.jp2/pct:9.326625,75.648298,14.667183,17.801189/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -2427,39 +2515,24 @@ bloom ill more than Hyperian beauty
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-tion: &quot;Thank heaven, it was asleep the  
-last I remember of it, and I think it never  
-awoke to upbraid me with a single cry.&quot;  
-Cboncord (. H.) Statesmm.  
 No Place for Loafers.  
-Having a little business with a arn pf ths  
+Having a little business with a son of the  
   
-type, a few days since I entered his office hate brother; it is not proper that friend  
-to transact the same. The entrance to the should deceive friend; it is not right that  
-printing room was a narrow lane, leading&#x27; neighbor should deceive neighbor. We  
-from the main street to the front of a wood. pity that man who can harbor enmity a  
-en stairway in the rear of a large brick gainst his fellow; he loses half the enjoy  
-bloch. At the head of said stairway, is the ment of life; he embitters his own exis
-</td></tr></table>
-
----
-
-## From _Vermont watchman and State journal._
-
-#### 1852-07-01 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-home of my friend Typo. After eloving a ence. Let us tear from our eyes the color  
+type, a few days since I entered his office ate broter it is not proper that fiend  
+to transact the same. The entrance to the should decie friend it is ot ih that  
+printing room was a narrow lane, leadingegbor sho deceive neighbor. We  
+from the main street to the front of a wood pity that man who can harbor enmity a­  
+en stairway in the rear of a large brick gainst his fellow; he loses half the enjoy­  
+bloch. At the head of said stairway, is themen of ife he ebitter his own exit­  
+home of my friend Typo. After closing a ence. Let us tear from our eyes the color­  
 bargain with the man of ink, I stopped a ed medium that invests every object with  
-moment out of curiosity: and what a basy the green hue of iealousy and suspicion;  
-scene met my eye! Here were some go er turn a deaf ear to scandal; breathe the spir  
-G0 workmen, all intent upon their own em.&#x27;it of charity from our hearts; let the rich  
+moment out of curiosity; and what a busy the green hue of jealousy and suspicion;  
+scene met my eye! Here were some 20 or turn a dea ar to scandal brethe the spir­  
+30 workmen, all intent upon their own emi o ai o  er et the i  
 ployment, not one idle, or staring me in the gushings of human kindness swell up as a  
-face, though a stranger to them all a very  fountain, so that the&quot;golden age&quot; will be.  
-remarkable instance of good manners. come no fiction, and islands of the blessed  
-They worked too with a commendable zeal eloom in more than&quot;Hyperian beauty.&quot;
+face, though a stranger to them all--a very fountain, so that the &quot;golden age&quot; will be-  
+remarkable instance of good manners,- come no fiction, and islands of the blessed  
+They worked too with a commendable zeal cloom in more than &quot;Hyperian beauty.&quot;
 </td></tr></table>
 
 ---
@@ -2470,13 +2543,30 @@ They worked too with a commendable zeal eloom in more than&quot;Hyperian beauty.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+nse of the beautiful,  
+a faculty of the soul which is awakened;  
+colors, forms, odors, are perceived for the  
+first time, and these charming objects have  
+at last spectators. Those who have travel­  
+led in the country can testify, that a rose­  
+tree under the window, a honeysuckle a­  
+round the door of a cottage, are always a  
+good omen to a weary traveller. The hand  
+that cultivates flowers is not closed against  
+the supplications of the poor, nor against  
+the wants of the stranger. Flowers may  
+be called the alphabet of angels, wherewith  
+they write on hills and plains mysterious  
+truths.  
   
+The RighT Side.  
+This is an agreeable world after all. If  
 we would only look at the subjects that sur  
 round us in their true light, we should see  
-beauty where we behold deformity, and lis  
+beauty where we behold deformity, and lis­  
 ten to harmony where we heard nothing  
 but discord. We are members of one  
-great family, we are travelling the same  
+great samily, we are travelling the same  
 road, and shall arrive at the same goal.  
 We breathe the same air, are subject to the  
 same bounty, and we shall lie down upon  
@@ -2484,8 +2574,8 @@ the bosom of our common mother. It is
   
 not becoming, then, that brother should  
 Good Advice.  
-There is much good sense in the follow  
-ing, which although old, deserves to be r
+There is much good sense in the follow­  
+ing, which although old, deserves to be re
 </td></tr></table>
 
 ---
@@ -2676,54 +2766,51 @@ j beauty.*
 
 ---
 
-## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1859-06-08/ed-1/seq-1)
+## From _Clearfield Republican._
 
 #### 1859-06-08 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-tho peace of tho world. (Cheers.)  
-Noni.E Sentiments. This is an agrcea­  
-lle world after all. If wo would only  
+the peace of the world. (Cheers.)  
+Nonle SENTIMeNTs. This is an agreea­  
+tle world after all. If we would only  
 bring ourselves to look at the subjects that  
-surrounds us in their true light, wo should  
-seo beauty whero wo beheld deformity,  
+surrounds us in their true light, we should  
+see beauty where we beheld deformity,  
 and listen to harmony where we heard  
-nothing but discord. To bo sure, there is  
+nothing but discord. To be sure, there is  
 a great deal of vexation and anxiety, to  
 meet, we cannot sail on a summer coast  
-forever ; yet if we preserve a calm eye und  
+forever; yet if we preserve a calm eye and  
 a steady hand, we can so trim our sails  
-and manago our helm, as to avoid the  
-quicksands, and weather tho storms that  
-threaten shipwreck. Wo aro members of  
-ono great family ; wo aro travelling the  
-samo road, nnd shall arrive at tho samo  
-I (&#x27; l.ll. tl.n cn.nn nt. I...  
-ject to the samo beauty, and shall lio down  
-upon tho bosom of ourcomrr.oo mother.  
+and manage our helm, as to avoid the  
+quicksands, and weather the storms that  
+threaten shipwreck. We are members of  
+one great family; we are travelling the  
+same road, and shall arrive at the same  
+ We heoathe the same afy aro  
+ject to the same beauty, and shall lie down  
+upon the bosom of our common mother.  
 It is unbecoming then that brother should  
-bate brother ; it is not proper that friend  
-should decoive friend, it is not right that  
+hate brother; it is not proper that friend  
+should deceive friend, it is not right that  
 neighbor should deceive neighbor.  
-We pity that man who can harlor en­  
-mity against his fellow ; ho loses half the  
-onjoment of life ; he ombittors his own ex­  
+We pity that man who can harbor en­  
+mity against his fellow; he loses half the  
+enjoment of life; he embitters his own ex­  
 istence. Let us tear from our eyes the  
 colored medium that invests every object  
-with tho green hue of jealousy and suspi­  
-oion ; turn ft deaf enr to tho scandal ;  
+with the green hue of jealousy and suspi­  
+cion; turn a deaf ear to the scandal;  
 breathe a spirit of charity from your  
-hearts ; let tho rich gushings of human  
-kindness swell up ns a fountain, so tlit&#x27;t  
-the, &#x27;golden age&quot; will booomo no fiction,  
+hearts; let the rich gushings of human  
+kindness swell up as a fountain, so that  
+the, golden age&quot; will become no fiction,  
 and the islands of the blessed, bloom in  
 more than &quot;Hyperion beauty.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477837%2F1859060801%2F0333.jp2/pct:32.832571,71.410091,15.088178,20.497341/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -3043,56 +3130,54 @@ boobs h mora toao -xiyperum oomj.
 
 ---
 
-## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1860-07-18/ed-1/seq-1)
+## From _Clearfield Republican._
 
 #### 1860-07-18 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Kon;.z Sknti mknts. This is nn ngrceablo  
-world lifter nil. If wo would only brirg  
-ourselves to look nt the subjects that sur­  
-round us in their truo light, we should seo  
-beauty where we beheld deformity, nnd  
-listen to harmony w hero ive heard noth­  
-ing but discord. To be sure, thero is a  
-great deal of vexation and nnxity to meet ;  
-we cannot suil on a summer const forever ;  
-yet if we p.eserve a calm eye nnd&#x27; steady  
-hand wo can so trim our sails and manage  
-our helm, as to avoid tho quicksands, nnd  
+  
+Nonle SENTIMENTs. This is an agrecable  
+world after all. If we would only bring  
+ourselves to look at the subjects that sur­  
+round us in their true light, we should see  
+beauty where we beheld deformity, and  
+listen to harmony where we heard noth­  
+ing but discord. To be sure, there is a  
+great deal of vexation and anxity to meet;  
+we cannot sail on a summer coast forever;  
+yet if we preserve a calm eye and steady  
+hand we can so trim our sails and manage  
+our helm, as to avoid the quicksands, and  
 weather the storms that threaten ship­  
-wreck. We nro members ofone family; we  
-nre traveling thesame rond, nnd shall arrive  
-nt tho same goal. Wo breathe the srmo  
-nir. nro ulject to the same beauty , mid.  
-shall lie down upon tho bosom of our com­  
+wreck. We are members of one family; we  
+are traveling the same road, and shall arrive  
+at the same goal. We breathe the srme  
+air, are subject to the same beauty, and  
+shall lie down upon the bosom of our com­  
 mon mother. It is unbecoming then that  
-brother shoud haiebrothcr; it is not proper  
+brother shoud hate brother; it is not preper  
 that friend should deceive friend; it is not  
-right that neighbor should deceive neigh-,  
-bor. &#x27;We pity that man who can harbor­  
-enmity against his fellow, ho fonts half th  
-enjoyment of lite; ho embitters his own  
-existence. Los us tear from your eyes tho  
-colored medium that invests every object,  
-with the green hue of jealousy unci suspi­  
-cion; turn n deaf ear tosoaudal ; breathe a  
-spirit of charity from your hearts; let tho  
-rich gushing of human kindnoss swell ux  
-as a fountain, so that the &quot;golden nge&quot;  
-will become no fiction, nnd tho Islands of  
-the blessed bloom in more than &quot;Ilyperw  
+right that neighbor should deceive neigh-  
+bor. We pity that man who can harbor­  
+enmity against his fellow, he loses half th  
+enjoyment of life; he embitters his own  
+existence. Let us tear from your eyes the  
+colored medinm that invests every object,  
+with the green hue of jealousy and suspi­  
+cion; turn a deaf ear to scandal; breathe a  
+spirit of charity from your hearts; let the  
+rich gushings of human kindness swell up  
+as a fountain, so that the &quot;golden age&quot;  
+will become no fiction, and the lslands of  
+the blessed bloom in more than &quot;Hyperi  
 on beauty.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477837%2F1860071801%2F0358.jp2/pct:78.709810,17.897965,14.921682,18.497352/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
-## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1860-07-18/ed-2/seq-1)
+## From _Clearfield Republican._
 
 #### 1860-07-18 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
@@ -3100,45 +3185,42 @@ on beauty.
 
   
   
-Noni.tSENTiMKNTS. This is nn agreeable)  
-world nftcr nil. If wo would only brir g  
-oursolves to look nt the subjects that sur,  
-round us in their truelight, we should see  
+Nonle SEntIMents.This is an agreeable  
+world after all. If we would only bring  
+ourselves to look at the subjects that sura  
+round us in their true light, we should see  
 beauty where we beheld deformity, and  
 listen to harmony where we heard noth­  
-ing but discord. To be sure, there it a  
-great deal of vexation and anxity to meet ;  
-we onnnot sail on a summer coast farever ;  
-yet if we pmcrve a calm eyo and steady  
-hand we can so trim our sails and manage,  
-our helm, ns to avoid the quicksands, nnd  
+ing but discord. To be sure, there is a  
+great deal of vexation and anxity to meet;  
+we cannot sail on a summer coast forever:  
+yet if we preserve a calm eye and steady  
+hand we can so trim our sails and manage  
+our helm, as to avoid the quicksands, and  
 weather the storms that threaten ship­  
-wreck. We aro members of one family; wn  
-are traveling thesame road, and shall arrive,  
-nt the same goul. Wa brentho the srme  
-air. are subject to the samo beauty , nnd,  
-shall lie down upon the bosom of our conu  
+wreck. We are members of one family; we  
+are traveling the same road, and shall arrive  
+at the same goal. We breathe the srme  
+air, are subject to the same beauty, and  
+shall lie down upon the bosom of our coms  
 mon mother. It is unbecoming then that  
-brother shoud hate brother; it is not proper  
-that IViond should deceive friend; it is not  
-right that neighbor should deceive neigh-,  
+brother shoud hate brother; it is not proper.  
+that friend should deceive friend; it is not  
+right that neighbor should deceive neigh-  
 bor. We pity that man who can harbor­  
-enmity ngainst his fellow, be losts half the,  
-enjoyment of life; ho embitters his own,  
-existence. Let us tear from your eyes tho.  
-colored medinm that invests every object,  
-with tho green hue of jealousy nnd suspi­  
-cion; turn a deaf ear tosoindal ; brentho a.  
-spirit of charily from your hearts; let llio. .  
-rich gushing of human kindnos swell up,  
-as a fountain, so that the &quot;golden ago&quot;  
-will become no fiction, and the Islands of­  
-the blessed bloom in more than &quot;Hypcri-  
-on beauty.&quot; 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477849%2F1860071802%2F0197.jp2/pct:79.157760,17.768179,15.455323,18.473722/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+enmity against his fellow, he loses half the  
+enjoyment of life; he embitters his own  
+existence. Let us tear from your eyes the  
+colored medinm that invests every object  
+with the green hue of jealousy and suspi­  
+cion; turn a deaf ear to scandal; breathe a  
+spirit of charity from your hearts; let the  
+rich gushings of human kindness swell up  
+as a fountain, so that the &quot;golden age&quot;  
+will become no fiction, and the lslands of­  
+the blessed bloom in more than &quot;Hyperi.  
+on beauty
+</td></tr></table>
 
 ---
 
@@ -3518,7 +3600,7 @@ with more than Hesperian beauty
 
 ---
 
-## [From _The daily Gate City._](https://chroniclingamerica.loc.gov/lccn/sn83025182/1866-12-09/ed-1/seq-3)
+## From _The daily Gate City._
 
 #### 1866-12-09 &middot; [Keokuk, Iowa](http://dbpedia.org/resource/Keokuk%2C_Iowa)
 
@@ -3526,51 +3608,45 @@ with more than Hesperian beauty
 
   
   
-We pity that man who ean harbor enmity  
-against his fullow helones half of the enjoy­  
-ment of life: embitters his own ezisUace.  
-Let us tear from our eyes the colored medi­  
-um that invests every olject with the green  
-hue of envy and suspicion: turn a deal ear  
+We pity that man who can harbor enmity  
+against his fellow; he loses half of the enjoys­  
+ment of life; embitters his own existence.  
+Let us tear trom our eyes the colored medi-­  
+um that invests every object with the green  
+hue of envy and suspicion; turn a deaf ear  
 to scandal, breathe a spirit of charity from  
-our hearts: let the rich gushing of bumaa  
-kiodaaaa swell up as a foaatain, ao that t6e  
-&quot;golden age&#x27;&#x27; may beewme no fiction, and  
-the islands of the blessed btacm in more than  
-Hyperiaa beauty
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn83025182%2F00279528360%2F1866120901%2F0542.jp2/pct:15.348592,52.261347,10.870823,4.847174/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+our hearts; let the rich gushing of human  
+kindeess swell up as a fountain, so that the  
+&quot;golden age&quot; may become no fiction, and  
+the islands of the blessed btoom in more than  
+Hyperian beauty
+</td></tr></table>
 
 ---
 
-## [From _The daily Gate City._](https://chroniclingamerica.loc.gov/lccn/sn83025182/1866-12-09/ed-1/seq-3)
+## From _The daily Gate City._
 
 #### 1866-12-09 &middot; [Keokuk, Iowa](http://dbpedia.org/resource/Keokuk%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-mony uKare *s bear aotbiag UutdiseceA  
-be sure there is a great deal pf vexation and  
-auxietyto meet, we canbot sail on a sormner  
-coast forever yet if we preserve a calm eye  
+mony where we hear nothing hut discoed  
+be sure there is a great deal of vexation and  
+anxiety to meet, we canpot sail on a summer  
+coast forever; yet if we preserve a calm eye  
 and a steady hand we can so trim our sails  
-and manage our belm, as to avoid tbe  
+and manage our helm, as to avoid the  
 rocks and weather the storms that threaten  
-shipwreck. We ire members of one great  
-family: we are traveling the same road, and  
-that! arrive at tbe same common goal. We  
-breathe the ftame air, are subject to the nine  
+shipwreck. We aire members of one great  
+family; we are traveling the same road, and  
+shall arrive at the same commaon goal. We  
+breathe the same air, are subject to the same  
 beauty, and shall lie down on the bosom of  
 our common mother. It is unbecoming then  
-that brother should hate brother it is not  
-prop*# that friend should deceive friend.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn83025182%2F00279528360%2F1866120901%2F0542.jp2/pct:15.295975,46.252454,10.891871,6.048952/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+that brother should hate brother; it is not  
+propes that friend should deceive frien
+</td></tr></table>
 
 ---
 
@@ -3805,54 +3881,187 @@ perian beauty.
 
 ---
 
-## [From _The Holt County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034039/1867-02-22/ed-1/seq-1)
+## From _Memphis daily appeal._
+
+#### 1867-02-09 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+aat surround us in their  
+  
+true light, we should see beau whe e  a  
+before we beheld deformity, and listen to  O  O,  
+  
+harmony where before we cound hear  
+nothing but discord. To be sure there is  
+a great deal of anxiety and vexation to  
+meet; we cannot expect to sail upon a  
+summer sea forever; yet if we preserve  
+a calm eye and a steady hand, we can so  
+ trim our sails and manage our helm as to  
+avoid the quicksands, and weather the  
+storms that threaten shipwreck. We are  
+members of one great family; we are all  
+  
+traveling the samg road, and shall arrive aepity  
+at tha same goal.We breathe the free  
+  
+air, we are subject to the same  
+bounty, and we shall lie down on  
+ the bosom of our common mother.  
+It is not becoming, then, that brother  
+should hate brother; it is not proper  
+that friend should deceive friend;  
+ it is not right that neighbor  
+ should injure neighbor. We pity that  
+  
+man who can bear enmity against his  
+fellow; he loses half the enjoyment of e  
+  
+Let us tear from our eyes the colored  
+medium that invests every object with  
+  
+the green hue of jealousy and suspicion;  
+turn a deaf ear to the tale of scandal;  
+  
+breathe the suirit of charity from our!Change Our Rusiness  
+lips; and from our hearts let the rich ee e e a  
+i o ea ie e  ae  oa o  
+feoss a fountain-sso the tIgolden age  
+  
+will become no fiction, and the &quot;island  
+of the blessed&quot; bloom in more than  
+Hesperian beauty
+</td></tr></table>
+
+---
+
+## From _The Holt County sentinel._
 
 #### 1867-02-22 &middot; [Oregon, Missouri.](http://dbpedia.org/resource/Oregon%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r nothing but discord. To be  
-euro tlicro is a great deal of anxiety and  
-vexation to meet : wo cannot expect to  
-sail upon a summor sea forovcr ; yet if  
-wo preservo a calm oyo ana a steady  
-hand, wo can so trim our sails and man­  
-ago our holm as to avoid tho quick  
-sands, and woathor tho storms that  
-thi eaten shipwreck. Wo aro members  
-of ono groat family ; wo aro all travel­  
-ing tho samo road and shall arrivo at  
-the sjmo goal, no breath tno iroo  
+d wasted as though with grief, they said­  
+Poor child, poor child! and was long since dead;  
+  
+Ah! dead for the love of me  
+Poor heart!  
+Broken, and vainly, for me!  
+Weighed down by a load too heavy to hold,  
+She died unmurmuringly;  
+nd I, remorseful and unconsoled,  
+I dream of the wasted days of old,  
+And of the heart that was broken for me  
+Poor heart!  
+Broken so vainly for me!  
+And my soul cries out in bitter pain  
+For the bliss that cannot be  
+For the love that never can come again,  
+For the sweet young life that was lived in vain,  
+And the heart that was broken for me  
+Poor heart!  
+Broken and buried for me!  
+This is an agreeable world, after all.  
+If we would only bring ourselves to  
+look at the objects that surround us in  
+their true light, we should see beauty  
+where before we beheld deformity, and  
+listen to harmony where before we  
+could hear nothing but discord. To be  
+sure there is a great deal of anxiety and  
+vexation to meet; we cannot expect to  
+sail upon a summer sea forever; yet if  
+we preserve a calm eye and a steady  
+hand, we can so trim our sails and man­  
+age our helm as to avoid the quick  
+sands, and weather the storms that  
+threaten shipwreck. We are members  
+of one great family; we are all travel­  
+ing the same road and shall arrive at  
+the same goal. We breath the free  
 air,  
 and  
-aro subioct to the samo bounty,  
-e shall lio down on tho bosom of  
+are subject to the same bounty,  
+e shall lie down on the bosom of  
 our  
 mmon mother. It is not becom-  
-inr 1  
-then, that brother should hato  
-brotl  
-r : it is not proper that friend  
-should deccivfl friend ; it is not right  
+in  
+then, that brother should hate  
+broty  
+r; it is not proper that friend  
+should deceivs friend; it is not right  
 that neighbor should injure neighbor.  
-Wo pity thirl man who can harbor en­  
-mity qgainstliis fellow ; ho loses half  
-thJjcnjoymcnl of lifo ; ho embitters his  
-owSv,?tenco. Let us tear from our  
-eytliio jolorou medium that invests ov­  
-sftbjeot Aih tho greon huo of jeal­  
-ousy and svfpicion ; turn a deaf ear to  
-tho talo ofcandal ; breath tho spirit of  
-charity mom our lips ; and from our  
-hearts If tliOAricb gushings of human  
-kindnosi woA up as from a fountain  
-so tholgoldon ago&quot; will becomo no  
-fiction, fcd tho &quot;island of tho blessed&quot;  
-bloom irlmore than Uosporian beauty
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_ansel_ver01%2Fdata%2Fsn85034039%2F00294559905%2F1867022201%2F0328.jp2/pct:33.670246,62.645219,14.213519,20.137027/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+We pity that man who can harbor en­  
+mity ainstthis fellow; he loses half  
+thedenjoyment of life; he embitters his  
+owicvstence. Let us tear from our  
+eyotil colored medium that invests ev­  
+7 object with the green hue of jeal­  
+ousy and supicion; turn a deaf ear to  
+the tale of Scandal; breath the spirit of  
+charity grom our lips; and from our  
+hearts le the rich gushings of human  
+kindnes well up as from a fountain  
+so the &quot;golden age&quot; will become no  
+fiction, and the &quot;island of the blessed&quot;  
+bloom in more than Hesperian beauty
+</td></tr></table>
+
+---
+
+## From _The Texas Republican._
+
+#### 1867-02-23 &middot; [Marshall, Tex.](http://dbpedia.org/resource/Marshall%2C_Texas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Norll SentIaent. This is an  
+agreeable world after all. If we  
+should only bring ourselves to look  
+the objects that surround us in  
+their true light, we shou  
+ty where before we beheld deformity  
+listen to harmony whert  
+we could hear nothing but discord  
+To he sure there is great anxiety and  
+vexation to meet, we cannot expect  
+to sall unon a summer ses foreyel  
+yet if we preserve a calm eye and a  
+steady hand, we can so trim our sails  
+and manage our helm as to avoid the  
+quicksands and weather the storn  
+that threaten shipwreck  
+We are members of one great  
+family, we are all traveling the same  
+road, and shall arrive at the same  
+goal. We breathe the free air, we  
+are subject to the same bounty, and  
+shall lie down on the bosom of  
+our common mother. It is not be  
+coming then that brother should hate  
+ther; it is not proper that friend  
+should deceive friend, it is not right  
+that neighbor should injure neighbor  
+We pity that man who can harbor en  
+mity against his fellow; he loses half  
+the enjoyment of life; he embitters  
+his own existence. Let us tear from  
+our eves the colored medium that in  
+every object with the green hue  
+of jealousy and suspicion; turn a  
+leaf ear to the tale of scandal  
+breathe the spirit of charity from our  
+lips, and from our hearts let the rich  
+gushings of human kindness swell  
+up as from a fountain, so the?  
+en ace will become no fiction, and  
+theisland of the blessed&#x27; bloom  
+I with more than Hesperian beaut
+</td></tr></table>
 
 ---
 

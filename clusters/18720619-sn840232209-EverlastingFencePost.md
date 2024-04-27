@@ -1,7 +1,7 @@
 
 # Everlasting Fence Posts
 
-### 126 reprints from 1872-06-12 to 1890-09-04
+### 130 reprints from 1872-06-12 to 1890-09-04
 
 ## [Everlasting Fence Posts](https://chroniclingamerica.loc.gov/lccn/sn84023209/1872-06-19/ed-1/seq-4/)
 
@@ -453,6 +453,26 @@ A Woman Inventor.
 
 ---
 
+## From _The Vinton record._
+
+#### 1873-01-30 &middot; [M'arthur, Vinton County, Ohio](http://dbpedia.org/resource/McArthur%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+A WRITER in the WEsTErN Ru:  
+ral savs: &quot;Take boiled linseed  
+oil and stir in pulverized char  
+coal to the consistency of paint.  
+Put a coat of this over the tim­  
+ber, and there is not a man who  
+will live long enough to see it  
+rotten. I discovered man
+</td></tr></table>
+
+---
+
 ## [From _Massachusetts Ploughman and New England Journal of Agriculture (1842-1906)_](https://archive.org/details/sim_massachusetts-ploughman-new-england-journal-agriculture_1873-02-01_32_18/page/n0/mode/1up?view=theater)
 
 #### 1873-02-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
@@ -592,6 +612,37 @@ man that will live to see it rotten.
 
 ---
 
+## From _The Tiffin tribune._
+
+#### 1873-02-27 &middot; [Tiffin, Ohio](http://dbpedia.org/resource/Tiffin%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+discovered many years ago that  
+could be made to last longer  
+iron in the ground, but thought  
+process so simple and inexpensive  
+it was not worth while making  
+stir about it. I would as soon  
+poplar, basswood or quaking ash  
+any other kinds of timber for fence  
+ists. I have taken out basswood  
+after having been set seven  
+that were as sound when tak-  
+up as when they were first put in  
+ground. Time and weath­  
+er seemed to have no effect  
+them. The posts can be prenar-d  
+less than two cents apiece. For the  
+benefit of others, I will give the recipe:  
+boiled linseed on and stir ite­  
+peverized charcoal to the consisten
+</td></tr></table>
+
+---
+
 ## WHAT WORK WILL DO.
 
 #### From _Southern Cultivator (1843-1906)_
@@ -602,37 +653,33 @@ man that will live to see it rotten.
 
 ---
 
-## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1873-03-01/ed-1/seq-1)
+## From _Sunbury American._
 
 #### 1873-03-01 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-&#x27; covered many years ugo that wood could  
-be made to last longer than iron iu tho  
-ground, but thought the process so simpln  
+covered many years ago that wood could  
+be made to last longer than iron in the  
+ground, but thought the process so simplo  
 and inexpensive that it was not worth  
-while making tiny Mir about it. I would  
-as soon have poplar bus. wood or quaking  
+while making any stir about it. I would  
+as soon have poplar basswood or quaking  
 ash as any other kinds of timber for fence  
-posts. 1 havn taken out basswood posts,  
+posts. I have taken out basswood posts,  
 after having been set seven years, that  
-were as sound when ttiken up as when  
-they were first put in the grouud. Time  
-and went her rcemed to have no effect on  
-the.n. The posls caii be prepared for less  
+were as sound when taken up as when  
+they were first put in the ground. Time  
+and weather seemed to have no effect on  
+thein. The posts can be prepared for less  
 than two cents apiece. For the benefit  
-of others I will give recipe : &quot;Take boiled  
-linseed oil and stir it la pulverized char­  
-coal to the consistency of paint. Put n  
-coat of this over the tinilier, and there iu  
-not a mau that will live to eee it rot.&quot;  
-Cor. Wtitf-m Itural
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F00280776051%2F1873030101%2F0230.jp2/pct:81.686099,49.978870,12.807175,9.635160/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+of others I will give recipe: &quot;Take boiled  
+linseed oil and stir it in pulverized char­  
+coal to the consistency of paint. Put a  
+coat of this over the timber, and there is  
+not a man that will live to see it rot.
+</td></tr></table>
 
 ---
 
@@ -673,7 +720,7 @@ man that will live to see it rotten.”
 
 ---
 
-## [From _The daily dispatch._](https://chroniclingamerica.loc.gov/lccn/sn84024738/1873-03-12/ed-1/seq-4)
+## From _The daily dispatch._
 
 #### 1873-03-12 &middot; [Richmond [Va.]](http://dbpedia.org/resource/Richmond%2C_Virginia)
 
@@ -681,29 +728,26 @@ man that will live to see it rotten.”
 
   
   
-Everlasting Fence Posts.? I discovered  
-many years tb :t wood could be made lo  
-lust lunger than Iron in the grouud, but  
-thought the process was so Kiuiple and inex­  
-pensive that it was nut wortli while making  
-any st ir about it. I would as soon have pop­  
-lar, bassvvood, or quaking ash as any other  
-kinds of timber for fence post*. I have  
+EveRLASTING FEscE Posrs.  &quot;I discovered  
+many years ago that woed could be made to  
+last longer than lron in the ground, but  
+thought the process was so simple and inex-­  
+pensive that it was not worth while making  
+any stir about it. I would as soon have pop-­  
+lar, basswood, or quaking ash as any other  
+kinds of timber for fence posts. I have  
 taken out basswood posts after having been  
-&gt;et seven years that were as sound when  
-Liken up a* when they were tirst put In the  
-ground. Time aud weather seemed to have  
-uo eii&#x27;oct on tliesn. Tiie posts can be prepared  
-for le?s thau two cents apiece.  
-&quot;for the beneiit of others I will give the  
-recipe : Take boiled linked oil and slit&#x27; It in  
+set seven years that were as sound when  
+taken up as when they were first put in the  
+ground. Time and weather seemed to have  
+no elfect on them. The posts can be prepared  
+for less than two cents apiece.  
+&quot;For the benefit of others I will give the  
+recipe: Take boiled linseed oil and stir it in  
 pulverized charcoal to the consistency of  
-paint. Put a coat of thi* ov.u&#x27; the timber,  
-und there i? uot a man that wi&#x27;l live to see i
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kors_ver02%2Fdata%2Fsn84024738%2F00271742046%2F1873031201%2F0256.jp2/pct:15.717675,68.942824,13.906378,8.685021/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+paint. Put a coat of this over the timber,  
+and there is not a man that will live to see i
+</td></tr></table>
 
 ---
 
@@ -1187,38 +1231,35 @@ will lire to see it rotten.—Cm. Wate
 
 ---
 
-## [From _The Findlay Jeffersonian._](https://chroniclingamerica.loc.gov/lccn/sn85026034/1873-05-16/ed-1/seq-1)
+## From _The Findlay Jeffersonian._
 
 #### 1873-05-16 &middot; [Findlay, Hancock County, Ohio](http://dbpedia.org/resource/Findlay%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-I discovered many yeare ago tiiat  
+I discovered many years ago that  
 wood could be made to last longer  
-than iron in the ground, bat thought  
-the process so eirople and inexpensive  
+than iron in the ground, but thought  
+the process so simple and inexpensive  
 that it was not worth while making a  
-stir about it. I wiold as soon have  
-poplar, baa wood, or quaking as&#x27;a as  
-any other timber, for lence posts. I  
-hare taken ont bass wood poala after  
+stir about it. I would as soon have  
+poplar, baswood, or quaking ash as  
+any other timber, for fence posts. I  
+have taken out basswood posts after  
 having been set seven years, that  
 as sound when they were taken  
-out as when they were first pat in the  
+out as when they were first put in the  
 ground. Time and weather seemed to  
-have no eflect on them. The posts  
+have no effect on them. The posts  
 can be prepared for less than two cents  
-apiece For the benefit ot others, I  
-will give the recipe : Take boiled lin­  
+apiece. For the benefit of others, I  
+will give the recipe: Take boiled lin­  
 seed oil and stir it in pulverized char­  
-coal to the cothidtency o paint. Put  
+coal to the consistency of paint. Put  
 coat of this over the timber, and  
-there is not a raan that will live to se
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_iago_ver01%2Fdata%2Fsn85026034%2F00280774984%2F1873051601%2F0142.jp2/pct:23.954849,66.547180,8.695652,10.226674/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+there is not a man that will live to se
+</td></tr></table>
 
 ---
 
@@ -1592,49 +1633,46 @@ will live to see it rot.’ ”—Cor. WWm
 
 ---
 
-## [From _Clearfield Republican._](https://chroniclingamerica.loc.gov/lccn/sn83032199/1873-06-18/ed-1/seq-6)
+## From _Clearfield Republican._
 
 #### 1873-06-18 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Darn may oc takon oil, lor it u gener  
-ally in life eneouragemcnt given to the  
-colluding of moistut&#x27;o between tbe  
+bark may be taken on, for it ts gener  
+ally in the encouragement given to the  
+collecting of moisture between the  
 bark and the wood, that wood gener  
-ally so soon rolt away, &#x27;4 he part in  
-or near tho ground ought lo bo strip­  
-ped of bark at any rate. Germanlown  
-telegraph. &#x27;&#x27;  
-Fence Posts. In looking over the  
-Western Rural, we note as important  
-10 ns nero, too loiiowing, liow a cor  
+ally So soon rots away. The part in  
+or near the ground ought to be strip­  
+ped of bark at any rate.-Germantown  
+Ielegrapk. lofid Seigab  
+FENCE Posts. In looking oter the  
+Westera Rural, we note as important  
+to us here, the following, how a cor  
 respondent discovered many years  
-sgo that wood could bo mado lo last  
-longor than iron in tbcground,but ima  
-gined the process so simplo and inex  
+ago that wood could be made to last  
+longor thaniron in the ground, but ima  
+gined the process so simple and inex  
 pensive that it was not worth while  
 making any stir about it: I would as  
-soon bavo poplar, basswood or quaking  
-asn as any oilier kind ol limber lor  
-fonce posts. I bavo taken out bass­  
+soon have poplar, basswood or quaking  
+ash as any other kind of timber for  
+fence posts. I have taken out bass­  
 wood posts after having been set seven  
-years thnt were astound when taken  
-up as whon they were put in the  
-ground. - Time and weather soemod  
-to bavo no effect whatever on them.  
-Tbo posts Can be prepared for less  
-than two cents apiece. For tbe ben-  
-oht ol others I will givo tbo recipe :  
-Tuko boiled linseed oil and stir in it  
-pulvcrizod charcoal to iho consistency  
+years that were as sound when taken  
+up as when they were put in the  
+ground. Time and weather seemed  
+to have no effect whatever on them.  
+The posts can be prepared for less  
+than two cents apiece. For the ben-  
+ont of others I will give the recipe:  
+Take boiled linseed oil and stir in it  
+pulverized charcoal to the consistency  
 of paint, put a coat of this over the  
-timbor and there is not a man will liv
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_lasch_ver01%2Fdata%2Fsn83032199%2F00212477862%2F1873061801%2F0404.jp2/pct:15.065990,52.693242,11.573604,16.173739/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+timber and there is not a man will liv
+</td></tr></table>
 
 ---
 
@@ -1662,7 +1700,7 @@ fence posts after having bee
 
 ---
 
-## [From _The Vinton record._](https://chroniclingamerica.loc.gov/lccn/sn85038222/1873-06-19/ed-1/seq-1)
+## From _The Vinton record._
 
 #### 1873-06-19 &middot; [M'arthur, Vinton County, Ohio](http://dbpedia.org/resource/McArthur%2C_Ohio)
 
@@ -1675,10 +1713,10 @@ many years ago that wood
 could be made to last longer  
 than iron, in the ground, but  
 thought the process so simple  
-aud inexpensive that it was not  
+and inexpensive that it was not  
 worth while making any stir  
 about it. I would as soon have  
-poplar, bi89W00d or quaking  
+poplar, basswood or quaking  
 ash as any other kind of timber  
 for fence posts. I have taken  
 out basswood after having  
@@ -1689,17 +1727,14 @@ the ground. Time and weather
 seemed to have no effect on  
 them. The posts can be pre  
 pared for less than two cents  
-apiico. For the benefit of oth­  
-ers 1 will give the recipe; Take  
-boilod linseed oil and stir in it  
-pulverised charcoal to the con­  
-sistency of paint. Put a coat ol  
-this over the limber, and there  
+apiece. For the benefit of oth­  
+ers I will give the recipe: Take  
+borled linseed oil and stir in it  
+pulveriged charcoal to the con­  
+sistency of paint. Put a coat of  
+this over the timber, and there  
 is not a man who will live t
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_kent_ver02%2Fdata%2Fsn85038222%2F00280774911%2F1873061901%2F0527.jp2/pct:57.461929,13.976325,11.979695,19.962335/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -1731,69 +1766,65 @@ ized charcoal to tl
 
 ---
 
-## [From _The Ottawa free trader._](https://chroniclingamerica.loc.gov/lccn/sn84038582/1873-06-21/ed-1/seq-4)
+## From _The Ottawa free trader._
 
 #### 1873-06-21 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-respondent of the Wintmi llnnd says: 1 dis  
-covered nianv years ago that wood could be  
+controls the dog that brings the cows.  
+FRENCH POSTS To LAST FOrEVER. A cor­  
+respondent of the Western Rural says: I dis  
+covered many years ago that wood could be  
 made to last longer than iron, in the ground,  
 but thought the process so simple and inex­  
-pensive that it was not worth w hile making  
-any stirabout it. I would as soon have pop­  
-1 ir, basswood, or quaking ash as any other  
+pensive that it was not worth while making  
+any stir about it. I would as soon have pop­  
+lar, basswood, or quaking ash as any other  
 kind of timber for fence posts. I have taken  
 out basswood posts after having been set  
-seven years, that were us sound w hen taken  
-up as w hen they were first put into the ground.  
-Time and weather seemed to have not-fleet on  
+seven years, that were as sound when taken  
+up as when they were first put into the ground.  
+Time and weather seemed to have no effect on  
 them. The posts can be prepared for less  
 than two cents apiece. For the benefit of  
 others I will give the recipe: Take boiled  
 linseed oil and stir it in pulverized charcoal,  
-to the consistency of paint. P.it a coat of  
+to the consistency of paint. Pat a coat of  
 this over the timber, and there is not a man  
-that w ill live to see it rot
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_cataloging_ver01%2Fdata%2Fsn84038582%2F00212471525%2F1873062101%2F0127.jp2/pct:20.240637,43.643617,15.078595,9.401596/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+that will live to see it rot
+</td></tr></table>
 
 ---
 
-## [From _The weekly Arizona miner._](https://chroniclingamerica.loc.gov/lccn/sn82014899/1873-06-28/ed-1/seq-4)
+## From _The weekly Arizona miner._
 
 #### 1873-06-28 &middot; [Prescott, Ariz.](http://dbpedia.org/resource/Prescott%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-ever. A correspondent of the Western Ru­  
+EVER.-A correspondent of the Western Ru­  
 ral says:  
 I discovered many years ago that wood  
-could bo made to last longer than Iron, in tho  
-. ground, but thought tbo process so simple  
-and inexpensive that ft was not worth mak-  
-. ing any stir about it. I would as soon hare  
-poplar, bssswopd or quaking asp as any other  
-Kind of timber for fenco posts. I have taken  
+could be made to last longer than iron, in the  
+ground, but thought the process so simple  
+and inexpensive that it was not worth mak-  
+ing any stir about it. I would as soon have  
+poplar, basswood or quaking asp as any other  
+kind of timber for fence posts. I have taken  
 out basswood posts after having been set sev­  
-en yesrs, that were as sound when taken up  
-as when first put in the ground. Timo and  
+en years, that were as sound when taken up  
+as when first put in the ground. Time and  
 weather seemed to have no effect upon them.  
-The posts can bo prepared for less than two  
+The posts can be prepared for less than two  
 cents apiece. For the benefit of others I will  
-give tbe recipe: Take trailed linseed oil and  
-stir it in pulverized charcoal to the&#x27; consis­  
+give the recipe: Take boiled linseed oil and  
+stir it in pulverized charcoal to the consis­  
 tency of paint. Put a coat of this over the  
 timber, and there is no man that will live t
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_apachetrout_ver01%2Fdata%2Fsn82014899%2F00211105495%2F1873062801%2F0536.jp2/pct:5.709241,76.580733,15.008829,9.877883/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -1807,44 +1838,40 @@ timber, and there is no man that will live t
 
 ---
 
-## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1873-07-09/ed-1/seq-4)
+## From _The Somerset herald._
 
 #### 1873-07-09 &middot; [Somerset, Pa.](http://dbpedia.org/resource/Somerset%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-ficiently soft to permit the operations.  
   
-rrtrlnitln? Felice Pol.  
+EvErLAstIng FencE POsts.  
   
 The correspondent of the Western  
-Rural says : I discovered, many years  
-ago, thut wood could lie made to  
-last longer than irou in the , ground,  
+Rural says: I discovered, many years  
+ago, that wood could be made to  
+last longer than iron in the ground,  
 though the process so simple and  
-inc.icusive that it was not worth  
-whilo m akiug any stir al tout it I would  
+inexpensive that it was not worth  
+while making any stir about it. I would  
 as soon have poplar, bass-wood or  
-quaking ash as any; other &#x27;, kind of  
-timber Tr fence potts.. I have taken  
-out bass wook post?, - afte .having  
-I cenVet seven .Vvars 1 hat ; w ere a s  
-sound when taken up as &#x27; tv ben they  
-were first put in the ground. . Time  
-and weather seemed to have ni effect!  
+quaking ash, as any other kind of  
+timber for fence posts.  I have taken  
+out bass wook posts, after having  
+been set seven years, that twere as  
+sound when taken up as when they  
+were first put in the ground. Time  
+and weather seemed to have no effect  
 on them. The posts can be prepar­  
-ed for less than two couts apiece.  
+ed for less than two cents apiece.  
 For the benefit of others, I will give  
-the rcccipc : Take boiled linseed oil  
-and stir in It pulverized charcoal, to  
-the consistent-&#x27; of paint. Put a coat  
+the receipe: Take boiled linseed oil  
+and stir in it pulverized charcoal, to  
+the consistency of paint. Put a coat  
 of this on the timber, and there is  
-not a mau who will live to seo&quot; i
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776464%2F1873070901%2F0237.jp2/pct:15.489925,4.126984,21.396708,93.174603/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+not a man who will live to see i
+</td></tr></table>
 
 ---
 
@@ -1887,39 +1914,38 @@ paint, rut a ooai ot tbM over iae
 
 ---
 
-## [From _The interior journal._](https://chroniclingamerica.loc.gov/lccn/sn84038328/1873-07-18/ed-1/seq-1)
+## From _The interior journal._
 
 #### 1873-07-18 &middot; [Stanford, Ky.](http://dbpedia.org/resource/Stanford%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-aay : I discovered many year ago that  
+HOW to Make Fence  
+ForeVER.  
+Post Last  
+A correspondent of the Western Ruol  
+says: I discovered many years ago that  
 wood could be made to last longer than  
-. iron, m uie grouuu, out i nougat ine pro-  
-cere so simple and in expensive that it  
-waa not worth while malting any stir  
-abjut it I would a soon have poplar,  
-baaawond or quaking ash as any other  
-kind of timber for fence posts. I have,  
-taken out baaawOod post having been net  
-seven years, that were a found when ta  
-, ken up as when.they were first put in the  
-. ground. Tim and weather seemed to  
-have no effect on them. The post can  
-be prepared for less than two cent apiece,  
-i For the benefit of other, I will give the  
+ron, in the ground, but thought the pro  
+cess so simple and in expensive that it  
+was not worth while making any stir  
+about it. I would as soon have poplar,  
+basswood or quaking ash as any other  
+kind of timber for fence posts. I have  
+taken out basswood posts having been set  
+seven years, that were as sound when ta  
+ken up as when they were first put in the  
+ground. Time and weather seemed to  
+have no effect on them. The posts can  
+be prepared for less than two cents a piece.  
+For the benefit of others, I will give the  
 recipe: Take boiled linseed oil and stir  
-in it pulverized charcoal to theconsisten-  
-&#x27; f :n, P - AAn. tm n id.  
+in it pulverized charcoal to the consiston-  
+av of pait Dut a coat of this over the  
 timber, and there is not a man that will  
-live to see it rot  
-TempcevKce Lector,  
-week or two since man note
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_albatross_ver01%2Fdata%2Fsn84038328%2F00280763391%2F1873071801%2F0303.jp2/pct:74.520767,34.396997,11.242013,13.514782/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+live to see it rot
+</td></tr></table>
 
 ---
 
@@ -1949,40 +1975,6 @@ of this over the timber, and there is not a man
 Ithat will live to see it rot.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762490%2F1873072201%2F0510.jp2/pct:68.510711,90.150630,12.495209,8.404753/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Juniata sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84026118/1873-07-23/ed-1/seq-4)
-
-#### 1873-07-23 &middot; [Mifflintown, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Western Rural says : I discovered many  
-years ago that wood could be made to  
-last longer than iron, in the ground, but  
-thought the process so simple and inex­  
-pensive that it was not thought worth  
-while to make any stir about it. I would  
-as soon have poplar, bapswood, or quaking  
-ash as any other kind of timber for fence  
-posts. I have taken out basswood posts  
-after having been set seven years that  
-were as sound when taken np as when  
-they were first put in the grouud. Time  
-and weather seemed to have no effect on  
-them. Tbe posts can be prepared for  
-less than two cents apiece. For tbe ben  
-efit of others I ill give tbe recipG : Take  
-boiled limeed oil and stir in it pnlveiized  
-charcoal to the consistency of paint.  
-Put a coat of this over the timber, and  
-there is not a msn thai will live to ee
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026118%2F00280776348%2F1873072301%2F0528.jp2/pct:8.776402,69.145861,12.072105,12.286465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2259,6 +2251,39 @@ oil, aod stir in pulverised
 
 ---
 
+## From _The Troy herald._
+
+#### 1874-07-08 &middot; [Troy, Mo.](http://dbpedia.org/resource/Troy%2C_Missouri)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Western Rural says: I discovered  
+many years ago that wood could be  
+made to last longer than iron in the  
+ground, but thought the process so  
+simple and inexpensive, that it was  
+not worth while to make any stir  
+about it. I would as soon have pop­  
+lar, basswood or quaking ash, as any  
+other kind of timber tor fence posts.  
+I have taken out basswood nosts after  
+having been set seven years, that  
+were as sound as when first put in the  
+ground. Time and weather seemed  
+to have no effect on them. The posts  
+can be prepared for less than two  
+cents apiece. For the benefit of  
+others I will give the receipe. Take  
+boiled linseed oil and stir in it pul­  
+verized charcoal to the consistency of  
+paint. Put a coat of this over the  
+timber, and there is not a man that  
+will live to see it rot, 
+</td></tr></table>
+
+---
+
 ## [From _The Phrenological Journal and Science of Health (1870-1911)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1874-08_59_2/page/n61/mode/1up?view=theater)
 
 #### 1874-08-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
@@ -2427,7 +2452,7 @@ there is not a mau that will live to sc
 
 ---
 
-## [From _The Somerset herald._](https://chroniclingamerica.loc.gov/lccn/sn84026409/1874-10-14/ed-1/seq-4)
+## From _The Somerset herald._
 
 #### 1874-10-14 &middot; [Somerset, Pa.](http://dbpedia.org/resource/Somerset%2C_Pennsylvania)
 
@@ -2439,28 +2464,27 @@ with blistered feet, seems grateful to
 have shoes made of it, although he  
 would resist the shoeing to the last,  
 were he not held so that he could  
-not move. -  
-Iron Incroaia.  
+not move.  
+IrOn FENCE-POsts.  
 Some one who has tried it says:  
-I discovered inanv years ago that  
+I discovered many years ago that  
 wood could be made to last longer  
-. , 11. at &#x27;  
-than iron in the ground, buttboughti  
-tbe process so simple and inexpen­  
-sive that it wa3 not worth while  
+e e the ead e ten  
+than iron in the ground, but thought  
+the process so simple and inexpen­  
+sive that it was not worth while  
 making any stir about it. I would  
 as soon have poplar, basswood, or  
 quaking ash as any other kind of  
 timber for fence-posts. After having  
-been set seven vears tLer were as  
-sound when taken out as when thev  
+been set seven years they were as  
+sound when taken out as when they  
 were first put in the ground. Time  
-and weather em to hare no effect,  
-on them. The posts can be prepare
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn84026409%2F00280776452%2F1874101401%2F0480.jp2/pct:14.597464,81.257693,10.218225,11.245384/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+and weather seem to heve no effect  
+on them. The posts can be prepared  
+for less than two cents apiece. This  
+is the recipe. Take boiled linseed ol
+</td></tr></table>
 
 ---
 
@@ -2566,39 +2590,6 @@ WANTED
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85038229%2F00280775794%2F1874112001%2F0307.jp2/pct:35.113688,5.894663,17.121929,90.849901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## [SPECIAL ADVERTISEMENTS.](http://trove.nla.gov.au/ndp/del/article/18789753)
-
-#### From _The Maitland Mercury and Hunter River General Advertiser (NSW : 1843 - 1893)_
-
-#### 1874-11-26 &middot; [Maitland, New South Wales](http://dbpedia.org/resource/Maitland%2C_New_South_Wales)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-it. The discoverer of it says:-&quot;I  
-discovered many years ago that wood  
-could be made to last longer than iron  
-in (be ground, but thought the process  
-so simple and inexpensive that it was  
-not worth while making any Stir about  
-it. I would as soo« have poplar,  
-basswoqd, or quaking asp, or any other  
-kind of timber for fencerposts after  
-having been set for seven years, Which  
-were as sound when taken out as when  
-they were first put in the ground. Time  
-and weather seem to have no effect on  
-them. The posts can be prepared for less  
-than two cents apiece. This is the  
-recipe : Take bottled linseed oil and  
-stir it in pulverised charcoal to the  
-consistency of paint. Put a coat of this  
-over the timber, and there is not a man  
-who Will live to see it rot.&quot; &quot; TH
-</td></tr></table>
 
 ---
 
@@ -2733,38 +2724,6 @@ there is not a man who will live to see it rot.&quot;
 In the practice of medicine, as in other worldl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_ariel_ver01%2Fdata%2Fsn82015418%2F00212474289%2F1875013001%2F0564.jp2/pct:55.654384,31.067753,12.388818,6.989708/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Weekly Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015484/1875-02-11/ed-1/seq-4)
-
-#### 1875-02-11 &middot; [Troy, Kan.](http://dbpedia.org/resource/Troy%2C_Kansas)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-To PitESEiivE Fencs Posts. Some one who  
-has tried it says : &quot;I discovered many years ago  
-thai wood could be made to last&#x27;louger than irun  
-in the gronnd, bnt thought the process so simple  
-and inexpensive that it was not worth while  
-making any stir about it. I wonld as soon have  
-poplar, basswood or quacking asp as any other  
-kind of -timber for fence, posts. After having  
-been act seven yean they were as eonud when  
-they were taken out as when tbey were first pnt  
-in the ground. Time and weather seem to have  
-no effect on them. The posts can be prepared  
-for less thau two cents apiece. This is the rec­  
-ipe. Take boiled linseed oil apd stir in it pnl­  
-Teriredcharcoal to the consistency of poiut. Pnt  
-a coat of this over the timber, and there is not a  
-man who will live to see it rot.&quot;  
-A writer in the London Field reccommend
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015484%2F00294555651%2F1875021101%2F0338.jp2/pct:3.716029,79.213641,12.645591,7.553551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2978,7 +2937,7 @@ than two cents apiece. This is the recipe: ‘“‘ Tak
 
 ---
 
-## [From _The Tipton advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84027398/1875-07-08/ed-1/seq-1)
+## From _The Tipton advertiser._
 
 #### 1875-07-08 &middot; [Tipton, Cedar Co., Iowa](http://dbpedia.org/resource/Tipton%2C_Iowa)
 
@@ -2986,16 +2945,16 @@ than two cents apiece. This is the recipe: ‘“‘ Tak
 
   
   
-To Preserve Fence Posts.  
+To PrEsERVE FeNCE POsts.  
   
-Some oue who has tried it, says:  
+Some one who has tried it, says:  
 &quot;I discovered many years ago that  
 wood could be made to last longer  
 than iron in the ground, but thought  
-the process so simple and inexpen­  
-sive that it was not worth while mak­  
+the process so simple and inexpen-­  
+sive that it was not worth while mak-­  
 ing any stir about it. I would as  
-soon have poplar, basswood, or quak­  
+soon have poplar, basswood, or quak-­  
 ing ash, as any other kind of timber  
 for fence posts. After having been  
 set seven years they were as sound  
@@ -3003,17 +2962,14 @@ when they were taken out as when
 they were first put in the ground.  
 Time and weather seem to have no  
 effect on them. The posts can be  
-prepared for lets than two cents  
+prepared for less than two cents  
 apiece. This is the recipe: Take  
-boiled linseed oil and stir in it pul­  
+boiled linseed oil and stir in it pul-­  
 verized charcoal to the consisency of  
-paint. Put a eoit of this over the  
-timber, aad there is ntt a man who  
-will live to set It rot.&quot;
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_lapras_ver01%2Fdata%2Fsn84027398%2F00279528438%2F1875070801%2F0740.jp2/pct:60.337748,84.146519,11.076891,11.551586/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+paint. Put a coat of this over the  
+timber, and there is not a man who  
+will live to see it rot.&quot;
+</td></tr></table>
 
 ---
 
@@ -3050,6 +3006,43 @@ will live to see it rotten.
 <img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551293%2F1875121601%2F0027.jp2/pct:62.061276,86.558631,12.177623,10.642253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## From _Bristol news._
+
+#### 1875-12-21 &middot; [Bristol, Va. & Tenn.](http://dbpedia.org/resource/Bristol%2C_Virginia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+cut into bars and put on boards to dry  
+Everlasting Fence Posts.  
+A correspondent of the Western  
+Rutal says:  
+I discovered many years ago that  
+nod could be made to last lon et  
+than iron in the ground, but thou, ht  
+the process so simple and inexpens  
+hat it was not worth while making  
+any stir abont it. I would as so0­  
+have poplar, basswood or quaking asl  
+s any other kind of timber, for feec  
+posts. I have taken out basswood  
+posts after having been set seven  
+ears, that were as sound when taken  
+up as when they were first put in the  
+ground. Time and weather seems to  
+have no effect on them. The posts  
+can be prenared for less than two  
+cents apiece. For the benefit of  
+others I will give you the recipe.  
+take boiled linseed oil and stir it in  
+puiverized charcoal to the consisten  
+cy of paint. Put a coat of this over  
+the timber and there is not a man  
+that will live to see it rotten
+</td></tr></table>
 
 ---
 
@@ -3130,10 +3123,6 @@ will live to see it rot
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-year. IJe careful not to put upon ice,  
-butter that you wish to keep any length  
-of time. In summer, when the heat  
-will not admit of butter being made  
 into rolls, pack closely into small jars.  
 and, using the same brine, allow it to  
 cover the butter to the depth of four  
@@ -3164,7 +3153,7 @@ the consistency of paint. Fut a coat
 of this over the timber, and there is  
 not a man that will live to sec it rot.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_kryptonite_ver01%2Fdata%2Fsn84037890%2F00280763585%2F1876051701%2F0102.jp2/pct:18.689893,35.290017,11.903466,22.378695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_kryptonite_ver01%2Fdata%2Fsn84037890%2F00280763585%2F1876051701%2F0102.jp2/pct:18.689893,37.967094,11.867175,19.701617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3248,6 +3237,40 @@ there is not a man to live to sec it rot,
 
 ---
 
+## From _The Hillsborough recorder._
+
+#### 1876-07-26 &middot; [Hillsborough, N.C.](http://dbpedia.org/resource/Hillsborough%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+station and adjoining towns they gather a­  
+round the lamp, and become absorbed in  
+their books and papers.&quot; Such is sub  
+stantially the testimony of a farmer who  
+has known how hard the struggle for a foot  
+ing on free soil without a capital is, and  
+how valuable and comparatively cheap are  
+the aids which good reading brings to him.  
+A correspondent of the Mestern Rurol  
+sary.I discorered inany years ago that  
+wood could be made to last longer than  
+wron in the ground, but thought the process  
+psocimple and inexpensive that it was not  
+orth while making any stir about it. I  
+would as soon have poplar, basswood or  
+quaking ash as any other kind of po  
+I hads ikkan ont bass wood posts, after they  
+have set seven years, that were as sound  
+when taken up as when they were first put  
+in the ground. Time and weather seem  
+  
+to have bo eflect on th  
+man two cents apiece
+</td></tr></table>
+
+---
+
 ## [MISCELLANEOUS.](http://trove.nla.gov.au/ndp/del/article/77486808)
 
 #### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
@@ -3289,6 +3312,10 @@ not.&#x27;a man who will live to see i
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+those of Australia, but no doubt the  
+plan •null be found equally adapted to  
+Australian timber. If the plan is even  
+half so good as represented it cannot  
 fail to prove very valuable. This is the  
 paragraph :—&quot;I discovered many years ago  
 that wood could be made to last longer  
@@ -3617,6 +3644,32 @@ seems to have no effeot upon them
 
 ---
 
+## From _The Holt County sentinel._
+
+#### 1877-05-25 &middot; [Oregon, Missouri.](http://dbpedia.org/resource/Oregon%2C_Missouri)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+than iron in the ground, but thousns  
+the process so simple and inexpensive  
+that it was not worth while making any  
+stir about it. I would as soon have  
+poplar, bass wood or quaking ash as  
+.  
+having been set seven years, that  
+were as sound when taken up as when  
+they were first put in the ground,  
+nd weather seems to have no  
+upon ithem. For the benefit of  
+I will give you the recipe: Take  
+lenseed oll and stir in it pulver-  
+charcoal to the concistency of  
+paint. Put a cont of this over the
+</td></tr></table>
+
+---
+
 ## [From _The Albany register._](https://chroniclingamerica.loc.gov/lccn/sn84022643/1877-07-06/ed-1/seq-2)
 
 #### 1877-07-06 &middot; [Albany, Or.](http://dbpedia.org/resource/Albany%2C_Oregon)
@@ -3653,38 +3706,40 @@ is no man that will live to sec it rotten
 
 ---
 
-## [From _Oxford Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83009653/1879-11-18/ed-1/seq-4)
+## From _Oxford Democrat._
 
 #### 1879-11-18 &middot; [Paris, Me.](http://dbpedia.org/resource/Paris%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-for preserving fence j&gt;osts. He says: 1  
+fed. This is an important part of the  
+system, and helps to make perfect diges­  
+tion.-BosToN Transcript.  
+FENCE POsTs.- A writer in the H&#x27;est­  
+Rural gives the following method  
+for preserving fence posts. He says: I  
 discovered many years ago that wood  
 could be made to last longer than iron in  
 the ground, but thought the process so  
-simpl and inexpensive that it was not  
-worth while making any stirabout it. I  
-won LI about a- soon iiuve poplar, basswood  
+simple and inexpensive that it was not  
+worth while making any stir about it. I  
+would about as soon have poplar, basswood  
 or quaking ash, as any other kind of tim­  
 ber for fencs posts. I have taken out  
-ba»swood posts after having been set sev­  
-en years, that were a» sound when taken  
+basswood posts after having been set sev­  
+en years, that were as sound when taken  
 up as when first put into the ground.  
 Time and weather seemed to have no ef­  
 fect upon them. The posts can be pre­  
-pared for U-ss than two cents apiece.  
+pared for less than two cents apiece.  
 For the benefit of others, I will give the  
-; reicipt : Take boiling linseed-oil, and  
+ receipt: Take boiling linseed-oil, and  
 stir in pulverized charcoal to the consis­  
-tency of paint, l&#x27;ut a coat of this over  
-ι the timber and there is not a man who  
+tency of paint. Put a coat of this over  
+ the timber and there is not a man who  
 will live long enough to see it rotten
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_baxter_ver01%2Fdata%2Fsn83009653%2F00279524056%2F1879111801%2F0431.jp2/pct:31.843325,83.386412,13.026362,11.659590/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
@@ -4087,34 +4142,29 @@ rotten.
 
 ---
 
-## [From _Richmond democrat._](https://chroniclingamerica.loc.gov/lccn/sn86063662/1884-11-06/ed-1/seq-2)
+## From _Richmond democrat._
 
 #### 1884-11-06 &middot; [Richmond, Ray County, Mo.](http://dbpedia.org/resource/Richmond%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-A correspondent gives the Weatcrn  
-i Jural hia receipt for everlasting fence  
+Rural his receipt for everlasting fence  
 posts. He says: &quot;I discovered many  
 years ago that wood can be made to  
 last longer than iron in the ground,  
-but thought the prpcesa so simple and  
+but thought the process so simple and  
 inexpensive that it was not worth  
-wliilo to make any stir about it. The  
+while to make any stir about it. The  
 posts can be prepared for less than  
-two cent. Take boiled linseed oil  
+two cents. Take boiled linseed oil  
 and stir in pulverized charcoal to the  
-ennsistcnev of oaiut. Put a coat of  
-- y .  
-t&#x27;jis over the timber, and there is not  
+consistency of paint. Put a coat of  
+ee e  e e eeo  
+this over the timber, and there is not  
 a man that will live long enough to  
-Koe it rolton.&quot;  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_felice_ver01%2Fdata%2Fsn86063662%2F00200292406%2F1884110601%2F1136.jp2/pct:4.920093,59.338162,10.001796,8.990200/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+see it rotten.&quot;
+</td></tr></table>
 
 ---
 
@@ -4281,6 +4331,31 @@ that will live long enough to see it rotten
 
 ---
 
+## From _Madison times._
+
+#### 1885-02-07 &middot; [Tallulah, Madison Parish, La.](http://dbpedia.org/resource/Tallulah%2C_Louisiana)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+inexpensive that it was not worth while  
+to make any stir about it. He would as  
+soon bave poplar or ash as any kind of  
+timber for posts. He has taken out bass  
+wood posts, after having been set seven  
+years, that were as sound when taken up  
+as when put in the ground. Time and  
+weather seemed to have no effect upon  
+them. The posts can be prepared for  
+less than two cents. Take boiled linseed  
+oil and stir in pulverized charcoal to the  
+consistency of paint. Put a coat of this  
+over the timber, and there is not a man  
+that will live long enough to see it rot
+</td></tr></table>
+
+---
+
 ## [From _Daily Kennebec journal._](https://chroniclingamerica.loc.gov/lccn/sn82014248/1885-03-26/ed-1/seq-4)
 
 #### 1885-03-26 &middot; [Augusta, Me.](http://dbpedia.org/resource/Augusta%2C_Maine)
@@ -4288,13 +4363,6 @@ that will live long enough to see it rotten
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-kind spoken of.—People and Patriot.  
-Kverlnsting Fence.  
-A correspondent gives the Western Ku­  
-ril his method of making everlasting  
-fence posts He says he discovered mam  
-m ills ago that si od call be made to last  
-longi r than iron in the ground, but  
 thought the process so simple and inex­  
 pensive that it was not wiuth while to  
 make any stir about it. lie would as soon  
@@ -4311,7 +4379,7 @@ sistency ot paint. Tut a coat ot this over
 the timber, and there is not a man that  
 will live long enough to see it rot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_eddington_ver01%2Fdata%2Fsn82014248%2F00332895126%2F1885032601%2F0295.jp2/pct:17.449139,52.597773,13.091745,11.622181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_eddington_ver01%2Fdata%2Fsn82014248%2F00332895126%2F1885032601%2F0295.jp2/pct:17.449139,56.808450,13.091745,7.411504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
