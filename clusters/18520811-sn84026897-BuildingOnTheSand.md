@@ -1,7 +1,7 @@
 
 # Building on the Sand
 
-### 217 reprints from 1852-06-24 to 1898-01-27
+### 201 reprints from 1852-06-24 to 1898-01-27
 
 ## [Building on the Sand](http://chroniclingamerica.loc.gov/lccn/sn84026897/1852-08-11/ed-1/seq-4/)
 
@@ -72,13 +72,16 @@ But &quot;build upon the sand.&quot;
 
 ---
 
-## [From _The Lancaster ledger._](https://chroniclingamerica.loc.gov/lccn/sn84026900/1852-07-14/ed-1/seq-4)
+## [From _The Lancaster ledger._](https://www.loc.gov/resource/sn84026900/1852-07-14/ed-1/?sp=4)
 
 #### 1852-07-14 &middot; [Lancaster, S.C.](http://dbpedia.org/resource/Lancaster%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ i  
+Building on tho Sand.  
   
+BY KLIiA COOA.  
 Tis well to woe, &#x27;tis good to wed,  
 For so the world hss done  
 Since myrtles grew, and roses blew,  
@@ -115,9 +118,9 @@ Should scatter crumbs as well.
 The mercy that is warm and truo  
 Must lend a helping hand,  
 For those who talk, yet fail to do.  
-But &#x27;&quot;build upon thertbnd.&#x27;&#x27; Wf
+But &#x27;&quot;build upon thertbnd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_irmookrastrut_ver01%2Fdata%2Fsn84026900%2F00295862634%2F1852071401%2F0095.jp2/pct:3.034753,8.447142,13.352912,25.925061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862634:1852071401:0095/pct:3.024963,2.661375,13.348018,31.703047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -129,6 +132,12 @@ But &#x27;&quot;build upon thertbnd.&#x27;&#x27; Wf
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+d.  
+  
+  
+  
+BUILDING ON THE SAND.  
+BY ELIZA COOK,  
   
 *Tis well to woo, ’tis good to wed,  
 For so the world has done  
@@ -181,22 +190,23 @@ The Mercy t&#x27;at is warm and true
 Must lend a helping hand,  
   
 For those who talk, yet fil to do,  
-But “build upon the sand.”
+But “build upon the sand.”  
+  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_maine-farmer_1852-07-22_20_30&#0036;0/pct:66.300318,20.352024,9.692797,18.665683/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_maine-farmer_1852-07-22_20_30%2Fsim_maine-farmer_1852-07-22_20_30_jp2.zip%2Fsim_maine-farmer_1852-07-22_20_30_jp2%2Fsim_maine-farmer_1852-07-22_20_30_0000.jp2/pct:61.665784,18.950253,14.327331,77.287099/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The Texas Republican._
+## [From _The Texas Republican._](https://www.loc.gov/resource/sn83025730/1852-07-24/ed-1/?sp=4)
 
 #### 1852-07-24 &middot; [Marshall, Tex.](http://dbpedia.org/resource/Marshall%2C_Texas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-r i well to woo,&#x27;t is good to wed,  
+ i well to woo,&#x27;t is good to wed,  
 For so the world has done­  
 Since mertles grew, and roses  
 And morning brought the sun.  
@@ -230,25 +240,29 @@ i.
 sless ad  
   
 E e  
-I pon the bank of that fair stream  
+Ipon the bank of that fair stream  
 Long years of thought and holy toil  
-Had taught him hfe was not a dream  
+Had taught him life was not a dream  
 The same stars in the placid wave  
 Wore still the same soft crowns ofI  
 And all along the banks flowed down  
 To his great heart the sar  
-He wondered not now they were there
-</td></tr></table>
+He wondered not now they wer
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1852072401:0622/pct:6.847752,11.862510,10.870806,47.374101/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1852-08-11/ed-1/seq-4)
+## [From _Edgefield advertiser._](https://www.loc.gov/resource/sn84026897/1852-08-11/ed-1/?sp=4)
 
 #### 1852-08-11 &middot; [Edgefield, S.C.](http://dbpedia.org/resource/Edgefield%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+3UILDING ON THE BAND.  
+BY ELIZA COOK.  
 &#x27;Tis well to woo, &#x27;tie well to wed,  
 For so the world has done  
 Since myrtles grew, and roses blew,  
@@ -284,21 +298,27 @@ Should scatter crumbs as well.
 The mercy that is warm and true  
 Mast lend a helping. hand,  
 Por those who talk, yet fail to do,  
-But &quot; build upon the sand.
+But &quot; build upon the sand.&quot;  
+a --  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn84026897%2F00237288282%2F1852081101%2F0298.jp2/pct:1.561613,9.044807,11.475487,22.510259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288282:1852081101:0298/pct:1.561613,7.937143,11.470755,23.871484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Port Tobacco times, and Charles County advertiser._](https://chroniclingamerica.loc.gov/lccn/sn89060060/1852-09-29/ed-1/seq-1)
+## [From _Port Tobacco times, and Charles County advertiser._](https://www.loc.gov/resource/sn89060060/1852-09-29/ed-1/?sp=1)
 
 #### 1852-09-29 &middot; [Port Tobacco, Md.](http://dbpedia.org/resource/Port_Tobacco_Village%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+d to this office must be  
+POST PAID.  
+POE TRY.  
+BUILDING ON THE SAND.  
+BY ELIZA COOK.  
 JTis well to woo, ’tis good to wed,  
 For so the world hath done  
 Since myrtles grew, and roses blew,  
@@ -334,21 +354,148 @@ Should scatter crumbs as well.
 The mercy that is warm and true,  
 Must lend a helping hand,  
 For those who talk, yet fail to do,  
-But “build upon the sand.
+But “build upon the sand.”  
+!SCE I. Li N. E O
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_elsberg_ver02%2Fdata%2Fsn89060060%2F00415624268%2F1852092901%2F0307.jp2/pct:6.947614,28.809809,12.794766,20.256103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624268:1852092901:0307/pct:6.100715,24.779628,14.011867,25.508760/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Columbus Democrat._
+## [From _The Democratic sentinel and Harrison County farmer._](https://www.loc.gov/resource/sn85042199/1852-09-29/ed-1/?sp=4)
+
+#### 1852-09-29 &middot; [Cadiz, Ohio](http://dbpedia.org/resource/Cadiz%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+.  
+  
+ ata  
+Building on the Sand.  
+ahOD well er ehea coor, senlon  
+&#x27;Tis well to woo, &#x27;tis good to wed,   
+for so the world hath done ts4 a  
+Since myrtles grew, and roses blew,  
+And morning brought the sun.  
+Sssotif  
+But have a care, ye young and fair  
+Be sure ye pledge with truth  
+Be certain that vour love will wear  
+ Beyond the days of youth;  
+For if you give not heart for heart,  
+As well as hand for hand.  
+You&#x27;ll find you&#x27;ve played the unwise part,  
+  
+ And &quot;built upon the sand.&quot;  
+  e  e a  
+&#x27;Tis well to save, &#x27;tis well to have  
+A goodly store of gold;  
+And hold enough of the shining stuff  
+For charity is cold.  
+But place not all your hope and trust,  
+In what the deep mine brings;  
+We cannot live on yellow dust,  
+Unmixed with purer things.  
+And he who piles up wealth alone.  
+Will often have to stand  
+Beside his coffer-chest, and own  
+Tisbuilt upon the sand.&quot;  
+Tis good to speak in kindly guise,  
+And soothe where&#x27;er we can;  
+Fair speech should blind the human mind,  
+And love link man to man.  
+But stay not at the gentler words,  
+ Let deeds with language dwell;  
+The ene who pities starving birds,  
+Should scatter crumbs as well.  
+  
+ee  
+The mercy that is warm and true,  
+ Must lend a helping hand,   
+For those who talk, yet fail to do,­  
+But buil uon the sand.  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85042199:00296026670:1852092901:0422/pct:1.209964,5.333510,16.903915,83.390683/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Pawtucket gazette and chronicle._](https://www.loc.gov/resource/sn83021578/1852-10-01/ed-1/?sp=1)
+
+#### 1852-10-01 &middot; [Pawtucket, R.I.](http://dbpedia.org/resource/Pawtucket%2C_Rhode_Island)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+POETRY.  
+  
+BUILD ON 8A ND  
+  
+BY lUIA COOK.  
+’Tie well to woo, ’tie good to wed,  
+  
+For so the world has done,  
+Since myrtles grew and roses blew,  
+Aud morning brought the sun.  
+But have a care, ye young and fair,—  
+lie sure ye pledge with truth ;  
+Be certain that your love will wear  
+Beyoud the days of youth ,  
+For if ye give not heart for heart.  
+As well as hand for hand,  
+d A ll find you&#x27;ve played the “ unwise&#x27; 1 part,  
+Aud built upon Uia sand.  
+  
+’Tie well to save, ’tie well to have  
+A goodly, store of gold,  
+And hold enough of shining stuff—  
+For Charity is cold ;  
+But place not all your hope and trust  
+In what the deep mine brings ,  
+lie cannot live on yellow dust  
+L umixed with purer things.  
+  
+And he who idles up wealth alone,  
+Will often have to ebuid  
+Beside bis colter chest and own,  
+&#x27;Tie “ built upon the sand.”  
+  
+Tis good to speak in kindly guise,  
+And soothe where&#x27;er we can,  
+Fair speech should bind tho human mind,  
+Aud love like man to man.  
+But stay not at the gentle words,  
+I«et deeds with language dwell;  
+The one who pities starving birds  
+Can scatter crumbs as well.  
+  
+Tlie Mercy that is warm and true  
+Must lend a helping hand,  
+For those who talk yet fail to do,  
+But “ build upon the sand.”  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_jarlstorvald_ver01:data:sn83021578:00529045414:1852100101:0571/pct:5.114608,26.490066,10.810811,18.848701/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Columbus Democrat._](https://www.loc.gov/resource/sn83016867/1852-10-02/ed-1/?sp=4)
 
 #### 1852-10-02 &middot; [Columbus, Miss.](http://dbpedia.org/resource/Columbus%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ opinions that you have a right to  
+expect forfyour own. Truly youript  
+Hon.  
+BUILD ON SAND.  
+BY ELIA COOK.  
 &quot;Tis well to woo, &#x27;tis good to wed,  
 For so the world has done,  
 Since myrtles grew and roses blew,  
@@ -373,29 +520,35 @@ And he who piles up wealth alone,
 Wil often have to stand  
 Beside his coffer chest and own,  
 &#x27;Tis &quot;built upon the sand.&quot;  
-&quot;Tis good to speak in kindly guise,  
+&#x27;Tis good to speak in kindly guise,  
 And soothe where&#x27;er we can,  
 Fair spech should bind the human mind,  
 And love like man to man.  
 But stay not at the gentle words,  
 Let deeds with language dwell;  
-The one who pities starving bard  
+The one who pities starving bird  
 Can scatter crumbs as well.  
 The Mercy that is warm and true  
 Must lend a helping hand,  
 For those who talk yet fail to do,  
-But &quot;build upon the sand.
-</td></tr></table>
+But &quot;build upon the sand
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_fluttershy_ver01:data:sn83016867:00295877923:1852100201:0383/pct:8.303924,25.364249,14.303508,31.207896/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _The Yazoo Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87065704/1852-10-20/ed-1/seq-1)
+## [From _The Yazoo Democrat._](https://www.loc.gov/resource/sn87065704/1852-10-20/ed-1/?sp=1)
 
 #### 1852-10-20 &middot; [Yazoo City, Miss.](http://dbpedia.org/resource/Yazoo_City%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+Build on Sand.  
+BV ELIZA COOK.  
 &#x27;Tis well to woo, &#x27;tis good to wed,  
 For so the world has done,  
 Since myrtles grew and roses blew,  
@@ -431,58 +584,11 @@ Can scatter crumbs as well.
 The Mercy that is warm and true  
 Must lend a helping hand,  
 For those who talk yet to do,  
-But built upon the sand
+But built upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_minuette_ver01%2Fdata%2Fsn87065704%2F00415662038%2F1852102001%2F0248.jp2/pct:50.724026,13.355719,13.412062,22.931109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn87065704:00415662038:1852102001:0248/pct:67.594154,16.182842,17.875211,32.192374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## From _Wheeling daily intelligencer._
-
-#### 1852-10-23 &middot; [Wheeling, Va. [W. Va.]](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Tis well to woo, &#x27;tis good to wed,  
-For so the world has done,  
-Since myrtles grew and roses blew,  
-And morning brought the sun.  
-But have a care, so young and fair,  
-Be sure ye pledge with truth  
-Be certain that your love will wear  
-Beyond the days of youth.  
-For if ye give not heart for heart,  
-As well as hand for hand,  
-Yourll find youve played the unwise part,&quot;  
-And bullt upon the sand.  
-Tis well to save, &quot;us well to have  
-Agoodly store of gold;  
-And hold enough of shining stuff,  
-For charityls cold.  
-But place not all your hope and trust  
-In what the deep mine bringsy  
-We cannot live on yellow dust  
-Unmixed with purer things.  
-And he who piles up wealth alone,  
-Will often have to stand  
-Bealde his coffer chest, and own  
-Tis built upon the sand.  
-&quot;Tis good to speak in kindly guise,  
-And soothe where&#x27;er we can;  
-Fair speech should bind the human mind,  
-And lovelike man to man.  
-But atay not at the gentle words,  
-Let deeds with anguish dwell,  
-The one who pities starving birds  
-Can scatter crumhs as well.  
-The Mercy that is warm and true,  
-Must lend a helping hand,  
-For those who taik, yet fail to do,  
-But build upon the sand
-</td></tr></table>
 
 ---
 
@@ -496,13 +602,65 @@ But build upon the sand
 
 ---
 
-## [From _Semi-weekly North-Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84024518/1852-11-06/ed-1/seq-2)
+## [From _The miners' journal, and Pottsville general advertiser._](https://panewsarchive.psu.edu/lccn/sn84026251/1852-11-06/ed-1/seq-1/)
+
+#### 1852-11-06 &middot; [Pottsville, Pa.](http://dbpedia.org/resource/Pottsville%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ ON SAND:  
+BE ELIZA COOx.  
+&#x27;Tis well to woo, well to wed,  
+For so the world has done  
+Since myrtles grew and roses blew,  
+And morning brought the sun. .;  
+But have a care. yoUng; and fair,—  
+Be sure ye pledge with truth ;  
+Bejcertain that yourdove will wear  
+Beyond the days of youth. .  
+For Wye give not heart for heart,  
+As well as hand for hand.  
+You&#x27;ll find you&#x27;ve played the &quot;unwiset part,  
+lied built upon the sand.  
+&#x27;Tis well to save. &#x27;tis well to have  
+A goodly store of gold, I  
+And hold enotgh of shining stiff—  
+For Charity is cold ; •  
+But place not all your hope and trust  
+• &#x27;ln what the deep :nine brings ;  
+. We cannot live on yellow dust  
+Unmixed with.purer things.. &quot; &#x27;  
+1  
+And he who piles up wealth alone,  
+Will often have to stand -  
+• Beside his cofferThest and own •  
+• &#x27;Tis &quot;built upcintthe sand.&quot;  
+&#x27;Tis good to speak in kindly guise,  
+And soothe where&#x27;er we ran,  
+Fair speech should birid the human mind,  
+And love like-man to man.  
+But stay not at the gentle word&#x27;,  
+&#x27;Let deeds with language dwell ;  
+The one who pities starving birds  
+Can scatter crumbs as well.  
+The Mercy that is warm and true I  
+Must lend a helping hand, • I  
+For those who talk yet-fait to do, . !  
+But &quot;build upon the sand.&quot;
+</td></tr></table>
+
+---
+
+## [From _Semi-weekly North-Carolina standard._](https://www.loc.gov/resource/sn84024518/1852-11-06/ed-1/?sp=2)
 
 #### 1852-11-06 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+,  
   
+- V BUILDING ON THE SAND.  
+, ; v; -s 4 . 1 &quot; BY ELIZA COOK.  
 i JT&#x27;w well to woo, &#x27;tis well to wed,  
 For so the world hath done  
 o.. Since myrtles grew, and roses blew,  
@@ -540,21 +698,25 @@ j &#x27; J. Tha one who pities starving birds
 f - &#x27; .The mercy that&#x27; is warm and true  
 &#x27; &#x27; Must lend a helping hand,  
 For those who talk, yet fail to do,  
--&quot; X But build upon the sand.
+-&quot; X But build upon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn84024518%2F00296022718%2F1852110601%2F0354.jp2/pct:85.768322,74.746601,13.585500,19.616811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:00296022718:1852110601:0354/pct:114.303718,97.861557,18.100189,27.948084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Weekly North Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84045030/1852-11-10/ed-1/seq-4)
+## [From _Weekly North Carolina standard._](https://www.loc.gov/resource/sn84045030/1852-11-10/ed-1/?sp=4)
 
 #### 1852-11-10 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+to swim. JSew lorc vay  
+  
+BUILDING ON THE SAND.  
+BY ELIZA COOK.  
 &#x27;Tis well to woo, &#x27;tis well to wed,  
 For so the world hath done  
 Since myrtles grew, and roses blew,  
@@ -590,9 +752,10 @@ Should scatter crumbs as well.
 The mercy that is warm and true  
 Must lend a helping band,  
 For those who talk, yet fail to doy  
-But &quot; build upon the sand.&quot;
+But &quot; build upon the sand.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_alligator_ver01%2Fdata%2Fsn84045030%2F00296022627%2F1852111001%2F0632.jp2/pct:87.364933,73.621055,11.655381,19.058183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1852111001:0632/pct:113.796083,95.129575,18.159562,28.436019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -608,13 +771,17 @@ But &quot; build upon the sand.&quot;
 
 ---
 
-## [From _Camden journal._](https://chroniclingamerica.loc.gov/lccn/sn93067980/1852-12-07/ed-1/seq-1)
+## [From _Camden journal._](https://www.loc.gov/resource/sn93067980/1852-12-07/ed-1/?sp=1)
 
 #### 1852-12-07 &middot; [Camden, South-Carolina](http://dbpedia.org/resource/Camden%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+s  
+  
+BUILD ON SAND.  
+BY ELIZA COOK.  
 &#x27;Tis well to woo, &#x27;tis good to wed,  
 For so the world has done.  
 Since myrtles grew and roses blew,  
@@ -655,19 +822,22 @@ Must lend a helping hand,
 For those who talk yet tail to do,  
 But buiid upon the sand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_albinoskunk_ver02%2Fdata%2Fsn93067980%2F00295862270%2F1852120701%2F0217.jp2/pct:21.143034,12.344933,16.434971,23.662800/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00295862270:1852120701:0217/pct:0.000000,11.019816,37.571826,87.687289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Baton-Rouge gazette._
+## [From _Baton-Rouge gazette._](https://www.loc.gov/resource/sn82003383/1852-12-25/ed-1/?sp=1)
 
 #### 1852-12-25 &middot; [Baton-Rouge, La.](http://dbpedia.org/resource/Baton_Rouge%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ti  
+BUILD ON SAND.  
+—  
+bt kklxi cook.  
 •Tis well to woo, &#x27;tis good to wed,  
 For so the world has done,  
 Since myrtles grew and roses blew,  
@@ -690,17 +860,24 @@ We cannot live on yellow dust,
 Unmixed with ptuer things.  
 And he who piles up wealth alone,  
 Wil
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874429:1852122501:0441/pct:5.792683,69.123735,10.991656,15.259890/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Jeffersonian Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053954/1853-01-06/ed-1/seq-1)
+## [From _Jeffersonian Republican._](https://www.loc.gov/resource/sn86053954/1853-01-06/ed-1/?sp=1)
 
 #### 1853-01-06 &middot; [Stroudsburg, Pa.](http://dbpedia.org/resource/Stroudsburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+,  
+AT THE OFFICE OF THE  
+.Tcfferso;ai:ui Republican.  
+Building on the Sand  
+BY ELIZA COOK.  
 &quot;Tis well to woo, &#x27;tis good to wed,  
 For so the world has done -  
 Since myrtles grew and roses blew,  
@@ -735,21 +912,25 @@ Should scatter crumbs, as well.
 The mercy that is warm and true.  
 Must lend a helping hand;  
 For those who talk, yet fail to do,  
-But &quot;build upon the sand.
+But &quot;build upon the sand.&quot;  
+The Bible.  
+How comes that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_borland_ver01%2Fdata%2Fsn86053954%2F0023728169A%2F1853010601%2F0505.jp2/pct:4.588633,28.339230,14.313315,30.760725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728169A:1853010601:0505/pct:6.084997,33.270677,19.092080,48.076073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1853-01-20/ed-1/seq-1)
+## [From _Green-Mountain freeman._](https://www.loc.gov/resource/sn84023209/1853-01-20/ed-1/?sp=1)
 
 #### 1853-01-20 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+BUILDINa ON THB sand,  
+bv lifts cook.  
 &#x27;Tis well to woo, &#x27;tis uoud to wmI,  
 For so the world has done  
 Since myrtles grew and roses blew,  
@@ -785,21 +966,41 @@ Should scalier crumbs as ell,
 The Mercy that is warm und true  
 Must lend a helping hand ;  
 For those who t ilk, and fail to do,  
-But build upon the sand.
+But build upon the sand.&quot;  
+$l)e i&#x27;amili) Circle.  
+It is observed, that the most censorious are  
+generally the least judicious; who, having no­  
+thing to recommend themselves, will be finding  
+fault with others. No man envies the merit of  
+another that has any of his own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202199276%2F1853012001%2F0011.jp2/pct:7.472995,32.664828,9.314680,16.996741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1853012001:0011/pct:7.861190,41.840060,16.023371,30.533968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Anti-slavery bugle._](https://chroniclingamerica.loc.gov/lccn/sn83035487/1853-01-22/ed-1/seq-4)
+## [From _Anti-slavery bugle._](https://www.loc.gov/resource/sn83035487/1853-01-22/ed-1/?sp=4)
 
 #### 1853-01-22 &middot; [New-Lisbon, Ohio](http://dbpedia.org/resource/Salem%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ws give not heart for heart,  
+ I  
+  
+Build on Sand.  
+  
+BY ELIZA COOK.  
+  
+&#x27;Tis well to woo, &#x27;tis good to wed,  
+For S3 tho world hoi done,  
+Since myrtles grow and roses blew,  
+And morning brought the sun.  
+But have a care, so young and fair­  
+Do suro you ptedgo with truth  
+So certain that your love will wear  
+Ileyond the days of youth,  
+For if ws give not heart for heart,  
 Ai well ns hnnd for hand,  
 You&#x27;ll find you&#x27;vo played tho unwise part.  
 And built upon the sand.  
@@ -826,21 +1027,25 @@ Can scatter crumbs as well.
 The mercy that is wnrm and true,  
 Must lend a helping hand,  
 For those who talk, yet fail to do,  
-But build upon the sand
+But build upon the sand.  
+  
+From the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_desdemona_ver01%2Fdata%2Fsn83035487%2F00237283776%2F1853012201%2F0641.jp2/pct:40.369181,16.450084,11.918138,18.345819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035487:00237283776:1853012201:0641/pct:36.476726,9.020028,15.810594,82.586760/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Lancaster ledger._](https://chroniclingamerica.loc.gov/lccn/sn84026900/1853-02-02/ed-1/seq-4)
+## [From _The Lancaster ledger._](https://www.loc.gov/resource/sn84026900/1853-02-02/ed-1/?sp=4)
 
 #### 1853-02-02 &middot; [Lancaster, S.C.](http://dbpedia.org/resource/Lancaster%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
+Building on the Sand.  
+BY EI.IZA COOK.  
 Tis well to woo, &#x27;tis good to wed,  
 For ao the world has done,  
 Since myrtles grew and roses blew,  
@@ -878,20 +1083,25 @@ TltA moeoi&#x27; &lt;!?.? I.. ?? ?&#x27;? ....-1 A
 - ..v ...vivi MUlk in ?* ill III il I III irue  
 Must lend a helping hand,  
 For those who talk yet fail to do,  
-Hut &quot; build upon the sand.
+Hut &quot; build upon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_irmookrastrut_ver01%2Fdata%2Fsn84026900%2F00295862634%2F1853020201%2F0212.jp2/pct:4.141627,7.415148,12.525040,26.320678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862634:1853020201:0212/pct:4.131611,5.375595,12.530048,28.352490/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The Davenport gazette._
+## [From _The Davenport gazette._](https://www.loc.gov/resource/sn82014073/1853-02-03/ed-1/?sp=1)
 
 #### 1853-02-03 &middot; [Davenport, Scott Co., Iowa](http://dbpedia.org/resource/Davenport%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+n Gold.  
+  
+BElLBING OY THE SAND.  
+  
+BY SLIzA COOK.  
   
 &#x27;Tis well to woo, &#x27;tis well to wed,  
 For so the world has done  
@@ -899,13 +1109,13 @@ Since myrtles grew and roses blew,
   
 And morning brought the sun.  
   
-But have a care, ye young and fair,  
-Be sure ye pledge with truth,  
+But have a care, ye young and fair-  
+Be sure ye pledge with truth-  
 Be certain that your love will wear  
   
 Beyond the days of youth.  
   
-10,00  
+10.00  
   
 For, if we give not heart to heart,  
 As well as hand to hand  
@@ -913,7 +1123,7 @@ You&#x27;ll find you&#x27;ve played the unwise part
   
 And &quot;built upon the sand.&quot;  
   
-&#x27;Tis well to save, &#x27;tis well to have  
+Tis well to save, &#x27;tis well to have  
 A goodly store of gold,  
 And hold enough of the shining stuff,  
   
@@ -952,18 +1162,25 @@ The mercy that is warm and true,
 Must lend a helping hand  
 For those who talk, yet fail to do,  
   
-But &quot;burld upon the sand.&quot;
-</td></tr></table>
+But &quot;burld upon the sand.&quot;  
+  
+A S
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529200:1853020301:0725/pct:6.180049,13.977170,24.898621,68.879855/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _The Caledonian._
+## [From _The Caledonian._](https://www.loc.gov/resource/sn84023252/1853-02-05/ed-1/?sp=4)
 
 #### 1853-02-05 &middot; [St. Johnsbury, Vt.](http://dbpedia.org/resource/St._Johnsbury%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+!  
+Building on the Sand.  
+BY ELIzA COOK.  
 &quot;Iis well to woo, &#x27;tis good to wed,  
 For so the world has done  
 Since mnyrtles grew and roses blew,  
@@ -988,29 +1205,45 @@ And he who piles up wealth alone,
 Will often have to stand  
 Besiles his coffer chest and own  
 Iis &quot;built upon the sand.&quot;  
-&#x27;Tis to! to speak in kindly guise,  
-An I soothe whare&#x27;er we can;  
-Fair speechshould bind the human mind,  
+Tis tood to speak in kindly guise,  
+An I soothe where&#x27;er we can;  
+Ieir speech should bind the human mind,  
 And love link man to man.  
 Bat stay not in the gentie worls,  
-Let leels with language dwell;  
-Thcone tho pities Sarving  
+Let leels with language dwell:  
+Thcone s ho pities Starving  
 Should scatter crumbs so well.  
-The merey that is warm and true  
-Must lend a helpinghad;  
+The mercy that is warm and trus  
+Must lend a helpinghand;  
 For those who talk and fail to do,  
-But &quot;huill upon the sand.
-</td></tr></table>
+But &quot;huild upon the sand.&quot;  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296217:1853020501:0447/pct:22.540678,20.757559,11.106135,23.329388/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Daily evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045461/1853-03-11/ed-1/seq-1)
+## Variety
+
+#### From _Boston investigator._
+
+#### 1853-03-09 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
+
+[This text is not available under an open license.]
+
+---
+
+## [From _Daily evening star._](https://www.loc.gov/resource/sn83045461/1853-03-11/ed-1/?sp=1)
 
 #### 1853-03-11 &middot; [Washington [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
+BUILD ON SAND.  
+BY ELIZA COOK.  
 &#x27;lis well to -woo, &#x27;tis gcod to wed,  
 For to the wi rid has done,  
 Sine ? myrt&#x27;es grow and io-es blew,  
@@ -1046,20 +1279,237 @@ Can scatter crumbs as well.
 The Mercy that is warm and true  
 Must lend a heli in.&#x27; hand,  
 For those who talk jet fail to do  
-But build upon the sand
+But build upon the sand.  
+[From The F
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_ibizanhound_ver01%2Fdata%2Fsn83045461%2F00280654000%2F1853031101%2F0263.jp2/pct:60.847209,15.266297,16.605452,25.455164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045461:00280654000:1853031101:0263/pct:60.839047,12.556241,16.601371,29.580412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn82015099/1853-04-30/ed-1/seq-4)
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1853-03-12_32_1650/page/n1/mode/1up?view=theater)
+
+#### 1853-03-12 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ Every school bey keows that a kite  
+sity ead honor. would not fy unless it had a string tying it  
+&#x27;down. It is just so in life. The man who is  
+Tas Moos aso rus Lartix Doo.--We were ied down by halt-a-dozen blooming responsibi-  
+reminded the other day of an anecdote once ties, and their mother, will make @ higher ana  
+told by a cortain Judge, alter listening usmoved | sironger fight than the bacbelor who, having  
+to &amp; long tirade agaiast him. He said, be heard  gorhing to keep him steady, is always flounder  
+one night « litte dog barking at 4 furious rate, | ing inthe mud. Lf you want t
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_saturday-evening-post_1853-03-12_32_1650%2Fsim_saturday-evening-post_1853-03-12_32_1650_jp2.zip%2Fsim_saturday-evening-post_1853-03-12_32_1650_jp2%2Fsim_saturday-evening-post_1853-03-12_32_1650_0001.jp2/pct:40.877915,81.964047,17.249657,3.298173/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Athens post._](https://www.loc.gov/resource/sn84024443/1853-03-18/ed-1/?sp=2)
+
+#### 1853-03-18 &middot; [Athens, Tenn.](http://dbpedia.org/resource/Athens%2C_Tennessee)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+nstantly, by means of tho spring,  
+adjust tho rails-in their right lino. This in­  
+vention is simplo and excellent. Tho New  
+York City Line has resolved on giving it n  
+trial, and one of these self-adjusting switches  
+is to be set down at the depot near Louisiana  
+street, early in tho present week, when wc  
+shall call attention more particularly to an  
+invention which is undoubtedly very impor­  
+tant to the whole community.  
+The Art of Flying. Every school boy  
+knows that a kilo would not fly unless ithad  
+a string tying it down. It is just so in life.  
+The man who is tied down by half-a-dozen  
+blooming responsibilities, nnd their mother,  
+will make a higher nnd stronger flight than  
+the bachelor who, having nothingsto keep  
+him steady, is ul ways floundering in the mud.  
+If you want to ascend in tho world, tie yourl  
+self to somebody.  
+537&quot; Mr. Park, one of tho men recently  
+murdered in the trading boat on Tensas river  
+the owner of the bout wa
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1853031801:0108/pct:89.061317,104.222649,17.713853,16.945435/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Eastern times._](https://www.loc.gov/resource/sn82014356/1853-03-24/ed-1/?sp=4)
+
+#### 1853-03-24 &middot; [Bath, Me.](http://dbpedia.org/resource/Bath%2C_Maine)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+I: isob ervt d, that die most censorious  
+ire generally the least judicious ; who  
+having nothing in recommend themselves,  
+will be finding ’faults with others. No  
+man envies the merit of another that has  
+any of his own.  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895667:1853032401:0051/pct:19.827704,32.543958,12.361548,4.268726/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Jeffersonian Republican._](https://www.loc.gov/resource/sn86053954/1853-03-31/ed-1/?sp=1)
+
+#### 1853-03-31 &middot; [Stroudsburg, Pa.](http://dbpedia.org/resource/Stroudsburg%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+u stupid fool, you -  
+. I  
+Every schoolboy knows that a kite  
+  
+would not fly unless it bad a string tying four p00r stools, a rickety table and a scan-  
+it down. Itis just so in life. The manjtU overcdbed ; while in one corner, near-j  
+who is tied down by half-a-dozen bloom-, t. e -or&#x27;  
+ing responsibilitiesand their mother, will , cst to the fire Place&#x27; was a heaP 8traW ,  
+make a higher and stronger flight than and tatcred blankets, which served as a  
+the bachelor who, having nothing to keep resting place for the brother and sister.  
+him steady, is always floundering inTthe parfc 0f a tallow candle was burning upon &#x27;  
+mud. If you want to ascend in the world
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728169A:1853033101:0553/pct:5.131074,82.266227,41.496164,10.781078/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Sailor's Magazine and Seamen's Friend_](https://archive.org/details/the-sailors-magazine-and-seamens-friend_1853-04_25_8/page/n23/mode/1up?view=theater)
+
+#### 1853-04-01
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+BUILD ON SAND.  
+  
+BY ELIZA COOK.  
+  
+eG  
+‘Tis well to woo—’tis good to wed—  
+For so the world has done  
+Since myrtles grew and roses blew,  
+And morning brought the sun,  
+  
+But have a care, ye young and fair—  
+Be sure ye pledge with truth—  
+  
+Be certain that your love will wear “&quot;  
+Beyond the days of youth. 1h  
+  
+For if ye give not heart for heart—  
+As welLas hand for hand—  
+  
+You&#x27;ll find you’ve played the wnewise part,  
+And built upon the sand.’  
+  
+*Tis well to save—’tis well to have  
+A goodly store of.gold,  
+And hold enough ofthe shiny stuff, Bul  
+For charity is cold. Me pat  
+But place not all your hopes and trust  
+In what. the deep mine brings ;  
+We cannot live on yellow dust  
+Unmixed with purer things.  
+And he who piles uj alth alone,  
+‘Will often have to stand  
+Beside his coffer chest, and own  
+Tis built upon the sand,  
+  
+*Tis good to speak in kindly guise,  
+And soothe where’er we can;  
+  
+Fair speech should bind the human mind  
+And love, like man to man.  
+  
+But stay not at the gentle words—  
+Let deeds with language dwell;  
+  
+The one who pities starving birds,  
+Can scatter crumbs as well.  
+  
+The mercy that is warm and true ©  
+Must lend a. helping hand,  
+For those who talk, rey ful to do,  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/the-sailors-magazine-and-seamens-friend_1853-04_25_8%2Fthe-sailors-magazine-and-seamens-friend_1853-04_25_8_jp2.zip%2Fthe-sailors-magazine-and-seamens-friend_1853-04_25_8_jp2%2Fthe-sailors-magazine-and-seamens-friend_1853-04_25_8_0023.jp2/pct:8.578431,34.315068,84.375000,60.479452/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Weekly Minnesotian._](https://www.loc.gov/resource/sn83016750/1853-04-16/ed-1/?sp=2)
+
+#### 1853-04-16 &middot; [Saint Paul, Minn. Territory](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ntry residences, boasting  
+more advantages of location than many of the  
+proudest European villas.&quot;  
+  
+Every school hoy knows that a kite would  
+not fly unless it bad a string tying it down. It  
+is just so in life, says a contemporary; “the  
+man who is tied down by half-a-dozen blooming  
+responsibilities, and their mother, will make a  
+higher and stronger flight than the bachelor  
+w ho, having nothing to keep him steady, is al­  
+ways floundering in the mud. If you want to  
+ascend in the world, tie yourself to somebody
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347166:1853041601:0345/pct:83.450644,37.177329,12.566524,6.425365/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Lebanon post._](https://archive.org/details/xt72ng4gn898/page/n0/mode/1up?view=theater)
+
+#### 1853-04-27 &middot; [Lebanon, Ky.](http://dbpedia.org/resource/Lebanon%2C_Kentucky)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+flig-.t than the bachelor, who, having  
+nothin:- to keep him steady, is always  
+floundering in tlie mud. It _\&quot;u want n&gt;  
+ascend in ihe - tie youtseil tosont
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt72ng4gn898%2Fxt72ng4gn898_jp2.zip%2Fxt72ng4gn898_jp2%2Fxt72ng4gn898_0000.jp2/pct:78.592314,92.208187,13.993317,2.389286/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Shasta courier._](https://www.loc.gov/resource/sn82015099/1853-04-30/ed-1/?sp=4)
 
 #### 1853-04-30 &middot; [Shasta, Calif.](http://dbpedia.org/resource/Shasta%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+Building on the Sand.  
+  
+BI ELIZA COOK.  
   
 ’Tis well to woo, ’lis good to wed,  
 For so the world bus done  
@@ -1097,20 +1547,56 @@ Should scatter crumbs as well.
 The Mercy that is warm aud true  
 Must lend a helping hand,  
 For those who talk yet fail to do,  
-But “build upon I lie sand.”
+But “build upon I lie sand.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn82015099%2F00279556641%2F1853043001%2F0038.jp2/pct:11.739614,8.344578,14.155230,20.341634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556641:1853043001:0038/pct:11.739614,6.378803,14.150593,22.301276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Des Moines courier._](https://chroniclingamerica.loc.gov/lccn/sn86081965/1853-05-19/ed-1/seq-4)
+## [From _The Belmont chronicle, and farmers, mechanics and manufacturers advocate._](https://www.loc.gov/resource/sn84028479/1853-05-06/ed-1/?sp=1)
+
+#### 1853-05-06 &middot; [St. Clairsville, Ohio](http://dbpedia.org/resource/St._Clairsville%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ there &#x27;are so many evil  
+j tongues In the world ready to Must the lairc-st  
+i character; and so many open ears ready tu re­  
+&#x27; j ceive their reports.  
+  
+QyBvery school-boy knows that a kite  
+j would not fly without it had a string tying it  
+down. It is just o with life. The man who  
+&#x27; is lied by hall&#x27;a duz-&#x27;ii blooming responsibilities  
+and their mother &quot;ill make a higher and  
+stronge r light than the bachelor who having  
+nothing to keep him oteaely, is always  
+I floundering, in tbe nud. If you wart to  
+&#x27; ascend ill the w. r!d, tie luura &#x27;.f to suuubn&#x27;
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn84028479:0028077537A:1853050601:0075/pct:110.293054,95.340194,17.203329,10.091481/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Des Moines courier._](https://www.loc.gov/resource/sn86081965/1853-05-19/ed-1/?sp=4)
 
 #### 1853-05-19 &middot; [[Ottumwa] Iowa](http://dbpedia.org/resource/Ottumwa%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
+  
+VOL. V.  
+POETICAL^  
+  
+uildivi^ on (he $and.  
+  
+BT ELIZA COOK.  
   
 Til well to woo, &#x27;tis well to wed,  
 For so the world has done  
@@ -1164,183 +1650,522 @@ The mercy that is warm and trpii
 Must lend a helping hand!  
 For those who talk, yet fail to do,  
   
-But &quot;build upon thesand.&quot;
+But &quot;build upon thesand.&quot;  
+  
+4te
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn86081965%2F00279528554%2F1853051901%2F0761.jp2/pct:7.147172,13.308135,11.036758,25.665947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn86081965:00279528554:1853051901:0761/pct:5.855291,4.308855,12.323993,36.047516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Monongalia mirror._](https://chroniclingamerica.loc.gov/lccn/sn86092163/1855-02-24/ed-1/seq-1)
+## [From _Fremont journal._](https://www.loc.gov/resource/sn85026050/1853-05-21/ed-1/?sp=2)
 
-#### 1855-02-24 &middot; [Morgantown, Va. [W. Va.]](http://dbpedia.org/resource/Morgantown%2C_West_Virginia)
+#### 1853-05-21 &middot; [Fremont, Sandusky County [Ohio]](http://dbpedia.org/resource/Fremont%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-&#x27;Tin well to woo. &#x27;tis well to wed,  
-For so the world has dons  
-Sincc myrtles grew and roses blew,  
-And morning brought the sun.  
-But have a care ye young and fair?  
-Be sure yo pledge with truth?  
-Be certain that your love will wear  
-Beyond tho days of youth.  
-For, if vg give not heart to heart,  
-As well as hand to hand,  
-You&#x27;ll find you&#x27;ve played tiro unwise part,  
-And &quot; built upon the sand.&quot;  
-Ti? well to save, &#x27;tis well to have  
-A goodly store of gold,  
-And hold enough of the shining atufl&#x27;?  
-For charity is cold.  
-fiut placc not all your hope and trust  
-In what tho deep mine brings;  
-We cannot live with yellow dust  
-Unmixed with puri-r tilings-.  
-And ho who piles up wealth alone,  
-Will often havo to stand  
-Besides his coffer chestLand own  
-&#x27;Tis &quot; built upon the sand.&quot;  
-&#x27;Tis good to speak in kindly guise,  
-And soothe where&#x27;er we Can;  
-l air speech should bind the human mind,  
-And love link man to inau.  
-But stay not af tli&#x27;c gentle word* f  
-Let deeds with language dwell;  
-The one who pities starving birds  
-Should scatter crumbs, as well.  
-The nirrcy that is worm and true,  
-Must lend n helping hand;  
-For those who talk, yet fail to do,  
-But &quot;build upon tho sand.&quot;
+ now are competent to  
+the performance of the task. But il is vain to  
+hope that the present version will besuperced  
+d to any considerrble extent by a sectarian  
+rendering.  
+3  
+3TLvery school boy knows that a kite  
+would not fly without it had a string tyin &#x27;  
+down. It is iust so wilh life. The man who  
+is lied by half a dozen blooming responsibilities  
+ana their mother wi.l make a higher and  
+stronger flight than the bachelor who having  
+noiiung to Keep turn steady, is alwayesfloundering,  
+in the mud. If you want to nscend  
+in tho world, tie yourself to somebody
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_kuwait_ver02%2Fdata%2Fsn86092163%2F00202192464%2F1855022401%2F0623.jp2/pct:3.501946,59.856908,11.809339,26.408130/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1853052101:0077/pct:58.599419,101.725367,17.216981,11.364609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Opelousas patriot._](https://chroniclingamerica.loc.gov/lccn/sn86079076/1855-04-14/ed-1/seq-1)
+## [From _Martinsburg gazette._](https://www.loc.gov/resource/sn84038468/1853-07-27/ed-1/?sp=1)
 
-#### 1855-04-14 &middot; [Opelousas, Parish of St. Landry, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
+#### 1853-07-27 &middot; [Martinsburg, Va. [W. Va.]](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-&#x27;T is well to woo, &#x27;t is well to wed,  
-For to the world has done  
-Since myrtles grew, tnd roses blew,  
-And morning brought the son.  
-But have a care, ye young and fair­  
-Be sure you pledge with truth­  
-Be certain that your love will wear  
-Beyond the days of youth ;  
-For if we give not heart for heart,  
-▲s well as hand for hand,  
-You&#x27;ll find you&#x27;ve played the unwise part,  
-And &quot; built upon the sand.&quot;  
-&#x27;T 1 b well to save, &#x27;t is well to have  
-A goodly store of gold,  
-And hold enough of shining stuff,  
-For Charity is cold ;  
-But place not all your hope and trust  
-In what your deep mine brings ;  
-We can not live on yellow dust  
-Unmixed with purer things.  
-And he who piles up wealth alone  
-Will often have to stand  
-Beside his coffer chest and own  
-&#x27;T is &quot; built upon the sand.&quot;  
-&#x27;T is good to speak in kindly guise,  
-And soothe where&#x27;er we can ;  
-Fair speech should bind the human mind,  
-And love like man to man.  
-But stay not at the gentle words*—  
-Let deeds with language dwell—  
-The one who pities starving birds  
-Can scatter crumbs as well.  
-The Mercy that is warm and true  
-Must lend a helping hand,  
-For those who talk, yet fail to do,  
-But &quot; build upon the sand.&quot;
+very school boy knows that a kite  
+would not fly unless it had a string tying it  
+down. It is just so in lift). Tbe man who  
+is tied down by half-a dozen blooming re­  
+sponsibilities, aud their mother, will make a  
+higher and stronger flight than tba bachelor  
+who, having nothing to keep him steady, ia  
+always floundering in tbe mud If you want  
+to ascend iu the world, tie yourself to some­  
+body.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_charizard_ver01%2Fdata%2Fsn86079076%2F00295876335%2F1855041401%2F0036.jp2/pct:4.430693,11.897163,12.004950,22.109929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1853072701:0495/pct:82.751938,59.872611,12.649753,6.618665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The independent press._
+## [From _The miners' journal, and Pottsville general advertiser._](https://panewsarchive.psu.edu/lccn/sn84026251/1853-07-30/ed-1/seq-1/)
 
-#### 1855-07-27 &middot; [Abbeville C.H., S.C.](http://dbpedia.org/resource/Abbeville%2C_South_Carolina)
+#### 1853-07-30 &middot; [Pottsville, Pa.](http://dbpedia.org/resource/Pottsville%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-1 per annuia, inruriably in asdvonce.  
-Adverlisements will be inserted conspicuounly  
-at the following very low rates:  
-I square of 12 lines or less, I insertion, h  
-Every following insertion,  
-I square I months,t  
-eae  
-I yer  iae o  
-Announcing a Candidats, (in advance,) a on  
+s to hie seat ,with=  
+ont smashinghia hat:&#x27;and Ire, has ali:. no  
+Iron rod, to steads! 1w - elf, land keep him  
   
-Liberal deductions will be made to persons  
-alecrtising largely  
-All obituary notices exceeding twelve lines  
-will be charged as advertisements.  
-$2All communications and letters on busi  
-nese with this office, must be addressed to Tun  
-IDEeuADier Press, Abbeville C. H1. S.C, pene  
-ratn, to insure attention.  
-  on  
-&#x27;Building on the Sand.  
-Tis well to woo, &#x27;tis well to wed,  
-For so the world has done  
-Since myrties grew, and roscs blew,  
-And morning brought the sun.  
-But have a care ye young and fair-  
-Bo sure ye pledge with truth,  
-Be certain that your love will wear  
-Beyond the days of youth.  
-For if ye give not heart for heart,  
-As well as hand for hand,  
-You&#x27;ll find you&#x27;ve played the unwise part,  
-And &quot;built upon the sand.&quot;  
-Tis well to save, &#x27;tis well to have  
-A goodly store of gold,  
-And hold enough of the shining stunf,  
-For charity is cold.  
-But place not all your hopes and trust  
-In what the deep mine brings;  
-We cannot live on yellow dust,  
-Unmixed with purer things.  
-And he who piles up wealth alone,  
-Will often have to stand  
-Beside his coffer chest, and own  
-Tis &quot;built upon the sand.&quot;  
+from...disarm:lg  
+knees and toes.  
   
-  
-&#x27;Tis good to speak in kindly guise,  
-And soothe where&#x27;er we can;  
-Fair speech chould bind the human mind,  
-And love link man to man.  
-But stay not at geatle words,  
-Lot deeds with language dwell,  
-The one who pities starving birds.  
-Should scatter crumbs as well.  
-The merey that is warm and true,  
-Must lend a helping hand;  
-For these who talk, yet fail to do,  
-But build upon the sand
+tr 7&quot; Evritir;sci ooy that a Ll:z  
+would not fly - .unle&#x27;ss, it had s grin tyir4 it  
+down. It is  
+. just so to life. The man ivbi,  
+is tied down by a liall=a-dtizat bloorniug IC­  
+SPonsibilities.,l; and &#x27;their make a  
+higher and stronger flight thau the bachelor  
+who, having nothing to keep turn steady, is,  
+always floundering in t
 </td></tr></table>
 
 ---
 
-## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1855-08-01/ed-1/seq-1)
+## [From _Star and banner._](https://panewsarchive.psu.edu/lccn/sn85038381/1853-09-09/ed-1/seq-1/)
+
+#### 1853-09-09 &middot; [Gettysburg, Pa.](http://dbpedia.org/resource/Gettysburg%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+f der elarinetait,&quot;  
+GET IllaamEn.—Every school , boy  
+knows that a kite would not fly oaloos it  
+had a string tying it down. It ie just so  
+ut life. The man who is tied down by  
+hallm.dozen blooming responsibilities, and  
+their mother, will make a higher sad  
+stronger flight than the bachelor who,  
+having nothing to do to keep him steady,  
+is always floundering in the mud. If you  
+went to aecoud in the world, tie yourself  
+to somebody.  
+  
+Ltveu LINO ENOIIOII.-111
+</td></tr></table>
+
+---
+
+## [From _Democrat and sentinel._](https://www.loc.gov/resource/sn86071378/1853-09-30/ed-1/?sp=1)
+
+#### 1853-09-30 &middot; [Ebensburg, Pa.](http://dbpedia.org/resource/Ebensburg%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ try sch v.-l boy kuo.v s that a kite would ;  
+k no&#x27; flv t-tile-s i ha I a string tying n dj.vn. Ii ;  
+; i.s just so ia litk. 1 Le nam w ho is ikd ek.w a oy  
+half a V ?e bkeaahig roi-j cm-ibtli. Us, and their  
+&#x27; mother, will make a higher an.1 .-aror.-. r li ght  
+-than tl.o ha :helr w &#x27;no, having act hu.g to ktcp  
+; him steady, is always floundering in the muJ. -  
+j Iiycu want to ascend in ti.e 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1853093001:0223/pct:86.679537,117.098315,20.785071,6.839326/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Loudon free press._](https://www.loc.gov/resource/sn86053481/1853-10-07/ed-1/?sp=2)
+
+#### 1853-10-07 &middot; [Loudon, Tenn.](http://dbpedia.org/resource/Loudon%2C_Tennessee)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.Get Married. Every school boy knows that  
+a kite would not fly unless it bad a string tyinj  
+it down. It is just so in life. The man who i  
+tied down by half-a-dozen blooming responsibil  
+ities and their mother, will make a higher and  
+stronger flight than the bachelor who, haying  
+.nothing to do to keep him steady, is always  
+floundering in the mud.. If you. want to ascco i  
+in the M-orld, tic yourself to somebody.  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1853100701:0133/pct:106.798382,115.690892,18.388301,7.064112/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Weekly Minnesotian._](https://www.loc.gov/resource/sn83016750/1853-11-26/ed-1/?sp=4)
+
+#### 1853-11-26 &middot; [Saint Paul, Minn. Territory](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+—Every School-l&gt;ov  
+knows a kite would not fiy until it had astiin&#x27;c  
+tying It down. It is just so in life. The man  
+who is tied down hy a half a dozen blooming re­  
+sponsibilities and their mother, will make a  
+stronger and higher flight than the bachelor  
+wno, having nothing to keep him steady is al­  
+ways floundering in the mud. If you want to  
+ascend in the world, tie yourself to somebody.  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347166:1853112601:0479/pct:5.014498,71.012055,12.195122,4.793944/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Canton weekly register._](https://www.loc.gov/resource/sn84038367/1853-12-22/ed-1/?sp=1)
+
+#### 1853-12-22 &middot; [Canton, Ill.](http://dbpedia.org/resource/Canton%2C_Illinois)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+BUILDING ON BAND  
+BY ELIZA COOK.  
+’Tis well to woo, ’tis Wot! to wed,  
+Fc-r so the world has done  
+Since ninths grow, and roses blew,  
+And morning brought tbo sun.  
+But have a care, ye young and fair—  
+Be sure ye pledge with truth ;  
+Bo certain that your love will wear  
+Beyond the days • f youth ;  
+IVr if w&lt;* give not heart for heart,  
+As well u. hand for hand,  
+You&#x27;ll tinj you’ve pluyed the “ unwise&quot; part,  
+And “ built upon the sand.&quot;  
+&#x27;Xis well to save, ’tis W&#x27; II to have  
+A goodly store of gold,  
+And h..!d enough of si lining stuff—  
+For Charity is cold;  
+But place not all your hope and trust  
+In what tho deep mine brings ;  
+We cannot live on yellow dust  
+Unmixed with purer things.  
+And he who piles up wealth alone,  
+Will often have to stand  
+B side his e.offbr-chosf , and own  
+’Xia “built upon the sand.&quot;  
+*T:*r good to speak in kindly guiso.  
+And soothe where&#x27;er we can ;  
+Fair speech should bind the human ra.cd,  
+And love link man to man.  
+But stay not at the gentle words,  
+l*ot deeds with language dwell;  
+The one win pities staiving binds  
+Can scatter crumbs as well.  
+The Mercy that is warm and true,  
+Must lend a helping hand,  
+F *r ih ‘S&#x27;* who talk, yet fail to do,  
+I •• build ujon the sand.”
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151155:1853122201:0393/pct:4.484733,38.259442,10.806298,22.094508/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Pacific._](https://archive.org/details/per_the-pacific_the-pacific_1853-12-23_3_10/page/n0/mode/1up?view=theater)
+
+#### 1853-12-23 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+r Matrimony!—Every school  
+boy knows a kite would not fly unless it  
+had a string tying it down. It is just so  
+in life. The man who is tied down by half- ~  
+a-dozen blooming responsibilities, and their  
+mother, will make a stronger and higher  
+flight than the bachelor who, having noth-  
+ing to keep him steady, ‘is always flounder--  
+ing in the mud. If you want to ascend i  
+  
+the world, tie yourself to somebody.  
+  
+Wuere its
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1853-12-23_3_10%2Fper_the-pacific_the-pacific_1853-12-23_3_10_jp2.zip%2Fper_the-pacific_the-pacific_1853-12-23_3_10_jp2%2Fper_the-pacific_the-pacific_1853-12-23_3_10_0000.jp2/pct:82.651677,85.549276,12.444272,6.300813/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1853-12-29_27_36/page/n3/mode/1up?view=theater)
+
+#### 1853-12-29 &middot; [Boston](http://dbpedia.org/resource/Boston)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+—  
+MATRIMONY.  
+  
+Every school-boy knows a kite would not  
+fly unless it had a string tying it down. It is  
+just so in life. The man who is tied down by  
+half a dozen blooming responsibilities and  
+their mother, will make a stronger and higher  
+Sight than the bachelor who, having nothing  
+to  
+  
+the mud. If you want to ascend in the world,  
+tie yourself to somebody.  
+  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_youths-companion_1853-12-29_27_36%2Fsim_youths-companion_1853-12-29_27_36_jp2.zip%2Fsim_youths-companion_1853-12-29_27_36_jp2%2Fsim_youths-companion_1853-12-29_27_36_0003.jp2/pct:56.414301,73.723404,20.636172,8.031915/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Pioneer and Democrat._](https://www.loc.gov/resource/sn83025141/1854-02-25/ed-1/?sp=1)
+
+#### 1854-02-25 &middot; [Olympia, Wash. Territory [Wash.]](http://dbpedia.org/resource/Olympia%2C_Washington)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ Every school  
+o ast won Marnuuny les wery sehol  
+had a string tying it down. It is just so in  
+hie. The man who is tied down ty hale  
+dozen blooming responsibilities, and their  
+mother, will make a stronger and higher  
+flight than the bachelor who, having noth­  
+ing to keep him steady, is always flounder­  
+ing in the mud. If you want to ascend in  
+the world, tie yourself to somebody.  
+  
+WHAt Is
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1854022501:0013/pct:66.088522,79.401132,14.643162,6.957233/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Herald of the times._](https://www.loc.gov/resource/sn83021169/1854-03-09/ed-1/?sp=1)
+
+#### 1854-03-09 &middot; [Newport, R.I.](http://dbpedia.org/resource/Newport%2C_Rhode_Island)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+f the poet Rogers, edited by Epes Sar-  
+gent, and several volumes of their stand.  
+ard publications, in which will be given  
+the complete works of Dryden, Byron,  
+Milton, Beaumont and Fletcher, Mas­  
+singer and Ford.  
+  
+a Every school boy knows that a  
+kite would not fly until it had a string  
+tying it down. It is just so in life. The  
+man who is tied down by half a dozen  
+blooming responsibilities and their  
+mother, will make a stronger and high­  
+er flight than the old bachelor, who  
+having nothing to keep him steady, is  
+always floundering in the mud. If you  
+want to ascend in the world, tie yoursell  
+to somebody.-ALbaNY
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152792:1854030901:0258/pct:70.120614,81.472192,12.340510,10.883315/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _North Carolina Republican._](https://newspapers.digitalnc.org/lccn/sn87078317/1854-03-14/ed-1/seq-4/)
+
+#### 1854-03-14 &middot; [Goldsborough, N.C.](http://dbpedia.org/resource/Goldsboro%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+-rKvery schoo  
+boy knows that a ki&#x27;e wou&#x27;d not fly until it liar  
+a strinor tying it down. It is just so in life. Th­  
+man who is tied down by half a dozen blooinin  
+responsibilities and their mother, will mike  
+stronger and higher flight, than did the bachelo  
+who having nothing to keep him steady, is al  
+ways floundering in the mud. If you wnnt.r  
+ascend in the world, tie yourself to somebody
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCRepGold1n_ver01%2Fdata%2F1854031401%2F0101.jp2/pct:29.094260,44.609965,19.220642,6.824358/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Nashville union and American._](https://www.loc.gov/resource/sn85038518/1854-03-18/ed-1/?sp=3)
+
+#### 1854-03-18 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+. &#x27;.justso in .life. The man -vvlio is tied do v,n by hall  
+dozen blooming responsibilities and their mother,  
+.,11 m.u a stronger and hicher flight than the old  
+Wfcplor. who havine nothinz to keep him steady,  
+  
+snis always floundering in the mud. If you want to  
+g3cend &quot; the world, tie yourself to somebody.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293174:1854031801:0264/pct:8.453350,122.458087,17.705072,3.726933/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Democratic pioneer._](https://newspapers.digitalnc.org/lccn/sn84020739/1854-03-21/ed-1/seq-4/)
+
+#### 1854-03-21 &middot; [Elizabeth City, N.C.](http://dbpedia.org/resource/Elizabeth_City%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+. Every  
+school boy knows that a kite would not  
+  
+I fly until it had a string tying it down..  
+  
+Itiis jusPso in Ule. i I he man who is  
+tied down by half a dozen bloomins&#x27; re­  
+Vponsibilities arid their mother, will make  
+a stronger and higher flighWhan (lid the  
+bachelor, wlio; having, nothing lo keep  
+hinr steady, is always floundering inihe
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DemPEC1n_ver01%2Fdata%2F1854032101%2F0125.jp2/pct:25.523631,95.018861,18.098818,6.451301/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Greenbrier era._](https://www.loc.gov/resource/sn85059651/1854-04-22/ed-1/?sp=2)
+
+#### 1854-04-22 &middot; [Lewisburg, Va. [W. Va.]](http://dbpedia.org/resource/Lewisburg%2C_West_Virginia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ceived.  
+ .  
+Eyeny achee! bey kacws that a kite  
+would not fly until it had a string tyi  
+down. it is just so in life. The man  
+whe is tied down by half a deren bicom  
+ing responsibilities and their mother, will  
+he old bachelor, who hating nothing to  
+p him sleady, is alway  
+he wnd. ya han oner  
+the worl
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059651:00415664965:1854042201:0032/pct:4.124252,74.537478,11.799070,6.938552/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Shasta courier._](https://www.loc.gov/resource/sn82015099/1854-05-20/ed-1/?sp=1)
+
+#### 1854-05-20 &middot; [Shasta, Calif.](http://dbpedia.org/resource/Shasta%2C_California)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+, they should be discharg­  
+ed, and they were, during consultation, to be al­  
+lowed reasonable refreshment and fire. Some  
+other points peculiar to English Law and which  
+it would be well to sweep away, were included  
+in this bill. After a few remarks from Lord  
+Brougham and Lord Campbell, the bill was  
+read a first lime.  
+  
+E?&quot; Every school boy know* that a kite  
+would not fly uutil it had a string tying it down.  
+It is just ;o in liie The man who is tied down  
+by hull a dozen blooming responsibilities and  
+their mother, will make a stronger and higher  
+fl ght than the okt bachelor, who having nothing  
+to hint steady, is always floundering in the  
+mud. I: you want to r.srend in the r orld. tj®  
+youric.: to souitL&#x27;-dy.—Albany 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556641:1854052001:0256/pct:69.226786,81.165096,14.929237,8.774936/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1854-07-22_9_29/page/n7/mode/1up?view=theater)
+
+#### 1854-07-22 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ all.”  
+  
+The arm was removed.  
+  
+Every school-boy knows that a kite would not  
+fly until it has a string tying it down. It is just  
+so in life. The man who is tied down by half a  
+dozen blooming responsibilities and their mother,  
+will make a stronger and higher flight than the  
+old bachelor, who, having nothing to keep him  
+steady, is always floundering in the mud. If  
+you want to ascend in the world, tie yourself to  
+somebody.  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_flag-of-our-union_1854-07-22_9_29%2Fsim_flag-of-our-union_1854-07-22_9_29_jp2.zip%2Fsim_flag-of-our-union_1854-07-22_9_29_jp2%2Fsim_flag-of-our-union_1854-07-22_9_29_0007.jp2/pct:78.235548,30.638358,16.264021,5.975816/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Kaleidoscope : a family journal, devoted to literature, temperance and education._](https://www.loc.gov/resource/sn97066026/1855-05-16/ed-1/?sp=2)
+
+#### 1855-05-16 &middot; [Petersburg, Va.](http://dbpedia.org/resource/Petersburg%2C_Virginia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ allow us to obtain !—  
+Woman’s Advocate.  
+Every schoolboy knows that a kite  
+would not fly unless it had a string tying  
+it down. It is just so in life. The man  
+who is tied down by half a dozen blooming  
+responsibilities and their mother will make  
+a stronger and higher flight than the old  
+bachelor who, having nothing to keep him  
+steady, is always floundering in the mod.  
+If you want to ascend in the world, tie  
+1 yourself to somebody.  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn97066026:print:1855051601:0134/pct:75.458217,84.515007,20.534327,11.178773/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Western Reserve chronicle._](https://www.loc.gov/resource/sn84028385/1855-08-01/ed-1/?sp=1)
 
 #### 1855-08-01 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
 
@@ -1384,19 +2209,21 @@ Must lend a helping hand.
 For those who talk yet fail to do.  
 But 44 build upon the sand.&quot;&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237283703%2F1855080101%2F0130.jp2/pct:7.699789,38.069374,9.061436,16.800395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237283703:1855080101:0130/pct:10.255995,50.759166,12.070642,22.392297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1855-08-15/ed-1/seq-1)
+## [From _Edgefield advertiser._](https://www.loc.gov/resource/sn84026897/1855-08-15/ed-1/?sp=1)
 
 #### 1855-08-15 &middot; [Edgefield, S.C.](http://dbpedia.org/resource/Edgefield%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+a horn of powder.  
+Corn-stalks, &amp;c.  
+EtIILDING ON TEE SAND.  
 &#x27;Tis well to woo, &#x27;tis well to wed,  
 For so the world has done  
 Siree myrtles grew, and roses blew,  
@@ -1432,21 +2259,23 @@ The one who pities starving birds,
 The mercy that is warm and true,  
 Must lend a helping hand ;  
 For those whotalk, yet fail to do,  
-But &quot; buildupon the sand.
+But &quot; buildupon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn84026897%2F00237288269%2F1855081501%2F0042.jp2/pct:31.666901,49.153601,11.313954,21.812445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288269:1855081501:0042/pct:31.666901,47.194557,11.304592,23.764915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Bedford gazette._](https://chroniclingamerica.loc.gov/lccn/sn82005159/1855-08-17/ed-1/seq-1)
+## [From _The Bedford gazette._](https://www.loc.gov/resource/sn82005159/1855-08-17/ed-1/?sp=1)
 
 #### 1855-08-17 &middot; [Bedford, Pa.](http://dbpedia.org/resource/Bedford%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
+Buitlliug on the Sand.  
+l-.v KLISSA COOK.  
 rj&#x27;j, well to woo, &#x27;tie well to wed,  
 prtr so the world tins doue  
 Since myrtles grew and roses blew,  
@@ -1484,69 +2313,21 @@ M rev that i- warm and tine
 pur Iho e wlin talk yet tail In dtt,  
 But ••build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn82005159%2F00296028435%2F1855081701%2F0170.jp2/pct:3.635789,24.827995,12.245758,19.596679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1855081701:0170/pct:3.635789,22.669039,12.235220,21.743772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Daily American organ._](https://chroniclingamerica.loc.gov/lccn/sn85042002/1855-09-18/ed-1/seq-1)
-
-#### 1855-09-18 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-&#x27;Tis well to woo, &#x27;tis well to wed,  
-For bo the world has done  
-?Sinee myrtle* grow and roues blew,  
-And morning brought the hud.  
-But have ? care ye young and fair,  
-He sure ye pledge with truth ;  
-Be certain that your love will wear  
-Beyoud the days of youth.  
-For if we gire not heart for heart,  
-Ah well as hand for hand,  
-You&#x27;ll find you&#x27;ve played the &quot;unwise&quot; part,  
-And &quot; built upon the aand.&quot;  
-&#x27;Tin well to saTe, &#x27;tis well to have  
-A goodly store of gold,  
-Andnold enough ot shining stuff -  
-For charity is cold.  
-Hut place not nil your liopes and trust  
-In what the deep mine brings;  
-Wo cannot lire on yellow dusi  
-Unmixed with purer things.  
-Ami he who piles up wealth alone,  
-Will often have to stand  
-Beside his coffef chest, and own  
-&#x27;Tis &quot; built upon the aand.&quot;  
-&#x27;Tis good to apeak in kindly guise  
-And sooth wher&#x27;er we can :  
-Fair speech should bind the human mind,  
-Ana lovo links man to man.  
-Uut stay not at the gentle words,  
-Let deeds with language dwell ;  
-The one who pities starving birds  
-Should scatter crumbs as well.  
-The mercy that is warm nnd true  
-Must lend n helping hand,  
-For those who talk yet fail to do,  
-lint &quot; build upon the sand.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_alicanto_ver02%2Fdata%2Fsn85042002%2F00415660996%2F1855091801%2F1053.jp2/pct:66.780497,15.107150,13.172706,17.356249/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Georgetown news._](https://chroniclingamerica.loc.gov/lccn/sn93052972/1855-12-20/ed-1/seq-1)
+## [From _The Georgetown news._](https://www.loc.gov/resource/sn93052972/1855-12-20/ed-1/?sp=1)
 
 #### 1855-12-20 &middot; [Georgetown, El Dorado County, Cal.](http://dbpedia.org/resource/Georgetown%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-une 27th, 1855. [37-tf.  
+ns as to merit the patronage of the  
+public. ROBERT ELLIS.  
+June 27th, 1855. [37-tf.  
 Books &amp; Stationery.  
 A Literary Depot, is opened by the under­  
 signed, on Main Street, Bottle Hill, at which,  
@@ -1605,21 +2386,131 @@ Should scatter crumbs as well.
 The mercy that is warm and true  
 Must lend a helping hand,  
 For those who talk yet fail to do,  
-But “build upon the sand.”
+But “build upon the sand.”  
+  
+A Chapter on Betting.  
+  
+BY A JUSTICE OF TH
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_jojoba_ver01%2Fdata%2Fsn93052972%2F00279557256%2F1855122001%2F0212.jp2/pct:3.870626,12.279613,71.420997,82.066882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn93052972:00279557256:1855122001:0212/pct:3.729233,12.279613,71.562390,82.058604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The Hillsborough recorder._
+## [From _The Pacific._](https://archive.org/details/per_the-pacific_the-pacific_1855-12-20_5_3/page/n0/mode/1up?view=theater)
+
+#### 1855-12-20 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+  
+BUILDING IN THE SAND.  
+  
+BY ELIZA COOK.  
+  
+‘Tis well to woo, ‘tis good to wed,  
+For so the world has dune  
+  
+Since myrtles grew, roses blew,  
+And morning brought the sun.  
+  
+But have a care, ye young and fair—,  
+Be sure ye pledge with truth:  
+  
+Ke certain that your love will wear  
+Beyond the days of youth.  
+  
+For if ye give not heart for heart,  
+As well as hand for hand,  
+  
+You&#x27;ll find.you&#x27;ve played the “unwise” part,  
+And “bullt upon the sand.&quot;  
+  
+&quot;Tis well to save, ‘tis well to have  
+A goodly store of gold,  
+  
+And hold enough of shining stuff—  
+For charity is cold.  
+  
+But place not all your hopes and trust  
+In what the deep mine brings,  
+  
+We ean not live on yellow dust  
+Unmtxed with purer things.  
+  
+And he who piles np wealth alone,  
+Will often have to stand  
+  
+Heside his coffer chest, and own  
+Tis “bullt upon the sand.  
+  
+Tis good to speak in kindly guise,  
+And soothe where&#x27;er we can;  
+  
+Fair speech should bind the human mind  
+And love link man to man.  
+  
+But stay notat the gentle words,  
+Let deeds with language dwell;  
+  
+The one who pities starving birds  
+Should scatter crumbs as well.  
+  
+The Mercy that is warm and true  
+Must lend a helping hand,  
+  
+For those who talk, yet fail to do,  
+But “bulld upon the sand.&quot;’  
+  
+SELECTIONS.  
+  
+&quot;Distinguished Characters.  
+At the Meetings of th
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1855-12-20_5_3%2Fper_the-pacific_the-pacific_1855-12-20_5_3_jp2.zip%2Fper_the-pacific_the-pacific_1855-12-20_5_3_jp2%2Fper_the-pacific_the-pacific_1855-12-20_5_3_0000.jp2/pct:4.645276,25.488301,10.075312,20.264496/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Minnesota weekly times._](https://www.loc.gov/resource/sn85025594/1856-03-15/ed-1/?sp=2)
+
+#### 1856-03-15 &middot; [St. Paul, Minn.](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+—livery school-boy knows  
+that a kite would not fly unless it had a string  
+tying it down. It is just so in life. The man  
+who is tie ! down by a half-a-dozen blooming  
+little responsibilities, and their mother, will  
+make a higher and stronger flight than the  
+bachelor who, having nothing to do, to keep  
+him steady, is always floundering in the mud.  
+11 you want to ascend jo the world, tic your­  
+self to somebody.  
+  
+C
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:0038334735A:1856031501:0045/pct:30.359801,88.324678,12.245658,5.510675/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Hillsborough recorder._](https://www.loc.gov/resource/sn84026472/1856-03-26/ed-1/?sp=1)
 
 #### 1856-03-26 &middot; [Hillsborough, N.C.](http://dbpedia.org/resource/Hillsborough%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+  
+BUILDING ON THE SAND.  
+  ELi cook.  
 &#x27;Tis well to woo, &#x27;tis well to wed,  
  For so the world has done  
 Since myrtles grew and roses blew,  
@@ -1653,19 +2544,168 @@ Let deeds with language dwell;
 The one who pities starving birds  
 Should scatter crumbs as well.  
 The mercy that is warm and true  
-Must lend a helping hand,  
+Nust lend a helping hand,  
 For those who talk, yet fail to do,  
-But &quot;build upon the sand.
+But &quot;build upon the sand.&quot;  
+PREVENTING AN ELOPEMENT.  
+A writer in the Dem
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1856032601:0255/pct:48.727710,24.361380,13.905029,25.948910/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Republican vindicator._](https://www.loc.gov/resource/sn84024652/1856-04-19/ed-1/?sp=1)
+
+#### 1856-04-19 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+otation—brief&#x27;  
+n» it is: “Every ueliool-bov knows that a I  
+kite would not llv unless it bail a strin•; ! y»  
+jng it down. It is just so in Ii*i*. i&#x27;iie  
+Ulan who is tied down by half-a-dozen  
+blooming responsibilities, and their mother  
+willjmake a higher ami a stronger (light  
+than the bachelor who, having nothing to  
+keep him steady, is always floundering in  
+the mud. II you want to ascend in the  
+world, tie vonrself to somebody.”  
+Mike Walsh once said, in the Em«  
+pire State House ol Assembly, that it le­  
+tpnred more than brains for a man to keep  
+from being run over in the streets of New  
+Voik, than it did to discharge the duties of  
+a justice of the peace in the country
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348781:1856041901:0064/pct:56.492351,87.379162,13.002490,9.317938/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Caledonian._](https://www.loc.gov/resource/sn84023252/1856-04-19/ed-1/?sp=3)
+
+#### 1856-04-19 &middot; [St. Johnsbury, Vt.](http://dbpedia.org/resource/St._Johnsbury%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ recover.  
+Ladies, a distingnished doctor in (reat  
+Britain has announced his belief that the  
+tshionable Lenpet, worn on the back comb,  
+and only proteoting the bumn of phiiopro.  
+e o eeoe e   
+genitiveness, is a lruitful cause of neural-  
+mia! It begets ear-ache, tooth-ahe, ulcer.  
+ated  
+ghIlls  
+tic  
+lonloureux, and all that,  
+but it gives promenaders a better chance  
+to see  
+accoulnt.  
+ely faces, and that balances the  
+Mike Walsh once said, in the Empire  
+State House of Assemlly that it e  
+ore brains for a man to keep from bein  
+run over in the streets of New York, than  
+it did to discharge the duties of a Justice  
+of the l&#x27;eace  
+in the country!  
+A PLEASaANT SIATE oF SoCIETY. The  
+Judiciary must be  
+lary must be highly respected in Yew  
+Mrleans. On the 2l inst in the First Dis.  
+trict Court, a well bred gentleman 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296229:1856041901:0486/pct:41.393965,35.017044,12.140530,11.124884/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## Multiple News Items
+
+#### From _The Ripley bee._
+
+#### 1856-04-26 &middot; [Ripley [Ohio]](http://dbpedia.org/resource/Ripley%2C_Ohio)
+
+[This text is not available under an open license.]
+
+---
+
+## [From _The Lehigh register._](https://panewsarchive.psu.edu/lccn/sn84038509/1856-04-30/ed-1/seq-2/)
+
+#### 1856-04-30 &middot; [Allentown, Pa.](http://dbpedia.org/resource/Allentown%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.Wili4WatIsli once said, in the empire state  
+House of Assembly pat it required more brains  
+for.a:Men. to keep &#x27;from being run • over in the  
+streets of New York, than it did to discharge  
+tho duties of a justice of peace in the country !  
+  
+DISTRIBUTION OF SICBII.-7he Agricultural  
+Bureau of the Patent Office is actively engaged  
+is distributing rare and valuable seed, procured  
+in this and other cities. It is said that the  
+amount thus scattered over the land wil
 </td></tr></table>
 
 ---
 
-## [From _Fremont journal._](https://chroniclingamerica.loc.gov/lccn/sn85026050/1856-05-30/ed-1/seq-1)
+## [From _Fayetteville observer._](https://www.loc.gov/resource/sn85033395/1856-05-01/ed-1/?sp=2)
+
+#### 1856-05-01 &middot; [Fayetteville, Tenn.](http://dbpedia.org/resource/Fayetteville%2C_Tennessee)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Mike Walsh once 6aid, in the  
+  
+Empire State House of Assembly,  
+  
+inai it required more brains lor a  
+man to keep from being run over  
+  
+in the streets of New York, than  
+it did to discharge the duties of a  
+justice of the peace in the countn!
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:0021247034A:1856050101:0275/pct:76.056746,113.610543,16.097279,6.134969/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Fremont journal._](https://www.loc.gov/resource/sn85026050/1856-05-30/ed-1/?sp=1)
 
 #### 1856-05-30 &middot; [Fremont, Sandusky County [Ohio]](http://dbpedia.org/resource/Fremont%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ms arise it is not always night! .  
+Tlie nifrht of Nature and the night of ?tonn,  
+Are emhlfins both of shadow on the heart;  
+Which full and chill itn currents quick and warm.  
+And hid the light of peace and joy depart:  
+A thousand shapes h.ith Sorrow to affright 1 ;  
+The oul of man and shroud his hopes in night, t .  
+Yet when th darkest, nnd&#x27;et hour is eomp.  
+And grim ni.pnir would seir.e hie shrinkino: heart,  
+The drum of lioire brenk.-i on the h:tvy gloom,  
+And one hy one tlie shadow will depurt:  
+A storm and dnrkuts. yield U) light,  
+So with t!ie heart it is not always night.  
+  
+&quot;IT IS NOT ALWAYS NIGHT.&quot;BUILDING ON THE SAND.  
+  
+BY ELIZA COOK.  
   
 Tii wi ll to woo. &#x27;tis well to wed.  
 Fur so the world has dolt­  
@@ -1702,21 +2742,32 @@ Should scatter crumbs as wclL
 The mercy that is warm and true  
 Must lend a helping hand,  
 For those who talk, yet fail to do,  
-but &#x27;build oponihe sand
+but &#x27;build oponihe sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026050%2F00280775782%2F1856053001%2F0307.jp2/pct:30.703227,27.332586,11.453087,14.303727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775782:1856053001:0307/pct:40.902312,19.193051,15.268456,36.312693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wyandot pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87076863/1856-06-12/ed-1/seq-1)
+## [From _The Wyandot pioneer._](https://www.loc.gov/resource/sn87076863/1856-06-12/ed-1/?sp=1)
 
 #### 1856-06-12 &middot; [Upper Sandusky, Ohio](http://dbpedia.org/resource/Upper_Sandusky%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+BUILDING ON THE SAND.  
 &#x27;Tis well to woo, &#x27;tis well to wed,  
 Tor so the world has done  
 Since myrtles grew and roses blew,  
@@ -1752,9 +2803,10 @@ The one who pities starving birds,
 &#x27; , f : &#x27; . . -  
 . i The mercy that is waitn and true  
 t 7 . Must lend a helpiug hand,  
-i For those i ho, talk, yet fail t
+i For those i ho, talk, yet fail to do,  
+But &quot;build upon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn87076863%2F00296028861%2F1856061201%2F0267.jp2/pct:8.206687,16.626021,12.158055,21.779239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1856061201:0267/pct:10.939227,21.482345,16.201657,30.463365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1766,6 +2818,15 @@ i For those i ho, talk, yet fail t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+.  
+  
+  
+  
+race be run.  
+  
+  
+  
+BUILDING ON THE SAND.  
   
 *Tis well to woo, ’tis good to wed,  
 For so the world has done  
@@ -1819,88 +2880,87 @@ The mercy that is warm and true
 Must lend a helping hand;  
   
 For those who talk, yet fail to do,  
-But ‘* build upon the sand.”
+But ‘* build upon the sand.”  
+  
+  
+  
+For Friends’ Inte)ligencer.  
+TO A MOTHER ON THE DEATH O
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friends-intelligencer_1857-02-21_13_49&#0036;11/pct:57.846715,22.383985,30.729927,39.763421/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_friends-intelligencer_1857-02-21_13_49%2Fsim_friends-intelligencer_1857-02-21_13_49_jp2.zip%2Fsim_friends-intelligencer_1857-02-21_13_49_jp2%2Fsim_friends-intelligencer_1857-02-21_13_49_0011.jp2/pct:55.401460,18.721565,33.175182,46.451319/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## GOOD DEEDS.
-
-#### From _New York Observer and Chronicle (1833-1912)_
-
-#### 1857-04-23 &middot; [New York](http://dbpedia.org/resource/New_York_City)
-
-[This text is not available under an open license.]
-
----
-
-## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1857-11-12/ed-1/seq-1)
+## [From _The Jackson standard._](https://www.loc.gov/resource/sn85038180/1857-11-12/ed-1/?sp=1)
 
 #### 1857-11-12 &middot; [Jackson C.H., Ohio](http://dbpedia.org/resource/Jackson%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
+RUILDING ON THE SAND.  
 &#x27;Tis well to woo, &#x27;tis well to wed,  
 For so the world has done  
-Since myrtles grew, and roses blow.  
-And morning brought the mn.  
-But have a care, ye young and fuir,  
+Since myrtles grew, and roses blew,  
+And morning brought the sun.  
+But have a care, ye young and fair,  
 Be sure ye pledge with truth.  
 Be certain that your love will wear  
-Beyond tku days of youth.  
-For if ye give not heart tor heart,  
+Beyond the days of youth.  
+For if ye give not heart for heart,  
 As well as hand for hand,  
-You&#x27;ll find you&#x27;ve played the &#x27;unw he&#x27; part,  
-And &quot;built upon the sand.&#x27;,  
-&#x27;Til well to save, &#x27;tis well tohava  
+You&#x27;ll find you&#x27;ve played the &#x27;unwise&#x27; part,  
+And &quot;built upon the sand.&quot;  
+&#x27;Tis well to save, &#x27;tis well to have  
 A goodly store of gold,  
 And hold enough of shining stuff,  
 For charity is cold.  
 But place not all your hopes and trust  
-In what Ilia deep miuo brings;  
+In what the deep mine brings;  
 We cannot live on yellow dust  
-Uuniiitd with purer iliings.  
+Unmixed with purer things.  
 And he who piles up wealth alone,  
-Will often have to staud  
-Beside his coffor-chest, and own  
-&#x27;Tis &quot;built upou the sand&quot;  
-&#x27;Tis good to speak iu kindly guise  
-Aud sooth where&#x27;er we cau;  
-Falrspeech should bind the human mind,  
+Will often have to stand  
+Beside his coffer-chest, and own  
+&#x27;Tis &quot;built upon the sand&quot;  
+&#x27;Tis good to speak in kindly guise  
+And sooth where&#x27;er we can;  
+Fair speech should bind the human mind,  
 And love links man to man.  
-But stay not gt the gentle words,  
+But stay not at the gentle words,  
 Lett deeds with language dwell;  
 The one who pities starving birds  
-, Should scatter crunis as well.  
+ Should scatter crums as well,  
 The mercy that is warm and true  
-Must leud a helping hand,  
-For these who talk yet fail tu do,  
-But &quot;buil&#x27;j upou the sand.
+Must lend a helping hand,  
+For those who talk yet fail to do,  
+But &quot;buill upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296026712%2F1857111201%2F0856.jp2/pct:17.193997,24.146769,10.884108,24.119790/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026712:1857111201:0856/pct:17.193997,23.040604,10.884108,25.225954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Sunbury American._
+## [From _Sunbury American._](https://www.loc.gov/resource/sn84026403/1857-11-14/ed-1/?sp=1)
 
 #### 1857-11-14 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+BUILDING ON HE SAND.  
+BY ELIzA GOOK.  
 &#x27;Tis well to woo, &#x27;tis well to wed,  
 For so the world has done  
 Since myrtles grew and roses blew,  
 And morning brought the sun.  
 But have a care, ye young and fair  
 Be sure ye pledge with truth;  
-Be certain that your love wih wear  
+Bo certain that your love wih wear  
 the days of youth.  
 For if you give not heart for heart,  
 As well as hand for hand,  
@@ -1919,7 +2979,7 @@ And he who piles up wealth alone,
 Will often have to stand  
 Beside his coffer chest and own  
 &#x27;Tis &quot;built upon the sand.&quot;  
-&quot;Tis good to speak in kindly guise,  
+Tis good to speak in kindly guise,  
 And sooth where&#x27;er we can;  
 Fair speech should bind the human  
 mind,  
@@ -1931,25 +2991,69 @@ Should scatter crumbs as well.
 The mercy that is warm and true  
 Must lend a helping hand,  
 For those who talk and fail to do  
-But &quot;build upon the sand.
-</td></tr></table>
+But &quot;build upon the sand.&quot;  
+Seleet Eale.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1857111401:0476/pct:17.697307,16.487455,11.717734,25.519713/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _Wheeling daily intelligencer._
+## [From _The Highland weekly news._](https://www.loc.gov/resource/sn85038158/1857-12-24/ed-1/?sp=1)
 
-#### 1857-12-30 &middot; [Wheeling, Va. [W. Va.]](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
+#### 1857-12-24 &middot; [Hillsborough [Hillsboro], Highland County, Ohio](http://dbpedia.org/resource/Hillsboro%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-is well to woo, tis well to wed,  
-For so the world has done,  
-Since myrtles grew and roses blew  
+  
+BUILDING ON THE SAND.  
+  
+ e ae  
+  
+Tis well to woo, &#x27;tis well to wed,  
+For so the world has do ne  
+Since myrtles grew, and roses blew,  
 And morning brought the sun.  
-We wish the parties all the happiners and none of the  
-miseries incidental to the climate of the State of matrimo-
-</td></tr></table>
+But have a care, ye young and fair,  
+Bo sure ye pledge with truth;  
+He certein that your love will wear  
+Beyond the days of youth.  
+For if ye give not heart for heart,  
+As well as hand for hand,  
+You&#x27;ll find you&#x27;ve played the &quot;unwise&quot; part,  
+And &quot;built upon the sand.&quot;  
+Tis well to save, &#x27;tis well to hav  
+A gondly store of gold,  
+And hold enough of shining stuff,  
+For charity is cold.  
+But place not all your hopes and trust  
+In what the deep mine brings;  
+We cannot live on yellow dust  
+Unmixed with purer things.  
+And he who piles up wealth alone,  
+Will often have to stand  
+Beside his coffer-chest, and own  
+&quot;Tis &quot;built upon the sand.&quot;  
+Tis good to speak in kindly guise,  
+And sooth where&#x27;er we can;  
+Fair speech should bind the human mind,  
+And love links man to man.  
+But stay not at the gentle words;  
+Let deeds with anguish dwell;  
+The one who pities starving birds  
+Should scatter crumbs as wel.  
+The mercy that is warm and true  
+Must lend a helping hand,  
+For those who talk and fail to do,  
+But &quot;bulld upon the sand.&quot;  
+  
+Ehe Fome Cirtle.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1857122401:0171/pct:3.551209,17.683902,12.866701,21.508529/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1963,24 +3067,13 @@ miseries incidental to the climate of the State of matrimo-
 
 ---
 
-## [From _Semi-weekly standard._](https://chroniclingamerica.loc.gov/lccn/sn83045450/1858-03-20/ed-1/seq-1)
+## [From _Semi-weekly standard._](https://www.loc.gov/resource/sn83045450/1858-03-20/ed-1/?sp=1)
 
 #### 1858-03-20 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nths. ;  
-Terms of Advertisins m tJie Weekly Standard .  
-One dollar per square for the first insertion, nd 25 cts.  
-for each subsequent insertion. No deduction will be made  
-on Weekly advertisemen t, no matter how long they may run.  
-Only a limited number of advertisements will be admitted  
-into&#x27; the Weekly. All advertisements, not otherwise direct­  
-,cd are&#x27;insertfd iu tlieJSen i-Weekly,fand charged according  
-It. .When the number of insertions is not marked on the  
-advertisement it is inserted until forbid.  
-Money sent ns by mail is at our risk.  
-February 27, 1857,  
+y 27, 1857,  
 Building upon the Sand.  
 BY ELIZA COOK.  
 Tis well to woo, &#x27;tis well to wed.  
@@ -2019,51 +3112,96 @@ Should scatter crumbs as well.
 The mercy that is warm and true,  
 Must lend a helping hand.  
 For those who talk, yet fail to do,  
-But &quot;build upon the sa&quot;d.
+But &quot;build upon the sa&quot;d.&quot;  
+How to tell a good Teacber. A gentleman from
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn83045450%2F00296022846%2F1858032001%2F0093.jp2/pct:2.277760,21.327517,14.141095,25.241688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022846:1858032001:0093/pct:4.301075,34.425843,17.884250,29.203018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Wheeling daily intelligencer._
+## [From _Keowee courier._](https://www.loc.gov/resource/sn84026912/1858-04-03/ed-1/?sp=4)
+
+#### 1858-04-03 &middot; [Pickens Court House, S.C.](http://dbpedia.org/resource/Pickens%2C_South_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Building Upon the Sand.  
+BY ELIzA COOE.  
+Tis well to woo, &#x27;tis well to wed,  
+Kor so the world has done  
+Since myrtles grew, and roses blew,  
+And morning brought the sun,  
+. But have a care, ye young and fair,  
+Bo sure ye pledge with truthe  
+Be cortain that vour love will wear   
+Beyond the days of youth.  
+or i e gie net hear for eart  
+  
+et near on eart  
+As well as hand for hand,  
+You il find you&#x27;ve played the tfunwise par  
+And a built upon the sand.&quot;  
+Tis well to save, tis well to have  
+A goodly store of gold,  
+And hold enough of shining stufr,  
+For charity is cold.  
+But place not all your hopes and frust  
+In what the deep mine brings;  
+  
+eobe  
+We caunot live on yellow dust  
+Uprnixed with purer things.  
+And he whto piles up wealth alone,  
+Will often have to stand  
+Beside his coffer-chest, and own  
+Tis &quot;built upon the sand.&quot;  
+Tis good to speak in kindly guise,  
+And soothe whate&#x27;er we can;  
+For speech should hind the human mind,  
+And love link man to man.  
+But stay not at the gentle words,  
+Let deeds with langh. dwell  
+  
+The one who pities starving birds,  
+Should scatter crumbs as well.  
+The mercy that is warm and true,  
+Must lend a helping hand,  
+For those who talk yet fail to do,  
+But &quot;build upon the saud.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:sn84026912:00211109981:1858040301:0625/pct:50.134680,6.579548,14.971942,22.986932/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Wheeling daily intelligencer._](https://www.loc.gov/resource/sn86092535/1858-04-05/ed-1/?sp=1)
 
 #### 1858-04-05 &middot; [Wheeling, Va. [W. Va.]](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-f he&#x27;d  
-make a nager of himself.&quot; He was banished  
-forthwith from the sacred stables of the White  
-House.  
-NAroteoN IlI, now drives in an open vehicle  
-of two horses, with a single companion to the  
-woods of Vincennes and Boulogne, as hereto-­  
-fore. The conspirators adopt complicated  
-echemes, instead of attempting their purpose  
-with a single revolver, and at the sacrifice of a  
-single desperado among the associates.  
-The accounts of the outrageous riots, ac., of  
-rowdies in Washington last Saturday nigid  
-wea how tat of thinworg  
-ported in Baltimore not long since.  
   
-DL7TDIVE UPON THE SIND.  
-BY ELIeA COOK.  
+  
+DBTEDING VPON ThE SIND.  
+BY ELIA COOK.  
 Tis well to woo, &#x27;tis well to wed,  
 For so the world has done  
 Since myrtles grew, and roses blew,  
 And morning brought the sun.  
-But have a care, ye young and fair.  
+But have a care, ye young and fair,  
 Be sure ye pledge with truth;  
 Be certain that your love will wear  
 Beyond the days of youth.  
 For if ye give not heart for heart,  
 As well as hand for hand,  
 You&#x27;ll find you&#x27;ve playe the &quot;unwise&#x27; part,  
-And &quot;built upon the sand.&quot;.  
-&#x27;Tis well to save, &#x27;tis well to have  
+And &quot;built upon the sand&quot;.  
+Tis weil to save, &#x27;tis well to have  
 A goodly store of gold,  
 And hold enough of shining stuff,  
 For charity is cold.  
@@ -2073,21 +3211,26 @@ We cannot live on yellow dust,
 Unmixed with purer things.  
 And he who piles up wealth alone,  
 Will often have to stand  
-Beside his coffer-chest and own  
-Tis built upon the sand.  
-&#x27;Tis good to speak in kindly guise,  
+Beside his coffer-chest and own.  
+Tis,built upon the sand.&quot;  
+Tis good to speak in kindly guise,  
 And soothe whate&#x27;er we can;  
 For speech should bind the human mind,  
 And love link man to man.  
 But stay not at the gentle words,  
 Let deeds with language dwell;  
-The one who pities starving birds,  
+The one who pities starving hirds,  
 Should scatter crumibs as well.  
 The mercy that is warm and true,  
 Must lend a helping hand,  
 For those who talk, yet fail to do,  
-But &quot;build upon the sand.
-</td></tr></table>
+But &quot;build upon the sand.&quot;  
+ALNENR L. WEen. GronoE F. wewN.  
+A. E. WESe &amp; BRO.,
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190613:1858040501:0317/pct:80.547035,11.498991,15.541922,26.627692/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2101,13 +3244,17 @@ But &quot;build upon the sand.
 
 ---
 
-## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1858-04-07/ed-1/seq-1)
+## [From _Staunton spectator._](https://www.loc.gov/resource/sn84024718/1858-04-07/ed-1/?sp=1)
 
 #### 1858-04-07 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+. 13, 1858.  
   
+POETRY.  
+Building Upon the Sand.  
+BY ELIZA COOK.  
 ‘Tis well to woo, ‘tis well to wed,  
 For so the world has done  
 Since myrtles grew, and roses blew,  
@@ -2145,19 +3292,76 @@ Must lend a helpiug hand,
 For those who talk, yet fail to do,  
 But “build upon the sand.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_loons_ver01%2Fdata%2Fsn84024718%2F00414183773%2F1858040701%2F0059.jp2/pct:18.610288,16.484860,10.629320,18.735502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183773:1858040701:0059/pct:8.067340,14.680711,21.171717,82.309790/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Memphis daily appeal._
+## [From _The weekly Portage sentinel._](https://www.loc.gov/resource/sn83035102/1858-04-08/ed-1/?sp=1)
+
+#### 1858-04-08 &middot; [Ravenna, Ohio](http://dbpedia.org/resource/Ravenna%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Tis well to woo, &#x27;tis well to wed,  
+For so the world has done  
+&quot;gince myrtles blew and roses blew,  
+morning brought the sun.  
+But have a care, ye young and fair,  
+Be sure yo pledge with truth;  
+certain that youf love will wear  
+Boyend the days of youth.  
+For if ye give not heart for heart,  
+As well as hand for hand.  
+You&#x27;d find you&#x27;ve played the &quot;unwise&quot; part,  
+And &quot;bullt upon the sand.&quot;  
+  
+Tis woll to save, &#x27;tis well to have  
+A goedly store of gold,  
+an hold anoug of shlang sa  
+charity is oold.  
+ ee eee  
+But place not all your hopes and trust  
+In what the deep mine bring-;  
+We cannot live on ye llow dust  
+W Uamixed with purer things.  
+  
+Aad he who piles up wealth alone,  
+ Will often have to stand  
+Meside his coffer-chest, and own  
+ Tis bullt upon the sand.&quot;  
+The good to speak in kindly guise,  
+And soothe whate&#x27;er we can;  
+For speech should bind the human mind,  
+And love link man to man,  
+  
+But stay not attthe gentle words,  
+in Lot deeds with language dwell;  
+The one who pities starving birds,  
+A. Should scatter crumbs as well.  
+eee  
+The mercy that is warm and true,  
+Must fend a helping hand,  
+For-those who talk, yet fail to do,  
+a at build upon the san
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:0029602708A:1858040801:0060/pct:3.531732,18.386002,12.190749,19.678767/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Memphis daily appeal._](https://www.loc.gov/resource/sn83045160/1858-04-18/ed-1/?sp=4)
 
 #### 1858-04-18 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+EUILDINE UPON THE SAND.  
+BY ELIzA COOK.  
 is well to woo, &#x27;tis well to wed,  
 For so the world has done  
 Since myrtles grew, and roses blew,  
@@ -2194,17 +3398,23 @@ The mercy that is warm and true,
 Must iend a helping hand,  
 For those who talk, yet tad to do,  
 But &quot;bulld upon the sand.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn83045160:0020029290A:1858041801:0229/pct:6.891355,6.887023,7.028360,12.551812/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1858-04-28/ed-1/seq-1)
+## [From _Edgefield advertiser._](https://www.loc.gov/resource/sn84026897/1858-04-28/ed-1/?sp=1)
 
 #### 1858-04-28 &middot; [Edgefield, S.C.](http://dbpedia.org/resource/Edgefield%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+8  
   
+BUIDING UroN TIE lAID.  
+BY ELIZA cooK.  
 &#x27;Tis well to woo, &#x27;tis well to wed,  
 For so the world has done  
 Since myrtles grew, and roses blew,  
@@ -2240,9 +3450,10 @@ Should scatter crumbs as well.
 The mercy that is warm and true,  
 Must kud a helping hand,  
 For those who talk, yet fail to do,  
-But &quot; build upon the sand.
+But &quot; build upon the sand.&quot;  
+For the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn84026897%2F00237288257%2F1858042801%2F0198.jp2/pct:3.056338,22.539216,12.652582,21.816993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288257:1858042801:0198/pct:3.056338,20.843137,12.647887,26.764706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2258,13 +3469,19 @@ But &quot; build upon the sand.
 
 ---
 
-## From _Nashville union and American._
+## [From _Nashville union and American._](https://www.loc.gov/resource/sn85038518/1858-05-14/ed-1/?sp=2)
 
 #### 1858-05-14 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+some  
+social party, and read it aloud in the most melliflu­  
+ous voice as a hemage to his own attractions.&quot;  
+BUILDING UPON THE SAND.  
   
+BY elizA  
+cook.  
 &#x27;Tis well to woo, &#x27;tis well to wed,  
 For so the world has done  
 Since myrtles grew, and roses biew,  
@@ -2300,18 +3517,25 @@ Should scatter crumbs as well.
 The mercy that is warm and true,  
 Must lend a helping hand,  
 For those who talk, yet fail to do,  
-But &quot;build upon the sand.
-</td></tr></table>
+But &quot;build upon the sand.&quot;  
+EAGLE TH
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293253:1858051401:0455/pct:51.779847,16.614420,10.638007,17.774295/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _The western Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020712/1858-05-25/ed-1/seq-4)
+## [From _The western Democrat._](https://www.loc.gov/resource/sn84020712/1858-05-25/ed-1/?sp=4)
 
 #### 1858-05-25 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+BUILDING UPON THE SAND.  
+BY ELIZA COOK.  
 Tis well to vo, &#x27;tis well to wed,  
 For so the world has done  
 Since myrtles grew, and roses blew,  
@@ -2347,21 +3571,24 @@ Should scatter crumbs as well.
 The mercy that is warm and true,  
 Must lend a helping hand,  
 For those that talk, yet fail to do,  
-But &quot;build upon the sand.
+But &quot;build upon the sand.&quot;  
+LADIE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84020712%2F00295879178%2F1858052501%2F0302.jp2/pct:6.453823,9.641304,13.085777,21.641304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1858052501:0302/pct:6.712329,11.021739,19.315068,32.195652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1858-05-28/ed-1/seq-1)
+## [From _The Athens post._](https://www.loc.gov/resource/sn84024443/1858-05-28/ed-1/?sp=1)
 
 #### 1858-05-28 &middot; [Athens, Tenn.](http://dbpedia.org/resource/Athens%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+. ,  
+BUILDING UPON THE SAND.  
+BY KLIZA COOK.  
 &#x27;Tit well to woo, &#x27;tis well to wed,  
 For so the world has done  
 Since myrtles grew, and roses blew,  
@@ -2397,35 +3624,42 @@ Should scatter crumbs as well.
 The mercy that is warm snd true,  
 Must lend a helping hsnd,  
 For those who talk, yet fail to do,  
-But &quot;build upon the sand.
+But &quot;build upon the sand.&quot;  
+&quot;Is ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn84024443%2F00280779209%2F1858052801%2F0930.jp2/pct:69.259748,57.728017,12.431720,20.057346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1858052801:0930/pct:92.281627,74.931731,16.566265,29.765156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Pioneer and Democrat._
+## [From _Pioneer and Democrat._](https://www.loc.gov/resource/sn83025141/1858-05-28/ed-1/?sp=1)
 
 #### 1858-05-28 &middot; [Olympia, Wash. Territory [Wash.]](http://dbpedia.org/resource/Olympia%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ to  
+receive and receipt for subscriptions and advertise­  
+ments in California.  
   
-Tis well fe woo, tis well to wed,  
+coagar  
+Building Upon the sand.  
+BY ELIzA COOK.  
+Ts wellte woo, tis well to wed,  
 For so the world has done  
-Stnce martymn grew, and roses blew,  
+since martyr grew, and roses blew,  
 And morning brought the sun.  
 But have a care, ye young and fair,  
 Be sure ye pledge with truth;  
 Be certain that your love will wear  
 Beyond the days of youth.  
-oe e  
+owiarun  
 As well as hand for hand,  
-You&#x27;ll find you&#x27;ve played the unwise part,  
+You&#x27;ll find you&#x27;ve played the &quot;unwise part,  
 And &quot;built upon the sand.  
 &#x27;Ts well to save, &#x27;tis well to have  
-ash  
+a  
 And hold enough of shining stuff,  
 For charity is cold.  
 But place not all your hopes and trust  
@@ -2447,17 +3681,160 @@ Should scatter crumbs as well.
 The mercy that is warm and true,  
 Must lend a helping hand,  
 For those who talk, yet fail to do,  
-But &quot; build upon the sand.
-</td></tr></table>
+But &quot; build upon the sand.&quot;  
+to Advices from th
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858052801:0853/pct:4.114458,25.291128,14.022927,28.083382/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _Lewisburg chronicle._
+## [From _The Christian Freeman_](https://archive.org/details/christian-freeman-1856_1858-06_2_6/page/n4/mode/1up?view=theater)
+
+#### 1858-06-01
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+t kindle {{  
+in thege kingdoms has: not: become dark- *  
+  
+THE CHRISTIAN FREEMAN.  
+  
+Ness. Like the rising sun, it has shone  
+  
+brighter and brighter, and will gather  
+! splendour and energy till the perfect days  
+Thy voice proclaiming the gospel of peace  
+—the God of love—finds an echo in many  
+a heart in this our land—reverberates on  
+the shores of the Atlantic and on the  
+banks of the Ganges, emancipates the cap-  
+tive and confounds the gainsayer. May  
+we feel thy spirit, and emulate thy zeal,  
+content to bear thy reproach, and glory-  
+  
+ing, if peradventure we may secure thy  
+56  
+  
+reward !—Christian Pioneer.  
+  
+BUILDING ON THE SAND.  
+BY ELIZA COOK.  
+  
+Tis well to woo, ’tis well to wed,  
+For so the world has gone  
+  
+Since myrtles grew, and roses blew,  
+And morning brought the sun.  
+  
+But have a care, ye young and fair,  
+Be sure ye pledge with truth ;  
+Be certain that your love will wear  
+  
+Beyond the days of youth.  
+  
+For if ye give not heart for heart,  
+As well as hand for hand,  
+  
+You&#x27;ll find you&#x27;ve played the ‘unwise’ part,  
+And “ built upon the sand.”  
+  
+&quot;Tis well to save, ‘tis well to have  
+A goodly store of gold, ,  
+  
+And hold enough of shining stuff,  
+For charity is cold. a  
+  
+But place not your hopes and trust,  
+In what the deep mine brings ;  
+  
+We cannot live on yellow dust,  
+Unmixed with purer things.  
+  
+And he who piles up wealth alone,  
+Will often have to stand  
+  
+Beside his coffer-chest, and own  
+’Tis “ built upon the sand.”  
+  
+Tis good to speak in kindly guise,  
+_And sooth.where’er we can;  
+lair speech. should bind the human mind,  
+And love link man to man. ~  
+But stay not at the gentle words,  
+Let deeds with language dwell;  
+The one who pities starving birds  
+|| Should scatter crumbs as well, 9 °°&quot;  
+|| Themercy that is warm and true  
+Must lend a helping hand,  
+s For those who talk yet fail todo, 9.)
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/christian-freeman-1856_1858-06_2_6%2Fchristian-freeman-1856_1858-06_2_6_jp2.zip%2Fchristian-freeman-1856_1858-06_2_6_jp2%2Fchristian-freeman-1856_1858-06_2_6_0004.jp2/pct:48.340040,90.482115,45.372233,4.261275/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The weekly union._](https://newspapers.digitalnc.org/lccn/sn92072904/1858-06-04/ed-1/seq-1/)
+
+#### 1858-06-04 &middot; [Newbern, N.C.](http://dbpedia.org/resource/New_Bern%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+-ok tlie Sand.  
+Ht LIZA COOK.  
+&#x27;Tis well to woo, &#x27;tis well to wedj  
+For so th world has dons  
+Since myrtles grew, and rose3 blew,  
+And morning brought the sun.  
+But have a care, ye young and fair,  
+Ba sure ye pledga with truth ;  
+Be certain that your love will&quot; wear,  
+Beyond the days of youth.  
+For iye give not heart for heart,  
+As well as hand for hand,  
+You&#x27;ll findyouVe played the &quot;unwise&quot; part,  
+And &quot;built upon the sand.&quot;  
+Tia well to save, &#x27;tis well to&#x27; have  
+A goodly store of gold,  
+And hold enough of shining stuff,  
+For charity ii cold.  
+But place Hot all your hopes and trust  
+In what the deep mine brings;  
+We cannot live on yellow dust  
+Uumixed with purer things.  
+And ho who piles up wealth alone  
+Will often have to stand  
+Beside his coffer-chest, and own  
+Tis &quot;built upon the sand.&quot;  
+&#x27;Tis good to speak in kindly guise, -  
+And soothe whate&#x27;er we can;  
+For speech should bind the human iniud,  
+And lore link man to man.  
+But stay not at the gentle words,  
+Let deeds with language dwell;  
+The one who pities 6larving birds,  
+Should scatter crumba as well.  
+The mercy that is warm and true,  
+Must lend a helping hand,  
+For those that talk, yet fail to do,  
+But &quot;build upon the sand.&quot;  
+True E
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_UniNB3n_ver01%2Fdata%2F1858060401%2F0097.jp2/pct:66.398515,22.912062,17.995050,41.383950/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Lewisburg chronicle._](https://www.loc.gov/resource/sn85055197/1858-06-11/ed-1/?sp=1)
 
 #### 1858-06-11 &middot; [Lewisburg, Pa.](http://dbpedia.org/resource/Lewisburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
   
 &#x27;Tis well to wed, &#x27;tis well to woo,  
 For so the world has done  
@@ -2495,60 +3872,24 @@ The mercy that is warm and true,
 Must lend a helping hand,  
 For those who talk, yet fail to do,  
 But abuild upon the sand.
-</td></tr></table>
-
----
-
-## [From _Clarksville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061076/1858-06-11/ed-1/seq-1)
-
-#### 1858-06-11 &middot; [Clarksville, Tenn.](http://dbpedia.org/resource/Clarksville%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-. Becertain that your love will wear  
-Beyond the days of youth.  
-For if you glvo not heart lot heart,-  
-A well as hand for baud,  
-You&#x27;ll find you&#x27;ve played the &#x27;unwise&#x27; part,  
-And &#x27;built upon tha (and,  
-&#x27;Ti well to save, &#x27;tis well to have .  
-A goodly share of gold; .  
-And hold enough of tbe shlulng stuff &#x27;  
-For charity is told.  
-But place not all your hope and trust,  
-Iu what the deep mine brings  
-We cannot livo on yellojf dut,  
-Unmixed with purer things.  
-And he who puis op wealth alone,  
-Will often huve to stand t  
-Beside hi coffer-chest, and own  
-&#x27;TIs &#x27;built upon the sand.&#x27; . .  
-&#x27;Ti good to speak in kindly guise,  
-And soothe where&#x27;er we can;  
-Fair speech should bind the human mind,  
-And love link man to man.  
-But stay no, at the gentler words,  
-Let deeds with language dwell;  
-The one who pities starving birds,  
-Slisuld shatter crumbs a well.  
-The mercy that Is warm and true,  
-Must lend a helping hand;  
-For those who talk, yet fail to do,  
-But build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061076%2F00200293897%2F1858061101%2F0305.jp2/pct:42.946058,19.536141,11.946750,19.891861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776373:1858061101:0371/pct:3.028455,14.391944,11.991870,19.271882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Nevada journal._](https://chroniclingamerica.loc.gov/lccn/sn84026884/1858-06-18/ed-1/seq-1)
+## [From _The Nevada journal._](https://www.loc.gov/resource/sn84026884/1858-06-18/ed-1/?sp=1)
 
 #### 1858-06-18 &middot; [Nevada City, Calif.](http://dbpedia.org/resource/Nevada_City%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+.  
+  
+BUILDING UPON THE SAND.  
+  
+BY EI.IZA COOK.  
   
 »Ti« wr 11 to woo. *lis well to wed,  
 1 or so the world has d ne  
@@ -2587,19 +3928,24 @@ Must lend a helping hand—
 For tho.-e who talk. }* t fa.l to do,  
 But “build upon th&lt; sand.**
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn84026884%2F00279557499%2F1858061801%2F0625.jp2/pct:44.728970,12.396665,9.658267,19.080146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557499:1858061801:0625/pct:44.724438,10.816870,10.496737,20.652935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Cass County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85033611/1858-07-15/ed-1/seq-4)
+## [From _The Cass County Republican._](https://www.loc.gov/resource/sn85033611/1858-07-15/ed-1/?sp=4)
 
 #### 1858-07-15 &middot; [Dowagiac, Mich.](http://dbpedia.org/resource/Dowagiac%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+V.  
+  
+E nil ding upon the Sand.  
+  
+BT KLXSA COOK.  
 &quot;Til well to woo, &#x27;ti well to wed,  
 For to the world hu done  
 4 Since myrtles grew and roses blew, .  
@@ -2635,21 +3981,25 @@ Should scatter crumbs as well.
 The mercy that is warm and true,  
 Must lend a helping hand.  
 For those who talk yet fail to do,  
-But H build upon the sand.
+But H build upon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85033611%2F00202198004%2F1858071501%2F0053.jp2/pct:6.108506,9.978854,11.922304,19.323331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198004:1858071501:0053/pct:2.490627,12.687544,24.544724,130.440036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Bellevue gazette._](https://chroniclingamerica.loc.gov/lccn/sn85033100/1858-07-15/ed-1/seq-1)
+## [From _Bellevue gazette._](https://www.loc.gov/resource/sn85033100/1858-07-15/ed-1/?sp=1)
 
 #### 1858-07-15 &middot; [Bellevue City, N.T. [i.e. Neb.]](http://dbpedia.org/resource/Bellevue%2C_Nebraska)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+,  
   
+POETRY.  
+Building upon the Sand.  
+BY ELIZA COOK.  
 Tls well to woo, &#x27;tis well to wed,  
 For so ths world has done  
 Since myrtles grew and roses blew,  
@@ -2686,21 +4036,25 @@ Should scatter crumbs as well.
 The mercy that is warm and true,  
 Must lend a helping hand,  
 For those who talk, yet fail to do,  
-But build upon the sand
+But build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_lee_ver01%2Fdata%2Fsn85033100%2F00212470569%2F1858071501%2F0342.jp2/pct:35.313467,24.463643,12.345201,25.082793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn85033100:00212470569:1858071501:0342/pct:35.313467,21.036717,12.345201,28.509719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Montgomery County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83016209/1858-07-23/ed-1/seq-1)
+## [From _Montgomery County sentinel._](https://www.loc.gov/resource/sn83016209/1858-07-23/ed-1/?sp=1)
 
 #### 1858-07-23 &middot; [Rockville, Md.](http://dbpedia.org/resource/Rockville%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+Poetrn.  
+BUILDING ON THE SAND.  
+BY ELIZA COOK.  
 ’Tia well to win, ’tis well to wed ;  
 For so the world hath done,  
 Since myrtle grew and roses blew,  
@@ -2736,20 +4090,24 @@ Hliould scatter crumbs as well.
 The mercy that is warm and true,  
 Must lend a helping hand ;  
 For those who talk, and fail to do,  
-But “build upon the sand.
+But “build upon the sand.”  
+Interestin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fireweed_ver01%2Fdata%2Fsn83016209%2F00383342387%2F1858072301%2F0423.jp2/pct:32.106940,19.998479,11.171961,20.340788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1858072301:0423/pct:41.414531,21.908127,14.415109,32.317432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Nevada Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84026881/1858-07-28/ed-1/seq-4)
+## [From _The Nevada Democrat._](https://www.loc.gov/resource/sn84026881/1858-07-28/ed-1/?sp=4)
 
 #### 1858-07-28 &middot; [Nevada, Calif.](http://dbpedia.org/resource/Nevada_City%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+BUILDING UPON TH® SAND.  
+  
+BT KL1ZA COOK.  
   
 »Tin well to woo, ’tii well to wed,  
 For »o the world has done  
@@ -2786,21 +4144,25 @@ Should scatter crumbs as well.
 The mercy that is warm and true,  
 Must lend a helping hand,  
 For those who talk yet fail to do,  
-But “build upon the sand.”
+But “build upon the sand.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn84026881%2F00279557268%2F1858072801%2F0426.jp2/pct:8.794617,8.360248,11.404848,15.529538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557268:1858072801:0426/pct:8.780302,6.701655,11.395304,17.184767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Bedford gazette._](https://chroniclingamerica.loc.gov/lccn/sn82005159/1858-08-06/ed-1/seq-1)
+## [From _The Bedford gazette._](https://www.loc.gov/resource/sn82005159/1858-08-06/ed-1/?sp=1)
 
 #### 1858-08-06 &middot; [Bedford, Pa.](http://dbpedia.org/resource/Bedford%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+for them, or not.  
+POETRY.  
+BUILDING ON THE SAND.  
+UY E 1.17.A COOK.  
 &#x27;Tis well to woo, &#x27;tis well to wed,  
 For so the woild has done  
 Since myrtles grew, and flowers litew,  
@@ -2836,86 +4198,82 @@ Should scatter crumbs as welt.
 The mercy that is warm and true  
 Must lend a helping hand,  
 For those that talk, yet fail todo,  
-But &quot;build upon the sand.&quot;
+But &quot;build upon the sand.&quot;  
+  
+HISTORIC A L .  
+BURS IM)LR TilE SADDLE.  
+A SKETCH OF THE 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn82005159%2F00296028435%2F1858080601%2F0683.jp2/pct:3.567820,29.195127,12.686766,24.210106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1858080601:0683/pct:3.557186,25.320551,12.681448,31.348113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Santa Fe weekly gazette._
+## [From _Santa Fe weekly gazette._](https://www.loc.gov/resource/sn88071075/1858-08-07/ed-1/?sp=2)
 
 #### 1858-08-07 &middot; [Santa Fe, N.M.](http://dbpedia.org/resource/Santa_Fe%2C_New_Mexico)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-erlani mail  
-route. We are informed that Col. S is  
-charged totth isodiointnd, tottas arte too  
-B witn anporvate dtios comiceted with  
-the Tost Onice Interior and Treasary Depart-  
-inents. At is 3lso saln that he has counden-  
-tial instruattons fom the Goses sasua tiisaa  
- sen aesiwus trom the Wovornment in reror  
-e iee  
-ence to the annexation of Sonora, a schem  
-Plain honesty is the very best kind of poll  
-teness, and temperance the best phgeician  
-BEaurY AND Wi.-Handsome features  
-re theapable of expressing real beautys  
-a aspoch Alnn to inionlste af usaaatas aa  
-e e a eate o apvesin wit  
- BY EIlza cook,t i  
+ e ee terves nat  
+BY EIzA COOk. t   
 Tis well to woo, &#x27;tis well to wed.  
-For so the world has done    
+For so the world has done  en  
 Since myrtles grew, and roses blew  
-And morning brought the sua.  
+And morning brought the sun.  
 But have a care, ye young and fair,  
-WBe sure you pledge with truth;  
+ABo sure you pledge with truth;  
 Be certain that your love will wear  
-Beyond the days of youth.  
+Beyoud the days of youth.  
 For if ye give not heart for heart,  
 As well as hand for hand,  
-You&#x27;ll find you&#x27;ve played the unwise part  
-&quot;And bullt apon the sand.&quot;  
+You&#x27;ll find you&#x27;ve played the unwise&#x27; part  
+&quot;And bullt upon the sand.&quot;  
 Tis well to save, &#x27;tis well to have  
 A goodly store of gold,  
-And hold enough, of shining stuff  
-For charity is cold.   
+And hold enough, of shining stuff,  
+For charity is cold.  
   
-.  
+  
 But place not all your hopes and trust  
 In what the deep mine brings;  
 We cannot live on yellow dust  
 Unmixed with purer things.  
 And he who piles up wealth alone,  
-Will often have to stand,  
+Will often have to stand  
 Beside his coffer chest, and own  
-Tis &quot;built upon the sand.&quot;  
-Ts good to speak in kindly guise  
-soothe whate&#x27;er we can; n  
+Tis &quot;huilt upon the sand.  
+Te good in speak in kindly guie  
+soothe whate&#x27;er we ean;  
 For speech should bind the human mind,  
-And love link man to man. .  
+And love link man to man.  
 But stay not at the gentle words,  
-et decis with language dwell  
-one who pities starving birds  
-Should scatter crumbs as well  
+hbof teeis with language dwell  
+one who pities starving birds,  
+Should scatter crumls as well  
 The mercy that is warm and true,  
 Must lend a helping hand,  
 For those who talk, yet fail to do,  
-But &quot;build upon the sand.
-</td></tr></table>
+ But huild upon the sand.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071075:0029602515A:1858080701:0393/pct:79.167879,52.162116,16.758801,34.339495/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Monmouth weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn83032308/1858-08-19/ed-1/seq-4)
+## [From _Monmouth weekly herald._](https://www.loc.gov/resource/sn83032308/1858-08-19/ed-1/?sp=4)
 
 #### 1858-08-19 &middot; [Freehold, N.J.](http://dbpedia.org/resource/Freehold_Township%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ or remember, or think#  
+-———*-—­  
   
+HuMdlmg on the Sand  
+BY EUZA COOK.  
 &#x27;Tis woli to woo, &#x27;tis welt to wed.  
 For so the world has done  
 Since myrtles grew, and dowers blew,  
@@ -2951,9 +4309,15 @@ Should scatter crumbs as well.
 The mercy that is warm and true  
 Must lend a helping hand,  
 For those that talk yet fall to do, .  
-But &quot; build upon the sand .&quot;
+But &quot; build upon the sand .&quot;  
+  
+jjfKittitg (Lit&#x27;dr.  
+A PERILOUS SITUATION.  
+HY AUDUHflX.  
+  
+^Nntv return from the uppe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_galloway_ver01%2Fdata%2Fsn83032308%2F00513685506%2F1858081901%2F0262.jp2/pct:10.307814,75.915649,9.632991,20.054877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn83032308:00513685506:1858081901:0262/pct:10.309441,9.447459,21.976634,86.531820/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2969,12 +4333,17 @@ But &quot; build upon the sand .&quot;
 
 ---
 
-## [From _Preble County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn85026031/1858-09-02/ed-1/seq-1)
+## [From _Preble County Democrat._](https://www.loc.gov/resource/sn85026031/1858-09-02/ed-1/?sp=1)
 
 #### 1858-09-02 &middot; [Eaton, Ohio](http://dbpedia.org/resource/Eaton%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+y.  
+  
+BUILDING UPON THE SAND.  
+  
+BUILDING UPON THE SAND.BY ELIZA COOK.  
   
 &#x27;Tis well to woo, &#x27;tis well to wed,  
 For so the world has done  
@@ -3012,61 +4381,82 @@ Should scatter crumbs as well.
 The nicrcy that is warm and true,  
 Must Tend a helping hand;  
 For those who talk, yet fail to do,  
-But &#x27;build upon the sand.&quot;
+But &#x27;build upon the sand.&quot;  
+  
+Select Miscellany.  
+  
+From th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_arnarson_ver01%2Fdata%2Fsn85026031%2F00280774807%2F1858090201%2F0377.jp2/pct:5.866708,23.027485,11.279725,23.752222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn85026031:00280774807:1858090201:0377/pct:5.866708,19.472173,11.279725,30.397922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The Jasper weekly courier._
+## [From _The Jasper weekly courier._](https://www.loc.gov/resource/sn84023963/1858-10-20/ed-1/?sp=1)
 
 #### 1858-10-20 &middot; [Jasper, Ind.](http://dbpedia.org/resource/Jasper%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+r reclined inside, and  
   
-&#x27;Ts well to woo, &#x27;tis well to wed,  
+BY ELIzA COOR.  
+Tis well to woo, &#x27;tis well to wed,  
 For so the world has done  
 Since myrtles grew and roses blew,  
 And morning brought the sun.  
 Bot have a care, ye young and fair,  
-Be sure ye pledge with truth  
+Be sure ye pledge with truth;  
 Be certain that your love will wear  
-Beyond the days of youth,
-</td></tr></table>
+Beyond the days of youth.  
+  
+Rules fo
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295997:1858102001:0119/pct:22.823626,18.153128,66.556905,16.287047/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _The Jasper weekly courier._
+## [From _The Jasper weekly courier._](https://www.loc.gov/resource/sn84023963/1858-10-20/ed-1/?sp=1)
 
 #### 1858-10-20 &middot; [Jasper, Ind.](http://dbpedia.org/resource/Jasper%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-eakness most solicitors have; but, unless  
   
-But stay not at the gentle words  
-let deeds with language dwell;  
-The one whe pities starving birde,  
-Should scatter crumbs as well,  
-The mercy that is warm and true,  
-Must lend a helping hand,  
-For those who talk yet fail to do  
-But &quot;suild unen the sand
-</td></tr></table>
+But place not all your hopes and trust  
+In what the deep mine brings;  
+We cannot live on yellow dust  
+Uumixed with purer things.  
+And he who piles up wealth alone,  
+Will often have to stand  
+Beside his coffers&#x27; chest and own  
+Tis &quot;built upon the sand.&quot;  
+Tis good to speak is kindly guise,  
+  
+nd soothe whate&#x27;er we can;
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295997:1858102001:0119/pct:58.016053,31.229418,14.776703,7.354555/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Bradford reporter._](https://chroniclingamerica.loc.gov/lccn/sn84024558/1859-06-23/ed-1/seq-1)
+## [From _Bradford reporter._](https://www.loc.gov/resource/sn84024558/1859-06-23/ed-1/?sp=1)
 
 #### 1859-06-23 &middot; [Towanda, Pa.](http://dbpedia.org/resource/Towanda%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+. I  
+Thursday Morning, June 23. 1859.  
+Stltdtb   
+BUILDING UPON THE SAND  
+BY ELIZ t. COOK.  
 &quot;Tis well to woo, &#x27;tis well to wed, ! 1  
 For so the world has done I j  
 Since myrtles grew, and roses blew, j j  
@@ -3104,87 +4494,60 @@ Should scatter crumbs as well.
 The mercy that is warm and true,  
 Must lend a helping hand.  
 For those who talk, yet fail to do,  
-But &quot; build upon the sand.
+But &quot; build upon the sand.&quot;  
+.? clr 11 c b &lt;T ;t 11.  
+[From th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jeffrey_ver01%2Fdata%2Fsn84024558%2F00296028642%2F1859062301%2F0226.jp2/pct:3.143666,22.059657,14.261763,20.626819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028642:1859062301:0226/pct:3.143666,17.012589,14.240805,28.263582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Puget Sound herald._
+## [From _Puget Sound herald._](https://www.loc.gov/resource/sn88085145/1859-10-21/ed-1/?sp=1)
 
 #### 1859-10-21 &middot; [Steilacoom, W.T. [Wash.]](http://dbpedia.org/resource/Steilacoom%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-rysan  
-arders per willamgs Eapreis wid mect with prompt attention,  
-On hand and for sale low.  
-watches, Sliverware, Jwvelry, &amp;e.  
- o o  
-J.W. SULLIVAN.  
-oe a o  
-wathingten atrect, ajeining the pestomle,  
-sAn FrAnciSCo, CALiroRnIa.  
-call the aftention of all Bookrcllers,  
-e  
-   t   
-   
-their advantage to have all their orders packed in  
-a a  e e  
   
-DoOrs ANd WINDOWs.  
-Asansan amns or noons, sun ans  
-slass of Windows;  
-rer aa  in coo  
-aleo pas-nEe  
   
-A MDEpENDent FAIHILY JOUnNAl, DEvoTEd t0 tHE inTEreSiS oF WaSIHnGTon tenmton  
-  
-STEILACOOM, WASHINGTON TERRITORY, FRIDAY, OCT 2, 1859.  
-  
-Building on the Sand.  
+Bullding on the Sand.  
   
 BF ALISA COOR.  
 Tis well to woo, &#x27;tis well to wed,  
 For so the world has done  
-Since myrtles grew and roses blew,  
+Since myrtles grew and rosesblew,  
 And morning brought the sun.  
 But have a care, so young and fair  
 Be sure you pledge with truth;  
 Be certain that your love will wear  
 Beyond the days of youth.  
 For if ye give not heart for heart,  
-    ir mcis rart  
+ e i a mat rar  
 oll  
-and a bthiit upen the sand.  
-Ta well to save, Ats wall to have  
+And buiit upen the sand.&quot;  
+TI wall to save, as wall to have  
 goodly store of gold,  
 And hold enough of shining stuff;  
 For charity is cold.  
 But place not all your hopes and trust  
-fiplace not all your hope an  
-We cannot live on yellow dust  
-Unmixed with purer things.  
-And he who piles up wealth alone,  
-Beside his coffer chest and own  
-&#x27;Tis &quot;built upon the sand.&quot;  
-Tis good to speak in kindly guise,  
-Pand soothe wherer we can  
-ir speech would bind the i
-</td></tr></table>
+fiplace not al your hopse and  
+W
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn88085145:no_reel:1859102101:0337/pct:22.457903,17.561313,9.982324,10.576857/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _The Manitowoc pilot._](https://chroniclingamerica.loc.gov/lccn/sn85033139/1860-03-02/ed-1/seq-1)
+## [From _The Manitowoc pilot._](https://www.loc.gov/resource/sn85033139/1860-03-02/ed-1/?sp=1)
 
 #### 1860-03-02 &middot; [Manitowoc, Wis.](http://dbpedia.org/resource/Manitowoc%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-By ELIZA COOK.  
+ ELIZA COOK.  
 ‘1 is well to WOO. ’li tr-11  
 For so the world has done  
 Since roses grew, and myrtle* blew,  
@@ -3223,21 +4586,22 @@ Should scatter crumbs as well.
 The mercy that is warm and true,  
 Must lend a hel| ing hand,  
 For those who talk, yet fail to do,  
-But “ build upon the sand.
+But “ build upon the sand.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_grace_ver01%2Fdata%2Fsn85033139%2F00271769301%2F1860030201%2F0133.jp2/pct:5.659318,8.264874,11.833544,27.052882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769301:1860030201:0133/pct:5.659318,8.300437,11.824182,27.013763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Red Wing sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025569/1860-03-21/ed-1/seq-7)
+## [From _Red Wing sentinel._](https://www.loc.gov/resource/sn85025569/1860-03-21/ed-1/?sp=7)
 
 #### 1860-03-21 &middot; [Red Wing, M.T. [i.e. Minn.]](http://dbpedia.org/resource/Red_Wing%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ equaled. It old, but beautiful and  
+true.]  
 &#x27;Tis well to woo, &#x27;tis well to wed,  
   
 For so the world has done  
@@ -3293,20 +4657,23 @@ The mercy that is warm and true,
 Must lend a helping hand,  
 For those who talk, yet fail to do,  
   
-But bui&#x27;d upon the sand.&quot;
+But bui&#x27;d upon the sand.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_datsun_ver01%2Fdata%2Fsn85025569%2F0021247258A%2F1860032101%2F0377.jp2/pct:4.246748,9.699863,12.390798,25.091595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025569:0021247258A:1860032101:0377/pct:4.237041,8.648829,12.492720,26.135228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Red Wing sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025569/1860-03-21/ed-1/seq-8)
+## [From _Red Wing sentinel._](https://www.loc.gov/resource/sn85025569/1860-03-21/ed-1/?sp=8)
 
 #### 1860-03-21 &middot; [Red Wing, M.T. [i.e. Minn.]](http://dbpedia.org/resource/Red_Wing%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+, but beauliiul and  
+true.]  
   
 &#x27;Tis woll to woo, &#x27;tis well to wed,  
 For so tii« world haa done  
@@ -3361,19 +4728,21 @@ For those who talk, yet fail to do,
   
 But bui&#x27;d upon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_datsun_ver01%2Fdata%2Fsn85025569%2F0021247258A%2F1860032101%2F0378.jp2/pct:4.661836,9.887068,12.574879,25.092265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025569:0021247258A:1860032101:0378/pct:4.652174,8.901683,12.579710,26.073959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The River Falls journal._](https://chroniclingamerica.loc.gov/lccn/sn86086437/1860-04-25/ed-1/seq-1)
+## [From _The River Falls journal._](https://www.loc.gov/resource/sn86086437/1860-04-25/ed-1/?sp=1)
 
 #### 1860-04-25 &middot; [River Falls, Pierce County, Wis.](http://dbpedia.org/resource/River_Falls%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
+BUILDING UPON THE SAND.  
+BY ELIZA COOK.  
 ’Tis well to woo. ’tis well to wed,  
 For so the world ha- done  
 Sin ie mvrtlea grew, and roses blew,  
@@ -3411,50 +4780,116 @@ Tb* mercy that is warm and true.
 For those who talk, y v t fail to do,  
 But ■•build upon t ‘ C -in I.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_galky_ver01%2Fdata%2Fsn86086437%2F00514152330%2F1860042501%2F0157.jp2/pct:5.230356,31.275040,11.688000,24.221708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152330:1860042501:0157/pct:5.220768,29.187341,11.678412,26.298379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [BUILDING ON THE SAND.](http://trove.nla.gov.au/ndp/del/article/114836868)
+## [From _The New Hampshire gazette._](https://www.loc.gov/resource/sn84023142/1860-07-28/ed-1/?sp=1)
 
-#### From _Freeman's Journal (Sydney, NSW : 1850 - 1932)_
-
-#### 1860-08-15 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
+#### 1860-07-28 &middot; [Portsmouth, N.H.](http://dbpedia.org/resource/Portsmouth%2C_New_Hampshire)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ independent farmer.’  
+BULLDING UPON THE SAND.  
+&quot;Tis well to woo, ’tis well to wed,  
+For so the world has done  
+Since myrtles grew, and roses blew,  
+And morning broaght the sun.  
+But have a care, ye younyg and fair,  
+Be sure ye pledge with truth,  
+Be certain that your love will wear  
+Beyond the days of youth.  
+For if ye give not heart for heart,  
+As well as hand for hand,  
+You&#x27;ll find you’ve played the “anwise part,  
+And “built upon the sand.”  
+&quot;Tis well to save, &quot;tis well to have  
+A goodly store of gold;  
+And hold enough of shining stuff,  
+For charity is cold.  
+But place not all your hopes and trust  
+In what the deep mine brings ;  
+We cannot live on yellow dust,  
+Unless mixed with other things.  
+And he who piles up wealth alone,  
+Will often have to stand  
+Beside his coffer-chest, and own  
+*Tis “bailt upon the sand.”  
+’Tis good to speak in kindly guise,  
+And soothe whate&#x27;er we can ;  
+For speech should bind the human mind,  
+Aud love link man to man.  
+But stay not at the gentle words,  
+Let deeds with anguish dwell ;  
+The vne who pities starvingabirds,  
+Should scatter crumbs as well.  
+The merey that is warm and true,  
+Must lend a helping band,  
+For those who talk, yet fail to do,  
+Bat “build upon the sand.”  
   
-&#x27;? j-. And[bold enough of shining  
-ttup,~\y%?£ „ r. For charity is cold. .  
-.vr-iix ; ; :^ . f. ;&#x27; But||ilace not  
-all yonr hope ah4Watr^&#x27;&#x27;: _&#x27; &#x27;J^It^whit  
-the deep mine brings&#x27;j &#x27;&#x27;&#x27; &#x27; &#x27; &#x27;\,.&#x27;&#x27; &#x27;  
-1 &#x27;JfejcannOl live on yellow dust,&#x27; &#x27;&#x27;&#x27;  
-,A &#x27;&#x27;?&#x27;?-&#x27; - U^imi.-ed with purer  
-things;&#x27;&#x27;&#x27;&#x27;&#x27; &#x27;&#x27; &#x27;-???: i Andihe.w.ho  
-piles up wealth: a\one ,?&#x27; &#x27;? &#x27; &#x27; _,;\,\
-I Wjll often have to stand -;.r.&#x27;.i&#x27; , ,  
-i- :?&#x27;, ; Beside h&#x27;ts coffer chest,  
-antllpwnj1/ ,. &#x27; . .-i t &#x27;Tis &#x27;. built  
-upon the s»nd.V- , y . , ;,&#x27; l;  
-&#x27;Tis&#x27;goo&#x27;d to speak in kindly r guiiieji  
-;:&#x27;? .&#x27; &#x27; 1 J&#x27;, A/&#x27;d So&#x27;othe where&#x27;er we  
-can ;,:.&#x27;,; &#x27;&#x27; Fair&#x27;spe&#x27;e&#x27;ch should bind  
-the human mind,&#x27; ? : ! &#x27; \ And love link  
-man to man: &#x27; &#x27;? V&#x27;1 ? &#x27; ? , ; , ,&#x27; . ,  
-? ?? £ -; .. ? &#x27;$.;,. lull ...;J. — Bo*  
-stay not at ;the gentle works, ?? ?- , v  
-li LeV.deeds w-th laueuage dwell ; -.  
-The one whp.pitios;sjarving Viirds, ; ?  
-?. Should scatter crumbs as weU.v; -, &#x27;  
-; . ..: ?&#x27; ?&#x27; th*rmetcy that is warm and  
-true . ? ? &#x27;J \ Must&#x27;lpud a helping  
-haiiil, &#x27;?&#x27; \, . ; For &#x27;{hose who talk,  
-yet fail to ^b,&#x27; &#x27;?&#x27;.&#x27;? : . ., ? -*&#x27; ?  
-But &#x27;? build upon the sand!&#x27;-&#x27; /??? - ?
-</td></tr></table>
+! The L
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84023142:00517015969:1860072801:0053/pct:53.948897,65.154343,15.505226,25.384063/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _New Hampshire journal of agriculture._](https://www.loc.gov/resource/sn90062042/1860-08-18/ed-1/?sp=4)
+
+#### 1860-08-18 &middot; [Manchester, N.H.](http://dbpedia.org/resource/Manchester%2C_New_Hampshire)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+Rliscellancons Department.  
+  
+BUILDING UPON THE SAND.  
+’T is well to woo, ’t is well to wed,  
+For so the world has done  
+Since myrtles grew, and roses blew,  
+And morning brought the sun.  
+But have a care, ye young and fair,  
+Be sure ye pledge with truth,  
+Be certain that your love will wear  
+Beyond the days of youth.  
+For if ye give not heart for heart,  
+As well as hand for hand,  
+You ’ll find you ’ve played the unwise part,  
+And “built upon the sand.”  
+*T is well to save, ’t is well to have  
+A goodly store of gold ;  
+And hold enough of shining stuff,  
+For charity is cold.  
+But place not all your hopes and trust  
+In what the deep mine brings ;  
+‘We cannot live on yellow dust,  
+Unless mixed with other things.  
+And he who piles up wealth alone,  
+Will often have to stand  
+Beside his coffer chest, and own  
+,I is “built upon the sand.”  
+‘T is good to speak in kindly guise,  
+And soothe whate’er we can ;  
+For speech should bind the human mind,  
+And love link man to man.  
+But stay not at the gentle words,  
+Let deeds with anguish dwell ;  
+The one who pities starving birds,  
+Should scatter crumbs as well.  
+The mercy that is warm and true,  
+Must lend a helping hand,  
+For those who talk, yet fail to do,  
+But “build upon the sand.”  
+  
+Remorse of a
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_eisenhower_ver01:data:sn90062042:00517015416:1860081801:0356/pct:7.185547,6.601442,10.662863,19.382080/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3468,74 +4903,124 @@ But &#x27;? build upon the sand!&#x27;-&#x27; /??? - ?
 
 ---
 
-## [From _Glasgow weekly times._](https://chroniclingamerica.loc.gov/lccn/sn86063325/1861-06-27/ed-1/seq-4)
+## [From _The New Hampshire gazette._](https://www.loc.gov/resource/sn84023142/1860-09-15/ed-1/?sp=1)
 
-#### 1861-06-27 &middot; [Glasgow, Mo.](http://dbpedia.org/resource/Glasgow%2C_Missouri)
+#### 1860-09-15 &middot; [Portsmouth, N.H.](http://dbpedia.org/resource/Portsmouth%2C_New_Hampshire)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
   
-Tu web lo&#x27; oo,t5t good to wed,  
-  
-Far ao tne wona mi none &#x27; --Bine  
-inyrfirsf, and twees blew, &#x27;  
-H . And oorcin brought the fun.  
-&#x27; But bave a re ye yeting and fair, ,-Be  
-sure ye pledge with trutbj - .,  
-Be certain that your love wiU wear  
-Beyond the day of youth. k : : - . .  
-Tori! ye give not heart for heart,  
-As well aa band for band.  
-You&#x27;ll 6nd you&#x27;ve plYedthe unwise part,  
-And built upon the aand. ,  
-fftt well to save, tU well to have,  
-  
-NEW BLACK SMITH SHOP  
-  
-TTiti Wilson .  
-  
-Ja Announces to bit old eusto-c  
-  
-A foodiy steie ot gw&#x27;u .  
-  
-And bold enough of stuning stun  
-  
-For CbaritT w cold.  
-  
-But place not all your bono and tnut  
-In what the deep mine bringst  
-We cannot lire on yellow dual, .  
-. Unmixed with purer things.  
-And he who piles up wealth alone  
-Will often have to stand - &#x27;  
-Beside bii coffee-cheat, and own  
-&#x27;Til built upon the sand.  
-Tii rood to speak in kindly guise,  
-And sooth where&#x27;er we can;  
-Fan- speech should bind the human mind,  
-And link man unto man.  
-But stay not at the gentle words -  
-Let deeds with language dwell;  
-The one who pities starring birds  
-Can scatter crumbs ts well.  
-The Mercy that is warm and true,  
+; BUILDING UPON THE SAND.  
+I BY ELIZA COOK.  
+| ’Tis well to woo, &#x27;tis well to wed,  
+For so the world has done  
+Since myrtles grew, and roses blew,  
+And morning brought the sun.  
+I But have a care, ye young and fair,  
+‘ Be sure ye pledge with truth,  
+I Be certain that your love will wear  
+Beyond the days of youth.  
+For if ye give not heart for heart,  
+As well as hand for hand,  
+You’ll find you&#x27;ve played the unwise part,  
+And “built upon the sand.”  
+&quot;Tis well to save, &quot;tis well to have,  
+A goodly store of gold,  
+Aud bave enough of shining stuff;  
+For charity is cold.  
+But place not all your hopes and trust  
+In what the deep mine brings ;  
+We cannot live on yellow dust,  
+Buat mixed on other things.  
+And he who piles up wealth alone,  
+&amp; ‘W ill often have to stand  
+Beside his coffer-chest; and own  
+&quot;Fis “‘built upon the sand.”  
+’Tis good to speak in kindly guise,  
+And soothe whate’er we can ;  
+. For speech should bind the human wmind,  
+And love link man to man. .  
+But stay not at the gentle words,  
+Let deeds with language dwell ;  
+The one who pities starving birds,  
+Should scatter crumbs as well.  
+The mercy that is warm and true,  
 Must lend a helping hand,  
 For those who talk, yet fail to do,  
-But build upon the sand
+But “build upon the sand.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_henri_ver01%2Fdata%2Fsn86063325%2F00200292480%2F1861062701%2F0694.jp2/pct:6.969474,7.470773,24.954027,20.758483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84023142:00517015969:1860091501:0077/pct:37.236715,13.204301,15.207729,23.612903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Union County star and Lewisburg chronicle._
+## [From _The Montrose Democrat._](https://panewsarchive.psu.edu/lccn/sn84026112/1862-02-06/ed-1/seq-1/)
+
+#### 1862-02-06 &middot; [Montrose, Pa.](http://dbpedia.org/resource/Montrose%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+K.  
+  
+&#x27;Tie well we woo, Ile well we wed,  
+For eo the world has done  
+Since myrtles grew, and mashie&#x27;,  
+And morning brought the enn. _  
+  
+Bulbs&#x27;s a are, ye young and fish  
+Bo fours ye pledge with truth; •  
+Be certain that year love will&#x27; wear  
+Beyond the days ofyonth.  
+For Itye glce-notheart to helot,  
+As well is hand l&#x27;or tan d i •  
+You&#x27;ll you&#x27;ve played the &quot;unwise&quot; park  
+And &quot;built upon the sand.&quot;  
+  
+`Tla well to We, %hi weU to lame  
+A goodly stiNie orgold, •  
+And hold enough or shining stuff,  
+For charity Is cold.  
+  
+But place not all your hopes and trait  
+• In what the deep ratite brings; &#x27;  
+We cannot live on yellow dust;  
+&#x27;Unmixed with purer things.  
+  
+And he who idles up wealth alone  
+often have to stand  
+Ikysidl his coffer•chest, and own  
+Tis &quot;bailt.nt.on the sand.&quot;  
+  
+`Tie go:m*lW speak to kindly guts*.  
+  
+Soothe whateer ire can  
+For`speech should blud the buln sand,  
+rAnd•love link man to man.  
+  
+put&#x27; stay not at the gentle words ;  
+Let deeds with language dwell;  
+The one who pities starving birds  
+Sheila scatter crumbs as well.  
+  
+The mercy that. le swarm and true  
+Must lend a belplng;hand  
+For those who yet fail to do,  
+But &quot;band upon the sand.&quot;
+</td></tr></table>
+
+---
+
+## [From _Union County star and Lewisburg chronicle._](https://www.loc.gov/resource/sn85038443/1862-04-22/ed-1/?sp=2)
 
 #### 1862-04-22 &middot; [Lewisburg, Pa.](http://dbpedia.org/resource/Lewisburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
+.  
+  
   
 &#x27;Tis well to woo, &#x27;tis well to wed,  
 For so the world has done  
@@ -3572,8 +5057,11 @@ Should scatter crumbs as well.
 The mercy that is warm and true,  
 Must lend a helping hand,  
 For those who talk yet fail to do,  
-But build upon the sand
-</td></tr></table>
+But build upon the sand.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776385:1862042201:0558/pct:0.814751,7.167070,19.103774,76.900726/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3587,12 +5075,13 @@ But build upon the sand
 
 ---
 
-## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1863-02-21/ed-1/seq-4)
+## [From _The Placer herald._](https://www.loc.gov/resource/sn82014998/1863-02-21/ed-1/?sp=4)
 
 #### 1863-02-21 &middot; [Auburn, Placer County, Calif.](http://dbpedia.org/resource/Auburn%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+.  
   
 &#x27;Tis well fo woo, &#x27;(is well to wed.  
 For so (lie world has done,  
@@ -3629,124 +5118,51 @@ Should scatter crumbs as well,
 The mercy that is warm and true  
 Must lend a helping hand.  
 For those who talk, yet fail to do,  
-But build upon the sail i
+But build upon the sail i.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557992%2F1863022101%2F0034.jp2/pct:9.052294,29.678581,12.063432,21.320332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557992:1863022101:0034/pct:9.042854,29.668388,12.063432,21.323729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://archive.org/details/sim_friends-review-a-religious-journal_1865-01-14_18_20/page/n13/mode/1up?view=theater)
+## [From _The Waynesburg messenger._](https://panewsarchive.psu.edu/lccn/sn84026518/1865-01-11/ed-1/seq-1/)
 
-#### 1865-01-14 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-‘Tis well to woo, tis good to wed,  
-For so the world hath done  
-  
-Since myrtles grew, and roses blew,  
-And morning brought tbe sun.  
-  
-But have @ care, ye young and fair,  
-Be eure you pledge with truth;  
-  
-Be certain that your love will wear  
-Beyond the days of youth!  
-  
-For if ye give not heart for heart,  
-As well as hand for hand,  
-  
-You&#x27;ll find you’ve played the “ unwise” part,  
-And “ built upon the sand.”  
-  
-Tis well to save, ’tis well to have  
-A goodly store of gold,  
-  
-And bold enough of shining stuff,  
-For charity. ie cold.  
-  
-REVIEW.  
-  
-But place not all your hope and trust,  
-In what the deep mine brings ;  
-  
-We cannot live on yellow dust  
-Unmixed with purer things.  
-  
-And he who piles up wealth alone,  
-Will often bave to stand  
-  
-Beside his coffer-chest, and own  
-’Tis “ built upon the sand.”  
-  
-‘Tis good to speak in kindly guise  
-And soothe where’et we can ;  
-  
-Fair speech should Lind the human mind ;  
-And love link man to man.  
-  
-Bat stay not at the gentle words,  
-Let deeds with language dwell ;  
-The one who pities starving birds,  
-Should scatter crumbs as well.  
-  
-The mercy that is warm and true  
-Must lend a helping hand,  
-For those who talk yet fail to do,  
-But “ build upon the sand.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friends-review-a-religious-journal_1865-01-14_18_20&#0036;13/pct:23.878327,10.004978,64.866920,80.736685/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Civilian & telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83016179/1865-03-23/ed-1/seq-1)
-
-#### 1865-03-23 &middot; [Cumberland, Md.](http://dbpedia.org/resource/Cumberland%2C_Maryland)
+#### 1865-01-11 &middot; [Waynesburg, Greene County, Pa.](http://dbpedia.org/resource/Waynesburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ning brought the sua.  
-But have .1 cure, ye young and fair,  
-Be sure you pledge with trutli;  
+  
+&#x27;Tis well to woo, :Lis well to wed,  
+For so the world has done.  
+Since myrtles grew, and roses blow,  
+And morning brought the sun.  
+But have a care, ye young and fair,  
+Be sure ye pledge with truth ;  
 Be certain that your love will wear  
-Beyond the days of youth I  
-For if yc give not heart for heart,  
-As well HS hand fr hand,  
-You&#x27;ll find you&#x27;ve played the &quot;unwise&quot; patt,  
-And &quot; built upou the sand.&quot;  
+Beyond the days of youth.  
+For if you give not heart for heart,  
+As welLas hand for hand,  
+You&#x27;ll find you&#x27;ve played the unwise part,  
+And built upon the sand.  
+  
 &#x27;Tis well to save, &#x27;tis well to have  
-A goodly store of pold,  
+A goodly store of gold,  
 And hold enough of shining stuff,  
 For charity is cold.  
-But place not all your hope and trust,  
-Iu what the deep inine hiiiigs;  
-We cannot live on yellow dust  
-l? ..mixed with purer things.  
-And he who piles up wealth alone,  
+But place not all your hoi.es and trust  
+In what the deep mines bring ;  
+We cannot live on yellow dust,  
+Unmixed with purer things.  
+And he who piles up wealth alone.  
 Will often have to stand  
-Beside his coffer-chest, and own  
-&#x27;Tis &quot;built uj.on the saud.&quot;  
-&#x27;Tis good to speak in kindly guistf  
-And soothe wheree&#x27;r we can ;  
-Fair speech should bind the human mind ;  
-And love link man to man.  
-But stay not at the gentle words,  
-Let deeds with language dwell ;  
-The one who pities starving birds,  
-Should scatter crumbs as well.  
-The mcrcv that is warm and true  
-Must lend a helping hand.  
-For those w ho talk yet fail to do,  
-But &quot;build upon the sand.&quot;
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_kale_ver01%2Fdata%2Fsn83016179%2F00296026207%2F1865032301%2F0262.jp2/pct:32.017708,20.714992,11.048759,16.848005/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
+Beside his coffer-chest and own  
+&#x27;Ti:; built upon the sand.  
+  
+.1 0. RITCIIIII  
+  
+&#x27;Tis good to speak in kindl
+</td></tr></table>
 
 ---
 
@@ -3808,194 +5224,52 @@ Should scatter crumbs as well.
 The mercy that is warm and true  
 Must lend a helping hand,  
 For those who talk, yet fail to do‘  
-But “ build upon the sand.
+But “ build upon the sand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friends-intelligencer_1865-07-08_22_18&#0036;13/pct:23.439716,34.955556,29.361702,35.511111/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_friends-intelligencer_1865-07-08_22_18%2Fsim_friends-intelligencer_1865-07-08_22_18_jp2.zip%2Fsim_friends-intelligencer_1865-07-08_22_18_jp2%2Fsim_friends-intelligencer_1865-07-08_22_18_0013.jp2/pct:23.439716,34.955556,29.361702,35.511111/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Delaware State journal and statesman._](https://chroniclingamerica.loc.gov/lccn/sn84038112/1865-08-22/ed-1/seq-2)
+## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1865-10-07_35_40/page/n3/mode/1up?view=theater)
 
-#### 1865-08-22 &middot; [Wilmington, Del.](http://dbpedia.org/resource/Wilmington%2C_Delaware)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-We cannot live  
-brings ;  
-yellow dust  
-Unmixed with purer things.  
-And lie who piles up gold aioue,  
-Will ofteh have to stand  
-Beside bis coffer ohest,  
-Tis &quot;built upou tho Baud.&quot;  
-&#x27;Tis good to speak in kindly guise  
-And Booth where&#x27;er we oau ;  
-Fair speech should bind the humau mind ;  
-And love liuk  
-1  
-d  
-But stay uot at the gentle words,  
-Let deeds with language dwell ;  
-who pities Rtnrving birds,  
-Should scatter crumbs  
-The meroy that is warm uud true  
-Must lend a helpiug hand,  
-For those who talk, yet fail tc  
-But &quot;build upon the sand.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_jinx_ver01%2Fdata%2Fsn84038112%2F00271741133%2F1865082201%2F0282.jp2/pct:53.665414,15.062684,11.019737,9.255162/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Zion's Herald and Wesleyan Journal (1842-1867)_](https://archive.org/details/sim_zions-herald_1865-10-04_36_40/page/n3/mode/1up?view=theater)
-
-#### 1865-10-04 &middot; [Boston](http://dbpedia.org/resource/Boston)
+#### 1865-10-07
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-’Tis well to woo, ’tis well to wed,  
-For so the world hath done  
-  
-Since myrtles grew, and roses blew,  
-And morning brought the sun.  
-  
-Bat have a care, ye young and fair ;  
-Be sure you pledge with t uth ;*  
-  
+‘Tis well to woo, tis good to wed,  
+For so the world bath done  
+Since myrties grew, and roses Liew,  
+And morning brought the sun. 1  
+Bat ha ve a.care, ye young and fair;  
+Be sure you pledge with truth;  
 Be certain that your love will wear  
 Beyond the days of youth!  
-  
 For if ye give not heart for heart,  
-As well as hand for hand,  
-  
-You&#x27;ll find you’ve played the “ unwise ” part,  
+As well as band for hand,  
+You&#x27;ll find you&#x27;ve played the unwise” part,  
 And “ built upon the sand.”  
   
-’Tis well to save, ’tis well to have,  
+Tis well to save, tis well to ba ve  
 A goodly store of gold,  
   
 And hold enough of shining stuff,  
 For charity is cold.  
   
 But place not all your hope and trust  
-In what the deep mine brings ;  
+In what the deep mine brings;  
   
-We cannot live on yellow dust  
+We cannot live on yellow dust,  
 Unmixed with purer things.  
   
-And he who piles up wealth alone  
+And he who piles up wealth alone,  
 Will often have to stand  
   
 Beside his coffer chest, and own  
-’Tis “ built upon the sand.”  
+Tis “ built upon the sand.”  
   
-’Tis good to speak in kindly guise,  
-And soothe where’er we can ;  
-  
-Fair speech should bind the human mind,  
-And love liok man to man.  
-  
-But stay not at the gentle words ;  
-Let deeds with language dwell ;  
-  
-The one who pities starving birds,  
-Should scatter crumbs as well.  
-  
-The mercy that is warm and true  
-Must lend a helping hand,  
-  
-For those who talk, yet fail to do,  
-But “build upon the sand.”
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_zions-herald_1865-10-04_36_40&#0036;3/pct:21.908602,27.863128,9.744624,13.417797/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Big blue union._](https://chroniclingamerica.loc.gov/lccn/sn84027640/1865-10-21/ed-1/seq-1)
-
-#### 1865-10-21 &middot; [Marysville, Kan.](http://dbpedia.org/resource/Marysville%2C_Kansas)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-JTis well to wo, &#x27;tis well to wed,  
-For so the world hath done  
-Since the myrtles grew, and roses blew,  
-And morning brought the sun.  
-But have a care, yc young and fair,  
-Be sure ye pledge with truth ;  
-Be cartain that your love will wear  
-Beyond the days of youth.  
-For&#x27;if wc give not heai t to heart,  
-As well as hand for hand,  
-You&#x27;ll find you&#x27;ve played the unwise part,  
-And &quot;built upon the sand.&quot;  
-&#x27;Tis u ell to save, His well to have  
-A goodly store of gold,  
-AmNioid enough of bhining stuff,  
-For charity is cold.  
-But place not all your hope and trust,  
-In what the deep mine brings ;  
-&quot;We cannot lie on yellow dust,  
-Unmixed with purer things.  
-And he who piles up gold alone,  
-&quot;Will often have to stand  
-Beside his coffer chest ; and own.  
-&#x27;Tis &quot;built upon the sand.&quot;  
-&#x27;Tis good to speak in kindly guise  
-And sooth where&#x27;er we cau ;  
-Fair speech should bind the human mind;  
-And love link man to man.  
-But stay not at the gentle words ;  
-Let debts with language dwell ;  
-The one who pities starving birds ,  
-Should scatter crumbs as well.  
-The mercy that is warm and true  
-Must lend a helping hand,  
-For those who talk, yet fail to do,  
-  
-But &quot;build upon the sand.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn84027640%2F00294555687%2F1865102101%2F0474.jp2/pct:20.504732,42.705869,15.895549,26.540498/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1865-11-08/ed-1/seq-1)
-
-#### 1865-11-08 &middot; [Woodsfield, Ohio](http://dbpedia.org/resource/Woodsfield%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-ith truth;  
-Be certain that your love will wear  
-Beyond the days of youth!  
-For if we give not heart for heart,  
-As well as hand for hand,  
-You&#x27;ll find you&#x27;ve played the unwise part,  
-And &quot;built upon the sand.&quot;  
-&#x27;Tis well to save. &#x27;Tis well to have,  
-A goodly store of gold,  
-And hold enough of shining stuff,  
-&#x27; For charity is cold.  
-But place not all your hope and trust  
-In what the deep mine brings;  
-We cannot live on yellow dust  
-Unmixed with purer things;  
-And he who piles up wealth alone,  
-Will often have to stand  
-. Beside his coffer chest, and own  
-&#x27;Tis i&#x27;built upon the sand.&quot;  
-&#x27;Tis good to speak in kindly guise,  
+Tis good to speak in kindly guise,  
 And soothe where&#x27;er we can;  
 Fair speech should bind the human mind,  
 And love link man to man.  
@@ -4003,179 +5277,18 @@ But stay not at the gentle words;
 Let deeds with language dwell;  
 The one who pities starving birds,  
 Should scatter crumbs as well.  
-The mercy that Is warm and true  
-Must lend a helping hand,  
-For these who talk, yet fail to do,  
-But &quot;build upon the sand.&quot;  
-
+The mercy that is warm dod true,  
+Must lend a helping hand;  
+For those who talk, yet fail to do,  
+But “build upon the sand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027467%2F1865110801%2F0508.jp2/pct:30.121554,22.383444,11.384524,18.696480/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_presbyterian_the-presbyterian_1865-10-07_35_40%2Fsim_presbyterian_the-presbyterian_1865-10-07_35_40_jp2.zip%2Fsim_presbyterian_the-presbyterian_1865-10-07_35_40_jp2%2Fsim_presbyterian_the-presbyterian_1865-10-07_35_40_0003.jp2/pct:21.209917,7.415254,9.256198,15.104382/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1865-11-09_36_45/page/n5/mode/1up?view=theater)
-
-#### 1865-11-09 &middot; [New York](http://dbpedia.org/resource/New_York_City)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-’Tis well to save, &#x27;tis well to have  
-A goodly store of gold.  
-  
-And hold enough of shining stuff,  
-  
-For charitv is cold.  
-  
-But place no’t all your hope and trust  
-In what the deep mine brings ;  
-  
-We cannot live on yellow dust  
-Unmixed with purer things.  
-  
-And he who piles up wealth alone  
-Will often have to stand  
-  
-Beside his a&gt;ftV:r chest, and owu  
-’ Tis built upon the sand.  
-  
-’Tis good to speak in kindly guise,  
-  
-And sootlic where’er we can ;  
-  
-Fair speech should bind tlie human mind.  
-  
-And love Hok man to man.  
-  
-Bat stay not at the gentle words :  
-  
-Let deeds with language dw 11 ;  
-  
-The one who pities starving birds  
-Should scatter crumbs as well,  
-fhe mercy that is warm and true,  
-  
-Must lend a helping hand.  
-  
-For those who talk, yet fail to do,  
-  
-But build upon the sand
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_evangelist-and-religious-review_1865-11-09_36_45&#0036;5/pct:11.774194,20.032051,11.532258,10.748626/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## From _Daily Ohio statesman._
-
-#### 1865-11-11 &middot; [Columbus, Ohio](http://dbpedia.org/resource/Columbus%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-fair,  
-Be sure you pledge with r ith;1.101  
-Be certain that your love wil wear adijud4;  
-Beyond the days of youth n  
-For if we give not heart for heart,  
-As well as hand for hand,  
-You&#x27;ll find you&#x27;ve played the unwise part,i  
-And&quot; built upon the sand.&quot;L o)  
-&#x27;Tis well to save. &#x27;Tis well to have2!  
-A goodly store of goid, 31,101 $131I  
-And hold enough of shining stuff, bun bexing  
- For charity is cold.  
-But place not all your hope and trust  
-In what the deep mine brings;4.  
-We cannot live on yellow dustol a bloil bli  
-Unmixed with purer things;  
-And he who piles up wealth alone,  
-Will often have to stand  
-&quot;Beside his coffer chest, and own  
-&#x27;Tis &quot;built upon the sand.&quot;  
-&#x27;Tis god to speak in kindly guise,  
-And soothe where&#x27;er we can;  
-Fair speech should bind the human mind i.  
-And love link man to man.  
- But stay not at the gentle words;  
-Let deeds with language dwell;  
-The one who pities starving birds,  
-Should scatter crumbs as well.  
-The mercy that is warm and true  
-Must lend a helping hand,  
-For those who talk, yet fail to do,  
-But &quot;build upon the sand,&quot;
-</td></tr></table>
-
----
-
-## A Column for Boys and Girls
-
-#### From _Milwaukee daily sentinel._
-
-#### 1865-12-23 &middot; [[Milwaukee, Wis.]](http://dbpedia.org/resource/Milwaukee)
-
-[This text is not available under an open license.]
-
----
-
-## From _Charles City intelligencer._
-
-#### 1866-01-18 &middot; [Charles City, Floyd County, Iowa](http://dbpedia.org/resource/Charles_City%2C_Iowa)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-And morning brought the sun;  
-But have a care, ye young and fair,  
-Be sure you pledge with truth  
-Be certain that your love will wear  
-  
-Beyond the days of youth  
-For if we give not heart for heart,  
-As well as hand for hand,  
-You&#x27;ll find you&#x27;ve played the unwise part,  
-  
-And &quot;built upon the sand.&quot;  
-  
-&#x27;Tis well to save. &quot;Tis well to have  
-A goodly store of gold,  
-And hold enough of shining stuff,  
-  
-For charity is cold.  
-But place not all your hope and trust  
-In what the deep mine brings:  
-We cannot live on yellow dust  
-  
-Unmixed with purer things  
-And he who piles up wealth alone,  
-Will often have to stand  
-Beside his coffer chest, and own  
-&quot;Tis &quot;built upon the sand.&quot;  
-&#x27;Tis good to speak in kindly guise,  
-  
-And soothe where&#x27;er we can  
-Fair speech should bind the human mind  
-And love link man to man.  
-But stay not at the gentle words  
-  
-Let deeds with language dwell;  
-The one who pities starving birds.  
-Should scatter crumbs as well.&quot;  
-The mercy that is warm and true  
-  
-Must lend a helping hand,  
-For those who talk, yet fail to  
-But &quot;build upon the sand.&quot;
-</td></tr></table>
-
----
-
-## [From _The Emporia news._](https://chroniclingamerica.loc.gov/lccn/sn82016419/1866-02-10/ed-1/seq-1)
+## [From _The Emporia news._](https://www.loc.gov/resource/sn82016419/1866-02-10/ed-1/?sp=1)
 
 #### 1866-02-10 &middot; [Emporia, Kan.](http://dbpedia.org/resource/Emporia%2C_Kansas)
 
@@ -4208,657 +5321,70 @@ Will often hare t btand
 Besido his cofT.r cheat; an I own,  
 Tis &quot;built upon the sand.&quot;  
 &#x27;Tis good to speak in kindly guise  
-And sooth where&#x27;er we can;  
-Fair speech should bind the human mind;  
-Ana lore link man to man.  
-But stay not at the gentle words; -  
-Let debts with languiga dwell;  
-Tt e one who pities starring birds,  
-r Should ecatter crumbs aa well. ..  
-Th irrcy that Is Warm and true  
-Must lend a helping hand, &#x27;  
-For those who talk, yt fail to do,  
-But &quot;build upon the sinl.
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn82016419%2F00212472931%2F1866021001%2F0433.jp2/pct:20.232727,16.558994,12.930909,19.641845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472931:1866021001:0433/pct:30.555556,24.832823,19.168121,21.285277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Weekly Calaveras chronicle._](https://chroniclingamerica.loc.gov/lccn/sn93052977/1866-03-31/ed-1/seq-4)
+## [From _The field and fireside._](https://newspapers.digitalnc.org/lccn/sn92073023/1866-04-14/ed-1/seq-8/)
 
-#### 1866-03-31 &middot; [Mokelumne Hill, Calaveras County, Cal.](http://dbpedia.org/resource/Mokelumne_Hill%2C_California)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-edge with truth ;  
-Re certain that your love will wear  
-Beyond the days of youth! &#x27;  
-For if we give not heart for heart,  
-As well as hand for hand,  
-You’ll find you’ve played the unwise part,  
-And “ built upon the sand.”  
-’Tis well to save ’tis well to have  
-A goodly store of gold.  
-And hold enough of shining stuff,  
-For charity is cold  
-Rut place not all your hope and trust  
-In what the deep mine brings ;  
-We cannot live with yellow dust  
-Unmixed with purer things;  
-And he who piles up wealth alone  
-Will often have to stand  
-Reside his coffee chest, and own  
-’Tis •• upon the sand.”  
-&#x27;Tis good to speak in kindly guise.  
-And soothe, where&#x27;er we can ;  
-Fair speech should bind the human mind  
-And love link man to man.  
-Rut stay not at the gentle words,  
-Let deeds with language dwell;  
-The one who pities starving birds.  
-Should scatter crumbs as well,  
-The mercy that is warm and true  
-Will lend a helping hand.  
-For those who talk, yet fail to do,  
-Rut “ build upon the sand.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn93052977%2F00279557451%2F1866033101%2F0020.jp2/pct:8.056351,16.336016,11.595033,14.993757/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## From _Ashtabula weekly telegraph._
-
-#### 1866-03-31 &middot; [Ashtabula, Ohio](http://dbpedia.org/resource/Ashtabula%2C_Ohio)
+#### 1866-04-14 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ertain that young love will wear  
-Beyond the days of youth!  
-For if you give not heart for heart  
-As well as hand for hand,  
-You&#x27;ll find you&#x27;ve played the unwise part,  
-And &quot;built upon the sand.&quot;  
-&#x27;Tis well to save. Tis well to have  
-A goodly store of gold,  
-And hold enough of shining stuff,  
-For charity is cold,  
-But place not all your hope and trust  
-In what the deep mine brings;  
-We cannot live on yellow dust  
-Unmixed with purer things;  
-And he who piles up wealth alone,  
-Will often have to stand  
-Beside his chest and own  
-Tis &quot;built upon the sand.&quot;  
-&#x27;Tis good to speak in kindly guise,  
-And sooth where&#x27;er you can;  
-Fair speech should bind the human mind  
-And love link man to man,  
-And stay not at the gentle words;  
-Let deeds with language, dwell,  
-The one who pities starving birds,  
-Should scatter crumbs as well.  
-The mercy that is warm and true  
-Must lend a helping hand,  
-For those who talk, yet fail to do,  
-But &quot;build upon the sand.&quot;
-</td></tr></table>
-
----
-
-## From _The Plymouth weekly Democrat._
-
-#### 1866-04-05 &middot; [Plymouth, Ind.](http://dbpedia.org/resource/Plymouth%2C_Indiana)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-nd morning brought the sun.  
-But, have a care, ye young and fair,  
-Be sure you pledge with truth;  
-Be certain that your love will wear  
-Beyond the days of youth!  
-For if we give not heart for heart,  
-As well as hand for hand,  
-You&#x27;ll find you&#x27;ve played the unwise part,  
-And &quot;built upon the sand.&quot;  
-s  
-&#x27;Tis well to save. &#x27;Tis well to have  
-A goodly share of gold,  
-And hold enough of shining stuff,  
-For charity is cold.  
   
+TU well to woo, &#x27;tis well to wed.  
+For so the world has done  
+Since myrtles grew, and roses blew,  
+And mornins brought the sun.  
+But have a care, ye young and fair,  
+Be euro you pledge with truth ;  
+Be certain that your love will wear  
+Beyond the days of youth !  
+For if ye give not heart for heat,  
+As well as hand for hand,  
+You&#x27;ll find you&#x27;ve played the unwise part-,  
+And &quot; built upon the sand.&quot;  
+&#x27;Tis well to save. &#x27;Tis well to have  
+A goodly store of gold,  
+And hold enough of the shining stuff,  
+For charity is cold.  
 But place not all your hope and trust  
-In what the deep mine brings;  
-We can not live on yellow dust  
-Unmixed with purer things!  
-And he who piles up wealth alone,  
+In what the deep mine brings ;  
+Wo cannot live on yellow dust,  
+Unmixed with purer thiugs ; !  
+And ho who piles up wealth alone,  
 Will often have to stand  
 Beside his coffer chest and own  
-&#x27;Tis &quot;built upon the sand.&quot;  
-&#x27;Tis good to speak in kindly guise,  
-And soothe wher&#x27;ere we can;  
-Fair speech should bind the human mind,  
-And love link man to man.  
-But stay not at the gentle words;  
-Let deeds with language dwell;  
-The one who pities starving birds,  
-Should scatter crumbs as well.  
-The mercy that is warm and true  
-Must lend a helping hand
-</td></tr></table>
-
----
-
-## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1866-04-11/ed-1/seq-1)
-
-#### 1866-04-11 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-rtain that young love will wear  
-Beyond the davs of youth !  
-For if yn give not heart for heart  
-As well i hand for band.  
-Ton &#x27;II find you&#x27;ve played the unwise part.  
-And &quot;built upon the sanl.&quot;  
-Tis well to save, lis well to have  
-A goodly store of gold.  
-And hold enough of shining stuff.  
-For charity is cold;  
-But place not all your hope and trust  
-In what the deep mine brings;  
-We cannot live on yellow dust  
-Unmixed with other things ;  
-And he who piles up wealth alone  
-Will often have &#x27;o stand  
-Beside his chrit. and own  
-&#x27;Tis &quot;built upon the sand.&quot;  
-Tis good to speak in kindly guise.  
-And soothe where&#x27;er you can ;  
-Fair speech should bind the human mind  
-And love link man to nun :  
-But stay not at the gentle words :  
-Let deeds with language dwell ;  
-The one who l ities starving birds  
-S bould rcatter crumbs as well.  
-The mercy that is warm and true  
-Must lend a helping band.  
-For tbnse who talk, yet iail to do.  
-But &quot;build upon the sand.&quot;
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F0023728687A%2F1866041101%2F0145.jp2/pct:29.494602,13.065807,9.153497,9.566464/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Fremont journal._](https://chroniclingamerica.loc.gov/lccn/sn85026050/1866-04-20/ed-1/seq-4)
-
-#### 1866-04-20 &middot; [Fremont, Sandusky County [Ohio]](http://dbpedia.org/resource/Fremont%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-f &quot; S&#x27;v no&#x27; heart for heart, ..  
-A well as hand for band, -  
-., We&#x27;ll find we&#x27;ve played the unwise part,  
-&#x27; And &quot;built upon the sand.&quot;  
-Tis well to save, &#x27;tis well to have  
-A goodly store of gold;  
-And hold enough of shining stuff  
-fgP! For charity in Cold. &#x27;  
--x. But place Dot all your bope and trust  
-lu what the deep mine brings:-fc.  
-i We cannot live on yellow dust  
-Unmixed with purer things  
-&#x27;-Aud he who piles up wealth alone,  
-Will sometime have to stand .  
-j-- Beside his coffer chest, and own  
-i &#x27; Ti &quot;built upon the sand.&quot; &#x27;  
-r&quot; Tit good to speak in kindly guise, .  
-V.&#x27; &#x27;&quot; Aud soothe where&#x27;er we can; .  
-i Fair speech should bind the human mind,  
-&#x27; &#x27; And love bind man to man.  
-- But stay not at the gentle words;  
-, , , ,Iet deeils with language dwell;  
-L&#x27;&#x27;fn&#x27;Oo who pities starving birds  
-Should scatter crumbs as well.  
-The mercy that is warm and true,  
-Must lend a helping hand;  
-For those who talk, yet fail to do,  
-But &quot;build upon the sand
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn85026050%2F00280775824%2F1866042001%2F0063.jp2/pct:4.519955,8.244615,11.123577,11.785095/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Urbana union._](https://chroniclingamerica.loc.gov/lccn/sn85026309/1866-04-25/ed-1/seq-1)
-
-#### 1866-04-25 &middot; [Urbana, Ohio](http://dbpedia.org/resource/Urbana%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-And morning brought the sun,  
-But have a care, ye young and fair.  
-Be sure yon pledge with truth ;  
-&#x27; Be certain that your love will wear  
-Beyond the days of youth 1  
-or If we give not heart for heart,  
-As well as hand for hand,  
-Tou&#x27;ll find you&#x27;re played the unwise part.  
-And built apon the sand.&quot; .  
-Tls well to save. &quot;Tis well to nav  
-A toodly store of gold.  
-And hold enough of shining stuff.  
-For charity is cold.  
-But place not all your hope and trust  
-In what the deep mine brings ;  
-We cannot lire on yellow dust  
-Unmixed with purer things ;  
-And he who-plies np wealth alone,  
-Will often have to stand  
-Beside his coffer chest, and own  
-&#x27;Tis built upon the sand.&quot;  
-Tls good to speak in kindly guise,  
-And soothe where&#x27;er we can ;  
-Fair speech should bind the human  
-mind,  
-And lore link man to man.  
-But stay not at the gentle words.  
-Let deeds With language dwell :  
-The one who pities starving birds  
-Should scatter crumbs as well.  
-The mercy that ia ary and tfne  
-Must lend a helping hand,  
-For those who think, yet fail to da,  
-- But &quot; build upon the sand.&quot;
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85026309%2F00280775903%2F1866042501%2F0286.jp2/pct:29.078628,24.189591,10.304815,13.018210/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Baton Rouge tri-weekly gazette & comet._](https://chroniclingamerica.loc.gov/lccn/sn86053661/1866-06-14/ed-1/seq-4)
-
-#### 1866-06-14 &middot; [Baton Rouge, La.](http://dbpedia.org/resource/Baton_Rouge%2C_Louisiana)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-&quot;fis well to woo, &#x27;tis well to wed,  
-For so the woria hath do- e.  
-Since myrtles grew, and ro.-ed blew,  
-And morning b ought the sun.  
-But have a care ye young and fair,  
-Be sure you pledge wi li truth ;  
-Be certain tint your love will wear  
-Bevond tbe days of youth !  
-For if ye give not heart for heart,  
-As well as hand for hind,  
-You&#x27;ll find you&#x27;ve played the unwise part,  
-And &quot;built upon the sand.&quot;  
-•Tis Well to save &#x27;tis well to have  
-A goodly store of gold.  
-And hold enough ôf shining stuff,  
-For charity is cold.  
-But plare not all }0 ir hope and trust  
-In what the deep mine brings ;  
-We cannot live on yeliow dust  
-Unmixed with purer things.  
-And he who piles up weillth alone  
-Will often have to stand  
-Be&#x27;ide his coffer chest, and own  
-&#x27;Tis &quot;built upôn the sand.&quot;  
+&#x27;Tis &quot; built apon the sand.&quot;  
 &#x27;Tis good to speak in kindly guise.  
-And soothe where&#x27;*r we Ca. ;  
-Fair speech should blind the human mind,  
-And love link man to man.  
-But stop not at the gentle words;  
-Let deeds with language dwell ;  
-The one who pities starving birds,  
-Should scatter crumbs as well,  
-The mercy that is warm and true  
-Must lend a helping hand,  
-Nor tbnse that talk, yet fail to do,  
-But &quot;build upon the sand.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_charizard_ver01%2Fdata%2Fsn86053661%2F0029587630A%2F1866061401%2F0552.jp2/pct:8.629032,29.417503,12.016129,15.607581/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## From _The Vermont transcript._
-
-#### 1866-06-29 &middot; [St. Albans, Vt.](http://dbpedia.org/resource/St._Albans_(town)%2C_Vermont)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-rom 9 to 12 A. M., and  
-aland7t2.9 P. M. Advice freo,  
-Abans, Vt., March 12th, 1866,   
-Tur Mason S haMLin CAniwe on  
-red  
-Ity different styles, adapted to sa.  
-music, for $80 to $600 each-  
-Fifty.  
- Awarded them. Ilustrated Catas  
-ton or wr Address, MASON  HAMLiN,  
-MTHEDd, New York.  
-InSore iN the  
-FIRE INSURANCE Co.  
-OF New York crry.  
-and Surplus, $565,183 86  
-Capital  
-15it  
-H. L. SAMSON, Agent.  
-in  
-OrtiY  
-10 SOldieas  
-Their  
-Int INTERESTEd Are HErEnY  
-tamil &quot;I am agent to transact all bust.  
-1y. Claims 5f th Pelisions, bounties and back  
-igtotheir allowances obtained, by apmyl  
-  
-BUILDING ON THE SAND.  
-DY ELIzA COOK.  
-Tis well to woo, &#x27;tis well to wed,  
-For so the world hath done  
-Since myrtles grew, and roses blew,  
-And morning brought the sun.  
-But have a care ye young and fair.  
-Be sure you pledge with truth;  
-Be certain that your love will wear  
-Beyond the days of youth!  
-For if ye give not heart for heart,  
-As well as hand for hand,  
-You&#x27;ll find you&#x27;ve played the unwise part,  
-And &quot;built upon the sand.&quot;  
-&#x27;Tis well to save, &#x27;tis well to have  
-A goodly store of gold,  
-And hold enough of shining stuff,  
-For charity is cold.  
-But place not all your hope and trust  
-In what the deep mine brings;  
-We cannot live on yellow dust  
-Unmixed with purer things.  
-And he who piles up wealth alone  
-Will often have to stand  
-Beside his coffer chest, and own  
-Tis &quot;built upon the sand.&quot;  
-&#x27;Tis good to speak in kindly guise,  
-And soothe where&#x27;er we can;  
-Fair speech should blind the human mind,  
-And love link man to man.  
-But stop not at the gentle words;  
-Let deeds with language dwell;  
-The one who pities starving birds,  
-Should scatter crumbs as well.  
-The mercy that is warm and true  
-Must lend a helping hand,  
-For those that talk, yet fail to do,  
-But &quot;build upon the sand.&quot;
-</td></tr></table>
-
----
-
-## [From _Colman's rural world._](https://archive.org/details/sim_colmans-rural-world_1866-09-01_18_17/page/n10/mode/1up?view=theater)
-
-#### 1866-09-01 &middot; [St. Louis, Mo.](http://dbpedia.org/resource/St._Louis)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-’Tis well to woo; ’tis well to wed—  
-For so the world hath done,  
-  
-Since myrtles grew, and roses blew,  
-And morning brought the sun.  
-  
-But have a care, ye young and fair,  
-Be sure you pledge with truth;  
-  
-Be certain that your love will wear  
-Beyond the days of youth!  
-  
-For if ye give not heart for heart,  
-As well as hand for hand,  
-  
-You&#x27;ll find you’ve played the unwise part,  
-And built upon the sand.  
-  
-’Tis well to save; ’tis well to have  
-A goodly store of gold,  
-  
-And hold enough of shining stuff—  
-For charity is cold.  
-  
-But place not all your hope and trust  
-In what the deep mine brings.  
-  
-We cannot live on yellow dust  
-Unmixed with purer things—  
-  
-And he who piles up wealth alone  
-Will often have to stand  
-  
-Beside his coffer chest, and own  
-’Tis ‘built upon the sand.”  
-  
-’Tis good to speak in kindly guise,  
-And soothe where’er we can ;  
-  
+And soothe where&#x27;er we can ;  
 Fair speech should bind the human mind,  
 And love link man to man.  
-  
-But stop not at the gentle words,  
+But stay not at the gentle words,  
 Let deeds with language dwell ;  
 The one who pities starving birds  
 Should scatter crumbs as well.  
-  
-The mercy that is warm and true  
-Must lend a helping hahd—  
-For those that talk, yet fail to do,  
-But “build upon the sand.”
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_colmans-rural-world_1866-09-01_18_17&#0036;10/pct:34.948097,53.612589,19.723183,29.654255/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## The Poet's Corner
-
-#### From _New Hampshire statesman._
-
-#### 1866-09-14 &middot; [Concord [N.H.]](http://dbpedia.org/resource/Concord%2C_New_Hampshire)
-
-[This text is not available under an open license.]
-
----
-
-## [From _New York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85026214/1866-10-28/ed-1/seq-3)
-
-#### 1866-10-28 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-w,  
-And morning brought the bud.  
-But Lave a care, ye young and fair,  
-Be sure you pledge with truth,  
-Bo certain that your love Trill wear  
-Beyond the days of youthl  
-For if yon give not heart for heart,  
-As wclrlis hand for baud,  
-You’ll find you’ve played the unwise part,  
-And “ built upon the Band.”  
-’Tis well to save, ’Us well to have  
-A goodly store of gold,  
-And hold enough of shining stuff,  
-For charity is cold.  
-But place not all your hope and trust  
-In what the deep mine brings—  
-We cannot live on yellow dust  
-Unmixed with purer things.  
-And he who piles up wealth a’.one  
-Will oiten have a stand  
-Beside his coffer chest, and own  
-’Tis “builtupon the sand.”  
-’Tis good to speak in kindly guise,  
-And sooiho where’er we can;  
-Fair speech should, bind the human mind.  
-And love link mui to man.  
-But stop not at the gentle words,  
-Let deeds with language dwell,  
-The one who pities starving birds  
-Should scatter crumbs as well.  
-Tho mercy that is warm and&quot; true  
-Must lend ajielping hand  
-For those that talk, yet fail to do,  
-Bnf “build upon the sand.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_frost_ver02%2Fdata%2Fsn85026214%2Fprint00211110144%2F1866102801%2F0003.jp2/pct:57.505052,34.209335,9.484659,11.239333/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1866-11-09/ed-1/seq-1)
-
-#### 1866-11-09 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-And morning brought the sun.  
-But have a care, ye young and fair,  
-Be sure you pledge with truth ;  
-Be certain that your love will wear  
-Beyond thy days of youth !  
-For if yon have not heart for heart,  
-As well as hand for hand,  
-You’ll find you&#x27;ve played the unwise part,  
-And “built.upon the sand.”  
-’Tis well to save, ’tis well to have  
-A goodly store of gold,  
-And hold enough of shining stuff,  
-For charity is cold.  
-But place not all your hope and trust  
-In what the deep mine brings ;  
-We cannot live on yellow dust  
-Unmixed with purer things.  
-And be who piles up wealth alone  
-Will often have to stand  
-Beside his coffer-chest, and own  
-’Tis “built upon the sand.”  
-&#x27;Tis good to speak in kindly guise,  
-And soothe where’er we can ;  
-Fair speech shall blind the human mind,  
-And love link man to man.  
-But stop not at the gentle words;  
-Let deeds with language dwell ;  
-The one who pities starving birds,  
-Should scatter seeds as well,  
 The mercy that is warm and true  
 Must lend a helping hand,  
-For those that talk, yet fail to do,  
-But “ build upon the sand.”  
-
+For those who talk, yet fail to do,  
+But &quot; build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_klepper_ver02%2Fdata%2Fsn84024653%2F00393349487%2F1866110901%2F0180.jp2/pct:43.648705,15.125324,12.624094,23.177759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SouthFFR2n_ver01%2Fdata%2F1866041401%2F0270.jp2/pct:101.814059,15.561335,16.581633,29.042046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Sunbury American._](https://chroniclingamerica.loc.gov/lccn/sn84026403/1866-11-24/ed-1/seq-1)
-
-#### 1866-11-24 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-&#x27;Tls well to woo, &#x27;tis well to wed, &#x27;  
-For so the World hath done,  
-Since myrtles grew and roses blew, . ,  
-And morning brought the sun. ,  
-&#x27; But have a care, ye young and fair,  
-Bo sure you pledge with truth ;  
-Be certain that your lore will Wear  
-beyond the days ol youth !  
-For if you give not heart for heart,  
-As well as hand for hand,  
-You&#x27;ll find you&#x27;ve played an unwise part,  
-And &quot;built upon the sand.&quot;  
-&#x27;Tis well to save. &#x27;Tis well to haro  
-A goodly store of gold.  
-And hold enough of shining stuff,  
-For charity is cold.  
-But place not all your hopes and trust  
-On what the deep mine brings ;  
-We oannct live with yellow dust  
-L&#x27;nn ixed with purer things.  
-And he who files up wealth alone,  
-Will often nave to stand  
-Bosido bis coffer ohest and own - :  
-&#x27;Tis &quot;built upon the sand.&quot;  
-&#x27;Tis good to speak in kindly guise,  
-And soothe whero&#x27;cr we can ;  
-Fair speech should bind tho human mind  
-And love link man to man.  
-Bat stay not at the gentle words ;  
-Let deeds with language dwell ;  
-Tho one who pities starving birds,  
-Should scatter crumbs as well.  
-The mercy that is warm and true  
-Must lend a helping hand,  
-For those who talk yet fail to do,  
-But &quot;build upon the sand.!
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026403%2F0028077604A%2F1866112401%2F0325.jp2/pct:30.024902,17.766497,10.209890,14.487584/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Weekly Calaveras chronicle._](https://chroniclingamerica.loc.gov/lccn/sn93052977/1866-12-29/ed-1/seq-1)
+## [From _Weekly Calaveras chronicle._](https://www.loc.gov/resource/sn93052977/1866-12-29/ed-1/?sp=1)
 
 #### 1866-12-29 &middot; [Mokelumne Hill, Calaveras County, Cal.](http://dbpedia.org/resource/Mokelumne_Hill%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-f night until the dawn  
-They sleep forgetting fear.  
-The hare sleeps where it lies,  
-With weary, half-closed eyes;  
-The cock has ceased to crow, the hen to cluck:  
-Only the fox is out, some heedless duck  
-Or chicken to surprise.  
-Remote, each single star  
-Comes out till they are there  
-All shining so brightly ; now the dew falls  
-damp ;  
-While close at hand the glowworm lights her  
-lamp  
-Or twinkles from afar.  
-But evening now is done  
-As much as if the sun,  
-Day-giving, had arisen in the east;  
-For night has come, and the great calm has  
-ceased;  
-The quiet sands have run.  
-  
-BUILDING ON THE SAND.  
-  
-BY ELIZA COOK.  
   
 Tis well to woo, ’tis well to wed,  
 For so the world has done  
@@ -4888,29 +5414,21 @@ Beside his coffer chest, and own
 And soothe where’er we can ;  
 Fair speech shall bind the human mind,  
 And love link man to man.  
-But stop not at the gentle words,  
-Let deeds with lanffq®g6 d7*’dl *,  
-The one who pities starving birds  
-Should scatter crumbs as well.  
-The mercy that is warm and true  
-Must lend a helping hand,  
-For those that talk, yet fail to do,  
-But “ build upon the sand.”
+But sto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn93052977%2F00279557451%2F1866122901%2F0152.jp2/pct:29.937500,41.117074,12.129808,30.221720/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn93052977:00279557451:1866122901:0152/pct:30.538462,53.904816,11.480769,14.136421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The Lincoln County herald._
+## [From _The Lincoln County herald._](https://www.loc.gov/resource/sn90061771/1867-01-04/ed-1/?sp=3)
 
 #### 1867-01-04 &middot; [Troy, Lincoln County, Mo.](http://dbpedia.org/resource/Troy%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  orin og ta u  
+ ta u  
 But have a care, ye young and fair,  
 Be sure you pledge with truth,  
 Be certain that your love will wear,  
@@ -4942,183 +5460,22 @@ the one who pities starving birds,
 Should seatter ogumbs as woss.  
 the marey that is warm and true,  
 Must lend a helping hand,  
-yos therd whe talk, yet fall to de,
-</td></tr></table>
+yos therd whe talk, yet fall to de,  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292790:1867010401:0229/pct:62.061995,64.523536,14.914645,23.847794/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _Gold Hill daily news._
-
-#### 1867-01-19 &middot; [Gold Hill, N.T. [Nev.]](http://dbpedia.org/resource/Gold_Hill%2C_Nevada)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- youth!  
-For if you give not heart for heart,  
-As well as hand for hand,  
-You&#x27;ll find you&#x27;ve played an unwise part,  
-And &quot;built upon the sand.&quot;  
-&#x27;Tis well to save. &#x27;Tis well to have  
-A goodly share of gold,  
-And hold enough of shining stuff,  
-For charity is cold.  
-But place not all ygur hopes and trust  
-On what the deep mine brings;  
-We cannot live with yellow dust  
-Unmixed with purer things.  
-And he who piles up dust alone,  
-Will often have to stand  
-Beside his coffer chest and own  
-He &quot;built upon the sand.&quot;  
-&#x27;Tis good to speak in kindly guise,  
-And sooth where&#x27;er you can;  
-For speech should bind the human mind  
-And love link man to man.  
-But stay not at the gentle words;  
-Let deeds with language dwell;  
-The one who pities starving birds,  
-Should scatter crumbs as well.  
-The mercy that is warm and true  
-Must lend a helping hand,  
-For those who talk, yet fail to do,  
-But &quot;build upon the sand.
-</td></tr></table>
-
----
-
-## [SELECT POETRY. BUILDING ON THE SAND.](http://trove.nla.gov.au/ndp/del/article/144779245)
-
-#### From _The Tumut and Adelong Times (NSW : 1864 - 1867; 1899 - 1950)_
-
-#### 1867-02-07 &middot; [Tumut, New South Wales](http://dbpedia.org/resource/Tumut)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-I Beyond the days of  
-youth \ For if you giro not heart for  
-heart, As well as hand for hand, You&#x27;ll  
-find you&#x27;ve played the unwise part, And  
-&#x27; built upon. the sand.&#x27;1 „? &#x27;Tis well  
-to save, &#x27;tis well to have -* A goodly  
-store of goldx : ,. And bold enough of  
-shining stuff, For charity is cold. ,  
-But place not all pour hope and trust ,  
-, In what the deep mine brtegs : We&#x27;  
-canrot live on yellow dust Unmixed with  
-purer things. .- And he who piles up  
-wealth alone : &#x27; Will often have- to  
-stand ? . , , ?. . Beside hU coffer  
-chest, and own . x &#x27;Tis &#x27;built upon tho  
-sand.&#x27; &#x27; &#x27; &#x27;Tis good to speak in kindly  
-guise, And soothe where&#x27;er we can ; ?  
-Fair speech should bind the human mind,,  
-And love link man to man. .- ? ? - Bufc-  
-stop not at the gentle words^ Let deeds  
-with language dwell ^ The ones who  
-pities starving birds Should scatter  
-crumbs as well. The mercy that is warm  
-and trueMust lend a helping hand, For  
-those that talk, yet fail to- dc-But u  
-build upon the sand.&#x27; * ? Eiiza Cook
-</td></tr></table>
-
----
-
-## [BUILDING ON THE SAND.](http://trove.nla.gov.au/ndp/del/article/20311779)
-
-#### From _The Queenslander (Brisbane, Qld. : 1866 - 1939)_
-
-#### 1867-02-09 &middot; [Brisbane, Queensland](http://dbpedia.org/resource/Brisbane)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- And morning brought the  
-sun. Bat have a care, ye young and fair,  
-Be sure you pledge with truth ; Be  
-certain that your love will wear, Beyond  
-the days of youth ! For if you give not  
-heart for heart, As well as hand for  
-hand. You&#x27;ll find you&#x27;ve played the  
-unwise part, And &quot; built upon the sand.&quot;  
-Tis well to save, &#x27;tis well to have A  
-goodly store of gold; And hold enough of  
-shining stnff, For charity is cold. But  
-place not all your hope and trust In  
-what the deep mine brings— We cannot  
-live on yellow dust Unmixed with purer  
-things. And he who piles up wealth alone  
-Will often have to stand Beside his  
-coffer chest, and own Tis &#x27;&#x27; built upon  
-the sand.&quot; Tis good to speak in kindly  
-guise, And soothe where&#x27;er we can ; Fair  
-speech should blind the human mind. And  
-lore link man to man. But stop not at  
-the gentle words, Let deeds with  
-language dwell; The one who pities  
-starving birds Should scatter crumbs as  
-well The mercy that is warm and true  
-Must lend a helping hand, For those that  
-talk, yet fail to do, But &quot; build upon  
-the sand.&quot; An Honest Tale speeds best
-</td></tr></table>
-
----
-
-## Poetry
-
-#### From _The Hawaiian gazette._
-
-#### 1867-03-27 &middot; [Honolulu [Oahu, Hawaii]](http://dbpedia.org/resource/Honolulu)
-
-[This text is not available under an open license.]
-
----
-
-## From _The Lancaster gazette._
+## [From _The Lancaster gazette._](https://www.loc.gov/resource/sn84024207/1867-03-28/ed-1/?sp=1)
 
 #### 1867-03-28 &middot; [Lancaster, Ohio](http://dbpedia.org/resource/Lancaster%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-he transportation  
   
-of merchandise, valued at  
-exceeding $300 and not e  
-  
-ceeding 8500 including har­  
-ness used therewith   
-  
-Carriages of like descrip  
-  
-tion valued at above $500  
-  
-Gold watches, composed  
-  
-wholly or in part of gold or  
-  
-gilt, kept for use, valued at  
-$100or less  
-  
-Gold watches, composed  
-  
-wholly or in part of gold or  
-gilt, kept for use, valued at  
-  
-above $100  
-Billiard tables kept for  
-  
-use, and not subject to spe-  
-  
-cial tax  
-  
-Oz. plate of gold, kept for  
-use, per ounce troy  
-Oz, plate of silver, kept  
-for use, per ounce troy, ex­  
-ceeding forty ounces, used  
-by one family.  
-  
-Building on the Sand.  
 Tis well to woo, &#x27;tis well to wed,  
 For so the world hath done,  
   
@@ -5163,97 +5520,74 @@ The mercy that is warm and true
 Must lend a belping hand,  
 For those who talk, yet fail to do,  
 But &quot;build upon the sand.&quot;
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84024207:00296028022:1867032801:0470/pct:61.613406,14.496113,9.723305,16.678031/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [Poetry, Original and selected. BUILDING ON THE SAND.](http://trove.nla.gov.au/ndp/del/article/159509873)
+## [From _The Pacific._](https://archive.org/details/per_the-pacific_the-pacific_1867-03-28_16_13/page/n3/mode/1up?view=theater)
 
-#### From _Adelaide Observer (SA : 1843 - 1904)_
-
-#### 1867-04-20 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
+#### 1867-03-28 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nd morning  
-brought the sun. But hare a care, ye  
-young and fair. Be sure you pledge with  
-truth; Be certain that your love will  
-wear, Beyond the days of youth! For if  
-you give not heart for heart; As well as  
-hand tor hand. You&#x27;ll find &gt; ou&#x27;ve  
-played.the unwise part, And &quot; built upon  
-he sand.&quot;&#x27; &#x27;&#x27;Tis well to save, &#x27;tis well  
-to have A goodly store of gold, Aud hold  
-enough ot shining stuff. For charity is  
-col I. But place not all your hope and  
-trust In what the deep mine brings; We  
-cannot live on yellow dust Unmixed with  
-purer things. And he who piles up wealth  
-alone Will often have to stand Beside  
-his coffer chest, and own &#x27;Tis &quot;built  
-upon the sand.&quot; &#x27;lis good to speak in  
-kindly guise. And soothe where&#x27;er we  
-can; Fair speech should hind the human  
-mind, Aud lore link man to man. But stop  
-not at the gentle words. Let deeds with  
-language dwell: The oue who pities  
-starving birds Should scatter crumbs as  
-welL The mercy that is warm and true  
-Must lend a helping hand, For those that  
-talk, yet f il to do, But &quot; build upon  
-the sand.
-</td></tr></table>
+*Tis well to woo, ’tis well to wed,  
+For so the world has done  
+  
+Since myrtles grew, and roses blew,  
+  
+~~ And morning brought the sun.  
+  
+‘But have a care, ye young and fair—  
+“Be sure ye pledge with truth;  
+. Be certain that your love will wear  
+Beyond the days of youth.  
+  
+‘For if ye give not heart for heart,  
+_. As well as hand and hand,  
+&quot; Fon&#x27;ll find you’ve played the unwise part,  
+  
+And “ built upon the sand.”  
+  
+|  
+  
+- *Tigs well to save, ’tis well to have  
+A goodly store of gold,  
+And hold enough of shining stuff,  
+For charity is cold.  
+  
+But place not all your hope and trust  
+In what the deep mine brings ;  
+  
+We can not live in yellow dust,  
+Unmixed with purer things.  
+  
+And he who piles up wealth alone,  
+‘Will often have to stand  
+Beside his coffer chest and own  
+*Tis “built upon the sand.”  
+  
+’ Tis good to speak in kindly guise,  
+And soothe where’er we can ;  
+  
+Fair speech shall bind the human mind,  
+And love li
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1867-03-28_16_13%2Fper_the-pacific_the-pacific_1867-03-28_16_13_jp2.zip%2Fper_the-pacific_the-pacific_1867-03-28_16_13_jp2%2Fper_the-pacific_the-pacific_1867-03-28_16_13_0003.jp2/pct:8.157497,9.279363,10.885427,16.485732/,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [BUILDING ON THE SAND.](http://trove.nla.gov.au/ndp/del/article/87952573)
-
-#### From _Bendigo Advertiser (Vic. : 1855 - 1918)_
-
-#### 1867-06-04 &middot; [Bendigo, Victoria](http://dbpedia.org/resource/Bendigo)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-w,  
-And morning brought thoaun. But havo a  
-care, jo young and fair, He sure you  
-pledge with truth; Bo certain that your  
-lovo will wear Beyond tho days of youth!  
-For if you givo not hoart for heart, As  
-well as hand for hand, You&#x27;ll find  
-you&#x27;ve played tho unvriso part, And &quot;  
-built upon tho sand.&quot; &#x27;Tis well to save,  
-&#x27;tis well to have A goodly store of  
-gold, And hold enough of shining stuff,  
-For charity is cold. But place not all  
-your hope and trust In what the deep  
-mine brings, We cannot live on yellow  
-dust Unmixed with purer things. And he  
-who pilos up wealth alono Will often  
-hare to stand Beside his coffer chest  
-and own &#x27;Tis &quot; built upon the sand.&quot;  
-&#x27;Tia good to speak in kindly guise, And  
-soothe where&#x27;er wo can; Fair speech  
-should bind the human mind, And love  
-link man to man. But stop not at the  
-gentlo words, Let dcods with language  
-dwell; Tho one who pities starving birds  
-Should scatter crumbs as well. Tho mercy  
-that is warm and true Must lend a  
-helping hand, For those who talk, yet  
-fail to do, But &quot;build upon the sand.
-</td></tr></table>
-
----
-
-## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1867-08-23/ed-1/seq-1)
+## [From _Bedford inquirer._](https://www.loc.gov/resource/sn83032006/1867-08-23/ed-1/?sp=1)
 
 #### 1867-08-23 &middot; [Bedford, Pa.](http://dbpedia.org/resource/Bedford%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 &#x27;Tis well to woo, *tis well to wed.  
 For so the world hath done  
 Since myrtles grew, and roses blew,  
@@ -5289,66 +5623,78 @@ Should scatter crumbs as well.
 The mercy that is warm and true  
 Must lend a helping hand,  
 For those who talk, yet fail to do,  
-But &quot;build upon the sand.
+But &quot;build upon the sand.&quot;  
+OLD TIMES.  
+There&#x27;s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028575%2F1867082301%2F0203.jp2/pct:16.700168,17.692861,11.524288,20.473107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028575:1867082301:0203/pct:16.130653,17.684398,12.093802,22.368922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Opelousas journal._](https://chroniclingamerica.loc.gov/lccn/sn86079077/1868-01-18/ed-1/seq-1)
+## [From _Shenandoah herald._](https://www.loc.gov/resource/sn85026941/1868-02-06/ed-1/?sp=1)
 
-#### 1868-01-18 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
+#### 1868-02-06 &middot; [Woodstock, Va.](http://dbpedia.org/resource/Woodstock%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-&#x27;tis well to woo, &#x27;tis well to wed.  
-For so the woHd has done  
-Since myrtles grew, and roses blew  
+.  
+BUILDING ON THE SAND.  
+’Tis well &lt;o woe—’tis well to wel—  
+For so the world hath done.  
+Since myrtles gray and roses blue,  
 And morning brought the sun.  
-But have a care, ye young and fair,  
-Be sure you pledge wkh truth •  
-Be certain that your Jove will weir  
-Beyond the days of youth Î  
-For if we give B0 t heart for heart.  
-v hand for hand,  
-°inÄ ^ U &#x27; Ve P la 7 ed tbe ««wise part,  
-And budt upon the sand.&quot;  
-&quot; ri ? weil to save. Tis well to have  
-A goodly store of gold,  
-And bold enough of shining stuff.  
-For cLarlty is cold.  
-ln P I a tw n ,°v. U1 j your ho &#x27; ,e and trus t  
-wl . £ e dce P rnine brings ;  
-Tie cannot live on yellow dust  
-* j/ ul &#x27; Tod P&#x27;rer thine».  
-And Vi® a P iles U P &quot;«»Ith alone,  
-Will often have to stand  
-Beside his coffer chest, and own  
-Tis &quot; built upon fee sand.&quot;  
-Tis good to speak in kindly guise,  
-And soothe where&#x27;er we can ;  
-îu?J ) ? ech f, h ? uld bind the human mind  
+But h ive a care, ye young and fair,  
+Be sure you wed with tr^h ;  
+Be certain that voting love will ware  
+Beyond the days of youth ;  
+• For if yon give not heart for h &#x27;art,  
+As well as hand for hand,  
+You’ll find vou’r played the unwise part,  
+And “build upon the sand.”  
+’Tis well to sure—&#x27;Tis well to h’.ve  
+A goodly share of gold,  
+And h ild enough of shining stuff,  
+For charity is* cold.  
+But place not all your hopes and trust  
+In what ihe deep mitu brings;  
+We can not live on yellow dust,  
+Unittix»d with purer t lings;  
+And he who piles up wealth alouc,  
+Will oiteti have to stand  
+Beside his chest and s ully ow.i,  
+’Tis ‘xnili upon the saud.”  
+’Tis good to speak in kin 11 y g;.|;e,  
+And soot lie where’re i on cm ;  
+Fair speech should blind ihi hum.m min i.  
 And love link man to man.  
-l&#x27;f/ &quot; ot « the gentle words,  
-Let deeds with language dwell ;  
-^ on ® who pities starving birds
+B it stay not at thy gentle words—  
+Let de. ds with language dwell;  
+The one who pities starving birds,  
+Should scatter crumb* as Well. *  
+The mercy that is waim and truo  
+Mm! l* nd a helping hand ;  
+For those who talk, yci fail to do.  
+Have ■•built upon ttm siii 1.”  
+Mountain of the Lovers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn86079077%2F00295876153%2F1868011801%2F0014.jp2/pct:2.914013,72.433241,11.640127,15.596225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348434:1868020601:0262/pct:35.509705,16.653299,11.958735,24.132745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1868-02-15/ed-1/seq-1)
+## [From _Shepherdstown register._](https://www.loc.gov/resource/sn84026824/1868-02-15/ed-1/?sp=1)
 
 #### 1868-02-15 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+BUILDING OX THE SAND.  
 &#x27;Tis well to woo ? &#x27;lis well to wed ?  
 For so the world hath done,  
 Since myrtles gray and roses blue,  
@@ -5384,205 +5730,119 @@ Should scatter crumbs as well.
 The ttemory that is warm and true  
 Must lend a helping hand ;  
 For those who talk, yet fail to do,  
-Have &quot;built upon the sand.&quot;
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767778%2F1868021501%2F0239.jp2/pct:31.017192,10.338066,11.962751,21.375930/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Central Presbyterian._](https://chroniclingamerica.loc.gov/lccn/sn89053987/1868-12-09/ed-1/seq-1)
-
-#### 1868-12-09 &middot; [Richmond, Va.](http://dbpedia.org/resource/Richmond%2C_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
+Have &quot;built upon the sand.&quot;  
   
-Tis well to woo, tis good to wed,  
-For so the world hath doue  
-Since myrtles grew, and roses blew,  
-And morning b»ought the sun.  
-But have a care, ye young and fair,  
-Be sure you pledge with truth ;  
-Be certain that your love will wear  
-Beyoud the days of youth !  
-For if ye give not heart for heart,  
-As well as band for hand,  
-You’ll find you&#x27;ve played the “unwise’ part,  
-And “built upou the sand.’’  
-’Tis well to save, tis well to have  
-A goodly store of gold,  
-And hold enough of shining stuff.  
-For charity is cold.  
-But place not all your hope and trust  
-% In what the deep mine brings;  
-We cannot live on yellow dust  
-Unmixed with purer things.  
-And he who piles up wealth alone.  
-Will often have to stand  
-Beside his coffer-chest, and own  
-’Tis “built upon the sand.&quot;  
-’Tis good to speak in kindly guise,  
-And soothe where’er we can;  
-Fair speech should bind the human mind;  
-And love 1 nk man to man.  
-But stay not at the gentle words,  
-Let deeds with language dwell;  
-The one who pities staning birds,  
-J-hould scatter crumbs as well.  
-The mercy that is warm and true  
-Must lend a helping hand.  
-For those who talk, yet fail to do,  
-But “build upon the sand.
+The Voice of lUe Dead.  
+1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_otters_ver02%2Fdata%2Fsn89053987%2F00414184406%2F1868120901%2F0163.jp2/pct:5.243872,14.351553,11.111111,18.714474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767778:1868021501:0239/pct:31.017192,9.421907,11.962751,23.803245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The western Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020712/1868-12-29/ed-1/seq-4)
-
-#### 1868-12-29 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-with truth;  
-Be certain tiiat yi.ur love will wear  
-BcyonJ the d::ys of youth !  
-for ifye iive not heart for heart,  
-As well as hand lor hand,  
-You&#x27;ll find you&#x27;ve played the &quot;unvrise&quot; part,  
-And &#x27;built upon the gaud.&quot;  
-&#x27;Tis well to save; &#x27;tis well to have  
-A goodly gtore of gold,  
-And hold enough of shining stuff,  
-For charity is cold.  
-But place not all your hope and trust  
-Iu what the dVep mine bring;  
-We cannot live on yellow dust  
-Unmixed with purer things.  
-And he who piles up wealth alone,  
-Will often have to stand  
-Beside hia coller-chest, and own  
-&quot;lis &quot;built upon the sand.&quot;  
-&#x27;Tis good to speak in kindly guise,  
-And soothe where&#x27;er we can:  
-  
-Fair speech should bind the human mind,  
-And love link man to man.  
-But stay not at the gentle words;  
-Lt deeds with language dwell;  
-The one who pities starving Liidp,  
-Should .scatter tt uii.L-s as well.  
-The U&#x27;erey th.t is warm and true  
-Alust hud a helping hand,  
-For those who taikTyet fail to do,  
-But &quot;&#x27;build upon the ?aud.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84020712%2F00295879208%2F1868122901%2F0614.jp2/pct:7.030707,12.859703,14.019730,17.655739/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1869-01-02/ed-1/seq-1)
-
-#### 1869-01-02 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-ruth ;  
-Hp ceitsin that your love will wear  
-Beyond the day# of youth !  
-For if you give not heart for herr&#x27;,  
-As well a* hand for (.and,  
-You&#x27;ll find you&#x27;ve piayed the &quot;unwise&quot;  
-part,  
-And &quot;built upon the sand.&quot;  
-&#x27;Tis well to save, &#x27;tis well to hard  
-A goodly store o| gold.  
-And hold enough of fining *tuff.  
-For charily is cuid.  
-But place not all y our hope and trust  
-In what the deep mine biings ;  
-We cannot live on yellow dust,  
-Unmixed with purer ihing?.  
-And t.e who pile* up wealth alone  
-Will often have to stand  
-Beside his collar rhest. and own  
-&#x27;Tis &quot;bui&#x27;t upon the sai d.&quot;  
-&#x27; i&#x27;is good to speak in kindly guise,  
-And soothe where&#x27;er we can ;  
-Fair speech should hind the human mind,  
-And love link m m to man.  
-B it siay not at the gentle woitl* ;  
-Let deed* wtih language dwell ;  
-The one who pities starving birds  
-Should scalier crumbs as well.  
-The merry that is warm and true  
-Mum lend a helping hand,  
-For those who talk, yet fail to do,  
-But &quot;build upon the sand.&quot;
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767778%2F1869010201%2F0423.jp2/pct:69.636422,13.337909,12.882624,18.750204/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _American citizen._](https://chroniclingamerica.loc.gov/lccn/sn83016739/1869-02-20/ed-1/seq-1)
+## [From _American citizen._](https://www.loc.gov/resource/sn83016739/1869-02-20/ed-1/?sp=1)
 
 #### 1869-02-20 &middot; [Canton, Miss.](http://dbpedia.org/resource/Canton%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Tib well to woo, &#x27;tis good to wed,  
-For so the world bath doue  
-Since myrtles grew, and roses blew.  
-And morning brought the sun.  
-But have a caie. ye young and fair.  
-Be sure yo pledge with truth ;  
-Be itertaiu that your love will wear  
-Beyond the days of youth !  
+BUILTING ON THE SAND.  
+Tis well to woo, &#x27;tis good to wed,  
+For so the world hath doue  
+Since myrtles grew, and roses blew,  
+And morning brought the sun,  
+But have a care, ye young and fair,  
+Be sure ye pledge with truth;  
+Be certain that your love will wear  
+Beyond the days of youth!  
 For if ye give not heart for heart,  
-As well ut liitnd for hand.  
-You&#x27;ll find you&#x27;ve played the &#x27;unwise&quot; part.  
-And &quot; built upou the sand.&quot;  
-&quot;lis well to save, &#x27;tis well to have  
+As well as hand for hand,  
+You&#x27;ll find you&#x27;ve played the &quot;unwise&quot; part,  
+And &quot;built upon the sand.&quot;  
+&#x27;Tis well to save, &#x27;tis well to have  
 A goodly store of gold,  
 And hold enough of shining stuff,  
-For charity is sold.  
-But place nut all your hope and trust  
-In what the deep mine brings,  
-We canuot live on yellow dust,  
-Unmixed with pur ttyngs.  
-And ie who piles up weaKL alone  
+For charity is sold,  
+But place not all your hope and trust  
+In what the dee p mine brings,  
+We cann ot live on yellow dust,  
+Unmixed with purer things,  
+And he whe piles up wealth alone  
 Will often have to stand  
-Beside his coffer chest, mid own  
-&#x27;Tis &quot; built upon the sand.&quot;  
-&#x27;Tls good to ppeak in kindly guise,  
+Beside his coffer chest, and own  
+&#x27;Tis &quot;built upon the sand.&quot;  
+&#x27;Tis good to speak in kindly guise,  
 And soothe where&#x27;er we can;  
-Fa-ir speech shuuM biud the hum in rcin3,  
+Fair speech should bind the human mind,  
 And love link man to man,  
 But stay not at the gentle words,  
 Let deeds with language dwell,  
-The oije who pities starving birds  
+The one who pities starving birds  
 Should scatter crumbs as well.  
-The meicy that is warm and true  
+The mercy that is warm and true  
 Must lend a helping hand,  
 For those who talk, yet fail to do,  
-But &quot; build upon the sand.
+But &quot;build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_icydrop_ver05%2Fdata%2Fsn83016739%2F00295877534%2F1869022001%2F0953.jp2/pct:39.687668,46.565934,9.513552,16.126374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016739:00295877534:1869022001:0953/pct:39.687668,45.865385,9.513552,16.826923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Idaho world._](https://chroniclingamerica.loc.gov/lccn/sn82015407/1869-05-06/ed-1/seq-1)
+## [From _The Newberry herald._](https://www.loc.gov/resource/sn84026909/1869-03-31/ed-1/?sp=4)
+
+#### 1869-03-31 &middot; [Newberry, S.C.](http://dbpedia.org/resource/Newberry%2C_South_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+Bullding on the Sand.  
+&quot;Ts well to woo, &#x27;tis good to wed,  
+For so the world hath done  
+Since myrtles grew, and roses blew,  
+And morning brought the sun.  
+But have a care, ye young and fair,  
+Be sure you pledge with truth;  
+Be cortain that your love will wear  
+the days of youth!  
+onreno heand for beart,  
+hand for hand,  
+Tou&#x27;ll find you&#x27;ve played the &quot;unwise&quot; part,  
+And &quot;built upon the sand&quot;.  
+&#x27;Tis well to save, &#x27;tis well to have  
+A goodly store of gold,  
+and beld cnough of shining atust.  
+charity is cold.  
+But place not all your hope and trust  
+&quot;In what the deep mine bringef  
+We cannot live on yellow dust,  
+Unmixed with purer things.  
+An be who plles up wealth alone  
+Will often have to stand  
+Beside his coffer chest and own,  
+&quot;Tis &quot;bullt upon the sand.&quot;  
+Tis good to speak in kindly gaise,  
+And soothe wher&#x27;er we can;  
+Fair speech should blind the human mind,  
+And love link man to man.  
+But stay not at the gentle words;  
+Let deeds with language dwell;  
+The one who pities starving birds  
+Should scatter crumbs as well.  
+is warm and true  
+Aust lend a helping hand,  
+For those who talk, yet fail to do,  
+Ant bans ap he
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237286996:1869033101:0366/pct:5.287881,4.352492,13.318123,17.653000/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Idaho world._](https://www.loc.gov/resource/sn82015407/1869-05-06/ed-1/?sp=1)
 
 #### 1869-05-06 &middot; [Idaho City, Idaho Territory](http://dbpedia.org/resource/Idaho_City%2C_Idaho)
 
@@ -5624,21 +5884,25 @@ Should scatter crumbs as well.
 The mercy that is warm and true  
 Must lend a helping hand.  
 For those w ho talk, yet fail to do,  
-But &quot;build upon the sand.
+But &quot;build upon the sand.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn82015407%2F0029586946A%2F1869050601%2F0459.jp2/pct:40.447154,14.496157,15.243902,17.068745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_dickens_ver01:data:sn82015407:0029586946A:1869050601:0459/pct:39.261518,14.496157,16.429539,18.381725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Valley Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024707/1869-05-06/ed-1/seq-4)
+## [From _The Valley Virginian._](https://www.loc.gov/resource/sn84024707/1869-05-06/ed-1/?sp=4)
 
 #### 1869-05-06 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
+Building: on the Sand.  
+’Tis well (o woo, ’tis well to wed,  
+For so the world liatli done  
+Since myrtles grew and roses blew,  
 And morning brought the sun.  
 But haTe a care ye young and fair,  
 Be sure you pledge the truth,  
@@ -5671,59 +5935,11 @@ Should scatter crumbs as well.
 The mercy that is warm and true  
 Must lend a helping hand,  
 For those who talk, but fail to do,  
-But “build upon the sand.”
+But “build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lippizaner_ver01%2Fdata%2Fsn84024707%2F00393348707%2F1869050601%2F0046.jp2/pct:6.362210,11.498439,10.741677,18.486602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1869050601:0046/pct:6.363319,9.002212,10.739191,20.983479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## From _The Fairfield herald._
-
-#### 1869-05-26 &middot; [Winnsboro, S.C.](http://dbpedia.org/resource/Winnsboro%2C_South_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-&#x27;Tis well to weo, &#x27;tis good to wed,  
-For so the world hath done  
-bince myrtles grew, and roses blew,  
-And morning brought the sun.  
-But have a care, ye young and fair,  
-Be sure you pledge with truth;  
-Be certain that your love will wear  
-Beyond the days of youth!  
-For if ye give not heart for heart,  
-As well as hand for hand.  
-You&#x27;ll find you&#x27;ve played the &quot;unwise&quot;  
-part,  
-And &quot;bul&#x27;t upon the sand.&quot;  
-&#x27;Tis well to save, &#x27;tis well to have  
-A goo lly store of gold,  
-And hold enough of shining stuff,  
-For charity is cold.  
-But place not all your hope and trust  
-In what the deep mine brings  
-We cannot live on yellow dust.  
-Unmixed with purer thinge.  
-And he who piles up wealth alone  
-Will often have to stand  
-Beside his coffer chest and own,  
-Tis &quot;built upon the sand.&quot;  
-Tis good to speak in kindly guise,  
-And soothe wher&#x27;er we can;  
-Fair speech should blind the human mind,  
-And love link man to man.  
-But stay not at the gentle word  
-Lot deeds with language dwell;  
-The one who pitles starving birds  
-Should scatter crumbs as well.  
-The merey that is warm and true  
-Must lend a helping hand,  
-For those who talk, yet fail to do,  
-But &quot;build upon the sard.
-</td></tr></table>
 
 ---
 
@@ -5733,6 +5949,10 @@ But &quot;build upon the sard.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
+  
+  
+BUILDING UPON THE SAND.  
   
 &quot;Tis wise to woo, ‘tis well to wed,  
 For so the world has done  
@@ -5786,21 +6006,27 @@ The mercy that is warm and true
 Must lend a helping hand ;  
   
 For those who talk, yet fail to do,  
-But * build upon the sand.”
+But * build upon the sand.”  
+  
+  
+  
+TH
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_saturday-evening-post_1869-06-05_2497&#0036;4/pct:9.742063,11.515317,15.238095,22.428884/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_saturday-evening-post_1869-06-05_2497%2Fsim_saturday-evening-post_1869-06-05_2497_jp2.zip%2Fsim_saturday-evening-post_1869-06-05_2497_jp2%2Fsim_saturday-evening-post_1869-06-05_2497_0004.jp2/pct:9.742063,10.393873,15.238095,25.177790/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _South Branch intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026826/1869-06-11/ed-1/seq-4)
+## [From _South Branch intelligencer._](https://www.loc.gov/resource/sn84026826/1869-06-11/ed-1/?sp=4)
 
 #### 1869-06-11 &middot; [Romney, Va. [W. Va.]](http://dbpedia.org/resource/Romney%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+?  
   
+BUILDING UPON THE SAND.  
 T wise to woo, ‘tis well to wed,  
 Fur so the world has done  
 Since myrtles grew ami roses blew,  
@@ -5839,19 +6065,21 @@ Must lend a helping hand :
 For tin se who talk, jet fail to do,  
 But “build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_laird_ver01%2Fdata%2Fsn84026826%2F00414187134%2F1869061101%2F0475.jp2/pct:31.335845,8.485804,12.037600,23.578689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187134:1869061101:0475/pct:31.339655,7.329898,12.035011,24.734462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The Lincoln County herald._
+## [From _The Lincoln County herald._](https://www.loc.gov/resource/sn90061771/1869-06-24/ed-1/?sp=1)
 
 #### 1869-06-24 &middot; [Troy, Lincoln County, Mo.](http://dbpedia.org/resource/Troy%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+.  
   
+BUILDING UPON THE SAND.  
 &quot;Tis wise to woo, &#x27;tis well to wed,  
 For so the world has done  
 Since myrtles grew and rosee blew,  
@@ -5887,98 +6115,24 @@ Should scatter crumbs as well.
 The merey that is warm and true  
 Must lend a helping hand  
 For those who talk, yet fail to do,  
-But &quot;build upon the sand.&quot;
-</td></tr></table>
+But &quot;build upon the sand.&quot;  
+  
+TH
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292790:1869062401:0743/pct:35.712702,10.138824,12.813123,24.863516/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _Ashtabula weekly telegraph._
-
-#### 1869-07-10 &middot; [Ashtabula, Ohio](http://dbpedia.org/resource/Ashtabula%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-, accompany all night fralns on thh  
-New York, thus chabling bals to the foor  
-upper portion of the city without the expense and and  
-noyance of a street car or omnibus transfer.  
- e enery along the entire route of the Erie  
-A  
-y iof the most picteresque and beautiful charac.  
-bjects of continual admiration and taiss tanscapes  
-Haggage Checked Through--and Fare always as low as  
-gany othar renta  
-Ask for Tickets Via Erie Railway.  
-the ohtained at all principal Ticket offices in west  
-or south-west.1  
-D. ReCkEN GEN, SuPT WN. R. BARr, DeN, TusAgT,  
-it  
-  
-W  
-of  
-of  
-hl  
-to  
-to  
-of  
-I  
-of  
-  
-  
-  
-Building on the Sand,  
-  
-T  aiI  
-Tis well to woo, &#x27;tis well to wed,  
-For so the world hath done  
-Since myrtles grew and roses blew,  
-And morning brought the sun.  
-But have a care, ye young and fair,  
-Be sure you pledge with trutht  
-Be certain that your love will wear  
-  
-Beyond the days of youth!  
-For if ye give not heart for heart,  
-As well as hand for hand,  
-You&#x27;ll find you&#x27;ve played the &quot;unwise&quot; part,  
-And &quot;built upon the sand.&quot;  
-I lotI rol beigsv, atnaga  
-t woll t sase tit sell to  
-in wt aestie to iave  
-A goodly store of gold   
-And hold enough of shining stuff.  
-For charity is cold,A Wat f  
-But place not all your hope and trust  
-In what the deep mine brings:  
-We can not live on yellow diist ar   
-Unmixed with purer things.  
-And he who piles up wealth alone, ,  
-Will often have to stand  
- Benide his soffer chest and owna  
-aTis &quot;built upon the sand. 2    
-Tis good to speak in kindly guise,ir  
-And soothe where&#x27;er we can;  
-Fair speech should bind the human mind,  
-And love link man to man. ?  
-But stay not at the gentle words,&quot;  
-Let deeds with language dwell;  
-The one who pities starving birds  
-Should scatter crumbs as well.  
-The mercy that is warm and true  
-Must lend a helping hand  
-For those who talk; yet fafl to do A110  
-But &quot;build upon the sand.&quot;
-</td></tr></table>
-
----
-
-## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1870-01-19/ed-1/seq-4)
+## [From _Alexandria gazette._](https://www.loc.gov/resource/sn85025007/1870-01-19/ed-1/?sp=4)
 
 #### 1870-01-19 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
+BUILDING UPON THE SAND.  
 &#x27;Tis wise to woo, &#x27;tis well to wed,  
 For so the world has done,  
 Since myrtles grow and roses blow,  
@@ -6001,71 +6155,25 @@ We cannot livu on yellow dust,
 Unmixed with purer things.  
   
 And ne who pnes up wonun siwhs,  
-W
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_ellis_ver01%2Fdata%2Fsn85025007%2F00415663651%2F1870011901%2F0066.jp2/pct:5.359262,8.145575,14.096595,11.083990/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## From _Memphis daily appeal._
-
-#### 1870-01-30 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- a   e ee  ee  a a ee i o a  
-  
-earin o e ae e o e o o ee  e o ee ee e ee e e e ee o e e o on ution te eca coae o  
-  
-  
-  
-  
-BU1.DiNG UPON THE SAND.  
-  
-Ts wise to woo &#x27;tis well to we  
-r80 the world has done,  
-Since myriles grew and roses blew  
-And morning brought the sun.  
-But have a care, ye young and fair!  
-Be sure you pledge w th truth;  
-Be certain that your love will wear  
-Beyond the days of youth.  
-For if you give not heart to heart  
-As well as hand for hand  
-You&#x27;ll find you&#x27;ve played the  
-And &quot;built upon the sand.&quot;  
-unwise part,&quot;  
-&#x27;Tis well  
-A good  
-And hol  
-or ch  
-to save,  
-tis well to have  
-f gold,  
-of sterling stuff  
-But place not all your hopes and trust  
-In what the deep mine brings;  
-e canno live on yeliow dust,  
-Unmixed with purer things.  
-And he who piles up wealth alone  
-Vill often have to stand  
-Beside his coffer-chest, and own  
-Tis &quot;bullt upon the sand.&quot;  
-&#x27;Tis good to speak in kindly gulse,  
-And soothe when&#x27;er we can;  
-For speech should bind the numan mind,  
-And love link man to man.  
-But stay not at the gentle words,  
-Let deeds with language dwed;  
+Will often Lave to stand  
+Beside his co O&#x27;er-chest, arid own  
+&quot;Tis &#x27;built upon the sand.&#x27;  
+&#x27;Tia good to speak in kindly guise,  
+And soothe whon&#x27;er we can;  
+For speech should bind the human mind,  
+Ana love link man to man.  
+But stay not at the gentlo words,  
+Let deeds with languago dwell;  
 The one who pities starving birds  
 Should scatter crumbs as well.  
-The mercy that is warm and true  
-Must lend a helping hand;  
-For those who taik, yet fail to do,  
-But &quot;bulld upon the sand.
-</td></tr></table>
+The mercy that is warm and truo  
+Must lend a helping hand ;  
+For those who talk, yot tail to u&lt;&gt;,  
+But &#x27;build upon the sand
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663651:1870011901:0066/pct:5.354697,7.247465,14.092030,18.775817/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6079,31 +6187,13 @@ But &quot;bulld upon the sand.
 
 ---
 
-## From _Bristol news._
+## [From _Bristol news._](https://www.loc.gov/resource/sn85026955/1871-08-25/ed-1/?sp=1)
 
 #### 1871-08-25 &middot; [Bristol, Va. & Tenn.](http://dbpedia.org/resource/Bristol%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-yes did sink.  
-Her eyes did sink, yet spake she clear,  
-Marking my goblet&#x27;s narrow rim,  
-&quot;Whatever vessel cometh here,  
-Love can but fill it to the brim.  
-&quot;It is a law thou must not doubt,  
-Man&#x27;s love&#x27;s the vessel held below.  
-We pour our hearts like water out,  
-And fill it to the overlow.  
-&quot;And be thy vessel great or small,  
-So great or small the draught must be  
-So, too, thy life, for love is all,  
-The first, the last, of destiny-  
-&quot;He liveth long who loveth much,  
-For love is life&#x27;s true measurement;  
-Who liveth not by love--to such  
-Life is but thirst and discontent.&quot;  
-eUHDING UPOR THE SAND.  
-BY ELIzA COCK.  
+  
 Tis well to woo, &#x27;tis well to wed,  
 For so the world has done  
 Since myrtles grew, and roses blew,  
@@ -6120,11 +6210,14 @@ And &quot;built upon the sand.&quot;
 A goodly store of goldt  
 And hold enough of shining stuff,  
 For charity is cold
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1871082501:0641/pct:3.347156,29.318681,10.633886,9.934066/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1872-08-06/ed-1/seq-1)
+## [From _Staunton spectator._](https://www.loc.gov/resource/sn84024718/1872-08-06/ed-1/?sp=1)
 
 #### 1872-08-06 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
@@ -6142,169 +6235,117 @@ Beyond the days of youth.
 For if ye give not heart to heart,  
 As well as hand for hand,  
 Y&quot;ou&#x27;ll find you&#x27;ve played the &#x27;unwise&#x27; part,  
-And built upon the sand.&quot;
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762490%2F1872080601%2F0319.jp2/pct:58.628961,22.578769,11.092875,5.021813/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Delaware Republican._](https://chroniclingamerica.loc.gov/lccn/sn87062253/1873-05-01/ed-1/seq-2)
-
-#### 1873-05-01 &middot; [Wilmington, Del.](http://dbpedia.org/resource/Wilmington%2C_Delaware)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
+And built upon the sand.&quot;  
   
-lie t»uie 3« plcdgj with truth;  
-Be certaiu that your love will wear  
-Beyond the deys of youth.  
-For If ye give uot heart to heart.  
-Ai well as hand for hand,  
-11 Und you&#x27;ve played the unwise part,  
-And •&#x27;hnilt upon the sand.&quot;  
-*T.s welt to save lis well to have  
-A goodly stun* of gold.  
-And hold enough of shining stuff,  
-For charity is cold.  
-But place not all your hopes and trust,  
-In what the deep mine brings;  
-We cannot live on yellow dust,  
-Unuiixed with purer things.  
-Aud lie who piles up wealth alone  
-Will often have to stand,  
-Beside Ids colfcr-chesi and  
-*Tis—&quot;built upon the sand.&quot;  
-TIs good to speak in kindly guise,  
-Aud soothe whale &#x27;er we tan;  
-For speech should hind the human miiiJ,  
-And love link  
-But stay not at the gentle words;  
-Let deeds with language dwell;  
-The one who pities slarviug birds  
-Should scatter crumbs as well.  
-The mercy that is warm aud true  
-Must l«ud a helping hand;  
-For those alio talk, yet fail to do,  
-But &quot;build upon the sand.
+EDITORIAL EXCURSION.  
+WATERTOWN.  
+As w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_descendo_ver01%2Fdata%2Fsn87062253%2F00271765186%2F1873050101%2F0148.jp2/pct:7.637763,8.835616,9.704214,14.280822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762490:1872080601:0319/pct:58.187098,22.578769,11.526322,7.329132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1874-02-12/ed-1/seq-4)
+## [From _West-Carolina record._](https://newspapers.digitalnc.org/lccn/sn84026453/1873-05-03/ed-1/seq-1/)
 
-#### 1874-02-12 &middot; [Ellsworth, Me.](http://dbpedia.org/resource/Ellsworth%2C_Maine)
+#### 1873-05-03 &middot; [Rutherfordton, N.C.](http://dbpedia.org/resource/Rutherfordton%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-th:  
-Be cert air. that your love will wear  
-Beyond the days of youth!  
-For ii ye give not heart for heart,  
-A- well as hand for hand.  
-^ &quot;U*ll find you’ve played the uuwije part.  
-And “built ui&gt;ou the sand.”  
-*Ti- well to save, *tis well to have  
-A goodly store of ff&gt;ld.  
-And hold enough of shining atuff.  
+e S an d .&#x27;  
+&#x27;Tis well to woo, &#x27;tis well to &quot;wed,  
+For so the; world have done  
+Since myrtles grow,&#x27; zuid roses blow,  
+And morning brought the sun.  
+But have a care,&#x27; ye young , and &#x27;fair,­  
+Be sure ye pledge vith truth;  
+Be cer tain that your love will wear  
+Beyorid the .days of youth. . x  
+For, it you give not heart to hearfv- ;  
+As well as hand for hanil,  
+Ypu&#x27;Jl find yu&#x27;v played the 4 tm-.  
+;.;;wjse-s; partj ; -5  
+And &quot;built upon the sand.&quot; 1 &quot; &#x27;  
+&#x27;Tis well to save, &#x27;tis well to have  
+A goodly share of gold,&quot;  
+And hold enough shining stuff,.  
 For charity is cold.  
-lint place not all your hoj&gt;c and trust  
-In what the deep min** brings.  
-We cannot live on yellow dust  
-I&#x27;liinixed with purer things.  
-And h*- who pile* up wealth alone  
-( Will offen have to stand  
-Bestd** his coffer cheat and own  
-*Tis “built upon the sand.”  
-’Tis good to apeak in kindly guise.  
-And soothe where’er we can :  
-Fair speech can bind the humau mind,  
-And love liuk man to man.  
-But atop not at the gentle word-.  
-Let deeds with language dwell;  
-Thai one who pities starving birds  
-Should scalier crumbs as well.  
-The mercy that i» warm and true  
-Must leud a h«-1 ping hand.  
+But place not all your hopes and trust  
+In what the deep mine brings;  
+We cannot, live on yellow, dust, .  
+Unmixel with purer things.  
+And he who piles up wealth alone  
+Will often have to stand&quot; :&#x27; &#x27;  
+Beside his coffer chest and own  
+. &#x27;Tis&#x27;4 built uponjthe sanoV  
+&#x27;Tis good to speak irihdly guise,  
+And soothe whate er we can .  
+For speech should bind the human  
+mind, . :  
+And love link inan to man.  
+But stay not at the gentle words­  
+Let deeds with language dwell ;  
+The 6ne who pities starving birds  
+Shoultf scatter crumbs ts well  
+The mercy that is warm and true  
+Must lend a helping hand ; .  
 For those who talk, yet fail to do,  
-But “build upon the sand.
+But build upon the sand.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895394%2F1874021201%2F0239.jp2/pct:4.323473,10.545314,10.069141,11.463839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RuthSWCR1n_ver01%2Fdata%2F1873050301%2F0053.jp2/pct:83.032070,31.496626,20.058309,39.358004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1875-10-25/ed-1/seq-1)
+## [From _The North Carolinian._](https://newspapers.digitalnc.org/lccn/sn84026480/1873-05-07/ed-1/seq-1/)
 
-#### 1875-10-25 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
+#### 1873-05-07 &middot; [Elizabeth City, N.C.](http://dbpedia.org/resource/Elizabeth_City%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nts, Oils, Dye Stuffs, Spices, Green and  
-Black Tea, &amp;c., Ac.  
-June 9. 1873-  
-Aladdin Security Oil,  
-Cutler&#x27;s Patent Pocket Inhaler, .  
-Hoytt&#x27;s German Cologne, &#x27;  
-Pure White Lead and Linseed Oil,  
-Bull&#x27;s celebrated Cough Syrup,  
-25.000 Cigars, for sale by  
-Sept. 6. 1875. W. R. BCRWELL &amp; CO.  
-Pistols! Pistols!!  
-The largest stock ever brought to Charlotte. All  
-prices from $1 to $30. Call and examine them.  
-WALTER BREM &amp; MARTIN,  
-Oct. 4, 1875. Central Hotel Building.  
-Toilet Setts,  
-Just received a new stock, at  
-WALTER BREM &amp; MARTIN&#x27;S  
-Hardware Store, Central Hotel Building.  
-Oct. 4, 1875.  
+? Sand.  
   
-Building on the Sand.  
-Tis well to woo, &#x27;tis well to wed, .  
-For so the world hath done  
-Since myrtles grew, and roses blew,  
-And morning brought the Run.  
-But have a care, ye young and fair,  
-Be sure yon pledge with truth ;  
+Tis well to woo, &#x27;tis well to wed,  
+For so the world have done  
+Since niyrtie grew, and rose blew,  
+A ad morninz brot:ght the ran. :  
+But ave a care, ye yoanji and fair.  
+! Ue sure ye pledge with truth  
 Be certain that your love will wear  
-Beyond the days of youth !  
-For if ye givenot heart for heart,  
+Beyond the days of youth.  
+For if yo:i give not heart to heart. :  
 As well as hand for hand,  
-You&#x27;ll find you&#x27;ve played the unwise part,  
-And &quot;built upon the sand.&quot;  
-Tis well to save, &#x27;tis well to have  
-A goodly store of gold,  
-And hold enough of shining stuff,  
-For charity is cold.  
-But place not all your hope and trust  
-In what the deep mine brings;  
-We cannot live on yellow dust  
+You&#x27;ll find you&#x27;ve played the &quot;unwise&quot; part,  
+And &quot;built upon the sand. &#x27; &#x27; ,  
+Tis well to save &#x27;tis well to have  
+A Eoodly share of cold.  
+Anrt hold enough of shining staff) &#x27;  
+&#x27; e or chairity is cold.  
+JlsI place not all your hopes and trust  
+ijji what the deep mine brings ; &#x27;  
+e cannot live on yellow dust,  
 Unmixed with purer things.  
-And he who piles up wealth alone&#x27;  
-Will often have to stand  
-Beside his coffer chest, and own  
-&quot;lis &quot;built upon the sand.&quot;  
-&#x27;Tis good to speak in kindly guise  
-And soothe where&#x27;er we can ;  
-Fair speech should bind the human mind,  
-And love link man to man,  
-But stop not at the gentle words;  
-Let deeds with language dwell; :  
-The OLe who pities starving birds,  
-Should scatter crumbs as well.  
-Thtf mercy that is warm and true  
-Must lend a helping hand,  
-For those that talk, yet fail to do,  
-But &quot;build upou .the sand.
+And h who piles up wealth alone  
+V ill often have&#x27;to stand  
+Beside a is coffer chest and own  
+&#x27;Tis i&quot;built upon the sand.&quot; .  
+&#x27;Tis gooi to speak in kindly guue,  
+And soothe whate er we can  
+For speech should blind the human mind,  
+And lave link man to man.  
+But stay not at the gentle words  
+Let deeds with language dwell :  
+The one who pities starving birds .  
+should scatter crumbs as well.  
+I The merey that is warm and true j  
+Must lend a helping band ;  
+For those who talk, yet fail to do,  
+But &#x27;luudupon the sand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022998%2F1875102501%2F0176.jp2/pct:17.580493,14.688046,29.691499,79.206496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NoCarEC2n_ver01%2Fdata%2F1873050701%2F0073.jp2/pct:63.982823,20.513866,14.465915,21.757749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6318,7 +6359,7 @@ But &quot;build upou .the sand.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ Tis well to  
 woo, &#x27;tis good to wed, For so the world  
 has done Since myrtles grew, and roses  
 blew, And tnorniiig brought the sun. But  
@@ -6341,523 +6382,8 @@ chest and own &#x27;Tis &#x27; built, upon the
 sand.&#x27; *Tis c ood to speak in kindly  
 guise. And sootbe where&#x27;er we can ; Fair  
 speech should uiud the humau mind, And  
-love link mau to man. But stay not at  
-the gentle words ; Let deeds wirti  
-language dwell ; The one who pities  
-starving birds Should scatter crumbs as  
-well. The mercy that is warm and true  
-Must Jend a helping hand; For those wbo  
-talk, jet fail to do, Just &#x27; build upon  
-the sand.
+love link mau to man.
 </td></tr></table>
-
----
-
-## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://archive.org/details/sim_london-reader-of-literature-science-art-and-general_1875-10-30_25_652/page/n3/mode/1up?view=theater)
-
-#### 1875-10-30 &middot; [London, England](http://dbpedia.org/resource/London)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-&#x27;T18 well to woo, &quot;tis well to wed,  
-For so the world hath done  
-  
-Since myrtles grew, and roses blew,  
-And morning brouzht the sun.  
-  
-But have a care, ye young and fair,  
-Be sure you pledge with truth ;  
-  
-Be certain that your love will wear  
-Beyond the days of youth!  
-  
-For if ye give not heart for heart,  
-As well as hand for hand,  
-  
-You&#x27;ll find you’ve played the unwise part,  
-And “ built upon the sand.”  
-  
-&#x27;Tia well to save, ’tis well to have  
-A goodly store of gold.  
-  
-And hold enough of shining stuff,  
-For charity is cold,  
-  
-But place not all your hope and trust  
-In what the deep mine brings ;  
-  
-We cannot live on yellow dust  
-Unmixed with purer things,  
-  
-And he who piles up wealth alone  
-Will often have to stand  
-  
-Beside his coffer chest, and own  
-’Tis “ built upon the sand.’’  
-  
-&#x27;Tis good to speak in kindly guise  
-And soothe where’er we can;  
-  
-Fair speech should bind the human mind,  
-And love link man to man.  
-  
-But stop not at the gentle words;  
-Let deeds with language dwell ;  
-  
-The one who pities starving birds,  
-Should scatter crumbs as well.  
-  
-The mercy that is warm and true  
-Must lend a helping hand,  
-  
-For these that talk, yet fail to do,  
-But “ build upon the sand.”’ E. C
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_london-reader-of-literature-science-art-and-general_1875-10-30_25_652&#0036;3/pct:36.742424,32.508834,23.200758,30.145760/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## From _The home journal._
-
-#### 1875-11-18 &middot; [Winchester, Tenn.](http://dbpedia.org/resource/Winchester%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-&#x27;Tis well to woo, &#x27;tis well to wed,  
-For so the world hath done  
-Since myrtles grew, and roses blew,  
-And morning brought the sun­  
-But have a care, ye young and fair,  
-Be sure you pledge with truth;  
-Be certain that your love will wear  
-Beyond the days of youth!  
-For if ye give not heart for heart,  
-As well as hand for hand,  
-You&#x27;ll find you&#x27;ve played the unwise part,  
-And &quot;bullt upon the sand.&quot;  
-&quot;Tis well to save, &#x27;tis well to have  
-A goodly store of gold,  
-And hold enough of shining stufl,  
-For charity is cold.  
-But place not all your hope and trust  
-In what the deep mine brings;  
-We cannot live on yellow dust  
-Unmixed with purer things,  
-And he who piles up wealth alen?  
-Will often have to stand  
-Beside his coffer chest, and own  
-&quot;Tis &quot;built upon the sand.&quot;  
-&#x27;Tis good to speak in friendly guise  
-nd soothe where&#x27;er we can;  
-Fair speech should bind the human mind,  
-nd love link man to n  
-But stop not at the gentle words;  
-et deeds with language dwell;  
-The one who pities starving birds,  
-Should scatter crumbs as well.  
-The mercy that is warm and true  
-Must lend a helping hand,  
-For those that talk, yet fail to do,  
-But &quot;build upon the sand.
-</td></tr></table>
-
----
-
-## [From _The herald and mail._](https://chroniclingamerica.loc.gov/lccn/sn86053406/1875-11-19/ed-1/seq-1)
-
-#### 1875-11-19 &middot; [Columbia, Tenn.](http://dbpedia.org/resource/Columbia%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Ee certain that your love will wear  
-Beyond the diiy yovO, 1  
-Fit if ye not heart lor heart,  
-As well as baud for hand.  
-You&#x27;ll find you&#x27;v plnyed the unwise part,  
-And &quot; built upon the sand. &quot;  
-lTis wpU. to alvt, &#x27;tis well to have  
-A ft&#x27;Xiily store of g M,  
-And hold enough of shining stuff,  
-For charity is (xdd.  
-But place not all your hope and trust  
-In what the deep niina brlngn ;  
-We cannot live nn yellow dust  
-Vritatixeu with purer things, --And  
-he who piles up wealth aioue  
-Will often have to stand  
-Beside his coffer chest, and own  
-Tia &quot; built upon the sand. &quot;  
-Tis good to Epeak friendly guise  
-A iid soothe where&#x27;er we can ;  
-Fair speech should bind the human mind,  
-And love link man to man.  
-But stop not at the gentle words;  
-Let de&quot;ds with language dwell ;  
-The one who pities starving birds,  
-Should scaiter crumbs a&quot; well.  
-Tae mercy that is warm and trite  
-Must fend a helping hand,  
-For those that talk, Vet fail to dj,  
-Eit build tion the sand.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jimmy_ver02%2Fdata%2Fsn86053406%2F00296020709%2F1875111901%2F0653.jp2/pct:36.377165,14.358239,8.076299,9.656771/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1875-11-26/ed-1/seq-1)
-
-#### 1875-11-26 &middot; [Deer Lodge, Mont.](http://dbpedia.org/resource/Deer_Lodge%2C_Montana)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-*Tis well to woo, &#x27;tis well to wed,  
-For so the world hath done  
-Since mytLs grew and roses blew,  
-Be sure ye pledge with truth:  
-Be certain that your love will wear  
-Bevord the days of youth!  
-For it you give not heart for heart,  
-As well as hand for hand.  
-You&#x27;ll find you&#x27;ve played the unwise part.  
-And &quot; built upon the sand.&quot;  
-&#x27;Tis well to save, &#x27;tis well to have  
-A goodly store of gold,  
-And hold enough of shining stuff,  
-For charity is cold.  
-But place not all your hope and trust  
-In what thu deep mine brings;  
-We cannot live on yellow dust  
-Unmixed with purer things;  
-And he who piles up wealth alone.  
-Will often have to stand  
-Beside his coffer chest, and own  
-Ile &quot; built upon the sand.&quot;  
-&#x27;Tis good to speak in kindly guise  
-And soothe where&#x27;er we can ;  
-Fair speech should bind the human mind.  
-And love link man to man.  
-But stop not at the gentle words.  
-Let deeds with language dwell:  
-The one who pities starving birds  
-Should scatter crumbs as well;  
-The mercy that is warm and true  
-Must lend a helping baud,  
-For those that talk, yet fail to do.  
-Bat &quot; build upon the sand.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_lynx_ver01%2Fdata%2Fsn84038125%2F00294554841%2F1875112601%2F0416.jp2/pct:15.380117,21.172353,8.801170,15.365267/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## From _Sunbury American._
-
-#### 1875-12-03 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-&#x27;Tis well to woo, &#x27;tis well to wed,  
-For so the world hath done  
-Since myrtles grew and roses blew  
-And morning brought the sun.  
-But have a care, ye young and fair,  
-Be sure ye pledge with truth;  
-Be certain that your love will wear  
-Beyond the days of youth!;  
-For if you give not lreart to heart,  
-As well as hand for hand!  
-You&#x27;ll find youive played the unwise part.  
-And &quot;build upon the sand.&quot;  
-Tis well to save, &#x27;tis well to have  
- goodly store of gold,  
-And hold enpught of shining stuff,  
-For charity is cold.  
-But place not all your hope and trust  
-In what the deep mine brings;  
-We cannot live on yellow duct  
-Unmixed with purer things;­  
-And he who piles up wealth alone   
-Will often have to stand  
-Beside lris coffer chest, and own  
-Tis built upon the sand.   
-  
-&#x27;Tis good to speak in kindly gui  
- And soothe where&#x27;er we can;  
-Fair speech should bind the hun  
- And love link man to man  
-  a o  eo e  
-luman mind,  
-But stop not at the gentle words;  
-Sent BY eApresS
-</td></tr></table>
-
----
-
-## From _Vermont watchman and State journal._
-
-#### 1875-12-08 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-&#x27;Tis well to woo, tis well to wed,  
-For so the world hath done  
-Since myrtles grew, and roses blew,  
-And morning brought the sun.  
-But have s care, ye young and fair,  
-He sure you piedge the truth;  
-Be certain that your love will  
-Beyond the days of youth!  
-For if ye give not heart for heart,  
-s well as hand for hand  
-You&#x27;ll find you&#x27;ve played the unwise part,  
-And &quot;built upon the sand.&quot;  
-&#x27;Tis well to save, &#x27;tis well to hav  
-A goodly store of gold­  
-And hold enough of shining stuff,  
-For charity is cold.  
-But place not all your hope and trust  
-In what the deep mine brings;  
-We cannot live on yellow dust  
-Unmixed with purer things  
-And he who piles up wealth alone,  
-Will often have to stand  
-Beside his coffer chest, and own  
-&#x27;Tis &quot;built upon the sand.&quot;  
-Yis good to speak in kindly guise,  
-And soothe where&#x27;er we can;  
-Fair speech should bind the human mind,  
-And love link man to man.  
-But stop not at the gentle words;  
-Let deeds with language dwell  
-The one who pities starving birds  
-Should scatter crumbs as well.  
-The mercy that is warm and true  
-Must lend a helping hand,  
-For those that talk, yet fall to do,  
-But &quot;build upon the sand.
-</td></tr></table>
-
----
-
-## [From _Bozeman avant courier._](https://chroniclingamerica.loc.gov/lccn/sn84038123/1875-12-10/ed-1/seq-4)
-
-#### 1875-12-10 &middot; [Bozeman, Mont.](http://dbpedia.org/resource/Bozeman%2C_Montana)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Ti« well to woo, &#x27;tls well to web,  
-For so the world bath done  
-Vince loyrUea ST™», and rmes blew.  
-And tlie morning brought the auo.  
-But bore o care, ye young and fair,  
-Be sure you pledge wiMe-truth;  
-Be certain that love will wear  
-Beyond the days of youth !  
-For if ye give not heart for heart.  
-As well as band for band,  
-tou&#x27;ll fiud you&#x27;ve played the un­  
-wise part.  
-And &#x27;built upon the sand.*  
-Tig well to save, &#x27;tls well to bate,  
-A&#x27; goodly store of gold,  
-Aud hold enough of shining stuff,  
-For charity wcoftl.  
-But place not all Tour hope and trust  
-In what the deep mine brings,  
-We cannot live on yellow dust  
-Unmixed with purer things.  
-And be who plies up wealth alone  
-Will often havotostsnd  
-Beside his coffer ch&lt; st, and own  
-Tls &#x27;built upon the sand,*  
-*Tis good to speak la friendly gules  
-And soothe where&#x27;er we can;  
-Fair sptocb should bind the hnman  
-mind,  
-And love link man to man.  
-Bat stop not at the gentle words;  
-Let deeds with langage dwell;  
-The one who pities starving birds,  
-Should scatter crumbs as well.  
-Tue mercy that Is warm and true  
-Must lend a helping hand,  
-For those that talk, yet fail to do,  
-But &#x27;build upon the send.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_fox_ver01%2Fdata%2Fsn84038123%2F00295860649%2F1875121001%2F0397.jp2/pct:6.331380,8.728151,12.532552,22.746090/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The state journal._](https://chroniclingamerica.loc.gov/lccn/sn87052128/1875-12-17/ed-1/seq-6)
-
-#### 1875-12-17 &middot; [Jefferson City, Mo.](http://dbpedia.org/resource/Jefferson_City%2C_Missouri)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-&#x27;Tis well to woo, &#x27;tis well W wed, : 1  
-For so the world hath done &#x27; &#x27; &#x27;  
-Since myrtles grew, and rosea blew,  
-And morning brought Iho sun.  
-But have a care, ye young and fair,  
-Be sure .you pledge with truth ; &#x27;.  
-Be certain that your love will wear  
-Beyond the days of youth 1  
-For if ye give not heart for heart, 1  
-As well as hand for hand, &quot;  
-You&#x27;ll find you&#x27;ve played the unwise part,  
-And &quot;built upon tho sand.&quot;  
-&#x27;TIs well to save, &#x27;tis well to have,  
-A goodly store of gold,  
-And hold enough of shiulng stuff,  
-For charity Is cold.  
-But place not all your hope and trust  
-In what the deep mine brings,  
-Wo cannot live on yellow dust  
-Unmixed with purer things,  
-And he who piles up wealth alone,  
-Will often have to stand,  
-Beside his coffer chest and own,  
-&#x27;Tis &quot;built upon the sand.&quot;  
-&#x27;tis good to speak in kindly guise,  
-And soothe where&#x27;er we can,  
-Fair speech should bind tho human mind,  
-And love link man to man.  
-But stop not at the gentle words ;  
-Let deeds with language dwell,  
-The one who pities starving birds.  
-Should scatter crums as well.  
-The mercy that Is warm and truo  
-Must lend a helping hand,  
-For those that talk, yet fail to do,  
-But &quot;bui.d upon the sand.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_felice_ver01%2Fdata%2Fsn87052128%2F00200292170%2F1875121701%2F0967.jp2/pct:41.582945,8.174152,14.824798,23.558768/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The weekly clarion._](https://chroniclingamerica.loc.gov/lccn/sn83016926/1875-12-22/ed-1/seq-1)
-
-#### 1875-12-22 &middot; [Jackson, Miss.](http://dbpedia.org/resource/Jackson%2C_Mississippi)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-eei for vifit  
-they are. t begins tp. be seen the poor  
-. &#x27; i. tKwhn feel ooor, and poterty  
-l(UII A-J : nM . L -  
-ciwisU ia feelicg poor. Ihe rich, as wo  
-rccl-qn theni, and among thein thevery  
-rich, tn a iruescaie ww -:v  
-indigent and ragLLmersoo,  
-Rnxineand eomcton clay will clean  
-marble,  
-  
-I ACKSON MISSISSIPPI, WEDNESDAY, DECEMBER 22, 1875.  
-  
-BUILDIXG OX THE SAND.  
-Tin well to woo. Us well to wed.  
-For so the world hath done  
-Since myrtles grew, and roses blew,  
-And morln brousht the sun.  
-But have a care, je young and fair,  
-! lie sure you pledsre with truth ;  
-j Be certain that your love t wear  
-&quot; - &quot; J&quot;  
-For if ye give not heart for heart.  
-As weH ax hand (or band.  
-You&#x27;ll find that jou&quot;v played the  
-unwise  
-part.  
-And &#x27;-built opon the sand.&quot; &quot;  
-Tis well to Pave, &#x27;tis well to have,  
-A goodiy store of gold, &#x27;  
-A ud hold enough of shining stuff, ,  
-For charity is cold.&#x27; &#x27;  
-But place not all your hoi and trut  
-In what the rtep mine brings;  
-We cannot live on yellow dust  
-Unmixed with purer thing.  
-And he who piles up wealth alone,  
-Will often have to Maud,  
-Bt-si.le Ins eofl&#x27;er c-Uest and own, ,  
-Tis &#x27;built upon the sand.&#x27;  
-&#x27;Tis good to speak in kindly guise,  
-And soothe where&#x27;er we can;  
-Fair speech should bind the huinad miad,  
-And love link-man to man. 5  
-But stop not at tho gentle words ;  
-Lets deeds with languish dwell ;  
-The one who pities starving birds.  
-Should scatter crumbs a well.  
-The mercy that is warm and taue,  
-Must lend a helping hand, ;  
-For those that talk, yet f.il to do,  
-Iut &#x27;&#x27;build upon the sand.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016926%2F00295877492%2F1875122201%2F0061.jp2/pct:25.274725,7.872065,40.714286,88.132673/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1876-01-06/ed-1/seq-4)
-
-#### 1876-01-06 &middot; [Anderson Court House, S.C.](http://dbpedia.org/resource/Anderson%2C_South_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-edge with truth;  
-Be certain that your love will wear  
-Beyond the days of youth!  
-For if you give not heart for heart,  
-As well as hand for hand,  
-You&#x27;ll lind you&#x27;ve played the unwiso part  
-And &quot;built upon tho sand.&quot;  
-&#x27;Tis well to save, &#x27;tis well to havo  
-A goodly storo of gold,  
-And hold enough of shining stuff,  
-For charity is cold.  
-But place not all your hope and trust  
-In what tho deep mine brings;  
-We cannot live on yellow dust  
-Unmixed with purer things,  
-And he who piles up wealth alone,  
-Will often have to stand  
-Beside his coffer cbest and own,  
-&#x27;Tis &quot;built upon the sand.&quot;  
-&#x27;Tis good to speak in kindly guise,  
-And soothe where&#x27;er we can;  
-Fair speech should bind the human mind,  
-Ana love link man to man, *  
-But stop not at the gentle words;  
-Let deeds with language dwell;  
-The one who pities starving birds,  
-Should scatter crumbs as well.  
-The mercy that is warm and true,  
-Must lend a helping hand,  
-For those that talk, yet fail to do,  
-But &quot;build upon the sand.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551293%2F1876010601%2F0040.jp2/pct:1.977648,18.250330,12.254616,13.596583/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
@@ -6869,7 +6395,7 @@ But &quot;build upon the sand.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+SELECT POETBY. &#x27; — V&#x27; ? . &#x27; &#x27;BUILDING ON  
 THE SAND. &#x27;Tis well to woo, &#x27;tis good to  
 wed, i For so the world has done, &#x27; i  
 ?Since myrtles grew and roses blew, i  
@@ -6902,76 +6428,17 @@ with.language dwell ^ , lEho one who
 pities starving birds, , 1 : Slioukl  
 scatter -crumbs as well. ? ^I&#x27;lie mercy  
 that as v, &#x27;arm imd true, Miist &#x27;lend a  
-helping hand : ? 3?or those who talk yet  
-fail to do, &#x27; ; Just &#x27; build upon the  
-sand.&#x27; ?
+helping han
 </td></tr></table>
 
 ---
 
-## [From _Arizona citizen._](https://chroniclingamerica.loc.gov/lccn/sn82014896/1876-01-08/ed-1/seq-1)
-
-#### 1876-01-08 &middot; [Tucson, Pima County, A.T. [i.e. Ariz.]](http://dbpedia.org/resource/Tucson%2C_Arizona)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-&#x27;Tis well to woo, &#x27;tis well to wed.  
-For so the world hath done  
-Since myrtles crew and roses blew.  
-And morning brought the sun.  
-But have a care, yc young and fair,  
-Be sure ye pledge with truth;  
-I5o certain that your love will wear  
-Beyond the days ofyouth!  
-For if you give not heart for hoart,  
-As well as hand for hand,  
-You&#x27;ll and you&#x27;ve played the tmwisepart,  
-And built upon the sand.&quot;  
-Tis well to save, &#x27;tis well to have  
-A goodly store of cold.  
-  
-And hold enough of shining stuff,  
-For charily is oold.  
-Hut place not all your hope and trust  
-In whut the deep mine brings;  
-We cannot live on yellow dust  
-Unmixed with purer things:  
-And he who piles up wealth alone  
-Will oUen have lo stand  
-  
-Beside his coffer chest, and own  
-  
-&#x27;Tis&quot; built upon the sand.&quot;  
-  
-Tis good to speak in kindly gutse  
-j And soothe where&#x27;er we can;  
-  
-fair speech should bind the human mind,  
-  
-Anil love link man to man.  
-But stop not at the gentle words;  
-Let deeds with language dwell;  
-The one who pities starving birds  
-Should scatter crumbs as well;  
-The mercy that Is warm and true  
-Must lend a helping hand,  
-For those that talk, yet fail to do,  
-But&quot; build upon the sand.&quot;
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_bobcat_ver01%2Fdata%2Fsn82014896%2F00211105719%2F1876010801%2F0059.jp2/pct:14.910468,15.269929,12.603306,19.057352/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Martinsburg independent._](https://chroniclingamerica.loc.gov/lccn/sn84038206/1876-01-08/ed-1/seq-1)
+## [From _Martinsburg independent._](https://www.loc.gov/resource/sn84038206/1876-01-08/ed-1/?sp=1)
 
 #### 1876-01-08 &middot; [Martinsburg, W. Va.](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 ’Tis well to woo, ’tis well to wed,  
 For so the world hath done  
 Since myrtle grew and roses blew.  
@@ -6998,460 +6465,51 @@ Will often have to stand
 Beside his coffer chest, and o wn  
 ’Tis “built upon the sand.”  
 ’Tis good to speak in kindly guise,  
-And soothe where’er we can ;  
-Fair speech should bind the human  
-mind,  
-And love link man to man.  
-But step not at the gentle words,  
-Let deeds with anguish dwell;  
-The one who pities starving birds  
-Should ccatter crumbs as well.  
-The mercy that is warm and true  
-Must lend a helping hand,  
-For those that talk, yet fail to do,  
-But “build upon the sand.’
+An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_casper_ver01%2Fdata%2Fsn84038206%2F00393349190%2F1876010801%2F0837.jp2/pct:2.701644,20.222686,15.392522,23.636047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn84038206:00393349190:1876010801:0837/pct:2.702173,20.225501,15.390640,16.856904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1876-01-13/ed-1/seq-1)
+## [From _The People._](https://www.loc.gov/resource/sn84020392/1876-01-20/ed-1/?sp=1)
 
-#### 1876-01-13 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
+#### 1876-01-20 &middot; [Concord, N.H.](http://dbpedia.org/resource/Concord%2C_New_Hampshire)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 ’Tis well to woo, ’tis well to wed,  
-For bo the world hath done  
-Since myrtles giew and roses blew,  
-And mornirg brought the sun.  
-But have a care, ye young and fair,  
-Be eare ye pledge with truth;  
-Be certain that your love will wear  
-Beyond the days of youth !  
-For if you give not heart for heart,  
-As well as hand for hand,  
-You’ll find you’ve played the unwise part.  
-And “built upon the sand ”  
-’Tis well to save, ’tis well to have  
-A goodly store of gold,  
-And hold enough of shining stuff,  
-For charity is cold.  
-But place not all your hope and trust  
-In what the deep mine brings;  
-We cannot live on yellow dust  
-Unmixed with purer things,  
-And he who piles up wealth alone  
-Will often have to stand  
-Beside his coffee chest, and own  
-’Tie “ouilt upon the sand,,”  
-’Tis good to speak in kindly guise  
-And soothe where’er we can;  
-Fair speech should hind the tuman mind.  
-And love link man to man.  
-But stop not at the gentle words;  
-Let deeds with anguish dwell;  
-The one who pities starving birds  
-Should scatter crumbs as well;  
-The mercy that is warm and true  
-Must lend a helping hand,  
-For those that talk, yet fail to do,  
-But ‘build upon the sand.”
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151258%2F1876011301%2F0280.jp2/pct:20.000000,59.776335,12.271588,20.359439/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1876-01-19/ed-1/seq-6)
-
-#### 1876-01-19 &middot; [Watertown, Wis.](http://dbpedia.org/resource/Watertown%2C_Wisconsin)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-&#x27;Tia well to woo, ’tia well to wed.  
 For so the world hath done  
 Since myrtles grew and roses blew,  
-And morning brought the sun.  
+And morning breught the sun.  
 But have a care, ye young and fair,  
-Be aare ye pledge with truth;  
+Be sure ye pledge the truth ;-  
 Be certain that your love will wear  
 Beyond the days of youth!  
-For If you give not heart for heart,  
-As well as hand for hand.  
-You’ll fiod you’ve played the unwise part,  
-And “built upon the sand.”  
-’Tis well to save, ’tis well to have  
-A goodly store of gold.  
-And hold enough of shining stuff.  
-For charity is cold.  
-But place not all your hope and trust  
-In what the deep mine brings ;  
-Wo cannot live on yellow dust  
-Un mixed with purer things,  
-And he who piles up wealth done  
-Will often have to stand  
-Beside his coffer chest, and own  
-’Tie “built upon the sand.&quot;  
-’Tis good to speak iu kindly guise  
-And soothe where’er we can ;  
-Fair speech should bind the human mind.  
-And love link man to man.  
-But stop not at the gentle words ;  
-Let deorts wi*h anguish dwell;  
-The one who pities starving birds  
-Should scatter crumbs as well;  
-The mercy that is warm and true  
-Must lend a helping baud,  
-For those that talk, yet fail to do,  
-But “ build upon the sand.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F0027176876A%2F1876011901%2F0222.jp2/pct:8.200989,5.025828,12.813503,16.466120/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Valley Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024707/1876-01-20/ed-1/seq-1)
-
-#### 1876-01-20 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-d morning brdu?lit£he sail&#x27;  
-But have a care, ye young and fair,  
-Be sure you pledge with truth ;  
-Be certain that your love will wear  
-Beyond the days of youth !  
-For if you give not heart for heart.  
-As well as hand for hand.  
-You’ll find you’ve played an unwise part  
-And “built upon the sand/’  
-’Tis well to save, ’tis well to have  
-A goodly store of gold,&#x27;  
-And hold enough of shining stuff,  
-For charity is cold.  
-But place not all your hope and trail  
-In what the deep mind brings ;  
-tVe cannot live on yellow duet  
-Unmixed with purer tliiiVgsV  
-And he who piles up wealth alone  
-Will often have to stand  
-Beside his coffer chest and own  
-’Tis “built upon the sand.”  
-’Tis well to speak&#x27;in friendly gulsl  
-And soothe where’er we can ;  
-Fair speech should bind the human mind,  
-And love link man to man.  
-But stop not at the gentle words.  
-Let deeds with language dwell;  
-The one who pities starving birds  
-Should scatter crumbs as well.  
-The mercy that is warm dffiT true  
-Must lend a helping hand.  
-For those who talk, yet fail to do,  
-B it “build upon the sand.’’
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lippizaner_ver01%2Fdata%2Fsn84024707%2F00393348720%2F1876012001%2F0015.jp2/pct:82.979798,17.966592,9.751684,15.418256/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1876-01-26/ed-1/seq-1)
-
-#### 1876-01-26 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-WP  
-n  
-VA  
-J*  
-|  
-VA  
-V/.  
-V  
-1  
-IO  
-,  
-•&#x27; j  
-&#x27;  
-r  
-:  
-M  
--­  
-H  
-V/A  
-i  
-: :  
-m  
-Ik  
-m  
-MM  
-;y:&gt;  
--f  
-:  
-V  
-m  
-wsm,  
-VOLUME XXL-NO. 35.  
-BUILDING ON THE SAND.  
-SMYRNA, DEL., WEDNESDAY AFTERNOON,  
-JANUARY 26, 1876.  
-months old.  
-Two twins the  
-  
-BY EUZA COOK.  
-Tis well to woo, &#x27;tis well to wed.  
-For so the world hath done  
-Since myrthless grew and rose* blew,  
-And morning brought the sun.  
-But have a care, ye young and fair,  
-Bo ««ire ye pledge with truth ;  
-Be certain that your love will wear  
-Beyond the days of youth !  
-For if you give not heart for heart,  
-As well as hand for hand.  
-You&#x27;ll find you&#x27;ve played the unwise part,  
-And &quot; built upon the sand.&quot;  
-&#x27;Tis well to save, &#x27;tis well to have  
-A goodly store of gold,  
-And hold enough of shining stuff,  
-For charity is cold.  
-But place not all your hope and trust  
-In what the deep mind brings ;  
-It e cannot live on yellow dust  
-1&#x27;nmixed with purer things;  
-And he who piles up wealth alone  
-H ill often have to stand  
-Beside his coffee chest, and  
-&#x27;Tis &quot; built upon the sand.&quot;  
-&#x27;Tis good to speak in kindly guise  
-And soothe where&#x27;er we can ;  
-Fair speech should bind the human mind.  
-And love link man to man.  
-But stop not at the gentle words;  
-Let deeds with anguish dwell ;  
-The one who pities starving birds.  
-Should scatter crumbs as well ;  
-The mercy that is wann and true  
-Must lend a helping hand.  
-For those that talk, yet fail to do.  
-But &quot; build upon the sand.&quot;
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F0033289495A%2F1876012601%2F0561.jp2/pct:4.975923,5.184903,76.853933,26.648875/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Buchanan County bulletin._](https://chroniclingamerica.loc.gov/lccn/sn84027186/1876-01-28/ed-1/seq-1)
-
-#### 1876-01-28 &middot; [Independence, Iowa](http://dbpedia.org/resource/Independence%2C_Iowa)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-d. All ordera will receive  
-prompt attention, Olttce near U.. f. R. AM. De­  
-pot.  
-6ml  
-  
-Have You  
-  
-QOOD TITLES?  
-  
-BREWER BRO&#x27;S.  
-HOT*  
-  
-jmt completed, after several year of bard  
-labor,  
-  
-A Comolete Abstract of all Tl­  
-tfes of all Real Estate in Buchan­  
-an Co.,  
-lOWa  
-  
-a»d are prepared to tfive reli­  
-  
-able information relating to the *sunc. There are  
-many clouded tllWs Are you sine yourfl is all  
-right&#x27; lly getting an abstract from ua you can as­  
-certain.  
-  
-Remember that our office is in the atone Building  
-thr e doors watt of the Merchants Hotel, Indepen­  
-dence. Iowa.  
-  
-BUILDING ON THE 6AMD.  
-  
-BY RMZA COOK.  
-  
-Tis well to woo, &#x27;tis well to wed.  
-For so the world hath done  
-Since myrtles grew and roses IJcW,  
-  
-And morning brought the  
-  
-M4©.  
-  
-But have a care, ye young and #»tr,  
-He sure ye pledge with truth  
-Be certain thut your love will wear  
-  
-Ifeyoml the days of youth!  
-For if you give not heart for heart,  
-As well as hand for hand.  
-You&#x27;ll tind you&#x27;ve played the unwise part,  
-  
-And &quot;built upon the sand.&quot;  
-  
-*Tis well to save, &#x27;tis well to have  
-A goodly store of gold.  
-And hold enough of shining stuff,  
-  
-For charity is cold.  
-But place not all your hope ana trust  
-In what the deep mine brings  
-We cannot live 011 *ellow dust  
-  
-Unmixed with p..rer things.  
-And he who piles up wealth alene  
-Will often have to stand  
-Beside his coffer chest, and own  
-&#x27;Tis &quot;built upon the sand.*&#x27;  
-  
-Ti« good to speak in kindly gulae  
-And soolhe where&#x27;er we can  
-Fair speech should bind the human mind,  
-  
-And love link man to man.  
-Biit stop not at the gentle word#  
-I.et deeds with anguish dwell:  
-The one who pities starving OlWW  
-  
-Should scatter crumbs as woH  
-The merry that is warm and trtto  
-Must lend a helpuig hand.  
-For those that talk, yet fail to do.  
-  
-But &quot;build upon the sand.&quot;
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_electabuzz_ver01%2Fdata%2Fsn84027186%2F00279528918%2F1876012801%2F0016.jp2/pct:4.731024,11.658589,29.717514,85.552735/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Silent World 1871-1876_](https://archive.org/details/sim_silent-world_1876-02-01_6_3/page/n0/mode/1up?view=theater)
-
-#### 1876-02-01 &middot; [Washington, D.C., District of Columbia](http://dbpedia.org/resource/Washington%2C_D.C.)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-’T1s well to woo, ’tis well to wed,  
-For so the world hath done,  
-  
-Since myrtles grew, and roses blew,  
-And morning brought the sun.  
-  
-But have a care, ye young and fair,  
-Be sure you pledge with truth ;  
-  
-Be certain that your love will wear  
-Beyond the days of youth!  
-  
 For if ye give not heart for heart,  
-As well as hand for hand,  
-  
-You&#x27;ll find you’ve played the unwise part,  
-And “ built upon the sand.”  
-  
+As well as hand for hzhnd,  
+You’ll find you’ve played the unwise part  
+And *“built upon the sand.”  
 ’Tis well to save, ’tis well to have  
-A goodly store of gold,  
-  
+A goodly store of gold—  
 And hold enough of shining stuff,  
-For charity is cold.  
-  
+For charity is cold. -  
 But place not all your hope and trust  
-In what the deep mine brings:  
-  
+In what the deep mine brings.  
 We cannot live on yellow dust  
-Unmixed with purer things,  
-  
-And he who piles up wealth alone,  
+Unmixed with purer things;  
+And he who Eiles up wealth alone,  
 Will often have to stand  
-  
 Beside his coffer chest, and own  
-*Tis* built upon the sand.” -  
-  
-&#x27;Tis good to speak in kindly guise,  
-And soothe where’er we Can ;  
-  
+Tis *‘built upon the sand.”  
+’Tis good to speak in kindly guise,  
+And soothe where’er we can;  
 Fair speech should bind the human mind,  
 And love link man to man.  
-  
-But stop not at the gentle words,  
-Let deeds with language dwell;  
-The one who pities starving birds,  
-Should scatter crumbs as well.  
-The mercy that is warm and true,  
-  
-Must lend a helping hand,  
-For those who talk, yet fail to do,  
-But ‘* build upon the sands.”
+But s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_silent-world_1876-02-01_6_3&#0036;0/pct:19.622528,28.371673,28.040743,33.784393/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Shenandoah herald._](https://chroniclingamerica.loc.gov/lccn/sn85026941/1876-02-10/ed-1/seq-1)
-
-#### 1876-02-10 &middot; [Woodstock, Va.](http://dbpedia.org/resource/Woodstock%2C_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-ith truth;  
-B# certain that your love will wear  
-Itoyond the diya of youth 1  
-For if you give not heart for heart,  
-Ae w«U ae hand for hantr,  
-You’}! ttud you’ve played the unwise part,  
-And ’&#x27;built upon the sand.”  
-’Ti» well to save, *t1e well to have  
-A goodly store of gold,  
-And hold enough of shining stuff,  
-For charity ia cold,  
-But place not all your hope and trust  
-In what the deep mine brings, *  
-We cannot live on yellow dust,  
-Unmixed with purer thiugs.  
-And he who piles up wealth alone  
-Will often have to stand  
-Beside hie ooffer chest, and own  
-’Tie “built upon the sand.”  
-’Tis good to speak in kindly guise  
-And soothe where’er we can;  
-Fair speech should bind the humau mind,  
-And love link man to man,  
-But stop not at the gentle words;  
-Let deeds with language dwell,  
-The one who pities starring birds  
-Should scatter ernmbs as well,  
-The moroy that is warm and true  
-&#x27;Must lend a helping hand,  
-For those that talk, yet fail to do,  
-But “build upon the sand.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_jennet_ver02%2Fdata%2Fsn85026941%2F0039334846A%2F1876021001%2F0228.jp2/pct:44.493942,18.433299,9.412865,10.939116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_hale_ver01:data:sn84020392:00517016044:1876012001:0213/pct:28.069682,25.348477,8.738410,8.921012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7463,7 +6521,7 @@ But “build upon the sand.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ she felt a  
   
 But have a care, ye young and fair,  
 Be sure you pledge in truth;  
@@ -7506,21 +6564,25 @@ The mercy that is warm amd true
   
 Must lend a helping hand,  
 For those that talk, yet fail to do,  
-Lut “build upon the sand.”
+Lut “build upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_albion-a-journal-of-news-politics-and-literature_1876-02-19_54_8&#0036;9/pct:9.183673,13.818722,16.184807,21.898217/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_albion-a-journal-of-news-politics-and-literature_1876-02-19_54_8%2Fsim_albion-a-journal-of-news-politics-and-literature_1876-02-19_54_8_jp2.zip%2Fsim_albion-a-journal-of-news-politics-and-literature_1876-02-19_54_8_jp2%2Fsim_albion-a-journal-of-news-politics-and-literature_1876-02-19_54_8_0009.jp2/pct:9.183673,12.908618,81.547619,22.808321/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The daily free press._](https://chroniclingamerica.loc.gov/lccn/sn85025540/1876-02-23/ed-1/seq-1)
+## [From _The daily free press._](https://www.loc.gov/resource/sn85025540/1876-02-23/ed-1/?sp=1)
 
 #### 1876-02-23 &middot; [Trenton, N.J.](http://dbpedia.org/resource/Trenton%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+VOL. I--NO. 31  
+TRENTON, N. J., WEDNESDAY, FEBRUARY 23, 187G.  
+PRICE, TWO CERTS  
   
+Building on the Sand*  
 &#x27;Tis well to woo, ’tin well to wsi.  
 For so the world hath dona  
 Since myrtles, grew and roses blew.  
@@ -7556,21 +6618,26 @@ The one who pities starving birds,
 The mercy that is warm and true  
 Must lend a helping hand.  
 For those that talk, yet fail to do,  
-But ‘&#x27;build upou the sand.&#x27;
+But ‘&#x27;build upou the sand.&#x27;*  
+At Last.  
+S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_capemay_ver01%2Fdata%2Fsn85025540%2F00513685051%2F1876022301%2F0126.jp2/pct:3.982994,13.814335,11.842694,18.980897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_capemay_ver01:data:sn85025540:00513685051:1876022301:0126/pct:2.238138,11.021633,88.137869,27.364598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1876-02-26/ed-1/seq-1)
+## [From _Shepherdstown register._](https://www.loc.gov/resource/sn84026824/1876-02-26/ed-1/?sp=1)
 
 #### 1876-02-26 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+, Dalle. n4.  
+Seyt. 11, 1STJ. ly  
   
+BUILDING O* THE SA*I&gt;.  
 &#x27;Tis well to woo, &#x27;tis well to wed,  
 For so the world hath done,  
 Since myrtles grew and roses blew,  
@@ -7607,105 +6674,16 @@ Should scatter crumbs as well ;
 The mercy that is warm and true  
 Must lend a helping hand,  
 For those that talk yet fail to do,  
-But &quot;build upon the sand.
+But &quot;build upon the sand.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767808%2F1876022601%2F0035.jp2/pct:16.557946,9.627808,13.365718,21.816691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767808:1876022601:0035/pct:3.844552,8.706345,26.065232,90.044270/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Jackson standard._](https://chroniclingamerica.loc.gov/lccn/sn85038180/1876-03-09/ed-1/seq-1)
-
-#### 1876-03-09 &middot; [Jackson C.H., Ohio](http://dbpedia.org/resource/Jackson%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-And morning brought the sun.  
-But have a care, ye young and fair,  
-Be sure you pledge with truth ;  
-Be certain thut your love will wear  
-Beyond the days of youth !  
-For if you give not heart for heart,  
-As well as band for hand.  
-You&#x27;ll And you&#x27;ve played an uuwlse part,  
-And &quot;built upon the sand.&quot;  
-&#x27; Tis well to save, &#x27;tis well to have  
-A goodly store of gold.  
-And hold enough ot shining stuff,  
-For charity Is cold.  
-But place not all your hope and trust  
-In what the deep mine brings;  
-We eannot live on yellow dust  
-I&#x27;u mixed with purer things;  
-And he who piles up wealth alone  
-Will often nave to stand  
-B-side his coffer chest and own  
-Tis &quot;built upon the sand.&quot;  
-Tis well to speak in friendly guise  
-And soothe where&#x27;er we can ;  
-Fair speech should bind the human mind,  
-And love link man to man.  
-But stop not at the gentle words;  
-Let deeds with language dwell ;  
-The one who pities starving birds  
-Should scatter crumbs as well.  
-The Mercy that is warm and true  
-Must lend a helping hand.  
-Foi those that talk, yet fall to do,  
-But &quot;build upon the sand.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_konscak_ver01%2Fdata%2Fsn85038180%2F00296029026%2F1876030901%2F0043.jp2/pct:16.905486,34.531943,9.784339,11.207000/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Arizona sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84021912/1876-03-11/ed-1/seq-4)
-
-#### 1876-03-11 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-tain that your love will wear  
-Reyond the dnys of youth ?  
-For if ye give not hart for heart,  
-As well as hand for hand,  
-You&#x27;ll find you&#x27;ve played the unwise part,  
-And &quot;built upon the sand.&quot;  
-&#x27;Tis well to save, &#x27;tis well to have  
-A goodly sum of gold.  
-And hold enough of shining stuff  
-For charity is cold.  
-But Ikco not all your hope and trust  
-In what Iho deep mine brings;  
-We cannot live on yellow dust  
-Unmixed with purer things.  
-And he who piles up wealth alone  
-Will often have to stand  
-Beside his coffer chest and own  
-&quot;f is &quot;built upon the saud.&quot;  
-&#x27;Tis good to speak in kindly guise  
-And soothe whe: e&#x27;o&#x27;r we can;  
-Fair speech should bind the human mind  
-And lovo link man to man.  
-But stop not at the gentle words;  
-Let deeds with language dwell;  
-The one who pities starving birds  
-Should scatter crumD as well.  
-The mercy that is warm and true  
-Must lend a helping hand.  
-For thoee who talk, yet fail to do,  
-But &quot;build upon the Band.&quot;
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_fireant_ver01%2Fdata%2Fsn84021912%2F00211104260%2F1876031101%2F0554.jp2/pct:18.985209,10.891578,14.678899,16.794270/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## From _Bristol news._
+## [From _Bristol news._](https://www.loc.gov/resource/sn85026955/1876-04-04/ed-1/?sp=1)
 
 #### 1876-04-04 &middot; [Bristol, Va. & Tenn.](http://dbpedia.org/resource/Bristol%2C_Virginia)
 
@@ -7737,28 +6715,68 @@ Will often have to stand
 Beside his coffer chest, and own  
 &#x27;Tis &quot;built upon the sand.&quot;  
 &#x27;Tis good to speak in kindly guise  
-And soothe where&#x27;er we can;  
-Fair speech should bind the human mind,  
-And love link man to man.  
-But stop not at the gentle words;  
-Let deeds with language dwell,  
-The one who pities starving birds  
-Should scatter crumbs as well.  
-The mercy that is warm and true  
-Must lend a helping hand,  
-For those that talk, yet fail to do,  
-But &quot;build upon the sand,
-</td></tr></table>
+And soothe w
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85026955:00200293538:1876040401:0464/pct:16.162335,29.504381,11.925952,12.636911/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1876-04-24/ed-1/seq-1)
+## [From _The Union Republican._](https://newspapers.digitalnc.org/lccn/sn84026465/1876-04-13/ed-1/seq-1/)
+
+#### 1876-04-13 &middot; [Winston [i.e. Winston-Salem], N.C.](http://dbpedia.org/resource/Winston-Salem%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+,ew  
+And momma? brought the Ran.  
+B it hare a care, ye yonng and fair,  
+Be sore yon pledge in troth ;  
+Be certain that yonr love will wear  
+Beyond the days of youth !  
+For if yon give not heart for heart,  
+A well as hand for hand,  
+You&#x27;ll find yon&#x27;ve played the nnwiae part,  
+And &quot;built upon the sand.&quot;  
+&#x27;Tis well to save, &#x27;li well to have  
+A goodly store of gold.  
+And hold enough of shining rtoff,  
+Foe harity is cold.  
+Bat place not all yonr hopes and trust  
+Iu what the deep mine briugs ;  
+We ca not live on yellow Just  
+Unmixed with purer things,  
+And he who piles up wealth alone.  
+Will often have to stand  
+Beside the coffer chest, and own  
+Tis &quot;built upon the sand.&quot;  
+lis gool to speak in friendly guiso  
+. , , , , ,  
+And soothe where er we can I  
+Fuir speech should bind the human mind  
+And love link man to man.  
+But slop not at tbo gentle words :  
+Let deeds with language dwell ;  
+The one who pitiis starving birds,  
+Should scatttr crumbs as well.  
+The mercy that is warm and true  
+Must lend a helping hand,  
+For those that talk, yet fail to do.  
+But &quot; bnild upon the sand
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NSGreen22n_ver01%2Fdata%2F1876041301%2F0263.jp2/pct:23.540146,21.482304,16.438564,28.992477/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Orleans County monitor._](https://www.loc.gov/resource/sn84022871/1876-04-24/ed-1/?sp=1)
 
 #### 1876-04-24 &middot; [Barton, Vt.](http://dbpedia.org/resource/Barton%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 &quot;Tis well to oo, &#x27;tis well to wed.  
 For so the world has done  
 Since myrtles grew and roses blew.  
@@ -7782,52 +6800,9 @@ Unmixed with purer things;
 And he who piles rip wealth alone  
 Will often have
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194989%2F1876042401%2F0266.jp2/pct:14.686516,15.987004,8.245062,9.690791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194989:1876042401:0266/pct:19.576417,21.308537,10.990269,12.917320/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## [Selected Poetry. Building on the Sand.](http://trove.nla.gov.au/ndp/del/article/18342519)
-
-#### From _The Queenslander (Brisbane, Qld. : 1866 - 1939)_
-
-#### 1876-05-20 &middot; [Brisbane, Queensland](http://dbpedia.org/resource/Brisbane)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-Selected Poetry.  Building on the Sand.  
-TIS well to woo, &#x27;tis well to wed, For  
-so the world hath done Since myrtles  
-grow, and roses blow, And morning  
-brought the sun. Bnt have a care, ye  
-young- and fair. Be sure you pledge with  
-trotn; Be certain that your love will  
-wear Beyond the days of youth : For if  
-ye give not heart for Mart, As well as  
-hand for hand. You&#x27;ll nnd you&#x27;ve played  
-the unwise pars. And &quot; built upon the  
-sand. Tis well to save, &#x27;tie well to  
-have A goodly store of gold. And bold  
-enough ef shining -toff, For charity is  
-cold. But place not all your hope and  
-true* . , In what the deep mine wings:  
-We cannot live on yellow dust. Unmixed  
-with purer things. And he who piles up  
-wealth alone Will of ten nave to stand  
-Beside his coffer chest and own Tia &quot;  
-built upon the sand. . Tis good to speak  
-In kindly goise And soothe where&#x27;er we  
-can; .. Fair speech ahould bind the  
-human mind And love link man to man. But  
-stop not at the gentle words; Let dee&lt;l»  
-with language dwell; The one who pities  
-starvuig birds. Should scatter crumbs as  
-well. The mercy that is worn and true  
-Must lend a helping hand, For those that  
-talk, yet fail to do, . gut &quot; build upon  
-the sand. —Utlii&#x27;t Journal.
-</td></tr></table>
 
 ---
 
@@ -7839,7 +6814,7 @@ the sand. —Utlii&#x27;t Journal.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Bui -OH T UK GAKU. &#x27;&#x27;lis well l o woo.  
+&#x27;&#x27;lis well l o woo.  
 &#x27;Tis ,irood towed, For so the world 1ms  
 done Sinco myrtles grew, and roses blow,  
 And morning brought the sun. But have a  
@@ -7869,40 +6844,67 @@ starving birds, bhould scatter crumbs as
 well. The mercy that is warm and true,  
 Must lend a helping hand; For those who  
 talk yet fail to do, &#x27;Just build upon  
-the sand.&#x27;
+the sand
 </td></tr></table>
 
 ---
 
-## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1876-06-08_49_23/page/n3/mode/1up?view=theater)
+## [From _The People's vindicator._](https://www.loc.gov/resource/sn85038558/1876-06-03/ed-1/?sp=1)
 
-#### 1876-06-08 &middot; [Boston](http://dbpedia.org/resource/Boston)
+#### 1876-06-03 &middot; [Natchitoches, La.](http://dbpedia.org/resource/Natchitoches%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+. -dmlera in­  
+v... aworr Rri, istca. watte L.  
   
-ACTS.  
-  
-’Tis good to speak in kindly guise,  
-And soothe where’er we can;  
-Fair speech should bind the human mind,  
-And love link man to man.  
-But stop not at the gentle words;  
+Building on the Sand.  
+&#x27;Tis well to woo, &#x27;tis well to wed,  
+For so the world hath done  
+Since myrtless grew, and roses blow,  
+And morning brought the stun.  
+But have a care, ye young antd fair,  
+Be sure you pledge in truth;  
+Be certain that your love will wear  
+Beyond the days of youth !  
+For if ye give not heart for heart,  
+As well as hand for hand,  
+You&#x27;ll tind you&#x27;ve played the unwise part,  
+And &quot;built upon the sand.&quot;  
+&#x27;Tis well to save, &#x27;tis well to have  
+A goodly store of gold,  
+And hold enough of shining stuff,  
+For charity is cold,  
+But place not all your hopes and trust  
+In what the deep mine brings;  
+We cannot live on yellow dust  
+Unmixed n itL4 purer things;  
+And hIte o ohn u:i up. wealth alone,  
+Will often have to stand  
+Beside the cotfee chest; san own  
+&#x27;Tis &quot;Built upon the sand.&quot;  
+&#x27;Tie good to speak in friendly guise  
+And soothe where&#x27;er we can !  
+Fair speech should bind the human mind  
+And love link man to mlan,  
+But stop iot at the gentle words ;  
 Let deeds with language dwell;  
 The one who pities starving birds  
-Should seatter crumbs as well;  
+Should scatter crumbs as well.  
 The mercy that is warm and true  
 Must lend a helping hand,  
 For those that talk, yet fail to do,  
-But “build upon the sand.
+rut &quot;Build upon the sand.&quot;  
+  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1876-06-08_49_23&#0036;3/pct:32.748869,34.316304,15.158371,6.311044/600,/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_forge_ver01:data:sn85038558:00280761527:1876060301:0357/pct:30.808081,12.653628,23.558162,84.247088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The state journal._](https://chroniclingamerica.loc.gov/lccn/sn87052128/1876-06-09/ed-1/seq-5)
+## [From _The state journal._](https://www.loc.gov/resource/sn87052128/1876-06-09/ed-1/?sp=5)
 
 #### 1876-06-09 &middot; [Jefferson City, Mo.](http://dbpedia.org/resource/Jefferson_City%2C_Missouri)
 
@@ -7946,7 +6948,7 @@ Must lend a helping hand,
 For those that talk, yet fail to do.  
 But &quot;Build upon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_felice_ver01%2Fdata%2Fsn87052128%2F00200292182%2F1876060901%2F0190.jp2/pct:75.065789,6.956784,15.504386,23.264569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1876060901:0190/pct:75.065789,6.956784,15.504386,23.264569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7960,9 +6962,7 @@ But &quot;Build upon the sand.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-i : And mornineir lovo will wear  
-But have juTJuys of youth ! -Be, on gire  
-not htari for heart, ,äs well as bund  
+nd  
 for hand, ^^Tfou&#x27;ll find you&#x27;ve plajcd  
 the unwise part, _--&#x27;&quot; [ And &quot;built upon  
 lue sand.&quot; _;Xii well to save, &#x27;tis well  
@@ -7989,57 +6989,120 @@ do, But &quot; build npoa the sand
 
 ---
 
-## [From _The Morristown gazette._](https://chroniclingamerica.loc.gov/lccn/sn85033681/1876-12-06/ed-1/seq-1)
+## [From _The Danbury reporter._](https://newspapers.digitalnc.org/lccn/sn91068291/1876-10-19/ed-1/seq-4/)
 
-#### 1876-12-06 &middot; [Morristown, Tenn.](http://dbpedia.org/resource/Morristown%2C_Tennessee)
+#### 1876-10-19 &middot; [Danbury, N.C.](http://dbpedia.org/resource/Danbury%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-truth ;  
-Be certain that your love will wear  
-Beyond the days of youth I  
-for If you give not heart for heart,  
-As well as baud for hand,  
-YonH find you&#x27;ve played the unwise part,  
-And &quot;built npon the aand.&quot;  
-Tls well to save, tie well to have  
-A goodly store of gold.  
-And bold enough of shining staff,  
-Tor charity is cold. .  
-But place wot all your hopes snd trust  
-In what the deep mine brings ;  
-We cannot lira on yellow dust  
-TJnmixed with purer things.  
-And he who piles up wealth alone,  
-WU1 often Lava to stand  
-Besides the coffer chest, and own  
-. Tia &quot;built npon the aand-&quot; ...  
-&#x27;Tie good t speak In friendly guise,  
+.  
+Buii.Difr# am rk» •AKD.  
+V  
+&#x27;TW well to woo, &#x27;&#x27;H» wall te wad,  
+For m the worM bath done  
+Sins* ■mil* grew and row Mow,  
+And morning bipafht the tan.  
+Rut hare a care, w young and talr,  
+Be mre ye pledge with troth ;  
+Be acrtabt that yoar lore will wear  
+Bevond the day* of yoath I  
+For if you give sot heart for heart,  
+As well u hand for hand,  
+Ton&#x27;ll dad you&#x27;re played an unwise part,  
+And &quot;ball! upon the sand.&quot;  
+&#x27;Tli well to sire, &#x27;tit well to hare  
+A goodly More ol gold.  
+And hold enough of shining staff,  
+For charity ia cold.  
+But place not alt your hopes and trutt  
+In what the deep whir brings,  
+We can aot live oa y«HuW diwi  
+Unmixed&#x27;with purer thing* ;  
+And be who pile* up wealth alone  
+Will often have to (land  
+Beside hit cotfcr cheat, and own  
+&#x27;Tie &#x27; built npoa the sand.&quot;  
+&#x27;Tis good to speak in kindly guise.  
 And soothe where&#x27;er we can ;  
-Fair speech should bind the human mind.  
-And love link man to man.  
-But stop not at the gentle words ;  
-. Let deeds with language dwell ;  
-The eue who pities starving birds,  
-Should scatter crumbs as well.  
-The mercy that la warm aad true .  
-- Must lend a helping band,  
-For those that talk, yet fail to do,  
-But &quot;build upon the aand.&quot;
+Fair preecb should blind the human mind,  
+And lore link man to man.  
+Bat stop not at the gentle words ;  
+Let deed* with language dwell ;  
+The one who cities starving birds,  
+hhonld scatter erumba as well;  
+The mercy tbat ii warm and true,  
+Must lend a helping hand,  
+For those tbat talk, yet fail to do,  
+But &quot;baUd «*m the a—d.&quot;  
+Lore Among the Lawyers.  
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_hubert_ver01%2Fdata%2Fsn85033681%2F0029602109A%2F1876120601%2F0197.jp2/pct:27.347098,82.936799,9.284509,13.531076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DaR1_ver01%2Fdata%2F1876101901%2F0069.jp2/pct:11.481923,8.147059,12.653953,22.205882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1877-01-11/ed-1/seq-4)
+## [From _The daily free press._](https://www.loc.gov/resource/sn85025540/1876-12-27/ed-1/?sp=4)
+
+#### 1876-12-27 &middot; [Trenton, N.J.](http://dbpedia.org/resource/Trenton%2C_New_Jersey)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+B« tiding on the Hand.  
+’Tin well to woo, &#x27;tin well to wed.  
+For no the world hath done  
+Since myrtles grew and roses blew,  
+And morning brought tlie mm.  
+Bat bave a care, ye young and fair,  
+Be snre you pledge in truth ;  
+Be certain that yont love will wear  
+Beyond the daps of youth 1  
+For if ye give not heart ior heart,  
+As well as hand for’hand,  
+You’ll find you&#x27;ve played tb« unwise part,  
+And &quot;built upon lies sand.”  
+’Tie well to save, ’(is well to bave,  
+A goodly store of gold.  
+And hold enough of shining stuff,  
+For charity is oold.  
+Bat place not ail your hopes and trust  
+In wbat the deep mine brings;  
+We cannot live on yellew du«t  
+Unmized with purer things.  
+And he who piles up wealth alone, ,  
+Will often have to stand  
+Besides the coffer chest and own  
+&#x27;Tis *• built wpoffthe sand.”  
+’Tis good to speak in friendly guise  
+And soothe where&#x27;er we can 1  
+Fair speech should biml the human mind  
+And love link man to man.  
+But stop not at the gentle words ;  
+Let deed! with language dwell;  
+The one who pitips starving birds,  
+Hhould tloftter crumbs well.  
+The rneroy that is warm and true  
+Must lend a helping hand,  
+For those that talk, yet fall to do,  
+But &quot; build Upon the sand.&quot;  
+When Hi
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_capemay_ver01:data:sn85025540:00513685063:1876122701:0607/pct:7.150813,6.926952,14.457563,22.181990/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Yorkville enquirer._](https://www.loc.gov/resource/sn84026925/1877-01-11/ed-1/?sp=4)
 
 #### 1877-01-11 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
+BUILDING ON THE SAND.  
 &#x27;Tis well to woo, &#x27;tis well to wed,  
 For so the world has done  
 Since myrtles grew and roses blew,  
@@ -8077,21 +7140,73 @@ Should scatter crnmbs as well;
 The mercy that is warm and true,  
 Must lend a helping hand,  
 For those that talk, vet fail, to do,  
-But &quot;build upon the sand.
+But &quot;build upon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862762%2F1877011101%2F0211.jp2/pct:43.319785,8.132834,12.447008,14.008198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862762:1877011101:0211/pct:43.319785,7.610052,12.442638,14.525040/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1877-01-27/ed-1/seq-1)
+## [From _Alpena weekly argus._](https://www.loc.gov/resource/sn85033549/1877-01-17/ed-1/?sp=1)
+
+#### 1877-01-17 &middot; [Alpena, Mich.](http://dbpedia.org/resource/Alpena%2C_Michigan)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ work warranted  
+  
+Building on the sand.  
+&#x27;Tis well to woo, &#x27;tis well to wed,  
+For so the world haath done  
+Since myrtles grew and roses blew,  
+And morning brought the sun.  
+But have a care, ye young and fair,  
+Be sure you pledge in truth;  
+Be certain that your love will wear  
+Beyond the days of youth!  
+For if ye give not heart for heart,  
+As well as hand for hand,  
+You&#x27;ll find you&#x27;ve played the unwise part,  
+And &quot;built upon the sand.&quot;  
+Tis well to save, &#x27;is well to have  
+A goodly store of gold,  
+And hold enough of shinning stuff,  
+for charity is cold.  
+But place not all your hopes and trust  
+In what the deep mine brings;  
+We can not live on yellow dust  
+Unmixed with purer things.  
+And he who piles up wealth alone  
+Will often have to stand  
+Beside the coffer chest, and own  
+&#x27;Tis &quot;built upon the sand.&quot;  
+Tis good to speak in friendly guise  
+And soothe where&#x27;er you can,  
+Fair speech should bind the human mind  
+And love link man to man.  
+Iut stop not at the gentle words;  
+Let deeds with language dwell  
+The one who pities starving birds,  
+Should scatter crumbs as well,  
+The mercy that is warm and true  
+Must lend a helping hand,  
+For those that talk, yet fail to do,  
+But &quot;build upon the sand.&quot;  
+I
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn85033549:00296023966:1877011701:0429/pct:31.279833,24.830163,23.597852,20.708786/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Virginia free press._](https://www.loc.gov/resource/sn84026784/1877-01-27/ed-1/?sp=1)
 
 #### 1877-01-27 &middot; [Charlestown, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 ’Ti* well to woo, &#x27;tis well to wul,  
 For so tlis world ha&#x27;h done  
 Since myrtles grew and roses blew,  
@@ -8128,9 +7243,9 @@ Should scatter crumbs as well.
 The mercy that is warm and true  
 Must lend a helping hand.  
 For those that talk, yet fail to do,  
-Hut “build upon the sand.
+Hut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_kump_ver01%2Fdata%2Fsn84026784%2F00414186702A%2F1877012701%2F0016.jp2/pct:55.843963,14.508547,11.544547,14.789886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:00414186702A:1877012701:0016/pct:55.852247,14.510097,11.541314,14.713110/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8179,13 +7294,151 @@ the sand.&quot;
 
 ---
 
-## [From _Montgomery County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83016209/1878-09-27/ed-1/seq-1)
+## [From _The Hawaiian gazette._](https://www.loc.gov/resource/sn83025121/1877-10-10/ed-1/?sp=1)
+
+#### 1877-10-10 &middot; [Honolulu [Oahu, Hawaii]](http://dbpedia.org/resource/Honolulu)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Building on the Sand.  
+Te well to woo, &#x27;tis well to wed,  
+For so the world hath done,  
+ince myrtles grew and roses blew,  
+And morning brought the sun.  
+Bet have a care, ye young and fair,  
+Be sure you pledge with truth;  
+certain that your love will wear  
+Seyond the days of youth !  
+Far if you give not heart for heart,  
+As well as hand for hand,  
+Tea&#x27;ll find you&#x27;ve played an unwise part,  
+And built upon the sand.&quot;  
+Th well to save. &#x27;Tis well to have  
+A goodly share of gold,  
+And hold enough of shining stuff,  
+Iw charity is cold.  
+1aslace not all your hopes and trust  
+Oa what the deep mine brings;  
+We cannct live with yellow dust  
+Tanired with purer things,  
+And he who piles up dust alone,  
+Will often have to stand  
+his coffer chest and own  
+He &quot;built upon the sand.&quot;  
+aeee e e oe  
+Tie good to speak in kindly guise,  
+And soothe where&#x27;er you can;  
+Fair speech should bind the human mind,  
+And love link man and man.  
+ut stay not at the gentle words;  
+Let deeds with language dwell  
+The one who pities starving birds  
+Should scatter crumbs as well.  
+The mercy that is warm and true  
+Must lend a helping hand,  
+Fur those who talk, yet fail to do,  
+ut &quot;build upon the sand.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ecru_ver01:data:sn83025121:00294552315:1877101001:0054/pct:2.190827,41.837046,10.790336,17.149832/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1877-12-13_50_50/page/n3/mode/1up?view=theater)
+
+#### 1877-12-13 &middot; [Boston](http://dbpedia.org/resource/Boston)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+’Tis good to speak in kindly guise,  
+And soothe where’er we ¢:  
+  
+Fair specch shali bind the hasan mind,  
+And love link man to man.  
+  
+But stop not at the gentle words,  
+Let deeds with language dwell;  
+  
+  
+  
+nations with whom the tide of time runs so}  
+smoothly and quietly that they are little heard of. |  
+But this is not always tru
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_youths-companion_1877-12-13_50_50%2Fsim_youths-companion_1877-12-13_50_50_jp2.zip%2Fsim_youths-companion_1877-12-13_50_50_jp2%2Fsim_youths-companion_1877-12-13_50_50_0003.jp2/pct:29.751131,45.529677,40.073529,4.714500/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Newtown bee._](https://www.loc.gov/resource/sn92051487/1878-07-25/ed-1/?sp=1)
+
+#### 1878-07-25 &middot; [Newtown, Conn.](http://dbpedia.org/resource/Newtown%2C_Connecticut)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+free.  
+  
+Poetry  
+  
+SULLLING UPON THE SAND.  
+&quot;Tis well to woo, &#x27;tis well to wid,  
+For so the world hasd no  
+Since myrtles grew and roses blew,  
+And morning brought the sun;  
+But have a care ye young and fair  
+Be sure ye pledge with truth;  
+Be certain that your love will wear  
+Beyond the days of youth  
+Fer if wo give not heart for heart,  
+As well as hand for hand,  
+You&#x27;ll find you&#x27;ve played the unwise part  
+And built upon the sand.  
+&quot;Tis well to save, &#x27;tis well to have,  
+A goodly store of gold,  
+And hold enough of shining stuff,  
+For charity is cold;  
+But place not all your hopes and trust  
+In what the deep mine brings;  
+e cannot live on yellow dust  
+Unmixed with purer things;  
+And he who piles up wealth alone,  
+Will often have to stand  
+Beside his coffer chest and own  
+&#x27;Tis built upon the sand.  
+&quot;Tis good to speak in kindly tone,  
+And smoothe what e&#x27;er you can;  
+For speech should blind the human mind,  
+And love link man to man.  
+Eut stay not at the gentle words,  
+Let deeds with language dwell  
+The one that pities starving birds  
+Should scatter crumbs as well.  
+The mercy that is warm and true,  
+Must lend a helping hand,  
+For those who talk, yet fail to do,  
+But build upon the sand
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763189:1878072501:0228/pct:54.853225,13.375796,23.505464,81.725811/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Montgomery County sentinel._](https://www.loc.gov/resource/sn83016209/1878-09-27/ed-1/?sp=1)
 
 #### 1878-09-27 &middot; [Rockville, Md.](http://dbpedia.org/resource/Rockville%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ PRESS.  
   
+poetical.  
+BUILDING ON THE SAND.  
 ,Tis well to won, * tis well to wed,  
 For po the world hnth done,  
 Since myrtles grew and rosea blew ;  
@@ -8211,72 +7464,21 @@ Will often have to stand
 Beside his coffer chest, and own  
 &#x27;Tis “built upon the sand.&quot;  
 ’Tis good to speak in kindly guise  
-And soothe where&#x27;er we can :  
-Fair speech should bind the human mind,  
-And love link man to man.  
-But atop not at the gentle words ;  
-Let deeds with language dwell;  
-The oue who pities starving birds  
-Should scatter crumbs as well;  
-The mercy that is warm and truo  
-Must lend a helping hand,  
-For those that talk, yet fail to do,  
-But ‘ build upon the sand.
+And so
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fireweed_ver01%2Fdata%2Fsn83016209%2F00383342417%2F1878092701%2F0162.jp2/pct:56.612177,19.223700,10.897891,20.056222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342417:1878092701:0162/pct:73.037417,18.401228,14.068232,25.055804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Louisiana capitolian._
-
-#### 1880-06-19 &middot; [Baton Rouge, La.](http://dbpedia.org/resource/Baton_Rouge%2C_Louisiana)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-evond the days of youth  
-For if we give not heart for heart  
-As well as hand for hand  
-You&#x27;ll, find you&#x27;ve played the unwise part  
-And built upon the sand  
-Tis well to save. &#x27;Tis well to have  
-A goodly store of gold  
-And hold enough of shining stuff  
-For charity is cold  
-But place not all your hope and trust  
-In what the deep mine brings  
-We caunot live on vellow dust  
-Hnmixed with purer things  
-And he who piles up wealth alone  
-Will often have to stand  
-Beside his coffer chest, and ow.  
-&quot;Tis built upon the sand  
-Tis good to speak in kindly guise  
-And sothe where&#x27;er we can  
-fair sneech should bind the human mind  
-And love link man to man  
-But stay not at the gentle words  
-Let the deed with language dwel  
-The one who pities starving birds  
-chould acatter crumbs as well  
-The mercy that s warm and trut  
-Must lend a helping hand  
-For those who talk, yet fail to do  
-But bulld upon the san
-</td></tr></table>
-
----
-
-## [From _Western sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84026526/1881-05-19/ed-1/seq-1)
+## [From _Western sentinel._](https://www.loc.gov/resource/sn84026526/1881-05-19/ed-1/?sp=1)
 
 #### 1881-05-19 &middot; [Winston [i.e. Winston-Salem], N.C.](http://dbpedia.org/resource/Winston-Salem%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-BUILDING ON THE SAND.  
+ ON THE SAND.  
 For so the world hath done ;  
 Ones myrtles grow and rem blew,  
 , And morning brougVt ftte ;  
@@ -8311,15 +7513,15 @@ Should scatter crumbs as well.
 The merey that is warm and true  
 Must lend a helping hand;  
 For those that talk, yet fail to do,  
-But &quot;build upon the sand.&quot;
+But &quot;build upon the san
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_adam_ver02%2Fdata%2Fsn84026526%2F00295879671%2F1881051901%2F0332.jp2/pct:19.505852,15.655471,10.325098,18.179848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_adam_ver02:data:sn84026526:00295879671:1881051901:0332/pct:26.001040,20.866739,13.754550,24.236186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Valley Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84024707/1881-05-19/ed-1/seq-1)
+## [From _The Valley Virginian._](https://www.loc.gov/resource/sn84024707/1881-05-19/ed-1/?sp=1)
 
 #### 1881-05-19 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
@@ -8363,31 +7565,13 @@ Must lend a helping hand,
 Fat those that talk, yet fall to do,  
 But “build upon the sand.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lippizaner_ver01%2Fdata%2Fsn84024707%2F00393348732%2F1881051901%2F0295.jp2/pct:50.711886,18.171174,8.770597,14.298677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348732:1881051901:0295/pct:50.720000,18.173302,8.768000,14.297424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Pioche weekly record._](https://chroniclingamerica.loc.gov/lccn/sn86091346/1881-05-21/ed-1/seq-3)
-
-#### 1881-05-21 &middot; [Pioche, Nev.](http://dbpedia.org/resource/Pioche%2C_Nevada)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-&#x27;Tie well to woo, &#x27;tis well to wed,  
-For so the world has done,  
-Since rosea blew aad myrtles grew  
-And morning brought the sun.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_caliente_ver02%2Fdata%2Fsn86091346%2F00415668442%2F1881052101%2F0085.jp2/pct:20.029821,68.328247,10.586481,1.763310/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1882-01-24/ed-1/seq-1)
+## [From _Staunton spectator._](https://www.loc.gov/resource/sn84024718/1882-01-24/ed-1/?sp=1)
 
 #### 1882-01-24 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
@@ -8419,13 +7603,13 @@ Will have at last to stand,
 Beside his coffer chejttand own  
 &quot;Tis built upon the |||Bd.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kelso_ver01%2Fdata%2Fsn84024718%2F00280762234%2F1882012401%2F0024.jp2/pct:39.223861,34.253032,10.038486,10.724150/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762234:1882012401:0024/pct:39.223861,34.250030,10.022450,10.724150/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Gloucester County Democrat._](https://chroniclingamerica.loc.gov/lccn/sn87068079/1882-03-16/ed-1/seq-1)
+## [From _Gloucester County Democrat._](https://www.loc.gov/resource/sn87068079/1882-03-16/ed-1/?sp=1)
 
 #### 1882-03-16 &middot; [Woodbury, N.J.](http://dbpedia.org/resource/Woodbury%2C_New_Jersey)
 
@@ -8457,210 +7641,61 @@ Will often have to stand
 Beside his coffer chest and own  
 Tis “ built upon the sand.”  
 -Tis good to speak in kindly guise,  
-And soothe where’r we can;  
-Fair speech should bind the hnm&amp;n mind,  
-And love link man to man.  
-But stop not at the gentle words—  
-Let deeds with language dwell  
-lhe one who pities starving birds  
-Should scatter crumbs as well;  
-The mercy that is warm and true  
-Must lend a helping hand,  
-For those that talk, yet fail to do,  
-But “ build upon the sand.
+And sooth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_elliot_ver01%2Fdata%2Fsn87068079%2F00332896441%2F1882031601%2F0244.jp2/pct:5.287009,14.038710,9.973985,17.964516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896441:1882031601:0244/pct:5.287897,14.040521,9.971462,12.956511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Fairfield news and herald._](https://chroniclingamerica.loc.gov/lccn/2012218613/1882-03-29/ed-1/seq-1)
-
-#### 1882-03-29 &middot; [Winnsboro, S.C.](http://dbpedia.org/resource/Winnsboro%2C_South_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-11 well to woo, &#x27;tis well to wed,  
-For so the world hath done  
-Since myrtles grew and roses blew,  
-And morning brought the sun;  
-But have a care, yo young and fair,  
-Be sure ye pledge with truth;  
-Bo certain that your love will wear  
-Beyond the days of youth.  
-  
-|||g, For if you give sot heart for heart,  
-gsy . A3 well as hand for hand,  
-You&#x27;ll find, you&#x27;ve played the unwise part.  
-And &quot; built upon the sarrd.&quot;  
-&#x27;Tis well to save, ?t:s well to have  
-A goodly fctore of gold.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2F2012218613%2F00237288415%2F1882032901%2F0042.jp2/pct:0.365750,12.339513,12.427812,6.537995/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Southern herald._](https://chroniclingamerica.loc.gov/lccn/sn87007277/1882-06-24/ed-1/seq-1)
+## [From _The Southern herald._](https://www.loc.gov/resource/sn87007277/1882-06-24/ed-1/?sp=1)
 
 #### 1882-06-24 &middot; [Liberty, Miss.](http://dbpedia.org/resource/Liberty%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ;  
-Be certain that vour love will weel  
-Beyond the days of yonth !  
-For if you (rive not heart for heart,  
+  
+Tis well to woo, &#x27;tis well to wed,  
+For so the world hath done  
+Since myrtles grew and roses blew  
+And morning brought the sun;  
+But have a care, ye young and fair,  
+Be sure ye pledge with truth;  
+Be certain thaf your love will weer  
+Beyond the days of youth!  
+For if you give not heart for heart,  
 As well as hand for hand,  
-Yoa&#x27;ll find you&#x27;ve plsyed the unwise part,  
-AuJ &quot; built upon the sand.&quot;  
-Tis well to save, &#x27;tis &#x27; well to have  
-A roodly .tore of gold.  
+You&#x27;ll find you&#x27;ve played the unwise part,  
+And &quot;built upon the sand.&quot;  
+&#x27;Tis well to save, &#x27;tis well to have  
+A goodly store of gold,  
 And hold enough of shining stuff,  
-for charity ucolJ.  
-But place not alt your hope and trust  
-Iu what the deep mine springs ;  
-We cannot live on yellow dust  
-Unmiied with purer things.  
-And he who piles up wealth alone,  
-Will often have to stand  
-Beside his coffer chest aud own  
-&#x27;Tis &quot; built upon the sand.&quot;  
-Tis good to speak in kindly guise  
-Aud soothe where&#x27;er we can ;  
-Fair speech should bind the human mind,  
-Aud love liuk man to man.  
-But stop not at the goutle words .  
-Let deeds with language dwell.  
-The ooe who pities starving bird.  
-Should scatter crumbs as well ;  
-The mercy that is warm aud true  
-Must lvud a helping hand,  
-For those that talk yet fail to do  
-But &quot; build upon the sand.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_minuette_ver01%2Fdata%2Fsn87007277%2F00415662178%2F1882062401%2F0357.jp2/pct:48.225292,19.564295,11.774708,14.004810/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1882-09-29/ed-1/seq-1)
-
-#### 1882-09-29 &middot; [Bel Air, Md.](http://dbpedia.org/resource/Bel_Air%2C_Harford_County%2C_Maryland)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-will wear  
-Beyond the days of youth !  
-For if you give not heart for heart.  
-As well as hand for hand.  
-You’ll find you’ve played an&#x27;unwiso part, 1  
-And “built upon thousand.&quot;  
-’Tls well to save. ’Tls well to havo  
-A goodly share of gold,  
-And hold enough of shining stuff.  
 For charity is cold.  
 But place not all your hope and trust  
-On what tho&#x27;docp mine brings ;  
-We cannot live with yellow dust 1  
-Unmixod with purer things ;  
+In what the deep mine springs;  
+We cannot live on yellow dust  
+Unmixed with purer things,  
 And he who piles up wealth alone,  
 Will often have to stand  
-Beside.hls coffer ohest.and own  
-’Tls “built upon tho sand.” j  
-’Tls good to speak in kindly guise, 1  
-And soothe where’er you can ;  
-Fair speech should bind tho human mind  
-And love link man to man.  
-But stay not at the gentle words ;  
-Let deeds with language dwfilP;  
-Tho one who pities starving birds, ,  
-Should scatter crumbs as well.  
-The mercy that is warm and true  
-Must lend a helping hand, 1  
-For those who talk, yet fall to do,  
-“Build upon tho sand.
+Beside his coffer chest and own  
+Tis &quot;built upon the sand.&quot;  
+Tis good to speak in kindly guise  
+And soothe wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625522%2F1882092901%2F0583.jp2/pct:62.870985,22.806404,10.103876,10.109767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn87007277:00415662178:1882062401:0357/pct:48.204038,17.216014,12.539851,11.967746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## Gems of Liberal Thought
-
-#### From _Boston investigator._
-
-#### 1883-02-21 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
-
-[This text is not available under an open license.]
-
----
-
-## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1883-06-13/ed-1/seq-1)
-
-#### 1883-06-13 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-BUILDING ON THE SAND.  
-The man who piles up wealth alone,  
-Will often have to stand  
-Beside his coffer-chest and own  
-&#x27;Xis &quot;built upon the sand.&quot;  
-Tis good to speak in kindly guise,  
-And soothe where&#x27;er we ean :  
-Fair s  
-speech should blind the human mind,  
-a Love, like man to man.  
-But stay not at the gentle words,  
-I*et deeds with language dwell :  
-The one who pities starving birds.  
-Should scatter crumbs as well.  
-The Mercy that is warm and true,  
-Must lend a helping hand:  
-For those who talk, yet fail to &lt;ln,  
-But &quot;build upon the sand.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00332894912%2F1883061301%2F0292.jp2/pct:48.919243,16.852897,9.201441,6.865568/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## From _The Pascagoula democrat-star._
+## [From _The Pascagoula democrat-star._](https://www.loc.gov/resource/sn87065532/1883-11-09/ed-1/?sp=1)
 
 #### 1883-11-09 &middot; [Pascagoula, Miss.](http://dbpedia.org/resource/Pascagoula%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r by at  
-reasonable rates.  
-For further particulars address A. Blu­  
-mer or the undersigned,  
-E. F. GRIFFIN, President,  
-Moss Point, Miss.  
-September 21. 1883.  2tf  
-NoteI  
-reAlEState  
-For sals!  
-Choice Building Lots  
-In the Town of Scranton,  
-In the Dees tract. For terms, informa­  
-tion, etc. apply to  
-H. F. KREBS, Agent.  
-Scranton, Oct 26, 1883. 34-tf  
-Mothers Should Know It.  
-Fretful babies caunot help disturbing  
-everyhody,  and mothers should know  
-how soothing Parker&#x27;s Ginger Tonic is. It  
-stops babies pains, makes them healthy,  
+,  
 relieves their own anaiety and is safe to  
 use, -JoupRgł,  
   
@@ -8701,17 +7736,24 @@ The mercy that is warm and true
 Must lend a helping hand,  
 For those that talk, yet fail to do,  
 But &quot;build upon the sand.&quot;
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065532:00295878022:1883110901:0914/pct:15.929204,18.707436,24.902243,77.206393/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Lake Charles commercial._](https://chroniclingamerica.loc.gov/lccn/2013271051/1884-08-30/ed-1/seq-1)
+## [From _Lake Charles commercial._](https://www.loc.gov/resource/2013271051/1884-08-30/ed-1/?sp=1)
 
 #### 1884-08-30 &middot; [Lake Charles, Calcasieu Parish, La.](http://dbpedia.org/resource/Lake_Charles%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ to receive the  
+Commercial regularly, will please notify  
+us of the fact.  
   
+Building&#x27; on the Sand.  
 &#x27;Tis well to woo, &#x27;tis well to wed,  
 For so the world has done  
 Since myrtles grew and roses blew,  
@@ -8747,21 +7789,23 @@ Should scatter crumbs as well ;
 The mercy that is warm and true  
 Must lend a helping hand,  
 For those that talk, yet fail to do,  
-But &quot;build upon the sand.
+But &quot;build upon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lapras_ver01%2Fdata%2F2013271051%2F00295873772%2F1884083001%2F0672.jp2/pct:61.212256,16.575387,13.765542,22.680412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lapras_ver01:data:2013271051:00295873772:1884083001:0672/pct:46.936057,15.625000,28.041741,78.978737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Semi-weekly south Kentuckian._](https://chroniclingamerica.loc.gov/lccn/sn86069394/1884-11-14/ed-1/seq-4)
+## [From _Semi-weekly south Kentuckian._](https://www.loc.gov/resource/sn86069394/1884-11-14/ed-1/?sp=4)
 
 #### 1884-11-14 &middot; [Hopkinsville, Ky.](http://dbpedia.org/resource/Hopkinsville%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+DuiLvma oy hm sand,  
 Tli well to woo, His well to wed,  
 For so the world hath don  
 0:ioe myrtles grew and rows blsw,  
@@ -8799,19 +7843,20 @@ Moat lend a helping hand,
 For there that talk, yet fail to do,  
 &#x27; But &quot; build upon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_egret_ver01%2Fdata%2Fsn86069394%2F00202194692%2F1884111401%2F0424.jp2/pct:9.798271,28.634716,9.592425,15.948449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_egret_ver01:data:sn86069394:00202194692:1884111401:0424/pct:13.045267,37.280172,12.798354,22.150624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1885-02-27/ed-1/seq-4)
+## [From _The aegis & intelligencer._](https://www.loc.gov/resource/sn83016107/1885-02-27/ed-1/?sp=4)
 
 #### 1885-02-27 &middot; [Bel Air, Md.](http://dbpedia.org/resource/Bel_Air%2C_Harford_County%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
+building on the band.  
 ’Tis well lo woo, ’lis well to wed.  
 For so the world hath done  
 Since myrtles grew and roses blew ;  
@@ -8847,31 +7892,133 @@ Should scatter crumbs as well.
 The mercy that is warm and true  
 Must lend a helping hand.  
 For those that talk, yet fail to do.  
-But “build upon the sand.
+But “build upon the sand.”  
+—M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625534%2F1885022701%2F0251.jp2/pct:17.949375,7.763185,9.378068,11.875129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625534:1885022701:0251/pct:22.736286,9.449028,12.508262,16.821932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Practical Teacher: With Which Is Incorporated the Practical Teacher's Art Monthly 1881-1911_](https://archive.org/details/sim_practical-teacher-teachers-art-monthly_1885-08_5_6/page/n36/mode/1up?view=theater)
+## [From _The Centre reporter._](https://panewsarchive.psu.edu/lccn/sn83032058/1885-04-22/ed-1/seq-3/)
 
-#### 1885-08-01 &middot; [London, England](http://dbpedia.org/resource/London)
+#### 1885-04-22 &middot; [Centre Hall, Pa.](http://dbpedia.org/resource/Centre_Hall%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+BUILDING ON THE SAND,  
   
-Tis good to speak in Aind/y guise,  
-And soothe where&#x27;er we can ;  
-Fair speech should bind the human mind,  
-And love /ink man to man.  
+&quot;Piss well te woo, &quot;tis well to wed,  
+For se the world hath done  
   
-1. Analyse the above passage.  
+Sines myriles grow and roses blew,  
+And morning brought the sun.  
   
-2. Parse the words in italics,
+Baus have a care, yo young and fair,  
+Be suee you pledge in truth;  
+  
+Be cortadm that your love will wear  
+Begomd the days of youth!  
+  
+Far #f ye give not heart for heart,  
+As well as band for hand,  
+  
+You&#x27;d fimd you&#x27;ve played the unwise part,  
+And “built upon ths sand.&quot;  
+  
+&quot;Tis well de save, &quot;tis well to have  
+A goodly stors ot gold,  
+  
+And emongh of shining stuff,  
+For ebarity is cold.  
+  
+But place net all your hopes and trust  
+In what the deop mine brings;  
+  
+We eanaot live on yellow dust  
+Unsedmed with purer things,  
+  
+And he whe piles up wealth alone,  
+Will often have to stand  
+  
+Beside the eoffer chest, and own  
+*T4is “bans mpon the sand.&quot;  
+  
+&quot;Tis good to speak in friendly Luise  
+And exthe where&#x27;er we  
+  
+Faur speech should bind the human mind  
+And love link man to man,  
+  
+But stop not at the gentle words;  
+Yet deeds with language dwell;  
+  
+The one who pities starving birds,  
+Should seatter crumbs as well,  
+  
+The mevey that is warm and true  
+Must lend a helping band  
+  
+For theses that talk and fail to do,  
+Bat “baikl upon the sand.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_practical-teacher-teachers-art-monthly_1885-08_5_6&#0036;36/pct:48.878205,43.479284,27.243590,5.367232/600,/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_centrereporter1_ver01%2Fdata%2Fsn83032058%2F13362143%2F1885042201%2F00003.jp2/pct:13.202247,7.825630,16.836376,22.767857/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Highlander, Macon County and western North Carolina advertiser._](https://newspapers.digitalnc.org/lccn/sn91068716/1885-08-21/ed-1/seq-5/)
+
+#### 1885-08-21 &middot; [Highlands, Macon Co., N.C.](http://dbpedia.org/resource/Highlands%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+; BUILDING VPON THE SAfJD.  
+&#x27;Tis well to woo, &#x27;tis well to wed,  
+For bo the world has done  
+Bince myrtles grew, and roses blew,  
+And morning brought the sua  
+But hare a care, ye young and fair;  
+Be sure ye pledge with truth;  
+Be certain that your love will wear  
+Beyond the days of youth.  
+For if ye give not heart to heart,  
+As well as hand for hand,  
+You&#x27;ll find you&#x27;ve played the &quot;unwise part,&quot;  
+i And &quot;built upon the sand.&quot;  
+Tis well to save, &#x27;tis well to have  
+A goodly store of gold,  
+And hold enough of sterling stuff  
+For charity is cold.  
+But place not all your hopes and trusts  
+  
+In what the deep mine brings;  
+We can not live on yellow dust  
+Unmixed with purer things.  
+And he who piles up wealth alone  
+Will often have to stand  
+Beside his coffer-chest, and own  
+&#x27;Tis :&#x27;built upon the sand.&quot;  
+Tis good to speak in kindly guise,  
+And soothe whate&#x27;er we can ;  
+For speech should bind the human mind,  
+And love link man to man.  
+But stay not at the gentle words;  
+Let deeds with language dwell;  
+The one who pities starving birds  
+Should scatter seeds as well.  
+The mercy that is warm and true .  
+Must lend a helping hand;  
+For those who talk, yet fail to do,  
+; But &quot;build upon the sand.&quot;  
+Eliza Cook.  
+  
+PUNGE.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_HighMCNCA1n_ver01%2Fdata%2F1885082101%2F0019.jp2/pct:13.863428,7.467429,25.802016,42.087703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8930,44 +8077,66 @@ upon the sand.&quot; &#x27; , * - &#x27; , ELIZA COOK.
 
 ---
 
+## [From _The Abbeville messenger._](https://www.loc.gov/resource/sn93067668/1885-10-21/ed-1/?sp=2)
+
+#### 1885-10-21 &middot; [Abbeville, S.C.](http://dbpedia.org/resource/Abbeville%2C_South_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+&#x27;  
+Bnlldlai Upon the Sud*  
+^Xfew*nto woo, *tto well to wed,  
+W? so the world baa done  
+}&#x27;.. Biaee myrtles grow, end roses blov%  
+And morning bronght the snn.  
+llui have a oaro, yo youne and fai^  
+\v -&#x27; &#x27; Mu enns ye pledge with truth;  
+Ba certain that yoor lore will wear  
+Beyond tte days of youth.  
+For if yo give not hoart to heart,  
+As well as hand for hand,  
+Sou&#x27;il find you&#x27;vo played the &quot;unwise part,&quot;  
+  
+.ana &quot;oaiis upon uio sand.&quot;  
+*Tw -well to ?avo, &#x27;tis well to have  
+A goodly store of gold,  
+&#x27;And bold enough ot sterling stuff?  
+For charity ia cold.  
+Skit place not all yoar hopes and trust  
+In -what the deep mine brings;  
+We cannot live on yellow dust  
+Unmixed with purer things.  
+And he who piles up wealth alone  
+Will often have to stand  
+Beside his coffor-chest, and own  
+Ha &quot;built upon the sand.&quot;  
+*Tis good to 8peak in kindly guiso,  
+And soothe whate&#x27;ur wo can;  
+For speech would bind tho human mind,  
+And love link man to man.  
+But stay not nt tho gentle words;  
+Let deedj with liuiguogo dwell;  
+:jv The ono who pities starving birds  
+Should scatter crumbs as well.  
+Tho meicy that is warm and truo  
+Must lend a helping hand;  
+For tlioso who talk, yet fail to do,  
+But &quot;build upon the sand.&quot;  
+?Eliza Cook,
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kingjulius_ver01:data:sn93067668:00202193961:1885102101:0208/pct:-0.187120,3.030651,17.464525,24.004133/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1885-10-31_59_13/page/n3/mode/1up?view=theater)
 
 #### 1885-10-31 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-m came o’er that sea of blue  
-To scatter near  
-And then, afar,  
-  
-These fragments of our gallant ships,  
-So firmly launched  
-From sandy bar?  
-  
-O, we may never, never know:  
-Some wave’s unreckoned  
-Might may bear  
-  
-Against our strongest vessel’s length,  
-The blow so freighted  
-With despair;  
-  
-And over all our hopes and fears,  
-he glimmering billows  
-Langh and play.  
-These rolling years with sunlight crowned,  
-Do mock the storms  
-Of yesterday !  
-  
-But bring they joy or bring they woe  
-Upon their waves  
-So wild and free,  
-  
-O, cast the anchor of our faith  
-Beyond the fretting  
-Of the sea.  
-  
-Selected.  
+.  
 BUILDING ON THE SAND.  
   
 Tis well to woo, ’tis well to wed,  
@@ -9017,21 +8186,30 @@ Should scatter crumbs as well;
 The mercy that is warm and true  
 Must lend a helping hand,  
 For those that talk, yet fail to do,  
-But “ build upon the sand.
+But “ build upon the sand.”  
+—Eliz
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friend-a-religious-and-literary-journal_1885-10-31_59_13&#0036;3/pct:42.710843,29.395852,23.795181,60.414788/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_friend-a-religious-and-literary-journal_1885-10-31_59_13%2Fsim_friend-a-religious-and-literary-journal_1885-10-31_59_13_jp2.zip%2Fsim_friend-a-religious-and-literary-journal_1885-10-31_59_13_jp2%2Fsim_friend-a-religious-and-literary-journal_1885-10-31_59_13_0003.jp2/pct:42.831325,55.342651,21.777108,35.211903/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Sword and shield._](https://chroniclingamerica.loc.gov/lccn/sn87065018/1885-11-14/ed-1/seq-1)
+## [From _Sword and shield._](https://www.loc.gov/resource/sn87065018/1885-11-14/ed-1/?sp=1)
 
 #### 1885-11-14 &middot; [Clinton, Miss.](http://dbpedia.org/resource/Clinton%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ledge with truth  
+  
+  
+BUILDING ON THE SAND.  
+&#x27;Tii well to woo, &#x27;tis well to weil,  
+For so the world baa done  
+Since myrtles grew and roses blew,  
+And morning brought the sun.  
+Rat have a care, ye young and fair,  
+lie sure ye pledge with truth  
 lie certain that your love will wear  
 Beyond the days of youth!  
 For if you give not heart for heart,  
@@ -9061,9 +8239,9 @@ Should scatter crumbs as well.
 The mercy that is warm and true  
 Must lend a helping hand,  
 For those who talk, yet fail to do,  
-But &#x27; &#x27;build upon the sand. &#x27; 
+But &#x27; &#x27;build upon the sand. &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_ikat_ver01%2Fdata%2Fsn87065018%2F00199917316%2F1885111401%2F0123.jp2/pct:6.568047,18.145509,10.562130,14.842401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_ikat_ver01:data:sn87065018:00199917316:1885111401:0123/pct:6.568047,14.863990,10.562130,18.123921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9077,7 +8255,7 @@ But &#x27; &#x27;build upon the sand. &#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+Building; upon the Sand, v * 1 —£ltia  
 Cook, &#x27;Tia well to woo, &#x27;tis well to  
 wed, For so the world has dono Since  
 myrtleB grew, and roses blew, And  
@@ -9108,18 +8286,20 @@ starving birds Should scatter orumbe as
 well. The mercy that is warm and true  
 Mast lend a helping hand; , For those  
 who talk, yet fail to do, But &quot; build  
-upon the sand.
+upon the sand.&quot;
 </td></tr></table>
 
 ---
 
-## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1885-12-23/ed-1/seq-3)
+## [From _The Abbeville press and banner._](https://www.loc.gov/resource/sn84026853/1885-12-23/ed-1/?sp=3)
 
 #### 1885-12-23 &middot; [Abbeville, S.C.](http://dbpedia.org/resource/Abbeville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+BUILDING UPON THE 8AND.  
+&#x27; -T&amp;  
 &#x27;Tis -well to woo, &#x27;tis well to wed,  
 For so the world has done  
 Since myrtles&#x27;grew, and roses blew,  
@@ -9156,21 +8336,31 @@ Should ssatter crumbs as welL &#x27;,
 The mercy that is warm and true  
 Must lend a helping hand;  
 For those who talk, yet fail to do,  
-But &#x27;&#x27;build upon the sand.
+But &#x27;&#x27;build upon the sand.&quot;  
+?Eliza Cook
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F00202194059%2F1885122301%2F0311.jp2/pct:84.369458,3.693763,13.847662,19.951431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194059:1885122301:0311/pct:84.360123,2.588190,15.569868,21.587423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The weekly Floridian._](https://chroniclingamerica.loc.gov/lccn/sn82015289/1885-12-31/ed-1/seq-1)
+## [From _The weekly Floridian._](https://www.loc.gov/resource/sn82015289/1885-12-31/ed-1/?sp=1)
 
 #### 1885-12-31 &middot; [Tallahassee, Fla.](http://dbpedia.org/resource/Tallahassee%2C_Florida)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-f yonth;  
+  
+uiitusß ires tbs lASa.  
+’Tis well to woo, ’t is well to wed,  
+For bo the world hath done  
+Since myrtlen grew, sod roses blew,  
+Ana morning brought tbe tan.  
+But hare a care, ye young and fcir;  
+Be sure you pledge with troth;  
+Be certain that your lore will wear  
+Beyond the days of yonth;  
 For if ye give not heart to heart,  
 As well at hand for hand.  
 You’ll find you’re played the &quot;unwise part, ”  
@@ -9198,21 +8388,24 @@ Should scatter crumbs as well
 The mercy that is warm M true  
 M Qst tend a helping band;  
 For those who talk, yet foil to do,  
-But &quot; build upon the saud.
+But &quot; build upon the saud.”  
+• —BUza Cook,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/fu_frenchfries_ver01%2Fdata%2Fsn82015289%2F00414180577%2F1885123101%2F0069.jp2/pct:29.503745,13.946899,10.772472,11.092455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_frenchfries_ver01:data:sn82015289:00414180577:1885123101:0069/pct:29.494382,10.336866,10.772472,15.069787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The pioneer express._](https://chroniclingamerica.loc.gov/lccn/sn88076741/1886-01-22/ed-1/seq-1)
+## [From _The pioneer express._](https://www.loc.gov/resource/sn88076741/1886-01-22/ed-1/?sp=1)
 
 #### 1886-01-22 &middot; [Pembina, Dakota [N.D.]](http://dbpedia.org/resource/Pembina%2C_North_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+BUILDING UPON THE BAND.  
   
 &#x27;XbiwelLto woo, &#x27;tia wail to wed. ...  
 For so the world haa done  
@@ -9261,15 +8454,18 @@ The mercy that is warm and true
 Must lend a helping hand  
 For those who talk yet fail to do,  
   
-But &quot;build upon the Band.
+But &quot;build upon the Band.&quot;  
+ELIZA COOE.  
+  
+Daughters o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_almont_ver01%2Fdata%2Fsn88076741%2F00295863559%2F1886012201%2F0973.jp2/pct:70.252275,13.566374,9.867659,14.349364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_almont_ver01:data:sn88076741:00295863559:1886012201:0973/pct:70.239868,12.409907,9.875931,16.865417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The Jasper weekly courier._
+## [From _The Jasper weekly courier._](https://www.loc.gov/resource/sn84023963/1886-01-29/ed-1/?sp=8)
 
 #### 1886-01-29 &middot; [Jasper, Ind.](http://dbpedia.org/resource/Jasper%2C_Indiana)
 
@@ -9300,8 +8496,12 @@ n haint nnon tha sad
 -Eliza Cook.  
 EvansvillE COurer.  
 The price of keeping gold from &quot;run  
-ning out of the countre&quot; is universa
-</td></tr></table>
+ning out of the countre&quot; is universal  
+stayed with us even when i
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295900:1886012901:0453/pct:22.336102,7.012488,15.762502,26.248799/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -9348,13 +8548,14 @@ those who talk, yet faTT to do. But
 
 ---
 
-## [From _New York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85026214/1886-02-21/ed-1/seq-7)
+## [From _New York dispatch._](https://www.loc.gov/resource/sn85026214/1886-02-21/ed-1/?sp=7)
 
 #### 1886-02-21 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+BUILDING UPON THE SANDS.  
+BY ELIZA COOK.  
 ’Tis well to woo, &#x27;tis well to wed,  
 For so the world has done  
 Since myrtles grew and rosea blew,  
@@ -9390,21 +8591,26 @@ Should scatter crumbs as well.
 The mercy that is warm and true  
 Must lend a helping hand;  
 -For those who talk, yet fail to do.  
-But “ build upon the sand.
+But “ build upon the sand.”  
+THE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_hughes_ver01%2Fdata%2Fsn85026214%2Fprint00205958289%2F1886022101%2F0007.jp2/pct:5.698596,7.747379,10.717501,11.867170/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hughes_ver01:data:sn85026214:print00205958289:1886022101:0007/pct:4.609291,6.507287,11.793302,14.599847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Abbeville press and banner._](https://chroniclingamerica.loc.gov/lccn/sn84026853/1886-03-31/ed-1/seq-8)
+## [From _The Abbeville press and banner._](https://www.loc.gov/resource/sn84026853/1886-03-31/ed-1/?sp=8)
 
 #### 1886-03-31 &middot; [Abbeville, S.C.](http://dbpedia.org/resource/Abbeville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+The Press and Banner;  
+_ (  
+Wednesday, March 31,1886. !  
+n . i i , . ? i  
+Building Upon the Sand. &lt;  
 &#x27;TIs well to woo.&#x27;tls well to wed, j  
   
 r i?i evi me wui iu una uuue i  
@@ -9445,19 +8651,35 @@ Must lend a helping hand;
 For those who talk, yet fail to do,  
 But &quot;build upon the sand.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F00202194059%2F1886033101%2F0428.jp2/pct:3.800398,7.326707,13.581447,14.035423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194059:1886033101:0428/pct:2.860714,3.545489,14.595195,17.813456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Lake Charles echo._](https://chroniclingamerica.loc.gov/lccn/sn86053696/1886-06-12/ed-1/seq-1)
+## [From _The Lake Charles echo._](https://www.loc.gov/resource/sn86053696/1886-06-12/ed-1/?sp=1)
 
 #### 1886-06-12 &middot; [Lake Charles, Parish of Calcasieu, La.](http://dbpedia.org/resource/Lake_Charles%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+BÏ ELISA COOK.  
+&#x27;T1« well to woo, &#x27;tl. good to wed,  
+For bo the world hau done  
+Since myrtles grew and rosea blew.  
+And morning brought the sun.  
+But have a care, ye young and fair—  
+Be sure you pledge with truth—  
+Be certain that your love will wear  
+Beyond the days of youth.  
+For, if we give not heart to heart,  
+As well as hand to hand,  
+You&#x27;ll And you&#x27;ve played the unwise part  
+uiit upon the sand.&quot;  
+&#x27;Tls well to save, &#x27;tit well to have  
+For charity Is cold.  
+But place not all your hop  
 Will often Î  
 Beside his coffer chest, and own  
 &#x27;Tls &quot; built upon the sand.&quot;  
@@ -9474,18 +8696,19 @@ Must lend a helping band ;
 For those who talk, yet fall to do.  
 But &quot; build upon the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_lapras_ver01%2Fdata%2Fsn86053696%2F00295873954%2F1886061201%2F0981.jp2/pct:48.268921,31.170483,9.581320,6.663486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lapras_ver01:data:sn86053696:00295873954:1886061201:0981/pct:48.268921,21.008270,9.943639,16.825700/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Dawson journal._](https://chroniclingamerica.loc.gov/lccn/sn89053287/1886-08-05/ed-1/seq-4)
+## [From _The Dawson journal._](https://www.loc.gov/resource/sn89053287/1886-08-05/ed-1/?sp=4)
 
 #### 1886-08-05 &middot; [Dawson, Ga.](http://dbpedia.org/resource/Dawson%2C_Georgia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
   
 *Tis well to woo, &#x27;tis well to wed  
 For so the world has done  
@@ -9504,19 +8727,21 @@ Here is a sentiment from the
 Bpringfield Union that will de to  
 keep: “We have talked a goo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_abby_ver02%2Fdata%2Fsn89053287%2F00517177155%2F1886080501%2F0720.jp2/pct:7.980179,55.761303,12.373761,8.126647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_abby_ver02:data:sn89053287:00517177155:1886080501:0720/pct:10.284984,71.942446,15.966387,10.490517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The Ouachita telegraph._
+## [From _The Ouachita telegraph._](https://www.loc.gov/resource/sn85034336/1886-08-21/ed-1/?sp=4)
 
 #### 1886-08-21 &middot; [Monroe, La.](http://dbpedia.org/resource/Monroe%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+BTtEDTNG ON THE SAND.  
+HY ELIEA COOK.  
 &#x27;Tis well to woo, &#x27;tis good to wed,  
 Ior so the world has done  
 Since myrtles grew and roses blew,  
@@ -9553,7 +8778,10 @@ The mercy that is warm and true,
 Must lend a helping hand;  
 For those who talk, yet fail to do,  
 But &quot;build upon the sand.&quot;
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_angel_ver01:data:sn85034336:00211101040:1886082101:0273/pct:8.932760,5.375481,14.268960,21.566110/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -9565,7 +8793,7 @@ But &quot;build upon the sand.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-BUILDING UPON THE SANDS. &#x27;Tis well to  
+. &#x27;Tis well to  
 woo,&#x27; tis well to wed, For so the world  
 ban Hone fiince myrtles grew and rosus  
 blow. Ami llie morning brought tho sun;  
@@ -9595,99 +8823,39 @@ slatving birds Must scatleV&#x27;crumbs as
 well. The mercy that is waim aud true  
 Must lend an helping hand For those who  
 talk, yet fail to do, Bnt &quot; build upon  
-tho sand.&quot;
+tho sand.
 </td></tr></table>
 
 ---
 
-## Children's Aid Society
+## [From _Spokane Falls review._](https://www.loc.gov/resource/sn86072021/1889-06-13/ed-1/?sp=7)
 
-#### From _Morning Oregonian._
-
-#### 1887-11-12 &middot; [Portland, Or.](http://dbpedia.org/resource/Portland%2C_Oregon)
-
-[This text is not available under an open license.]
-
----
-
-## Gems of Liberal Thought
-
-#### From _Boston investigator._
-
-#### 1888-05-30 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
-
-[This text is not available under an open license.]
-
----
-
-## [From _The Columbia herald._](https://chroniclingamerica.loc.gov/lccn/sn96091104/1891-05-22/ed-1/seq-1)
-
-#### 1891-05-22 &middot; [Columbia, Tenn.](http://dbpedia.org/resource/Columbia%2C_Tennessee)
+#### 1889-06-13 &middot; [Spokane Falls, W.T. [Wash.]](http://dbpedia.org/resource/Spokane%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Tis wise to woo, tis well to wed,  
+&#x27;Tis well to woo, &#x27;tis well to wed,  
 For so the world has done  
-Since myrtle grew and roses blew  
-And morning brought the Sun.  
+Since myrtles grew and roses bleu,  
+And morning brought the sun.  
   
-But have a care, ye young and fair,  
+But have a care, ve young and fair,  
+He sure ye pledge with truth,  
+Be certain that your love with wear  
+Seyond the days of youth.  
   
-lie sure you pledge wito trum,  
-Be certain that your love will wear  
+For if you give not heart for heurt,  
+As well as hand for hand,  
+You&#x27;ll find you&#x27;ve played the unwise part  
+And &quot;built upon the sand,  
+--MRS. L. L. SHIEIdS.  
+Medical Lake, June b.  
   
-Beyond the daysoi youiu.  
-  
-at  
-  
-his  
-  
-wi e  
-  
-The Whileley TrioicBl or Three Wheel Mower.  
-  
-For if you give uot heart to neart,  
-  
-As well as hand ior nand,  
-You&#x27;ll find you&#x27;ve played the foolish  
-part ,  
-And built upon the Sand.  
-&#x27;Ti well to save, &#x27;tis well to have  
-  
-A goodly store of gold,  
-  
-And noia enougn . i  
-For charity is cold.  
-  
-But place not all yoftr hopes and trusts  
-In wuat the deep mine brings;  
-We cannot live on yellow dust,  
-  
-Unmixed with purer tilings.  
-  
-Vnd he who piles up wealth alone  
-Will often have to stand  
-Beside his copper chest and own  
-Tis &quot;built up the Sand.&quot;  
-Tis good to speak in kindly guise,  
-  
-nd soolne wueu e r wo vnm  
-For speech should bind the human  
-mind,  
-And love link man to man.  
-But stay not at the gentle words,  
-ret deeds with language dwell;  
-I&#x27;he one who pities starving birds  
-Should scatter crumbs as welu  
-  
-The mercy that is warm and true  
-  
-Must lend a neiping uanu;  
-Kor those who talk, yet fail to do,  
-But &quot;build upon the Sand.
+A SAD CASE  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn96091104%2F00296020825%2F1891052201%2F0090.jp2/pct:7.637907,60.246549,39.771120,19.913602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072021:no_reel:1889061301:1057/pct:67.272462,87.148594,14.276330,8.281776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9744,7 +8912,7 @@ ilie sand.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ &#x27;Tis woi ao woo,  
 is well to wed; For so the world hoas  
 done, Since myrtles grew; and loses  
 blow, And morning brouight the sun. But  
@@ -9774,7 +8942,7 @@ starving birds, Should scatter crumbs as
 well, The mercy that is warm and true,  
 Must lend a helping hand; For those that  
 talk, yet fail to do Eave &quot;Built upon  
-the Sand.
+the Sand
 </td></tr></table>
 
 ---
@@ -9787,7 +8955,7 @@ the Sand.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+SELECT POETRY, ? o ? BUILDING ON THE  
 SAND. . &#x27;Tis well to woo, &#x27;tis well to  
 wed ; For so the world has done, Since  
 .myrtles grew, and roses blew, And  
@@ -9811,94 +8979,14 @@ and owa &#x27;Tis &#x27; built upon the saud.&#x27;
 &#x27;Tis good to speak in kindly guise, And  
 soothe where&#x27;er w« car. ; Fair speech  
 should bind tiia human mind, Andiovja  
-link man t
-</td></tr></table>
-
----
-
-## [Building upon the Sand.](http://trove.nla.gov.au/ndp/del/article/76574629)
-
-#### From _Warwick Argus (Qld. : 1879 - 1901)_
-
-#### 1897-08-07 &middot; [Warwick, Queensland](http://dbpedia.org/resource/Warwick%2C_Queensland)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-well to woo, &#x27;LIB well lo wed, For «o  
-the world has done Since myrtles grew,  
-And roses blew, And morning brought tlio  
-sun. Hut have a care, yc young mid fair  
-; He sure ye pledge with truth ; lie  
-certuin that your love will wear Reyoud  
-the days of youth. For if ye give not  
-heart to heart, As well as hand for  
-hand, You&#x27;ll find you&#x27;ve played I he &lt;(  
-unwise par And u built upou tho Baud.&quot;  
-&#x27;Tie well to save, &#x27;twas well to have A  
-goodly store of gold, And hold enough of  
-sterling stuff For charity is cold. But  
-place Dot all yojr hopes and trust ID  
-wh*t the docp mine brings y We can not  
-live on yellow dust Unmixed with purer  
-things. Aud he who piles up wealth alone  
-Will often have to stand liesiJe hid  
-cofler&#x27;chcst, and owu &#x27;Tie &quot; built upon  
-the sand.&quot; &#x27;Tie good to speak in kindly  
-cuiso, And soothe whate&#x27;er we can ; For  
-speech should biud the human mind, And  
-love link man to man. But stay not at  
-the gentle words ; Lei deeds with  
-language dwell; Thf one who pities  
-starving birds Should scatter crumbs as  
-well. The inercy that is warm and true  
-Must lead a helping liaud ; For those  
-who talk, yet fail to do, But &quot; build  
-upon the sand.&quot; -ELIZA COOK
-</td></tr></table>
-
----
-
-## [Building upon the Sand.](http://trove.nla.gov.au/ndp/del/article/170138692)
-
-#### From _Darling Downs Gazette (Qld. : 1881 - 1922)_
-
-#### 1897-08-14 &middot; [Darling Downs, Queensland](http://dbpedia.org/resource/Darling_Downs)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-upou the Sand. .&#x27;Tis well to woo, &#x27;tis  
-well to wed, For so the world has dono  
-Since myrtles grew, end roseB blew, And  
-morning brought the sun. But have a  
-care, ye young und fair ; Bo sure yo  
-plcdgo with truth ; ? &#x27; . Be certain  
-that your lovo will wear Beyond the days  
-of youth. For if ye givo not heart to  
-heart, As woll as bund for hand, You&#x27;ll  
-find you&#x27;ve played the &#x27; uuwise part,&#x27;  
-And &#x27; built upon tho saud.&#x27; Tis woll to  
-save, &#x27;twas well to liavo , A goodly.  
-store of gold, , And hold enough of  
-sterling stuff— For ohariiy is oold. But  
-placo not ull your hopes and trust -In  
-what the deep mine brings ; Wo can not  
-livo on yellow dust Unmixed with purer  
-things. And ho who piles up wealth alone  
-&#x27; Will often have to stand ? Besido his  
-coffer-chest, and own -Tie built upon  
-the sand.&#x27; &#x27;Ti&#x27;b good to speak in kindly  
-guise, j, And Soothe whate&#x27;er we can ; .  
-- For speeoh should bind the human mind,  
-And loro link man tp pian. . But stay  
-not at the gentle words ; Let dcods with  
-language dwell ?, Thu ouo who pities  
-starving birds ?&#x27; Should scatter crumbs  
-as well. The meroy that is warm and true  
-Mast lend a helping hand ; For those who  
-talk, yet fail to do, . But &#x27; build upon  
-the sand.&#x27; :._i : — Eliza Cook
+link man to man. . But stop not at the  
+gentle words, Let deeds -with language  
+dwell ; The one who pities starving  
+birds, Should scatter crumbs a9 well.  
+The mercy that is warn1 and true, Must  
+lend a helping hnnd ; For those who  
+talk, yet fail to do s Have &#x27; built upon  
+the sand.
 </td></tr></table>
 
 ---
@@ -9911,7 +8999,7 @@ the sand.&#x27; :._i : — Eliza Cook
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-BUILDING UTON THE SAND. 15s well to woo,  
+ 15s well to woo,  
 tia well to wed. For so the world has  
 done Since myrtles grew, and roses blew.  
 Bat bare a care, ye young and (air ; Be  
@@ -9933,12 +9021,12 @@ eoothe whatever we can ; For speech
 should bind the human mind, A love link  
 man toman. But stay not at the words ;  
 Let deeds with language dwell : The one  
-who pitta i starving hirda The mercy
+who pitta i starving hird
 </td></tr></table>
 
 ---
 
-## [From _The Mt. Sterling advocate._](https://chroniclingamerica.loc.gov/lccn/sn86069675/1897-11-30/ed-1/seq-8)
+## [From _The Mt. Sterling advocate._](https://www.loc.gov/resource/sn86069675/1897-11-30/ed-1/?sp=8)
 
 #### 1897-11-30 &middot; [Mt. Sterling, Ky.](http://dbpedia.org/resource/Mount_Sterling%2C_Kentucky)
 
@@ -10003,7 +9091,7 @@ Must lend a helping hand
 For those who talk yet fall to do  
 But build upon tho san
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_casablanca_ver01%2Fdata%2Fsn86069675%2F00206534199%2F1897113001%2F0586.jp2/pct:26.443879,9.186865,12.858700,17.380115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn86069675:00206534199:1897113001:0586/pct:35.239651,12.249153,17.120552,23.169143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10017,7 +9105,7 @@ But build upon tho san
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ &#x27;Tis  
 well to woo, &#x27;tis well fco wed}-&#x27;&#x27; . For  
 so the world has done, Since myrtles  
 grew, and roses blew, And morning  
@@ -10048,18 +9136,17 @@ pities starving birds *. - &#x27; Should
 scatter crumbs as well. The mercy that  
 is warm and true Must lend a helping  
 hand ; For those who talk, yet !ail to  
-do. But &#x27; build upon the sand.&#x27; — Eliz
+do. But
 </td></tr></table>
 
 ---
 
-## [From _Audubon County journal._](https://chroniclingamerica.loc.gov/lccn/sn87057934/1898-01-27/ed-1/seq-3)
+## [From _Audubon County journal._](https://www.loc.gov/resource/sn87057934/1898-01-27/ed-1/?sp=3)
 
 #### 1898-01-27 &middot; [Exira, Iowa](http://dbpedia.org/resource/Exira%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 •is well to woo, &#x27;tis well to wed, ,i  
 For so the world has done i.  
 Since myrtles grew and roses blew -f&#x27;  
@@ -10106,9 +9193,9 @@ The mercy that is warm and true (V
 Must lend a helping hand,  
 For those who talk, yet fail to do,  
   
-But &quot;build upon the sand.
+But &quot;build upon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_jackson_ver01%2Fdata%2Fsn87057934%2F0041562265A%2F1898012701%2F0292.jp2/pct:21.711156,6.120534,12.490694,16.620384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jackson_ver01:data:sn87057934:0041562265A:1898012701:0292/pct:27.138584,7.641430,15.593220,20.785252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

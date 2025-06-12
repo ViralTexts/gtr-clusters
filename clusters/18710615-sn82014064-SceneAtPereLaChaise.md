@@ -1,7 +1,7 @@
 
 # The Scene at Pere la Chaise
 
-### 38 reprints from 1871-06-01 to 1871-08-19
+### 39 reprints from 1871-06-01 to 1871-08-19
 
 ## [The Scene at Pere la Chaise](https://chroniclingamerica.loc.gov/lccn/sn82014064/1871-06-15/ed-1/seq-1/)
 
@@ -119,62 +119,58 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 
 ---
 
-## From _New-York tribune._
+## [From _New-York tribune._](https://www.loc.gov/resource/sn83030214/1871-06-14/ed-1/?sp=1)
 
 #### 1871-06-14 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-The Cemetery of Pere-la-Chaise presents a  
-deplorable sight; the resting places of the dead are much  
-deliled; the monuments have been greatly imured by  
-the firing; coffins have been broken, and the remains lie  
+, the monuments have been greatly imured by  
+the firing; coffins have been broken, and the remains hie  
 scattered over the ground. You may measure the dead  
 not by numbers but by the rod. They lie in a double tier  
 on the grass, powdered over with a coating of lime.  
 There are many women among them, and faces the  
 ferocity of which makes one sick to look upon
-</td></tr></table>
-
----
-
-## [From _Chicago tribune._](https://chroniclingamerica.loc.gov/lccn/sn82014064/1871-06-15/ed-1/seq-1)
-
-#### 1871-06-15 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Americans.”  
-  
-Another letter say*: “The crmeiery at Pare  
-La Chaise preetuts a deplorable aigot. Toe  
-monuments nave been greatly injured by the flr­  
-leg. Cofflni have been broken, and mo remaloi  
-He scattered over thegioaod. Yon may measure  
-the dead not by number?, but by tne rod- Tney  
-Me m a double tier on the gtaae, powdered orer  
-vttQ a coating of lime. There are many women  
-among them, and faces tne ferocity of which  
-males cue aid to lock upon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_clark_ver03%2Fdata%2Fsn82014064%2Fno_reel%2F1871061501%2F0001.jp2/pct:32.336142,53.627482,8.740637,3.367233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531083:1871061401:0315/pct:17.325278,9.998853,16.084259,2.889577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The evening telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83025925/1871-06-15/ed-1/seq-1)
+## [From _Chicago tribune._](https://www.loc.gov/resource/sn82014064/1871-06-15/ed-1/?sp=1)
+
+#### 1871-06-15 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+&quot;  
+  
+Ancther letter says: &quot;The cemetery at Pare  
+La Chaise presents a deplorable signt. The  
+monuments have been greatly in jured by the fir­  
+ing. Coffins have been brokes, and the remains  
+lle scattered over the ground. You may messure  
+the dead not by numbers, but by the rod. They  
+lie in a double tier on the grass, powdered over  
+with a coating of lime. There are many women  
+amorg them, and faces the ferocity of which  
+makes the sick to look upon
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1871061501:0001/pct:32.359551,54.155990,8.717228,2.838725/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The evening telegraph._](https://www.loc.gov/resource/sn83025925/1871-06-15/ed-1/?sp=1)
 
 #### 1871-06-15 &middot; [Philadelphia [Pa.]](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-The Cemetery of Pere-la-Chalse prseents a  
-deplorable sight; the resting places of the dead  
-are mach defiled; the monuments have been  
+; the monuments have been  
 greatly injured by the firing; coffins have been  
 broken, and the remains lie scattered over the  
 ground. Yon may measure the dead not by  
@@ -184,39 +180,39 @@ of lime. There are many women among them,
 and faces the ferocity oi which makes one sick  
 to look npon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_grange_ver01%2Fdata%2Fsn83025925%2F00280776324%2F1871061501%2F0318.jp2/pct:4.848279,38.139046,14.477030,5.125509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn83025925:00280776324:1871061501:0318/pct:6.457627,52.109344,19.305085,5.572349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Knoxville daily chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033437/1871-06-17/ed-1/seq-2)
+## [From _Knoxville daily chronicle._](https://www.loc.gov/resource/sn85033437/1871-06-17/ed-1/?sp=2)
 
 #### 1871-06-17 &middot; [Knoxville, Tenn.](http://dbpedia.org/resource/Knoxville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-The Cemetery of Pere-la-Chafse presenta  
-a deplorable sight; the restingplacesof the  
+The Cemetery of Pere-la-Chaise presents  
+a deplorable sight; the resting places of the  
 dead are much defiled; the monuments  
-havebeeu greatly injured by the firing;  
-coffina have been broken, and -the remains  
+have beeu greatly injured by the firing;  
+coffins have been broken, and the remains  
 lie scattered over the ground. You may  
 measure the dead not by numbers but by  
-the rod. They lie in a double tier fon th  
+the rod. They lie in a double tieron th  
 grass, powdered over with a coating of  
-lime. &quot;There are&#x27; many womerramong  
-them, and faces the ; ferocity of which  
-makes one sick to&#x27;look upon
+lime. There are many women among  
+them, and faces the ferocity of which  
+makes one sick to look upon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_grady_ver01%2Fdata%2Fsn85033437%2F00200293708%2F1871061701%2F0596.jp2/pct:22.467091,7.971244,14.480106,5.846284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85033437:00200293708:1871061701:0596/pct:22.467091,7.971244,14.480106,5.846284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1871-06-18/ed-1/seq-2)
+## [From _The daily phoenix._](https://www.loc.gov/resource/sn84027008/1871-06-18/ed-1/?sp=2)
 
 #### 1871-06-18 &middot; [Columbia, S.C.](http://dbpedia.org/resource/Columbia%2C_South_Carolina)
 
@@ -236,46 +232,72 @@ double tier on tho grass, powdered over
 with a coating of lime. There are many  
 women among them, and faces, the fe?  
 rocity of which makes ono sick to look  
-upon
+upon.  
+*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_alexiavalentine_ver01%2Fdata%2Fsn84027008%2F00294551554%2F1871061801%2F0270.jp2/pct:65.791280,59.135785,16.334821,9.000321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551554:1871061801:0270/pct:65.791280,59.126601,16.323378,9.395234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Knoxville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033438/1871-06-21/ed-1/seq-8)
+## [From _The morning star._](https://newspapers.digitalnc.org/lccn/sn84026537/1871-06-21/ed-1/seq-2/)
+
+#### 1871-06-21 &middot; [Wilmington, N.C.](http://dbpedia.org/resource/Wilmington%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+He  
+&quot;The Cemetery ofiPere-la-Chaisff- Pre  
+  
+sents a deplorable sight;the resting places  
+tf 6f the deatl &#x27;are much defiled; the 1 monuv.  
+rmenta have-been -greatly-injured 7 by the­  
+- firing; coffinshave been broken, &#x27;and jtKe  
+remains lie , scattered&quot; over the . ground.  
+,.&#x27;t You JaaJlneasuJw-th0:4eBdmot.bxnum  
+i-&#x27;ifter?lut !b;ith;cTOeJlnrdble  
+&#x27;,,uer.on.the, rasrVHe pyr&#x27;wuth a  
+Coating bf lime. There are many Nvorhep  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarWilm58n_ver01%2Fdata%2F1871062101%2F0586.jp2/pct:3.371659,107.009779,22.545059,9.161091/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Knoxville weekly chronicle._](https://www.loc.gov/resource/sn85033438/1871-06-21/ed-1/?sp=8)
 
 #### 1871-06-21 &middot; [Knoxville, Tenn.](http://dbpedia.org/resource/Knoxville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-ueuu are inucu ueuieu; tno monuments  
-havo becu greatly Injured by the firing;  
-coffins have been broken, and tho remains  
+; the monuments  
+have been greatly injured by the firing;  
+coffins have been broken, and the remains  
 lie scattered over the ground. You may  
 measure the dead not by numbers but by  
 the rod. They lie in a double tier on the  
-grass, jxiwdercd over with n coating of j  
-lime. There nre many women among  
-them. niYd&#x27; fiifPM th fnnvrMtv of wlilnli  
-I UIUKVH UUI HICK HI IOOK UpUIl
+grass, powdered over with a coating of  
+lime. There are many women among  
+them, and faces the ferocity of which  
+e o o 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_furry_ver01%2Fdata%2Fsn85033438%2F00200293563%2F1871062101%2F0403.jp2/pct:25.393207,50.288092,17.278322,5.137644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033438:00200293563:1871062101:0403/pct:25.393207,50.288092,17.278322,5.137644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1871-06-21/ed-1/seq-1)
+## [From _Public ledger._](https://www.loc.gov/resource/sn85033673/1871-06-21/ed-1/?sp=1)
 
 #### 1871-06-21 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-dead are much defiled;&quot; the monuments  
+&quot; the monuments  
   
 have been greatly injured by the firing;  
 colling have been broken; and . tho re­  
@@ -287,9 +309,11 @@ double tier&#x27; ou the grass, powdered over
 with a coating of lime.. .There nremahy  
 women among them, and faoes tho fero  
   
-city of which makes ona sick to look
+city of which makes ona sick to look  
+  
+upon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779398%2F1871062101%2F0577.jp2/pct:44.696189,38.504754,12.461380,4.883319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779398:1871062101:0577/pct:59.575783,51.483722,16.598023,6.943244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -335,14 +359,13 @@ city of which makes ona sick to look
 
 ---
 
-## [From _The Charlotte Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84020713/1871-06-27/ed-1/seq-2)
+## [From _The Charlotte Democrat._](https://www.loc.gov/resource/sn84020713/1871-06-27/ed-1/?sp=2)
 
 #### 1871-06-27 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-much defiled ; the monuments have been  
+; the monuments have been  
 greatly injured by the firing ; coffins have  
 been broken, and the remains lie scattered  
 over the ground. You may measure the  
@@ -351,15 +374,15 @@ dead not by numbers but by the rod. They
 lie in a double tier on the grass, powdered  
 over with a coating of lime. There are many  
 women among them, and faces the ferocity  
-of which makes one sick to look upon.
+of which makes one sick to look upon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_dan_ver01%2Fdata%2Fsn84020713%2F00296022974%2F1871062701%2F0523.jp2/pct:52.000000,79.612661,14.808219,5.070804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022974:1871062701:0523/pct:52.000000,79.633486,14.808219,5.049979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Newberry herald._](https://chroniclingamerica.loc.gov/lccn/sn84026909/1871-06-28/ed-1/seq-1)
+## [From _The Newberry herald._](https://www.loc.gov/resource/sn84026909/1871-06-28/ed-1/?sp=1)
 
 #### 1871-06-28 &middot; [Newberry, S.C.](http://dbpedia.org/resource/Newberry%2C_South_Carolina)
 
@@ -383,19 +406,18 @@ manry women among them, andi
 faces, the ferocity of which makes&#x27;  
 one sick to look uponms
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_floydcouncil_ver01%2Fdata%2Fsn84026909%2F00237286984%2F1871062801%2F0531.jp2/pct:86.047567,73.909972,11.905410,9.356076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237286984:1871062801:0531/pct:86.043028,73.909972,11.900871,9.345983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _New national era._](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1)
+## [From _New national era._](https://www.loc.gov/resource/sn84026753/1871-06-29/ed-1/?sp=1)
 
 #### 1871-06-29 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 ?A late Paris letter states that the cemetery  
 of Pere la Chaise presents a deplorable sight;  
 the resting places of the dead are much defiled  
@@ -409,35 +431,36 @@ Iim&lt;h There are many women among them,
 and faces the ferocity of which makes one sick  
 to look upon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn84026753%2F0041562038A%2F1871062901%2F0175.jp2/pct:83.079913,58.518837,16.729545,5.440481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1871062901:0175/pct:83.079913,58.513107,16.725735,5.440481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Gold Hill daily news._
+## [From _Gold Hill daily news._](https://www.loc.gov/resource/sn84022046/1871-07-06/ed-1/?sp=2)
 
 #### 1871-07-06 &middot; [Gold Hill, N.T. [Nev.]](http://dbpedia.org/resource/Gold_Hill%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-TErrihle Aspeor oF Pere-LA­  
-CHAISE.  The Cemetery of Pere-la­  
-Chalse, Paris, presents a deplorable  
-sight; the resting places of the dead  
-are much defiled; the monuments  
-have been greatly injured by the firing;  
-coffins have been broken, and the re­  
+—The Cemetery of IVre-1a­  
+Chaise, Paris, presents a deplorable  
+sight ; the resting places of the dead  
+ore much defiled; the monuments  
+have been greatly injured by the firing ;  
+coffin* have been broken, and the re­  
 mains lie scattered over the ground.  
 You may measure the dead not by  
-numbers but by the rod. They lie in a  
+numbers but by the rod. Tliey lio in a  
 double tier on the grass, powdered  
-over with a coating of lime. There are  
+over with a coating ol lime. There are  
 many women among them, and faces  
 the ferocity of which make one sick to  
 look upon
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:0027955520A:1871070601:0020/pct:20.350944,80.486857,11.768072,6.266995/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -449,12 +472,7 @@ look upon
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-are now opening fast everywhere,  
-especially those devoted to the sale of  
-funeral wreaths. Perela-Chaise presents  
-a deplorable sight; the resting-places  
-of the dead are much defiled; the  
+; the  
 monuments have been greatly injured&quot;by  
 the firing; coffins have been broken,  
 and the remains lie scattered over the  
@@ -463,7 +481,8 @@ by numbers but by the rod. They -lie in
 a double tier on&#x27; the grass, powdered  
 over with a coating of lime. There are  
 many women among them, and faces the  
-ferocity of which makes one sick to loo
+ferocity of which makes one sick to look  
+upon
 </td></tr></table>
 
 ---
@@ -476,8 +495,7 @@ ferocity of which makes one sick to loo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-fire at the Hotel de Ville. At every  
+ at the Hotel de Ville. At every  
 corner prisoners might be seen ranged  
 against a wall and shot .by the score.  
 At three places they were executed in  
@@ -489,7 +507,7 @@ by the rod. &#x27; They lie (wrote one) in a
 double tier, powdered over with a  
 coating of lime. There are many women  
 among them with faces the ferocity of  
-which makes one sick to look upon. I
+which makes one sick to look upon
 </td></tr></table>
 
 ---
@@ -502,7 +520,8 @@ which makes one sick to look upon. I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ the  
+circuit and come down on the south-  
 eastern corner. Here, close to the  
 boundary wall, is a natural hollow. It  
 is full of dead. You may measure the  
@@ -510,7 +529,10 @@ dead, not hy the head, but by the yard
 and rood. There they lie in a double  
 tier on the grass, powdered over with a  
 coating of chloride of lime-a hundred  
-and fifty of them patent to the eye
+and fifty of them patent to the eye,  
+besides what have been hidden by the  
+earth which the gravethggers have flung  
+upo
 </td></tr></table>
 
 ---
@@ -523,7 +545,7 @@ and fifty of them patent to the eye
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ the sale of  
 funeral wreaths. PijrelaChaise presents  
 a deplorable sight; the resting places  
 of the dead are much defiled ; the  
@@ -536,7 +558,7 @@ double tier on the grass, powdered over
 with a coating of lime. . There are many  
 women among them, and fiicea the  
 ferocity of which makes one sick- to,  
-look upon.&#x27; In one place there was 
+look upon
 </td></tr></table>
 
 ---
@@ -549,8 +571,7 @@ look upon.&#x27; In one place there was
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-defiled; the monuments.have been greatly  
+; the monuments.have been greatly  
 injured by the fiiing;. coffins have:  
 been broken and the remains lie  
 scattered, over. the ground. You may  
@@ -559,7 +580,7 @@ bythe rod. They lie in a double&quot; tier on
 the grass;: powdered over, with it  
 coating of lime. There are many women  
 among :them, and faces the ferocity: of  
-which makes.one sick to look upon.. I
+which makes.one sick to look upon
 </td></tr></table>
 
 ---
@@ -572,8 +593,7 @@ which makes.one sick to look upon.. I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-oastorn corner. Here,&#x27;close to the  
+ to the  
 boundary, wall, is a natural hollow.  
 It..is full of dead.. Ton may measure  
 the deadj not by the; head, but by the  
@@ -582,7 +602,8 @@ double&#x27; tier on the grass,, powdered
 over with a. coating of chloride of  
 lime—a hundred and fifty of them patent  
 to the eye, besides: what have been  
-hidden by, the earth which th
+hidden by, the earth which the  
+gravediggers have flung upo
 </td></tr></table>
 
 ---
@@ -595,8 +616,7 @@ hidden by, the earth which th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-tho dead are much defiled. The monuments  
+. The monuments  
 have been greatly injured by tho-  
 firing; coffins have beon brokon, arid  
 tho rotnains lio scattered &#x27;over the  
@@ -605,7 +625,8 @@ numbers but by tho rod. They lie iu a
 double tier on tho grass, powdered over  
 with a coating of liine. Thoro ara many;  
 wotnen among thorn, and faces tho  
-ferocity of which makes ono Bick to loo
+ferocity of which makes ono Bick to look  
+upon
 </td></tr></table>
 
 ---
@@ -630,7 +651,8 @@ There they lie in a double tier on the
 grass, powdered over with a coating of  
 chloride of lime-a hundred and fifty of  
 them patent to the eye, besides what  
-have been hidden by the earth which th
+have been hidden by the earth which the  
+gravediggers have flung upo
 </td></tr></table>
 
 ---
@@ -643,9 +665,7 @@ have been hidden by the earth which th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-a deplorable sight; the restingplaces of  
-the dead are much defiled ; the  
+; the  
 monuments have been greatly injured by  
 the firing; coffins have been broken,  
 and the remains lie scattered over the  
@@ -654,7 +674,7 @@ numbers but by the rod. They he in a
 double tier on the grass powdered over  
 with a coating of lime. There are many  
 women among them, and Faces the ferocity  
-ot which makes one sick to look upon. I
+ot which makes one sick to look upon
 </td></tr></table>
 
 ---
@@ -667,7 +687,12 @@ ot which makes one sick to look upon. I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ the decomposing remains  
+spattered against the walls of the  
+vaults. But tho sight of the Pero La  
+Chaise in gbastliness is reserved to the  
+last. We make the circuit and come clown  
+on the south-eastern corner. Here, close  
 to the bonndary wall, is a natural  
 hollow. It is full of dead. You may  
 measure tho dead, not by the head, but  
@@ -676,7 +701,7 @@ a double tier on the grass,- powdered
 over with a coating of chloride of lime  
 — a hundred and fifty of them patent to  
 the eye, besides .what have been hidden  
-by tho onrth which the gravediggorshav
+by tho onrth whic
 </td></tr></table>
 
 ---
@@ -689,7 +714,12 @@ by tho onrth which the gravediggorshav
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ the  
+decomposing remains spattered against  
+the walls of the vaults. But the sight  
+of the Pere La Chaise in ghastliness is  
+reserved to the last. We make the  
+circuit and come down on the south-  
 eastern corner. Here, close to the  
 boundary wall, is a natural hollow. It  
 is full of dead. You may measure the  
@@ -698,7 +728,9 @@ aud rood. There they lie in a double
 tier on the grass, powdered over with a  
 coating of chloride of lime- a hundred  
 and fiftv of them natentto the eye.  
-besides what have been bidden by th
+besides what have been bidden by the  
+earth which the gravediggers have flung  
+upo
 </td></tr></table>
 
 ---
@@ -711,7 +743,12 @@ besides what have been bidden by th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ the  
+decomposing remains spattered against  
+the walls of the vaults. But the sight  
+of the Pdre la Chaise in ghastliness is  
+reserved to the last. We make the  
+circuit and come down on the south-  
 eastern corner. Here, close to the  
 boundary wall, is a natural hollow. It  
 is full of dead. You may measure the  
@@ -719,7 +756,10 @@ dead, not by the head, but by the yard
 and rood. There they lie in a double  
 tier on the grass, powdered over with a  
 coating of chloride of lime—a hundred  
-and fifty of them patent to the eye
+and fifty of them patent to the eye,  
+besides what have been bidden by the  
+earth which the gravediggers have flung  
+upo
 </td></tr></table>
 
 ---

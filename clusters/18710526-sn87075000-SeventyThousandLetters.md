@@ -1,7 +1,7 @@
 
 # Seventy Thousand Letters
 
-### 6 reprints from 1871-01-21 to 1871-06-29
+### 11 reprints from 1871-01-21 to 1871-10-07
 
 ## [Seventy Thousand Letters](https://chroniclingamerica.loc.gov/lccn/sn87075000/1871-05-26/ed-1/seq-1/)
 
@@ -23,7 +23,15 @@ SEVENTY THOUSAND letters, filling one hundred and fifty sacks, and weighing near
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-always be  
+  
+  
+  
+In a recent lecture upon “The Rights and  
+Wrongs of Children,’? Mrs. George Vandenhoff  
+claimed the right of a child to a good physical  
+training, a good happy home, and kind, court-  
+eous, truthful treatment in that home. While  
+she did not believe children could always be  
 governed without punishment, she denounced  
 whipping; and looked for the time when some  
 of the savans engaged in new translations of  
@@ -60,9 +68,40 @@ number of newspapers, are sorted out by them
 during each twenty-four hours. From two to  
 four hundred unstamped, misdirected, unaddress-  
 ed, or unsealed letters and packages daily accu-  
-mulate in the New York Post-oflice.
+mulate in the New York Post-oflice.  
+  
+  
+  
+Chri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_harpers-bazaar_1871-01-21_4_3&#0036;6/pct:51.128017,57.883212,19.622246,19.799270/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_harpers-bazaar_1871-01-21_4_3%2Fsim_harpers-bazaar_1871-01-21_4_3_jp2.zip%2Fsim_harpers-bazaar_1871-01-21_4_3_jp2%2Fsim_harpers-bazaar_1871-01-21_4_3_0006.jp2/pct:51.128017,54.927007,19.622246,23.978102/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Woman's Journal 1870-1916_](https://archive.org/details/sim_the-womans-journal_1871-01-28_2_4/page/n3/mode/1up?view=theater)
+
+#### 1871-01-28 &middot; [Boston, Massachusetts](http://dbpedia.org/resource/Boston)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+”  
+  
+In a recent lecture upon “The Rights and  
+Wrongs of Children,” Mrs. George Vandenhoff  
+claimed the right of a child to a good physical  
+training, a good, happy home, and kind, cour-  
+teous, truthful treatment in that home. While  
+she did not believe children could always be  
+governed without punishment, she denounced  
+whipping; and looked for the time when some  
+of the savans engaged in new translations of  
+the Scriptures would find out that Solomon,  
+so often quoted in favor of the “rod,” would  
+prove to have meant, ‘Spare the rod, and save
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_the-womans-journal_1871-01-28_2_4%2Fsim_the-womans-journal_1871-01-28_2_4_jp2.zip%2Fsim_the-womans-journal_1871-01-28_2_4_jp2%2Fsim_the-womans-journal_1871-01-28_2_4_0003.jp2/pct:57.461476,65.772727,16.038118,8.409091/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -100,36 +139,84 @@ hundred pounds, were recently mailed from
 New York city to various foreign lands within  
 the space of two days.  
   
-A Paris correspondent writes: “All the ani
+A Paris correspondent writes: “All the ani-  
+| mals in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_the-womans-journal_1871-02-04_2_5&#0036;2/pct:59.573171,38.348485,15.995935,13.787879/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_the-womans-journal_1871-02-04_2_5%2Fsim_the-womans-journal_1871-02-04_2_5_jp2.zip%2Fsim_the-womans-journal_1871-02-04_2_5_jp2%2Fsim_the-womans-journal_1871-02-04_2_5_0002.jp2/pct:59.329268,38.348485,16.239837,14.303030/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _South-eastern Independent._
+## [From _Grant County herald._](https://www.loc.gov/resource/sn85033133/1871-03-28/ed-1/?sp=1)
+
+#### 1871-03-28 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+-Eighty-six different missionary  
+societies are sustained by Protestant­  
+ism, supporting four thousand mis­  
+sionaries, at an annual outla\ of  
+$5 000,000.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159373:1871032801:0251/pct:82.654280,21.821341,10.577306,2.391660/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Elk County advocate._](https://www.loc.gov/resource/sn84026259/1871-03-30/ed-1/?sp=1)
+
+#### 1871-03-30 &middot; [Ridgway, Pa.](http://dbpedia.org/resource/Ridgway%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+&quot;  
+In a recent lecture upon &quot; The Rights  
+and Wrongs of Children,&quot; Mrs. George  
+Yandenhoff claims the right of a child  
+to a good physical training, a good happy  
+home, and kind, courteous, truthtul  
+treatment in that home. While she did  
+not believe children could always be  
+governed without punishment, she de  
+nounced whipping, and looked for the  
+time when some of the savans en­  
+gaged in new translations of the Scrip­  
+tures would find out that Solomon, so  
+often quoted in favor of the &quot; rod,&quot;  
+would prove to have meant &quot; Spare the  
+rod, and save the child.&quot;
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776075:1871033001:0400/pct:110.059613,92.486683,16.430700,9.924306/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _South-eastern Independent._](https://www.loc.gov/resource/sn87075000/1871-05-26/ed-1/?sp=1)
 
 #### 1871-05-26 &middot; [McConnelsville, Ohio](http://dbpedia.org/resource/McConnelsville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-lls  
-made and sold in New York is immense,  
+ade and sold in New York is immense,  
 one manufacturer alone having supplied  
 162,000 balls last year. Perhaps the  
-United States will bat to pieces half a  
+United -States will bat to pieces half a  
 million of balls this season. Bats from an  
-important business alone. They run  
+important - business alone. They run  
 through a dozen different varieties. It  
 sounds somewhat preposterous to think  
 of mills running all the year round, turn­  
-ing out bats. As more bats are used than  
-balls, one can form some idea of the enorm­  
+ing out bats. As more bats are used tliaa  
+bJlfl, one can form some idea of the enorm­  
 ous quantity of material consumed. Orders  
 for all base-ball implements are just now  
-at their hight, and the supply is barely up  
-to the demand.-New Fork Times.  
+at their night and the supply is barely up  
+to the demand. ATew York Time. .  
 Seventy thousand letters, filling one  
 hundred and fifty sacks, and weighing  
 nearly eleven hundred pounds, were re­  
@@ -137,7 +224,7 @@ cently mailed from the city of New York
 to various foreign lands within the space  
 of two days. This statement will give  
 some idea of the immensity of the postal  
-business in that city. It is also estimated  
+buiiness in that city. It is also estimated  
 that between one hundred and twenty and  
 one hundred and fifty tons of mail matter  
 are, on the average, handled every day by  
@@ -149,12 +236,16 @@ twenty-four hours. From two to five
 hundred unstamped, misdirected, unad­  
 dressed or unsealed letters and packages  
 daily accumulate in the New York Post  
-Office
-</td></tr></table>
+.Office. . .  
+The censu
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075000:00237286923:1871052601:0153/pct:7.949232,94.172553,14.696059,20.396065/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Iowa voter._](https://chroniclingamerica.loc.gov/lccn/sn84027183/1871-06-01/ed-1/seq-6)
+## [From _Iowa voter._](https://www.loc.gov/resource/sn84027183/1871-06-01/ed-1/?sp=6)
 
 #### 1871-06-01 &middot; [Knoxville, Iowa](http://dbpedia.org/resource/Knoxville%2C_Iowa)
 
@@ -199,19 +290,68 @@ dressed or unsealed letters and packages
 daily accumulate in the New York Post  
 Office.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_flareon_ver02%2Fdata%2Fsn84027183%2F00279528979%2F1871060101%2F0773.jp2/pct:51.471758,73.459497,14.484601,18.643742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn84027183:00279528979:1871060101:0773/pct:51.466076,73.459497,14.490283,18.636049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _New national era._](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1)
+## [From _Nebraska herald._](https://nebnewspapers.unl.edu/lccn/sn84022825/1871-06-08/ed-1/seq-1/)
+
+#### 1871-06-08 &middot; [Plattsmouth, N.T. [Neb.]](http://dbpedia.org/resource/Plattsmouth%2C_Nebraska)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ast of Georgia to Santo Domingo,  
+Jamaica and other West India Islands,  
+and thence down the east coast of South  
+America to B&#x27;o Janeiro and other points  
+It is also the intention of the company  
+to lay another cable between the United  
+States and Aspinwall, ti build a land  
+line across the Isthmus to Panama, and  
+to proceed thence by submarine cables  
+down the west coast of South America,  
+touching at Lima, Valparaiso and other  
+points. The company will also extend  
+us line from the United States to Cuba  
+as s on as the right to lan 1 a cable on  
+the Cuban coast can bo obtained from  
+the Spanish government.  
+Seventy thousand letters, filling ono  
+hundred and fifty sacks and weighing  
+nearly eleven hundred pounds, were re­  
+cently mailed from the city of New York  
+to various foreign lands within the space  
+of two days. This statement will give  
+sjme idea of the immensity of the postal  
+business in that city. It is also estimated  
+that between cr.&#x27;e hundred and twenty  
+and one hundred arid fifty tons of mail  
+matter are, on tha average, fian&quot;Iled  
+every day by the eight hundred post,  
+office employees ; and that not b;ss .than  
+300,000 letters, and often a much larger  
+number of newspapers, are sorted out  
+by them during each twenty four hours.  
+From two to Jive hundred unstamped,  
+misdirected, unaddressed Or unsealed  
+I tters and packages daily accumulate in  
+the New York Post Office.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://nebnewspapers.unl.edu/images/iiif/batch_nbu_plattsmouth01_ver01%2Fdata%2Fsn84022825%2F00000000006%2F1871060801%2F0569.jp2/pct:73.091500,43.404786,10.733622,17.137348/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _New national era._](https://www.loc.gov/resource/sn84026753/1871-06-29/ed-1/?sp=1)
 
 #### 1871-06-29 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+&quot;  
 ?feeventy thousand letters, tilling one hundred  
 and fifty sack9, and weighing nearly  
 eleven hundred pounds, were recently mailed  
@@ -230,9 +370,37 @@ larger number of newspaper, are sorted out by
 them daring each twenty-four hocr9. From  
 two to live hundred unstamped, misdirected,  
 unaddresaed, or nosealed letters and packages  
-daily accumulate in the New York po9t office
+daily accumulate in the New York po9t office.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn84026753%2F0041562038A%2F1871062901%2F0175.jp2/pct:83.190427,78.312563,13.779963,7.718092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1871062901:0175/pct:83.182806,78.306833,13.787584,7.718092/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Opelousas courier._](https://www.loc.gov/resource/sn83026389/1871-10-07/ed-2/?sp=3)
+
+#### 1871-10-07 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+In a recent lecture upon &quot;The Rights and  
+Wrongs of Children,&quot; Mrs. George Van­  
+denhoff claimed the right of a child to a  
+good physical training, a good happy home,  
+and kind, courteous, truthful treatmnent in  
+that home. While she did not believe chil­  
+dren could always be governed without  
+punishment, she denounced whipping, and  
+looked for the time when some of the savan  
+engaged in new translations of the Gerin­  
+tures would find out that Solomon, so ofte  
+ and a oo e  
+to have meant &quot;Spare the rod, and save the  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lenin_ver01:data:sn83026389:00212475087:1871100702:0534/pct:42.581699,54.166667,12.859477,5.830904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

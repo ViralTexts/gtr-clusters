@@ -1,7 +1,7 @@
 
 # A Canadian Phrase
 
-### 52 reprints from 1874-09-24 to 1882-03-10
+### 66 reprints from 1874-09-24 to 1882-03-10
 
 ## [A Canadian Phrase](https://chroniclingamerica.loc.gov/lccn/sn84038126/1875-10-23/ed-1/seq-2/)
 
@@ -11,8 +11,7 @@
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-A CANADIAN PHRASE.—Canada&#x27;s bright and sensible governer-general, Lord Dufferin, has given the dominion people a new by-word, which has spread with electric rapidity from one end of Canada to the other. On his voyage out, being called upon by the emigrants to address them, he alludes to this phrase, which had grated harshly on his ears: &quot;He had the misfortune to have too many children.&quot; Lord D. said: &quot;I remarked that perhaps no better idea could be given of the differences between the old country and their new home than by the fact that whereas in England a struggling man might be overweighted in the battle of life by an numerous family, in the land to which they were going a man could scarcely have too many children. Here I was applauded lustily, with a cheerful accompaniment of laughter also, when I was further greeted with an approving thump on the back by a stalwart young emigrant, who cried out, &#x27;Right you are, sir; that&#x27;s what I&#x27;ve been telling Emily.&#x27;&quot; The Canadians have got up the slang phrase, That&#x27;s what I&#x27;ve been telling Emily,&quot; having had the anecdote made familiar by going the rounds of the papers, and one hears everywhere, &quot;That&#x27;s what I&#x27;ve been telling Emily.&quot;—*Ex*.  
-
+A CANADIAN PHRASE.—Canada&#x27;s bright and sensible governer-general, Lord Dufferin, has given the dominion people a new by-word, which has spread with electric rapidity from one end of Canada to the other. On his voyage out, being called upon by the emigrants to address them, he alludes to this phrase, which had grated harshly on his ears: &quot;He had the misfortune to have too many children.&quot; Lord D. said: &quot;I remarked that perhaps no better idea could be given of the differences between the old country and their new home than by the fact that whereas in England a struggling man might be overweighted in the battle of life by an numerous family, in the land to which they were going a man could scarcely have too many children. Here I was applauded lustily, with a cheerful accompaniment of laughter also, when I was further greeted with an approving thump on the back by a stalwart young emigrant, who cried out, &#x27;Right you are, sir; that&#x27;s what I&#x27;ve been telling Emily.&#x27;&quot; The Canadians have got up the slang phrase, That&#x27;s what I&#x27;ve been telling Emily,&quot; having had the anecdote made familiar by going the rounds of the papers, and one hears everywhere, &quot;That&#x27;s what I&#x27;ve been telling Emily.&quot;—*E
 </td></tr></table>
 
 ---
@@ -53,7 +52,7 @@ A CANADIAN PHRASE.—Canada&#x27;s bright and sensible governer-general, Lord Du
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+o the discussion on board ship when he was going to  
 Canada, and the case of the man who had * the misfortune to have  
 too many children.” ‘‘ Being called upon in my turn to address  
 the company, I alluded to this phrase, which had grated harshly  
@@ -65,15 +64,104 @@ in the land to which they were going a man could scarcely have
 too many children. Upon which I was greeted with an approv-  
 ing thump on the back by a stalwart young emigrant, who cried  
 out, ‘ Right you are, Sir! That’s what I’ve been telling Emily.’”  
-In every line Lord Dufferin gives proof of the long-transmitte
+In every line Lord Dufferin gives proof of the long-transmitted  
+and versatile genius of him ‘* wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_spectator-uk_1874-09-26_47_2413&#0036;0/pct:46.251673,64.950712,38.688086,12.245345/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_spectator-uk_1874-09-26_47_2413%2Fsim_spectator-uk_1874-09-26_47_2413_jp2.zip%2Fsim_spectator-uk_1874-09-26_47_2413_jp2%2Fsim_spectator-uk_1874-09-26_47_2413_0000.jp2/pct:46.184739,63.899233,38.755020,14.260679/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Spirit of the age._
+## [From _Worcester daily spy._](https://www.loc.gov/resource/sn83021205/1874-11-13/ed-1/?sp=2)
+
+#### 1874-11-13 &middot; [Worcester [Mass.]](http://dbpedia.org/resource/Worcester%2C_Massachusetts)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+s.  
+A Canadian Phbasr.—Canada&#x27;s bright and  
+sensible governor general, Lord Dufferiu, has  
+given the Dominion |&gt;e«&gt;ple a new by-word,  
+which has spread with electric rapidity from  
+one end ot Canada tu the uther. Ou his voyage  
+out, being called upon bv the emigrants iu ad­  
+dress them, be alluded io this phrase, which  
+had grated harshly uu bis ears: “He had the  
+misfortune lu have tuu many children.” Lord  
+p. said: “1 remarked that perhaps no better  
+idea could l&gt;e given ol (he differences between  
+the old country and their new home than by the  
+tact 1 hat whereas in England a struggling man  
+might be overweighted in the battle ul life by a  
+numerous family, in the laud to which they  
+were going a man could scan*ly have too many  
+children. Here I was applauded lustily, with a  
+cheerful accompaniment of laughter also, when  
+1 was further greeted with an approving thump  
+on the back by a stalwart young emigrant, who  
+cried out, ‘Right you are, sir; that’s what I’ve  
+been telling Emily.’ ” The Canadians have gut  
+up the slang &#x27;phrase, &quot;That&#x27;s what Fee  
+befit t eUi an Fiaily,&quot; having had the auecdute  
+made familiar by going the round us the papers,  
+ami one hears everywhere, &quot;That&#x27;s what I&#x27;ve  
+been telling Emily.&#x27;*—Harper&#x27;s Magazine for  
+Decembe
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_eos_ver01:data:sn83021205:00517171785:1874111301:1080/pct:66.596113,7.557733,13.911872,13.379986/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Evening star._](https://www.loc.gov/resource/sn83045462/1874-11-16/ed-1/?sp=3)
+
+#### 1874-11-16 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ttached,  
+were found. This led to the arrest of McMas  
+hon, who was held to answer. Great excite.­  
+ment prevails in the neighborhood.  
+A CANadIan Praase. Canada&#x27;s bright and  
+sensible Governor-General, Lord Dafferin, has  
+given the dominion people a new by word,  
+which has spread with electric rapidity from  
+one end of Canada to the other. On his voyage  
+out, being called upon by the emigrants to ade­  
+dress them, he alluded to this phrase, which  
+had grated harshly on his ears: He had the  
+misfortune to have too many children.&quot; Lord  
+D. said, &quot;I remarked that perhaps no better  
+idea could be given of the differences between  
+the old country and their new home than by the  
+fact that whereas in England a struggling man  
+might be overweighted in the battle of life by a  
+numerons family, in the land to which they  
+were going a man could scarcely have too many  
+children. Here I was applauded lustily, with A  
+cheerful accompaniment of laughter also, whes  
+I was further greeted with an approving thume  
+on the back by a stalwart young emigrant, who  
+cried out, &quot;Right you are, sir; that&#x27;s what I&#x27;ve  
+been telling Emily.&quot; The Canadians have got  
+up the slang phrase, &quot;That&#x27;s what Tee been telf-­  
+ing Emily,&quot; having had the anecdote made  
+ramiliar by going the round of the papers, and  
+one hears every where, &quot;Thot&#x27;s what I&#x27;se&#x27;  
+telling EmiTp.IS4stor&#x27;s Druwer, Ta Harper&#x27;s  
+Mapasine for  
+A PEctLia
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654012:1874111601:0286/pct:84.036505,38.307002,13.693148,13.636622/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Spirit of the age._](https://www.loc.gov/resource/sn84023296/1874-11-18/ed-1/?sp=1)
 
 #### 1874-11-18 &middot; [Woodstock, Vt.](http://dbpedia.org/resource/Woodstock%2C_Vermont)
 
@@ -132,8 +220,11 @@ Ye e    as
 alyo oss odote ae do eilses Is  
 the round of the papers, and one hear  
 every where, &quot;That&#x27;s what Ive beer  
-follin toniltptwep in Ha
-</td></tr></table>
+folli
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296114:1874111801:0337/pct:84.376763,45.533482,12.633954,36.166294/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -147,7 +238,67 @@ follin toniltptwep in Ha
 
 ---
 
-## From _St. Johnsbury Caledonian._
+## [From _Worcester daily press._](https://www.loc.gov/resource/sn83021219/1874-11-20/ed-1/?sp=4)
+
+#### 1874-11-20 &middot; [Worcester, Mass.](http://dbpedia.org/resource/Worcester%2C_Massachusetts)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+n to providing them with the means  
+of living. _ The little camp is, in its way  
+royal—as Eastern people understand royalty.  
+The menagerie costs, in feeding, £SOO a  
+month. The grounds are beautifully kept,  
+and employ 300 gardeners, who, of course,  
+must be paid. The people employed are  
+moje than feudal retainers; they belong to  
+the cx-King, body and soul; and if an order  
+had been given for the Snake Chief, with  
+bis grim, surly face and bis well-knit limbs,  
+to spring upon Col. Thomson and throttle  
+him on the spot, the man would at least  
+have tried to obey. Such is the life of one  
+ot our ex-Kings.  
+  
+A Canadian Phrase.—Canada&#x27;s bright  
+and sensible Governor-General, Lord Duf­  
+ferin, has given the Dominion people a new  
+by-won), which lias spread with electric  
+rapidity from one end of Canada to the  
+other. On his voyage out, being called upon  
+by the emigrants to address them, he al­  
+lude] to this phrase, which had grated  
+harshly on his ears: “He had the misfortune  
+to have too many children.’’ Lord D. said:  
+“1 remarked that perhaps no better idea  
+could be given of the differences between  
+the old country and their new home than by  
+the fact that whereas in England a strug­  
+gling man might be overweighted in the bat­  
+tle of life by a numerous family, in the land  
+to which they were going a man could  
+scarcely have too many children. Here I  
+was applauded lustily, with a cheerful ac­  
+। companimcnt of laughter, also, whoa I was  
+further greeted with an approving thump on  
+the back by a stalwart young emigrant, who  
+cried out. “Kight you are, bir: that’s what  
+I&#x27;ve been telling Emily.’ “ q’|ic Canadians  
+have got up the slang phrase, “That’s what  
+I’ve been telling Emily,” having had the  
+anecdote made familiar by going the round  
+of the papers, and one hears every where,  
+“That’s what I’ve been telling Emily.”—  
+EtUbjfs Drawer, In Harper&#x27;s Magazine for  
+December,
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_iris_ver01:data:sn83021219:00517171426:1874112001:1108/pct:21.397463,97.947011,14.050369,23.581634/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _St. Johnsbury Caledonian._](https://www.loc.gov/resource/sn84023253/1874-11-20/ed-1/?sp=1)
 
 #### 1874-11-20 &middot; [St. Johnsbury, Vt.](http://dbpedia.org/resource/St._Johnsbury%2C_Vermont)
 
@@ -202,18 +353,22 @@ dians have got up the slang phrase.
 having had the anecdote made familiar  
  by going the round of the papers, and  
 one hears every where, &quot;That&#x27;s what  
-&#x27;ce been telling Emily.&quot;Editor&#x27;s Draw
-</td></tr></table>
+&#x27;ce been telling Emily.&quot;Editor&#x27;s Draw­  
+er, in Harper&#x27;s laqusine for December.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:0020029628A:1874112001:0180/pct:82.256108,57.816204,11.419165,23.957607/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _The herald and mail._](https://chroniclingamerica.loc.gov/lccn/sn86053406/1874-11-27/ed-1/seq-1)
+## [From _The herald and mail._](https://www.loc.gov/resource/sn86053406/1874-11-27/ed-1/?sp=1)
 
 #### 1874-11-27 &middot; [Columbia, Tenn.](http://dbpedia.org/resource/Columbia%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-elodious preludo has awakened  
+melodious preludo has awakened  
 from their slumbers tho adorata, the  
 eerenader now strikes all the strings in  
 a peculiar manner yoipeando, tapi ing  
@@ -261,21 +416,34 @@ what I&#x27;ve been telling Emily,&quot; having
 had the anecdote made familiar by go  
 ing tho round of the papers, aud one  
 hears every where, &quot;That&#x27;s what I&#x27;ve  
-been telling Emily.&quot; Harper&#x27;
+been telling Emily.&quot; Harper&#x27;.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jimmy_ver02%2Fdata%2Fsn86053406%2F00296020709%2F1874112701%2F0411.jp2/pct:76.040134,71.197447,9.872910,21.208453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn86053406:00296020709:1874112701:0411/pct:101.364366,94.926260,13.162119,29.495928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _New York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85026214/1874-11-29/ed-1/seq-6)
+## [From _New York dispatch._](https://www.loc.gov/resource/sn85026214/1874-11-29/ed-1/?sp=6)
 
 #### 1874-11-29 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ded and prostrate as he was, he escaped from  
+his Indian captors and made his way through the  
+wilderness of prairie on our frontiers, able only to  
+drag himself along alone, without the moans of pro­  
+tection or sustenance, starving and suffering with  
+his wounds, until he reached the settlements, and  
+found friends who believed him dead aud mourned  
+his loss. He is an Irishman by birth, and his name  
+is Daniel Lynam. There is no discount on his pluck,  
+and the soul within him is as big as a continent. His  
+parents live in Liverpool, but he has relatives in New  
+Jersey to whom he is going.  
+“That’s What I’ve Been Telling  
 Emily.”—Canada’s bright and sensible * Governor-  
 General, Lord Dufferin, has given to the Dominion  
 people a new by-word, which has spread with elec­  
@@ -303,9 +471,9 @@ The Canadians have got up the slUng phrase:
 “ That’s what I’ve been telling Emily,” having had  
 the anecdote made familiar by going the rounds of  
 the newspapers, and now one hears everywhere:  
-“ That’s what I’ve been telling Emily.
+“ That’s what I’ve been telling Emily.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_eliot_ver01%2Fdata%2Fsn85026214%2Fprint00211110223%2F1874112901%2F0006.jp2/pct:69.889528,74.459001,12.300408,9.082910/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110223:1874112901:0006/pct:69.884887,69.769261,12.309692,13.766132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,9 +502,9 @@ nadians have got up the slang phrase, ‘‘ That&#x27;s
 what I’ve been telling Emily,” having had the  
 anecdote made familiar ‘by going the round of  
 the papers, and one hears every where, ‘‘ That&#x27;s  
-what I&#x27;ve been telling Emily.
+what I&#x27;ve been telling Emily.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_harpers-magazine_1874-12_50_295&#0036;148/pct:11.430678,10.614669,66.297935,70.041322/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_harpers-magazine_1874-12_50_295%2Fsim_harpers-magazine_1874-12_50_295_jp2.zip%2Fsim_harpers-magazine_1874-12_50_295_jp2%2Fsim_harpers-magazine_1874-12_50_295_0148.jp2/pct:11.430678,10.614669,66.297935,70.041322/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,30 +516,28 @@ what I&#x27;ve been telling Emily.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ion that she was pos-  
-electric rapidity from one end of Canada to the | sessed by a devil applied to him to take away the  
-other. On his voyage out, being called upon | evil spirit which tormented her. ‘The doctor at-  
-by the emigrants to address them, he alluded to tentively listened to her statement, and endeav-  
+-  
 this phrase, which had grated harshly on his | ored to convince her that she was mistaken. All  
 ears: ‘* He had the misfortune to have too many | his efforts proving unavailing, he desired her to  
 children.” Lord D. said: ‘‘I remarked that call the next day, and in the mean time he would  
 perhaps no better idea could be given of the dif- | consider her case. On the morrow the unhappy  
 ferences between the old country and their new | woman was punctual in her attendance. His  
-home than by the fact that whereas in England | electrical apparatus being in readiness, with grea
+home than by the fact that whereas in England | electrica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_harpers-magazine_1874-12_50_295&#0036;148/pct:11.467552,80.655992,66.740413,11.544421/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_harpers-magazine_1874-12_50_295%2Fsim_harpers-magazine_1874-12_50_295_jp2.zip%2Fsim_harpers-magazine_1874-12_50_295_jp2%2Fsim_harpers-magazine_1874-12_50_295_0148.jp2/pct:11.467552,85.201446,66.703540,6.998967/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The Somerset herald._
+## [From _The Somerset herald._](https://www.loc.gov/resource/sn84026409/1874-12-02/ed-1/?sp=1)
 
 #### 1874-12-02 &middot; [Somerset, Pa.](http://dbpedia.org/resource/Somerset%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+NO.24  
 A CAnRDIAn PHraae.  
 Canada&#x27;s bright and sensible Gov-  
 ernor General, Lord Dufferin, has  
@@ -409,69 +575,74 @@ had the anecdote made familiar by
 contry an thel ew nolies than t  
   
 going the round of the papers and i an e ee in i  
-one hears every where, &quot;That&#x27;s what they rarely fail. Regarding death a
-</td></tr></table>
+one hears every where, &quot;That&#x27;s what they rarely fail. Regarding death as  
+I&#x27;ve been telling Emilytae 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776452:1874120201:0505/pct:74.163515,11.725293,21.355834,18.525963/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1874-12-02/ed-1/seq-1)
+## [From _Green-Mountain freeman._](https://www.loc.gov/resource/sn84023209/1874-12-02/ed-1/?sp=1)
 
 #### 1874-12-02 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+et even in a a er the other way. During  
   
-A Canapian- PiiiiAsi:. Canada&#x27;s bright  
+A CANADIAN PHiAsE. Canada&#x27;s bright  
   
-in.! s- n-ible Govci uord.enrral. loi-a Hul-  
+and sensible Governor-General, Lord Dul-  
   
-V riii. has &quot;iy.-n the D iniiuioii people a  
-- i ...:.l.  
+erin, has given the Dominion people a  
+a oaeee  
   
-new Pv-wor-l. which na-spn..-. uu --&#x27;--trie  
-rapidity from one . n-1 of Canada to  
+uderpidity from oue end of Canalat to  
+rapidity from one end of Canada to  
   
-the other. On lr.s voyage out. in-iiig caueu  
+the other. On his voyage out, being calied  
   
-ill mn bv the .-nitgiaiits to address ili. ni.  
+upon by the emigrants to address them,  
   
-h- allud.-s to thi- phr i-e. which ha 1 grat-  
+he alludes to this phrase, which had grat-  
   
-l harshlv on bis e u s : &quot; He bad the nus-  
+I harshly on his ears: &quot;He had the mis-  
   
-fortune to have loo many childr. n. Lord  
-D. said: &quot;I remarked&quot; that perhaps no  
+fortune to have too many children. Lord  
+D. said: &quot;I remarked that perhaps no  
   
-belter idea could lie given of tlie differen  
+better idea could be given of the differen  
   
 ces between the old country and their new  
   
-home than bv the fact that whereas in  
+home than by the fct that whereas in  
   
-Kngland a strulig ing man might be over­  
-weighted in the battle of lif- by a numer­  
-ons?auiily. in the land to which they were  
-&quot;oin&quot; a man could scarcely have ton m any  
-. . . i , i i -1  
+England a strufig ing man might be over­  
+weighted in the battle of life by a numer­  
+ous family, in the land to which they were  
+going a man could scarcely have too many  
+e e o e o e oo e  
   
-children. Here 1 was appiauueu nisiii-,.  
+children. Here I was applanded ilistily,  
   
-with a cheeifid accompaniment of laugh­  
+with a cheerful accompaniment of laugh­  
 ter also, when I was further greeted with  
   
-in approving thump on the li.u k by a stal  
+an approving thump on the back by a stal  
   
-wart young emigrant, w no cm--.  
-Hi&quot;ht Vo l are. Sir: tint&quot;- what I&#x27;ve lx-en  
-tellm&quot; fcmilv.&quot; &#x27;&#x27; The Canadian have got  
+wart young emigrant, whe sriel  
+Right yon are, Sir; that&#x27;s what I&#x27;ve been  
+telling Emily.&quot;&quot; The Canadians have got  
   
-up the slang phrase, i n il s ir t u i t  
-Um tellin i &#x27;.&#x27;i &#x27;(,&quot;&#x27; having had the anec­  
+up the slang phrase. T ta e  
+been telling Emily,&quot; having had the anee­  
 dote made familiar by going the round of  
-the papers, an I one hear- every where.  
-- That&#x27;s &#x27;i-li&#x27;it I&#x27; re &#x27;cn telUmj Emily.
+the papers, and one hears every where.  
+That&#x27;s wchat Ire been telling Kmily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197607%2F1874120201%2F0401.jp2/pct:83.709309,60.064287,11.165049,13.079140/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197607:1874120201:0401/pct:61.493432,60.064287,33.380925,32.886278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -485,7 +656,7 @@ the papers, an I one hear- every where.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+, and  
 remarked that-; -perhaps q0 better idea  
 oould be given of. the dif- ; )  
 foreribes. .between the old:country and  
@@ -505,64 +676,99 @@ oried put, &#x27; Right you are, sir,
 
 ---
 
-## [From _Ottumwa weekly courier._](https://chroniclingamerica.loc.gov/lccn/sn92056106/1874-12-03/ed-1/seq-1)
+## [From _Ottumwa weekly courier._](https://www.loc.gov/resource/sn92056106/1874-12-03/ed-1/?sp=1)
 
 #### 1874-12-03 &middot; [Ottumwa, Wapello County, Iowa](http://dbpedia.org/resource/Ottumwa%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+bilt oviseiirht  
+dollars ha har jast loft for Daltimors,  
+or woa&#x27;t be homs from Na Oricans  
+untill wesk after next.  
   
-en the Dominion people a now  
+Thesy men are sotall ov them une  
+skrupulus; some bv their kompounds  
+are to simple too do any hurt or good,  
+ann the worst perhaps that han boised  
+of them it thas they raowingly oprac-­  
+tiss upon the eredulity &quot;ov human  
+natur.  
   
-ernor General, Lord Dnftrin, hat giv-  
+The vegitabel bitfers man is a kun-­  
+ning critter, full of pompesity, f­  
+quently ackumalates a sortune, but  
+never kan entirely lotatllre a certain  
+kind ov rubarb and kathlb smell that  
+scents his reputashun  
   
-word, which baa spread with electric  
-rapidity from one tad ot Canada to  
-tbo other. Oa hia voyage ont, beii  
-called upon by tbe nmigrsnti to  
-dreeethem, he dhidiitt tblt pbrate,  
-which had grated banbly on bia ean  
-&quot;He had the miifortune to have too  
-many chiUben.&quot; Uord Duffcrln said  
-&quot;I nmarked that perhaps no better  
-idea eonld be given of the differences  
-between the old country aad their neW  
-home than by the het that whetnat in  
-England a etruggUng ana might be  
-overweighted ia tha battle of lifs bf  
-numerout family, in tha land to wblcib  
+that&#x27;e whas  
+es  
+  
+Among the  
+  
+  
+  
+tolling  
+  
+Miasg  
+  
+ight an  
+  
+Canada&#x27;s bright and sensible Gov  
+g  
+en the Dominionpeople a sew  
+  
+ernor General, Lord Dufferin, has give  
+  
+word, which has spread with slectric  
+rapidity from ose eadof Canads to  
+the other.Oa his revage out, be  
+called upon by the smigrants to  
+dress them, he alluded to this phrase,  
+which had grated hatshly on his ears  
+&quot;He had the misfortune to have too  
+many childres.&quot; Lord Dufferin said  
+&quot;I remarked that perhaps no better  
+idea could be given of the differences  
+between the old country and their new  
+home than by the fart that whemas in  
+England a struggling manmight be  
+overweighted in the battle of life by  
+numerous family, in the land to which  
 they were going a man could scarcely  
-have too many ehildren. Hera I was  
-applauded lustily witha cheerful ac­  
-companiment of laughter alto, and I  
-waa further greeted with aa approving  
-thump on tbe baek by a stalwart young  
-emignnt, who cried ont: &quot;Bight you  
-are, air tbafs what I&#x27;ve bean telling  
+have too many children. Here I was  
+applauded lustily with a cheerful ac-­  
+companiment of laughter also, and I  
+was further grected with an approving  
+thump on the back by a stalwart young  
+emigrant, who eried out: &quot;Right you  
+are, sir; that&#x27;s what I&#x27;ve been telling  
   
-•a  
   
-Emily.&#x27; Tbe Canadians hav# got up  
-tbe slang phrase, &quot;That&#x27;s what I&#x27;ve  
-been tolling Katliy,&quot; having bad tbe  
-aanecdote made Aunlliar by going tbo  
-roond of the paper*, aad oan bean  
-everywhere, &quot;That&#x27;i what I&#x27;vn tjwa  
-telling Emily.&quot;— Hurptn Ifogwfnyo
+  
+Emily. The Canadians have got up  
+the slang phrase, &quot;That&#x27;s what I&#x27;ve  
+been telling Emily,&quot; having had the  
+annecdote made familiar by going the  
+round of the papers, and ona hears  
+everywhere, &quot;That&#x27;s what I&#x27;va been  
+telling Emily
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_jigglypuff_ver01%2Fdata%2Fsn92056106%2F0027952875A%2F1874120301%2F0636.jp2/pct:55.667172,75.273375,10.204701,14.068067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn92056106:0027952875A:1874120301:0636/pct:55.545868,65.957120,10.326005,24.766556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The Tipton advertiser._
+## [From _The Tipton advertiser._](https://www.loc.gov/resource/sn84027398/1874-12-03/ed-1/?sp=4)
 
 #### 1874-12-03 &middot; [Tipton, Cedar Co., Iowa](http://dbpedia.org/resource/Tipton%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+n Tell­  
+InG  
 EtItY.&quot;The above sentence has  
 become a by-word in Canada, having  
 spread with almost electric rapidity  
@@ -603,19 +809,50 @@ oftentimes irrelevant exclamation:
 Emily!&quot;  
   
 Idleness is the source of a great  
-deal of vice and crime, but it is sela­  
-dom that a satistical view of the rela-
-</td></tr></table>
+deal o
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn84027398:00279528438:1874120301:0617/pct:16.726722,24.354473,11.499295,20.035111/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Buchanan County bulletin._](https://chroniclingamerica.loc.gov/lccn/sn84027186/1874-12-04/ed-1/seq-1)
+## [From _Buchanan County bulletin._](https://www.loc.gov/resource/sn84027186/1874-12-04/ed-1/?sp=1)
 
 #### 1874-12-04 &middot; [Independence, Iowa](http://dbpedia.org/resource/Independence%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+Emily  
+Lord Duft&#x27;erin on reaching home  
+repeated the anecdote, and the quaint  
+phrase &quot;took,&quot; until now one hears  
+everywhere throughout Canada the  
+oftentimes irrelevant exclamation  
+&quot;That&#x27;s just what I&#x27;ve been telling  
+Emily!&quot;  
+  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528906:1874120401:0340/pct:75.992939,87.879487,9.914681,5.044442/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Buchanan County bulletin._](https://www.loc.gov/resource/sn84027186/1874-12-04/ed-1/?sp=1)
+
+#### 1874-12-04 &middot; [Independence, Iowa](http://dbpedia.org/resource/Independence%2C_Iowa)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+TELI»-  
+  
+ixr. Emu.t.&quot;—The above sentence  
 has become a byword in Canada,  
 having spread with almost electric  
 rapidity from one end of the Domin­  
@@ -643,15 +880,16 @@ lustily, while one stalwart young em­
 igrant was so delighted at the sen*  
 tence that he greeted the speaker  
 with an approving thump 011 the  
-back, exclaiming in triumphant tone
+back, exclaiming in triumphant tones  
+&quot;That&#x27;s fust what Foe been tellim/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_electabuzz_ver01%2Fdata%2Fsn84027186%2F00279528906%2F1874120401%2F0340.jp2/pct:75.845837,74.092885,10.125527,13.317173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528906:1874120401:0340/pct:75.845837,73.057832,10.120624,14.867829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The interior journal._
+## [From _The interior journal._](https://www.loc.gov/resource/sn84038328/1874-12-04/ed-1/?sp=5)
 
 #### 1874-12-04 &middot; [Stanford, Ky.](http://dbpedia.org/resource/Stanford%2C_Kentucky)
 
@@ -698,17 +936,33 @@ Emily,&quot; having had the anecdote made
 familiar by going the rounds of the news­  
 papers, and now one hears everywhere,  
 &quot;That&#x27;s what I&#x27;ve been telling Emily.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn84038328:00280763391:1874120401:0600/pct:63.438896,36.168852,10.921640,25.487688/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1874-12-05/ed-1/seq-1)
+## [From _Alexandria gazette._](https://www.loc.gov/resource/sn85025007/1874-12-05/ed-1/?sp=1)
 
 #### 1874-12-05 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ich it opened, and immediately  
+proceeded to disseminate the melancholy intel­  
+ligence. As soon as the story was fairly set  
+agoing it travelled in all directions, and under­  
+went all sorts of modifications. In one of its  
+forms it reached the ears of Rome credulous  
+correspondents, and thus obtained a wide circu­  
+lation ail over the country.&quot; The Times, which  
+long has been famous for it3 early, full and  
+well-written obituary memoirs, may be the pa­  
+per hinted at in the above gossip, but other  
+London journals have lately competed with it  
+iu this respect.  
+&quot;That&#x27;s What I&#x27;ve Been Telling Emi­  
 i.y. &quot;--Canada&#x27;s bright and sensible Governor  
 (it neral, Lord Dufferiu, has given to the Do  
 iniuion people a new by word, which has spread  
@@ -741,19 +995,20 @@ the rouuds of the newspapers, aud now one
 hears everywhere:  
 &quot;That&#x27;s what I&#x27;ve been telling Emily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_fezza_ver01%2Fdata%2Fsn85025007%2F00415663742%2F1874120501%2F0543.jp2/pct:2.678446,74.477001,15.738793,15.926276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663742:1874120501:0543/pct:2.678446,66.909263,15.734119,23.487713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The New Orleans bulletin._](https://chroniclingamerica.loc.gov/lccn/sn86079018/1874-12-06/ed-1/seq-1)
+## [From _The New Orleans bulletin._](https://www.loc.gov/resource/sn86079018/1874-12-06/ed-1/?sp=1)
 
 #### 1874-12-06 &middot; [New Orleans [La.]](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
+&quot;That&#x27;s What I&#x27;ve Been Telling Emily.&quot;—  
 Canada&#x27;s brignt and sensible Governor General,  
 Lord Dufferin, lias given to the Dominion people  
 a new by-word, which has spread with electric ra­  
@@ -780,9 +1035,10 @@ The Canadians have got up the slang phrase,
 &quot;That&#x27;s what I Lav • been telling Emily,&quot; having  
 had the anecdoto made familiar by going tho  
 rounds of the newspapers, and now one hears  
-everywhere, &quot;That&#x27;s what I&#x27;ve been tellin
+everywhere, &quot;That&#x27;s what I&#x27;ve been tellin&quot;  
+t mily
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_jigglypuff_ver01%2Fdata%2Fsn86079018%2F00295874892%2F1874120601%2F0378.jp2/pct:62.093796,83.107404,14.475628,11.561522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_jigglypuff_ver01:data:sn86079018:00295874892:1874120601:0378/pct:62.093796,82.677268,14.475628,12.382690/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -798,13 +1054,13 @@ everywhere, &quot;That&#x27;s what I&#x27;ve been tellin
 
 ---
 
-## From _The Somerset herald._
+## [From _The Somerset herald._](https://www.loc.gov/resource/sn84026409/1874-12-09/ed-1/?sp=1)
 
 #### 1874-12-09 &middot; [Somerset, Pa.](http://dbpedia.org/resource/Somerset%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+I  
 A CaNadIaN PhraNE.  
 Canada&#x27;s bright and sensible Gov­  
 ernor General, Lord Dufferin, ha  
@@ -842,18 +1098,22 @@ what l&#x27;ve been telling Emily,&quot; having
 had the anecdote made familiar by  
 going the round of the papers, and  
 one hears everywhere, &quot;That&#x27;s what  
-I&#x27;ce been telling Emily.
-</td></tr></table>
+I&#x27;ce been telling Emily.&quot;
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776452:1874120901:0509/pct:75.314236,13.026477,11.692488,16.903139/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1874-12-11/ed-1/seq-2)
+## [From _Staunton vindicator._](https://www.loc.gov/resource/sn84024653/1874-12-11/ed-1/?sp=2)
 
 #### 1874-12-11 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
+“That’s What I’ve 13 he a&#x27; Telling  
 Emily ’’—Canada’s bright and sensible  
 Governor General, Lord Dufferin, has  
 given the Dominion people a new bye-word,  
@@ -887,15 +1147,15 @@ phrase:
 having had the anecdote made .ainiiiar by  
 going the rounds of the newspapers, and  
 : now one hears everywhere:  
-“That’s what I’ve been telling Emily.
+“That’s what I’ve been telling Emily.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_klepper_ver02%2Fdata%2Fsn84024653%2F00393349517%2F1874121101%2F0395.jp2/pct:71.428571,42.667368,11.586664,15.207813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349517:1874121101:0395/pct:71.440275,42.146803,11.584467,15.732702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1874-12-12/ed-1/seq-2)
+## [From _The Democratic advocate._](https://www.loc.gov/resource/sn85038292/1874-12-12/ed-1/?sp=2)
 
 #### 1874-12-12 &middot; [Westminster, Md.](http://dbpedia.org/resource/Westminster%2C_Maryland)
 
@@ -948,15 +1208,83 @@ phrase, “ Thitti wluU fee been telling
 Emily&quot; having had the anecdote made  
 familiar by going the round of the papers,  
 and one hears every where, “ Tkat t zohat  
-I&#x27;ve here telling Emily.&quot;—Harper&#x27; Mag
+I&#x27;ve here telling Emily.&quot;—Harper&#x27; Mag­  
+azine.  
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623756%2F1874121201%2F0267.jp2/pct:72.924675,8.705613,21.788388,88.256387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623756:1874121201:0267/pct:72.911188,8.695652,21.788388,88.256387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The Tiffin tribune._
+## [From _The morning star._](https://newspapers.digitalnc.org/lccn/sn84026537/1874-12-13/ed-1/seq-3/)
+
+#### 1874-12-13 &middot; [Wilmington, N.C.](http://dbpedia.org/resource/Wilmington%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+idea could be given&#x27;ofjthe difference 1  
+  
+between the old country ana tbeir new  
+home than by the fact that Whereas  
+in England a struggling mao might  
+be overweighted in the battld of life  
+by a too numerous family,&#x27; in itheland  
+  
+to wnicn tney were going a man  
+c.puld scarcely have too many child­  
+ren. Here I was applauded lustily,  
+with a cheerful accompaniment &#x27; of  
+laughter, when I was further! greeted  
+  
+by an approving thump- on the back  
+by a stalwart young emigrant, who  
+  
+cried out:
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarWilm67n_ver01%2Fdata%2F1874121301%2F0481.jp2/pct:17.395055,6.775272,17.366302,10.443414/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The morning star._](https://newspapers.digitalnc.org/lccn/sn84026537/1874-12-13/ed-1/seq-3/)
+
+#### 1874-12-13 &middot; [Wilmington, N.C.](http://dbpedia.org/resource/Wilmington%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+called up by the emigrants to address  
+them, he alluded to this phrase, which  
+  
+bad grated harshly on his ear:..  
+&quot;He had the misfortune of haying  
+too man r children.? &#x27; ?  
+Lord Duff erin said: v , r ; , &#x27;  
+&quot;I remarked that perhaps no better
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarWilm67n_ver01%2Fdata%2F1874121301%2F0481.jp2/pct:3.637148,120.196353,16.173088,5.221707/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## "tiger Dan"
+
+#### From _Daily evening bulletin._
+
+#### 1874-12-15 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
+
+[This text is not available under an open license.]
+
+---
+
+## [From _The Tiffin tribune._](https://www.loc.gov/resource/sn87076794/1874-12-17/ed-1/?sp=1)
 
 #### 1874-12-17 &middot; [Tiffin, Ohio](http://dbpedia.org/resource/Tiffin%2C_Ohio)
 
@@ -964,49 +1292,52 @@ I&#x27;ve here telling Emily.&quot;—Harper&#x27; Mag
 
   
   
-Lord Dufferin has given the Do­  
+Lord Dufferin bas given the Do­  
 minion people a new by-word, which  
-has spread with electric rapidity from  
+bas spread with electric rapidity from  
 one end of Canada to the other. On  
-his voyage out, being called upon by  
+bis voyage out, being called upon by  
 the emigrants to address them, he  
 alluded to the phrase, which had  
-grated harshly on his ears: &quot;He had  
-the misfortune to have too many chil­  
-dren.&quot; Lord D. said: &quot;I remarked  
+grated harshly on bis ear : &quot;He bail  
+tbe misfortune to have too many chil­  
+dren.&quot; Lord D. said : &quot;I remarked  
 that perhaps no better idea could be  
-given of the difference between the  
-oid country and their new home than  
+given of tbe difference between tbe  
+old country and their new borne than  
 by the fact that whereas in England a  
 struggling man might be overweight­  
-ed in the battle of life by a numerous  
-family, in the land to which they  
+ed in tbe battle or life by a numerous  
+family, in the land to which tbey  
 were going a man can scarcely have  
-too many children. Here I was ap­  
+too mny children. Here I was ap­  
 plauded lustily, with a cheerful ac­  
 companiment of laughter also, when  
 I was further greeted by a thump on  
 the back by a stalwart young emi­  
-grant, who cried out, &quot;Right you are  
+grant, who cried oat. &#x27;Right yoa are  
 sir; that&#x27;s what I&#x27;ve been telling  
-Emily.&quot;&quot; The Canadians have got  
+Emily.&#x27; &quot; Tbe Canadians have got  
 up the slang phrase, &quot;That&#x27;s what  
 I&#x27;ve been telling Emily,&quot; having had  
 the anecdote made familiar by going  
 the round of the papers, and one hears  
 everywhere, &quot;That&#x27;s what I&#x27;ve been  
 telling Emily,
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775137:1874121701:0345/pct:79.881490,105.467986,11.907449,15.479943/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031492/1874-12-18/ed-1/seq-2)
+## [From _Chicago daily tribune._](https://www.loc.gov/resource/sn84031492/1874-12-18/ed-1/?sp=2)
 
 #### 1874-12-18 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ Emily.  
 Cuucda’ii bright and uoimlblo Govomor-Gun­  
 oral, Lord Dulfoiin, liah given to tlio Dominion  
 people a new by-word, which luih spread with  
@@ -1035,21 +1366,22 @@ Tho Canadians have got up tho along phruao,
 had tbo amvdoto wadn familiar bv‘going the  
 irmnd;i of tho nnwapupors, and now one ncaia  
 cuerywhoro, “TJmt’n what I’vo boon tolling  
-Emily.”—JJarycr&#x27;a Mayaziuv
+Emily
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_fullerton_ver02%2Fdata%2Fsn84031492%2Fno_reel%2F1874121801%2F0002.jp2/pct:84.090376,85.682201,12.811033,12.090586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874121801:0002/pct:84.084507,85.233015,12.816901,12.502340/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Montgomery County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83016209/1874-12-18/ed-1/seq-1)
+## [From _Montgomery County sentinel._](https://www.loc.gov/resource/sn83016209/1874-12-18/ed-1/?sp=1)
 
 #### 1874-12-18 &middot; [Rockville, Md.](http://dbpedia.org/resource/Rockville%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+That’s What I’ve Been Telling Emily.  
 Canada&#x27;s bright and son ibic &lt; . nor  
 General, Lord Dufferin. hat giver- U) tho  
 Dominion people a now byword, which  
@@ -1081,15 +1413,16 @@ phrase, “That&#x27;s what I’ve been telling
 Emily,” having had the anecdote made  
 familiar by going tho roundsofthe news­  
 papers, and now one hears everywhere.  
-“ That’s what I’ve been telling Emily.
+“ That’s what I’ve been telling Emily.”  
+—Harper Magazine far
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fireweed_ver01%2Fdata%2Fsn83016209%2F00383342399%2F1874121801%2F0818.jp2/pct:79.163397,64.364866,11.700667,17.325713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342399:1874121801:0818/pct:102.145027,81.773028,15.091116,24.322697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1874-12-18/ed-1/seq-1)
+## [From _The new North-west._](https://www.loc.gov/resource/sn84038125/1874-12-18/ed-1/?sp=1)
 
 #### 1874-12-18 &middot; [Deer Lodge, Mont.](http://dbpedia.org/resource/Deer_Lodge%2C_Montana)
 
@@ -1130,9 +1463,9 @@ r going mean could sae rsly:hde toa many
 chaldsan. Hrer I was appiaded lustily,  
 witbhasherl au sugaImmntco laughter  
 l&lt; a wes, E I :sea ei er getod iSt. an  
-appreng hmp , +ito e by º otal
+appreng hmp , +ito e b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_lynx_ver01%2Fdata%2Fsn84038125%2F00294554841%2F1874121801%2F0214.jp2/pct:50.425969,74.477807,12.000588,18.309399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_lynx_ver01:data:sn84038125:00294554841:1874121801:0214/pct:50.425969,74.477807,12.000588,18.255004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1148,48 +1481,126 @@ appreng hmp , +ito e by º otal
 
 ---
 
-## From _The Findlay Jeffersonian._
+## [From _The Franklin courier._](https://newspapers.digitalnc.org/lccn/sn84026478/1874-12-25/ed-1/seq-4/)
+
+#### 1874-12-25 &middot; [Louisburg, N.C.](http://dbpedia.org/resource/Louisburg%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+A Canada Story.  
+Canada&#x27;s (Jovernor-General. . Lord T)nf.  
+  
+ferin, has giwn to the Dominion people a  
+new by-word, which has spread with electric  
+rapidity from one end of Canada to the  
+other. On his voyage out, leing called upon  
+  
+bv the immigrants to address them h nl.  
+  
+hided &#x27;to this&quot; phrase, which had grated  
+harshlv on his ears :  
+  
+&quot; He had the misfortune of having too  
+  
+raanv children.&quot;  
+  
+Lord ImfTcrin said :  
+&quot; I remarked that perhaps no better idea  
+  
+could be given of the difference between the  
+  
+old country and their new home than bv the  
+  
+fact that whereas in England a struggling  
+  
+man might be overweighted in the battle of  
+life by a too numerous family, in the land  
+  
+to which they were going a man could  
+scarcely have too many children. Here I  
+was applauded lustily, with a cheerful ac­  
+companiment of laughter, when I was fur­  
+ther greeted by an approving thump on the  
+back by a stalwart young immigrant, whe  
+cried out :  
+&quot;Bight you are, sir! That&#x27;s what I&#x27;ve  
+been telling Emily.&quot;  
+The Canadians have got up the slang  
+phrase : i;  
+&quot;That&#x27;s what I&#x27;ve becit telling Emily,&quot;  
+having had the anecdote made familiar by  
+  
+going the rounds of the newspapers, and now  
+  
+hav
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FCoLou1n_ver01%2Fdata%2F1874122501%2F0435.jp2/pct:25.210416,73.918210,17.766965,51.519952/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Findlay Jeffersonian._](https://www.loc.gov/resource/sn85026034/1874-12-25/ed-1/?sp=1)
 
 #### 1874-12-25 &middot; [Findlay, Hancock County, Ohio](http://dbpedia.org/resource/Findlay%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-EMIlY.--Canada&#x27;s bright and sensible  
+ gent a  
+messenger to the Duke to request of him  
+the nse of one of the staterooms which  
+had been secured for one of his servants.  
+With true French courtesy, he refused.  
+and the beautiful Duchess, wrapped in a  
+waterproof cloak, sat- in the pouring  
+rain during the whole of the two hours&#x27;  
+voyage. The Bonapartist principles of  
+the lady were probably the cause of the  
+gentleman&#x27;s refusal to oblige her, but it  
+is hard to unagine a state of party feel­  
+ing in the United States which would  
+lead an American gentleman to so treat  
+a woman, and a beautiful one at that.&quot;  
+That&#x27;s What I&#x27;ve Been Tellino  
+F.MILY. Canada&#x27;s bright and sensible  
 Governor-General, Lord Dufferin, has  
 given to the Dominion people a new by  
-word, which has spread with electric  
+word, which has spread with electrio  
 rapidity from one end of Canada to the  
 other. On his voyage out, being called  
-upon by the emigrants to address them,  
-he alluded to the phrase, which had  
-grated harshly on his ear, &quot;He had the  
+upon by the emigrants to address them.  
+he alluded to the phrase, which bad  
+grated liarshly on his ear, &quot;He had the  
 misfortune of having too many chil  
 dren.&quot;  
 Lord Dufferin said: &quot;I remarked that  
 perhaps no better idea could be given  
-of difference between the old country  
+of dillerence between the old country  
 and their new home than by the fact  
-that whereas in England a struggling  
+that whereas in England a. struggling  
 man might be overweighed in the battle  
 of life by a too numerous family, in the  
-land to which they were going a man  
+land to xv Inch thwy were going a man  
 could scarcely have too many children.  
-Here I was applauded lustily with a  
+Here I wits applauded lustily with a  
 cheerful accompaniment of laughter al­  
 so, when I was further greeted with an  
 improving thump on the back by a stal­  
 wart young emigrant, who cried out,  
-&quot;Right, you are sir; that&#x27;s what I&#x27;ve  
-been telling Emily.&quot;  
-The Canadians have got up the slang  
+&#x27;liight, you are sir; that s what I ve  
+been telling Emily.&#x27;&quot;  
+idie Canadians have got up the slang  
 phrase, &quot;That&#x27;s what I&#x27;ve been telling  
-Emily,&quot; having had the anecdote made  
+hiiiilv. having had tne anecdote made  
 familiar by going the rounds of the  
-newspapers, and now one hears every.  
-where, &quot;That&#x27;s what I&#x27;ve been telling  
-Emily.&quot;--Harper&#x27;s MazAzINE
-</td></tr></table>
+newspapers, aud now one hear every  
+where, &quot;That s what 1 ve been telling  
+Emily.&quot; Harper&#x27;
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026034:00280774984:1874122501:0475/pct:110.962331,49.014720,12.595644,27.504748/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1211,7 +1622,7 @@ Emily.&quot;--Harper&#x27;s MazAzINE
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+—  
 &#x27;On my voyage out, being called on by  
 the entrants to address them, I alluded  
 to this phrrRc, which liad grated  
@@ -1241,14 +1652,82 @@ That&#x27;ll what I&#x27;ve been Idling Kmlly.&#x27;
 
 ---
 
-## From _The Ottawa free trader._
+## [From _The Franklin courier._](https://newspapers.digitalnc.org/lccn/sn84026478/1875-01-08/ed-1/seq-4/)
+
+#### 1875-01-08 &middot; [Louisburg, N.C.](http://dbpedia.org/resource/Louisburg%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+&#x27; Governor-Oeneral, Lord Duf­  
+ferin, has given to the Dominion ieople a  
+neAV by-word, which has spread witli electric  
+rapidity from, one end of Canada to the  
+other, On his voyage out, leing called upon  
+l(v: the: immigrants to address them, he al­  
+ludwl , to thid phrase, which had grated  
+harshly on his ears : .  
+&quot; He had the misfortune of having too  
+many children.&#x27;&#x27;&#x27;.&#x27;&#x27;  
+Ixrd Dutlerin said :  
+: &quot; I remarked that rhaps no Utter idea  
+could be given of tle:diflerence ltween the  
+old &#x27;country and their new home than by the  
+fact that whereas iiv England a struggling  
+man might be overweighted in the battle of  
+life by a too numerous family, in the .land  
+to which they were going a man could  
+scarcely have too many children. Here I  
+was applauded lustily, with a cheerful ac­  
+companiment of daughter, when I was fur­  
+ther greeted by ah approving thump on jthe  
+Uack by a stalwart  
+cried out :  
+.young immigrant, who  
+MKight &quot;you are, sir!  
+been telling Emily.!&#x27;  
+mi .  
+That&#x27;s, what I&#x27;ve  
+i ne Canadians have got up the  
+up the slaug  
+pnru!M : , !  
+&quot;That&#x27;s what, I&#x27;ve been telling Emily,&quot;  
+having had the anecdote made familiar &quot;by  
+going thej-ouuds of the newspapers, and now  
+one hears, everywhere :  
+&quot; That&#x27;s what I&#x27;ve been telling Emily.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FCoLou2n_ver01%2Fdata%2F1875010801%2F0004.jp2/pct:23.781490,60.831423,16.757941,25.271658/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Ottawa free trader._](https://www.loc.gov/resource/sn84038582/1875-01-09/ed-1/?sp=7)
 
 #### 1875-01-09 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ head be. Canadas brignt and sensible Governor late member ciet  the w  
   
-erly be made Secretary of State; and then it  
+fore his sweetheart?--enough to render him General ord ulerin has gien to the o ee e e ee e  
+speechless? Ye gods! But the letter! Shall minion people a new by word, which has Webster havin fir entere onre    
+we hear it? Remember this was the dawn e i ei ai o o e o e o o aen i a e a o oo  
+ing of peace and goodwill loward iren!&quot; Canada to the other. On his voyage out
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471525:1875010901:0804/pct:34.480078,73.042776,45.597668,2.502018/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Ottawa free trader._](https://www.loc.gov/resource/sn84038582/1875-01-09/ed-1/?sp=7)
+
+#### 1875-01-09 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+; and then it  
 could be said we have returned to the gov­  
 ernment of our fathers.  
   
@@ -1262,18 +1741,70 @@ ous family, in the land to which they were said He guessed he&#x27;d walk around
 gong a man could scarcely have o man wi e woman so o icoge  
 children. Here I was applauded lustily, nim but he would. He was absent or abont  
 with a cheerful accompaaiment of laughter half an hour, and case back with a cut in  
-also, when I was further greeted with an ini ara bo shi oso a o ie 
-</td></tr></table>
+also, when I was further greeted with an ini ara bo shi oso a o ie a  
+  
+not utterly dispise me, that you will think as oin te on te a e a aar boken backed roling pin and a mournl  
+kindly of me as you may, believing that my young emigrant, who cried out &quot;Right you look in his eyes. &quot;Why, whats the matter,  
+temptation was great, and my punishmentare, sir; that&#x27;s what I&#x27;ve been telling Emily.&quot; Peter
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471525:1875010901:0804/pct:34.616132,76.863062,45.500486,7.506053/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1875-01-18/ed-1/seq-2)
+## [From _The People._](https://www.loc.gov/resource/sn84020392/1875-01-14/ed-1/?sp=1)
+
+#### 1875-01-14 &middot; [Concord, N.H.](http://dbpedia.org/resource/Concord%2C_New_Hampshire)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ TaaT&#x27;s WHAT I&#x27;vE BEEN TELLING EM­  
+-ILy.”—Canada’s bright and sensible Gover­  
+nor-General, Lord Dufferin, has given to the  
+Dominion a new by-word, which has spread  
+with electric rapidity from ene end to anoth­  
+er. On his voyage out, being called by the  
+emigrants to address them, he alluded to  
+this phrase, which had grated harshly on his  
+ear: ‘‘He had the misfortune of having too  
+many children.”  
+Lord Dufferin said: *‘l remarked that per­  
+haps no better idea could be given of the  
+difference between the old country und their  
+new home than by the fact that whereas in  
+England a struggling man might be over­  
+weighted in the battle of life by a too nu­  
+merous family, in the land to which they  
+were going a man could scarcely have too  
+many children. Here I was applauded lus­  
+tily with a cheerful accompaniment of laugh­  
+ter also, when I was further greeted with an  
+approving thump on the back by a stalwart  
+young emigrant, who cried out: ‘Right you  
+in&#x27;e’.”sir; that’s what I&#x27;ve been telling Emi­  
+y. : :  
+The Canadians have got up the slang  
+phrase, ‘‘That’s what I&#x27;ve been telling Emi­  
+ly,” having had the anecdote made familiar  
+by going the rounds of the newspapers, and  
+now one hears everywhere, ‘That&#x27;s what  
+T&#x27;ve been telling Emily.”—Harper&#x27;s Maga­  
+zine
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_hale_ver01:data:sn84020392:00517016044:1875011401:0005/pct:73.263790,77.658912,11.431838,12.889489/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Public ledger._](https://www.loc.gov/resource/sn85033673/1875-01-18/ed-1/?sp=2)
 
 #### 1875-01-18 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 A Canadlaa Pnraee.  
 Canada&#x27;s bright and sensible Governor-  
 General, Lord Dufferin, has given the  
@@ -1306,9 +1837,9 @@ what I&#x27;ve been telline Emilv.&quot;&#x27; havinir
 bad the nedote made familiar by going  
 the round of tl.a papers, and one hears  
 everywhere, &#x27; &quot; That I whu J&#x27;v been  
-telling L.raily. Harper i
+telling L.raily
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033673%2F0028077943A%2F1875011801%2F0057.jp2/pct:20.813740,61.924973,12.512779,16.073384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:0028077943A:1875011801:0057/pct:27.739166,82.557503,16.680294,21.412924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1320,15 +1851,14 @@ telling L.raily. Harper i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-back, crying out; “ Right you are, sir! That’s  
+, crying out; “ Right you are, sir! That’s  
 what I&#x27;ve been telling Emily,”  
   
 This is what gave rise to the phrase, and  
 now one hears it everywhere. ‘‘That’s what  
-I’ve been telling Emily.
+I’ve been telling Emily
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_school-journal_1875-02-06_6_207&#0036;13/pct:7.809168,43.118401,21.295309,3.582202/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_school-journal_1875-02-06_6_207%2Fsim_school-journal_1875-02-06_6_207_jp2.zip%2Fsim_school-journal_1875-02-06_6_207_jp2%2Fsim_school-journal_1875-02-06_6_207_0013.jp2/pct:7.809168,43.118401,21.295309,3.582202/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1342,8 +1872,7 @@ I’ve been telling Emily.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-says, &quot;on my voyage out, being called on  
+, &quot;on my voyage out, being called on  
 by the emigrants to address them, I  
 alluded to this phrase, which had grated  
 harshly on my ears--&#x27; he had the  
@@ -1368,12 +1897,12 @@ slang phrase &quot;that&#x27;s what I&#x27;ve been
 tolling Emily,&quot; having had the aneodote  
 made familiar by going the round of the  
 papers, and one hears everywhere,  
-&quot;that&#x27;s what I&#x27;ve been telling Emily.&quot; 
+&quot;that&#x27;s what I&#x27;ve been telling Emily.
 </td></tr></table>
 
 ---
 
-## [From _Lyon County times._](https://chroniclingamerica.loc.gov/lccn/sn84022053/1875-02-14/ed-1/seq-5)
+## [From _Lyon County times._](https://www.loc.gov/resource/sn84022053/1875-02-14/ed-1/?sp=5)
 
 #### 1875-02-14 &middot; [Silver City, Nev.](http://dbpedia.org/resource/Silver_City%2C_Nevada)
 
@@ -1428,9 +1957,27 @@ been telling Emily,” having bad the anec­
 dote made familiar by going  
 of the newspapers, and now one hears  
 i everywhere, &quot;That’s what I’ve been tell­  
-l ing Emily. 
+l ing Emily
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_tonopah_ver01%2Fdata%2Fsn84022053%2F00279554619%2F1875021401%2F0407.jp2/pct:81.517725,55.497310,11.396787,25.662160/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554619:1875021401:0407/pct:81.532779,55.504967,11.394275,25.662252/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Hawaiian gazette._](https://www.loc.gov/resource/sn83025121/1875-02-17/ed-1/?sp=1)
+
+#### 1875-02-17 &middot; [Honolulu [Oahu, Hawaii]](http://dbpedia.org/resource/Honolulu)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+pidity from one end of Canada to the other. on  
+his voyage ot being called upon by the e  
+  
+grants to address them, he alluded to this
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_azure_ver01:data:sn83025121:00211108861:1875021701:0200/pct:14.446494,83.051558,14.575646,1.606818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1444,7 +1991,9 @@ l ing Emily.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+j &quot; That&#x27;s what IVe been  
+telling Emily,&quot; is the introduction  
+given In Harper&#x27;s Vagazint to the  
 following paragraph :—&quot;Canada&#x27;s bright  
 «nd sensible Governor-Geneta), lord  
 Du?erin, has given to the Dominion  
@@ -1476,7 +2025,7 @@ I&#x27;ve been telling Bmily,&#x27; having had the
 anecdote made famffiar by going the  
 round* of the newspaper*, and now one  
 heart everywhere, &#x27; Tbafs what IVe  
-btentelling Emily.&#x27;&quot; &quot; His Excellenc
+btentelling Emily.&#x27;&quot;
 </td></tr></table>
 
 ---
@@ -1489,8 +2038,7 @@ btentelling Emily.&#x27;&quot; &quot; His Excellenc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-upon.by Sjief to&#x27; them, he alluded to  
+&#x27; them, he alluded to  
 Jfiis;&#x27;&#x27; phwise^.whicli )|u&amp;- grated  
 harshly on his (irs^&#x27;H.Q&#x27;jhad&#x27;  
 &quot;thb.-mlsfortuue to have too iany-1  
@@ -1516,7 +2064,8 @@ DhfaseV&#x27; &#x27;&#x27;That&#x27;s1 what;&#x27;rve; been
 teliin&#x27; Emily,&#x27; havirig had the anecdote  
 made familiar&#x27; m going the round of the  
 papers, and one hears everywhere/1  
-.&quot;ThatV wnat I&#x27;ve&#x27; been teliin&#x27; Emily.
+.&quot;ThatV wnat I&#x27;ve&#x27; been teliin&#x27; Emily.V  
+&#x27;
 </td></tr></table>
 
 ---
@@ -1529,21 +2078,7 @@ papers, and one hears everywhere/1
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- fair, and died after a couple of  
-years&#x27; comfort, but this dear old orphan  
-did otherwise. It is now fifteen years  
-since he bought his annuity, and he  
-still lives. Year after year does this  
-meek, childless old man walk into the  
-office of the money-lender and draw his  
-cheque, and then theiponey-lender  
-pratces round the room, blesses tbe man  
-who invented annuities, and throws  
-ledgers about, and makes it lively for  
-his clerk, and the meek old lonely  
-orphan goes away down street, and feels  
-every year more and more that he has not  
-lived in vain.&#x27; : 1 &#x27;&#x27;???** i That&#x27;s  
+ That&#x27;s  
 what I&#x27;ve been Tellin&#x27; Emily I —  
 Canada&#x27;s bright and sensible  
 GovernorGeneral, Lord Dufferin, has  
@@ -1575,7 +2110,7 @@ slang phrase, &#x27; That&#x27;s what I&#x27;ve been
 tellin&#x27; Emily,&#x27; having had tbe anecdote  
 made familiar by going the round of the  
 papers, and one hears everywhere, &#x27;  
-That&#x27;s what I&#x27;ve been tellin&#x27; Emily.
+That&#x27;s what I&#x27;ve been tellin&#x27; Emily
 </td></tr></table>
 
 ---
@@ -1588,7 +2123,9 @@ That&#x27;s what I&#x27;ve been tellin&#x27; Emily.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+— &quot; That&#x27;s what I&#x27;ve been  
+telling Emily&quot; is the introduction given  
+in Harper&#x27;s Magazine to the following  
 paragraph :—&quot; Canada&#x27;s bright and  
 sensible Governor-General. Lord  
 Dufferin, has given to the dominion  
@@ -1616,7 +2153,7 @@ I was further greeted with an approving
 | thump on , the back by a. stalwart  
 young ! I .emigrant, who cried out &quot;  
 Eight you are fair; . that&#x27;s what I&#x27;vo  
-been telling Emily.
+been telling Emily
 </td></tr></table>
 
 ---
@@ -1629,7 +2166,9 @@ been telling Emily.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+&#x27; c That&#x27;s what I&#x27;ve been  
+telling Emily, &#x27; is the introduction  
+given in Harper&#x27;s Magazine to the  
 following -paragraph : — &#x27;Canada&#x27;s  
 bright and sensible Governor-General,  
 Lord Dufferin, has given to the Dominion  
@@ -1661,18 +2200,18 @@ Canadians have got up the slang phrase,
 having had the anecdote made familiar by  
 going the rounds of the newspapers, and  
 now one hears everywhere, &#x27; That&#x27;s what  
-IVe been telling Emily.&#x27; &#x27; The Unite
+IVe been telling Emily
 </td></tr></table>
 
 ---
 
-## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1875-03-05/ed-1/seq-2)
+## [From _The Bolivar bulletin._](https://www.loc.gov/resource/sn85033306/1875-03-05/ed-1/?sp=2)
 
 #### 1875-03-05 &middot; [Bolivar, Hardeman County, Tenn.](http://dbpedia.org/resource/Bolivar%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+&quot;That&#x27;s What 1&#x27;vk Be&#x27;.v Ttxi.iso  
 Emii.y&quot; Canada&#x27;s biiulit ami sensitde  
 Governor General, Lord DufTerin, I a  
 given to th Domini- n peop a new  
@@ -1706,13 +2245,13 @@ made familiar by g-iing t!.e rounds of
 everywhere, &quot;lba.&#x27;s what I&#x27;ve bjeu tiling  
 Emily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470120%2F1875030501%2F0246.jp2/pct:34.782609,80.786026,11.541239,15.154019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470120:1875030501:0246/pct:46.360485,107.081317,15.381282,20.830875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The Dallas daily herald._
+## [From _The Dallas daily herald._](https://www.loc.gov/resource/sn83025733/1875-03-05/ed-1/?sp=2)
 
 #### 1875-03-05 &middot; [Dallas, Tex.](http://dbpedia.org/resource/Dallas)
 
@@ -1776,7 +2315,10 @@ made familliar by going the rounds
 of the newspapers, and now one  
 hears everywhere, &quot;That&#x27;s what  
 I&#x27;ve heen telling Emily.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297544:1875030501:0661/pct:32.488575,63.083849,12.401329,31.077659/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1788,7 +2330,8 @@ I&#x27;ve heen telling Emily.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ That&#x27;s  
+what i&#x27;ve been tellin &#x27; Emily !  
 —Canada&#x27;s -bright and sensible  
 GovernorLord Dufferin, has given tbe  
 Dominion people a new by-word, which has  
@@ -1824,13 +2367,13 @@ beeu tellin &#x27; Emily.
 
 ---
 
-## [From _Arizona citizen._](https://chroniclingamerica.loc.gov/lccn/sn82014896/1875-03-06/ed-1/seq-4)
+## [From _Arizona citizen._](https://www.loc.gov/resource/sn82014896/1875-03-06/ed-1/?sp=4)
 
 #### 1875-03-06 &middot; [Tucson, Pima County, A.T. [i.e. Ariz.]](http://dbpedia.org/resource/Tucson%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.rin ll.H! iriv&#x27;..ll to tllH!  
 Dominion people a new oye-wuiu, wmcn ;  
 has spread with electric rapidity from one ;  
 end of Canada to the other. On his voj--,  
@@ -1860,9 +2403,10 @@ dote made familiar by going the rounds of) . HAY and GRAIN, con-
 iinrl no7 one hears everv-i weiitnc, xi-i, . .. &#x27;  
   
 where &quot; Thats&#x27; what I&#x27;ve been telling  
-Emily.
+Emily.&quot;  
+Wiiktiier
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_joshuatree_ver01%2Fdata%2Fsn82014896%2F0021110465A%2F1875030601%2F0328.jp2/pct:40.697413,73.985185,35.680540,14.177778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_joshuatree_ver01:data:sn82014896:0021110465A:1875030601:0328/pct:60.993705,109.970370,53.484712,23.866667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1876,7 +2420,22 @@ Emily.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+miles from  
+Koroit, where there is a tract of  
+country from Woolsthorpe or Hawkesdale  
+to Mount Rouse, a stretch of 25 miles,  
+all owned by five or six proprietors,  
+where you can see miles upon miles of  
+fencing, enclosing fine grass paddocks,  
+and scarcely a human being to be found  
+there in.&quot; A lad named James Taylor, 12  
+years old, was amusing himself with a  
+pistol, at Kyneton, a few days ago, when  
+the trigger went off unexpectedly, and  
+inflicted in the left arm a wound of  
+such severity as to cause locklaw. He  
+was taken to the Kyneton Hospital, but  
+the prospect of his recovery is entirely  
 hopeless. Canada&#x27;s bright and Sensible  
 GovernorGeneral, Lord Dufferib, has  
 given the Dominion people a new by-word,  
@@ -1907,12 +2466,12 @@ Canadians hare got up the slang phrase.
 having the anecdote made familiar by  
 going the rounds of the papers, and one  
 hears everywhere, &quot; That&#x27;s what I&#x27;ve  
-been tellin&#x27; Emily.&quot; We (Register) hav
+been tellin&#x27; Emily.&quot; W
 </td></tr></table>
 
 ---
 
-## From _The Dallas weekly herald._
+## [From _The Dallas weekly herald._](https://www.loc.gov/resource/sn84022279/1875-03-13/ed-1/?sp=4)
 
 #### 1875-03-13 &middot; [Dallas, Tex.](http://dbpedia.org/resource/Dallas)
 
@@ -1973,7 +2532,33 @@ made familliar by going the rounds
 of the newspapers, and now one  
 hears everywhere, &quot;That&#x27;s what  
 I&#x27;ve been telling Emily.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022279:00200296552:1875031301:0688/pct:39.105839,48.908538,10.985401,27.397071/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Dallas weekly herald._](https://www.loc.gov/resource/sn84022279/1875-03-13/ed-1/?sp=4)
+
+#### 1875-03-13 &middot; [Dallas, Tex.](http://dbpedia.org/resource/Dallas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+life, as his bequests  
+to the infant  
+Orphan asylum and the House of  
+Good Shepherd, in his last will and  
+testament- New Orleans Morning  
+Star, 20th ult.  
+George Washington&#x27;s Family.  
+ St. Louis Republican.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022279:00200296552:1875031301:0688/pct:50.018248,83.531362,10.875912,3.840840/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1985,7 +2570,7 @@ I&#x27;ve been telling Emily.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-WteAT I&#x27;ve 0r0Ns TRLLINO EOULY.-Canada&#x27;s  
+-Canada&#x27;s  
 bright dansenibl&#x27; love?i6r-Genieal&quot;(Lord  
 Dufferin) has given : . the Dominion  
 people a&#x27;new by.word, which: has Ispread  
@@ -2018,17 +2603,43 @@ up&#x27; the slang phraso, l&#x27;ThhhT&#x27;whlsat
 anecdoteo mado faiiliar .by&#x27; gboig&#x27;tbo  
 round of the paporeiand  
 in&quot;&#x27;hoarS?erywhere, &quot;&#x27;That&#x27;se :wlatI&#x27;ve  
-been telling Emly.;,e&#x27;.,.:a, ,,, t .::&#x27;A
+been telling Emly
 </td></tr></table>
 
 ---
 
-## [From _The Benton record._](https://chroniclingamerica.loc.gov/lccn/sn84038126/1875-10-23/ed-1/seq-2)
+## [From _Jewish Chronicle_](https://archive.org/details/sim_jewish-chronicle_the-jewish-chronicle_1875-05-28_322/page/n17/mode/1up?view=theater)
+
+#### 1875-05-28
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ of Lord  
+Dufferin, uttered in September last, toa band of Canadian emigrants.‘ Whereas, said  
+the noble lord, “in England a struggling man might be overweighed in the battle of lite  
+by a numerous family, in the land to which they were going a man could scarcely hav¢  
+too many children.’” Upon which, said the noble speaker, I was greeted with an approv-  
+ing thump on the back by a stalwart young emigrant, who cried out “ Right you are,  
+sir! that’s what I&#x27;ve just been telling my Emily
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_jewish-chronicle_the-jewish-chronicle_1875-05-28_322%2Fsim_jewish-chronicle_the-jewish-chronicle_1875-05-28_322_jp2.zip%2Fsim_jewish-chronicle_the-jewish-chronicle_1875-05-28_322_jp2%2Fsim_jewish-chronicle_the-jewish-chronicle_1875-05-28_322_0017.jp2/pct:57.947368,72.998179,35.578947,4.714026/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Benton record._](https://www.loc.gov/resource/sn84038126/1875-10-23/ed-1/?sp=2)
 
 #### 1875-10-23 &middot; [Benton, M.T. [Mont.]](http://dbpedia.org/resource/Fort_Benton%2C_Montana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+, and fractured his arm.  
+And now ftrewell, old Juditlh,  
+We may never see you more,  
+For the Carroll route&#x27;s gone nup lthe pou t  
+Which into you did pour.  
+Are we sorry ?i Ich denke &quot;nict. T. II.  
   
 A CANADIAN PHIRAs.-Canada&#x27;s bright  
 and sensible gsverner-general, Lord Duf­  
@@ -2058,9 +2669,9 @@ tellig lEmily.&#x27; &quot; The Canadians have got
 up tle slang phrase, That&#x27;s what I&#x27;ve been  
 telling Emily,&quot; haing had the anecdote  
 miliar by going the rounds of the  
-p esand one hears everywhere, &quot;That&#x27;
+p esand one hears everywhere, &quot;That&#x27;3
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_moose_ver01%2Fdata%2Fsn84038126%2F00212476997%2F1875102301%2F0098.jp2/pct:75.851305,71.039095,17.281498,24.773663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_moose_ver01:data:sn84038126:00212476997:1875102301:0098/pct:75.851305,65.545267,17.281498,30.267490/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

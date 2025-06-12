@@ -1,7 +1,7 @@
 
 # Have We a Fanny Fern Among Us
 
-### 24 reprints from 1855-02-17 to 1855-03-02
+### 29 reprints from 1855-02-17 to 1855-03-02
 
 ## [Have We a Fanny Fern Among Us](https://chroniclingamerica.loc.gov/lccn/sn85025007/1855-02-22/ed-1/seq-3/)
 
@@ -62,6 +62,23 @@ feb 21   [Pied. Whig &amp; Rockingham Reg.
 
 ---
 
+## [From _The daily morning post._](https://panewsarchive.psu.edu/lccn/sn84026248/1855-02-17/ed-1/seq-2/)
+
+#### 1855-02-17 &middot; [Pittsburgh [Pa.]](http://dbpedia.org/resource/Pittsburgh)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ it the  
+wittiest, spiciest book of the season.  
+It presents vifid and lifj-Uko pictures of tho charming  
+and brilliant  
+  
+AUTHOR OF FERN LEAVES AND RCTU HALL,  
+at ba
+</td></tr></table>
+
+---
+
 ## Multiple Classified Advertisements
 
 #### From _The daily Cleveland herald._
@@ -72,57 +89,25 @@ feb 21   [Pied. Whig &amp; Rockingham Reg.
 
 ---
 
-## [From _Daily American organ._](https://chroniclingamerica.loc.gov/lccn/sn85042002/1855-02-21/ed-1/seq-3)
+## [From _Daily American organ._](https://www.loc.gov/resource/sn85042002/1855-02-21/ed-1/?sp=3)
 
 #### 1855-02-21 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-man, The Life and Beauties of Fanny Fern, in one  
+, The Life and Beauties of Fanny Fern, in one  
 volume, 12mo. cloth, price, fl 00.  
 This volume presents vivid, life-like pictures of  
 the charming and brilliant author ot Fern Leaves  
-and Ruth Hall; and the reader will find that the
+and Ruth Hall; and the reader will fin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_alicanto_ver02%2Fdata%2Fsn85042002%2F00415660996%2F1855022101%2F0347.jp2/pct:0.928002,65.976306,15.501993,3.042700/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022101:0347/pct:1.046338,65.967783,15.358744,2.953209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Nashville union and American._
-
-#### 1855-02-21 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-ALL ThE WOrLD WILL rEead THIS BOOK!!  
-  
-The Life and Beauties of Fanny Fern!  
-In One Volume, 12mo., Cloth. Price I 00. T  
-WHo is Ruth HAll?  
-Is ruth Hall Tanny tern or somerody else  
-And if Fanny fern is not uth Hall  
-WHO 1S FAYYTFENY  
-o e  e o e  ee ae e e e e eee e o eooe  eeee  
-SRA.s SSs4a AS A 1&#x27;ss t a at  
-e   e  e one  
- now before the public, and the word wal be ehlighi  
-A ened. And thiS BoOK a strange tale unfolds.  
-The Present Work is Authentic in all its Details!  
-Those who have read the advance copy pronounce it the  
-iwitest ies b of the season.  
-It presents vivid and life-life pictures of the charming  
-and brilltant  
-Author of Fern Leaves and Ruth Hal
-</td></tr></table>
-
----
-
-## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1855-02-21/ed-1/seq-3)
+## [From _Alexandria gazette._](https://www.loc.gov/resource/sn85025007/1855-02-21/ed-1/?sp=3)
 
 #### 1855-02-21 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
@@ -144,94 +129,151 @@ Fein Leaves and Ruth Hall. I all early* and se­
 cure a copy. GEO. e. y ren&lt; h.  
 :eb -M [Pied. Whig &amp; Rockingham Reg.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_drive_ver01%2Fdata%2Fsn85025007%2F00414215932%2F1855022101%2F0037.jp2/pct:15.974535,49.611740,12.628142,6.763079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855022101:0037/pct:15.976100,49.615275,12.626114,6.761186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The national era._](https://chroniclingamerica.loc.gov/lccn/sn84026752/1855-02-22/ed-1/seq-3)
+## [From _Daily national intelligencer._](https://www.loc.gov/resource/sn83026172/1855-02-22/ed-1/?sp=3)
+
+#### 1855-02-22 &middot; [Washington City [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ is reading the Life and Beauties of Fanny  
+Fern. It presents vivid life-like pictures of the charming  
+and brilliant author of Ruth Bail, at her ow
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_doubleday_ver01:data:sn83026172:00211678227:1855022201:0063/pct:81.126354,54.703083,12.981949,1.133273/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The national era._](https://www.loc.gov/resource/sn84026752/1855-02-22/ed-1/?sp=3)
 
 #### 1855-02-22 &middot; [Washington [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-one dollar, the  
+, the  
 LIFE AND BEAUTIE8 OP FAWNY FERN,  
 In our volume lsbuo. cloth. Price our dollar  
 Who is Ruth Hall?  
 Is Ruth Hall Fanny F?*rn, or somebody e! e &#x27;  
 And if Fatinv Fern is not Ruth Hall, who is  
-Fanny Fern
+Fanny Fern?  
+The Life an-l Ihautit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn84026752%2F00415620366%2F1855022201%2F0248.jp2/pct:85.667396,6.951131,12.079585,3.455112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855022201:0248/pct:85.667396,6.947985,12.071481,3.870481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1855-02-22/ed-1/seq-3)
+## [From _Evening star._](https://www.loc.gov/resource/sn83045462/1855-02-22/ed-1/?sp=2)
+
+#### 1855-02-22 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ is reading the Life and Beanties of  
+Fauny Fern. It presents vivid life like pictures of  
+the charming and brilliant author of Ruth Hall, at  
+her ow
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:0028065405A:1855022201:0123/pct:66.405751,74.435660,16.134185,1.890669/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Eastern times._](https://www.loc.gov/resource/sn82014356/1855-02-22/ed-1/?sp=3)
 
 #### 1855-02-22 &middot; [Bath, Me.](http://dbpedia.org/resource/Bath%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ 3m36  
 All the World will Head this Book.  
 &#x27;THE LIFE &amp; BEAUTIES OF FANNY FERN. In one  
 I Volume, 12mo», cloth, Price $1. Who is Ruth Hall?—  
 Is Ruth Hall Fanny Fern, or somebody else ? And if Fan­  
-ny is not Ruth Hall, who is Fanny Fern ? The life an
+ny is not Ruth Hall, who is Fanny Fern ? The life and  
+Beautie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014356%2F00332895679%2F1855022201%2F0034.jp2/pct:42.620564,23.001949,12.324841,2.203425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895679:1855022201:0034/pct:42.628322,22.364573,12.322534,3.105417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1855-02-22/ed-1/seq-3)
+## [From _Eastern times._](https://www.loc.gov/resource/sn82014356/1855-02-22/ed-1/?sp=3)
 
 #### 1855-02-22 &middot; [Bath, Me.](http://dbpedia.org/resource/Bath%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-Those who have read-the advance copy, pronounce it the  
+ it the  
 wittiest, spiciest book of the season.  
 It presents vivid, life-like pictures of the charming and  
 brilliant  
-AUTHOR OF FERN LEAVES AND RUTH HALL
+AUTHOR OF FERN LEAVES AND RUTH HAL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014356%2F00332895679%2F1855022201%2F0034.jp2/pct:42.602366,27.192982,12.361237,1.855333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895679:1855022201:0034/pct:42.610120,27.224621,12.358937,1.824258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Nashville union and American._
+## [From _Nashville union and American._](https://www.loc.gov/resource/sn85038518/1855-02-22/ed-1/?sp=2)
 
 #### 1855-02-22 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-Those who have read the advance copy pronounce it the  
-wittiest, spiciest book of the season.  
-It presents vivid and life life pictures of the charming  
-and brilltant  
-Author of Fern Leaves and Ruth Hal
-</td></tr></table>
+.  
+AIL THE WOSLD WILL BEAD THIS BOOK!!  
+The Life and Beauties of Fanny Fern !  
+In One Volume, 12mo Cloth. Price 1 1 CO.  
+WHO IS RUTH IIAI.I. ?  
+IS EUTH HALL FANNY FEEN 0B SOMEBODY ELSE?  
+And, if Fanny Fern is not Rnth Hall,  
+WHO IS FANNY EE UN?  
+THE LIFE and BEAUTIE
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855022201:0181/pct:60.573924,25.721754,16.469120,6.296780/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1855-02-22/ed-1/seq-3)
+## [From _Nashville union and American._](https://www.loc.gov/resource/sn85038518/1855-02-22/ed-1/?sp=2)
+
+#### 1855-02-22 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ it tho  
+wittiest, spiciest book of the season.  
+It presents vivid and life life pictures of the charming  
+and brilliant  
+Author or Fern I.enes and Ruth Hal
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855022201:0181/pct:60.667498,33.978852,16.406737,2.459309/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Alexandria gazette._](https://www.loc.gov/resource/sn85025007/1855-02-22/ed-1/?sp=3)
 
 #### 1855-02-22 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+tl*  
 Have vve a fanny fern among  
 US —All the world will ieaJ th-4 new  
 ! Fern book, just received and tor saie at UFO.  
@@ -245,65 +287,109 @@ ol the season. It presents vivid hle-like pic­
 , tures ot the charming and brilliant author ot  
 ! Fein Leaves and RutIi Hall. Call early and se­  
 cure a copy. GEO. E. !• REN( H.  
-j teh VI [Pied W hig \ Rockingham Reg 
+j teh VI [Pied W hig \ Rockingham Reg |  
+Nrf:\v books from stringer &amp;  
+TOWNsEND - TheJesuitsinourHomes.  
+| a’Novel, by Helen Dhu, vvitn two engravings,  
+  
+jn ice 1.  
+\Yyinulotte. or The Hutted Knoll, a Tal-1. by  
+J. Fenimore Cooper, complete in one volume,  
+r.ew edition. $ I.  
+’I&#x27;iie-U&#x27;rpt-of-ll ish-lon-U i*h. by J. Fenimore  
+Coo|mt. complete inone volume, new edition. *pl.  
+A new supply of Braithwoite * Retrospect, lor  
+January, price $1. Ju&amp;t received, and tor sale  
+by [tel. 2&lt;»] ROBERT BELL.  
+1 TRENCH WINDOW GLASS.—Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_drive_ver01%2Fdata%2Fsn85025007%2F00414215932%2F1855022201%2F0041.jp2/pct:55.226786,60.560052,12.705211,6.655685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855022201:0041/pct:55.232162,59.969918,12.742140,14.403381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## Multiple Classified Advertisements
-
-#### From _Daily national intelligencer._
+## [From _Daily national intelligencer._](https://www.loc.gov/resource/sn83026172/1855-02-23/ed-1/?sp=3)
 
 #### 1855-02-23 &middot; [Washington City [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
-[This text is not available under an open license.]
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ is reading the Life and Beauties of Fanny  
+Fern. It presents vivid life-like pictures of the charming  
+and brilliant author of Ruth Hall, at her ow
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_doubleday_ver01:data:sn83026172:00211678227:1855022301:0067/pct:81.883003,59.072306,13.227590,1.159618/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _Burlington free press._
+## [From _Burlington free press._](https://www.loc.gov/resource/sn84023127/1855-02-23/ed-1/?sp=3)
 
 #### 1855-02-23 &middot; [Burlington, Vt.](http://dbpedia.org/resource/Burlington%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-AlL THE WOrLD WILI ReAd THIS BOOK.  
+ for warded to any ad­  
+dress free of charge.  
+Feb. 15wm  
+All THe WorLd WIll Read ThIs BOOK.  
 The Life and Beauties of  
-FANNYFErN,  
+FANNYFERN,  
 In one Vol ume, I2mo., Cloth. Price One Dollart  
-HO IS RUTHI HALI? Is Ruth Hall Fanny  
-V Fern, or somebody else? And if Fanny Fern  
+HO 1S RUTHl lALI? Is futh Hall Fanny  
+Y Fern, or somebody else! And if Fanny Fern  
 is not Ruth Hall who is Fanny Fern? The Life and  
-Beauties of Fanny Fern is now before the publi
-</td></tr></table>
+Beautie
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1855022301:0246/pct:27.855498,53.106633,10.926155,5.023790/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _Burlington free press._
+## [From _Burlington free press._](https://www.loc.gov/resource/sn84023127/1855-02-23/ed-1/?sp=3)
 
 #### 1855-02-23 &middot; [Burlington, Vt.](http://dbpedia.org/resource/Burlington%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-vance copy, pronounce it the wittiest, spiciest book  
+ it the wittiest, spiciest book  
 of the season. It presents vivid, life-like pictures  
 of the charming and brilliant Author of Fern Leaves  
-and Ruth Hall, at her own fireside, in the Editor&#x27;
-</td></tr></table>
+and Ruth Hal
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1855022301:0246/pct:27.837790,59.249930,10.890738,1.399384/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _New-York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn83030364/1855-02-25/ed-1/seq-1)
+## [From _Evening star._](https://www.loc.gov/resource/sn83045462/1855-02-24/ed-1/?sp=3)
+
+#### 1855-02-24 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ is reading the Life and Beauties of  
+Fanny Fern. It presents vivid life like pictures of  
+the charming and brilliant author of Ruth Hall, at  
+her ow
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:0028065405A:1855022401:0132/pct:66.689450,66.429092,16.062239,1.781813/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _New-York dispatch._](https://www.loc.gov/resource/sn83030364/1855-02-25/ed-1/?sp=1)
 
 #### 1855-02-25 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 THE LIFE AND BEAUTIES  
 OF  
 F A M 28 Y F K It N .  
@@ -312,21 +398,24 @@ WHO IS r’uTII HALL ?
 IS RUTH HALL FANNY FERN,  
 OR SOMEBODY ELSE?  
 AND IF FANNY FERN IS NOT RUTH HALL,  
-WHO 18 FANNY FERN
+WHO 18 FANNY FERN?  
+25,000 COPIES ALREADY ORDERED FROM THE COUNTRY.  
+WHAT THE PRESS &quot;say OF THIS WORK.  
+“Life and Beauties o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_barnes_ver02%2Fdata%2Fsn83030364%2Fprint00211110053%2F1855022501%2F0001.jp2/pct:58.656239,16.477489,10.998045,3.386176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030364:print00211110053:1855022501:0001/pct:58.389620,16.474318,11.357981,4.819277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1855-02-26/ed-1/seq-4)
+## [From _Alexandria gazette._](https://www.loc.gov/resource/sn85025007/1855-02-26/ed-1/?sp=4)
 
 #### 1855-02-26 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ BELL  
 Have we a fanny fern a mono  
 P.’s—All the world will read the new  
 Fein book, lust received and lor sale at (IFO.  
@@ -340,46 +429,98 @@ of the season. It presents vivid life-like pic­
 tures of the charming and brilliant author ol  
 Fern Leaves and Ruth Hail, t all early and se­  
 cure a copy. (iLO. E. FRENCH,  
-teb v.&#x27; 1 [Pied. Whig A Rockingham Reg 
+teb v.&#x27; 1 [Pied. Whig A Rockingham Reg )  
+KW ROOKS FROM STIUNOER A  
+TOW NS FIND.—The Jesuits in our Homes,  
+&quot;Novel, by Helen Dim. with two engravings,  
+price $ 1.  
+II ’ynndotte. or i he Hutted Knoll, a lab*, by  
+J. Fenimoie Cooper, complete in one volume,  
+r.ew edition. N I.  
+&#x27;/&#x27;hi- IIV/ if-of- II &#x27;is&#x27;n-ton- Wish, by J. 1 emmore  
+Cooper, com plete in one volume, new edition. .  
+A new supply ot Fruit luruitc « Rtlrospcel. tor  
+January, price S»P Just received, am! lor c  
+by [i»*l&gt; tin] ROBERT BELL.  
+  
+MASON X DIXOYS LINE.—Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_drive_ver01%2Fdata%2Fsn85025007%2F00414215932%2F1855022601%2F0050.jp2/pct:59.956667,58.663067,12.599304,6.566266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855022601:0050/pct:59.942874,57.978119,12.616961,14.286729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1855-03-01/ed-1/seq-3)
+## [From _Eastern times._](https://www.loc.gov/resource/sn82014356/1855-03-01/ed-1/?sp=3)
 
 #### 1855-03-01 &middot; [Bath, Me.](http://dbpedia.org/resource/Bath%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 I HE LIFE i BEAUTIES OF FANNY FERN. In one  
 • Volume, I2mo.,cloth, Price $1 Who is Itutii Hail?—  
 Is Ruth Hall Fanny Fern, or somebody else ? And u Fan­  
-ny is not Ruth Hall, who is Fanny Fern ? The life an
+ny is not Ruth Hall, who is Fanny Fern ? The life and  
+Beautie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014356%2F00332895679%2F1855030101%2F0038.jp2/pct:29.949054,66.814404,12.449964,1.402355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895679:1855030101:0038/pct:29.954504,66.823660,12.447680,1.703837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Eastern times._](https://chroniclingamerica.loc.gov/lccn/sn82014356/1855-03-01/ed-1/seq-3)
+## [From _Eastern times._](https://www.loc.gov/resource/sn82014356/1855-03-01/ed-1/?sp=3)
 
 #### 1855-03-01 &middot; [Bath, Me.](http://dbpedia.org/resource/Bath%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-Those who have read the advance copy, pronounce it the  
+ it the  
 wittiest, spiciest book of the season.  
 It presents vivid, life-like pictures of the charming and  
 brilliant  
-AUTHOR OF PERN LEAVES AND RUTII HALL
+AUTHOR OF PERN LEAVES AND RUTII HAL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_calais_ver02%2Fdata%2Fsn82014356%2F00332895679%2F1855030101%2F0038.jp2/pct:29.967249,70.346260,12.413574,1.914820/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895679:1855030101:0038/pct:29.972702,70.356005,12.411283,1.911622/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Alexandria gazette._](https://www.loc.gov/resource/sn85025007/1855-03-01/ed-1/?sp=4)
+
+#### 1855-03-01 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.LL  
+  
+Have we a fanny fern amov­  
+es*— All the world will rra«l I :*»- i r\s  
+Fern book, just received anil !»»r &gt;ale at L / **  
+E EREXCH&#x27;S Hoot, and [\nudvul l r, i  
+The Lite and U-aiitir* ot Fanny Fern in •  
+volume 12 niocloth, price Jj»l. Who i** l»  
+Hal!&#x27; U Until Hall Fanny Fern *»r *&#x27;ii:»i  
+else&#x27; Anil it Fanny Fein is not Ruth II»  
+Who is Faiii&#x27;V* Fen;&#x27; This i» the Wittiest :  
+ot the sea»on. It present* vivid hte like j1 *  
+turesot the charming and brilliant •  
+Fern Leaves and Ruth Hall. Call early at : &#x27;&#x27;  
+cure a copy. GEO. K. FREM H  
+teh 21 [ Pied. Whig &amp; Rockingham Reg i  
+\T KW HOOKS FROM STRINGER *  
+TOWNSEN I&gt;.—The Jesuits in our H* ur*  
+a Novel, by Helen Dhu. with two rngravirp  
+jirice $1.  
+Wyandotte, oi I he Hutted Knoll, a I iK  
+J. Feninsore Cooper, complete in one v&lt;*I:.;i&#x27;&#x27;  
+r.ew edition. •&gt;&#x27; I. !  
+The-Wept-of-ll ith-toii-Wish, by J. F* n.s•&#x27;• ‘  
+Cooper. complete inone volume. n» w e&lt;!it
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855030101:0062/pct:86.312195,66.471554,12.907317,11.913770/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -391,7 +532,7 @@ AUTHOR OF PERN LEAVES AND RUTII HALL
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
   
 THE LIFE AND BEAUTIES  
   
@@ -415,45 +556,54 @@ tails. ose who have read the advance ance ORY,
 for « single insertion, at the rates above named, should | opened « School for the study of Agriculture, where |  
   
 —&#x27; vivid, life-like pictures of the  
-Pion d brilliant Author of Fern Leaves 
+Pion d brilliant Author of Fern Leaves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_phrenological-journal-and-science-of-health_1855-03_21_3&#0036;19/pct:11.617100,14.187867,59.665428,12.524462/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_phrenological-journal-and-science-of-health_1855-03_21_3%2Fsim_phrenological-journal-and-science-of-health_1855-03_21_3_jp2.zip%2Fsim_phrenological-journal-and-science-of-health_1855-03_21_3_jp2%2Fsim_phrenological-journal-and-science-of-health_1855-03_21_3_0019.jp2/pct:11.617100,14.187867,59.572491,12.524462/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Burlington free press._
+## [From _Burlington free press._](https://www.loc.gov/resource/sn84023127/1855-03-02/ed-1/?sp=3)
 
 #### 1855-03-02 &middot; [Burlington, Vt.](http://dbpedia.org/resource/Burlington%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-ALL THE WORLD WILL READ THIs BOOK.  
+&#x27; Landing, where  
+goods can be had at cost for cash.  
+D.E. t1WOLD.  
+Feb. 17  
+ALL THe WOrLD WIll reAd THIs BOOK.  
 The Life and BeaUTiES of  
-WA ME Y E  
-In one Vol ume, I 2mo., Cloth. Price One Dollar  
-FHOIS RUTH HALl. Is Ruth Hall Fanny  
+FA NY Fe r.  
+In one Vol ume, I2mo., Cloth. Price One Dollar  
+7H0 I8 KUTH HALI. Is Ruth Hall Fanny  
 .  
 Fern, or somebody else? And if Fanny Fern  
-is not Ruth Hall who is Fanny Fern? The Life an
-</td></tr></table>
+is not Ruth Hall who is Fanny Fern? The Life and  
+Beautie
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1855030201:0250/pct:39.882495,61.261891,10.921030,5.484051/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _Burlington free press._
+## [From _Burlington free press._](https://www.loc.gov/resource/sn84023127/1855-03-02/ed-1/?sp=3)
 
 #### 1855-03-02 &middot; [Burlington, Vt.](http://dbpedia.org/resource/Burlington%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-vance copy, pronounce it the wittiest, spiciest book  
+ it the wittiest, spiciest book  
 of the season. It presents vivid, life-like pictures  
 of the charming and brilliant Author of Fern Leaves  
-and Ruth Hall, at her own fireside, in the Editor&#x27;
-</td></tr></table>
+and Ruth Hal
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1855030201:0250/pct:39.934336,67.795187,10.558148,1.398993/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 

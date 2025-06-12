@@ -1,7 +1,7 @@
 
 # Printers and Printing
 
-### 162 reprints from 1849-01-01 to 1898-11-26
+### 210 reprints from 1849-01-01 to 1898-11-26
 
 ## [Printers and Printing](https://chroniclingamerica.loc.gov/lccn/sn84026472/1851-01-15/ed-1/seq-2/)
 
@@ -27,6 +27,30 @@
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+icence of Heaven affords you, in w hich |  
+  
+THE GREEN MOUNTAIN GEM. 995  
+  
+you may meditate upon the past and future,  
+‘and prepare yourself for the; mighty change  
+which you may soon undergo.  
+  
+It is now that you may understand the  
+magnificent language of Heaven—it mingles  
+its voice with that of Revelation—it sum-  
+mons you to those hours when the leaves fall  
+and the Winter is gathering, to that evening  
+study which the mercy of Heaven has pro-  
+vided in the Book of Salvation. And while  
+the shadowy valley opens, which leads to the  
+abode of death, it speaks of that love which  
+can camfort and save, and which can conduct  
+to those green pastures and those still waters  
+where there is an eternal spring for the chil-  
+  
+dren of God.  
+  
+  
   
 —f PRINTERS AND PRINTING.  
 J. T. Buckingham, Esq., in his series of  
@@ -71,21 +95,84 @@ knows how many hours a compositor, and af-
 ter him the proof reader, is compelled to  
 spend in reducing to a readable condition,  
 manuscripts that the writers themselves would  
-be puzzled to read.
+be puzzled to read.  
+  
+  
+  
+7  
+Oe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_green-mountain-gem-a-monthly-journal-of-literature_1849_7&#0036;303/pct:41.244939,36.368313,38.081984,54.183813/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_green-mountain-gem-a-monthly-journal-of-literature_1849_7%2Fsim_green-mountain-gem-a-monthly-journal-of-literature_1849_7_jp2.zip%2Fsim_green-mountain-gem-a-monthly-journal-of-literature_1849_7_jp2%2Fsim_green-mountain-gem-a-monthly-journal-of-literature_1849_7_0303.jp2/pct:3.517206,10.836763,75.809717,79.715364/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The republic._](https://chroniclingamerica.loc.gov/lccn/sn82014434/1849-10-31/ed-1/seq-2)
+## [From _Lancaster intelligencer._](https://panewsarchive.psu.edu/lccn/sn83032304/1849-08-21/ed-1/seq-1/)
+
+#### 1849-08-21 &middot; [Lancaster [Pa.]](http://dbpedia.org/resource/Lancaster%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+icence of heaven affords .you, in  
+which you may meditate upon the past and future,  
+and prepare yourself for the mighty change which  
+you may soon undergo.  
+It is now that you may understand the magnifi­  
+cent language of heaven—it mingles its voice with  
+that of Reyelation--it summons you to these hours  
+when the leaves fall and the winter , is gathering, to  
+that evening study&#x27;which the mercy of Heaven has  
+provided in the book of salvation. And while the  
+shadow valley opens, which leads to the abode of  
+death, it speaks of that love which can comfort and  
+save, and &#x27;which can conduct to thoSe- green pas­  
+tures and those&#x27;still waters where thetela an eter ,  
+nal spring for the children. &#x27;of •  
+  
+THE WAS THEE DO TRIADS INSDITER AMERICA.  
+—A friend who has lately returned from San LO­  
+rem°, in New Granada, relates to us the lollciieing  
+curioue custom prevailing there: If a man by, any  
+chance is put in . prison, for an offence, they,,after  
+locking him up sentrWerd word&#x27; his friends, if he has  
+any, that heis ctinfined, who, if they­  
+him, can do so. The jailer gives :the  
+water, but no food. If he has any friends ,wh
+</td></tr></table>
+
+---
+
+## [From _The miners' express._](https://www.loc.gov/resource/sn86083363/1849-10-10/ed-1/?sp=1)
+
+#### 1849-10-10 &middot; [Dubuque, Iowa](http://dbpedia.org/resource/Dubuque%2C_Iowa)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Ich&#x27; tlwff mercy &#x27;of heaven  
+  
+has provided in the book of j%|yatjon.-i*­  
+And while the shadow vali^ OjptnS, which  
+leads to the abode of derat, &quot;it spenks of  
+that love, wliicb cog-co&amp;ftrt and save,  
+and which can coSdract io thesa pastures  
+and &quot;those.&#x27;still waters, where there is  
+eternal spring for the children of God.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:0041566882A:1849101001:0338/pct:56.359244,29.138028,12.803752,4.608451/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The republic._](https://www.loc.gov/resource/sn82014434/1849-10-31/ed-1/?sp=2)
 
 #### 1849-10-31 &middot; [Washington [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 Printer* and Printing.  
 J. T. Buckingham, esq., in hi* aerie* of reminiscences,  
 in course of publication in the Boston  
@@ -105,20 +192,7 @@ few or no points, and those few, if there were any,
 entirely out of place. I have seen the sermons of  
 eminent &#x27; divines&#x27; sent to the press, without points  
 or capitals to designate tlx-division of the sentences;  
-sermons, which, if published with the iinDerfe
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_dragon_ver01%2Fdata%2Fsn82014434%2F00415661368%2F1849103101%2F0498.jp2/pct:85.106097,49.266674,14.388038,8.539414/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The republic._](https://chroniclingamerica.loc.gov/lccn/sn82014434/1849-10-31/ed-1/seq-2)
-
-#### 1849-10-31 &middot; [Washington [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
+sermons, which, if published with the iinDerfec  
   
 turns of the manuscript, would disgrace the printer&#x27;s  
 devil if he were the author. lauppusc they had  
@@ -132,30 +206,86 @@ And no one but the practical printer know* how
 many hours a compositor, and after him a proofreader,  
 is compelled to spend in reducing to a rcada  
 hit: condition manuscripts that the writers themselves  
-would be puzzled to read.
+would be puzzled to read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_dragon_ver01%2Fdata%2Fsn82014434%2F00415661368%2F1849103101%2F0498.jp2/pct:85.061330,57.624094,14.741696,5.563287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849103101:0498/pct:85.052377,49.266674,14.746172,13.917139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## Printers and Printing
-
-#### From _Daily national intelligencer._
+## [From _Daily national intelligencer._](https://www.loc.gov/resource/sn83026172/1849-11-01/ed-1/?sp=2)
 
 #### 1849-11-01 &middot; [Washington City [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
-[This text is not available under an open license.]
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ Goveruments by  
+name rectived in the National Intelligencer of this morn­  
+ing, (October 30ih,) a most striking confirmation of their  
+correctness in the extract from the speech of M. Victor Hugo,  
+in the recent Peace Convention.  
+Contrasted, indeed, are the  
+France of 1572 and the France of 1849.  
+Consoling the  
+change to the human heart.  
+The noble speaker might, how­  
+ever, have extended his contrasts by citing facts nearer his  
+I  
+own times than the date of the St. Bartholomew’s massacre. &#x27;  
+The France of 1849 has, happily, a very different character  
+and aspect from the France of 1793.  
+WILLIAM DARBY.  
+  
+PRINTERS AND PRINTING.  
+. J. T. BUCKINGHAM, Esq., in his series of reminiscences  
+in course of publication in the Hoxfon Courier, speaks of the  
+importance of the printer to the author as follows :  
+“ Many who condescend to illuminate the dark world with  
+the fire of their genius through the columns of a newspaper  
+little think of the lot of the printer, who, almost sutfocated by  
+the smoke of a lamp, sits up till midnight to correct his false  
+grammar, bad orthography, and worse punctuation.  
+I have  
+seen the arguments of lawyers, in high repute as scholars,  
+sent to the printer in their own handwriting—many words  
+and especially technical and foreign terms, abbreviated, words  
+misspelled, and few or no points, and those few, if there were  
+any, entirely out of place.  
+I have seen the sermons of emi­  
+nent ‘divines&#x27; sent to the press without prints or capitals to  
+designate the division of the sentences—sermons which, if  
+published with the imperfections of the manuscript, would dis­  
+grace the printer&#x27;s devil if he were the author.  
+Suppose they  
+had been so printed.  
+The printer would have been treated  
+with scorn and conlen.pt as an illiterate blockhead—as a fel­  
+low better fitted to be a woodsawyer than a printer.  
+N obody  
+would have believed that such gross and palpable faults were  
+owing to the ignorance or carelessness of the author.  
+And  
+no one but the practical printer knows how many hours a  
+compositor, and after him a proof-reader, is compelled to spend  
+in reducing to a readable condition manuscripts that the wri­  
+ters themse Ives would be puzzled to read.&quot;’  
+  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_custer_ver01:data:sn83026172:00211678112:1849110101:0415/pct:37.328554,25.936942,15.243142,22.296252/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1849-11-02/ed-1/seq-2)
+## [From _Alexandria gazette._](https://www.loc.gov/resource/sn85025007/1849-11-02/ed-1/?sp=2)
 
 #### 1849-11-02 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
   
 Printers am! Printing,  
 J. T. Buckingham, esq., in his series of icmi­  
@@ -194,55 +324,198 @@ proof-reader, is compelled to spend in reducing
 to a readable condition manuscripts that the  
 i writers themselves would be puzzled to read &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_crawdads_ver01%2Fdata%2Fsn85025007%2F0041421583A%2F1849110201%2F0196.jp2/pct:31.083157,48.125705,13.100954,16.286171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:0041421583A:1849110201:0196/pct:31.086142,48.129096,13.099011,16.284969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The daily union._](https://chroniclingamerica.loc.gov/lccn/sn82003410/1849-11-03/ed-1/seq-3)
+## [From _The daily union._](https://www.loc.gov/resource/sn82003410/1849-11-03/ed-1/?sp=3)
 
 #### 1849-11-03 &middot; [Washington [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-J. T Buckingham, esq , in his series of reminlsoences in  
-eoone of publication in the Boston Courier, spooks ot the  
-importance of ths printer to the author as follows i  
-&quot;Many who condesreod to illuminate the dark world  
-with the Are of their genius through the c damns ol e newspaper  
-little think ot lire lot of the printer, who, almost suffoctted  
-by the rmolre of a lamp, sits up till midnight to  
-eorrscl his false grammar, bad orthography, end wqyte  
-punctuation. 1 bare seen the arguments of lawyers, in  
-oigh repute as scholars, sent to the printer In their own 1  
-handwriting?many words, end especially technical and  
-lureigii terms, abbreviated, words misspelled, end lew or i  
-no points, end those low, if there wees any, entirely out ol i  
-pises. 1 hare seen the eeemous of eminent &#x27;divines&#x27; sent  
-lo die press without points or capitals to designate the divi  
-ion of the aentencea?sermons which, if published with  
-die imperfections of the manned ip&#x27;, would dlrgraoe the  
-Printer&#x27;s devil if be were the author Suppose they had  
-been to printed. The printer would have been treated i  
-with scorn and contempt as an illiterate blockhead?as s  
-Wloar belter fitted to be a wood sawyer than a printer. Nobody  
-would have hollered that such gross end pel [side  
-salts were owing to the ignoraaoe or oareieseneae of the  
-author. And no one bat the practical prioter knows bow  
-many hours a oomnosilor, and alter biin s proof-reader, it  
-compelled so spend In reducing lo e readable condition  
-minusoripta that the writers themselves would be pnxslrd  
-u read.
+.  
+Printers and Printing.  
+1. T Buckingham, esq, in his series of reminiscences in  
+course of publication in the Boston Courier, speake of the  
+importance of the printer to the author as follows:  
+&quot;Many who condescend to illuminate the dark world  
+wid the ftee of thay aentus thrash the o fumns o nnongi  
+fefs fhfar of fhs lot of she prinver, whe, almost aule  
+by the smoke of a lamp, sits up till midnight to  
+correet his false grammar, bad orthography, and worse  
+panemuation. I have seen the atguments of lawyers, in  
+ligh repute as scholars, seut to the printer in their own  
+handwriting--many words, and especially technical and  
+foreign termus, abbreviated, words inisepelled, and lew or  
+no points, and those few, if there were any, entirely out of  
+place. Ihave seon the sermons of aminent &quot;divines sent  
+to the piers without points or eapitals to designate the divl  
+ion of the sentences-sermons which, if published with  
+the imperfections of the manuscript, would disgrace the  
+printer&#x27;s devil if he were the anthor. Suppose they had  
+been so printed. The printer would have been treated  
+with scorn and contempt as an illiterate blockhead- as a  
+hyas tais e ha  wonle apor tha a e y iatne  
+would have believed that such gross and palpable  
+lanits were owing to the ignoranoe or carelessness of the  
+author. And no one but the practical printer knows how  
+many hours a compositor, and after him a proof-reader, is  
+compelled to spend in reducing to a readable condition  
+manuseripts that the writers themselves would be puxaled  
+to read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn82003410%2F00415661174%2F1849110301%2F0430.jp2/pct:0.769357,57.834433,16.249250,11.753763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82003410:00415661174:1849110301:0430/pct:0.769357,57.297480,16.249250,12.290715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Staunton spectator, and general advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84024719/1849-11-07/ed-1/seq-2)
+## [From _Fayetteville observer._](https://newspapers.digitalnc.org/lccn/sn83045228/1849-11-06/ed-1/seq-3/)
+
+#### 1849-11-06 &middot; [Fayetteville, N.C.](http://dbpedia.org/resource/Fayetteville%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+rk, to be Solicitor of the Treasury,  
+vire Gillel removed.  
+Thomas I Smith, to be First Auditor of the  
+Treasury, vice Clark.  
+Washington, Ocl. 27, 1849.  
+Humored Appointment. It in reported,  
+on &quot;&#x27;liable authority, that the 6th auditor-  
+suip in inr i rcasury nas oeeii oiiercu to  
+Mr. Waddell, of North Carolina.  
+L:r.i.-&#x27;r i t - o- i .  
+Mr. Rush, htw United States Minister  
+to France, Mr. Saunders, Inte Minister to  
+Spain, Mr. Stiles, late Charge- to Vienna, j  
+and Mr. Flnniken. late Charge of Den. j  
+mark, are among the a.nengeri of the  
+Steamship Washington which nailed from &#x27;  
+Southampton late last mouth.  
+PRINTERS AND PRINTING.  
+J. T. Buckingham, Ksq., in hi series  
+of reminiscence. in course of pulilication  
+in the Boston (.&#x27;ourirr, stieaks of the im  
+portance of the printer  
+lillllill&#x27;Q-  
+. i  
+to the author as i  
+j  
+.i  
+iMiiny Aviio coiiot&#x27;sccno io iiiiuninaie  
+.1 .1 I. ... 1.1 . L . r .1  
+iuc umit w.ir.u .... ...c rr ... ,,.r,r grt.  
+..:.. ,t i. .i... ..t .. r -  
+...a ....UuS.t u.r uku. u. &quot;&quot;.aprr,  
+t:..i.. .t.:..i. I... - .i... i  
+...uo ... . . u. rt M ...rr, w,. ., .  
+ii nisi MiiiKtuuu uy iiib smoKtr oi a lump,  
+Mt9 lip till  
+inniiitohl  
+gramuiHr, lind orthography, mid worse  
+iiuirtiiHiioi). I have seen the argument  
+of lawyers, in high repute aa scholars,  
+sent to the printer in their own Laud-  
+writing many word 4, and especially tech-  
+ntcul and loreign terms, alibrevtatetl,  
+words niijpellfd. and few or n points,  
+and llmse few, if there were any, entirely  
+out of place. I have seen the sermon of  
+eminent &#x27;divines&#x27; sent lo the press with-  
+out xnnN or rupiUls to desiguatelhe dt-  
+iiin .if I lie sentence sermons which, &#x27;  
+  
+if published with the imperfections of the ; and profitableness aud happiness of Agricultural  
+manuscript, would tii&#x27;grace the printer&#x27;s : lalaw, fur its earnest iuculcaliou of true patriot -devil  
+if he were the an&#x27;.hor. Suppose ism, National and State.  
+they had been so printed. The printer There is a very common error, instilled into  
+would have been treated with scorn aud : the public mind by demagogues fur selfish pur­  
+contempt as tin illiterate hharkhcad as a &#x27; paw, that almost any other pursuit in life, or  
+fellow better tilled to be a wondsawyer I almost any other mode of inventing capital, pay  
+than a printer. Nobody would have lie- ! belter than Agriculture. J.ulee Slraese is a prac-  
+  
+Ireved that such gross and palpable fulfils &#x27;  
+were owing to the ignorance or careless­  
+ness of the author. And no one but tlie  
+practical printer knows how many hours  
+a compositor, and after him a proof-tender,  
+is compelled to spend in reducing to a  
+readable condition manuscripts that the  
+writers themselves would be puzzled to  
+read
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarObsF12n_ver01%2Fdata%2F1849110601%2F0179.jp2/pct:21.225845,31.894084,34.012681,44.012405/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The New Hampshire gazette and Republican union._](https://www.loc.gov/resource/sn84023141/1849-11-07/ed-1/?sp=1)
+
+#### 1849-11-07 &middot; [Portsmouth, N.H.](http://dbpedia.org/resource/Portsmouth%2C_New_Hampshire)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+his whole heart was  
+bent on going. After his trunk had been carried  
+down to the boat, he went to bid his mother fare­  
+well, and saw the tears bursting from her eyes.—  
+However, he said nothing to her, but he daw that  
+his mother would be distressed if he went, and  
+perhaps never be happy again. He just turned  
+round to the servant and said, “Go and teld them  
+to fetch my trunk back. 1 will not go away to  
+break my mother’s heart.” THis mother was struck  
+with his dedision, and she said to him, “George,  
+God has promised to bless the children that honor  
+their parents, and I believe he will bless you.”  
+  
+PrinTERS AND PrINTING.—J. T. Buckingham,  
+Esq. in his series ot Reminiscencies, published in  
+the Boston Courier, speaks of the importance of  
+printers to authors as follows : &#x27;  
+“Many who condescend to illuminate the dark  
+world with the fire of their genius, through the col­  
+amns of a newspaper, little thinks of the lot of the  
+printer, who almost suffocated by the smoke of a  
+lamp, sits ap till midnight to correct his false gram­  
+mer, bad orthography, and worse punctuation. I  
+have seen the arguments of lawyers, in high repute  
+as scholars, sent to the printers in their own hand­  
+writing, many words—and especially technical and  
+foreign terms—abbreviated words, words misspell­  
+ed, and a few or no points, and those few, if *there  
+were any, entirely ~at of place. [ have seen the  
+sermons of eminen: ‘divines’ sent to the press,  
+without points or capitals to designate the division  
+of the sentences—sermons, which, if published with  
+the imperfections of the manuseript, would disgrace  
+the printer’s devil, if he was the author. Suppose  
+they had been so printed. The printer would have  
+been treated with scorn wnd contempt as an illiter­  
+ate blockhead—as a fellow better fitted to be a  
+woodsawyer than a printer.  
+Nobody would have believed that such gross and  
+palable fanlts were owning to the ignorance or  
+carelessness of the author. And no one but the  
+practical printer-knows how many hours a compos­  
+itor, and after him a proof reader, is compelled to  
+spené in veducing to a readable condi‘i-n, manu­  
+ucripts that the writers themselves would be puz­  
+zled to read. :  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015222:1849110701:0599/pct:64.953887,58.701717,14.346362,22.381974/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Staunton spectator, and general advertiser._](https://www.loc.gov/resource/sn84024719/1849-11-07/ed-1/?sp=2)
 
 #### 1849-11-07 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
@@ -295,13 +568,13 @@ i hours a compositor, and after him a proof reader, is
 i lion manuscripts that the writers would bo puzzled  
 j to read.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kernals_ver02%2Fdata%2Fsn84024719%2F00414183724%2F1849110701%2F0378.jp2/pct:20.633060,47.624972,14.878859,23.335595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1849110701:0378/pct:20.636084,47.630359,14.876154,23.334464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The Charlotte journal._
+## [From _The Charlotte journal._](https://www.loc.gov/resource/sn84020716/1849-11-09/ed-1/?sp=3)
 
 #### 1849-11-09 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
 
@@ -349,18 +622,7 @@ place. I have seen the sermons of emi­
 nent &quot;divines&#x27; sent to the press without  
 points or capitals to designate the division  
 of the sentences--sermons which, if pub­  
-lished with the imperfections of the man
-</td></tr></table>
-
----
-
-## From _The Charlotte journal._
-
-#### 1849-11-09 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+lished with the imperfections of the man­  
 uscript, would disgrace the printer&#x27;s devil  
   
 if he were the author. Suppose they had  
@@ -381,12 +643,153 @@ how many hours a compositor, and after
 him a proof-reader, is compelled to spend  
 in reducing to a readable condition mans  
 scripts that the writers themselves would  
-be puzzled to read.&quot;
-</td></tr></table>
+be puzzled to read.&quot;  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849110901:0375/pct:1.351351,4.866811,29.328547,23.729302/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Keowee courier._](https://chroniclingamerica.loc.gov/lccn/sn84026912/1849-11-10/ed-1/seq-4)
+## [From _The Greensborough patriot._](https://newspapers.digitalnc.org/lccn/sn84020768/1849-11-10/ed-1/seq-3/)
+
+#### 1849-11-10 &middot; [Greensborough [i.e. Greensboro], N.C.](http://dbpedia.org/resource/Greensboro%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ prkvtSRS AND PRINTING. t  
+t. T.Buckmgnam!&#x27;jEsq lp Ids series of, re­  
+mmlseence in course of publication in the Jiet­  
+toft Courier, &quot;speaks of the iitrortance of the rtrltr­  
+ter to the autlwr as follows , ,, , &#x27;  
+,J Slanv who condescend toTilnrninalethe &#x27;ddrk  
+  
+f umns of a ncwspAper UttfcthuiVoF :tlie lot-bl  
+  
+- .TMa GoLPsabBoVTtLMBjitii, a zealous Whig  
+journal cometo us materially enlarged: and im-  
+oriM-eJ. 1 - - . . -  
+  
+- . .- . . , -.. ...  
+  
+printer, whtv atiost suflocolcd by the amoka of a  
+  
+lamp, sits up till midnight to correct hia false gram­  
+mar, bad orthography rand worse punctuation. I  
+have seen the-argnrm-ats of lawyers, in high repute  
+as Cho1rc,ent to the printer- i n iheir-owTi hand-wrifin-  
+many tford., and especially&quot; technical  
+aal foreign kw&#x27;isbrej&#x27;ixied, words tASaspelled,  
+and few or no points, and those fe wr if the. vcr$  
+asyjcnlirfly out of pbee, J have eaeo the eertn­  
+ssteof eminent divines &#x27; sen to lite press without  
+point er capitals to designate the division of the  
+sentences sermons which, if published With the  
+Imperfections of the manuscripts; would disgrace  
+the printerY flevil if he were thfc uth ort Suppose  
+they had been; so pointed, &#x27;.&quot;The.Vpruite&#x27;r would  
+have been&#x27; treated l widi s?orii and contempt as an  
+iUiteVaia. blockhead-is a fellow better -fitted to  
+be swoodsawyer tbano printer, Nobody would  
+save believed that ucl gross and palpable foidta  
+were wing-to the ignorance or careJcasnes ol  
+the isthor. 1 &#x27;And no one bat &#x27;the practical priit­  
+ter throw&#x27;s how many hours a &#x27;compositor, and af­  
+ter him a prooC-rcuuer, is compelled to spepd- in  
+reducing to a readable condition manuscripts that  
+the. writer themseUe would be punlcd to read,?  
+; . - -. --
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat15n_ver01%2Fdata%2F1849111001%2F0590.jp2/pct:27.501714,86.433231,40.250171,39.488750/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Old North State._](https://newspapers.digitalnc.org/lccn/sn91068097/1849-11-10/ed-1/seq-1/)
+
+#### 1849-11-10 &middot; [Elizabeth City, N.C.](http://dbpedia.org/resource/Elizabeth_City%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+twenty­  
+six The average age of the; Senators is  
+forty.three and a half years, and of the  
+members of the House of Representatives  
+forty-four years.  
+in tne benate thprp . rp ta -inH in  
+th(  
+------ w W V1I4 1 UUU  
+House One hundrprl ami fivp nAW  
+members. In both H  
+hundred and eighty-rix members who are  
+natives of Vermont, thirty of whom reside  
+on the farms where they were born.  
+i BraltleboralEagle.i  
+-The first divorce in Minesota Territory  
+has just been made by the Legislature  
+that of Lewis Larammine from Wa-kan-yc-kc-winj,  
+an Indian woman. &quot;  
+  
+  
+  
+I&#x27; vf III V &#x27; Ill 111 ?  
+  
+is left free to. combat IT.&quot;  
+PRINTERS AND PRINTING.  
+J. T. Buckingham; esq., in his series of  
+reminiscences, in course of publication in  
+the Boston Courier, speaks of the impor­  
+tance of the printer to the authors, as fol­  
+lows: &quot;Many, who condescend to illuminate  
+the dark world with&#x27;the fire of their geni­  
+jisftfirough the columns of a newspaper,  
+little think of the lot oCtrie printer, who,  
+almost suffocated by the smoke of a lamp,  
+sits up till midnight to correct his false  
+grammar, badorthography, and worse  
+punctuation, 1 have seen the arguments  
+of lawyers.in high repute as scholars, sent  
+to the printer in their own hand-writing,  
+many wordsr and especially technical  
+and foreign terms abbreviated, words  
+misspelled, and few or no points, and  
+those few, if there ..were any, entirely  
+out of place. I have seen the sermons of  
+eminent &#x27;divines sent to the press, with­  
+out points or capitals to designate the di­  
+vision of the sentences; sermons, which,  
+if published with the imperfections of the  
+manuscript, would disgrace the printer&#x27;s  
+devil if he were the author. Suppose  
+.1&#x27; m - -. .  
+they had so been printed. I he printer  
+would have been treated with scorn and  
+contempt as an illiterate blockhead as a  
+fellow better fitted to be a wood-sawyer  
+than a printer. Nobody would have be  
+lieved that such gross and palpable faults  
+were owing to the ignorance or careless­  
+ness of the author. And no one but the  
+practical printer knows how many hours  
+a compositor, and alter him a proof-reader,  
+is compelled to spend in reducing to a  
+readable condition manuscripts that the  
+writers themselves would be puzzled to  
+read.&quot;  
+Fro71 the London Punch.  
+In tor it - How to get out of it.  
+Once on a time there was a gentleman  
+who won an 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OldNSEC1n_ver01%2Fdata%2F1849111001%2F0150.jp2/pct:30.930657,9.893100,27.984880,81.341108/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Keowee courier._](https://www.loc.gov/resource/sn84026912/1849-11-10/ed-1/?sp=4)
 
 #### 1849-11-10 &middot; [Pickens Court House, S.C.](http://dbpedia.org/resource/Pickens%2C_South_Carolina)
 
@@ -453,15 +856,62 @@ no one but the practical printer knows
 how many hours a compositor, and aftei  
 him a pi oof-reader, is compelled to spend  
 in reducing to a readable condition manuscripts  
-that th?- w&quot;iters tbfimselve woul
+that th?- w&quot;iters tbfimselve would  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2Fsn84026912%2F00211109981%2F1849111001%2F0105.jp2/pct:41.259801,17.037335,21.921328,39.813326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:sn84026912:00211109981:1849111001:0105/pct:41.253212,17.028403,21.921328,39.991961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Hillsdale Whig standard._
+## [From _The Pittsburgh daily gazette._](https://panewsarchive.psu.edu/lccn/sn85054514/1849-11-12/ed-1/seq-2/)
+
+#### 1849-11-12 &middot; [Pittsburgh, Pa.](http://dbpedia.org/resource/Pittsburgh)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+PRIBTLI. ,10 l&#x27;ammau.—.l., T. Buckingham  
+  
+E,q, in hi. i.crics of •remininccuren, in course of  
+publication in the Bon:on courier, *cabs of  
+the importance of the prioler to the author, on fol.  
+  
+&quot;Many who condescend to illuminate the dark  
+world with the Ern of their genius through the cols  
+umen of a newspaper little think of the lot of Ult ,  
+printer, who, almost auffocated by the smoke of a  
+lamp, sits up till inalnicht to correct his false gratt:•  
+roar, bud orthography, and worse punctuation  
+have seen the am - eine:lm of lawyers in high repute  
+as scholars, sent to the pouter in their own hand  
+writing—tunny words, and especially tectun­  
+cal foreign term abreviated, words misspelled,  
+and sw urea points, land those few, if Owe were  
+any, entirely out of place. I have sees the ser­  
+mons of eminent &quot;divines&quot; sent to the press with-  
+OM point, or capitals to designate the diviaion of  
+the senteners—sermons which, if published watt  
+UM imperfections of the manuscript. would disgrace  
+the pouters devil, if he were the author. Suppose I  
+they had been e. printed. The printer would  
+have been treated with worn and contempt as an  
+illiterate blockhead—an a fellow better titled to be a  
+wood.wser than s printer. Nobody would have  
+believed that such gross and palpable faults were,  
+owing to the ignorance or Carelessness of the au,  
+thor. And no one but the practical printer booms  
+how many hours a compositor, stud afire him a  
+proofreader, m compelled tu spend in reducing to  
+readable ea:id:non manuterapte that the writers  
+themselves would be puzzled to read.&quot;
+</td></tr></table>
+
+---
+
+## [From _Hillsdale Whig standard._](https://www.loc.gov/resource/sn89080032/1849-11-13/ed-1/?sp=1)
 
 #### 1849-11-13 &middot; [Hillsdale, Mich.](http://dbpedia.org/resource/Hillsdale%2C_Michigan)
 
@@ -469,7 +919,7 @@ that th?- w&quot;iters tbfimselve woul
 
  and  
 far. Decorated with leaves and flowers they  
-eame in triu mphal array.  
+came in triu mphal array.  
 In the calm hour of a beautiful evening  
 when the leaves and every sound was still,  
 this wonderful procession reached the village.  
@@ -500,41 +950,44 @@ night to correct his false grainmar, bad or
 thography, and worse punctuation. I have  
 seen the arguments of lawyers, in high re­  
 pute as scholars, sent to the printer in their  
-own hand waiting, many words--especially  
+own hand waiting, many words- especially  
 technical and foreign terms- abbreviated,  
 words misspelled, and few or no points, and  
 those few, if there were any, entirely out of  
 place. I have seen the sermons of eminent  
-&#x27;divines&quot; sent to the press, without points or  
+&quot;divines&quot; sent to the press, without points or  
 capitals to designate the division of the sen­  
 tences; sermons which, if published with the  
 imperfections of the manuscript, would diss  
 grace the printer&#x27;s devil, if he wers the au­  
 thor. Suppose they had been so printed.  
-The printer would have beon treated with  
+The printer would have been treated with  
 scorn and contempt, as an illiterate block  
 head,-as a fellow better fitted to be a wood-  
-sawyer than a printer. Nobody would have  
+sawyer then a printer. Nobody would have  
 believed that such gross and palpable faults  
 were owing to the carelessness or ignorance  
 of the author. And no one but the practic  
 al printer knows how many hours the com  
   
-positor, and after him a proof-reader, is com­  
+positor, and after him a proofreader is som­  
 pelled to spend in reducing to a readab!  
 condition, manuscripts that the writer him­  
 self would be puzzled to read.&quot;
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1849111301:0684/pct:83.531409,67.867900,12.602847,28.184165/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1849-11-14/ed-1/seq-2)
+## [From _Edgefield advertiser._](https://www.loc.gov/resource/sn84026897/1849-11-14/ed-1/?sp=2)
 
 #### 1849-11-14 &middot; [Edgefield, S.C.](http://dbpedia.org/resource/Edgefield%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+~  
 PRaIunTs ANp PaiNrso.-J.T.l3nck­  
 ingham. esq. in his series of reminiscen­  
 ces, int course of publication in the Jlnston  
@@ -575,9 +1028,143 @@ spiend in reducing to a readable condition
 manuecripts that the - writers themselves  
 would be puzzled to read.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn84026897%2F00237288294%2F1849111401%2F0307.jp2/pct:81.294964,55.767910,18.415035,21.797513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288294:1849111401:0307/pct:81.294964,55.767910,18.403882,21.789883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## [From _Carolina watchman._](https://newspapers.digitalnc.org/lccn/sn85042201/1849-11-15/ed-1/seq-3/)
+
+#### 1849-11-15 &middot; [Salisbury, N.C.](http://dbpedia.org/resource/Salisbury%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ The Presbytery of Concord will hold  
+  
+-adjourned meeting at Davidson College, on  
+tlie first Wednesday of December next, (being  
+  
+Dec. 5, 1849,) at 11 o&#x27;clock, A. M., for the  
+purpose of electing another Professor to be de.  
+  
+nominated Professor of Moral and Mental Sci.  
+ence. R. H. LAFFERTY. 1  
+  
+Not. 8. - Stated Clerk.  
+  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal3_ver01%2Fdata%2F1849111501%2F0183.jp2/pct:44.592476,50.213614,19.879833,8.107852/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The commercial._](https://newspapers.digitalnc.org/lccn/sn85042257/1849-11-15/ed-1/seq-4/)
+
+#### 1849-11-15 &middot; [Wilmington, N.C.](http://dbpedia.org/resource/Wilmington%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ of the impor­  
+tiuct of ihV printer to the author &amp; fol-  
+&#x27;Manj whb condescend to illuminate the  
+dark world with ihe fire of their fenius  
+throu jh the columns of a newspaper, little  
+think of the . lot of tbe printer, who almost  
+c tuflbcated b the moke of a lamp, sits up  
+till midnight to correct false grammar,  
+f bad orthography and worse punctuation.  
+I hare Men the argumenu of lawjers, in  
+Ugh repute as scholars, sent to the printer  
+in their own handwriting many words,  
+nd especial! technical and foreign terms,  
+TabbreTiated,. words mitpelled, and few or  
+&#x27; m points, and those few, if there were any,  
+entire! oat of place. I hare seen the ser­  
+mons of eminent divinrs&#x27; sent to press with­  
+t trot points or . capitals to designate the di­  
+&#x27; , Tisionsoftheaentnce--rmone which if  
+V published with the imperfections of the  
+. &quot; gaanuacript, would disrrac the printer&#x27;s  
+derii if he were the authoL 8uppose the  
+had been so printed. The printer- would  
+  
+r -r bar bees treated with scorn and contempt  
+  
+as an illiterate T)laciliead as a fellow bet  
+tcr fitted to be a woodsawyer than a printer.  
+Nobody woulJ Lave believed that t such  
+gross aod palpalla faults were owing to  
+the ignorance or carelessness of the av;  
+thorl ;. And no one but the practical printer  
+knows how many hours a compositor, and  
+after him a proof ready, is compelled . to  
+spend in reducing , to a readable Condition  
+manuscripts that the writers themselves  
+  
+1 would be puzzled to read. ,&#x27;,  
+Heady Made Clothing !  
+CHEAP FOR  
+CASU.  
+FRANK &amp;  
+CO.,  
+&quot;ITJOULD respectfully Inform the publlo, thai  
+VV they have tsken a atore on the South aid
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ComWilm2n_ver01%2Fdata%2F1849111501%2F0677.jp2/pct:0.785546,7.029900,43.892380,113.049834/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _American volunteer._](https://panewsarchive.psu.edu/lccn/sn83032169/1849-11-15/ed-1/seq-1/)
+
+#### 1849-11-15 &middot; [Carlisle [Pa.]](http://dbpedia.org/resource/Carlisle%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+• So  
+75  
+1 00.  
+  
+. Printers and Printing*  
+There is a great deal more truth than fancy in  
+Ih’c extract from an article on the subject  
+of printers ond printing, written by J. T. Bucking,  
+ham,&#x27;Esq:j of Boston, a veteran of the. press; and  
+there are hints cdntdtned in it which some ol those  
+who desire their lucubrationilo be placed before the  
+world might profit bjr tho consideration of. • -  
+“ Many who condescend to lildimnate .the&#x27;dark  
+world wllh tho firo of tJicir genius through the col*  
+umnsofa newspaper little think of (he lot of tho  
+printer, who almost suffocated by the smoke of a  
+lamp, sitg iip till midnight to correct his falsegram  
+nier, bad orthography, and worse punctuations, t  
+have seen the arguments of lawyers, in high repute  
+as scholars, sent to the printer in their own baud  
+writing—many-wortls, and’dspecially technical and  
+foreign terms, abrovialed, words, misspelled, and few  
+or no points, und those if there were any, en*  
+entirely oat of place. I have sceMbe sermons of  
+eminent divines sent to the press without; points or  
+capitals to designate the .divisions .of the sentences  
+—sermons which, ifpoblislied with the imperfections  
+of the manuscript, would disgrace the printer’s devil  
+If ho were the authjr. Suppoie-lhoy Imd boon so  
+printed. Tho printer would have been treated with  
+scorn and contempt as on illiterate blockhead—as a  
+fellow better filed to bo a woodsawyor than d printer  
+Nobody would have believed that such gross and  
+palpable faults were owing to the ignorance dr core­  
+loesnesß.of the author. And no one but the practical  
+printer knows how many hours a compositor, and  
+after him a proof reader, is compelled to spend in  
+reducing to a readable condition manuscripts that  
+the writers themselves would bo puzzled to read.”
+</td></tr></table>
 
 ---
 
@@ -591,6 +1178,118 @@ would be puzzled to read.&quot;
 
 ---
 
+## [From _Raleigh times._](https://newspapers.digitalnc.org/lccn/sn86077054/1849-11-16/ed-1/seq-4/)
+
+#### 1849-11-16 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ high fares have  
+not only driven people away, but kept otheTs from  
+settling, and where tho meanness of tlie president  
+and directors has become proverbial along the route.  
+For our partj we care little or nothing about free  
+passes, we arc tied to the oar, and cannot avail  
+ourselves of complimentary aud unsolicited invita­  
+tions to ride on a rail, which have been kindly ex­  
+tended to us; but we do like to see the Press treated  
+with seme little respect, and if any class in the  
+community deserve to travel without expense, in  
+consideration of services rendered, it is that which  
+belongs to the Press.  
+PRINTERS AND PRINTING.  
+J. T. Buckingham, Esq., in his series of re­  
+miniscences in course of publication in the lioston  
+Courier, speaks of the importance of the printer to  
+tlie author as follows :  
+&quot;Many who condescend to illuminate the dark  
+world with the fire of their genius through the col  
+umns of a newspaper, little think of the lot of a  
+printer, who, almost suffocated by the smoke of a  
+lamp, sits np till midnight to correct his false gram  
+mar, bad orthography, and worse punctuation.  
+have seen the argument of lawyers, in high repute  
+as scholars, sent to the printer in their own hand  
+writingmany words, and especially technical and  
+foreign terms, abbreviated, words misspelled, and  
+few or no points, and these few, if there were any,  
+entirely out ol place. I have seen the sermons of  
+eminent &#x27;divines&#x27; sent to the press without points  
+or capitals to designate tlie division of the senten.  
+ces sermons which, if published with the imper  
+fections of the manuscript, would disgrace the prin-  
+ter&#x27;s devil if he were the author. Suppose they  
+had been treated with scorn and contempt as an  
+illiterate blockhead as a fellow belter fitted to be  
+a woodsawyer than a printer. Nobody would have  
+believed that such gross and palpable faults were  
+owing to the ignorance or carelessness nf the au  
+thor. And no one but the practical printer knows  
+how many hours a compositor, and after him  
+proof-reader, is compelled to spend in reducing to  
+readable condition manuscripts that the writers  
+themselves would be puzzled to read.&quot;
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TimesRal1n_ver01%2Fdata%2F1849111601%2F0180.jp2/pct:53.659091,51.087120,15.272727,28.639976/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Weekly commercial._](https://newspapers.digitalnc.org/lccn/sn85042258/1849-11-16/ed-1/seq-2/)
+
+#### 1849-11-16 &middot; [Wilmington, N.C.](http://dbpedia.org/resource/Wilmington%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+PRINTERS AND PRINTING.  
+-- &#x27; - - I  
+J. T. Buckingham. Esq.&#x27;, in his series of  
+reminiscences m course ot publication m  
+the Boston Covrizr, speaks of the impor­  
+tance of the printer to the author as fol­  
+lows :  
+&#x27;Many who condescend lo illuminate the  
+dark world with the fire of their genius  
+through the columns of a newspaper, little  
+think of the lot of the printer, who almost  
+suffocated by the smoke of a lamp, sits up  
+till midnight to correct his false grammar,  
+bad orthography, and worse punctuation.  
+-1 have seen the arguments of lawyers, in  
+high repute as scholars, sent to the printer  
+in their own handwriting many words,  
+and especially technical and foreign terms,  
+abbreviated, words mispelled, and few or  
+no points, and those few, if there were any,  
+entirely out of place. ! I have seen the ser  
+mons of eminent &#x27;divines sent to press with­  
+out points or capitals to designate the&#x27;di­  
+visions of the sentences sermons which if  
+published with the imperfections of the  
+manuscript, would discrace the printer&#x27;s  
+devil if he were the author.! Suppose they  
+had been so printed. The printer would  
+have been treated with scofn and contempt  
+as an illiterate blockhead -as a fellow bet­  
+ter fitted to be a woodsawyer than a printer.  
+Nobody would have believed that such  
+gross and palpable faults ! were owing to  
+the ignorance or carelessness of the au­  
+thor. And no one but the practical printer  
+knows how many hours a compositor, and  
+after bim a proof ready, is compelled&#x27; to  
+spend in reducing to a readable condition  
+inaniuscripts thai the writers themselves  
+would be puzzled to read
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WeekComW1n_ver01%2Fdata%2F1849111601%2F0234.jp2/pct:48.658601,84.911701,21.002104,32.944335/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## Printers and Printing
 
 #### From _Western commercial._
@@ -601,12 +1300,62 @@ would be puzzled to read.&quot;
 
 ---
 
-## [From _Washington telegraph._](https://chroniclingamerica.loc.gov/lccn/sn82014751/1849-11-21/ed-1/seq-3)
+## [From _Wilmington chronicle._](https://newspapers.digitalnc.org/lccn/sn85042256/1849-11-21/ed-1/seq-2/)
+
+#### 1849-11-21 &middot; [Wilmington, N.C.](http://dbpedia.org/resource/Wilmington%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ . &#x27;  
+Trint.rs ako Printino-J. T. Buckingham,  
+Esi in his series of reminiscence in course of  
+publication in th Botton Courier, ekof ili  
+importance of the printer to the author as flhws: &#x27;  
+.Vlany who condescend to illominste thi. dark f:  
+world with ibe fire of ibeir genius through th ;  
+column of a newspaper little think of ih lot of  
+the printer, who; almost snffocaiedby the smok  
+of a lamp, sils up till midnight to correct hi fals  
+grammer, bad firthngraphy, and won&#x27; punetu4.  
+lion. &#x27; 1 have seen the argument of lawyers, in  
+high repute as scholars, sent to the printer in their  
+own handwriting many word snd, especially  
+technical and foreign terms, abbreviated,: word  
+misspelled,; and few or ho hoinif? and thosu few,  
+if there were any,, entirely putof place,; 1 bave  
+seen the sermons of eminent &#x27;divines&#x27; sent to th  
+preu without point or capital t designate tha  
+division of the sentences ermon which if pub­  
+lished with the imperfections of, the? manuscript,  
+would disgrace the printerVtlevjl if Jm were th  
+authnr. Suppose tbjpy had been jio printed,  
+The printer would have been &#x27;tnaMidwiill&#x27;-&quot;iMrti  
+  
+.j and enhtempt it an illiterate blockhead as a fel  
+  
+low Better fitted to be a woodsawyer than a prin­  
+ter. Nobody would have believed that such gross  
+and palpable fault were owing to the&#x27; ignorant  
+carelessness of the suthor. And no one but tha  
+practical printer know how many hour a com  
+positor, af.i after him a proof-reader, is compelled  
+to spend in reducing to a readable condition man  
+uscripts that tha writers themselve would be pus  
+iled to read.&quot;
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmChron1n_ver01%2Fdata%2F1849112101%2F0942.jp2/pct:109.771863,92.711446,22.205323,25.152657/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Washington telegraph._](https://www.loc.gov/resource/sn82014751/1849-11-21/ed-1/?sp=3)
 
 #### 1849-11-21 &middot; [Washington, Ark.](http://dbpedia.org/resource/Washington%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
   
 Printers.- AKihP&amp;WNHiGi.—»J. T-, Buck­  
 ingham, esq., in his series of remmisences,  
@@ -647,9 +1396,9 @@ how many hours a compositor, and after
 him a proof-reader, is compelled to  
 spend in reducing to a readable condition  
 manuscripts that the writers themselves  
-would be puzzled to read.
+would be puzzled to read.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_fullmoon_ver01%2Fdata%2Fsn82014751%2F00513688222%2F1849112101%2F0133.jp2/pct:16.559106,4.343387,14.355423,24.599434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1849112101:0133/pct:16.559106,4.335533,14.355423,24.599434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -665,50 +1414,84 @@ would be puzzled to read.
 
 ---
 
-## From _The Hillsborough recorder._
+## [From _The Lincoln courier._](https://newspapers.digitalnc.org/lccn/sn85042060/1849-11-24/ed-1/seq-3/)
+
+#### 1849-11-24 &middot; [Lincolnton, N.C.](http://dbpedia.org/resource/Lincolnton%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+The Presbytery of Concord,  
+Will hold an atj turned meeting at Da  
+v id son College, on the first Wednesday of  
+December next, (being Dec. 5. 1S-J9) for  
+the purpose of electing another Professor, to  
+be denominated Profess t of Moral and Men  
+tal Science. R. H LAKFER1Y,  
+Nov 24 Stated Clerk,  
+  
+Town Ordinance.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_LinLC1_ver01%2Fdata%2F1849112401%2F0354.jp2/pct:32.024520,56.522228,42.064281,11.018571/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Hillsborough recorder._](https://www.loc.gov/resource/sn84026472/1849-11-28/ed-1/?sp=1)
 
 #### 1849-11-28 &middot; [Hillsborough, N.C.](http://dbpedia.org/resource/Hillsborough%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ a  
+tis nent yeare cron win be urte an tie  
   
-Printers aud Printing.--J. T. Bucks  
-ingham, Esd in his series of reminiss  
+enA4Stsan $asadeatea    afosess  
+  
+tan e eu i  si  e  a e    
+  
+Frinters aud Printing. J. T. Bucks  
+inghamn, eed in his series of reminiss  
 cences in course of publication in the Bo  
 ton Courier, speaks of the importance of  
 the printer to the author as follows:  
 Many who condescend to illuminate  
 the dark world with the fire of their gen  
 ius through the columns of a newspaper  
-thtesssitsss  
-almost snffocated by the smoke of a lamp,  
+4h n$sgsts  
+almost suffocated by the smoke of a lamp,  
 grammar, bad orthography, and worse  
 punctuation. I have seen the argument  
 of lawyers, in high repute as scholars,  
 sent to the printer in their own handwrit-  
-a  e    e  
-many words, and especiany teclil  
+ et  
+mhny words and especialy teclils  
 cal a  
 misspelled, and few or no points, and those  
-few, if there were any, entirely out of  
+few, if there were any, entiely our of  
 if he were the author. Suppose they had  
 been so printed. The printer would have  
- oe  e o ree   
-e wi e  con i as  
+e tted wi co ad reme   
+a e e a coi  
 And no one but the practical printer knows  
-ee e  e e e e  
+e e e a   e  
 how many hours a composi  
-him a proolreader, is compeledi spend  
+him a proolredder, is compenei spend  
 in reducing to a readable condition mans  
 uscripts that the writers themselves would  
-to road  
-be puezled to read.  
+I to rend?  
+be puzled to read.  
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1849112801:0193/pct:25.504294,28.982726,32.234871,33.123115/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1849-11-29/ed-1/seq-1)
+## [From _Litchfield enquirer._](https://www.loc.gov/resource/sn84020071/1849-11-29/ed-1/?sp=1)
 
 #### 1849-11-29 &middot; [Litchfield, Conn.](http://dbpedia.org/resource/Litchfield%2C_Connecticut)
 
@@ -757,7 +1540,7 @@ pelled to spend in reducing ia a reada­
 ble condition, manuscripts that the wri­  
 ter himself would be puzzled to read,”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn84020071%2F00414182975%2F1849112901%2F0155.jp2/pct:78.200555,12.650602,14.808759,26.221933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1849112901:0155/pct:78.216056,12.652335,14.806739,26.222101/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -773,13 +1556,14 @@ ter himself would be puzzled to read,”
 
 ---
 
-## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1849-12-01/ed-1/seq-1)
+## [From _The spirit of democracy._](https://www.loc.gov/resource/sn85038115/1849-12-01/ed-1/?sp=1)
 
 #### 1849-12-01 &middot; [Woodsfield, Ohio](http://dbpedia.org/resource/Woodsfield%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ to the roof of our  
+mouth. Halt. Arg.  
 Priaters and Printing.  
 j. x. Buckingham, ,sq. in his series  
 of reminiscences in course of publication  
@@ -821,13 +1605,13 @@ to a readible condition manuscripts that
 the writers themselves would be puzzled  
 to read.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027510%2F1849120101%2F0610.jp2/pct:66.585017,58.982466,14.574403,24.044266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027510:1849120101:0610/pct:88.755102,76.171314,19.530612,34.521414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Minnesota pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83025241/1849-12-05/ed-1/seq-2)
+## [From _The Minnesota pioneer._](https://www.loc.gov/resource/sn83025241/1849-12-05/ed-1/?sp=2)
 
 #### 1849-12-05 &middot; [St. Paul, Minn. Territory](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
@@ -889,9 +1673,9 @@ And no one but the practical printer
 and after him a proofreader, is com­  
 pelled to spend in reducing to a readable  
 condition, manuscripts that the writers  
-themselves would be puzzled to read
+themselves would be puzzled to rea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83025241%2F0038334721A%2F1849120501%2F0126.jp2/pct:16.968970,42.907840,12.332177,33.257288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1849120501:0126/pct:16.964524,42.900598,12.323286,33.253666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -907,28 +1691,13 @@ themselves would be puzzled to read
 
 ---
 
-## From _Indiana State sentinel._
+## [From _Indiana State sentinel._](https://www.loc.gov/resource/sn82014301/1849-12-08/ed-1/?sp=3)
 
 #### 1849-12-08 &middot; [Indianapolis [Ind.]](http://dbpedia.org/resource/Indianapolis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-uis Union that a horrinle murder has been  
-perpetrated near P&#x27;almyra Island, on the west bank of  
-the Mississippr river, in Louisiana. The negroes in  
-that vicinity had murdered the crew of a tradin  
-boat, loaded with merchandize, groceries, &amp;c., and  
-sent the boat adrift. The principal owner was not  
-amongst them, as he had been left behind on some  
-business. Himself, with a number of citizens, had  
-succeeded in getting some twenly-five or fifty negroes  
-hat had been concerned in it, and found upon their  
-persons, as well as scattered about the huts, many of  
-the goods.  
-  
-MIISCEILANEOUS.  
-  
- ee oe  ae e e   
+   
 in his series of reminiscences, in course of publica  
 t on in the Poston Courier, speaks of the importance  
 I the printer to the authors, as follows.  
@@ -959,12 +1728,61 @@ author. And no one but the practical printer knows
 how many hours a compositor, and after him a proof-  
 reader, is compelledto spend in reducing to a reada  
  ittc  
-ble condition, manusertots that the writers themselve
+ble condition, manusertots that the writers themselves  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191265:1849120801:0210/pct:35.093935,7.900788,14.943639,13.830486/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Star and banner._](https://panewsarchive.psu.edu/lccn/sn85038381/1849-12-14/ed-1/seq-1/)
+
+#### 1849-12-14 &middot; [Gettysburg, Pa.](http://dbpedia.org/resource/Gettysburg%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+think of the  
+, printersi•sithen, almost suffiieso­  
+t  
+ted by the &#x27;Mole of lamp, she up&#x27; MU  
+midnight to correct h . filsegrartunsr,blid  
+orthography, and, igfirse punotuatiori. I  
+have seen the argatheettsof lawyers in high  
+repute as scholars,setiketO the printer ,in  
+i  
+1 their own hand Wel&amp; &#x27;&quot; many words&#x27;, and  
+especially technicabr &#x27;egg% - tarot, abbraii;&#x27;  
+ated, words miepel lend a few or no  
+points, and those • retie if their were any.  
+entirely out of plare.ll have seen the ser­  
+mons of eminent &quot;di ; sent to the prime:  
+• without points or m :tele tO designate thell  
+division of the sente*s--sermons which,  
+if published with the isdperfeetions of rthe  
+manuscript,, would dIs grace the printer&#x27;s  
+devil, if he were (h. anther, StIPPO I A ,  
+they had been so plated. The,prinuti  
+would have been treated with scorn and  
+contempt as an illiterate blockhead--+s&#x27;a  
+fellow better fitted to be a woOdsawyer  
+than a printer. Nobeady would have be­  
+lieved that such growand palpaple faults  
+were owing to the ignorance or caries,-  
+ness of the author.--4nd no one bet the  
+practical printer knoirt how many hours a  
+compositer. and after;him a proof reader,  
+is compelled to spend in reducing to a  
+readable condition manuscripts that the  
+writers themselves would be puzzled to  
+read,&quot; ,
 </td></tr></table>
 
 ---
 
-## [From _Democratic banner._](https://chroniclingamerica.loc.gov/lccn/sn89066057/1849-12-31/ed-1/seq-1)
+## [From _Democratic banner._](https://www.loc.gov/resource/sn89066057/1849-12-31/ed-1/?sp=1)
 
 #### 1849-12-31 &middot; [Bowling Green, Pike County, Mo.](http://dbpedia.org/resource/Louisiana%2C_Missouri)
 
@@ -1010,20 +1828,69 @@ utlior.&#x27;;Ani &#x27;lit&#x27; one bnt!fh practical p&#x27;rin.&#x27;
 andaltrr him a proot-.reaur, is cornpfUod  
 to snfcnd in redutcine to a readable condi  
 tio &#x27; manuscript tnit the writers thero-  
-selves wawa p puzaiea ip reau. .!n
+selves wawa p puzaiea ip reau.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_jerome_ver01%2Fdata%2Fsn89066057%2F00200292121%2F1849123101%2F0709.jp2/pct:40.097367,16.755570,35.118389,79.918419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1849123101:0709/pct:53.451327,22.340759,46.814159,106.542203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Des Moines courier._](https://chroniclingamerica.loc.gov/lccn/sn86081965/1850-01-11/ed-1/seq-1)
+## [From _The miners' journal, and Pottsville general advertiser._](https://panewsarchive.psu.edu/lccn/sn84026251/1850-01-05/ed-1/seq-2/)
+
+#### 1850-01-05 &middot; [Pottsville, Pa.](http://dbpedia.org/resource/Pottsville%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+. 8...  
+  
+PRINTERS ANA PHINTING.-J. T. Bucking­  
+ham, Esq., in his series of reminiscences, in  
+course of publicatibn in the BUston Courier,  
+speaks of the importance of the printer to the  
+author, as follows;:  
+  
+&quot;Slimy who condescend to illuminate the  
+dark world withthe fire of their genius through  
+The columns of a newspaper little think of the  
+`lnt-of a printer, who almost suffocated by the  
+smoke of a lamp, Sits up till &#x27;midnight to cor­  
+.rect, his false graMmar,lnd othography, and  
+worse punctuation. I have l seen the argu­  
+ments of lawyers-in their own hand-wntmg  
+—manp words Mis-spelled, and fed or no  
+points, and those few, if there were any, en­  
+tirely:out ofplace. I have seen the sermons  
+of eminent vdivines&quot; sent to the press with-.  
+out , points or capitals to designate the division  
+of the sentences---sermons wb&#x27; h, ifpublished  
+with the imperfectinas of the manuscript,  
+would disgrace the Printer&#x27;s devil, if he were  
+theauthor. Sup rose they. had been no prin­  
+ted&#x27;&#x27;, :The printer won)d have been treated  
+with scorn and contempt li3llll illiterate block­  
+besdL--as a filkrw . lbetter.fitted to bei wood­  
+tenet than a printer. have&#x27;  
+believed that inichlgross and palpable Wilts  
+were awing to the ivioratiet or carelesadeini  
+of:the author: - And no one but the , prettiest&#x27;  
+printer knows hotsmany hoard it cimnpositor,  
+and viltet hirn a proof reader, is couipelhid to  
+spend&#x27; in &#x27;redueinglit readable =Edon  
+manuactipts that; the writer s  
+would be pitzzled  
+
+</td></tr></table>
+
+---
+
+## [From _Des Moines courier._](https://www.loc.gov/resource/sn86081965/1850-01-11/ed-1/?sp=1)
 
 #### 1850-01-11 &middot; [[Ottumwa] Iowa](http://dbpedia.org/resource/Ottumwa%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
   
 PRINTERS AND PRINTING.—U. T.  
 Buckingham, in his series of reminicen­  
@@ -1065,9 +1932,11 @@ knows how many hours the compositor,
 and after him the proof-reader, is com­  
 pelled to spend in reducing to a readable  
 condition, manuscripts that the author  
-himself would be puzzled to read.&quot;
+himself would be puzzled to read.&quot;  
+  
+G
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn86081965%2F00279528554%2F1850011101%2F0048.jp2/pct:69.338583,66.797300,12.520508,22.599608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn86081965:00279528554:1850011101:0048/pct:69.329208,66.797300,12.515821,23.862399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1079,7 +1948,7 @@ himself would be puzzled to read.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ate ;  
 membership, we perceive that about seven- (Speaks of the importance of the printer tothe in the midst of his studied refinements the  
 eights of the people of that state are regular| author, as follows:—+* Many who condescend to voluptuary languishes.—Blair.  
 church attendants; a very different picture| !!luminate the dark world with the fire of their .  
@@ -1094,11 +1963,46 @@ pal ATR ee is wi Mestre Cheek as manners, often apparently harsh,—but under
 : ; is gumentsof lawyers, in h ls. , aan  
 &quot; hes deereaee ap rid bea te i pong \this exterior was a heart as tender asa child’s  
   
-ischolars, sent to the printer in their own hand- : 
+ischolars, sent to the printer in their own hand-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_friends-intelligencer_1850-01-12_6_42&#0036;5/pct:16.864669,42.481203,77.246901,9.492481/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_friends-intelligencer_1850-01-12_6_42%2Fsim_friends-intelligencer_1850-01-12_6_42_jp2.zip%2Fsim_friends-intelligencer_1850-01-12_6_42_jp2%2Fsim_friends-intelligencer_1850-01-12_6_42_0005.jp2/pct:16.864669,41.804511,77.246901,10.169173/600,/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1850-01-19_20_3/page/n3/mode/1up?view=theater)
+
+#### 1850-01-19
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+test ; out of  
+every twenty-three only one 3s left:  
+  
+crease has been one-third.  
+  
+* Coun  
+| times the membership, we perceive that  
+about seven-eighths of the people of that  
+state are regular church attendants; a  
+| very different picture from the one often  
+| drawn of the moral ‘and ‘religious con-  
+} dition of the great west. — Newark.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_presbyterian_the-presbyterian_1850-01-19_20_3%2Fsim_presbyterian_the-presbyterian_1850-01-19_20_3_jp2.zip%2Fsim_presbyterian_the-presbyterian_1850-01-19_20_3_jp2%2Fsim_presbyterian_the-presbyterian_1850-01-19_20_3_0003.jp2/pct:16.712292,50.193434,11.831475,42.508365/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## Progress
+
+#### From _Boston investigator._
+
+#### 1850-02-13 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
+
+[This text is not available under an open license.]
 
 ---
 
@@ -1109,6 +2013,47 @@ ischolars, sent to the printer in their own hand- :
 #### 1850-02-23 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
+
+---
+
+## [From _Erie observer._](https://panewsarchive.psu.edu/lccn/sn83032025/1850-02-23/ed-1/seq-1/)
+
+#### 1850-02-23 &middot; [Erie, Pa.](http://dbpedia.org/resource/Erie%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+PE[DITi:RiI AND PRINTIIIO.I. T. Buckingham. - Esq..  
+in hisseries of rominiscenceo. in course nf publication in  
+the Boston .7ourier. &#x27;Teaks of the importance of the  
+printer. to the author. as follows:—.&#x27;Many who condo:-  
+snood to illuminate the dark world with the fire of their &#x27;  
+genins, through the columns of a newspaper. little think  
+of the lot of the printer. who, almost annealed by the  
+smoke of stamp, sits up till midnight to correct his false  
+grammar, bad orthography,  
+end worse punctuation. I  
+hove seen the arguments lof lawyers. In high repute as  
+scholars, aerate the printer is thine own handwriting.  
+many words. sad especielti technical end foreign terms.  
+abbreviated. millepafied.l and entirely out of place. 1  
+have seen the sermons ofliminentsdivinea&#x27; sent to tht  
+press without points or Sapitals to designate the division  
+of sentences: sermons. which if published with the im­  
+perfections of the ntenhaiript. would disgrace the printer&#x27;s  
+devil. if he were the author. Suppose they had been so  
+printed. The printer would have , been treated with  
+scorn and contempt. re an illiterate blockhead—air a fel­  
+low bitter flied lobe ai; worm:l-sawyer than a Outer. No­  
+body would have believed thatisuch greet and palpable  
+(outwore owing to the ignotrince °rootlessness of the  
+math . And *to one but the practical printer , knows  
+how many home a compositor.&#x27; and after him a proof­  
+rerder. Is compelled to speed in reducing -totoadish!,  
+condition:manuscripts that tbb writerstheruseliba would  
+be rattled is read&quot;
+</td></tr></table>
 
 ---
 
@@ -1142,7 +2087,7 @@ ischolars, sent to the printer in their own hand- :
 
 ---
 
-## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1850-10-24/ed-1/seq-1)
+## [From _Litchfield enquirer._](https://www.loc.gov/resource/sn84020071/1850-10-24/ed-1/?sp=1)
 
 #### 1850-10-24 &middot; [Litchfield, Conn.](http://dbpedia.org/resource/Litchfield%2C_Connecticut)
 
@@ -1206,7 +2151,7 @@ reducing to a readable condition manu­
 scripts that the writers themselves would  
 be puzzled to read.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn84020071%2F00414182975%2F1850102401%2F0301.jp2/pct:48.309274,14.268276,14.519478,34.344907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1850102401:0301/pct:48.318829,14.270212,14.517405,34.346175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1277,18 +2222,21 @@ but the practical printer knows how many hours the compositors, and
 after him the proof-reader, is compelled to spend in reducing to a reada-  
 ble condition manuscripts that the writer himself would{be puzzled to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_spirit-of-the-times_1850-12-28_20_45&#0036;0/pct:62.113575,63.501320,26.982527,26.870599/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_spirit-of-the-times_1850-12-28_20_45%2Fsim_spirit-of-the-times_1850-12-28_20_45_jp2.zip%2Fsim_spirit-of-the-times_1850-12-28_20_45_jp2%2Fsim_spirit-of-the-times_1850-12-28_20_45_0000.jp2/pct:62.113575,63.501320,26.982527,26.870599/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1851-01-01/ed-1/seq-4)
+## [From _Alexandria gazette._](https://www.loc.gov/resource/sn85025007/1851-01-01/ed-1/?sp=4)
 
 #### 1851-01-01 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ut give me the naked  
+boodle.™  
+And off he went.—Ctncin. Sonjxiriel.  
   
 PRIMERS AND PRINTING.  
 J.T. Buckingham, in his senes of reminis*  
@@ -1310,21 +2258,7 @@ few or no points, and those few, if there are
 any, entirely out of place. I have seen the  
 sermons of divines sent to the press without  
 points or capitals to designate the division of  
-sentences; sermons which, if published wit
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_crawdads_ver01%2Fdata%2Fsn85025007%2F00414215853%2F1851010101%2F0251.jp2/pct:7.379278,56.610916,12.605095,9.404180/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1851-01-01/ed-1/seq-4)
-
-#### 1851-01-01 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+sentences; sermons which, if published with  
 the imperfections of manuscript, would dis­  
 grace the printers devil if he were the author.  
 Suppose they had b;»en so printed. The printer  
@@ -1338,41 +2272,106 @@ but the practical printer knows how many
 hours the compositors, and after him the proof­  
 reader, is compelleifto spend in reducing to a  
 readable condition manuscripts that the writer  
-himself would be puzzled to read.
+himself would be puzzled to read.&quot;  
+I PINE IMPORTED CIGARS AND CHOICE  
+’ CHEWING
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_crawdads_ver01%2Fdata%2Fsn85025007%2F00414215853%2F1851010101%2F0251.jp2/pct:7.351149,65.978388,12.633224,6.258747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851010101:0251/pct:7.351838,54.735683,12.659415,18.784416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## Printers and Printing
-
-#### From _Daily national intelligencer._
+## [From _Daily national intelligencer._](https://www.loc.gov/resource/sn83026172/1851-01-08/ed-1/?sp=3)
 
 #### 1851-01-08 &middot; [Washington City [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
-[This text is not available under an open license.]
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+he may be put afloat by |  
+the first of July next. One subscription only went to the  
+highest amount limited by the law, ($12,000)—thereat was for  
+smaller sums, many being for a single share, $1,000.&quot;  
+  
+A Sad Calamity.—Amongst the items of intel­  
+ligence brought by the last European steamer is  
+the following, as reported by Telegraph :  
+“ The Portuguese frigate Dona Maria blew up off Macao  
+on the anniversary of the birth-day of the Consort of the  
+Queen of Portugal. All the officers, men, and others on  
+board, including some of the officers of the United States  
+ship Marion, except one officer and fifteen men, perished.”  
+Printers and  
+Printing.—J. T. Buckingham,  
+in his series of reminiscences, in course of publica­  
+tion in the Boston Courier, speaks of the import­  
+ance of the printer to authors, as follows :  
+“ Many who condescend to illuminate the dark world with  
+the fire of their genius, through the columns of a newspaper,  
+little think of the lot of the printer, who, almost suffocated  
+by the smoke of a lamp, sits up till midnight to correct his  
+false grammar, bad orthography, and worse punctuation.  
+I  
+have seen the arguments of lawyers, in high repute as scho­  
+lars, sent to the printer in their own handwriting, many  
+words—and especially technical and foreign terms—abbrevi­  
+ated, words mis-spelled, and few or no points, and those few,  
+if there were any, entirely out of place. I have seen the sermons  
+of divines sent to the press without point or capitals to desig­  
+nate the division of sentences ; sermons which, if published  
+with the imperfections of manuscript, would disgrace the prin­  
+ter’s devil if he were the author. Suppose they had been so  
+printed. The printer would have been treated with scorn and  
+contempt, as an illiterate blockhead—as a fellow better fitted  
+to be a wood-sawyer than a printer.  
+Nobody would have  
+believed that such gross and palpable faults were owing to the  
+ignorance and carelessness of the author.  
+And no one but  
+the practical printer knows how many hours the compositors,  
+and after him the proof-reader, is compelled to spend in re­  
+ducing to a readable condition manuscripts that the writer  
+himself would be puzzled to read.”  
+  
+UxIon DEMONSTRATION in Iowa—A mass meeting—  
+the largest gathering of the people ever
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_custer_ver01:data:sn83026172:00211678136:1851010801:0553/pct:48.833955,38.685694,15.220771,24.463365/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## Printers and Printing
+## [From _Litchfield enquirer._](https://www.loc.gov/resource/sn84020071/1851-01-09/ed-1/?sp=2)
 
-#### From _Daily national intelligencer._
+#### 1851-01-09 &middot; [Litchfield, Conn.](http://dbpedia.org/resource/Litchfield%2C_Connecticut)
 
-#### 1851-01-08 &middot; [Washington City [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
+<table style="width: 100%;"><tr><td style="width: 50%">
 
-[This text is not available under an open license.]
+.  
+The Portugese Frigate. Denna Maria,  
+blew up off Macao on the anniversary of  
+the birth dav of the consoit of the Queen  
+  
+of Portugal. All the officers, men and  
+others on boaid including some of the of­  
+ficers of tlie U. S. Ship Marion, excepting  
+one officer and fifteen men perished.  
+France.— A
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1851010901:0346/pct:82.110454,28.542345,14.635108,4.736699/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _The southern press._](https://chroniclingamerica.loc.gov/lccn/sn82014764/1851-01-11/ed-1/seq-2)
+## [From _The southern press._](https://www.loc.gov/resource/sn82014764/1851-01-11/ed-1/?sp=2)
 
 #### 1851-01-11 &middot; [Washington [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+&quot;  
 Pujhteks and 1&#x27;niNTiNu.?J. T. Buckingham,  
 in his series of reminiscences, in course of publication  
 in the Boston Courier, speaks of the  
@@ -1406,22 +2405,162 @@ and cnrlessuess of the anther. And no
 lours the compositor, and after him the proofeader,  
 is compelled to spend in reducing to a  
 eadable condition manuscripts th t the writer  
-limself would be puz/.led to read.
+limself would be puz/.led to read.&quot;  
+Mail Steamers between Baltimore and  
+iuRoPE.?In the Senate yesterday, us will be  
+eeu by the report of the proceeding
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn82014764%2F00415661484%2F1851011101%2F0058.jp2/pct:18.378324,9.235996,15.301865,16.789129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851011101:0058/pct:18.368270,9.232046,15.291811,18.677412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The Hillsborough recorder._
+## [From _Weekly national intelligencer._](https://www.loc.gov/resource/sn83045784/1851-01-11/ed-1/?sp=1)
+
+#### 1851-01-11 &middot; [Washington [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+A Sad Calamity.?Amongst the items of intel­  
+ligence brought by the last European steamer ia  
+the following, as reported by Telegraph:  
+&quot; The Portuguese frigate Dona Maria blew up off Macao  
+on the anniversary of the birth-day of the Consort of Ihe  
+Quean of Portugal. All tha officers, men, and others on  
+board, including some of the officers of the United States  
+?hip Marion, except one officer and fifteen men, perished.&quot;
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851011101:0491/pct:2.437010,91.023472,15.668457,5.022203/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Fayetteville observer._](https://newspapers.digitalnc.org/lccn/sn83045228/1851-01-14/ed-1/seq-2/)
+
+#### 1851-01-14 &middot; [Fayetteville, N.C.](http://dbpedia.org/resource/Fayetteville%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ &quot; 7 , .  
+s oou iainmuy. .iioongsi tne items  
+ol intelligence brought by the Inst Euro.  
+Pn slenmer is the following, as reported  
+by Teleeniph:  
+&quot;Tbe Portuguese frigate Dona Maria  
+blew up off Macao on the anniversary of  
+ine ninn-aay oi tne Consort of tbn Queen  
+of Portugal. All the officers, men and  
+others on board, including some of tbe  
+officers of the United States ship Marion,  
+except one officer and fifteen men, perish­  
+ed.&quot; GARDEN SEED
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarObsF12n_ver01%2Fdata%2F1851011401%2F0424.jp2/pct:94.397939,103.711159,17.981326,11.598943/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The daily morning post._](https://panewsarchive.psu.edu/lccn/sn84026248/1851-01-14/ed-1/seq-2/)
+
+#### 1851-01-14 &middot; [Pittsburgh [Pa.]](http://dbpedia.org/resource/Pittsburgh)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+PRINTERS AND PHINTINO:J. T. Buckingham, in  
+his series of reminiscences, in course of publication  
+in the Boston Courier, speaks of the importance of  
+the printer to authors, as follows  
+Many who condescend to illuminate the dark  
+world with the fire of their genius, through the  
+columns of a newspaper, little think of the to tof the  
+printer, who, almost suffocated by the smoke of a  
+lamp, sits op till midnight tb correct his false gram.  
+mar, bad orthography, and worse punctuation. I  
+have seen the arguments of laWyers, in .high repute  
+as scholars, sent to the printer in their own hand­  
+writing, many, words—and especially technical and  
+foreign terma—abbreviated; words misspelled, and  
+few or no points, and those few, if there aro any, en..  
+tirely out of place. I have seen the sermons of di­  
+vines sent to the press without point or capitals to  
+designate the division of sentences ;sermons which,  
+if published with the imperfections of manuscript,  
+would disgrace the printerts devil if he were the  
+author. Suppose they had been so printed. The  
+printer would have been treated with scorn and con.  
+tempt, as an illiterate blockhead—as a fellow better  
+fitted to be a wood sawyer than a printer. Nobody  
+would have believed that such gross and palpable  
+faults were owing to the ignorance and carelessness  
+of the author. And no one bat the practical printer  
+knows how many hours the compositor, and after  
+him the proof-reader, is compelled to- spend an re­  
+ducing to a readable condition manuscripts that  
+the writer himself would bo puzzled to read.&quot;
+</td></tr></table>
+
+---
+
+## [From _The Hillsborough recorder._](https://www.loc.gov/resource/sn84026472/1851-01-15/ed-1/?sp=2)
 
 #### 1851-01-15 &middot; [Hillsborough, N.C.](http://dbpedia.org/resource/Hillsborough%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-Priniers and Printing.-J. T. Bucking-  
+.  
+A Sad Calamity. Amongst the items  
+of intelligence broughtby the last Furonean  
+steamer is the following, as reported by  
+Telegraph:  
+&quot;The Portuguese frigate Dona Maris  
+blew up off Macao on the anniversary of  
+the birth-day of the Consort of the Queen  
+of Portugal. All the officers, men, and  
+others on board, including some of the of  
+ficers of the United States ship Marion,  
+except one officer and fifteen men, perish-  
+ed
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851011501:0424/pct:68.448177,45.364536,14.430235,7.084994/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Hillsborough recorder._](https://www.loc.gov/resource/sn84026472/1851-01-15/ed-1/?sp=2)
+
+#### 1851-01-15 &middot; [Hillsborough, N.C.](http://dbpedia.org/resource/Hillsborough%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+. This is the natural  
+progress. It is by attempting to reach  
+the top at a single leap, that so much  
+misery is produced in the world. So­  
+ciety may aid in making the laborers  
+virtuous and happy, by bringing chil­  
+dren up to labor with steadiness, with  
+care and with skill; to show them how  
+to do as many useful things as possible;  
+to do them all in the best manner; to  
+set them an example in industry, sobri­  
+ety, cleanliness and neatness; to make  
+all these habitual to them, so that they  
+never shall be liable to fall into the  
+contrary; to let them always see a good  
+living proceeding from labor, and thus  
+to remove from them the temptation to  
+get at the goods of others by violent or  
+fraudulent means, and to keep from  
+Seir minds all inducements to hypocri­  
+sy and deceit.  
+Printers and Printing.-J. T. Bucking-  
 ham, in his series of remmiscences, in  
 course of publication in the Boston Cour­  
 ier, speaks of the importance of the printer  
@@ -1436,19 +2575,19 @@ grammar, bad orthography, and wrose
 punctuation. I have seen the arguments  
 of lawyers, in high repute as scholars, sent  
 to the printer in their own hand writing,  
-many words--and especially technical and  
+many words- and especially technical and  
 foreign terms--abbreviated, words mis­  
 spelled, and few or no points, and those  
 few, if there are any, entirely out of place.  
 I have seen the sermons of divines sent to  
 the press without points or capitals to de­  
-signate the division of sentences: sermons  
+signate the division of sentences; sermons  
 which, if published with the imperfections  
-of the manuscript, would disgrace the prin­  
+of the mannscript, would disgrace the prin­  
 ter&#x27;s devil if he were the author. Suppose  
 they had been so printed. The printer  
 would have been treated with scorn and  
-contempt, as an illiterate blockhead,-as a  
+contempt, as an illiterate blockhead--as a  
 fellow better fitted to be a woodsawyer  
 than a printer. Nobody would have be­  
 lieved that such gross and palpable faults  
@@ -1460,41 +2599,70 @@ reader, is compelled to spend, in reducing
 to a readable condition manuscripts that  
 the writer himself would be puzzled to  
 read.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851011501:0424/pct:83.202901,55.947023,14.754724,36.620805/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _The Lancaster gazette._
+## [From _The Sumter banner._](https://www.loc.gov/resource/sn86053240/1851-01-15/ed-1/?sp=3)
+
+#### 1851-01-15 &middot; [Sumterville, S.C.](http://dbpedia.org/resource/Sumter%2C_South_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ e e  
+A San CALAMIry-Amongst the items  
+of intelligence brought by the last Euro.  
+pean steamer is the following, as reported  
+by Telegraph; &quot;The Portugnese frigate­  
+Dona Maria blew up off Macao on the anni  
+versary of the birth-day of the Consort of  
+the Queen of Portugal. All the officers,  
+men, and others on board, including some of  
+the officers of the United States ship Marion.  
+e e  e ee  
+The
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288488:1851011501:0342/pct:57.960807,63.917299,13.233674,6.719455/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Lancaster gazette._](https://www.loc.gov/resource/sn87070038/1851-01-16/ed-1/?sp=2)
 
 #### 1851-01-16 &middot; [Lancaster, Ohio](http://dbpedia.org/resource/Lancaster%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-PAINTEES AND PRINTING. J. T. Buck.  
-ingham, in his series of reminiscences, in  
+  
+PaINTERS AN PRINTING. J. T. Buck.  
+ingham, in his series of remlulscences, in  
 course of publication in the Buston Cour­  
 ier, speaks of the importanre of the prin  
 ter to authors, as follows:  
 &quot;Many who condescend to illuminate  
-the dark world with the fire of their gen  
-his, thiough the columns of a newspaper,  
-little think of the lot of the printer, who,  
+the dark world with the fire of their gell  
+hns, thiough the columns of a newspaper,  
+fittle think of the lot of the printer, who,  
   
 almost suffocated by the smoke of a lamp,  
 sits up till midnight to correct his false  
 grammar, bad orthography, and worse  
-punctuation. I have seen the aiguments  
+punctuation. I have seen the arguments  
 of lawyers, in high repute as scholars,  
-sent to the printer in their biwn hand­  
-writing, many words, and especially  
+senl to the printer in thelr uwn hand­  
+writing, many words- and especially  
 technical and foreign terms-abbreviated,  
-words mis-spelled, and few or no points,  
+words mis spelled, and few or no points,  
 and those few, if there are any, entirely  
-out of place. I have seen the sermons  
+out of place. I have seen the sermous  
 of divines sent to the press without point  
 or capitals to designate the division of  
-e e te at  
+ae ete e eo  
 sentences; sermons which, if published  
 with the imperfections of manuscript,  
 would disgrace the printer&#x27;s devil if he  
@@ -1503,117 +2671,165 @@ so printed. The printer would have
 been treated with scorn and contempt, as  
 an illiterate blockhe ad--as a fellow bet­  
 ter suited to be a wood-sawyer than a  
-printer. Nobody would be lieve that such  
+printer. Nobody would believe that such  
 gross and palpable faults were owing to  
 the ignorance and carelessness of the au­  
 thor. And no one but the practical prin  
-ter knows how many hours the compos  
+ter knows how many hours the cumpos  
 itor, and after him the proof reader, is  
 compelled to spend in reducing to a read  
 able condition manuscripts that the writ  
-er himself would be puzzled to read.
-</td></tr></table>
+er himself would be pazzled th read
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1851011601:0768/pct:44.675476,6.204329,12.689468,21.811664/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _Lynchburg Virginian._
+## [From _Lynchburg Virginian._](https://www.loc.gov/resource/sn84024649/1851-01-16/ed-1/?sp=1)
 
 #### 1851-01-16 &middot; [Lynchburg [Va.]](http://dbpedia.org/resource/Lynchburg%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+cate it, because after years of careful observa  
+tion throughout the entit Sonth, I have never seen as  
+much human misery am ng the hundreds of thousand­  
+fslaves that I have seen among the negro population  
+t the course of thi tr minntes walk from the very cen  
+tre of wealth and luxury in the Cny of New York. I  
+advocate it, bee ause I hope I am a philanthropist, and  
+to ad vocate any system, I care not by  
+name it may be designated, that produces the greatest a  
+mount of human happiness to the gratest number  
+the family.  
+I remain, in st resp cifully, yours. &amp;  
+SOLON ROBINSON.  
+ChYRLeSTos, Dec 21, 1850.  
   
-Printers and Printing-d. T. Buckingham, in his  
-eties of reniniscenses, in course of publica ion in th  
+Printers and PrintingJ. T. Buckingham, in his  
+eties of re-niniscenses, in course of publica ion in th  
 B stan Courier, speaks of the importance of the printer  
 to anthors, as follows:  
 &quot;Many who condescend to illuminate the dark world  
-with the fw of their genins, through the columns of a  
+with the fw of their genius, through the columns of a  
 newspaper, little think of the lot of the printer, who,  
-almest suflcated by the smoke of a lamp, sits up i  
+ame st suflcated by the smoke of a lamp, sits up ti  
 midnight to correct his false grammar, bad or hography,  
 and worse punctuation. I have seen the argumen&#x27;s of  
 lawyers, in high repute as scholars, sent to the printer in  
-their own handwriting, many words- ind especially  
-technical and foreign terms--abbreviated words mis  
-spelled, and few or no points, and those few, if thete  
+their own handwriting, many words--ind especially  
+technical and foreign terms- abbreviated, words mis  
+spelled, and few or no points, and those few, if there  
 were any, entirely out of place. I have seen the ser  
-mons ef divines sent to the press without points or capl  
+ihons ef divines sent to the press without points or capl  
 tals to designate the division of sentences; sermons  
 which, if published with the imperfections of mann­  
 script, would disgrace the printer&#x27;s devil if he were the  
 author. Suppose they had been so prin ed. The prin­  
-er would have been treated with scorn and contmpt,  
-as an illiterate blockhead-as a fellow better fitted to be  
-a woed sawyer than a printer. Nobody would have be­  
+er would have been treated with scorn and cont-mpt,  
+as an illiterate blockhead-as a fellow befter fitted to be  
+a wod sawyer than a printer. Nobody would have be­  
 heved that such gross and palpable faults were owing  
 to the ignorance and carelessness of the an hor. And  
-no one but the practical printer knows how many houtr  
-the compositors, and after him the proof reader, is  
+no one but the practical printer knows how many houts  
+the compisitors, and after him the proof reader, is  
 compelled to spend in reducing to a readable condition  
-manuscripts that the wilter hitself would be pozzled  
+manuscripts that the writer hitself would be pozzled  
 to fead.&quot;
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1851011601:0584/pct:48.049713,73.416391,14.995220,22.129240/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _The daily crescent._
+## [From _Watchman and observer._](https://www.loc.gov/resource/sn94059319/1851-01-16/ed-1/?sp=4)
+
+#### 1851-01-16 &middot; [Richmond, Va.](http://dbpedia.org/resource/Richmond%2C_Virginia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+A Sad Calamity.—Amongst the items of in­  
+telligence brought by the last European steamer  
+is the following, as reported by Telegraph:  
+“The Portuguese frigate Dona Maria blew up  
+ofT Macao on the anniversary of the birth-day  
+of the Consort of the Queen of Portugal. All  
+the officers, men, and others on board, including  
+some of the officers of the United States ship  
+Marion, except one officer and fifteen men, per­  
+ished.”
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jaeger_ver01:data:sn94059319:print:1851011601:0092/pct:39.848341,16.973302,14.824645,5.394937/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The daily crescent._](https://www.loc.gov/resource/sn82015378/1851-01-17/ed-1/?sp=1)
 
 #### 1851-01-17 &middot; [[New Orleans, La.]](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s their debtor. But he  
-felt--and felt truly,-that no lapse of time could ex­  
-tinguish his moral accountability; and in the spirit  
-of a just man, and an honest merchant, he took the  
+* their debtor. But he  
+felt—and felt truly—that no lapse of time could ex­  
+tinguish his moral accountability ; and in the spirit  
+of a just man, and an honest merchant, lie took the  
 first opportunity of reimbursing those to whom he  
-had been indebted, without regard to merely techni­  
+had beer, indebted, without regard lo merely techni­  
 cal considerations. Such an example is certainly  
 worthy of all praise; and we accord it in this par­  
 ticular case with all the more cheerfulness, as we  
 are sure the act was prompted by a high sense of  
-integrity--an earnest and anxious disposition to do  
+integrity—an earnest and anxious disposition to do  
 right, for the sake of right, uninfluenced by any  
 other motive.&quot;  
-PrintERS ANd PRINTinG. J. T. Buckingham  
+P rintersand P rinting.—J. T. Buckingham  
 in his series of reminiscences, in course of publica­  
 tion in the Boston Courier, speaks of the import­  
-ance of the printer to authors, as follows:  
- Many who condescend to illuminate the dark world with  
-the fire of their genius, through the columas of a news.  
-paner, httle think of the lot of the printer, who, almost suf.  
-focated by the smoke of a lamp, sits up till midnight to cor  
-rect his false grammar, bad orthography, and worse punctn­  
-ation. I have seen the arguments of lawyers, in high repute  
-as scholars, sent to the printer in their own handwriting,  
-many words--and especially technical and foreign termss­  
-abbreviated, words mis-spelled, and few or no points, and  
-those few, if there were any, entirely out of place. I have  
-seen the sermons of divines sent to the press without points or  
-capitals to designate the division of sentences; sermous  
-which, if published with the imperfections of manuscript,  
-would disgrace the printer&#x27;s devil if he were the author.  
-Suppose they had been so printed. The printer would have  
-been treated with scorn and contempt, as an illiterate block  
-head--as a fellow better fitted to be a wood sawyer than a  
-printer. Nobody would have believed that such gross and  
-palpable faults were owing to the ignorance and carelessness  
-of the author. And no one but the practical printer knows  
-how many hours the compositors, and after him the proot­  
-reader, is compelled to spend in reducing to a readable con.  
-inuscripts that the writer himself would be puzzle
-</td></tr></table>
+ance of the printer to authors, us follows :  
+.k, &#x27; w&#x27; 10 condescend to illuminate the dark world with  
+the hre of their genius, through the column«» ol&#x27; a new.«,  
+t apfer, little think of the lot of the primer, who, almost sut&quot;,  
+located by Iii« smoke ol a lamp, s:t* up till midnight to cor  
+reçt Ins Ih He grammar, bad orthography, and worse puncto­  
+anon. I nave seen the arguments of lawyers, in high repute  
+us scholars, sent to the print.* in their own handwriting,  
+many words—au.I especially technical and foreign terms­  
+nbbreyiated. words nus spelled, and few or no points, and  
+those few, if there wen; any, entirely out of place. I have  
+seen the sermons ol divines sent to the press without points or  
+capitals to designate the division ol&#x27; sentences : sermons  
+which, if published with the îmiierfèction* of manuscript,  
+would (iMcnice the fruiter&#x27;« devil if lia wore llie nollior!  
+puppose they had been so printed. The printer would have  
+been treated with Bcoru ami contempt, as an illi&#x27;erate block  
+bead as a IVllow better Stiel to be a wood .awyer than a  
+printer. Nobody would have believed that such «rosa and  
+pa uable la.lt. were owing to the ignorance and carelessness  
+of the author. And no one but the practical printer known  
+fiow many hours the compositors, and after bun the proof­  
+reader, is compelled to spend in reducing to u readable con.  
+inn script s that the wnter himself would be puzzled  
+a
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851011701:0067/pct:2.188006,53.929419,12.641815,14.220047/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1851-01-18/ed-1/seq-1)
+## [From _The Cecil Whig._](https://www.loc.gov/resource/sn83016348/1851-01-18/ed-1/?sp=1)
 
 #### 1851-01-18 &middot; [Elkton, Md.](http://dbpedia.org/resource/Elkton%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+upper’s ready.’  
 PurxTKiiß AxnPm.xTiNu.—J.T. Buck­  
 ingham, in his series of reminiscences,  
 lin course oi publication in the Boston  
@@ -1653,9 +2869,10 @@ ny hours the compositors, and after hint
 the proof-reader, is compelled to spentl  
 in reducing to a readable condition inan­  
 nscripts that the writer himself would  
-be puzzled to read.
+be puzzled to read.”  
+Mas. Junsov*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624451%2F1851011801%2F0315.jp2/pct:80.716459,53.755457,15.081233,24.401289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624451:1851011801:0315/pct:104.133333,68.066961,19.444444,33.891346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1671,78 +2888,119 @@ be puzzled to read.
 
 ---
 
-## Printers and Printing
+## [From _Glasgow weekly times._](https://www.loc.gov/resource/sn86063325/1851-01-23/ed-1/?sp=1)
 
-#### From _The Daily Scioto gazette._
+#### 1851-01-23 &middot; [Glasgow, Mo.](http://dbpedia.org/resource/Glasgow%2C_Missouri)
 
-#### 1851-01-23 &middot; [Chillicothe, Ohio](http://dbpedia.org/resource/Chillicothe%2C_Ohio)
+<table style="width: 100%;"><tr><td style="width: 50%">
 
-[This text is not available under an open license.]
+. It is by attempting to reacli  
+fully apparent. It is not ihe danger of &#x27; the top at a (ingle leap, lhat so much  
+mistake, but lhe failure of success, which (misery is produced in the world. So-  
+  
+ihey dread. Activity to seize, not sa &#x27;  
+gaciiy to uisccin, is the only requisite  
+which thev value. How long shall it  
+be, ere the fate of vour predecessors in ,  
+  
+the sami&quot; course teaches you wisdom&#x27; to do as many useful things as possible;  
+How long shall the exptrience of all to do them all in the best manner; to set  
+ages continue to lift its voice lo you in &#x27; them an example in industry, sobriety,  
+vaiu? Beholding the ocean on which cleanliness and neatness; to make all  
+you are embai ked covered with wrecks, 1 these habitual lo them, so that they ne­  
+aie not those fatal signals suflieicnt lo vcr shall be liable lo fall into the con  
+admonish you of lhe hidden rock? If, j trary; to let ihem always see a good  
+in paradise itself, theie was a tree j living proceeding from labor, and thu?  
+which bjic fVuii fair lo the eye, but : to remove fi orn them the temptation to  
+mortal in its effects, how much more, in j gel at the goods of others by violent or  
+this fallen slate, ma
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1851012301:0488/pct:93.387471,74.376121,34.976798,15.217746/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Herald of the times._](https://chroniclingamerica.loc.gov/lccn/sn83021169/1851-01-23/ed-1/seq-2)
+## [From _Herald of the times._](https://www.loc.gov/resource/sn83021169/1851-01-23/ed-1/?sp=2)
 
 #### 1851-01-23 &middot; [Newport, R.I.](http://dbpedia.org/resource/Newport%2C_Rhode_Island)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+. On the strength of this in-  
+formation he went on a spree, got drunk,  
+fell overboard, and his heirs are now en­  
+titled to the money.  
   
-Prixtens axo Prixrino.~J: T. Buck­  
+PRINTERS AND PRIN TINO. LT. Buch­  
 ingham, in his series of reminiscences,  
 in course of publication in the Boston  
-Courier, speaks of the immportance of the  
-printer to authors, as follows: -  
-“Many who condescend to [lluminate  
+Courier, speaks of the iiportance of the  
+printer to authors, as follows:   
+&quot;Many who condescend to lluminate  
 the dark world with the fire of their ge­  
-nius, through the columne of a newspa­  
+nius, through the columne of a newepa­  
 per, little think of the lot of the printer  
-who, almost suffocated by the smoke of*  
+who, almost suffocated by the amoke of  
 a lamp, sits up till midnight to correct  
-kis false grammar, bad orthography, and  
-worse pronunciation. 1 bave seen the  
+his false grammar, bad orthography, and  
+worse pronunciation. I have seen the  
 arguments of lawyers, in high repute as  
 scholars, sent to the printer in their own  
-hand-writing, many worde—and espe­  
-cially technical and foreign terms—ab­  
-breviated, worde mis spelled, and few or  
-no points, and those few, if there ure any  
+hand writing, many words- and espe­  
+cially technical and forcign terms--ab­  
+breviated, words mis spelled, and few or  
+no points, and those few, if there are any  
 entirely out of place. I have seen the  
 sermons of divines sent to the press  
 without point or capitals to designate  
 the division of sentences; sermone  
-which, if published &quot; with the imper.  
-fectione of manuscript, would dis.  
-grace the printer&#x27;s devil it he were the  
+which, if published with the imper.  
+fections of manuscript, would dis.  
+grace the printer&#x27;s devil if he were the  
 author. Suppose they had been so  
 printed. The printer would have treat­  
 ed with scorn and contempt, as an illit­  
-erate blockhead ~as a fe!llow better fit­  
-ted to be a wood-sawyer than a printer.—  
-Nobody would have believed that euch  
-groes and palpable faults were owing to  
-the ignorance and carelessness of the  
+erate blockhead--as a fellow better fit-­  
+ted to be a wood-sawyer than a printer.  
+Nobody would have believed that such  
+gross and palpable faults were owing to  
+the ignorance and carelessnass of the  
 author. And no one but the practical  
 printer knows how many hours the com­  
 positor, and after him the proof-reader,  
-is compelled to spend in reducing to l‘  
-readable condltion manuscripts that the  
+is compelled to spend in reducing to a  
+readable condition manuscripts that the  
 writer himself would be puzzled to  
-read.”
+read.&quot;  
+  
+A CRUsL CASE or DESErTioN ANp  
+Roaasry.-A very gentce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/rp_azer_ver02%2Fdata%2Fsn83021169%2F00514152780%2F1851012301%2F0425.jp2/pct:86.861278,6.437845,12.522615,25.554121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152780:1851012301:0425/pct:73.693218,6.437845,25.690675,90.553045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _North Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84024517/1851-01-25/ed-1/seq-3)
+## [From _North Carolina standard._](https://www.loc.gov/resource/sn84024517/1851-01-25/ed-1/?sp=3)
 
 #### 1851-01-25 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ people can know precisely what  
+amendments they are voting for. He believed if a  
+Convention were called, no matter what protestations  
+gentlemen might make here, the basis of representa­  
+tion would be altered, and that fundamental principle  
+of all just and fair government that taxation and  
+representation should go together would be swept  
+from the Constitution of North Carolina. To pre­  
+vent so dire a calamity to the eastern portion of North  
+Carolina, he would resist a Convention in all and  
+every shape; and to take from its advocates every  
+plausible ground, h&quot;e would now vote for Free Suff­  
 rage.Printers and Printing. J. T. Buckingham, in  
 his series of re-niniscences, in couise of publication  
 in the Boston Courier, speaks of the importance of  
@@ -1760,21 +3018,7 @@ terms abbreviated, words mis-spelled, and few or no
 points, and those few, if there were any, entirely out  
 of place. I have seen the sermons of divines sent  
 to the press without point or capitals to designate the  
-division of sentences; sermons which, if publishe
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn84024517%2F00296022706%2F1851012501%2F0104.jp2/pct:2.543202,75.218061,14.835344,9.209851/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _North Carolina standard._](https://chroniclingamerica.loc.gov/lccn/sn84024517/1851-01-25/ed-1/seq-3)
-
-#### 1851-01-25 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+division of sentences; sermons which, if published  
 with the imperfections of manuscript, would disgrace  
 &#x27;the printer&#x27;s devil if he were the author. Suppose  
 they had been so printeJ. The printer would have  
@@ -1787,21 +3031,69 @@ one but the practical.printer knows how many hours
 the compositors and after him the proof-readet, is  
 compelled to spend in reducing to a readable condi­  
 tion manuscripts that the writer himself would be  
-puzzled to read.
+puzzled to read.&quot;  
+Immigrants. The number of Immigrants into the  
+united States during the year ending 30th September  
+; JJt wa 325,333, including 43.615 from California.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn84024517%2F00296022706%2F1851012501%2F0104.jp2/pct:2.543202,84.363776,14.802739,6.092868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851012501:0104/pct:3.389831,92.727040,19.752282,30.631093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Wilmington journal._](https://chroniclingamerica.loc.gov/lccn/sn84026536/1851-01-31/ed-1/seq-4)
+## [From _Weekly North Carolina standard._](https://www.loc.gov/resource/sn84045030/1851-01-29/ed-1/?sp=1)
+
+#### 1851-01-29 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ Our  
+gentlemen might make here, the basis of re nreaenta- . .  
+Hkm would be altered, and that fundamental principle conMpnpe &#x27; lhe 8CBeM of U,e measure 1,1,3 8e8&#x27;  
+of all just and fair government that taxation and I 8&#x27;on&#x27; a8 nevr at any tjne wavered; and as the  
+representation should go together .won Id be swept hours wear on, that confidence is increased and streng­  
+from the Constitution of North Carolina. To pre- .h.nod. It has been Bxu)tntrv anonned. bv one  
+  
+vent so dire a calamity to the eastern portion of North  
+Carolina, he would resist a Convention in all and  
+every shape; and to take from its advocates every  
+plausrMe ground, lm would now vote for Free Suff­  
+rage
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851012901:0253/pct:2.866515,108.620690,40.159726,6.811409/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Weekly North Carolina standard._](https://www.loc.gov/resource/sn84045030/1851-01-29/ed-1/?sp=3)
+
+#### 1851-01-29 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Immigrants. The number of Immigrants inin ibo  
+  
+&#x27;niteri States during the year endincr30th Sentemhir  
+  
+last was 325,333, including 43,615 from California.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851012901:0255/pct:3.391747,124.239177,19.389486,2.057437/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Wilmington journal._](https://www.loc.gov/resource/sn84026536/1851-01-31/ed-1/?sp=4)
 
 #### 1851-01-31 &middot; [Wilmington, N.C.](http://dbpedia.org/resource/Wilmington%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 Printers axd Printing. J. T. Buckingham, in  
 bis series of reminiscences, in course of publication  
 in the Boston Courier, speaks of the importance of  
@@ -1832,21 +3124,86 @@ author. And no one but the practical printer knows
 how many hours the compositors, and after him the  
 proof-reader, is compelled to spend in reducing to a  
 readable condition manuscripts that the writer him­  
-self would be puzzled to read.
+self would be puzzled to read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_lumber_ver01%2Fdata%2Fsn84026536%2F00295879075%2F1851013101%2F0027.jp2/pct:3.456460,37.220086,15.605993,14.940059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1851013101:0027/pct:4.596679,49.626781,20.803677,19.904999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1851-01-31/ed-1/seq-1)
+## [From _Pawtucket gazette and chronicle._](https://www.loc.gov/resource/sn83021578/1851-01-31/ed-1/?sp=1)
+
+#### 1851-01-31 &middot; [Pawtucket, R.I.](http://dbpedia.org/resource/Pawtucket%2C_Rhode_Island)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ in California, the inference is  
+just, that horse hair of the two is in most de­  
+mand, and that the greatest sufferer in this  
+case is still the owner of the steed.” “But  
+then,” murmured the ingenious counsel,  
+“ you should consider the young man’s pride.”  
+“ Yes, yes,” responded the alcalde, “ I con­  
+sidered all that, and considered too the stump  
+of that horse’s tail, and the just pride of his  
+owner. Your client will recover his crop  
+much sooner than the other, ami will manage,  
+I hope, to keep it free of the barber’s depart­  
+ment in this court;” and with this, client and  
+counsel were dismissed.  
+  
+Printers and Printing.—J. T. Buck­  
+ingham in his series of reminiscences, in  
+course of publication in the Boston Courier,  
+speaks of the importance of the printer to  
+authors, ns follows :  
+  
+“ Many who condescend to illuminate tho  
+dark world with tho fire of their genius  
+through the columns of a newspaper, little  
+think of the lot of the printer who, almost suf­  
+focated by the smoke of a lamp, sits up till  
+midnight to correct bus false grammar, bad  
+orthography, and worse punctuaation. I have  
+seen the arguments of lawyers, in high repute  
+as scholars, sent to the printer in their own  
+hand-writing, many words—and especially  
+technical and foreign terms —abbreviated,  
+words mis-spelled, and few or no points, and  
+those few, if there are any, entirely out of  
+place. I have seen the sermons of divines  
+sent to the press without jioint or capitals to  
+designate the division of sentences ; sermons  
+which, if published with the imperfections of  
+manuscript, would disgrace the printer’s devil  
+if he were the author. Suppose they had  
+lieen so printed. The printer would have  
+treated with scorn and contempt, as an illite­  
+rate blockhead—as a fellow Letter fitted to  
+be a wood-sawyer than a printer. Nobody  
+would have believed that such gross and pal­  
+pable faults were owing to the ignorance ami  
+carelessness of the author. And no one but  
+the practical printer knows how many hours  
+the compositor, and after him the proof-reader,  
+is eompel’e I to spend in reducing to a read­  
+able condition manuscripts that the writer  
+himself would lie puzzled to read.”
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_jarlstorvald_ver01:data:sn83021578:00529045414:1851013101:0225/pct:79.097638,33.409874,15.509341,30.718204/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Athens post._](https://www.loc.gov/resource/sn84024443/1851-01-31/ed-1/?sp=1)
 
 #### 1851-01-31 &middot; [Athens, Tenn.](http://dbpedia.org/resource/Athens%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+&quot;  
 PltlNTKItS AND PbINTI.NO. -J. T.  
 Uuckingham, in his series of remini  
 scences, in course of publication in  
@@ -1890,15 +3247,15 @@ the compositors, and alter him the
 proof reader, is compelled to spend in  
 rcdusing to a readable condition man­  
 uscripts that the writer himself would  
-be puzzled to read 
+be puzzled to rea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn84024443%2F00280779210%2F1851013101%2F0214.jp2/pct:46.269874,63.473857,13.554831,27.841502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779210:1851013101:0214/pct:61.654442,84.626843,18.072535,37.107106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Worcester daily spy._](https://chroniclingamerica.loc.gov/lccn/sn83021205/1851-02-03/ed-1/seq-2)
+## [From _Worcester daily spy._](https://www.loc.gov/resource/sn83021205/1851-02-03/ed-1/?sp=2)
 
 #### 1851-02-03 &middot; [Worcester [Mass.]](http://dbpedia.org/resource/Worcester%2C_Massachusetts)
 
@@ -1950,9 +3307,9 @@ author. And no one but the practical printer knows
 how many hours the compositor, and after him the  
 proof reader, is compelled to spend in reducing to a  
 readible condition, manuscripts that the writer him­  
-self wouid be puzzled to read.
+self wouid be puzzled to read.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mb_artemis_ver01%2Fdata%2Fsn83021205%2F00517172170%2F1851020301%2F0092.jp2/pct:43.500788,7.891799,34.484118,85.555886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172170:1851020301:0092/pct:56.115108,10.182918,44.495313,110.384560/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1968,7 +3325,7 @@ self wouid be puzzled to read.
 
 ---
 
-## [From _Iowa capitol reporter._](https://chroniclingamerica.loc.gov/lccn/sn82014116/1851-02-12/ed-1/seq-1)
+## [From _Iowa capitol reporter._](https://www.loc.gov/resource/sn82014116/1851-02-12/ed-1/?sp=1)
 
 #### 1851-02-12 &middot; [Iowa City, Iowa](http://dbpedia.org/resource/Iowa_City%2C_Iowa)
 
@@ -2013,21 +3370,7 @@ and those few, if there are any, entirely
 out ol&#x27; place. I have seen the sermons of  
 divines sent to the press without point or  
 capitals to designate the division of sen­  
-tences sermons which, if published wit
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn82014116%2F00279528542%2F1851021201%2F0070.jp2/pct:29.943852,53.239541,12.053778,21.716237/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Iowa capitol reporter._](https://chroniclingamerica.loc.gov/lccn/sn82014116/1851-02-12/ed-1/seq-1)
-
-#### 1851-02-12 &middot; [Iowa City, Iowa](http://dbpedia.org/resource/Iowa_City%2C_Iowa)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+tences sermons which, if published with  
 the imperfections of manuscript, would  
 disgrace the printer&#x27;s devil if he were the  
 author. Suppose they had been so print­  
@@ -2043,9 +3386,10 @@ how many hours the compositor, and after
 him the proof-reader, is compelled to spend  
 in reducing to a readable condition manu­  
 scripts that tho writer himself would be  
-puzzled to read.&quot;
+puzzled to read.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_bellsprout_ver01%2Fdata%2Fsn82014116%2F00279528542%2F1851021201%2F0070.jp2/pct:30.067481,74.976346,12.043476,8.684026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528542:1851021201:0070/pct:29.933550,53.239541,12.177407,30.408491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2061,13 +3405,13 @@ puzzled to read.&quot;
 
 ---
 
-## [From _Washington telegraph._](https://chroniclingamerica.loc.gov/lccn/sn82014751/1851-02-19/ed-1/seq-3)
+## [From _Washington telegraph._](https://www.loc.gov/resource/sn82014751/1851-02-19/ed-1/?sp=3)
 
 #### 1851-02-19 &middot; [Washington, Ark.](http://dbpedia.org/resource/Washington%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+egister.  
 Printers asd Printing—J. T. Buckingham*  
 in his series of reminiscences, in course of publi­  
 cation in tl&gt;e Boston Courier, speaks of Hie im­  
@@ -2086,21 +3430,7 @@ mis-spelled, and few or no points, and those few, ,
 if there are any, entirely out of place. I have  
 seen the sermons of divines sent to the press with- |  
 out points or capitals to designate the division of  
-sentences;sermons which, if published with th&quot; 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_fullmoon_ver01%2Fdata%2Fsn82014751%2F00513688222%2F1851021901%2F0377.jp2/pct:46.890254,56.768439,14.506902,9.823569/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Washington telegraph._](https://chroniclingamerica.loc.gov/lccn/sn82014751/1851-02-19/ed-1/seq-3)
-
-#### 1851-02-19 &middot; [Washington, Ark.](http://dbpedia.org/resource/Washington%2C_Arkansas)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+sentences;sermons which, if published with th&quot; I  
 imperfections of manuscript, Would disgrace the  
 printer’s devil if he were the author. Suppose  
 they had been so printed. The printer would  
@@ -2113,15 +3443,17 @@ the author. And no one but the practical prin­
 ter knows how many hours t1 e compositor, add  
 after him the proof reader, is compelled to spend  
 in reducing to a readable condition manuscripts  
-that the writer himself would be puzzled to rea
+that the writer himself would be puzzled to read  
+_ .  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_fullmoon_ver01%2Fdata%2Fsn82014751%2F00513688222%2F1851021901%2F0377.jp2/pct:46.837768,66.627372,14.559387,6.330308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1851021901:0377/pct:46.827271,55.334198,14.548890,18.837675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1851-02-20/ed-1/seq-1)
+## [From _Litchfield enquirer._](https://www.loc.gov/resource/sn84020071/1851-02-20/ed-1/?sp=1)
 
 #### 1851-02-20 &middot; [Litchfield, Conn.](http://dbpedia.org/resource/Litchfield%2C_Connecticut)
 
@@ -2185,7 +3517,102 @@ ducing to a readable condition manu­
 scripts that the writer himself would b*  
 puszled to read.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn84020071%2F00414182975%2F1851022001%2F0369.jp2/pct:70.455446,13.449024,23.846535,84.086903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1851022001:0369/pct:70.469400,13.450847,23.846306,84.094915/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Texas State gazette._](https://texashistory.unt.edu/ark:/67531/metapth80967/m1/5)
+
+#### 1851-02-24 &middot; [Austin, Tex.](http://dbpedia.org/resource/Austin%2C_Texas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Prifiters and Printing. 3. T. Buckingham in his series of  
+Jhuniscences in course of publication? in the Boston Courier  
+m importance oi tlio printer to authors as loiiows :  
+1?JTlfstn.y.Jvho Tndksscend to illuminate the dark- world with  
+&#x27;&quot;pijWnfofjfieir gepiifgj&#x27; through the columns of a newspaper  
+ii ittie tlftftk of th3 lot of thef &quot;printer who almost suffocated by  
+bl &quot;le smoko of a lamp &#x27;sits np till midnight to correct his false  
+Skaframmor noa ortnograpny ana worse punctuation. I tmve seen  
+the arguments of lawyer? in hisrh repute as scholars sent to iho  
+printer in their own. handwriting many words and especially  
+technical and foreign terms abbreviated and words  
+miss-spell-cdraiifl kv or no points and those few if there wero any en-  
+tirely out of place. 1 have seen sermons of divines sent to the  
+prc5s without points or cnpltrils to designate the divisions of  
+sentences ; sermons which it rjublished with the imperfections  
+of manuscript would disgrace tho&#x27;prjnjjpr&#x27;s devil if he were tho au-  
+thor. Suppose they had been so printed. The printer would hove  
+been treated with scorn and contempt os an illiterate biockhend  
+1 as a fellow belter fitted to be a wood sawyer than a nrihter?  
+&#x27;Koijody jvajM have believed thot such gross and palpable faults  
+if wma f-&quot;&quot;-v2p.3l ignoranco and carelessness
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth80967/m1/5/pct:8.133333,46.607807,29.733333,14.684015/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Morning star._](https://www.loc.gov/resource/sn84024361/1851-02-26/ed-1/?sp=4)
+
+#### 1851-02-26 &middot; [Limerick, Me.](http://dbpedia.org/resource/Limerick%2C_Maine)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+gh the straits of  
+contention; when they know, at all times, how  
+to regulate their behavior; to give a broadside, or  
+to return a salute ; when they cautiously avoid the  
+shoals of ambition, by which first rates and frigates  
+are frequently demolished; when they cut their  
+cables on being drawn into gaming, and scud away  
+with all their sails spread, from the gulf of ruin, in  
+which thousands and ten thousands are tumbled,  
+lost, and totally destroyed; we may venture to say of  
+‘this pair, that they make a very good conjugal  
+voyage through life and stand a fair chance to die  
+in the harbor of felicity.  
+  
+PriNTERS AND PrINTING.—J. T. Buckingham  
+in his Reminiscences, in the course of publication  
+in the “ Boston Courier,” speaks of the importance  
+of the printer to authors, as follows:  
+“Many who condescend to illuminate the dark  
+world with the fire of their genius through the col­  
+ums of a newspaper, little think of the lot of the  
+printer, who, almost suffocated by the smoke of a  
+lamp, sits up till midnight to correct his false gram­  
+mar, bad authography, and worse punctuation, I  
+have seen the arguments of lawyers, in high repute  
+as scholars, sent to the printer in their own hand­  
+writing, many words—and especially technical and  
+foreign terms—abbreviated ; words mis-spelled, and  
+a few or no points, and those few, if there are any,  
+entirely out of place. I have seen the sermons of  
+divines sent to the press without points or capitals  
+to designate the division of sentences ; sermons which  
+if published with theimperfections of the manuscript  
+would disgrace the printer’s devil if he were the au­  
+thor. Suppose they had been printed. The prin­  
+ter would have been treated ‘with scorn and con­  
+tempt, as an illiterate blockhead-—as a fellow better  
+fitted to be a wood-sawyer than a printer. Nobody  
+would have believed that such groos and palpable  
+faults were owing to the ignorance and carelessness  
+of the author. And no one but the practical prin­  
+ter knows how many hours the compositor, and af­  
+ter him the proof reader, is compelled to spend in  
+reducing to a readable condition, manuscripts that  
+the writer himself would be puzzled to read.”  
+  
+A FREE VERSION OF
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84024361:00542868284:1851022601:0184/pct:65.693300,70.617855,19.025439,30.035384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2211,6 +3638,78 @@ puszled to read.&quot;
 
 ---
 
+## [From _The miners' journal, and Pottsville general advertiser._](https://panewsarchive.psu.edu/lccn/sn84026251/1851-03-22/ed-1/seq-1/)
+
+#### 1851-03-22 &middot; [Pottsville, Pa.](http://dbpedia.org/resource/Pottsville%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+e in terror, loosed the other maniac  
+to protect her. &#x27; The - two enraged rnadmerr  
+flew upon each.other with the fury of tigers  
+and fought .desperately for - several hours: at  
+fength,the subject of our notice, having torn  
+tinCyanquished his brother, rebound him,  
+ittd then quietly returned to his - own chains.  
+  
+Pg. Glass.—Glass is made of pure sand,  
+nailed silex, with a proper quantity of s oda, ,  
+or..wash. These things , mixed together,  
+are exposed to a violent heat, until they be­  
+come melted - into a fluid mass.  
+  
+NO. ►2  
+  
+BOYS OF SIXTEEN  
+  
+YOUNG MEN.  
+  
+NUMBER OP \ TRE STARS  
+  
+MANIACS IN SCOTLAND  
+  
+PRINTERS AND PRINTING.  
+, • •  
+J. T. Buckingham,- in his Remi niscences,  
+in the course of. publicationitt:the.&quot;Bosion  
+Courier,&quot; speaks of the importance Of the  
+printer to authoress follows:  
+&quot;Many who condeicend to illuminate the  
+dark world with the fire of their genius  
+throug,h the colums of a newspaper,. little  
+think of the loi of a printer, who almost  
+suffocated-by the smoke of-a-lamp - sits up  
+till midnight to correct hiS false grOnmar,  
+bad orthography, and worse pustulation.—  
+, I have seen the arguments of lawyPrs, in  
+high repute as scholars, sent to the printer  
+in their own hind writing, many- words—  
+and especially technical and &#x27;foreign! terms  
+—abbreviated ; words misspelled, and, a few  
+or no points, and those few, if there were  
+any, entirely out of place. have seen the  
+sermons ,of .out  
+sent to the - press I with­  
+! out points or capitals to designate the­  
+sion of sentences ; sermons Which; ,if pub=  
+lished with the imperfections of thel man­  
+u.script,t would disgrace the firinter&#x27;S; devil,  
+lif he were-the author. Suppose Piey had  
+been printed. The printer would have been  
+treated with scorn and contempt, as an  
+illiterate blockhead—as a fellow better fitted  
+to be a wood.sawyer than a printer. Tifobody  
+would have believed that such&#x27; grois and  
+palpable faults were owing to the ignorance  
+and-carelessness of the author. And no one  
+but the compositor, anti after him the proof  
+reader, is compelled to spend tune in redu­  
+cing to a readable condition manuscript that  
+the writer himself would be puzzled to; read!&quot;
+</td></tr></table>
+
+---
+
 ## NEWS PAPER EDITING IN LONDON.
 
 #### From _New York Observer and Chronicle (1833-1912)_
@@ -2218,6 +3717,57 @@ puszled to read.&quot;
 #### 1851-04-17 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 [This text is not available under an open license.]
+
+---
+
+## [From _Galveston weekly news._](https://texashistory.unt.edu/ark:/67531/metapth79792/m1/2)
+
+#### 1851-05-20 &middot; [Galveston, Tex.](http://dbpedia.org/resource/Galveston%2C_Texas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+&quot;Pre not the money.&quot;  
+&quot;That&#x27;s just my e ise sir. I am glad to see  
+)oti can appreciate in) condition. Give lis  
+) our hand!&#x27;  
+PnxTCCS and PjiiMixcr J. T. Buckingham  
+in Ins series of niuiiitseam cin course; ot pub-  
+lic itiou in the Boston .Courier speiks ot the  
+importautc ol then iter to authors us follows  
+.Miu) who coudcstcudtoilluminite the dark  
+world tvith the tire of their genius through the  
+columns of i ntwspipcr little think of the lot  
+of the printer who almost sulFucatul by the  
+MiiulvG ot a lamp sits up till midnight to correct;  
+Ins I ilsu gramm ir li id orthogripii) ami worse  
+punctuation llnve seen the argument of  
+liwjers in high refute is scholars sent to the  
+printer in there w ulniid-w riling m my words  
+and esptci illy technical and foreign terms  
+abbreviated werds misspelled and few or no  
+points and thoc te.vv if there arc any eutirel)  
+out of pi uc. I have seen the sermons of divines  
+sent to the press without point or capitals to  
+designate the division of sentences; sermons  
+whuh if published with the imperfections of  
+mmuscnpt would disgrate the printers devil  
+it he w ere the author. Suppose they had been  
+so printed. The printer would hive been  
+tre ited w ith corn and t ontempt as an illter its  
+blockhead asa fellow better fitted to be a  
+wood saw) cr than a. printer. No one would  
+have believed tint such gross pilpable imlts  
+were owing to the ignorai ce and carelessness  
+of the author. And no one but the practical  
+printerknowshovv many hours the compositor  
+and after him the proofreader is compelled to  
+tpend iu reducing to a readable condition  
+manuscripts that the writer himself would be  
+puzzled to read
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth79792/m1/2/pct:58.466667,71.889401,11.866667,18.228367/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2239,7 +3789,7 @@ puszled to read.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.- Many  
 who ronde- j scrod Ut illuminate the  
 daik world willi the fire I of th-ir  
 genius, through the column« of a news-  
@@ -2261,7 +3811,18 @@ de. sig lille the divi.ions of the
 sentence ; also Ihe letters uf political  
 ami kcientifio correspondents. Suppose  
 all those had teen so printed, the  
-[irinter would have been treated wit
+[irinter would have been treated with  
+scum and contempt. Nobody wuilld have  
+believed that such gr- ss or palpable  
+faults were un ¡og to the ig HOI ance ol  
+caf» Iraníes» of the auihir ; and no one  
+but the practical piilit, r knows ho»  
+rosny bouts a compositor, and after him  
+a proaf-rea b r, is comp, lied io spend  
+in reducing t« readable condition manu-  
+cripi iliat often the writers themselves  
+would be puiz.ed tu read.- I I&#x27;ropf r en  
+der. 7Y«ie for Sleep.
 </td></tr></table>
 
 ---
@@ -2305,7 +3866,8 @@ hours a compositor, and after him a
 proofreader, is compelled to spend in  
 reducing to readable condition  
 manuscript that often the writers  
-themselves would be puzzled to read.-A
+themselves would be puzzled to read.-A  
+Proof reader. 
 </td></tr></table>
 
 ---
@@ -2318,10 +3880,7 @@ themselves would be puzzled to read.-A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-and the latter claiming £3,000 for  
-similar services rendered by the Anglia.  
-— Liverpool Albion. Printers and  
+. Printers and  
 Printing. — Many who condescend to  
 illuminate the dark world with the fire  
 of their genius, through the columns of  
@@ -2353,7 +3912,8 @@ compositor, and after him a proof
 reader, is compelled to spend in  
 reducing to readable condition  
 manuscript that often the writers  
-themaoWes would be puzzled to read.- 
+themaoWes would be puzzled to read.- A  
+Proof Header.
 </td></tr></table>
 
 ---
@@ -2366,7 +3926,22 @@ themaoWes would be puzzled to read.-
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+jtro.— The town of Limas. on. the  
+:M--  
+sqiLui»n.-Vter|i&#x27;ofsyV\w«3.-.nie:aVJy.  
+destroyed&#x27; bv fi-&#x27;ty the effects of  
+incendiurism. &#x27;A-Sp-tniard set fire to a  
+house, which &#x27;.imnediatelv s.p.-ea:J to  
+others,, and would! -.hriVe swepr&#x27;the.  
+whole town, had it not been for, the  
+grent exertions of the C :-anhs and the  
+lulling of the wind. . Tnia ou&#x27;ia^eous  
+act aroau (rum some dispute reg.«rdin^  
+women. The Chaiibs armed thein«»lves  
+with marcheata and other \vea,j-n3,  
+apprehending some danger,- and finding.  
+the &#x27;Spaniard- they literally, chopped  
+him in .pieces. — New York Herald.  
 PitiNTEas and Printing — Many who  
 condescend to illuminate, the da&#x27;k world  
 with ithe/firs/ojf their genius, through  
@@ -2400,17 +3975,19 @@ compositor, «nd after him a proof
 reader, is compelled to spend in.  
 reducing to readable condition  
 manuscript that often the writeis  
-themselves would be puzzled to read — 
+themselves would be puzzled to read — A  
+Proof Reade
 </td></tr></table>
 
 ---
 
-## [From _The primitive Republican._](https://chroniclingamerica.loc.gov/lccn/sn87065038/1851-09-04/ed-1/seq-1)
+## [From _The primitive Republican._](https://www.loc.gov/resource/sn87065038/1851-09-04/ed-1/?sp=1)
 
 #### 1851-09-04 &middot; [Columbus, Miss.](http://dbpedia.org/resource/Columbus%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
   
 Printers and Printing1.  
   
@@ -2453,20 +4030,7 @@ press without point or capitals to designate
   
 the division of sentences; sermons which,. if  
   
-published with the imperfections, of man
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn87065038%2F00295877662%2F1851090401%2F0070.jp2/pct:30.727455,66.400083,12.934115,12.494807/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The primitive Republican._](https://chroniclingamerica.loc.gov/lccn/sn87065038/1851-09-04/ed-1/seq-1)
-
-#### 1851-09-04 &middot; [Columbus, Miss.](http://dbpedia.org/resource/Columbus%2C_Mississippi)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
+published with the imperfections, of manu  
   
 script,&quot; would disgrace the printer&#x27;s devil if  
 he were the author. &#x27; Suppose they had been  
@@ -2484,15 +4048,15 @@ the practical printer knows how many hours
 the compositors, and after him the proof-read  
 cr, is compelled to Epend&#x27; in reducing to a  
 readable condition manu --ripts that the wri­  
-ter himself would bo puzzied to read.&quot; ;&#x27;-&#x27; v;: 
+ter himself would bo puzzied to read.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn87065038%2F00295877662%2F1851090401%2F0070.jp2/pct:30.927540,78.926049,12.862655,7.260075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065038:00295877662:1851090401:0070/pct:40.942857,88.533444,17.414286,26.371001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Grand River times._](https://chroniclingamerica.loc.gov/lccn/sn85026466/1851-09-10/ed-1/seq-1)
+## [From _Grand River times._](https://www.loc.gov/resource/sn85026466/1851-09-10/ed-1/?sp=1)
 
 #### 1851-09-10 &middot; [Grand Haven, Mich.](http://dbpedia.org/resource/Grand_Haven%2C_Michigan)
 
@@ -2545,21 +4109,249 @@ And no one but the practical printer knows how
 many hours the compositor, and after him the  
 proof-reader, is compelled to spend in reducing  
 to a readable condition manuscripts that the wri  
-ter himself would be puzzled to read.
+ter himself would be puzzled to read.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85026466%2F0020219798A%2F1851091001%2F0041.jp2/pct:76.288988,24.051475,17.106938,29.210118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1851091001:0041/pct:76.288988,24.051475,17.106938,29.210118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Lancaster ledger._](https://chroniclingamerica.loc.gov/lccn/sn84026900/1852-08-25/ed-1/seq-4)
+## [From _The Christian sun._](https://newspapers.digitalnc.org/lccn/sn93062839/1851-10-08/ed-1/seq-1/)
+
+#### 1851-10-08 &middot; [Elon College, N.C.](http://dbpedia.org/resource/Greensboro%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ influence and  
+support ? And should you not, as a true friend  
+td the Saviour, lend your aid to that cause which  
+aims to free the church from their baneful influ­  
+ence, and to unite the good of every clime in one  
+harmonious body ? Remember that he who is  
+not for Christ is against him. Then ;£&gt; then ! be­  
+ware how you longer supped the opposing laws  
+to his government; for you must soon render a  
+^trict account for your doings, when every pre­  
+tended friend and enemy of the rightful Law giver  
+together with every doctrine, law, and command­  
+ment of men, will meet their everlasting doom.  
+-J. MARSH.  
+  
+PRINTERS AND PRINTING.  
+J. T. Buckingnam, in his series of remiscences,  
+in coarse of publication in the Boston Courier,  
+speaks of the importance for the printer to au­  
+thors, as follows •.  
+“ Many who condescend to illumine the dark  
+world with the firb of their genius, through the  
+columns of a newspaper, little think of the lot of  
+the printer, who, almost suffocated by the smoke  
+of a lamp sits up till midnight to correct his false  
+grammer, bad orthography, and worse punctua­  
+tion. I have seen the arguments of lawyers, in  
+high repute as scholars, sent to the printer in their  
+own hand writing, mauy words—and especially  
+techincal and foreign terms—abbreviated, words  
+mispelled, and a few or no points, and those few,  
+if any, were entirely out of place. I have seen  
+the sermons of divines sent to the press without  
+points or capitals to designate the division of sen­  
+tences ; sermons which, if published with the  
+imperfections of the manuscript, would disgrace  
+the printer’s devil if he were the author. Sup­  
+pose they had been so printed. The printer  
+would have been treated with scorn and contempt  
+as an illustrate blockhead—as a fellow better fit­  
+ted to be a wood-sawyer than a printer. Nobody  
+would have believed that such gross and palpa­  
+ble faults were owing to the ignorance and care­  
+lessness of the author and no one but the practi­  
+[ cal printer knows how many hours the composi­  
+tors, and after him the proof-reader, is compelled  
+-to spend in reducing to a readable condition manu­  
+scripts that the writer himself would be puzzled  
+to read.”  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL1_ver01%2Fdata%2F1851100801%2F0464.jp2/pct:72.757410,63.345836,16.731669,29.722431/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The New Hampshire gazette and Republican union._](https://www.loc.gov/resource/sn84023141/1851-10-21/ed-1/?sp=1)
+
+#### 1851-10-21 &middot; [Portsmouth, N.H.](http://dbpedia.org/resource/Portsmouth%2C_New_Hampshire)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+d.’ At  
+the close, the parents and child were called for, and  
+the fathér, when rejuested to give the naine, sups  
+pressed thé one previously selected, and called out  
+in a voice loud enough to be heard by the wholé  
+congregation, ‘Oliver Cromwell,’ and by that name  
+the child was baptized. «  
+AuTHORS AND PRINTERS.—To these who are  
+inclined to grumble becasse a slight mistake may  
+happen to occur in any illegibly written article  
+they may feel disposed,to send to some newspaper;  
+we would commend the following from- the “*Re=  
+minissuces” of oo T@ofkinduume Tt contain 8  
+great deal more trath than poetry.  
+Many who condescend to illuminate the dark  
+world with the fire of their genius, through the  
+columns of a newspaper, little think of the lot of  
+the printer, who almost suffocated by the smoke of  
+a lamp, sits up till midnight to correct the false  
+grammer, bad orthography, and worse punctua:  
+tion. Ihave geen the arguments of lawyers in  
+high repute as scholars, seat to the printer in their  
+own haudwriting, many words—especially techni­  
+cal and foreign terms—abbreviated, words mis­  
+spelled, and few or no points, and those few, if  
+there were any, entirely outof place. I have seen  
+the sermons of divines sent to the press without  
+points or capitals to designate the divisions of sen­  
+tences—sermons which, if published with the im­  
+perfections of the manuscript, would disgrace the  
+printer’s devil if he were the author. Suppose  
+they had been printed: the printer would have  
+been treated with scorn and contempt—as an illit­  
+erate blockhead—as a fellow better fitted to be a  
+wood sawyer than a printer. Nobody would have  
+’believed that such gross and palpable faults were  
+owing to the ignorance and carelessness of an au­  
+thor. . And no one but a practical printer knows  
+how many hours the compositor, and after him the  
+proof reader, is compelled to spend in reducing to  
+a readable condition manuscripts that the writer  
+himself would be puzzled to read.  
+The above, in whole or in part, will apply to at  
+least two thirds of the writers for the press. Ge­  
+nius is too apt to consider itself too good to be  
+troubled with the labor of finishing its work, not­  
+withstanding it is the finishing hand that gives the  
+master stroke. But too frequently, however, it is  
+not laziness, it is ignorance that compels writers to  
+leave their performance half done. Many whe  
+have something of u reputation as authors can  
+neither punctuate, spell nor write grammatically—  
+to say nothing of their sprawling penmanship.—  
+And as might be expected, these are generally the  
+ones to find the most fault and put on the most  
+disgusting airs—we say disgusting because they are  
+so to all sensible men—but those who assun.e them  
+think them dignified ! It is no small annoyance to  
+have anything to do with such characters—and we  
+have sometimes wished it were a penal offence to  
+correct an author’s manuscript. But we suppose  
+we shall always be bothered with the stupidity of  
+the wise.—N. Y. Day Book
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015234:1851102101:0353/pct:78.949634,16.780426,14.377960,30.988134/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Old North State._](https://newspapers.digitalnc.org/lccn/sn91068097/1851-11-22/ed-1/seq-1/)
+
+#### 1851-11-22 &middot; [Elizabeth City, N.C.](http://dbpedia.org/resource/Elizabeth_City%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ rank is but the guinea&#x27;s stamp,  
+The man&#x27;s the man for a&#x27; that.&quot;  
+AUTHORS AND PRINTERS  
+To those who are inclined to grumble  
+because a slight mistake may happen to  
+occur in any illegibly written article they  
+may feel disposed to send to some news­  
+paper, we would commend the follow­  
+ing from the &quot;Reminiscences&#x27;-&#x27;, of J. T.  
+Buckingham. It contains a great deal  
+more truth than poetry:  
+&quot;Many who condescend to illumi­  
+nate the dark world with the fire of their  
+genius, through the columns of a news­  
+paper, little think of the lot of the prin­  
+ter, who almost suffocated by the smoke  
+of a lamp, sits up till midnight to correct  
+the false grammar, bad orthography, and  
+worse punctuation. I have seen the ar­  
+guments of lawyers in high repute as  
+scholars, sent to the printer in their own  
+hand writing, many words especially  
+technical and foreign terms abbrevia­  
+ted, words mispelled, and few or no  
+points, and those few, if there were any,  
+entirely out of place. I have seen the  
+sermons of divines sent to . the press  
+without points or capitals to designate  
+the division ot sentences sermons  
+which, if published with the imperfec­  
+tions of the manuscript- would disgrace  
+the printer&#x27;s devil if be were the author.  
+Suppose they had been printed ; the  
+printer would have been treated with  
+scorn and contempt as an illiterate  
+blockhead as a fellow better fitted to  
+be a wood-sawyer than a printer. &#x27; No­  
+body would have believed that such  
+gross and palpable faults were owing to  
+the ignorance and carelessness of an au  
+thor. And no one but a practical prin  
+ter knows how many hours the compos  
+itor, and .after him the proof reader, is  
+compelled to spend - in reducing to a  
+readable condition manuscripts that the  
+writer, himself would be puzzled to  
+read.&quot; .  
+  
+. The above, in whole or in part, will  
+  
+apply to at least two-thirds of the writers  
+for the preSSi Genius is too apt to con­  
+sider itself too good to be troubled -with  
+the labor of finishing its work, notwith­  
+standing it is the finishing hand that  
+gives the master stroke. ; But too fre-.  
+quently, however, it is not laziness, it is  
+ignorance that Compels writers to leave  
+their performance half done.&quot; Many who  
+have something of a reputation as au­  
+thors can neither punctuate, spell 4 nor  
+write grammatically- to . say nothing of  
+their, sprawling - penmanship. And as  
+might Jje expected, these are generally  
+the ones to find the most fault . and put  
+on the most disgusting airs we say dis­  
+gusting, because they are so tall sensible  
+men but those who assume them think  
+them dignified! Tt is no small annoyance  
+to have anything to do with such char-,  
+acters and we nave sometimes wished  
+it were a penal offence tocorrect an au­  
+thor&#x27;s manuscript. But we suppose we  
+shall always be bothered with the stu­  
+pidity of the wise. JV. Y. Day Book
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OldNSEC1n_ver01%2Fdata%2F1851112201%2F0554.jp2/pct:58.160622,16.470825,25.479275,81.148940/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Lancaster ledger._](https://www.loc.gov/resource/sn84026900/1852-08-25/ed-1/?sp=4)
 
 #### 1852-08-25 &middot; [Lancaster, S.C.](http://dbpedia.org/resource/Lancaster%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+value.  
 Printers and the art of Printing,  
 J. T. Buckingham, in his &quot;Keiiiiiiiseen  
 ccs,&quot; in the course of publication in the  
@@ -2599,22 +4391,80 @@ printer, knows how many hours the coinjHisitor,
 and after him the proof-reader,  
 are compelled to spcud in redncing to a  
 readable condition manuscript* that tb?  
-author himself would be pouted to read.&#x27;
+author himself would be pouted to read.&#x27;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_irmookrastrut_ver01%2Fdata%2Fsn84026900%2F00295862634%2F1852082501%2F0120.jp2/pct:15.607397,73.043846,16.170679,22.471781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862634:1852082501:0120/pct:15.597428,71.941949,16.165695,23.565999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The republic._](https://chroniclingamerica.loc.gov/lccn/sn82014434/1852-09-23/ed-1/seq-2)
+## [From _New-England religious herald._](https://www.loc.gov/resource/sn92051540/1852-09-11/ed-1/?sp=4)
+
+#### 1852-09-11 &middot; [Hartford, Conn.](http://dbpedia.org/resource/Hartford%2C_Connecticut)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+  
+Printers and the Art of Printing.  
+  
+J. T. Buckingham, in his* Reminiscen­  
+ces/ in the course of publication in the  
+Boston Courier, speaks of the importance  
+of printers to authors, as follows ; —  
+‘ Many who condescend to illuminate  
+the dark world with the fire of their gen­  
+ius, through the columns of a new spaper,  
+little think of the lot of the printer, who  
+almost suffocated by the smoke of a lamp  
+sits up till midnight to correct their false  
+gtammar, bad orthography, and worse  
+punctuation. I have seen the arguments  
+of lawyers in high repute as scholars sent  
+to the printer in their own hand writing,  
+with many words, and especially technic­  
+al and foreign terms abbreviated, words  
+misspelled, and few or no points.  
+  
+I have seen the sermons of divines sent  
+to the printer without points or capitals to  
+designate the division of sentences —ser-  
+mons which, if published with the imper­  
+fections ofthe manuscript, would disgrace  
+the printer’s devil if he were the author.—  
+Suppose they had been printed ; the prin­  
+ter would have been treated with scorn  
+and contempt, as an illiterate blockhead—  
+as a fellow better fitted to be a wood saw-  
+  
+yer than a professor of the art of printing.  
+Nobody would have believed that such  
+gross and palpable faults were owing to  
+the ignorance and carelessness of the au­  
+thor. And nobody but the practical prin­  
+ter knows how many hours the compositor  
+and after him the proof reader^are com­  
+pelled to spend in reducing to a readable  
+condition, manuscripts that the author  
+himielf would be puzzled to read.’  
+  
+Pr
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_dinomayo_ver02:data:sn92051540:00516996894:1852091101:0142/pct:19.408305,13.879870,12.903226,21.929113/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The republic._](https://www.loc.gov/resource/sn82014434/1852-09-23/ed-1/?sp=2)
 
 #### 1852-09-23 &middot; [Washington [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-author. Many persons, who condescend to illumine  
+. Many persons, who condescend to illumine  
 the dark world with the sparklings of their  
 genius through the columns of a newspaper, and  
 others who publish sermons and tracts, religious,  
@@ -2638,21 +4488,13 @@ points or capitals to designate the division of
   
 brnie ix f o?sermons which, 11 puunsncu wiin ino  
 imperfe ctions of the manuscript, would be a disgrace  
-to any apprentice, if he were the author
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn82014434%2F00415661423%2F1852092301%2F0312.jp2/pct:84.836367,60.749399,15.935834,10.021120/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The republic._](https://chroniclingamerica.loc.gov/lccn/sn82014434/1852-09-23/ed-1/seq-2)
-
-#### 1852-09-23 &middot; [Washington [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+to any apprentice, if he were the author.  
+Home writers use no points whatever; some use a  
+comma for all occasions; some prefer the dash, and  
+use it in place of all other points. I once saw the  
+manuscript of a sermon in the hands of a printer  
+which was entirely without points, and every line  
+began with a capital letter, as if it had been poetry.  
 Suppose these productions had been printed as  
 they were written?the disgrace would have  
 fallen upon the printer. II&quot;. would have been  
@@ -2667,21 +4509,21 @@ practical printer knows how many hours a compositor?and,
 after him, a proof-render?is compelled  
 to spend in reducing, to a readable condition,  
 manuscripts which &#x27;ho writers themselves  
-would be puzzled to read with propriety
+would be puzzled to rea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn82014434%2F00415661423%2F1852092301%2F0312.jp2/pct:84.919103,72.871604,15.623276,6.226786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852092301:0312/pct:84.831771,60.749399,15.940430,18.341709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _New Orleans daily crescent._
+## [From _New Orleans daily crescent._](https://www.loc.gov/resource/sn82015753/1852-09-29/ed-1/?sp=1)
 
 #### 1852-09-29 &middot; [[New Orleans, La.]](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+k Times.  
 Lo, THE PoOR PRINTES!- Mr. Buckingham, in his re­  
 cent work, &quot;Personal Memoirs and Recollections of Edi­  
 torial Life,&quot; makes the following mention of Journeymen  
@@ -2695,8 +4537,23 @@ abor of the printer, who sits up till midnight, or till day­
 light, to correct his false grammar, bad orthography, and  
 worse punctuation.  
 I once saw the manuscript of a sermon in the hands of  
-a printer, which was entirely without points, and ever
-</td></tr></table>
+a printer, which was entirely without points, and every  
+line began with a capital letter, as if it had been poetry.  
+Suppose these productions had been printed as they were  
+written. The disgrace would have fallen upon the printer.  
+After an experience of more than fifty years, I &quot;hold  
+this truth to be self-evident,&quot; that there is no class of  
+working men so poorly paid as printers. For one who  
+makes himself rich by printing, disconnected with the  
+business of publishing, fifty barely live above poverty, and  
+die in the possession of little more than enough to pay the  
+joiner for a coffin and the sexton for a grave,  
+  
+Arrival 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0020219039A:1852092901:1016/pct:68.667763,75.362757,13.137336,9.688634/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2710,67 +4567,63 @@ a printer, which was entirely without points, and ever
 
 ---
 
-## VARIETIES.
-
-#### From _Preston Chronicle_
-
-#### 1852-10-23 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
-
-[This text is not available under an open license.]
-
----
-
-## From _Wheeling daily intelligencer._
+## [From _Wheeling daily intelligencer._](https://www.loc.gov/resource/sn86092535/1852-11-05/ed-1/?sp=1)
 
 #### 1852-11-05 &middot; [Wheeling, Va. [W. Va.]](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+a  
+since.  
   
 PRINTERS.  
-J.T. Buckingham, in his &quot;Reminiscences, in the  
-course of publication in the Boston Courier, spenks  
+J. T. Buckingham, in lii&gt; &#x27;Reminiscences/ in the  
+course of publication in the Boston Courier, speaks  
 of the importance of printers to authors, as fol­  
-lows:  
-Many who condescend to illuminate the dark  
+lows:? ?  
+&#x27;Many who condescend to illuminate the dork  
 world with the fire of their genius, through the  
 columns of a newspaper, little think of the prin­  
 ter, who almost suffocated by the smoke of a lamp,  
 sits up till midnight to correct their false grammar,  
-bad ofthography, and worse punctuation. I have  
+bad orthography, and worse punctuation. 1 have  
 seen the arguments of lawyers in high repute as  
 scholars sent to the printer in their own hand  
-writing, with many words, and especially techni  
-cal and foreign terms abbreviated, words misspell­  
+writing, with many words, and especially techni ?  
+cal and foreign terras abbreviated, words misspell­  
 ed, and few or no points.  
-I have seen the sermons of divines sent to the  
+&#x27;I have seen the sermons of divines sent to the  
 printer without points or capitals to designate the  
-division of sentences--sermons which, if published  
+division of sentences?sermons which, if published  
 with the imperfections of the manuscript, would  
-disgrace the printer&#x27;s devil if he were the author,  
-Suppose they had been printed, the printer would  
+disgrace the printer&#x27;s devil if he were the author:  
+Suppose they had been printed; the printer would  
 have been treated with scorn and contempt, as an  
-illiterate blockhead--as a fellow better fitted to be  
+illiterate blockhead?as a fellow better fitted to be  
 a wood sawyer than a professor of the art of print­  
-ing. Nobody would have believed that such grose  
+ing. Nobody would have believed that such gross  
 and palpable faults were owing to the ignorance  
 and carelessness of the author. And nobody but  
 the practical printer knows how many hours the  
 compositor and after him the proof reader, are  
-compelled to spend in reducing to a readable con,­  
+compelled to spend in reducing to a readable con­  
 dition, manuscripts that the author himself would  
-be puzzled to read
-</td></tr></table>
+be puzzled to iead.&#x27;
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190522:1852110501:0258/pct:84.248642,68.996865,13.860390,15.924765/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _The Weekly Minnesotian._](https://chroniclingamerica.loc.gov/lccn/sn83016750/1852-12-04/ed-1/seq-1)
+## [From _The Weekly Minnesotian._](https://www.loc.gov/resource/sn83016750/1852-12-04/ed-1/?sp=1)
 
 #### 1852-12-04 &middot; [Saint Paul, Minn. Territory](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+­  
+tion.  
   
 Lo, the Poor Printer.—Air. Buckingham, in  
 his recent work, “Personal Memoir and Recol­  
@@ -2788,86 +4641,152 @@ night. or till day-light, to correct his false
 grammar, had orthography, and worse punctu­  
 ation. I once saw the manuscript of a sermon  
 in the hands of a printer, which was entirely  
-without points, and every line liegnn with 
+without points, and every line liegnn with a  
+capital letter, as if it had been poetry. Sup­  
+pose these productions had lieen printed as they  
+were w ritten. The disgrace would have fallen  
+upon the printer. After an experience of more  
+than fifty years, I “hold this truth to be selt­  
+evident,&quot; there are no class of working men so  
+poorly paid as printers. For one who makes  
+himself rich by printing, disconnected with the  
+business of publishing, fiitt barely live above  
+poverty,and die in the possession of little more  
+than enough to pay the joiner for a coffin and  
+the sexton for a grave.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83016750%2F00383347166%2F1852120401%2F0265.jp2/pct:70.400697,57.438715,12.485482,8.082089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347166:1852120401:0265/pct:70.400697,56.593407,12.526132,14.637926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Democratic sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025647/1852-12-08/ed-1/seq-4)
+## [From _The Democratic sentinel._](https://www.loc.gov/resource/sn85025647/1852-12-08/ed-1/?sp=4)
 
 #### 1852-12-08 &middot; [Cadiz, Ohio](http://dbpedia.org/resource/Cadiz%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-who condeceud to illume the dark world  
+ Many persons  
+who condecend to illume the dark world  
 with the sparklings of their genius through  
-the columns of u newspaper, and others who  
+the columns of a newspaper, and others who  
 publish sermons and tracts, religious, moral  
 and political, little think of the labor of the  
 printer, who (perhaps nearly suffocated with  
 the smoke of a lamp, and with an aching  
-head, nnd eyes inflamed and enfeebled with  
+head, and eyes inflamed and enfeebled with  
 intense application) sits up till midnight, or  
 till daylight, to correct his false grammar,  
 bad orthography, and worse punctuation.  
 &quot;I have seen the arguments of lawyers  
-who stood in high repute its scholars, send to  
-the printer in their own hand writing chiro-  
-graphy which would defy the sagacity of the 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn85025647%2F00296026670%2F1852120801%2F0468.jp2/pct:54.822335,16.866507,12.853517,7.780442/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Democratic sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025647/1852-12-08/ed-1/seq-4)
-
-#### 1852-12-08 &middot; [Cadiz, Ohio](http://dbpedia.org/resource/Cadiz%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+who stood in high repute as scholars, send to  
+the printer in their own hand writing---chiro-  
+graphy which would defy the sagacity of the  
+most inventerate investigator of ancient hie­  
 roglyphics, abounding with technical and  
-foreign terms abbreviated, words mi spelled,  
-4nj few (or no) points, nnd these few en  
+foreign terms abbreviated, words mispelled,  
+and few (or no) points, and these few en  
 tirely misplaced. I have seen sermons of  
-eminent scholars and &quot;divines scrt to the  
-press without points or capitals to deignate  
-the division of sentences sermons which if  
-published with the imperfections of the man­  
-uscript, would be a disgrace to any appren­  
-tice, if he were the author. Some writer
+eminent scholars and &quot;divines&quot; sent to the  
+press without points or capitols to deignate  
+the division of sentences--sermons which if  
+publishe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn85025647%2F00296026670%2F1852120801%2F0468.jp2/pct:54.949239,25.113243,12.617839,5.182521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85025647:00296026670:1852120801:0468/pct:54.804206,16.360245,12.871646,12.962963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Democratic sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85025647/1852-12-08/ed-1/seq-4)
+## [From _The Democratic sentinel._](https://www.loc.gov/resource/sn85025647/1852-12-08/ed-1/?sp=4)
 
 #### 1852-12-08 &middot; [Cadiz, Ohio](http://dbpedia.org/resource/Cadiz%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-. , .  
-(aulls were owing to the carelessness ol the  
-au&#x27;hor; and no one but a particulur printer  
-knows how many hours a compositor and  
-after him, proof readr is compelled to  
+ a sermon in the hands of  
+a printer which was entirely with out points,  
+and every line began with a capital letter,  
+as if it had been poetry. Suppose the pro  
+ductions had been printed as they were writ­  
+ten--the disgrace would have fallen on the  
+printer. He would have been called an il­  
+literate blockhead, better fitted for a wood-  
+sawyer than a printer, and the author would  
+still enjoy his reputation as a scholar, and  
+receive the simpathy of his readers as a man  
+injured by the printer&#x27;s ignorance. Nobody  
+e eee ooe e  oe  
+ e ee e   
+aee eeoeeeeeeee  
+faults were owing to the carelessness of the  
+author; and no one but a particular printer  
+knows how many hours a compositor--and  
+after him, proof-readr--is compelled to  
 spend in reducing, to a readable condition,  
-manuscript, which the wi iters themselves,  
-would be puzzled to read with propriety
+manuscript, which the writers themselves  
+would be puzzled to rea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn85025647%2F00296026670%2F1852120801%2F0468.jp2/pct:55.239304,38.662403,12.527194,3.677058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85025647:00296026670:1852120801:0468/pct:55.094271,31.894484,12.817259,10.444977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## [From _Huntingdon journal._](https://panewsarchive.psu.edu/lccn/sn86071456/1853-01-19/ed-1/seq-1/)
+
+#### 1853-01-19 &middot; [Huntingdon, Pa.](http://dbpedia.org/resource/Huntingdon%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ade  
+the discovery.  
+  
+rn4  
+  
+Printer&amp;  
+  
+J. T. Buckingham, in his ,Reminiscen­  
+oes,&#x27; in the course of publication in the 1  
+Boston Courier, wake of the importance  
+of printers to.nuthors, as follows:  
+&quot;Many who condescend to illuminate  
+the dark world with the fire of their gen­  
+ins, through the columns of a newspaper,  
+little think of the printer, who almost suf­  
+focated by the smoke of a lamp, sits up till  
+midnight to correct their false Grammer,  
+bad orthography, and worse punctuation.  
+I have seen arguments of lawyers in high  
+repute as scholars sent to the printer in  
+their own hand writing, with many words,  
+and especially technical and foreign terms  
+abrevisted; words misspelled, and few or  
+nd pinnts . : .  
+hgve seen the sermons of divines sent  
+to the printer without points or capitals to  
+designate the division of sentences—ser­  
+mons which, if published with the imper­  
+fections of the manuscript, would disgrace  
+the printer&#x27;s devil if he were the author.—  
+Suppose they had been printed; the prin­  
+ter would have been treated with scorn  
+and contempt, as an illiterate blockhead—  
+as a fellow better fitted to be a wood saw­  
+yer than a professor of the art of printing.  
+Nobody would have believed that such  
+gross and palpable faults were owing to  
+the ignorance and carelessness of the au­  
+thor. And nobody but the practical prin­  
+ter knows how many hours the compositor  
+and after him the proof reader, are com­  
+pelled to spend in reducing to a readable  
+condition, manuscripts that the author  
+himself would be puzzled to read.&#x27;  
+  
+I
+</td></tr></table>
 
 ---
 
@@ -2891,17 +4810,13 @@ would be puzzled to read with propriety
 
 ---
 
-## [From _Loudon free press._](https://chroniclingamerica.loc.gov/lccn/sn86053481/1853-02-26/ed-1/seq-1)
+## [From _Loudon free press._](https://www.loc.gov/resource/sn86053481/1853-02-26/ed-1/?sp=1)
 
 #### 1853-02-26 &middot; [Loudon, Tenn.](http://dbpedia.org/resource/Loudon%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-shape fit for the public eye, which would other­  
-wise have been cast aside as discreditable to its  
-author. Many persons w ho condescend to il­  
+ Many persons w ho condescend to il­  
 lume the dark world w ith the sparklings of their  
 genius through the columns of a newspaper,  
 and others who publish sermons and tracts, re­  
@@ -2915,44 +4830,33 @@ or till daylight, to correct his false grammar, bad
 orthography, and worse punctuation.  
 &quot;I have seen the arguments of lawyers, who  
 stood in high repute as scholars, sent to the  
-printer in their own hand-writing, chiropraph
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn86053481%2F00212470090%2F1853022601%2F0038.jp2/pct:34.310005,34.534148,13.359648,9.381366/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Loudon free press._](https://chroniclingamerica.loc.gov/lccn/sn86053481/1853-02-26/ed-1/seq-1)
-
-#### 1853-02-26 &middot; [Loudon, Tenn.](http://dbpedia.org/resource/Loudon%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+printer in their own hand-writing, chiropraphy  
+which would defy the sagacity of the most in­  
+veterate investigator of ancient hieroglyphics  
 abounding with technical and foreign terms,  
 abbreviated, words misspelled, and few (or no)  
 points, and those few entirely misplaced. I  
 have seen sermons of eminent scholars and di­  
 vines sent to the press without points or capitals  
 to designate the division of sentences sermons  
-which, if published with the imperfections of  
-the manuscript, would be a disgrace to any ap­  
-prentice, if he were the author. Some writer
+which, if publishe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn86053481%2F00212470090%2F1853022601%2F0038.jp2/pct:34.279642,45.180658,13.390011,5.199957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1853022601:0038/pct:45.719490,47.625174,17.820279,17.958615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Loudon free press._](https://chroniclingamerica.loc.gov/lccn/sn86053481/1853-02-26/ed-1/seq-1)
+## [From _Loudon free press._](https://www.loc.gov/resource/sn86053481/1853-02-26/ed-1/?sp=1)
 
 #### 1853-02-26 &middot; [Loudon, Tenn.](http://dbpedia.org/resource/Loudon%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+thc mannscript of a sermon in the hand of a prin­  
+ter, which was entirely without points, and eve­  
+ry line began with a capital letter as if it had  
 been poetry. Suppose these productions had  
 been printed as they were written, the dis­  
 grace would have fallen on the printer. He  
@@ -2968,21 +4872,26 @@ printer knows how many hours a compositor
 and after him a proof-reader is compelled to  
 spend in reducing to areadable condition manu  
 scripts which the writers themselves would be  
-puzzled to read with propriet
+puzzled to rea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn86053481%2F00212470090%2F1853022601%2F0038.jp2/pct:34.264460,53.961617,13.298922,9.317037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1853022601:0038/pct:45.673953,69.582931,17.729205,14.785033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Southern sentinel._](https://chroniclingamerica.loc.gov/lccn/sn88064476/1853-04-02/ed-1/seq-1)
+## [From _Southern sentinel._](https://www.loc.gov/resource/sn88064476/1853-04-02/ed-1/?sp=1)
 
 #### 1853-04-02 &middot; [Plaquemine, Parish of Iberville [La.]](http://dbpedia.org/resource/Plaquemine%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+­  
+for  
+act,  
+of  
+the  
+Printers and T Vriters. —J. T. Buckingham,  
 his&quot; Reminiscences,&quot; in course of publication  
 in the Boston Courier, speaks of the importance  
 of printers to authors, as follows :  
@@ -3017,7 +4926,7 @@ reader, are compelled to spend in reducing to
 a readable condition, manuscripts that the au­  
 thor himself would be puzzled to read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_blastoise_ver01%2Fdata%2Fsn88064476%2F00295876098%2F1853040201%2F0269.jp2/pct:62.752525,19.616004,14.646465,18.286788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_blastoise_ver01:data:sn88064476:00295876098:1853040201:0269/pct:60.948773,18.904404,16.450216,35.338346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3033,15 +4942,16 @@ thor himself would be puzzled to read
 
 ---
 
-## From _The Hillsdale standard._
+## [From _The Hillsdale standard._](https://www.loc.gov/resource/sn85033637/1853-06-07/ed-1/?sp=1)
 
 #### 1853-06-07 &middot; [Hillsdale, Mich.](http://dbpedia.org/resource/Hillsdale%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ntentment is great gainl  
+The PrINTER.  
 J. T. Buckingham, in his &quot;Reminiscences,&quot;  
-in the course of publication in the Roston  
+in the course of publication in the Boston  
 Courier speaks of the importance of printers to  
 authors, as follows:  
 Many who condescend to illuminate the  
@@ -3049,35 +4959,207 @@ ark world with the fire of their genius through
 the columns of a newspaper, little think of the  
 t of the printer who, almost suffocate  
 moke of a lamp, sits up till midnight to  
-suflocate by the  
-correct  
+suffocate by the  
+corroct  
 bad orthography, and  
 I have seen the argu  
-ments of lawyers in high repute as scholars  
+ments of lawvers in high repute as scholars  
 sent to the printer in their own hand-writing  
-with many words and especially tecunica fore­  
+with many words and especiany teeumee tte­  
 ign terms abeviated words miss spelled, and  
 few or no points.  
 I have seen the sermons of divines sent  
 to the printer without points or capitals to  
 designate the division of sentences,-sermons  
 which, if publi hed with the imperfections of  
-the manuseript, would disgrase the printer,  
+the manuscript, would disgrase the printer,  
 devil, if he were the author. Suppose they  
-had been printed; the printer wonld have been  
+had been printed; the printor wonld nave bcen  
 treated with scorn and contempt, as an illiter­  
 ate blockhead; a fellow better fitted to be a  
 woodsawyer than a professor of the art of prin­  
-tin Nobody would have belleved that such  
+Nobody would have belioved that suck  
 gross and palpable faults were owing to the  
 ignorance and carlessness of the author. And  
 nobody but the practical printer knows how  
 many hours the compositor, and after him the  
-proof roader, are compelled to spend in reu­  
+proof reader, are compelled to spend in rone­  
 cing to a readable condition manuscripts, that  
-he author himself would be purzeled to  
-read.
-</td></tr></table>
+he author himself would be pusseled to  
+read.&quot;  
+THE CROP
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1853060701:0362/pct:65.121702,63.017058,14.662586,20.692964/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Canton weekly register._](https://www.loc.gov/resource/sn84038367/1853-06-18/ed-1/?sp=1)
+
+#### 1853-06-18 &middot; [Canton, Ill.](http://dbpedia.org/resource/Canton%2C_Illinois)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ money.  
+Lo, the Boon Pkintep ’—Mr. Buck  
+ingham, in his recent wo k, “Persona!  
+Memoirs and Itacollections of Editorial  
+Lite,” makes the following mention ol  
+Journeymen Printers, a most worthy  
+class of mechanics who always found n  
+friend in the author of this pleasant book.  
+Many persons, who condescend to  
+illumine the dark world with the spaik­  
+ling* of their genius through the columns  
+of a newspaper, and others who publish  
+sermons and tracts, religious, moral and  
+political, little think of the labor of the  
+printer, who sits up till midnight or till  
+Jay light, to correct his false grammar,  
+bad orthography, and worse punctuation.  
+I once saw the manuscript of n ser  
+mon in the hands of a printer, which  
+was entirely without points, and every  
+ine began with » capital letter, as if it  
+!md been poetry. Suppose these pro­  
+ductions had been printed as they were  
+written. The disgrace would have fall­  
+en upon the printer.  
+After an experience of more than fifty  
+pears, I “hold this truth to be self evi­  
+dent,” that there is no class of working  
+men so poorly paid as printers. For  
+one who makes liim-eIf rich by printing  
+disconnected with the business of pub­  
+lishing, ffty barely live above poverty,  
+and die in the possession of little more  
+■linn enough lo pay the joiner for a coffin  
+and the sexton for a grave.  
+  
+Longevitt o
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151155:1853061801:0293/pct:42.267793,24.378655,12.303981,20.577485/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Republican and patriot._](https://newspapers.digitalnc.org/lccn/sn91068540/1853-07-27/ed-1/seq-4/)
+
+#### 1853-07-27 &middot; [Goldsboro, N.C.](http://dbpedia.org/resource/Goldsboro%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+. THE POINTER. . &#x27;  
+J. T. Buclnnliam. in iis uJcffitiriBCriCC$,  
+  
+in the course of publication in the Boston  
+  
+Courier, speaks&#x27; of tb.e imjKirtancei of printers  
+  
+to nuthorfs, as follows : -  
+  
+&quot; Many who coudi:vud to ltlamine the  
+  
+Wk worlil with th&#x27;efifoof their genius, throurrh  
+  
+the colurfliis of a Tiewspaper, littlt tiiink of  
+tjhe lot of tTie printer who, almost suffocated  
+ty the smoke of b Jamp, sits vpT until mid­  
+&quot;Wght to correct theirfalse gTamraarbad or­  
+thography, and worse punctuation. I-have  
+sen the argument of lawyer in high jepute  
+na scholars, sent to the printer in 4 their own  
+hand-writing, with many words and especially  
+tcchuical and foreign terms, abbreviated, words  
+inis-spellod,,&#x27;&#x27; and few or no points.  
+- I &quot;J havo een tie eermons odivinof sentto  
+&quot;the printer, without points or capitals, to de­  
+J irrnatcthe divisions of sentences sermons  
+  
+.which if published with the &quot;-imperfections of  
+  
+the mamiscnpti would . disgrace the printers  
+&#x27; dexil, if he were the author. Suppose they  
+&#x27; .liad Weriprjnted ; the printer woEld haveteen  
+treated wiUi scorrrand contempt, as an .ilKtcx-  
+  
+I - lite, blockhead ; aa&#x27; &quot;a fellow better &#x27;fitted to-be  
+, ii wpod sawder than a professor of tho&#x27;ait of  
+  
+u Nobody wQnldr . believe thit such grqs  
+a ad palpable faults were owing Jo tbe Jgno­  
+rance andjcfurelessness of the author. Andno-  
+  
+lxHfy but .i&#x27;pratirix4e&quot;r Tcnow8&quot;how  
+  
+TT appearinsr to the satisfaction of the Court, tha
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCRepGold2n_ver01%2Fdata%2F1853072701%2F0045.jp2/pct:8.054393,88.919231,34.466527,32.528096/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Republican and patriot._](https://newspapers.digitalnc.org/lccn/sn91068540/1853-07-27/ed-1/seq-4/)
+
+#### 1853-07-27 &middot; [Goldsboro, N.C.](http://dbpedia.org/resource/Goldsboro%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Baany hours, the compositor, and after Eirn theT Cair119 &amp; Co., 89 Water street. New York!  
+  
+pKiof-reader, are - compelled to spend in eclu­  
+cina&#x27; to ft readable &quot; condition,&quot; mahuscripts,  
+  
+that the autho?3&#x27; himself vwould be raszled toi
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCRepGold2n_ver01%2Fdata%2F1853072701%2F0045.jp2/pct:9.427301,121.268774,32.479079,2.930364/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Texas State gazette._](https://texashistory.unt.edu/ark:/67531/metapth81095/m1/3)
+
+#### 1853-08-06 &middot; [Austin, Tex.](http://dbpedia.org/resource/Austin%2C_Texas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+- The Printer .   
+J. T. Buckingham in his &#x27;&quot; lieininiscences&quot; inthe course of  
+publication in the Boston Courier speaks&#x27;of the importance of  
+printers to authors as follows : &#x27; &#x27;  
+&quot;irtlany who condescend to illumine the dark-world with  
+the fire of their genius through the columns of a newspaper  
+little think Of the lot of the printer who almost .suffocated by  
+the sindlce of a lamp sits up until midnight to&quot; correct their  
+false grammar bad orthography&#x27; and worse punctuation. I  
+havo seen the argument of lawyers in high repute as scholars  
+sent to the printeivin theirwmluaud-wj-jting with many words  
+and especially tocl&#x27;inicaltui&#x27;d foreigntertns abbreviated words  
+mis-spelled and few or no po&#x27;ints. v  
+&quot; I have seen the sermons of divines sent to the printer with-  
+out points or capitals to designate th6 divisions of sentences  
+sermons which if published with the imperfections of tho inani  
+uscript would disgrace the printer&#x27;s devjl if ho were the author  
+Suppose t&#x27;uey had beep printed ; tho printer would havo bpcn&#x27;  
+treated with scorn and&#x27;epntampt as an illiterate &#x27;blockhead 5 as  
+a fellow .better fitted to be a woodeawyor than a professor of  
+the art of printing.  
+&quot;Nobody would believe that such gross aud&#x27;palpable faults  
+were owing to the ignorance and caralessness of tho. author  
+And nobody but the .practical printer knows how many hours  
+the conmorfttmund after him the nroofrronder are compelled to  
+spend in reduemg.tp a readable condition Manuscripts that  
+.thnfuithoihiud?t!lUwouldtibo.vi)uzzlfeditdiread.il?1u r
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth81095/m1/3/pct:35.933333,72.574448,25.733333,18.683958/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3091,13 +5173,28 @@ read.
 
 ---
 
-## From _Vermont watchman and State journal._
+## [From _Vermont watchman and State journal._](https://www.loc.gov/resource/sn84023200/1853-10-20/ed-1/?sp=2)
 
 #### 1853-10-20 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-mbly on motion of  
+ury;  
+referred to the committee on Elections.  
+On motion of Mr. Rice of Somerset, it was  
+ordered that when the House adjourn, it be till  
+3 o&#x27;ciock this afternoon, and the House ad­  
+journed. sar.  
+APTerNOON  
+The Senate was called to order by the Hon.  
+Wm. C. Kittredge, President.  
+On motion of Mr. Stevens, of Caledonia, the  
+Senate took a recess of half an hour.  
+At the expiration of that time the Senate came  
+in, and at 3 o&#x27;elock, in accordance with the reso­  
+lution adopted this morning, met the House in  
+joint assembly.  
+On returning from joint assembly on motion of  
 Mr. Bogue the Senate adjourned.  
 HouSE.  
 The Senate came in, and the joint assembly  
@@ -3144,58 +5241,244 @@ And no one but the practical printer knows how
 many hours the compositor, and after him the  
 proof reader, is compelled to spend in reducing  
 to a readable condition manuscripts that the wri­  
-ter himself would be puzzled to read
-</td></tr></table>
+ter himself would be puzzled to read.  
+Smart. At a ratification meeting in New York  
+last week of the Van Bur
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1853102001:0590/pct:46.069300,43.821173,13.170641,34.584563/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _The Rutland County herald._
+## [From _Green-Mountain freeman._](https://www.loc.gov/resource/sn84023209/1853-10-20/ed-1/?sp=3)
+
+#### 1853-10-20 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ury ;  
+relerred to committee on E&#x27;ections.  
+On motion of Mr. Rice of Somerset, it was  
+ordered that when ti.o House adjourn, it be till  
+3 o&#x27;clock this afternoon, and tuo House ad  
+journed.  
+AFTERNOON.  
+Senate. The Sieimie was called to order by  
+Hon. Win. C. Kntreilire, President. A&#x27;ter a re  
+cess of halt an hour, the Senate: met the Housu  
+in joint assembly, and on raturr ing adjourned.  
+House. The Senate came in, and tne joint  
+assembly was formed, but the report of the Can­  
+vassing Committee not bi-iiiD- ready, on motion  
+the joint assembly adjourned (ill tomorrow inorn-  
+injr at 10 H clock teas J4, nays 79.  
+Bill introduced and referred. By Mr. Spencer,  
+to incurRjiale the Vermont Italian Marble Com­  
+pany ; to the Committee on Minutact jres.  
+lie Neujy leaner.  
+Barnabcs Gates, to whom (lie public, more  
+than to any other man, have been indebted, for  
+our present syetein of cheap postage, died last  
+week in Boston. H
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1853102001:0139/pct:23.568361,16.276362,16.177523,16.949153/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Burlington free press._](https://www.loc.gov/resource/sn84023127/1853-10-21/ed-1/?sp=2)
+
+#### 1853-10-21 &middot; [Burlington, Vt.](http://dbpedia.org/resource/Burlington%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  o o e te  
+Buck, Morse.port of the Committee appointed to canvass  
+Commitice on ladiclury- Senators Coolidge, the votes for State Officers, and if necessary  
+Stevens, of Franklin, Hoyt. ect such officers. The report of the  
+Committee o
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:0028077697A:1853102101:0807/pct:69.142058,26.795345,25.161629,2.341754/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Burlington free press._](https://www.loc.gov/resource/sn84023127/1853-10-21/ed-1/?sp=2)
+
+#### 1853-10-21 &middot; [Burlington, Vt.](http://dbpedia.org/resource/Burlington%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+- Senators Bogue, Committee not being ready, Mr. Washburn  
+Denison, Powers.moved to adjourn the jint assembly till to-  
+Committee on Education- Senators Stone, morrow morning at 10 o&#x27;clock, which motion  
+Warner atsowa a to  
+Committre on Igriculture-Senators Harvey, i inrou an efre M  
+Kimball, Sleeper.Spencer, to incorporate the Vermont Italian
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:0028077697A:1853102101:0807/pct:69.229425,28.512631,25.126682,2.994607/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## Legislature of Vermont
+
+#### From _Vermont chronicle._
+
+#### 1853-10-25 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
+
+[This text is not available under an open license.]
+
+---
+
+## [From _Vermont watchman and State journal._](https://www.loc.gov/resource/sn84023200/1853-10-27/ed-1/?sp=1)
+
+#### 1853-10-27 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+The Senate was called to order by the Presi­  
+dent, and the journal of yesterday was read.  
+Bills introduced and referred. By Mr. Hale,  
+altering the time of holding the courts in Orange  
+Co., to the 4th Tuesday in June, and the 3d  
+Tuesday in January; read twice and referred to  
+the Committee on the Judiciary.  
+The Senate then met the House in joint as  
+sembly to hear the report of the Canvassing  
+Committee, and if necessary, proceed to the  
+lection of State officers.  
+On returning from joint assembly the Clerk  
+announced to the Senate the joiit committees ap  
+inted on the part of the House. Also, a join
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1853102701:0593/pct:1.403443,52.259249,13.023952,7.893250/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Rutland County herald._](https://www.loc.gov/resource/sn84022366/1853-10-28/ed-1/?sp=2)
 
 #### 1853-10-28 &middot; [Rutland, Vt.](http://dbpedia.org/resource/Rutland%2C_Vermont_(city))
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-PHtATEiTS AND UiTiNTiNG.  
+s called to order by the  
+Hon. Wm. C. Kittredge, President.  
+On motion of Mr itevens, of Caledonia,  
+the Senate took a recess of half an hour.  
+At the expiration of that time the Senate  
+came in at 3 o&#x27;clock, in accordance with  
+the resolution adopted this morning, met  
+the House in joint assembly.  
+On returning from joint assembly on mo­  
+tion of Mr Bogue the Senate adjourned.  
+HOUSE.  
+The Senate came in, and the joint as­  
+embly was formed, for the purpose of hear  
+ing the report of the Committee appointed  
+to canvass the votes for State Officers, and  
+if necessary to elect such officers. The  
+report of the Committee not being ready  
+  asnhuh moved to aosurn the joint  
+assembly till to-morrow morning at l0  
+o&#x27;clock, which motion was agreed to, y  
+94, nays 79, and the Senate withdrew.  
+Hill introduced and reserred.By   
+Spencer, to incorporate the Vermont Ital­  
+ian Marble Co., to the Committec on Man­  
+nfactures. Adjourned.  
+SEnAT
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022366:0020029015A:1853102801:0176/pct:29.533373,52.034840,11.163615,11.413125/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Rutland County herald._](https://www.loc.gov/resource/sn84022366/1853-10-28/ed-1/?sp=4)
+
+#### 1853-10-28 &middot; [Rutland, Vt.](http://dbpedia.org/resource/Rutland%2C_Vermont_(city))
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+!  
+PtN TEitS aD UiTINTIN.  
 1. T. Buckingham in his series of re  
 miniseences, in course of publication in  
-Hadon Cburier, speaks of the im-  
+Hasdon Charier, speaks of the im-  
 Many who condescend to illuminate  
 the dark world with the fire of their  
-genius through the columns of a  
+cenius through the columns of a  
 aper, little think of the lot of the print­  
-e, who, almost snfficated by the smoke  
+e who, almost snifecated by the smoke  
 a lamp sits un till miduight to cor  
 his false grammar, bad orthogra-  
 seen the arguments of lawyers, in high  
 repute as scholars, sent to the printer  
 in their own hand writing, many words  
 and especially technical and toreign  
-breciated, words misspelled, and tew  
+breciated, words misspelied, and few  
 or no points, and those few, if there  
-were any, entirely out of place. I have  
-n the sermons of divines senl to the  
-press withoul poits or capitals to dess  
+were any, entirel out of place. Ihave  
+n the sermons of divines sent to the  
+press withoul poiits of capitals to dess  
 gnate the sentences; sermons which if  
-publi-hed with the imperfection of man-  
+publi-hed with the imperfection of mans  
 ript, would disgrace the printer  
 levil if he were the author. Suppose  
 they had been so printed. The printer  
 would have been treated with scorn and  
-amntempt, as an illiterate blockhead-a  
-a frllon much befter finted to bhe a nod  
+ontempt, as an illiterate blockhead--a  
+a fllon much lefter uited is be a nosl  
 than a printer. No one would  
-have believed that such gross and pal­  
-nable faults were owing to the igno­  
-ranee and carelessness of the author.  
-And no one but the practical printer  
-knows how many hours the compositor,  
+have bebieved that such gross and pal­  
+pable fanlts were owing to the igno­  
+oanee and carelessness of the author.  
+AAnd no one but the practical printer  
+knows bow many hours the compositor,  
 and after him the proof reader, is com  
 selled to spend in reducing to a read-  
-able coudition, mannscripts that the  
-riter himself would be puzzled i  
-read
-</td></tr></table>
+able condition, mannscripts that the  
+riter himself would be puzzled t  
+rend.  
+It is amusing to see a creation of  
+brodeloth, peatent leather, hair and  
+bear&#x27;s grease, sneer as it passes the sun  
+burne
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022366:0020029015A:1853102801:0178/pct:17.704661,48.438438,11.084998,23.093093/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Burlington free press._](https://www.loc.gov/resource/sn84023127/1853-10-28/ed-1/?sp=2)
+
+#### 1853-10-28 &middot; [Burlington, Vt.](http://dbpedia.org/resource/Burlington%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+SENATE.  
+WEDnesdaY, Oct. 19, A. M.  
+Bills introduced and referred.-By Mr.  
+Hale, altering the time of holding courts in  
+Orange Co., to the 1th Tuesday in June, and  
+the 3d Tuesday in January; real twice and  
+referred to the Committee on the Judiciary.  
+Mr. Hoyt introduced the petition of Henry  
+C. Hill and 8s
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:0028077697A:1853102801:0811/pct:56.610639,33.630321,12.285566,4.567954/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3221,9 +5504,12 @@ j and especially technical and foreign terms, .
 ! abreviated, words mispelletl. and few or no &#x27;  
 points. I have seen the sermons of divines &#x27;  
   
-end to the Spanis
+end to the Spanish  
+search on the high  
+  
+g&gt;ales
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/xt77wm13qk34&#0036;3/pct:30.424906,9.019376,25.467664,6.639127/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt77wm13qk34%2Fxt77wm13qk34_jp2.zip%2Fxt77wm13qk34_jp2%2Fxt77wm13qk34_0003.jp2/pct:30.424906,9.019376,25.467664,6.639127/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3235,7 +5521,13 @@ end to the Spanis
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+l  
+Magazines 1 Herbariums  
+jScrap Books (Toy Books  
+1&#x27;OIU FOLIOS.  
+Music Folioa .Drawing Folios  
   
+AT PRIVATE SALE.  
   
 THE FA KM, containing 234 acre*, and a fine  
 ra»RK.HOUSE,in Shelbyville. belonging to  
@@ -3252,9 +5544,11 @@ fitted for a wood-sawyer than a printer. —
 Nobody would have believed that such gross  
 and palpable faults were owing to the igno-  
 rance and carelessness of the author. And  
-bodv but the practical printer, knows
+bodv but the practical printer, knows  
+  
+For terma. «Stc, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/xt77wm13qk34&#0036;3/pct:30.692143,14.842136,25.213789,7.416150/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt77wm13qk34%2Fxt77wm13qk34_jp2.zip%2Fxt77wm13qk34_jp2%2Fxt77wm13qk34_0003.jp2/pct:21.819882,14.251992,34.086050,13.219239/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3277,7 +5571,7 @@ in reducing to a readable condition manu-
 scripts that the writer himself would be  
 puzzled to read.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/xt77wm13qk34&#0036;3/pct:17.744522,22.297630,25.307322,3.501525/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt77wm13qk34%2Fxt77wm13qk34_jp2.zip%2Fxt77wm13qk34_jp2%2Fxt77wm13qk34_0003.jp2/pct:17.744522,22.297630,25.307322,3.501525/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3291,11 +5585,7 @@ puzzled to read.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-li&#x27;eralism in London ; will not the  
-Catholic Church&#x27; by means of her own  
-University, be more successful in  
-Dublin? &#x27; , ,j ? ? PkiinTERS aid  
+ERS aid  
 PitiNTiN.G. — Many who condescend to  
 illuirjiate the dark world with the fire  
 of their genius, -hro ugh the columns of  
@@ -3326,7 +5616,8 @@ knows how mjy hours a compositor, and
 after him a proof rojer, is compelled to  
 spend in reducing to readnbj condition  
 manuscript that often the writers  
-Unselves would be puzzled to read..— 
+Unselves would be puzzled to read..— 4  
+Proof llder
 </td></tr></table>
 
 ---
@@ -3339,7 +5630,7 @@ Unselves would be puzzled to read..—
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-rrt~llT:rs AND PrIlNTwO.-Moany who  
+:rs AND PrIlNTwO.-Moany who  
 condescend to illunllate the d(lark  
 world with the lire of tlleir genius  
 throogh the columns of a newspaper,  
@@ -3371,7 +5662,8 @@ compositor, and after himi a proof-
 renader, is compelled to spend in  
 reducing to readable condition  
 manuscript that ofRl tite writers  
-themseles would be puzzled to read.-A
+themseles would be puzzled to read.-A  
+I&#x27;roof reatder.
 </td></tr></table>
 
 ---
@@ -3384,8 +5676,7 @@ themseles would be puzzled to read.-A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-&#x27;RnINTiNO.-SBlOny who condescend to  
+-SBlOny who condescend to  
 illuminate the- dark world with the fire  
 of their genius, through the columns of  
 a newspaper, little think of the lot of  
@@ -3416,7 +5707,8 @@ compositor, and after him a proof
 reader, is compelled to spend in  
 reducing to readable condition  
 manuscript that olten thle writers  
-themselves would be puzzled to read.-
+themselves would be puzzled to read.-A  
+Proof Reader.
 </td></tr></table>
 
 ---
@@ -3431,82 +5723,98 @@ themselves would be puzzled to read.-
 
 ---
 
-## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1859-08-27/ed-1/seq-2)
+## [From _Vermont phœnix._](https://www.loc.gov/resource/sn98060050/1859-08-27/ed-1/?sp=2)
 
 #### 1859-08-27 &middot; [Brattleboro, Vt.](http://dbpedia.org/resource/Brattleboro%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-technical ami foreign terms iibbrcv Inled, word mis­  
-spelled, and few (or no) points, and thoe few entirely  
-iniplnrcd. I once saw the innincript of a serinou  
-in tlio hand of a printer, wliteh sas entirely without  
-points, and every line begmi with u capital letter, as  
-If it had been poetry, bupposc thec productions  
-had liecn printed as they were written; tn-r dingrace  
+ given  
+utterance to the experience of every editor in  
+the following paragraph, which is brimfull of  
+truth:  
+&quot;Many persons who condescend to illumine the  
+dark world with the sparklings of their genius through  
+the columns of a newspaper, and others who publish  
+sermons and tracts--religious, moral and political  
+little think of the labor of the printer, who (perhaps  
+nearly suffocated with the smoke a lamp, and with an  
+aching head, and eyes inflamed and enfeebled from  
+intense application) sits up till midnight, or till day­  
+light, to correct his false grammar, bad orthography  
+and worse punc uation. I have seen the arguments  
+of lawyers, who stood in high repute as scholars, sent  
+to the printer in their own handwriting,-chirography  
+which would defy the sagacity of the most inveterafe  
+investigator of ancient hieroglyphics,-abounding with  
+technical and foreign terms abbreviated, words mis­  
+spelled, and few (or no) points, and those few entirely  
+misplaced. I once saw the manuscript of a sermon  
+in the hands of a printer, which was entirely without  
+points, and every line began with a capital letter, as  
+if it had been poetry. Suppose theee productions  
+had been printed as they were written; the disgrace  
 would have fallen upon the printer. Nobody would  
-believe tlmt such gross and palpable faults were ow­  
-ing to the carelessness of tho nutliort and no one but  
-a prnctlcnl printer knows how many hours a compos­  
-itor and, alter him, a proof-reader is compelled tu  
-spend in reducing to a readable condition, niinruscrrnts  
-which the writers themselves would be puzzled t
+believe that such gross and palpable faults were ow­  
+ing to the carelessness of the author; and no one but  
+a practical printer knows how many hours a compos­  
+itor,-and, after him, a proof-reader--is compelled to  
+spend in reducing to a readable condition, manuscripts  
+which the writers themselves would be puzzled to  
+read with propriety.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_danby_ver01%2Fdata%2Fsn98060050%2F00280777353%2F1859082701%2F0573.jp2/pct:17.711661,27.162603,12.659744,5.621991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777353:1859082701:0573/pct:17.711661,19.164467,12.679712,14.008386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Keowee courier._](https://chroniclingamerica.loc.gov/lccn/sn84026912/1860-03-17/ed-1/seq-4)
+## [From _Keowee courier._](https://www.loc.gov/resource/sn84026912/1860-03-17/ed-1/?sp=4)
 
 #### 1860-03-17 &middot; [Pickens Court House, S.C.](http://dbpedia.org/resource/Pickens%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+, in his series of reminiscenses in  
+course of publication to the Boston Courier,  
+speaks of the importance of the printer to  
+the author, as follows:  
+&quot;Many who condescend to illuminate the  
+dark world with the fire of their genius,  
+through the colums of a newspaporlittle think  
+of the lot of the printer, who, almost sufloca  
+by smoke of a lamp, sits up till midnight  
   
-Plty?$K8 AND, 1&#x27;KINTJNy. .J. T. i)?cHinghani,  
-esq. in his Scries of reiuituseonses in  
-coumo of-pilblieation to the Boston Courier,  
-kncaks^f the importanuo of the printer to  
-the twthoi7 as fulloCvs :  
-&quot; Many who condescend to illuuijnate the  
-dark world with tho lire of. their genius,  
-through tho colums of ft ncw^piip.-r little think  
-of the lot of&#x27;the prill tor, who, almost suffocated  
-by smoke of a, hurtp, sit-H Up till midnight  
+to correct his false grammer, bad orthography,  
+and worse punctustion. I have soon the ar  
+of lawyers, in hih repute as schel  
+sent to the printer in their own handwris  
+ting, many words,-and especially techuical  
+and forehsit fermsabbrevisted, woreds ntlea  
+and few or no points, and those few, if  
+there were any, entirely out of place.I have  
+seen the sermons of eminent &quot;divines&quot; sent  
+to the prets without points or capitals to do  
+the division of the sontences, sor  
+the tmporfoo  
   
-to correct bis false grainuier, bad orthography,  
-and worse punctuation. 1 baVo seen tbo arguments  
-of lawyers, in high rcj?uto as scholars  
-Sent to the printer in tlicir own handwri- 1  
-ting, many words?and especially technical  
-and foreign terms?rabbveviated, words misspelled,  
-and few or 110 points,and those few, if  
-there were any, entirely out&#x27;of place.-.;.] have  
-seen th&lt;;fiermons of eminent &quot; divines&quot; sent  
-to tlie. press without points Or capitals to designate  
-the division of the sentences ; sori.w.nu  
-?i.- : r...  
-  
-puw..o.. n.tn i.iu uii|JVl nvtioilS  
-of tlie manuscript, would- disgruco the  
-printer&#x27;s dovil if ho word tlie author. Suppose  
-they hnd been so printed. The printer  
-wuhld have been treated with scorn and contempt  
-as an illiterate blockhead?as n fellow  
-better fitted to be a weodsawyer than a printer.  
-Nobody h ive believed that such gryas  
-and palpable fault.-? were owing to the iguo- J  
-ranee or carelessness of the author. And no j  
-ohe but the practical printer knows how many j  
-hours a compositor, and after him a proot-rca- j  
-dor, is compelled to spend in reducing to a  
-readable condition manuscripts that the wri- 1  
-tors themselves would be puzzled to read.&quot;
+puscripe would his ime thee  
+of the manuscript, would disgrace the.  
+printer s deril if he were the author. Sup  
+they had been so printed. The printer  
+wonld have hegn trested with scorn and con  
+as an illiterate blockhead--as a fellow  
+better fited to be a weodeawyer than a prin  
+Nobody have believed that such gross  
+and palpable faulis were owing to the iguos  
+rance or carelessness of the author. And no  
+one but the practical printer knows how many  
+hours a compositor, and after him a proot-rea  
+der, is compelled to spend in reducing to a  
+readable condition manuscripts that the wris  
+ters themselves would be puzzled to read.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2Fsn84026912%2F00211109981%2F1860031701%2F1023.jp2/pct:64.910124,3.251938,19.193937,20.992248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:sn84026912:00211109981:1860031701:1023/pct:64.910124,3.922481,18.133866,20.321705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3532,13 +5840,24 @@ tors themselves would be puzzled to read.&quot;
 
 ---
 
-## [From _Sunday dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85026213/1861-12-01/ed-1/seq-6)
+## [From _Sunday dispatch._](https://www.loc.gov/resource/sn85026213/1861-12-01/ed-1/?sp=6)
 
 #### 1861-12-01 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+len,” was black, his grandsire chestnut, and his  
+dam gray. “Ethan Alien’s” famous brother,  
+“ Red Leg,” is gray, with one bay leg. “ Hamp­  
+den,’’the well known white-faced, white-footed  
+stallion, lately of this vicinity, descended from  
+horses of better color, but his colts are said to be  
+universally chestnut. Who can explain the prob.  
+lem? Horse beef, steamed under the saddle, is  
+highly relished by the Siberian Kalmucks, and  
+considered a great dainty. Why isn’t horse beef  
+good ? What does the animal eat more than oth­  
 ers to make him especially unclean ? Who can  
 answer ?  
 Printers and Printing.—Many who con­  
@@ -3566,9 +5885,9 @@ practical printer knows how many hours a com­
 positor, and after him a proof-reader, is compell­  
 ed to spend in reducing to readable condition  
 manuscript that often the writers themselves  
-would be puzzled to read
+would be puzzled to read.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_frost_ver02%2Fdata%2Fsn85026213%2Fprint00211110090%2F1861120101%2F0006.jp2/pct:57.134612,47.767521,12.275795,12.518839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026213:print00211110090:1861120101:0006/pct:57.130172,42.928912,12.271355,17.344888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3581,8 +5900,6 @@ would be puzzled to read
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-  
-ago!  
   
 Printers and Printing. — Many who con-  
 descend to illuminate the dark world with the  
@@ -3611,9 +5928,9 @@ how many hours a compositor and after him
 a good proof-reader, is compelled to spend in  
 reducing to readblc condition manuscript that  
 often the writers themselves would be puzzled  
-to road. — A Proof-Rcader
+to road.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/xt7rr49g770c&#0036;1/pct:34.962020,81.233323,14.103880,14.512304/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt7rr49g770c%2Fxt7rr49g770c_jp2.zip%2Fxt7rr49g770c_jp2%2Fxt7rr49g770c_0001.jp2/pct:34.962020,82.048621,14.103880,13.593240/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3658,7 +5975,7 @@ hours a compositor, and after him a
 proof-reader, is compelled to spend in  
 reducing to readable condition,  
 manuscript that often the writers  
-themselves would be puzzled to readl.--A
+themselves would be puzzled to readl.
 </td></tr></table>
 
 ---
@@ -3671,7 +5988,7 @@ themselves would be puzzled to readl.--A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+. Printers and  
 Printing. — Many who condescend to  
 illuminate the dark world with the fire  
 of iheir genius, through the columns of  
@@ -3703,7 +6020,7 @@ compositor, and after&#x27; h&#x27;itn a proof-
 reader-, is compelled to&#x27;sjendin  
 reVluoing&#x27;to lvitdiibie con&#x27; difion  
 manuscript; that often writers  
-(lrmsolves would be puzzled to r&amp;ni.—A
+(lrmsolves would be puzzled to 
 </td></tr></table>
 
 ---
@@ -3716,7 +6033,7 @@ manuscript; that often writers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+? ?m *,  
 PiiiNTKR* and 1&#x27;unrtiKO — -fany who  
 coo«i*tend to il umiuate the dark world  
 with&#x27; the fire of -their genius, through  
@@ -3748,7 +6065,7 @@ many hours a compositor, aud after him a
 proof rnader, is com pt-lleil to upend  
 iu reducing to readable condition  
 manuscript that often writers themselves  
-Would be puzzled to real. — A Proof
+Would be puzzled to real.
 </td></tr></table>
 
 ---
@@ -3763,38 +6080,93 @@ Would be puzzled to real. — A Proof
 
 ---
 
-## From _Charles City intelligencer._
+## [From _Smyrna times._](https://www.loc.gov/resource/sn84020422/1865-11-29/ed-1/?sp=1)
+
+#### 1865-11-29 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+*.  
+  
+Authors and Printers.  
+To those who are incline 1 tognimblo 1 ieeau.se  
+a slight mistake may happen to occur in anv  
+illegi!) y written article th-y may he disposed  
+t&quot; send to some newspaper, w- would commend  
+the following from the &quot; Remini-eenee»&quot; of  
+1 . J. Buckingham : &quot; Many who condescend  
+U&gt; illuminai«,- tin* il.uk w.nM wiih ill,- li*. ,,(*  
+genius through the eolnmns of a newspaper  
+little think of the lot of the printer, who ah  
+most suffer: ited by ; lie stnoki of a lamp,&#x27;sit»  
+up till midnight to eonvet bad ortho-raphy  
+aii.l worse pam-umii,,,,. 1 have se n the ar­  
+eimients of biwy.-r... i„ bbd, ,vpnte U s seh .! 1rs.  
+sent to the piim.■ in (he r own handwritin*&#x27;  
+many word -espemüv .. an 1 foreim,  
+terms— ibl. r . V ;at ■ I, words mis-spelled, and  
+&quot; &quot; or no points, and tl, .se few. if there were  
+any, entirely .op of j.h,.... | have s.vn the  
+.-erin-m- of divin •. .-«-Mi to j ■.,•••-* with&#x27;.m points  
+or capitaU to n il ■ the divide,,s of -enieii­  
+j *•&lt;-*&lt;-—&gt;■. n,ln|1 &#x27; t w Î i ; ; * 11. ii j* iL&#x27;Mi*&#x27;1 with t (1« * i ?n -  
+perfections of the manuscript, would di-mace  
+phra-&#x27;«I»&#x27;piiuters devi&#x27;, if he \ Va - the author —  
+: Suppose the,-had been printed; the printer  
+a I would have ... to ite.l with scorn and eon  
+i tempt—as an i ! lpe-:,o. b&#x27;o Ahead—I fellow bet  
+r . tçr fitted to be a woe I sawyer than a printer,  
+j • N, |b&quot;dy 1 hive ben. such gross and  
+is palpable lauits were owing to the ignorance o­  
+&#x27; «•areles-m -s ol an anther. And no one but a  
+! pfa-tical ptint-r kn-ovs how many hours th ■  
+conipo-it.»r. an 1 after him tic- proi.f reader, i  
+j compelled to sji.-nl in reducing to a readable  
+| condition manu ripts that the writer himsell  
+- would be pu /./.led to ivn 1. &#x27;  
+! I his. in w.t or in part, w |j] ;l i,,,|y ;lt  
+a i Fast two-thirds .,) th,. writers for tile press—  
+«•■•nius is too apt to consider itself to good to  
+1 be troubled with the labor of finishing its  
+! work, iioiwitlistanding it is the finishing hand  
+«hat gives the master stroke. Hut too lie­  
+| &lt;|uently. however, it is not laziness, it is i&#x27;oio  
+ranee that compels writers to leave&#x27; their per  
+1 Ibrmaiiees half done. Many who have some­  
+«bing of a reputation as authors can neither  
+j punctuate, sp II, nor write grammalieallv--to  
+j sa &gt;&#x27; nothing .of their sprawling peniniiiship.—  
+! Ami. as might be expected, these are generally  
+! the ones to find the mo-t fault, and put on the  
+| most disgusting airs— we say disgusting, he­  
+cause they are so to all sensible men—but  
+«böse who as.-nme them think them dignified &#x27;  
+It is no small anmiyanee to have anvtfiing to  
+do with such elnra&#x27;efers— and we have -unie  
+| «««nes wished it was a penal offen.«» to correct  
+an authors manuscript. Hut we suppose wo  
+shall always be bothered with the stupidity of  
+the wise
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_artemis_ver02:data:sn84020422:00332894924:1865112901:0230/pct:32.229278,19.244735,29.037240,74.570322/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Charles City intelligencer._](https://www.loc.gov/resource/sn84038074/1865-11-30/ed-1/?sp=1)
 
 #### 1865-11-30 &middot; [Charles City, Floyd County, Iowa](http://dbpedia.org/resource/Charles_City%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s as ever,  
- JAMes. G. Wirred, otuint  
-  
-Chaplain 58th U. S. Col&#x27;d Inft&#x27;y.  
-  
-lotiy.  
-  
-A Serenade.  
-ary. I. statire  
-  
-Come to the window, my dear one,  
-There&#x27;s a path in the quiet grove  
-Surely when others are near one,  
-&#x27;Tis irksome to whisper of love.  
-  
-lirilslg. J.  
-  
-RegisTEr, 8TA.  
-  
-of the paper  
+the paper  
   
 they think they do not need the paper  
   
-A  
+C  
   
-NOMDEL .  
+NOMDEA 4.  
   
 Authors and Printers.  
   
@@ -3805,30 +6177,30 @@ may
   
 pen to occur in any illegibly written  
 article they may be disposed to send  
-to some newspaper, we would come­  
-mend the following from the &quot;Remie  
-eie e o   o i e   
+to some newspaper, we would coms­  
+mend the following from the &quot;Remi-  
+aieeo e ai e   
   
-hap-  
+hap.  
   
 Many who condescend to illuminate  
 the dark world with the fire of their  
-genins through the colums of a pews-­  
+genins through the colums of a news-­  
 paper little think of the lot of the prin.­  
 ter, who, almost suffocated by the  
 smoke of a lamp, sits up till midnight  
-to correct bad orthography and worss  
+to correct bad orthography and worsa  
 punctuation. I have seen the argu-­  
 ments of lawyers, in high repute as  
 scholars, sent to the printer, in their  
-own handwriting, many words-espe-­  
-cially terhnical and foreign terms--ab.­  
+own handwriting, many words--espe-­  
+cially terhnical and foreign terms-ab.­  
 breviated, and those few, if there were  
 any, entirely out of place. I have seen  
 the sermons of divines sent to press  
 without points or capitals to designate  
-the divisions of sentences--sermone  
-which, if published with the imperfec.­  
+the divisions of sentences--sermons  
+which, if published with the imperfec-­  
 tions of the manuscript, would dis-­  
 grace the printer&#x27;s devil, if he was the  
 anthor. Suppose they had been print-­  
@@ -3846,18 +6218,59 @@ compositor, and after him the proof
 reader, is compelled to spend in redus  
 cing to a readable condition mann-­  
 scripts that the writer himself would  
-be puzzled to read.&quot;
-</td></tr></table>
+be puzzled to read.&quot;  
+  
+This in whole or part, will apply to  
+at least two thirds of the writers for  
+the press. Genius is too apt to con-­  
+sider itself too good to be troubled  
+with the labor of finishing its work,  
+notwithstanding it is the finishing  
+hand that gives thr master stroke.  
+But too frequently, however, it is not  
+laziness, it is ignorance that compels  
+writers to leave their performances  
+half done. Many who have something  
+of a reputation as authors can neither  
+  
+punctuate,  
+  
+4.  
+  
+A beautiful night for walking,  
+with the moon and stars overhead,  
+A beautiful night for talking.  
+  
+spell, nor write gramimati-  
+  
+cally--tosay nothing of their sprawl-  
+ing penmanship. And as might be ex-­  
+pected, these are generally the ones to  
+find the most fault, and put on the most  
+disgusting airs- we say disgusting.  
+because they are so to all sensible men  
+--but those who assume them think  
+them dignified! It is no
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84038074:00279529467:1865113001:0888/pct:74.012845,9.654957,20.833808,74.132709/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _The Richmond palladium._](https://chroniclingamerica.loc.gov/lccn/sn86058250/1866-01-11/ed-1/seq-1)
+## [From _The Richmond palladium._](https://www.loc.gov/resource/sn86058250/1866-01-11/ed-1/?sp=1)
 
 #### 1866-01-11 &middot; [Richmond, Ind.](http://dbpedia.org/resource/Richmond%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ His grace, when earthly triaN end,  
+Thou mv&#x27;at go hence to them m ho cume no more  
+tt thee.  
+AITIIOUS AND PRINTERS.  
+To those who arc iuclincd to grumble because a  
+alight miaUka may happen to occur in any illgebily  
+written article they mav be disposed t ) sen 1 to some  
 newspaper, we would command the following from the  
 .Remimsoeiices&quot;of T.J. Uuckinha:n : &quot; Many who  
 condescend to illuminate the dark world with the fire  
@@ -3885,21 +6298,35 @@ one but a practical printer knows how many hours
 the compositor, and after him the proof reader, is  
 compelled to spend reducing to a redible condition  
 manuscripts that the writer himself would be puzzled  
-to read.
+to read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_indianapolisolympians_ver02%2Fdata%2Fsn86058250%2F00271744791%2F1866011101%2F0007.jp2/pct:18.195421,35.348895,12.629059,13.856469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744791:1866011101:0007/pct:24.251945,41.470077,16.831239,24.124659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Baltimore County union._](https://chroniclingamerica.loc.gov/lccn/sn83016368/1866-03-10/ed-1/seq-1)
+## [From _The Baltimore County union._](https://www.loc.gov/resource/sn83016368/1866-03-10/ed-1/?sp=1)
 
 #### 1866-03-10 &middot; [Towsontown, Md.](http://dbpedia.org/resource/Towson%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+be came (  
+to bis boat much later than usual, to the {  
+great surprise of those who were in the (  
+habit of observing his then undeviating  
+punctuality. He went ont in a boat as (  
+heretofore to inspect a ship, which blew  
+up before he reached her. Had he left the ,  
+shore a few minutes sooner he must have ,  
+perished with the rest on board.  
+Authors and Printers.  
+To those who arc inclined to grumble be­  
+cause a slight mistako may happen to occur  
+in any allegible written article they may bo  
+disposed to send some newspaper, we wonld  
+commend tbe following from .the “ Remin­  
 lscenses &quot; ofT. J. Buckingham “Many  
 who condescend to illuminate the dark  
 world with the fire of tbeir genius through  
@@ -3932,22 +6359,46 @@ knows how many hours the compositor,
 and after him the proof-reader, is compell- (  
 ed to spend in reducing to a readable con- ,  
 dition manuscript that tho writer himself t  
-would be puzzled to read.” 
+would be puzzled to read.” t  
+This, in whole or in part, will apply to at  
+least two-thiffds of the writers for the press. ,  
+Genius is too apt to consider itself too E  
+good to be troubled with the labor of finish­  
+ing its work, notwithstanding it is the fin- t  
+ishing hand that gives the master stroke.— .  
+But too frequently, however, it is not lazi- {  
+ness, it is ignorance that compels writers ,  
+to leave their performances half done. Ma­  
+ny who have something of a reputation as  
+authors, can neither punctuate, spell, or  
+write grammatically—to say nothing of  
+tbeir scrawling penmanship. And as  
+might be expected, these are generally tho I  
+ones to find ihe most fault, aud put on the i  
+most disgusting airs—we say disgusting, i  
+because they are to all sensible men* but  
+those who assume them think them digni- &#x27;  
+fied ! It is uo small annoyance to have  
+anything to do with such characters—  
+and we have sometimes wished it was a  
+penal offence to correct an author’s manu­  
+script. But we suppose we shall always  
+be bothered with the stupidity of the wise.  
+—Exchange.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_indianhead_ver01%2Fdata%2Fsn83016368%2F00415627476%2F1866031001%2F0255.jp2/pct:69.017563,65.229414,12.682949,14.825890/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627476:1866031001:0255/pct:68.990121,57.914537,12.705818,33.307611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Baltimore County union._](https://chroniclingamerica.loc.gov/lccn/sn83016368/1866-03-10/ed-2/seq-1)
+## [From _The Baltimore County union._](https://www.loc.gov/resource/sn83016368/1866-03-10/ed-2/?sp=1)
 
 #### 1866-03-10 &middot; [Towsontown, Md.](http://dbpedia.org/resource/Towson%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-1 licenses &quot; ofT. J. Ruckmgham &quot; Many  
+ &quot; Many  
 who condescend to illuminate tbe dark  
 world with the fire of their geoiua through  
 t lie column* of afficwspaper, little think nf  
@@ -3979,62 +6430,55 @@ thor. And no one bat a practical printer
 and after him the proof-reader, is compel!.  
 &#x27; ed to spend in reducing to a readable con  
 dition manuscript that the writer himiAlf  
-! would be puzzled lo read.
+! would be puzzled lo read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_indianhead_ver01%2Fdata%2Fsn83016368%2F00415627592%2F1866031002%2F0040.jp2/pct:68.528962,65.500210,12.617090,14.995797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627592:1866031002:0040/pct:68.514624,65.489702,12.617090,14.992294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The weekly Panola star._
+## [From _The weekly Panola star._](https://www.loc.gov/resource/sn83016951/1866-03-31/ed-1/?sp=1)
 
 #### 1866-03-31 &middot; [Panola, Miss.](http://dbpedia.org/resource/Sardis%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-&quot;I havs seen the signments of  
-lwyers, in high rapute as sthoitis,  
-  
-ent to the Printer in thair t  
-handwriting, with many-espeially  
-feehnieal and foreign terms abbrt  
-lated words mis-spelled, and faw or  
-no points, and these fow, if any, en  
-tirely out of place. I have seen sers  
-mons that were sent to be publisher&#x27;,  
-without points or capitals to desis  
-hats the division of sentences-ssor  
+ out of place. I have seen sers  
+mons that were sent to be publisher,  
+without points or eapitals to desig  
+hate the division of sontences-sof  
 mons which, if published with the  
-imperfectioms of the manusript,  
+imperfections of the manuseript,  
 would have disgraced the suthorr,  
 and the Printer would have been  
 treated with scorn and contempt, as  
-a iiliterats block-head, as a fellow  
-tter fitted to be a wood-sawyer than  
-a Printer. No ons would belleve  
+a illiterats block-head, as a fellow  
+tter fitted to be a wood sawyer than  
+a Printer. No one would belleve  
 that such gross and palpable faults  
 were owing to the ignorance or care  
-lessness of the author. And no ons  
-but a practical Printer knows how  
+lessness of the author. And no one  
+but a practieal Printer knows how  
 many hours the compositor, and after  
-him the proof-reacfor, is compelled to  
+him the proof-reafor, is compelled to  
 spend in reducing to a readable con­  
 dition, manuscripts that the writer  
 himself would be puzrled to read
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016951:00295878046:1866033101:0102/pct:82.554701,21.037234,11.058545,11.289894/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Maryland free press._](https://chroniclingamerica.loc.gov/lccn/sn84026707/1866-05-03/ed-1/seq-1)
+## [From _Maryland free press._](https://www.loc.gov/resource/sn84026707/1866-05-03/ed-1/?sp=1)
 
 #### 1866-05-03 &middot; [Hagerstown [Md.]](http://dbpedia.org/resource/Hagerstown%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-iiigham: &#x27;&#x27;Many who coudescend to illu­  
+: &#x27;&#x27;Many who coudescend to illu­  
 minate the dark world with the tire of their!  
 genius through the column* of a newspa­  
 per little think of the lot of the printer, j  
@@ -4066,21 +6510,46 @@ many hours the compositor, uud after him ;
 the proof reader, is compelled to spend in t  
 reducing to a readable condition uianu- i  
 scripts that the writer hiuisclf would be!  
-puzzled to read.
+puzzled to read.&quot;  
+This, in whole or in part, will- apply to.  
+at least two-thirds of the writers for the :  
+press. Genius is too apt to consider it­  
+self too good to be troubled with the la-:  
+bor of finishing its work, notwithstanding j  
+it is the finishing hand that gives the lints- ;  
+ter stroke. ]sut too frequently, however,  
+it is not laziness, it is igiiorauce that com­  
+pels writers to leave their performances  
+iialf done. Many who have something of  
+a reputation as authors can neither punctu­  
+ate, spell, nor write grammatically—-to j  
+say nothing of their sprawling penman-!  
+ship. Aud, us might be expected, these  
+are generally the ones to find the most  
+fault, and put on the most disgusting, airs  
+—we say disgusting, because they are so|  
+to all sensible men—but those who assume  
+them tliiuk them dignified ! It is nosmall  
+annoyance to havo anything to do with  
+such characters—and we have sometimes  
+wished it was a penal offense to correct an  
+author&#x27;s manuscript. But we suppose we  
+shall always be bothered with the stupidi­  
+ty of the wise.—Exchange.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_kale_ver01%2Fdata%2Fsn84026707%2F00296029944%2F1866050301%2F0069.jp2/pct:57.161125,14.602771,12.976495,18.476110/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn84026707:00296029944:1866050301:0069/pct:57.161125,14.602771,13.006942,32.612383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Des Arc citizen._](https://chroniclingamerica.loc.gov/lccn/sn89051370/1866-05-12/ed-1/seq-1)
+## [From _Des Arc citizen._](https://www.loc.gov/resource/sn89051370/1866-05-12/ed-1/?sp=1)
 
 #### 1866-05-12 &middot; [Des Arc, Ark.](http://dbpedia.org/resource/Des_Arc%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+;  
 “I have seen the arguments of lawyers, In  
 high reput e as scholars, sunt to the printer  
 in their own hand-writing, with many—capo-&#x27;  
@@ -4103,60 +6572,106 @@ knows how many hours the compositor, and
 afierhim the proof-reader, is compelled to.  
 spend in reduebig to readeble condition,  
 manuscripts that the writer himself would be  
-puzzled to re»*I
+puzzled to re»*I.  
+Tr.c above, in whole or in pail will, apply  
+to al leant two-ihirtls of the writ ova tor too  
+press. Many who have something of a repu­  
+tation as authors, can neither punctuate, spell  
+or write gramiuatiealy to say nothing ot their  
+sprawling pen-ut»nfthip., And, as might be  
+expected these are generally the ones that Uni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_dragonair_ver01%2Fdata%2Fsn89051370%2F00414212578%2F1866051201%2F0047.jp2/pct:78.616601,77.859981,14.807312,11.265242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051370:00414212578:1866051201:0047/pct:78.632141,77.870649,14.844831,14.867087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Louisiana Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82003389/1866-05-16/ed-1/seq-3)
+## [From _The Louisiana Democrat._](https://www.loc.gov/resource/sn82003389/1866-05-16/ed-1/?sp=3)
 
 #### 1866-05-16 &middot; [Alexandria, La.](http://dbpedia.org/resource/Alexandria%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-visit have seento the Capital. Since their arrival is  
-in high repute as stuck clcholars, sent to them tn a TI  
-teroin their own hand a olowritigd brother an  
-especiallycks to ehnical and foBureau.i terms-ucab­  
-breviated words mis-spelled, and few or no s  
-points, and these fewlunkyis if any, raentirely outseen, l  
-of place. I have seen sermons that wte twoe  
-young gsent to be publishe(and quwithout points or cap  
-itals to designate they are,) on a sofa in of sentencesar of  
-sermonser, whilch, if publisher did with the im­  
-Sperfections ofand then took his seat. Enter, in  
+breviated words mis-spelled, and few or no  
+Senate of the United States,-though we  
+erally say England, or the English pe  
+ple. You may see that I wear gaiters  
+ce ther  e teng o much su  
+e  o  e o­  
+sermons which, if published with the im  
 disgraced the authors, and the printer  
-would have been treated with scorn and t  
-conteimpressively, as an illiter&#x27;sate block-headry, asnd a,  
-hands fellow book and dummy letter tted to be a wood-sawyerum- Si  
-than a printer. SumNo one would believe thate Secretary behind  
-such gross and palpable faults were owing s  
-him, after the ignorance or of Pdcarelessness of thVisible thau­  
-sensation on the sofa. Young Englishmen th  
-evidenthor. And no one but a practical pman rises ande  
-talknows abhow many hoursut the comporinderpest, and the slagitor,- a  
-and after him thetac promb of ox-reader, is compeed  
-to speland in &quot;Wlreducing to a readable condi­  
-tion, manuscripts that thein&quot; repliader himselfrman.  
-would be puzzled the satisfied Sumner, and aread
+would have been treated with scorn and  
+broke into a broad smile when Sumner fol  
+owed erman in a sa c on tee  
+inderpest.  
+such gross and palpable faults were owing  
+a e e eo oe­  
+sensation on the sofa. Young Englishmen  
+are inclined to grumble because slight mis  
+take ma haen to er in an ee  
+written article we would recommend the  
+following from the New York Day-Book:­  
+end in reducing to a readable cond
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_gambit_ver01%2Fdata%2Fsn82003389%2F00280761874%2F1866051601%2F0383.jp2/pct:16.596802,38.494448,13.320913,23.571356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gambit_ver01:data:sn82003389:00280761874:1866051601:0383/pct:16.596802,38.494448,13.320913,23.571356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The weekly standard._](https://chroniclingamerica.loc.gov/lccn/sn87090179/1866-05-26/ed-1/seq-1)
+## [From _The Louisiana Democrat._](https://www.loc.gov/resource/sn82003389/1866-05-16/ed-1/?sp=3)
+
+#### 1866-05-16 &middot; [Alexandria, La.](http://dbpedia.org/resource/Alexandria%2C_Louisiana)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+ to be published withont points or car­  
+itals to designate the division of sentences­  
+  eaate e ae o ee e  
+which is no small annoyance, and we have  
+ee o e e o a  
+  
+ee a a ee e e e  
+broke into a broad smile when Sumner fol  
+fellow better fitted to be a wood-sawyere  
+e 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gambit_ver01:data:sn82003389:00280761874:1866051601:0383/pct:16.426021,47.224203,13.476168,22.440664/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The weekly standard._](https://www.loc.gov/resource/sn87090179/1866-05-26/ed-1/?sp=1)
 
 #### 1866-05-26 &middot; [Port Gibson, Miss.](http://dbpedia.org/resource/Port_Gibson%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+, welfare and happiness  
+Govern- commua » 3 .  
+of the who e coun &#x27; •  
+hfew ANDREW JOHNSON,  
+were  
+It  
+j  
+fire  
+the  
+of  
+President.  
   
+thus  
+that  
+Washihgtbn, D. C., May 15, 1866.  
+Authors and Printers —To those  
+w ho arc inclined to grumble because  
+6 p g ht mistakes occur in an illegibly  
+written article we would respectfully  
+of reC ommerid the following from the New  
+York Day Book:  
 j Hase seen the arguments of law­  
 y erS( ih high repfite  
 to printer in their own  
@@ -4201,48 +6716,98 @@ knows how many hours the compositor,
 and after him the proof-reader, is com­  
 pelled to spendin reducing to readable  
 condition, manuscripts that  
-himself would be puzzled to rea 
+himself would be puzzled to rea .  
+The above, in whole or in part, wm  
+apply to at least two-thirds of the  
+ters for the press. Many who ha  
+something of a reputation as authors,  
+can neither punctuate, spel nor wn e  
+grammatically—to say nothing o Jthmr  
+de­  
+in  
+short  
+in­  
+-  
+of  
+it  
+was  
+be expected, these are generally the  
+ones that find the most fault, which is  
+no small annoyance, and we have some­  
+penal offence  
+times wished it were  
+to correct an author&#x27;s manuscript  
+  
+BURNING OF COLUMBIA.  
+here.  
+that as  
+to him,  
+Mr.  
+be  
+LETTE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_ikat_ver01%2Fdata%2Fsn87090179%2F00199917365%2F1866052601%2F0647.jp2/pct:29.001203,67.276596,15.749097,21.542553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_ikat_ver01:data:sn87090179:00199917365:1866052601:0647/pct:26.985560,13.361702,31.513237,83.478723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _American citizen._](https://chroniclingamerica.loc.gov/lccn/sn83016739/1866-06-16/ed-1/seq-4)
+## [From _American citizen._](https://www.loc.gov/resource/sn83016739/1866-06-16/ed-1/?sp=4)
 
 #### 1866-06-16 &middot; [Canton, Miss.](http://dbpedia.org/resource/Canton%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-&quot;I have seen tbe arguments of law  
+on than that the peace you cele  
+brate to day may be perpetual.&quot;  
+AUTHORS AND PrINTers.  To those  
+who are inclined to grumble becau  
+light mistakes may happen to occur in  
+an illegibly written article, we would  
+recommend the following, from the New  
+York Day Book:  
+&quot;I have seen the arguments of law  
 yers, in high repute as scholars, sent to  
-the printer in their own band writing,  
-with many especially technical and lor  
-e:gn ierm abbreviated, misspelled, and  
-wiih few or no points, and these few, if  
+the printer in their own hand writing.  
+with many--especially technical and for  
+eign,-terms abbreviated, misspelled, and  
+with few or no points, and these few, if  
 any, entirely out of place. I have seen  
-sermons tbat were sent to be published,  
+sermons that were sent to be published,  
 without points or capitals to designate  
-the division of sentences sermons which,  
+the division of sentences---sermons which,  
 if published with the imperfections of the  
 manuscript, would have disgraced the  
-authors, and tbe printer would then be  
+authors, and the printer would then be  
 treated with scorn and contempt, as an  
-illiterate blockhead, as a fellow better Ci­  
+illiterate blockhead, as a fellow better fit­  
 ted for a wood sawyer than a printer. No  
-one believes that such groas and palpa­  
+one believes that such gross and palpa­  
 ble faults are owing to the ignorance or  
-carelessness of the author. And bo one  
+carelessness of the author. And no one  
 but a practical printer knows how many  
-boura the compositor, and after bim tbe  
-proof reader, ia compelled to spend in re­  
+hours the compositor, and after him the  
+proof-reader, is compelled to spend in re­  
 ducing to a readable condition, manu­  
-scripts that tbe author himself would be  
-puziled to read
+scripts that the author himself would be  
+puzzled to read.  
+&quot;The above, in whole or in part, will  
+apply to at least two thirds of the writers  
+for the press. Many who have something of  
+a reputation as authors, can neither punctu  
+ate, spell nor write grammatically--to  
+say nothing of their sprawling penman­  
+ship. And, as might be expected, these  
+are generally the ones that find  
+the most fault, which is no  
+small annoyance, and we have sometimes  
+wished it were a penal offence to correct  
+an author&#x27;s manuscript.  
+  
+B. SCheiFLeR,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_icydrop_ver05%2Fdata%2Fsn83016739%2F00295877534%2F1866061601%2F0484.jp2/pct:15.054888,71.757392,15.708312,15.070565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016739:00295877534:1866061601:0484/pct:15.028751,9.627016,28.227914,84.425403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4258,13 +6823,17 @@ puziled to read
 
 ---
 
-## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033371/1866-06-22/ed-1/seq-1)
+## [From _Clarksville weekly chronicle._](https://www.loc.gov/resource/sn85033371/1866-06-22/ed-1/?sp=1)
 
 #### 1866-06-22 &middot; [Clarksville, Tenn.](http://dbpedia.org/resource/Clarksville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+&quot; an illegibly  
+writen article, we commend the following  
+from the Day Book. Read it carefully, ye  
+autbours, and bereuflcr &quot; git the devil his  
+due :&quot;  
 &#x27; I have seen the arguments of lawyers in  
 high repute as scholars, sent to tbe printer  
 tu tlteir own band writing witn many,  
@@ -4287,60 +6856,167 @@ practical printer knows bow many bours&#x27;the
 compositor, and after bim the proof-reader,  
 is compelled to spend in reducing to a reada  
 ble condition, manuscrips that the writer  
-himself would be puzzled to read
+himself would be puzzled to read,  
+Tbe above in whole or in part, will apply to  
+at least two-thirds ot tbe writers for tbe  
+press. Uany who have something of a rep­  
+utation as authors, can neither punctuate,  
+spell or write gramatically, to say nothing  
+of their sprawling pennmausbip. And as  
+might be expected, these are generally the  
+ones that find tbe most fault which is no  
+small annoyance, and we have sometimes  
+wished it were penal offence to correct an  
+authors s manuscript  
+F, S. Ilciskcll, in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn85033371%2F00212470302%2F1866062201%2F0105.jp2/pct:50.893647,55.926923,11.236949,10.720861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033371:00212470302:1866062201:0105/pct:67.816702,70.599065,15.003539,26.426852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wheeling daily register._](https://chroniclingamerica.loc.gov/lccn/sn84026847/1867-01-15/ed-1/seq-2)
+## [From _Weekly progress._](https://newspapers.digitalnc.org/lccn/sn83025814/1866-12-13/ed-1/seq-3/)
+
+#### 1866-12-13 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+- be-done riifht here if misery.! and even death,  
+does !not Invade and sweep away. whole house-4  
+- holds t dependent i out. 3.&#x27; - Shall &quot;this? bo r the  
+tease t ! Iv.&#x27;--&#x27;. n-:.Yi.  
+i t AijTiiOES AKDPnTSTEns.-Tothosevvho are  
+&#x27; inclined to grumble because a --slight v. mistake  
+may;accidently occur &#x27;in an illegibly .&#x27;written  
+. aflTtHe we vuld recommend - the following  
+from an exchange : &quot; &quot;: . , &#x27;  
+&quot;I have $eeu the arguments - .of . lawyers, in  
+high repute as ,5hplars, sent to-the printer in i  
+-1 ucjr o svn iiana w run i, wiin many especi ai iyr  
+technical and i foreign terms-abbrevia ted  
+words misspelled, and fewor no points, and  
+these lew, if any, entirely out of place., I have  
+seen Eermobs tha were sept to , be .published,  
+without poior capitals to desHTnatethe;di-.  
+vision!of .senlebcec: 5erraoDS .wich, if &#x27; pub-.  
+iis;i?a wiui tne mpenecijons oi t:ie manu­  
+script, would have disgraced the authors, and  
+the piirfcr woukl have been treated with.  
+scorn $Dd contempt as.-an illiterate bloclrbead,  
+as-a fepow better fi.ted ,to be a wood-sawyer  
+than a! printer. Ko ore would believe tnat  
+Eiich gross end palpable faults were owing to  
+tie isijjoianoe or carelessness of the. author.  
+A no one hot a prac. &quot;cal printer knows how,  
+mjan.y hours the comporitor, and after him fho  
+prjoo&#x27;l&#x27;-ijeader is compelled to spend in reducing  
+to a rebc&#x27;ab&#x27;e eoedit&#x27;oa, manusciipts that the  
+w: Iter lii nuef would bepuzz&#x27;ed to read. The  
+above n vholp Oi  
+le!i2i t W o it tv rd s o t  
+r in part, wul apply to at  
+t lie writers tor the press.  
+Many who! have something of a reputation as  
+rnthoik c.in-neithet punciucte, spell or write  
+grammatically to say nQihiug of their sp.aw­  
+Tng pciflminship, Ar.d as mght be expected  
+these &#x27;are genera1! v the ones ihat find the most  
+ljult
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WeekPR1n_ver01%2Fdata%2F1866121301%2F0305.jp2/pct:3.757669,20.073164,15.541922,20.298283/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Wheeling daily register._](https://www.loc.gov/resource/sn84026847/1867-01-15/ed-1/?sp=2)
 
 #### 1867-01-15 &middot; [Wheeling, W. Va.](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ in which char-­  
+acter he excels. &quot;Jenny Lind&#x27; con-­  
+cludes the performance.  
   
-&quot;I have seen the arguments of law­  
-yers, in high repnte as scholars, sent to  
+Anthors and Printers.  
+To those who are inclined to grumble  
+because a slight mistake may acciden  
+tally occur in an illegibly written ar  
+ticle we would recommend the follow-­  
+ing from an exchange:  
+&quot;I have seen the arguments of law-­  
+yers, in high repute as scholars, sent to  
 the printer in their own hand writing,  
-with luirtiy ? especially technical and  
-foreign terms ? abbreviated words mis­  
-spelled. and few or no poins, and these  
-few. if any, out of place. I have seen  
-sermons that were seut to be published  
+with many--especialty technical and  
+foreign terms-abbreviated words mise­  
+spelled, and few or no poins, and these  
+few, if any, out of place. I have seen  
+sermons that were sent to be published  
 without points or capitals to designate  
-the division of sentences ? sermons  
-which, if published with the iinpcrfec­  
-tious of the manuscript, would have  
+the division of sentences,-sermons  
+which, if published with the imperfec-­  
+tions of the manuscript, would have  
 disgraced the authors, and the printer  
 would have been treated with scorn and  
 contempt as an illiterate blockhead, as  
-a fellow better fitted to be a wood-saw­  
-yer than a printer. No one wonld be­  
+a fellow better fitted to be a wood-saw-­  
+yer than a printer. No one would be­  
 lieve that the ignorance or carelessness  
-of the author cansed it. And no one  
+of the author caused it. And no one  
 but a practical printer knows how  
-many hoars the compositor, and afte.­  
+many hours the compositor, and after­  
 him the proof-reader is compelled to  
-spend in reducing it to a readable cou­  
-ditiou, manuscript that the writer him­  
-self would l?e puzzled to read. Th
+spend in reducing it to a readable con­  
+dition, manuscript that the writer him­  
+self would be puzzled to read. The  
+above in whole or in part, will apply to  
+at least two thirds of the writers for the  
+press. Many who have something of a  
+reputation as authors, can neither  
+punctuate, spell or write gramatically  
+-to say nothing of their sprawling  
+penmanship. And as might be expect­  
+ed these are generally the ones that  
+find the most fault, which is no small  
+annoyance, and we have wished it were  
+a penal offense to correct an author&#x27;s  
+manuscript.&quot;  
+Two New and Benntifu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_chekhov_ver01%2Fdata%2Fsn84026847%2F00415665040%2F1867011501%2F0052.jp2/pct:15.249848,64.469097,12.213081,13.953161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665040:1867011501:0052/pct:15.122893,59.172390,12.380662,25.525621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The Dallas daily herald._
+## [From _The Dallas daily herald._](https://www.loc.gov/resource/sn83025733/1873-10-05/ed-1/?sp=1)
 
 #### 1873-10-05 &middot; [Dallas, Tex.](http://dbpedia.org/resource/Dallas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+h it, the wagon upsef  
+and Judge Garrett and one child, and  
+Mr. Jones, with two children, were  
+drowned. Mrs, Jones and Mrs, Gnr­  
+rett with the balance of their families  
+were saved. Had they remained at  
+their houses they would have been safe,  
+as the water did not get into them.  
+The Dispatch gives a list of those  
+rendered houseless by this disastrous  
+flood, and also of the business houses  
+that were washed away. There  
+but one store left in town, and  
+goods in that were dailaged.  
+total loss is estimated at $75,000,  
+Was  
+the  
+The  
+Printers and Printing.  
+The late T. J. Buckingham, in his  
 twenty years ago in the Boston Cour­  
 ier, speaks of the importance of prin­  
 ters to authors, in the following terms:  
@@ -4381,18 +7057,39 @@ tor, and after him the proof reader, are
 compelled to spend in reducing to a  
 readable condition manuscript that  
 the author himself would be puzzled to  
-read.
-</td></tr></table>
+read.&quot;
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297520:1873100501:0839/pct:30.786656,23.760974,12.294069,29.000283/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _The Dallas weekly herald._
+## [From _The Dallas weekly herald._](https://www.loc.gov/resource/sn84022279/1873-10-11/ed-1/?sp=1)
 
 #### 1873-10-11 &middot; [Dallas, Tex.](http://dbpedia.org/resource/Dallas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ntleman said that the great mistake  
+in America was leniency. &quot;Would you  
+believe it? said he, we caught a rascal  
+in America the other day, whom we  
+ought immediately to have burned,  
+and we only hung him. But we are  
+coming to our senses, and are now  
+making arrangements to burn certain  
+men for whom the gallows is to  
+good.&quot;  
+&quot;Will thee be good enough to tell  
+me the name of the American gentle­  
+man who made that remark to thee?&quot;  
+said the Quakeress.  
+&quot;Ah--yes,&quot; said the warder reflect  
+ively, &quot;let me see--it was a Mr. Mark  
+Twain.&quot;  
+Printers and Printing.  
+The late T. J. Buckingham, in his  
 twenty years ago in the Boston Cour­  
 ier, speaks of the importance of prin­  
 ters to authors, in the following terms:  
@@ -4434,18 +7131,21 @@ tor, and after him the proof reader, are
 compelled to spend in reducing to a  
 readable condition manuscript that  
 the author himself would be puzzled to  
-read.
-</td></tr></table>
+read.&quot;
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022279:00200296552:1873101101:0387/pct:50.072516,52.942802,10.804931,26.941144/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061082/1873-10-25/ed-1/seq-1)
+## [From _Clarksville weekly chronicle._](https://www.loc.gov/resource/sn88061082/1873-10-25/ed-1/?sp=1)
 
 #### 1873-10-25 &middot; [Clarksville, Tenn.](http://dbpedia.org/resource/Clarksville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+. Chabitt.  
 Printers and Printing.  
 The late J. T. Buckingham, in his  
 &#x27;Reminiscences,&#x27; published about twen  
@@ -4471,21 +7171,8 @@ no points.
 I have seen the sermons of divines  
 sent to the printer without points or  
 capitals to designate the division of  
-sentences sermons which, if publishe
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061082%2F00212470314%2F1873102501%2F0380.jp2/pct:85.905547,71.273743,9.916139,11.273743/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061082/1873-10-25/ed-1/seq-1)
-
-#### 1873-10-25 &middot; [Clarksville, Tenn.](http://dbpedia.org/resource/Clarksville%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+sentences sermons which, if published  
+with the imperfections of the manu  
 script, would disgrace the printers  
 devil if he were the author. Suppose  
 they had been printed; the printer  
@@ -4503,15 +7190,150 @@ after him the proof-reader, are com
 pelled to spend in reducing to a read  
 able condition,- manuscript! that the  
 author himself would be puzzled to  
-read.&quot;- . : , 
+read.&quot;-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_homer_ver01%2Fdata%2Fsn88061082%2F00212470314%2F1873102501%2F0380.jp2/pct:85.905547,82.994413,9.842578,7.597765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061082:00212470314:1873102501:0380/pct:114.485294,93.687151,13.220588,26.983240/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Newtown bee._](https://chroniclingamerica.loc.gov/lccn/sn92051487/1879-04-15/ed-1/seq-1)
+## [From _The Huntingdon journal._](https://panewsarchive.psu.edu/lccn/sn83032115/1874-01-21/ed-1/seq-1/)
+
+#### 1874-01-21 &middot; [Huntingdon, Pa.](http://dbpedia.org/resource/Huntingdon%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ States.  
+  
+Printing and Printers  
+  
+The late T. J. Buckingham, in his  
+&quot;Reminiscences,&quot; published about twenty  
+years ago in the Boston Courier, speaks of  
+the importance of printers to authors in  
+the following terms :  
+Many who condescend to illuminate the  
+dark world with the fire of their genius,  
+through the columns of a newspaper, little  
+think of the lot of the printer, who almost  
+suffocated by the smoke of a lamp sits up  
+till midnight to correct their false gram­  
+mar, bad orthography, and worse pronuncia­  
+tion. rhave very often seen the argu­  
+ments of lawyers in high repute as schol­  
+ars sent to the printer in their own hand  
+writing, with many words, and especially  
+technical and foreign terms, abbreviated,  
+words misspelled, and a few or no points.  
+I have seen the sermons of divines sent  
+to the printer without points or capitals, to  
+designate the divisions of sentences—ser­  
+mons, which, if published with the imper­  
+fections of the manuscript, would disgrace  
+the printer&#x27;s devil if he were the author.  
+Suppose they had been printed ; the print­  
+er would have been treated with scorn  
+and contempt, as an illiterate blockhead—  
+as a fellow better fitted to be a wood saw­  
+yer than a professor of the art of printing.  
+Nobody would have believed that such  
+gross and palpable faults were owing to  
+the ignorance and carelessness of the au­  
+thor. And nobody but a practical print­  
+er knows how many hours the compositor  
+and after him the proof-reader are com­  
+pelled to spend in reducing to a readable  
+condition, manuscript that the author him­  
+self would be puzzled to read.
+</td></tr></table>
+
+---
+
+## [From _North Texas enterprise._](https://texashistory.unt.edu/ark:/67531/metapth912906/m1/3)
+
+#### 1874-02-27 &middot; [Bonham, Tex.](http://dbpedia.org/resource/Bonham%2C_Texas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+tore next to Aber-  
+nathy west of tho square where he  
+is going to keep a big stock of the  
+delicacies of tii» market Go and  
+seo t im  
+—    flTe received the proceedings  
+of a bar meeting in regard to tho  
+judgeship just as we were going to  
+press with our last iesuo and could  
+not publish it last week and it is  
+now too old We also learn that  
+there y sojri£ quarrel among the fra-  
+ternity in regard tcMho matter  
+“ O children you should never let  
+Your angry passions rtso  
+Your htt e hands wore never mode  
+To scratch each other’s eyes ”  
+Printers and Fbintinq —TJjje late  
+T J Buckinham in his twenty  
+years auo in the Boston Courier  
+speaks of tho importance of printers  
+to authors in the fifHowin terms  
+• Many Who condescendto illumin-  
+ate the dank ifrorld with lid lire of  
+their’genii through he coluhins of  
+a no wiMper little think of tho lot  
+of the m inter who almost suffoca  
+Todbj t Ji i jaolfe o a lamp sits up  
+till Ihidnight to correct their false  
+grammar bn j orthography and  
+worse rlun tajgtion  
+I bavS Sehn the arguments of law-  
+yers’in high repute as scholars sfe’ni  
+to he printer n their ov       
+wqrds and os  
+id foreign terms  
+rds misspelled and  
+few or h6 points  
+as u1 j_____  
+SHOUTS  
+VI O I M    l nuu MW  
+o tli e1 printer In their own hand  
+wriling With many wqrds and  
+peoially technical and foreign  
+aobreviated words misspelled  
+few or hA points  
+I have eeen tjhe sermons of divines  
+sent to the printer without points  
+16 designate the division of senten-  
+ces—serfdoms w niCh If published  
+with imperfections 6 the manuscript  
+would ’aiWrjice fhe printer s devil if  
+he were the author  
+1 Suppose tf y diad been printed  
+the printer would have been treated  
+with scorn nd contempt as an illit-  
+erate blockhead as a follow better  
+fitted toPefa sawyer of wood than k  
+profossor of the 4rt of printing  
+Ifobody would have believed that  
+such gfoss and palpable faults wbr e  
+owing to the‘ignorando and care  
+lessnoas of the author Andnobody  
+but the practical prihter knows how  
+tnany hoots the 0ovipositor and  
+lifter him the proof reader are com-  
+pelled to spend in reducing to a  
+readable condition manuscript that  
+the author himself would bopitfzlqd  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth912906/m1/3/pct:10.733333,8.980213,20.400000,83.206494/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Newtown bee._](https://www.loc.gov/resource/sn92051487/1879-04-15/ed-1/?sp=1)
 
 #### 1879-04-15 &middot; [Newtown, Conn.](http://dbpedia.org/resource/Newtown%2C_Connecticut)
 
@@ -4562,68 +7384,127 @@ printer knows how many hours the com­
 positor, and after him the proofreader, is  
 compelled to spend in reducing to reada­  
 ble condition manuscript that often writ­  
-ers themselves would be puzzled to read
+ers themselves would be puzzled to read.  
+-Ex.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_maple_ver01%2Fdata%2Fsn92051487%2F00271763190%2F1879041501%2F0056.jp2/pct:49.520437,71.037933,11.273425,24.389109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763190:1879041501:0056/pct:65.988201,94.717245,15.029499,33.092855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The People's vindicator._
+## [From _The People's vindicator._](https://www.loc.gov/resource/sn85038558/1879-04-19/ed-1/?sp=4)
 
 #### 1879-04-19 &middot; [Natchitoches, La.](http://dbpedia.org/resource/Natchitoches%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-pStulatlen. We have seen the argo­  
-MN of lawyers, in high repute as ac4l­  
-Isr..mto the printer in their. own  
-itIg-msany words, especially  
-tehacal and foreign terms, abbreviated,  
-weds mispelled, and few or no points,  
+h the hto illaninats this  
+dark world with the fire of their genius,  
+hrough the colunins of a newspaper, lit.  
+tle think of the lot of the printer, who  
+site up at midnight to correct their false  
+srammar and orthography, and worse  
+punctuation. We have seen the argu­  
+ments of lawyers, in high repute as sekl­  
+rs, sent to the printer in their own  
+ndwriting-many words, especially  
+technical and foreign terms, abbreviated,  
+words mis-spelled, and few or no points,  
 and these few, if any, certainly in the  
 wrong place. We have seen the sermons  
 of eminent &quot;divines&quot; sent so the press  
 without points or capitals to designate  
-the dlvisiqa of the, setences; also the  
-letters of the political and seientiic cor  
+the division of the sentences; also the  
+letters of the political and scientific cor  
 respondents. Suppose all these had been  
 so printed, the printer would have been  
-treated with scorn and contempt. No.  
+treated with scorn and contempt. No  
 one would have believed that such gross  
-and palpable faults wee&#x27;owing to the  
-igPoraaeoor earelemness of the author;  
-and a4 ene but the practical printer  
+and palpable faults were owing to the  
+ignorance or carelessness of the author;  
+and nof one but the practical printer  
 knows how many hours the compositor,  
-aslaer hlm a proofreader, is compelled  
+and after him a proof-reader, is compelled  
 to spend in reducing to readable condi.  
-tioneasseript that often writers them­  
-selveweoald be pualed to read.-W.od
-</td></tr></table>
+tion manuscript that often writers them­  
+selves would be puzzled to read
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_forge_ver01:data:sn85038558:00280761540:1879041901:0069/pct:6.508876,4.712204,12.697905,17.526093/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _The Middlebury register._
+## [From _The Chatham record._](https://newspapers.digitalnc.org/lccn/sn85042115/1879-04-24/ed-1/seq-1/)
+
+#### 1879-04-24 &middot; [Pittsboro, N.C.](http://dbpedia.org/resource/Pittsboro%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+were, have as  
+many as three men on the staff, and one  
+printer with several type-setters. A small  
+engine runs a press that will print about  
+400 papers an hour. They consider this  
+a big thing in Mexico, and point with  
+wonder at the gigantic enterprise of the  
+company that lias a steam press. A  
+paper of this class sometimes gets an  
+item of news as soon as three days after  
+it happens, and in other ways shows ex­  
+traordinary energy. As only about one  
+in ten persons can read in Mexico, the  
+newspaper business is not one in which  
+monstrous fortunes are accumulated in a  
+few years.  
+Printers aud Printing.  
+Many who condescend to illuminate  
+tii.s dark world with the fire of their  
+genius through the columns of a news­  
+paper little think of the lot of the  
+printer, who sits up at midnight to cor­  
+rect their false grammar and orthogra­  
+phy and worse punctuation. We have  
+seen the arguments of lawyers, in high  
+repute as scholars, sent to the prints!&#x27; in  
+their own handwriting, many words  
+espovially technical and foreign terms  
+abbreviated, words misspelled and few  
+or no points, and these few, if any, cer­  
+tainly in tlie wrong places. We have  
+seen the sermons of eminent &quot;divines&quot;  
+sent to the press without points or capi­  
+tals to designate V:e divisions of the sen­  
+tences; also the letters of the political  
+and scientific correspondents. Suppose  
+all these had been so printed the printer  
+would have been treated with scorn and  
+contempt. No one would havebeliexed  
+that such gross and palpable faults were  
+owing to the ignorance or carelessness ol  
+the author: and no one but the practical  
+printer knows how many hours the com­  
+positor, and after him the proofreader, is  
+compelled to spend in reducing to reada­  
+ble condition manuscript that often writ  
+  
+ers themselves would be puzzled to read.  
+Li.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_PiCR1_ver01%2Fdata%2F1879042401%2F0043.jp2/pct:58.984375,30.319370,12.704613,27.858427/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Middlebury register._](https://www.loc.gov/resource/sn83025667/1879-04-24/ed-1/?sp=4)
 
 #### 1879-04-24 &middot; [Middlebury, Vt.](http://dbpedia.org/resource/Middlebury%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-cents, post-paid, is certainly a marve  
-of cheapness, and should establish an  
-enviable reputation for the publishers  
-if it cannot make their fortune. A  
-ready they report a sale of nearly 60,  
-000 volnmes. It ought to be in every  
-library and home in the land. Speci­  
-men pages and full particulars as to  
-various styles of binding, terms to  
-clubs, etc., will be sent free on request  
-by the publishers, the American Book  
-Exchange, 55 Beekman street, New  
-York. The work is sold only to sub  
+. The work is sold only to sub  
 scribers direct, and the present won  
 derfully low rates are offered only to  
 early purchasers.  
@@ -4659,18 +7540,25 @@ how many hours the compositor, and
 after him the proofreader, is compelled  
 to spend in reducing to readable condi-  
 tion manuscript that often writers them  
-selves would be puzzled to read.
-</td></tr></table>
+selves would be puzzled to read.E  
+The following story now going the  
+rou
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777833:1879042401:0707/pct:27.013177,60.940811,11.035871,18.618449/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _The Louisiana Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82003389/1879-04-30/ed-1/seq-3)
+## [From _The Louisiana Democrat._](https://www.loc.gov/resource/sn82003389/1879-04-30/ed-1/?sp=3)
 
 #### 1879-04-30 &middot; [Alexandria, La.](http://dbpedia.org/resource/Alexandria%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+datson of all the  
+statesmen of the Republic. When we  
+have made for Louisiana the best con  
 stitation in our power to devise, we  
 may safely wait for time to render a  
 just judgment upon our action. Let  
@@ -4707,86 +7595,70 @@ compositor, and after am a proof*
 reader, is eompelled to spend in re­  
 dueing to readable condition mann­  
 script that often writers themselves  
-would be pnzzled to read.--[Wood
+would be pnzzled to read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_beast_ver01%2Fdata%2Fsn82003389%2F00294555158%2F1879043001%2F0567.jp2/pct:16.195373,76.133178,12.853470,20.338785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_beast_ver01:data:sn82003389:00294555158:1879043001:0567/pct:16.195373,74.661215,12.853470,21.810748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Louisiana capitolian._
+## [From _Louisiana capitolian._](https://www.loc.gov/resource/sn88064592/1879-05-10/ed-1/?sp=1)
 
 #### 1879-05-10 &middot; [Baton Rouge, La.](http://dbpedia.org/resource/Baton_Rouge%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, and after­  
-ward hiding them there when the  
-  
-search became so vigorous that he  
-feared detection.  
-When the corn was yellow, and the  
-apples hanging ripe from the trees, a  
-quiet wedding took place in a lovely  
-New York village.  
-&quot;In the dark days did you doubt my  
-innocence?&quot; asked the husband one  
-day.  
-&quot;Never, love. But the shock was  
-so great that I was prostrated, and  
-for months lay near to the door of  
-death. Never speak of it again.&quot;  
-And now the bank has a cashiél  
-who has ever a good word for the  
-outcast, no matter how low, he may be.  
-eoaee  
-PRINTERS AND PRINTING.  
-I Woodcock&#x27;s Newspaper Reporter.  
+] 0  
 Many who condescend to illuminate  
-this dark world with the fire of their  
+this dark world with the fire of their A  
 genius, through the columns of a news­  
-oaper, little think of the lot of the  
-rinter, who sat up at midnight to  
+paper, little think of the lot of the  
+rinter, who sit up at midnight to A  
 correct their false grammar and or­  
-thography, and worse punctuation.  
-We have seen the arguments of law  
+tliography, and worse punctuation.  
+:We have seen the arguments of law- N  
 ers, in high repute as scholars, sent  
-o the printer in their own handwrite  
-ng--many words, especially technical  
+o the printer in their own handwrit- 0  
+ng-many words, especially technical  
 and foreign terms, abbreviated, words  
-nis-spelled, and few or no points,  
-nd these few, if any, certainly in the  
+tnis-spelled, and few or no points, A  
+nmd these few, if any, certainly in the  
 wrong place. We have seen the ser­  
-mons of eminent &quot;divines&quot; sent to the  
+mons of eminent &quot;divines&quot; sent to the I  
 press without points or capitals to  
 designate the division of sentences;  
-also the letters of the political and  
+also the letters of the political nud  
 scientific correspondents. Suppose all  
-these had been so printed, the printer  
+these had been so printed, the printer A  
 would have been treated with scorn  
 and contempt. No one would have  
-believed that such gross and pals  
+&#x27;blieved that such gross and pal&#x27;  
 pable faults were owing to the ig­  
 norance or carelessness of the author;  
-and no one but the practical printer  
+and no one but the practical printer D  
 knows how many hours the composi­  
-tor, and after him a proof-reader, is  
+tor, and after him a proof-reader, is y  
 compelled to spend in reducing to  
 readable condition manuscript that  
-often the writers themselves would be  
-puzzled to read
-</td></tr></table>
+often the writers themselves ý, ould be  
+puzzled to read.  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gambit_ver01:data:sn88064592:00280761862:1879051001:0061/pct:29.348005,24.921891,13.532600,22.703603/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Maryland independent._](https://chroniclingamerica.loc.gov/lccn/sn85025407/1879-05-22/ed-1/seq-4)
+## [From _Maryland independent._](https://www.loc.gov/resource/sn85025407/1879-05-22/ed-1/?sp=4)
 
 #### 1879-05-22 &middot; [Port Tobacco, Md.](http://dbpedia.org/resource/Waldorf%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+   
+Printers ami Printing.  
 Many who condescend to ilinminate  
 ] this dark world with the fire of their  
 ■ genius through the columns of a news­  
@@ -4817,66 +7689,77 @@ j. but the practical printer knows &#x27;how
 y him the proof-reader, is compelled to  
 d spend in reducing to readable condition  
 t manuscript that often writers themselves  
-g would be puzzled to read
+g would be puzzled to read.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_easton_ver01%2Fdata%2Fsn85025407%2F00279522230%2F1879052201%2F0076.jp2/pct:31.796788,65.560810,12.746858,14.732320/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_easton_ver01:data:sn85025407:00279522230:1879052201:0076/pct:41.021788,83.747904,16.453794,20.975405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1879-05-30/ed-1/seq-1)
+## [From _Alexandria gazette._](https://www.loc.gov/resource/sn85025007/1879-05-30/ed-1/?sp=1)
 
 #### 1879-05-30 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-good fetliog prevailed.?BWt Critic  
-Printers and Printing ?Many who oondesoend  
-to illamio&amp;to this dark work with tho  
-fire of their genius through the columns of a  
-newspaper little thiokof the lot of ibo printer  
-who sits op at milnight to correct their falsa  
-grammar and orthography and worse punc&#x27;u \
---- - -C  
+Caleston of fath. The miolstor then pre.  
+the Priestly Blessing and the exercises  
+closed with further music by the choir.  
+When the congregation was dismissed, the  
+confirmants departed for their respective homes  
+and each held an informal reception, their  
+ficade f cling forward to tw end thol n  
+and hest wishes. Refreshments  
+were served in each iostanqe and the utmost  
+good feeling prevailed.-Wosh Critec  
+Tawrens awn Paneriso -Many whe cmn  
+to illuminate this dark work with the  
+fire of their gentus through the columns of a  
+newspaper little think of the lot of the printer  
+who sits up at miinight to correct their false  
+grammir and orthography and worse punc&#x27;n I  
+Ti to o the argumonte of  
   
-tioD. Wo have seen toe arguajuum 01 14VY yui E?|  
-io high repute as sobolars, sunt to the printer  
-io thoir owo baodwritiog, maoy wjrda?especially  
-teoboictl aod foroigo term??abbreviated,  
-words misspelled ood lew or do poiots, and  
-those few, if aoy, oortaioly io the wrong plaoo.  
-We bavo seen tbe sermons of emiaeot diviaos  
-scot to tbe press without poiots or capitals to  
-designate the division of tbe sentences; also  
-tbe letters of tbe political and scientific correspondents.  
-Suppose all these bad beeo so  
-prioted?tbe prioier would have been treated  
-witb scorn and oontempt. No one would have  
+tion. We have seen the arguments of lawyers.  
+in high repute as scbolars, sent to the printer  
+t fhcc and nateitdien any wasir asust  
+technical and foreign terms--abbreviated,  
+words misspelled and lew or no points, and  
+these few, if aoy, certainly in the wrong place.  
+We have seen the sermons of eminent divines  
+sent to the press without points or capitals to  
+designate the division of the sentonces; also  
+the lettern of the poltical and solentiteconen  
+Suppose all these had been so  
+orinted--the printer would have been treated  
+with scorn and contempt. No one would have  
 believed that such gross and palpable faults  
-were owing tbe ignorance or carelessness of tbe  
+were owing the ignorance or careleesness of the  
 author and no one but the practical printer knows  
-bow many hours the compositor, aod af ter him  
-the proofreader, is compelled to spood in reduoirg  
-to readable oooduiou maosonpt that of  
-ten writers themselves would be puzzled to  
+how many hours the compositor, and after him  
+the proof reater, in coupsied to soesdin o  
+to readable condition manscript that of  
+ten writers themselves would be pezaled to  
   
-i read
+read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_gabbana_ver01%2Fdata%2Fsn85025007%2F00415663821%2F1879053001%2F0480.jp2/pct:80.599970,75.562912,18.339171,15.161546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663821:1879053001:0480/pct:80.599970,71.056170,18.948277,19.668287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The weekly Thibodaux sentinel and journal of the 8th Senatorial District._](https://chroniclingamerica.loc.gov/lccn/sn88064492/1879-06-07/ed-1/seq-1)
+## [From _The weekly Thibodaux sentinel and journal of the 8th Senatorial District._](https://www.loc.gov/resource/sn88064492/1879-06-07/ed-1/?sp=1)
 
 #### 1879-06-07 &middot; [Thibodaux, Lna. [i.e. La.]](http://dbpedia.org/resource/Thibodaux%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-as of wealth, a  
+.  
+ideas of wealth, a  
 match was opposed by the father.  
 The consequence was, that the  
 ; young man was forb&#x27;ddeu to visit  
@@ -4935,72 +7818,143 @@ reader, is compelled to spend in
 reducing to readable condition  
 manuscript that often writers  
 themselves would be puzzled to  
-read
+read.  
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_flareon_ver01%2Fdata%2Fsn88064492%2F00295874739%2F1879060701%2F0731.jp2/pct:69.575826,14.621131,26.501502,82.950907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_flareon_ver01:data:sn88064492:00295874739:1879060701:0731/pct:69.575826,14.621131,26.501502,82.950907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Meridional._](https://chroniclingamerica.loc.gov/lccn/sn88064005/1879-06-14/ed-1/seq-2)
+## [From _The Roanoke news._](https://newspapers.digitalnc.org/lccn/sn84026524/1879-06-12/ed-1/seq-3/)
+
+#### 1879-06-12 &middot; [Weldon, N.C.](http://dbpedia.org/resource/Weldon%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+. C.  
+Printers ami Printinh. Many who  
+conddscund lo iiltluiiualo this dark world  
+wiih tho lire of their gonitis tbrotigli tho  
+columns of a newspaper little think ol tbo  
+lot of tho nrinter, who sits up at midnight  
+t correct Ihmrf.ilso grammar U&#x27;ld ortho­  
+graphy and worSo punctuation. Wa havo  
+seen the arguments of lawyers, in high  
+rcptito as scholars, sent to the printer iu  
+their own handwriting, many words  
+ospocUlly technical and foreign terms­  
+abbreviated, words misspelled and few or  
+no points, and tho-.o few, if any, ctrtalnly  
+in tbo wrong places, Wo have seeu the  
+sermons of eminout &#x27;divines&#x27; sent to ll  
+pross without points or capitals to  
+designate tlio divisions of the sentences ;  
+also tho letters of polll Icnl and sclontlfi &#x27;  
+e.vrojpnndont. Suppose all llie;o lis!  
+hoo i so printed the printer would have  
+beon treiited with scorn and conteni t.  
+N i ouo would have believed that such  
+gross and palp thla faults wore owing to  
+tho izuorauce or earelessnirss of Ibe  
+ailhor: ami no ono but tbo practical  
+printer knows how many hours the com  
+positor, ami after him tho proof-reader, i  
+compelled to spend in reducing to road­  
+ablo condition manuscript that often  
+writers thouisulvos would be puzzled to  
+read .  
+A P
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WelRN9n_ver01%2Fdata%2F1879061201%2F0269.jp2/pct:40.734558,44.524436,13.209516,18.468780/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Meridional._](https://www.loc.gov/resource/sn88064005/1879-06-14/ed-1/?sp=2)
 
 #### 1879-06-14 &middot; [Abbeville, La.](http://dbpedia.org/resource/Abbeville%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+mp on the letter.  
+&quot;No-neverdit  
+&quot;Course you never did. It&#x27;s  
+mine. It struck me the other  
+day while I was greasin&#x27; a wagon  
+and I think it&#x27;s boss. Blode up­  
+see? Disfigured for life--see?  
+Picture right here to prove it.  
+and she&#x27;ll write back that she ha  
+at last concluded to yield to her  
+parents&quot; wishes and marry a  
+young man out there who owns  
+eleven steers, hundred sheep and  
+an eighty-acre lot.&quot;  
   
-M.*y who eondescend to ilium­  
-ina this daik wdrk with the fire  
-of eirrgedius .ougi : the col­  
-urrio of a new spaper hittp think  
-of the lot of the printer wvho sits  
-&quot;up at midnight to correct tiueir&#x27;  
-grammar and ord o gapphy an@  
-worse piu(.tuation We hInve  
-seen the aguaimeits of Iawvets, in&#x27;}  
-high mpute as scholars,. sexf to  
-the Printer ih thehr owni bind­  
-wiriting, mnewy&#x27; ordp-especially  
-technical and foreign terms-aly,  
-bireviated, words niisspelled an4d  
-few or&#x27;oo points, and ihese few, if  
-any, certainly in the wrong place..  
-We have seen the sernons of  
-eminent divines sent to the press.  
-withotit points or capitals to  
-designate the di ..of the sen­  
+lecently two young men, while  
+intoxicated, drove a carriages at  
+ break neck pace through the  
+rincipal streets of Edenburg,  
+unre a a o   
+people is that they were not blown  
+to atoms.  
+  
+Printers and Printing.  
+Many who condescend to illum­  
+inate this dark work with the fire  
+of their genius through the col­  
+umus of a newspaper little think  
+of the lot of the printer who sits  
+up at midnight to correct their  
+grammar and orthography and  
+worse punctuation. We have  
+seen the arguments of lawyers, in  
+high cepute as scholars, sent to  
+the printer in their own hand­  
+writing, many words--especially  
+technical and foreign terms--ab  
+breviated, words misspelled and  
+few or no points, and these few, if  
+any, certainly in the wrong place.  
+We have seen the sermons of  
+eminent divines sent to the press  
+without points or capitals to  
+designate the division of the sen­  
 tences; also the letters of the  
-political and scientific correspond.  
-eats. Suppose all these had been  
-so p&#x27;inted-th# printer would  
-have been treated n ith ecorn  
-and contempt. No one would.  
+political and scientife correspond  
+ents. Suppose all these had been  
+so printed,--the printer would  
+have been treated with scorn  
+and contempt. No one would  
 have believed that such gross and  
 palpable faults were owing to  
 the ignorance or carelessness of  
-the author and no. one but the  
+the author and no one but the  
 practical printer knows how  
-many hours &#x27;the conpositor, and  
+many hours the compositor, and  
 and after him the proof reader, is  
 compelled to spend in reducing  
-to readable condjtion manuscript  
-that. o1 ten writers themselves  
-would be ozzled to read.
+to readable condition manuscript  
+that of ten writers themselves  
+would be puzzled to read.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_emmet_ver01%2Fdata%2Fsn88064005%2F00200299036%2F1879061401%2F0309.jp2/pct:55.607083,10.279871,15.261383,29.157696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_emmet_ver01:data:sn88064005:00200299036:1879061401:0309/pct:41.399663,9.068891,29.468803,85.912271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Gold Hill daily news._
+## [From _Gold Hill daily news._](https://www.loc.gov/resource/sn84022046/1879-06-21/ed-1/?sp=3)
 
 #### 1879-06-21 &middot; [Gold Hill, N.T. [Nev.]](http://dbpedia.org/resource/Gold_Hill%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+­  
+vocates of the idea will send for a drill  
 in the course of a few weeks, and the  
 experiment will be tried. We shall be  
 glad to see the scheme put into opera­  
@@ -5037,17 +7991,81 @@ him the proof-reader, is compelled to
 spend in reducing to readable condition  
 manuscript that often writers themselves  
 would be puzzled to read.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279553974:1879062101:0582/pct:56.721249,48.807270,12.476200,18.859649/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1879-07-05/ed-1/seq-1)
+## [From _The Columbia banner._](https://www.loc.gov/resource/sn85032971/1879-07-03/ed-1/?sp=4)
+
+#### 1879-07-03 &middot; [Magnolia, Columbia County, Ark.](http://dbpedia.org/resource/Magnolia%2C_Arkansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+while  
+yet a young woman, when I and my broth­  
+er were small boys, but I remember her  
+face. I was successful in making the  
+side leap of my arms, when I drew my  
+self upon the ledge and rested for a time.  
+From here upward my climbing way was  
+laborious, but less dangerous. I reached  
+the top of the canon just as the sun was  
+sinking down behind the snowy range,  
+and hastened to our camp at the mouth of  
+the canon, where I found my brother all  
+safe. ‘Charley,’ said he, ‘have you had  
+your head in a flour sack V it was then  
+I discovered that my hair was as white  
+as you see it now.”  
+PRINTERS and PRINTING.—Many who  
+condescend to illuminate this dark world  
+with the fire of their genius through the  
+columns of a newspaper, little think of the  
+lot of the printer who sits up at midnight  
+to correct their false grammar and  
+orthography and worse punctuation. We  
+have seen the arguments of lawyers in  
+high repute as scholars, sent to the printer  
+in their own handwriting, many words—  
+especially technical and foreign terms—  
+abbreviated, words misspelled and few, if  
+any, certainly in the wrong place. We  
+have seen the sermons of eminent divines  
+sent to the press without points or capitals  
+to designate the division of the sentences;  
+also the letters of the political and  
+scientific correspondents. Suppose all  
+these had been so printed—the printer  
+would have been treated with scorn and  
+contempt No, one would have believed  
+that such gross and palpable faults were  
+owing to the ignorance or carelessness of the  
+author and no one but the practical printer  
+knows how many hours the compositor,  
+and after him the proof reader, is compell­  
+id to spend in reducing to readable con­  
+dition manuscript that often the writers  
+themselves would be puzzled to read.  
+  
+C
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_epidote_ver01:data:sn85032971:00516990508:1879070301:0115/pct:20.626276,60.841166,14.476968,24.518082/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Democratic advocate._](https://www.loc.gov/resource/sn85038292/1879-07-05/ed-1/?sp=1)
 
 #### 1879-07-05 &middot; [Westminster, Md.](http://dbpedia.org/resource/Westminster%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+e Printer* and Printing.  
 0 Mqqy who condescend to illuminate this  
 ) dark world with the fire of their genius  
 e through ftc columns of a newspaper little  
@@ -5076,20 +8094,49 @@ I and no one but the practical printer knows
 I him tho proof-reader, Is compelled to spend  
 r in reducing to readable condition tnauu­  
 script that often writers themselves would  
-i be puzzled to read
+i be puzzled to read.  
+r For the information of the numismatics  
+th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F0041562380A%2F1879070501%2F0127.jp2/pct:70.486876,56.188797,11.300341,13.831767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562380A:1879070501:0127/pct:70.486876,55.390717,11.280305,16.054642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Belmont chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85026241/1879-07-17/ed-1/seq-1)
+## [From _Willamette farmer._](https://oregonnews.uoregon.edu/lccn/sn85042522/1879-07-11/ed-1/seq-2/)
+
+#### 1879-07-11 &middot; [Salem, Or.](http://dbpedia.org/resource/Salem%2C_Oregon)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+in ideas of  
+wealth a match was opposed by the  
+father. Tho conscqucnco was that the  
+young man was forbidden to visit til  
+employer&#x27;s hotiso. Tho old gentleman  
+was in tho habit of wearing a cloak, and  
+tho young couplo mado him tho innocent  
+bearer of their correspondence, The  
+laily pinned a letter insido tho lining of  
+1110 old mans cloak every day, ana  
+whe
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_alpha_ver01%2Fdata%2Fsn85042522%2F00033872165%2F1879071101%2F0735.jp2/pct:110.720412,82.104430,18.396226,8.734177/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Belmont chronicle._](https://www.loc.gov/resource/sn85026241/1879-07-17/ed-1/?sp=1)
 
 #### 1879-07-17 &middot; [St. Clairsville, Ohio](http://dbpedia.org/resource/St._Clairsville%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
+  
+Printers and Printing.  
   
 Many of those who condescend to il­  
 luminate this dark world with the fire  
@@ -5111,15 +8158,17 @@ many hours the compositor and the
 proof reader aro compelled to spend in  
 reducing to readable condition manu­  
 script that often the authors themselves  
-find it puzzling to read.
+find it puzzling to read.  
+  
+M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_feste_ver01%2Fdata%2Fsn85026241%2F00280775253%2F1879071701%2F0345.jp2/pct:72.709709,82.910834,10.755112,9.900366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775253:1879071701:0345/pct:96.925306,109.824694,14.327109,14.957750/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1879-07-17/ed-1/seq-1)
+## [From _The Pulaski citizen._](https://www.loc.gov/resource/sn85033964/1879-07-17/ed-1/?sp=1)
 
 #### 1879-07-17 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
 
@@ -5179,9 +8228,10 @@ positor, and after -him the proof­
 reader, is compelled to spend in re­  
 ducing to readable condition manu­  
 script that often writers themselves  
-would be puzzled to read
+would be puzzled to read.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020539%2F1879071701%2F0536.jp2/pct:63.178295,69.248396,9.772979,26.260312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020539:1879071701:0536/pct:63.178295,69.248396,9.772979,26.947754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5197,13 +8247,29 @@ would be puzzled to read
 
 ---
 
-## [From _The state rights democrat._](https://chroniclingamerica.loc.gov/lccn/sn84022644/1879-08-15/ed-1/seq-2)
+## [From _The state rights democrat._](https://www.loc.gov/resource/sn84022644/1879-08-15/ed-1/?sp=2)
 
 #### 1879-08-15 &middot; [Albany, Linn County, Oregon](http://dbpedia.org/resource/Albany%2C_Oregon)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+cer  
+tainly aurpaasiug.inat of 1S7S.  
+lb Trial f Jearaellta.  
+Young cnUinsiast ia a ion rat!: tic career,  
+aad tboa who oocasiooaiiy condescend to il­  
+luminate this dark world with the fire of  
+their genius turoojjli tha columns af a nears­  
+paper, little tbiok of tlte lot of tha printer,  
+who ait up at midnight to correct their  
+grammar, faulty in ortbograpoy, aod worse  
+ia punctuation. Wa have ma the argu­  
+ment of conDKilors, in high repute scholars,  
+teat to the printer ia tlnir owa handwriting,  
+with many ward eapocially technical and  
+farija term abbreviated. mUipebed, and  
+a fw or 00 puiuU, and thru, if any, cer­  
+tainly misplaced. Wa hava n tha ser­  
 mons of eminent divise ant to th press  
 niiun point or capital to designate the di­  
 vision of tbe sentence; alto the letters of  
@@ -5218,22 +8284,22 @@ bow aiony hours tha compositor and the
 proof-reader are compelled to spend in re­  
 ducing to readable condition manuscript that  
 often the author themselves might find it  
-puzzling to read
+puzzling to read.  
+THK 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_ireland_ver01%2Fdata%2Fsn84022644%2F00295867553%2F1879081501%2F0852.jp2/pct:72.318886,56.038080,10.882632,7.929056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:00295867553:1879081501:0852/pct:96.268185,61.398018,14.626818,25.521648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1879-08-20/ed-1/seq-1)
+## [From _Green-Mountain freeman._](https://www.loc.gov/resource/sn84023209/1879-08-20/ed-1/?sp=1)
 
 #### 1879-08-20 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-resources together before striking.  
+.  
 Printers and Printino. Many who  
 condescend to illummato this dark world  
 with the fire of their genius through tho  
@@ -5263,22 +8329,22 @@ hours the compositor, and after him the
 proof reader is compelled to spend in re  
 dnoing to readable condition, manuscript  
 tbat often writers themselves would bo  
-puzzled to read
+puzzled to read.  
+T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ira_ver01%2Fdata%2Fsn84023209%2F00202197486%2F1879082001%2F0323.jp2/pct:48.938992,61.973610,11.083744,14.654688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023209:00202197486:1879082001:0323/pct:65.227273,84.517125,14.753788,19.174621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The interior journal._
+## [From _The interior journal._](https://www.loc.gov/resource/sn84038328/1879-08-29/ed-1/?sp=4)
 
 #### 1879-08-29 &middot; [Stanford, Ky.](http://dbpedia.org/resource/Stanford%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-about the rest of his life. There is no  
+ rest of his life. There is no  
 extra charge for a stroke of lightning,  
 except, of course, the regular electric  
 charge of the clouds. Detroit Free  
@@ -5288,18 +8354,15 @@ Many of thoso who condescend to
 illuminate this dark world with the  
 fire of their cenlus through the eol  
 umns of a newspaper little think of  
-the lot of the printer, who sits up a
-</td></tr></table>
-
----
-
-## From _The interior journal._
-
-#### 1879-08-29 &middot; [Stanford, Ky.](http://dbpedia.org/resource/Stanford%2C_Kentucky)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+the lot of the printer, who sits up at  
+midnight to correct their grammar,  
+faulty in orthography and worse in  
+mnents of counsellors, in high repute,  
+sspelle  
+no points, and these few, if any, cer.  
+ e oe  ee eee e o e   
+fainly misplaced. We have seen the  
+ignate the divisions of sentences; also  
 the letters of political and scientific  
 correspontents.  
 Suppose all these had been so print  
@@ -5315,17 +8378,25 @@ to spend in reducing to readable con
 dition manuscript that often the au  
 thors themselves might find it puzzling  
 to read.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fernico_ver01:data:sn84038328:00280763779:1879082901:0159/pct:27.189409,71.874507,10.957230,23.569289/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _The Cambria freeman._](https://chroniclingamerica.loc.gov/lccn/sn83032041/1879-09-26/ed-1/seq-1)
+## [From _The Cambria freeman._](https://www.loc.gov/resource/sn83032041/1879-09-26/ed-1/?sp=1)
 
 #### 1879-09-26 &middot; [Ebensburg, Pa.](http://dbpedia.org/resource/Ebensburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ w  
+the coin  
+savs au  
+ith the fire of a genius through  
+umns of a newsnaner little think, i  
+. 1 1.  
 exchange, of the lot of the prui-  
 tor. who sits up at mm night to correct i  
 their false grummer an 1 orlhography  
@@ -5356,21 +8427,38 @@ le ! compositor, and after him the proof
 reader, is compelled to spend in reducii:  
 to readable condition manuscript that  
 often the writers themselves would lie  
-puzzled to read
+puzzled to read.  
+A mon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kern_ver01%2Fdata%2Fsn83032041%2F00212477710%2F1879092601%2F0290.jp2/pct:61.277818,81.168984,12.318737,12.715060/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477710:1879092601:0290/pct:81.659013,106.999764,16.417910,19.432006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Butler citizen._](https://chroniclingamerica.loc.gov/lccn/sn86071045/1879-10-08/ed-1/seq-1)
+## [From _Butler citizen._](https://www.loc.gov/resource/sn86071045/1879-10-08/ed-1/?sp=1)
 
 #### 1879-10-08 &middot; [Butler, Pa.](http://dbpedia.org/resource/Butler%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+perhaps, which alone  
+touch the issue, [ catch their precise  
+meaning, and if I do not get that  
+dearly I stop him until 1 do. It is  
+rare that 1 need go over that instru­  
+ment again. So 1 have acquired, 1  
+hardly know how, except by practice  
+—by training—the faculty of taking  
+tin iufmense record of five hundred or  
+one thousand pages, and turning at  
+once to the parts, whether of pleading,  
+of evidence, or whatever it may IK?,  
+and in one-third the time it took me  
+when I first went on the bench, I  
+gather the materials for my judgment  
+without digesting a mass of useless  
+chaff.  
 I&#x27;ItINTBRS AND I&#x27;RINTING.—Many  
 who condescend to illuminate this dark  
 world with the fire of genius through  
@@ -5402,15 +8490,62 @@ many hours the compositor, and after
 him the proof-reader, is compelled to  
 spend ill reducing to a readable condi­  
 tion manuscripts that the writers them­  
-selves would be puzzled to read
+selves would be puzzled to read.  
+AN Indiana paper tells the following  
+about a minister who was officiating in  
+the tow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_erie_ver02%2Fdata%2Fsn86071045%2F00296026475%2F1879100801%2F0021.jp2/pct:83.968276,68.458429,10.933296,15.863651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026475:1879100801:0021/pct:83.939952,59.696274,10.975782,26.406643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The post._
+## [From _The post._](https://www.loc.gov/resource/sn84026106/1879-11-06/ed-1/?sp=1)
+
+#### 1879-11-06 &middot; [Middleburg, Snyder County, Pa.](http://dbpedia.org/resource/Middleburg%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+at to the printer in th  
+handwriting, many wor ds-es  
+  
+ly technical and foreign  
+abreviated, words mispelled  
+or no points, and these few,  
+cortinly in the vrong pla  
+have seen the sermons of  
+livines sent to the press  
+points or capitals to desigt  
+  
+and  
+  
+lation.  
+if law.  
+  
+el Owll  
+special-  
+terms  
+and few  
+if any.  
+es. We  
+eminent  
+without  
+ate the  
+  
+fivions of the sentences, also the  
+letters of the political and scientific  
+correspondents. Suppose all thes  
+had been so printed--the printer
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn84026106:00280776567:1879110601:0863/pct:52.407592,53.845014,12.447552,9.512520/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The post._](https://www.loc.gov/resource/sn84026106/1879-11-06/ed-1/?sp=1)
 
 #### 1879-11-06 &middot; [Middleburg, Snyder County, Pa.](http://dbpedia.org/resource/Middleburg%2C_Pennsylvania)
 
@@ -5429,17 +8564,36 @@ knows how many hours the composi
 tor, and after him the proof-reader,  
   
 eMAtIs
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn84026106:00280776567:1879110601:0863/pct:52.407592,48.273818,16.923077,19.647355/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _The Pascagoula democrat-star._
+## [From _The Pascagoula democrat-star._](https://www.loc.gov/resource/sn87065532/1880-01-09/ed-1/?sp=1)
 
 #### 1880-01-09 &middot; [Pascagoula, Miss.](http://dbpedia.org/resource/Pascagoula%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ctober, continuing 6 days.  
+,  
+  
+ThE CURTS.  
+  
+EGULAR TERMS.  
+CIRCUIT COUET. SevENtN D  
+JAMES S. HAMM, JudgE.  
+ThOMAs S. FoRd, DistrieT Atto.  
+Lauderdals county, second Mot&quot;  
+February and August, continuing I  
+Kemper county, first Monday i  
+and September, continuing 12 days  
+Clarke county, third Monday in;  
+and September, continuing 12  
+  
+Wayne county, frst Monday in a,  
+and October, continuing 6 days.  
 Greene county, second Monday in Apr  
 and October, continuing 6 days.  
 Perry county, third Monday in Apr  
@@ -5476,12 +8630,22 @@ Many who condescend to illumi.
 nate this dark world with the fire of  
 a genius through the columus of a  
   
-newspaper, little think of the lot
-</td></tr></table>
+newspaper, little think of the lot  
+  
+Get all of one age yearlings of the printer who sits up at mid  
+  
+which you can readily distinguis i o oe te a a  
+  
+e teir ee ee e o n e an oo ee an o  
+iform sise, and pay the owner an untuntionWe have sen the
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065532:00295878022:1880010901:0002/pct:43.125500,16.582778,50.779376,24.962590/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _The Pascagoula democrat-star._
+## [From _The Pascagoula democrat-star._](https://www.loc.gov/resource/sn87065532/1880-01-09/ed-1/?sp=1)
 
 #### 1880-01-09 &middot; [Pascagoula, Miss.](http://dbpedia.org/resource/Pascagoula%2C_Mississippi)
 
@@ -5505,18 +8669,69 @@ and no one buf the practical prin-
 ter knows how many hours com  
   
 positor, and after him the proof­  
-reader, is compelled to spend in
-</td></tr></table>
+reader, is compelled to spend in  
+  
+We Stand on Ou
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065532:00295878022:1880010901:0002/pct:55.835332,48.891307,24.480416,5.849544/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Maryland independent._](https://chroniclingamerica.loc.gov/lccn/sn85025407/1881-04-15/ed-1/seq-2)
+## [From _The Pascagoula democrat-star._](https://www.loc.gov/resource/sn87065532/1880-01-16/ed-1/?sp=1)
+
+#### 1880-01-16 &middot; [Pascagoula, Miss.](http://dbpedia.org/resource/Pascagoula%2C_Mississippi)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+  
+THECOURTS.  
+REGULAR TERMS.  
+CIRCUIT COUEI. SEVENTR DISTRIcT.  
+JAMES S. HAMM, Judge.  
+THOMAS S. FoRd, Distriet Attorney.  
+Lauderdale county, second Monday in  
+February and Angust, continning 1s days.  
+Kemper county, first Monday in March  
+and September, continuing 12 days.  
+larke county, third Monday in March  
+and September, continuing 12 days.  
+Wayne county, first Monday in April  
+and October, continuing 6 days.  
+Greene county, second Monday in April  
+and October, continuing 6 days.  
+Perry county, third Monday in April  
+and October, continuing 6 days.  
+  
+Marion county, fourth Monday in April  
+  
+and October, continuing 6 days.  
+  
+Hancoek county, first Monday affer the  
+fourth Monday of April and October, con­  
+tinning 12 days.  
+Harrison county, third Moaday after th  
+fourth Monday of April and October, cos­  
+tinuing 6 days.  
+Jackson county, ourth Monday after  
+fourth Monday of spril and October, co­  
+tinuing 12 day
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065532:00295878022:1880011601:0006/pct:80.123203,15.029456,12.607803,14.262228/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Maryland independent._](https://www.loc.gov/resource/sn85025407/1881-04-15/ed-1/?sp=2)
 
 #### 1881-04-15 &middot; [Port Tobacco, Md.](http://dbpedia.org/resource/Waldorf%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ out the mat- ,  
 ter and relieve the soreness in a few ;  
 hours.  
 Printers and Printing. ,  
@@ -5552,19 +8767,19 @@ ing to readable condition manuscript that 1
 often the writers themselves would be  
 puzzled to read.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_easton_ver01%2Fdata%2Fsn85025407%2F00279522230%2F1881041501%2F0129.jp2/pct:26.882696,76.599560,11.471160,18.206733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_easton_ver01:data:sn85025407:00279522230:1881041501:0129/pct:34.688075,98.153242,14.785081,24.165029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Grenada sentinel._](https://chroniclingamerica.loc.gov/lccn/sn85034375/1886-01-09/ed-1/seq-1)
+## [From _The Grenada sentinel._](https://www.loc.gov/resource/sn85034375/1886-01-09/ed-1/?sp=1)
 
 #### 1886-01-09 &middot; [Grenada, Miss.](http://dbpedia.org/resource/Grenada%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+: &quot;Many who condescend  
 Iminate a dark world with the fir, of  
 [genius, througli the columns of a  
 [paper, littlo think of the lot of the  
@@ -5593,21 +8808,21 @@ l practical printer knows how many­
 (-reader is compelled to spend i  
 cingto readable condition, miinu­  
 that often the writers themselves  
-■d be puzzled to read.
+■d be puzzled to read.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_eyelet_ver02%2Fdata%2Fsn85034375%2F00199917079%2F1886010901%2F0395.jp2/pct:0.000000,45.924262,14.985380,14.971117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eyelet_ver02:data:sn85034375:00199917079:1886010901:0395/pct:0.000000,45.523107,14.985380,15.372272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Weekly expositor._](https://chroniclingamerica.loc.gov/lccn/sn2006060001/1886-05-20/ed-1/seq-4)
+## [From _Weekly expositor._](https://www.loc.gov/resource/sn2006060001/1886-05-20/ed-1/?sp=4)
 
 #### 1886-05-20 &middot; [Brockway Centre, Mich.](http://dbpedia.org/resource/Yale%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+:  
 &quot;Many who condescends to illuminate  
 to the dark world with the lire of his  
 genius, through the columns of a news­  
@@ -5641,19 +8856,21 @@ dition manuscript that often the writ
 ers themselves would be puzzled to  
 read.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn2006060001%2F00202198077%2F1886052001%2F0872.jp2/pct:31.017475,76.811139,12.147689,17.797320/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn2006060001:00202198077:1886052001:0872/pct:31.017475,76.811139,12.147689,17.797320/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Marietta journal._](https://chroniclingamerica.loc.gov/lccn/sn85034082/1888-08-30/ed-1/seq-2)
+## [From _The Marietta journal._](https://www.loc.gov/resource/sn85034082/1888-08-30/ed-1/?sp=2)
 
 #### 1888-08-30 &middot; [Marietta, Ga.](http://dbpedia.org/resource/Marietta%2C_Georgia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+.  
   
+FAULTY MANUSCRIPTS, &#x27;  
 Many who write for newspapers  
 little think of the lot of the printer,  
 who spends bours of toil over their  
@@ -5690,19 +8907,52 @@ readable condition manuscript that
 the writers themselves would be  
 puzzled to read.—Printers Circular
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_drteeth_ver01%2Fdata%2Fsn85034082%2F00517177295%2F1888083001%2F0768.jp2/pct:8.256967,71.147972,14.237128,23.820003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177295:1888083001:0768/pct:10.641799,90.820089,18.376303,31.710108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Daily independent._](https://chroniclingamerica.loc.gov/lccn/sn84020355/1888-09-01/ed-1/seq-2)
+## [From _Daily independent._](https://www.loc.gov/resource/sn84020355/1888-09-01/ed-1/?sp=2)
 
 #### 1888-09-01 &middot; [Elko, Nev.](http://dbpedia.org/resource/Elko%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ Probate Court th:R  
+ciftomoon. It was executed May - 2,  
+1887. Mrs. Mary A. Crocker, widow  
+of deceased, is appointed executrix.  
+The petition for probate states that  
+the estate is worth something over $25,­  
+250,000, dividod as follows: Real es­  
+t ite, $2,800,000; st icks and bonds, $12,  
+000,000; accounts, $1,5J0,000; promis­  
+sory notes, $8,500,000; cash, $500,000.  
+Teatal ir declares thnt the entire estate  
+is community property and bis wife is  
+entitled to one half. In addition she  
+is bequeathed their two residences,  
+with nli the furniture, etc.?one in this  
+city nud the other in Sacrainoi.t&#x27;). A  
+tin ubev of relatives arc left sums rang­  
+ing from $10,000 to $30,000. Provis­  
+ion is also made for the fami y 8ervnn,c%  
+Testator also mentions the names of a  
+numbor of relatives to whom he leaves  
+nothing, as he had advanced during his  
+lifetime alt he intendo I to bequoath  
+them. To his son, G;org? Crock ; r, he  
+leives ail he bad advanced to him for  
+his business. Olio-quarter of his resi­  
+due is left to his two sous, Charles F.  
+and Willinm P. Crocker, and the re­  
+mainder is to he invested for deceased&#x27;s  
+daughter, Mrs. II. V. Alexander, of  
+N iw York.  
+Faulty Maniiscript*.  
+Many who write tor newspapers little  
+think of the lot of lLo printer, wLo  
 spends hours of toil over their false  
 grammar, had orthography and poor  
 pnnctuntion. IIow often are the argu­  
@@ -5734,56 +8984,111 @@ kuows how many hour* a compositor,
 and, after him a proof reader, is oonr­  
 pelled to spend in reducing to a reads­  
 J bio condition manuscript that the writ*  
-ers themselves would be puzzled t
+ers themselves would be puzzled to  
+read.?[Printers&#x27; Circular.  
+Tlie Smallpox.  
+Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nvln_lasvegas_ver01%2Fdata%2Fsn84020355%2F00279554991%2F1888090101%2F0826.jp2/pct:4.744918,7.423253,36.845192,83.393207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_lasvegas_ver01:data:sn84020355:00279554991:1888090101:0826/pct:4.397967,7.419987,37.177482,83.383410/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Weekly independent._
+## [From _Weekly independent._](https://www.loc.gov/resource/sn86076366/1888-09-09/ed-1/?sp=4)
 
 #### 1888-09-09 &middot; [Elko, Nev.](http://dbpedia.org/resource/Elko%2C_Nevada)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ Probate Court this  
+afternoon. It was executed May 2,  
+1887. Mrs. Mary A. Crocker, widow  
+of deceased, is appointed executrix.  
+The petition for probate states that  
+the estate is worth sometning over $25,­  
+250,000, divided as follows: Real es-­  
+tite, $2,800,000; stocks and bonds, $12,­  
+000,000; accounts, $1,500,000; promis.­  
+sory notes, $8,507,000; cash, $500,000.  
+Testator declares that the entire estate  
+is community property and his wife is  
+entitled to one half. In addition she  
+is bequeathed their two residences,  
+with all the turniure, ete,-one in this  
+city and the other in Saciamento. A  
+number of relatives are lelt sums rang-­  
+ing from $10,000 to $20,000. Provis-­  
+ion is also made for the fami&#x27;y servants.  
+Testator also mentions the names of a  
+number of relative; to whom he leaves  
+nothing, as he had advanced during bis  
+lifetimo all he inten le I to bequeath  
+them. To his son, George Crocker, he  
+leaves all he had advanced to him for  
+his business. One-quarter of his resi­  
+due is left to his two sons, Charles F.  
+and William P. Crocker, and the re-­  
   
-I unci nation. llow uftuu ure the nrgu*  
-incuts of luwyor* in high repute us  
-tichol trri given to the printer in their  
-own hand writing ? uiany words, imtl  
-especially technical mul foreign trios,  
-ablirevi.it-.il, wurdi misspelled. uml few  
-or no points, anil tlioso few, if there nro  
-any, entirely out of place. The Rei­  
-inons vf eiuiiiuut divines a.u frtquei.t y  
-hunt to tiio piefis without points or tap­  
-it iU to designate the division of sent­  
-ences ? sermons which, if published  
-with the imporfections of the matin­  
-Rjript, wonlil disglAio tl.o printer&#x27;s  
-devil, if he wcio the author. Suppose  
-they hail l.i eu no printtil? The printer  
-would have Icon tieuto I with contempt  
-as an illiterate lilock-h&#x27; ad ? as n fellow  
-bit&#x27;or titled to ho n wood. sawyer than a  
-printer. Nobody would have lielievod  
-I hut such gross and palpable faults u eie  
-owing to Iho cnrelessiio*n of the author.  
-Anil no one hut tho practical printer  
-known how many hours it compositor
-</td></tr></table>
+mainder is to be invested for deceased&#x27;s  
+daughter, Mra. H. V. Alexander, of  
+New York.  
+  
+Fautty Manuscripts.  
+Many who write for newspapers little  
+think of the lot of the printer, who  
+spends hours of tol over their false  
+grammar, bad orthography and poor  
+tunctuation. How often are the argut  
+ments of lwyers in high repute as  
+scholars given to the printer in their  
+own hand writing--many words, and  
+especially technical and fornign terms,  
+abbreviated, words misspelled, and few  
+or no points, and those few, if there are  
+any, entirely out of place. The ser­  
+mons of eminent divines are frequent y  
+sent to the press without points or cap-­  
+itals to designate the division of sent.­  
+ences--sermons which, if published  
+with the imperfections of the mann-­  
+script, would disgrace the printer&#x27;s  
+devil, if he were the author. Suppose  
+they had been so printed? The printer  
+would have been treated with contempt  
+as an illiterate block-head--as a fellow  
+bet&#x27;er fitted to be a wood-sawyer than a  
+printer. Nobody would have belioved  
+that such gross and palpable faults were  
+owing to the carelessness of the author.  
+And no one but the practical printer  
+knows how many hours a compositor,  
+and, after him a proof reader, is con  
+pelled to spend in reducing to a roada-­  
+ble condition manuscript that the writ­  
+ers themselves would be puzzled to  
+read.IPrinTs&#x27; Circular.  
+CommissIOners MecTIng.  
+Th
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:0027176263A:1888090901:0154/pct:20.533322,30.280550,12.328366,41.590235/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Delaware gazette and state journal._](https://chroniclingamerica.loc.gov/lccn/sn88053046/1888-10-04/ed-1/seq-7)
+## [From _Delaware gazette and state journal._](https://www.loc.gov/resource/sn88053046/1888-10-04/ed-1/?sp=7)
 
 #### 1888-10-04 &middot; [Wilmington, Del.](http://dbpedia.org/resource/Wilmington%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ be  
   
+Faulty .viauuacriptH*  
+Pdntvr»&#x27; O re l»r.  
+Many who write for nowspapers llttla  
+thiuk of the lot of the printer, wh*&#x27;  
 «pends hours cf toil ov* r thtl? false  
 grammar, bud orthography and poor  
 punctuation How cftc-n are the argu­  
@@ -5808,15 +9113,16 @@ printer. Nobody won d bavebtlmvcd tba
 snob groRf and p dpabi» faults  
 to tho carelessness of tbe author. And  
 ne but the pracdoal printer knows bow  
-many houra a compositor, and
+many houra a compositor, and,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_horcrux_ver01%2Fdata%2Fsn88053046%2F00271741741%2F1888100401%2F0021.jp2/pct:59.562970,56.297710,10.855263,11.583969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_horcrux_ver01:data:sn88053046:00271741741:1888100401:0021/pct:59.539474,49.160305,10.878759,19.064885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The St. Johns herald._](https://chroniclingamerica.loc.gov/lccn/sn94051692/1891-02-19/ed-1/seq-1)
+## [From _The St. Johns herald._](https://www.loc.gov/resource/sn94051692/1891-02-19/ed-1/?sp=1)
 
 #### 1891-02-19 &middot; [St. Johns, Apache County, Arizona Territory [Ariz.]](http://dbpedia.org/resource/St._Johns%2C_Arizona)
 
@@ -5843,8 +9149,21 @@ mons of eminent divines are fre­
 quently sent to the press without  
 points or capitals to designate the  
 division of sentences sermons  
-which, if published with the imper­  
-fections of the manuscript, would  
+which, if publishe
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elephanttree_ver01:data:sn94051692:00211106128:1891021901:0566/pct:121.456574,20.283976,21.019300,22.301697/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The St. Johns herald._](https://www.loc.gov/resource/sn94051692/1891-02-19/ed-1/?sp=1)
+
+#### 1891-02-19 &middot; [St. Johns, Apache County, Arizona Territory [Ariz.]](http://dbpedia.org/resource/St._Johns%2C_Arizona)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+, would  
 disgrace the printer&#x27;s divel if he  
 were the author. Suppose they had  
 been so printed? The printer would  
@@ -5861,22 +9180,21 @@ tor, and after him a proof-reader, is
 compelled to spend in reducing to  
 a readable condition manuscript  
 that the writers themselves would  
-be puzzled to read. Exchange
+be puzzled to read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_elephanttree_ver01%2Fdata%2Fsn94051692%2F00211106128%2F1891021901%2F0566.jp2/pct:80.754148,13.526209,14.268477,28.824597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elephanttree_ver01:data:sn94051692:00211106128:1891021901:0566/pct:121.094692,42.916622,21.139928,20.497491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Sierra County advocate._
+## [From _Sierra County advocate._](https://www.loc.gov/resource/sn94057006/1891-02-27/ed-1/?sp=2)
 
 #### 1891-02-27 &middot; [Kingston, N.M.](http://dbpedia.org/resource/Hillsboro%2C_New_Mexico)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-Many who write for newspapers  
+ for newspapers  
 little think of the lot of the printers  
 who spend hours of toil over their  
 false grammar, bad orthography  
@@ -5893,8 +9211,21 @@ of eminent divines are frequently
 sent to the press without points or  
 capitals to designate the division  
 of sentences sermons which, if  
-published with the imperfections  
-of the manusoript, would disgrace  
+publishe
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_james_ver01:data:sn94057006:00415620457:1891022701:0960/pct:55.841924,23.763553,13.036942,12.624387/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Sierra County advocate._](https://www.loc.gov/resource/sn94057006/1891-02-27/ed-1/?sp=2)
+
+#### 1891-02-27 &middot; [Kingston, N.M.](http://dbpedia.org/resource/Hillsboro%2C_New_Mexico)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+, would disgrace  
 the printer&#x27;s devil if be were the  
 author. Suppose they had been so  
 printed? Tho printer would have  
@@ -5912,28 +9243,20 @@ is compelled to spend iu reducing
 to a readable condition manuscript  
 that the writers themselves would  
 be puzzled to read
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_james_ver01:data:sn94057006:00415620457:1891022701:0960/pct:55.756014,36.477053,12.972509,12.654092/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Juniata sentinel and Republican._](https://chroniclingamerica.loc.gov/lccn/sn86053634/1892-09-28/ed-1/seq-2)
+## [From _Juniata sentinel and Republican._](https://www.loc.gov/resource/sn86053634/1892-09-28/ed-1/?sp=2)
 
 #### 1892-09-28 &middot; [Mifflintown, Juniata County, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-lieve the horse rolled over the wagon  
-and then wagon rolled over the  
-horse.&quot; The neck of the horse was  
-broken which is quite a loss for  
-Rapp.  
-Printers and Printing-  
-The incorrectly written articles that  
-are sent into printing oSices can only  
-be properly guaged by printers who  
-havfl the training to correct and  
-present them properly for tho pub­  
+ them properly for tho pub­  
 lie to read. Thoso who write badly  
 little think of the skill aud ability of  
 the printer, who sets up at midnight  
@@ -5961,23 +9284,15 @@ contempt would Lavs been launched
 i x- J  
 upon ino planter, o one wuui&#x27;i  
 ever have believed that such incon  
-gruities WGre other than tbe fault of  
-the printer, and not owing to tas lg­  
-norauco or heedlessness of the au­  
-thor ; and no one but a practical  
-printer knows how many Lours the  
-compositor and after him a proof­  
-reader, is compelled to epend in  
-reducing to a readable condition  
-that 6ven the writers themselve
+gruities WGre other than tbe fault o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_mateer_ver01%2Fdata%2Fsn86053634%2F00212478039%2F1892092801%2F0362.jp2/pct:51.991758,8.590746,11.521291,24.406735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn86053634:00212478039:1892092801:0362/pct:52.129121,14.437227,11.383929,14.516771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Las Vegas daily optic._](https://chroniclingamerica.loc.gov/lccn/sn86063592/1898-11-19/ed-1/seq-1)
+## [From _Las Vegas daily optic._](https://www.loc.gov/resource/sn86063592/1898-11-19/ed-1/?sp=1)
 
 #### 1898-11-19 &middot; [Las Vegas, N.M.](http://dbpedia.org/resource/Las_Vegas%2C_New_Mexico)
 
@@ -6000,20 +9315,19 @@ sent to the press without points or cap­
 itals to designate the division of sen­  
 tencessermons which, if publishe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_bronte_ver01%2Fdata%2Fsn86063592%2F00415626721%2F1898111901%2F0238.jp2/pct:40.281786,44.633595,10.864030,8.192579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_bronte_ver01:data:sn86063592:00415626721:1898111901:0238/pct:53.699932,59.502593,14.477257,10.919005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Las Vegas daily optic._](https://chroniclingamerica.loc.gov/lccn/sn86063592/1898-11-19/ed-1/seq-1)
+## [From _Las Vegas daily optic._](https://www.loc.gov/resource/sn86063592/1898-11-19/ed-1/?sp=1)
 
 #### 1898-11-19 &middot; [Las Vegas, N.M.](http://dbpedia.org/resource/Las_Vegas%2C_New_Mexico)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-script, would disgrace the printer&#x27;s  
+, would disgrace the printer&#x27;s  
 devil it he were the author. Suppose  
 they had been so printed? . The printer  
 would have been treated with contempt  
@@ -6029,19 +9343,19 @@ pelled to spend iu reducing to a reada­
 ble condition manuicript that the writ­  
 ers themselves would be puzzled to read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_bronte_ver01%2Fdata%2Fsn86063592%2F00415626721%2F1898111901%2F0238.jp2/pct:40.264811,53.464556,10.830080,8.245777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_bronte_ver01:data:sn86063592:00415626721:1898111901:0238/pct:53.665988,71.286075,14.443313,10.985503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Las Vegas weekly optic and stock grower._](https://chroniclingamerica.loc.gov/lccn/sn92070422/1898-11-26/ed-1/seq-9)
+## [From _The Las Vegas weekly optic and stock grower._](https://www.loc.gov/resource/sn92070422/1898-11-26/ed-1/?sp=9)
 
 #### 1898-11-26 &middot; [Las Vegas, N.M.](http://dbpedia.org/resource/Las_Vegas%2C_New_Mexico)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ of toil over  
 their false grammar, bad authngraphy  
 and poor punctuation. How often are  
 tha arguments of lawyers, in high  
@@ -6056,20 +9370,19 @@ sent to the presa wltheut points or cap­
 itals ta designate the division of sen  
 tences sermons which, If publishe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_juniper_ver02%2Fdata%2Fsn92070422%2F00200290203%2F1898112601%2F0471.jp2/pct:28.065486,68.580137,21.249582,13.106426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_juniper_ver02:data:sn92070422:00200290203:1898112601:0471/pct:37.383178,90.119380,28.271028,18.796038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Las Vegas weekly optic and stock grower._](https://chroniclingamerica.loc.gov/lccn/sn92070422/1898-11-26/ed-1/seq-9)
+## [From _The Las Vegas weekly optic and stock grower._](https://www.loc.gov/resource/sn92070422/1898-11-26/ed-1/?sp=9)
 
 #### 1898-11-26 &middot; [Las Vegas, N.M.](http://dbpedia.org/resource/Las_Vegas%2C_New_Mexico)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-script, would disgrace the printer&#x27;s  
+, would disgrace the printer&#x27;s  
 devil if he were the author. Suppose  
 they had been se printed? The printer  
 would have been treated with contempt  
@@ -6085,7 +9398,7 @@ pelled to spuud In reducing to a reada­
 ble condition luauuii npt that the writ­  
 is themselves would be puzzled ta read.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_juniper_ver02%2Fdata%2Fsn92070422%2F00200290203%2F1898112601%2F0471.jp2/pct:28.065486,82.931166,21.182760,13.716027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_juniper_ver02:data:sn92070422:00200290203:1898112601:0471/pct:37.383178,110.566421,28.204272,18.288037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

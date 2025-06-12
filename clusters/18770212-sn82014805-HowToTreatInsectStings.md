@@ -1,7 +1,7 @@
 
 # How to Treat Insect Stings
 
-### 67 reprints from 1874-10-09 to 1898-04-23
+### 91 reprints from 1874-10-09 to 1898-04-23
 
 ## [How to Treat Insect Stings](https://chroniclingamerica.loc.gov/lccn/sn82014805/1877-02-12/ed-1/seq-4/)
 
@@ -21,7 +21,7 @@ If the sting be severe, rest the coolness (sic) should be added to the other rem
 
 ---
 
-## [From _The herald and mail._](https://chroniclingamerica.loc.gov/lccn/sn86053406/1874-10-09/ed-1/seq-4)
+## [From _The herald and mail._](https://www.loc.gov/resource/sn86053406/1874-10-09/ed-1/?sp=4)
 
 #### 1874-10-09 &middot; [Columbia, Tenn.](http://dbpedia.org/resource/Columbia%2C_Tennessee)
 
@@ -38,21 +38,25 @@ rest, and the activity of the poison will
 be reduced to a minimum. Any active  
 exertion, whereby the circulation is  
 qnickened, will increase both pain and  
-aweuing
+aweuin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jimmy_ver02%2Fdata%2Fsn86053406%2F00296020709%2F1874100901%2F0386.jp2/pct:4.803726,68.049973,9.886893,4.497556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn86053406:00296020709:1874100901:0386/pct:6.399681,90.733297,13.185205,5.996741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031492/1877-01-06/ed-1/seq-11)
+## [From _Chicago daily tribune._](https://www.loc.gov/resource/sn84031492/1877-01-06/ed-1/?sp=11)
 
 #### 1877-01-06 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+HOW TO TREAT INSECT-STINGS.  
+  
+A writer In the London Oarden give* the fol­  
 lowing hints on this subject: “The pain caused  
 by the sting of a plant or Insect Is the result of  
 a certain amount of add poison Injected into  
@@ -89,19 +93,21 @@ to serious consequences; In such cases medical
 advice should always be sought as suou as possi­  
 ble.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_jefferson_ver02%2Fdata%2Fsn84031492%2Fno_reel%2F1877010601%2F0011.jp2/pct:43.159566,37.994209,13.131781,14.906150/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877010601:0011/pct:43.159566,37.040735,13.125165,15.834665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Batesville guard._](https://chroniclingamerica.loc.gov/lccn/sn90050272/1877-01-18/ed-1/seq-1)
+## [From _Batesville guard._](https://www.loc.gov/resource/sn90050272/1877-01-18/ed-1/?sp=1)
 
 #### 1877-01-18 &middot; [Batesville, Independence Co., Ark.](http://dbpedia.org/resource/Batesville%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ the fight ended.— Atlanta Herald.  
+How to Treat Insect-Stings.  
+A writer in the London Garden gives  
 the following hints on this subject: The  
 pain caused by the sting of a plant or  
 insect is the result of a certain amount  
@@ -143,9 +149,10 @@ two of laudanum. Stings in the eya,
 ear, mouth or throat sometimes lead to  
 serious consequences; in such cases  
 medical advice should always be sought  
-as soon as possible
+as soon as possible.  
+New 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_jupiter_ver01%2Fdata%2Fsn90050272%2F00513688787%2F1877011801%2F0005.jp2/pct:82.438832,53.450980,12.457248,20.794118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jupiter_ver01:data:sn90050272:00513688787:1877011801:0005/pct:82.438832,50.764706,12.450671,24.764706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,13 +168,17 @@ as soon as possible
 
 ---
 
-## From _Puget Sound weekly Argus._
+## [From _Puget Sound weekly Argus._](https://www.loc.gov/resource/sn84022761/1877-02-02/ed-1/?sp=3)
 
 #### 1877-02-02 &middot; [Port Townsend, W.T. [Wash.]](http://dbpedia.org/resource/Port_Townsend%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+How to Treat InsEet Stings.  
+A writer in the London Garden gives  
+the following hints on this subject:  
 The pain caused by the sting of a  
 plant or insect is the result of a certai­  
 amount of seid poison injected into the  
@@ -209,17 +220,25 @@ mouth of throat sometimes lead to
 serious consequences; in such cases  
 medical advice should always be sought  
 as soon as possible.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn84022761:no_reel:1877020201:0275/pct:21.057429,4.893087,16.459030,25.377148/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _The Vancouver independent._](https://chroniclingamerica.loc.gov/lccn/sn87093109/1877-02-02/ed-1/seq-7)
+## [From _The Vancouver independent._](https://www.loc.gov/resource/sn87093109/1877-02-02/ed-1/?sp=7)
 
 #### 1877-02-02 &middot; [Vancouver, W.T. [Wash.]](http://dbpedia.org/resource/Vancouver%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+* hanner.  
   
+How to Treat Insect Stings.  
+  
+A writer in the London Gar-den gives  
+the following hints on this subject:  
 The pain caused by the 6ting of a  
 plant or insect is the result of a certain  
 amount of acid poison injected into the  
@@ -262,13 +281,13 @@ serious consequences; in such cases
 medical advice should always bo sought  
 as soon as possible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_duwamish_ver01%2Fdata%2Fsn87093109%2F00200290975%2F1877020201%2F0034.jp2/pct:22.175706,6.843380,16.422455,23.864747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290975:1877020201:0034/pct:16.479543,4.651459,22.112274,89.002166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The daily gazette._](https://chroniclingamerica.loc.gov/lccn/sn82014805/1877-02-12/ed-1/seq-4)
+## [From _The daily gazette._](https://www.loc.gov/resource/sn82014805/1877-02-12/ed-1/?sp=4)
 
 #### 1877-02-12 &middot; [Wilmington, Del.](http://dbpedia.org/resource/Wilmington%2C_Delaware)
 
@@ -315,19 +334,290 @@ cases medical advice should always be
 sought us soon as possidle — London Oar­  
 den 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_accio_ver01%2Fdata%2Fsn82014805%2F00271740384%2F1877021201%2F0161.jp2/pct:38.559322,7.216142,15.439619,19.699042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_accio_ver01:data:sn82014805:00271740384:1877021201:0161/pct:38.559322,7.216142,15.439619,19.699042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1877-02-22/ed-1/seq-4)
+## [From _The Central Presbyterian._](https://www.loc.gov/resource/sn89053987/1877-02-14/ed-1/?sp=4)
+
+#### 1877-02-14 &middot; [Richmond, Va.](http://dbpedia.org/resource/Richmond%2C_Virginia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ what excuse will you render to  
+the great God who has said, “Remember the  
+‘Sabbath day to keep it holy.” And where were  
+your ohildren ? Did you encourage them to attend  
+the Sabbath School? Did you take them to the  
+house of God? Or were they left to themselves,  
+to roam about the fields, or range the woods for  
+game, or loiter by the stream with their fishing­  
+rods, or seek the company of the profane and un­  
+godly? If thus negleoted what will you answer  
+when called to an account by that God who has  
+commanded you to train up your ohildren in the  
+nurture and admonition of the Lord?  
+•  
+  
+usbanflitg.  
+, How to Treat Insect Stings.  
+The pain caused by the sting of a plant or  
+insect is the result of a certain amount of  
+acid poison injected into the blood. The  
+first thing to be done is to press the tube of  
+a small key firmly on the wound, moving the  
+key from side to side to facilitate the expul­  
+sion of the sting and its accompanying poi  
+son. The sting, if left in the wound, should  
+be carefully extracted, otherwise it wili  
+greatly increase the local irritation. The  
+poison of stings being acid, common sense  
+points to the alkalies as the proper means of  
+cure. Among the most Easily procured  
+remedies may be mentioned, soft soap, liquor  
+of ammonia (spirits of hartshorn,) smelling  
+salts, washing soda, quicklime made into a  
+paste with water, lime water, the juice of an  
+onion, tobacco juice, chewed tobacco, bruised  
+dock leaves, tomato juice, wood ashes, tobac­  
+co ash, and carbonate of soda.  
+If the sting be severe, rest and coolness  
+should be added to the other remedies, more  
+^specially in the case of nervous subjects.—  
+Nothing is so apt to make the poison active  
+as heat, and nothing favors its activity less  
+than cold. Let the body be kept cool and  
+at rest, and the activity of the poison will be  
+reduced to a minimum. Any active exertion  
+whereby the circulation is quickened will in­  
+crease both pain and swelling. If the swel­  
+ling be severe, the part may be rubbed with  
+sweet oil, or a drop or two of laudanum.—  
+Stings in the eye, ear, mouth, or throat,  
+sometimes lead to serious consequences; in  
+such cases medical advice should always be  
+sought as soon as possible.—London Garden.  
+  
+California’s Products.  
+The Sa
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanhart_ver01:data:sn89053987:print:1877021401:0072/pct:56.685191,5.515971,26.904217,92.407862/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Christian sun._](https://newspapers.digitalnc.org/lccn/sn93062839/1877-02-16/ed-1/seq-4/)
+
+#### 1877-02-16 &middot; [Elon College, N.C.](http://dbpedia.org/resource/Greensboro%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ch as to deveiope and preserve the  
+excellencies of the meat. The hams  
+are large and rich, aud juicy with dif­  
+fused fat. Berkshires are not quite  
+sj easily fattened when penned and  
+systematically fed as the Essex grade,  
+but they will take much better care  
+of themselves in the woods, aud when  
+penned for fattening may be finished  
+off with half the feed the original  
+“laud pikes” would require.  
+With many Northern aud Western  
+breeders the Essex is a more profitable  
+pig thau the Berkshire, because his  
+nature leads him to take little exer­  
+cise, so that all he eats goes to fiesh  
+arid fat. Respiration, which, if rapid,  
+reduces fat greatly, is with him never  
+accelerated by moving about, and,  
+with plenty of feed, the sole burden of  
+life is to digest it. This breed is pre­  
+eminent among the black breeds, and  
+excelled by none as fat producers.—  
+American Agriculturalist.  
+HOW TO TREAT INSECT STINGS.  
+The pain caused by the sting of a  
+plant or iusect is the result of a cer­  
+tain amount of acid poisou injected  
+into the blood. The first thing to be  
+done is to press the tube of a small  
+key firmly on the wound, moving the  
+key from side to side to faciliate the  
+expulsion of the sting and its accom­  
+panying poison. The sting, if left iu  
+the wound, should be carefully ex­  
+tracted, otherwise it will greatly in­  
+increase the local irritation. The poi­  
+son of stings being acid, common  
+sense points to the alkalies as the  
+proper means of cure. Among the  
+  
+most easily procured remedies may  
+be mentioned soft soap, liquid of am­  
+monia (spirits of hartshorn) smelling  
+salts, washing soda, quick lime made  
+into a paste with water, lime water,  
+the juice of au onion, tobacco juice,  
+chewed tobacco, bruised dock leaves,  
+tomato juice, wood ashes, tobacco ash,  
+and carbonate of soda.  
+If the sting be severe, rest aud cool­  
+ness should be added to the other re­  
+medies, more especially iu the case of  
+nervous subjects. Nothing is so apt  
+to make the poison active as heat, aud  
+nothiug favors its activity less than  
+cold. Let the body be kept cool and  
+at rest, and the activity of the poison  
+will be reduced to a minimum. Any  
+active exertion whereby the circula­  
+tion is quickened will increase both  
+pain and swelling. If the swelling be  
+severe, the part may be rubbed with  
+sweet oil, or a drop or two of lauda­  
+num. Stings iu the eye, ear, mouth,  
+or throat, sometimes lead to serious  
+consequences; in such cases medical  
+advice should always he sought as  
+soon as possible.—London Garden.  
+Give the P
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL3_ver01%2Fdata%2F1877021601%2F1055.jp2/pct:17.525773,30.826410,12.546197,45.357820/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Carolina messenger._](https://newspapers.digitalnc.org/lccn/sn84026423/1877-02-22/ed-1/seq-1/)
+
+#### 1877-02-22 &middot; [Goldsboro, N.C.](http://dbpedia.org/resource/Goldsboro%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.i.  
+  
+Tbe pain caused by the sting of a  
+plant or insect is the result of acer-j  
+tain amount of acid poison injected I  
+  
+into the blood. The first thing to bej  
+  
+done is to press the tube of a small  
+key firmly on tbe wound, moving the  
+key from side to side to faciliate the  
+expulsion ot the sting and its accom­  
+panying poison. The sting, if left  
+  
+He n W0UDi sbould be carefully ex  
+  
+tracted, otherwise it will gieally in­  
+crease the local irritation. The poi­  
+son of stings being acid, common  
+sense points to the. alkalies as tbe  
+proper means of cure. Among the  
+most easily procured remedies may  
+be mentioned soft soap, liquid of am­  
+monia (spirits, of hartshorn) smell  
+  
+ing salts, washing soda, quick-lime f  
+  
+made into a paste with water, lime  
+water, the juice of an onion, tobacco  
+juice, chewed tobacco,, bruised dock  
+  
+leaves, tomato juice, wood ashes, to  
+bacco ash, and carbonate of soda.  
+If the sting be severe, rest and  
+coolnes should be added to the  
+other remedies, . moreespecially in  
+  
+Justice Bradley had planted himself woman rushed to the door and pusl  
+  
+ed and tutored till she was red in  
+  
+face, but not an inch, would it  
+  
+front door  
+  
+me.  
+  
+Constituted with especial care, by the tide of Morton aud Garfield.  
+  
+com nosed of live members of each In the Florida case Justice Bradley the
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmMess64n_ver01%2Fdata%2F1877022201%2F0058.jp2/pct:42.821285,47.827298,51.480924,20.742804/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Carolina messenger._](https://newspapers.digitalnc.org/lccn/sn84026423/1877-02-22/ed-1/seq-1/)
+
+#### 1877-02-22 &middot; [Goldsboro, N.C.](http://dbpedia.org/resource/Goldsboro%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+ing is so apt to make the poison ac­  
+tive as beat, and nothing favors its  
+activity less than cold. Let the body  
+be kept cool and at rest, and the ac­  
+tivity of poison will be reduced to a  
+minimum. Any active exertion  
+whereby the circulation isquickened  
+will increase both pain and swelling.  
+If the swelling be severre, the part  
+may be rubbed with sweet oil, or a
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmMess64n_ver01%2Fdata%2F1877022201%2F0058.jp2/pct:81.639056,66.564531,12.562751,6.499536/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Carolina messenger._](https://newspapers.digitalnc.org/lccn/sn84026423/1877-02-22/ed-1/seq-1/)
+
+#### 1877-02-22 &middot; [Goldsboro, N.C.](http://dbpedia.org/resource/Goldsboro%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+the eye, ear, mouth, or throat, some  
+  
+times lead to serious consequences;  
+in such cases. medical advice should  
+always be sought as soon as possible.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmMess64n_ver01%2Fdata%2F1877022201%2F0058.jp2/pct:81.714357,73.844011,12.550201,3.110492/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Ellsworth American._](https://www.loc.gov/resource/sn84022374/1877-02-22/ed-1/?sp=4)
 
 #### 1877-02-22 &middot; [Ellsworth, Me.](http://dbpedia.org/resource/Ellsworth%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ i i v ineri a-c Ike locr.l irritation. 1 ■  
+I - o &quot;i -!iivs b iug a id. • nii.­  
+-I use points t » tin- a kalies as the tin n -  
+of euro. Among the m -t ca-ilv | i.­  
+eiiicil remedies nun lie mentioned soil ,  
+- nip, liqu- r of ammonia (spirits of  
+leu i-li -i i. -no !- . -aI*-. M a-ling -o- &#x27;  
+■ la. qitieklime niade into a pa«le with  
+water, lime water, the juice of an on­  
+ion. tuba-- i jtii- e, chewed t.  
+braised dork !e-iv tomato jui e. w nl  
+es, tuba eo a-li, and i tib-&#x27;ii iie ot *  
+soda.  
 ui&#x27;-- -lionl&#x27;l be added to the other reme­  
 died. more especially in the c.i-c ot ner- .  
 v- - sub&#x27;ll nl-. \ thing i- to  
@@ -345,21 +635,264 @@ in flic eye. oar. month, or throat, some­
 times lead to serious consequences; in  
 such rases, medical advice should a&gt;­  
 vvays be -ought a- de.ot k« pr-*ible.—  
-Ismilon (Jarilrn
+Ismilon (Jarilrn.  
+  
+“:*:e Tcp Ii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895382%2F1877022201%2F0449.jp2/pct:15.699896,19.719578,11.258249,9.393491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895382:1877022201:0449/pct:15.633142,12.221793,11.325343,17.985334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1877-03-22/ed-1/seq-4)
+## [From _The Pacific._](https://archive.org/details/per_the-pacific_the-pacific_1877-02-22_26_8/page/n6/mode/1up?view=theater)
+
+#### 1877-02-22 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+to ‘Treat Insect Stings.  
+  
+The pain caused by the sting of a  
+plant or insect is the result of a certain  
+amount of acid poison injected into the  
+blood. The first thing to be done is to  
+press the tube of a small key firmly on  
+the wound, moving the key from side to  
+side to facilitate the expulsion of the  
+sting and its accompanying poison. The  
+sting, if left in the wound, should be  
+earefiflly- extracted, it will  
+greatly increase,the local irritation. The  
+poison of stings being acid, common  
+sense points to the use of alkalies as the  
+proper means of cure. Among the  
+most easily procured remedies may be  
+mentioned, soft soap, liquor of ammonia  
+(spirits of hartshorn), smelling salts,  
+washing soda, quicklime made into a  
+paste with water, lime water, the juice  
+of an onion, tobacco juice, chewed to-  
+  
+bacco, bruised dock leaves, tomato juice,  
+  
+wood ashes, tobacco ash and carbonate  
+of soda.  
+  
+If the sting be severe, rest and cool-  
+ness should be added to the other reme-  
+dies, more especially in the case of nerv-  
+ous subjects. Nothing is soapt to make  
+the poison active as heat, and nothing  
+favors its activity less than cold, Let  
+the body be kept cool and at-rest, and  
+the activity of the poison will be reduc-  
+ed toa minimum. Any active exer-  
+tion by which the circulation is quicken-  
+ed will increase both pain and swelling.  
+If the swelling be severe, the part may  
+be rubbed with sweet oil, or a drop or  
+two of laudanum. Stings in the eye,  
+ear, mouth or throat, sometimes lead to  
+serious Consequences ; in such cases med-  
+ical advice should always be sought as  
+soon as possible.  
+  
+Drying up Cows
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1877-02-22_26_8%2Fper_the-pacific_the-pacific_1877-02-22_26_8_jp2.zip%2Fper_the-pacific_the-pacific_1877-02-22_26_8_jp2%2Fper_the-pacific_the-pacific_1877-02-22_26_8_0006.jp2/pct:9.429477,11.521655,13.345219,30.306856/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The weekly Union times._](https://www.loc.gov/resource/sn84026918/1877-02-23/ed-1/?sp=1)
+
+#### 1877-02-23 &middot; [Union C.H., South Carolina](http://dbpedia.org/resource/Union%2C_South_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ like the Bei kshircs. Those (the (  
+Berks) are much more enterprising, more  
+vide awake, less easily controlled, but good  
+bragrrs. Their grades are a wonderful  
+improvement upon the origiuul stack, may  
+JO Ulada VCI&#x27;V fit mid v.&gt; 1. lli? tiiiiivirtinn  
+  
+- ?J - -&#x27; J ? I&quot;&quot;I&quot;&quot;  
+jctwcen fat ami lean in the hams,shoulders  
+mil side pork or bacon is such as to dovel&gt;pe  
+and preserve the excellencies of the ,  
+neat. The hams are large and rich, and  
+uicy with diffused fat. llerkshircs aie not  
+juite so easily fattened when penned and  
+iystomatically fed as the Ksscx grade, but  
+hey will take much better care of them- ;  
+lelvcsiu the woods, and when penned for  
+attening may be finished off with half the  
+eed the original laud pikes&quot; would re  
+juirc.  
+With many Northern and Western breeders  
+the Ivssex is a more profitable pig than  
+be llerkshire. because his nature leads him  
+o take little exercise, so that all he eats  
+toes to flish ami fit. Respiration, which,  
+f rapid, reduces fat greatly, is with him  
+lever accelerated by moving about, aud&gt;  
+villi plenty of feed, the sole burden of life  
+s to digest it. This breed is pre-eminent  
+nnutig the black breeds, and excelled by  
+lone as fat producers.?.1 mrrt&#x27;ran Agriculurist.  
+? . - a  
+Raising C&#x27;-ntx an
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_flopeye_ver01:data:sn84026918:00295861411:1877022301:0040/pct:49.416524,25.934315,16.524039,22.276331/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Southern home._](https://newspapers.digitalnc.org/lccn/sn84020724/1877-02-26/ed-1/seq-4/)
+
+#### 1877-02-26 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+it grown in one  
+crop.  
+I hate paid as high as $4 50 per bushel,  
+but it can be had at about $2 now. v I1  
+would, willingly pay 110, if it could, not  
+be had for less. It is the best crop to  
+raise for profit or for use I have ever  
+: o y  
+it except tbat it takes labor to save it.  
+In cutting from good, ground it will re­  
+squire from ten to twelve hands to bind  
+&quot;after a machine, and. they. will have, hard  
+&#x27;work to keep up if the machine runs con­  
+stantly. When once ripe it is easily  
+saved, and does not spoil easily that is,  
+is not hard lo core.  
+Respectfully, Wm. Johhston.  
+Lebanon, Ky, February 8, 1877.  
+How to Treat Insect Stings-  
+The pain caused by the sting of plant  
+or insect is the result of certain amount  
+of acid poison injected into&#x27; the blood.  
+The first thing to be done is to press the  
+tube of a small key firmly on the wound,  
+moving the key from side to side to facili-  
+si 1&quot; - A?  
+LI ITU. 1 UlYB UUb B HlUlflD UU CVUUU LU  
+laie me expulsion oi me Burg ana lis ao  
+companying poison. The ating, if left in  
+the wound, should be . carefully extracted,  
+otherwise it will greatly increase the local  
+UUHUWUl A US lUMUU VI BUUg VClOg  
+acid, common sense points to the alkalies  
+as the proper means of cure. -Among the  
+most easily procured -remedies may -be  
+mentioned, soft soap, liquor of ammonia  
+(spirits of hartshorn,) smelling salts,  
+washing sods, quicklime made into a paste  
+with water, lime water, the juice of an on­  
+ion, tobacco juice, chewed tobacco, bruis­  
+ed dock leaves, tomato juice, wood ashes,  
+tobacco ash, and carbonate of soda;  
+ii toe sting ce severe, reBt ana coolness  
+should be added to the other remedies,  
+more especially in the case of nervous sub­  
+jects. , Nothing is so apt to make the poi­  
+son active as beat, and nothing favors its  
+activity less , than cold. Let the body be  
+kept cool and at rest, and the activity of  
+the poison will be reduced to a minimum.  
+Any active exertion whereby the circula­  
+tion is quickened will increase both pain  
+and swelling. If the swelling be severe,  
+the part may be rubbed with sweet oil, or  
+drop or two of laudanum. Stings in the  
+eye, ear, mouth, or thrdat,&#x27; sometimes lead  
+to serious consequences, in Such cases  
+medical advice should always be sought as  
+soon as possible. London Garden
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SHomeChar3n_ver01%2Fdata%2F1877022601%2F0200.jp2/pct:9.678363,45.514655,17.543860,36.020922/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Democrat._](https://panewsarchive.psu.edu/lccn/sn86053745/1877-03-07/ed-1/seq-7/)
+
+#### 1877-03-07 &middot; [Montrose, Pa.](http://dbpedia.org/resource/Montrose%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+How to Treat Insect Stin4s.  
+  
+,  
+The pain caused by the sting of ; a  
+plant or insect is,the result of aj certain  
+amotint of acid poison injected into , the  
+blood. The first thing to be done is to  
+press the tube of a ..small key firmly on  
+the wound, moving the key from side to  
+side. to facilitate the expulsion! of the  
+sting and , its accompanying poison. The  
+sting, if left in the wound, should be  
+carefully extracted, otherwise lit will  
+greatly increase the local irritation. The  
+poison of stings being acid, Common,  
+sense-points to the alkalies as the proper  
+means of cure. &#x27;Among the most easily  
+procured remedies may .be mentioned  
+soft soap, liquor of. ammonia (sPiiitscf  
+hartshorn), smelling salts, washing soda,  
+quicklime made into a paste with water ;  
+lime water, thejuice of an onion, tobacco  
+juice, chewed tobacco,bruised dOck leaves,  
+tomato juice, wood ashes, tobwo aih,  
+and carbonate of soda. &quot;  
+..• j  
+If the sting be severe, rest and cool.  
+ness should be.added to the other reme­  
+dies, more especially in the case; of ner­  
+vous subjects. Nothing is so apt to make  
+the poison activ as heat., &#x27;and&#x27; nothing  
+favors its activity less . than cold. ter  
+the body be kept cool and at rest, and  
+i  
+the activity &#x27;  
+of gie poison will be &#x27; educed  
+to a minimum. Any active xertion  
+whereby the circulation is quicke, ed *ill  
+increase both pain and swelling. 1 If the  
+swelling be severe, the part may be rub­  
+bed with sweet oil, or a drop or two of  
+lau4anum. Stings in the eye, ear&#x27;, mouth  
+or throat, sometimes lead to seriOns con­  
+sequences; in such cases medical advice  
+should always be sought as soon; as pos­  
+sible.—London Garden. I
+</td></tr></table>
+
+---
+
+## [From _Yorkville enquirer._](https://www.loc.gov/resource/sn84026925/1877-03-22/ed-1/?sp=4)
 
 #### 1877-03-22 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+&quot;  
+How to Treat Insect Stings.?A writer  
+in the London Garden gives the following  
 hints on this subject: &quot;The pain caused by  
 the sting of a plant or insect is the result of  
 ? n rwAiinf nmonn iniaofarl inf/\
@@ -382,9 +915,68 @@ made into a paste with water, lime water,
 the juice of an onion, tobacco juice,  
 chewed tobacco, bruised dock leaves, tomato  
 juice, wood ashes, tobacco ashes, and carbonate  
-of soda
+of soda.  
+Old Fashioned Gingerbrea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862762%2F1877032201%2F0251.jp2/pct:15.979992,84.145869,15.528059,10.513761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862762:1877032201:0251/pct:15.979992,83.048573,15.519284,12.380356/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Daily Charlotte observer (Charlotte, N.C. : 1883)._](https://newspapers.digitalnc.org/lccn/sn83045669/1877-03-23/ed-1/seq-2/)
+
+#### 1877-03-23 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ as the first  
+Siikgs. The pain caused by the  
+sting of a plant or insect is the result  
+of a certain amount of acid poison in­  
+, ected into blood. The first thing to  
+e done is to press the tube of a small  
+cey firmly on the wound, moving the  
+cey from side to side to facilitate the  
+expulsion of the sting and its accom  
+panying poison. The sting, if left in  
+the wound, should be carefully ex­  
+tracted, ortherwise it will greatly in­  
+crease the local irritation. Tbe poi­  
+son of stings being acid, common sense  
+points to the alkalies as the proper  
+means of cure,. Among the most easi­  
+ly procured remedies may be men­  
+tioned soft soap, liquor of ammonia  
+(spirits of hartshorn), smelling Baits,  
+washing soda, quicklime, made into a  
+paste with water, lime water, the juice  
+of an onion, tobacco juice, chewed to­  
+bacco, bruised dock leaves,&#x27; tomato  
+juice, ; tobacco, ash, and carbonate of  
+soda.  
+- If the sting be severe, rest and cool-.  
+ness should be added to the other  
+remedies, more especially in the case  
+of nervous subjects. . Nothing is so  
+apt to make the poison, active as heat,  
+and - nothing favors&#x27; its activity . less  
+than cold. Let the body be kept cool  
+and at re3t,&quot; and the activity ; of the  
+poison will be reduced to a minimum.  
+Any active exertion whereby the cir  
+culation, will increase both pain : and  
+swelling. If the swelling be severe,  
+the part may be rubbed with sweet  
+oil, or a drop or two of laudanum.  
+Stings m the eye, ear, mouth or throat  
+sometimes lead to I serious conse­  
+quences ; m such cases medical ad­  
+vice should always be sought as soon  
+as possible. London Garden. -  
+Ma
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DaiCharO14n_ver01%2Fdata%2F1877032301%2F0274.jp2/pct:47.063164,97.896136,16.735537,30.904662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,13 +992,91 @@ of soda
 
 ---
 
-## From _The Jasper weekly courier._
+## [From _Murfreesboro enquirer._](https://newspapers.digitalnc.org/lccn/sn85026804/1877-04-12/ed-1/seq-4/)
+
+#### 1877-04-12 &middot; [Murfreesboro, N.C.](http://dbpedia.org/resource/Murfreesboro%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ing  
+the outside unchanged. The outer por­  
+tion should therefore, after a while, be  
+cut off with a hay knife, and thrown  
+&#x27; Into the centre on top, where it will be  
+subjected to rottiug with the rest.  
+. Country -Gentleman. I  
+A most valuable remedy .for heaves,  
+and said to be a sure cure : Forty shu­  
+mac buds, one pound of resin, one pint  
+of ginger, half a pound of mustard, one  
+pint of unslacked lime, , one pound of  
+; epsom salts, four ounces of gum gulra­  
+j cum, six ounces of cream tartar Mix  
+thoroughly and divide into thirty pow­  
+v ders and frv Ann avpfv mA.ntn. i.  
+&#x27; J auvumamK A Li  
+  
+D0311ST1C.  
+How to Treat Insect Stings. The  
+pain caused by the sting of a plant or  
+insect is the result of a certain amount  
+of acid poison injected into the blood.  
+The first thing to be done is to press the  
+tube of a small key firmly on the  
+wound, j moving the key from side to  
+side to faciliate the expulsion of the  
+sting and its accompanying poison. The  
+sting, if left in the wound, should be  
+carefully extracted, otherwise it will  
+greatly increase the local irritation.  
+The poison of stings being acid, com­  
+mon sense points to the alkalies as the  
+proper means of cure. Among the most  
+easily procured remedies mar be men­  
+tioned soft&quot; soap, liquor &#x27; mmonia  
+(spirits of hartshorn), smelling salts,  
+washing soda, quicklime made into a  
+paste with Water, lime water, the juice  
+of an onion, tobacco juice, chewed to­  
+bacco, bruised dock leaves, tomato juice,  
+wood ashes, tobacco ash, and carbonate  
+of soda.  
+If the sting be severe, rest and cool­  
+ness should be added to the other reme­  
+dies,, more especially in the case of  
+nervous subjects. Nothing is soapt to  
+make the poison active as heat, and  
+nothing favors I its activity less than  
+cold. let the body be kept cool and at  
+rest, and the activity of the poison will  
+be reduced, to &amp; minimum. Any active  
+exertion whereby the &#x27; circulation is  
+quickened will increase &quot;boCh pain and  
+swelling. If the swelling be severe,  
+the part may be rubbed with sweet oil,  
+or a drop or two of laudanum. Stings  
+in the eye, ear, mouth or throat, some­  
+times lead to serious consequences; in  
+such cases medical advice should al­  
+ways be sought as soon as possible.  
+London Garden.  
+Uses
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AEMurf2n_ver01%2Fdata%2F1877041201%2F0060.jp2/pct:3.227602,3.266385,41.402337,127.790698/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Jasper weekly courier._](https://www.loc.gov/resource/sn84023963/1877-04-13/ed-1/?sp=3)
 
 #### 1877-04-13 &middot; [Jasper, Ind.](http://dbpedia.org/resource/Jasper%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
+HOT tO TrEat INSECT StINgS. A writer  
+in the London Garden gives the follow­  
 ing hints on this subject: The pain  
 caused by the sting of a plant or insect  
 is the result of a certain amount of acid  
@@ -444,8 +1114,129 @@ great advantage in baking is that it re
 quires less attention than roasting and  
 that potatoes or a batter or Yorkshire  
 pudding can be cooked under the meat.  
-Th
-</td></tr></table>
+This latter may be made by taking four  
+tablespoonruls of nour and rubbing  
+them into a smooth batter with a pint  
+of milk which has previously had a  
+well-beaten egg mixed with it. If eggs  
+are abundant, 2 or 3 may be employed  
+th advantage, the quantity of flour  
+being lessened. The milk and egg must  
+be added gradually, the batter being  
+rubbed until uniformly smooth after  
+each addition
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295936:1877041301:0120/pct:19.497632,38.512894,16.944616,29.048305/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Ottawa free trader._](https://www.loc.gov/resource/sn84038582/1877-04-21/ed-1/?sp=3)
+
+#### 1877-04-21 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+d and Iron Work.  
+  
+Bahing Meats.  
+Baking is a more economical mode of cook  
+  
+ing than roasting, especially in small families  
+  
+where economical stoves and ranges with  
+  
+side ovens are used. In baking there is less  
+loss of weight than in roasting, as the joint  
+  
+is less dried. Care should be taken that the  
+  
+floor of the oven is not too much heated or the  
+fat may be burnt, which causes a bad flavor.  
+A great advantage in baking is that it requires  
+  
+less attention than roasting, and that potatoes  
+  
+or a batter or Yorkshire pudding can be cook  
+  
+ed under the meat. This latter may be made  
+  
+by taking four tablespoonfuls of flour and  
+  
+rubbing them into a smooth batter with a  
+  
+pint of milk which has previously had a well  
+  
+beaten egg mixed with it. I eggs are abun­  
+dant, two or three may be employed with ad­  
+vantage, the quantity of flour being lessened  
+  
+The milk and egg must be added gradually,  
+the batter being rubbed until uniformly  
+  
+smooth after each addition
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471537:1877042101:0586/pct:17.029549,36.262409,28.790824,25.932385/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Lenoir topic._](https://newspapers.digitalnc.org/lccn/sn84024879/1877-04-26/ed-1/seq-4/)
+
+#### 1877-04-26 &middot; [Lenoir, N.C.](http://dbpedia.org/resource/Lenoir%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+How to Tbxat Insxct Sraas, The  
+!aln caused by the sting of a plant or  
+nsect li the result -of a certain amount  
+of acid poison injected Into the blood.  
+The first thing to be done ia to press the  
+tube of. a small key firmly on the  
+wound, moving the key from&#x27; side to  
+side to faclllate the 1 expulsion of the  
+sting and its accompanying poison. The  
+sting, if left in the wound, should be  
+carefully extracted, otherwise it will  
+greatly increase the local Irritation.  
+The poison of stings being acid, com­  
+mon sense points to the alkalies as the  
+proper means of cure. Among the most  
+easily, procured remedies mar be men­  
+tioned soft aoap, liquor mmonla  
+(spirits of hartshorn), smelling salts,  
+washing soda, quicklime made into a  
+paste with water, lime water, the Juice  
+of an onion, tobacco Juice, chewed to­  
+bacco, bruised dock leaves, tomato Juice,  
+wood ashes, tobacco ash, and carbonate  
+of soda.  
+If the sting be severe, rest and cool­  
+ness should be added to the other reme­  
+dies, more especially in the case of  
+nervous subjects. Nothing is so apt to  
+make the poison active as heat, and  
+nothing favors its activity less than  
+cold. Let the body be kept cool and at  
+rest, and the activity of the poison will  
+be reduced to a minimum. Any active  
+exertion whereby the circulation is  
+quickened will increase both pain and  
+swelling. If the swelling be severe,  
+the part may be rubbed with sweet oil,  
+or a drop or two of laudanum. Stings  
+in the eye, ear, mouth or throat, some­  
+times lead to serious consequences ; in  
+such cases medical advice should al­  
+ways be sought as soon as possible.  
+London Garde
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_LenTop11n_ver01%2Fdata%2F1877042601%2F0324.jp2/pct:28.070899,6.079607,19.249794,29.743730/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -537,15 +1328,77 @@ in the eye, ear, mouth, or throat, some-
 times lead to serious consequences; in  
 such cases, medical advice should al-  
 ways be sought as soon as possible.—  
-London Garden.
+London Garden.  
+  
+Darwinism. — Carlyle is now very  
+feeble through age, but his memory is  
+still marvelous, and the flow of his  
+talk—doubtless the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_manifesto_1877-05_7_5&#0036;6/pct:50.000000,9.985041,42.146465,82.741212/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_manifesto_1877-05_7_5%2Fsim_manifesto_1877-05_7_5_jp2.zip%2Fsim_manifesto_1877-05_7_5_jp2%2Fsim_manifesto_1877-05_7_5_0006.jp2/pct:50.000000,9.985041,42.146465,82.741212/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1877-06-05/ed-1/seq-4)
+## [From _The working Christian._](https://www.loc.gov/resource/sn97064666/1877-05-03/ed-1/?sp=4)
+
+#### 1877-05-03 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+n  
+A Chapter on Stings.  
+The pain caused by the sting of a  
+plant or insect is the result of a cer­  
+tain amount of acid or poison injected  
+into the blood. The first thing to be  
+done is to press the tube of a small  
+key firmly on the wound, moving the  
+key from side to side to facilitate the  
+expulsion of tho sting and its accom­  
+panying poison. The sting if left in  
+the wound should bo curofully extrac­  
+ted, otherwise it will greatly increaso  
+the local irritation. The poison of  
+stings being acid, common sense points  
+to the alkalies as tho proper means of  
+cure. Among tho most easily procured  
+remedies may be mentioned soft soap,  
+liquor of ammonia, (spirits of harts­  
+horn) smelling salts, washing soda,  
+quicklime made into a paste with wa­  
+ter, limewator, the juice of an onion,  
+tobacco juice, chewed tobacco, bruised  
+dock leaves, tomato juice, wood ashes,  
+tobacco ashes, and carbonate of soda.  
+If the sting is severe, re3t and coolness  
+should be added to the other remedios,  
+more especially in tho case of nervous  
+subjects. Nothing is so apt to make  
+poison active as heat, and nothing fa­  
+vors its activity lass than cold. Lot  
+the body be kept cool aud at rest, and  
+the activity of the pjison will be re­  
+duced to a minimum. Any active ex­  
+ertion whereby the circulation is  
+quickened will increase both pain and  
+swelling. If the swelling be severo  
+the part may be rubbed with sweet  
+oil or a drop or two of laudanum.  
+Stings in tho mouth, ear, eye or throat  
+sometimes load to serious conse­  
+quences; in such cases medical advice  
+should always be sought as soon as  
+possible.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver02:data:sn97064666:00517016093:1877050301:0067/pct:56.726094,22.958089,12.743112,29.709627/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Spirit of Jefferson._](https://www.loc.gov/resource/sn84026788/1877-06-05/ed-1/?sp=4)
 
 #### 1877-06-05 &middot; [Charles Town, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
@@ -608,21 +1461,26 @@ sweet oil, or drop or two of laudanum.?
 Stings in the eye, ear, mouth or throat, some­  
 times lead to serious conecquences ; in such  
 cases medical advice should always be sought  
-as soon as possiblo.?London Garden
+as soon as possiblo.?London Garden,  
+How to ease a Mirror.?Place a sheet  
+of tin foil, the size of the glass, upon a per­  
+fectly smooth solid marble top table, and  
+carefully rub down all the wrinkles in the  
+meta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F0020219235A%2F1877060501%2F0094.jp2/pct:1.821015,22.721471,14.122885,33.156907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:0020219235A:1877060501:0094/pct:1.816563,22.717718,14.105076,35.900901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Pulaski citizen._](https://chroniclingamerica.loc.gov/lccn/sn85033964/1877-06-21/ed-1/seq-1)
+## [From _The Pulaski citizen._](https://www.loc.gov/resource/sn85033964/1877-06-21/ed-1/?sp=1)
 
 #### 1877-06-21 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+&quot;  
 A Chapter on Stings.  
 The pain caused by the sting of  
 a plant or insect is the result of a  
@@ -667,21 +1525,27 @@ or two of laudanum. Stings in the
 eye, ear, mouth or throat sometimes  
 lead to serious consequences; in  
 such cases medical advice should ul  
-ways be sought as soon as possible
+ways be sought as soon as possible.  
+Down with Mobs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_frank_ver01%2Fdata%2Fsn85033964%2F00296020539%2F1877062101%2F0102.jp2/pct:75.517387,40.084581,9.770519,21.476740/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020539:1877062101:0102/pct:100.675676,53.446108,13.020833,29.557664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1877-06-29/ed-1/seq-4)
+## [From _The Portland daily press._](https://www.loc.gov/resource/sn83016025/1877-06-29/ed-1/?sp=4)
 
 #### 1877-06-29 &middot; [Portland, Me.](http://dbpedia.org/resource/Portland%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ the thing  
+needed, grew luxuriantly until long after  
+frosts.  
+flow 10 Treat Insect Mtings.  
+A writer in the London garden gives the  
+following hints on this subject:  
 The pain caused by the sting of a plantor  
 insect is the result of a certain amount of acid  
 poison injected into the blood. The first thing  
@@ -718,22 +1582,21 @@ sweet oil, or a drop or two of laudanum.
 Stings in the eye, ear, mouth, or throat some­  
 times lead to serious consequences; in such  
 cases medical advice should always be sought  
-as soon as possible
+as soon as possible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_farmington_ver01%2Fdata%2Fsn83016025%2F00279525425%2F1877062901%2F0594.jp2/pct:5.719378,27.327617,10.956740,14.035141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525425:1877062901:0594/pct:5.720305,24.541063,10.954464,16.823671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1877-06-29/ed-1/seq-4)
+## [From _Vermont phœnix._](https://www.loc.gov/resource/sn98060050/1877-06-29/ed-1/?sp=4)
 
 #### 1877-06-29 &middot; [Brattleboro, Vt.](http://dbpedia.org/resource/Brattleboro%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-If ow to Irrat In. tea Stlug-s.  
+ ow to Irrat In. tea Stlug-s.  
 The pain caused by tho sting ofa plant  
 or Insect is tho result ofa certain amount  
 of acid poison Injected into tbe blood. The  
@@ -771,22 +1634,23 @@ drop or two of laudanum. Sting. In the
 eye, ear, mouth, or throat, sometimes lead  
 to serious consequences ; lu such cases  
 medical advice should always be sought as  
-soon as possible. London Qardcn
+soon as possible. London Qardcn.  
+Irish Farmers in New Enoxasd.  
+The Bosto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_eden_ver01%2Fdata%2Fsn98060050%2F00280777389%2F1877062901%2F0813.jp2/pct:5.284858,33.129292,11.113193,19.289340/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777389:1877062901:0813/pct:5.284858,33.129292,11.113193,20.752463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Virginia free press._](https://chroniclingamerica.loc.gov/lccn/sn84026784/1877-08-11/ed-1/seq-1)
+## [From _Virginia free press._](https://www.loc.gov/resource/sn84026784/1877-08-11/ed-1/?sp=1)
 
 #### 1877-08-11 &middot; [Charlestown, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-A Chapter on Stings.  
+ on Stings.  
 The pain caused by the sting of a plant or  
 nscct is the result of a certain amount of acid  
 ir poison injected into the blood. &#x27;1 he first  
@@ -823,18 +1687,126 @@ Stings in the eye, ear, mouth or throat some­
 cases medical advice should always be sought  
 is sooo as possible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_kump_ver01%2Fdata%2Fsn84026784%2F00414186702A%2F1877081101%2F0128.jp2/pct:69.654969,54.566946,12.582326,21.312415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:00414186702A:1877081101:0128/pct:69.665241,54.572810,12.579266,21.311123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Puget Sound weekly Argus._
+## [From _The Greensboro patriot._](https://newspapers.digitalnc.org/lccn/sn84026473/1878-01-23/ed-1/seq-1/)
+
+#### 1878-01-23 &middot; [Greensboro, N.C.](http://dbpedia.org/resource/Greensboro%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ like .the.­  
+shires. Theso (the Rerks)  
+Jerk­  
+are wide  
+but  
+-much mo i e e Meirprising, more  
+awake, losi e isly? controlled  
+gooti fo. agr S. Tjiei r &quot;grades  
+wonderful; I improvement oh  
+original stock, play bo &#x27; made  
+fat, and yet ,thi proportion be  
+are a  
+tha.  
+very  
+ween  
+l.,i fit- Mini I.J 1 n -inVt l.o li n rnn itinilf-  
+L 1117 1 V. tll,U 11.1. 1.1.U . (. U.. , NIMVV..  
+ders,-and shlet iork: op baenjn, is  
+such as to oeveiop ana prube.rvf  
+the excellencleaj of &#x27;&quot;the meat  
+hams are large, rich 1 and  
+uicy,-  
+with diffused fat. llerks ar0  
+not,-&quot;  
+ouite so easily fattened when  
+rw-d ami sy sceujaiicany leu as-iui?  
+Essex grade  
+but they will  
+tako  
+ri i u c h be 1 1 e rl re of themselves&quot;, f l  
+the woods, and wlicu penn  
+d or  
+fin-  
+fastened -for fattening, may In  
+ishedoff with half the feci  
+the  
+rc-  
+original  
+&#x27;lai  
+pikes&#x27;  
+quire.  
+W it h manv.  
+northern aud  
+tern breeders.  
+the. Essex lis a  
+profitable pig  
+than the Berkshire,&#x27;  
+because -his  
+hatuie leads huh to:  
+take little exercise, so that aU lie  
+is t goes to nesn ami iau i.espi--.  
+ration, .-wh.ie.hi it rapidrexluciifat
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat31n_ver01%2Fdata%2F1878012301%2F0005.jp2/pct:110.237730,81.855250,15.145706,20.132518/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Portland daily press._](https://www.loc.gov/resource/sn83016025/1878-01-28/ed-1/?sp=4)
+
+#### 1878-01-28 &middot; [Portland, Me.](http://dbpedia.org/resource/Portland%2C_Maine)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+, and then to choose a  
+sunny day.  
+Baking.—BakiDg is a more economical  
+mode of cooking than roasting, especially in  
+small families where economical stoves, or  
+ranges with side ovens, are used. In baking  
+there is less loss of weight than in roasting.  
+  
+as tue nrst is mucn less tine
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525449:1878012801:0026/pct:17.813108,67.001331,10.885788,3.302286/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Elk County advocate._](https://www.loc.gov/resource/sn84026259/1878-02-14/ed-1/?sp=1)
+
+#### 1878-02-14 &middot; [Ridgway, Pa.](http://dbpedia.org/resource/Ridgway%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+. Baking is a more economi­  
+cal mode of cooking than roasting, es­  
+pecially iu small families where econ­  
+omical stoves, or ranges with side ovens  
+are used. In baking there is less loss of  
+weight than in roasting, as the first is  
+much less drie
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776099:1878021401:0290/pct:43.531977,74.411765,11.991279,3.403361/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Puget Sound weekly Argus._](https://www.loc.gov/resource/sn84022761/1878-05-17/ed-1/?sp=6)
 
 #### 1878-05-17 &middot; [Port Townsend, W.T. [Wash.]](http://dbpedia.org/resource/Port_Townsend%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
   
 A ChAPtEr on STins. The pain  
 caused by the sting of a plant or insect  
@@ -875,19 +1847,21 @@ or two of laudanum. Stings in the eye,
 ear, mouth or throat sometimes lead to  
 serious consequences; in such cases medi­  
 cal advice should always be sought as  
-soon as possible.--GardeN
-</td></tr></table>
+soon as possible
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn84022761:no_reel:1878051701:0866/pct:77.360067,47.184638,15.037594,21.946343/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _The Vancouver independent._](https://chroniclingamerica.loc.gov/lccn/sn87093109/1878-06-06/ed-1/seq-6)
+## [From _The Vancouver independent._](https://www.loc.gov/resource/sn87093109/1878-06-06/ed-1/?sp=6)
 
 #### 1878-06-06 &middot; [Vancouver, W.T. [Wash.]](http://dbpedia.org/resource/Vancouver%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-A CII.U&#x27;TEK ox tsTixos. — The pain  
+ ox tsTixos. — The pain  
 caused by the sting of a plant or insect  
 is the result of a certain amount of acid  
 poison injected into the blood. The tirst  
@@ -926,9 +1900,9 @@ or two of laudanum. Stings in the eye,
 ear, mouth or throat sometimes lead to  
 serious consequences; in such cases medi­  
 cal advice should always be sought ns  
-soon as possible. Uanlen
+soon as possibl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_duwamish_ver01%2Fdata%2Fsn87093109%2F00200290987%2F1878060601%2F0190.jp2/pct:76.540581,48.167428,16.389028,24.056205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290987:1878060601:0190/pct:76.528056,48.163196,16.382766,24.056205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -940,26 +1914,11 @@ soon as possible. Uanlen
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 | STINGS.  
 | The pain caused by the sting of a plant or in-  
 | sect is due to the acid poison injected into the  
 blood. An exchange gives the following direc-  
-| tions, which, if obeyed, are likely to eradicat
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1878-06-20_51_25&#0036;5/pct:71.767001,35.231587,21.348941,3.929385/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1878-06-20_51_25/page/n5/mode/1up?view=theater)
-
-#### 1878-06-20 &middot; [Boston](http://dbpedia.org/resource/Boston)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+| tions, which, if obeyed, are likely to eradicate  
 the pain:  
 | The first thing to be done is to press the tube  
 | of a small key from side to side to facilitate the  
@@ -973,7 +1932,7 @@ The poison of stings being acid, common-sense
   
 sissippi meridian for dramas of “Indian” life | points to the alkalies as the proper means of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1878-06-20_51_25&#0036;5/pct:50.724638,39.331815,42.614270,5.941534/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_youths-companion_1878-06-20_51_25%2Fsim_youths-companion_1878-06-20_51_25_jp2.zip%2Fsim_youths-companion_1878-06-20_51_25_jp2%2Fsim_youths-companion_1878-06-20_51_25_0005.jp2/pct:50.724638,35.364465,42.614270,9.908884/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -990,9 +1949,12 @@ mong the most easily-procured remedies
 may be mentioned soft soap, liquor of ammonia  
   
 In one of the frontier counties of Texas, re- (spirits of hartshorn), smelling salts, washing  
-cently, a boy, while out in search of some sad- ; Soda, quicklime made into a paste with water,
+cently, a boy, while out in search of some sad- ; Soda, quicklime made into a paste with water,  
+  
+dle-horses, which ordinarily were to be found  
+close to the ranch, failed t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1878-06-20_51_25&#0036;5/pct:50.836120,45.690964,42.586399,2.714503/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_youths-companion_1878-06-20_51_25%2Fsim_youths-companion_1878-06-20_51_25_jp2.zip%2Fsim_youths-companion_1878-06-20_51_25_jp2%2Fsim_youths-companion_1878-06-20_51_25_0005.jp2/pct:50.836120,45.690964,42.586399,3.872437/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1004,7 +1966,8 @@ cently, a boy, while out in search of some sad- ; Soda, quicklime made into a pa
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ seemed to indi-  
+cate decisively its subjective nature, for when a  
   
 limewater, the juice of an onion, tebacco juice,  
   
@@ -1031,7 +1994,65 @@ sometimes lead to serious consequences; in such
 cases, medical advice should always be sought  
 as soon as possible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1878-06-20_51_25&#0036;5/pct:72.157191,48.215642,21.599777,12.433561/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_youths-companion_1878-06-20_51_25%2Fsim_youths-companion_1878-06-20_51_25_jp2.zip%2Fsim_youths-companion_1878-06-20_51_25_jp2%2Fsim_youths-companion_1878-06-20_51_25_0005.jp2/pct:51.923077,48.215642,41.833891,42.520881/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Philippi plaindealer._](https://www.loc.gov/resource/sn84037877/1878-08-03/ed-1/?sp=3)
+
+#### 1878-08-03 &middot; [Philippi, W. Va.](http://dbpedia.org/resource/Philippi%2C_West_Virginia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Slings,  
+The pain caused by a sting of a plaut  
+or insect is due to the acid poison in­  
+jected into the blood. An exchange  
+gives the following directions, which, if  
+obeyed, are likely to eradicate the pain:  
+The first tiling to be done is to press the  
+tube of a small key from side to side to  
+facilitate the expulsion of the sting and  
+its accompanying poison. The sting, if  
+left in the wound, should be carefully  
+extracted, otherwise it will greatly in­  
+crease the local irritation. The poison  
+of stings being acid, oommon-sense  
+points to the alkalies as the proper  
+means of cure.  
+Among the most easily-procured reme­  
+dies may be mentioned soft-soap, liquor  
+of ammonia (spirits of hartshorn),smell­  
+ing salts, washing soda, quicklime made  
+into a paste with water, limewater, the  
+juice of an onion, tobacco juice, chewed  
+tobacco, bruised dock leaves, tomato  
+juice, wood ashes, tobacco ash and car­  
+bonate of soda.  
+| If the 6ting be severe, rest and cool­  
+j ness should be added to the other rema­  
+| dies, especially in the case of nervous  
+subjects. Nothing is so apt to make  
+j the poison active as heat, and nothing  
+| favors its activity less than cold. Let  
+j the body be kept cool and at rest, and  
+I the activity of the poison will be reduc­  
+| ed to a minimum. Any active exertion  
+whereby the circulation is quickened  
+will increase both pain and swelling. If  
+the swelling be severe, the part may be  
+rubbed with sweet oil or a drop or two  
+of laudanum. Stings in the eye, ear,  
+mouth or throat, sometimes lead&quot; to seri­  
+ous consequences; in such cases, medi­  
+cal advice should always be sought as  
+soon as possible.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_monroe_ver01:data:sn84037877:00542867656:1878080301:0138/pct:56.879015,56.047759,17.371520,25.333103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1067,6 +2088,64 @@ as soon as possible.
 
 ---
 
+## [From _Canton register._](https://www.loc.gov/resource/sn85033474/1878-11-15/ed-1/?sp=2)
+
+#### 1878-11-15 &middot; [Canton, Ill.](http://dbpedia.org/resource/Canton%2C_Illinois)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+Boston Commercial Bulletin.  
+About Stings.  
+j The pain caused by the sting of a j  
+, plant or insect is the result of a certain  
+; amount of acid poison injected into the !  
+I blood. The first thing to be done is to  
+! press the tube of a small key firmly on j  
+! the wound, moving the key from side j  
+| to side to facilitate the expulsion of the !  
+sting and its accompanying poison. 1  
+The sting, if left in the wound, should  
+! be carefully extracted, otherwise it will !  
+! greatly increase the local irritation, j  
+j The poison of stings being acid, com- j  
+I men sense points to the alkalies as the j  
+&#x27; proper means of cure. Among the 1  
+  
+most easily procnred remedies may be  
+mentioned soft soap, liquor of ammo­  
+nia (spirits of hartshorn), smelling  
+salts, washing soda, quick lime made  
+into a paste with water, lime water,  
+the juice of an onion, tobacco juice,  
+chewed tobacco, bruised dock leaves,  
+tomato juice, wood ashes, tobacco ash  
+and carbonate of soda. If the sting be  
+severe, rest and coolness should be  
+added to the other remedies, more es­  
+pecially in the case of nervous sub­  
+jects. Nothing is so apt to make the  
+poison active as heat, and nothing  
+favors its activity less than cold. Let  
+the body be kept cool and at rest and  
+the activity of the poison will be re­  
+duced to a minimum. Any active ex­  
+ertion whereby the circulation is quick­  
+ened will increase both pain and swell­  
+ing. If the swelling be severe the part  
+may be rubbed with sweet oil or a drop  
+or two of laudanum. Stings in the  
+eye, ear, mouth or throat sometimes  
+lead to serious consequences; in such  
+cases, medical advice should always be  
+sought for as soon as possible
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn85033474:00514151143:1878111501:0508/pct:50.526316,4.338434,30.000000,89.576958/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## A Chapter on Stings
 
 #### From _Lowell daily citizen._
@@ -1077,13 +2156,13 @@ as soon as possible.
 
 ---
 
-## [From _The Elk County advocate._](https://chroniclingamerica.loc.gov/lccn/sn84026259/1878-11-21/ed-1/seq-4)
+## [From _The Elk County advocate._](https://www.loc.gov/resource/sn84026259/1878-11-21/ed-1/?sp=4)
 
 #### 1878-11-21 &middot; [Ridgway, Pa.](http://dbpedia.org/resource/Ridgway%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 A Chapter on Htlngs.  
 The pain ctnsed by the sting of a  
 piuut or inpect is tne result oi a certain  
@@ -1125,19 +2204,19 @@ sometimes lead to serious consequences;
 in such cases medical advice should  
 always be sought as soon as possible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_deike_ver01%2Fdata%2Fsn84026259%2F00280776099%2F1878112101%2F0433.jp2/pct:7.726624,40.535990,11.955746,19.671671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776099:1878112101:0433/pct:7.726624,40.535990,11.955746,19.671671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Centre reporter._](https://chroniclingamerica.loc.gov/lccn/sn83032058/1878-12-05/ed-1/seq-1)
+## [From _The Centre reporter._](https://www.loc.gov/resource/sn83032058/1878-12-05/ed-1/?sp=1)
 
 #### 1878-12-05 &middot; [Centre Hall, Pa.](http://dbpedia.org/resource/Centre_Hall%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+&gt;  
 The |wun caused by the nting of a  
 plaut or insect in the rennlt of a certain  
 amount of acid poinuu injected into the  
@@ -1176,73 +2255,75 @@ sweet oil, or a drop or two of landauam.
 Stings in the eye, ear, mouth or throat,  
 sometimes leaJ to serious consequences;  
 in such cases medical advice shonld  
-always be sought as soon as possible
+always be sought as soon as possibl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_kellerman_ver01%2Fdata%2Fsn83032058%2F00296028745%2F1878120501%2F0280.jp2/pct:35.831057,46.929198,9.791423,16.163368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028745:1878120501:0280/pct:35.826720,46.929198,9.782750,16.159967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _San Marcos free press._
+## [From _San Marcos free press._](https://www.loc.gov/resource/sn86088181/1878-12-14/ed-1/?sp=7)
 
 #### 1878-12-14 &middot; [San Marcos, Tex.](http://dbpedia.org/resource/San_Marcos%2C_Texas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-The pain caused by the sting of a  
+?Stlngs. t.it..  
+Tho paiii&#x27; caused by. the sting &#x27;of a  
 plant or insect is the result of a certain  
-amount of acid poison injected into the  
-blood. The first thing to be done is to  
-press the tube of a small key firmly on  
-the wound, moving the key from side  
-to side to facilitate the expulsion of the  
+umount.of acid poison injected into the  
+blood. , The first thing to be done is to  
+press the tube of a small key firmly oh  
+the wound, moving tho key from side  
+to sido to facilitate tho expulsion of the  
 sting and its accompanying poison. The  
-sting, if left in the wound, should be  
+stiug, if left in the wound, should be  
 carefully extracted, otherwise it will  
-greatly increase the local irritation. The  
-poison of stings being acid, common  
-sense points to the alkalies as the most  
-proper means of cure. Among the most  
-easily procured remedies may be men  
+greatly increase the local irritation.&#x27; The  
+poison of stings being aoid, common  
+sense points to the alkalies as tho most  
+proper means of cure. Among tho most  
+easily procured remedies may be &#x27;men&#x27;  
 tioned soft-soap, liquor of ammonia  
-(spirits of hartshorn), smelling salts,  
-washing soda, quick lime made into a  
-paste with water, lime water, the juice  
+(spirits of hartshorn), smelling salts&quot;,  
+washing soda, quick limo made into a  
+pasto with water, lime water, the juice  
 of an onion, tobacco juice, chewed to­  
 bacco, bruised dock leaves, tomato juice,  
-wood ashes, tobacco ash and carbonate  
+wood ashesj tobacco ash and carbonate  
 of soda. If the sting be severe rest and  
-coolness should be added to the other  
+coolness should bo added to the other  
 remedies, more especially in the case of  
 nervous subjects. Nothing is so apt to  
-make the poison active as heat, and  
+make the poison active as beat, and I  
 nothing favors its activity less than cold.  
-Let the body be kept cool and at rest,  
-and the activity of the poison will be re-  
-duced to a minimum. Any active ex-  
+Let the body be kept cool arid at rest,  
+and the activity of tho poison will be re-&#x27;  
+duced to a minimum. Any active ex:  
 ertion, whereby the circulation is quick­  
 ened, will increase both pain and swell­  
 ing. If the swelling is severe the part  
-may be rubbed with sweet oil or a drop  
+may bo rubbed with sweet oil or a drop  
 or two of laudanum. Stings in the eye,  
 ear, mouth or throat sometimes lead to  
-serious &quot;consequences. In such cases  
+serious Consequences. In such cases  
 medical advice should always be sought  
-for as soon as possible. Graphic
-</td></tr></table>
+for as soon as poasible
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:0020029693A:1878121401:0493/pct:75.658617,57.123813,23.600439,40.993168/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _The Vancouver independent._](https://chroniclingamerica.loc.gov/lccn/sn87093109/1878-12-26/ed-1/seq-6)
+## [From _The Vancouver independent._](https://www.loc.gov/resource/sn87093109/1878-12-26/ed-1/?sp=6)
 
 #### 1878-12-26 &middot; [Vancouver, W.T. [Wash.]](http://dbpedia.org/resource/Vancouver%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-A Cbaftkr UN BVruraa. — The pair,  
+. — The pair,  
 caused by tbe sting of a plant or iatect  
 is tbe result of a certain amount of acid  
 poison injected into tbe blood. The tirst  
@@ -1281,22 +2362,21 @@ or tWO of laudanum. Stings iv the eye,
 ear, month or throat sometimes lead to  
 serious consequsnoss; in such rtsot medi­  
 cal advice should always l&gt;e sought as  
-soon as possible. Partis*.
+soon as possibl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_duwamish_ver01%2Fdata%2Fsn87093109%2F00200290987%2F1878122601%2F0408.jp2/pct:74.377955,47.296502,16.515302,24.112849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290987:1878122601:0408/pct:74.371734,47.292297,16.496641,24.100235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Vancouver independent._](https://chroniclingamerica.loc.gov/lccn/sn87093109/1879-01-02/ed-1/seq-6)
+## [From _The Vancouver independent._](https://www.loc.gov/resource/sn87093109/1879-01-02/ed-1/?sp=6)
 
 #### 1879-01-02 &middot; [Vancouver, W.T. [Wash.]](http://dbpedia.org/resource/Vancouver%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-A C&#x27;ii.M&#x27;TEK on STIXOS. — Tho paio  
+ on STIXOS. — Tho paio  
 caused by the sting of a plant or iusect  
 is tho result of a certain amount of acid  
 poison injected into the blood. The first  
@@ -1335,37 +2415,41 @@ or two of laudanum. Stings in the eye,
 ear, mouth or throat sometimes lead to  
 serious conscqueuc.es; in such cases nietli-  
 I cal advice should always be sought as  
-j soon as possible. Garden.
+j soon as possibl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wa_duwamish_ver01%2Fdata%2Fsn87093109%2F00200290999%2F1879010201%2F0016.jp2/pct:75.997459,49.101535,16.905972,24.869156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290999:1879010201:0016/pct:75.984752,49.092812,16.899619,24.860433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-2)
+## [From _Mower County transcript._](https://www.loc.gov/resource/sn85025431/1879-01-16/ed-1/?sp=2)
 
 #### 1879-01-16 &middot; [Lansing, Minn.](http://dbpedia.org/resource/Austin%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ Of no prac-! The pain caused by the sting of a  
+tical value but that makes no difference1 plant or insect is the result of a certain  
 to the non- reading farmer, whose cupid- amount of acid poison injected in the  
 ity tempts him to put faith in oily gam- blood. The first thing to be done is to  
-mon sharks.- Prairie Farmer. press the tube of a small key firmly on
+mon sharks.- Prairie Farmer. press the tube of a small key firmly on  
+  
+of soda If the gtin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0156.jp2/pct:61.192619,37.385608,21.690708,1.438526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479743:1879011601:0156/pct:61.188509,36.470475,21.686598,10.307292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-2)
+## [From _Mower County transcript._](https://www.loc.gov/resource/sn85025431/1879-01-16/ed-1/?sp=2)
 
 #### 1879-01-16 &middot; [Lansing, Minn.](http://dbpedia.org/resource/Austin%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+&quot; said a young man to his friend.  
   
 to facilitate the expulsion of the  
   
@@ -1375,21 +2459,7 @@ left in the wound, should
   
 care^u.^y  
   
-crude carbolic acid. Mix this into the I K^tly. increase the local irritation.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0156.jp2/pct:61.241935,39.257618,21.608515,2.350448/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-2)
-
-#### 1879-01-16 &middot; [Lansing, Minn.](http://dbpedia.org/resource/Austin%2C_Minnesota)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+crude carbolic acid. Mix this into the I K^tly. increase the local irritation.  
   
 extracted, otherwise^ it will  
   
@@ -1411,21 +2481,22 @@ lime-water, the juice
   
 onioD) tob&#x27;acco juice  
   
-rn the handling of milk. Wooden pails bacco bruised dock leaves, tomato juice
+rn the handling of milk. Wooden pails bacco bruised dock leaves, tomato juic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0156.jp2/pct:61.225496,40.596603,28.253812,5.384838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479743:1879011601:0156/pct:61.225496,28.821886,32.684009,17.156343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-2)
+## [From _Mower County transcript._](https://www.loc.gov/resource/sn85025431/1879-01-16/ed-1/?sp=2)
 
 #### 1879-01-16 &middot; [Lansing, Minn.](http://dbpedia.org/resource/Austin%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+, and quickened will increase both pain and  
+asks, Who can_ beat it:&quot;_ &quot;Mr. Ma- swelling. If the swelling be severe, the  
   
 ^be activity of the poison will be!  
   
@@ -1434,23 +2505,21 @@ rop or two of laudanum. Stings in
 the eye, ear, mouth or throat, sometimes  
 lead to serious consequences in such  
 cases medical advice should always be  
-sought for as soon as possible.—New,ten
+sought for as soon as possible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0156.jp2/pct:63.247442,49.481424,20.959191,5.076582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479743:1879011601:0156/pct:61.287141,49.475002,22.907163,5.076582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-3)
+## [From _Mower County transcript._](https://www.loc.gov/resource/sn85025431/1879-01-16/ed-1/?sp=3)
 
 #### 1879-01-16 &middot; [Lansing, Minn.](http://dbpedia.org/resource/Austin%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-the non-reading farmer, whose cupid- amount of acid poison injected in the 7  
+- amount of acid poison injected in the 7  
   
 poison 01 sungs Deiug aciu, com  
   
@@ -1461,21 +2530,7 @@ I dispense with carbolic acH. No other easily procured remed.es may be men-, the
   
 I preparation of whitewash equals this for ,soaP. liquor of ammonia but a single thaw out.&quot;— Whitehall  
   
-that high and low grades of sugar be ad- *ou^try houses- (spirits of hartshorn), smelling salts, Times
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0157.jp2/pct:50.304367,37.354447,43.465294,6.765835/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-3)
-
-#### 1879-01-16 &middot; [Lansing, Minn.](http://dbpedia.org/resource/Austin%2C_Minnesota)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+that high and low grades of sugar be ad- *ou^try houses- (spirits of hartshorn), smelling salts, Times.  
 mitted at one rate of duty bill to provide washing soda, quick-lime made into a CHEISTMAS was such a windy, bluster­  
 for additional bounty to soldiers of the war IN no other business does pithiness PASTE jth  
   
@@ -1499,20 +2554,44 @@ Let the
   
 whlch  
   
-lowing, clipped from a local paper, and quickened will increase both pain and charge of the hydraulic pipe turne
+lowing, clipped from a local paper, and quickened will increase both pain and charge of the hydraulic pipe turned  
+I&#x27;ed&#x27;mitil asks, &quot;Who can beat it:&quot; Mr. Ma- swelling. If the swelling be severe, the o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0157.jp2/pct:50.263513,44.072297,43.444867,7.191299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479743:1879011601:0157/pct:50.263513,37.351248,43.497978,14.337812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Mower County transcript._](https://chroniclingamerica.loc.gov/lccn/sn85025431/1879-01-16/ed-1/seq-3)
+## [From _Mower County transcript._](https://www.loc.gov/resource/sn85025431/1879-01-16/ed-1/?sp=3)
 
 #### 1879-01-16 &middot; [Lansing, Minn.](http://dbpedia.org/resource/Austin%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
+mon sense points to the alkalies as the A MAX in this town froze the bottom  
+proper means of cure. Among the most
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479743:1879011601:0157/pct:72.263758,41.775432,21.436451,0.950096/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Mower County transcript._](https://www.loc.gov/resource/sn85025431/1879-01-16/ed-1/?sp=3)
+
+#### 1879-01-16 &middot; [Lansing, Minn.](http://dbpedia.org/resource/Austin%2C_Minnesota)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+,er, lime-water, the juice ing dav that a great many wicked young  
+  
+)ui^ chrd-t0-  
+  
+rr  
+  
+bruised dock leaves, tomato juice, ladies bad in their stockings.—Boston  
   
 ood ashes, tobacco ash and carbonate Commercial Bulutin.  
   
@@ -1534,15 +2613,92 @@ reduced
 exertion  
   
 to a minimum. Any active  
-whereby the circulation i-
+whereby the circulation i-  
+  
+but I&#x27;v
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_quasar_ver01%2Fdata%2Fsn85025431%2F00212479743%2F1879011601%2F0157.jp2/pct:72.292356,45.831734,21.489562,5.006398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479743:1879011601:0157/pct:72.288271,33.723608,21.485476,17.111324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The Red Cloud chief._
+## [From _The Superior times._](https://www.loc.gov/resource/sn85040344/1879-01-18/ed-1/?sp=3)
+
+#### 1879-01-18 &middot; [Superior, Wis.](http://dbpedia.org/resource/Superior%2C_Wisconsin)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+k  
+salt dissolved instead of boiled rice, and  
+dispense with carbolic acid. No other  
+preparation of whitewash equals this fo
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:0027176960A:1879011801:0617/pct:31.138962,45.313451,12.367443,1.460743/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Albemarle enquirer._](https://newspapers.digitalnc.org/lccn/sn85042023/1879-01-23/ed-1/seq-4/)
+
+#### 1879-01-23 &middot; [Murfreesboro, N.C.](http://dbpedia.org/resource/Murfreesboro%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ on the fruit.  
+A Chapter on Stings.!  
+The pain  
+caused by tbe sting of a pliant or  
+Insect  
+Is tbe result of a certain amount  
+of poi-  
+fion injected into tho blood. Tha nrst  
+thing to be done is to press the tube of  
+a small key firmly on the wound, mov­  
+ing the key from side to side to facilitate  
+the ; expulsion of the sting and its ac­  
+companying poision. Thejsting, if left  
+in the wound, should be carefully ex­  
+tracted, otherwise it will greatly in-  
+crease the local irritation. The poison  
+or stings Demg aciu, common; sense  
+points to the alkalies a the proper  
+means of cure. Among the most easily  
+procured remedies may bp mentioned  
+soft soap, liquid of ammonia (spirits of  
+hartshorn;, smelling calps, washing  
+soda, quicklime made into a paste with  
+water, lime water, the juice of an on  
+ion, tobacco juice, chewied tobacco,  
+bruised dock leaves, tomato juice, wood  
+ashes, tobacco ash, and carbonate of  
+soda. Jf the sting be severe, rest and  
+coolness should be added to the other  
+remedies, more especially in the lease of  
+nervous subjects. Nothing is go apt to  
+make the &quot;poison active as heat, and  
+nothing favors its activity less than  
+cold. JLet the body be kept cool jand at  
+rest and the activity of the j poison will  
+be reduced to a minimum. Any active  
+exertion &quot;&quot;whereby the circulat ion is  
+quickened will increase both pain and  
+swelling. If the swelling be severe the  
+part may be rubbed with sweet ojil or a  
+drop or two of laudanum. Stings in  
+the eye, ear, mouth or throat sometimes  
+lead to bad consequences; in suclk cases  
+medical advice should always be sought  
+for as soon as possible
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AEMurf3n_ver01%2Fdata%2F1879012301%2F0465.jp2/pct:9.863332,36.338930,18.927282,28.826555/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Red Cloud chief._](https://www.loc.gov/resource/sn84022835/1879-01-23/ed-1/?sp=2)
 
 #### 1879-01-23 &middot; [Red Cloud, Webster Co., Neb.](http://dbpedia.org/resource/Red_Cloud%2C_Nebraska)
 
@@ -1591,8 +2747,11 @@ of laudanum. Stings in the eye, ear,
 mouth or throat semetimes lead to  
 serious consequences; in such cases  
 medical advice should always be sought  
-for as soon as possible
-</td></tr></table>
+for as soon as possible.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285013:1879012301:0095/pct:79.148428,58.728640,14.126542,21.982228/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1604,7 +2763,12 @@ for as soon as possible
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+t fire at Pera in  
+1870, and he never re-wrote his  
+reminiscences. A large sperm whale, over  
+60 feet in length, has been found on the  
+&#x27; shore about 20 miles west of  
+Macdonnell Bay. It was broken in two.  
 The pain caused by the sting of a plant  
 or insect is the result of a certain  
 amount of acid poison injected into the  
@@ -1644,7 +2808,7 @@ dr»p or two of laudanum. Stings in the
 eye, ear, mouth or throat sometimes lead  
 to serious consequences ; in such cases  
 medical advice should always be sought  
-for as soon as possible. Melbourn
+for as soon as possible.
 </td></tr></table>
 
 ---
@@ -1657,22 +2821,7 @@ for as soon as possible. Melbourn
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-y as to the rule being  
-constantly broken ; but he did not see  
-the accident. Mr. Pinhey appended the  
-following finding to the depositions : —  
-&#x27; I find that .the deceased, Patrick  
-Curran, came by his death by having  
-injudiciously run between the buffers of  
-certain trucks when in motion at the  
-railway station, Redfern, on Saturday  
-morning, which act was in direct  
-contravention of rule 243 of the geueral  
-regulations for railway officials and  
-others, and which breach it is evident  
-from the evidence adduced before me is  
-unfortunately of frequent occurrence. W.  
-T. Pinhey, J.P. Sydney, March 8, 1S79.&#x27;  
+&#x27;  
 Stings.— The pain caused by the sting of  
 a plant or insect is the result of a  
 certain amount of acid poison injected  
@@ -1712,7 +2861,7 @@ drop or two of ladanum. Stings in the
 eye, ear, mouth, or throat sometimes  
 lead to serious consequences ; in such  
 cases medical advice should always be  
-sought for as soon as possible.  Robber
+sought for as soon as possible.
 </td></tr></table>
 
 ---
@@ -1725,8 +2874,7 @@ sought for as soon as possible.  Robber
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-gloriouB.&quot; THE pain oauscd by the sting  
+&quot; THE pain oauscd by the sting  
 of a plant or insect is the result of  
 aoertain amount of aoid poison injeoted  
 into the .blood. The first thing to be  
@@ -1767,7 +2915,7 @@ laudqnuiq. Stings in the &gt; eye, ear,
 mouth, or throat sometimes leads to  
 serious consequences \ in buch cases  
 medical advioe should always be&#x27; sought  
-for as&#x27; soon as possible. THE Londo
+for as&#x27; soon as possible
 </td></tr></table>
 
 ---
@@ -1780,8 +2928,7 @@ for as&#x27; soon as possible. THE Londo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-&#x27;g t out the lbiestway shecan ,e Sciucos  
+ out the lbiestway shecan ,e Sciucos  
 The paia` caiiiised by ,tlielting of;, a  
 plantoroinsect is tho&#x27;rcsult &quot;of &#x27;a  
 &#x27;ceritain&#x27; amount of acid poiion  
@@ -1825,18 +2972,19 @@ w of lhudaiee. Stings ic ftle cyc, c l,
 leueli, or tihroat soluefien&#x27;s leaid to  
 secricoui; consequeniccesi . In suchi  
 ca;c. dical advicelic slhoetl clrways ie  
-soughte for ac:c aseoi l possiblel.--Co
+soughte for ac:c aseoi l possible
 </td></tr></table>
 
 ---
 
-## From _The Holt County sentinel._
+## [From _The Holt County sentinel._](https://www.loc.gov/resource/sn85034039/1879-05-30/ed-1/?sp=1)
 
 #### 1879-05-30 &middot; [Oregon, Missouri.](http://dbpedia.org/resource/Oregon%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ the glands of  
+the neck are swollen.  
 A Chapter on Stings.  
 The pain cansed by the sting of a  
 plant or insect is the result of a certain  
@@ -1878,16 +3026,21 @@ sometimes lead to serious consequences;
 in such cases medical advice should al  
 ways be sought for as soon as possible.  
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559942:1879053001:0099/pct:71.109993,32.627866,10.798122,18.442933/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _The Highland weekly news._](https://chroniclingamerica.loc.gov/lccn/sn85038158/1879-10-09/ed-1/seq-4)
+## [From _The Highland weekly news._](https://www.loc.gov/resource/sn85038158/1879-10-09/ed-1/?sp=4)
 
 #### 1879-10-09 &middot; [Hillsborough [Hillsboro], Highland County, Ohio](http://dbpedia.org/resource/Hillsboro%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ tho basis of abstinence and so­  
+briety. fN. T. Ad.  
   
 A Chapter on Stings.  
   
@@ -1930,20 +3083,19 @@ sometimes lead to serious consequences
 in such cases medical advice should al  
 ways be sought for as soon as possible,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_borachio_ver02%2Fdata%2Fsn85038158%2F0028077585A%2F1879100901%2F0074.jp2/pct:14.723833,17.085186,9.749771,15.655413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:0028077585A:1879100901:0074/pct:19.615619,20.593536,12.995729,23.056590/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Ashtabula telegraph._](https://chroniclingamerica.loc.gov/lccn/sn88078580/1879-10-17/ed-1/seq-1)
+## [From _Ashtabula telegraph._](https://www.loc.gov/resource/sn88078580/1879-10-17/ed-1/?sp=1)
 
 #### 1879-10-17 &middot; [Ashtabula, Ohio](http://dbpedia.org/resource/Ashtabula%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-of iron and nickel.  
+n and nickel.  
   
 A Chapter on Stings.  
   
@@ -1986,7 +3138,164 @@ sometimes lead to serious consequences;
 in such cases medical advice should al­  
 ways be sought for as soon as possible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_guildenstern_ver01%2Fdata%2Fsn88078580%2F00280775216%2F1879101701%2F0257.jp2/pct:80.665247,58.929660,10.716041,16.506156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775216:1879101701:0257/pct:107.536042,78.568816,14.269332,22.004145/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Springfield weekly Republican._](https://www.loc.gov/resource/sn83020847/1879-10-24/ed-1/?sp=7)
+
+#### 1879-10-24 &middot; [Springfield, Mass.](http://dbpedia.org/resource/Springfield%2C_Massachusetts)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ch time, it is  
+best to do so. When we know beforehand that  
+company is coming, we can have everything  
+ready to set upon the table, and so spend not  
+over bait an hour getting supper. Tbe supper  
+ready, it is onr part to make our guests feel per­  
+fectly free to eat or not of tbe dishes set before  
+them—to make them feel by our cordial man­  
+ners, rather than by words, that we like to share  
+our best things with them, and are pleased to  
+have them enjoy them, while we will not make  
+them eat merely to please us, but let us talk  
+about something besides the food. Cheerful con­  
+versation at table promotes digestion.  
+Tug Pain Caused By the Sting of a plant  
+or insect Is the result of a certain amount of  
+acid poison injected into the blood. The first  
+thing to be done Is to press the tube of a small  
+key from side to side, to facilitate the expulsion  
+of the sting and its accompanying poison. The  
+sting, If left in the wound, should bo carefully  
+extracted; otherwise it will greatly Increase the  
+local irritation. Tbe poison of stings being acid,  
+common sense points to tbe alkalies as the  
+proper means of cure. Among the most easily  
+procured remedies may be mentioned soft soap,  
+liquor of ammonia (spirits of hartshorn), smell­  
+ing salts, washing soda, quicklime made into a  
+paste with water, the Juice of an onion, tobacco  
+juice, chewed tobacco, bruised dock leaves, to­  
+mato juice, wood-ashes, tobacco-ashes, and car­  
+bonate of soda. If the sting be severe, rest and  
+coolness should be added to tbe other remedies,  
+more especially In the case of nervous subjects.  
+Nothing is so apt to make tbe poison active as  
+heat, and nothing favors its activity less than  
+cold. let the body bo kept cool and at rest,  
+Md the activity of tho poison will be reduced  
+  
+to a minimum. Any active exertion whereby  
+the circulation is quickened will increase both  
+pain and swelling. If the swelling be severe,  
+tbe part may be rubbed with sweet oil or a drop  
+or two of laudanum. Stings in the eye, ear,  
+month, or throat sometimes lead to serious con­  
+sequences; in such cases medical advice should  
+always be sought as soon as possible
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_keres_ver01:data:sn83020847:00517171347:1879102401:0759/pct:43.118644,6.600438,38.711864,117.999663/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The west shore_](https://oregonnews.uoregon.edu/lccn/2012260361/1879-11-01/ed-1/seq-17/)
+
+#### 1879-11-01 &middot; [Portland, Or.](http://dbpedia.org/resource/Portland%2C_Oregon)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ of aw reader  
+  
+Inhut Stihob. The pain caused by the sting  
+of a plant or inaect is the result of a oertain  
+amount of acid poison injected into the blood.  
+The lint thing to be done ia to press the tube  
+of a small key from aide to aide, to facilitate  
+the expulsion of the sting and its accompanying  
+Kison. The sting, if left in the wound, should  
+carefully extracted; otherwise it will greatly  
+increase the local irritation. The poison of  
+stings being acid, oommon senae pointa to the  
+alkalies as the proper means of cure. Among  
+the most easily procured remedies may lie men­  
+tioned aoft soap, liquor of ammonia (spirits of  
+hartahorn), smelling aalta, washing soda, quick­  
+lime made into a paste with water, the Juice of  
+an onion, tobacco juice, ohewrd tohacon,  
+bruised dock leaves, tomato juioe, wood ashes,  
+tobacco ashes, and carbonate of soda. If the  
+ating be severe, rest and ooolneas should lie  
+added to the other remedies, more especially in  
+the caee of nervous subjects Nothing ia an  
+apt to make the poison active as heat, and  
+nothing favor ita activity leas than oold. I .-t  
+the body be kept cool and at rest, and the  
+activity of the poison will be redueed to a min­  
+imum. Anv active exertion whereby the circu  
+  
+lation ia quiokened will increase both pain and  
+swelling. If the swelling be severe, the part  
+may be rubbed with aweet oil or a drop or two  
+of laudanum. Stings in the eye, ear, mouth or  
+throat sometimes lead to carious oonerqusnoee.  
+In such cases medical advice should always be  
+  
+sought as soon as possible.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_elk_ver01%2Fdata%2F2012260361%2F00000000012%2F1879110101%2F1081.jp2/pct:8.153153,10.606061,111.396396,89.575758/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Juniata sentinel and Republican._](https://www.loc.gov/resource/sn86053634/1879-12-24/ed-1/?sp=4)
+
+#### 1879-12-24 &middot; [Mifflintown, Juniata County, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ the wife of  
+ ee en e ee e  
+their old friend. When we know be-  
+forehand that company is coming, we  
+can have everything ready to set upon  
+the table, and so not spend over half  
+an hour in getting supper. The sup­  
+per ready, it is our part to meake our  
+guests feel perfectly free to eat or not  
+of the dishes set before them--to make  
+them feel by our cordial manners rath­  
+er than by words, that we like to share  
+our best things with them, and are  
+  
+pleased to have them enjoy them whilee iee o i a o  
+e i o ae e  e oe e an e o o e ae  
+please us, but let us talk about someo i o  eo  
+thing else besides the food. Cheerfulo in te aooa a o  
+conversation at table promotes digese ior ane in a ceia and  
+  
+tion.  
+Salt Lake.  
+e et so  
+in the great Salt  
+There are no fish  
+Lake. The only living thing about its  
+in abot its  
+quarter of an  
+waters is a worm about a quarter of an  
+inch long. This worm show  
+ows up bean  
+of a miero  
+tifully beneath the lens  
+scope. When a stor
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776683:1879122401:0633/pct:7.850467,43.808909,21.971113,13.428018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2012,13 +3321,13 @@ ways be sought for as soon as possible.
 
 ---
 
-## [From _Little Falls transcript._](https://chroniclingamerica.loc.gov/lccn/sn89064525/1880-02-13/ed-1/seq-2)
+## [From _Little Falls transcript._](https://www.loc.gov/resource/sn89064525/1880-02-13/ed-1/?sp=2)
 
 #### 1880-02-13 &middot; [Little Falls, Morrison County, Minn.](http://dbpedia.org/resource/Little_Falls%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+- during tho  
 day.  
   
 THE pain caused by the sting of a  
@@ -2062,41 +3371,40 @@ lead to serious consequences in such
 cases medical advice should always bo  
 sought as soon as possible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_mazda_ver01%2Fdata%2Fsn89064525%2F00212479214%2F1880021301%2F0341.jp2/pct:86.133855,39.275220,9.560471,17.456742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mazda_ver01:data:sn89064525:00212479214:1880021301:0341/pct:86.129781,38.834476,9.556397,17.894221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn00065151/1880-02-14/ed-1/seq-1)
+## [From _The Grant County herald._](https://www.loc.gov/resource/sn00065151/1880-02-14/ed-1/?sp=1)
 
 #### 1880-02-14 &middot; [Big Stone City, Grant County, Dakota [S.D.]](http://dbpedia.org/resource/Big_Stone_City%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-I did not answer, for I did not know be severe, rest and coolness should  
+, for I did not know be severe, rest and coolness should  
 be added to the other remedies, more  
 especially in the case of nervous sub­  
 jects. Nothing is so apt to make the  
 poison active as heat, and nothing  
 favors its activity less than cold. Let  
 the body be kept cool and at rest, and  
-the activity of the poison will be re
+the activity of the poison will be r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_cayman_ver01%2Fdata%2Fsn00065151%2F00279523350%2F1880021401%2F0188.jp2/pct:37.835432,72.105997,34.083683,4.769874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_cayman_ver01:data:sn00065151:00279523350:1880021401:0188/pct:45.898512,72.098027,26.001526,4.769874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn00065151/1880-02-14/ed-1/seq-1)
+## [From _The Grant County herald._](https://www.loc.gov/resource/sn00065151/1880-02-14/ed-1/?sp=1)
 
 #### 1880-02-14 &middot; [Big Stone City, Grant County, Dakota [S.D.]](http://dbpedia.org/resource/Big_Stone_City%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+&#x27; during the  
 day.  
   
 THE pain caused by the sting of a  
@@ -2148,19 +3456,23 @@ lead to serious consequences in such
 cases medical advice should always be  
 sought as soon as possible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_cayman_ver01%2Fdata%2Fsn00065151%2F00279523350%2F1880021401%2F0188.jp2/pct:37.104159,58.489739,34.993005,34.923291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_cayman_ver01:data:sn00065151:00279523350:1880021401:0188/pct:37.104159,57.884041,34.986646,35.528990/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Fayette County herald._](https://chroniclingamerica.loc.gov/lccn/sn85038145/1880-02-19/ed-1/seq-3)
+## [From _Fayette County herald._](https://www.loc.gov/resource/sn85038145/1880-02-19/ed-1/?sp=3)
 
 #### 1880-02-19 &middot; [Washington [Washington Court House], Fayette County, O. [Ohio]](http://dbpedia.org/resource/Washington_Court_House%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+te of pure compressed carbon  
+raised to a red heat is placed, and it  
+continues to burn there, without giving  
+forth any disagreeable odor, for about  
+fourteen hours.  
 The pain caused by the sting of a  
 plant or insect is the result of a certain  
 amount of acid poison injected into the  
@@ -2172,21 +3484,23 @@ soap, liquor of ammonia, smelling salts,
 washing soda, quick-lime made into a  
 paste with water, the juice of an onion,  
 tobacco juice, chewed tobacco, bruised  
-dock leaves and carbon of soda
+dock leaves and carbon of soda.  
+In order to perform an amount of  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_odoric_ver01%2Fdata%2Fsn85038145%2F00415665829%2F1880021901%2F0150.jp2/pct:66.023256,61.472754,14.488372,6.406480/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665829:1880021901:0150/pct:66.023256,58.689249,14.488372,10.368189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Milan exchange._](https://chroniclingamerica.loc.gov/lccn/sn86053488/1880-02-19/ed-1/seq-2)
+## [From _The Milan exchange._](https://www.loc.gov/resource/sn86053488/1880-02-19/ed-1/?sp=2)
 
 #### 1880-02-19 &middot; [Milan, Gibson County, Tenn.](http://dbpedia.org/resource/Milan%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 The pain caused by the sting of a  
 plant or insect is the result of a certain  
 amount of acid poison injected into the  
@@ -2197,38 +3511,43 @@ procured may be mentioned soft soap,
 liquor of ammonia, smelling salts, wash  
 ing soda, quicklime made into a paste  
 with water, the juice of an onion, tobac­  
-co juice, bruised dock leaves and carbo
+co juice, bruised dock leaves and carbon  
+of soda.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_isaac_ver01%2Fdata%2Fsn86053488%2F0021247003A%2F1880021901%2F0066.jp2/pct:56.750044,58.132024,12.276033,5.399819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053488:0021247003A:1880021901:0066/pct:75.620567,77.509366,16.365248,7.725100/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The new North-west._](https://chroniclingamerica.loc.gov/lccn/sn84038125/1880-02-20/ed-1/seq-2)
+## [From _The new North-west._](https://www.loc.gov/resource/sn84038125/1880-02-20/ed-1/?sp=2)
 
 #### 1880-02-20 &middot; [Deer Lodge, Mont.](http://dbpedia.org/resource/Deer_Lodge%2C_Montana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 The pain caused by the sting of a plant  
 or an insect is the result of a oertain amount  
-of acid poison injected into the system
+of acid poison injected into the system.  
+To prevent glue from eracking when  
+dry, add about one tableepoonful of glyoer­  
+ins to a pint of the solunron while it is hot.  
+A German scientist ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_flyingsquirrel_ver02%2Fdata%2Fsn84038125%2F00212477047%2F1880022001%2F0033.jp2/pct:29.550758,66.940928,10.997666,1.350211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_flyingsquirrel_ver02:data:sn84038125:00212477047:1880022001:0033/pct:29.536173,66.940928,11.026838,3.575949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Florida agriculturist._](https://chroniclingamerica.loc.gov/lccn/sn96027724/1880-02-25/ed-1/seq-2)
+## [From _The Florida agriculturist._](https://www.loc.gov/resource/sn96027724/1880-02-25/ed-1/?sp=2)
 
 #### 1880-02-25 &middot; [DeLand, Fla.](http://dbpedia.org/resource/Jacksonville%2C_Florida)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ars.  
 The pain caused by the sting of a  
 plant or insect is the result of &quot;a cer­  
 tain amount of acid poison injected  
@@ -2243,21 +3562,22 @@ with water, the juice ot an onion, to­
 bacco juice, chewed tobacco, bruised  
 dock leaves and carbou of soda.  
 “1 wonder what makes it look so  
-dark and gloomy out of doors,” sai
+dark an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/fu_albert_ver01%2Fdata%2Fsn96027724%2F00271761491%2F1880022501%2F0058.jp2/pct:76.156725,71.439498,15.593105,10.191984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_albert_ver01:data:sn96027724:00271761491:1880022501:0058/pct:98.266023,91.176906,20.105356,13.871207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1880-02-26/ed-1/seq-4)
+## [From _Nebraska advertiser._](https://www.loc.gov/resource/sn84020109/1880-02-26/ed-1/?sp=4)
 
 #### 1880-02-26 &middot; [Brownville, Nemaha County, N.T. [Neb.]](http://dbpedia.org/resource/Auburn%2C_Nebraska)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ to so state in  
+your testimonials.&quot; 31mos3  
 j  
 The pain caused by the stiug of a  
 plant or iuseot is the result of a cer­  
@@ -2271,21 +3591,23 @@ monia, smelling salts, washing soda,
 quicklime made into a paste with wa­  
 ter, the juice of an onion, tobacco  
 juice, chewed tobacco, bruised dock  
-leaves and carbon of soda
+leaves and carbon of soda.  
+Mr. Churoh Howe, like all the rest  
+of &#x27;e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_gibson_ver01%2Fdata%2Fsn84020109%2F00237285189%2F1880022601%2F0138.jp2/pct:28.247261,76.879475,10.693792,7.169849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237285189:1880022601:0138/pct:28.247261,75.805489,10.693792,9.844869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Republican._](https://chroniclingamerica.loc.gov/lccn/sn88065202/1880-02-28/ed-1/seq-3)
+## [From _The Republican._](https://www.loc.gov/resource/sn88065202/1880-02-28/ed-1/?sp=3)
 
 #### 1880-02-28 &middot; [Oakland, Md.](http://dbpedia.org/resource/Oakland%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 —The pain caused by the sting of a  
 plant or insect is the result of a certain  
 amount of acid poison injected into the  
@@ -2297,63 +3619,108 @@ soap, liquor of ammonia, smelling salts,
 washing soda, quick-lime made into a  
 paste with water, the juice of an onion,  
 tobacco juice, chewed tobacco, bruised  
-dock leaves and carbon of soda
+dock leave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_goatsbeard_ver01%2Fdata%2Fsn88065202%2F00340588289%2F1880022801%2F0069.jp2/pct:63.117172,60.501225,13.910381,6.157905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588289:1880022801:0069/pct:81.426417,78.059810,17.948718,7.950401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Rock Island Argus._](https://chroniclingamerica.loc.gov/lccn/sn92053943/1880-03-30/ed-1/seq-4)
+## [From _The Rock Island Argus._](https://www.loc.gov/resource/sn92053943/1880-03-30/ed-1/?sp=4)
 
 #### 1880-03-30 &middot; [Rock Island, Ill.](http://dbpedia.org/resource/Rock_Island%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+, Pic  
 &quot;The pain caused by the sting of an  
 insect is the. result of a certain amount of  
-acid poison injected into the blood,&quot; says 
+acid poison injected into the blood,&quot; says a  
+physician. We 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iune_columnist_ver01%2Fdata%2Fsn92053943%2F00295873152%2F1880033001%2F0614.jp2/pct:59.624981,16.563341,12.641766,1.450462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_columnist_ver01:data:sn92053943:00295873152:1880033001:0614/pct:79.458888,21.312434,16.837969,3.368815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The Red Cloud chief._
+## [From _Spirit of the age._](https://www.loc.gov/resource/sn84023296/1880-03-31/ed-1/?sp=2)
+
+#### 1880-03-31 &middot; [Woodstock, Vt.](http://dbpedia.org/resource/Woodstock%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+The pain caused by the sting of an  
+insect, is the result of a certain amount  
+of acid polson injected into the blood.  
+a physician. If 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296126:1880033101:0439/pct:8.270951,13.086771,11.977360,2.806155/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Red Cloud chief._](https://www.loc.gov/resource/sn84022835/1880-04-01/ed-1/?sp=2)
 
 #### 1880-04-01 &middot; [Red Cloud, Webster Co., Neb.](http://dbpedia.org/resource/Red_Cloud%2C_Nebraska)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-nished with some fresh parsley or slices  
-of lemon.  
-The pain caused by the sting of a  
-plant or insect is the result of a certain  
-amount of acid poison injected into the  
-blood. The poison being acid, common  
+.  
+Tbe psia caused by the Utag of a  
+plant or insect is the rasalt of a emtaim.  
+amount of add poison injected into the  
+blood. The pon being1 add, comnKm  
 sense points to the alkalies as the proper  
 means of cure. Among the most easily  
-procured may be mentioned att sop  
-quor of ammonia, smelling salts, wash­  
+Srocured may be mentioned soft soap,  
+qaor of ammonia, smelling salts, wash­  
 ing soda, quicklime made into a paste  
-with water, the juice of an onion, tobae­  
-co juice, bruised dock leaves and carbon  
-of soda
-</td></tr></table>
+with water, the juice of an onion, tobac­  
+co juke, bruised doc
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285013:1880040101:0338/pct:54.509906,118.527124,14.181439,6.485504/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _The post._
+## [From _The news and herald._](https://www.loc.gov/resource/sn93067705/1880-04-24/ed-1/?sp=4)
+
+#### 1880-04-24 &middot; [Winnsboro, S.C.](http://dbpedia.org/resource/Winnsboro%2C_South_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+The pain caused by the sting of a plant  
+or insect is the result of a certain  
+amount of acld poison injected into the  
+blood. The poison being acid, common  
+sense points to the alkalies as the proe  
+per means of cure. Among the most  
+easlly procured may be mentioned soft  
+seap, liquor of ammonia, smelling salts.  
+washing soda, quick-lime made into  
+paste with water, the juice of an onion.  
+tobacco juice, chewed tobacco, brulsed  
+dock leave
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288439:1880042401:0973/pct:16.162593,81.044256,12.797496,6.184144/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The post._](https://www.loc.gov/resource/sn84026106/1880-04-29/ed-1/?sp=5)
 
 #### 1880-04-29 &middot; [Middleburg, Snyder County, Pa.](http://dbpedia.org/resource/Middleburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 The pain caused by the sting of a  
 plant or insect is the result of a cer­  
 tain amount of acid poison injected  
@@ -2366,17 +3733,20 @@ ammonia, smelling salts, washing so­
 da, quick-lime made into a paste  
 with water, the julce of an onion, to­  
 tobasco julen, chewed tobacco, brui
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026106:00280776579:1880042901:0072/pct:6.497119,88.864274,12.616730,6.705066/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _The Monmouth inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032307/1880-05-27/ed-1/seq-1)
+## [From _The Monmouth inquirer._](https://www.loc.gov/resource/sn83032307/1880-05-27/ed-1/?sp=1)
 
 #### 1880-05-27 &middot; [Freehold, N.J.](http://dbpedia.org/resource/Freehold_Township%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 The paiu caused by (he stiug of 9 plant  
 or insect is the result of a certain amount ^  
 of acid poison injected into the blood. Tho  
@@ -2387,21 +3757,27 @@ mentioned soft soap, liquor of ammonia, t
 smelling salts, washing soda, quicklime  
 made into a paste with water, the juice of  
 an onion, tobacco juice, chewed tobaeoo,  
-bruised dock leaves and carbon of soda
+bruised dock leave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_eggharbor_ver01%2Fdata%2Fsn83032307%2F00513685294%2F1880052701%2F0092.jp2/pct:84.166533,26.395007,13.297701,4.824400/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685294:1880052701:0092/pct:84.180064,26.398238,13.295820,4.699547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Perrysburg journal._](https://chroniclingamerica.loc.gov/lccn/sn87076843/1880-07-09/ed-1/seq-4)
+## [From _Perrysburg journal._](https://www.loc.gov/resource/sn87076843/1880-07-09/ed-1/?sp=4)
 
 #### 1880-07-09 &middot; [Perrysburg, Wood Co., O. [Ohio]](http://dbpedia.org/resource/Perrysburg%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ life of tho dead woman. Her  
+faith, he said, was a simple Kith ; she  
+loved (!od and knew that God loved  
+her. That was the highest thing that  
+any person could say. The Dean then  
+repeated tho Lord&#x27;s Prayer and pro­  
+nounced the Benediction..  
 This pain caused by the sting of a  
 plt or insect is the result of a certain  
 amount of acid poison injected into the  
@@ -2413,9 +3789,11 @@ soft soap, liquor of ammonia, smelling
 salts, washing soda, quick-lime made  
 into a paste with water, the juice of an  
 onion, tobacco juice, chewed tobacco,  
-bruised dock leaves and carbon o
+bruised dock leaves and carbon of  
+soda.  
+In Titus villo. P
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_cobweb_ver04%2Fdata%2Fsn87076843%2F00280775733%2F1880070901%2F1105.jp2/pct:17.698373,84.917141,10.736454,5.256344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn87076843:00280775733:1880070901:1105/pct:23.474178,108.661315,14.419852,13.076126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2478,7 +3856,7 @@ advice should always be sought as soon as pos-
   
 sible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_arthurs-home-magazine_1881-09_49_9&#0036;21/pct:57.621951,46.865443,35.175305,42.533129/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_arthurs-home-magazine_1881-09_49_9%2Fsim_arthurs-home-magazine_1881-09_49_9_jp2.zip%2Fsim_arthurs-home-magazine_1881-09_49_9_jp2%2Fsim_arthurs-home-magazine_1881-09_49_9_0021.jp2/pct:57.621951,46.865443,35.175305,42.533129/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2492,7 +3870,7 @@ sible.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+, raw  
 onion, tobacco juice, or tho oxpressed  
 juioo of any green leaf. As animal  
 poisons deoxidize the blood, their  
@@ -2511,7 +3889,7 @@ the activity of tho poison will bo
 reduced to a minimum. Any active  
 exertion whereby the circulation is  
 (jiiickenrd will incroaseboth pain and  
-swelling. - Wooklv limes
+swelling.
 </td></tr></table>
 
 ---

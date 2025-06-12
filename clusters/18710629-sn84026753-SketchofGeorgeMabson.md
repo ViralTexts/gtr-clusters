@@ -1,7 +1,7 @@
 
 # Sketch of the Hon. Geo. L. Mabson, of North Carolina.
 
-### 4 reprints from 1871-06-29 to 1871-07-13
+### 6 reprints from 1871-06-29 to 1872-02-08
 
 ## [Sketch of the Hon. Geo. L. Mabson, of North Carolina.](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1/)
 
@@ -48,7 +48,7 @@ From dark ignorance to Liberty’s shining light.
 
 ---
 
-## [From _New national era._](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1)
+## [From _New national era._](https://www.loc.gov/resource/sn84026753/1871-06-29/ed-1/?sp=1)
 
 #### 1871-06-29 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
@@ -181,21 +181,25 @@ What a glorious achievement 1
 From ths whipping-post to the school-bouse }  
 Frees Slavery&#x27;s degradation to Freedom&#x27;s responsility  
 ;  
-From dark ignorance to Liberty&#x27;s shining light.
+From dark ignorance to Liberty&#x27;s shining light.&quot;  
+Ths Future of Che Negro In  
+America  
+  
+I 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn84026753%2F0041562038A%2F1871062901%2F0175.jp2/pct:5.560002,12.299098,15.525323,63.051139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1871062901:0175/pct:5.556191,12.299098,15.525323,65.483455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Semi-weekly Louisianian._](https://chroniclingamerica.loc.gov/lccn/sn83016631/1871-07-13/ed-1/seq-1)
+## [From _Semi-weekly Louisianian._](https://www.loc.gov/resource/sn83016631/1871-07-13/ed-1/?sp=1)
 
 #### 1871-07-13 &middot; [New Orleans, La.](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ enli  
 Ns GEORGs n. A3omea.  
 reti  
 The first colored man that has 186  
@@ -286,21 +290,22 @@ be says:
 setR **Te lrrtscaof orgeL&amp; Mab­  
 isoearsn, the colored member from this  
 snB eizifty.ia b nosst5.gislatsewbrp  
-.ng has beein making apphalcaio fo
+.ng has beein making apphalcaio for  
+Ik M ss
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_umbrella_ver01%2Fdata%2Fsn83016631%2F00200299693%2F1871071301%2F0247.jp2/pct:28.190299,26.332998,15.485075,63.883300/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_umbrella_ver01:data:sn83016631:00200299693:1871071301:0247/pct:28.190299,24.836519,15.485075,66.008551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Semi-weekly Louisianian._](https://chroniclingamerica.loc.gov/lccn/sn83016631/1871-07-13/ed-1/seq-1)
+## [From _Semi-weekly Louisianian._](https://www.loc.gov/resource/sn83016631/1871-07-13/ed-1/?sp=1)
 
 #### 1871-07-13 &middot; [New Orleans, La.](http://dbpedia.org/resource/New_Orleans)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ as  
 nor sekhas a3q -.  
   
 &#x27;Taking into asa raMh a , arg  
@@ -358,9 +363,47 @@ hoee; on
 From Slavery&#x27;s degradation to Freedom&#x27;s C1  
 reipwonulity; de  
 From dark ignorance to Liberty&#x27;s shining th  
-light
+light&quot;  
+New National Era. th  
+n of  
+T THf1E Wil WILL UVIERITAIII IT. M  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_umbrella_ver01%2Fdata%2Fsn83016631%2F00200299693%2F1871071301%2F0247.jp2/pct:30.335821,13.405433,26.865672,84.054326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_umbrella_ver01:data:sn83016631:00200299693:1871071301:0247/pct:30.335821,13.405433,26.865672,84.054326/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Carolina era._](https://newspapers.digitalnc.org/lccn/sn85042092/1872-02-08/ed-1/seq-2/)
+
+#### 1872-02-08 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ man tr­  
+ken from the slone pen to the ballot­  
+box, from the whipping post to the  
+  
+school house; fro
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CEraR2n_ver01%2Fdata%2F1872020801%2F0064.jp2/pct:82.651992,63.864650,14.517820,2.084545/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Carolina era._](https://newspapers.digitalnc.org/lccn/sn92072942/1872-02-08/ed-1/seq-2/)
+
+#### 1872-02-08 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ from the slone pen. to the, ballot­  
+box, from the whipping post to the  
+school house,&#x27; fro
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_EraRal4n_ver01%2Fdata%2F1872020801%2F0130.jp2/pct:112.608696,75.943538,16.905371,2.012213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

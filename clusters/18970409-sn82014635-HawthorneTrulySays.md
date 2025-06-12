@@ -1,7 +1,7 @@
 
 # Hawthorne Truly Says
 
-### 90 reprints from 1897-04-08 to 1898-07-21
+### 134 reprints from 1897-04-08 to 1898-10-03
 
 ## [Hawthorne Truly Says](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-09/ed-1/seq-8/)
 
@@ -18,12 +18,13 @@ These railroads are positively the greatest blessings that the ages have wrought
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-08/ed-1/seq-2)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-04-08/ed-1/?sp=2)
 
 #### 1897-04-08 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+g.  
   
 Hawthorne Truly Sayi:  
 &quot;These railroads are positively the  
@@ -45,13 +46,13 @@ Mexico. Arizona, and California. Free
 descriptive literature. W. J. Black, G.  
 P. A., A. T. &amp;. S. F. Ry., Topeka, Kan.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760584%2F1897040801%2F0528.jp2/pct:43.639893,71.744073,12.197671,9.147992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897040801:0528/pct:65.432836,105.846054,18.298507,15.492043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-09/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-04-09/ed-1/?sp=8)
 
 #### 1897-04-09 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
@@ -107,15 +108,15 @@ Fo Route offer ia facile transition to
 many beautiful cpots in Colorado, New  
 Mexico, Arizona, and California. Free  
 descriptive literature. W. J. Black, G.  
-P. A., A. T. &amp; S. F. Ry., Topeka, Kan
+P. A., A. T. &amp; S. F. Ry., Topeka, Kan.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760584%2F1897040901%2F0542.jp2/pct:5.266317,7.329730,25.506377,33.113514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897040901:0542/pct:7.888422,10.994595,38.242352,49.664865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Topeka state journal._](https://chroniclingamerica.loc.gov/lccn/sn82016014/1897-04-10/ed-1/seq-8)
+## [From _The Topeka state journal._](https://www.loc.gov/resource/sn82016014/1897-04-10/ed-1/?sp=8)
 
 #### 1897-04-10 &middot; [Topeka, Kansas](http://dbpedia.org/resource/Topeka%2C_Kansas)
 
@@ -158,15 +159,16 @@ Fe Route offer a facile transition to
 many beautiful spots in Colorado, New  
 Mexico, Arizona, and California. Free  
 descriptive literature. W. J. Black, G.  
-P. A., A. T. &amp; S. F. Ry Topeka, Kan
+P. A., A. T. &amp; S. F. Ry Topeka, Kan.  
+Unconditional surrender, is th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_inge_ver01%2Fdata%2Fsn82016014%2F00295871350%2F1897041001%2F0073.jp2/pct:17.179215,74.411448,12.530930,17.033390/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871350:1897041001:0073/pct:22.897527,99.215264,16.696113,23.711340/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-10/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-04-10/ed-1/?sp=8)
 
 #### 1897-04-10 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
@@ -217,21 +219,58 @@ Fe Route offer a facile transition to
 many beautiful spots in Colorado, New  
 Mexico, Arizona, and California. Free  
 descriptive literature. W. J. Black, G.  
-P. A., A. T. &amp; S. F. Ry., Topeka, Ivan.
+P. A., A. T. &amp; S. F. Ry., Topeka, Ivan.  
+Wichita, Kan., April 3.  
+Mr. E. E. Bleckley, P. acd T. A., Mo. Pac.  
+Ry., &quot;Wichita, Kan  
+Dear Sir The undersigned, who were  
+appointed a committee by Wichita Coun­  
+cil, No 39, United Commercial Travelers,  
+to arrange for the transportation of said  
+council from &quot;Wichita to Leavenworth and  
+return, account Grand Council meeting,  
+May 14 and 15, have by unanimous vote  
+decided to use the Missouri Pacific rail­  
+way. This will serve as official notice to  
+you of the decision of said committee.  
+(Signed) E. E. KECK,  
+P. M. &quot;ANDERSON,  
+W. S. MITCHELL,  
+Committee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760584%2F1897041001%2F0550.jp2/pct:5.939716,1.670259,86.746454,30.226293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897041001:0550/pct:5.924941,1.670259,86.761229,38.556034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-13/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-04-11/ed-1/?sp=8)
+
+#### 1897-04-11 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+, I&#x27;ll surely attend Mrs.  
+Koher&#x27;s opening next Tuesday. 123-2t  
+Mrs. Koher&#x27;s millinery opening next  
+Tuesday, April 13, should be attended by  
+ail ladies who appreciate the latest in  
+hats and trimmings. Music by Mandolin  
+club and Professor Blume. 125-2t
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897041101:0558/pct:27.411624,105.925447,18.304374,5.203620/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-04-13/ed-1/?sp=8)
 
 #### 1897-04-13 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 Dairttiornc Trnly Sy:  
 &quot;These railroads are positively the  
 greatest blessings that the ages have  
@@ -250,21 +289,38 @@ Fe Route offer a facile transition to
 many beautiful spots in Colorado, New  
 Mexico, Arizona, and California. Free  
 flesenptive literature. W. J. Black, G.  
-.P. A., A. T. &amp; S. F. Ry.. Topeka. Kan
+.P. A., A. T. &amp; S. F. Ry.. Topeka. Kan.  
+Wichita, Kan., April 3.  
+Mr. E. E. Bleckley, P. and T. A., Mo. Pac  
+By.. Wichita, Kan  
+Dear Sir The undersigned, who were  
+appointed a committee by Wichita Coun­  
+cil. No 39. United Commercial Travelers,  
+&#x27;to arrange for the transportation of said  
+council from Wichita to Leavenworth and  
+return, account Grand Council meeting.  
+May 14 and&quot;lo, have by unanimous vote  
+decided, to use the Missouri Pacific rail­  
+Tray. This will serve as official not.ee to  
+you of the decision of said committee.  
+(Signed) E. E. KECK,  
+P. 1L ANDERSON,  
+W. S. MITCHELL.  
+Committee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760584%2F1897041301%2F0570.jp2/pct:6.086044,74.759693,12.202069,9.115455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897041301:0570/pct:8.902878,112.139540,18.525180,26.190733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-14/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-04-14/ed-1/?sp=8)
 
 #### 1897-04-14 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ R. DELANEY. Agent  
 Hawthorne Truly Say:  
 &quot;These railroads are positively the  
 greatest blessings that the ages have  
@@ -283,15 +339,188 @@ Fe Route offer a facile transition to
 many beautiful spots in Colorado, New  
 Mexico, Arizona, and California. Free  
 descriptive literature. TV. J. Black. G.  
-P. A., A. T. &amp; S. F. Ry.. Topeka, Kan
+P. A., A. T. &amp; S. F. Ry.. Topeka, Kan.  
+&quot;Wichita, Kan., April 3.  
+Mr. E. E. Bleckley, P. and T. A., Mo. Pac.  
+Ry.. Wichita, Kan  
+Dear Sir The undersigned, who were  
+appointed a committee by Wichita Coun­  
+cil, No 39, United Commercial Travelers,  
+to arrange for the transportation of said  
+council from &quot;Wichita to Leavenworth and  
+return, account Grand Council meeting.  
+May 14 and 15, have by unanimous vote  
+decided to us the Missouri Pacific rail­  
+way. This will ssrve as official notice to  
+you of the decision of said committee.  
+(Signed) E. E. KECK.  
+P. M. ANDERSON,  
+&quot;W. S. MITCHELL.  
+Committee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760584%2F1897041401%2F0578.jp2/pct:5.061187,76.120847,12.297930,9.052790/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897041401:0578/pct:7.522659,113.181378,18.504532,27.072358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Topeka state journal._](https://chroniclingamerica.loc.gov/lccn/sn82016014/1897-04-15/ed-1/seq-1)
+## The Greeks Win
+
+#### From _The Atchison daily globe._
+
+#### 1897-04-15 &middot; [Atchison, Kan.](http://dbpedia.org/resource/Atchison%2C_Kansas)
+
+[This text is not available under an open license.]
+
+---
+
+## Those Globe Bank Bonds
+
+#### From _The news and observer._
+
+#### 1897-04-15 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
+
+[This text is not available under an open license.]
+
+---
+
+## A Woman in the Case
+
+#### From _The Milwaukee sentinel._
+
+#### 1897-04-15 &middot; [Milwaukee, Wis.](http://dbpedia.org/resource/Milwaukee)
+
+[This text is not available under an open license.]
+
+---
+
+## [From _The Wilmington messenger._](https://newspapers.digitalnc.org/lccn/sn91068368/1897-04-15/ed-1/seq-3/)
+
+#### 1897-04-15 &middot; [Wilmington, N.C.](http://dbpedia.org/resource/Wilmington%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Bank President Spalding Stock Farm At  
+  
+tached by his Father.  
+  
+Nasua, N. H.. April 14. The Hon,  
+  
+Solomon palding. president of the  
+  
+New Hampshire Banking company ana  
+  
+ratner or C w. wpaiaing, presmeai .01  
+the defunct Globe Savings (bank, of  
+  
+Chicago, has attached his son&#x27;s farm at  
+iMerrimac as security on his bond. The  
+  
+farm is .the most valuable one in this  
+  
+section and nas been used a long time  
+  
+bv Mr. Spalding as a -stock farm. A  
+  
+car load of horses from Red Oak, la.  
+  
+arrived yesterday. It Is the old home  
+  
+stead of the family.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmMess19n_ver01%2Fdata%2F1897041501%2F0359.jp2/pct:81.807131,114.999440,13.897893,7.818976/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The morning news._](https://www.loc.gov/resource/sn86063034/1897-04-15/ed-1/?sp=1)
+
+#### 1897-04-15 &middot; [Savannah, Ga.](http://dbpedia.org/resource/Savannah%2C_Georgia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+he de­  
+funct Globe Savings Bank of Chicago, has  
+attached his son’s farm at Merrimac as  
+security for his bond. The farm is the  
+most valuable one in this section and has  
+been used for a long time by Mr. Spalding  
+as a stock farm.  
+CONSUL WYSOR DEAD.  
+Expired Shortly Before Reaching  
+New York From Cadis.  
+New York, April 14.—&#x27;William W. Wysor.  
+United States consul at Cadiz, who took  
+passage on board the Werra at Gibraltar,  
+died on board shortly before noon to-day.  
+He was a native of Lynchburg, Va
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182203:1897041501:1025/pct:18.933383,60.745109,16.368334,11.119102/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Indianapolis journal._](https://www.loc.gov/resource/sn82015679/1897-04-15/ed-1/?sp=1)
+
+#### 1897-04-15 &middot; [Indianapolis [Ind.]](http://dbpedia.org/resource/Indianapolis)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+NASHUA. N. 11., April 14.-The Hon Sol­  
+omon Spalding, president of the Newhamp­  
+shire Banking Company and father of C.  
+W. Spalding, president of the defunct  
+Globe Savings Bank, of Chicago, has at­  
+tached his son&#x27;s farm at Merrimac as se­  
+curity for his bond. The farm Is the most  
+valuable one in this section and ha-n been  
+used for a long time by Mr; SpaUlii: as a  
+stock farm. A carload of horses from Ked  
+Oak. Ia,, arrived there yesterday. It Is the  
+old homestead of the family.  
+BARRED. FROM THE MAILS.  
+Fraud Order Against Inrtlnnnpolt  
+llraneli of the K. S. Dean Concern.  
+WASHINGTON, April 14. Another of the  
+agents of the late 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665659:1897041501:0441/pct:61.701653,79.697202,16.279589,10.938164/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Rock Island Argus._](https://www.loc.gov/resource/sn92053934/1897-04-15/ed-1/?sp=1)
+
+#### 1897-04-15 &middot; [Rock Island, Ill.](http://dbpedia.org/resource/Rock_Island%2C_Illinois)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Nashua, N. H- April 15. The Hon.  
+  
+Solomon Spalding, president of the New  
+  
+Hampshire Banking company and fath­  
+er of C. IE. Spalding, president of the  
+defunct Globe Savings bank, of Chicago,  
+has attached his son&#x27;s farm at Merrimac  
+as security for bis bond,  
+.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_ephemera_ver01:data:sn92053934:00212471859:1897041501:0445/pct:32.593985,91.974197,12.161654,4.365437/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Topeka state journal._](https://www.loc.gov/resource/sn82016014/1897-04-15/ed-1/?sp=1)
 
 #### 1897-04-15 &middot; [Topeka, Kansas](http://dbpedia.org/resource/Topeka%2C_Kansas)
 
@@ -333,15 +562,19 @@ Fe Route offer a facile transition to
 many beautiful spots in Colorado, New  
 Mexico. Arizona, and California. Free  
 descriptive literature. W. J. Black. G.  
-P. A. T. &amp; S. F. Ry., Topeka, Kan.
+P. A. T. &amp; S. F. Ry., Topeka, Kan.  
+  
+WON&#x27;T JIT AND IT.  
+Honduras Has Apparently Rsen  
+i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_inge_ver01%2Fdata%2Fsn82016014%2F00295871350%2F1897041501%2F0098.jp2/pct:17.533856,78.092354,12.615823,16.336109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871350:1897041501:0098/pct:17.533856,11.506435,25.748396,82.922029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-15/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-04-15/ed-1/?sp=8)
 
 #### 1897-04-15 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
@@ -368,13 +601,13 @@ Mexico, Arizona, and California. Free
 descriptive literature W. J. Black, G.  
 P. A. A. T. &amp; S. F. Ry.. Topka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760584%2F1897041501%2F0586.jp2/pct:55.848485,57.776084,12.393939,9.213679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897041501:0586/pct:55.848485,57.776084,12.393939,9.213679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-16/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-04-16/ed-1/?sp=8)
 
 #### 1897-04-16 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
@@ -401,13 +634,113 @@ Mexico, Arizona, and California. Free
 desciiptive literature. W. J. Black, G  
 P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760584%2F1897041601%2F0596.jp2/pct:55.835344,58.459052,12.288902,9.116379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897041601:0596/pct:55.835344,58.459052,12.288902,9.116379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-17/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-04-16/ed-1/?sp=8)
+
+#### 1897-04-16 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ Wichita, Kan  
+Dear Sir The undersigned, who were  
+appointed a committee by Wichita Coun­  
+cil, No 29, Ua!td Commercial Travelers,  
+to arrange for tbe traaportation of said  
+council from Wichita to Leavenworth and  
+return, account Grand Council meeting.  
+May 11 and II. have by unan.m U3 ou  
+decided to use thf Missouri Pacific rail­  
+way. TWs wiH serve as official notice tu  
+you of ifee decision of ?ald commituc  
+(Signed) E. E. KECK.  
+P. M. ANDERSON,  
+TV. S. MITCHELL.  
+Committee
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897041601:0596/pct:55.775030,77.165948,12.303981,7.090517/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Worcester morning daily spy._](https://www.loc.gov/resource/sn93058748/1897-04-16/ed-1/?sp=7)
+
+#### 1897-04-16 &middot; [Worcester, Mass.](http://dbpedia.org/resource/Worcester%2C_Massachusetts)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ stenographer.  
+Nashua, N. H., April 14.—Hon. Solo­  
+mon Spalding, president of the N. H.  
+Banking Co., the father of C. W. Spald­  
+ing, president of the defunct Globe Sav­  
+ings Bank of Chicago, has attached his  
+son’s farm at Merrimac as security for  
+his bond.  
+A ear load of horses from Red Dak,  
+la., has arrjyed flfeere.; . If ts the,’, old  
+homestead of the family
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn93058748:00517171529:1897041601:0163/pct:89.469371,88.415172,16.103258,5.865922/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The semi-weekly messenger._](https://www.loc.gov/resource/sn91068367/1897-04-16/ed-1/?sp=1)
+
+#### 1897-04-16 &middot; [Wilmington, N.C.](http://dbpedia.org/resource/Wilmington%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+JUnkTTesldent Spalding Stock Farm At­  
+tached by his Father.  
+JNasua, N. H., April 14.-The Hon,  
+Scfiomon &#x27;Spalding:, president of tna  
+rww Hampshire Banking Company and  
+fathr of C. W. Spalding, president of  
+the defunct Globe Savings bank, of  
+SScago. has attache his son&#x27;s farm at  
+(Merrimac as security on his bond, one  
+farm is the most valuable one in this  
+secUon and .has been used a long time  
+SriveSdye0sftehrdar Jt is the old home­  
+stead, of the family.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_green_ver01:data:sn91068367:00296024259:1897041601:0101/pct:5.618757,88.516354,13.970588,7.279811/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-04-17/ed-1/?sp=8)
+
+#### 1897-04-17 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+Wichita, Kan., April 3.  
+air. E. E. Bleckley, P. and T. A., Mo. Pac  
+Ry., Wichita, Kan  
+Dear Sir The undersigned, who were  
+appointed a committee by Wichita Coun­  
+cil, No 39, United Commercial Travelers,  
+to arrange for
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897041701:0604/pct:7.221890,98.238642,18.271531,4.865213/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-04-17/ed-1/?sp=8)
 
 #### 1897-04-17 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
@@ -434,19 +767,21 @@ Mexkn. Arizona, and California. Frc
 desciiptiv literature. W J Black. G.  
 P A., A. T. Sz S. F. Ry.. Topek. Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760584%2F1897041701%2F0604.jp2/pct:55.691847,73.311137,12.610322,9.075287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897041701:0604/pct:83.492823,109.966706,18.899522,13.607561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Topeka state journal._](https://chroniclingamerica.loc.gov/lccn/sn82016014/1897-04-20/ed-1/seq-8)
+## [From _The Topeka state journal._](https://www.loc.gov/resource/sn82016014/1897-04-20/ed-1/?sp=8)
 
 #### 1897-04-20 &middot; [Topeka, Kansas](http://dbpedia.org/resource/Topeka%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ed Es Liife.  
+d in the markets in Morristown and  
+iViauison yesterday.  
+The Discovery Saved Es Liife.  
 Mr. G. Cailloutte, druggist, Beavers­  
 ville, 111., says: &quot;To Dr. King&#x27;s New  
 Discovery I owe my life. &quot;as taken  
@@ -484,18 +819,45 @@ Mexico. Arizona, and California. Free
 descriptive literature. W. J. Black. G.  
 P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_inge_ver01%2Fdata%2Fsn82016014%2F00295871350%2F1897042001%2F0137.jp2/pct:70.325418,73.549073,12.524186,16.590702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871350:1897042001:0137/pct:93.706048,96.414464,16.807314,23.761775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-20/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-04-20/ed-1/?sp=8)
 
 #### 1897-04-20 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+.  
+Wichita, Kan., April 3.  
+air. E. E. Bleckley, P. and T. A., Mo. Pac  
+Ry., Wichita, Kan  
+Dear Sir The undersigned, who were  
+appointed a committee by Wichita Coun­  
+cil, No 39, United Commercial Travelers&#x27;,  
+to arrange for
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897042001:0624/pct:5.683174,66.737899,12.156921,3.194786/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-04-20/ed-1/?sp=8)
+
+#### 1897-04-20 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+descriptions, cheap arti  
+2 Srst-cliss style.  
+  
+  
+Railroad  
   
 Iimirtborue Traly Sas:  
 &quot;These railroads are positively the  
@@ -515,20 +877,23 @@ Fe Route offer a facile transition to
 many beautiful spots in Colorado, New  
 Mexico, Arizona, and California. Free  
 des:ptive literature. W. J. Black, G.  
-P. A.. A. T. &amp; S. F. Ry.. Topeka, Kan
+P. A.. A. T. &amp; S. F. Ry.. Topeka, Kan.  
+FRISCO LINE­  
+ST. LOUIS AN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760584%2F1897042001%2F0624.jp2/pct:69.913484,8.857784,12.186754,8.943263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897042001:0624/pct:60.516110,6.410941,21.584129,88.000855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-21/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-04-21/ed-1/?sp=8)
 
 #### 1897-04-21 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
   
 ltaiythorne Truly Say:  
 &quot;These railroads are positively the  
@@ -550,18 +915,98 @@ Mexico. Arizona, and California. Free
 desctiptlve literature. W. J. Black. G.  
 P. A., A. T. &amp; S. F. Ry.. Topeka. Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760584%2F1897042101%2F0632.jp2/pct:70.010512,8.735165,12.629524,8.949000/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897042101:0632/pct:105.000000,13.097402,18.933934,13.428846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-04-22/ed-1/seq-8)
+## [From _Weekly union._](https://www.loc.gov/resource/sn90062623/1897-04-21/ed-1/?sp=3)
+
+#### 1897-04-21 &middot; [Manchester, N.H.](http://dbpedia.org/resource/Manchester%2C_New_Hampshire)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+­  
+’ ner and Herbert B. Viall of Keene,  
+i SECURES HIS BOND.  
+NASHUA, April 14.—Solomon Spald­  
+! ing, president of the New Hampshire  
+- Banking company, and father of C. W.  
+| Spalding, president of the defunct Globe  
+l Savings’bank of Chicago, has atached  
+his son’s farm at Merrimack as security  
+} for his bond. The farm is the most ‘val­  
+uable in this section, and has been used  
+for a long time by Mr. Spalding as a  
+stock farm. A carload of horses from  
+Red Oak, la., arrived there yesterday. It  
+is the old homestiead of the family
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_carrigain_ver01:data:sn90062623:00517015684:1897042101:0187/pct:30.950729,81.516922,12.421929,6.214746/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Central Presbyterian._](https://www.loc.gov/resource/sn89053987/1897-04-21/ed-1/?sp=16)
+
+#### 1897-04-21 &middot; [Richmond, Va.](http://dbpedia.org/resource/Richmond%2C_Virginia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ttlement of the boundary dispute.  
+At an early hour last Saturday  
+morning Major Green Peyton died at  
+the University of Virginia at the age  
+of 68 years. For more than a quarter  
+of a century Major Peyton had held  
+the important office of proctor of the  
+University.  
+William W. Wysor, United States  
+Consul at Cadiz, died last week in  
+New York. He was a native of  
+Lynchburg, Va
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_glycine_ver01:data:sn89053987:print:1897042101:0352/pct:27.801372,46.414073,21.267560,9.539919/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1897-04-22/ed-1/?sp=8)
 
 #### 1897-04-22 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+­  
+down sheep: one of his hens hatched  
+out a three-legged chicken, and, to cap  
+the&#x27;clrmax, Mrs. Watkins, last Saturday,  
+presented him with twin boys. Kansas  
+Citv .Journal.  
+  
+Henry Hamlin, who has been a clerk  
+iu W. S. Amos&#x27; drug store, left this  
+  
+rooming for San Diego, Cal., where he  
+  
+will nrake a borne. He is a fine young  
+man and ought to succeed iu his new  
+  
+home.  
+  
+MOTHER!  
+  
+Mother&#x27;s  
+  
+The proposed maximum rate bill to  
+fix maximum rates for reform votes in  
+the Legislature is the right thing. It  
+harmonizes with the reform principles,  
+&quot;aqrrul rights for all, special privileges to  
+none.&quot; Capital.  
   
 - Hawthorne Truly Says: &quot;These  
 railroads are positively the greatest  
@@ -584,19 +1029,54 @@ descriptive lrteratme. W..J. Black, G.
   
 P.-A., A. T. &amp; S. F. Ky., Tppeja Kas. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283053%2F1897042201%2F0585.jp2/pct:8.648649,83.122066,14.729730,12.007042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283053:1897042201:0585/pct:8.648649,4.788732,39.054054,90.340376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-22/ed-1/seq-8)
+## [From _The Topeka state journal._](https://www.loc.gov/resource/sn82016014/1897-04-22/ed-1/?sp=5)
+
+#### 1897-04-22 &middot; [Topeka, Kansas](http://dbpedia.org/resource/Topeka%2C_Kansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ McDonald.  
+The Discovery Saved Ea Liife.  
+Mr. C Callloutte, druggist, Beavers­  
+ville. 111., says: &quot;To Dr. King&#x27;s New  
+Discovery I owe my life. Was taken  
+with La Grippe and tried fill the phy­  
+sicians for mlies about, but of no avail,  
+and was given up and told I could not  
+live. Having Dr. King&#x27;s Xew Discov­  
+ery in my store I sent for a bottle and  
+began its use and from the first dose  
+began to get better, and after using  
+three bottles was up and about again.  
+It is worth its weight in gold. We won&#x27;t  
+keep store or house without it.&quot; Get a  
+free trial at J. K. Jones&quot; drug stor.?,5th  
+and Kansas avenua. Regular size 50c.  
+and St. o
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871350:1897042201:0150/pct:17.473498,81.066626,12.473498,8.251834/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-04-22/ed-1/?sp=8)
 
 #### 1897-04-22 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ if it oes no1 contain the stamp of the Seal.  
   
+  
+I  
+sponsible  
 Hawthorne Truly Snys:  
 &quot;These railroads are positively the  
 greatest blessings that the ages have  
@@ -617,18 +1097,19 @@ Mexico, Arizona, and California. Free
 desctrptive literature. W. J. Black. G.  
 P. A., A. T. &amp; S. F. Ry., Topeka. Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760584%2F1897042201%2F0640.jp2/pct:69.106295,20.916720,12.173397,9.113406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897042201:0640/pct:69.106295,5.982354,16.790380,80.923176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-23/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-04-23/ed-1/?sp=8)
 
 #### 1897-04-23 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
   
 UaTTthorne Truly Says:  
 &quot;These railroads are positively the  
@@ -650,18 +1131,72 @@ Mexico, Arizona, and .California. Free
 descriptive literature. W. J. Black, G.  
 P. A.. A. T. &amp; S. F. Ry.. Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760584%2F1897042301%2F0648.jp2/pct:69.169139,8.439815,12.106825,8.998175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897042301:0648/pct:69.169139,8.439815,12.106825,8.998175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-24/ed-1/seq-8)
+## [From _St. Johnsbury Caledonian._](https://www.loc.gov/resource/sn84023253/1897-04-23/ed-1/?sp=2)
+
+#### 1897-04-23 &middot; [St. Johnsbury, Vt.](http://dbpedia.org/resource/St._Johnsbury%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+g to fit.  
+  
+C. W. Spalding, president of the  
+defunct Globe Savings bank of Chi  
+cago, owe
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:0020219705A:1897042301:0132/pct:25.153374,19.596151,16.372699,4.146903/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Topeka state journal._](https://www.loc.gov/resource/sn82016014/1897-04-24/ed-1/?sp=6)
+
+#### 1897-04-24 &middot; [Topeka, Kansas](http://dbpedia.org/resource/Topeka%2C_Kansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+, and the guarantee  
+of the Kansas Carriage Works go with  
+every piece of work.  
+The Discovery Saved Hs Liife.  
+Mr. C. Oailloutte, druggist. Beavers­  
+vine, 111., says: &quot;To Dr. King&#x27;s New  
+Discovery I owe my life. Was taken  
+with La Grippe and tried all the phy­  
+sicians for mlies about, but of no avail,  
+and was given up and told I could not  
+live. Having Dr. King&#x27;s New Discov­  
+ery In my store I sent for a bottle and  
+began its use and from the first dose  
+began to get better, and after using  
+three bottles was up and about again&quot;  
+It is worth its weight in gold. We won&#x27;t  
+keep store or house without it.&quot; Get a  
+free trial at J. K. Jones- drug store.oth  
+and Kansas avenue. Regular si3e 50c  
+and S1.0
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871350:1897042401:0167/pct:23.268551,111.021264,16.590106,12.084456/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-04-24/ed-1/?sp=8)
 
 #### 1897-04-24 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+.UL  
+  
+Railroad  
   
 Hawthorn Truly S9:  
 &quot;These railroads are positively the  
@@ -683,18 +1218,23 @@ Mexico, Arizona, and California. Free
 descriptive literature. W. J. Black, G.  
 P. -V. A. T. &amp; S. F. Ry.. Topeka. Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897042401%2F0008.jp2/pct:69.363731,8.149733,12.233646,8.983957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897042401:0008/pct:91.999404,8.598930,30.378427,132.770053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-25/ed-1/seq-10)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-04-25/ed-1/?sp=10)
 
 #### 1897-04-25 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ight bands  
+Than Alias for ho always had  
+A world of troubl on h; hands  
+  
+Railroad  
   
 Hawthorne Traly Says:  
 &quot;These railroads are (Positively the  
@@ -716,13 +1256,13 @@ Mexico, Arizona, and California. Free
 desciiptive literature. &quot;W. J. Black, G.  
 P. A., A.;y. &amp; S. F. Ry.. Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897042501%2F0018.jp2/pct:30.094325,9.073297,12.292259,9.180928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897042501:0018/pct:27.080838,9.912819,36.482036,133.720805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-27/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-04-27/ed-1/?sp=8)
 
 #### 1897-04-27 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
@@ -750,13 +1290,13 @@ Mexico, Arizona, and California. Free
 descriptive literature. &quot;W. J. Black, G.  
 P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897042701%2F0028.jp2/pct:42.714838,7.493012,12.236099,9.073318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897042701:0028/pct:64.045779,11.234143,18.356124,13.609976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-28/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-04-28/ed-1/?sp=8)
 
 #### 1897-04-28 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
@@ -783,13 +1323,13 @@ Mexico, Arizona, and California. Free
 descriptive literature. &quot;W. J. Black, G.  
 P. A., A. T. &amp; S. F. Ry Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897042801%2F0036.jp2/pct:43.453624,8.282373,12.332240,9.044094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897042801:0036/pct:65.161002,12.423560,18.485391,13.560777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-04-29/ed-1/seq-8)
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1897-04-29/ed-1/?sp=8)
 
 #### 1897-04-29 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
@@ -841,15 +1381,16 @@ Fe Home oilers a facile transition to
 many beautiful spots in Colorado, Xew  
 Mexico, Arizona, and California. Free  
 descriptive litenitme. W. J. Black. G.  
-P. A.. A. T. &amp; S. F. Ky.. Topeka. Kas.
+P. A.. A. T. &amp; S. F. Ky.. Topeka. Kas.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283053%2F1897042901%2F0593.jp2/pct:9.055649,37.414886,84.671164,49.225170/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283053:1897042901:0593/pct:13.570465,56.116459,126.972353,73.831885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-29/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-04-29/ed-1/?sp=8)
 
 #### 1897-04-29 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
@@ -876,13 +1417,13 @@ Mexico, Arizona, and California. Free
 descriptive literature. W. J. Black. G.  
 P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897042901%2F0044.jp2/pct:68.792949,8.445256,12.384225,9.025465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897042901:0044/pct:103.151135,12.667884,18.578256,13.527452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-30/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-04-30/ed-1/?sp=8)
 
 #### 1897-04-30 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
@@ -909,13 +1450,13 @@ Mexico. Arizona, and California. Free
 descriptive literature. W. J. Black. G.  
 P. A., A. T. &amp; S. F. Ry.. Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897043001%2F0052.jp2/pct:69.252531,8.526967,12.552114,8.963974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897043001:0052/pct:69.252531,8.526967,12.552114,8.963974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-01/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-05-01/ed-1/?sp=8)
 
 #### 1897-05-01 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
@@ -942,13 +1483,13 @@ many beautiful spots in Colorado, New
 descriptive literature. W. J. Black. G.  
 P. A, A. T. &amp;. S. F. Ry.. Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897050101%2F0060.jp2/pct:70.070687,8.903889,12.678598,8.989607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897050101:0060/pct:105.051112,13.350477,19.016837,13.489767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-04/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-05-04/ed-1/?sp=8)
 
 #### 1897-05-04 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
@@ -975,18 +1516,19 @@ Mexico, Arizona, and California. Free
 descriptive literature. W. J. Black. G.  
 P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897050401%2F0080.jp2/pct:69.661749,8.101130,12.233646,9.058634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897050401:0080/pct:104.469607,12.146315,18.355185,13.587951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-05/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-05-05/ed-1/?sp=8)
 
 #### 1897-05-05 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
   
 Hawthorne Tralr Says:  
 &quot;These railroads are positively the  
@@ -1008,13 +1550,13 @@ Mexico. Arizona, and California. Free
 descriptive literature. W. J. Black. G.  
 P. A, A. T. &amp;. S. F. Ry.. Topeka. Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897050501%2F0088.jp2/pct:69.150366,8.567129,12.259221,9.072342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897050501:0088/pct:103.671642,12.845319,18.373134,13.608513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-05-06/ed-1/seq-1)
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1897-05-06/ed-1/?sp=1)
 
 #### 1897-05-06 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
@@ -1052,15 +1594,15 @@ him a home ?n .,
 &#x27;The magnificent trains of the Saatf  
 Fe Route offers a facile tranaitleu to  
 ataav beantiful spots&#x27; to .Colorado, New  
-atw1m. Arises, and California. Fre
+atw1m. Arises, and California. Free
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283053%2F1897050601%2F0594.jp2/pct:18.820366,74.384588,14.518568,22.059698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283053:1897050601:0594/pct:28.225806,111.570936,21.757392,33.095493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _People's voice._](https://chroniclingamerica.loc.gov/lccn/sn85032801/1897-05-06/ed-1/seq-6)
+## [From _People's voice._](https://www.loc.gov/resource/sn85032801/1897-05-06/ed-1/?sp=6)
 
 #### 1897-05-06 &middot; [Wellington, Sumner County, Kansas](http://dbpedia.org/resource/Wellington%2C_Kansas)
 
@@ -1126,15 +1668,17 @@ many beautiful spots in Colorado,
 New Mexico. Arizona, and California.  
 Free descriptive literature. W. J.  
 Black, G. P. A., A.T. &amp;S. F. Railway,  
-Topeka, Kas
+Topeka, Kas.  
+The Scenic Route to California.  
+If you are going to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_goodnow_ver01%2Fdata%2Fsn85032801%2F00212473674%2F1897050601%2F0332.jp2/pct:37.610893,50.737086,28.656901,41.021474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897050601:0332/pct:56.394389,76.099826,42.966172,61.532211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-06/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-05-06/ed-1/?sp=8)
 
 #### 1897-05-06 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
@@ -1161,18 +1705,19 @@ Mexico, Arizona, and California. Free
 descriptive literature. W. J. Black, G.  
 P. A, A. T. &amp;S. F. Ry., Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897050601%2F0096.jp2/pct:68.737091,18.636951,12.186486,9.162360/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897050601:0096/pct:103.067847,27.950043,18.274336,13.738157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-07/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-05-07/ed-1/?sp=8)
 
 #### 1897-05-07 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
   
 Hawthorns Truly Say:  
 &quot;These railroads are positively the  
@@ -1194,13 +1739,13 @@ Mexico, Arizona, and California. Free
 descriptive literature. W. J. Black, G.  
 P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897050701%2F0104.jp2/pct:30.091276,49.301075,12.359719,9.193548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897050701:0104/pct:45.122681,73.946237,18.536804,13.795699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-08/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-05-08/ed-1/?sp=8)
 
 #### 1897-05-08 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
@@ -1227,13 +1772,13 @@ Mexico, Arizona, and California. Free
 descriptive literature. W. J. Black, G.  
 P. A, A. T. &amp; S. F. Ry.. Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897050801%2F0112.jp2/pct:55.111773,8.223755,12.220566,9.139901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897050801:0112/pct:82.643027,12.330244,18.310489,13.709851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-09/ed-1/seq-10)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-05-09/ed-1/?sp=10)
 
 #### 1897-05-09 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
@@ -1286,13 +1831,13 @@ Mexico, Arizona, and California. Free
 desciiptive literature. W. J. Black, G.  
 P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897050901%2F0122.jp2/pct:17.150946,6.018270,25.137833,89.156368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897050901:0122/pct:25.715137,9.027405,37.708582,133.734551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-11/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-05-11/ed-1/?sp=8)
 
 #### 1897-05-11 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
@@ -1319,13 +1864,13 @@ Mexico, Arizona, and California. Free
 descriptive literature. W. J. Black, G.  
 P. A, A T. &amp; S. P. Ry., Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897051101%2F0132.jp2/pct:69.025626,8.632708,12.276520,9.008043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897051101:0132/pct:69.025626,8.632708,12.276520,9.008043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-12/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-05-12/ed-1/?sp=8)
 
 #### 1897-05-12 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
@@ -1352,19 +1897,19 @@ Mexico, Arizona, and California. Free
 descriptive literature. W. J. Black, G.  
 P- A-, A. T. ft S. F. Ry., Topeka. Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897051201%2F0140.jp2/pct:69.113059,7.660856,12.271579,9.027329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897051201:0140/pct:103.654189,11.491285,18.404635,13.535614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-05-13/ed-1/seq-1)
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1897-05-13/ed-1/?sp=1)
 
 #### 1897-05-13 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 Hawthorse Truly Says: &quot;These  
 railroads are positively the greatest  
 blessings that the ages have wrought oat  
@@ -1381,15 +1926,15 @@ him home?&quot;
 The magnlfceat trains of the gaala  
 Fa Route offers a facile traasitlesi to  
 many beaatiful spots hi Colorado, Xmr  
-Maxtoes Arhwha, and Caltforaia.&#x27; Trs
+Maxtoes Arhwha, and Caltforaia.&#x27; Trsa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283053%2F1897051301%2F0602.jp2/pct:34.383469,84.918462,14.363144,10.796334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283053:1897051301:0602/pct:34.383469,84.918462,14.363144,10.796334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _People's voice._](https://chroniclingamerica.loc.gov/lccn/sn85032801/1897-05-13/ed-1/seq-6)
+## [From _People's voice._](https://www.loc.gov/resource/sn85032801/1897-05-13/ed-1/?sp=6)
 
 #### 1897-05-13 &middot; [Wellington, Sumner County, Kansas](http://dbpedia.org/resource/Wellington%2C_Kansas)
 
@@ -1435,13 +1980,13 @@ Free descriptive literature. W. J.
 Black, G. P.A., A.T. &amp;S. F.Railwav,  
 Tupeka, Kas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_goodnow_ver01%2Fdata%2Fsn85032801%2F00212473674%2F1897051301%2F0340.jp2/pct:37.471455,50.937934,29.042973,43.839741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897051301:0340/pct:56.161826,76.401112,43.547718,65.759611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-13/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-05-13/ed-1/?sp=8)
 
 #### 1897-05-13 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
@@ -1468,13 +2013,13 @@ Mexico. Arizona, and California. Free
 descriptive literature. W. J. Black. G.  
 P. A., A. T. &amp; S. F. Ry.. Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897051301%2F0148.jp2/pct:68.780706,8.375281,12.267381,9.039306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897051301:0148/pct:103.125000,12.562922,18.377976,13.558959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-14/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-05-14/ed-1/?sp=8)
 
 #### 1897-05-14 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
@@ -1501,13 +2046,13 @@ Mexico. Arizona, and California. Free
 descriptive literature. W. J. Black. G.  
 P. A, A T. &amp; S. F. Ry.. Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897051401%2F0156.jp2/pct:69.471799,9.017540,12.235154,9.060583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897051401:0156/pct:104.176611,13.526310,18.332339,13.590875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-15/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-05-15/ed-1/?sp=8)
 
 #### 1897-05-15 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
@@ -1534,18 +2079,21 @@ Mexico. Arizona, and California. Free
 descriptive literature. W. J. Black. G.  
 P. A., A. T. &amp; S. F. Ry., Topeka. Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897051501%2F0164.jp2/pct:68.844894,9.014385,12.265555,8.929142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897051501:0164/pct:103.229167,13.521577,18.392857,13.393713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-18/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-05-18/ed-1/?sp=8)
 
 #### 1897-05-18 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+.  
+  
+Railroad  
   
 Hawthorne Traty Says:  
 &quot;These railroads are, positively the  
@@ -1567,13 +2115,13 @@ Mexico, Arizona, and California. Free
 descriptive literature. W. J. Black. G.  
 P. A., A. T. &amp; S. F. Ry., Topeka. Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897051801%2F0184.jp2/pct:57.017544,8.438909,12.250966,9.093837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897051801:0184/pct:85.493460,8.825424,18.370987,17.468327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-19/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-05-19/ed-1/?sp=8)
 
 #### 1897-05-19 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
@@ -1600,19 +2148,22 @@ Mexico, Arizona, and California. Free
 descriptive literature. W. J. Black. G.  
 P. A., A. T. &amp; S. F. Ry.. Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897051901%2F0192.jp2/pct:56.052475,8.352120,12.268933,9.082126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897051901:0192/pct:56.052475,8.352120,12.268933,9.082126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-05-20/ed-1/seq-1)
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1897-05-20/ed-1/?sp=1)
 
 #### 1897-05-20 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+rated descriptive  
+book, &quot;The Grand Canyon,&quot; mailed free  
+W. J. Black. G. P. A., A. T. &amp; S. F. Ry.,  
+Topeka, Kas. ,  
 Hawtiiokse Trcxy Say3: &quot;Taese  
 railroads are positively the greatest  
 blessings that the ages have wrought out  
@@ -1632,15 +2183,20 @@ many beautiful spots in Colorado, New
 Mexico, Arlaoaa, aad California. Free  
 descriptive literatnit. W. J. .Black, G.  
 P. A., A. T. &amp; S. F. Ry., Topeka, Kas.  
-A
+A.  
+  
+m  
+  
+0  
+i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283053%2F1897052001%2F0610.jp2/pct:77.659214,85.758551,14.600271,12.847098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283053:1897052001:0610/pct:77.659214,82.803003,19.901762,15.802646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _People's voice._](https://chroniclingamerica.loc.gov/lccn/sn85032801/1897-05-20/ed-1/seq-6)
+## [From _People's voice._](https://www.loc.gov/resource/sn85032801/1897-05-20/ed-1/?sp=6)
 
 #### 1897-05-20 &middot; [Wellington, Sumner County, Kansas](http://dbpedia.org/resource/Wellington%2C_Kansas)
 
@@ -1699,18 +2255,21 @@ Free descriptive literature. W. J.
 Black, G. P. A., A.T. &amp;S. F. Railway,  
 Topeka, Kas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_goodnow_ver01%2Fdata%2Fsn85032801%2F00212473674%2F1897052001%2F0349.jp2/pct:35.246244,50.578203,28.818865,44.223806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897052001:0349/pct:35.246244,50.578203,28.818865,44.223806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-20/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-05-20/ed-1/?sp=8)
 
 #### 1897-05-20 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+. Hzn&#x27;t Horn.  
+  
+Railroad  
   
 Hawthorne Traly Say:  
 Tnesa railroads are positively the  
@@ -1730,22 +2289,21 @@ Fe Route offer a facile transition to
 many beautiful spots in Colorado, New  
 Mexico, Arizona, and California. Free  
 descriptive literature. &quot;W. J. Black. G.  
-P. A., A. T. &amp; S. F. Ry Topeka, Kan
+P. A., A. T. &amp; S. F. Ry Topeka, Ka
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897052001%2F0200.jp2/pct:55.612092,9.070344,12.361568,9.038027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897052001:0200/pct:77.618193,9.792093,24.311789,133.803727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-21/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-05-21/ed-1/?sp=8)
 
 #### 1897-05-21 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-If awthora Trlj Sr:  
+ awthora Trlj Sr:  
 &quot;These railroads are positively the  
 greatest blessings that the ages have  
 wrought out for us. They give ms wings;  
@@ -1766,13 +2324,13 @@ Mexico, Arizona, and California. Free
 descriptive literature. W. J. Black, G.  
 P. A., A. T. &amp; S. F. Ry.. Topeka, Xan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897052101%2F0208.jp2/pct:56.754751,8.366620,12.262470,9.079132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897052101:0208/pct:56.754751,8.366620,12.262470,9.079132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-22/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-05-22/ed-1/?sp=8)
 
 #### 1897-05-22 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
@@ -1799,18 +2357,59 @@ Mexico, Arizona, and California. Free
 descriptive literature. W. J. Black, G.  
 P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897052201%2F0216.jp2/pct:70.131815,8.452985,12.267825,9.046745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897052201:0216/pct:70.131815,8.452985,12.267825,9.046745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-25/ed-1/seq-8)
+## [From _The Topeka state journal._](https://www.loc.gov/resource/sn82016014/1897-05-25/ed-1/?sp=3)
+
+#### 1897-05-25 &middot; [Topeka, Kansas](http://dbpedia.org/resource/Topeka%2C_Kansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ to the  
+News from Berlin says:  
+In a shooting display by the expert  
+Kruger here yesterday, while he was  
+firing backwards and with the aid of a  
+mirror in attempting the Willam Tell  
+shot, he sent the bullet through the  
+head of his sister, who was assisting  
+him. She died in a few minutes.  
+The Discovery Saved Hs Liife.  
+Mr. C. Cailloutte, druggist, Beavers­  
+ville. 111., says: &quot;To Dr. King&#x27;s New  
+Discovery I owe my life. Was taken  
+with La Grippe and tried all the phy­  
+sicians for rrflies about, but of no avail,  
+and was given up and told I could not  
+live.&#x27; Having Dr. King&#x27;s New Discov­  
+ery In my store I sent for a bottle and  
+began its use and from the first dose  
+began to get better, and after using  
+three bottles was up and about again!  
+It is worth its weight in gold. We won&#x27;t  
+keep store or house without it.&quot; Get a  
+free trial at J. K. Jones&#x27; drug store.oth  
+and Kansas avenue. Regular size 50c  
+and S1.00  
+Inflammation of the Bowel
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871350:1897052501:0372/pct:59.517045,108.529011,16.761364,16.830783/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-05-25/ed-1/?sp=8)
 
 #### 1897-05-25 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
   
 Bawtbma TrIy Says:  
 &quot;These railroads are positively the  
@@ -1832,13 +2431,13 @@ Mexico, Arizona, and California. Free
 descriptive literature. TV&quot;. J. l3ck, G.  
 P. A., A. T. &amp; S. F. Ry.. Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897052501%2F0236.jp2/pct:57.448080,8.571429,12.281488,9.054780/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897052501:0236/pct:86.126045,12.857143,18.413978,13.576799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-26/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-05-26/ed-1/?sp=8)
 
 #### 1897-05-26 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
@@ -1871,13 +2470,13 @@ ileIco, Arizona, and California. Free
 descriptive literature. V J. Black, G.  
 P. A., A. T. &amp; S. F. By., Topeka. Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897052601%2F0244.jp2/pct:57.759262,8.515424,12.230323,9.061697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897052601:0244/pct:86.600238,12.767781,18.337299,13.592545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-05-27/ed-1/seq-1)
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1897-05-27/ed-1/?sp=1)
 
 #### 1897-05-27 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
@@ -1920,15 +2519,16 @@ Fe Boute offers a facile transition to
 many beautiful spots in Colorado, New  
 Mexico, Arizona, and California. Free  
 descriptive literature. W. J. Black, G,  
-P. A., A. T. &amp; S. F. Ky., Topeka, Kas,
+P. A., A. T. &amp; S. F. Ky., Topeka, Kas,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283053%2F1897052701%2F0618.jp2/pct:77.016537,71.365639,14.259197,24.514823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283053:1897052701:0618/pct:115.485830,107.048458,21.373144,36.766282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _People's voice._](https://chroniclingamerica.loc.gov/lccn/sn85032801/1897-05-27/ed-1/seq-6)
+## [From _People's voice._](https://www.loc.gov/resource/sn85032801/1897-05-27/ed-1/?sp=6)
 
 #### 1897-05-27 &middot; [Wellington, Sumner County, Kansas](http://dbpedia.org/resource/Wellington%2C_Kansas)
 
@@ -2002,15 +2602,48 @@ many beautiful spots in Colorado,
 New Mexico, Arizona, and California.  
 Free descriptive literature. W. J.  
 Black, G. P.A., A.T. &amp;S. F. Railway,  
-Topeka, KaS
+Topeka, Ka
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_goodnow_ver01%2Fdata%2Fsn85032801%2F00212473674%2F1897052701%2F0357.jp2/pct:36.388140,51.120139,29.234916,35.844457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897052701:0357/pct:54.560531,76.680209,43.843284,53.755078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-27/ed-1/seq-8)
+## [From _The Topeka state journal._](https://www.loc.gov/resource/sn82016014/1897-05-27/ed-1/?sp=5)
+
+#### 1897-05-27 &middot; [Topeka, Kansas](http://dbpedia.org/resource/Topeka%2C_Kansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+, was its third rector.  
+The Discovery Saved Hs Liife.  
+Mr. G. Cailloutte, druggist, Beavers­  
+ville. 111., says: &quot;To Dr. King&#x27;s New  
+Discovery I owe my life. Was taken  
+with La Grippe and tried all the phy­  
+sicians for mlies about, but of no avail,  
+and was given up and told I could not  
+live. Having Dr. King&#x27;s New Discov­  
+ery in my store I sent for a bottle and  
+began its use and from the first dose  
+besran to get better, and after using  
+three bottles was up and about again.  
+It is worth its weight in gold. We won&#x27;t  
+keep store or house without it.&quot; Get a  
+free trial at J. K. Jones&#x27; drug store, 5th  
+and Kansas avenue. Regular size 50c.  
+and SL.00  
+&quot;They are dandles,&quot; said Thos. Bow­  
+er
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871350:1897052701:0390/pct:41.281513,110.578236,16.491597,12.809228/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-05-27/ed-1/?sp=8)
 
 #### 1897-05-27 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
@@ -2037,13 +2670,13 @@ Mexico, Arizona, and California. Free
 desciiptive literature. &quot;W. J. Black. G.  
 P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897052701%2F0252.jp2/pct:57.669903,7.753608,12.352502,9.002800/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897052701:0252/pct:86.484468,11.630411,18.533453,13.504200/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wichita daily eagle._](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-05-28/ed-1/seq-8)
+## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-05-28/ed-1/?sp=8)
 
 #### 1897-05-28 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
 
@@ -2070,19 +2703,84 @@ Mexico, Arizona, and California. Free
 descriptive literature. &quot;W. J. Black, G.  
 P. A., A. T. &amp; S. F. Ry.. Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897052801%2F0260.jp2/pct:56.794007,8.267464,12.449438,8.983123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897052801:0260/pct:85.170761,12.401196,18.663871,13.469344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-06-03/ed-1/seq-1)
+## [From _The Topeka state journal._](https://www.loc.gov/resource/sn82016014/1897-05-29/ed-1/?sp=2)
+
+#### 1897-05-29 &middot; [Topeka, Kansas](http://dbpedia.org/resource/Topeka%2C_Kansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+. Just think of Rossland, a  
+town in which there were just four log  
+cabins in 1694 and which now has 10.000  
+population and as many more tran­  
+sients. I was there in March, when  
+the snow was from two to twenty feet  
+deep and the mercury from 10 to 20  
+degrees below zero the coldest part of  
+the winter and there were 300 build­  
+ings going up. with steam pipes pass­  
+ing through the mortar beds to keep  
+them from freezing, and the buildings  
+temporarily enclosed in order to Insure  
+safe construction. As fast as a room  
+was finished it was occupied, and with  
+45 licensed taverns, many of them with  
+from 40 to 60 rooms and one having  
+100 rooms, it was almost impossible to  
+secure a lodging place. The daily ar­  
+rivals when I was there averaged 100,  
+though the snow lay so deep that pros­  
+pecting was impossible.&quot;  
+The Discovery Saved Hs &quot;Liife.  
+Mr. C Cailloutte, druggist. Beavers­  
+ville. 111., says: &quot;To Dr King&#x27;s New  
+Discovery I owe my lifi. Was taken  
+with La Grippe and tri?d all the phy­  
+sicians for mlies about, but of no avail,  
+and was given up and told I could not  
+live. Having Dr. King&#x27;s New Discov­  
+ery In my store I sent for a bottle and  
+began its use and frorr. the first dose  
+besran to get better, aad after using  
+three bottles was up ard about again.  
+It is worth its weight in gold. We won&#x27;t  
+keep store or house witiout it.&quot; Get a  
+free trial at J. K. Jones drug 8tore,5th  
+and Kansas avenue. Rsgular size 50c  
+and SI. 0
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871350:1897052901:0403/pct:42.788802,75.730065,12.455705,17.551823/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1897-06-03/ed-1/?sp=1)
 
 #### 1897-06-03 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+oat.  
+Sex Your Own Land First. Only a  
+few hours journey by stage from Flag­  
+staff, Arizona, on the Santa Fe Route,  
+is the most marvelous scenic wonder of  
+the American continent, a veritable Ti­  
+tan of chasms the Grand Canyon of the  
+Colorado River thirteen miles long,  
+over a mile deep, and painted like a  
+flower. Profusely illustrated descriptive  
+book, &quot;The Grand Canyon,&quot; mailed free  
+W. J. Black, G. P. A., A. T. &amp; S. F. Ry.t  
+Topeka, Kas.  
+m  
 Hawthorne Trolt Sats :-r-&quot;The8e  
 railroads are positively the greatest  
 blessings that the ages have &#x27;wrought ont  
@@ -2101,15 +2799,22 @@ Fe Route offers a facile transition to
 many beautiful spots in Colorado, New  
 Mexico, Arizona, and California. Free  
 descriptive literatuie. W. J. Black, G.  
-P. A., A. T. &amp; S. F. Ry., Topeka, Kas.
+P. A., A. T. &amp; S. F. Ry., Topeka, Kas.  
+  
+  
+fers  
+  
+t,  
+$?  
+! f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283053%2F1897060301%2F0626.jp2/pct:77.559322,83.583323,14.237288,11.763316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283053:1897060301:0626/pct:3.186441,74.760836,88.694915,21.388922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _People's voice._](https://chroniclingamerica.loc.gov/lccn/sn85032801/1897-06-03/ed-1/seq-6)
+## [From _People's voice._](https://www.loc.gov/resource/sn85032801/1897-06-03/ed-1/?sp=6)
 
 #### 1897-06-03 &middot; [Wellington, Sumner County, Kansas](http://dbpedia.org/resource/Wellington%2C_Kansas)
 
@@ -2164,13 +2869,43 @@ Iree descriptive literature. W. J.
 Black, G. P. A., A.T. &amp;S. F. Railway,  
 Topeka, Kas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_goodnow_ver01%2Fdata%2Fsn85032801%2F00212473674%2F1897060301%2F0365.jp2/pct:37.665017,30.228225,56.641914,65.684676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897060301:0365/pct:37.665017,30.228225,56.641914,65.684676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-06-10/ed-1/seq-1)
+## [From _People's voice._](https://www.loc.gov/resource/sn85032801/1897-06-03/ed-1/?sp=6)
+
+#### 1897-06-03 &middot; [Wellington, Sumner County, Kansas](http://dbpedia.org/resource/Wellington%2C_Kansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+Mayfieid Local Union.  
+Christain Endeavor Local Union to  
+be held at Mayfleld. June 6th, 1897.  
+Voluntary Mi9S Viola Allen.  
+Recitation Miss Gracie Heasty.  
+Address-Mr. II. J. McNair.  
+Song.  
+Recitation Andrew Gardner.  
+Paper Miss Ir&#x27; .ia Vab Ausdall.  
+Recitation Miss Clara Freeman.  
+Song.  
+Paper-O. II. Attebury.  
+Select Reading -Miss Anna Allen.  
+Prayer meeting will be led by John  
+Rose.  
+The
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897060301:0365/pct:52.000825,63.565440,14.294554,8.174197/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1897-06-10/ed-1/?sp=1)
 
 #### 1897-06-10 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
@@ -2211,15 +2946,62 @@ Fe Route offers a facile transition to
 many beautiful spots in Colorado, New  
 Mexico, Arizona, and California. Free  
 descriptive literature. W. J. Black, G.  
-P. A., A. T. ft S. F. Ry., Topeka, Kas.
+P. A., A. T. ft S. F. Ry., Topeka, Kas.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283053%2F1897061001%2F0634.jp2/pct:33.836499,71.592931,14.365672,23.294983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283053:1897061001:0634/pct:33.836499,71.592931,14.365672,23.294983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _People's voice._](https://chroniclingamerica.loc.gov/lccn/sn85032801/1897-06-10/ed-1/seq-6)
+## [From _People's voice._](https://www.loc.gov/resource/sn85032801/1897-06-10/ed-1/?sp=2)
+
+#### 1897-06-10 &middot; [Wellington, Sumner County, Kansas](http://dbpedia.org/resource/Wellington%2C_Kansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+: &quot;I bought  
+  
+uiie uuine 01 -Mystic tJure&#x27; lor rheu­  
+matism, and two doses of it did me  
+more good than any medicine I ever  
+took.&quot; Seventy-five cents. Sold by  
+H- F- Smith, Druggist, Wellington.  
+Cash Moore has increased the value  
+of hi
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897061001:0369/pct:32.549505,132.649493,21.122112,6.411004/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _People's voice._](https://www.loc.gov/resource/sn85032801/1897-06-10/ed-1/?sp=6)
+
+#### 1897-06-10 &middot; [Wellington, Sumner County, Kansas](http://dbpedia.org/resource/Wellington%2C_Kansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Don&#x27;t be deceived bv Low  
+Prices, nor by smooth-toiigued  
+agents into buying old out of  
+date machines, but come to  
+Headquarters and get strictly  
+reliable goods at reasonable  
+prices.  
+  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897061001:0373/pct:79.278729,44.961512,60.574572,21.903429/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _People's voice._](https://www.loc.gov/resource/sn85032801/1897-06-10/ed-1/?sp=6)
 
 #### 1897-06-10 &middot; [Wellington, Sumner County, Kansas](http://dbpedia.org/resource/Wellington%2C_Kansas)
 
@@ -2290,20 +3072,19 @@ Black, G. P.A., A.T. &amp;S. F. Railway.
   
 Topeka, Kas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_goodnow_ver01%2Fdata%2Fsn85032801%2F00212473674%2F1897061001%2F0373.jp2/pct:23.007948,52.297644,28.265743,43.655237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897061001:0373/pct:34.494703,78.446466,42.379788,65.477024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Iola register._](https://chroniclingamerica.loc.gov/lccn/sn83040340/1897-06-11/ed-1/seq-3)
+## [From _The Iola register._](https://www.loc.gov/resource/sn83040340/1897-06-11/ed-1/?sp=3)
 
 #### 1897-06-11 &middot; [Iola, Allen County, Kansas](http://dbpedia.org/resource/Iola%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-tained. Cawthorno Truly Saj e:  
+. Cawthorno Truly Saj e:  
 &quot;Tnee railroads are positively the  
 greatest blessings that the age3 have  
 wrought out for us. They give us  
@@ -2325,19 +3106,65 @@ Free descriptive literature. W. J.
 Black, G P. A., A. T. &amp; S. F. Ry.  
 Topeka, Ka
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_garwood_ver02%2Fdata%2Fsn83040340%2F00237285293%2F1897061101%2F0397.jp2/pct:51.449022,80.463330,13.896648,14.581269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897061101:0397/pct:51.449022,81.466799,13.896648,13.577800/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-06-17/ed-1/seq-1)
+## [From _Springfield weekly Republican._](https://www.loc.gov/resource/sn83020847/1897-06-11/ed-1/?sp=1)
+
+#### 1897-06-11 &middot; [Springfield, Mass.](http://dbpedia.org/resource/Springfield%2C_Massachusetts)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+—  
+Just think of Itosslnnd. a town in which  
+there were Just four log cabins In IsSM. and  
+which now has 10.000 population and ns ninny  
+more transients. 1 was thorp In March, when  
+the snow was from 2 to 20 feet deep, and the  
+mercury from 10 to 20 degrees below* zero—  
+the coldest part of the winter—and there  
+were SOO buildings going up, with steam  
+Jlines passing through the mortar beds to  
+leep them from freezing, and the buildings  
+temporarily inclosed 11l order to Insure Safe  
+construction. As fast as a room was Hnishcd  
+it was occupied, and w*ith 4.1 licensed taverns,  
+many of them with from 40 to Ou rooms ami  
+one having 100 rooms. It was almost impos­  
+sible to secure a lodging place. The dolly  
+arrivals when I was there averaged 100,  
+though the suow* lay so deep that prospecting  
+was impossible
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_lachesis_ver01:data:sn83020847:00517171207:1897061101:0901/pct:40.378368,111.933603,16.262182,9.062360/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1897-06-17/ed-1/?sp=1)
 
 #### 1897-06-17 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ other  
+mstals-at market rates.  
+SekYodrOwn La52,F.irst. Only a  
+few hours iournev bv stain-, frnm Flair-  
+staff, Arizona, on the Santa Fe Route,  
+is tne most marvelous, scenic wonder of  
+the American continent a veritable Ti­  
+tan of chasms the Grand Canyon of the  
+Colorado Biver thirteen milp lnrnr.  
+over a mile deep,, and painted like a  
+flower. Profusely illustrated descriptive  
+dook, &quot;ine l?ranu wanyon,&quot; mailed free  
+W. J. Black. G. P.. A., A. T. &amp; S. F.Bv..  
+Topeka, Kas.  
 Hawthorne Truly Sats : &quot;Tbsso  
 railroads are positively tbe greatest  
 blessiugs that the ages have wrought out  
@@ -2356,15 +3183,16 @@ Fe Route offers a facile transition to
 many beautiful spots in Colorado, New  
 Mexico, Arizona, and California. Free  
 descriptive literature. W. J. Black, G  
-F. A., A. T. &amp; S. F. By., Topeka. Kas,
+F. A., A. T. &amp; S. F. By., Topeka. Kas,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897061701%2F0001.jp2/pct:76.798260,83.092977,14.185346,11.841951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897061701:0001/pct:115.150502,110.200492,21.304348,32.196037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _People's voice._](https://chroniclingamerica.loc.gov/lccn/sn85032801/1897-06-17/ed-1/seq-3)
+## [From _People's voice._](https://www.loc.gov/resource/sn85032801/1897-06-17/ed-1/?sp=3)
 
 #### 1897-06-17 &middot; [Wellington, Sumner County, Kansas](http://dbpedia.org/resource/Wellington%2C_Kansas)
 
@@ -2393,19 +3221,19 @@ Free descriptive literature. W. J.
 Black, G. P.A., A. T. &amp; S. F. Rail war,  
 Topeka, Kas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_goodnow_ver01%2Fdata%2Fsn85032801%2F00212473674%2F1897061701%2F0378.jp2/pct:49.647741,57.270273,14.276834,10.749912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897061701:0378/pct:74.440762,85.905410,21.396023,16.124868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Iola register._](https://chroniclingamerica.loc.gov/lccn/sn83040340/1897-06-18/ed-1/seq-3)
+## [From _The Iola register._](https://www.loc.gov/resource/sn83040340/1897-06-18/ed-1/?sp=3)
 
 #### 1897-06-18 &middot; [Iola, Allen County, Kansas](http://dbpedia.org/resource/Iola%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 Hawthorne Truly Say:  
 &quot;These railroadB are positively the  
 greatest ble3Bings that the ages have  
@@ -2428,13 +3256,13 @@ Free descriptive literature. W. J&quot;.
 Black, G P. A., A. T. &amp; S. F. Ryv  
 Topeka, Ka
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_garwood_ver02%2Fdata%2Fsn83040340%2F00237285293%2F1897061801%2F0405.jp2/pct:79.971866,61.732050,14.190258,13.298791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897061801:0405/pct:119.936709,92.598075,21.272855,19.935850/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-06-24/ed-1/seq-1)
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1897-06-24/ed-1/?sp=1)
 
 #### 1897-06-24 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
@@ -2478,15 +3306,16 @@ Fe Route offers a facile transition to
 many beautiful spots in Colorado, New  
 Mexico, Arizona, and California. Free­  
 descriptive literature. W. J. Black, G  
-P. A., A. T. &amp; S. F. By., Topeka, Kas.
+P. A., A. T. &amp; S. F. By., Topeka, Kas.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897062401%2F0009.jp2/pct:76.888594,65.939735,14.129172,29.487630/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897062401:0009/pct:115.305445,98.909603,21.198539,44.225583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _People's voice._](https://chroniclingamerica.loc.gov/lccn/sn85032801/1897-07-01/ed-1/seq-6)
+## [From _People's voice._](https://www.loc.gov/resource/sn85032801/1897-07-01/ed-1/?sp=6)
 
 #### 1897-07-01 &middot; [Wellington, Sumner County, Kansas](http://dbpedia.org/resource/Wellington%2C_Kansas)
 
@@ -2515,13 +3344,13 @@ Free descriptive literature. W. J.
 Black, G. P. A., A. T. &amp; S. F. Rallwar,  
 Topeka, Kas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_goodnow_ver01%2Fdata%2Fsn85032801%2F00212473674%2F1897070101%2F0397.jp2/pct:51.361948,6.727971,14.217912,10.487720/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897070101:0397/pct:77.000825,10.091957,21.328383,15.725760/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _People's voice._](https://chroniclingamerica.loc.gov/lccn/sn85032801/1897-07-08/ed-1/seq-3)
+## [From _People's voice._](https://www.loc.gov/resource/sn85032801/1897-07-08/ed-1/?sp=3)
 
 #### 1897-07-08 &middot; [Wellington, Sumner County, Kansas](http://dbpedia.org/resource/Wellington%2C_Kansas)
 
@@ -2565,15 +3394,15 @@ many beautiful spots in Colorado,
 New Mexico, Arizona, and California.  
 Free descriptive literature. W. J.  
 Black, G. P. A., A.T. &amp;S. F.Railwav,  
-Topeka, Kas
+Topeka, Kas.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_goodnow_ver01%2Fdata%2Fsn85032801%2F00212473674%2F1897070801%2F0402.jp2/pct:48.469706,44.117303,14.303560,21.649725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897070801:0402/pct:72.689425,66.175955,21.440466,32.468746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-07-15/ed-1/seq-1)
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1897-07-15/ed-1/?sp=1)
 
 #### 1897-07-15 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
@@ -2614,15 +3443,16 @@ Fe Route offers a facile transition to
 many beautiful spots in Colorado, New  
 Mexico, Arizona, and California. Free  
 descriptive literatme. W. J. Black, G.  
-P. A., A. T. &amp; S. F. Ry., Topeka. Kas
+P. A., A. T. &amp; S. F. Ry., Topeka. Kas.  
+Wheu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897071501%2F0033.jp2/pct:19.090010,67.923650,14.029014,23.673184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897071501:0033/pct:28.625577,101.885475,21.028345,37.918994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _People's voice._](https://chroniclingamerica.loc.gov/lccn/sn85032801/1897-07-15/ed-1/seq-3)
+## [From _People's voice._](https://www.loc.gov/resource/sn85032801/1897-07-15/ed-1/?sp=3)
 
 #### 1897-07-15 &middot; [Wellington, Sumner County, Kansas](http://dbpedia.org/resource/Wellington%2C_Kansas)
 
@@ -2649,15 +3479,15 @@ many beautiful spots in Colorado.
 Xew Mexico, Arizona, and California.  
 Free descriptive literature. W. J.  
 Black. G. P.A.. A.T. ,tS F Rnilw  
-Topeka, Kas. 
+Topeka, Kas.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_goodnow_ver01%2Fdata%2Fsn85032801%2F00212473674%2F1897071501%2F0410.jp2/pct:34.112053,47.794377,14.203018,10.704623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897071501:0410/pct:51.136364,71.685684,21.280992,16.056934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-07-22/ed-1/seq-1)
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1897-07-22/ed-1/?sp=1)
 
 #### 1897-07-22 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
@@ -2700,13 +3530,13 @@ Mexico, Arizona, and California. Free
 descriptive literatu.e. W. J. Black, G.  
 P. A.,-A. T. &amp; S. F. By., Topeka, Kas.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897072201%2F0041.jp2/pct:48.133400,72.901791,14.086610,23.844083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897072201:0041/pct:72.179827,109.352686,21.118115,35.760272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _People's voice._](https://chroniclingamerica.loc.gov/lccn/sn85032801/1897-07-22/ed-1/seq-3)
+## [From _People's voice._](https://www.loc.gov/resource/sn85032801/1897-07-22/ed-1/?sp=3)
 
 #### 1897-07-22 &middot; [Wellington, Sumner County, Kansas](http://dbpedia.org/resource/Wellington%2C_Kansas)
 
@@ -2749,15 +3579,16 @@ many beautiful spots in Colorado,
 New Mexico, Arizona, and California.  
 Free descriptive literature. W. J.  
 Black, G. P. A., A.T. &amp;S. F. Railway,  
-Topeka, Kas
+Topeka, Kas.  
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_goodnow_ver01%2Fdata%2Fsn85032801%2F00212473674%2F1897072201%2F0418.jp2/pct:49.495366,55.723846,14.129763,17.799695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897072201:0418/pct:74.217463,83.585770,21.190280,28.190677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _People's voice._](https://chroniclingamerica.loc.gov/lccn/sn85032801/1897-07-29/ed-1/seq-6)
+## [From _People's voice._](https://www.loc.gov/resource/sn85032801/1897-07-29/ed-1/?sp=6)
 
 #### 1897-07-29 &middot; [Wellington, Sumner County, Kansas](http://dbpedia.org/resource/Wellington%2C_Kansas)
 
@@ -2803,15 +3634,34 @@ many beautiful spots in Colorado,
 New Mexico, Arizona, and California.  
 Free descriptive literature. W. J.  
 Black. G. P. A.. A. T. S. F. Railway.  
-Topeka, Kas
+Topeka, Kas.  
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_goodnow_ver01%2Fdata%2Fsn85032801%2F00212473674%2F1897072901%2F0429.jp2/pct:36.802820,17.305675,14.451586,23.552034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897072901:0429/pct:55.182421,25.952686,21.683250,36.650740/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-08-26/ed-1/seq-4)
+## [From _The Irish standard._](https://www.loc.gov/resource/sn90059959/1897-08-07/ed-1/?sp=4)
+
+#### 1897-08-07 &middot; [Minneapolis, Minn. ;](http://dbpedia.org/resource/Minneapolis)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ and  
+character.  
+  
+C. W. Spalding, president of the de­  
+funct Globe Savings bank, of Chicago
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742861:1897080701:0061/pct:68.911040,27.025079,12.262554,2.925915/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1897-08-26/ed-1/?sp=4)
 
 #### 1897-08-26 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
@@ -2861,15 +3711,48 @@ Fe Route offers a facile transition to
 many beautiful spots in Colorado, New  
 Mexico, Arizona, and California. Free  
 descriptive literature. W. J. Black, 6.  
-P. A., A. T. &amp; S. F. Ry., Topeka, Kas.
+P. A., A. T. &amp; S. F. Ry., Topeka, Kas.  
+  
+W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897082601%2F0084.jp2/pct:7.295703,67.111058,29.233361,28.817998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897082601:0084/pct:10.933288,53.636472,50.185310,90.251161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-09-02/ed-1/seq-4)
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1897-09-02/ed-1/?sp=4)
+
+#### 1897-09-02 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+nce.  
+  
+Rock Island Route Playing Cards.  
+The slickest cards on the market are  
+the &quot;RockIsland&#x27;s.&quot; They are also the  
+cheapest, and we will send you these ex­  
+cellent standard goods at the low rate of  
+9 cents per pack if you order five or more  
+packs. Send money order, draft or  
+stamps and they will be sent promptly by  
+express, charges prepaid? Orders for  
+single packs must contain 12 cents in  
+stamps, as they will be sent by mail.  
+Address,  
+John Sebastin, G, P. A.,  
+Chicago.  
+-9  
+It Saves the Croup
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897090201:0092/pct:37.090848,60.209363,14.195057,9.985886/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1897-09-02/ed-1/?sp=4)
 
 #### 1897-09-02 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
@@ -2922,15 +3805,46 @@ Fe Route offers a facile transition to
 many beautiful spots in Colorado, New  
 Mexico, Arizona, and California. Free  
 descriptive literature. W. J. Black, G.  
-P. A., A. T. &amp; S. F. Ry., Topeka. Kas.
+P. A., A. T. &amp; S. F. Ry., Topeka. Kas.  
+  
+THE  
+KAN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897090201%2F0092.jp2/pct:22.160989,58.233357,43.770875,38.085156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897090201:0092/pct:22.160989,58.233357,43.770875,38.085156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-09-09/ed-1/seq-4)
+## [From _Audubon Republican._](https://www.loc.gov/resource/sn87057928/1897-09-09/ed-1/?sp=1)
+
+#### 1897-09-09 &middot; [Audubon, Iowa](http://dbpedia.org/resource/Audubon%2C_Iowa)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+   
+  
+Rock Island Route Playing Cards.   
+The slickest cards on the market are  
+he “Rock Island’s.” They are also the  
+heapest, and will send you these ex  
+ellent standard goods at the low rute of  
+cents per pack if you order five or more  
+lacks. Send monev order, draft or  
+tamps and they will be sent promptly  
+iy express, charges prepaid. Orders for  
+ingle packs must contain 12 cents in  
+tamps, as they will be sent by mail,  
+kddress. John Sebastian, G. P. A.,  
+Chicago.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn87057928:00340584417:1897090901:0282/pct:89.850017,69.192974,15.172654,7.615772/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1897-09-09/ed-1/?sp=4)
 
 #### 1897-09-09 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
@@ -2974,15 +3888,84 @@ Fe Route offers a facile transition to
 many beautiful spots in Colorado, New  
 Mexico, Arizona, and California. Free  
 descriptive literatme. W. J. Black. G.  
-P. A., A. T. &amp; S. F. Ry., Topeka, Kas
+P. A., A. T. &amp; S. F. Ry., Topeka, Kas.  
+Sex Your Own Land First. Only
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897090901%2F0100.jp2/pct:36.184430,63.587085,14.216505,24.345982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897090901:0100/pct:54.258517,95.380627,21.309285,38.805091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-09-16/ed-1/seq-4)
+## [From _The Ketchum keystone._](https://www.loc.gov/resource/sn86091095/1897-09-11/ed-1/?sp=3)
+
+#### 1897-09-11 &middot; [Ketchum, Idaho](http://dbpedia.org/resource/Ketchum%2C_Idaho)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+hts but without  
+results.  
+The stock was found scattered all  
+along the canyon near the head of  
+Willow Creek, and some estrays are  
+there yet.  
+It Saves tbe Croupy Children.  
+Seaview, Ya.—We have a splendid  
+sale on Chamberlain&#x27;s Cough Remedy,  
+and our customers comiog from far and  
+near, speak of it in the highest terms.  
+Many have said that their children would  
+have died of croup if Chamberlain&#x27;s  
+Cough Remedy had not been given.—  
+Kell am &amp; Oukren. The 25 and 50 cent  
+sizes for sale by 1.1. Lewis, druggis
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_iles_ver01:data:sn86091095:0027955095A:1897091101:0148/pct:53.534272,35.393258,12.882497,8.643042/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Alexandria gazette._](https://www.loc.gov/resource/sn85025007/1897-09-13/ed-1/?sp=2)
+
+#### 1897-09-13 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+Halsey and the lat?  
+ter took bis departure. Tbe affair was  
+reported to the police authorities and  
+summons will be issued for the appear?  
+ance of tbe two gentlemen at tbe May?  
+or&#x27;s court on Tuesday or Wednesday  
+morning.  
+It Saves the Croupy Children.  
+Sea view, Ya.?We have a splendid  
+sale on Chamberlain&#x27;s Cough Remedy,  
+and our customers coming from far and  
+near, speak of it in the highest terms.  
+Many have said tbat their children  
+would have died of croup if Chamber­  
+be r Iain&#x27;s Cough Remedy had not been  
+given.?Kellum &amp; Oukren. The 25  
+and 50 cent sizes for sale by J. H. Jan­  
+ney, Druggist, 701 King street.  
+Don&#x27;t neglect a congh because tbe weather  
+is pleasant; before the next storm rolls  
+around it may develop into a serious difficulty  
+beyond repair. One Minute Congh Cure is  
+easy to take and will do what its name im?  
+plies. Charles G. Lennon.  
+  
+NEWS OFTHE DAY.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033750:1897091301:0094/pct:30.149459,4.940394,25.579797,94.681339/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1897-09-16/ed-1/?sp=4)
 
 #### 1897-09-16 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
@@ -3026,20 +4009,92 @@ Fe Route offers a facile transition to
 many beautiful spots in Colorado, New  
 Mexico, Arizona, and Califoraia. Free  
 descriptive literature. W. J. Black. G.  
-P. A., A. T. 4 S. F. By., Tofeka, Kan.
+P. A., A. T. 4 S. F. By., Tofeka, Kan.  
+  
+&amp;&amp;&amp;  
+  
+Them awlhoaatnd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897091601%2F0108.jp2/pct:36.762254,69.933106,14.154718,24.621523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897091601:0108/pct:55.116667,5.292806,34.066667,136.533271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-09-23/ed-1/seq-4)
+## [From _Tombstone prospector._](https://www.loc.gov/resource/sn95060903/1897-09-17/ed-1/?sp=4)
+
+#### 1897-09-17 &middot; [Tombstone, Ariz.](http://dbpedia.org/resource/Tombstone%2C_Arizona)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+, but of no avail and was gtvon  
+up and told I could not live. Having  
+Dr. King&#x27;s Xew Discovery in my store  
+I sent w, a bottle anil began its use  
+and from the first dose began to got bot-  
+tpr Rnil ftftrr mine- thn a hot! 1a w,14 11 n  
+., ...... ., ,.  
+and about again. It is worth te  
+weight in goll. We won&#x27;t keep etoro  
+or house &#x27;vitliout it.&quot; tjet a Irco t ibII  
+the Tombstone Drug Store.  
+Owircta Canlv Catlia
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_dragonfly_ver01:data:sn95060903:0021110711A:1897091701:0885/pct:44.144144,31.829060,11.858370,6.615385/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Alexandria gazette._](https://www.loc.gov/resource/sn85025007/1897-09-22/ed-1/?sp=2)
+
+#### 1897-09-22 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ at Tybee Island that the ane?  
+mometer of the Weather Bureau was  
+blown away.  
+A severe tropical storm, with hurri?  
+cane winds, is moving northeast along  
+the Atlantic coast. It will give hurri?  
+cane winds tbis afternoon on the Mid?  
+dle Atlantic coast and on the southern  
+New England coast Thursday.  
+It Saves the Croupy Children.  
+Sea view, Va.?We have a splendid  
+sale on Chamberlain&#x27;s Cough Remedy,  
+and our customers comlog from far and  
+near, speak of it in the highest terms.  
+Many have said that their children  
+would have died of croup if Chamber­  
+berlain&#x27;s Cough Remedy had not been  
+given.?Kelltjm &amp; Ocrren. The 25  
+and 50 cent sizes for sale by J. H. Jan­  
+ney, Druggist, 701 King street.  
+Don&#x27;t neglect a congh because the weather  
+is pleasant; before the next storm rolls  
+around it may develop into a serious difficulty  
+beyond repair. One Minute Cough Cure is  
+easy to take and will do what its name im?  
+plies. Charles G. Lennon.  
+  
+NEWS OF THE DAY.  
+M
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033750:1897092201:0126/pct:29.460154,4.159926,25.604113,95.701410/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1897-09-23/ed-1/?sp=4)
 
 #### 1897-09-23 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
   
 Hawthorne Truly Sats : &quot;These  
 railroads are positively the greatest  
@@ -3063,15 +4118,49 @@ Fe Route offers a facile transition to
 many beautiful spots in Colorado, New  
 Mexico, Arizona, and California. Free  
 descriptive literatme. W. J. Black, fe.  
-P. A., A. T. &amp; S. F. Ry. , Topeka, Km.
+P. A., A. T. &amp; S. F. Ry. , Topeka, Km.  
+  
+THE  
+  
+Address,  
+KANSAS CITY JOUKNAL,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897092301%2F0116.jp2/pct:36.416570,84.403239,14.257195,11.500998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897092301:0116/pct:54.607452,118.612839,43.463074,25.243516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-09-30/ed-1/seq-4)
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1897-09-23/ed-1/?sp=5)
+
+#### 1897-09-23 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+Bock Isiaad Route Playing Cards.  
+The slickest cards on the market are  
+tho &quot;Rocktlsland&#x27;s.&quot; They are also the  
+cheapest, and we will send you these ex­  
+cellent standard goods at the low rate of  
+9 cents per pack if you order five or more  
+packs. Send money order, dra&amp; or  
+stamps and they will be sent promptly by  
+express, charges prepaid? Orders for  
+single packs must contain 12 cents in  
+stamps, as they will be sent by mail.  
+Address,  
+John Sebastin, G, P. A.,  
+Chicago.  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897092301:0117/pct:73.426110,122.337418,21.007290,11.486805/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1897-09-30/ed-1/?sp=4)
 
 #### 1897-09-30 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
@@ -3115,19 +4204,59 @@ Mexico, Arizona, and California. Free
 descriptive literatme. W. J. Black, b.  
 P. A., A. T. &amp; S. F. By., Topeka, Ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897093001%2F0124.jp2/pct:21.925851,72.553418,14.309680,24.093968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897093001:0124/pct:32.863850,108.830126,21.462106,36.135049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-10-28/ed-1/seq-1)
+## [From _Smyrna times._](https://www.loc.gov/resource/sn84020422/1897-10-20/ed-1/?sp=2)
+
+#### 1897-10-20 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+s and  
+exciting moment for Mr. Beck and  
+family.  
+&quot;Many have said their children  
+would have died of croup, if Chamber­  
+berlain&#x27;s Cough Remedy had not been  
+given,&quot; write Kellam &amp; Ourran,
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_batman_ver01:data:sn84020422:00514156165:1897102001:0428/pct:40.483718,90.301870,10.749289,3.638207/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Smyrna times._](https://www.loc.gov/resource/sn84020422/1897-10-27/ed-1/?sp=2)
+
+#### 1897-10-27 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ to attend the State Con­  
+vention, Christian Endeavor.  
+&quot;Many have said their children  
+would have died of croup, if Chamber­  
+berlaiu&#x27;s Cough Remedy had not been  
+given,&quot; write Kellam * Ourran,
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_batman_ver01:data:sn84020422:00514156165:1897102701:0432/pct:63.135856,82.564390,10.530397,3.001120/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1897-10-28/ed-1/?sp=1)
 
 #### 1897-10-28 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ Dodge City.  
+W. J. Black, G. P. A.  
 Hawthorne Trdly Savs : &quot;These  
 railroads are positively the greatest  
 blessings that the ages have wrought out  
@@ -3146,21 +4275,24 @@ Fe Route offers a facile transition to
 many beautiful spots in Colorado, New  
 Mexico, Arizona, and California. Free  
 descriptive literature. W. J. Black, G.  
-P. A., A. T. &amp; S. F. Ry., Topeka. Kas
+P. A., A. T. &amp; S. F. Ry., Topeka. Kas.  
+I FREE EDUCATIO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897102801%2F0153.jp2/pct:62.707321,69.929495,14.189982,10.481786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897102801:0153/pct:94.005358,100.998825,21.282652,28.601645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-11-04/ed-1/seq-8)
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1897-11-04/ed-1/?sp=8)
 
 #### 1897-11-04 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ Dodge City,  
+good improvements.  
+P. H. Soghrue. &#x27;  
 Hawthorne Truly Says : i&quot;These  
 railroads are positively the greatest  
 blessings that the ages have wrought out  
@@ -3179,15 +4311,16 @@ Fe Route offers a facile transition to
 many beautiful spots in Colorado, New­  
 Mexico, Arizona, and California. Free  
 descriptive litei-atme. W. J. Black, G.  
-P. A., A. T. &amp; S. F. Ry., Topeka. Kas
+P. A., A. T. &amp; S. F. Ry., Topeka. Kas.  
+T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897110401%2F0168.jp2/pct:37.186097,51.339865,14.086147,10.589069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897110401:0168/pct:55.718085,72.919372,21.143617,21.402432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-11-25/ed-1/seq-4)
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1897-11-25/ed-1/?sp=4)
 
 #### 1897-11-25 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
@@ -3241,19 +4374,57 @@ Mexico, Arizona, and California. Free
 descriptive literatine. W. J. Black, G.  
 P. A., A. T. &amp; S. F. Ry., Topeka, Kas.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897112501%2F0188.jp2/pct:36.643263,28.908940,14.326312,25.240413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897112501:0188/pct:54.946524,43.357474,21.473930,37.860620/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-12-23/ed-1/seq-1)
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1897-12-02/ed-1/?sp=4)
+
+#### 1897-12-02 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ W. P. Pixmctty Drag Store. j  
+  
+To Cattlemen.  
+  
+I have for sale 75 to 100 tons of hay,  
+with list of pasture, and one and one­  
+half miles of river front: good brush  
+shelter. Plenty of outside range. A  
+good winter range with abundance of  
+water. Inquire of  
+Chauncet W. Beeman,  
+Nine miles west of Dodge City, oppo­  
+site Howell.  
+  
+From the Herald.  
+Mrs. Owens says she received  
+something over $8 for cream from  
+three cows, sold to the skimming  
+station last month.  
+A great many people can go to a  
+  
+show, when the
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897120201:0196/pct:25.000000,52.240206,41.427139,43.842365/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1897-12-23/ed-1/?sp=1)
 
 #### 1897-12-23 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ got all of  
+those farms clear, aud he has got  
+back all of the money he carried out  
+to Kansus in the first place.&quot;  
 Hawtuokxk Tkulv Says : &quot;These  
 railtoads aie positively the greatest  
 blessings that the ages have wrought out  
@@ -3274,13 +4445,13 @@ Mexico, Arizona, and California. Free
 desciiptive literatiiie. W. J. Black. G.  
 P. A., A. T. &amp; S. F. Ky., Topeka. Kas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897122301%2F0217.jp2/pct:79.867707,52.227635,14.552239,10.633242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897122301:0217/pct:79.867707,47.974338,14.637042,14.886539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-12-30/ed-1/seq-1)
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1897-12-30/ed-1/?sp=1)
 
 #### 1897-12-30 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
@@ -3330,19 +4501,54 @@ ateAico, Arizona, ana uauiorma. Free
 descriptive literatme. W. J. Black, G.  
 P. A., A. T. &amp; S. F. By., Topeka. Kas.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1897123001%2F0225.jp2/pct:32.056690,36.603639,60.165345,43.833987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897123001:0225/pct:48.076923,54.905458,90.215924,65.750981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1898-02-03/ed-1/seq-4)
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1898-02-03/ed-1/?sp=4)
 
 #### 1898-02-03 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-on Weekly News  
+.  
+  
+DODCE CITV  
+ROLLER MILLS.  
+  
+The Dodge City Steam Roller Flouring Mills, first  
+class in all that is required to do high grade work,  
+will be in operation on and after Thursday, Octo­  
+ber 7th. &quot;We will exchange -Flour and Feed for  
+  
+WHEAT  
+  
+on liberal terms. Chopping feed a specialty.  
+We ask you to bring your wheat in and give us a  
+trial. All grades of our flour are guaranteed  
+  
+B. DOUGLASS.  
+  
+Dodge City, Kansas.  
+  
+Low Rates to Las Vegas Hot Springs.  
+Santa Fe route has recently reduced its  
+regular round-trip excursion rate for  
+Las Vegas Hot Springs, N. M., to $21.  
+Reopening of Montezuma hotel there af­  
+fords sumptuous accommodations at reas  
+onable prices for tourists and invalids.  
+Expert medical attendance. This is a  
+delightful season for visiting New Mex­  
+ico.Inquire of F. Gardner, Agt., A. T. &amp;  
+S. F. R&#x27;y., Dodge City.  
+W. J. Black, G. P. A.  
+  
+Just as Big  
+  
+is the Hutchinson Weekly News  
 as the weekly papers of St.  
 Louis, Chicago aud other eastern  
 cities.  
@@ -3390,21 +4596,59 @@ Fe Route offers a facile transition to
 many beantiful spots in Colorado, New­  
 Mexico, Arizona, and California. Free  
 descriptive literatme. W. J. Black. G.  
-P. A., A. T. &amp; S. F. Ry., Topeka. Kas.
+P. A., A. T. &amp; S. F. Ry., Topeka. Kas.  
+  
+20r3.  
+  
+W. T. COOLIDCE,  
+Jbtictei  
+Real Estate and Insurance Agent.  
+Good farms and City. Property for  
+sale or trade. Pay taxes for non­  
+residents. Examine lands.  
+  
+Only set of abstract books in Ford  
+  
+County up to date.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1898020301%2F0268.jp2/pct:67.607550,58.779532,29.297738,25.620325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898020301:0268/pct:101.274643,58.126558,44.000680,85.195299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1898-02-10/ed-1/seq-4)
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1898-02-10/ed-1/?sp=4)
 
 #### 1898-02-10 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-for visiting Xew Mex­  
+ H  
+  
+DODCE CITY  
+ROLLER MILLS.  
+  
+The Dodge City Steam Roller Flouring Mills, first  
+class in all that is required to do high grade work,  
+will be in operation on and after Thursday, Octo­  
+ber 7th. We will exchange Flour and Feed for  
+  
+WHEAT  
+  
+on liberal terms. Chopping feed a specialty.  
+We ask you to bring your wheat in and give us a  
+  
+trial. All grades of  
+Dodge City, Kansas.  
+Low Rates to Las Vegas Hot Springs.  
+Santa Fe route bas recently reduced its  
+regular round-trip excursion rate for  
+Las Vegas Hot Springs, N. M., to $21.  
+Reopening of Montezuma botel there af­  
+fords sumptuous accommodations at reas  
+onable prices for tourists and invalids.  
+Expert medical attendance. This is a  
+delightful season for visiting Xew Mex­  
 ico.Inquire of F. Gardner, Agt., A. T. &amp;  
 S. F. R&#x27;y., Dodge City.  
 w. J. black, (i. r. A.  
@@ -3439,15 +4683,44 @@ Fe Route offers a facile transition to
 many beautiful spots in Colorado, New  
 Mexico, Arizona, and California. Free  
 descriptive literatme. W. J. Black, Cr.  
-P. A., A. T. &amp; S. F. Ry., Topeka. Kas
+P. A., A. T. &amp; S. F. Ry., Topeka. Kas.  
+W. T. COOLIDCE,  
+Abstracter,  
+Real Estate and Insurance Agent,  
+Good farms and City Property for  
+sale or trade. Pay taxes for non­  
+residents. Examine lands.  
+Only set of abstract books in Ford  
+County up to date. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1898021001%2F0276.jp2/pct:66.576041,63.062744,14.630416,23.395959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898021001:0276/pct:99.677310,53.149002,41.253397,93.170271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1898-02-17/ed-1/seq-4)
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1898-02-10/ed-1/?sp=4)
+
+#### 1898-02-10 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+Just as Big  
+Is tbe Hutchinson Weekly News  
+as the weekly papers of St.  
+Louis, Chicago aud other eastern  
+cities.  
+It Has Just  
+as Much
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898021001:0276/pct:122.639266,88.231124,21.382473,10.268226/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1898-02-17/ed-1/?sp=4)
 
 #### 1898-02-17 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
@@ -3490,13 +4763,35 @@ Mexico. Arizona, and California. Free
 descriptive literatine. W. J. Black, (y.  
 P.&#x27;A., A. T. &amp; S. F. Ry., Topeka. Kas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1898021701%2F0284.jp2/pct:66.786694,62.894922,14.591907,23.145331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898021701:0284/pct:66.786694,62.894922,14.591907,23.145331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1898-02-24/ed-1/seq-4)
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1898-02-17/ed-1/?sp=4)
+
+#### 1898-02-17 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Z,  
+  
+Just as Big  
+  
+Is the Hutchinson Weekly News  
+as the weekly papers of St.  
+Louis, Chicago and
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898021701:0284/pct:69.513032,58.670723,26.937586,30.166160/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1898-02-24/ed-1/?sp=4)
 
 #### 1898-02-24 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
@@ -3537,15 +4832,76 @@ Fe Route offers a facile transition to
 many beautiful spots in Colorado, New­  
 Mexico, Arizona, and California. Free  
 descriptive literatme. W. J. Black. G.  
-P. A., A. T. &amp; S. F. Ry., Topeka. Kas
+P. A., A. T. &amp; S. F. Ry., Topeka. Kas.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1898022401%2F0292.jp2/pct:67.365729,62.216953,14.578005,23.521043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898022401:0292/pct:100.988412,93.325430,21.864349,35.281565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1898-06-16/ed-1/seq-4)
+## [From _The Goodland republic._](https://www.loc.gov/resource/sn85030821/1898-03-25/ed-1/?sp=2)
+
+#### 1898-03-25 &middot; [Goodland, Kan.](http://dbpedia.org/resource/Goodland%2C_Kansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ Clerk.  
+Rock Island Route Playing Cards  
+The slickest cards on the market-are  
+the &quot;Rock Island&#x27;s.&quot; They are also the  
+cheapest, and we will send you these  
+excellent standard goods at the low  
+rate of nine cents per pack if you order  
+five or more packs. Send money or­  
+der, draft or stamps and they will be  
+sent promptly by express, charges pre­  
+paid. Orders for single packs must  
+contain 12 cents in stamps, as they will  
+be sent by mail. &#x27; Address,  
+John Sebastian, G. P. A., Chicago.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030821:0021247289A:1898032501:0075/pct:66.302473,72.685133,19.091432,12.696439/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Goodland republic._](https://www.loc.gov/resource/sn85030821/1898-04-08/ed-1/?sp=3)
+
+#### 1898-04-08 &middot; [Goodland, Kan.](http://dbpedia.org/resource/Goodland%2C_Kansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+The slickest cards on the market are  
+the Rock Island&#x27;s.&quot; They are also the  
+  
+cheapest, and we will send you these  
+excellent standard goods at the low  
+  
+rate of nine cents per pack if you order  
+  
+five or more packs, bend money or  
+  
+der, draft or stamps and they will be  
+sent promptly by express, charges pre  
+  
+paid. Orders for single packs must  
+  
+contain 12 cents in stamps, as they will  
+  
+be sent by mail. Address,  
+Johx Sebastian, G. P. A., Chicago.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030821:0021247289A:1898040801:0084/pct:25.622172,95.001128,18.735860,9.038592/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1898-06-16/ed-1/?sp=4)
 
 #### 1898-06-16 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
@@ -3591,13 +4947,13 @@ Mexico. Arizona, and Califoruia. Free
 descriptive litemtiiie. W. J. Black. O.  
 P. A., A. T. it S. F. Ky., Topeka. Kas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1898061601%2F0422.jp2/pct:66.616213,7.573068,29.767911,89.445036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898061601:0422/pct:99.882313,11.359602,44.636853,134.161638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1898-06-23/ed-1/seq-4)
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1898-06-23/ed-1/?sp=4)
 
 #### 1898-06-23 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
@@ -3650,19 +5006,61 @@ descriptive literatme. W. J. Black, Or.
   
 P. A., A. T. &amp; S. F. Ry., Topeka. Kas.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1898062301%2F0430.jp2/pct:37.392332,8.445866,42.425266,34.245439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898062301:0430/pct:56.060095,12.662876,63.605672,51.374082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1898-06-30/ed-1/seq-1)
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1898-06-23/ed-1/?sp=4)
+
+#### 1898-06-23 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ A. membership fee, for ticket to  
+Washington, D. C, aud return. They  
+Kill be on .itc July J, 4 and 5. 1S9S, :it  
+Santa Fe Route ticket offices. Pullman  
+Palace and Tourist Sleepers and tree  
+Chair Cars will lcao points in K.iu.is  
+on July 4. IStH, for accommodation ot  
+teachers and
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898062301:0430/pct:122.552330,60.518834,18.129642,4.655295/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Clarksburg telegram._](https://www.loc.gov/resource/sn84037844/1898-06-24/ed-1/?sp=4)
+
+#### 1898-06-24 &middot; [Clarksburg, W. Va.](http://dbpedia.org/resource/Clarksburg%2C_West_Virginia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+The readiness of the people to  
+subscribe for the war loan is an­  
+other evidence that they believe  
+the war to be righteous, and will  
+cheerfully meet all demands to  
+make it successful.  
+fine sh r
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jones_ver02:data:sn84037844:00415664862:1898062401:0603/pct:35.270655,44.536775,16.666667,11.280057/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1898-06-30/ed-1/?sp=1)
 
 #### 1898-06-30 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ P. A.  
 Hawthorxe Truly Says : &quot;These  
 railroads are positively the greatest  
 blessings that the ages have wrought out  
@@ -3684,13 +5082,13 @@ descriptive literatiue. W. J. Black, &amp;.
 P. A., A. T. &amp; S. F. Ry., Topeka, Kas.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1898063001%2F0435.jp2/pct:63.955638,82.294000,14.232902,11.859012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898063001:0435/pct:95.917339,120.700224,21.337366,20.523400/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1898-07-07/ed-1/seq-1)
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1898-07-07/ed-1/?sp=1)
 
 #### 1898-07-07 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
@@ -3731,21 +5129,31 @@ Fe Koute offers: a facile transition to
 many beautiful spots in Colorado, New  
 Mexico, Arizona, and California. Free  
 descriptive literatme. W. J. Black, G.  
-P. A., A. T. &amp; S. F. Ky., Topeka. Kas
+P. A., A. T. &amp; S. F. Ky., Topeka. Kas.  
+COLORADO  
+SUMMER.  
+The newest and best book descrip­  
+tive of tbe Colorado resorts. It  
+includes lists of hotels, cottages  
+and boarding houses and tbeir  
+rates: table of altitudes; special  
+articles on the mountains, cli­  
+mate, camping fishing and  
+shooting;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1898070701%2F0443.jp2/pct:79.520918,61.660172,14.659244,22.186799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898070701:0443/pct:79.520918,61.660172,14.659244,30.475853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1898-07-14/ed-1/seq-1)
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1898-07-14/ed-1/?sp=1)
 
 #### 1898-07-14 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+-These  
 are positively the greatest  
 that the ages have wrought out  
 for us. &#x27;. Lheygive us wings; tncy anni­  
@@ -3773,21 +5181,31 @@ descriptft
 P. A., A.  
 e literature. W. J. Black. .  
 T. &amp; S. F. Ry., Topeka. Kas.  
-
+A  
+COLOR. ADO  
+SUMMI IR.  
+The newest and best book descrip­  
+tive of the Colorado resorts. It  
+ini .-hides lists of hotels, cottages  
+an d boarding houses and their  
+ru tes: table of altitudes; special  
+sr tides on the mountains, cli­  
+m ate, camping fishing and  
+eh ooting;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1898071401%2F0451.jp2/pct:78.902459,65.350619,14.856952,11.278727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898071401:0451/pct:118.294314,96.982911,22.274247,28.296995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Globe-republican._](https://chroniclingamerica.loc.gov/lccn/sn84029853/1898-07-21/ed-1/seq-1)
+## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1898-07-21/ed-1/?sp=1)
 
 #### 1898-07-21 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+&quot;  
 Hawthobxe Truly Says : &quot;These  
 railroads are positively the greatest  
 blessings that the ages have wrought out  
@@ -3806,9 +5224,60 @@ Fe Route offers a facile transition to
 many beautiful spots in Colorado, New  
 Mexico, Arizona, and California. Free  
 descriptive literature. W. J. Black, G.  
-P. A., A. T. &amp; S. F. Ry., Topeka, Kas
+P. A., A. T. &amp; S. F. Ry., Topeka, Kas.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283065%2F1898072101%2F0459.jp2/pct:19.331542,72.610404,14.242526,10.629687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898072101:0459/pct:28.979181,108.915605,21.356615,17.807404/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Goodland republic._](https://www.loc.gov/resource/sn85030821/1898-08-05/ed-1/?sp=5)
+
+#### 1898-08-05 &middot; [Goodland, Kan.](http://dbpedia.org/resource/Goodland%2C_Kansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+contain 12 cents in stamps, as they will  
+be sent by maiL Address,  
+Joirs Sebastian, G. P. A-, Chicago.  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030821:0021247289A:1898080501:0154/pct:44.176214,81.934389,11.974905,2.228507/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Las Vegas daily optic._](https://www.loc.gov/resource/sn86063592/1898-10-03/ed-1/?sp=3)
+
+#### 1898-10-03 &middot; [Las Vegas, N.M.](http://dbpedia.org/resource/Las_Vegas%2C_New_Mexico)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+The aliokest cards on tbe market are the  
+  
+Rock laUnd&#x27;s.&quot; They are also the cheat)-  
+  
+est, end w will send you these excellent  
+  
+tandard goods at tbe low rate of nine  
+  
+cents per pack If you order flye or more  
+packs. Send money order, draft or stamps  
+and they will be sent promptly by express,  
+oharges prepaid. Orders for stogie paok  
+must contain twelve cents in stamps, as  
+tboy will be sent by mail. AddresB,  
+  
+JOHN SEBASTIAN U. P. A.,  
+Chicag
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_bronte_ver01:data:sn86063592:00415626721:1898100301:0115/pct:26.367319,87.385107,14.297772,6.314107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -48,7 +48,7 @@ Mr. R. B. Sorrell was next introduced and said, fifteen years ago the stevedores
 
 ---
 
-## [From _New national era._](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1)
+## [From _New national era._](https://www.loc.gov/resource/sn84026753/1871-06-29/ed-1/?sp=1)
 
 #### 1871-06-29 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
@@ -236,7 +236,7 @@ in the prioes,so that they may be able to
 pey the men better wages. He believed the  
 merchants would pay living wages
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_elf_ver03%2Fdata%2Fsn84026753%2F0041562038A%2F1871062901%2F0175.jp2/pct:5.053161,3.710070,28.726039,92.682997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1871062901:0175/pct:5.053161,3.704340,28.718418,92.685862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

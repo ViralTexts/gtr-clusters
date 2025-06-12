@@ -1,7 +1,7 @@
 
 # Micromega-Year-Round
 
-### 6 reprints from 1827-02-01 to 1872-10-24
+### 7 reprints from 1827-02-01 to 1873-06-25
 
 ## [Micromega-Year-Round](https://www.loc.gov/resource/sn85038238/1872-10-10/ed-1/?sp=1)
 
@@ -28,16 +28,14 @@ Such being the height of his highness, an artist will readily ascertain that he 
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-Allowing him to be of the height abovementioned, all our  
+ to be of the height abovementioned, all our  
 sculptors and painters will agree, that he must have measured  
 fifty thousand feet round the waist; and this being the case, no  
 one can deny that his figure was fine. His understanding was  
 highly cultivated, and his knowledge very extensive; he was,  
-moreover, the author of several rare inventions. While he wa
+moreover, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_united-states-review-and-literary-gazette_1827-02_1_5&#0036;48/pct:13.428875,55.968170,65.923567,9.615385/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_united-states-review-and-literary-gazette_1827-02_1_5%2Fsim_united-states-review-and-literary-gazette_1827-02_1_5_jp2.zip%2Fsim_united-states-review-and-literary-gazette_1827-02_1_5_jp2%2Fsim_united-states-review-and-literary-gazette_1827-02_1_5_0048.jp2/pct:13.428875,55.968170,65.923567,9.615385/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -105,19 +103,20 @@ height, it follows that the Sirian’s nose
 must have measured nearly a mile and a  
 half in length.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_all-the-year-round_1872-07-20_8_190&#0036;5/pct:50.040850,21.420997,36.437908,63.202545/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_all-the-year-round_1872-07-20_8_190%2Fsim_all-the-year-round_1872-07-20_8_190_jp2.zip%2Fsim_all-the-year-round_1872-07-20_8_190_jp2%2Fsim_all-the-year-round_1872-07-20_8_190_0005.jp2/pct:50.040850,21.420997,36.437908,63.202545/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Wyandot County Republican._](https://chroniclingamerica.loc.gov/lccn/sn85038238/1872-10-10/ed-1/seq-1)
+## [From _Wyandot County Republican._](https://www.loc.gov/resource/sn85038238/1872-10-10/ed-1/?sp=1)
 
 #### 1872-10-10 &middot; [Upper Sandusky, Ohio](http://dbpedia.org/resource/Upper_Sandusky%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+me men are!&quot;  
+Miscellany.  
 : : MICROMEGA.  
 In a recent issue, AU the Tear Bound  
 reproduces one of Voltaire&#x27;s satirical  
@@ -177,15 +176,15 @@ a third of the length of the human face,
 and the face again the seventh part of the  
 height, it follows that the Sirian&#x27;s nose  
 must have measured nearly a mile and  
-a half in length. 
+a half in length.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn85038238%2F00296028812%2F1872101001%2F0468.jp2/pct:2.914688,31.885887,11.102014,25.511235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038238:00296028812:1872101001:0468/pct:3.880157,39.952032,14.800262,36.569048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Dodgeville chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033019/1872-10-11/ed-1/seq-1)
+## [From _Dodgeville chronicle._](https://www.loc.gov/resource/sn85033019/1872-10-11/ed-1/?sp=1)
 
 #### 1872-10-11 &middot; [Dodgeville, Wis.](http://dbpedia.org/resource/Dodgeville%2C_Wisconsin)
 
@@ -270,15 +269,15 @@ a third of the length of the human face,
 and the face again the seventh part of the  
 height, it follows that the Sirian’s nose  
 must have measured nearly a mile and  
-a half in length. 
+a half in length.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_flobberworm_ver01%2Fdata%2Fsn85033019%2F00414215531%2F1872101101%2F0367.jp2/pct:4.313778,31.597188,12.176131,37.108867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_flobberworm_ver01:data:sn85033019:00414215531:1872101101:0367/pct:4.309303,31.590523,12.176131,37.108867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1872-10-24/ed-1/seq-3)
+## [From _Wood County reporter._](https://www.loc.gov/resource/sn85033078/1872-10-24/ed-1/?sp=3)
 
 #### 1872-10-24 &middot; [Grand Rapids [i.e. Wisconsin Rapids], Wis.](http://dbpedia.org/resource/Wisconsin_Rapids%2C_Wisconsin)
 
@@ -343,9 +342,29 @@ a third of the length of the human face,
 and the fa-&#x27;C again the seventh part of the  
 height,!: follows that the .-Irian&#x27;s nose  
 must have measured nearly a mile and  
-a half in length
+a half in length.  
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271768527%2F1872102401%2F0372.jp2/pct:4.298161,18.761173,12.410455,28.786781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768527:1872102401:0372/pct:4.298161,18.756341,12.391094,29.149152/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Lexington weekly intelligencer._](https://www.loc.gov/resource/sn87052143/1873-06-25/ed-1/?sp=4)
+
+#### 1873-06-25 &middot; [Lexington, Mo.](http://dbpedia.org/resource/Lexington%2C_Missouri)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+&#x27;s heart belongs to me.&quot;  
+hen out I apake: &quot;Oh, lady fair,  
+My heart, my life is thine  
+And s ince I boldly speak my love,  
+ sir!&quot; said she, with wondering stare,  
+&quot;Strange how presuming seme men ar
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556540:1873062501:0286/pct:5.744375,11.179192,9.573959,2.575966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

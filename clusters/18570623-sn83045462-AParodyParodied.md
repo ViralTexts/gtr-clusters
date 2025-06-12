@@ -1,7 +1,7 @@
 
 # A Parody Parodied
 
-### 21 reprints from 1857-04-24 to 1890-12-20
+### 29 reprints from 1857-04-24 to 1877-12-15
 
 ## [A Parody Parodied](https://chroniclingamerica.loc.gov/lccn/sn83045462/1857-06-23/ed-1/seq-4/)
 
@@ -63,68 +63,135 @@ Waved their bright wings and answered &quot;Yes, in Heaven.&quot;
 
 ---
 
-## [From _Richmond enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84024735/1857-04-24/ed-1/seq-4)
+## [From _Richmond enquirer._](https://www.loc.gov/resource/sn84024735/1857-04-24/ed-1/?sp=4)
 
 #### 1857-04-24 &middot; [Richmond, Va.](http://dbpedia.org/resource/Richmond%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-Some fair writer thus r?&gt;taiitto6 on the parodist ^  
-whose produeti.-n we published some days since. I  
-Roth sides must be beard, and we give the lady a ,  
-ehatice:?  
-Toll me, ye winded winds &#x27;  
+o  
+PARODY PARODIED.  
+Some fair writer thus retalintes on the parodist  
+whose productien we published some days since.  
+Both sides must be heard, and we give the lady a  
+chance:  
+Tell me, ye winged wind  
 That round my pathway roar,  
-I &gt; &gt; ye not know some spot ?  
-Where bachelors come n&lt;&gt; uiorc? i  
-S&quot;me lone and pleasant dell ,  
-Whcre co mustache is seen?  
-Where long eared dandies never come  
-Ou&#x27;selves and fan between? e  
-Tbero cam i a montiur from the distant I,-a? ?  
-A low, sad toue. which whispered &quot;Xo-sir-ee.&quot; f  
-Tell me, tbou misty deep, e  
-Whooe billows roucd me play. t  
-Know&#x27;st ihou some favored spot,  
-Some island far away, 1  
-Where.weary girls may find v  
-A rest from soft dough faces, ^  
+Do ye not know some spot  
+Where bachelors come no more,  
+Some lone and oleasant dell  
+Where no mustache is seen-  
+Where long eared dandies naver come  
+Ourselves and fan between?  
+There came a murmur from the distant lea-  
+A low, sad tone, which whispered &quot;No-siree.&quot;  
+Tell me, thou misty deep,  
+Whose billows round me play,  
+Know&#x27;st thou some favored spot,  
+Some island far away.  
+Where weary girls may find  
+A rest from soft dough faces,  
 And hear themselves called women  
-Xor likened to the graces?  
-Soon did the misty deep its answer give, t  
-U? murmuring, &quot;Not wnile brandy Bmaahes live.&quot; g  
-And thou, serenest moon, i  
-What language dost thou etter. (  
-While gazing on the GENTLEMAN  
-Whose head is in the gutter? 1  
-l?o*&gt;f Ka? intKv CAWnr)  
+Nor likened to the graces!  
+Soon did the misty deep its answer give,  
+By murmuring, &quot;Not while brandy smashes live.&quot;  
+And thou, serenest moon,  
+What language dost thou atter,  
+While gazing on the GEnTLEman  
+Whose head is in the gutter?  
+hast thou in thy round.  
   
-l?nYl MM* ... . V &quot;?U|  
+Say, hast thon ii thy round,  
 Gazed on some favored spot,  
-Where half kiieyir vol the freight of briekt.  
-And where cigars are no! ?  
+Where hats knome not the reeight of bricks.  
+And where cigars are not?  
 Behind a cloud the moon withdrew in woe,  
-But ia italics answered &quot;So, no, no.&quot;  
-Tell me, my secret soul Obi  
+But in italics answered &quot;No, no, no.&quot;  
+Pell me, my sceret soul  
 tell me, Hope and Faith,  
 Is there no resting place  
-From fops and beaux and death?  
-Is there no happy spot.  
-Where womankind are blest? &lt;  
-Where man tnay never come.  
-And where the girls may rest?  
-Faith, Truth aud Hope?best boons to mortals given  
+From fops and beaur and death!  
+Is there no happy spot,  
+Where womankind are blest-  
+Where man may never come,  
+And where the girls may rest!  
+Faith, Truth and Hope--beat boons to mortals given  
 Waved their bright wings and answered &quot;yes, in  
-Heaven.
+Beaven.&quot;  
+FFrom an English Paper.  
+PAPA, what is a nEwSeaEr, A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_chanel_ver01%2Fdata%2Fsn84024735%2F00415664369%2F1857042401%2F0159.jp2/pct:2.161300,5.075743,14.669761,17.219813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1857042401:0159/pct:2.161300,4.739456,14.669761,18.822679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Mineral Point tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033189/1857-05-12/ed-1/seq-1)
+## [From _Independent Republican._](https://panewsarchive.psu.edu/lccn/sn84026111/1857-05-07/ed-1/seq-1/)
+
+#### 1857-05-07 &middot; [Montrose, Pa.](http://dbpedia.org/resource/Montrose%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+.PARODY PARODIED. .  
+  
+Soma fair writer thus retaliates on the parodist,  
+whose production we published last week.. Both sides  
+roust be heard, and we‘give the lady a chance:  
+  
+Tell me ye winged winds; •  
+That round my pathway roar,  
+Do ye not know some spot,  
+Where bachelors come no morn...  
+Some lone and pleasant dell  
+Where no moustache is seen—  
+Where long-eared dandies never come  
+&#x27; Ourselves and fnn betireen  
+There came a Murmur from the distant lee—.  
+A low, sad tone, which whisper&#x27;d, ‘No-siree..  
+. Tell me. thou misty deep,  
+Whose &#x27;billows nd me play, •  
+• Kno s&#x27;st tho• .me favored snot,  
+Some islan , far away,  
+Where weary girls may find  
+A rest from nott dough !Ices, •  
+And hear themselves called women,&#x27;  
+Nor likened to the graces?  
+Soon did the misty deep it&#x27; answer give,  
+By murmuring, &#x27; Not *hile brandy smashes live&#x27;  
+•  
+And thou, serenest moon,  
+What language dolt thou utter,  
+While gazirg on the GENTLEMAN  
+Whose head is in the gutter?  
+Say, last thou in thy round _  
+Gazed on some favored spot,  
+Where hats know not the weight of bricks,  
+And where scgars are not?  
+Behind a cloud the moon withdrew in woe; &#x27; .•  
+But in Italics answered, &#x27;No, no, no !&#x27;  
+  
+• Tell me, my secret fiord— •  
+• Oh! tell me Hope and Faith,  
+Is there no resting place  
+From fops, and be aus, and death?  
+Is there no happy spot,  
+Where womankind are blest— •  
+Where man thay never come, -  
+And where the girls may rest?  
+Faith, Truth and Rope—best boons to mortals given,  
+Waved their bright wings, and whhcpered—s Yes, is  
+Hearers f &#x27;  
+  
+Front the Lancaster Efaminer and Herald. .  
+A Northern Ma
+</td></tr></table>
+
+---
+
+## [From _Mineral Point tribune._](https://www.loc.gov/resource/sn85033189/1857-05-12/ed-1/?sp=1)
 
 #### 1857-05-12 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
 
@@ -164,20 +231,20 @@ I aith, Truth and II &gt;pe—Lest boons to mortal given
 Wav’d their bright vuugs, and whispered, 44 Vos in  
 Heaven/’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033189%2F00271769763%2F1857051201%2F0708.jp2/pct:15.984081,19.612216,12.550326,15.842296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1857051201:0708/pct:16.820108,20.640691,13.210580,16.676133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Lewisburg chronicle._
+## [From _Lewisburg chronicle._](https://www.loc.gov/resource/sn85055197/1857-05-15/ed-1/?sp=1)
 
 #### 1857-05-15 &middot; [Lewisburg, Pa.](http://dbpedia.org/resource/Lewisburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-Tell me. ye winged wind  
+-Witness:  
+Tell me, ye winged wind  
 That &#x27;round my parlor roar,  
 Do ye not know some spot  
 Where bach&#x27;lors come no more  
@@ -216,30 +283,34 @@ Where womankind are blessed,
 Where man may never come,  
 And where the girls may rest?  
 Faith, Truth and Hope--best boons to mortals given  
-Waved their bright wings and whispered, &quot;Only Heaven!
-</td></tr></table>
+Waved their bright wings and whispered, &quot;Only Heaven!&quot;  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776373:1857051501:0138/pct:2.215062,37.756519,12.323802,16.417220/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _The Hillsdale standard._
+## [From _The Hillsdale standard._](https://www.loc.gov/resource/sn85033637/1857-05-19/ed-1/?sp=1)
 
 #### 1857-05-19 &middot; [Hillsdale, Mich.](http://dbpedia.org/resource/Hillsdale%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-in the Geneva Gazette, turns the tables with  
-effect:   
+in the Geneva Oazelte, turns the tables with  
+effect:  
   
 Tell me yo winged winds,  
 That round my pathway roar,  
-Do ye not know some spot  
+Do ye not know some spot   
 Where bachelors come no more,  
 Some lone and pleasant dell,  
 Where no mustache is seen,  
-Where long eared dandies never come,  
+Where long eared dan lies never come,  
 Ourselves and fun between?  
-There came a murmur from the distant lee,  
+There came a murmur from the distant lee-  
 A low sad tone which whispered, &quot;No sir-ee.&quot;  
 Tell me, thou misty deep,  
 Whose billows round me play,  
@@ -247,13 +318,13 @@ Know&#x27;st thou not some favored spot,
 Some Island far away,  
 Where weary girls may find  
 A rest from soft dough-faces,  
-And hear themselves called women,  
+And hear themselves called somen,  
 Nor liken to the graces?  
 Soon did the misty deep, its answer give,  
 By murmuring, &quot;not while brandy smashes live.&quot;  
 And thou, serenest moon,  
 What language dost thou utter,  
-While gazing on the gent  
+While gasing on the gent  
 Whose bed is in the gutter,  
 Say, hast thou in thy round  
 Gazed on some favored spot,  
@@ -271,228 +342,301 @@ Where Man may never come,
 And where the girls may rest?  
 Faith, Truth and Hope--best boons to mortals given­  
 Waved their bright wings and whispered, &quot;Yes, in  
-eaven.&quot;
-</td></tr></table>
+eadven.&quot;  
+  
+I
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857051901:0043/pct:7.485689,14.039250,26.728314,25.048523/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Kanawha Valley star._](https://chroniclingamerica.loc.gov/lccn/sn85059862/1857-05-19/ed-1/seq-1)
+## [From _Kanawha Valley star._](https://www.loc.gov/resource/sn85059862/1857-05-19/ed-1/?sp=1)
 
 #### 1857-05-19 &middot; [Charleston, Va. [W. Va.]](http://dbpedia.org/resource/Charleston%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+trusted to their care.  
+One or the other of the firmwill always be  
+found at their office, in Point Pleasant, and  
+one or the other will regularly be at the Put­  
+nam County Courts.  
+Pt. P1 asant, Dec. t9uty  
+ YOHN A WARTH,  
+AttotheY at Tiaoe,  
+EAN AWHA SAL1SES,VA.  
+WrLh sive diligent attention to all busl­  
+ness entrusted to him in the counties  
+of Kanawha, Putnam, Boone and Logan.  
+e  ae  
+AC BAILEY,  
+Attotlo at  
+ EAYLTE S.,  
+na,  
+A  
+.  
   
-1 Some fair writer tbiis retaliates on the par­  
-odist whose production we published sotae  
-weeks since. Doth sides must be heard, and  
-we give the lady a chance:&#x27; . t­  
-•*Tel$ me, ye winged winds { r,  
-Thaft round fav pathway roar, -4 :tp &#x27;  
-Do ye not tnow some spot &#x27; .  
-Where bachelors come no more—  
-Some lone and pleasant dell ! n j&#x27;  
-r Where no muatache is seem— . i jj} T  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+RUNDLE E MURRELL, PROPRIETOEs.  
+sTate sovereionty a A oone  
+  
+  
+uTtONAtontON  
+  
+TERMS.TWO DOLLARS IN ADVAECE.  
+  
+VOL.Il  
+KAnawha C. . VGia, tuy Ay  18?  
+o  
+  
+  
+  
+  
+  
+Parody Paredied.  
+Some fair writer thus retaliates on the par­  
+odist whose production we published some  
+weeks since. Both sides must be heard, and  
+we give the lady a chance:­  
+Telf me, ye winged winds  
+That round iny pathway roar,  
+Do ye not k how some spot  
+Where bachelors come no more  
+Some lone and pleasant dell  
+here no mustache is seer o  
 Where long eared dandies never come  
-OlirselVcs and fun between? • t ; 1  
-ere came a murmur from the distant lea—  
-A low, sad tone, which whispered “No-sp-ee ’’  
-i  
-s  
-Tell me, thou misty deep, &quot; .  
+Ourselves and fun between?   
+ere came a murmur from the distant lea-  
+Alow, sad tone, which whispered &quot;No-sir-ee  
+  
+  
+Tell me, thou misty deep,  
 Whose billows round me play,  
-Know’st piou some favored spot,  
+Know&#x27;st thou some favored spot,  
 Some island far away.  
 Where weary girls may find  
-A rest from soft dough faces, - } j r  
+A rest from soft dough faces,   
 And hear themselves called women  
-Nor likened to jt he graces? &#x27;j,V  
--&#x27;^oon did the misty deep&#x27;iti answer givd,  
-murmuring, “Nat while brandy smashes  
-live.” i;| ...  
-|B| i  
-m  
+Nor likened to the graces?  
+Soon did the misty leeplits answer give,  
+murmuring, &quot;Not while brandy smashes  
+live.    
+in  
+  
 And thou, serenest moon,  
 What language dost thou utter,  
-W^iile gazing oh the GENTLEMAN K s  
+While gazing on the GentleMan M  
 Whose head is in the gutter?  
-Sayr, hast thou in thy round, i &#x27;  
-Gazed on some favoted spot,  
-Where halt know not the weight o/ bricka,  
-, f And where cigars are not?  
-Behind a cloud the m*on withdrew imwoe,  
-Hutih italics answered “No, no, no:  
-Tell mfe, my secret sou!—  
-Oh! tell me. Hope and Faith,  
-Is there, no resting place  
-From fups&#x27;and beaus and death?  
-1 s ther? tnp ha ppy spot, &gt;  
-W here womankind are blest—  
-&gt;iy&#x27;  
-Where man majy nevercoffle,  
-id eir  
+Say, hast thou ih thy round,  
+Gazed on some favofed spot,  
+Where hats know not the weight of bricks,  
+ And where cigars are not?  
+Behiad a cloud the moon withdrew in woe,  
+Butin italics answered &quot;No, no, no.  
+Tell me, my secret soul-  
+Oh! tell me, Hope and Faith,  
+Is there no resting place  
+From fops and beaux and death?  
+Is there no happy spot,  
+Where womankind are blest-  
+  
+Where man may never&#x27;come,  
+e gir  
 And where the girls may rest?  
-F£th. Truili aud Hope—best boons to mortals  
-_j ■; given -.j» r&#x27;,&#x27;V&#x27; ,  
-Wjayed the.ir bright yvinga aiid answered  
+Faith. Truth and Hope,-best boons to mortals  
+ ien e  
+Waved their bright wings and a ns wered  
 in Heaven.&quot;  
 yes,  
-i.
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_hogan_ver01%2Fdata%2Fsn85059862%2F00514157376%2F1857051901%2F0016.jp2/pct:16.170934,17.645513,13.822477,22.983182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059862:00514157376:1857051901:0016/pct:1.863705,11.470240,81.762989,85.314019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The Council Bluffs nonpareil._
+## [From _Virginia free press._](https://www.loc.gov/resource/sn84026784/1857-06-04/ed-1/?sp=1)
+
+#### 1857-06-04 &middot; [Charlestown, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+Tell me, ye winged wiads  
+That rosed my pathway voar,  
+De ye not know some spet  
+Where beshelors come so moss  
+tons and pleaannt Gelt  
+Where wo mustsche is seen--  
+Where long eared daadies sover coms  
+Ourselves and fas between?  
+There came a murmur from the distant les--  
+A lew, sad tone, which whisperedNesir-ee.  
+Tell me, thou misty deep,  
+Whose billows round me play.  
+Know&#x27;st thou some favored spot,  
+Fome island far awsy,  
+Where weary girle may find  
+A rest from soft dough faces,  
+And hear themselves called womes  
+Nor likened to the graces?  
+did the misty deop ite answer give,  
+By murmuring. &quot;Not while brandy smashes live.&quot;  
+And thou, sevenest sacos,  
+What language dost thon atter,  
+While garing on the GentleMan  
+Whose head is in the gutter?  
+Say, hast thou is thy round,  
+Gaxed on some favored spot,  
+Where hats tnots not the teeight fbricl,,  
+And where eigars are act  
+Bebiad, a clond the smaoee withdrew in wee,  
+Bat in italiss answered &quot;No, no, no.&quot;  
+Tell me, my secret soul  
+Oh ! tell me Hope and Faith,  
+Is there no restiag place  
+From fops and beank and death?  
+Is there ao happy spot,  
+Where wemankind are blest-  
+Where man may never come,  
+And where the girls may rest?  
+Faith, Truth and Hope--best booas to mertals gives  
+Waved their bright wiags and earwered tyes, is  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186956:1857060401:0294/pct:29.293692,18.370457,12.305061,20.695584/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Council Bluffs nonpareil._](https://www.loc.gov/resource/sn84027096/1857-06-06/ed-1/?sp=1)
 
 #### 1857-06-06 &middot; [Council Bluffs [Iowa]](http://dbpedia.org/resource/Council_Bluffs%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ and  
+who have to depend on their daily labor for  
 support.  
   
+JS.  
   
+Where bachelor, come no morh f- ..  
+Rome lone and pleasant dell,  
+.: Where no monstacbe is seen  
   
-Where bachelora come no more,  
-some lone and pleas ant dell,  
-gof where no moustache is seen  
-  
-Where lons-cared dandies never come.  
-Ourselves and fun between?  
-came a murmur from the distant lee  
-tone which whispered, &quot;No sir-ree.&quot;  
-Tell me thou misty deep.  
-17o20 Whose billows round me pisy,  
-Know&#x27;st thou not some favored spot,  
-some isand far awa   
-w  
-  
-There weary sirls may find  
-  
-y girls may find  
-  
-i  
-  
-A rest from soft dough-races,  
-  
- And hear themselves called  
-liken to the graces?  
-  
-did the misty deep, its answer sive,  
-murmuring, &quot;not while brandy  
-  
-while gazing on the gentlemas  
-Whose bed is in the gutter,  
-Say, hast thou in thy round  
-on some favored spot,  
-  
-  
-  
-hafs knows nof the weight of bricks,  
-here cigars are not?  
-  
-he  
-  
-shind a cloud the men withdrew in woe,  
-at in italics answered.No,  
-  
-And  
-  
-  
-  
-tell me, my secret soul  
-h! tell me, Hope and Faith,  
-there no resting place en  
-rom fops, beaux, and death?  
-  
-  
-  
-there no hapoy spot  
-Where womankind are blessed,e ne4­  
-Where Man may never come,  
-And where the girls may rest?  
-Paith, Truth and if pe--best b,on tomortal given-  
-waved their bright wings and whispered, &quot;Fer in  
-  
-se  
-  
-Heaver.&quot;
-</td></tr></table>
-
----
-
-## [From _Keowee courier._](https://chroniclingamerica.loc.gov/lccn/sn84026912/1857-06-06/ed-1/seq-6)
-
-#### 1857-06-06 &middot; [Pickens Court House, S.C.](http://dbpedia.org/resource/Pickens%2C_South_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Some fair writor thus retaliates op the parodist i  
-&#x27; whose production wo published some dsys since, s  
-Hull, side* must be heard, and wo give the lat  
-dy ii chnnco :? &lt;  
-Tell mo, ye winged winds (  
-That round my pathway roar, &lt;  
-Do ye not know somo spot ,  
-Where bachelors come no more?  
-Some I &#x27;lie nnd |ili&gt;n?ai|l dell  
-Wliero no moustache is seen? &lt;  
-Where lony eared dandies never coiue &lt;  
-Ourselves and fun between?  
-There came a murmur from tho distant leer?  
-A low, sad tone, which whispered &#x27;No-sir-ee.*  
-Tell me. thou misty deep, i (  
-Whose billuwK round ni? ulnv  
-  
-Know&#x27;st tliou some favored spot,  
-Some island fur away,  
-Where weary kir 1 h may find &#x27;  
-A rest from soft dough faces, i  
-And In&#x27;nr themselves called women  
-Nor likened to the graces ? I  
-: Soon did the misty deep its answer givo,  
-; liy murmuring, &#x27;Not while brandy smashes live.&#x27; 1  
-And thou, serenest moon, (  
-What language dost thou utter.  
-While gazing on the QENTLKJ&#x27; A J (  
-Whose head is in the gutter!  
-Say, hast thou in thy round, 1  
-Oazcdon some favored spot, I  
-  
-Whore fiats know tiot the weight of bricks,  
-Ami whore cigar* are not!  
-Ilehind a cloud tho moon withdrew in woo,  
-lJut in italics niiswered&#x27;uVo, no, tio.&#x27;  
-Toll mo, my secret soul?  
-C)l?! tell mo, Hope and Faith,  
-Is there no resting place  
-From fops ami touux and death ?  
-Is there no happy spot,  
-Whore womankind are blest?  
-Where man mny novov come.  
-And where the girls may rest t  
-Faith, Truth and Hope?best boons to mortals  
-gi*rn  
-Waved their bright wings and answered, &#x27;yes in  
-heaven.&#x27; 
+Where Ions-eared damtie, never eonse.  
+Ourselves ml fun between 7  
+came a murmur from the distant le
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2Fsn84026912%2F00211109981%2F1857060601%2F0455.jp2/pct:34.611797,6.822564,16.400549,25.115897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529479:1857060601:0022/pct:62.092011,13.736516,21.433012,12.967638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The southern enterprise._](https://chroniclingamerica.loc.gov/lccn/sn85027003/1857-06-11/ed-1/seq-4)
+## [From _Keowee courier._](https://www.loc.gov/resource/sn84026912/1857-06-06/ed-1/?sp=6)
+
+#### 1857-06-06 &middot; [Pickens Court House, S.C.](http://dbpedia.org/resource/Pickens%2C_South_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+Why, Lucy, ain&#x27;t you ashamed to kiss  
+a man out here all alone with him? Wher  
+I was a gir I would not have done it o  
+  
+ t  tty tato one it lot  
+ the world.&quot;  
+ &quot;No, ma, I am not,&quot; answered Lucy,  
+ for I only kissed him to smell of hi  
+ breath to see if he had been drinking.&quot;  
+THe FATE OF HIE ADMTIRED. It ofter  
+happens, that those who in their lives wert  
+applauded and admired, are laid at last i  
+the ground without the common honor of  
+stone; because by those excellencies wit  
+which many were delighted, none had  
+  
+obliged; and, though they had many t  
+erlebrate, they had none to love them,  
+  
+Parody Parodied.  
+Some fair writer thus retaliates on the parodist  
+whose production we published some days since.  
+hoth allermust be heard and we aive the le  
+dy a chance:  
+Tell me, ye winged winds.  
+That round my pathway roar,  
+Doye not know some spot  
+Where bachelors come no more,  
+Some lone and pleasant dell  
+Where no moustache is seen-  
+Where long eared dandies never come  
+Ourselves and fun between?  
+There came a murmur from the distant leer,  
+A low, sad tone, which whispered No sirseeg  
+Tell me, thou misty deep.  
+Whose billows round me play,  
+  
+Know&#x27;st thou some favored spot,  
+Some island far away,  
+Where weary girls may find  
+A rest from soft dough faces,  
+And hear themselves called women  
+Nor likened to the graces!  
+Soon did the misty deep its answer give,  
+By murmuring. &quot;Not while brandy smashes live.  
+And thou, serenest moon,  
+What language dost thou utter.  
+While gazing on the GEnTleitAit  
+Whose head is in the gutter!  
+Say, hast thou in thy round,  
+Gazed on some favored spot,  
+  
+Where hots knoi not the ireight of bricks,  
+And where cigars are not!  
+Behind a cloud the moon withdrew in woe,  
+But in italics answered No, no, no?  
+Tell me, my seeret soul-  
+Oh! tell me, Hope and Faith,  
+Is there no resting place  
+From fops and beaux and death!  
+Is there no happy spot,  
+Where womankind are blest.  
+Where man may never come.  
+And where the girls may rest!  
+Faith, Truth and Hope,-best boons to mortals  
+given  
+Waved their bright wings and answered, yes in  
+kearen  
+ScA
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:sn84026912:00211109981:1857060601:0455/pct:18.930041,6.215385,32.082305,90.535385/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The southern enterprise._](https://www.loc.gov/resource/sn85027003/1857-06-11/ed-1/?sp=4)
 
 #### 1857-06-11 &middot; [Greenville, S.C.](http://dbpedia.org/resource/Greenville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+. A Parody Parodied  
 agfe ^&#x27;iviMflf 8?^ writer On* retaliates on the  
 &amp; ; j*r&lt;3#to4 ?hoee orodoctkm *e published  
 Bpfc ;.. t^anK&#x27; dap* since, - * ,  
@@ -544,21 +688,21 @@ And wne^ the ghrU may rest ?
 Faith, Truth ami Hope?l&gt;cn boons to mortals  
 given,  
 m Waved their bright wings and answered  
-44yes, in Heaven
+44yes, in Heave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85027003%2F00415620111%2F1857061101%2F0589.jp2/pct:-0.776593,5.151437,21.509434,33.631029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85027003:00415620111:1857061101:0589/pct:-0.771124,4.763137,21.493027,34.015014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Bedford inquirer and chronicle._](https://chroniclingamerica.loc.gov/lccn/sn86083444/1857-06-12/ed-1/seq-1)
+## [From _Bedford inquirer and chronicle._](https://www.loc.gov/resource/sn86083444/1857-06-12/ed-1/?sp=1)
 
 #### 1857-06-12 &middot; [Bedford, Pa.](http://dbpedia.org/resource/Bedford%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 Tell Die, ye winged winds  
 That round ray pathway roar,  
 l)o ye not know some spot  
@@ -603,19 +747,20 @@ given,
 Waved their bright ings and answered &quot; yes,  
 iu litavc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn86083444%2F00296028551%2F1857061201%2F0266.jp2/pct:4.372771,24.777312,12.162092,25.212702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn86083444:00296028551:1857061201:0266/pct:4.372771,24.769323,12.156924,25.212702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1857-06-23/ed-1/seq-4)
+## [From _Evening star._](https://www.loc.gov/resource/sn83045462/1857-06-23/ed-1/?sp=4)
 
 #### 1857-06-23 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+EVENING STAR,  
+A PARODY PARODIED.  
 |?7* Some fair writer thus retaliates oil the  
 parodist whoe* production we published some  
 days since. Both sidea must be heard, and we  
@@ -660,15 +805,72 @@ Where man may never come.
 And where the girls may rest *  
 Faiih. Truth and Hope?best noon to mortals given.  
 Waved their bright wings and answered &quot;Yes, in  
-Heaven.
+Heaven.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_kuvasz_ver02%2Fdata%2Fsn83045462%2F00280654097%2F1857062301%2F0402.jp2/pct:1.352517,4.391107,16.445821,17.049015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654097:1857062301:0402/pct:1.348597,2.496210,16.434060,18.928752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Holmes County Republican._](https://chroniclingamerica.loc.gov/lccn/sn84028820/1857-07-02/ed-1/seq-1)
+## [From _Canton weekly register._](https://www.loc.gov/resource/sn84038367/1857-06-23/ed-1/?sp=1)
+
+#### 1857-06-23 &middot; [Canton, Ill.](http://dbpedia.org/resource/Canton%2C_Illinois)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+”  
+Till mo, ye winged wind*,  
+That round my pathway roar,  
+Do ye notjknow some spot  
+Where bachelors come no more—  
+Some lone and pleasant dell  
+Where no moustache is seen—  
+Where long-eared dandies never come  
+Ourselves and fun between?  
+There came a murmur from the distant lea,  
+A low, sad tone, which whispered—“No, sir-ce!”  
+Tell me, thou mighty deep,  
+Whoso billows round me play,  
+Know&#x27;st thou some favored spot,  
+Rome island far away.  
+Where weary girls may find  
+A rest from solt dough-faces.  
+And hear themselves called women,  
+Nor likened to the graces ?  
+Soon did the mighty deep itsjanswer give.  
+By murmuring—“Not while brandy smashes live !”  
+And thou, serenest moon,  
+What language dost thou utter,  
+While gazing on the Gentlemen  
+Whose heads are in the gutter t  
+Say, hast tbou in thy round,  
+Gazed on some favored spot,  
+Where hats know hot the weight or bhicks,  
+And where cigars are not ?  
+Behind a cloud the moon withdrew in wo,  
+And injoud tones answered—“No, no, no!”  
+Tell me, my secret soul—  
+Oh ! tell me, Hope and Faith,  
+Is there no resting placo  
+From fops and beaux and death ?  
+Is there no happy spot.  
+Where womankind are blest—  
+Where man may never come,  
+And where the girls may rest?  
+Faith, Truth and Hope—best boons to mortal* given,  
+Waved their bright wings and answered—“ Yes, in  
+Heaven!”  
+  
+miscellaneous.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151118:1857062301:0214/pct:2.535519,47.049924,11.344262,21.499412/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Holmes County Republican._](https://www.loc.gov/resource/sn84028820/1857-07-02/ed-1/?sp=1)
 
 #### 1857-07-02 &middot; [Millersburg, Holmes County, Ohio](http://dbpedia.org/resource/Millersburg%2C_Ohio)
 
@@ -719,15 +921,17 @@ fi ., Where womankind are bkst .- -
 -dl And where the girls may rest?  
 Faith, Truth and Hope beats boons to mortals  
 Waived their bright wings and answered &quot;yes in  
-ffemat
+ffematr  
+  
+TELLMEYE WINGED WINDS.Miscellaneous.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn84028820%2F00280775460%2F1857070201%2F0189.jp2/pct:6.078360,16.078218,12.321494,23.764259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775460:1857070201:0189/pct:6.259151,19.839761,18.246706,35.035307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Lewistown gazette._](https://chroniclingamerica.loc.gov/lccn/sn83032276/1857-07-09/ed-1/seq-1)
+## [From _Lewistown gazette._](https://www.loc.gov/resource/sn83032276/1857-07-09/ed-1/?sp=1)
 
 #### 1857-07-09 &middot; [Lewistown, Pa.](http://dbpedia.org/resource/Lewistown%2C_Pennsylvania)
 
@@ -777,22 +981,22 @@ And where the girls may rest?
 Faith, Truth and Hope—best boons to mor­  
 tals given,  
 Waved their bright wings and answered &quot;yes,  
-in Haven!
+in Haven!&quot;  
+SINGULA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032276%2F00296028587%2F1857070901%2F0659.jp2/pct:47.292380,16.869754,15.067079,29.383776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028587:1857070901:0659/pct:47.286948,16.862017,15.056216,30.706742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Nevada Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84026881/1857-08-12/ed-1/seq-5)
+## [From _The Nevada Democrat._](https://www.loc.gov/resource/sn84026881/1857-08-12/ed-1/?sp=5)
 
 #### 1857-08-12 &middot; [Nevada, Calif.](http://dbpedia.org/resource/Nevada_City%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-* *«« A PARODY PARODIED.  
+ PARODIED.  
 Some fftfr writer thu* retaliates on tbe parodist. Both  
 eldea muat be heafd, and we give tbe lady a chance.  
 Tell me, ye winged wind*  
@@ -835,75 +1039,184 @@ Where nmh may never come,
 And inhere the girls may rest?  
 Faith, Truth and Hope—best boon to mortals given,  
 Waved their, bright wlugs and answered &quot;Yes, in  
-} Heaven,
+} Heave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn84026881%2F00279557268%2F1857081201%2F0217.jp2/pct:6.852552,27.443457,14.357278,19.049542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557268:1857081201:0217/pct:6.843100,27.504039,14.366730,18.982229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The weekly Portage sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83035102/1857-08-13/ed-1/seq-1)
+## [From _The weekly Portage sentinel._](https://www.loc.gov/resource/sn83035102/1857-08-13/ed-1/?sp=1)
 
 #### 1857-08-13 &middot; [Ravenna, Ohio](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-, &#x27; Tell mo, ye winged winds,  
--i That round my pathway roar,  
-Do you noJ know tome spot  
-Whcro bachelors come no more  
-Bnmo lono and ploasnnt dell  
-Where no moustache is seon  
-Whcro long-eared dandies never come  
+  
+ Tell me, ye winged winds,  
+That round my pathway roar,  
+Do you not know some spot  
+Where bachelors come no more  
+Some lone and pleasant dell  
+Where no moustache is seen  
+Where long-eared dandies never come  
 Ourselves and fun between?  
-&#x27;JThore came a murrmir from the distant sen  
-A low, sad tone, which whispered, &quot;Jo sir-ee!&#x27;&#x27;  
-Tell mo,&#x27; thou misty deep,  
-&#x27; Whoso billows round me play,  
-Know&#x27;st thou some favored spot,..  
-Somo Island fur away, &quot; .  
-Whor&quot; weary girls may And  
+There came a murmur from the distant sea  
+A low, sad tone, which whispered, &quot;No sir-ee!&quot;  
+Tell me, thou misty deep,  
+Whose billows round me play,  
+Know&#x27;st thou some favored spot,  
+Some island far away,  
+Where weary girls may find  
 A rest from soft dough-faces,  
-And bear themselves called women,  
+And hear themselves called women,  
 Not linked to the graces?  
-.Soon did tho misty deep the answer give,  
-murmuring, &quot;Not whilo brandy-smashes live!&quot;  
-And thou, soroneet moon,  
+Soon did the misty deep the answer give,  
+murmuring, &quot;Not while brandy-smashes live!&quot;  
+And thou, serenest moon,  
 What language dost thou utter,  
-Whilo gazing on the gemlem.rn,  
-Whoso head Is In the glutei V  
-Say, hast thi.u in thy round,  
-tiazed on some favored spnt,  
-Where hatj know not the weight of biickx,  
-And where vigurs are not?  
-Ili html a cloud the moon withdrew In woe,  
-And in italics answered, &quot;.Vu, , no!&quot;  
-l&#x27;ell nio, my secret soul,  
-: Oli!. tell mo Hope on 1 Faith,  
-Is there no resting place &#x27;  
-From fops and beaux and dc.it h ?  
+While gazing on the gentleman,  
+Whose head is in the gutter?  
+Say, hast thou in thy round,  
+Gazed on some favored spot,  
+Where hats know not the weight of bricks,  
+And where cigars are not?  
+Bchind a cloud the moon withdrew in woe,  
+And in italics answered, &quot;WNo, no, no!&quot;  
+Tell me, my secret soul,  
+Oh!tell me Hope anI Faith,  
+Is there no resting place  
+From fops and beaux and death?  
 Is there no happy spot,  
-. Where womankind uro blest  
-Where mun may never couie.  
-And where tho girls rn&#x27;iy rest?  
-aith, Truth nnd Hope heit boons to mortals given,  
-Waved their wing und answered, &#x27; Ves, in Iteuocn!&#x27;&#x27;
+Where womankind are blest  
+Where man may never come,  
+And where the girls may rest?  
+aith, Truth and Hope--best boons to mortals given,  
+Waved their wing and answered, &quot;Yes, in Heaven!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_gann_ver01%2Fdata%2Fsn83035102%2F00296027078%2F1857081301%2F0890.jp2/pct:5.833333,39.122604,12.361111,19.258973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1857081301:0890/pct:5.833333,39.122604,12.361111,19.258973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Wood County reporter._](https://chroniclingamerica.loc.gov/lccn/sn85033078/1858-03-03/ed-1/seq-4)
+## [From _Green-Mountain freeman._](https://www.loc.gov/resource/sn84023209/1857-11-12/ed-1/?sp=4)
+
+#### 1857-11-12 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Tub Fate of the Admired. It often hap  
+ncus, that those who in their lives were ap  
+  
+plauded and admired, are laid at last in th  
+  
+ground without tue common honor ot a stone;  
+  
+because by those excellencies with which many  
+were delighted, none had been obliged ; and,  
+though they had many to eelebrate, they had  
+none to love them.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1857111201:0790/pct:30.645730,115.492958,15.949188,5.227763/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Southern Christian advocate._](https://www.loc.gov/resource/sn87065702/1857-11-26/ed-1/?sp=1)
+
+#### 1857-11-26 &middot; [Augusta, Ga.](http://dbpedia.org/resource/Augusta%2C_Georgia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+Tell me, ye winged winds,  
+That round mj pathway roar;  
+Do you not know some spot  
+Where mortals weep no more? &gt;’ *  
+Some lone and pleasant deQ,  
+Some yalley in the West,  
+Where, free from toil and pain,  
+The weary soul may rest?  
+The loud wind softened to a whisper low,  
+And sighed for pity as it answered, “No!”  
+ii &gt;»-•&#x27;­  
+r.&lt;  
+: Hf  
+V&#x27; ‘  
+Tell me, thou misty deep,  
+Whose billows round me play—  
+Know’st thou some favored spot,  
+Some island far away,  
+&#x27; &#x27; Where weary man may find  
+The rest for which he sighs, - \ ‘ • C;  
+Where sorrow ever lives,  
+And friendship never dies ?  
+The loud waves rottm in perpetual flow, - •  
+Stopped for a while, and sighed to answer “No 1”!  
+And thou, serenest moon,  
+That with such holy face.  
+Dost look upon the earth,  
+Asleep in night’s embrace—  
+Tell me, in all thy round . i, .■  
+Hast thou not seen some spot  
+Where miserable man  
+Might find a happier lot ? &gt;, &#x27; ■  
+Behind the cloud the moon withdrew in woe,  
+And in a voice sweet, but sad, responded, &quot;No!”  
+Tell me, my sweet soul,  
+Oh I tell me Hope and Faith,  
+Is there no resting place, . i  
+From sorrow, sin and death ?  
+• * Is there no happy spot  
+r Where mortals may bo blessed,  
+Where grief may find a balm, . , ,  
+&#x27; And weariness a rest
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016548:1857112601:0243/pct:69.523226,34.486736,12.294956,16.366782/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Brookville American._](https://www.loc.gov/resource/sn85048197/1858-02-19/ed-1/?sp=4)
+
+#### 1858-02-19 &middot; [Brookville, Ind.](http://dbpedia.org/resource/Brookville%2C_Indiana)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+; at  
+longth, after a pause, turning to his companion,  
+beobserved that the trees around them grew  
+cory large and strong. &quot;Sir,&quot; said the cynic,  
+hey have nothing else to do.&quot;  
+I TE FATE O TRE ADNIrED,  
+t often happens that those who in their lives  
+ere applauded and admirod, are laid at last in  
+eet ground without the common honor of a  
+s one; because by those excellencies with which  
+onny were delighted, none hadbeen obliged;  
+ael, though they had many to colebrate, they  
+heI none to love the
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn85048197:00202191356:1858021901:0025/pct:7.498323,62.814070,12.139504,6.190955/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Wood County reporter._](https://www.loc.gov/resource/sn85033078/1858-03-03/ed-1/?sp=4)
 
 #### 1858-03-03 &middot; [Grand Rapids [i.e. Wisconsin Rapids], Wis.](http://dbpedia.org/resource/Wisconsin_Rapids%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ Parodied.  
 Toll me, ye WMiged inde  
 That round my pathway roar,  
 Da ye not know some spot  
@@ -945,15 +1258,112 @@ And where the girls may rest ?
 Faith, Truth, and Hope—best boons to mortals  
 given,  
 W red their bright wings, and whispered, “Yes  
-in Heaven 1”
+in Heave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_ada_ver01%2Fdata%2Fsn85033078%2F00271769416%2F1858030301%2F0008.jp2/pct:3.391591,5.374476,12.884433,20.404618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769416:1858030301:0008/pct:3.387075,4.393583,12.884433,21.375294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Democratic enquirer._
+## [From _Carlisle herald._](https://panewsarchive.psu.edu/lccn/sn86071297/1862-12-12/ed-1/seq-1/)
+
+#### 1862-12-12 &middot; [Carlisle, Pa.](http://dbpedia.org/resource/Carlisle%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+LET THE LATHES BE ImAnD  
+  
+Tell me, ye winged winds  
+That round my pathway roar,  
+Do ye not know sopa spot  
+Where batehelors come no more—  
+Some lone and pleasant dell  
+Where no moustache Is seen—  
+Where long-eared dandies never conic.  
+Ourselves and fun between I  
+  
+There came a murmur from the distant sea—  
+A low, Bad tone, which whit:pared &quot; tio sir-oe.  
+  
+Tell nlti, then misty deep,  
+Whose billows round me play,  
+linow&#x27;st thou some favored spot,  
+Sonia island far away,  
+Where weary girls may find  
+A Teat from soft dough fares,  
+And hear themselves called women,  
+Nor likened to the graces?  
+Soon did the misty deep the answer give,&quot;  
+By murmuring, &#x27;Not while brandy smashes live  
+  
+And thou, oerenest moon,  
+What language duet thou utter  
+While gazing on the gentleman &#x27;  
+Whose head to in the gutter?  
+Say, hoot thou, In thy round,  
+Gazed on some favored opot,  
+Where hots know not the weight of bricks  
+And where Holy are not?  
+Ilehind a cloud the moon withdrew in woe,  
+And In- italics answered, &quot;No, no, not&quot;  
+  
+Tell me my secret soul—  
+Oh ! tell me, Hope and Faith,  
+Is there no resting place  
+From fops and beaux end death -  
+Is there no happy spot,  
+Where womankind are blest—  
+Where man may never rome,  
+And where the girls may rest?  
+Faith, Truth and Hope—best boons to mortals given,  
+Waved their bright wings and answered,&quot; Yes In  
+Heaven I&quot;
+</td></tr></table>
+
+---
+
+## [From _Carlisle herald._](https://panewsarchive.psu.edu/lccn/sn86071297/1864-06-03/ed-1/seq-1/)
+
+#### 1864-06-03 &middot; [Carlisle, Pa.](http://dbpedia.org/resource/Carlisle%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ thou serenest moon,  
+What.longuap,e Boat thou utter,  
+While gazing through thy halos,  
+Upon so great a sputter ?  
+Bay host thou In thy round,  
+Gazed on some favored spot  
+Where tunb olia&#x27;s are never found.  
+And gum-oh: es plague us not?  
+Behind a cloud the moon withdrew In woe  
+And answered tad and tearfUlly, &quot;no, no.&quot;  
+  
+3,87  
+3 96  
+  
+Tell nn my secret Soul,  
+Olt, tell me, Faith and Hope,  
+Is there co sunny place,  
+Whore drenched mortals do not mope?  
+No place where mud and rain  
+Spoil not our polished boots,  
+Nor lovely saw Spring hats,  
+Nnr latest cut surtnuts  
+Faith, Truth and 11,3 mi—best boons to mortals  
+  
+ME  
+  
+given,  
+Waved their bright wings and answered, yes  
+in heaven.&quot;
+</td></tr></table>
+
+---
+
+## [From _Democratic enquirer._](https://www.loc.gov/resource/sn86079037/1867-04-18/ed-1/?sp=1)
 
 #### 1867-04-18 &middot; [M'arthur, Vinton County, Ohio](http://dbpedia.org/resource/McArthur%2C_Ohio)
 
@@ -966,60 +1376,63 @@ TELL ME.
   
 Tell me ye winged winds,  
 That round my pathway roar,  
-Do ye not know some spot  
-Where bachelors come no more?  
+Do ye not know some spot &#x27;  
+Where bachelors come ne more.&#x27;  
 Some lone and pleasant dell,  
 Where no moustache is seen;  
-Where long-cared dandies never come,  
+Where long-eared dandies never oome,  
 Ourselves and fun between?  
-There came a murmur from the distant lea,  
-A low, sad tone, which whispered, &quot;No, sir-ee.&quot;  
+There cam a murmur from the distant lea,  
+k low, sad tone, which whispered, &#x27;No, sir-ee.&#x27;  
 Tell me, thou misty deep,  
-Where billows round me play,  
-Know&#x27;st thou some favored spot,  
+Where billowy round me play,  
+. Know&#x27;st thou some favored spot, .  
 Some island far away,  
-Where merry girls may find  
+. Where merry girls may find  
 A rest from soft dough faces,  
 And hear themselves called women,  
-Nor likened to the graces?  
+Nor likened to the graces? ,  
 Soon did the misty deep its answer give,  
-By murmuring, &quot;Not while brandy-smashe,  
- live.&quot;  
-And thou, serenest moon,230  
-What language dost tkou utter,  
-While gazing on the gentleman  
-Whose head is in the gutter?  
+By murmuring, &quot;Not while brandy-smashe(  
+&#x27; .live.&quot;  
+And thou, serenest moon, : ;r:&#x27;:  
+What language dost tkou utter, ...  
+While gating on the gentleman  
+W hose head is in the gutter? ,  
 Say, hast thou in thy round  
-Gazed on some faored sot,  
-Where hats know not the weight of brickg  
-And where digars are not?  
-Behind a cloud the moon withdrew in woe,  
-And in italics answered, &quot;Not nol nol&#x27;  
-Tell me my secret soul  
-nod Oh, tell me Hope and Faith, 10 4  
-Is there no resting place  
-From fops, and beaux and eeathl,  
-Is there no happy spot  
-Where womankind are blest, ­  
-Where man may never come  
-And where the girls may rest?  
-Faith, Truth, and Hope--booms to mertal  
-given,2 wlit the  
-Waveds their bright wings and answered,  
-&quot;Yes, in Heaven.&quot;
-</td></tr></table>
+- Gated on some favored spot, ,  
+Where hatsknownot tne weight of briok.  
+And where; digara are not?  
+Behind a eloud the moon withdrew ia woe,  
+And iu italics answered, &quot;No nil not&#x27;  
+r TeN me my secret soul  
+i . Oh, tell me Hope and Faith, .&quot;. i , t  
+: : Is there no resting place  
+. From feps, and beaux end teathl,  
+Is there no happy spot , &#x27;  
+Where womankind are blest, , y­  
+, Where man may never come,; ,  
+&quot;And where the girls may .rest?  
+Faith, Truth, and Hope booms to mortal  
+gn ..  
+navti tneir ongm wings ana answerem  
+&#x27; &quot;Yes, inHeaven.&quot;  
+  
+FAMILY JARS.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn86079037:0028077490A:1867041801:0069/pct:29.854369,69.611690,18.648867,42.619402/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1867-12-24/ed-1/seq-4)
+## [From _Staunton spectator._](https://www.loc.gov/resource/sn84024718/1867-12-24/ed-1/?sp=4)
 
 #### 1867-12-24 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-To Mankind generally, and Thunder A, Shunn  
-particularly.  
+.  
 BY MOLLIE BLT.  
 Tell me ye winged winds,  
 That round my pathway roar,  
@@ -1062,21 +1475,25 @@ And where the girls may rest?
 Faith, truth, and hope—best boons to mortals  
 given,  
 Waved their bright wings and answered, Yes,  
-in heaven.&quot;
+in heaven.&quot;  
+  
+Sassingers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762477%2F1867122401%2F0424.jp2/pct:5.908336,5.905061,12.542640,18.794779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762477:1867122401:0424/pct:5.903962,7.233291,12.542640,18.510158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The weekly Caucasian._
+## [From _The weekly Caucasian._](https://www.loc.gov/resource/sn85033995/1868-04-04/ed-1/?sp=1)
 
 #### 1868-04-04 &middot; [Lexington, Lafayette County, Mo.](http://dbpedia.org/resource/Lexington%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+-pine.  
   
+TELL HE.  
   
 Tell me ye winged winds,  
 Ihat round my pathway roar,  
@@ -1127,12 +1544,16 @@ re te
 Waved their or  
 Hleaven.&quot;  
 The Smith Family.  
-Henry Smith, the Razor Strop Man
-</td></tr></table>
+Henry Smith, the Razor Strop Man,  
+will b
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294555882:1868040401:0060/pct:51.786778,14.397255,20.399047,81.533183/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1872-09-26/ed-1/seq-1)
+## [From _Yorkville enquirer._](https://www.loc.gov/resource/sn84026925/1872-09-26/ed-1/?sp=1)
 
 #### 1872-09-26 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
@@ -1149,39 +1570,48 @@ Where grief may find a balm,
 And weariness a rest?  
 Faith, Hope and Love, best boons to mortalsgiven,  
 Waved their bright wings and answered, &quot;Yes,  
-in Heaven
+in Heave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862749%2F1872092601%2F0175.jp2/pct:3.309724,23.493904,13.785414,4.936069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862749:1872092601:0175/pct:3.305352,23.487957,13.785414,4.933095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Martinsburg independent._](https://chroniclingamerica.loc.gov/lccn/sn84038206/1890-12-20/ed-1/seq-2)
+## [From _Lexington weekly intelligencer._](https://www.loc.gov/resource/sn87052143/1877-12-15/ed-1/?sp=1)
 
-#### 1890-12-20 &middot; [Martinsburg, W. Va.](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
+#### 1877-12-15 &middot; [Lexington, Mo.](http://dbpedia.org/resource/Lexington%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-ready to afford assistance to the  
-poor and afflicted, so in the language  
-of the poet, her loved ones may well  
-exclaim:  
-“Tell me. my secret soul, oh tell me, Hope  
-and Faith,  
-Is there no resting place from sorrow, sin  
-and death ?  
-Is there no happy spot where mortals may  
-be blessed,  
-Where grief may find a balm, and weari­  
-ness a rest ?  
-Faith, Hope and Love, best boon to mortals  
-given.  
-Waved their bright wings and answered,  
-yes, in Heaven.” Refoktkr
+ have learned to lace,  
+And hope l&#x27;il never paint my face.  
+I do not like the man who smoke  
+And tells bad lies and vulgur jokes;  
+I do not like the man who chews;  
+nd goes around to tell the news.  
+uch vuigar creature I despist  
+They should be smoll in ladies eves  
+But then ther are some girls, you know;  
+Who&#x27;d give their necks to have a beau.  
+And now my friends, I&#x27;vesaid my say,  
+And so I&#x27;ll bow and go away.  
+WHAI She SAld  
+ol eil me my, seret sul  
+th tell me hope and faith,  
+is there no resting place,  
+From tods and be tux and death  
+Is there no happy spot,  
+Where womenkind are blest,  
+Where man may never come.  
+And where the giris may rest&quot;  
+Faith, Truth, and Hope,  
+Best boons to mortal given;  
+Waved their bright wing  
+ad answered, &quot;Yee in Heaven.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_duval_ver01%2Fdata%2Fsn84038206%2F00393349232%2F1890122001%2F0692.jp2/pct:26.698177,29.600930,10.793383,6.182197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556564:1877121501:0190/pct:35.589587,50.390244,8.499234,9.329268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -1,7 +1,7 @@
 
 # A Philosophical Darkey
 
-### 247 reprints from 1862-03-21 to 1898-10-01
+### 287 reprints from 1862-03-21 to 1898-10-01
 
 ## [A Philosophical Darkey](https://chroniclingamerica.loc.gov/lccn/sn85033429/1872-06-20/ed-1/seq-1/)
 
@@ -60,50 +60,74 @@ It is safe to say that the darkey corpse of that African will never darken the f
 
 ---
 
-## A Philosophic Negro
-
-#### From _Daily national intelligencer._
+## [From _Daily national intelligencer._](https://www.loc.gov/resource/sn83026172/1862-03-21/ed-1/?sp=2)
 
 #### 1862-03-21 &middot; [Washington City [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
 
-[This text is not available under an open license.]
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+8.  
+A PHILOSOPHIC NEGRO.  
+A correspondent of the Cincinnati Gazette, writing from  
+the Cumberland river, gives a humorous account of a col­  
+loquy with a philosophic African. He says :  
+&quot; I noti led upon the hurricane deck to day an elderly  
+darkey, with a very philosophical and retrospective cast of  
+countenance, equatted upon his bundle toasting himself against  
+the chiumey, and apparently plunged into a state of profound  
+meditation. Finding upon inquiry that he belonged to the  
+Ninth Illino s, one of the m.et gallantly behaved and heavy  
+losing regiments at the Fort Donelson battle and part of which  
+was aboard, I began to interrogate him upon the subject. His  
+philosophy was to much in the Falstaflian vein tint I will  
+give his views in his own words, as near as my memory  
+serves me •  
+&quot; Were you in the tight f ’  
+&quot; Had a little taste of it. sa.&quot;  
+“ Stood your ground, did you  
+“ No, ea, I runs.&quot;  
+“ Run at the first fire, did you ?&quot;  
+“Yes, sa, and would hab run soona, had I knowd it war  
+comin.’  
+“ Why, that wasn&#x27;t very creditatlle to your courage.&quot;  
+&quot; Dat isn&#x27;t iu my line, sa—cookin s my perleshun &quot;  
+44 1A7 A1 d j.a* . - - 1 F. .. ....____ _  
+“ Well, but have you no regard for your reputation !  
+“ heputation’s nutfin to me by de side oh lite.&quot;  
+&quot; Do you consider your life worth more than other peo­  
+ple&#x27;s ? ’  
+“ its worth more to me, sa.&quot;  
+“ I hen you must value it very highly ?&quot;  
+“ Yes sarI does—more dan all dis wuld—more dansnillion  
+ob dollars, ea; for what would dat be worth to a man wid de  
+bref out. ob him ? Self reserbashun am de fust law wid me.”  
+“ i hen patriotism and honor are nothing to you ?&quot;  
+16 AIHIHg &lt;L j ._F . .. . - .3. . if  
+“ Nutfin w hatever, sa—I rega. d dem as among de vanities.”  
+It is safe to say that the dusky corpse of that African will  
+never darken the field of carnage.  
+  
+thir
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_anderson_ver01:data:sn83026172:00211678367:1862032101:0088/pct:6.793394,4.800573,24.291056,90.386912/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _Cleveland morning leader._
+## [From _Cleveland morning leader._](https://www.loc.gov/resource/sn83035143/1862-03-22/ed-1/?sp=1)
 
 #### 1862-03-22 &middot; [Cleveland [Ohio]](http://dbpedia.org/resource/Cleveland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ath of Gen  
-Lyon Gen, Sigel commanded our army, and  
-ed the retreat to Rolla, after which he re  
-I mained somewhat inactive at St. Louis un-  
-til appointed to the present corps darme  
-I of which he commanded a division.  
-oo  
-A correspondent says that the nose  
-made by a shell shot from a rified gun is  
-uced by an indefinite number of large  
-hevils confined in a small bottle, with th  
-bork out, howlng through the air.  
+I  
   
-  
-ee ee   o e e  
-Cv  
- oe a o eiser ee e ooa e o  eo   oi erms  
-eo  a aea oe a  i o  
-  
-A Philonaphical Darkoy.  
-  
-Correspondence of the Cincinnati Garette.I  
-  
-I noticed upon the hurricane deok to-day  
-an elderlydarkey with a very philosophi  
+I noticed upon the hurricane deok to day  
+an elderly darkey with a very philosophl  
 cal and retrospective cast of countenance,  
 squatted upon his bundle, toasting his shins  
-against the chimney, and apparently  
+against the onimney, and apparently  
 plunged into a state of profound medita  
 tion. Finding upon inquiry that he be  
 longed to the Ninth Illinois, one of the  
@@ -111,13 +135,13 @@ most gallantly behaved and heavily losing
 regiments at the Fort Donelson battle, and  
 part of which was aboard, I began to in­  
 terrogate him upon the subject. His phil  
-osephy was so much in the Falstaffian  
+osophy was so much in the Falstaffian  
 vein that I will give his views in his own  
 words as near as my memory serves me  
 Were you in the fight?&quot;  
-&quot;Had a little taste of it, sa.  
-&quot;Stood your ground, did you?h  
-&quot;No, sa, I runs.&quot;  
+&quot;Had a little taste of it, 85.  
+&quot;Stood your ground, did you?ha  
+&quot;No, sa, I runs.  
 &quot;Run at the first first, did you?&quot;  
 &quot;Yes, sa, and would hab run soona, hab  
 I knowd it war comin.&quot;  
@@ -127,8 +151,8 @@ your courage.
 porfeshun.  
 Well, but hove you no regard for your  
 reputation?  
-Reputation&#x27;s nuffin to me by de side ob  
-i  e e e  
+Reputation&#x27;s numn to me by de side ob  
+i e e e oe o  
 &quot;Do you consider your life worth more  
 than other people&#x27;s?&quot;  
 It&#x27;s worth more to me, sa.  
@@ -152,11 +176,11 @@ when de power of feeling was gone?&quot;
 to you?&quot;  
 &quot;Nuffin whatever, sa--I regard dem as  
 among de vanities.&quot;  
-&quot;If our soldiers were like you, traitors  
-i a oen o te oer en  
+&quot;If our goldiers were like you, traitors  
+i a boken o the overn men  
 without resistance.&quot;  
 Yes, sa, dar would hab been no help  
-for it Iwoldt put me life in de se  
+e i  e e o in e ee  
 ginst any Gubernment dat ever existed,  
 for no Gubernment could replace de loss to  
 me.&quot;  
@@ -170,17 +194,20 @@ de pint wid me.&quot;
 It is safe to say that the dusky corpse of  
 that African will never darken the field of  
 carnage.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775642:1862032201:0596/pct:13.888406,13.425672,11.281071,32.857926/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _The sun._
+## [From _The sun._](https://www.loc.gov/resource/sn83030272/1862-03-24/ed-1/?sp=1)
 
 #### 1862-03-24 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 I noticed upon the hurricane deck today an  
 elderly darkie with a very philosophical and re­  
 trospective cast of countenance, squatted upon  
@@ -193,7 +220,7 @@ at the Fort Donelson battle, and part of which
 was on board, I began to interrogate him upon  
 the subject. His philosophy was so much in the  
 Falstaflian vein that I will give his views in his  
-own words, as near as my memory serves me:  
+own words, as near as my memory serves me;  
 &quot;Were you in the fight?&quot;  
 &quot;Had a little taste of it, sa.&quot;  
 &quot;Stood your ground, did you?&quot;  
@@ -207,7 +234,7 @@ courage.&quot;
 feshun.&quot;  
 &quot;Well, but have you no regard for your rep-  
 utation?&quot;  
-&quot;Reputation&#x27;s nuffin to me by de side ob  
+&quot;Reputation&#x27;s nuffin to me by de side o  
 life.&quot;  
 &quot;Do you consider your life worth more than  
 other people&#x27;s.&quot;  
@@ -228,34 +255,41 @@ country.&quot;
 &quot;What satisfaction would dat be to me when  
 de power ob feelin&#x27; was gone?&quot;  
 Then patriotism and honor are nothing to  
- Kuffin whatever, sa--I regard dem as among  
+Kuffin whatever, sa--I regard dem as among  
 de vanities.&quot;  
-If our soldiers were like you, traitors might  
+&quot;If our soldiers were like you, traitors might  
 have broken up the Government without resist-  
   
-have broken up the Goverhment nithout teist  
+have broken up the Goverhment nitneut tenst  
 Yes, sa, dar would hab been no help for it.  
-I wouldn&#x27;t put my life in de scale &#x27;gine: any  
+I wouldn&#x27;t put my life in de scale &#x27;ginet any  
 Gobernment dat eber existed, for no Cobern­  
-ment could replace de loss to me.&quot;  
+ment could replace de loss to ie.&quot;  
 &quot;Do you think any of your company would  
 have missed you if you had been killed?&quot;  
 &quot;May be not, sa--a dead white man ain&#x27;t  
 much to dese sojers, let alone a dead nigga--but  
 I&#x27;d a missed myself and dat was de pint wid me.&quot;  
 It is safe to say that the dusky corpse of that  
-African will never darken the field of carnage.
-</td></tr></table>
+African will never darken the field of carnags.  
+  
+CircuMSTaNTIal EvidE
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206539884:1862032401:1047/pct:44.751381,11.186390,22.611009,85.591689/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Western Reserve chronicle._](https://chroniclingamerica.loc.gov/lccn/sn84028385/1862-03-26/ed-1/seq-4)
+## [From _Western Reserve chronicle._](https://www.loc.gov/resource/sn84028385/1862-03-26/ed-1/?sp=4)
 
 #### 1862-03-26 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+.1 noticed upon the hurricane deck to  
 day an elderly darkic with a very philo  
 sophical and retrospective cast of counte  
 nance, squatted opon Lis bundle toasting  
@@ -326,37 +360,22 @@ but I&#x27;d a missed myself, and dat was de
 pint wid me.  
 It is safe to say that the dusky corpse of  
 that African will never darken the field of  
-carnage
+carnage.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn84028385%2F00237283508%2F1862032601%2F0536.jp2/pct:8.290797,29.514989,11.044084,34.547892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237283508:1862032601:0536/pct:11.038961,38.605898,14.718615,48.513283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026845/1862-03-26/ed-1/seq-1)
+## [From _Daily intelligencer._](https://www.loc.gov/resource/sn84026845/1862-03-26/ed-1/?sp=1)
 
 #### 1862-03-26 &middot; [Wheeling, Va. [W. Va.]](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r a resident  
-of the State. He was disgraced, and the  
-only show of legality which he had on his  
-side was, he had a partnership in a law  
-office in Madison. And at tho sarao time  
-the organic law of the Statu declares that  
-Tor any man to be eligible to vote or hold  
-offico be must have been n resident of the  
-State twelve months previous to the day  
-of election. Jesse [), Bright never was a  
-resident. Democrat.  
-A Pblloaopblc Ncf ro.  
-A correspondent writing from.the Cum­  
-berland river gives a bumorons account of  
-a colloquy with &#x27;ft philosophic African. He  
-says :  
-1 noticed upon the hurricane deck to-day  
+ hurricane deck to-day  
 an elderly darkey, with a very philosophic­  
 al and retrospectivo cast of countenance,  
 squatted upon his bundle toasting: himself  
@@ -395,21 +414,24 @@ highly?&quot; &#x27; &#x27;
 ?mere dan a million ob dallors, sa ; for  
 what would dat be worth to.rman wid de  
 bref out ob him? Self prescrbashun am  
-de fust law wid me.
+de fust law wid me.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_canada_ver01%2Fdata%2Fsn84026845%2F00202190698%2F1862032601%2F0277.jp2/pct:55.841530,53.389394,14.289617,29.809507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190698:1862032601:0277/pct:55.825137,62.759568,14.273224,20.422173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wyandot pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87076863/1862-03-28/ed-1/seq-1)
+## [From _The Wyandot pioneer._](https://www.loc.gov/resource/sn87076863/1862-03-28/ed-1/?sp=1)
 
 #### 1862-03-28 &middot; [Upper Sandusky, Ohio](http://dbpedia.org/resource/Upper_Sandusky%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+LER;  
   
+A COLORED FALSTATF.  
+I noticed upon the hurricane deck to­  
 day an elderly darkey with a very philo­  
 sophical and retrospective cast of counte  
   
@@ -480,34 +502,21 @@ niggJi but I&#x27;d a missed myself, and dat
 war de pint wid mo.&quot;  
 It is safe to say that the dusky corpse  
 of that A moan will never darken the  
-field of carnage. J. G
+field of carnage. J. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn87076863%2F00296028848%2F1862032801%2F0209.jp2/pct:18.209983,16.345123,12.839931,37.111468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028848:1862032801:0209/pct:19.545767,20.337621,21.834136,105.961951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1862-03-29/ed-1/seq-1)
+## [From _The Cecil Whig._](https://www.loc.gov/resource/sn83016348/1862-03-29/ed-1/?sp=1)
 
 #### 1862-03-29 &middot; [Elkton, Md.](http://dbpedia.org/resource/Elkton%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ulges in a half dozen nips is likely  
-to stay drunk for a week, and a second or  
-l third applealiou drives the breath out of the  
-! body.”  
-■ • * -•-   
-fir?*A woundorl Irishman wrote Ivnnc from  
-the hospital, and finlslit*rl up l&gt;v saving. • I’m  
-i for this country, I&#x27;ve hied foi it, and I Bhyll  
-boon bo able to say I&#x27;ve died fur it.&#x27;* 1  
-  
-n A YEAR; IN ADVANCE.  
-  
-Cjumovous.  
-1 ......  
+..  
 A Philosophic \egpo.  
 A correspondent of the Cincinnati Gazette,  
 writing from the Cnmherhwd riv-p, gir. s a  
@@ -550,38 +559,32 @@ than other people&#x27;s V 9
 more dan a million oh dollars, sa; for what  
 I would dat bo worth to a man \rid de brel m  
 ob him / Sclf-preserbashun am de lust law  
-wid me.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624505%2F1862032901%2F0360.jp2/pct:68.506415,11.546881,25.548293,84.611456/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1862-03-29/ed-1/seq-1)
-
-#### 1862-03-29 &middot; [Elkton, Md.](http://dbpedia.org/resource/Elkton%2C_Maryland)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+wid me.”  
+“ Then patriotism and honor are nothing  
+to you /”  
+“Xuflin whatever, sa—l regard deni ns  
+among de vanities.”  
 It is safe to say that the dusky corpse of  
 that African will never darken the field of  
-carnage
+carnag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624505%2F1862032901%2F0360.jp2/pct:81.544420,37.125137,12.461874,1.309741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624505:1862032901:0360/pct:104.797601,20.434967,16.547976,29.148425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Sunday dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85026213/1862-03-30/ed-1/seq-6)
+## [From _Sunday dispatch._](https://www.loc.gov/resource/sn85026213/1862-03-30/ed-1/?sp=6)
 
 #### 1862-03-30 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ of the present week.  
+A Philosophic Darkey. — A corre­  
+spondent of the Cincinnati Gazette, writing  
+from the Cumberland river, gives the follow­  
+ing humorous account of a colloquy with a  
 philosophic darkey :  
 I noticed upon the hurricane deck to-day an  
 elderly darkey, wfth a very philosophical and  
@@ -648,20 +651,28 @@ much to dese sogers, let alone a dead nigga—
 but I’d a missed myself, and dat was de pint  
 wid me.”  
 It is safe to say that the dusky corpse of that  
-African will never darken the field of carnage
+African will never darken the field of carnage.  
+A Troy Female acting as a Lieuten­  
+ant on the Potomac. It seems from a private  
+correspondence that one of the compan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_frost_ver02%2Fdata%2Fsn85026213%2Fprint00211110090%2F1862033001%2F0006.jp2/pct:69.028029,52.456140,12.029837,28.356950/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026213:print00211110090:1862033001:0006/pct:69.023508,49.581646,12.025316,32.982456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031490/1862-04-01/ed-1/seq-3)
+## [From _Chicago daily tribune._](https://www.loc.gov/resource/sn84031490/1862-04-01/ed-1/?sp=3)
 
 #### 1862-04-01 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+, 35  
+  
+A Philosophical Darkey■  
+  
+[Correspondence of the Cincinnati Gazette.]  
   
 I noticed upon the hurricane deck to-day an  
 elderly darkey with a very philosophical and  
@@ -741,19 +752,127 @@ It is eafe to say that the dusky corpse of
 that African will never darken the field of car­  
 nage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_division_ver02%2Fdata%2Fsn84031490%2Fno_reel%2F1862040101%2F0003.jp2/pct:44.819654,2.274384,9.951233,23.418137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862040101:0003/pct:37.559809,1.472518,17.188075,97.740195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Civilian & telegraph._](https://chroniclingamerica.loc.gov/lccn/sn83016179/1862-04-03/ed-1/seq-1)
+## [From _The Lebanon advertiser._](https://panewsarchive.psu.edu/lccn/sn83032227/1862-04-02/ed-1/seq-4/)
+
+#### 1862-04-02 &middot; [Lebanon, Pa.](http://dbpedia.org/resource/Lebanon%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+A COLORED FALSTAFF  
+  
+A Western correspondent on one of the  
+Mississippi gun-boats gives the following  
+account of a spicy conversation with a  
+philosophical colored man :  
+I upon the hurricane deck to­  
+day an elderly darkie with a very philo­  
+sophical and retrospective cast of counte­  
+nance, squatted upon his bundle toasting  
+his shins against the chimney, and appa­  
+rently plunged into a state of profound  
+Meditation. Finding upon inquiry chat  
+he belonged to the Ninth Illinois, one oFthe  
+most gallantly behaved and heavily losing  
+regiments at the Fort Donelson battle,  
+and part of which was aboard, I began  
+to interrogate him upon the subject.—  
+His philosophy was so much in the Fels­  
+taffian vein that I will give his views in  
+his own words as near as my memory  
+serves me:—  
+  
+&#x27;Were you in the fight V  
+&#x27;Had a little taste of it, rm.&#x27;  
+&#x27;Stood your ground, did you t&#x27;  
+sa, I runs.&#x27;  
+&#x27;Run at the first fire, did you 3&#x27;  
+&#x27;Yes, sa, and would hab run soona, hab  
+I knowd it war comin.&#x27;  
+  
+&#x27;Why, that wasn&#x27;t very creditable to  
+your courage&#x27;!&#x27;  
+&#x27;Mt Isn&#x27;t in my line, sa—cookin&#x27;s my  
+porfeshun.&#x27;  
+&#x27;Well, but have you no regard for your  
+reputation  
+&#x27;Reputation&#x27;s nuffin to me by the side  
+ob life.&#x27;  
+  
+&#x27;Do you consider your life worth more  
+than other people&#x27;s?&#x27;  
+&#x27;lt&#x27;s worth more to me, sa &#x27;  
+  
+&#x27;Then you must value it very highly  
+  
+&#x27;Yes, sa, I does—more dan all dis world  
+—more dan a million ob dollars, for what  
+would dat be wuth to a man wid de bref  
+out him 7 Selfpreserbashurn am de lust  
+law wid me.&#x27;  
+  
+&#x27;But why should you act upon a differ­  
+ent rule from other men?&#x27;  
+Because different men sets different  
+values upon dar lives—mine is nut in the  
+market.&#x27;  
+  
+&#x27;But if you lost it, you would have the  
+satisfaction of knowing that you died for  
+your country.&#x27;  
+  
+&#x27;What satisfaction would dat be to me  
+when de power ob feelin&#x27; .was gone l&#x27;  
+&#x27;Then patriotism and honor are nothing  
+to you 1  
+Vull3n whatever, sa—l regard dem as  
+among de vanities.&#x27;  
+If our soldiers were like you, traitors  
+:night hao broken up the Government  
+without resistance.&#x27;  
+  
+&#x27;Yes, sa, dar would hab been no help  
+for lt. I wouldn&#x27;t put my life in the scale  
+&#x27;ginst any Gobernment dat giber existed,  
+for no Gobernment could replace de loss  
+to me:  
+  
+&#x27;Do you think any of you Company  
+would have missed you if you had been  
+killed 1&#x27;  
+  
+*May be not, sa—a dead white man  
+ain&#x27;t much to dese sojers, let alone a dead  
+nigga—but I&#x27;d a missed myself, and dat  
+was de pint wid me.&#x27;  
+  
+It is safe to say that the dusky corpse  
+of that African will never darken the field  
+of carnage.
+</td></tr></table>
+
+---
+
+## [From _Civilian & telegraph._](https://www.loc.gov/resource/sn83016179/1862-04-03/ed-1/?sp=1)
 
 #### 1862-04-03 &middot; [Cumberland, Md.](http://dbpedia.org/resource/Cumberland%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
+A PHILOSOPHIC NEOIIO—A corres­  
+pondent of the Cincinnati Gazette,writ­  
+ing from tho Cumberland river, gives a  
+humorous account of a colloquy with a  
+philosophic African. 110 Bays :  
+&#x27;I noticed upon the hurricano deck  
 to-day an elderly darkey, with a very  
 philosophical and retrospective cast of  
 countenanoe, squatted upon his bundle  
@@ -797,27 +916,39 @@ than other people&#x27;s V
 wuld—more dan a million eb dollars, sa;  
 for what would dat bo worth to a man  
 wid de bref out ob him ? Self-preser­  
-bashun am do first law wid me.&#x27;
+bashun am do first law wid me.&#x27;  
+  
+&#x27;Then patriotism and honor are noth­  
+ing to yon V  
+&#x27;Nnffin whatever, sa—l regard dem  
+as among do vanities.&#x27;  
+It is safe to say that the dusky corpse  
+of that Afrioan will never darken the  
+field of carnage.  
+  
+TAKING IT BAST.—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_kale_ver01%2Fdata%2Fsn83016179%2F00296026190%2F1862040301%2F0113.jp2/pct:83.642319,35.653253,12.909406,26.745907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026190:1862040301:0113/pct:83.555803,31.505084,12.995921,36.689102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The weekly Lancaster gazette._
+## [From _The weekly Lancaster gazette._](https://www.loc.gov/resource/sn88078724/1862-04-03/ed-1/?sp=4)
 
 #### 1862-04-03 &middot; [Lancaster, Ohio](http://dbpedia.org/resource/Lancaster%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+I noticed upon the hurricane deck to­  
 day an elderly darkie with a very philos­  
 ophical and retrospective cast of counte-  
   
 nance, squatted upon his bundle toastin  
   
-his shins against the chimney, and appai  
+his shins against the chimney, and appar  
   
 en ly plunged into a state of profound  
   
@@ -827,29 +958,32 @@ he beloaged to the Ninth Illinois, one of
   
 the most gallantly behaved and heavily  
   
-loosing rgiment at the Fort Donelson  
+loosing regiment at the Fort Donelson  
   
 battle, and part of which was aboard, I  
   
 began to interrogate him upon the sub  
   
-jact. His philo-phy was so much in the  
+jact. His philosphy was so much in the  
   
-Falst fllan vein that I will give his own  
+Falst flian vein that I will give his own  
   
-words as near as my memory s rves m
-</td></tr></table>
+words as near as my memory a rves m
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078724:00296028034:1862040301:0487/pct:6.000760,39.257624,12.476263,8.086105/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _The weekly Lancaster gazette._
+## [From _The weekly Lancaster gazette._](https://www.loc.gov/resource/sn88078724/1862-04-03/ed-1/?sp=4)
 
 #### 1862-04-03 &middot; [Lancaster, Ohio](http://dbpedia.org/resource/Lancaster%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-   
+ i  
   
 &quot;Were you in the figh?&quot;  
 Had a little taste of it, s  
@@ -858,13 +992,13 @@ sa.&quot;
   
 Stood your ground, did you?  
 &quot;No sa, I runs.&quot;  
-&quot;Run at the first fire, did you?&quot;  
+Run at the first fire, did you?&quot;  
   
 Yes, sa, and would hab run soona, had  
   
 I known it war comin.&quot;  
   
-Why, that wasn&#x27;t very creditable t  
+&quot;Why, that wasn&#x27;t very creditable t  
   
 yoer courage.  
   
@@ -880,58 +1014,58 @@ your reputation!
   
 for  
   
-you no regard  
+you no ragard  
   
 to me by de side  
   
-Reputation&#x27;s nuffin  
+R putation&#x27;s nuffin  
   
 of life.  
   
-Do you consider your life worth more  
+Do you conaider your life worth more  
   
-than other people&#x27;s?  
+than other peoples?  
 &quot;Its worth more to me, sa  
   
-&quot;Then you must value it very hig ly?&quot;  
+Then you must value it very hig ly?&quot;  
   
 Yes, sa, I does--more dn all dis wuld  
 more dan a million ob dollars sa, for what  
-would dat be wuth to a man wid de bret  
+would dat be wuth to a man wid de brel  
   
 out ob him? Self preserbashun am de first  
   
 law wid in  
   
-But why should you act upon a different  
+&quot;But way should you act upon a different  
   
 rule from other men?&quot;  
   
 Because diff rent men sets differen  
   
-valus upon dar lives--mine is not in th  
+valus upon dat lives--mine is not in the  
   
-market  
+markel  
   
 &quot;But if you lost it, you w uld have the  
   
 satisfaction of knowing that you died for  
   
-yourcbuntry  
+yous cbuntry  
   
-Whafsatisfaction would dat be to me  
+Whaf satisfaction would dat be to me  
   
-when de power ob fe-lin&#x27; was gone?&quot;  
+when de power ob feelin&#x27; was gone?&quot;  
   
 Then patriotism and honor are nothing  
   
 to you?  
   
-&quot;Nuffin whatever, sa--I regard dem as  
+&quot;Nuffin whatever, sa- I regard dem as  
   
-anong de vanitis.  
+aniong de vanitis,  
   
-&#x27;If our soldiers were like you, traitors  
+&quot;It our soldiers were like you, traitors  
   
 might have broken up the Government  
   
@@ -939,22 +1073,22 @@ without resistance.
   
 AYes, sa, dar would hab been no help  
   
-for it. I wouldn&#x27;t put my life in de scale  
-&#x27;ginst any Gobernment dat eber existed,  
+for it? I wouldn&#x27;t put my life in de scale  
+&#x27;ginst any Gobernment dat eher exiated,  
   
 for no Gobernment could replace de loss  
   
 to me  
   
-lo you, think any of your company  
+lo you think any of your company  
   
 would have missed you if you had been  
   
 killed?&quot; I  
   
-&quot;May be not, sa--a dead white man ain&#x27;t  
+&quot;May be not, sa---a dead white mar ain&#x27;t  
   
-much to these sojers, let alone a dead ni  
+much to these sojers, let alone a dead uh  
   
 -but I&#x27;d a missed myself, and dat was  
   
@@ -963,18 +1097,29 @@ de piat wid me,
 It is safe to say that the dusty corps  
 of that African will never darken the field  
   
-of carnag
-</td></tr></table>
+of carnage  
+aien toatat
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078724:00296028034:1862040301:0487/pct:6.190657,44.018214,19.293581,34.152063/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Rutland weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84022367/1862-04-03/ed-1/seq-1)
+## [From _Rutland weekly herald._](https://www.loc.gov/resource/sn84022367/1862-04-03/ed-1/?sp=1)
 
 #### 1862-04-03 &middot; [Rutland, Vt.](http://dbpedia.org/resource/Rutland%2C_Vermont_(city))
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+A PHILOSOPHIC DARKEY.  
+A correspondent of the Cincinnati Ga­  
+zette, writing from the Cumberland river,  
+gives the following humorous account of a  
+colloquy with a philosophic darkey :  
+I noticed upon the hurricane deck to­  
 day an elderly darkey with a very philo­  
 sophical and retrospective cast of counte­  
 nance, squatted upon his bundle toasting  
@@ -1047,93 +1192,98 @@ It is safe to say that the dusty corpse
 of that African .will never darken the  
 field of carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_leek_ver01%2Fdata%2Fsn84022367%2F0041562833A%2F1862040301%2F0106.jp2/pct:63.608687,21.123254,14.958393,43.436160/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1862040301:0106/pct:84.780844,22.299073,19.947240,63.770923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The Tiffin weekly tribune._
+## [From _The Tiffin weekly tribune._](https://www.loc.gov/resource/sn87076793/1862-04-04/ed-1/?sp=1)
 
 #### 1862-04-04 &middot; [Tiffin, Ohio](http://dbpedia.org/resource/Tiffin%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-ry darkey with a very philo-  
+  
+I noticed upon the hurricane deck to-  
+iy darkey with a very philo-  
 sophical and retrospective cast of coun-  
- tret e uni tunt  
-ig his shins against the chiminey, and  
-apparetitly plunged into a state of pro  
+t tret he ui tunte  
+ig his shins against the chimney, and  
+apparently plunged into a state of pro  
 found meditation. Finding upon inquiry  
 that he belonged to the Ninth Illinois,  
 ne of the most gallantly behaved and  
 heavily losing regiments at the Fort Don-  
 elson battle, and part of which was  
-aboard, I began to interrogate him upon  
+board, I began to interrogate him upon  
 the subject. His philosophy was to much  
-memory serves me;  
-in the Falstaman vein that I will give  
+memory serves me:  
+it the F aistiman vein that I will give  
 his views in his own words as near as my  
 &quot;Were you in the fight!&quot;  
 &quot;Had a little taste of it, sa.&quot;  
-&quot;Steod your ground, did you!&quot;  
+Steod your ground, did you!&quot;  
 &quot;No, se, I runs.&quot;  
-&quot;Run at the first fire did you?&quot;  
-&quot;Yes, sa, and would hah run seons hat,  
-e ee e e e e  e   
+&quot;Kun at the first fire did you?&quot;  
+&quot;Yea, sa, and would hah run seona hab  
+eee e e eee o o    
 I knowd it war coming.&quot;  
 &quot;Why, that wasn&#x27;t very creditable to  
-your coragee e   
+our courge a e   
 &quot;Dat isn&#x27;t my line, sa--cooking&#x27;s my  
 porfeshun.&quot;  
 &quot;Well, but have you no regard for your  
-renutation?&quot;  
+senutation!&quot;  
 Reputation&#x27;s nuffiin to me by de side  
 ob life.&quot;  
 &quot;Do you consider your life worth more  
 than other people&#x27;s!&quot;  
-&quot;Ie&#x27;s worth more to me, sa.&quot;  
-&quot;Then you must value Wery high  
+&quot;I&#x27;s worth more to me, sa.&quot;  
+&quot;Then you must value iteery high  
 &quot;Yes, sa, I doos--more dan all dis wuld  
 --more dan a million ob dollars, sa, fo  
-twould dat he wuth to a man wid de  
-out ob him! Self-prosurbashun am  
+twould dat be wuth to a man wid de  
+out ob him! Self-presurbashun am  
 de fust law wid me.&quot;  
- &quot;But why should you act upon a differ  
+&quot;But why should you act upon a differ.  
 ent rule from other men!&quot;  
 &quot;Because different men sets different  
-alues upon dor lives-mine is not in de  
+alues upon dor lives--mine is not in do  
 market.&quot;  
 &quot;But if you lost it you would have the  
 satisfaction of knowing that you died fer  
 our country.&quot;  
-&quot;What satisfaction would it he to me  
-a de power of leclin was gone!&quot;&quot;.  
-a aee e oe ee  
-I lch patllotsin nd honor are, noti  
-you!.&quot;  
+&quot;What satisfaction would it he to mo  
+a de power of leclin was gone!&quot;  
+t atietle and to a e  
+leh palits and fonor arn noth  
+you!,&quot;  
 &quot;Nuflin whatever, sa--I regard dem as  
-among de vanities.&quot;  
+among de vanitics.&quot;  
 &quot;If our soldiers were like you, traitor  
 might have broken up the Government  
-witheut resistance.&quot;  
+withe ut resistance.&quot;  
 &quot;Yes, sa, dar would hab been no help  
 for it. I wouldn&#x27;t put my life in de scalo  
 &#x27;oinst any Guhernment dat ever existed,  
  for no Gubernment could replace de less  
-to me.  
-&quot;Do you think any of your compasy  
-Would have missed you if you had been  
+to mnc.  
+&quot;Do you think any of your company  
+would have missed you if you had been  
 killed!&quot;  
-&quot;May be not, se--a dead white, man  
-all&#x27;t mu h to dese to ers, let alone a dotd  
-niggn--but I&#x27;d missed myself, and dat was  
+&quot;May be not, se--a dead white man  
+all&#x27;t muh to dese to ers, let alone a dotd  
+n ggn--but I&#x27;d missed myself, and dat was  
 de pint wid me.&quot;  
-Ugis safe to say that the dusky corpse of  
+bas safe to say that the dusky corpse of  
 that African will never darken the field of  
-curnage.
-</td></tr></table>
+carhage.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775101:1862040401:0081/pct:84.441539,13.406172,11.878969,35.848221/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1147,59 +1297,238 @@ curnage.
 
 ---
 
-## From _The Council Bluffs nonpareil._
+## [From _The miners' journal, and Pottsville general advertiser._](https://panewsarchive.psu.edu/lccn/sn84026251/1862-04-05/ed-1/seq-4/)
+
+#### 1862-04-05 &middot; [Pottsville, Pa.](http://dbpedia.org/resource/Pottsville%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ i  
+I noticed nponthe huiricane, toolny  
+in elderly de:hie-with a very philosophical  
+and. retrospective east Of Counten;oo,sqiiisit •  
+led upon his , bundle toasting his shies against  
+the chimney l und; apparently - plunged into a  
+Mats of profound meditation- Finding upon  
+inquiry that. he belonged to the Ninth Illinois;  
+one of the&#x27; moat gallazttly behaved and heavi­  
+ly losing regiments -at the Fort - DonelsOn  
+battle, nod part of which was aboarti, began  
+to int errogate&#x27; bi upon -the subject..; Hit  
+philosophy was so : .ntacli in - the&#x27;  
+,Faletaffian  
+vein fiat will lire - .his&#x27; views .in his - o in  
+irords. as neapas my teemoty saves me: •  
+• Were you itithe fight r :  
+a.Had a little.mste of it,ta.&quot; • . .  
+Stood.your groundedid Ion?&quot; •  
+
+</td></tr></table>
+
+---
+
+## [From _The miners' journal, and Pottsville general advertiser._](https://panewsarchive.psu.edu/lccn/sn84026251/1862-04-05/ed-1/seq-4/)
+
+#### 1862-04-05 &middot; [Pottsville, Pa.](http://dbpedia.org/resource/Pottsville%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+&quot;  
+I aties.,-inare dan all. die wind  
+—more an a million ob. dollars se; for what,  
+would dat&#x27;bo truth &#x27;to a man wid de href out  
+ob him? iielf.pmerbuhnn am de fust law  
+wad rwar &#x27; - •  
+&#x27; &quot;But why shotild you act npon a different,  
+rule frotiiiither men I&quot;: • .  
+&quot;BiesonAifferetit men nets different vat;  
+nes npon&#x27;tahrties—ndite Is not in de mar.  
+kit.&quot; .• -• . •  
+46 , But if 7011108 t it, ion would have, the sit­  
+, isfaction of knowing&#x27; that you :died, for your  
+-. country.&quot;,  
+&quot;Vbst&#x27;satisfaction &#x27;would dat be to me  
+when,de power M) feelin&#x27;i was gone?&quot;  
+&quot;Then patriotism and toner. are nothing .  
+4 tO ion • -  
+-a Muffin&#x27; whateier, - : • sa-1 regard dem as  
+among de vanities.&quot;  
+&quot; &quot;If &#x27;our soldiers were like you, . traitors  
+- might have brolteditftliiill&amp;errnment. with-  
+N. &#x27; out resistance.&quot; , • &#x27;  
+Yes,&#x27;sa, dar would hub been no help for  
+it: I wouldn&#x27;tput mylifeiu . de scale &#x27;inn  
+&#x27; any. Gohernment eber existed,&#x27; for no 1.  
+GobernMent could replace do loss to me.&quot;  
+Do You think any Of your company would  
+have= missed you if )11.1 had been kilted !&quot;  
+May be net, sa--4 dead white man• ain&#x27;t  
+much to dem sojers, list alone a dead. nigga  
+—But rd a missed myself, and dat was de  
+pint wid Truer -  
+It is safe - to say that - the dusky corpse , . of  
+:tluttAfricia will tiara&#x27; darken the field - of  
+carnage, -
+</td></tr></table>
+
+---
+
+## [From _The Council Bluffs nonpareil._](https://www.loc.gov/resource/sn84027096/1862-04-05/ed-1/?sp=1)
 
 #### 1862-04-05 &middot; [Council Bluffs [Iowa]](http://dbpedia.org/resource/Council_Bluffs%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+Do yoe copelder pour life worth more  
+than other peeple&#x27;s ?&quot;  
+&quot;it&#x27;s wuf more to me, sa.&quot;  
+&quot;Then you must value it very highly.&quot;  
+&quot;Yen sa, I deesil more dan all dis wuld  
+more dan a mitlion ob dollave, sa, for what  
+would dat be wath to a sas wid de bref oat  
+ob him? Self preserbashua am de fust  
+law wid me.&quot;  
   
-But why should yew act upon a differeat  
-rule from other mew?&quot;  
-&quot;Because different men set different val­  
-ues upon dar lives--mine is not in de mar-­  
+  
+  
+southward ho
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529480:1862040501:0459/pct:56.311921,32.767162,23.319484,4.108673/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Council Bluffs nonpareil._](https://www.loc.gov/resource/sn84027096/1862-04-05/ed-1/?sp=1)
+
+#### 1862-04-05 &middot; [Council Bluffs [Iowa]](http://dbpedia.org/resource/Council_Bluffs%2C_Iowa)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+,  
+  
+But why should yow act upon a different  
+rule from other mse?  
+Because different men set different val­  
+nes upon dar lives--mine is not in de mare­  
 ket.&quot;  
   
-&quot;But if  
+&quot;Dut if  
   
-yoe lost it yow would have the  
+you lost it yow woald have the  
   
-satisfaction of hunwing that yos die for  
-your conntry.&quot;  
+satisfaction of kunwing that yes died for  
+your comntry.&quot;  
 &quot;What satisfaction would that be when  
-de power ob feelin was gons?&quot;  
-&quot;Theu patrietisuf and henur are aothing  
+de power ob feelin was gone?&quot;  
+&quot;Theu patriotisaf and henor are nothing  
 to you?&quot;  
 &quot;Muffin whatever, sa--I regard thes  
 among the sanities.&quot;  
   
-If our sofdiers were like you, traiters  
-wight have broken up the Government with­  
+If our soldiers were like you, traiters  
+wight have broken up the Government withe­  
 oat resistanoe.&quot;  
   
 Yes, sa, dar would have been no help  
 for it. I wouldn&#x27;t put my life in de soale  
 ginst any Goberment that ever existed, for  
-ne Goberment could replase the lose to me.&quot;  
-bisk any of your compar  
-iesed you if you had bees  
+ne Goberment could replase the tose to me.&quot;  
+bisk any of your comspat  
+lased you if you had been  
   
   
   
-De yon thisk any of yoer comspany  
-would have mlased you if yon had be  
+De yea thisk any of yoor sompany  
+would have miased you if you had be  
 killed?  
   
 May be not, sa--a dead white mas alns  
-much to deze sojers, let atone a dend alegs  
---bht I&#x27;d mise myself, and dat was de pint  
-wid me.!  
+much to dese sojers, let atone a end alsge  
+--but I&#x27;d mise myeelf, and dat was de pint  
+wid me.&quot;  
   
 It is safe to say that the dusky corpse of  
 that African will never darken the field of  
-carnags
-</td></tr></table>
+carnags.  
+Asorhe
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529480:1862040501:0459/pct:67.636092,36.765747,11.984660,14.598569/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1862-04-05_2123/page/n7/mode/1up?view=theater)
+
+#### 1862-04-05 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+A PHILOSOPHIC NEGRO.  
+  
+A correspondent of the Cincinnati Gazette,  
+writing from the Cumberland river, gives a  
+morons account of a colloquy with a phi  
+~ophic African He says  
+1 notieed upon the hurricane deck to day  
+an eolerly darkey, with a very philosophical  
+oo | retrospective cast of countenance, ejuat  
+t ypen his bundle toasting himaelf agalneat  
+he chimney, and apparently plunged into a  
+eot profound meditation. Fiading upon  
+uiry tbat he belonged to the Ninth Illinois,  
+ne of the most gallantly behaved and heavy  
+g regiments at the Fort Donelson battle  
+part of which was aboard, I began to in  
+crrogate him upen the subject. His philoso  
+phy waa eo much in the Faletaffian vein that |  
+will give hie views In his own words, as near  
+my InemMory serves ine  
+Were you in the fight!&quot;  
+Tad « little taste of it, aa.”  
+Swood your ground, did you!”  
+No, «a, | rune”  
+* Run at the first fire, did you”  
+Yes, sa, and would bab run sooner, had I  
+knowd it war comin  
+  
+Why, that wasat very creditable to your  
+rage ¥  
+Dat lent in my line, sa —cookin’s my  
+  
+eshun  
+* Well, but have you no regard for your re-  
+tation?”  
+  
+Fie jrute town&#x27;s  
+  
+nefin to me by de ade ob  
+  
+Do you consider your life worth mere  
+wr poupwes  
+Its worth more to me, aa”  
+Then you must value it very highly tr”  
+Yes, sa, 1 does—more dan all die wuld  
+more daa a million ob dollars, aa; for what  
+w ul dat be worth to a man wid de bref out  
+  
+him’ Self preecrbashun am de fust law  
+  
+“  
+1 me  
+  
+Then patriotiew and honor are nothing to  
+  
+* Nuffin  
+ww de vanities
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_saturday-evening-post_1862-04-05_2123%2Fsim_saturday-evening-post_1862-04-05_2123_jp2.zip%2Fsim_saturday-evening-post_1862-04-05_2123_jp2%2Fsim_saturday-evening-post_1862-04-05_2123_0007.jp2/pct:8.180820,33.930540,14.037335,29.740904/,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1223,13 +1552,20 @@ carnags
 
 ---
 
-## [From _The Grand Haven news._](https://chroniclingamerica.loc.gov/lccn/sn85033622/1862-04-09/ed-1/seq-1)
+## [From _The Grand Haven news._](https://www.loc.gov/resource/sn85033622/1862-04-09/ed-1/?sp=1)
 
 #### 1862-04-09 &middot; [Grand Haven, Mich.](http://dbpedia.org/resource/Grand_Haven%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+A Philosophic Darkey. &#x27;  
+A correspondent of tho Cincinnati Ga  
+  
+zette, writing from the Cumberland Riv­  
+er, gives tho following humorous account  
+of a colloquy with n philosophic darkey:  
 i noticed upon tho hurricane deck to­  
 day an elderly darkey wiih a very philo  
 sophical and retrospective cast of counte  
@@ -1300,21 +1636,28 @@ nigga but I&#x27;d a missed myself, and dat
 was do pint wid mo.&quot;  
 It is safe to say lhat the dusky corps  
 of that African will never darken the field  
-of carnage
+of carnage.  
+To Youn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_alpena_ver01%2Fdata%2Fsn85033622%2F00296026462%2F1862040901%2F0591.jp2/pct:76.781181,17.815007,13.978677,43.121756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033622:00296026462:1862040901:0591/pct:114.952639,21.319018,21.109608,71.566777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Prescott journal._](https://chroniclingamerica.loc.gov/lccn/sn85033221/1862-04-09/ed-1/seq-2)
+## [From _Prescott journal._](https://www.loc.gov/resource/sn85033221/1862-04-09/ed-1/?sp=2)
 
 #### 1862-04-09 &middot; [Prescott, Wis.](http://dbpedia.org/resource/Prescott%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
+A COLORED FALSTAFF.  
+A Western correspondent on one of  
+the Mississippi gun-boats gives the f fl­  
+lowing account of a spicy conversation  
+with a-philosophical colored man:—  
+I noticed up n the hurricane deck, to­  
 day, an elderly darkie with a very philo­  
 sophical and retrospective cast of coun­  
 tenance, squatted upon his bundle toast­  
@@ -1387,9 +1730,12 @@ nigga—but I’d a missed myself, and dat
 was de pint wid me.”  
 It is safe to say that the dusky corpse  
 of that African will never darken the  
-field of carnage
+field of carnage,  
+A Livery stable keeper, named Spurr,  
+would never let a horse go out without  
+requesting the la
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_galky_ver01%2Fdata%2Fsn85033221%2F00514152342%2F1862040901%2F0188.jp2/pct:6.727645,46.134504,12.635578,41.278241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152342:1862040901:0188/pct:6.717649,42.321549,12.670565,47.410493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1415,13 +1761,174 @@ field of carnage
 
 ---
 
-## [From _Ellsworth American._](https://chroniclingamerica.loc.gov/lccn/sn84022374/1862-04-11/ed-1/seq-1)
+## [From _The Greenville advocate._](https://www.loc.gov/resource/sn84038462/1862-04-10/ed-1/?sp=1)
+
+#### 1862-04-10 &middot; [Greenville, Bond County, Ill.](http://dbpedia.org/resource/Greenville%2C_Illinois)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+hear  
+  
+A Colored FalRtalV.  
+I noticed upon the hurricane deck &#x27;.o*  
+day, an elderly darkie wiih n very phi -  
+losophtcal and retrospective cast of coun­  
+tenance, squatted upon Ins bundle, toast­  
+ing shines against the chimney, and ap­  
+parently plunged mio a state of profound  
+meditation. Finding upon inquiry that  
+he belonged to the Ninth Illinois, on**  
+of the most gallantly behaved and heav­  
+ily losing regiments at the Fort nonel­  
+son battle, and part of which was aboard,  
+I began to interrogate him upon tho sub­  
+ject. His plulosonhv was so much in  
+liie J.&#x27; aisialhan vein tiiat L will give you  
+his views in his own words, ns near as  
+my memory serves me :  
+&quot;Were you in the fight?’1  
+“Had n little taste of it. sa.’’  
+&quot;Stood your ground, did you ?’*  
+&#x27;• No, so, I runs.*’  
+&quot;Hun nt the first fire, did you V  
+&quot;Tessa, and would hah run soona,  
+hah 1 knowd it war coinin.”  
+&quot;Why that wasn’t very creditable to  
+your courage ?M  
+&quot;Dat isn’t m my line, sa—cookin&#x27;*  
+my perfishun.’’  
+&quot;Well, but hare you no regard for  
+your reputation.’’  
+&quot;Reputation’s nufiiu to mo by do aide  
+oh lifu.”  
+&quot;I)o you consider your life worth  
+more than oilier people’s ?”  
+&quot;It’s worth more to mo, »a.”  
+&quot;Then you must value it very high­  
+&#x27;y ?&quot;.  
+“U&#x27;S m, f does— more dan all dis  
+world -more dan a imdlion ob dollars,  
+sn, for what would ilat be wmh to a man  
+wid do href out oh him ? Self prefer­  
+Lashuti am de fust law wid me.’’  
+&quot;lhit why should you act upon a dif­  
+ferent rule from other nicu ?”  
+&quot;Because different men sets different  
+value upon dor lives—mine is not m tho  
+  
+Kill II ) Ull Il&#x27;JU II, )UU Willi.U lltl*U llin  
+satisfaction of knowing that you died  
+fur your country.”  
+“What satisfaction would il.it be to  
+mo when do power ob foehn1 was  
+“Then patriotism and honor are noth­  
+ing to you ?”  
+‘ Nuflin whatever, sa- I regard dem  
+ns among do vanities.*’  
+“If our soldn*rs wore* &#x27;ike you. traitors  
+might have broken up the Government  
+without resistance.”  
+“Yes an, dor would hnb been no help  
+for it. I wouldn&#x27;t put my life in do  
+scale ginst any Gobormenl dat eber ex­  
+isted, for no (foberment cou&#x27;d replace  
+de loss to ine.’’  
+“I)j you think any of your company  
+would have missed you, if you had been  
+killed ? ’  
+“May be not sa — a dead white man  
+ain’t much to dose sojers, lot alone a  
+dead mgga—but I’d a missed mysuK,  
+and dat was de pint wid me.*’  
+It is safe to say that the dusky corpse  
+of that African will never darken the  
+field of carnage
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038462:00514151052:1862041001:0008/pct:70.018665,14.947296,25.641624,80.888198/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Village record._](https://panewsarchive.psu.edu/lccn/sn88079228/1862-04-11/ed-1/seq-1/)
+
+#### 1862-04-11 &middot; [Waynesboro', Pa.](http://dbpedia.org/resource/Waynesboro%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+_.l  
+  
+A Western correspondent on one of the  
+Mississippi gun-boats gives tho;foilowing ac­  
+count of a spicy conversation with, a philo­  
+sophical  
+sophical colored, man:— &#x27; •  
+&quot;I noticed tipon the hurricane deck &#x27;to:day.  
+an elderly darkie with a philosophical- arid  
+retrospective cast of countenance, sqtratted,  
+_upon. his bundle toasting his shins against  
+the chimney; and .apparently plunged. into a  
+state ofprofound.meditation. Finding upon  
+inquiry that lie belonged to the,fith  
+one of the most gallantly behaved aid heavi­  
+ly loing rogimente at •the •Fort Donelson  
+battle, and part of which, was iboard, L be­  
+gan to interrogate • him upon • the&#x27;subject.  
+.1111 philosophy was so much in•the Falstaf­  
+fian vein that I will &#x27;give his .views in his own  
+words as near as my monitory Bones ,mo:  
+&#x27;.Were you in the fight?&quot; . .  
+&quot;Had a little,iaste of it, • SA.&quot;,  
+. &quot;Stood your grdtind, did year . • .  
+&quot;No, sa, I runs.&quot; - 7, •  
+&quot;Run at the first.fire, did you?&quot; ,  
+.&quot;Yes, sa, and would bay &#x27;run siiionnn,,had  
+I knowd it war-comin.&quot;.  
+  
+&quot;Why, that wasn&#x27;t very &#x27;creditable to your  
+courage.&quot;  
+  
+&quot;Dat isn&#x27;t in my•iline, -ea 7 —cookin&#x27;s.my  
+perfeshun,&quot; ,  
+-. ,  
+you have no regard for your repu­  
+tation?&quot;  
+  
+&#x27; &quot;Reputation&#x27;d mffin to molly do side ob  
+life &quot;i - :  
+&quot;Do you considor your life. worth:more ,  
+&#x27;than other people&#x27;s ?&quot;  
+&quot;&quot;It&#x27;s worth more to  
+  
+&quot;Then you &#x27;twit value it&#x27;vory  
+• &quot;Yea, sa, I does---Thoro don all:dis wuld—  
+&#x27;bore don 
+</td></tr></table>
+
+---
+
+## [From _Ellsworth American._](https://www.loc.gov/resource/sn84022374/1862-04-11/ed-1/?sp=1)
 
 #### 1862-04-11 &middot; [Ellsworth, Me.](http://dbpedia.org/resource/Ellsworth%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s, sa, and would hail run so Oil a I&#x27;  
+* moat ei.utitly bfhav- l an 1 heav\
+io.-ing r-pi i.cut- at the ! i.t P &gt;n • —ai  
+butt, tnd part of wh a w ahoar 1, 1  
+beg in to int-rrogate hiai up-u tn • -u •­  
+« ii - pai.osepoy wji s i mu , ;n th  
+Fal-t.iflian \f n that 1 will p *•* h - vicv*  
+o hi- &quot;An words us ii or us my memory  
+»er\ me:  
+•• Were ymi in the fight ?”  
+•• II i i a litt.e tu-te of :t, &gt;.i.&quot;  
+  
+•• St iod v-mr ground, did you?”  
+N . -.t, 1 run-.  
+“ lion at tli ■ first fire, did you?”  
+■■ Yes, sa, and would hail run so Oil a I&#x27;  
 had 1 Luu.&#x27;ii it war coming.”  
 ••Win that wasn&#x27;t very creditable t  
 your eourag •.”  
@@ -1471,21 +1978,29 @@ dead uigga—but I’d a missed myself,
 and dat was de pint wid me.&quot;  
 It is safe to say that the dusty corpse  
 of that African will never darken the  
-field of carnage.
+field of carnage.  
+  
+Emerson Etheridgo s Speech  
+in Nashville. — Its Rccop­  
+j tion,  
+Hon. Emerson Etheridge, Clerk of the  
+House of Representatives, having return­  
+ed to his homo in Tennessee in company  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895035%2F1862041101%2F0480.jp2/pct:16.810778,70.349935,13.115825,27.969363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895035:1862041101:0480/pct:16.814159,15.988963,26.206758,82.340982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Vermont watchman and State journal._
+## [From _Vermont watchman and State journal._](https://www.loc.gov/resource/sn84023200/1862-04-11/ed-1/?sp=4)
 
 #### 1862-04-11 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+. I noticed on the  
 hurricane deck to-day an elderly darkee with  
 a very philosophical and retrospective cast of  
 countenance, squatted upon his bundle toast.  
@@ -1500,7 +2015,7 @@ rregate him.
 on the subject. His philosophy was so much  
 in the Falstaffian lein that I will give his  
 views in his own words as nearly as my mem­  
-ory serves me:  
+ory serves me  
 &quot;Were you in the fight?&quot;  
 &quot;Had a little taste of it sa.&quot;  
 &quot;Stood your ground, did you?&quot;  
@@ -1512,7 +2027,7 @@ I knowd it war comin.
 &quot;Why that wasn&#x27;t very creditable to your  
 arage.&quot;  
 csurage.  
-&quot;Dat isn&#x27;t in my line, sa,--cookin&#x27;s my  
+&quot;Dat isn&#x27;t in my line, sa,-cookin&#x27;s my  
 perfeshum.&quot;  
 &quot;Well, but have you no regard for your  
 reputation?&quot;  
@@ -1521,16 +2036,16 @@ life.&quot;
 &quot;Do you consider your life worth more than  
 other people&#x27;s?&quot;  
 &quot;It&#x27;s worth more to me, sa.&quot;  
-&quot;Then you must value it very highly?  
+&quot;I hen you must value it very highly?  
 &quot;Yes, sa, I does--more dan all dis wuld  
 more dan a million of dollars, sa for what  
 would dat be wuth to a man wid de bref out  
 ob him self-preserbashun am the fust law wid  
 me.&quot;  
 &quot;But why should you act upon a different  
-rule from other men?  
+Te from other men.  
 &quot;Because different men sets different values  
-upon dar lives---mine is not in the market.&quot;  
+upon dar lives,-mine is not in the market.&quot;  
 &quot;But if you lost it, you would have the  
 satisfaction of knowing that you died for  
 your country.&quot;  
@@ -1538,40 +2053,31 @@ your country.&quot;
 when de power ob feelin&#x27; was gone?&quot;  
 &quot;Then partiotism and honor are nothing to  
   
-oo ee ee a o o a seei te  ie a  
-&quot;Nufflin whatever, sa--I regard dem as thell from the path alongside. I turned away  
-among de vanities oeeee entseen o mo the ci of te o  
-&quot;If our soldiers were like you, traitors anar than eer befor I eso me­  
-might have broken up the Government withaty to my father&#x27;s ag to the benign an
-</td></tr></table>
-
----
-
-## From _Vermont watchman and State journal._
-
-#### 1862-04-11 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-out resistance.e ee ae o e ta aon o e  
+oee e e  e  e o o a eei te  ie a  
+&quot;Nuffiin whatever, sa--I regard dem asthell from the path alongside. I turned away  
+among de vanities oe en een o o te ci o te o  
+&quot;If our soldiers were like you, traitorsanar tan eer efor I esor e­  
+might have broken up the Government withaty to my ather&#x27;s ag to the benig and  
+out resistance. o ae or en ta aon o e  
 &quot;Yes&#x27; sa&#x27; dar would hab been no help for and presided over. I came away from the  
-it. I woulden&#x27;t put my life in de scale ginst Hermitage madly in love with the Stars and  
-any Gobernment dat eber existed, for no Gobe an o atin the hand that has  
-ernment could replace de loss to me. the sacrege to smite it My father was old  
-&quot;Do you think any of your company would ior&#x27;s find I will cherish and revere  
-have missed you if you had been killed?&quot;eir memo interin an the entimen  
+it. I woulden&#x27;t put my life in de scale ginst Her mitage madly in love with the Stars and  
+any Gobernment dat eber existed, for no Goban o atin the hand that has  
+ernment could replace de loss to me.e sae to it it  ater a o  
+&quot;Do you think any of your company would io in I wi cheris and eere  
+have missed you if you had been killed?&quot;eir memor interwin an the sentimen  
 &quot;May be not, sa--a dead, white man ain&#x27;t that he most loved--one flag, one fatherland.  
-much to dese sojers, let alone a dead niggae  e  e  
-but I&#x27;d a missed myself, and dat was de pint The mall contractors who have arrived at  
-ae  e e o ain on o en e e a a e  
-It is sate to say that the dusky corpse of State will probably accept the plan of eman.  
-that African will never darken the field of cipation auggested by the President in his re
-</td></tr></table>
+much to dese sojers, let alone a dead nigga e  
+but I&#x27;d a missed myself, and dat was de pint The ma contractors who have arrie at  
+e e e o eainon o ene e a a e  
+If is sate to say that the dusky corpse of State will probably accept the plan of ema
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1862041101:0293/pct:18.278932,62.321240,25.736894,32.936926/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _The Caledonian._
+## [From _The Caledonian._](https://www.loc.gov/resource/sn84023252/1862-04-11/ed-1/?sp=1)
 
 #### 1862-04-11 &middot; [St. Johnsbury, Vt.](http://dbpedia.org/resource/St._Johnsbury%2C_Vermont)
 
@@ -1580,23 +2086,48 @@ that African will never darken the field of cipation auggested by the President 
   
   
 Had a little taste of it, sa.&quot;  
-&quot;Stood your ground, did you?&quot;  
+&quot;Stood your ground, did you?  
 No, sa, I runs.&quot;  
 &quot;Run at the first fire, did you?&quot;  
 &quot;Yes, sa, and would hab run soona  
   
-had
-</td></tr></table>
+had  
+  
+of one man, and him a secessionist. Great  
+God, on what a slender threa
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296242:1862041101:0058/pct:66.836216,33.756861,25.039965,4.086196/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Watertown republican._](https://chroniclingamerica.loc.gov/lccn/sn85033295/1862-04-11/ed-1/seq-4)
+## [From _The Caledonian._](https://www.loc.gov/resource/sn84023252/1862-04-11/ed-1/?sp=1)
+
+#### 1862-04-11 &middot; [St. Johnsbury, Vt.](http://dbpedia.org/resource/St._Johnsbury%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+&quot;Because different men set different values my boot  
+  
+upon dar lives--mine is not in de market.&quot;
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296242:1862041101:0058/pct:66.269438,50.091482,15.419270,1.107949/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Watertown republican._](https://www.loc.gov/resource/sn85033295/1862-04-11/ed-1/?sp=4)
 
 #### 1862-04-11 &middot; [Watertown, Wis.](http://dbpedia.org/resource/Watertown%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
+I noticed upon the hurricane deck to-day  
 an elderly darkle with a very philosophical  
 and retrospective cast of countenance,  
 fquatted upon his bundle toasting his  
@@ -1667,9 +2198,11 @@ ain t much to dese sogers, let alone a dead
 de pint wid me.”  
 It is safe to say that the dusky corpse  
 of thet African will never darken the field  
-of courage
+of courage.  
+It should be a startling thought,  
+that G and may take th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_carrie_ver01%2Fdata%2Fsn85033295%2F00271768710%2F1862041101%2F0384.jp2/pct:2.835201,20.125130,13.244963,46.672846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768710:1862041101:0384/pct:2.824680,19.441548,13.239703,48.870351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1685,100 +2218,299 @@ of courage
 
 ---
 
-## From _The Ottawa free trader._
+## [From _The Ottawa free trader._](https://www.loc.gov/resource/sn84038582/1862-04-12/ed-1/?sp=1)
 
 #### 1862-04-12 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-day an elderly darkey, with a very philo­  
+ at figures.  
+A Philosophic Xegro.  
+A correspondent of the Cincinnati Ga  
+zi-tte. writii!: from the Cumberland river,  
+gives a humorous account of colloquy  
+with a philosophic African He says:  
+&quot; I noticed upon the hurricane deck to­  
+d.iy an eldorlv oarkey, with a very philo­  
 sophical and retrospective cast of counte­  
-nance, squatted u on his bundle tossting  
-himself against the chimney, and appa­  
+nance, squat t d u, on his buudle toa-ting  
+hims&#x27;elj&#x27; against the chimney, and appa­  
 rently plunged into a state of profound  
 meditation. Finding upon inquiry that he  
 belonged to the Ninth Illinois, one of the  
 most gallantly behaved and heavy losing  
-regiments at the Fort Donelson battle and  
-part of which was aboard, I began to in­  
+regiments at the Fort Donelson battleand  
+part of which was aboard. I began to in­  
 terrogate him upon the subject. His phi­  
 losophy was so much in the Falstaflian  
 vein that I will give his views in his own  
-words, as near as my memory serves me:  
-&quot;Were you in the fight?&quot;  
-&quot;Had a little taste of it, sa.&quot;  
-&quot;Stood your ground, did you?&quot;  
-&quot;No, sa, I ruls.  
-&quot;Run at the first fire, did you?&quot;  
-&quot;Yes, sa, and would hab run soona, had  
-I knowd it war comin.&quot;  
-&quot;Why, that wasn&#x27;t very creditable to  
-your courage.&quot;  
-&quot;Dat isn&#x27;t in my line, sa--cookin&#x27;s my  
+words, as near as my memoiy serves me:  
+&quot; Wore you iu the fight?&#x27;  
+&#x27; Had a little taste of it, sa.&quot;  
+&#x27;Stood your ground, did you?&quot;  
+&#x27; ..i), s:t, I runs.  
+&quot; IJuii at the first lire, did you ? &#x27;  
+&quot; Ye, ha. and veouid h.th run sociia. had  
+1 kitowd it war cotuin.&quot;  
+&quot; hy, that wasn&#x27;t very creditable to  
+joup courage.&quot;  
+&quot; Dat isn&#x27;t in my line, sa cookin&#x27;s my  
 perfeshun.&quot;  
 Well, but have you no regard for your  
-reputation?&quot;  
-&quot;Reputation&#x27;s nuffin to me by de side  
-ob life.&quot;  
-&quot;Do you consider your life worth more  
-than other people&#x27;s?&quot;  
+reputation?&#x27;&#x27;  
+&quot; Reputation&#x27;s nuffin to mo by de side  
+oblife.&#x27;&#x27;  
+&quot; Do you consider your life worth more  
+than other people&#x27;s ?&quot;  
 It&#x27;s worth more to me, sa.&quot;  
-&quot;Then you must value it very highly?&quot;  
-&quot;Yes, sa, I does--more dan all dis  
-wuld--more dan a million ob dollars, sa;  
+&quot; Then you must value it very highly ? &#x27;  
+&quot; Yes, sa, I does more dan all dis  
+wuld more dan a million ob dollars, sa;  
 for what would dat be worth to a man  
-wid de bref out ob him? Self preserbashun  
+wid de href out ob him? Self preserbashun  
 um de fust law wid me.&quot;  
-&quot;Then patriotism and honor are nothing  
-to you?  
-&quot;Nuffin whatever, sa---I reward dem as  
-among de vaneties.
-</td></tr></table>
+&quot; Then patriotism aud honor are nothing  
+to you?&quot; :  
+u Nuffin whatever, sa I reward dem as  
+among de vaneties.&quot;  
+It is 6afe to say that the dusky corpse  
+of that African will never darken the  
+field of carnage,  
+&quot;Them&quot; Sabdiket. Not a grea
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472086:1862041201:0123/pct:69.173554,76.373138,14.449036,32.388259/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _The Ottawa free trader._
+## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1862-04-12_32_15/page/n3/mode/1up?view=theater)
 
-#### 1862-04-12 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
+#### 1862-04-12
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+  
+A PHILOSOPHIC NEGRO.  
+  
+A correspondent of the Cincinnati Ga-  
+zette, writing from the Cumberland river,,  
+gives a humorous account of a colloquy with  
+a philosophic African. He says:  
+  
+“‘T noticed upon the hurricane deck to-  
+day an elderly darkey, with a very philo-  
+sophical and retrospective cast of counten-  
+ance, squatted upon his bundle, toasting  
+himself against the chimney, and apparently  
+plunged into a state of profound meditation.  
+Finding, upon inquiry, that he belonged to  
+the Ninth Illinois, one of the most gallantly  
+behaved and heavy losing regiments at the  
+Tort Donelson battle, and part of which was  
+aboard, I began to interrogate him upon  
+the subject. His philosophy was so much  
+in the Falstaffian vein, that, I will give his  
+views in bis own words, as near as my  
+memory serves me:  
+  
+‘Were you in the fight?”  
+  
+‘‘ Had a little taste of it, sa.”  
+  
+‘‘Stood your ground, did you?”  
+  
+sa, I runs.”  
+  
+‘Run at the first fire, did you?”  
+  
+‘‘Yes, sa, and would hab run soona, had  
+I knowd it war comin.”  
+  
+‘‘Why, that was not very creditable to  
+your courage.”  
+  
+perfeshun.”’  
+  
+‘‘Well, but have you no regard for your  
+reputation?”  
+a Reputation’s nuffin to me, by de side ob  
+ife.”’  
+  
+‘‘Do you consider your life worth more  
+than other people’s?”’  
+  
+‘&lt;Tt’s worth more to me, sa.”  
+  
+“Then you must value it very highly?”  
+  
+Yes, sa, does—more dan all dis wuld  
+—more dan a million ob dollars, sa; for  
+what would dat be worth to a man wid de  
+bref out ob him? Self-preserbashun am de  
+fust law wid me.”’  
+  
+“Then patriotism and honour are nothing  
+to you?”  
+  
+“Nuffin whatever, sa—I regard dem as  
+among de vanities.”  
+  
+It is safe to say that the dusky corpse of  
+that African will never darken the field of  
+carnage.  
+  
+IMPORTANCE OF ANIMALCULES.  
+  
+M. Pasteur, speaking of the wonderful  
+power possessed by th
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_presbyterian_the-presbyterian_1862-04-12_32_15%2Fsim_presbyterian_the-presbyterian_1862-04-12_32_15_jp2.zip%2Fsim_presbyterian_the-presbyterian_1862-04-12_32_15_jp2%2Fsim_presbyterian_the-presbyterian_1862-04-12_32_15_0003.jp2/pct:29.571984,21.310550,10.773745,26.754926/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## A PHILOSOPHIC NEGRO.
+
+#### From _Reynolds's  Newspaper_
+
+#### 1862-04-13 &middot; [London, England](http://dbpedia.org/resource/London)
+
+[This text is not available under an open license.]
+
+---
+
+## [From _The Pittsburgh post._](https://panewsarchive.psu.edu/lccn/sn85054562/1862-04-16/ed-1/seq-4/)
+
+#### 1862-04-16 &middot; [Pittsburgh [Pa.]](http://dbpedia.org/resource/Pittsburgh)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+A IirSGIEW FALSTAFF.  
+•  
+A Western correspondent on one of the  
+Mississippi gun boats gives the following  
+account of a spicy conversation with a I  
+philosophical darkv :  
+&quot;I noticed upon the hurricane deck to­  
+day an elderly darkey with a very phil­  
+osophical and retrospective cast of coun­  
+tenance, matted upon his bundle, toast­  
+ing his shins against the chimney, and  
+apparently plunged into a state of profound  
+meditation. Finding upon inquiry that he  
+belonged to the Ninth Illinois, one of th&#x27;  
+most gallantly behaved and heavily losing  
+regiments at the *Fort Donelson battle.  
+and part of which was aboard. I began to  
+interrogate him upon the subject. His  
+philosophy was so much in the Falstaflian  
+vein that I will give his views in his own  
+words as near as my memory serves wc:—  
+  
+10,000 00  
+2,500 00  
+  
+&quot;Were you in the fight  
+&quot;Had a little taste of it. sa.&#x27;  
+&quot;Stood your ground. did you 7&quot;  
+&quot;No, sa, I runs.&quot;  
+&#x27;ltun at the first fire. did . y.)tt  
+&quot;Yes, sa, and would huh run !moon. huh  
+knowd it war comin. -  
+-Why, that wasn&#x27;t very creditable to  
+your courage.&#x27;&#x27;  
+•&#x27;llat isn&#x27;t in my line. sa—cookin&#x27;s my  
+perfeshun.&quot;  
+&quot;Well, but have you no regard fix• your  
+reputation ?&quot; •  
+&quot;Reputation&#x27;s nullin to me by de side  
+oh life.&quot;  
+  
+&#x27;&#x27;llo you consider your lifs worth more  
+than other peoples ?&quot;  
+&quot;It&#x27;s worth morn-to me. sa.&#x27;&#x27;  
+&quot;Then you must value it very highly ?.•  
+&quot;Yes. an, I does—more than all dis  
+weld—more den a million oh dollars. sa.  
+for what would dat he mutt to a man wid  
+tie bref out ob hlm ? Self preserhashun is  
+de fust law wid me.&quot; -  
+&#x27;But why should you act upon a differ-&#x27;  
+ent rule from other men ..  
+&quot;Because different men sets different  
+values upon filar lives—mine is not in de  
+market.&quot;  
+&quot;But if you lost it you would have the  
+satisfaction Of knowing, that you died for  
+your country.&quot;  
+&quot;What satisfaction world dal be . to me  
+when de power of feelin . was gone ?..  
+—Then patriotism and honor are noth­  
+ing to von !&quot;  
+t&#x27;llslnflin what ever. sa-1 regard dear as  
+among de vanities...  
+&quot;If our soldiers were like yon. traitors  
+might have broken up the g overnment  
+without resistance. —  
+&#x27;  
+for it. (&#x27; 5 . a  
+I s lh• f ot (9  
+i l ld r n ‘ • ‘ t .) l l :l l t i t i my  
+n i yu lee  
+Tito in  
+u  
+it,  
+she  
+scale  
+ginst any Government dat eher existed.  
+for no Gohernment could replace de loss  
+to me.•&#x27; _  
+  
+V I R I. .  
+  
+2,50 00  
+7.309 43  
+18,351 99  
+27.605 20  
+  
+$296.251 76  
+  
+&quot;Do you think any of your company  
+would have missed you if you had liven  
+killed ?&quot; . .  
+  
+&quot;May be not,sa—a dead white man ain&#x27;t  
+much to dese sojers, let alone a dead nig­  
+ga—but I&#x27;d a missed myself, and dat was  
+de pint wid me.&quot;  
 It is safe to say that the dusky corpse  
-of that African will never darken the  
-field of carnage
+of that African will never darken the field  
+of carnage.  
+  
+HUMOROUS
 </td></tr></table>
 
 ---
 
-## A PHILOSOPHIC NEGRO.
-
-#### From _Reynolds's  Newspaper_
-
-#### 1862-04-13 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## A PHILOSOPHIC NEGRO.
-
-#### From _Reynolds's  Newspaper_
-
-#### 1862-04-13 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## [From _The Goodhue volunteer._](https://chroniclingamerica.loc.gov/lccn/sn89064562/1862-04-16/ed-1/seq-1)
+## [From _The Goodhue volunteer._](https://www.loc.gov/resource/sn89064562/1862-04-16/ed-1/?sp=1)
 
 #### 1862-04-16 &middot; [Red Wing, Goodhue County, Minn.](http://dbpedia.org/resource/Red_Wing%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+A Western correspondent on one of  
+the Missi sippi gunboats gives the fol­  
+lowing account of a spicy conversation  
+with a philosophical colored man  
+  
+I ridtlced tipoti the hurricane deck  
 to-day an elderly darkie with a very,  
 philosophical and retrospective cast of  
 countenance, squatted upon his bundle  
@@ -1849,21 +2581,28 @@ and dat was de pint wid me.&quot;
   
 It is safe to say that the dusky corpse  
 of that African will never darken the  
-field of carnage.
+field of carnage.  
+  
+I O N A VESSELS  
+  
+The rebellion, and narrow escape  
+from war with England, have brought  
+the subject of an iron-clad navy—in  
+vincible, the greatest in the world,an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_datsun_ver01%2Fdata%2Fsn89064562%2F00212472591%2F1862041601%2F0037.jp2/pct:56.115958,18.934551,12.731734,40.571622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn89064562:00212472591:1862041601:0037/pct:56.106870,16.174531,12.731734,46.930492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Gallipolis journal._](https://chroniclingamerica.loc.gov/lccn/sn85038121/1862-04-17/ed-1/seq-4)
+## [From _Gallipolis journal._](https://www.loc.gov/resource/sn85038121/1862-04-17/ed-1/?sp=4)
 
 #### 1862-04-17 &middot; [Gallipolis, Ohio](http://dbpedia.org/resource/Gallipolis%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+. I wot iced  
 upon the nnrrieaao deek to-day an el­  
 derly darkie with a very philosophical  
 and retrospective east of countenance,  
@@ -1935,21 +2674,25 @@ May be not, sa a dead white man
 aln 1 nn,CD 10 tnese &quot;jers, let alone a  
 dead nigger but I&#x27;d a missed myself,  
 aDd dst WM d P!nl wiJ roe&quot;  
-Il is 8afe to that tfce dustJ corps
+Il is 8afe to that tfce dustJ corpse  
+ui no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_edgar_ver01%2Fdata%2Fsn85038121%2F00280775526%2F1862041701%2F0233.jp2/pct:46.231156,7.090021,12.190583,40.069784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775526:1862041701:0233/pct:61.607143,8.709002,16.238839,54.710398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Sunbury American._
+## [From _Sunbury American._](https://www.loc.gov/resource/sn84026403/1862-04-19/ed-1/?sp=4)
 
 #### 1862-04-19 &middot; [Sunbury, Pa.](http://dbpedia.org/resource/Sunbury%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
+I noticed upon the hurricane deck to-day  
+an elderly darkie with a very philosophical  
+and restrospective cast of countenance, squat­  
 ted upon his bundle, toasting his shins  
 against the chimney, and apparently plunged  
 into a state of profound meditation. Find­  
@@ -1990,7 +2733,7 @@ law wid me.&quot;
 &quot;But why should you act upon a different  
 rule from other men?&quot;  
 &quot;Because different men sets different values  
-upon dar lives--mine is not in de market.&quot;  
+upon dar lives,-mine is not in de market.&quot;  
 &quot;But if you lost it, you would have the  
 satisfaction of knowing that you died for  
 you country.&quot;  
@@ -2008,7 +2751,7 @@ it. I wouldn&#x27;t put my life in de scale &#x27;ginst
 any Gobernment dat eber existed, for no  
 Gobernment could replace the loss to me,&quot;  
 &quot;Do you think any of your company would  
-have missed you if you had been killed.&quot;  
+have missed you if you had been killed?&quot;  
 &quot;May be not, sa--a dead white man ain&#x27;t  
 much to dese sojers, let alone a dead nigga  
 but I&#x27;d a missed myself, and dat was the  
@@ -2017,8 +2760,11 @@ pint wid me.&quot;
 It is safe to say that the dusky corpse of  
 that African will never darken the field of  
   
-carnage.-Cor of Cin Gusette
-</td></tr></table>
+carnag
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1862041901:1047/pct:4.707170,24.391601,13.081554,33.041302/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2032,13 +2778,16 @@ carnage.-Cor of Cin Gusette
 
 ---
 
-## From _Juliet signal._
+## [From _Juliet signal._](https://www.loc.gov/resource/sn84024082/1862-04-22/ed-1/?sp=1)
 
 #### 1862-04-22 &middot; [Juliet [i.e. Joliet], Ill.](http://dbpedia.org/resource/Joliet%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ he belonged with the 9th Illinois,  
+one of the most gallant and heavy losing  
+regiments in the recent battle, he began to  
+talk with him about the fight.  
 Where you in the fight, Jack?&quot;  
 &quot;Had a little taste of it, sa.&quot;  
 &quot;Stood your ground, did you?&quot;  
@@ -2059,7 +2808,7 @@ than other people&#x27;s?&quot;
 It&#x27;s worth more to me, sa.&quot;  
 Then you must value it very highly?&quot;  
 &quot;Yes, sa, I does--more dan all dis world  
-more dan a million ob dollars sa, for  
+more dan a million ob dollars, sa, for  
 what would dat be wuth to a man wid de  
 bref out of him? Self-preserbation am de  
 first law wid me.&quot;  
@@ -2073,16 +2822,16 @@ satisfation of knowing that you died for
 your country.&quot;  
 What satisfaction would dat be to me  
 when de power of feelin&#x27; was gone?&quot;  
-&quot;Then patriotism and honer are nothing  
+Then patriotism and honer are nothing  
 to you?  
-&quot;Nuffin whatever, sa--I regard dem as  
+Nuffin whatever, sa--I regard dem as  
 among de vanities.&quot;  
-&quot;If our soldiers were like you, traitors  
+&#x27;If our soldiers were like you, traitors  
 might have broken up the Government  
-without resistance&quot;  
+without resistance.&quot;  
 Yes, sa, dar would hab been no help  
 for it. I wouldan&#x27;t put my life in de scale  
-&#x27;ginst any Gobernment dat eber existed,  
+ginst any Gobernment dat eber existed,  
 for no Gobernment could replace de loss to  
 me.&quot;  
 Do you think any of your company  
@@ -2094,18 +2843,33 @@ ga--but I&#x27;d a missed myself, and dat was
 de pint wid me.&quot;  
 It is safe to say that the dusky corpse of  
 that African will never darken the field of  
-carnage
-</td></tr></table>
+carnage.  
+A Shrar Yourn
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:00212471616:1862042201:0271/pct:71.264184,51.791411,11.251398,27.104294/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Mineral Point weekly tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086769/1862-04-23/ed-1/seq-1)
+## [From _Mineral Point weekly tribune._](https://www.loc.gov/resource/sn86086769/1862-04-23/ed-1/?sp=1)
 
 #### 1862-04-23 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+. J. M,  
+A Philosophical Dathey.  
+[Correspondence Cincinnati Gazette ]  
+I noticed upon th hurricane deck, to­  
+day, an elderly darke, with a \erv philo­  
+sophical and rctrosp- tiv • cast of counte­  
+nance, squatted upon Ills bundle, toasting  
+bis shins against the chimnov, and appa  
+rently plunged into a stati of profound  
+meditation. Finding upon inquiry that  
+he belonged to the ‘.&#x27;th Illinois, one of the  
+must gallantly behaved and hiur ilv losing  
 regiments at the Fort Donelson battle,  
 and part ol which was aboard, 1 began  
 to interrogate him upon the subject. His  
@@ -2170,7 +2934,7 @@ It is safe to say that the dusky corpse1
 of that African will never darken the  
 li Id of carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn86086769%2F00271769775%2F1862042301%2F0868.jp2/pct:66.732765,41.235118,12.483283,30.815864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1862042301:0868/pct:70.234455,36.339523,13.149847,39.499481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2186,23 +2950,20 @@ li Id of carnage
 
 ---
 
-## A Philosophic Negro
-
-#### From _Newark advocate._
-
-#### 1862-04-25 &middot; [Newark [Ohio]](http://dbpedia.org/resource/Newark%2C_Ohio)
-
-[This text is not available under an open license.]
-
----
-
-## [From _The Cadiz Democratic sentinel._](https://chroniclingamerica.loc.gov/lccn/sn84028794/1862-04-30/ed-1/seq-4)
+## [From _The Cadiz Democratic sentinel._](https://www.loc.gov/resource/sn84028794/1862-04-30/ed-1/?sp=4)
 
 #### 1862-04-30 &middot; [Cadiz, Ohio](http://dbpedia.org/resource/Cadiz%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ of the 7imu.  
+a i mm  
+A Philosophic iiikey.  
+A correspondent of the Cincinnati Guzelte  
+writing from the Cumberland river, gives the  
+toilowihg humorous account of a colloquy  
+with a philosophic darkey:  
+I noticed upon the hurricane deck to-day  
 an elderley darkey with a very philosophical  
 and retrospective cast of countenance, squat­  
 ted upon his bundle toasting his shins aeainst  
@@ -2267,21 +3028,23 @@ but I&#x27;d missed myself, and dat was de piut
 will me.&quot;  
 It is safe to say that tha dusky corpse of  
 that African will never darken the field . of  
-carnage
+carnage.  
+,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn84028794%2F00296026694%2F1862043001%2F0504.jp2/pct:32.921659,19.599795,12.221198,29.451001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026694:1862043001:0504/pct:43.865144,21.292971,16.285925,45.202668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The Union and journal._
+## [From _The Union and journal._](https://www.loc.gov/resource/sn83009571/1862-05-02/ed-1/?sp=1)
 
 #### 1862-05-02 &middot; [Biddeford, Me.](http://dbpedia.org/resource/Biddeford%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
+I noticed upon the hurricane deck to-day  
 an elderly darkie with a very philosophical  
 and retrospective cast of countenance, squat­  
 ted on his bundle, toasting his shins against  
@@ -2305,7 +3068,7 @@ knowd it was coming.&quot;
 &quot;Why, that wasn&#x27;t very creditable to your  
 courage.&quot;  
 &quot;Dat isn&#x27;t in my line, sa,-cookin&#x27;s my  
-perieshun.&quot;  
+perfeshun.&quot;  
 &quot;Well, but have you no regard for your  
 reputation?&quot;  
 &quot;Reputation&#x27;s nuffin to me by the side of  
@@ -2317,7 +3080,7 @@ than other people&#x27;s?&quot;
 &quot;Then you must value it very highly?  
 &quot;Yes sa, I does--more than all this wuld  
 --more dan a million dollars, sa, for what  
-would dat be wuth to a man wid the bref out  
+would dat be wuth to a man wid the brefout  
 ob him? Self-preserbashun am de fust law  
 wid me.&quot;  
 &quot;But why should you act upon a different  
@@ -2331,7 +3094,7 @@ What satisfaction would dat be to me
 when de power ob feelin was gone?&quot;  
 &quot;Then patriotism and honor are nothing  
 to you?&quot;  
-&quot;Nuffin whatever, sa--I regard dem as  
+&quot;Nuffin whatever, sa- I regard dem as  
 among de vanities.&quot;  
 &quot;If our soldiers were like you, traitors  
 might have broken up the Government with­  
@@ -2349,35 +3112,38 @@ but I&#x27;d missed myself an dat was de pint wid
 me.&quot;  
 It is safe to say that the dusky corpse of  
 that African will never darken the field of  
-carnage.
-</td></tr></table>
+carnage.  
+  
+How to take Care of the Hair.  
+As to men, we say, when the hair begins  
+to fall out, the best plan is to have it cut  
+short, give it a good brushing with a moder­  
+ately stiff brush, while the hair is dry; then  
+wash it well with warm soap suds; then rub  
+into the scalp, about the roots of the hair
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1862050201:0491/pct:69.167458,23.112945,12.778305,47.344557/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _The Hillsdale standard._
+## [From _The Hillsdale standard._](https://www.loc.gov/resource/sn85033637/1862-05-06/ed-1/?sp=4)
 
 #### 1862-05-06 &middot; [Hillsdale, Mich.](http://dbpedia.org/resource/Hillsdale%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-o every farmer, plant  
-an orchard of at least a hundred trees. The  
-trees are all ready for you in the nursery, wel  
-rown, and grafted, two and three yeers frem  
-the bud. Get thrifty trees, of varieties that  
-you know will flourish in your locality, and in  
-four years you will be eating fruit from them.  
-Do not fail to plant an orchard this very  
-month. American Agriculturist.  
-aee a oee  
-A PhilOsophic DarkEy.  
+  
+e eeee ee  
+A PhilOsOPHic DarkEy.  
 A correspondent of the Cincinnati Gazatte,  
 writing from the Cumbetland River, gives  
 the following humorous account of a colloquy  
 with a philosophic darkey.  
 I noticed upon the hurricane deck to day  
 an elderly darkey with a very philosophical  
-and retrospective cast of count nance, squate  
+and retrospective cast of count nance, squat  
 ted upon his bundle toasting his shins against  
 the chimney, and apparently plunged into a  
 state of meditation. Finding upon inquiry  
@@ -2393,26 +3159,26 @@ as my memory serves me:
 &quot;Had a little taste of it sa.&quot;  
 &quot;Stood your ground, did you?&quot;  
 &quot;No, sa, I runs.&quot;  
-&quot;Run at the first fire, did you!&quot;  
+&quot;Run at the first fire, did you!&quot;   
 &quot;Yes, sa, and would hab run sooner, had I  
-know it war comine  
+know it war comin.&quot;  
 &quot;Why, that wasn&#x27;t very creditable to your  
 courage.&quot;  
 &quot;Dat isn&#x27;t in my line, sa, cookin&#x27;s my per  
 feshun!&quot;  
 Well, but have you no regard for you  
-reputation?&quot;  a  
+reputation?   
 &quot;Reputation&#x27;s nufin to me by de side o  
 life!&quot;  
 &quot;Do you consider your life worth more than  
-other people&#x27;s?&quot;  
+other people&#x27;s?  
 &quot;It&#x27;s worth more to me sa.&quot;  
 &quot;Then you must value it very highly?&quot;  
 &quot;Yes, sa, I does, more dan all dis wurld,  
 more dan a million ob dollars, sa for what  
-would dat be wuth to a man wid de bref out  
-ob&#x27;im? Selipreseibas bum am de fust law wid  
-Ine.  
+would dat be wuth to a mhan wid de bref out  
+ob &#x27;im? Selipreseibashum am de fust law wid  
+C.  
 But why should you act upon a different  
 rule from other men?&quot;  
 Cause different men place different value  
@@ -2423,35 +3189,146 @@ country.&quot;
 &quot;What satisfaction would dat be to me  
 when de power of feeln&#x27; wis gone?&quot;  
 &quot;Then patriotism and honor are nothing to  
-you!  
-&quot;Nusfin whatever, sa--I regard dem a  
+you!   
+&quot;Nuffin whatever, sa--I regard dem a  
 among de vanities.&quot;  
 &quot;If our soldiers were like you, traitors  
-mnight have broken up the Government with­  
+might have broken up the Government with­  
 out resistance.&quot;  
 &quot;Yes, sa, dar would hab been no help for  
 it. I wouldn&#x27;t put my life in de scale &#x27;gainst  
-any gobernment dat eber existed for no gob-  
+any gobernment dat eber existed for no gob.  
 ernment would replace de loss to me.  
 &quot;Do you think any of your company would  
 have missed you if you had been killed?&quot;  
-&quot;May be not, sa--a dead white man ain&#x27;t  
+&quot;May be not, sa--a dead white man ain&#x27;t!  
 much to dese sogers, let alone a dead nigga  
 but I&#x27;d missed myself, and dat was de pint  
 wid me.&quot;  
 It is safe to say the dusky corpse of that  
-African will never darken the field of carnage
+African will never darken the field of carnage.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1862050601:1067/pct:5.178257,50.844218,12.701640,37.697781/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Altoona tribune._](https://panewsarchive.psu.edu/lccn/sn83031964/1862-05-08/ed-1/seq-1/)
+
+#### 1862-05-08 &middot; [Altoona, Pa.](http://dbpedia.org/resource/Altoona%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+A ITEGEO FAISTAPF.  
+  
+A Western correspondent of one of the  
+Mississippi gun boats, gives thefoUowing  
+account of a spicy conversation with a  
+philosophical darkey:  
+“ I noticed upon the hurricane deck to- 1  
+day an elderly darkle with a very philo­  
+sophical and retrospective cast of counten­  
+ance, squatted upon his bundle, toasting  
+his shins against the chimney, mid appa­  
+rently plunged into, a state of profound  
+meditation. Finding upon inquiry that  
+he belonged to the Ninth Illinois, one of  
+the most gallantly behaved and heavily  
+losing regiments at the Fort Donelson  
+battle, and part of which was aboard, I  
+began to interrogate him upon the subject.  
+His phylosophy was so&#x27;much in the Fal­  
+staffian vein that I will givejiis views in  
+his own words as near as my memory  
+serves me;—  
+  
+“Were you in the fight ?”  
+“Had a little taste of it, sa.”  
+“ Stood your ground, did you?”  
+“ No, ea, I runs,”  
+  
+“Run at the first fire, did you?”  
+“ Yes, sa, and would hah run soona,  
+hab I knowd ij war cumin.”  
+“ Why, that wasn’t very creditable to  
+your courage.”  
+“ Dat isn’t in my line, my  
+perfeshun.”  
+“ Well, but have you no regard for your  
+reputation?”  
+“Reputation’s nuffin to me by de side  
+ob life.”  
+  
+“ Do you consider your life worth more  
+than other people’s?”  
+“It’s worth more to me, sa.”.  
+“Then you must value it very highly?”  
+  
+“ Yes, sa, I does—more dan all dis wnld  
+more dan a million of dollars sa, for what  
+would dat be wuth to a man wid de bref  
+out ob him? Self-preserbashun am the  
+fust law wid me.”  
+  
+“ But why should yon act upon a differ­  
+ent rule from other men?”  
+  
+“Because different men sets different  
+values upon dar lives—mine is not in de  
+market.”  
+  
+“ But if you lost it, you would have the  
+satisfaction of knowing that yon died for  
+your country.”  
+“What satisfaction would dat be to me  
+when de power of feeling &#x27;vas gone?  
+“Then patriotism and honor are noth  
+ing to you!”  
+“ Nuffin whatever, sa—-I regard dem as  
+among de vanities.”  
+“If our soldiers were like you, traitors  
+might have broken up the government  
+without resistance.” &#x27;  
+  
+“Yes, sa, dar would hab been no help  
+for it. I wouldn’t pat my life in dp scale  
+’ginst any goberment dat eber existed, for no  
+gobemment could replace the loss to me.”  
+“Doyou think any of your company  
+would have missed&#x27; you if you had been  
+killed?” \ -  
+“ May be not, sa—a dead white man  
+ain’t much to dese sojers, let alonea dead  
+nigga—but I’d a missed myself, and dat  
+was de pint wid me.” r  
+It is safe to say that the dusky corpse  
+of that African will never darken the field  
+of carnage. ■
 </td></tr></table>
 
 ---
 
-## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1862-05-08/ed-1/seq-1)
+## [From _Nebraska advertiser._](https://www.loc.gov/resource/sn84020109/1862-05-08/ed-1/?sp=1)
 
 #### 1862-05-08 &middot; [Brownville, Nemaha County, N.T. [Neb.]](http://dbpedia.org/resource/Auburn%2C_Nebraska)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+&#x27; A Philosophic Darkej.  
+A correspondent of the Cincinnati  
+Gazelle,&#x27;, writing from the Cumberland  
+rivergives the following humorous ccb-  
   
+quy with a philosophic darkey :  
+  
+I noticed, upon the hurncan deck, to-,&#x27;  
+  
+day, an elderly darkey with a very rhib- ,  
+  
+sophical and retrospective cast cf coun­  
 tenance, squatted upon his bundle, toast-  
   
 ing his shins&#x27; against the chimcey, and  
@@ -2505,23 +3382,21 @@ than other people&#x27;s?&quot; &quot; -&#x27; &quot;
 wurldmore&quot; dan a million cb dollars,  
   
 sab; fcr-what &quot;would dat be wuth to a.  
-man wid de brcf out cb him? Self-pres
+man wid de brcf out cb him? Self-pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_lee_ver01%2Fdata%2Fsn84020109%2F00212470594%2F1862050801%2F0591.jp2/pct:79.609396,50.188380,13.671128,19.988102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470594:1862050801:0591/pct:106.116876,60.648424,18.214091,32.916915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Nebraska advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84020109/1862-05-08/ed-1/seq-1)
+## [From _Nebraska advertiser._](https://www.loc.gov/resource/sn84020109/1862-05-08/ed-1/?sp=1)
 
 #### 1862-05-08 &middot; [Brownville, Nemaha County, N.T. [Neb.]](http://dbpedia.org/resource/Auburn%2C_Nebraska)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-erbashun am de fust law,  
+ de fust law,  
   
 uBut why should you act upon  
   
@@ -2560,40 +3435,326 @@ It is safe to eay that the dusky corpse
   
 of that American will ever darken the  
   
-field of carnage.
+field of carnage.  
+  
+A livi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nbu_lee_ver01%2Fdata%2Fsn84020109%2F00212470594%2F1862050801%2F0591.jp2/pct:79.418192,70.255800,13.316034,18.243109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470594:1862050801:0591/pct:105.857455,93.674400,17.749863,25.956772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## Thoughts of Many Hearts Revealed
+## [From _The liberator._](https://www.loc.gov/resource/sn84031524/1862-05-09/ed-1/?sp=4)
 
-#### From _New Hampshire statesman._
+#### 1862-05-09 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
 
-#### 1862-05-17 &middot; [Concord [N.H.]](http://dbpedia.org/resource/Concord%2C_New_Hampshire)
+<table style="width: 100%;"><tr><td style="width: 50%">
 
-[This text is not available under an open license.]
+is the greatest  
+of modern battles.”  
+  
+A PHILOSOPHIC NEGRO.  
+A correspondent of the Cincinnati Gazette, writing  
+from the Cumberland river, gives the following hm­  
+morous account of a colloquy with a philosophic  
+negro:—  
+I noticed upon the hurricane deck to-day an eld­  
+erly negro with a very philosophical and retrospec­  
+tive cast of countenance, squatted upon his bundle,  
+toasting his shins against the chimney, and apparent­  
+ly plunged into a state of profound meditation. Find­  
+ing by inquiry that he belonged to the Ninth Illinois,  
+one of the most gallantly behaved and heavily los­  
+ing regiments at the Fort Donelson battle,’ and  
+part of which was aboard, I began to interrogate  
+him upon the subject. His philosophy was so much  
+in the Falstaffian vein that 1 will give his views in  
+1 his own words, as near as my memory serves me:  
+“ Were you in the fight?”  
+“ Had a little taste of it, sa.”  
+“ Stood your ground, did you ? ”  
+“ No, sa, I runs.”  
+“ Run at the first fire, did you ? ”  
+“ Yes, sa. and would ha’ run soona had I know’d  
+it war coinin’.”  
+“ Why, that wasn’t very creditable to your cour­  
+age.”  
+“ Dat isn’t in my line, sa—cookin’s my perfeshun.”  
+“ Well, but have you no regard for your reputa­  
+tion ? ”  
+“ Reputation’s nuffin to me by de side ob life.”  
+“ Do you consider your life worth more than oth­  
+er people&#x27;s ? ”  
+“ It&#x27;s worth more to me, sa.”  
+“ Then you must value it very highly.”  
+“ Yes, sa, 1 does—more dan all dis wuld—more  
+; dan a million of dollars, sa, for what would dat be  
+wuf to a man wid de bref out. of him ? Self perser­  
+bashun am de fust law wid me.”  
+“ But why should you act upon a different rule  
+from other men ? ”  
+“ Because different men set different values upon  
+dar lives,—mine is not in de market,”  
+“ But if you lost it, you would have the satisfaction  
+of knowing that you died for your country.&quot;  
+“ What satisfaction would dat be to me when do  
+power ob feelin was gone ?”  
+“ Then patriotism and honor are nothing to you ?”  
+“Nuffin whatever, sa—l regard dem as among de  
+vanities; and den de gobernment don’t know me; I  
+hab no rights; may be sold like old hoss any day,  
+and dat’s all.”  
+“ If our old soldiers were like you, traitors might  
+have broken up the Government without resistance.”  
+“ Yes, sa, dar would hab been no help for it. I  
+wouldn&#x27;t put my life in de scale ’ginst any Gobern­  
+ment dat eber existed, for no Gobernment could re­  
+place de loss to me.”  
+“ Do you think any of your company would have  
+missed you if you had been killed?”  
+“ Maybe not, sa—a dead white man ain’t much to  
+dese sogers, let alone a dead nigga—but I’d a missed  
+mvself, and dat was de pint wid me.”  
+It is safe to say that the dusky corpse of that Af­  
+rican will never darken the field of carnage.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_selene_ver01:data:sn84031524:print:1862050901:6576/pct:79.800321,64.321214,14.708504,32.644520/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## Thoughts of Many Hearts Revealed
+## [From _Democratic watchman._](https://panewsarchive.psu.edu/lccn/sn83031981/1862-05-15/ed-1/seq-1/)
 
-#### From _New Hampshire statesman._
+#### 1862-05-15 &middot; [Bellefonte, Pa.](http://dbpedia.org/resource/Bellefonte%2C_Pennsylvania)
 
-#### 1862-05-17 &middot; [Concord [N.H.]](http://dbpedia.org/resource/Concord%2C_New_Hampshire)
+<table style="width: 100%;"><tr><td style="width: 50%">
 
-[This text is not available under an open license.]
+  
+  
+| A Western corrvspondent of one of the |  
+| Mississippi gun-boats, gives the following |  
+| account of a spicy conversation with a phi |  
+losophic
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_DemoWatchman1_ver01%2Fdata%2Fsn83031981%2F00000001%2F1862051501%2F0196.jp2/pct:72.031558,30.093507,15.108481,2.344264/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _The Placer herald._](https://chroniclingamerica.loc.gov/lccn/sn82014998/1862-05-17/ed-1/seq-1)
+## [From _Democratic watchman._](https://panewsarchive.psu.edu/lccn/sn83031981/1862-05-15/ed-1/seq-1/)
+
+#### 1862-05-15 &middot; [Bellefonte, Pa.](http://dbpedia.org/resource/Bellefonte%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+ical and retrospective cast of countenance,  
+squatted upon his bundle, toasting his shins  
+against the chimney, and apparently pluag-  
+ed into a state of profound meditation. —  
+Finding vpon- inquiry that he belonged to  
+the Ninth Illinois, one of the most gallantly  
+behaved and heavily-losing regiments at Fort  
+Donelson battle, and part of which was  
+aboard, began to interrupt him upon the  
+His philosophy was so much in  
+the Fallstaffian ven that J will give his views  
+in his own words as near as my memory  
+  
+“Were you in the fight 17 !  
+“Had a little taste of it, sa.” |  
++*Stood your ground, did you ¥’  
+  
+No s2. I ran.’ .  
+  
+“Run at the first fire. did you 2&quot;  
+  
+“Yes, sa, and would hab run soona, hab  
+I no’d it war cumin.”  
+  
+“Why, that wasn&#x27;t very creditable to  
+your courage.”  
+  
+“Dat isn’t in my line, sa—cookin&#x27;s my  
+perfeshin.”  
+  
+“Well, but have yon no regard for your  
+reputation.”  
+  
+“Reputation’s nuffia to me by de side ob  
+hfe.”  
+  
+“Do you consider your life worth more  
+than other people’s 27  
+  
+“it’s worth more to me, sa.”  
+  
+“Then you must value it very highly 2”  
+  
+“Yes. si, I does--more dan all dis world,  
+more dan a million ob doliary, sa, for what  
+would dat be worth toa man wid de bref!  
+out of him ? Self-preserbashun am de fust  
+law wid me.”  
+  
+“But why should you act upon a different  
+rule from other men 2”  
+  
+“Because different men sets different val  
+ue upon dar lives— mine is nov m de ar  
+ket.”  
+  
+“But if you lost it, you have the satisfac.  
+tion of knowing that you died for your coun  
+try.’  
+  
+“What satisfaction would dat be to me  
+me when the power of feeling was gone 1° |  
+  
+it |  
+«Then patriotism aud honor sre worth!  
+  
+“Nuffiin whatever, sa-—1  
+  
+regard dem as  
+among de vanities.’  
+  
+“If our soldiers were like you, traitors  
+micht have broken up the government with  
+vut resistance.”  
+  
+“Yes sa, dar would have been no help for  
+  
+I wouldn&#x27;t put wy hfe in de scale ginst  
+any gobernment dat ever existed, for no gob  
+erntaent could replace the loss to me.”  
+  
+«Do you think any of your Comp.  
+would have missed you, if yon had been!  
+killed 2  
+  
+“May by not, sa—a dead white man ain&#x27;t |  
+much to dese sojers, Ict alone a dead nigga |  
+—but I&#x27;d miss myself, and dat was de pit!  
+wid me.”  
+  
+Ttis safe to say that the dusky corpse of  
+that Afri an will never darken the field of  
+carnage.  
+  
+i
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_DemoWatchman1_ver01%2Fdata%2Fsn83031981%2F00000001%2F1862051501%2F0196.jp2/pct:72.031558,33.846964,14.930966,41.880680/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Democratic watchman._](https://panewsarchive.psu.edu/lccn/sn83031981/1862-05-15/ed-1/seq-1/)
+
+#### 1862-05-15 &middot; [Bellefonte, Pa.](http://dbpedia.org/resource/Bellefonte%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+•  
+A Weliefe.ewrikeihkept• —r OfrOite ofll*  
+iiiiftrisi/PlkikEnn•htlaW gives &#x27;the folloW,iog  
+PeklonPlit dr a spicy conversation ?With a phi,.  
+lciapphicatdatkeyi  
+topen..lhe &#x27;hufileanvekideck  
+day so eidariy.datitay with every phi:Ha:kph&quot;  
+/cal autfr:retreapactive cast of minimum*,  
+siggitunb upon his bundle, hatating his &#x27;OUR,  
+against , the chimney, and appeitentiy 4ofthig-&#x27;  
+etyptoi **ate , off profound&#x27;  
+rtnding  
+_upon inquify thst he belonged .tn  
+the lihttb Piltoek ohe of ta• •0 11 3Pt1P 1 1 1 14,1 ,  
+inhaveti awl beaeilploaing regiments at Pot  
+Donelson battle, and part of which was  
+*Nerd, began to iqterrupt Dien upon Ott  
+subject, His philosophy was so lunch. In  
+the Failatsifitio vein that I will give hie view/  
+in 14 own words as near s ae tat, metiteri ,  
+serves tae :  
+  
+MIMI  
+  
+po&#x27;d it war cumin.&quot;  
+&quot;Why, that- wasn&#x27;t very creditable to  
+your courage.&quot;  
+&quot;Oat ian&#x27;t, to any line, as--cookie&#x27;s my  
+perfesbin.&quot;  
+•well, but have you.no regard Cur youi&#x27;  
+reputation.&quot; &quot;  
+:geFutation&#x27;e nun to me by de aide ob  
+life.&quot;  
+  
+&quot;Pypu consider your life worth more  
+lhaa qber people&#x27;s?&quot; .  
+&quot;It&#x27;s worth more to me, sia.&quot;  
+`&#x27;&quot;Theo you must value it very highly I&quot;  
+  
+~ Y es, s%, I does--more dan all die world,  
+more dan a stallion ob dollars, sa, for what.  
+would •dat be worth to a man&#x27;wid de bref  
+out of him I Solf-presarbatibun am de fust  
+law - mid rtie:&#x27;  
+  
+&quot;But wby stifuld you act upon a different  
+rule from other went&quot;  
+&#x27;•Bgcauee different.men sets different ,tel•  
+oe upon dar lives— mi?e it pov w do Pay  
+ket.&quot;  
+  
+&quot;But if you lost it, you have, the satisfsc•  
+!ion of knowing that you died for Jour coun,  
+try.&quot;  
+  
+&quot;What satisfaction would dat ba to me  
+me when the power of feeling.,was gone &#x27;I&quot;  
+&quot;Then patriotism and honor are worth  
+nothing to you I&quot;  
+&quot;blutllin whatever, se-1 re g ard dem ks  
+among do •  
+&quot;If our soldiers wore like yoit, traitors  
+thight,hase broken. tip the goVetnainnt with  
+out resistance.&quot;  
+  
+ea, dar mould have.bee&amp;uo help for  
+it. I wouldn&#x27;t put my life in,de, smile &#x27;ginst  
+any goberinnent dat eirer.mtioted, for no gob,  
+ernment could replace the logy to Me.&quot;  
+&quot;Do you think  
+,aoy of your oompany  
+would lie mimed you, if you, bad been  
+killed 7&quot; J  
+  
+&quot;May Xly nod, parltdaid white manstin&#x27;t  
+much to.deep sojera,let alone it.desd Malt  
+--but I&#x27;d miss myself, and dat was,de.pint  
+via Us.&quot;,  
+  
+ESE  
+  
+It is safe to) say that the dusky corpse. of  
+that African will never darken the field of  
+carnage.
+</td></tr></table>
+
+---
+
+## [From _The Placer herald._](https://www.loc.gov/resource/sn82014998/1862-05-17/ed-1/?sp=1)
 
 #### 1862-05-17 &middot; [Auburn, Placer County, Calif.](http://dbpedia.org/resource/Auburn%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ up and sold fur  
+old iron.  
   
 A Philisophical Darkey.  
   
@@ -2665,19 +3826,86 @@ It is safe to say that the dusky corpse of
 that African will never darken the field of  
 carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_lovage_ver01%2Fdata%2Fsn82014998%2F00279557980%2F1862051701%2F0296.jp2/pct:62.882332,12.939382,14.686038,39.889243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557980:1862051701:0296/pct:47.948902,12.932750,29.596977,80.912588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Worcester daily spy._](https://chroniclingamerica.loc.gov/lccn/sn83021205/1862-05-22/ed-1/seq-2)
+## [From _New Hampshire statesman._](https://www.loc.gov/resource/sn84022932/1862-05-17/ed-1/?sp=4)
+
+#### 1862-05-17 &middot; [Concord [N.H.]](http://dbpedia.org/resource/Concord%2C_New_Hampshire)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+RTS REVEALED.  
+A correspondent of the Cincinnati Gazette, writ­  
+ing from the Cumberland River, gives a humor­  
+ous account of a colloquy with a philosophic Afri­  
+can. He says:  
+I noticed upon the hurricane deck, to-day, an  
+elderly darkey, with a very philosophical and  
+retrospective cast of countenance, squatted upon  
+his bundle, toasting himself against the chimney,  
+and apparently plunged into a state of profound  
+meditation. Finding upon inquiry that he belong­  
+ed to the 9th Illinois, one of the most gallantly  
+behaved and heavy losing regiments at the Fort  
+Donelson battle, and part of which was aboard, I  
+{began to interrogate him upon the subject. His  
+philosophy was so much in the Falstatian vein  
+that I will give his views in his own words, as near  
+as my Memory serves me.  
+¢ Were you in the fight ¥’  
+¢ Had a little taste of it, sa.’  
+¢ Stood your ground, did you ?’ :  
+¢ No, sa, I runs.’  
+¢ Run at the first fire, did you 2’  
+¢ Yes, sa, and would hab run sooner had I  
+knowd it war comin.’  
+¢ Why, that wasn’t very creditable to your cour­  
+age.  
+¢ Dat isn’t in my line, sa—cooking’s my perfesh­  
+un.  
+¢ Well, but have you no regard for your reputa­  
+tion ¥’  
+¢ Reputation’s nuffin to me by the side ob life.”  
+¢ Do you consider your life worth more than oth­  
+er people’s 7’  
+¢+ Its worth more to me, sa.’ ;  
+¢ Then you value it very highly ?’  
+¢ Yes, sa, I does—more dan all dis wuld—more  
+dan a million ob dollars, sa; for what would that  
+be worth to a man wid de bref out ob him ? Self­  
+preserbashun am de fust law wid me.’  
+¢ Then patriotism and honor are nothing to you ?’  
+¢ Nuffin whatever, sa—l regard dem as mong  
+de vanities.” . :  
+It is safe to say that the dusky corpse of that  
+African will never darken the field of carnage.  
+The Nashville corr
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84022932:00542868533:1862051701:0288/pct:17.580766,70.782123,12.967693,20.335196/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Worcester daily spy._](https://www.loc.gov/resource/sn83021205/1862-05-22/ed-1/?sp=2)
 
 #### 1862-05-22 &middot; [Worcester [Mass.]](http://dbpedia.org/resource/Worcester%2C_Massachusetts)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+A Philosophic Negro.—A correspondent  
+of the Cincinnati Gazette, writing from the  
+Cumberland river, gives a humorous account  
+of a colloquy with a philosophic African, He  
+says :—‘l noticed upon the hurricane deck to­  
+day an elderly darkey, with a philosophical  
+and retrospective cast of countenance, squatted  
 upon his bundle, toasting himself against the  
 chimney, and apparently plunged into a state  
 ot profound meditation. Finding upon in­  
@@ -2708,93 +3936,110 @@ first law wid me.’ ‘Then patriotism and hon­
 or are nothing to you?’ ‘Nuffin, whatever,  
 sa—I regard dem as among de vanities.’ It  
 is safe to say that the dusky corpse of that Af­  
-rican will never darken the field of carnage.
+rican will never darken the field of carnage.”  
+Artemus Ward as a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mb_artemis_ver01%2Fdata%2Fsn83021205%2F00517172157%2F1862052201%2F0482.jp2/pct:69.875936,52.612962,12.350046,14.034687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172157:1862052201:0482/pct:90.156777,63.825088,15.915856,23.439340/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Bellows Falls times._](https://chroniclingamerica.loc.gov/lccn/sn84022549/1862-05-23/ed-1/seq-1)
+## [From _Bellows Falls times._](https://www.loc.gov/resource/sn84022549/1862-05-23/ed-1/?sp=1)
 
 #### 1862-05-23 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+&#x27;s Macbethan Dread- &quot;The  
+ghost of Bank-owe.&quot;  
   
-icavily loosing regiments at the Fort Don  
-dson battle, and part of which was now on &#x27;  
+A PHILOSOPHIC NEGdRO. A correspon  
+  
+dent of the Cincinnatl Gurette, writing  
+from the Cumberland river, gives the fol  
+lowing humerous account of a colloquy with  
+a philosophic negre;  
+I noticed upon the hurricane deck to-day  
+an elderly negro with a very philosophical  
+and rotrospective cast of countenance, squat  
+ted upon his bundle, toasting his shin  
+against the chimney, and apparently ptung  
+ed into a state of deep meditation. Finding  
+by inquiry that he belonged to the Ninth Il  
+linois one of the most gallantly behaved and  
+feavily loosing regiments at the Fort Don  
+elson battle, and part of which was now ou  
 board, I began to interogate him upon the  
 subject. His philosophy was so much in  
-the Falstnffian vein that I give hi view  
+the Falstaffian vein that I give his view  
 in his own words, as near as my memory  
-serves me.  
-&quot; Were you in the fight ?  
-&quot; Had a little ob it sa,&quot; ; . ; ;  
-&quot; Stood your ground, did you V  
-&quot;No, sa, I runs. i  
-&quot; Run at the first fire, did you?&quot; ;  
-Y&#x27;es, s and would ha&#x27; run soon bad  
-I know&#x27;J it war comm.  
+serves mne.  
+&quot;Were you in the fight?  
+&quot;Had a little ob it sa,&quot;  
+&quot;Stood your ground, did you?&quot;  
+&quot;No, sa, I runs.&quot;tt  
+&quot;Run at the first fire, did you?&quot; 84  
+Yes, sa, and would ha&#x27; run soona had  
+I know&#x27;d it war comin.  
 Why, that wasn&#x27;t very creditable to  
 your courage.  
-Dat isn&#x27;t in my line, sa cookiu&#x27;i ray  
+Dat isn&#x27;t in my line, sa---cookin&#x27;s my  
 perfeshun.  
-&quot; Well, but have you no regard for your  
-reputation?&quot; &#x27;  
-&quot; Reputation&#x27;s nufflu to me by de side of  
+&quot;Well, but have you no regard for your  
+reputation?  
+&quot;Reputation&#x27;s nuffin to me by de side of  
 life.&quot;  
-Do yon consider your life worth mor  
-than other people&#x27;s?&quot; .  
-&quot; It&#x27;s worth more to me, sa,&quot;  
-&#x27;Then yon value it very highly.&quot; &#x27;  
-&quot; l&#x27;es, sa, I does more dan alt dis wuhl  
+Do you consider your life worth mor  
+than other people&#x27;s?&quot;  
+&quot;It&#x27;s worth more to me, sa.&quot;  
+&quot;Then you valute it very highly.&quot;  
+&quot;Yes, sa, I does--more dan all dis wuld  
 more dan a million ob dollars, sa, for  
-what would dat be wnf to a man with do  
-href out of him? Self perscrbation am do  
+what would dat be wuf to a man with de  
+bref out of him? Self perserbation am de  
 first law wid me.&quot;  
-&quot; But why should you act upon a differ  
-ent rule from other men t&quot;  
-&quot; Because different men set a different  
-value on dar lives, &#x27;mine is not in de mar  
-k&#x27;t .  
-&quot; But if you lost tt, you would have tho  
-satisfaction of knowing you died for youf  
+&quot;But why should you act upon a differ  
+ent rule from other men?&quot;  
+&quot;Because different men set a different  
+value on dar lives,--mine is not in de mar  
+ket  
+&quot;But if you lest it, you would have the  
+satisfaction of knowing yeu died for your  
 country.&quot;  
-&quot; What satisfaction would that be to mo  
-when de power bb feelin gone f  
-Tlieri patriotism and honor are nothing  
-to you ?&quot;  
-&quot; Nulling whatever, sa I regard dent  
-as among de wanitics ; and den de gobern  
-ment dont know m ; I hab no rights; my  
-be sold like old boss any day, and dats all-&#x27;  
+&quot;What satisfaction would that be to me  
+when de power ob feelin gone?&quot;  
+Then patriotism and honer are nothing  
+to you?&quot;  
+&quot;Nusfing whatever, sa--I regard dem  
+as among de wanities; and den de gobern  
+ment dont know me; I hab no rights; may  
+be sold like old hoss any day, and dats all  
 If our old soldiers were like you, trai  
 tors might have broken up the Government  
-without resistance.&quot;  
-&quot; Yes sa, dar would hab been no help  
-for it. I wouldn&#x27;t put my life in de scaha  
-&#x27;gaint any government dat ever existed,  
+with out resistance.&quot;  
+&quot;Yes, sa, dar would hab been no help  
+for it. I wouldn&#x27;t put my life in de scale  
+gaint any government dat ever existed,  
 for no govornment could replace the loss to  
 me.&quot;  
-Do you thii.k any of your company  
+Do you think any of your company  
 would miss you had you been killed?  
-Maybe not, sa -dead white man ain&#x27;t  
+Maybe not, sa---dead white man ain&#x27;t  
 much to dese sogers, let alone dead nigga  
-but I&#x27;d a missed myself ami dat was da pint  
+but I&#x27;d a missed myself and dat was de pint  
 wid me.  
 It is safe to say that the dusky corpse of  
 that African will never darken the field of  
-carnage
+carnag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_melon_ver01%2Fdata%2Fsn84022549%2F00415628407%2F1862052301%2F0750.jp2/pct:82.044088,14.675419,13.527054,40.904449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628407:1862052301:0750/pct:68.877756,6.360321,26.693387,90.401167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The weekly mountain Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82014489/1862-05-24/ed-1/seq-4)
+## [From _The weekly mountain Democrat._](https://www.loc.gov/resource/sn82014489/1862-05-24/ed-1/?sp=4)
 
 #### 1862-05-24 &middot; [Placerville, El Dorado County, Calif.](http://dbpedia.org/resource/Placerville%2C_California)
 
@@ -2872,9 +4117,10 @@ ain’t much to dese sujers, let alone u dead
 nigga, but I&#x27;d missed myself, and dat was  
 the pint wid me.”  
 It is safe fu sa/ that the dusky corpse  
-of that African will never darken the Hel
+of that African will never darken the Held  
+of carriage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn82014489%2F00279557244%2F1862052401%2F0085.jp2/pct:16.532969,37.886666,11.433357,33.286166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862052401:0085/pct:16.519746,37.883375,11.442172,33.842306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2886,7 +4132,14 @@ of that African will never darken the Hel
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+.  
   
+A PHILOSOPHIC NEGRO.  
+  
+A corresPonpenT of The Cincinnati Gazeite,  
+writing from the bar = River, gives 4  
+morous account of a colloquy with a philoso  
+Afriean. He says: ’  
 I noticed upon the hurricane deck to- an  
 elderly darkey, with a very phil i and  
 retrospective cast of countenance, u  
@@ -2914,9 +4167,20 @@ Abe ae in my line, se—cookin’s my per-
 feshun.” - Se  
 ‘ BA ade hema you no regard for your reputa-  
 “ Reputation’s nuffin tome by de side ob life.”  
-*Do you consider your life worth more than
+*Do you consider your life worth more than  
+  
+a one a to gs  
+  
+8w more to Me, sa. be  
+  
+eae nine sa  
+  
+’ © Yes, sa, I does—more dan a Gatosnies  
+dan a million ob dollars, sa ; for what would  
+  
+be worth to aman-wid-de-bref-out ob him?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_independent_1862-05-29_14_704&#0036;5/pct:74.790576,75.643382,13.180628,12.755310/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_independent_1862-05-29_14_704%2Fsim_independent_1862-05-29_14_704_jp2.zip%2Fsim_independent_1862-05-29_14_704_jp2%2Fsim_independent_1862-05-29_14_704_0005.jp2/pct:74.764398,72.998366,13.206806,17.973856/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2929,6 +4193,13 @@ feshun.” - Se
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+A Pumosorme NreGro.—A correspondent of the Cincin-  
+nati Gaztte, writing fiom the Cvmberland rivcr, gives a humorous  
+account of a collcquy with a philosophic Airican. He says:  
+  
+* | noviced upon the hurricane Ceck to-day an cleerly daikey, witha  
+philosophical and retrospective cest of cow.tenance, Fquatted upon his  
 Lundle, tonsting himseli againet the chimney, and apparently y lunged  
 into 2 profound state of meditation, Finding upon inquiry that he be-  
 longed to the Mh Illinois, one of the most gallautly behaved and heavy-  
@@ -2969,9 +4240,14 @@ him? £el:-preserbeshun :m de fust law wid me.’ 4
   
 *** Then patrio‘ism and honor are nothing to you?  
   
-** Nuflin, whatever, sa; I regard dem as amoung de vanities.’
+** Nuflin, whatever, sa; I regard dem as amoung de vanities.’  
+  
+“Ttis safe to say that the dusky corpse of the Africen will never  
+darken the field of carnage.”  
+  
+Tu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_leslies-weekly_1862-05-31_14_346-347&#0036;10/pct:37.760181,17.885802,26.742081,11.882716/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_leslies-weekly_1862-05-31_14_346-347%2Fsim_leslies-weekly_1862-05-31_14_346-347_jp2.zip%2Fsim_leslies-weekly_1862-05-31_14_346-347_jp2%2Fsim_leslies-weekly_1862-05-31_14_346-347_0010.jp2/pct:37.760181,15.385802,26.742081,15.956790/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2983,7 +4259,15 @@ him? £el:-preserbeshun :m de fust law wid me.’ 4
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ Street, New York.  
   
+  
+  
+4 PHILOSOPHIC “CONTRABAND.”  
+  
+A corresPponpent of the Cincinnati Gazette,  
+writing from the Cumberland River, gives the  
+following humorous account of a colloqay with  
 a philosophic darkey:  
   
 I noticed upon the hurricane deck to-day an  
@@ -3010,21 +4294,26 @@ as my memory serves me.
 “ Stood your ground, did you ?”  
   
   
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_phrenological-journal-and-science-of-health_1862-06_35_6&#0036;17/pct:42.896010,76.039741,51.692866,12.915896/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _American Phrenological Journal (1838-1869)_](https://archive.org/details/sim_phrenological-journal-and-science-of-health_1862-06_35_6/page/n18/mode/1up?view=theater)
-
-#### 1862-06-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
   
+  
+  
+CC era see ee UC  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+AMERICAN PHRENOLOGICAL JOURNAL.  
+  
+  
+  
+139  
   
   
   
@@ -3085,47 +4374,160 @@ me.” ;
   
 It is safe to say that the dusky corpse of that  
 African will never darken the field of car-  
-nage,
+nage,  
+  
++a o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_phrenological-journal-and-science-of-health_1862-06_35_6&#0036;18/pct:6.318017,11.991682,25.453446,58.271719/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_phrenological-journal-and-science-of-health_1862-06_35_6%2Fsim_phrenological-journal-and-science-of-health_1862-06_35_6_jp2.zip%2Fsim_phrenological-journal-and-science-of-health_1862-06_35_6_jp2%2Fsim_phrenological-journal-and-science-of-health_1862-06_35_6_0017.jp2/pct:42.896010,56.330869,57.103990,32.624769/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Puget Sound herald._
+## [From _Oregon sentinel._](https://oregonnews.uoregon.edu/lccn/sn84022657/1862-06-07/ed-1/seq-1/)
+
+#### 1862-06-07 &middot; [Jacksonville, Or.](http://dbpedia.org/resource/Jacksonville%2C_Oregon)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+. I notluoil  
+iiH)n the hurricane deck In day mi elderly  
+datkej with u very philosophical nnd retro­  
+sjieotlvo cast of cotiutenutirr, f(itatteil iivii  
+Ids bundle, toniting his thlm nguiiut the  
+  
+iih&#x27;tnuey, nnd nppnreiitly plungiil Into u stule  
+  
+of profound meditation. Finding upon In­  
+quiry, that he btlnugiil to II Ninth Illinois.  
+  
+nue of the most gallantly behaved ami heuvllv  
+  
+liHwIug regiment ut the Fort Dunelson battle,  
+nml mrt of wlil.ih was aboard, J begun to In­  
+tcrrogutc hhn iijmn the subject. Ills ihilno  
+phy wns so much In the Fiilstulllaii vulu tlmt  
+I nlll give his vieus In his own words as nenr  
+in my memory serves mo i  
+&quot; Were you In the fyht 7&quot;  
+II.ulu little tmle or Ii.m &quot;  
+&quot;Stood your grouml, did you ?&quot;  
+&quot; Xo, sti, 1 run.&quot;  
+  
+&#x27; Hun nt the Ilrst, dhl wu !&quot;  
+  
+&quot; us, m, nnd would hub run soona Imd  
+I knowil it war oomln.&quot;  
+  
+u ny, inai wasu i very crcuituuic to your  
+  
+courage.&quot;  
+Dat isn&#x27;t In my lino oookln&#x27;s my pop  
+&#x27;eshnii.&quot;  
+&quot; Will, but hav you no regard for your  
+reputation ?&quot;  
+&quot; Heputatiou&#x27;s iititTiu to mc lo tic sldo ob  
+life.&quot;  
+&quot; Do you cniiiidi-r your life wortit more than  
+other iwplw V  
+&#x27; U&#x27;s worth more to me, f.&quot;  
+  
+&#x27; Then you must value It very highly ?&quot;  
+&quot; Yes, mi, I does more dsn all de world-  
+  
+more dan a million ob dollars, sa fur what  
+would dat bo wnrf to a nun with do href out  
+ob him ? iiiflfpreeutbasuuii mu do fust law  
+wid tne,&quot;  
+&quot;Hut why should you act upon a difl&#x27;itreiil  
+rule from other men ?&#x27;  
+&#x27; JImmiim iLlf-reiit mn Hi dllereut vahtef  
+upon dar lives mine Is not In d market.&quot;  
+&quot; Hut if you lol it, you would Imvo the sot­  
+islaetlon of knowing tliut loudied for youi  
+  
+oountry.  
+&quot; Whut satisfaction would il.it lis to mi­  
+when de power of fuslln was gone?&quot;  
+&quot; Tlieu patriotism and honor are nojlilng to  
+  
+you:&quot;  
+  
+&quot;Xuflin whatever, sa I regard dent o  
+among de vanities.&quot;  
+11 II our soldiers were like you, traitor  
+might have broken up the O&#x27;uveruincnt with­  
+out resistance.&#x27;&#x27;  
+&#x27; Yes. &amp;i, dar would have bsen no holp fur  
+it. I wouldn&#x27;t put my life in d mm la &#x27;gainst  
+  
+any uuucrmuciH dai ever existed, ror no  
+Uuberuinent oould rcplaoe de loss to inc.&quot;  
+&quot; Do you think any or your company would  
+have missed you If you had been killed?&quot;  
+&quot; .May bo not, fa -u drad whlto man ain&#x27;t  
+much to dcsc sogers, let ulonc a dead iilggn  
+but I&#x27;d mltsvl mjseir, mid dat was de pint  
+wld mc.&quot;  
+  
+It Is safe to roy that Iho dusky corpse of  
+th.it Afrit-mi will never darkwi the field of  
+  
+carnuge
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_bravo_ver01%2Fdata%2Fsn84022657%2F00033872215%2F1862060701%2F0374.jp2/pct:90.170279,60.868307,18.227554,55.875543/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Puget Sound herald._](https://www.loc.gov/resource/sn88085145/1862-06-12/ed-1/?sp=1)
 
 #### 1862-06-12 &middot; [Steilacoom, W.T. [Wash.]](http://dbpedia.org/resource/Steilacoom%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-a e e  
-&quot;May be not, sa--a dead white man sint  
-i  
+ rese  
+&quot;Yes, Sa, dar would hab been no help for  
+   e  
+belmont ont shat thnnd, Ir af gabuinnt  
+conhrphem toa apear sapanp sech  
+an ae  
+&quot;May he not, sa--a dead white man sint  
+t  
 I&#x27;d missed  
 It is safe to say that the dusky corpse of that   
-African will never darken the field of carnag
-</td></tr></table>
+African will never darken the field of carnage  
+5 N.  
+Soene on a Ferry-Boat azh  
+the frr het tyiag betge e et  
+a   
+pariicularly pleasant, and the lady pasenges  
+which by the way compośed ofly about a dozen,  
+wmgy atry siochitrth  
+be scliek!&quot;  
+lastsuter the hoic rushed inte the ladle  
+eablu, and, sare shouch thefe aata  
+men of a Swedish woman, chdpring the pine  
+of parturition with great patience. The huss  
+the ladies, one of whom kept wa  
+a   
+e o ihe e th  oe  
+on the outeide oherving the husband
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn88085145:no_reel:1862061201:0841/pct:79.983412,39.569398,15.417934,20.143534/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _The Emporia news._](https://chroniclingamerica.loc.gov/lccn/sn82016419/1862-06-14/ed-1/seq-4)
+## [From _The Emporia news._](https://www.loc.gov/resource/sn82016419/1862-06-14/ed-1/?sp=4)
 
 #### 1862-06-14 &middot; [Emporia, Kan.](http://dbpedia.org/resource/Emporia%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n made by bankers and  
-brokers on an inferior currency. The peo  
-ple do not want , to be taxed to pay: interest  
-on a .National debt. It is not necessary.  
-Give us aj National currency in Treasury  
-notes to meet the present exigencies of the  
-Government, and the business of the eoun  
-try will, be accommodated in. carrying the  
-Nanonal debt in the circulation. Cor. Mil  
-waukee Sentiml. . .  
+  
 A PHILOSOPHIC NEGRO.  
 A correepondent of the Cincinnati Ga­  
 zette; writing from the Cumberland River,  
@@ -3173,9 +4575,12 @@ law wid me.&quot;
 Then patriotism and honor are nothing  
 to you?&quot; A &#x27; lr , , ,  
 NuSn whatever; saI) regard dem as  
-among de vanities.
+among de vanities..  
+EaT Method of Killing Insects.  
+For all moths, and beetle that fly at night,  
+use fire to trap them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_brown_ver01%2Fdata%2Fsn82016419%2F0021247292A%2F1862061401%2F0550.jp2/pct:38.106579,40.588974,14.691873,34.094281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:0021247292A:1862061401:0550/pct:57.142857,70.345851,21.949405,45.131834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3189,7 +4594,15 @@ among de vanities.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+e A  
+Pflmoaopinc Nbobo.—A correspondent of  
+the Cincinnati Gazette, writing from the  
+Cumberland River, gives a humorous  
+account of a colloquy with a philosophic  
+African. He says—&quot; I noticed upon the  
+hurricane deck to-day an elderly darkey,  
+with a phi- j losophical and  
+retrospective cast of countenance,  
 squatted upon his bundle, toasting  
 himself against the chimney, and  
 apparently plunged into a state of  
@@ -3221,7 +4634,12 @@ does—more dan all dis wuld—more dan a
 million of dollars, Sa: for what would  
 dat be worth to a man wid de bref out of  
 him ? Self-preseibashum am de fust law  
-wid me.* &#x27; Then patriotism and honor ar
+wid me.* &#x27; Then patriotism and honor are  
+nothing to you?&#x27; *N_t_u whatever,  
+&amp;—li*t*_f_ deni as among de vanities.*  
+It is safe to say that the dusky corpse  
+of that Ah-jaavrill never darken the  
+field of eantas
 </td></tr></table>
 
 ---
@@ -3234,7 +4652,15 @@ wid me.* &#x27; Then patriotism and honor ar
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ step. A  
+correspondent of the &#x27;Cincinnati  
+Gazette,1 writing from the Cumberland  
+River gives a humorous account of a  
+colloquywith a philosophic African. He  
+says:— &#x27;I noticed upon tho huricane deck  
+to-day an elderly darkey, with a  
+philosophical and retrospective cast of  
+countenance, squated upon his bundle,  
 toasting himself against the chimney,  
 and aparently plunged into profound  
 meditation. Finding upon inquiry that he  
@@ -3263,18 +4689,25 @@ very highly.&#x27; &#x27;Yen Sa, I docs— more dan
 all dis wuld — more than n million of  
 dollar, fla- for what would dat be worth  
 to a man wid de bret out of him? Sclf-  
-preserbn.shnm am be fn.it bw wid me.
+preserbn.shnm am be fn.it bw wid me.&#x27;  
+&#x27;Then patriotism an honour arc nothing  
+to you?&#x27; &#x27;NnfTin whatever Sa— I regard  
+dem ns among de vanities.&#x27; It is safe to  
+say that the dusky corpse of that  
+African will uovcr darkeu tho field of  
+carnage.&#x27; Body Snatciiino.— Ther
 </td></tr></table>
 
 ---
 
-## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1862-06-19/ed-1/seq-1)
+## [From _Smyrna times._](https://www.loc.gov/resource/sn84020422/1862-06-19/ed-1/?sp=1)
 
 #### 1862-06-19 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ a philosophic darkey :  
+! iced upon the hurricane deck to-day an  
 e&lt;e &#x27; ■&gt; darkey with a very philosophical and  
 relros pecuve cast of countenance, squatted  
 ü l ) &#x27;&quot; 1 his bundle loastug his shins against the  
@@ -3359,11 +4792,78 @@ hs*e mused you ifyoo had been killed !&quot;
 much to dette sogers, let alone a dead nigga —  
 but I&#x27;d a mi»»ed myself, and dat was dep ot  
 wid me.&quot;  
-|i I« a»fe to tny that the dusky corpse of tha
+|i I« a»fe to tny that the dusky corpse of that  
+u j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00383342934%2F1862061901%2F0486.jp2/pct:76.884682,18.857425,14.750430,36.218622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_artemis_ver02:data:sn84020422:00383342934:1862061901:0486/pct:76.764200,18.857425,14.870912,36.218622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## [IRON-PLATED SHIPS AND ARTILLERY.](http://trove.nla.gov.au/ndp/del/article/102585872)
+
+#### From _Goulburn Herald (NSW : 1860 - 1864)_
+
+#### 1862-06-21 &middot; [Goulburn, New South Wales](http://dbpedia.org/resource/Goulburn)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+] A  
+correspondent of the Cincinnati Gazette,  
+wvriting from tho Coumberland River,  
+gives a humorous nocount of n colloquy  
+with a philosophic African. Iao says:-&quot;  
+I noticed upon the hurricano ldeck to-  
+day an elderly dorkoy, with a  
+philosophical and retrospective ciast of  
+countuannnco, squatted upon his hundlo,  
+toasting himself against the chimney,  
+and apparently lunngod into a state of  
+pro. found meditation. Finding upon  
+inquiry that ho belonged to the Oth  
+Illinois, one of tho most gallantly  
+behaved and heavy losing regimetnt at  
+the Fort I)onnolson battle, and pIrt of  
+wvhich was nboardt, I hogan to  
+interrogatol him on the subject. IIis  
+iphilosophy was so mulch ill the  
+F&#x27;latafiann voill that I will give Ilis  
+eOWs ill il his own words,&#x27;L as inear as  
+iy lelolory serveos lo. * Weto yel iln  
+the Ii gt?&#x27; &#x27;lIm} ai little Iasto of it,  
+8s.&#x27; Slstolll yout gIrouniIi , did  
+youl?&#x27; &#x27;No, So, I s,&#x27; &#x27; llu at the  
+flirS&#x27;,t irllel, did &#x27;ouu? &#x27; Ye&#x27;, o, oti  
+woitlld hove rue sousos, lsai I htniio  
+it Illnr ciolil&#x27; &#x27; Why, hlli t wlh nllt  
+ve&#x27;&#x27;ry J?rudlluiihi to your ico iira .&#x27;  
+&#x27; hIt IllI&#x27;tl Ii soy lie, lii-eisis toy  
+&quot; ,olsobin&#x27; s
+</td></tr></table>
+
+---
+
+## [IRON-PLATED SHIPS AND ARTILLERY.](http://trove.nla.gov.au/ndp/del/article/102585872)
+
+#### From _Goulburn Herald (NSW : 1860 - 1864)_
+
+#### 1862-06-21 &middot; [Goulburn, New South Wales](http://dbpedia.org/resource/Goulburn)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ es, hl,,,t r lo ?m, o sal oifp&#x27;l  
+h) wulF 1 ?(?,w thJn n million of  
+dollars, Sa; for what would dat be 1  
+worth to a man wid do brof out of him?  
+Self-pressrbashlum am do fust law wid  
+me.&#x27; &#x27; Then patriotiusm and honour are  
+nothing toa y&#x27;ou ? &#x27; &#x27; Nuflin whatever,  
+Sa-I regard dlem as among de vanities.&#x27;  
+It is safe to say that the dtlusky  
+colrpse of that African will never  
+dlarklen tihe field of carnage.&quot;
+</td></tr></table>
 
 ---
 
@@ -3375,7 +4875,14 @@ wid me.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+. A Philosophic Negro.—A  
+correspondent of the Cincinnati Gazcitc,  
+writing from the Cumberland Biver, gives  
+a humorous account of a colloquy with a  
+philosophic African. He says:— &quot;I  
+noticed upon the hurricaue deck to-day  
+an elderly darkey, with a philosophical  
+and retrospective cast of countenance,  
 squatted upon his bundle, toasting  
 himself against the chimney, and  
 apparently plunged into a state of  
@@ -3406,23 +4913,13 @@ highly.&#x27; &#x27;Yes, Sa, I docs —more dan all
 dis wuld—more dan a million of dollars,  
 Sa; for what would dat he worth to a  
 inau wid de href out of him? Sclf-  
-prcserhashum am de fust law wid me.
-</td></tr></table>
-
----
-
-## [MISCELLANEOUS EXTRACTS.](http://trove.nla.gov.au/ndp/del/article/158187325)
-
-#### From _Adelaide Observer (SA : 1843 - 1904)_
-
-#### 1862-06-21 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+prcserhashum am de fust law wid me.&#x27;  
+&#x27;Then patriotism and honour are nothing  
+to you?&#x27; &#x27;Nufiin whatever, Sa—I regard  
 deni as among de vanities.&#x27; It is safe  
 to say that the dusky corpse of that  
-African ■ will never darken the field o
+African ■ will never darken the field of  
+carnage.&quot; 
 </td></tr></table>
 
 ---
@@ -3436,6 +4933,15 @@ African ■ will never darken the field o
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+the newspapers, A correspondent of the  
+Cincinnati Gazette, writing from the  
+Cumberland River, gives a humorous  
+account of a colloquy with a philosophic  
+African. , Ile says :.-&quot; I noticed upon  
+the hurricane deck to-day an elderly  
+darkey, with a philosophical and  
+retrospec-tive cast of countenance,  
+squatted upon bib bundle,  
 tonstinghimself against the chimney, and  
 apparently plunged into a stale of pro-  
 found meditation. Finding upon inquiry  
@@ -3472,18 +4978,18 @@ nothing to you ?&#x27; &#x27; Nuffin whatever,
 Sa-I regard dem as among de vanities.&#x27; ,  
 It is safe to bay that the dusky corpse  
 of that African will never darken the  
-field of carnage.&quot; - Mr. Powell,&#x27; one o
+field of carnage.&quot; - M
 </td></tr></table>
 
 ---
 
-## From _The independent._
+## [From _The independent._](https://www.loc.gov/resource/sn85029094/1862-06-28/ed-1/?sp=2)
 
 #### 1862-06-28 &middot; [Oskaloosa, Kan.](http://dbpedia.org/resource/Oskaloosa%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ hurricane deck  
 to-day an elderly darkey, with a very  
 philosophic and retrospective cast of  
 countenance, squatted upon his bundle,  
@@ -3522,24 +5028,33 @@ Then you must value it very high
 ly?&quot;  
 Yes, sa, I does--more dan all dis  
 wuld--more dan a million ob dollars.  
-for what would dat be worth to a man  
-wid de bref out ob him? Selfpreser­  
+for what would dat he worth to a man  
+wid de bref out ob him? Self preser­  
 bashun am de first law wid me.&quot;  
 &quot;Then patriotism and honor are no­  
 thing to vou?&quot;  
 &quot;Nuffin whatever, sa--I regard dem  
-as among de vanities.
-</td></tr></table>
+as among de vanities.&quot;  
+Special No tices
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1862062801:0302/pct:72.492297,27.710377,12.615543,29.414042/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _The Nevada Democrat._](https://chroniclingamerica.loc.gov/lccn/sn84026881/1862-07-01/ed-1/seq-4)
+## [From _The Nevada Democrat._](https://www.loc.gov/resource/sn84026881/1862-07-01/ed-1/?sp=4)
 
 #### 1862-07-01 &middot; [Nevada, Calif.](http://dbpedia.org/resource/Nevada_City%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+^  
   
+A HULOlUi&#x27;HIO uahkit.  
+A correspondent of Hie Cincinnati &lt;**»-  
+saetle, writing from the Cumberland river;  
+gives the following humorous account ol n  
 colloquy with o philosophic darkey:  
 I noticed u, on the hurricane deck lo day  
 an old darkey w ith a very philosophic conn  
@@ -3612,7 +5127,7 @@ It is safe to saylhal the dusky corps of
 that African will never darken the Held of  
 carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_iris_ver01%2Fdata%2Fsn84026881%2F00279557220%2F1862070101%2F0937.jp2/pct:9.015605,30.084391,17.421975,43.147580/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557220:1862070101:0937/pct:8.999572,27.060957,17.421975,46.171014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3626,7 +5141,15 @@ carnage
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+. A  
+philosophic .Necjro. — A correspoudent  
+of the Cincinnati Gazette, writing from  
+the Cumberland Kiver. gives a humorous  
+account of a colloquy with a philosophic  
+African. He Rays :— &#x27;I noticed upon the  
+hurricane deck to-day an elderly darkey,  
+with a philosophical and retrospective  
+cast of countenance, squatted upon his  
 bundle, toasting himself against the  
 chimney, and upparently plunged into a  
 state of profound meditation. Finding  
@@ -3657,23 +5180,13 @@ Yes, Sa, I (Ioch —more dan all dis wuld—
 more dan a million of dollar*. Sa; for  
 what would dat be worth to a man will do  
 href out of him! Self-preserbashum am dc  
-fust law wid me.&#x27; &#x27;Then patriotism au
-</td></tr></table>
-
----
-
-## [MISCELLANEOUS EXTRACTS.](http://trove.nla.gov.au/ndp/del/article/50159932)
-
-#### From _South Australian Register (Adelaide, SA : 1839 - 1900)_
-
-#### 1862-07-01 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+fust law wid me.&#x27; &#x27;Then patriotism aud  
+honour are nothing to you?&#x27; &#x27;Nullin  
+whatever, Sa-I regard dem ns among de  
 vanities.&#x27; It la safe to say that the  
 dusky corpse of that African will never  
-darken the field of carnage.
+darken the field of carnage.&#x27;  
+Politeness.
 </td></tr></table>
 
 ---
@@ -3686,7 +5199,20 @@ darken the field of carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+— A correspondent  
+of the Cineumalti Gazette, writing from  
+Cumberland Bivcr, gives a humorous  
+account of &amp; colloquy with a philosophic  
+African. He says : — &#x27; 1 notiood upon  
+£km hurricane deck to-day an elderly  
+darkey, with a philosophical and  
+retrospective cast of countenance,  
+squatted upon his bundle, toasting  
+himself against die chimney, and  
+apparently plunged into a state of  
+profound meditation. Finding upon  
+inquiry that he belonged to the 9th  
+Illinois, one of the most gallantly  
 behaved and heavy losing regiments at  
 the Fort Donnelson battle, and part of  
 which was aboard, I began to inter,  
@@ -3712,7 +5238,13 @@ people&#x27;s?1 &#x27; It&#x27;a worth more to me, Sa,&#x27;
 wuld— -more dan a millian of dollars,  
 Sa; for what would dot be worth to a  
 manwid dc bref out of him?  
-Selfprcserbashum am de lust law wid me.
+Selfprcserbashum am de lust law wid me.&#x27;  
+&#x27; Then patriotism and honour axe nothing  
+to you?&#x27; &#x27;Xuffin whatever. Sa— I regard  
+them as among de vanities.&#x27; It is safe  
+to say that the dusky corpse of that  
+African will never ^fflylrpn die field  
+of carnage
 </td></tr></table>
 
 ---
@@ -3725,7 +5257,15 @@ Selfprcserbashum am de lust law wid me.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+. A  
+Philosophic Negbo. — A correspondent of  
+the Cincinnati Gazette, writing from the  
+Cumberland River, gives a humorous  
+account of a colloquy with a philosophic  
+African. He Bays — &#x27; I noticed upon the  
+hurricane deck to-day an elderly darkey,  
+with a philosophical and retrospective  
+cast of countenance, squatted upon his  
 bundle, toasting himself against the  
 chimney) and apparently plunged into a  
 state of profound meditation. Finding,  
@@ -3762,7 +5302,7 @@ are nothing to you &#x27;Nuffin whatever, Sa—
 I, regard dem -as among de .vanities;&#x27;  
 It is safe io say that the duBky -  
 corpse of that African will  
-neverdarkenthefield of carnage.&#x27;
+neverdarkenthefield of carnage.
 </td></tr></table>
 
 ---
@@ -3776,6 +5316,13 @@ neverdarkenthefield of carnage.&#x27;
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+correspondent of the Cincinnati Gazette,  
+writing from the Cumberland River, gives  
+a humorous ac-count of a colloquy with a  
+philosophic African. He say s -&quot; I  
+noticed upon the hurricane deck to day  
+an elderly darkey, with a philosophical  
+andretioBpectivc cast of countenance,  
 squatted upon ins bundle, toast-ing  
 himself agninbt the chimney, ind  
 apparently plunged into a state of  
@@ -3821,9 +5368,7 @@ lorces to do that kind of buBiness for
 us It is not long since nearly all the  
 women of every nation, and a great  
 number of the men, spent hours of every  
-day in nlying the needle ,in threading  
-it in pushing it through anel pulling it  
-out, by an effort which engaged most o
+day in nlying th
 </td></tr></table>
 
 ---
@@ -3836,7 +5381,14 @@ out, by an effort which engaged most o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+r.&#x27;— Tbe correspondent  
+of the Cincinnati Gazette, writing from  
+the Cumberland River, gives a humorous  
+account of a colloquy with a philosophic  
+African. He says :— &#x27; I noticed upon the  
+hurricane deck to-day an elderly darkey,  
+with a philosophical and retrospective  
+cast of countenance, equatted upon his  
 bundle, toasting himself againEt the  
 chimney, and apparently plunged into a  
 state of profound meditation. Finding  
@@ -3870,8 +5422,88 @@ worth to a man. wid de bret out ob him ?
 Self preBerbashun am de fust law wid  
 me.&#x27; &#x27;Then patriotism and honour are  
 nothing to you r&#x27; &#x27; NurHn whatever, Sa—  
-I regard dem as among de vanitieB.&#x27; I
+I regard dem as among de vanitieB.&#x27; It  
+is safe to say that the dutky corj-Ee of  
+that African will never darken the liild  
+of carnage.&#x27; Sai.aiues in Public  
+Offices.— An account has been issued of  
+every increase and diminution
 </td></tr></table>
+
+---
+
+## [From _The Weekly Perrysburg journal._](https://www.loc.gov/resource/sn85026193/1862-07-09/ed-1/?sp=4)
+
+#### 1862-07-09 &middot; [Perrysburg, O. [Ohio]](http://dbpedia.org/resource/Perrysburg%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+It  
+A correspondent of the Cincinnati G­  
+rette, writing from Cumberland river, gives  
+a humorous account of a colloquy with  
+philosophic African. He says:  
+I noticed upon the hurricane deck to day  
+an elderly darkey, with a very philosophic  
+and retrospective cast of countenance.  
+squatted upon his bundle, toasting himself  
+against the chimney, and apparently plung­  
+ed into a state of profound meditation.  
+Finding, upon inquiry, that he belonged  
+the 9th Illinois, one of the most gallantly  
+behaved and heavy-losing regiments at  
+Fort Donelson battle, and part of which  
+was aboard, I began to interrogate him up­  
+on the subject. His philosophy was  
+much in the Falstaffian vein, that I  
+give his views in his own words, as near  
+as iny momory serves me:  
+&quot;Were you in the fight?&quot;  
+&quot;Had a little taste of it, sa.&quot;  
+&quot;Stood your ground, did you?&quot;  
+&quot;No sa, I runs.&quot;  
+&quot;Run at the first fire, did you?&quot;  
+&quot;Yes, sa, and would hab run soona had  
+knowd it war coming.&quot;  
+Why, that was not very creditable  
+yoins courage.&quot;  
+&quot;Dat isn&#x27;t in my line--cookin&#x27;s my per­  
+ferlde I but have you no regard for your  
+reputation?&quot;  
+&quot;Reputation&#x27;s nuffin to me by de side  
+life.&quot;  
+you consider your life worth more  
+than other peoples?&quot;  
+&quot;It&#x27;s worth more to me, sa.&quot;  
+&quot;Then you must value it very highly.&quot;  
+&quot;Yes, sa, I does--more dan all dis wuld  
+more dan a million ob dollars, sa;  
+what would dat be worth to a man with  
+the bref out ob him? Self-preserbashun  
+am de first law wid me.&quot;  
+&quot;Then patriotism and honor are nothing  
+to you.&quot;  
+&quot;Nuffin whatever, sa--I regard dem  
+amung de vanities.&quot;  
+  
+it  
+  
+is  
+A  
+of  
+it  
+All  
+  
+to  
+the  
+S0  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026193:00280775769:1862070901:0933/pct:14.142379,51.723301,11.896799,45.024272/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3883,7 +5515,15 @@ I regard dem as among de vanitieB.&#x27; I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
+— A correspondent of the Cincinnati  
+Gazette, writing from tbo Cumberland  
+River, gives a humorous account of a  
+coll- quy with a philnsophie African. He  
+says: — &#x27;I noticed upon tho hurricane  
+deck to-day an elderly darkey, with a  
+philosophical and retrospective cast of  
+countenance, squatted upon his bundle,  
 roasting himself against the chimnoy,  
 and apparently plunged into a state of  
 profound meditation. Finding upon  
@@ -3919,7 +5559,7 @@ and honour aro nothing to you?&#x27; &#x27; Nuffin
 whatever, Sa — I regard deni as among do  
 vanities.&#x27; It is safe to say that the  
 dusky corpse of that African will never  
-darken the field of carnage.&#x27; A Ne
+darken the field of carnage.
 </td></tr></table>
 
 ---
@@ -3932,7 +5572,14 @@ darken the field of carnage.&#x27; A Ne
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+) A correspondent of the  
+&#x27;Cincinnati Gazette,&#x27; writing from the  
+Cumberland River, gives a humorous  
+account of a colloquy with a philosophic  
+African. He says: — *&#x27; I noticed upon  
+the hurricane deck to-day an elderiy  
+darkey, with a philosophical and  
+retrospective cast of countenance,  
 squatted upon his bundle, toasting  
 himself against the chimney, and  
 apparently plunged into a state of  
@@ -3966,7 +5613,10 @@ dat be worth to a man wid the bret out
 of him? Selfpreserbashum am be fust law  
 wid me.&#x27; Then patriotism and honour are  
 nothing to you?&#x27; &#x27;Nuffin whatever, Sa —  
-I regard dem as among the vanities.&#x27; I
+I regard dem as among the vanities.&#x27; It  
+is safe to say that the dusky corpse of  
+that African will never daiken the field  
+of carnage.
 </td></tr></table>
 
 ---
@@ -3979,7 +5629,15 @@ I regard dem as among the vanities.&#x27; I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ correspondent of tho  
+Cincinnatti Gazette, writing from the  
+Cum-berland Uiver, gives a-humorous  
+account of a colloquy with a philosophic  
+African. He says:-&quot;! noticed upon the  
+hurricane deck to-day on elderly darkey,  
+with a philosophical and retrospective  
+cast . of&#x27; countenance, squatted upon  
+his&#x27;bundle, toasting himself against tho  
 chimnoy,&#x27;and apparently plunged into .a  
 Btate of profound meditation. Finding &quot;  
 upon inquiry that ho belonged to thoOth  
@@ -4012,7 +5670,50 @@ dan all dis ?wulu? more dan a million ob
 dollars,; Sa; for what ?would dat  
 beiworth to a man.wid de bret out &#x27;í&#x27;ob  
 him ?&quot;&#x27; &#x27;&#x27;^Se^preserbashunam defustlaw  
-.? wid me.&quot; ? ? &quot; Tben patriotism an
+.? wid me.&quot; ? ? &quot; Tben patriotism and  
+honour are .nothing to y on Pl.*&#x27;  
+&quot;NiiiBn whatever, SL&#x27;J&#x27;regard dem- as  
+among de . vanities &quot; It is safe tb say  
+that :tho dusky corpse of that i African  
+will never darkon the field of carnage
+</td></tr></table>
+
+---
+
+## [MISCELLANEOUS.](http://trove.nla.gov.au/ndp/del/article/51555979)
+
+#### From _Rockhampton Bulletin and Central Queensland Advertiser (Qld. : 1861 - 1871)_
+
+#### 1862-08-09 &middot; [Rockhampton, Queensland](http://dbpedia.org/resource/Rockhampton)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+. A PnitosoMiic Nrnso.-A  
+eorn*)&gt;orid. m -of the iknatMoti Gaulle,  
+writing from tin Oomberbuid Uiver.  
+Kivcsahumeruusaccoui.i ot a colloquy  
+with a philosophic African Be says:-&quot;I  
+noticed upon the huriicani deck Co-day,  
+aa elderly darkey, with a philo soph  
+ina] and retrospective cast of oounfe  
+nanos, squatted «poa bis bundle,  
+toastinj himself against the chimney,  
+and apparent!] flanged tuto a state of  
+profound meditation rinding, tipon  
+inquiry, that be belonged ti &lt;xheMh  
+Illinois, one of the tnost ga&#x27;buttl]  
+behaved and heavy toeing regiments nt tb  
+.Fort Donelson battle, and patt of which  
+wai «board, I began to interrogate bim  
+on th. walgoet. Bis philosophy was so  
+much in th Valatafnan «ein that I will  
+give his views ii ?his own asorda,  
+«««ear as any memory berve «ne. &#x27; Wm yon  
+io «be %ht ?&#x27; . Had a littl «aste of it,  
+Ba.&quot; &#x27;Stood sour ground, di ?JouT -No.  
+fia, % tana&#x27; &quot;lion at the firs ?fire,  
+did you? &#x27; * Ves, Sa, and would h av ton  
+anona, bad I kn
 </td></tr></table>
 
 ---
@@ -4025,7 +5726,14 @@ him ?&quot;&#x27; &#x27;&#x27;^Se^preserbashunam defustlaw
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+«.o. — A correspondent  
+of the Cincinnati Gazette, writing, frcm  
+the Cumberland River, gives a humorous  
+account ofacolloquy with a philosophic  
+African. Hesaye, — &#x27;Inoticed upon the  
+hurricane df-ck to-day an elderly  
+durkey, with a philosophical and  
+retrospective cast of countenance,  
 squatted upon his bundle, toasting  
 hitn&#x27;.elf against the chimney, and  
 apparently plunged into a state of  
@@ -4057,35 +5765,30 @@ value it very highly.&#x27; &#x27;Yes, Sa, I does
 million of dollars, Sa ; for what would  
 dat be worth to a man wid de bref out of  
 him ! Solfpreserbashum am dei&#x27;ust law  
-wid me.&#x27; &#x27; Then patriotism and honor ar
-</td></tr></table>
-
----
-
-## [Thursday, 14th August, 1862. (Before Mr Sturt, P.M.)](http://trove.nla.gov.au/ndp/del/article/155007610)
-
-#### From _The Age (Melbourne, Vic. : 1854 - 1954)_
-
-#### 1862-08-15 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+wid me.&#x27; &#x27; Then patriotism and honor are  
+nothing to you V &#x27; Nuffln whatever, Sa —  
 I regurddemas among de vanities.&#x27; It ia  
 safe to say that the dusky corpse of  
 that African will never darken the field  
-of carnage.&#x27;  Equalization of the Sugar
+of carnage.&#x27;  Equalization of the Sugar.  
+Duties. — There has juet been printed  
+for the House of Commons, on the motion
 </td></tr></table>
 
 ---
 
-## [From _Polynesian._](https://chroniclingamerica.loc.gov/lccn/sn82015408/1862-08-23/ed-1/seq-4)
+## [From _Polynesian._](https://www.loc.gov/resource/sn82015408/1862-08-23/ed-1/?sp=4)
 
 #### 1862-08-23 &middot; [Honolulu [Oahu], Hawaii](http://dbpedia.org/resource/Honolulu)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ Lytto Bulwer.  
+A Philosophic Darkey.  
+A correspondent of the Cincinnati Gazette, writ­  
+ing from the Cumberland river, gives the following  
+humorous account of a colloquy with a philosophic  
+darker :  
 I noticed anon the hurricane deck to-daj an el­  
 derly dark ej with a very philosophical and retro­  
 spective cast of countenance, squatted upon his  
@@ -4143,96 +5846,224 @@ May be not, sa a dead white man ain&#x27;t much
 to dese soger. let alone a dead nigga but I&#x27;d a  
 missed myself, and dat was de pint wid me.&quot;  
 It is safe to say thai the dusky corpse of that  
-African will never darken the field of carnage
+African will never darken the field of carnage.  
+sparge) Earapea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_lilac_ver02%2Fdata%2Fsn82015408%2F00212471379%2F1862082301%2F0489.jp2/pct:6.225741,29.407168,15.013197,29.809088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471379:1862082301:0489/pct:8.286778,34.263704,20.080695,45.807748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Daily Ohio statesman._
+## [From _Carlisle herald._](https://panewsarchive.psu.edu/lccn/sn86071297/1862-10-31/ed-1/seq-1/)
+
+#### 1862-10-31 &middot; [Carlisle, Pa.](http://dbpedia.org/resource/Carlisle%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+A COLORED FALSTAFF  
+  
+A Western correspondent on one of  
+the l‘lissisSippi gun-boats gives the fol­  
+lowing account of a spicy conversatioti  
+with a philosophical colored man  
+&quot;1 noticed upon the hurricane deck to­  
+day an elderly darkie with a very philo­  
+sophical and retrospective cast of counte­  
+nance, squatted upon his bundle toasting  
+his shins against the chimney, and appa.  
+rently plunged into a state of profound  
+meditation. Finding - upon inquiry that  
+he belonged to the Ninth Illinois, , one of  
+the most gallantly behaved and heavily  
+losing regiments at the Fort Donelsou  
+battle, and part of which was aboard, I  
+began to interrogate him upon the sub­  
+ject. His philosophy was so` much id  
+the Falstathan vein that I will.give his  
+views in his own words as near as my  
+  
+memory serves me :  
+  
+&quot;Were you in the fight ?&quot;  
+&quot;Had a little taste of it, sa.&quot;  
+&quot;Stood your ground, did you?&quot;  
+&quot;No, sa, I runs..&quot;  
+&quot;Run at the first fire, did you ?&quot;  
+&quot;Yes, sa, and would hab run Boons;  
+hab I knowd it war Comm.&quot;  
+  
+&quot;Why, that wasn&#x27;t very creditable ter  
+your courage.&quot;  
+  
+&quot;]kit isn&#x27;t in my line, sa—cookin&#x27;s my  
+preceshuti.&quot; &#x27;  
+  
+&quot;Well, but have - yOu X° regard for your  
+reputation ?&quot;  
+&quot;Reputation&#x27;s nuflin to me by de side  
+ob life.&quot;  
+  
+&quot;Do you consider your life worth more  
+than other,penple&#x27;s  
+&quot;It&#x27;s worth more to me, en.&#x27;&#x27;  
+  
+&quot; I . hen you must value it very highly?&quot;  
+  
+&quot;Ves, sa, 1 does—more dan all dig  
+wuld—more dun a million ob dollars, sa,  
+for what would dat be wuth to a man wid  
+do brerout oh him ? Belfpreserbasban  
+am de fust law wid me.&quot; &#x27;&quot;  
+  
+&quot;But why should you act upon a dif:  
+ferent rule from other wen ?&quot;  
+&quot;Because different men sets different  
+values upon dar lives—mine is in de mar­  
+ket.&quot;  
+  
+&quot;But if you lost it, you would have the  
+satisfaction of knowing that you died fot  
+your country.,,  
+  
+&quot;What satisfaction would dat be to me  
+when de power of feelin&#x27; was gone ?&quot;  
+&quot;Then patriotism and honor are no&amp;  
+ing to you l&quot;  
+  
+&quot;Malin whatever, sa--.1 regard dem as  
+among de vanities.&quot;  
+&quot;If our soldiers were like you, traitors  
+might have broken up the Government  
+without resistance,&quot;  
+  
+&#x27;Yes, sa, dar would hab been no help  
+for it 1 wouldn&#x27;t put my life iu de scalp  
+&#x27;giust any Gobernment, Alex existed,  
+for no 1l obernment could replace do loss  
+to me.&quot;  
+  
+&quot;Do - you think any of your Company  
+you&quot;li3d beau  
+killed ?&quot;  
+  
+&quot;May he not, sa—a dead white man  
+ain&#x27;t much to dose sojers, let alone . a dead  
+nigga—but I&#x27;d a ,Inissed myself, and dat  
+was de pint wid me.&quot;  
+It is safe to say that the dusky corpse  
+of that African will never darken the field  
+of carnage.
+</td></tr></table>
+
+---
+
+## [From _Daily Ohio statesman._](https://www.loc.gov/resource/sn84028645/1863-11-06/ed-1/?sp=1)
 
 #### 1863-11-06 &middot; [Columbus, Ohio](http://dbpedia.org/resource/Columbus%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+eeping ducts in perfect order by means of fre  
   
+quent bathings eec oputar Sctentine Reblete.  
+  
+A Fhilosophie Darkey.  
+  
+A correspondent of the Cincinnati Gazatte,  
+writing from the Cumberland river, gives the  
+following humorous colloquy witha philozophic  
+darkeru a so ueve we  
+I noticed uto the burticance deck to day an  
+elderly darkyowith awery-philosophical and  
+retrospective cast of couutenabed, equatted upon  
+hi nule, toassing his shine agamnat the him  
 ney, and apparently plunged into a state of pro  
-found meditation. Finding, upon inqurr, that  
-he beionged to the 9th illinois, ohe of the most  
-gallantly behaved and heavy losing regiments  
-at Fort Donelson battle, and part of which  
+found meditation. Finding upon inqury, that  
+he beionged to the 3th Iilinois, ohe of the most  
+gallantly behaved and heavy losing regimeats  
+at Fort Donelson battle, and pars of which  
 was aboard, I began to interrogate him upon the  
-subject. His philosophy was so much in the  
-Falstaffian vein that I will give his views  
-his own worde s near as my memory serve  
-me! bildg amltep teed Ae  
-Were you inth  
-he n rht.&quot;  
+subject. His plilosophy was 30 much in the  
+falstaman vein that I win give his viets  
+his own worde aa nearit my memory serve  
+met  bildaln niltep teed  I  
+Were you in th  
+no a  
 Had a little taste of it, sa.&quot;  
 &quot;Stood your ground, did you?&quot;  
-&quot;No sa; I runs.&quot;  
+&quot;No Sa; a runs.  
 &quot;Run at the first fire, did you?&quot;  
 &quot;Yes, and would hab run sooner, had  
 know&#x27;d it war comin.&quot;  
   
-&quot;Why that waan&#x27;t very creditable to four  
-pourage.&quot;  aw nouos;   
-&quot;Dat jen&#x27;t in my line, sa--cookia&#x27;s tny proe  
-fession.&quot;I Ied tadw dinod ofat  
+&quot;Why, that wasn&#x27;s very creditable to your  
+pourage.&quot; s awe souins  hapn  
+&quot;Dat ien&#x27;t in my line, sa-cookia&#x27;s my pro-  
+fession.&quot;I Inedt tadw- inod afiat  
 &quot;Well, but have you no regard for your  
-reputation?&quot; in o a  
-Reputation&#x27;s nufflin to me by de side of  
-life.&quot; in $300 ad4 qo ageod I ;hinshad  
+reputation?&quot; ns a e  
+&quot;Reputation&#x27;s nufflin to me by de side of  
+life.&quot; in taon adt qo ageod i1 migseaad  
 &quot;Do you consider your life worth more than  
-other people&#x27;s?&quot;e tol tulqesg as lo aill  
-&quot;It&#x27;s worth more to me, sa,&quot;e het w  
+other people&#x27;s?&quot;s ot tolqoan at le alll  
+&quot;It&#x27;s worth more to me, sa,&quot;ne howls  
 &quot;Then you must value your life highly.&quot;  
-&quot;Yes, Sa, I does--more than all dis wuld,  
-more than a million ob dollars, sa, for what  
+&quot;Yes, sa, I does--more than all dis wuld,  
+more than A million ob dollars, sa, for what  
 would dat be wurth to a man wib de bref out  
-ob him? Self-preserbashum am de fustlaw  
-wid me,&quot;ens3793 onn zoen edor isdr  
-But why should you ast upon a different rule  
-from other men? ta tot differe  
-differont mon set different valnes  
-upon dar lives; mino is uot in de markett&quot;  
-&quot;But if you lost is, you would have the satis-  
-faction of knowing that you died for your coun  
-try.&quot;s ants ont 3 banes atgaanttt  
+ob him? Self-preserbashum am de fust lan  
+wid me,&quot;ns372 ann zoan edor ieir  
+But why should you aet upon a different rule  
+from othor men. &quot; oa set differe  
+differont mon set different values  
+upon dar lives; mino is uct in de markett&quot;  
+&quot;But if you lost it, you weuld have the satis-  
+faction of knowing that you diad for your coun  
+try.&quot;sants ont 3 banas a1attt  
 &quot;What satisfaction would dat be to me when  
 de power ob feeliu&#x27; was gone.&quot;  
 &quot;Then patriotism and honor are notping to  
-you.&quot;s lavas us sieh binen ods wor  
+you.&quot;  ies us sich bine tor  
 &quot;Nuffin whatever, sa--I regard dem as anieng  
 de vanities.&quot;i  
 &quot;If our soldiers were like you, traitors maight  
 have broken up the Government without re-  
-sistance, aniysh vo nsad achinsagro bas;  
-&quot;Yes, sa; das would have been no help for it:  
+sistance, sh vo nsud achadsngro bas;  
+&quot;Yes, sa; das would have been no help for it;  
 wouldn&#x27;t put my life in the scale &#x27;gainst any  
-Gobernment dat eber existed, for no Gobern  
+Gobernment dat eber existed, for no Gobern-  
 ment could replace de loss to me&quot;  
 &quot;Do you think any of&#x27; your company would  
 have missed you if you bad been kilied.&quot;  
 &quot;May be not, sa--a dead white man ain&#x27;t  
-much to dese solgers, let Uone a dead nigga  
+much to dese rolgers, let tone a desd nigge  
 but I&#x27;d missed myself, and dat was de pins wid  
-me,&quot;1a et a tliiiy  
-It is safe to say that the dusky cory se of that  
-Afrioan will never darken the field of a arnage.
-</td></tr></table>
+me,&quot;8a13ad nad bluigiiy  
+It is safe to say that the dusky cory so of that  
+Afrioan will never darken the field of a arnage.  
+  
+W. R
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774698:1863110601:0449/pct:51.588125,10.388175,29.748806,86.185937/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _The daily register._](https://chroniclingamerica.loc.gov/lccn/sn86092517/1863-11-07/ed-1/seq-1)
+## [From _The daily register._](https://www.loc.gov/resource/sn86092517/1863-11-07/ed-1/?sp=1)
 
 #### 1863-11-07 &middot; [Wheeling, W. Va.](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+e city.  
+A Philosophic Darkey.  
+A correipotident of the Cincinuati Ga­  
+zette , writing from the Cumberland river,  
+gives the following humorous colloquy with  
 a philosophic darkey:  
 I noticed upon the hurrioaue deok to-day  
 an elderly darkey with a very philosophical  
@@ -4307,48 +6138,229 @@ but Td missed myself, and dat *as do pint
 wid me  
 It is safe to say that the dusky cor^e ot  
 that African will never darken the field of  
-carnage.
+carnage.  
+  
+The St
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_chekhov_ver01%2Fdata%2Fsn86092517%2F00415660583%2F1863110701%2F0215.jp2/pct:49.085900,47.213810,16.403706,40.493977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn86092517:00415660583:1863110701:0215/pct:44.282494,43.690693,21.202104,45.184737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Louisville daily Democrat._](https://archive.org/details/xt7w3r0psv6k/page/n3/mode/1up?view=theater)
+## [From _Democratic watchman._](https://panewsarchive.psu.edu/lccn/sn83031981/1863-11-20/ed-1/seq-1/)
 
-#### 1863-11-20 &middot; [Louisville, Kentucky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
+#### 1863-11-20 &middot; [Bellefonte, Pa.](http://dbpedia.org/resource/Bellefonte%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ illustration of [IY  
+  
+“Were you in the fight  
+  
+«Had = little taste of it ?  
+  
+Stood your ground #7  
+  
+“No sa, I runs.”  
+  
+“Run at the first fire, did you 2”  
+  
+“Yes, and would run sooner, had I kno&#x27;d  
+it war comin,”  
+  
+“Why that wasn’t very creditabe to your  
+courage.”  
+  
+fesion.”’  
+‘Well but have you no regard for your rep-  
+utation  
+  
+life.”  
+  
+Do you consider your life worth more  
+than other peoples ?”’  
+  
+“It’s worth m re to me, sa.”  
+  
+“Then you must value your life high-  
+  
+“Yes sa. I does—more than all dis wuld  
+more than a million ob dollars, sa, for what  
+would dat Le wurth 10 a man wid de bef  
+out ob him ??  
+  
+“What 27  
+  
+¢Nelf-preserbashum is the law wid me,  
+sa.”  
+  
+But why should you act upon a differeat  
+rule from otuer men ¥”  
+  
+‘Because different men set different val-  
+ues upon dar lives ; mine is not in the mar-  
+ket?’  
+  
+Bat if you lost it, you would have the  
+satisfaction of knowing that you died for  
+your country.”  
+  
+“What satisfaction would dat be, when  
+de power ob feelin’ gone ?”’  
+  
+“Then patriotism and honor are nothing  
+to vou 2’  
+  
+“Nuaffiin whatever, sa 77”  
+  
+“-1f our soldiers were like you, traitors  
+might have broken up the Government long  
+ago!’  
+  
+Yes sa, dar would have been no help for  
+it, wotldn&#x27;t put wy life in the scale’ gainst  
+any Gobernment dat eber existed. no sir-e-e  
+tor no Gobernment couid replace de_loss to  
+me,”  
+  
+“Do you think any of your company  
+would have missed you if you had been  
+killed 27  
+  
+«May be not, sa—a dead white man ain’  
+much to dese scjers, let alone a dead nig—  
+but I&#x27;d m:ssed wyself, and dat was de pint  
+wid me,”  
+  
+It is safe to say that the dusky corpse of  
+that African will never darken the fleld of  
+carnage.  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_DemoWatchman1_ver01%2Fdata%2Fsn83031981%2F00000001%2F1863112001%2F0476.jp2/pct:38.458574,39.401529,19.210019,35.433694/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Democratic watchman._](https://panewsarchive.psu.edu/lccn/sn83031981/1863-11-20/ed-1/seq-1/)
+
+#### 1863-11-20 &middot; [Bellefonte, Pa.](http://dbpedia.org/resource/Bellefonte%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-for no government could ever replace de loss and seven others, released from Castle T n  
-tame.” der on parole, have reached Washington.  
+odrresp . nude! t&quot;of, the Chicaned Grrette  
+writing trim the Cumberland river, gives  
+1/ 0111 0 1 :111111dUmidums_0011Apor_tlItin  
+philosophiclarkor  
+.1 nodeed upon the hurricane deck today  
+au ebleily. darker with s very phileaphloal  
+and retrospective eastoFeountenanoe,squirt­  
+bid upon hie bundle, toasting his shins by  
+the chimney, and apparently plunged into  
+s state of profound meditation. Finding;  
+upon inquiry, thit be belongeitho the tith.  
+Illinois. one of the mist gallantly behaved  
+and heavy losing regiments at Fort Donal. ,  
+On&#x27; battle; and part of which was aboad, 1  
+began interrogate ,him uporA the stillest, as  
+Soildws : • •  
   
-“Do yon think any of yonr company would They state that the removal of twelve thou  
-have mUaed you if you had been killed?” sand U nion prisoners from Richmond to Dan  
-“May be not, sa; a dead white man alnt ville has commenced, and already twenty-five  
-ranch to dese sogers, let alone a dead nigger; hundred have gone.  
-  
-but I’d m as myself, and dat was de pint wid There ia great compliant among the people  
-me ” In Richmond at the high prices and the scarci-  
-  
-lt is safe to say that the dusky corpse of ty of provisions, and they are forced to adopt  
-that African will never darken the field of car- the advice of the papers to live without ea
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/xt7w3r0psv6k&#0036;3/pct:6.143640,31.121486,25.310066,3.923711/600,/0/default.jpg"/>
-</td>
-</tr></table>
+&quot;Were &#x27;you in the figh
+</td></tr></table>
 
 ---
 
-## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031490/1863-11-21/ed-1/seq-3)
+## [From _Democratic watchman._](https://panewsarchive.psu.edu/lccn/sn83031981/1863-11-20/ed-1/seq-1/)
+
+#### 1863-11-20 &middot; [Bellefonte, Pa.](http://dbpedia.org/resource/Bellefonte%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ worth&#x27; more  
+than other peoples 1&quot; -  
+&quot;It&#x27;s worth m ,re to mo. sa..&quot;  
+&quot;Then you must Yalue your life high­  
+ly.  
+  
+&quot;Yes ea, I does—more then all die wuld  
+more than a million ob dollars, sa.for wha t  
+would dat be worth io aMan wid de bief  
+out ob Wulf&quot;  
+“Whell&#x27;? •  
+&quot;Self-preserbeshum is the law wid me,  
+  
+ES  
+  
+&quot;But why should you sot upon a different  
+rule from other men i&quot;  
+.ißeenuse different men set different val­  
+ues upon dar lives ; mine is not in the mar­  
+;%.  
+heti&#x27;  
+  
+&quot;Bat if you kid it, you would have the  
+aatihfaction of kobwing that you died - for  
+your country.&quot;  
+  
+&quot;What eatiefactioni would. dat be, when  
+peek+ Oh feelin&#x27; gone ?&quot;  
+  
+&quot;Then patriotism and honor are notti,Mg.  
+to you I&quot; --  
+&quot;Nuelin whatever.  
+&quot;If, oitr soldi ere like you, traitor.  
+might b • ertio - kew up the Government long  
+. •  
+  
+Yee sa, dor would .have been no help for  
+it, wouldn&#x27;t put my life in the scale&#x27; gainst  
+any Goberbment dat ober existed. no sire-e,  
+for no Gobernment could replace de lose to  
+me.&quot;  
+  
+&quot;Do you think any of youi. company  
+would have mused you if you had been  
+trifled ?&quot;&#x27;  
+  
+&quot;Mar be not, sa!&#x27;=-4i dead white man ain&#x27;t  
+mach tiaeie sofers, let alone a dead tug—  
+but I&#x27;d missed myself, and dat was de pint  
+wid me,&quot;  
+  
+• IC is safe to Buy that the dusky corpse of  
+that African will never darken the field of  
+  
+=  
+  
+ntivarrs THE Itizoi •&#x27;  
+„  
+The more we&#x27; effect upon the result&#x27; of  
+the recent eleotion the better we&#x27; are, in  
+some respects, satiated with it. It may in  
+the end prove. thil beat&#x27; that Jiidge Wood­  
+wa
+</td></tr></table>
+
+---
+
+## [From _Chicago daily tribune._](https://www.loc.gov/resource/sn84031490/1863-11-21/ed-1/?sp=3)
 
 #### 1863-11-21 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ os kilteria.  
   
+A Negro Philosopher.  
+  
+A correspondent of the Cincinnati OaztUt,  
+&#x27;writing from tbe Cumberland Elver, gives  
+the followlcg humorous colloquy with a  
+philosophic darkey;  
+I noticed upon tbe hurricane deck to d&#x27;’y  
 an eldeily darkey, with a very philosophical  
 and retrospective caet of couetenance, squat*  
 ted upon his handle, toasting his shins against  
@@ -4360,21 +6372,28 @@ and heavy losing regiments at the Fort Don­
 then battle, and a part of which was aboard,  
 1 began to interrogate him upon the subject.  
 Bis philosophy was so much in the Falstaffi­  
-an vein that 1 will give his
+an vein that 1 will give his   
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_edgewater_ver02%2Fdata%2Fsn84031490%2Fno_reel%2F1863112101%2F0003.jp2/pct:33.517053,29.463893,9.859619,4.167277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863112101:0003/pct:33.502921,26.175480,9.873752,7.690054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Chicago daily tribune._](https://chroniclingamerica.loc.gov/lccn/sn84031490/1863-11-21/ed-1/seq-3)
+## [From _Chicago daily tribune._](https://www.loc.gov/resource/sn84031490/1863-11-21/ed-1/?sp=3)
 
 #### 1863-11-21 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d would have rna sooner, had I  
+:  
+“ Were you in the fight?’*  
+“ Q&amp;d a little taste of it, ea,”  
+“Stood your ground. did you?”  
+“Nora, Irons.”  
+“ Runat the drat fire, did you ?”  
+“Yes, and would have rna sooner, had I  
 know&#x27;d it war comluV*  
   
 “&quot;Why, that nasa’t very creditjble to yoar  
@@ -4417,34 +6436,29 @@ out resistance.”
   
 “Yee.aa; darwouldbave been no help for  
 ii; wouldn’t put my lite in the BCola ’gilnst  
-any goverrment that ever existed, for no  
-government could replace de loss to me ”  
-“Do you thlrk any ot your company  
-would have missed you if you hid been kill­  
-ed?”  
-  
-* May be not, sa; a dead wb’ta man ain’t  
-much to deto scgeis, let alone a dead nlgga;  
-bat I’d mlfsed my&amp;elf, and dnt wna the pint  
-wid me.”  
-  
-It is safe to say ttat the dueky corpse of  
-tl-at African still reter darken the lieid of  
-carnage.
+any goverrment that ever existed, for n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_edgewater_ver02%2Fdata%2Fsn84031490%2Fno_reel%2F1863112101%2F0003.jp2/pct:33.361598,35.637908,9.996231,16.661784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863112101:0003/pct:33.371019,33.924125,9.967967,14.647722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Holmes County farmer._
+## [From _Holmes County farmer._](https://www.loc.gov/resource/sn84028822/1863-11-26/ed-1/?sp=4)
 
 #### 1863-11-26 &middot; [Millersburg, Ohio](http://dbpedia.org/resource/Millersburg%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+A PHHLOSOPHIC DARIEy.  
+  
+A correspondent of the Cincinnati Ga­  
+rette, writing from the Cumberland River,  
+gives the followingl humorous coloquy  
+with a philosophic darkey:  
+I noticed upon the hurricane deck to­  
 day an elderly darkey with a very philo­  
 sophical and retrospective cast of coun­  
 tenance, squatted upon his bundle, toast­  
@@ -4517,18 +6531,34 @@ ga--but I&#x27;d missed myself, and dat was
 de pint wid me.&quot;  
 It is safe to say that the dusky corpse  
 of that African will never darken the  
-field of carnage.
-</td></tr></table>
+field of carnage.  
+  
+Western ScENery.  
+  
+There are rivers on the upper Missis­  
+sippi which have no rival on earth  
+rock,-forests--sky and waters blended  
+in a magnificent fragment of beauty which  
+fairly saddens the poet or painter with  
+the conviction that neither words no
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1863112601:0825/pct:7.006484,46.253844,12.608069,45.401174/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _Juliet signal._
+## [From _Juliet signal._](https://www.loc.gov/resource/sn84024082/1863-12-01/ed-1/?sp=1)
 
 #### 1863-12-01 &middot; [Juliet [i.e. Joliet], Ill.](http://dbpedia.org/resource/Joliet%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+l desired no better.  
+A NEgTO PhILOsOPHER.  
+A correspondent of the Cincinnatti Ca­  
+zette, writing from the Cumberland river,  
+gives the following humorous colloquy with  
 a philosophic darkey:  
 I noticed upon the hurricane deck to day  
 an elderly darkey, with a very philosophi  
@@ -4538,13 +6568,13 @@ shins against the chimney, and apparently
 plunged into a state of profound medita­  
 tion Finding, upon inquiry, that he be  
 longed to the 9th Illinois, one of the most  
-gelfantly behaved and heavy losing regi-  
-mente at the gort Donelson battle, and a  
-cart of whion was aboard, I began to in  
+gelfandy behaved and heavy losing regie  
+mente at the wort wonelson battle, and a  
+part of wuton was aboard, I began to in  
 terrogate him upon the subject. His phi­  
-losophy was so much in the Falstafflan vein  
+losophy was so much in the Falstaffian vein  
 that I will give his views in his own words  
-as near as my memary serves me:  
+as near as my memory serves me:  
 Where you in the fight?  
 Had a little taste of it, sa.  
 Stood your ground, did you?  
@@ -4553,17 +6583,17 @@ Run at the first fire, did you?
 Yes, and would hab run sooner had I  
 know&#x27;d it war comin&#x27;.  
 Why, that wasn&#x27;t very credituble to your  
-conrage.  
-Dat isn&#x27;t in my line,--cookin&#x27;s my pro.­  
-fesiot but have you no regard for your  
+courage.  
+Dat ien&#x27;t in my line,--cookin&#x27;s my pro.­  
+ wolt but have you no regard for your  
 reputation?  
 Reputation&#x27;s nuffin to me by the side ob  
 life.  
 Do you consider your life worth more  
 than other people&#x27;s?  
 It is worth more to me, sa.  
-Then you muet value your life highly?  
-Yos, ea, I does, more can all dis world  
+Then you must value your life highly?  
+Yoe, ea, I does, more can all dis world  
 more than a million ob dollars sa, for what  
 would dat be wurth to a man wid de bref  
 out ob him? Self preserbashum am de  
@@ -4572,7 +6602,7 @@ But why should you act upon a different
 rule from other men?  
 Because different men set different val  
 ues upon dar lives; mine is not in de mark­  
-Bot, if you lost it, you would bavs the  
+But, if yoe lost it, you woald heve the  
 satisfaction of knowing that you died for  
 your country.  
 What satisfaction would dat be to me  
@@ -4582,46 +6612,38 @@ to you?
 Nuffin whatever, sa: I regard dem as  
 among de vanities  
 If our soldiers were like you, traitors  
-might have broken up the government  
+might have broken up the Government  
 without resistance.  
 Yes, sa; dar would have been no help  
 for it: wouldn&#x27;t put my life in the scale  
-ginst any government that ever existed  
+ginst any Government that ever existed  
 for no government could replace de toss to  
-me  
+mGs  
 Da you think any of your company  
 would have missed you if you had been  
 killed?  
-May be not, sa--a dead white man aint,  
-much to dese sogers, let aloine a dead  
+May be not, sa--a dead white man ain&#x27;e  
+much to dese sogers, let aline a dead  
 ga--but I&#x27;d missed myself, and dat was de  
-o w4 mGs  
-It is safe to say that the dusky cosnes of  
-that African will never darken the feld o
-</td></tr></table>
+aae 4 tHGs  
+It is safe to say that the dusk cornss of  
+that African will never darken the feld of  
+ShARP PrACTiCE. Many years ago at a  
+dinner party i
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:00212471628:1863120101:0190/pct:38.075253,41.926412,10.911722,35.680806/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _White Cloud Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015486/1863-12-03/ed-1/seq-1)
+## [From _White Cloud Kansas chief._](https://www.loc.gov/resource/sn82015486/1863-12-03/ed-1/?sp=1)
 
 #### 1863-12-03 &middot; [White Cloud, Kan.](http://dbpedia.org/resource/White_Cloud%2C_Kansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-lott&#x27;a ailreTy gtoaca,  
-I catch the glimmer of the stream,  
-Aad lilies cool and white.  
-Bnt, ohl a shadow darkens all  
-Tha annahino and the bloom;  
-The roice, whoae kind and loTing words  
-Were aweeter than the aong of birds,  
-Is aileat ia tli tomb.  
-How can the Summer fall a ftj  
-Abont oor ramahone door.  
-When all the qniet waja he trod  
-Through leafy wood r bloomy aod  
-Shall know him nevermore?-i  
-at a  
+ a  
 A. IVcgro PIiileMopEaer.  
 A correspondent of the Cincinnati Ga  
 zette, writing from tbe Cumberland riv  
@@ -4667,21 +6689,26 @@ world, moro thai a million oh dollars,
 es, for what dat wonld he worth to a  
 man wid de href ont oa him? Self pre­  
 serbashnm am do fust law wid me.&quot;  
-&quot;Bnt why sho
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015486%2F00294555626%2F1863120301%2F0037.jp2/pct:53.507774,37.077005,13.026166,32.613909/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _White Cloud Kansas chief._](https://chroniclingamerica.loc.gov/lccn/sn82015486/1863-12-03/ed-1/seq-1)
-
-#### 1863-12-03 &middot; [White Cloud, Kan.](http://dbpedia.org/resource/White_Cloud%2C_Kansas)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+&quot;Bnt why should yon est npon a dif­  
+terent rale from other men ?&quot;  
+&quot;Because . different men aet different  
+values npoa der lives; miao is not in do  
+market.&quot;  
+&quot;Bnt if yon lost it, yoa would have  
+the satisfaction of knowing that yoa died  
+for yonr country,&quot; -  
+&quot;What satisfaction wonld dat be U  
+ma when da do war ob feelin&#x27; was goae?&quot;  
+Then patriotism and honor are no­  
+thing to yon ?&quot; &#x27;&quot;  
+&quot;Nnffin -wheteva. sa; I regard dem as  
+among de vanities.&quot;  
+&quot;If onr soldiers were like you, traitors  
+mitrht have broken up the Government  
+writhnnt rMtataaee.&quot;  
+eV. ear dar would have been no help  
+for it; wouldn&#x27;t put my life in the scale  
+&#x27;gainst any government that ever existed,  
 for ao government conld replace the loss  
 to me.&quot; h  
 &quot;Do yon think any of your company  
@@ -4694,21 +6721,32 @@ dead nigga; but I&#x27;d mimed myself, aad
 dat waa do pint wid me.&quot;  
 It is safe to say that tho dnsky corpse  
 of that African will never darken the  
-field of carnage
+field of carnage.  
+We were accidentally a listener, not  
+long ago, to a Methodist Minister labor­  
+in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/khi_allen_ver02%2Fdata%2Fsn82015486%2F00294555626%2F1863120301%2F0037.jp2/pct:53.849071,78.710365,12.988244,7.687184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:00294555626:1863120301:0037/pct:71.304018,58.406608,17.835481,59.952038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1863-12-09/ed-1/seq-1)
+## [From _The spirit of democracy._](https://www.loc.gov/resource/sn85038115/1863-12-09/ed-1/?sp=1)
 
 #### 1863-12-09 &middot; [Woodsfield, Ohio](http://dbpedia.org/resource/Woodsfield%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ replied John. And  
+he went to help the ringers.  
+&#x27; How merciful has God been to me  
+this night!&quot;&#x27; was the concluding thought  
+of Lady Katherine Dudley.  
+A Philosophic Darkej,  
+A Correspondent of the Cincinnati Gu­  
+zrite. writing from the Cumberland river,  
+gives the following&#x27; humorous colloquy  
 with a philosophic darkey :  
 I noticed upon the hurricane deck to­  
 day an elderly, with a very philosophical  
@@ -4788,74 +6826,93 @@ dead nigga but I&#x27;d miss myself and dat
 was de pint wid me.&#x27;  
 It is sale to say that the dusky corps  
 of that African will never darken the  
-field of carnage
+field of carnage.  
+. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F00296027467%2F1863120901%2F0101.jp2/pct:68.104478,44.975446,25.014925,38.771110/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027467:1863120901:0101/pct:68.104478,39.118457,25.014925,45.550365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Evansville daily journal._
+## [From _Evansville daily journal._](https://www.loc.gov/resource/sn86059181/1863-12-24/ed-1/?sp=4)
 
 #### 1863-12-24 &middot; [Evansville, Ind.](http://dbpedia.org/resource/Evansville%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-self agaiust the chimney, and apparently  
+A Cumberland River correspondent  
+givS a humorous account of a eoloqny  
+with a philosephie &quot; contraband&#x27;&#x27; whom  
+he met on that classic stream. He says:  
+&quot; I noticed npon the hurrican deck to­  
+day, an elderly darkey, with a philosophic  
+and retrospective cast of countenance,  
+squatted upon his bundle, toasting him­  
+self against the chimney, and apparently  
 plunged into a state of profound medi­  
-tation, Finding, upon inquiry, that he  
+tation. Finding, npon inquiry, that he  
 belonged to the 9th Illinois, one of the  
 most gallantly behaving and heavy loos­  
-ing regiments at the Fort Donelson bat­  
-tle, and part of which was aboard, I be­  
+ing regiments at the Fort DoheTson bat­  
+tie, and part ot which was aboard, I be­  
 gan to interrogate him on the subject.  
 His philosophy was so much in the Fall­  
 staffian vein, that I will give his views in  
 his own words, as near as my memory  
 serves me.  
-&quot;Were you in the fight?&quot;  
-&quot;Had a little taste of it, sa.&quot;  
-&quot;Stood your ground, did you?&quot;  
-&quot;No, sa, I runs.&quot;  
-&quot;Run at the first fire, did you?&quot;  
-&quot;Yes, sa, and would have run sooner  
-had I known it war comin&#x27;.&quot;  
-&quot;Why, that was not very creditable to  
-your courage.&quot;  
-&quot;Dat isn&#x27;t in my line, sa; cookin&#x27;s  
+&quot; Ware you in the fight 7&quot;  
+&quot; Had a little taste-of it, sa.&quot;  
+&quot; Stood yonr ground, did you ?&quot;  
+&quot; No, sa, I runs.&quot;  
+&quot; Run at the first fire, did yon ?&quot;  
+&quot;Yes, sa, anc would have run sooner  
+bad I known it war comin&#x27;.&quot;  
+&quot; Why, that was not very creditable to  
+yonr courage.&quot;  
+&quot; Dat isn&#x27;t in my line, sa; cookin&#x27;s  
 my perfession.&quot;  
-&quot;Well, but have you no regard for  
-your reputation?&quot;  
-&quot;Reputation fam nuffin to me by de  
+&quot; Well, but have you no regard for  
+yonr reputation?&quot;  
+&quot; Reputation am Jnuffin to me by de  
 side ob life.&quot;  
-&quot;Do you consider your life of more  
+&quot; Do yon consider your life of more  
 value than other people&#x27;s?&quot;  
 &quot;It&#x27;s wuf more to me, sa.&quot;  
-&quot;Then you mast value it very highly.&quot;  
-&quot;Yes, sa, I does---more dan all ob dis  
-world, sa---more dan a million ob dol­  
+&quot; Then you mast value it very highly.&quot;  
+&quot; Yes, sa. I does more dan all ob dis  
+world, sa more dan a million ob dol­  
 lars, sa; for what would dat be wuf to a  
-man wid de bref out ob him? Sef pres.  
+man wid de bref out ob him ?&quot;Sef-pres-erbashum  
 am de fust law wid me.&quot;  
-&quot;Then patriotism and honor are noth­  
+&quot; Then patriotism and honor are noth­  
 ing to you.&quot;  
-&quot;Nuffin whatever, sa. I regards dem  
+&quot; Nuffin whatever, sa. I regards dem  
 among de vanities.&quot;  
 It is safe to predict that the dusky  
 corpse of that African will never darken  
 the field of carnage
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059181:00296022020:1863122401:0407/pct:7.309766,66.458116,14.784302,31.131966/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Littell's Living Age (1844-1896)_](https://archive.org/details/sim_living-age_1863-12-26_79_1021/page/n26/mode/1up?view=theater)
+## [From _Littell's living age_](https://archive.org/details/sim_living-age_1863-12-26_79_1021/page/n26/mode/1up?view=theater)
 
 #### 1863-12-26 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
+  
+  
+A Necro Pattosopner.—A correspondent of  
+the Cincinnati Gazette, writing from the Cum-  
+berland River, gives the following humorous col-  
+loquy with a philosophic darkey :—  
   
 I noticed upon the hurricane deck to-day an el-  
 derly darkey, with a very philosophical and ret-  
@@ -4944,30 +7001,60 @@ much to dese sogers, let alone a dead niggar ; but
 I’d missed myself, and dat was the pint wid me.’’  
   
 It is safe to say that the dusky corpse of that  
-African will never darken the field of carnage.
+African will never darken the field of carnage.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_living-age_1863-12-26_79_1021&#0036;26/pct:12.008929,47.822398,75.178571,42.929864/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_living-age_1863-12-26_79_1021%2Fsim_living-age_1863-12-26_79_1021_jp2.zip%2Fsim_living-age_1863-12-26_79_1021_jp2%2Fsim_living-age_1863-12-26_79_1021_0026.jp2/pct:11.919643,47.822398,75.267857,42.929864/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Cedar Falls gazette._
+## [From _Cedar Falls gazette._](https://www.loc.gov/resource/sn83025161/1864-01-01/ed-1/?sp=1)
 
 #### 1864-01-01 &middot; [Cedar Falls, Iowa](http://dbpedia.org/resource/Cedar_Falls%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+.  
   
-one of the most gallantly behaved and heawy  
+it  
+  
+REGHO PHRLOSOr  
+  
+o A correspondent of the Cincinnasi C.  
+writing from the Cumberiand River,  
+the following humorous colloquy with  
+  
+losophic darkey  
+I noticed upon the hurricane dock to  
+an elderly darkey, with
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025161:00279529327:1864010101:0779/pct:60.326772,5.478395,32.351280,84.210157/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Cedar Falls gazette._](https://www.loc.gov/resource/sn83025161/1864-01-01/ed-1/?sp=1)
+
+#### 1864-01-01 &middot; [Cedar Falls, Iowa](http://dbpedia.org/resource/Cedar_Falls%2C_Iowa)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ sh  
+the chimney and apparently plun  
+state of profound meditation. Findt  
+inquiry, that he belonged to the 3th Illisess.  
+one of the most gallantly behaved and heswy  
 losing regiments at the Fort Donelson battle.  
 and a part of which was aboard, I  
 interrogate him upon the subject. His  
 losophy was so much in the Falstafflas  
-that I will give his views in his ows  
+that I will give his views in his own  
 as near as thy memory serves me  
   
-Were you in the fight?  
+Were you in the fight? ea  
 Had a little taste of it, sa.  
 Stood your ground, did you?  
   
@@ -4979,13 +7066,13 @@ know&#x27;d it war a comin&#x27;.&quot;
 Why, that wasn&#x27;t very creditable  
 courage.&quot;  
   
-&quot;Dat isn&#x27;t my line, sa--cook&#x27;n&#x27;s my pers  
-ssion  e e o  o  
-Well, but have you no regard for yous  
-putation?&quot; irsun un   
+Dat isn&#x27;t my line, sa--cook&#x27;n&#x27;s my pers  
+ssion   ea e e  
+Well, but have you no regard for yaus  
+putation?&quot;i  soanun   
   
-reputation?&quot; if sun on r  
-Reputation&#x27;s nothin&#x27; to me by the side ob  
+reputation?&quot;  iroun un  
+Reputation&#x27;s nothin&#x27; to me by the side ab  
 life.&quot;  
   
 Do you consider your life worth  
@@ -4998,18 +7085,21 @@ s
   
 Yes, sa, I docs, more than all  
 more than a million ob dollars,  
- dat would be worth to a man wid  
+ dat would bo worth to a man wid  
 on him? Self preserbashum  
 wid me.&quot;  
   
 But why should you act upon  
 rule from other men  
 Because different men set d
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025161:00279529327:1864010101:0779/pct:82.961804,9.627525,12.049711,17.287458/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _Cedar Falls gazette._
+## [From _Cedar Falls gazette._](https://www.loc.gov/resource/sn83025161/1864-01-01/ed-1/?sp=1)
 
 #### 1864-01-01 &middot; [Cedar Falls, Iowa](http://dbpedia.org/resource/Cedar_Falls%2C_Iowa)
 
@@ -5017,7 +7107,7 @@ Because different men set d
 
   
   
-of knowing that yod died  
+of knowing that youd died  
   
 your country.&quot;  
 What satisfaction would dat be to  
@@ -5032,7 +7122,7 @@ e
   
 surely staid  
   
-somewhere. Sam stuttered, sputtered, stain  
+somewhere. Sam stuttered, sputtered, stamn  
 mered. Sam said  
   
 &quot;Sho  
@@ -5049,33 +7139,33 @@ scornfully, scanning Sam&#x27;s sprawling syme
 try. She sibilated.  
   
 our soldiers were like you, traltoss  
-might have broken up the Government with  
+might have broken up the Government withe  
 out resistance.&quot;  
   
 Yes, sh; dar would have been no  
 for it; wouldn&#x27;t put my life in the  
 &#x27;gainst any government that ever existed,  
-for no government could replace de lest  
+for no government could replace de less  
   
-  
+$.  
   
   
 &quot;Do you  
   
 &quot;Stupid simpleton!  
   
-heln  
-seala  
+Ahel  
+sćala  
   
-think any of your compeny  
+think any of your compen  
   
-would have missed you if yeu had beit  
+would have missed you if yeu had Leeir  
 killed?&quot;  
 May  
-be not, sa; a dead white man din&#x27;t  
+be not, sa; a dead white men ain&#x27;t  
 much  
 to dese sogers,  
-let alone a dead nigsak  
+let alone a dead niseak  
 but  
   
 missed myself, and dat was do plat  
@@ -5085,124 +7175,235 @@ It is safe to
   
 Say  
   
-that Africa
+tha
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025161:00279529327:1864010101:0779/pct:72.120106,27.809343,21.987572,11.083053/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The pilot._](https://panewsarchive.psu.edu/lccn/sn86081591/1864-01-12/ed-1/seq-1/)
+
+#### 1864-01-12 &middot; [Greencastle, Pa.](http://dbpedia.org/resource/Greencastle%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+n hands.&quot;  
+  
+A PHILOSOPHIC DARKEY.  
+  
+A correspondent of the Cincinnati Gazette  
+writing from the Cumberland River, gives the  
+following humorous colloquy with a philosophic  
+darkey :  
+  
+I noticed upon the hurricane deck to-day an  
+elderly darkey with a very philosophical and  
+retrospective, cast of countenance, squatted  
+upon his bundle, toasting his shins against  
+the chimney, and apparently plunged into a  
+state of profound meditation. Finding, upon  
+inquiry, that he belonged to the 9th Illinois;  
+one of the most gallantly behaved and heavy  
+losing regiment at Fort - Donelson battle; and  
+part of which was aboard, I began to interro­  
+gate him on the subject. His philosophy was  
+so much in the Falstaffian vein that 1 will give  
+his views in his own words as near as my  
+  
+memory serves me :  
+&quot;Were you in the fight ?&quot;  
+&quot;Had a little taste of it, sa.&quot;  
+&quot;Stood your ground, did you 7&quot;  
+&quot;No sa, I runs.&quot;  
+&quot;Run at the first fire, did you ?&quot;  
+&quot;Yes: and would hab run sooner had I know­  
+ed it war contin&#x27;.&quot;  
+&quot;Why, that wasn&#x27;t very creditable to your  
+courage.&quot;  
+&quot;Dat isn&#x27;t in my line, sa--cookin&#x27;s my per­  
+leshin.&quot;  
+&quot;Well, but have you no regard for your  
+reputation ?&quot;  
+&quot;Reputation nuffin to me by de side ob  
+life.&quot;  
+  
+&quot;Do you consider your life worth more than  
+other people&#x27;s ?&quot;  
+&quot;Its worth more to me, sa.&quot;  
+&quot;Then you must value your, life very high­  
+ly ?&quot;  
+  
+&quot;Yes, ea, I does—more dan all dis wuld,  
+more dan a million ob dollahs, sa, for what  
+would dat be wuth to a man wid de bref out  
+ob him? Self-preserbashun am de fust law  
+wid me.&quot;  
+  
+&quot;But why should you act upon a different  
+rule froin other men?&quot;  
+&quot;Because different men set different values  
+upon dar lives; wine is not in the market.&quot;  
+&quot;But if you lost it, you would have the sat­  
+isfaction of knowing that you died for your  
+  
+country.&quot;  
+&quot;What satisfaction would dat be to me when  
+de power of feelin&#x27; was. gone ?&quot;  
+&quot;Then patriotism and honor are nothing to  
+you?&quot;  
+  
+&quot;Nutria whatever, ea—l regard dem as  
+among de vanities.&quot;  
+  
+Vit. our soldiers were like .you, traitors might  
+have&#x27; broken up the Government without re-  
+  
+sistance.&quot;  
+  
+&quot;Yes, ma, dar would have been no help for  
+it; wouldn&#x27;t put my life in de scale &#x27;ginPt any  
+guberment dat eber existed, for no guberment  
+could replace de loss to me.&quot;  
+&quot;Do you think any of your company would  
+have missed you if you had been killed ?&quot;  
+&quot;Maybe not, sa—a dead white man ain&#x27;t  
+AA to dese sogers, let alone a ded nigga—  
+but I&#x27;d missed myself, an&#x27; dat was de pint wid  
+  
+12S1  
+  
+It is safe to say that the dusky corpse of  
+that African will never darken the field of  
+  
+carnag
 </td></tr></table>
 
 ---
 
-## [From _New Oregon plaindealer._](https://chroniclingamerica.loc.gov/lccn/sn87058042/1864-01-15/ed-1/seq-1)
+## [From _New Oregon plaindealer._](https://www.loc.gov/resource/sn87058042/1864-01-15/ed-1/?sp=1)
 
 #### 1864-01-15 &middot; [New Oregon, Iowa](http://dbpedia.org/resource/New_Oregon_Township%2C_Howard_County%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+. (Cheers.)  
   
+A PHILOSOPHIC DArKEY.  
+A correspondent of the Cincinnati  
+Gazette, writing from the Cumberlaud  
+River, gives the following humorous  
+coloquy with a philosophic darke y  
+&quot;I noticed upon the hurricane deck  
 to-day an elderly looking da rkey with  
-a very philosophic il and retrospective  
-cast of countenance, squatted upon hia  
+a very philosophical and retrospective  
+cast of countenance, squatted upon his  
 bundle, toasting his shins against the  
-chimney, and apparently plungod into  
-a state of profound meditation Find  
-ing, upon inquiry, that ho belonged to  
+chimney, and app ar ently plunged into  
+a state of profound meditation? Find  
+ing, upon inquiry, that he belonged to  
   
-antlybehaved and heavy loosing rcg  
-limcnta at Fort Donelson battle, and  
-part of wli&#x27;uh was aboard,  
+antly behaved and heavy loosing reg  
+limenta at Fort Donelson battle, and  
+part of which was aboard.  
   
-!Do  
+&quot;Do  
   
-you -consider your life worth more  
-than other people?&#x27;  
-&#x27;It.s worth more to me,sa,&#x27;  
-•Then you valua your life highly.&#x27;  
-&#x27;Yes, sa, I docs—more den all dis  
-wuld-^more den a million ob dollars  
-sa for what would be worth to  
+you consider your life worth more  
+than other people?&quot;  
+Its worth more to me, sa&quot;  
+Then you valus your life highly.&quot;  
+&quot;Yes, sa, I does--more den all dis  
+wuld- more den a million ob dollars  
+sa; for what would be wurth to  
   
-LOSSES  
+Losses  
   
-the 8th Illinois, one of the most gal. Their surplus now amounts to $&quot;,0,000,  
-7 *1  
+e a ii o o e o a e e e o ae o oo  
+i.  
   
-I brgnin to  
+I begain to  
   
 interrogate him upon the subject. His  
-philosophy was so much in theFalstaf­  
+philosophy was so much in the Falstaf­  
 fin vein, that I will give his views in  
 his own words as near as my memory  
 serves me  
   
-Wore you in the figbt»&#x27;  
-•*IIad a little taste of it, M.&quot;  
-&quot;Stood your ground, did yoa  
-&#x27;No sa, I runs.&#x27;  
-&#x27;Run at the fire, did you V  
+Were you in the fight?  
+&quot;Had a little taste of it, sa.&quot;  
+&quot;Stood your ground, did you  
+&quot;No sa, I runs.&quot;  
+Run at the fire, did you?  
 &quot;Yes, and would hab run sooner had  
-I knowed it wer comin,.&quot;  
+I knowed it wer comin..&quot;  
 &quot;Why, that wasn&#x27;t very creditable to  
-your courage.&#x27;  
-&#x27;Dat isnt in my line, sa cookin.s my  
-perfession.i  
-&#x27;Well, but have yo* no regard for  
-your reputation?&#x27;  
-&#x27;Reputations nofEn to me by de side  
-of life.&#x27;  
+your courage.&quot;  
+Dat isnt in my line, sa; cookins my  
+perfession.  
+&quot;Well, but have you no regard for  
+your reputation?&quot;  
+&quot;Reputations noffin to me by de side  
+of life.&quot;  
   
 a  
   
 man  
   
-wid he bref out of him Self-preser­  
-baticn am de fust  
+wid he bref out of him? Self-preser­  
+bation am de fust  
   
 law  
   
 wid me,  
   
-sa.&#x27;  
+sa.&quot;  
   
-•But why would you set up a differ­  
-entrule for other men V  
-&#x27;Becauso different men set different  
-value upon dar libes mine is. not in de  
-market-&#x27;  
+&quot;But why would you set up a differ-­  
+entrule for other men?  
+&quot;Because different men set different  
+value upon dar libes; mine is uot in de  
+market.&quot;  
   
-fane  
+ns  
   
-#1 PER ANNUM.  
+SI PER ANNUM.  
   
-WHOLE N0~ 217.  
+WHOLE NO. 217.  
   
-&#x27;But, if you lost it you would have  
-the satisfaction nf knowing that you  
-died for your country.&#x27;  
-&#x27;What satisfaction dnt be to mo wen  
-dc power of fcelin, am gone V  
-&#x27;Then la&#x27;riutism and honor are  
+&quot;But, if you lost it you would have  
+the satisfaction of knowing that you  
+died for your country.  
+&quot;What sat isfaction dat be to me wen  
+de power of feelin, am gone?&quot;  
+&quot;Then 1atriotism and honor aro  
 nothing to you  
-&#x27;Nuffin watebcr. «&amp;—I regard dofti  
-as among do-vanities.*  
-&#x27;If our soldiers were llkeyea trait­  
-ors uiight have broken up the govern­  
-ment without resistance.&#x27;  
-&#x27;Yes Fa dare would hab been no  
-help for it wouldn&#x27;t put my life in do  
+&quot;Nuffin wateber, sa--I regard dom  
+as among de vanities.&quot;  
+&quot;If our soldiers were like you, trait-­  
+ors might have broken up the govern-­  
+ment without resistance.&quot;  
+&quot;Yes sa; dare would hab been no  
+help for it; wouldn&#x27;t put my life in de  
   
-seals -gainst any gubcrnrnent dat eber  
-existed, tor no guUcrnaient could re­  
-place the loss to me.&#x27;  
-&#x27;D) yeu think any of your company  
-would have missed y?u if you had been  
-killed V  
-&#x27;May be not, sa a dead white man  
-am much to dese solgers let a lone  
-dead nigga—but LI miss  
-self, an dat was the pint wid me.*&#x27;  
-&#x27;It is safe to say that theduslcy corpi|  
+scale gainst any gubernment dat cber  
+existed, for no gubcrnment could re-­  
+place the loss to me.&quot;  
+&quot;Do yeu think any of your company  
+would have missed you if you had been  
+killed?&quot;  
+&quot;May be not, sa--a dead white man  
+ain&#x27;t much to dese solgers let a lone  
+dead nigga--but I I miss  
+self, an dat was the pint wid me.&quot;  
+&quot;It is safe to say that thedusky corps  
 of that African will never darken the  
-field of «onwge.
+field of carnage.  
+  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_dragonite_ver01%2Fdata%2Fsn87058042%2F00279529340%2F1864011501%2F0893.jp2/pct:67.269960,9.980985,29.458123,84.282073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1864011501:0893/pct:67.269960,9.980985,29.458123,84.282073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5218,22 +7419,35 @@ field of «onwge.
 
 ---
 
-## From _Clearfield Republican._
+## [From _Clearfield Republican._](https://www.loc.gov/resource/sn83032199/1864-01-20/ed-1/?sp=2)
 
 #### 1864-01-20 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+t i to e uede o e ee e e e  
   
+sette writting from the Cumberland River  
+  
+gives the following humorous colloquy o e tim saee in  
+with a philosophic darkey that manages the docotin ogun in this  
+I noticed upon the hurricane deck toa atte to conit u ither of i­  
 day an elderly darkey with a very philesnorance or falshood, by seeking every op­  
 ophical and retrospective cast of counte portunity to lay before his readers the  
 nance, squatted upon his bundle, toasting despatches showing that a few rebels here  
-his shins against the chimney, and appaand there along the coast, and at other
-</td></tr></table>
+his shins against the chimney, and appaand there along the coast, and at other  
+  
+rently plunged into a state of prolound points within our lines, have accepted the Kon tp J. B. Walters, Graham tp,  
+meditation. Finding, upon inquiry, that terms offered by the Presidents proclama On oon the orer oa o a­  
+he belonged to the 9th Iliinois, one of the tion of amnesty, and taken the oath gers at
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1864012001:1085/pct:8.914894,38.419350,88.468085,8.578259/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _Clearfield Republican._
+## [From _Clearfield Republican._](https://www.loc.gov/resource/sn83032199/1864-01-20/ed-1/?sp=2)
 
 #### 1864-01-20 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
@@ -5247,12 +7461,19 @@ me:
 &quot;Had a little taste of it, sa.&quot;  
 &quot;Stood your ground, did you?  
 &#x27;No sa, I runs.&quot;  
-&quot;Run at the first fire, did you?&quot;
-</td></tr></table>
+&quot;Run at the first fire, did you?&quot;  
+  
+doubt. Yet, notwithstanding all this, we osen a   ora i oed to torete ooe e oa  
+have no doubt that many citizens residingei oton o a e e e i oni o oiion be een en et of Ario ae  
+within our line, a
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1864012001:1085/pct:9.063830,50.738293,76.638298,4.528196/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _Clearfield Republican._
+## [From _Clearfield Republican._](https://www.loc.gov/resource/sn83032199/1864-01-20/ed-1/?sp=2)
 
 #### 1864-01-20 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
@@ -5267,12 +7488,91 @@ am de fust law wid me.&quot;
 &quot;But why should you act upon a differ­  
 ent rule from other men?&quot;  
 &quot;Because different men set different val­  
-acs apor dar liver; mine is not in de mar
-</td></tr></table>
+acs apor dar liver; mine is not in de mark
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1864012001:1085/pct:8.829787,67.557306,15.446809,4.373506/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Staunton vindicator._](https://chroniclingamerica.loc.gov/lccn/sn84024653/1864-01-29/ed-1/seq-1)
+## [From _The daily journal._](https://newspapers.digitalnc.org/lccn/sn84026521/1864-01-22/ed-1/seq-2/)
+
+#### 1864-01-22 &middot; [Wilmington, N.C.](http://dbpedia.org/resource/Wilmington%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+re trans­  
+ferred to the secret calendar.  
+A TMlotophlp Varkty.  
+A newspaper correspondent from tbe Cumberland  
+river cives tbe following humorous account of a collo-  
+  
+quy with a philosophic darkey, who bad been present &#x27;  
+  
+at tte uatue oi jcort uoncisou .  
+Observing him toasting his shins against the chim­  
+ney, I broke in upon bis profound, meditations thus :  
+&quot; Were you in the fight of Fort Donelsoa ?&quot;  
+&quot; Had a little tasfcof It, Bab.&quot; .  
+&quot; Stood your ground, did you ?&quot; -  
+&quot; No, sah, I runs.&quot; . &quot;  
+&quot; Run at the first fire, did you ?&quot;  
+&quot; Yes, sab, and would hab&#x27;run soccer had I knowed  
+it war cummin.&quot;  
+&quot; Why, that wasn&#x27;t very creditable to your courage.&quot;  
+&quot; Dat ajnt in my line, sah ; cookin&#x27;s my perfeshun.&quot;  
+&quot; Well, but have you no regard for your.reputation?&quot; ,  
+&quot; Reputation i3 cuthin to me by de side ol life.&quot;  
+&quot; Do you consider yoar life worth more than otter  
+people&#x27;s ?&quot;  
+&quot; It&#x27;s wutb more to me, aoh.&quot;  
+Then you must value it highly ?&quot; . &#x27;  
+&quot; Yes, sah, 1 does more daa all dis world more dan  
+a million of dollars, eah ; for what would dat be wu&#x27;h  
+to a man wid de bref ont&#x27;n him ? Self preserbaiion am  
+de first law wid me, eah.&quot; ,  
+Cat why should you-act upon a different rule from  
+others!&quot;  
+&quot; Because different men sets different values on da  
+&#x27;lives ; &#x27;mine U not in d market eah.&quot; &#x27; ; ; &#x27;  
+Bat if you lost it, .you would have the satisfaction  
+of knowing you died for your country.&quot;  
+What satisfaction would dat be to me, Bab, when  
+do power of fcelin waa gone V  
+&quot; Then patriotism and hpnor are nothing to yon f&quot;  
+&quot;js&#x27;uffia whatever, Bah ; I regard dem as among de  
+vanities.&quot;  
+It our soldiers were like you, traitors m&#x27;ght have  
+broken ip the government without resistance.&quot;, &#x27;  
+  
+Yes, san, atre wouia tiao Decn co Lelp Tor it. I  
+wouldn&#x27;t put my life ia e?e SGale aginst any gubbern­  
+rrent dat eber existed, for no gabbernment could replace  
+  
+de loss to me.&quot; . .  
+  
+Do you thir.k any of your company would Lave  
+  
+misped you if yoa had been killed ?&quot;  
+  
+May be not, Sih. A dead white man aint much to  
+  
+desa ecgers, let alone a dead nigger, but I&#x27;d a mifed  
+  
+myself, sah, and dat&#x27;s de pint wid me.&quot;  
+  
+xs-Jias. piiuttesAN is prepared to give  
+  
+bstruction on th
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DJoWilm12n_ver01%2Fdata%2F1864012201%2F1012.jp2/pct:98.381452,83.178098,30.730534,44.369179/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Staunton vindicator._](https://www.loc.gov/resource/sn84024653/1864-01-29/ed-1/?sp=1)
 
 #### 1864-01-29 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
@@ -5327,28 +7627,29 @@ ain t much to dese sogers : let alone a dead
 i &quot;igger, but I’d a missed myself, sa, aud  
 jckts de pint wid me.”  
 | Collection of the Tax in Kind.  
-| Agreeably to a resolution of the House  
-I 4 Repre-etitatives, the President has trans
+| Agreeably to a resolution of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_klepper_ver02%2Fdata%2Fsn84024653%2F00393349475%2F1864012901%2F0088.jp2/pct:67.910751,22.655123,12.648186,27.461692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349475:1864012901:0088/pct:67.919935,22.657458,12.645388,26.966292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The daily dispatch._
+## [From _The daily dispatch._](https://www.loc.gov/resource/sn84024738/1864-02-05/ed-1/?sp=1)
 
 #### 1864-02-05 &middot; [Richmond [Va.]](http://dbpedia.org/resource/Richmond%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ ex  
+traordinary credits demanded by the Government.  
   
-A PhilOsopHic Darkey. A Yankee newspaper  
+A PhilOsophic Darkey. A Yankee newspaper  
 correspondent from the Cumberland river, gives  
 the following humorous account of a colloquy  
 with a philosophic darkey, who had been present  
 at the battle of Fort Donelson  
-Ohserving him toastings his shins against the  
+Onserving him toastings his shins against the  
 chimney, I broke in upon his profound meditations  
 thus:  
 &quot;Were you in the fight of Fort Donelson?&quot;  
@@ -5370,12 +7671,12 @@ other people&#x27;s?&quot;
 &quot;It&#x27;s worth more to me, sa.&quot;  
 &quot;Then you must vaiue it highly?&quot;  
 &quot;Yes, sa, I does--more dan all dis world--more  
-dan a million of dollars, sa; for what would dat he  
+dan a million of dollars, s; for what would dat he  
 worth to a man wid be bref out&#x27;n him? Self-pres­  
 erbation am de first law wid me, sa.&quot;  
 &quot;But way should you act upon a different rule  
 from others?&quot;  
-&quot;Recause different men sets different values on  
+&quot;Because different men sels different values on  
 da lives; mine is not in de market, sa.&quot;  
 &quot;But if you lost it, you would have the satisfac­  
 tion of knowing you died for your country?&quot;  
@@ -5396,82 +7697,153 @@ missed you if you had been kiled?&quot;
 &quot;May be not, sa. A dead white man ain&#x27;t much  
 to dese sogers, let alone a dead nigger; but I&#x27;d a  
 missed myself, sa, and dat&#x27;s de pint wid me.&quot;  
-CAse or Desperation.-AAn old lady went to the  
-passenger depot in Allacta, a few days since, with  
-a bundle of clothes and a little bag of sngar, and
-</td></tr></table>
+CAse of DesperATION.An old lady went to the  
+passenger depot in Allanta, a few days since, with  
+a bundle of clothes and a little bag of snga
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280778011:1864020501:0065/pct:41.779653,42.246669,12.764889,22.884217/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _The weekly intelligencer._
+## [From _The daily North Carolinian._](https://newspapers.digitalnc.org/lccn/sn91068136/1864-02-06/ed-1/seq-1/)
+
+#### 1864-02-06 &middot; [Fayetteville, N.C.](http://dbpedia.org/resource/Fayetteville%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ i SL  
+Darkey- A newspaper  
+  
+porrespondentj from:, the Cumberland &#x27;River  
+givfs Ae following bumerousc account 1 of a.  
+colloquy with ..a ; ?filu sophto Vd&amp;rk.jyr; rwho f  
+Dfeln&quot;  
+Observing&#x27; h i in easting ; bis shin fit- agalnst­  
+the cbifnney, I broke in upon -his profound;  
+meditations thus: : V V. V i &#x27; ... &quot;  
+4Wcre you iu tl fight at Port Dohelson?&quot;  
+- &quot;Had a little taj te of it, sa,&quot;r V, 1 &quot;  
+&#x27;Stood your ground, did you?&#x27;&#x27; ! : , ; :  
+mXq, sa, T runs.&#x27;&#x27; i - . &quot; v &#x27;  
+4Kurtat tlie tirsi fire, did you?&quot; , . . &quot; .  
+,4Yes, sa, and would ; hab&#x27; run . sooner had,  
+I knowied it.war cumin.&quot; p &#x27; ; P V  
+;Why, that wasnt yery crcdiuble to youB&#x27;  
+courage j : . &#x27; -  
+  
+&quot;Dat aint in my hnet- sa;- cookings my  
+  
+.perfeshun.&quot;  
+  
+&quot;Weil, but have you nb regard for your  
+  
+reputation?,,  
+  
+&quot;Reputation is  
+ob life.&quot;  
+  
+nuthin to me by de sjde
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DailyNCF1n_ver01%2Fdata%2F1864020601%2F0029.jp2/pct:102.658637,62.273546,22.076968,19.398241/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The weekly intelligencer._](https://www.loc.gov/resource/sn91068137/1864-02-10/ed-1/?sp=1)
 
 #### 1864-02-10 &middot; [Fayetteville, N.C.](http://dbpedia.org/resource/Fayetteville%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ and  
+sfand or saif tree--Contederate.  
+A PHIOSOPHIC DARKEY. A newspaper  
+correspondent from the Cumberland Rivert  
+gives the following humerous account of a  
+colloquy with a philosophic darkey; who  
+had been present at the battle of Fort  
 been present at the battle of Fort  
 Donelon:  
 Observing him toasting his shins against  
-the chimncy, I broke in upon his profound  
+the chimncy, I broke in upon his profound!  
 meditations thus:  
 &quot;Were you in the fight at Fort Donelson?  
 &quot;Had a little taste of it, sa.&quot;  
 &quot;Stood your ground, did you?&quot;  
 &quot;No, sa, I runs.&quot;  
-&quot;Run at the first fire, did you?&quot;  
+&quot;Run at the first fire, did you?  
 &quot;Yes, sa, and would hab run sooner had  
-I knowed it war cumile.&quot;  
+I knowed it war cumite&quot;  
 &quot;Why, that wasn&#x27;t very creditable to you  
-courag, C.  
+colir,,C.  
 &quot;Dat aint in my line, sa; cooking&#x27;s my  
 perfeshun.&quot;  
-&quot;Well, but have you no regard for your  
+&quot;Well, but have you no regard for  your  
 reputation?&quot;  
-&quot;Reputction is nuthin to me by de side  
+&quot;Reput tion is nuthin to me by de side  
 ob life.&quot;  
 &quot;Do you consider your life worth more  
 than other people&#x27;s?&quot;  
-Its worth more to me,a.  
+Its worth more to me, a.  
 &quot;Then you must value it highly?&quot;  
-I does--more dan all dis worl  
-I Ue1Oll GulIcl.  
+I does--more dan all dis warl  
+I U II Oill OblicI.  
 &quot;Because different men sets different  
 values on da lives; mine is not in the market,  
-Sa.&quot;  
+sa.&quot;  
 &quot;But if you lost it, you would have the  
-satislaction of Knowilig yo dled for you.  
+satislactlon of waowille od led for ou  
 &quot;What satisfaction would dat be to me,  
 sa, when de power of feelin&#x27; was gone?&quot;  
 &quot;Then patriotism and honor are nothing  
 to you?&quot;  
 &quot;Nuffin whatever sa, I regard dem as  
-among de vanities.&quot;  
+among de rantlics.&quot;  
 &quot;If our soldiers were, like you, traitors  
 might have broken up the Government  
-without resistaace?  
+without resistance?&quot;  
 &quot;Yes sa, there would hab been no help  
 for it: I would&#x27;nt put my life in de scale  
 aginst any gubberment dat ever existed, for  
 no gubberment could replace de loss to me.&quot;  
 &quot;Do you think any of your company  
 would have missed you if you had been  
-eo e  e e e e e e e e e e e e ooe  
-o   e e e e eoaeeo e ee  
+e o o e e e e e e e  e e e e  e e  
+ae  o   o o eoe   e e e e eo  
 &quot;May be not,sa. A dead white man ain&#x27;t  
-  e et l    
-but I&#x27;d a missed mysell, sa, and dats d
-</td></tr></table>
+  o e ee e e e  
+but l&#x27;d a mnissed mysell, sa, and dats de  
+pint wid me.&quot;  
+A Sriemish neAr SmIthtiel
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn91068137:00415667310:1864021001:0009/pct:68.940974,37.054096,13.032274,33.045864/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _The Abingdon Virginian._](https://chroniclingamerica.loc.gov/lccn/sn84025980/1864-02-19/ed-1/seq-4)
+## [From _The Abingdon Virginian._](https://www.loc.gov/resource/sn84025980/1864-02-19/ed-1/?sp=4)
 
 #### 1864-02-19 &middot; [Abingdon [Va.]](http://dbpedia.org/resource/Abingdon%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+A Plsiiosopliic EJarkey.  
+. A newspaper correspondent fronrthe Cum­  
+berland river gives the following humorous  
+account ef a colloquy with a philosophic dar­  
+key, who had beeu present at the battle of  
+Fort Doneison:  
+Observing him toasting bis shins against  
+the chimney, I broke in upon his protonnd  
+meditations thus: ■-  
+&quot;Where yen in the fight of Fort DauelsoD?&quot;  
+&quot;Had a little taste of it, ea.&quot;  
+&quot;Stood- your ground, did&#x27; you ?&quot;  
 .&#x27; &quot;Run at the first fire, did you ?&quot;  
 &quot;Yes, ea; and would had run sooner, had I  
 knowed it war cumin.&quot;  
@@ -5511,21 +7883,28 @@ berment could replace deloss to me.&quot; , •*
 have missed you&#x27;if you had been killed ?&quot;  
 &quot;May be not, sa, A dead white man ain&#x27;t  
 much to dese Soger*, let alone a dead nigger;  
-but I&#x27;d a .missed myself, sa, awl data de pin
+but I&#x27;d a .missed myself, sa, awl data de pint  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_barbaro_ver01%2Fdata%2Fsn84025980%2F00280762210%2F1864021901%2F0292.jp2/pct:10.377079,39.340111,16.219736,23.978699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_barbaro_ver01:data:sn84025980:00280762210:1864021901:0292/pct:10.193571,32.398615,16.391405,34.364875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Boise news._](https://chroniclingamerica.loc.gov/lccn/sn89055016/1864-03-05/ed-1/seq-3)
+## [From _Boise news._](https://www.loc.gov/resource/sn89055016/1864-03-05/ed-1/?sp=3)
 
 #### 1864-03-05 &middot; [Bannock City, I.T. [Idaho City, Idaho]](http://dbpedia.org/resource/Idaho_City%2C_Idaho)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+, defenseive and  
+conservative.  
   
+A Negro Philosopher.—A correspond­  
+ent of the Cincinnati Gazette, writing from  
+the Cumberland river, gives the following hu­  
+morous colloquy with a philosophic darkey.:  
 I noticed upon the hurricane deck an elder­  
 ly darkey with a very philosophical and ret­  
 rospective cast of countenance, squatted upon  
@@ -5595,19 +7974,30 @@ It is safe to say that the dusty corpse of
 that African will never darken the field of  
 carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_bronte_ver01%2Fdata%2Fsn89055016%2F00295869446%2F1864030501%2F0104.jp2/pct:20.583468,5.554083,36.750405,91.794804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_bronte_ver01:data:sn89055016:00295869446:1864030501:0104/pct:20.583468,5.554083,36.750405,91.794804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1864-05-04/ed-1/seq-1)
+## [From _Yorkville enquirer._](https://www.loc.gov/resource/sn84026925/1864-05-04/ed-1/?sp=1)
 
 #### 1864-05-04 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+N  
+  
+A Philosophic Darkey.  
+A newspaper correspondent from the  
+Cumberland river gives the following hemorons  
+account of a eoUoqny with ? philosophic  
+darkey, who had been present at the  
+battle of Fort Donelsoa :  
+Observing him toasting his shins 8gaiu?t  
+the chimuey, I broke in npon his profound  
+meditation thhe:  
 &#x27; Were yon in the fight at Fort Donelsoa  
 V &quot;Htid  
 a little taeteofit, ea.&quot; &#x27;  
@@ -5663,21 +8053,24 @@ ain&#x27;t much to dese sogers; let alone a deed
 nieeer. bat I&#x27;d a missed myself, sa, aDd  
   
 data de pint wid me.&quot; 4  
-&#x27;? -..IT 
+&#x27;? -..IT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862713%2F1864050401%2F0077.jp2/pct:84.439200,17.565550,15.736628,31.113707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862713:1864050401:0077/pct:73.403665,12.607087,26.762909,84.647586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1864-11-24/ed-1/seq-4)
+## [From _Litchfield enquirer._](https://www.loc.gov/resource/sn84020071/1864-11-24/ed-1/?sp=4)
 
 #### 1864-11-24 &middot; [Litchfield, Conn.](http://dbpedia.org/resource/Litchfield%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+4 philosophic Darkey.  
+* correspondent of the Cincinnati Gazette,  
+•rttinc from tire Cumberland river, gives the  
+following humorous account of the coll jqily  
 with a philosophic darkey :  
 I noticed upon the hurricane deck, to-day .an  
 elderlv darkey, with a very philosophical and  
@@ -5740,19 +8133,28 @@ but Id a missed myself, aud dat was de pint
 It is safe to say that the dusky corps of that  
 Amcau will never darken the field ot carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn84020071%2F00414183414%2F1864112401%2F0193.jp2/pct:5.158800,4.010262,12.655729,29.682015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414183414:1864112401:0193/pct:5.159705,2.093180,12.688663,31.600270/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Semi-weekly standard._](https://chroniclingamerica.loc.gov/lccn/sn83045450/1865-02-17/ed-1/seq-2)
+## [From _Semi-weekly standard._](https://www.loc.gov/resource/sn83045450/1865-02-17/ed-1/?sp=2)
 
 #### 1865-02-17 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
+A PHILOSOPHIC DARKEY.  
+A newspaper correspondent from the  
+Cumberland river gives tho following hu­  
+morous account of a colloqny with a phil­  
+osophic darkey, who had been present at  
+the battle of Fort Donelson :  
+Observing him toasrtng hrs shins against  
+the chimney, I broke in upon his profound  
+Lined itations thus:  
 Were you in the battle of Fort Donel­  
 son ?  
 Had a little taste of it sa.  
@@ -5807,21 +8209,26 @@ Maybe noV sa. A dead white man
 ain&#x27;t much to dese sogers: let alone a  
 dead nigger, but I&#x27;d missed myself, sa, and  
 dats depint with me.  
-How a Mak vebls With his Hkao orv. It i
+How a Mak vebls With his Hkao orv. It is  
+considered do all sides that the b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn83045450%2F00296022810%2F1865021701%2F0443.jp2/pct:52.452709,49.729093,14.331517,30.742049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1865021701:0443/pct:69.583333,59.658422,19.423077,48.256773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Weekly standard._](https://chroniclingamerica.loc.gov/lccn/sn83045706/1865-02-22/ed-1/seq-4)
+## [From _Weekly standard._](https://www.loc.gov/resource/sn83045706/1865-02-22/ed-1/?sp=4)
 
 #### 1865-02-22 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+&#x27;  
+A PHILOSOPHIC .DARKEY. :  
+A&#x27; newspaper correspondent from .the  
+Cumberland river gives tlie following hu­  
+morous account of a colloquy with a phil­  
 osophic darkey, who had been present at  
 tho battle of Fort Donelson;  
 Observing him toasting his shins against  
@@ -5880,21 +8287,111 @@ killed ? &#x27; -&#x27; , . , ; .
 ain&#x27;t much to dese&#x27; Bogers: let alons a  
 dead nigger, but I&#x27;d missed myself, sa, and  
 dats depint with me.  
-. -. - &#x27; &quot; 
+. -.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ncu_broad_ver01%2Fdata%2Fsn83045706%2F00296022664%2F1865022201%2F0616.jp2/pct:51.311628,45.791635,15.646512,34.693354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1865022201:0616/pct:68.396577,57.852194,20.851935,49.422633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Daily intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026845/1865-03-17/ed-1/seq-4)
+## [From _Village record._](https://panewsarchive.psu.edu/lccn/sn88079228/1865-03-03/ed-1/seq-1/)
+
+#### 1865-03-03 &middot; [Waynesboro', Pa.](http://dbpedia.org/resource/Waynesboro%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+s.  
+  
+A Philosophical parkey.  
+  
+I noticed upon the hurricane deek-en  
+darkey with a very philotiophieal afid  
+retrospective east of &#x27;countenance,-squatted  
+upon his bundle, &#x27;toasting his shins arinst  
+e olfituwey—turd - apperen-tly—plungid -lath a  
+state of profound meditation., .Findingo:Pon  
+inquiry, that he belonged to the 9th Midas  
+one of the most gallantly behaved and&#x27;heiv­  
+ily losing regiments in the Fort Donation  
+battle, and part of which was aboard, I be­  
+gan to interrogate. him upon the subject.&#x27;—  
+HO Philosophy was so much iret:theittalstif­  
+fian vein, that I will give hid-views in his  
+own words as.near as my memory will save  
+me.:  
+  
+&#x27;Warn you in the fight ?&#x27;  
+glad a little taste of it, sa.&#x27;  
+&#x27;Stood your ground, did you P  
+No, sa, I runs?  
+  
+&#x27;Rau ut the first, did you ?&#x27;  
+&#x27;Yes- sa,,and:would_lab run_sootta l lialr I  
+kuowed it war cumin.&#x27;  
+  
+*Why; that wasn&#x27;t. very creditable to your  
+courage.&#x27;  
+&#x27;mkt isn&#x27;t in my  
+petreshun!  
+*Well, but have you no regard for your  
+reputation r  
+  
+I .fiegutation&#x27;s, nuffin to me de sick ob life. 4  
+&#x27;Do you consider your lite&quot; worth more  
+Than other people&#x27;s ?&#x27;  
+&quot;It&#x27;s worth mora tome, sa.&#x27; •  
+  
+•&#x27;Th&#x27;en you must value it very highly t!  
+&#x27;Yes, sa, L does—more dan all dis wuld—  
+more dan a•million ob dollars, sa;. for what  
+Would• dat be wash to a maa wid do bref out  
+ob biro T Self presurbashun am do fust law  
+wid me  
+  
+&#x27;But, why should you actr upon a different  
+rule from other men r  
+&#x27;Because different men sets differentvalue•  
+on dar lives—mine Is not in the market  
+&#x27;Bat if you , lost it, you would have the  
+satisfaction.of knowing that you died for the  
+country.  
+&#x27;What satisfaction. would dat be.t.o me when  
+de&#x27; power ob &amp;cling was gone ?  
+&#x27;Nuffin whatever sa—l regara dem as a­  
+mong de wanitcs.&#x27;  
+  
+&#x27;lf our soldiers were all like you, traitors;  
+might have broken up the government with­  
+out &#x27;resistance.  
+  
+• !Yes, ea, dar Would hab‘ been no help, int.  
+it. I wouldn&#x27;t put my life in de scale &#x27;gaiast  
+any Gu&#x27;oerment dat abet existed, for no GO.  
+erment could replace de loss to me.&#x27;  
+&#x27;&#x27;Do &#x27;you think any of your company would  
+have missed you if you had boon killea ?&#x27; &#x27;  
+much  
+be net, sa—a dead white man ain&#x27;t  
+much to dese sojers, let alone a dead &#x27;nigga,  
+but I&#x27;d missed myself and dat was de pint  
+wid me.  
+  
+It is safe to say that the dusky corpse of  
+that African will never darken the field of  
+carnage
+</td></tr></table>
+
+---
+
+## [From _Daily intelligencer._](https://www.loc.gov/resource/sn84026845/1865-03-17/ed-1/?sp=4)
 
 #### 1865-03-17 &middot; [Wheeling, Va. [W. Va.]](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+:  
+I noticed upon tbe hurricane deck to­  
 day an elderly darkey with a very philo­  
 sophic^ and retrospective cast of counten­  
 ance, equalled upon bis bundle toasting  
@@ -5963,21 +8460,138 @@ much to dcee sogers, let alone a dead nig­
 do pint wid me.&quot;  
 It is safe to say that tbo dusky corpse of  
 that African will never darken the field of  
-carnage
+carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_austria_ver01%2Fdata%2Fsn84026845%2F00202190753%2F1865031701%2F0233.jp2/pct:3.620175,20.584307,13.771593,34.757930/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190753:1865031701:0233/pct:3.604180,20.083472,13.755598,35.242070/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Evansville daily journal._
+## [From _The compiler._](https://panewsarchive.psu.edu/lccn/sn85055100/1865-03-27/ed-1/seq-1/)
+
+#### 1865-03-27 &middot; [Gettysburg, Pa.](http://dbpedia.org/resource/Gettysburg%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+- PHILOSOPHIC DARKEY  
+  
+A correspondent ofthe Cincinmti&#x27; Ga­  
+2cm, writing from the Cumberland river,  
+gives the following humor &#x27;l3 account ol :1.  
+colloquy with pliilosophinarkcy:  
+I noticed u nu the hurrimne idock to­  
+day an elderly, dairkey with a Very philo­  
+sophical ,and, u-tiospective cast. ofcounte­  
+nance, sq‘unttcd upon his bundle, wading  
+his shins against. the chimney, and {lpm.-  
+renlly plunged in a state of profound med­  
+itation. Finding upon inquiry that he be­  
+longﬁd to the 911) Illinois, one of the Innat­  
+gallantly bclim‘lﬂ and henvy losing regi­  
+ments at Fort lbnels’op battle, and part of  
+which was nboanl, I began to inler‘fogate  
+him upon the subject. His philosophy  
+was so much in the Falstuﬂinn vein ,tlmt 1  
+will give his views in his own words, an near  
+as my memory serves me: ‘ .  
+  
+&quot;Were- you in the ﬁght ?&quot;  
+“Had avliltievhlste o! it, 53.” ‘  
+”Smud your ground, Lhd you?”  
+“No, sn, I runs.” &quot; &#x27; -  
+  
+“Run at the tint. ﬁre, did you 7&quot;“;  
+&quot;Yes, sn,——uhd I Would hub run&quot; mom,  
+had I knead in war coming.” ,  
+“ \V by. that wasn’t. very creditable‘lto your  
+courage.” &#x27;  
+  
+“Du isn’t in my line, sa—cookin&#x27;s my  
+pol‘hlnhgn ” * J &#x27;  
+““7911, ML have you no regard for your  
+repulutidn?” ..  
+  
+“Ropmatiuu’s noﬂ’m to me by the side of  
+me.&quot; . -  
+  
+,&quot;Da you oonsider your life worth more  
+than nllwr people’s 7&quot;  
+“It’s worth moreto me, 5m.”  
+&quot;&#x27;l‘xhen ynu must value it. very highly ‘3”  
+“Yrs, sn, 1 does—more dan ul
+</td></tr></table>
+
+---
+
+## [From _American volunteer._](https://panewsarchive.psu.edu/lccn/sn83032169/1865-03-30/ed-1/seq-1/)
+
+#### 1865-03-30 &middot; [Carlisle [Pa.]](http://dbpedia.org/resource/Carlisle%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+I noticed upon the hurricane de&amp;k an el­  
+derly darkey with a very philosophical and  
+retrospective oast of countenance, squatted  
+upon bis; bundle, toasting his shins against  
+the chimney and apparently plunged into a  
+state of profound meditation. Finding upon  
+inquiry, that he belonged to the 9th. Illinois,  
+one jf the -most gallantly behaved and heavi­  
+ly losing regiments in the Fort Denelsfln bat­  
+tle, and part,of which was aboard. I began  
+to interrogate Jiim upon the subject. His  
+philosophy was so much ip the Falstnffian  
+vein, that I will give his views in bis own  
+words as near ns my memory will serve mb. 1 :  
+■ • Where you in the fight?’  
+1 Had a little taste of it, ea.’  
+‘Stood your ground, did you J’.  
+‘No, so, I rubs.’&#x27; j&#x27;&#x27;,’ 1 .j ... ■ &quot; &#x27; .&#x27;•  
+~ ‘ Kuo.at the first fire,.did you ; •  
+,‘ Ycs, sm and jyould |Kftb..run edou&#x27;a. hab Ij  
+knov/ed ; it was&#x27;Oumin.&#x27;’, j&quot;.&#x27; ~ . 1 ‘‘ ■  
+~ ‘ by, that wasn’t vary qfeditable tb.yiur  
+oourngo.’f ■&#x27; &#x27;.T‘; &#x27; j[ ; i  
+‘Da’tjsn&#x27;t.ih my linlf, si
+</td></tr></table>
+
+---
+
+## [From _American volunteer._](https://panewsarchive.psu.edu/lccn/sn83032169/1865-03-30/ed-1/seq-1/)
+
+#### 1865-03-30 &middot; [Carlisle [Pa.]](http://dbpedia.org/resource/Carlisle%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+. no regard for&#x27;your re­  
+putationl?’;&#x27; ■&#x27;.; &#x27; 1 &#x27; ■■ . &#x27;;  
+4 lleputatipii’a puffin tOTno fiekide Of &#x27;life.’ !  
+, . ‘ Do you consider your life worth morejjban  
+other people&#x27;s?’,&#x27; ,  
+‘ It’a wiirtfi inovo to &#x27;me, sa.’ &#x27; ;  
+‘.Then you must ypiue,it very highly ?’  
+‘ Tea, aai I doae—more than all die wuld —:  
+more than a million üb.d allur&#x27;d, mi; for whut;  
+would dat be wuth te a man wid.de MOf ;out  
+oh him T abide fust law  
+wid me  
+’’&#x27;■But why should,you&#x27;o(ft ,uptfh&#x27;&#x27;&#x27;a different  
+&quot;rule from other men ?1  
+v ßeciVuse setsdifferent valu
+</td></tr></table>
+
+---
+
+## [From _Evansville daily journal._](https://www.loc.gov/resource/sn86059181/1865-04-01/ed-1/?sp=4)
 
 #### 1865-04-01 &middot; [Evansville, Ind.](http://dbpedia.org/resource/Evansville%2C_Indiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 A PhiLOsOpHiC DArkEY.  
 A correspondent of the Cincinnati  
 Gazette, writing from the Cumberland  
@@ -6042,18 +8656,30 @@ eead niggaPbat&#x27;I&#x27;d a missed mysalfand
 dat was de pint wid me.   
 eIt is safe to say that the dusky corpse of  
 that African will never darken the field  
-of carnage
-</td></tr></table>
+of carnage.  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059181:00296022056:1865040101:0062/pct:7.397343,29.970725,11.594203,37.313979/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _American citizen._](https://chroniclingamerica.loc.gov/lccn/sn86053370/1865-04-05/ed-1/seq-1)
+## [From _American citizen._](https://www.loc.gov/resource/sn86053370/1865-04-05/ed-1/?sp=1)
 
 #### 1865-04-05 &middot; [Butler, Butler County, Pa.](http://dbpedia.org/resource/Butler%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+| fare.  
   
+A Philosophic Darkey.  
+A correspondent of the Cincinnati  
+Gazette, writing from the Cumberland  
+river, gives the following humorous ac­  
+count of a colloquy with a philosophic  
+darkey:  
+&#x27; I noticed upon the* hurricane deck  
 to-day an elderly darkey with a veryphil­  
 usophical and retrospective east of coun­  
 tenance, squatted upon his bundle toast­  
@@ -6124,9 +8750,10 @@ uiggft—but I&#x27;d missed myself, aud dat
 was de pint wid me&quot;  
 It is safe to say that the dusky corpse  
 of that African will never darken the  
-field of carnage. 
+field of carnage. .  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_carlisle_ver01%2Fdata%2Fsn86053370%2F00296027911%2F1865040501%2F0296.jp2/pct:55.603910,18.791747,12.576474,48.226213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86053370:00296027911:1865040501:0296/pct:43.311258,13.952798,24.862819,81.430904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6138,6 +8765,14 @@ field of carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
+  
+  
+A COWARD’S ESTIMATE OF LIFE.  
+The following from the Cincinnati Gazette illus-  
+trates the feelings not of one person, but of a whole  
+class of creatures, we will not call them men, who  
+have disgraced our army.  
   
 I noticed upon the hurricane deck to-day an elder-  
 ly darkey with a very philosophical and retrospective  
@@ -6220,21 +8855,35 @@ dese sogers, let alone a dead nigga—but I’d a missed
 myself, and dat was de _ wid me.”  
   
 It is safe to say that the dufky corpse of that Afri-  
-can will never darken the field of carnage.
+can will never darken the field of carnage.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_zions-herald_1865-04-05_36_14&#0036;0/pct:79.211957,34.372478,12.540761,22.931800/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_zions-herald_1865-04-05_36_14%2Fsim_zions-herald_1865-04-05_36_14_jp2.zip%2Fsim_zions-herald_1865-04-05_36_14_jp2%2Fsim_zions-herald_1865-04-05_36_14_0000.jp2/pct:79.198370,31.890638,12.554348,25.413640/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1865-04-20/ed-1/seq-1)
+## [From _Smyrna times._](https://www.loc.gov/resource/sn84020422/1865-04-20/ed-1/?sp=1)
 
 #### 1865-04-20 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ion.  
   
+The 1&#x27;hilosophicitl Dinkey.  
+n ( )f iced.upon the hurricane rick an elder­  
+y - rkey witb a ver J&#x27; philosophical and retro«­  
+I poctivc east ot uountausuit&#x27;c &#x27;»«iiiaiml iiiioii his  
+j bundle, toasting his shins a&#x27;v.in-t tin- eli.nt.ey  
+ami apparently plunged into;» -tau-of profound  
+meditation. Finding, upon impiiry, that ho  
+| belonged to the 9rh Illinois on«-nf tin* mo&gt;t  
+; gallant, behaved and heaviiv in-me ivuiiuont.»  
+j in the Fort Doncisun battle&#x27;, and part ..f which  
+? was on board, i began to interrora!** bun upou  
+! the subject.  
 j Hi- philosophy was so much in tin Fal taffi­  
 ; an vein, that l will give his views in his own  
 j words as near as my memory w.il -, r\e no­  
@@ -6268,26 +8917,24 @@ j dar lives—mine is not for market.&quot;
 j isfa«.*tion of knowing that you died for the cout -  
 try. &quot;  
 1  
-
+j  
+I  
+. . «». lor what  
+, would dat be wuth to a man wid d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00332894924%2F1865042001%2F0093.jp2/pct:76.646707,24.818647,14.238190,16.553692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_artemis_ver02:data:sn84020422:00332894924:1865042001:0093/pct:65.502329,19.146153,25.382568,73.623499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Smyrna times._](https://chroniclingamerica.loc.gov/lccn/sn84020422/1865-04-20/ed-1/seq-1)
+## [From _Smyrna times._](https://www.loc.gov/resource/sn84020422/1865-04-20/ed-1/?sp=1)
 
 #### 1865-04-20 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-. . «». lor what  
-, would dat be wuth to a man wid de bref out ob  
-him ? Self presurbashuu am de fust law wid  
-INC  
-I  
 i  
 &quot;What satisfaction would dat be to me when  
 de power of feeling was gone ?  
@@ -6307,29 +8954,207 @@ j &quot;May be not, sa —a dead white
 | but I&#x27;d missed myself and dat was de pint, wid  
 i me.  
 j It is safe to say that the dusky  
-j that African will never dark et ti
+j that African will never dark et tit  
+carnage.— Cor. Vi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/deu_artemis_ver02%2Fdata%2Fsn84020422%2F00332894924%2F1865042001%2F0093.jp2/pct:76.314039,35.283625,14.604125,14.092044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_artemis_ver02:data:sn84020422:00332894924:1865042001:0093/pct:76.713240,37.899869,14.204923,11.784992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Burlington weekly hawk-eye._](https://chroniclingamerica.loc.gov/lccn/sn84027060/1865-06-03/ed-1/seq-1)
+## [From _American presbyterian almanac and family register_](https://panewsarchive.psu.edu/lccn/2018264050/1865-04-27/ed-1/seq-3/)
+
+#### 1865-04-27 &middot; [Philadelphia Pa.](http://dbpedia.org/resource/Philadelphia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+  
+A COWARD&#x27;S ESTIMATE OF LIFE.  
+  
+The following, from the Cincinnati Ga­  
+zette, illustrates the feelings not of one per­  
+son, but a whole class of creatures, we will  
+not call them men, who have disgraced our  
+army.  
+  
+I noticed upon the hurricane deck to-day  
+an elderly darkey with a very philosophical ,  
+and retrospective cast of countenance,  
+squatted upon his bundle toasting hii shins  
+against the chimney, and apparently plung­  
+ed in a state of deep meditation. Finding,  
+upon inquiry, that he belonged to the Ninth  
+Illinois, one of the most gallantly behaved  
+and heavily losing regiments at the Fort  
+Doneleon battle&quot;&quot;, and&#x27; part of which  
+aboard, I began to&#x27; interrogate him_  
+:upon  
+the subject His philosophy was so much  
+in the Falstaffian vein .that ;I will, gig u e his  
+views in his own words, as near as my me­  
+mory serves me. - • -  
+  
+&quot;Were you inAtte fight ?&quot; • &#x27;&#x27;  
+&quot;`Had a little taste  
+&quot;Stood your grnizad, did  
+No, sa, I. runs.&quot;  
+&quot;Run at the first fire, did .you.?&quot; .  
+&quot;Yea, - -sa, and -would- had , ran soona,  
+had I knead it was  
+  
+&quot;Why, that wasn&#x27;t very creditable to  
+your courage.&quot;  
+Dat isn&#x27;t in my line, sa—cookM&#x27;s,my  
+profeshun.&quot;  
+&quot; Well, but have you no .regard for your  
+reputation.&quot;  
+&quot;Reputation&#x27;s nofin- by the side of life:&quot;  
+&quot;Did you consider your-life&#x27;worth - more  
+than other people&#x27;s.&quot;  
+&quot;It&#x27;s worth More to me, sa.&quot;  
+&quot;Then you must value it very highly?&quot;  
+&quot; Yes, sa, I does—more dan dis world  
+--more than a million ob dollars, sa, for.  
+what.would that be vuth to a man with the  
+bref out of him ? Self-preserbashum am  
+de fust la.w wid me.&quot;  
+  
+&quot; But why should you act upon a differ.:  
+ent rule froni other men?&quot;  
+&quot;Because .different men set different  
+values upon dar lives—mine is not in the.  
+market.&#x27;  
+  
+&quot; But if you lost it, you would have the  
+satisfaction .of knowing that you died for  
+your country.&quot; s&#x27;  
+&quot; What satisfaction would dat be to me  
+when the power of feelin&#x27; was gone ?&quot;  
+&quot;Then patriotism and honor are nothing  
+to you?&quot;  
+&quot;Nuffin whatever, sa—l regard dem m  
+among the vanities.&quot;  
+&quot;It our soldiers were like you, traitors  
+might have broken up the governnient  
+without resistance.&quot;  
+  
+&quot; Yes, sa, dar would have been no help  
+for it. I wouldn&#x27;t put my life in de scale  
+&#x27;ginst no gobernment dat eber existed, for  
+no gobernment could replace de lose to  
+me.&quot;  
+  
+&quot;Do you think any of your company  
+would  
+‘ hare missed you if you had, been  
+killed ?&quot;  
+  
+&quot; May be not, sa—a dead white man ain&#x27;t  
+much to dese sogers, Jet alone a dead nigga  
+—but I&#x27;d a missed myself, and dat was de  
+pint wid me.&quot;  
+It is safe to say that the dusky corpse of  
+that African will never darken the field of  
+carnage.
+</td></tr></table>
+
+---
+
+## [From _The daily standard._](https://newspapers.digitalnc.org/lccn/sn85042142/1865-05-02/ed-1/seq-1/)
+
+#### 1865-05-02 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+A PHILOSOPHIC DAREtV ;;  
+A newspaper correspondent frO the I  
+  
+CnmberJahdriyer gives the folio wbghn- f  
+morons account of a colloquy? with II phil­  
+osophic darkey, who had been present at  
+uie oatue or J? ort JJoneJson j  
+Observing him toasting hi shinj against  
+the chimney, T broke in upoa his grefojund  
+44 Were you in the fight at FoHPonel  
+sun t 1 ,i. t i j t  
+u Had a littfe taste of iriaa i  
+. f Stotd you ground,-did yoJ&quot;  
+- Norea,I runs.&quot; .  
+Run at the first fire, did you f  
+&quot; Yes, sa, and would hab run sooner  
+Jiad  
+I knowed it war cumin.&quot; j  
+&quot; Why that wasn&#x27;t very creditable  
+to  
+your courage.&quot;  
+&quot; Dat aint in my ine, sa ; cooking&#x27;s  
+perfeshun.&quot; t 1 j  
+&quot;Well, but have you no regard  
+your reputation !&quot; &quot;r -  
+my  
+I- ...  
+Tor  
+Reputation is nuffin to me by de side  
+of life.&quot; , . &#x27; j- -  
+&quot; Do you Leonsider your life worth more  
+than other people&#x27;s ?&quot; i- J  
+&quot; Its worth more to mei sa.&quot; &#x27;  
+&quot;Then yon must value it highly !&quot; r  
+&quot; Yes, sa,.I does--more dan all d&quot;s world  
+more dan a million! of dollars, sa ; for  
+what would. dat be worth&#x27; to a manwidi de  
+bref out &#x27;n him? Selt-preserbation amide  
+first law wid me, sa.&quot; . f  
+&quot; But why should you act upon a dif­  
+ferent rule frpra others:?&quot; r  
+&#x27; Because different men sets different  
+values on da lives ; mine is not in de mar- ,  
+ket, sa.&quot; . j I  
+&quot;But if you lost; it, you;would have (he  
+satifaction of knowing! you died for your  
+country.&quot; i j  
+&quot; What sntisfaction would dat be to me,  
+sa, when de feelin was gone V &#x27; !  
+&quot; Then patriotism and honor are nokh­  
+ingto you ?&quot; ; - j I  
+Nuffin whatever, a, I regard derni as  
+among de vanities.&quot; ! v I  
+&quot; If our solders were like yon, traitors  
+might have broken up the Government  
+without resistance t&#x27;&#x27; i j  
+&quot;Yes, sa,&#x27; there wtonld hab been no help  
+for it ; I wouldn&#x27;t pntliny life in de scale  
+against any igubbernment dat&#x27; ever exist­  
+ed, for no gubbernmeht Could replacefde  
+loss to me.&quot; &#x27; i 1  
+&quot; Do you i think any of your company  
+wonM have missed you if von had been  
+killed!&quot; j &quot;  
+&quot; May be not, sa. A dead white man  
+ain&#x27;t much to dese sogers ; let alone a dead  
+nigger, but I&#x27;d a missed myself, sa, and  
+dat&#x27;s do pinf wid me&quot; K  
+A crusty old bachelor savs he thinks it&quot;1  
+is woman, and not her wrongs, that ought  
+t
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DailyStan5n_ver01%2Fdata%2F1865050201%2F0027.jp2/pct:83.424855,19.360087,20.476879,51.724512/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Burlington weekly hawk-eye._](https://www.loc.gov/resource/sn84027060/1865-06-03/ed-1/?sp=1)
 
 #### 1865-06-03 &middot; [Burlington [Iowa]](http://dbpedia.org/resource/Burlington%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the Nephew of his Uncle will proba­  
-bly find his Moscow in Mexico. In pro­  
-viding for eur own security by relieving  
-Mexico lroin a foreign yoke, we shall do  
-au act, whose justice the world will ap­  
-plaud, it its just.ee is tainted by no pro­  
-jects cf oonquest cr Rcnoxation on our  
-part. If it snali he, it wiil plant the seeds  
-of calamity to tins nation.—&#x27;Jin. Gctz.  
+. Gctz.  
   
 A PHII^)SOPHIC DARKKT.—A correspon­  
 ded. o -the Cincinnati itazelte, writing from  
@@ -6413,26 +9238,19 @@ It is safoto say that the dnsky oorpsa of
 that African will never darken the fleid of  
 carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn84027060%2F00415668922%2F1865060301%2F0139.jp2/pct:47.748789,51.044495,14.586085,38.634992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668922:1865060301:0139/pct:47.737781,54.626697,14.580581,35.045249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The Manchester journal._
+## [From _The Manchester journal._](https://www.loc.gov/resource/sn83025668/1865-06-13/ed-1/?sp=1)
 
 #### 1865-06-13 &middot; [Manchester, Vt.](http://dbpedia.org/resource/Bennington%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-erous evidences of the  
-warmth of that charity which my ac  
-quaintance with Mr. Lincoln could  
-furnish, I cannot hesitate to believe  
-that the assassin struck at his own  
-friend, and silenced by his murderous  
-blow the kindest heart in all the  
-land.-Mr. Fa KilER iN N. F. DoT.  
+.  
 A PHILOSOPHIC DARKEY. Acor-  
 respondent of the Cincinnati Cazette,  
 writing from the Cumberland river,  
@@ -6513,7 +9331,43 @@ self, and dat was de pint wid me.&quot;
 It is safe to say that the dusky  
 corpse of that African will never dark­  
 en the field of carnage
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629217:1865061301:0800/pct:67.614076,47.902783,12.470998,44.858226/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Wheeling daily intelligencer._](https://www.loc.gov/resource/sn84026844/1865-09-27/ed-1/?sp=1)
+
+#### 1865-09-27 &middot; [Wheeling, W. Va.](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+. &#x27;Were you in the  
+fight?&#x27; &#x27;Had a llUIo taste of it sn.&#x27;?  
+&#x27;Stood your ground, did you? 4No sn, I  
+runs.&#x27; &#x27;Run at the first fire, did you ?&#x27;  
+4 Yes, sa, and would hub run soonn, had  
+I knowd it war coming.&#x27; &#x27;Why, that  
+was not very creditable to yonr cour­  
+age.* *Dat isn&#x27;t in my ltiic.sn.cookin&#x27;*  
+my pcrfesliun.&#x27; Well, but have you no  
+regard for your reputation ?&#x27; ?Reputa­  
+tion&#x27;s liulUr to me by the side ob life.&#x27;  
+4Do you consider your lift? worth mote  
+tlinn other people&#x27;s?&#x27; &#x27;It&#x27;s worth more  
+to me, sn.&#x27; &#x27;Then you must value it  
+vory highly?* &#x27;Yob; sa, I does^-more  
+than all dis wuld?more dan a million  
+ob dollars, sa; for what would dat be  
+worth to a man wid tho href out of  
+him? Kelf-prcscrbashun am de first law  
+wid me.&#x27;
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026844:00202190765:1865092701:0293/pct:73.781227,20.794348,12.515159,8.191713/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6523,7 +9377,13 @@ en the field of carnage
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ an’ free.”  
   
+The compiler of “Old Abe’s Jokes” gives the following as a  
+story told by the President. It is, however, far more charac-  
+teristic of the elderly Southern “darkey” than of young Africa  
+of our Northern cities, which is to-day enlisting by thousands  
+in the army.  
   
 “Upon the hurricane-deck of one of our gunboats, an elderly darkey, with a very  
 philosophical and retrospective cast of countenance, squatted upon his bundle,  
@@ -6599,21 +9459,24 @@ killed ?’ : :
 e  
   
 ‘“*é May be not, sa’_—a dead white man ain’t much to dese sojers—let alone a  
-dead nigga—but I’d a missed myself, and dat was de pint wid me.’”
+dead nigga—but I’d a missed myself, and dat was de pint wid me.’”  
+  
+This venerable disciple of Hudibras was evidently not “ one  
+of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_united-states-service-magazine_1865-10_4_4&#0036;49/pct:19.313910,54.933815,64.332707,31.347774/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_united-states-service-magazine_1865-10_4_4%2Fsim_united-states-service-magazine_1865-10_4_4_jp2.zip%2Fsim_united-states-service-magazine_1865-10_4_4_jp2%2Fsim_united-states-service-magazine_1865-10_4_4_0049.jp2/pct:19.313910,44.975933,64.379699,41.305656/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Monmouth inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032307/1865-10-12/ed-1/seq-1)
+## [From _The Monmouth inquirer._](https://www.loc.gov/resource/sn83032307/1865-10-12/ed-1/?sp=1)
 
 #### 1865-10-12 &middot; [Freehold, N.J.](http://dbpedia.org/resource/Freehold_Township%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+:  
 ‘‘ Were you in the fight ?”  
 “ Had a little taste of it, sa.”  
 “ Stood your ground, did you ?”  
@@ -6637,21 +9500,21 @@ than other people’s ?”
 will5 — more dan a million of dollars, sa.;  
 for what would dat he worth to a man  
 wid de href out ob him ? Self-preserba­  
-slmn am de first law wid me.
+slmn am de first law wid me.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_eggharbor_ver01%2Fdata%2Fsn83032307%2F00513685257%2F1865101201%2F0398.jp2/pct:35.449077,32.722551,13.923460,13.738999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685257:1865101201:0398/pct:35.456432,32.727273,13.921162,13.737374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Portland daily press._](https://chroniclingamerica.loc.gov/lccn/sn83016025/1865-10-13/ed-1/seq-1)
+## [From _The Portland daily press._](https://www.loc.gov/resource/sn83016025/1865-10-13/ed-1/?sp=1)
 
 #### 1865-10-13 &middot; [Portland, Me.](http://dbpedia.org/resource/Portland%2C_Maine)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 “Were you in the fight ?”  
 “Had a little taste of it, sa.”  
 “Stood your ground, did you?”  
@@ -6680,15 +9543,16 @@ wid me.”
 you?”  
   
 “Noffin whatever, sa—I regard dem as  
-among de vanities.
+among de vanities.”  
+There is another kin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/me_edgecomb_ver02%2Fdata%2Fsn83016025%2F00279525206%2F1865101301%2F0604.jp2/pct:3.041579,77.136346,10.940786,11.283074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525206:1865101301:0604/pct:3.042071,77.146113,10.938511,11.699164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Van Buren press._](https://chroniclingamerica.loc.gov/lccn/sn84022991/1866-02-10/ed-1/seq-1)
+## [From _The Van Buren press._](https://www.loc.gov/resource/sn84022991/1866-02-10/ed-1/?sp=1)
 
 #### 1866-02-10 &middot; [Van Buren, Ark.](http://dbpedia.org/resource/Van_Buren%2C_Arkansas)
 
@@ -6767,67 +9631,70 @@ dead nigga—but I’d missed mVself and |
 dat was de pint wid me.”  
 it is safe to say that the dusky corpse  
 of that African will never darken the  
-field of carnage.— Correspondence Cincin
+field of carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_fullmoon_ver01%2Fdata%2Fsn84022991%2F00513688064%2F1866021001%2F0005.jp2/pct:20.724638,15.241299,35.079051,78.953724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688064:1866021001:0005/pct:20.711462,15.241299,35.079051,78.936473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Orangeburg news._](https://chroniclingamerica.loc.gov/lccn/sn84026920/1868-01-18/ed-1/seq-1)
+## [From _Southern Christian advocate._](https://www.loc.gov/resource/sn87065702/1866-05-25/ed-1/?sp=6)
 
-#### 1868-01-18 &middot; [Orangeburg, S.C.](http://dbpedia.org/resource/Orangeburg%2C_South_Carolina)
+#### 1866-05-25 &middot; [Augusta, Ga.](http://dbpedia.org/resource/Augusta%2C_Georgia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-baslmn^am the fir?t law wid  
-me.&quot; ry: &#x27;.&lt;, t i&#x27;.\-f(rv\ s?\&amp;$  
-&quot;Bat why abound you act upon a different  
-rulo from other men ?&quot; i. v.uit-iiiY 1B4  
-&quot;Because different, men set different values  
-upon dar lives? mino is not in the market.&quot;  
-&quot;But if you lost it, von would have the sat­  
-isfaction of knowing tlint you died: for your  
-country.&quot; .. \, &gt;\vA d Ilc^Ca  
-&quot;What satisfaction would dat lie (Oi flafMg&amp;en -  
-de power of feelin&#x27; was gene?&quot; lud ?dT  
-&quot;Then patriotism eddy honor are nothing to  
-you?&quot;:. &#x27; ? !&gt;:&gt;&lt; i / *?? ? ? tlT­  
-&quot;Nuffin whatever, ?o.; I iegari? them: aa  
-among de vanities-1&quot;* \ ) .&lt;&gt;{&lt;? o4 f&gt;?  
-If our soldiers were like you, tapftpffsimight  
-have broken up the government without .re­  
-aiataaee.&quot; n itJ%  
-&quot;Yes, aa, dar would have been no Selp for it.  
-I wouldn&#x27;t put my head in de scale &#x27;gainst aw  
-gobernmcnt dat eber existed ; for no 3 gpb.cm- -  
-rocnt could replace de Loss to mo,&#x27;,&#x27; .&gt; ,  
-?v ? . i ? tum . -!;?-n vilt-nt  
-&#x27;?Do you think any of your company would  
-have missed you if you had, jjcop ^ifled^1^,  
-&quot;May be net, sa; a dead .whito man .ain&#x27;t  
-much to deso sogera, let lonp a dead nigga.  
-Bnt I&#x27;d a miss myself, and dat was de pint wid  
-T -I r. T-Mnr.uotq  
-me- .-J.f.-.fefcp  
-It is safo to say that the duskycorpse of that  
-African will never darkenthe ^$elotajf^ra
+?  
+With a philosophical and retrospective cast  
+of countenance, he squatted down on his  
+little bundle, toasting himself against the  
+chimney, in a state of most profound medi­  
+tation.  
+i “Were you in the fight?”  
+“Had a little taste of it, sa.”  
+“Stood your ground, did you ?”  
+j. “No, sa, I runs.’*  
+| “Run at the first fire, did you ?”  
+}- “Yes, sa, and would hab run soona, had I  
+knowed it war coming ”  
+“Why, that was not very creditable to  
+your courage.”  
+“Dat isn’t in my line, sa—cookin’s my  
+perfeshun.”  
+“Well, but have you no regard for your  
+reputation  
+“Reputation’s nuffin to me by tho side ob  
+life.’’  
+“Do you consider your life worth more  
+than other people’s ?”  
+‘ill&#x27;s worth more to me, sa.”  
+“Then you must value it very highly ?”  
+“Yes, sa, I does—more than all dis wuld  
+—more dan a million ob dollars, sa; for  
+what would dat be worth to a man wid de  
+bref out ob him ? Sclf-preserbashun am de  
+first law wid me ”  
+“Then patriotism and honor are nothing  
+to you ?”  
+“Nuffin&#x27; whatever, sa—I regard dem as  
+among de vanities.&quot;  
+  
+“ Hb’il Never Sit tbr Temse ok Fire.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_heddalettuce_ver01%2Fdata%2Fsn84026920%2F00294558706%2F1868011801%2F0252.jp2/pct:81.308140,35.457535,16.138566,22.151287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991288:1866052501:0068/pct:59.163200,7.125420,35.209200,86.481538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1868-01-30/ed-1/seq-4)
+## [From _Yorkville enquirer._](https://www.loc.gov/resource/sn84026925/1868-01-30/ed-1/?sp=4)
 
 #### 1868-01-30 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-white feather in battle:  
+:  
 &quot;Were you in the fight ?&quot;  
 &quot;Had a little taste of it, sa.&quot;  
 &quot;Stood your ground, did you?&quot;  
@@ -6882,22 +9749,21 @@ But I&#x27;d miss myself, and dat was de pint
 wid me.&quot;  
 It is safe to say that the dusky corpse of  
 that African will never darken the field of  
-carnage.?The Gray Jackets
+carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862725%2F1868013001%2F0226.jp2/pct:3.091966,63.230845,15.354123,29.953078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862725:1868013001:0226/pct:3.131607,63.734025,15.314482,29.440637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Nashville union and dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85038521/1868-02-23/ed-1/seq-4)
+## [From _Nashville union and dispatch._](https://www.loc.gov/resource/sn85038521/1868-02-23/ed-1/?sp=4)
 
 #### 1868-02-23 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-white feather in battle :  
+:  
 &quot;Were you in the fight?  
 &#x27; Had a little taste of it. a.&quot;  
 &#x27; Stood your ground, did you V  
@@ -6928,19 +9794,19 @@ iien upon.lar; livrt .mine ip uot- in Ibe
 market.&quot; -  
 &quot; But ifyou Iftt, it. you would hava die
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85038521%2F0020029337A%2F1868022301%2F0190.jp2/pct:18.085897,8.165536,10.848566,12.960285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868022301:0190/pct:24.093880,11.458449,14.453357,16.698187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Nashville union and dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85038521/1868-02-23/ed-1/seq-4)
+## [From _Nashville union and dispatch._](https://www.loc.gov/resource/sn85038521/1868-02-23/ed-1/?sp=4)
 
 #### 1868-02-23 &middot; [Nashville, Tenn.](http://dbpedia.org/resource/Nashville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+; for  
 no goberment could replace dfrlbsa to.me.&quot;  
 &quot; Do you think any of your cotnyany  
 would have minted you if you had, been  
@@ -6952,22 +9818,21 @@ me.&#x27;
 It is safe, tossy that thediiskv cornsn of  
   
 that African will never darken the field of  
-carnage. 1 e (irtq Jaelets
+carnage. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_elvis_ver01%2Fdata%2Fsn85038521%2F0020029337A%2F1868022301%2F0190.jp2/pct:18.100758,26.654800,10.744539,4.750250/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868022301:0190/pct:24.123589,35.065080,14.304813,6.763822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Bolivar bulletin._](https://chroniclingamerica.loc.gov/lccn/sn85033306/1868-02-29/ed-1/seq-1)
+## [From _The Bolivar bulletin._](https://www.loc.gov/resource/sn85033306/1868-02-29/ed-1/?sp=1)
 
 #### 1868-02-29 &middot; [Bolivar, Hardeman County, Tenn.](http://dbpedia.org/resource/Bolivar%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-white feather in La&quot; tie:  
+&quot; tie:  
 &quot; Were vou in the ht?&quot;  
 &quot; Hal ahttle taste cf it, &#x27;tt  
 &quot;Stood your gn.und, did you?&quot;  
@@ -7024,15 +9889,15 @@ But I&#x27;d miss myself and dat&#x27;a de. pint wii
 me. ? .  
 It is safe to say that the dusky corpse, of  
 that African. will never darken tho field of  
-carnage. The-Gref Jackets
+carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jethro_ver01%2Fdata%2Fsn85033306%2F00212470107%2F1868022901%2F0687.jp2/pct:83.231749,9.321754,12.433970,25.634825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470107:1868022901:0687/pct:111.023835,12.421677,16.495125,34.176102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wyandot pioneer._](https://chroniclingamerica.loc.gov/lccn/sn87076863/1868-05-21/ed-1/seq-1)
+## [From _The Wyandot pioneer._](https://www.loc.gov/resource/sn87076863/1868-05-21/ed-1/?sp=1)
 
 #### 1868-05-21 &middot; [Upper Sandusky, Ohio](http://dbpedia.org/resource/Upper_Sandusky%2C_Ohio)
 
@@ -7122,137 +9987,88 @@ It is safe to say that the dusky
 corpse of that African will never  
 darken the field of carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_laing_ver02%2Fdata%2Fsn87076863%2F00296028824%2F1868052101%2F0085.jp2/pct:61.222168,30.835062,10.888997,41.960581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028824:1868052101:0085/pct:81.578947,41.104772,14.506173,55.951763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1868-06-27/ed-1/seq-1)
-
-#### 1868-06-27 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-&quot; Weie you in the light ?&quot;  
-&quot;Had a little tssie ol ii, sa.&quot;  
-&quot;.Stood your ground, did you ?&quot;  
-&quot;No, sa, 1 runs ! &#x27;  
-&quot;Jlun at the lirat lire, did you V  
-&quot;\ cs sa, and wcul I have run sooner if  
-I knowed it war a cumin.1&#x27;  
-&quot;Why, that wasn&#x27;t very creditable to  
-your courage ?&quot;  
-&quot;D.it isn&#x27;t my line, sa, ? cochin&#x27;s my  
-perfeshnn ?&quot;  
-&quot;Well, but hare you no rrpard for  
-your rrptitation ?&#x27;*  
-&quot;Reputation&#x27;s nofin bv t!ie side of  
-life.&quot;  
-&quot;Do you consider yoor I fe worth more  
-than other people&#x27;s  
-&quot;It&#x27;s worth ir.oro to me, sa.&quot;  
-&quot;Then you must value it verv high­  
-ly ?&quot;  
-&quot;Yes, sa, I does, more &lt;!an *11 dis  
-world ; more dan a nnlli n ob dollars, aa ;  
-for wh.t would dr?lbe woth to a man wid  
-de bref out of h.rn ? Si ii prcscrwashun  
-am i!&gt;e fiistlaw wid me.&quot;  
-&quot;Hut why should you act upon a dif­  
-ferent rule from other men ?&quot;  
-&quot;Becau-e different ir.en set different  
-walues upon dar live? ? mine is not in dc 1  
-market.&quot;  
-&quot;But if you fosi it, you would have  
-t&#x27; e satisfaction of knowing that you died  
-Irr yo&gt; r country.&quot;  
-&quot; What ?atisficshun wud dat b? tu me 1  
-when de power ob feelin&#x27; war gone V  
-&quot;Then patriotism and honor arc nothing  
-to you ?&quot;  
-&quot;Nurtin whatever, sa ; I reg-wd thrm  
-as among the wani&#x27;ies.&quot;  
-&quot;ll our soldiers were like you. traitors  
-might have broken up tbe government  
-wu.iO&#x27;it resistance.&quot;  
-&quot;Yes, sa, dar would have been no  
-lielp for it. 1 wouldn&#x27;t put my head in  
-de scale, &#x27;gainst no gubberoient dat ebber  
-existed ; for no gub ermeiit roulj replace  
-the loss to ro*.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767778%2F1868062701%2F0315.jp2/pct:55.574324,50.086910,13.368056,25.792218/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Louisiana Democrat._](https://chroniclingamerica.loc.gov/lccn/sn82003389/1868-07-01/ed-1/seq-3)
+## [From _The Louisiana Democrat._](https://www.loc.gov/resource/sn82003389/1868-07-01/ed-1/?sp=3)
 
 #### 1868-07-01 &middot; [Alexandria, La.](http://dbpedia.org/resource/Alexandria%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ interest it should be earning, and  
+why is it not credited to the Treasury,  
+even if not reserved for the claimant? A  
+reply is now in order.  
   
-&quot; Were you in ta ghet?&#x27; &quot;  
-&quot; Had a little taste of it as.&quot;  
-&quot; Stood your ground did-you ?&quot;  
-&#x27;N o, sa, I runs I&quot;_  
-&quot;Run at the first fire did you-?&quot;  
-&#x27; Yes as, and would have run soona, if I  
-knowed ,it war a comm.&quot; -  
-&#x27; Why, that was not very creditable to  
-your courage ?&quot;  
-&#x27; Dat isn&#x27;t In my line, esa-cookin&#x27;s my  
-perfeshun 1&quot;  
-&quot; Well, but have you no regard for your  
-reputation ?&quot;.  
-&quot; Reputation is no8n by the side ob life.&quot;  
-&quot; Do you consider your life. worth more  
-than other people&#x27;st&#x27; .  
-&quot; It&#x27;s worth more to me, as.&quot;  
-&quot;Then you must value it very highly ?&quot;  
+A Sable Philosopher.  
+The correspondent of a Northern news-  
+paper, in a letter published during the war,  
+thus humorously describes his interview  
+with a strageler from a negro regiment of  
+the Federal army, with whom he was re-  
+monstrating for having shown the white  
+feather in battle:  
+Were you in the fight re  
+&quot;Had a little taste of it sa.&quot;  
+&quot;Stood your ground did you?&quot;  
+&quot;No, sa, I runs!&quot;  
+&quot;Run at the first fire did you?&quot;  
+&quot;Yes sa, and would have run soona, if I  
+knowed it war a comin.&quot;  
+&quot;Why, that was not very creditable to  
+your courage?&quot;  
+&quot;Dat isn&#x27;t in my line, sa--cookin&#x27;s my  
+perfeshun!&quot;  
+&quot;Well, but have you no regard for your  
+reputation?&quot;  
+&quot;Reputation is nofin by the side ob life.&quot;  
+&quot;Do you consider your life worth more  
+than other people&#x27;s?&quot;  
+&quot;It&#x27;s worth more to me, sa.&quot;  
+&quot;Then you must value it very highly?&quot;  
 &quot;Yes, sa, I does, more dan all dis world;  
-more dan a million ob dollars,sa ; for what  
+more dan a million ob dollars, sa; for what  
 would dat be wuth to a man wid de bref  
-out of him ? Self-preserwashun am de first  
-law wid me.&quot; a  
-&quot; But why should you gct upon a differ­  
-ent rule from other men. ?&quot;  
-&quot; Because different men setdifferenl wal­  
-aes on dar lives-mine is not in de mar­  
+out of him? Self-preserwashun am de first  
+law wid me.  
+&quot;But why should you act upon a differ­  
+ent rule from other men?&quot;  
+&quot;Because different men set different wal­  
+ues on dar lives--mine is not in de mar­  
 ket.&quot;  
-&quot;But if you lost it, you would -have the  
+&quot;But if you lost it, you would have the  
 satislaction of knowing that you died for  
-your country.&quot; -  
-&quot; What satisfacahun wad dat be to me  
+your countryis han a a  
+&quot;What satisfacshun wud dat be to me  
 when de power of feelin&#x27; was gone?&quot;  
-&#x27; Then patriotism and honor are nothing  
-to you ?&quot; &#x27;  
-&quot;&#x27; Nuffn whatever, sa; I regard them as  
-amone the wanities.&quot;  
-&quot; If our soldiers were like you. traitors  
-might have broken up the government  
-witholut resistance.&quot;  
-&quot; Yes, sa, dar would have been no.belp  
-for it. I wouldn&#x27;t put my head in descale,  
-ainst no Rubbernment dat ebber existed;  
+&quot;Then patriotism and honor are nothing  
+to you?&quot;  
+&quot;Nuffin whatever, sa; I regard them as  
+among the wanities.&quot;  
+&quot;If our soldiers were like you, traitors  
+might have broken up the Government  
+without resistance.  
+&quot;Yes, sa, dar would have been no help  
+for it. I wouldn&#x27;t put my head in de scale,  
+ainst no gubbernment dat ebber existed;  
 for no gubbernment could replace the loss  
 to me.&quot;  
 &quot;Do you think any of your company  
 would have missed you if you had been  
-killed ?&quot;  
-S&quot;May be not,sa; a dead white.man  
+killed?&quot;  
+&quot;May be not, sa; a dead white man  
 isn&#x27;t much to dese sojers, let alone a dead  
-nigia. But I&#x27;d miss myself, and dat was  
-de pint wid me.&#x27;,  
-it is safe to say that the dusky corpse of  
+nigga. But I&#x27;d miss myself, and dat was  
+de pint wid me.&quot;  
+It is safe to say that the dusky corpse of  
 that negro will never darken the field of  
 carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_beast_ver01%2Fdata%2Fsn82003389%2F00294555134%2F1868070101%2F0010.jp2/pct:56.837682,6.495661,13.080021,27.322614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_beast_ver01:data:sn82003389:00294555134:1868070101:0010/pct:43.407459,0.944359,26.545264,95.622767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7264,7 +10080,43 @@ carnage
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ 4 JORDAN&#x27;S  
   
+A Sable Philosopher-  
+Ihe correspondent of a Noilhei it news-  
+paper, in a letter published during the war,  
+thus humorously describes his interview!  
+with a straggler from a negro regiment, ol  
+the Federal army, with ivhrffn ho was re-  
+monstrating for having shown the white  
+feather in brittle:  
+  
+• W ert) y ( fti in the fight 9 ’  
+  
+■llftd a little taste of it, sa.’  
+  
+•Stood your ground, did yon?’  
+  
+‘No, sa, 1 runs.’  
+  
+&#x27;Itun at the liist fire, did you?’  
+  
+I  
+  
+‘Yes, sa, and would run sooner ill, *  
+  
+know’d it war a cornin’.’  
+  
+•Why, that was not very creditable to 1^7 itH the opening ot the season, we are  
+J J v 7 npnin prepared to offer to our fi lends  
+  
+your courage.’ | and cuslonxrsa  
+  
+•Dai’s not 111 my \iiic, sA— cookiti’s my  
+  
+perfeshion.  
+  
+•Well, have yon no regard for your rep- j l , r0U) lh# best nl0lket , nnd whicb wiU besoI(i  
 Utation?’ at the  
   
 •Reputation’s ntifiin by do siile ob life.’  
@@ -7282,7 +10134,7 @@ m ore’ll a million dollars, sa; for what &quot; -•
 would dat be wuth to a man wid de lire 1  
 knocked out uv him? Self-presscrwasliun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/xt734t6f2c27&#0036;3/pct:3.649635,18.336237,25.091241,6.736353/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt734t6f2c27%2Fxt734t6f2c27_jp2.zip%2Fxt734t6f2c27_jp2%2Fxt734t6f2c27_0003.jp2/pct:3.649635,4.616725,25.310219,20.455865/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7294,7 +10146,11 @@ knocked out uv him? Self-presscrwasliun
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+! vatKC. Oil accounts not p i d wilhiu one iroutli  
   
+VERY LOWEST PRICES!  
+  
+Ladies 1 Dress Goods  
   
 atn de fust law wid me.’  
   
@@ -7341,41 +10197,11 @@ But I’d miss myself, and dat was de pint
 wid me.’  
   
 It is safe to say that the dusky corpse  
-of that negro will never daiken the field ol
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/xt734t6f2c27&#0036;3/pct:3.412409,25.261324,12.737226,22.052846/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Prescott journal._](https://chroniclingamerica.loc.gov/lccn/sn85033221/1870-07-28/ed-1/seq-3)
-
-#### 1870-07-28 &middot; [Prescott, Wis.](http://dbpedia.org/resource/Prescott%2C_Wisconsin)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
+of that negro will never daiken the field ol  
   
-‘Had a little taste of it, eah.’  
-‘Stood your ground, did you?’  
-‘No sah, I runs.’  
-‘Run at the first fire, did you?’  
-‘Yes sah; would have run sooner if I  
-bad known it was coinin’.’  
-‘Why, that is not very creditable to  
-your courage.’  
-Dat isn’t in my line, sah—cookin’ is  
-my perfession.’  
-‘Well, but have you no regard for  
-your reputation ?’  
-‘Reputation’s nuffin to ma by de side  
-ob life.’  
-‘Do you consider your life worth more  
-than other people’s?’  
-‘lt’s worth more to mo, eah.’  
-A Chinese maxim says: “We re
+MAI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_galky_ver01%2Fdata%2Fsn85033221%2F00514152378%2F1870072801%2F0489.jp2/pct:28.211856,36.249266,12.419825,10.501027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt734t6f2c27%2Fxt734t6f2c27_jp2.zip%2Fxt734t6f2c27_jp2%2Fxt734t6f2c27_0003.jp2/pct:3.412409,16.013357,51.113139,31.300813/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7391,13 +10217,95 @@ A Chinese maxim says: “We re
 
 ---
 
-## [From _The Bloomfield times._](https://chroniclingamerica.loc.gov/lccn/sn84026050/1872-01-09/ed-1/seq-3)
+## [From _The Waynesboro' village record._](https://panewsarchive.psu.edu/lccn/sn84026572/1871-12-28/ed-1/seq-1/)
+
+#### 1871-12-28 &middot; [Waynesboro', Pa.](http://dbpedia.org/resource/Waynesboro%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+t Donaldson.  
+  
+&quot;Were you in the fight, Sam r  
+&quot;Had a little taste of it, sa.&quot;  
+&quot;Stood your ground, did you?&quot;  
+&quot;No. sa, I runs.&quot;  
+&quot;Ran at the first fire, did you?&quot;  
+&quot;Yes, sa, and would. hab run sooner,  
+had I knowed it war comin.&quot;  
+  
+&quot;Why, that wasn,t very creditable .to  
+your courage.&quot;  
+&quot;Dat isn&#x27;t in my line, sa—cookin&#x27;s my  
+perfeshun.&quot;  
+&quot;Well, but have you no regard for  
+your reputation ?&quot;  
+&quot;Reputation&#x27;s nub to me by de side  
+of life.&quot;  
+  
+&quot;Do you consider your life worth more  
+than other people&#x27;s 1 1 &quot;  
+&quot;It&#x27;s worth more to me, sa.&quot;  
+  
+&quot;Then you must vabie it very highly ?&quot;  
+&quot;Yes, sa, I does— more dan all dis  
+wuld—more dan a million ob dollars, sa,  
+for what would dot be wuth to a man  
+wid de bier&#x27; out of him? Self-preserbash­  
+un amu de fust law widme.&quot;  
+  
+&quot;But why should you act upon a dif­  
+ferent rule from other men 2&quot;  
+  
+&quot;Because different men, set different  
+values upon dar lives-mine is not in de  
+•  
+market.&quot;  
+  
+qßut if you lost it, you would have the  
+satisfaction of knowing that you died for  
+your country.&quot;  
+&quot;What satisfaction would that be to  
+me when de power ob feelin&#x27; was &#x27;gone ?&quot;  
+&quot;Then patriotism and honor are noth­  
+ing to you ?&quot;  
+&quot;Nuifin,whatever, sa—l regard them  
+as&#x27;among de vanities.&quot;  
+&quot;If our soldiers were all likeu,  
+traitors might have broken up the Gov­  
+ernment without resistance:&quot;  
+  
+•  
+&quot;Yes, sa, dar would hab been no help  
+for it, I wouldn&#x27;t put my life in de scale ,  
+&#x27;ginst any Goberment dat eber existed,&#x27;  
+tbr no Gobernment could replace de loss  
+to me.&quot;.  
+  
+&quot;Do you think any of your company  
+would have missed you if you had been  
+killed ?&quot;  
+  
+&quot;May be not, sa—a dead white man  
+ain&#x27;t much to dese sojers. let alone a nig:  
+, a—but I&#x27;d a missed myself, and dat  
+was- de pint wid me,&quot;  
+  
+There is a mysterious feeling of sad­  
+ness that frequently passes like a cloud o­  
+ver the spirit, It comes on the soul in  
+the busy bustle o
+</td></tr></table>
+
+---
+
+## [From _The Bloomfield times._](https://www.loc.gov/resource/sn84026050/1872-01-09/ed-1/?sp=3)
 
 #### 1872-01-09 &middot; [New Bloomfield, Pa.](http://dbpedia.org/resource/New_Bloomfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ tho present product of their  
+father&#x27;s farm. So shall we stem the tide of  
 debt that sets steadily against our shores,  
 and cease to be visited and annoyed by  
 hard times.  
@@ -7457,13 +10365,30 @@ ga but I&#x27;d a missed myself, and dat was
 de pint wid me.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_jordan_ver01%2Fdata%2Fsn84026050%2F00280776804%2F1872010901%2F0022.jp2/pct:76.236335,56.691079,17.881312,39.164447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026050:00280776804:1872010901:0022/pct:101.586889,73.834887,23.829344,53.961385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _New York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85026214/1872-06-09/ed-1/seq-3)
+## [From _Canton weekly register._](https://www.loc.gov/resource/sn84038367/1872-01-26/ed-1/?sp=4)
+
+#### 1872-01-26 &middot; [Canton, Ill.](http://dbpedia.org/resource/Canton%2C_Illinois)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+. ■  
+There is a mysterious feeling of sadness i  
+that frequently passes like a cloud over the &#x27;  
+spirit. It comes on the soul in the busy 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151131:1872012601:0369/pct:39.042154,86.482896,11.741337,2.175357/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _New York dispatch._](https://www.loc.gov/resource/sn85026214/1872-06-09/ed-1/?sp=3)
 
 #### 1872-06-09 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
@@ -7543,15 +10468,17 @@ but I’d a missed myself, and dat was de pint
 wid me.”  
 It is safe to say that the darkey corpse of  
 that African will never darken the field of  
-carnage. . ... 
+carnage. . ... .  
+A BROTHER’S SACRIFICE.  
+An Unusual Scene tn a Court R
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_dunbar_ver01%2Fdata%2Fsn85026214%2Fprint0021111020A%2F1872060901%2F0003.jp2/pct:57.258808,25.211783,12.308615,27.438711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111020A:1872060901:0003/pct:57.258808,25.208574,12.304003,28.905147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Herald and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033429/1872-06-20/ed-1/seq-1)
+## [From _Herald and tribune._](https://www.loc.gov/resource/sn85033429/1872-06-20/ed-1/?sp=1)
 
 #### 1872-06-20 &middot; [Jonesborough, Tenn.](http://dbpedia.org/resource/Jonesborough%2C_Tennessee)
 
@@ -7660,57 +10587,58 @@ nigga ; but I&#x27;d a missed myself, and dat
 was de pint wid nie.  
 . It is safe to say that the darkey corpse  
 of that African will never darken the  
-field of carungc
+field of carungc.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_brownie_ver01%2Fdata%2Fsn85033429%2F00280779313%2F1872062001%2F0385.jp2/pct:24.752609,8.854896,23.776603,85.252612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779313:1872062001:0385/pct:32.981030,11.806528,31.693767,113.670150/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Forest Republican._](https://chroniclingamerica.loc.gov/lccn/sn84026497/1872-06-25/ed-1/seq-1)
+## [From _The Forest Republican._](https://www.loc.gov/resource/sn84026497/1872-06-25/ed-1/?sp=1)
 
 #### 1872-06-25 &middot; [Tionesta, Pa.](http://dbpedia.org/resource/Tionesta%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-aud his gentle wife.  
+e and his gentle wife.  
 &quot;Tommy, my son, what are you go­  
 ing to do with that club?&quot;  
 &quot;Send it to the editor, of course.&quot;  
-&quot;But what aro vou going to send it  
+&quot;But what are you going to send it  
 to the editor for?&quot;  
 &quot;Cause he says if anybody will send  
-him a club ho will send them a copy  
+him a club he will send them a copy  
 of his paper.&quot;  
 The mother came pretty near faint­  
-ing, but retained couseiousucss to ask,  
+ing, but retained consciousness to ask,  
 &quot;But, Tommy, dear, what do you sup­  
-pose ho wants with a club ?&quot;  
+pose he wants with a club?&quot;  
 &quot;Well, I don&#x27;t know,&quot; replied the  
 hopeful urchin, &quot;unless it is to knock  
 down subscribers as don&#x27;t pay for  
 their paper.  
 Never run down your opponent&#x27;s  
-goods in public. Let him do his owi;  
+goods in public. Let him do his own  
 advertising.  
   
-A Philosophical Darkey.  
+A PhilOsophical Darkey.  
 An elderly darkey with a very phil  
   
 osophical and retrospective cast of  
 countenance, was squatting upon his  
-bundle on the hurricano deck of one  
-of tho Western river steamers, toast­  
+bundle on the hurricane deck of one  
+of the Western river steamers, toast­  
 ing his shins against the chimney, and  
 apparently plunged in a state of pro­  
-found meditation. His dress aud ap  
+found meditation. His dress and ap  
 pearance indicated familiarity with  
 camp life, and it being soon after the  
-siegb and capture of Fort Donelson, I  
+siege and capture of Fort Donelson, I  
 was inclined to disturb his reveries,  
 and on interrogating found that he  
-had been with the Union forces nt  
+had been with the Union forces at  
 that place, when I questioned him  
 further. His philosophy was so much  
 in the Falstaffin vein that I will give  
@@ -7721,68 +10649,68 @@ I had a little taste of it, sa.
 Stood your ground, did you?  
 No, sa, I runs.  
 Run at the first fire, did you?  
-Yes, sa, an&#x27; would hab run soonn  
-had I know d it was comin .  
+Yes, sa, an&#x27; would hab run soona  
+had I know&#x27;d it was comin&#x27;.  
 Why, that wasn&#x27;t very creditable to  
-vour courage.  
-Dat isn&#x27;t iu my line, sa cookiu&#x27;s  
-my protession.  
+your courage.  
+Dat isn&#x27;t in my line, sa--cookin&#x27;s  
+my profession.  
 Well, have you no regard for your  
-reputation r  
-Reputation! miffin to me by the  
+reputation?  
+Reputation! nuffin to me by the  
 side of life.  
 Do you consider your life worth  
-more than other people s?  
+more than other people&#x27;s?  
 It&#x27;s worth more to me, sa.  
 Then you must value it very high  
 ly?  
-Yes, sa, I does; more dan nil this  
+Yes, sa, I does; more dan all this  
 world; more dan a million dollars, sa;  
-for wut would that be wuth to a man  
-wid the bref out of him? Self prescr­  
+for wat would that be wuth to a man  
+wid the bref out of him? Self preser­  
 bashun am de fust law wid me, sa.  
-But why snould you act upon a dif­  
+But why snould you act upon a dif-­  
 ferent rule from other men?  
 Cause, sa, different men sets differ  
-ent value&quot; upon tier selves; my lifo is  
-not in ue market.  
+ent value upon der selves; my life is  
+not in de market.  
 But if you lost it you would have  
-tho satisfaction of knowing that you  
+the satisfaction of knowing that you  
 died for your country.  
-Whnt satisfuc&#x27;n would dat be to me,  
-when the power of leelin was gone?  
+What satisfac&#x27;n would dat be to me,  
+when the power of feelin&#x27; was gone?  
 Then patriotism and honor are noth­  
 ing to you?  
-Nuffiu&#x27;, whatever, a I regard dem  
-as among do varieties.  
-If our soldiers were liko you trait­  
-ors might have broken up tho Gov­  
+Nuffin&#x27;, whatever, sa- I regard dem  
+as among de varieties.  
+If our soldiers were like you trait­  
+ors might have broken up the Gov­  
 ernment without resistance.  
-Yes, sa ; der would hab been no  
-help for it. I wouldn tput my life in  
-do scales gainst any gubenucnt dat  
-eber existed tor no guberment could  
+Yes, sa; der would hab been no  
+help for it. I wouldn&#x27;t put my life in  
+de scales gainst any guberment dat  
+eber existed for no guberment could  
 replace de loss to me. Spec, dough,  
 dat de guberment safe if da is all like  
 me.  
-Do yon think any of your company  
-would havo missed vou if you had  
+Do you think any of your company  
+would have missed you if you had  
 been killed?  
-May bo not.sa. A dead .white man  
-ain&#x27;t much to deso sogers, let alone a  
-dead nigga: but I&#x27;d a missed myself,  
+May be not, sa. A dead white man  
+ain&#x27;t much to dese sogers, let alone a  
+dead nigga; but I&#x27;d a missed myself,  
 and dat was de pint wid me.  
-It is safo to say that tho dusky  
-eornse ol that African will never  
-darken the field of carnage
+It is safe to say that the dusky  
+cornse of that African will never  
+darken the field of carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_fenske_ver02%2Fdata%2Fsn84026497%2F00280776117%2F1872062501%2F0382.jp2/pct:56.222751,13.826816,26.040428,81.828057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776117:1872062501:0382/pct:56.222751,13.826816,26.040428,81.828057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Whig and tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033435/1872-07-06/ed-1/seq-1)
+## [From _Whig and tribune._](https://www.loc.gov/resource/sn85033435/1872-07-06/ed-1/?sp=1)
 
 #### 1872-07-06 &middot; [Jackson, Tenn.](http://dbpedia.org/resource/Jackson%2C_Tennessee)
 
@@ -7890,20 +10818,25 @@ aloue a dead nigga; but I&#x27;d a missed
 myself, and dat was de pint wid me  
 It is safo to say that the darkey  
 corpse of that Africa;! will never  
-darken the field of carnage
+darken the field of carnage,  
+Tho Coming 71 a iu .  
+The poetic machine of a friend  
+says the Lanreusville (S. C) Iterate,  
+brought int
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_kitty_ver01%2Fdata%2Fsn85033435%2F00212470466%2F1872070601%2F0173.jp2/pct:49.565103,4.329343,18.173432,91.128762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033435:00212470466:1872070601:0173/pct:49.565103,4.329343,18.173432,91.128762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Shasta courier._](https://chroniclingamerica.loc.gov/lccn/sn82015099/1872-07-20/ed-1/seq-2)
+## [From _The Shasta courier._](https://www.loc.gov/resource/sn82015099/1872-07-20/ed-1/?sp=2)
 
 #### 1872-07-20 &middot; [Shasta, Calif.](http://dbpedia.org/resource/Shasta%2C_California)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+.  
   
 A PHILOSOPHICAL UAUKEY,  
   
@@ -7982,104 +10915,228 @@ It is safe to say that the dark corpse of
 that African will never darken the field of  
 carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_knotgrass_ver01%2Fdata%2Fsn82015099%2F00279556690%2F1872072001%2F0327.jp2/pct:35.377990,9.865348,13.248804,41.402171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556690:1872072001:0327/pct:35.368421,9.865348,13.244019,41.398736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The weekly Arizona miner._
+## [From _The Waynesboro' village record._](https://panewsarchive.psu.edu/lccn/sn84026572/1872-07-25/ed-1/seq-1/)
+
+#### 1872-07-25 &middot; [Waynesboro', Pa.](http://dbpedia.org/resource/Waynesboro%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ very light suppers  
+or better still, none at all. Fifth, keep a  
+clean skin. Sixth, get plenty of sleep at  
+night. Seventh, keep cheerful and re­  
+spectable company. Eighth, keep out of  
+debt. Ninth, don&#x27;t set your mind on  
+things you don&#x27;t need, Tenth, mind your  
+own business. Eleventh, don&#x27;t set up to  
+be a sharp of any kind. Twelfth, sub­  
+due curiosity.  
+  
+how terrible to die unprepared. Yet,  
+every tick of the clock,and one soul some­  
+where is launched into eternity.  
+  
+Old truths are always new to us, if they  
+come with the smell of heaven upon them.  
+  
+The last dead lock—the door of a I)ur­  
+ial vault.  
+  
+A Philosophical Darkey.  
+  
+An elderly darkey, with a very philos­  
+ophical and retrospective cast of counte­  
+nance was squatting upon his bundle on  
+the hurricane deck of one of the western  
+steamers, toasting his shins against the  
+chimney, and apparently plunged in a  
+state of I rofoand meditation. His_dres,s_  
+  
+an • appearance indicated familiarity with  
+camp life, and it being soon after the siege  
+and capture of Fort Donelson, I was in­  
+clined-to disturb his - reveries, and on in­  
+terrogation found that he had been with  
+the Union forces at that place, when I  
+questioned him farther. His philosophy  
+was so much in the Falstaffian vein that  
+I will give his views in his own words as  
+near as my memory will serve me.  
+Were you in the fight ?  
+I had a little taste of it, sa.  
+Stood your ground, did you ?  
+No, sa, I runs.  
+Run at the first fire, did you?  
+Yes, sa, an&#x27; would hab run soona had  
+I knowe&#x27;d it was comin&#x27;.  
+  
+Why that wasn&#x27;t very creditable to  
+your courage.  
+profession.  
+Well, but have you ne regard for your  
+reputation ?  
+Reputation ! nun to me de side of  
+  
+ut-our=  
+  
+Do you consider your life worth moth  
+hen other people&#x27;s ?  
+It&#x27;s worth more to me, sa,  
+  
+Then you must value it very highly ?  
+Yes sa I does more dan_all dis world  
+  
+more dan a million dollarsiTsa; for what  
+would (lathe to mouth to a man wid de  
+bref out of him ? Self preserbashun is de  
+first law with me, sa. • -  
+But why should you act upon .a differ­  
+ent rule from other men?  
+  
+Cause, sa, different men sets different  
+value upon derselves; my life is not in de  
+market.  
+But if  
+  
+ou lost it, you would have the  
+  
+satislat; ib - n — cirknowing that you thafor  
+your country.  
+What satisfaction would dat be to me,  
+when der power of feelin&#x27; was gone?  
+Then patriotism and honor are nothing  
+to you ?  
+Nuffin&#x27; Whatever, as—l regarded dem  
+as among de varieties.  
+If our soldiers were like you, traitors  
+might have broken up the Government  
+without resistance.  
+  
+Yes, sa ; der would hub no help for it.  
+I:wouldn&#x27;t put my life in de scales ginst  
+any gubernment dat giber existed, for no  
+gubernment could replace de loss to me.  
+Speet, dough, dat de gubernment safe, if  
+da all like me.  
+  
+Do you think any of your company  
+would have missed you if you bad peen  
+killed ?  
+  
+May be not, sa. A. dead white man  
+ain&#x27;t much with dese sogers, let alone , a  
+dead nigga : but I&#x27;d a missed myself,and  
+dat was de pint with me.  
+It is sane to say that the darkey corpse  
+of that African will never darken the field  
+of carnage.
+</td></tr></table>
+
+---
+
+## [From _The weekly Arizona miner._](https://www.loc.gov/resource/sn82014899/1872-07-27/ed-1/?sp=1)
 
 #### 1872-07-27 &middot; [Prescott, Ariz.](http://dbpedia.org/resource/Prescott%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-A DArK VIEW OF WAR.  
-An elderly darkey, with a very philosoph  
+A Dark View of War.  
+An elderly darkey, with a vory philosoph  
 ical and retrospective cast of countenance,  
-was squatting on his bundle on the hurri  
+was squatting on his bundle, on thu hurri  
 cane deck of one of the western river steam  
 ers, toasting his shins against the chimney,  
-and apparently plunged in a state of pro  
+and apparently plunged in a stato of pro  
 found meditation. His dress and appearance  
 indicated familiarity with camp life, and it  
-being soon after the siege and capture of  
-Fort Donelson, I was inclined to disturb his  
-reveries, and on interogation found that he  
-had been with the Union troops at that  
-place, when I questioned him further. His  
+bcintr soon after the siece and capture of  
+Fort Donclson. I was inclined to disturb his  
+reveries, and tin mterogation found that ho  
+had been with tho Union troops at that  
+nlacc. when I questioned him further. His  
 philosophy was so much in the Falstaffian  
 vein that I will give his views in his own  
 words as near as my memory serves me.  
-&quot;Were you in the fight?&quot;  
-&quot;I had a little taste of it, sah.&quot;  
-&quot;Stood your ground, did you?&quot;  
-&quot;No, sah, I runs.&quot;  
-&quot;Run at the first fire, did you?&quot;  
-&quot;Yes, sah, and would have run soonah had  
+&quot; Were you in the fight &quot;  
+&quot; I had a little taste of it, sah.&quot;  
+&quot;Stood your ground, did you ?&quot;  
+&quot; No, sau, I run3.&quot;  
+&quot; Run at the first fire, did you ?&quot;  
+&quot;Yei, sah, and would have run soonah had  
 I know&#x27;d it was comin&#x27;.&quot;  
 &quot;Why, that was not very creditable to  
 your courage.&quot;  
-&quot;Dat isn&#x27;t in my line, sah---ookin&#x27;s my  
+&quot; Dat isn&#x27;t in my line, sah :ookin&#x27;s my  
 profession.&quot;  
-&quot;Well, but have you no regard for your  
+&quot; Well, but have you no rcgara lor your  
 reputation?&quot;  
-&quot;Reputation! Nuffin to me by de side ob  
+&quot; Reputation ! Nufiin to me by do side ob  
 life!&quot;  
 &quot;Do you consider your life worth more  
-than other people&#x27;s?&quot;  
+than other people&#x27;s 7&#x27;&#x27;  
 &quot;It&#x27;s wuth more to me sah.&quot;  
 &quot;Then you must value it very highly.&quot;  
-&quot;Yes sah, I does; more dan all dis world;  
-more dan a million dollars, sah; for what  
-would dat be wuth to a man wid de bref out  
+&quot; Yes sah, I does ; more dan all dis world ;  
+more dan a million dollars, sah ; for what  
+would dat be wuth to a man wid de href out  
 of him? Self-preservation am de fust law  
 wid me, sah.&quot;  
 &quot;But why should you act on a different  
-rule from other men?&quot;  
-&quot;Cause, sah, different men sets different  
-value upon der selves; my life is not in de  
+rulo from other men ?&quot;  
+&quot; Cause, sah, different men sets different  
+value upon der selves; my life is not in dc  
 market.&quot;  
 &quot;But if you lost it you would have the  
 satisfaction of knowing that you died for  
 your country.&quot;  
-&quot;What satisfaction would dat be to me  
-when de power of feelin&#x27; was gone?&quot;  
+&quot; What satisfaction would dat be to mo  
+when de power of feclin&#x27; was gone 7&quot;  
 &quot;Then patriotism and honor are nothing  
 to you?&quot;  
-&quot;Nuffin&#x27; whatever, sah--I regard dem as  
+&quot;NufhV whatever, sah I regard dem as  
 among de varieties.&quot;  
-&quot;If our soldiers were like you, traitors  
+&quot; If our soldiers were like you, traitors  
 might have broken up the Government with­  
-out resistance.&quot;  
-&quot;Yes, sah; der would have been no help  
-for it. I wouldn&#x27;t put my life in the scales  
-ginst any guberment dat ever existed, for no  
-guberment could replace the loss to me.  
-&#x27;Spect, dough, dat de guberment safe, if da  
+out resistance&quot;  
+&quot; Yc, sah ; der would have been no help  
+for it. I wouldn&#x27;t put my life in tho scales  
+ginst any gubcrment dat ever existed, for no  
+gubcrment could roplaco tho loss to roc.  
+&#x27;Spect, dough, dat do gubermcnt safe, if da  
 all like me.&quot;  
-&quot;Do you think any of your company  
-would have missed you if you had been  
+&quot;Do you tbinlc any ot your company  
+would have missed you if you had beem  
 killed?&quot;  
-&quot;May be not sah. A dead white man ain&#x27;t  
-much to dese sogers, let alone a dead nigga;  
-but I&#x27;d a missed myself, and dat was de pint  
-wid me.&quot;  
+u May be not sab. A dead white mas ain&#x27;t  
+much to dceo sogers, let alone a dead htggs ;  
+but I&#x27;d a missed, wyscji, ana dat was de pint  
+wid inc.&quot;  
 It is safe to say that the darkey corpse of  
-that African will never darken the field of  
-carnage
-</td></tr></table>
+that African will sever darken the field of  
+carnage.  
+Stamp Fetder.  
+C. P. Stafford-h
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn82014899:00211105495:1872072701:0336/pct:63.908118,52.857887,15.245437,39.396148/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Yorkville enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84026925/1872-08-01/ed-1/seq-4)
+## [From _Yorkville enquirer._](https://www.loc.gov/resource/sn84026925/1872-08-01/ed-1/?sp=4)
 
 #### 1872-08-01 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ent.  
 A PHILOSOPHICAL DARKEY.  
 An elderly darkey, with a very philosophical  
 and retrospective cast of countenance, was  
@@ -8147,96 +11204,129 @@ have missed you if you had been killed ?&quot;
 &quot;May be nc\ sa. A dead white man ain&#x27;t  
 much wid dese sogers, let alone a dead nigga;  
 but I&#x27;d a missed myself, and dat was de piut  
-wid me.
+wid me.&quot;  
+&quot;ALL HANDS B
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_chitlinstrut_ver01%2Fdata%2Fsn84026925%2F00295862749%2F1872080101%2F0146.jp2/pct:1.301301,5.612767,16.921269,33.456790/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862749:1872080101:0146/pct:1.292597,3.821138,16.921269,36.169828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1872-08-02/ed-1/seq-4)
+## [From _The Albany register._](https://www.loc.gov/resource/sn84022643/1872-08-02/ed-1/?sp=8)
+
+#### 1872-08-02 &middot; [Albany, Or.](http://dbpedia.org/resource/Albany%2C_Oregon)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+, 1872.37  
+&quot;Tommy, my son, what are you  
+going to do with that club?&quot;  
+&quot;Send it to the editor, of course.&quot;  
+&quot;But what are you going to send it  
+to the editor for?&quot;  
+Cause he says if anybody will  
+send him a club, he will send them a  
+copy of his paper.  
+The mother came pretty near faint  
+ing, but retained consciousness enough  
+to ask:  
+ih ommy dons what tlo  
+suppose he wants with a club?&quot;  
+&quot;Well, I don&#x27;t know,&quot; replied the  
+hopeful urchin, &quot;unless it is to knock  
+down subscribers as dont pay for their  
+paper.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152627:1872080201:0245/pct:41.804741,47.973995,13.612032,10.250983/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Vermont phœnix._](https://www.loc.gov/resource/sn98060050/1872-08-02/ed-1/?sp=4)
 
 #### 1872-08-02 &middot; [Brattleboro, Vt.](http://dbpedia.org/resource/Brattleboro%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-An elderly darkey, wllh a very p&#x27;jlloso  
-pldcal and retrospective cast of countenance,  
-was squatting upon his biimllo on the hur­  
-ricane deck of ono of Iho western river  
-steamers, toasting his shins against tho  
-chimney, and apparently plunged Innstato  
-of prolound meditation. His dress aud np  
-pc.ir.inco Indicated familiarity with camp  
-life, and it being soon alter tho selge and  
-capltiro of I&#x27;ort Donolson, I was inclined to  
-disturb his reveries, and on Interrogation  
-found that lie had been with tho Union for  
-ces at that place, when 1 questioned him  
-farther. His philosophy was so much In  
-Iho l-&#x27;aMafllnn vein that I wlllglvohisown  
-wouls ns near ns my memory will servo  
+kinds.  
+F PHEFOSGPHEICIE DFMKWI.  
+An elderly darkey, with a very philoso  
+phical and retrospective cast of countenance,  
+was squatting upon his bundle on the hur­  
+ricane deck of one of the western river  
+steamers, toasting his shins against the  
+chimney, and apparently plunged in a state  
+of profound meditation. His dress and ap  
+pearance indicated familiarity with camp  
+life, and it being soon after the seige and  
+capture of Fort Donelson, I was inclined to  
+disturh his reveries, and on interrogation  
+found that he had been with the Union for  
+ces at that place, when I questioned him  
+farther. His philosophy was so much in  
+the Falstaflian vein that I will give his own  
+words as near as my memory will serve  
 me.  
-Wei o you III Iho light?  
-I had a Utile taste of If, sa.  
-Slood your ground, did you ?  
-No, sa, I inns.  
-Hun at (ho Jrsl lire, did you ?  
-W&quot;, sa, an&#x27; would Imb run soona had I  
-know.&#x27;d It was coniln&#x27;.  
-Why, that wasn&#x27;t very crodltablo lo your  
+Were you in the fight?  
+I had a little taste of it, sa.  
+Stood your ground, did you?  
+No, sa, I runs.  
+Run at the irst fire, did you?  
+Ye, sa, an&#x27; would hab run soona had I  
+know&#x27;d it was comin&#x27;.  
+Why, that wasn&#x27;t very creditable to your  
 courage.  
-D.il Isn&#x27;t in my line, sa cookln&#x27;s my  
-pi-oicssioi.  
+Dat isn&#x27;t in my line, sa--cookin&#x27;s my  
+prolessih.  
 Well, but have you no regard for your  
-repiiiaiion 7  
-Itcpulallon I iiufiln to mo by do sldo of  
-inc.  
-Do you consider your llfo worth moro  
-than other peoplo&#x27;s ?  
-It&#x27;s worth moro to me, sa.  
-Then you must valuo It vorv hlirhlv f  
-Yes, sa, I does ; more dan all dls world  
+reputation?  
+Reputation! nuffin to me by de side of  
+Hle.  
+Do you consider your life worth more  
+than other people&#x27;s?  
+It&#x27;s worth more to me, sa.  
+Then you must value it very highly?  
+Yes, sa, I does; more dan all dis world  
 more dan a million dollars, sa; for what  
-would dar bo wuth ton man wlddobeoi  
-out of him; Self-preserbashuii Is do first  
-law wiu me, sa.  
-Hut why should you oct unon a dllleron  
-rule from other men ?  
-Cause, sa, different men sets dltlercnl  
-value ujmhi dersclvcs; my lifo Is not In da  
+would dar be wuth to a man wid de bret  
+out of him? Self-preserbashun is de first  
+law wid me, sa.  
+But why should you act upon a differen  
+rule from other men?  
+Cause, sa, different men sets different  
+value upon derselves; my life is not in de  
 market.  
-Hut If you lost It, you would havo tho  
+But if you lost it, you would have the  
 satisfaction of knowing that you died for  
 your country.  
-What satisfaction would dat bo lo me,  
-wnon uer powor ofleelin&#x27; was gone?  
-&#x27;llicn patriotism and honor aro nothing  
-to you 7  
-NuHIn whatever, sa I lcgard ilcui as  
-among do varieties.  
-If our soldiers wcro llko you, traitors  
-might havo broken up the (Government  
+What satisfaction would dat be to me,  
+when der power of feelin&#x27; was gone?  
+Then patriotism and honor are nothing  
+to you?  
+Nuffin&#x27; whatever, sa-I regard dem as  
+among de varieties.  
+If our soldiers were like you, traitors  
+might have broken up the Government  
 without resistance.  
-Yes, sa ; dcr would hab been no help for  
-II. I wouldn&#x27;t put my life In elo scales  
-glnst any guberntnent dat cber existed, for  
-no guuermont could rcplaeo do loss to me.  
-Spcet, dough dat do gubcrmcnt safe, If da  
-all llko mo.  
-Do you think any ofyourcompany would  
-havo missed you If you had been killed?  
-May bo not, sa. A dead white man ain&#x27;t  
-much witli deso sogers, let alono n dead  
-nlgga; but I&#x27;d a missed myself, and dat  
-was do pint wld me.  
-It is safe to say that tho darkey corpte of  
-that African will never darken tho Held of  
+Yes, sa; der would hab been no help for  
+it. I wouldn&#x27;t put my life in de scales  
+ginst any gubernment dat eber existed, for  
+no guberment could replace de loss to me.  
+Spect, dough dat de guberment safe, if da  
+all like me.  
+Do you think any of your company would  
+have missed you if you had been killed?  
+May be not, sa. A dead white man ain&#x27;t  
+much with dese sogers, let alone a dead  
+nigga; but I&#x27;d a missed myself, and dat  
+was de pint wid me.  
+It is safe to say that the darkey corpse of  
+that African will never darken the field of  
 carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_danby_ver01%2Fdata%2Fsn98060050%2F00280777377%2F1872080201%2F0106.jp2/pct:50.394292,34.145241,10.814870,35.408209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777377:1872080201:0106/pct:50.375516,31.889941,10.833646,37.663509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8252,7 +11342,7 @@ carnage
 
 ---
 
-## [From _Chicago tribune._](https://chroniclingamerica.loc.gov/lccn/sn82014064/1872-08-05/ed-1/seq-5)
+## [From _Chicago tribune._](https://www.loc.gov/resource/sn82014064/1872-08-05/ed-1/?sp=5)
 
 #### 1872-08-05 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Chicago)
 
@@ -8333,20 +11423,23 @@ but I’d missed myself, and dat was de pint
 wid me.”  
 It is safe to say that the corpse of that  
 African will never darken the field of earn­  
-age* 
+age* m  
+Chinese Salad*  
+From th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_clark_ver03%2Fdata%2Fsn82014064%2Fno_reel%2F1872080501%2F0005.jp2/pct:49.079241,51.939038,11.295573,26.044648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872080501:0005/pct:49.069940,51.931883,11.290923,26.903263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Idaho world._](https://chroniclingamerica.loc.gov/lccn/sn82015407/1872-08-15/ed-1/seq-4)
+## [From _The Idaho world._](https://www.loc.gov/resource/sn82015407/1872-08-15/ed-1/?sp=4)
 
 #### 1872-08-15 &middot; [Idaho City, Idaho Territory](http://dbpedia.org/resource/Idaho_City%2C_Idaho)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
   
 A PHILOSOPHICAL DABKEY.  
 An elderly darkey, with a very philo­  
@@ -8385,21 +11478,22 @@ I I&#x27;iit t m nu une. b3i* , **cuukii) s m\
 | pr ,f oss j un  
 1 \v 0 n,&quot; but you have no regard for  
 _ üllr reputat j&#x27; n »  
-- K oputa,i..u! uuffiu to me by do sid
+- K oputa,i..u! uuffiu to me by do side  
+.. lfl . , •.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn82015407%2F00295869471%2F1872081501%2F0549.jp2/pct:26.661074,4.576731,19.278523,23.415346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_dickens_ver01:data:sn82015407:00295869471:1872081501:0549/pct:26.661074,4.576731,19.278523,24.447456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Idaho world._](https://chroniclingamerica.loc.gov/lccn/sn82015407/1872-08-15/ed-1/seq-4)
+## [From _The Idaho world._](https://www.loc.gov/resource/sn82015407/1872-08-15/ed-1/?sp=4)
 
 #### 1872-08-15 &middot; [Idaho City, Idaho Territory](http://dbpedia.org/resource/Idaho_City%2C_Idaho)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+• , ,  
 then you must value it verv highly,  
 Vll&gt;1 * . | ... , ,, ,* b  
 les, sa, ldoes, more dan a dis world;  
@@ -8430,109 +11524,284 @@ It our soldiers were like vou, traitors
 might have broken up the tioVernmenti  
 without resistance.  
 ^ es, sa; «1er would hab !&gt;een no help!  
-for it. I wouldn&#x27;t put inv life inde
+for it. I wouldn&#x27;t put inv life indes  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn82015407%2F00295869471%2F1872081501%2F0549.jp2/pct:26.291946,30.900751,18.825503,17.618849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_dickens_ver01:data:sn82015407:00295869471:1872081501:0549/pct:26.291946,30.859049,18.825503,18.734362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Bozeman avant courier._](https://chroniclingamerica.loc.gov/lccn/sn84038123/1872-08-29/ed-1/seq-4)
+## [From _The Manitowoc pilot._](https://www.loc.gov/resource/sn85033139/1872-08-15/ed-1/?sp=4)
+
+#### 1872-08-15 &middot; [Manitowoc, Wis.](http://dbpedia.org/resource/Manitowoc%2C_Wisconsin)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+­  
+n uattime mam his hatndle ton  
+the hurriemmesficek of one of the Westerr  
+river steamers, toasting his shins agamist  
+the chimary, anhd apperently plunged in a  
+tate of profound meditation. His dress  
+and appearance mne uades tnuiiiarty with  
+being soon after the ai  
+and capture of Fort Donelson, I was in  
+clined to disturb his reveries, and on in  
+terrogation found that he had been with  
+he Union forces at that place, when I  
+questioned him further. His philosophy  
+was só nm&quot; in the lalsedlian tem thatI  
+will gdive his  vfews in his own words a­  
+near as iny memory serves me.  
+&quot;W ere you in the light?&quot;  
+&quot;I had a little taste of it, sah.&quot;  
+tood your ground, did you?&quot;  
+h. I runs.&quot;  
+&quot;Run at the first fire, did you?&quot;  
+&quot;Yes, sah, and would have run soonah  
+had I knoved it was comin&#x27;.&quot;  
+&quot;Why, that wasn&#x27;t very creditable to  
+your courage?&quot;  
+&quot;Dat ien&#x27;t in my line, sah--cookin&#x27;s my
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769337:1872081501:0434/pct:5.699626,53.255771,9.610318,12.860572/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Manitowoc pilot._](https://www.loc.gov/resource/sn85033139/1872-08-15/ed-1/?sp=4)
+
+#### 1872-08-15 &middot; [Manitowoc, Wis.](http://dbpedia.org/resource/Manitowoc%2C_Wisconsin)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ a difforent  
+rent men sets lifferent  
+ i i o i  
+&quot;Butif you lost it you would have  
+the satisfaction of kowing that you died  
+for your country.&quot;  
+sfaction would dat be to me  
+when de power of feelin&#x27; was gono?&quot;  
+&quot;Then patriotism and honor are nothing  
+tosvell.  
+sah--I regard dem  
+were like you, traitors  
+en up the Goverment.  
+without resistance.&quot;  
+es, sri, der would have been no heln  
+it;I woulent but my life in t  
+aent dat  
+i relace the losst  
+me. Spect, dough, dat de guberment sase  
+it un alt lrci  
+ny of your company  
+would have missed you if you had been  
+killed.  
+ sah. A dead white man  
+ain&#x27;t muel to dese sogers, let alone a dead  
+ze7ut I&#x27;d missed niyself and dat was  
+osale t
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769337:1872081501:0434/pct:5.852170,73.425669,9.762862,15.844875/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The New Hampshire gazette._](https://www.loc.gov/resource/sn84023142/1872-08-17/ed-1/?sp=6)
+
+#### 1872-08-17 &middot; [Portsmouth, N.H.](http://dbpedia.org/resource/Portsmouth%2C_New_Hampshire)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+&#x27;S VIEW OF THE WAR.  
+An elderly darkey, with a very philo­  
+sophical and retrospective cast of coun­  
+tenance, was squatting upon his bundle  
+on the hurricane deck of a Western  
+river steamer, toasting his shins  
+against the chimney, and apparently  
+plunged in a state of profound medita­  
+tion. His dress and appearance indi­  
+cated familiarity with camp life, and it  
+being soon after the siege and capture  
+of Fort Donelson, I was inclined to dis­  
+turb his reveries, and on iaterrogation  
+found that he had been with the Union  
+forces at that place, when I questioned  
+him further. His philosophy was so  
+much in the Falstaflian vein that I will  
+give his views in his own words as  
+pear as my memory serves me.  
+“Were you in the fight?”  
+««] had a little taste of it, sah.”  
+«Stood your ground, did you?”  
+¢No. sah, I runs:”  
+«Ran at the first, did you?”  
+“Yes,*sah, and would have run soon­  
+ah bad I know&#x27;d it was comin”.”  
+  
+“Why, that wasn’t very creditable  
+to your courage?”  
+“Dat isn’t in my line, sah—cookin’s  
+my profession.”  
+“Well, but have you no regard for  
+your reputation ?”  
+“Reputation! Nufling tome by de  
+side of life !”  
+“Do you consider your life worth  
+more than other people’s ?”  
+“It’s wuth more to me, sah.”  
+«*“Then you must value it very high­  
+-13&quot;  
+“Yes, sah, I does: more dan all dis  
+world ; more dan a million of dollahs  
+sah; for what would dat be wuth to a  
+man wid de bref out of him? Self  
+preservation am the fust law wid me,  
+sah.”  
+“But why should you act on a differ­  
+ent rale from other men?”  
+“Cause, sah, different men sets dif­  
+ferent value upon dereselves; my life  
+is not in de market.”  
+“But if you lost it you would have  
+the satisfaction of knowing that you  
+died for your country.”  
+“What satisfaction would dat be to  
+me when de power of feelin’ was gone?”  
+“Then patriotism and honor are noth­  
+ing to you ?”  
+“Nuffin whatever, sah,—l regard  
+them as among the varieties.”  
+“If our soldiers were like you, trai­  
+tors might have broken up the govern­  
+ment without resistance.” |  
+“Yes, sah, der would hab been no  
+help for it. I wouldn’t put my life in  
+the scales aguinst any guberment dat |  
+eber existed, for no guberment could  
+replace the loss to me. ’Spect dough,  
+dat de guberment safe if day all likej  
+me.” |  
+“Do you think any of your company ‘  
+would have missed you if you had been  
+killed ?” |  
+““May be not, sah. A dead white  
+man ain’t much to dese sogers, let alone  
+a dead nigga; but I&#x27;d missed myself,  
+and dat was de pint wid me.”  
+It is safe to say that the corpse of  
+that African will never darken the field  
+of carnage.—
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84023142:00517015982:1872081701:0650/pct:86.849201,44.535479,18.875752,57.410388/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Bozeman avant courier._](https://www.loc.gov/resource/sn84038123/1872-08-29/ed-1/?sp=4)
 
 #### 1872-08-29 &middot; [Bozeman, Mont.](http://dbpedia.org/resource/Bozeman%2C_Montana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-A PhiUesl phj.al Dtaiftey si  
-Fighfid*.  
-An elderly darkey with a very philotophi.  
-ea and retrospective east of Tcountenanc9  
-was squatting on l hisndleo on the hurricane  
-desk of one of the Western river steamers,  
+  
+A Philosophical darkey o  
+FighTIHg.  
+An elderly darkey with a very philosophi-  
+cal and retrospective cast of countenance  
+was squatting on his bundle on the hurricane  
+deck of one of the Western river steamers,  
 and toasting his shins against the chimney,  
 and apparently plunged in a state of pro­  
 found meditation. His dress and appearance  
-.andicated familiarity with camp life, and it  
-being soon after the siege and captu e of  
+indicated familiarity with camp life, and it  
+being soon after the siege and captue of  
 Fort Donelson, I was inclined to disturb his  
-reveries, cd on interrogation found that he  
-had been with the Union forces at that place,  
-when I questionid him further. His philo­  
+reveries, and on interrogation found that he  
+had been with the Union forces at that place.  
+when I questioned him further. His philo­  
 sophy ran so much in the Falstafflan vein  
 that I will give his views in his own words  
-as near as my memory will serve me:  
-Were you sl the fight.  
+as ncar as my memory will serve me:  
+Were you in the fight.  
 I had a little taste of it, sah.  
 Stood your ground, did you?  
-No, sab, I ruts.  
-Run at first fire, did you ?  
-Yes, sa; I&#x27;d a run sooner if I&#x27;d know&#x27;d it  
-was coming.  
-Why, that was not very crediatable  
+No, san, I ruls.  
+Run at first fire, did you?  
+Yes, sa; I&#x27;d a run sooner if I&#x27;d knowed it  
+Was coming.  
+Why, that was not very creditable  
 courage.  
-Dat isn&#x27;t in my line, sah,. ookln&#x27;s my per­  
+Dat isn&#x27;t in my line, sult, cookin&#x27;s my per­  
 fession.  
 Well, but have you no regard for your re­  
 putation  
-Reputation ain&#x27;t nufltn to me aside o&#x27; my  
+Reputation ain&#x27;t nuffin to me aside o&#x27; my  
 life.  
-Do you ean sider your life -of more value  
+Do you con sider your life of more value  
 than other people&#x27;s?  
-It&#x27;s worth more to uSe sah.  
-Then you value it very ldghly?  
-Yes, sah; Idoes, more dlan all die world.  
-more dan a million dollars, ash ; for wtiat  
-would d4y be wuth to a man wid de bref out  
-oh him ? Self-perserbashun&#x27;s de lust law wid  
-me. sah.  
+It&#x27;s worth more to me sah.  
+Then you value it very highly?  
+Yes, sah; I does, more dan all dis world,  
+more dan a million dollars, sah; for what  
+would dey be wuth to a man wid de bref out  
+oh him? Self-perserbashun&#x27;s de fust law wid  
+me, sah.  
   
-But why should you act upon a diffrent  
-rule from other men ?  
-Cause, sah, dltereut men has different  
-values for derselves, but I&#x27;se not in de nwar  
+But why should you act upon a different  
+rule from other men?  
+Cause, sah, different men has different  
+values for derselves, but I&#x27;se not in de mar  
 ket.  
 But if you lost your life, you would have  
 the satisfaction of knowing that you died for  
 your country.  
-What satisfaction dat be to we when I&#x27;se  
-dead?.  
-Then patriotism and h nor are nothing to  
-yoi  
-No, alsh; I regards dem as being among de  
-vanitles.  
+What satisfaction dat be to me when I&#x27;se  
+dead?  
+Then patriotism and henor are nothing to  
+yor  
+No, sah; I regards dem as being among de  
+as$ Ye  
 If our soldiers were like you, traitors  
-might hlve broken up the governmeqt with­  
+might have broken up the Government with­  
 out resistance?  
-Yes, ah ; der would hal been no help for  
-it. I wouldn&#x27;t put inj life up ag..st no gub­  
-ermnent, for dey wouldn&#x27;t gib it back to me.  
-Spect, dough, dat gubermeut&#x27;r sae, if&#x27;da all  
-like Die.  
+Yes, sah; der would hab been no help for  
+it. I wouldn&#x27;t put my life up aginst no gub­  
+erment, for dey wouldn&#x27;t gib it back to me.  
+Spect, dough, dat guberment&#x27;s safe, if da all  
+like me.  
 Do you think any of your company would  
-have misused you It you had been killed ?  
-Mebbe not sah, A dead whit man ain&#x27;t  
-imue with Lthese aoge* , let alone a dead nlg.  
-ger; but.I&#x27;d a missed myself, and dat was  
+have missed you if you had been killed ?  
+Mebbe not sah, A dead white man ain&#x27;t  
+muen with these sogers, let alone a dead nig-  
+ger; but I&#x27;d a missed myself, and dat was  
 de pint wid me.  
-It Is peifetly safe to say that the corpse of  
-that African wm ever dar en the lSei of  
-carnage
+It is perfectly safe to say that the corpse of  
+that African will never dar en the fieid of  
+carnage.  
+The St
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_nuthatch_ver01%2Fdata%2Fsn84038123%2F00212477321%2F1872082901%2F0227.jp2/pct:6.607351,38.741289,13.550175,40.537892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_nuthatch_ver01:data:sn84038123:00212477321:1872082901:0227/pct:6.607351,38.741289,13.550175,41.909843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The state rights democrat._](https://chroniclingamerica.loc.gov/lccn/sn84022644/1872-08-30/ed-1/seq-1)
+## [From _The state rights democrat._](https://www.loc.gov/resource/sn84022644/1872-08-30/ed-1/?sp=1)
 
 #### 1872-08-30 &middot; [Albany, Linn County, Oregon](http://dbpedia.org/resource/Albany%2C_Oregon)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ the Honorable Speaker Blaine.  
 A DARKEY&#x27;S VIEW OF TBS WAR.  
 An elderly darkey, witj a very  
 philosophical and retrospective cast  
@@ -8614,9 +11883,9 @@ alone a dead nigga; but I&#x27;d missed
 myself, and dat was de pint wid-rae.&quot;  
 It is safe to say that the corpse of  
 that African&quot; will never darken the  
-field of carnage. 
+field of carnage. &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/oru_ireland_ver01%2Fdata%2Fsn84022644%2F00295867541%2F1872083001%2F0508.jp2/pct:84.731569,51.530362,11.021385,42.923604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:00295867541:1872083001:0508/pct:112.948565,67.593046,14.683014,58.337414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8630,8 +11899,7 @@ field of carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-of one of our gunboats, an elderly  
+, an elderly  
 darkey, with a very philosophical and  
 retrospective cast of countenance,  
 squatted upon his bundls. toasting his  
@@ -8674,8 +11942,7 @@ and dat was de pint wid me.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-of oniB of our gunboats, an elderly  
+, an elderly  
 darkey, with a very philosophical and  
 retrospective east of countenance,  
 squatted, upon his bundle, toasting his  
@@ -8706,12 +11973,12 @@ if&#x27;you had been killed ?&quot;-&quot; Maybe not
 sa; a dead white man ain&#x27;t much to dese  
 sogers, let alone a dead nigger; but I&#x27;d  
 a missed myself, and dat was de pint wid  
-me.&quot; 
+me.&quot;
 </td></tr></table>
 
 ---
 
-## [From _Grant County herald._](https://chroniclingamerica.loc.gov/lccn/sn85033133/1872-11-26/ed-1/seq-1)
+## [From _Grant County herald._](https://www.loc.gov/resource/sn85033133/1872-11-26/ed-1/?sp=1)
 
 #### 1872-11-26 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
 
@@ -8801,7 +12068,7 @@ It is safe to say that tho corpse
 of that African will never darken  
 the field of carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_idlewild_ver01%2Fdata%2Fsn85033133%2F00514159373%2F1872112601%2F0590.jp2/pct:71.438074,15.524456,10.580462,41.321946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159373:1872112601:0590/pct:71.438074,15.517596,10.576028,41.315085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8815,19 +12082,18 @@ the field of carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-of one of our gunboats, an j elderly  
+, an j elderly  
 darkey, with a very philosophical! - and  
 retrospective cast of countenance,j  
 equaited upon hi3 bundle, toasting his  
 shins against the chimnay, and  
 apparently plunged in a state of  
-profound meditation, iindin&quot;-. upo
+profound meditatio
 </td></tr></table>
 
 ---
 
-## [From _Orleans County monitor._](https://chroniclingamerica.loc.gov/lccn/sn84022871/1872-12-30/ed-1/seq-1)
+## [From _Orleans County monitor._](https://www.loc.gov/resource/sn84022871/1872-12-30/ed-1/?sp=1)
 
 #### 1872-12-30 &middot; [Barton, Vt.](http://dbpedia.org/resource/Barton%2C_Vermont)
 
@@ -8928,21 +12194,12 @@ dead nigga ; but I&#x27;d a missed myself
 and dat was de pint wid me.  
 It is safe to say that the dark corpse  
 of that African will never darken the  
-field of carnage
+field of carnage.  
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_ludlow_ver01%2Fdata%2Fsn84022871%2F00202194977%2F1872123001%2F0216.jp2/pct:71.842394,14.486859,22.295442,81.727159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194977:1872123001:0216/pct:71.842394,14.486859,22.295442,81.727159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## MISCELLANEOUS.
-
-#### From _Bristol Mercury_
-
-#### 1873-02-22 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -8966,12 +12223,13 @@ field of carnage
 
 ---
 
-## [From _The aegis & intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn83016107/1873-04-04/ed-1/seq-1)
+## [From _The aegis & intelligencer._](https://www.loc.gov/resource/sn83016107/1873-04-04/ed-1/?sp=1)
 
 #### 1873-04-04 &middot; [Bel Air, Md.](http://dbpedia.org/resource/Bel_Air%2C_Harford_County%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ lire  
   
 A Philosophienl Darkey.  
 An elderly darkey, with a very philoso­  
@@ -9030,19 +12288,21 @@ to you ?
 Nuffin whatever, sa—l regard dem as  
 among the varieties
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_henson_ver01%2Fdata%2Fsn83016107%2F00415625492%2F1873040401%2F0275.jp2/pct:74.510847,11.756246,11.162505,26.877153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625492:1873040401:0275/pct:87.006814,15.160539,23.530344,101.708959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Democratic advocate._](https://chroniclingamerica.loc.gov/lccn/sn85038292/1873-04-05/ed-1/seq-1)
+## [From _The Democratic advocate._](https://www.loc.gov/resource/sn85038292/1873-04-05/ed-1/?sp=1)
 
 #### 1873-04-05 &middot; [Westminster, Md.](http://dbpedia.org/resource/Westminster%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ these studleatheir ’speeialtv I  
   
+W\i and gmnor.  
 i A Darkey s Philosophy.  
 ■ I All elderly dsrkey, with s rery philo­  
 sophical and retrospective oast of eounte­  
@@ -9116,9 +12376,9 @@ nigga, but I&#x27;d miss myself, and dst was
 r de pint wid me.&quot;  
 It is safe to say that the corpse of that  
 African will never darken the field of  
-carnage.— Chicago Tribune
+carnage.—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623744%2F1873040501%2F0065.jp2/pct:82.710983,12.569832,11.769936,35.935509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623744:1873040501:0065/pct:75.153878,10.835049,19.306524,86.636283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9132,8 +12392,7 @@ carnage.— Chicago Tribune
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-of one of our gunboats, an elderly  
+, an elderly  
 darkey, with a very philosophical and  
 retrospective cast of countenance,  
 squatted upsn his bundle, toasting his  
@@ -9150,7 +12409,20 @@ the fight?&quot; &quot;Hadalittlotasteofit,8a.&quot;
 &quot;Stood your ground, did you ?&quot; &quot; No, sa  
 ; I runs &quot; &quot; Kims at the first fire, did  
 you.&quot; &quot; Yes sa ; and would ha run Boona,  
-bad I knowd it comm&#x27;.&quot; &quot; If our soldiers  
+bad I knowd i
+</td></tr></table>
+
+---
+
+## [BOURKE. (From the Central Australian, April 19.)](http://trove.nla.gov.au/ndp/del/article/18773295)
+
+#### From _The Maitland Mercury and Hunter River General Advertiser (NSW : 1843 - 1893)_
+
+#### 1873-05-03 &middot; [Maitland, New South Wales](http://dbpedia.org/resource/Maitland%2C_New_South_Wales)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+&#x27;.&quot; &quot; If our soldiers  
 were like you, traitors might have  
 broken up the government without re-  
 sistance.&quot; &quot; Yes sa ; dar would hab been  
@@ -9176,7 +12448,21 @@ wid me.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+els heavy and miserable ; Mr. S.  
+because he&#x27;s married; Mr. T. because he  
+isn&#x27;t; Mr. V. because he likes to s=e  
+his friends around him ; Mr. W. because  
+he&#x27;s got no friends ; Mr. X. because his  
+uncle left him a legacy ; Mr. Y. because  
+his aunt cut him off with a shilling ;  
+Mr. Z— we should be happy to inform our  
+readers what*Mr. Z.&#x27;s reasons are for  
+drinking, but, on putting the question  
+to him, he was found to be totally  
+unable to answer. Tas Point with Him  
+—The followimg story is Attributed to  
+Mr. Lincoln, the late President of the  
+United States. &#x27; Upon the hurricanedeck  
 of one of our gunboats an elderly  
 darkey, with a very philosophical and  
 retrospective cast of countenance,  
@@ -9187,14 +12473,20 @@ meditation. Finding, upon7 enquiry, that
 he belonged to the Ninth Illinois, one  
 of the most gallantly behaved and  
 heavily losing regiments at the Fort  
-Donelson bittle, and part of which &#x27;was  
-abroad, I began to interrogate him on  
-the feubjfect;! :&#x27; Were- you in the  
-fight?&#x27;- &#x27;Had a little taste of it, sa.&#x27;  
-&#x27; Stood your ground, did you V &#x27;No, sa;  
-I runs.&#x27; &#x27; Bun at the first firp, did  
-you V &#x27; Yes, sa ; and would ha run  
-soona&#x27; had I know&#x27;d it eominV &#x27;If our  
+Donelson bittle, and par
+</td></tr></table>
+
+---
+
+## [[?]it and [?]umo[?].](http://trove.nla.gov.au/ndp/del/article/93772996)
+
+#### From _South Australian Chronicle and Weekly Mail (Adelaide, SA : 1868 - 1881)_
+
+#### 1873-06-07 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+&#x27;If our  
 soldiers were like you, traitors might&#x27;  
 have broken up the Government without  
 resistance.&#x27; * Yes, sa; dar would hab  
@@ -9208,18 +12500,19 @@ Maybe not, sa ; a dead white man ain&#x27;t
 much to dese sogers, let alone a  
 deadnigga; but I&#x27;d a miseed myself, and  
 dat was de pint wid me den.&#x27; &#x27; Scotch  
-Caution.— One day at Blair Athol th
+Caution.— One day at Blair Athol the  
+Duk
 </td></tr></table>
 
 ---
 
-## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1873-07-17/ed-1/seq-1)
+## [From _The Democratic press._](https://www.loc.gov/resource/sn83035083/1873-07-17/ed-1/?sp=1)
 
 #### 1873-07-17 &middot; [Ravenna, O. [Ohio]](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+nkets.  
 A PHILOSOPHICAL DAKKKV.  
 An elderly darkey with a very phil­  
 osophical and retrospective cast of  
@@ -9297,11 +12590,112 @@ had been killed?&quot;
 ain&#x27;t much wid deso sogers, let alone  
 a dead uigga; but I&#x27;d missed myself,  
 and dat was de piut wid me.&quot;  
-Colored men iu tbe Southern State
+Colored men iu tbe Southern States  
+are beginning to mortgage their prem­  
+ises to raise means to purchase wate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027170%2F1873071701%2F0030.jp2/pct:81.739812,57.986069,10.642633,33.728461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027170:1873071701:0030/pct:81.739812,56.886228,10.642633,35.720396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## [From _The Montrose Democrat._](https://panewsarchive.psu.edu/lccn/sn84026112/1873-09-24/ed-1/seq-1/)
+
+#### 1873-09-24 &middot; [Montrose, Pa.](http://dbpedia.org/resource/Montrose%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ Philosopher.  
+  
+An elderly darkey, with a very philoso­  
+phical and retrusperpeciive cast of coun­  
+tenance, was squatting upon his bundle  
+on the. hurricane deck of one of the wes­  
+tern river steamers, toasting his shins  
+against the chimney, and appartently  
+plunged in a state of profocinil medita­  
+tion. His dress and appearance indicated  
+familiarity with camp life, and it Eking  
+soon after the seige and (*titre of Fort  
+Dom.lean, I was inclined io disturb his  
+reveries, and on interrogation found that  
+he had been with the Union forces at that  
+place, when I questioned him farther.  
+ills philosophy was so much in the Fal­  
+stallian vein that I will give his views in  
+his own words as near as my memory will  
+serve me.  
+  
+&quot;Were you in the fight ?&quot;  
+&quot;1 had a little taste of it, sa.&quot;  
+&quot;Stood your ground , l:l r  
+, did y 9  
+&quot;No, sa. 1 rune.&quot;  
+&quot;Run at the first fire, did von?&quot;  
+&quot;Yea, sa, an&#x27; would hab run swum had  
+I know&#x27;d it was comin&#x27;.&quot;  
+  
+&quot;Why, that . wasn&#x27;t very creditable to  
+your courage.&quot;  
+&quot;Dat isn&#x27;t iu my line, ea—cookin&#x27; my  
+profession.&quot;  
+&quot;Welt, hut havo you no regard for your,  
+reputation ?&quot;  
+&quot;Rfputation&#x27;s nal% to me by the side  
+of life.&quot;  
+  
+&quot;Do you consider your life worth more  
+than other people&#x27;s?&quot;  
+&quot;It&#x27;s worth more to me, sa.&quot;  
+&quot;Then you must value it very highly?&quot;  
+&quot;Yes, sa, I does; more than all this  
+; more dan a million dollars, sa;  
+for what would do be wuth to a man  
+aid de bref out of him? Self-preserba l  
+sham is the first law will me, so.&quot;  
+  
+&quot;But why should you act upon a&quot; dif­  
+ferent.rule from other men ?&quot;  
+&#x27;Cause, sa, nifferent men set different  
+value upon derselves; my life is not in de  
+market.  
+  
+&quot;But if von lost it you would have the  
+tati faction of knowing that you died for  
+your country.&quot;  
+&quot;But if you lost it von would have the  
+satisfaction of knowing that you died for  
+your country.&quot;  
+&quot;What satisfaction would dat be to me  
+when the power ob feelin&#x27; was gone?&quot;  
+&quot;Then patriotism and. honor are noth­  
+ing to you ?&quot;  
+&quot;Nutfin whatever, sa—l regard them  
+as o&#x27;nong de vanities.&quot;  
+&quot;If unr soldiers were like you, traitors  
+might have broken up the government  
+without resistence.&quot;  
+&quot;Yes, ; der would have no help for  
+it. I wouldn&#x27;t put my life in de scales  
+ginst any. gubernmenedat dateber exist ed,for  
+no gubernment could replace de loss to  
+me. Spent, do, dot de guberument&#x27;s safe  
+if da al like me.&quot;  
+  
+&quot;Do you think any of your company  
+would hare missed you if you had been  
+killed ?&quot;  
+•  
+  
+&quot;May he not, an. A dead man -ain&#x27;t  
+much wid dese gagers, let alone a dead  
+nigga; but I&#x27;d a missed myself, and dat  
+Was de pint wid  
+It is gale to say that the darkey corpse  
+of that African will never darken the  
+field of carnage.
+</td></tr></table>
 
 ---
 
@@ -9311,8 +12705,7 @@ Colored men iu tbe Southern State
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-run sonna had I knowed it comin’’ ‘If our sol-  
+’ ‘If our sol-  
 diers were all like you, traitors might have broken  
 up the government without resistance.’ ‘ Yes, sa ;  
 dar would hab been no help for it. I wouldn’t  
@@ -9322,9 +12715,10 @@ de loss.’ ‘Do you think your company would have
 missed you if you had been killed?’ ‘Maybe not,  
 sa; a dead white man ain’t much to dese sogers, let  
 alone a dead nigga; but I’d ha’ missed myself, and  
-dat was de pint wid me!’ Mr Planché’s Iris
+dat was de pint wid me!’ Mr Planché’s Irish  
+coachman took much the same view o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_chambers-journal-of-popular-literature-science-and-arts_1873-10-18_10_512&#0036;1/pct:51.235585,22.489083,36.573311,12.336245/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_chambers-journal-of-popular-literature-science-and-arts_1873-10-18_10_512%2Fsim_chambers-journal-of-popular-literature-science-and-arts_1873-10-18_10_512_jp2.zip%2Fsim_chambers-journal-of-popular-literature-science-and-arts_1873-10-18_10_512_jp2%2Fsim_chambers-journal-of-popular-literature-science-and-arts_1873-10-18_10_512_0001.jp2/pct:51.235585,22.489083,36.573311,13.264192/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9340,14 +12734,13 @@ dat was de pint wid me!’ Mr Planché’s Iris
 
 ---
 
-## [From _Knoxville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn85033438/1873-12-10/ed-1/seq-8)
+## [From _Knoxville weekly chronicle._](https://www.loc.gov/resource/sn85033438/1873-12-10/ed-1/?sp=8)
 
 #### 1873-12-10 &middot; [Knoxville, Tenn.](http://dbpedia.org/resource/Knoxville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-od it eotnin&#x27;.&quot; &quot;If our soldier were all like jmi,  
+ it eotnin&#x27;.&quot; &quot;If our soldier were all like jmi,  
 traitor might have broknn up tho Government  
 w ithout refiistance.&#x27;&#x27; &quot;es, sn : dsr would huli  
 been no help for it. I wouldn&#x27;t put my lifo in  
@@ -9355,22 +12748,22 @@ descale. &quot;Do y.m think your company would
 have missed you ifyou had been killed?&#x27; &#x27;&#x27;May­  
 be not, sa ; a dead white man ain&#x27;t much todeso  
 sogers, lot alone a doad niggft ; but I&#x27;d ha&#x27; miss­  
-ed myself, and dat was dc pint wid mo !&quot; Mr
+ed myself, and dat was dc pint wid mo !&quot; Mr.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_furry_ver01%2Fdata%2Fsn85033438%2F00200293575%2F1873121001%2F0416.jp2/pct:42.283250,12.364563,16.863368,4.477374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033438:00200293575:1873121001:0416/pct:56.352087,16.475462,22.459165,6.469089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The Tipton advertiser._
+## [From _The Tipton advertiser._](https://www.loc.gov/resource/sn84027398/1873-12-11/ed-1/?sp=4)
 
 #### 1873-12-11 &middot; [Tipton, Cedar Co., Iowa](http://dbpedia.org/resource/Tipton%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-it comin&#x27;.&quot; &quot;If our soldiers were all  
+&#x27;.&quot; &quot;If our soldiers were all  
 like you, traitors might have broken  
 up the Government without resist-­  
 ance.&quot; &quot;Yes, sa; dar would iab  
@@ -9384,17 +12777,23 @@ sissed you if you had been killed?&quot;
 May be not, sa; a dead white man  
 aln&#x27;t much to these sogers, let alone a  
 dead nigser; but I&#x27;d ha&#x27; missed my-­  
-self, and dat was de pint wid me.
-</td></tr></table>
+self, and dat was de pint wid me.&quot;  
+Mr. Blanche&#x27;s Irish coachman took  
+much the same view o
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn84027398:00279528438:1873121101:0405/pct:16.871795,43.826956,10.964103,7.997942/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _The Lambertville record._](https://chroniclingamerica.loc.gov/lccn/sn84026089/1874-03-11/ed-1/seq-1)
+## [From _The Lambertville record._](https://www.loc.gov/resource/sn84026089/1874-03-11/ed-1/?sp=1)
 
 #### 1874-03-11 &middot; [Lambertville, N.J.](http://dbpedia.org/resource/Lambertville%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ of Chemittry.  
   
 A PBILOSOPliri&#x27;AZ VAltKKT.  
 An elderly darkey, with a very philosophical  
@@ -9470,111 +12869,192 @@ It is safe to say that the dusky corpse of
 that African will never darken the field of  
 carnage.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_asburypark_ver01%2Fdata%2Fsn84026089%2F00514155860%2F1874031101%2F0310.jp2/pct:67.279537,42.271293,12.465952,41.863256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155860:1874031101:0310/pct:67.290993,41.316872,12.463817,42.825789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wheeling daily register._](https://chroniclingamerica.loc.gov/lccn/sn84026847/1875-02-05/ed-1/seq-3)
+## [From _The Lafayette advertiser._](https://www.loc.gov/resource/sn86079068/1874-04-04/ed-1/?sp=2)
+
+#### 1874-04-04 &middot; [Vermilionville [i.e. Lafayette], La.](http://dbpedia.org/resource/Lafayette%2C_Louisiana)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+-Were you in the fight?  
+Soldier- Had a little taste of it, ash.  
+C.Stood your ground, did you?  
+S.-No, ash; I runs.  
+C.--Run at the first fire, did you  
+S.--Yes, sir; and I would hab run  
+sooner had I knowed what was comin&#x27;.  
+C.  Why, that wasn&#x27;t very creditable  
+  
+to your courage.  
+Dat isn&#x27;t in my line, sah; cookin&#x27;s  
+C.-Well, but have you no regard for  
+your reputation?  
+S.--Reputation&#x27;s nofin by de side ob life.  
+C.-Do you consider your life, worth  
+more than other people&#x27;s  
+S.--It&#x27;s worth more to me, sah.  
+C.Then you must value it very highly?  
+S.-Yes, sah; I does, more dan all dis  
+world; more dan a millon ob dollars, sah;  
+for what would dat be wuth to a man wid  
+de bref out ob him! Self preserbation an  
+de fust law wid me, sah.  
+C.-But why should you act upon a  
+different rule from other men I  
+S--Cause different men set different  
+values &#x27;pon dar lives. Mine is&#x27;nt in de  
+mnarKet.  
+C.--But if you lost your life, you would  
+have the satisfaction of knowing that you  
+died for your country.  
+S.--What satisfaction would dat be to  
+me when de power ob feelin&#x27; was gone?  
+C.-Then Patriotism and honor are  
+-Nuffin at all, sah; I tink de as  
+among de vanities.  
+.- If our soldiers were all like you the  
+Government might have broken up long  
+ago without resistanoe.  
+S.--Yes, sah; dar would hab been no  
+help for it. I wouldn&#x27;t put my head in  
+de scale &#x27;gainst no goberment dat eber  
+was; for no gobesment could make de lose  
+d to me.   
+-Do you think any of your company  
+would have missed you if you had be  
+killed?  
+S.-May be not, sah; a dead white man  
+ain&#x27;t much to dese sojers, let &#x27;lone a dend  
+niggah; but I&#x27;d a miss myself, and dat  
+was de pint wid me.  
+The dusty corpse of that soldier will  
+ever darken the field o
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_connolly_ver01:data:sn86079068:00200299498:1874040401:0227/pct:41.805766,45.816378,15.952200,31.574262/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Wheeling daily register._](https://www.loc.gov/resource/sn84026847/1875-02-05/ed-1/?sp=3)
 
 #### 1875-02-05 &middot; [Wheeling, W. Va.](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-A I&#x27;ll 1 LOSOl&#x27;ll IlAL i&#x27;AKKET.  
-An.elderly darkey, with a very philosophical  
-and retrospective cast of countenance.  
+ DARKEY.  
+a itey hatar wtha woy ph  
+and setrespative cast of counte  
 was squatting upon his bundle on  
-the hurricane deck of the steamer, toast ing  
-hi- shins against the chimney, and  
-apparently plunged in a state of profound  
-meditation. His dress and appearance  
-indicated familiarity with camp  
+the hurricanc desk of the stcatar tonat  
+his shins against the chimney, and  
+spparently plunged in a tate aff pre  
+meltaton. Iins de and ans  
+indicated familiarity with canip  
 life, and it being soon after the siege and  
-i- f -? 11 . ..l,L.lft 1 u&#x27;uc irwlin.  
+ o onadon  a inin  
   
-capture 01 run . ....  
-od to disturb his reveries, and on interrogation  
-found that lie had boon with the  
-1&#x27;nion forces at that place, when 1 questioned  
-him further. llis philosophy was  
-so much in the Falstatlian vein that I  
-will give lii- views in his own words as  
+ae o o oe e  
+ato daruch hi rereries and on iuflerra  
+found that he had been with the  
+Tnion forees at that phaee, when I hese  
+him further. His philosophy was  
+so much in the Falstaflian vein that I  
+will give his views in his own words as  
 near as my memory will serve me.  
--Were you in a fight?&#x27;&#x27;  
-1 had a little taste of it, sa.&quot;  
+&quot;Were you in a light?&quot;  
+I had a little taste of it, sa.  
 Stood your ground, did you?&quot;  
 &quot;No, sa, I runs.&quot;  
-&#x27;.Bun at the tirst tire, did you?&quot;  
-Yes,sa. an&#x27; would hah run sooner had  
-I know d it was comin&#x27;.  
+Run at the first fire, did you?&quot;  
+Yes, sa, an&#x27; would hab run sooner had  
+I knowed it was comin&#x27;.  
 &quot;Why, that wasn&#x27;t very creditable to  
 your courage.&quot;  
-&quot;l)at isn&#x27;t in my line, sa?eookin&#x27;s my  
+&quot;Dat isn&#x27;t in my line, sa--cookin&#x27;s my  
 profession.  
-&quot;Well, hut have you no regard for your  
+Well, but have you no regard for your  
 reputation?&quot;  
-&quot;Keputution nullin to mo by thesido oh  
+&quot;Reputation nuffin to me by the side ob  
 life.&quot;  
 &quot;Do you consider your life worth more  
 than other people&#x27;s?&quot;  
-&quot;It&#x27;s worth-more to me, sa.&quot;  
-&#x27;Then you mud value it very highly?&quot;  
-&quot;Yes, .-a, I does; more dan ail dis  
-world: more dan a million dollars, sa; for  
-what would dar he wuth to a man wid de  
-href out ot him? Self-preservation is do  
+&quot;It&#x27;s worth more to me, sa.&quot;  
+Then you must value it very highly?&quot;  
+&quot;Yes, sa, I does; more dan all dis  
+world; more dan a million dollars, sa; for  
+what would dar be wuth to a man wid de  
+bref out of him? Self-preservation is de  
 fust law wid me, sa.  
-&quot;But why should you act upon a different  
-rule from other men ? &#x27;  
-&quot;Cause, -a, different men sets different  
-value upon deceives, mv life is not in do  
+apat why should yon act upon a difere  
+rule from other men?&quot;  
+&quot;Cause, sa, different men sets different  
+value upon derselves, my life is not in de  
 market.  
 But if you lost it, you would have the  
-satisfaction of knowing that you died foi  
-your country.&quot;  
-&quot;What satisfaction would dat be to me.  
-when tie power of fcelin&#x27; was gone?&quot;  
-&quot;Then patriotism ami honor are notle  
+satisfaction of knowing that you died for  
+your country.  
+&quot;What satisfaction would dat be to me,  
+when de power of feelin&#x27; was gone?&quot;  
+&quot;Then patriotism and honor are noth-  
   
-iiilc t&lt;&gt; you?&#x27;&#x27;  
-&quot;Muffin, whatever. -h?I regard deiu  
-as among do varieties.  
-&quot;If our soldiers wen* like you, traitor?  
+ing to you?  
+Nuflin, whatever, sa--I regard dem  
+as among de varieties.  
+&quot;If our soldiers were like you, traitors  
 might have broken up the Government  
 without resistance.  
-&#x27;Yes, sa; dor would hub been no help  
-for it. 1 wouldn&#x27;t put my life in the  
-o ales ginst any gubernient dat ehor existed,  
-for no gubernient eouhl replace do  
-loss to mo. SSpect, dough, dat de gubernient  
-safe if da all like me.&#x27;  
+Yes, sa; der would hab been no help  
+for it. I wouldn&#x27;t put my life in the  
+arales ginst any gubermentd dat cler ene  
+for no guberment could replace de  
+hons to me. Spect dough dat tde guber  
+safe if da all like me.&quot;  
 &quot;Do you think any of your company  
-would have missed Vou if you had been  
-killed?&#x27;&#x27;  
-&#x27; Muv l&gt;e not, sa. A dead white man  
-ain&#x27;t much to dose sogers, let alone a ded  
+would have missed you if you had been  
+killed?&quot;  
+May be not, sa. A dead white man  
+ain&#x27;t much to dese sogers, let alone a ded  
 nigga; but I&#x27;d miss myself, and dat was  
 de pint wid me.&quot;  
-It i-&lt; safe to say that the darkey corpse  
+It is safe to say that the darkey corpse  
 of that African will never darken the  
-tield ut carnage.? Cincinnati (inzcttr
+field of carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_enterprise_ver02%2Fdata%2Fsn84026847%2F00415665209%2F1875020501%2F0121.jp2/pct:13.721275,32.786461,14.437791,34.689428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_enterprise_ver02:data:sn84026847:00415665209:1875020501:0121/pct:13.721275,32.786461,14.437791,34.689428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _New York dispatch._](https://chroniclingamerica.loc.gov/lccn/sn85026214/1875-02-07/ed-1/seq-6)
+## [From _New York dispatch._](https://www.loc.gov/resource/sn85026214/1875-02-07/ed-1/?sp=6)
 
 #### 1875-02-07 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+1 When the late Joseph Glenn, one of the prin­  
+cipal proprietors of the Gazette, was following  
+, tho army m the South, during the war, chiefly  
+to indulge, his curiosity to see a battle, and writ­  
+ing letters to the Gazette, he had a conversa­  
+tion with a colored person on the deck of a  
+steamboat on the Tennessee river, which ha  
+gave in one of his letters. It has gone the  
+rounds of the press many times, and deserves  
+to keep on ; therefore we give it a new send-off.  
+The colored person’s adherence to the utilita-  
+1 rian philosophy, and the concise arguments by  
+which he maintained it, are remarkable. He  
+expressed more laconically all that,is contained  
+in Falstaff’s discourse upon honor, and much  
+more. The line of questioning shows the pecu­  
+liar, quiet humor of the questioner :  
 A PHILOSOPHICAL DAB KEY.  
 An elderly darkey, with a very philosophical  
 and retrospective cast of countenance, was  
@@ -9641,21 +13121,44 @@ much to dese sogers, let alone a dead nigga; but
 . I’d a missed myself, and dat was de pint wid  
 me.”  
 It is safe to say that the darkey corpse of that  
-African will never darken the field of carnage
+African will never darken the field of carnage.  
+A GHOSTLY SELL.  
+AN ILLINOIS GHOST TURNS OUT  
+TO BE A H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_eliot_ver01%2Fdata%2Fsn85026214%2Fprint00211110223%2F1875020701%2F0006.jp2/pct:56.929323,59.301490,12.663776,24.728829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110223:1875020701:0006/pct:56.929323,52.861997,12.677616,33.468374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Shepherdstown register._](https://chroniclingamerica.loc.gov/lccn/sn84026824/1875-02-13/ed-1/seq-1)
+## [From _Shepherdstown register._](https://www.loc.gov/resource/sn84026824/1875-02-13/ed-1/?sp=1)
 
 #### 1875-02-13 &middot; [Shepherdstown, Va. [W. Va.]](http://dbpedia.org/resource/Shepherdstown%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
+When the late Joseph Glenn, one of  
+the principal proprietors of the Gazette,  
+was following the army in the South,  
+early in the war, chiefly to indulge his  
+curiosity to see a battle, and writing  
+letters to the Gazette, he had a conver­  
+sation with a colored person on the deck  
+of a steamboat on the Tennessee river,  
+which he gave iu one of his letters. It  
+has goue the rounds of the press several  
+times, and it deserves to keep on; there­  
+fore we give it a new send off. The  
+colored person&#x27;s adherence to the utili­  
+tarian philosophy, and the concise argu­  
+ments by which he maintained it are  
+remarkable. He expressed more lacon­  
+ically all that is contained in Falfltaffs  
+discourse upon honor, and much more.  
+The line of questioning shows the pecu- &#x27;  
+! liar quiet humor of the questioner :  
 A PHILOSOPHICAL DARKET.  
 An elderly darkey, with a very phil­  
 1 osophical and -retrospective cast of  
@@ -9732,9 +13235,12 @@ ded nigga; but I&#x27;d miss myself, and dat
 was de pint wid me.&quot;  
 It is safe to say that the darkey corpse  
 of that African will never darken the  
-field of carnage. ? Cincinnati Guzcltt
+field of carnage. ? Cincinnati Guzcltt.  
+  
+Useless Wobky. ? Life lias groat  
+troubles in store for all of u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_antares_ver02%2Fdata%2Fsn84026824%2F00271767791%2F1875021301%2F0439.jp2/pct:52.466776,22.052437,18.359731,42.501714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767791:1875021301:0439/pct:52.457673,10.784602,18.364282,55.098443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9746,7 +13252,9 @@ field of carnage. ? Cincinnati Guzcltt
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ of the  
+Cincinnati Gazette, writing from the Cum-  
+berland river, gives the following humorous  
 colloquy with a philosophic darkey :  
 I noticed upon the hurricane deck an el-  
 derly darkey, with a very philosophical and  
@@ -9793,21 +13301,23 @@ law wid me.”
 rule from other men?”  
 “Because different men set different val-  
 ues upon their lives; mine is not in de mark-  
-et.”
+et.”  
+  
+Anecdote of Jones o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_maine-farmer_1875-03-27_43_17&#0036;3/pct:38.629202,58.403110,10.425420,16.726475/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_maine-farmer_1875-03-27_43_17%2Fsim_maine-farmer_1875-03-27_43_17_jp2.zip%2Fsim_maine-farmer_1875-03-27_43_17_jp2%2Fsim_maine-farmer_1875-03-27_43_17_0003.jp2/pct:38.629202,57.276715,10.425420,18.680223/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Huntington advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026801/1875-04-15/ed-1/seq-4)
+## [From _Huntington advertiser._](https://www.loc.gov/resource/sn84026801/1875-04-15/ed-1/?sp=4)
 
 #### 1875-04-15 &middot; [Huntington, W. Va.](http://dbpedia.org/resource/Huntington%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 A PhII. &gt;S 3PIU0AL Cot^)RKI&gt; M A*  
 — An elderly polorcd man with a very  
 • liksophical and retr«»speetivc cast  
@@ -9867,42 +13377,23 @@ were?*
   
 Then patriotism and honor a,*­  
 &#x27;..•thing to you ?”  
-&quot;&gt;ni!in’ wrlmteber, sa; I regu*i  
-deni rs among d** varit tic?. *  
-“If our soldiers were like you  
-traitors might have li ken up toe  
-Government without reA-tauev. ’  
-•*Yts. -a, der would hah been no  
-h&lt; Ip for it. 1 wouldn&#x27;t put niv life  
-in cie ?cales ’giu-t any gubernieut dat  
-eber existed, no gubernieut c&lt; uld  
-replace de l&lt;*?s to me. Spict duegli,  
-dnt de guberutetit sale, if da all lik  
-me.”  
-“Do you think any of your corn?  
-radox \m u!d have mis-e 1 you, if you  
-Lad been kiikd*’  
-“yavbeiot, ?a A dead whit  
-man ain&#x27;t nun&#x27;ll wid dt-c - i !:• t-, let  
-alone a drs 1 nigga : 1 at I’d mi- . d  
-nivM-lf, and d:;t was de pint wid tuo  
-It is -ato to say that the corpse of  
-that African will never darken the&#x27;  
-held ot carnage
+&quot;&gt;ni!in’ wrlmteber, sa; I regu*i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_neely_ver01%2Fdata%2Fsn84026801%2F00340582123%2F1875041501%2F0261.jp2/pct:6.726778,6.104892,11.497543,42.841349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn84026801:00340582123:1875041501:0261/pct:6.727741,6.105525,11.365588,31.595315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Lambertville record._](https://chroniclingamerica.loc.gov/lccn/sn84026089/1875-05-05/ed-1/seq-1)
+## [From _The Lambertville record._](https://www.loc.gov/resource/sn84026089/1875-05-05/ed-1/?sp=1)
 
 #### 1875-05-05 &middot; [Lambertville, N.J.](http://dbpedia.org/resource/Lambertville%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ existing on the globe 1 ”  
   
+a raitoaorazvAt colored mas.  
 The elderly colored man, with a very philo­  
 sophical and retruapeetlve oast of countenance,  
 waa squatterlug upon his bundle on the Uurri-;  
@@ -9970,9 +13461,11 @@ ed ? ”
 “ Maybe ilot, sa. X dead white man ain&#x27;t I  
 much wid dese sojers, let alone a dead uigga ; i  
 but I&#x27;d a missed myself, nud dat w.n do pint  
-wid me.&quot; !
+wid me.&quot; !  
+  
+The Spe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_asburypark_ver01%2Fdata%2Fsn84026089%2F00514155860%2F1875050501%2F0548.jp2/pct:68.823429,14.669393,12.672399,38.817314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155860:1875050501:0548/pct:57.833787,13.621489,23.671662,81.456231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9984,7 +13477,21 @@ wid me.&quot; !
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+d  
+the chair.  
   
+a  
+  
+A SELFISH PHILOSOPHER.  
+Colored people are not all impulsive and hot-  
+1eaded, if the philosopher, described by a corre-  
+  
+spondent who met him in the West, has many |  
+  
+imitators among his race. Old Diogenes, the  
+  
+cynic, couldn’t surpass him in coolness or selfish-  
+ness. He had been in the battle of Fort Donel-  
 son:  
   
 “Were you in the fight?”  
@@ -10062,9 +13569,10 @@ I&#x27;d missed myself, and dat was de pint wid
 me.”  
   
 Tt is safe to say that the corpse of that African  
-will never darken the field of carnage.
+will never darken the field of carnage.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_youths-companion_1875-05-20_48_20&#0036;5/pct:54.657688,30.172414,21.380471,32.533733/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_youths-companion_1875-05-20_48_20%2Fsim_youths-companion_1875-05-20_48_20_jp2.zip%2Fsim_youths-companion_1875-05-20_48_20_jp2%2Fsim_youths-companion_1875-05-20_48_20_0005.jp2/pct:54.461279,23.013493,21.576880,39.692654/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10080,23 +13588,22 @@ will never darken the field of carnage.
 
 ---
 
-## A PHILOSOPHICAL COLORED MAN.
-
-#### From _Advocate of Peace (1847-1906)_
-
-#### 1875-06-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
-
-[This text is not available under an open license.]
-
----
-
-## [From _The spirit of democracy._](https://chroniclingamerica.loc.gov/lccn/sn85038115/1875-06-01/ed-1/seq-1)
+## [From _The spirit of democracy._](https://www.loc.gov/resource/sn85038115/1875-06-01/ed-1/?sp=1)
 
 #### 1875-06-01 &middot; [Woodsfield, Ohio](http://dbpedia.org/resource/Woodsfield%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
+A SclGsti Philosopher,  
+Colored people are not all .impulsive  
+and hot headed, if. the philosopher, de­  
+scribed by a correspondent who met him  
+in tho west, has many imitators among  
+his race. Old Diogenes, .the cynic,  
+rouldn&#x27;t surpass him in coolness or sel­  
+fishness. He had been in the battle of  
+Fort Donelson : . &#x27;  
 &quot;Were you in the fight ?&quot;  
 &quot;I had a little taste of it, sah.&quot; -  
 &quot;Stood your ground, did you ?&quot;&#x27;  
@@ -10156,9 +13663,9 @@ nin-t nraen to dese sogers, let alone a
 dat was do pint wid me&quot;&quot; . &#x27;  
 It is safe to say that the corpse of  
 that Afiican will never darken the field  
-of carnage. 
+of carnage. -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_byrd_ver01%2Fdata%2Fsn85038115%2F0029602742A%2F1875060101%2F0311.jp2/pct:51.190818,67.226167,10.746055,27.566172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:0029602742A:1875060101:0311/pct:68.230063,83.839036,14.314400,42.543577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10174,13 +13681,24 @@ of carnage.
 
 ---
 
-## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1875-06-10/ed-1/seq-6)
+## [From _The Kenosha telegraph._](https://www.loc.gov/resource/sn85033123/1875-06-10/ed-1/?sp=6)
 
 #### 1875-06-10 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+at the  
+same time.   
   
+A Selfish Philosopher.   
+Colored people are not all impulsive  
+and hot-headed, if the philosopher,  
+described by a correspondent who met  
+uim in the West, has many imitators  
+among his race. Old Diogenes, the  
+cynic, couldn’t surpass him in coolness  
+or selfishness. He had been in the bat­  
+tle of Fort Donelson:   
 “ Were you in the fight ? ”   
 “I had a little taste of it, sah.”  
 “ Stood your ground, did you ? ”  
@@ -10238,21 +13756,23 @@ dead nigga; but I’d a missed myself, and
 dat was de pint wid me.”   
 It is safe to say that the corpse of  
 that African will never darken the field  
-of carnage.
+of carnage.   
+A Perilous Mistake.   
+Last winter a go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151258%2F1875061001%2F0037.jp2/pct:81.416768,9.706397,14.501783,32.203838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151258:1875061001:0037/pct:66.571854,4.488259,29.337668,93.777866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1875-06-11/ed-1/seq-2)
+## [From _The true northerner._](https://www.loc.gov/resource/sn85033781/1875-06-11/ed-1/?sp=2)
 
 #### 1875-06-11 &middot; [Paw Paw, Mich.](http://dbpedia.org/resource/Paw_Paw%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 4 Were JOB in the lign&#x27;  
 &quot;I had a little taste Ox it, ah.&quot;  
 &quot;Istood vour gfondt did you &quot;  
@@ -10311,85 +13831,110 @@ dead nigga; but I&#x27;d a missed myself, and
 dat was de pint wid me. &quot;  
 It is safe to say that the corps- ol  
 thai African will never darken the Deld  
-of carnage
+of carnage.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023747%2F1875061101%2F0911.jp2/pct:79.235460,12.506428,14.457831,30.011313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1875061101:0911/pct:118.828079,18.759642,21.683522,46.117453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The Ottawa free trader._
+## [From _The Ottawa free trader._](https://www.loc.gov/resource/sn84038582/1875-06-19/ed-1/?sp=7)
 
 #### 1875-06-19 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-&quot;Were you in the fight?&quot;  
-&quot;I had a little taste of it, sah.&quot;  
-&quot;Stood your ground, did you?&quot;  
-&quot;Yes, sah; an&#x27; would hab run soona had  
-I known it was comin&#x27;.&quot;  
+.  
+A ScllUh riiiiooiliT.  
+Colored people are not all impulsive and  
+hot-headed, if the philosopher described by  
+a correspondent who met him in the west, has  
+many imitators among his race. Old J)io.  
+genes, the cynic, couldn&#x27;t surpass hiaa in cool­  
+ness or selfishness. He had been in the bat­  
+tle of Fort Donelson :  
+&quot;Were you in the light?&quot;  
+&quot;1 had a little taste of it. sah.&quot;  
+&quot;Stood your ground, did you ?&quot;  
+&quot;Yes, rah; an&#x27; would hah run sikujh had  
+I known it was cumin&#x27;.&quot;  
 &quot;Why, that wasn&#x27;t very creditable to your  
 courage.&quot;  
-&quot;Dat isn&#x27;t in my line, sah; cookin&#x27;s my  
+&quot;Dat isn&#x27;t in my line, sah; cookie&#x27;s my  
 profession.&quot;  
-&quot;But your reputation?&quot;  
-&quot;Reputation&#x27;s nuffin to me by de side ol  
+&quot;I!ut your reputation ?&#x27;&#x27;  
+&quot;Imputation&#x27;s nullin to ine by de sk&#x27;.o ;!  
 life.&quot;  
-&quot;Do you consider your life worth more  
-than other people&#x27;s?&quot;  
-&quot;It&#x27;s wuth more to me, sah.&quot;  
-&quot;Then you must value it very highly?&quot;  
-&quot;Yes, sah, I does; more dan all dis worid;  
+&quot;Do you consider your life worth i;:-jie  
+than other people&#x27;s?&#x27;&#x27;  
+&quot;It&#x27;s wuth mre to me, sah.&quot;  
+&quot;Then you must value it very highly ?&quot;  
+&quot;Yes, sah, I does; more dan all (lis world;  
 more dan a million dollars, sah, for what  
 would dat be wuth to a man wid de bref out  
-ob him? Self-preservation is de fust law wid  
+ob him? Self preservation is de fust law wM  
 me, sah.&quot;  
-&quot;But why should you act upon a different  
-rule from other men?&quot;  
-&quot;&#x27;Cause, sah, different men sets different  
-value upon derselves; my life is not in de  
+&quot;Hut why should you act upon a different  
+rule from other men?-&#x27;  
+&#x27; &#x27;Cause, sail, different liU&#x27;ii sets different  
+value upon dorsclvcfc; my life is not in de  
 market.&quot;  
-&quot;But if you lost it you would have the sat­  
-isfaction of knowing that you died for your  
+&quot;Hut if you lost it you would have the sat­  
+isfaction of knowing that 3&#x27;ii died for your  
 country.&quot;  
-&quot;What satisfaction would dat be to me  
-when de power of feelin&#x27; was gone?&quot;  
+&quot;What satisfaction would lut be to me  
+when do power of ioolm&#x27; was gone?&quot;  
 &quot;Then patriotism and honor are nothing  
-to you?&quot;  
-&quot;Nuffin&#x27; whatever, sah; I regard dem as  
+t&#x27;) youV&quot;  
+&quot;Nullin&#x27; whatever, salt; I regard dem us  
 among de vanities.&quot;  
 &quot;If our soldiers were like you, traitors  
-might have broken up the Government with  
-oull resistance.&quot;  
-&quot;Yes, sah; der would hab ben no held for  
+might have broken up the government with  
+out resistance.&quot;  
+&quot;Yes, sah; der would hab lien no helo for  
 it. I wouldn&#x27;t put my life in de scales against  
-any guberment dat eber existed; for no gub  
-erment could replace de loss to me. Spect,  
-dough, dat de guberment safe if da all like  
+i:ny gubennent dat cber existed: for no gub  
+crment could replace de loss to me. Speot,  
+dough, dat de gubennent safe if da all like  
 me.&quot;  
-&quot;Do you think any of your company would  
-have missed you if you had been killed?&quot;  
+&quot;Do you thicK any of your company would  
+have missed you if you had been killed?&#x27;&#x27;  
 &quot;Maybe not, sah. A dead white man ain&#x27;t  
-much to dese sogers, let alone a dead nigga;  
-but I&#x27;d a missed myself, and dat was de pint  
+nuicu to dose sogers, let alone a dead nigira;  
+but I&#x27;d a missed myself, and dat was tic pint  
 wid me.&quot;  
-It is safe to say that the corpse of that Af­  
-rican will never darken the field of car.  
-nage
-</td></tr></table>
+It is safe to sav that the corpse nf that Af­  
+rican will never darken the field of car-  
+a aire.  
+Willing to 1Si lnati&#x27;il.  
+Not long since I met Jack Spo
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471525:1875061901:0991/pct:4.705655,50.907393,15.007746,31.798772/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _The Morristown gazette._](https://chroniclingamerica.loc.gov/lccn/sn85033681/1875-06-23/ed-1/seq-1)
+## [From _The Morristown gazette._](https://www.loc.gov/resource/sn85033681/1875-06-23/ed-1/?sp=1)
 
 #### 1875-06-23 &middot; [Morristown, Tenn.](http://dbpedia.org/resource/Morristown%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ be sever  
   
+A Selhsh Philosopher.  
+  
+Colored people are not all impul  
+sive and hot-beaded, if the philoso­  
+pher, described by a correspondent  
+who met him in the West, has many  
+imitators among his race. Old Dio­  
+genes, the cynic, couldn&#x27;t surpass  
+him in coolness or selfishness. He  
+had been in the battle of Fort Don­  
 elson :  
 &quot;Were you in the fight?&#x27;  
 &quot; 1 had a little taste of it, sab.&quot;  
@@ -10451,20 +13996,34 @@ alone a dead nigga ; but I&#x27;d a missed
 myself, and dat was de pint wid me.&quot;  
 It is safe to say that the corpse of  
 that African will never darken the  
-field of carnage
+field of carnage.  
+A Little Gir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_hubert_ver01%2Fdata%2Fsn85033681%2F00296021088%2F1875062301%2F0541.jp2/pct:71.684958,16.858683,10.561653,31.265194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn85033681:00296021088:1875062301:0541/pct:91.133196,16.235070,18.662881,111.193320/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Fair play._
+## [From _Fair play._](https://www.loc.gov/resource/sn87052181/1875-06-24/ed-1/?sp=6)
 
 #### 1875-06-24 &middot; [Ste. Genevieve [Mo.]](http://dbpedia.org/resource/Ste._Genevieve%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ no  
+historic record of volcanic eruption any  
+where in the world compares with this,  
+either in territory over which it extends, the  
+number of newly opened craters, or the  
+time of its duration. The Copenhagen  
+Government has issued an appeal for aid  
+to the sufferers.  
+A voung man in California began to  
+read a paragraph about a mine to his  
+sweetheart, commencing: &quot;Y uba Mine  
+ when she interrupted him with: &quot;I don&#x27;t  
+care if I do, John.&quot;  
   
 A Philosophical Colored Man.  
 An elderly colored man, with a very  
@@ -10538,18 +14097,22 @@ killed?&quot;
 ain&#x27;t much wid dese sojers, let alone a  
 dead nigga; but I&#x27;d missed myself, and  
 dat was de pint wid me.&quot;  
-&quot;They Also Serve, Who Only Stand an
-</td></tr></table>
+&quot;They Also Serve, Who Only Stand and  
+Wai
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:00200292509:1875062401:0221/pct:59.803503,6.838082,33.810337,86.865879/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Montgomery County sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83016209/1875-06-25/ed-1/seq-4)
+## [From _Montgomery County sentinel._](https://www.loc.gov/resource/sn83016209/1875-06-25/ed-1/?sp=4)
 
 #### 1875-06-25 &middot; [Rockville, Md.](http://dbpedia.org/resource/Rockville%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 A Philosophical Negro.  
 An elderly colored man, with a very  
 philosophical and retrospective cast of  
@@ -10620,99 +14183,117 @@ killed?”
 “Maybe not, sa. A dead white man  
 ain’t much wid dose sojers, let alone a  
 dead nigga: but I&#x27;d a missed myself,  
-aud dat was de pint wid me.
+aud dat was de pint wid me.”  
+Impolite Tiunu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fireweed_ver01%2Fdata%2Fsn83016209%2F00383342399%2F1875062501%2F0929.jp2/pct:7.503431,22.690771,12.644579,38.596423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342399:1875062501:0929/pct:9.675583,29.268659,16.315690,50.848476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The Andrew County Republican._
+## [From _The Andrew County Republican._](https://www.loc.gov/resource/sn85034076/1875-06-25/ed-1/?sp=6)
 
 #### 1875-06-25 &middot; [Savannah, Mo.](http://dbpedia.org/resource/Savannah%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ and  
+historic record of volcanic eruption any  
+where in the world compares with this,  
+either in territory over which itextend?,the  
+number of new!&#x27; opened craters, or the  
+time of its duration. The Copenhagen  
+Government has issued an appeal for aid  
+to the sufferers.  
+A young man in California began to  
+read a paragraph about a mine to his  
+sweetheartjCommencing: &quot; Yuba Mine &quot;  
+when she interrupted him with : &quot;I don&#x27;t  
+care if I do, John.&quot;  
   
-A PhilOsophical Colored Man.  
+  
+A Philosophical Colored Man.  
 An elderly colored man, with a very  
   
- philosophical and retrospective cast of  
- countenance, was squatting upon his bun  
+; philosophical and retrospective east of  
+i countenance, was squatting upon his bun  
 dle on the hurricane deck of one of the  
 Western river steamers, toasting his shins  
 against the chimney, and apparently  
 plunged in a state of profound medita­  
 tion. His dress and appearance indicated  
-familiarity with camp life, and it being  
+familiarity with camp life, audit being  
 soon after the siege and capture of Fort  
 Donaldson, I was inclined to disturb his  
-reveries, and on interrogation found that  
+reveries, and on interrogation foiyid that  
 he had been with the Union forces at that  
 place, when I questioned further. His  
 philosophy was so peculiar, that I will  
-give his views in his own words, as near  
-e ee e  
-s ilchlory will serve ine.  
-&quot;Were you in the fight?&quot;  
+! give his views in his own words, as near  
+! ?i  
+;is mcuiorv win serve me :  
+&quot;Were you in the light?&quot;  
 &quot;I had a little taste of it, sa.&quot;  
-&quot;Stood your ground, did you?&quot;  
-&quot;No, sa, I runs.&quot;  
-&quot;Run at the first fire, did you!  
-&quot;Yes, sa, an&#x27; would have run  
-soona,  
+&quot;Stood your ground, did vou?&quot;  
+&quot; No, sa, I runs.&quot;  
+&quot; Run at the first fire, did you !  
+&quot; Yes, sa, an&#x27; would have run  
+ioona,  
 had I know&#x27;d it was comin.&quot;  
-&quot;Why, that wasn&#x27;t very creditable to  
+&quot; Why, that wasn&#x27;t very creditable to  
 your courage.&quot;  
-&quot;Dat isn&#x27;t my line, sa; cookin&#x27;s my  
+&quot; Dat isn&#x27;t my line, sa ; cookin&#x27;s my  
 professhun,&quot;  
-&quot;Well! but have you no regard for  
-your reputation?&quot;  
-&quot;Reputation&#x27;s nuffin to me by de side  
+&#x27;.Well ! but have you no regard for  
+your reputation ?&quot;  
+&quot; Reputation&#x27;s nullin to me by de side  
 of life.&quot;  
 &quot;Do you consider you life more than  
 other people&#x27;s?&quot;  
-&quot;It&#x27;s worth more to me, sa.&quot;  
-&quot;Then you must value it very high­  
-es, sa I doest more dan all is  
+&quot; It&#x27;s worth more to me, sa.&#x27;&quot;  
+&quot;Then you must value it verv high­  
+ly?&quot;&quot; Yes. sa, I does ; more dan all dis  
 world, more dan a million dollars, sa, for  
 what would that be wuth to a man wid  
 the bret out of him? Self-preserbation is  
 de first law with me.&quot;  
-&quot;But why should you act upon a dif­  
-ferent rule from other men?&quot;  
-&quot;Cause, sa, diff&#x27;rent men sets diff&#x27;rent  
-value upon derselves; my life is not in de  
+&quot; But why should you act upon a dif­  
+ferent rule from other men !&quot;  
+&quot; Cause, sa, difPrent men sets dill &#x27;rent  
+value upon derselves ; my life is not in de  
 market.&quot;  
 But if you lost it you would have the  
 satisfaction of knowing that you died for  
-your country.&quot;  
+your country.&#x27;  
 What satisfaction would dat be to me  
-when the power of feelin&#x27; was gone?&quot;  
+when the power of feelin&#x27; was gone?&#x27;  
 Then patriotism and honor are noth­  
-ing to you?&quot;  
-&quot;Nuffin&#x27; whatever, sa.&quot;  
-If our soldiers were like you, traitors  
+ing to you ?&quot;  
+&quot; Nufiin whatever, sa.&#x27;  
+If our soldiers were like you. traitors  
 might have broken up the Government  
 without resistance.&quot;  
-&quot;Yes, sa; der would have been no help  
+&#x27; Yes. ?a ; der would have been no help  
 for it. I wouldn&#x27;t put my life in de scales  
-&#x27;gainst no guberment dat ever existed, for  
+&quot;gainst no gubermentdat ever existed, for  
 no guberment could replace de loss to me.  
-Spect dough dat de Goberment safe, da all  
-like me.&quot;  
+Spc-ct dough dat de Goberment safe, da all  
+like me.&quot;&#x27;  
 &quot;Do you think any of your company  
-would have missed you, if you had been  
+would have mi-sed you. if vou had been  
 killed?&quot;  
-&quot;Maybe not, sa. A dead white man  
-ain&#x27;t much wid dese sojers, let alone a  
-dead nigga; but I&#x27;d missed myself, and  
+&#x27;Maybe not. si. A dead white man  
+ain&#x27;t much wid dese sojers. let alone a  
+deadnigga: but I&#x27;d missed myself, and  
 dat was de pint wid me.&quot;  
 They Also Serve, Who Only Stand  
 Wait.&quot;  
 an
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:00200292388:1875062501:0209/pct:59.949573,5.891034,34.658650,88.783667/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -10726,12 +14307,15 @@ an
 
 ---
 
-## From _The star of Pascagoula._
+## [From _The star of Pascagoula._](https://www.loc.gov/resource/sn85034469/1875-07-03/ed-1/?sp=1)
 
 #### 1875-07-03 &middot; [Pascagoula, Miss.](http://dbpedia.org/resource/Pascagoula%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ Colored Nan  
+An elderly colored amn,  
+  
   
 hilotophical an  
 eee oe o e e o  
@@ -10808,16 +14392,47 @@ been killed?&quot;
 ain&#x27;t much wid dese sojers, let alone  
 dead nigga; but I&#x27;d missed myself,  
 and dat was de pint wid me.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn85034469:00295878800:1875070301:0300/pct:67.729831,25.260649,13.508443,52.680965/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _The Manitowoc tribune._](https://chroniclingamerica.loc.gov/lccn/sn85033153/1875-07-08/ed-1/seq-1)
+## [From _The Manitowoc tribune._](https://www.loc.gov/resource/sn85033153/1875-07-08/ed-1/?sp=1)
 
 #### 1875-07-08 &middot; [Manitowoc, Wis.](http://dbpedia.org/resource/Manitowoc%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+”  
+The far-seeing, careful portion of the  
+Democratic party is in a sea of trouble  
+and worry. They know Mi-. Taylor is  
+not such a man as should represent their  
+party in Wisconsin, and yet they know  
+that if an attempt is made to set the old  
+gentleman aside he will roar like a hurt  
+lion, as will a few of his backers. They  
+pass by the cage and look at William R.  
+and wish the old fellow were exchanged  
+for a better breed, bnt for the life of  
+them they dare not stir the animal np  
+with their canes. If something only  
+could happen to get Mr. Taylor out of  
+the way, how that portion of the party  
+would rejoice. Had they supposed  
+therejwas any.chance cf securing nn elec­  
+tion in 1873, Mr. Taylor is about the  
+last man they would have hit upon.  
+They really want Colonel Robinson, or  
+a good many of them do ; bnt they shut  
+their teeth together and groan, knowing  
+full well that any movement toward  
+keeping William R. Taylor out of a re­  
+nomination would kick np a disturbance  
+in their little camp.—Fond dn Lac  
+Commonwealth. 1  
   
 | A PHILOSOPHICAL COLORED MAN.  
 An elderly colored man, with a very  
@@ -10894,86 +14509,156 @@ and dat was de pint wid me.”
   
 Portrait or Pocahontas.—The Rich­  
 mond Journal says that Dr. James Beale  
-has deposited in the State Library o
+has deposited in the Stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn85033153%2F00271769738%2F1875070801%2F0313.jp2/pct:60.792190,14.397896,10.859142,43.719607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769738:1875070801:0313/pct:52.243896,15.151860,23.161915,84.870891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1875-07-15/ed-1/seq-4)
+## [From _The Democratic press._](https://www.loc.gov/resource/sn83035083/1875-07-15/ed-1/?sp=4)
 
 #### 1875-07-15 &middot; [Ravenna, O. [Ohio]](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-A PHILOSOPHICAL COLORED MATT.  
-An eldeA j-tolOTed man with ayery  
-philesophical and retroipectire cast of  
-countenance,-was squatting upon hiM  
-Dunaig online iiwrricairfipBcitjvot eie  
-of the Western rirer steamers, toast­  
+,I I  
+A PHILOSOPHICAL COLORED MAN.  
+An elderly-colored man, with a very  
+philesophical and retrospective cast of  
+countenance, was squatting upon his  
+bundle on the nurricang deck $or ebe  
+of the Western river steamers, toast­  
 ing his shins against the chimney, and  
-appareo)! .p&quot;1ungcUh itat et rPfi  
-found meditation. Tlis dress aud ap  
-pearance indieateidj i&amp;KditoxilJ . with  
-camp life, and it being soon after, the  
+apparently plunged in e state ofpro  
+found meditation. His dress and ap  
+pearance indicated familiarity with  
+camp life, and it being soon after the  
 siege and capture of Fort Donaldson,  
-I was inclined to disturb Ha reveries.  
-and eri inter rfogattoa found that ,he  
+I was inclined to disturb his reveries,  
+and on interrogation found that the  
   
-had be?en With thtTnioS forces &#x27;at thajdW the brakeman callod&#x27;ontc  
+had been with the Union forces at that and the brakeman called out:  
   
-place, when I questioned further. Hi
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027182%2F1875071501%2F0121.jp2/pct:6.805375,27.584990,19.187979,8.646042/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Democratic press._](https://chroniclingamerica.loc.gov/lccn/sn83035083/1875-07-15/ed-1/seq-4)
-
-#### 1875-07-15 &middot; [Ravenna, O. [Ohio]](http://dbpedia.org/resource/Ravenna%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-&#x27;But why should you act upon a dif­  
-ferent rule from other men I&#x27; - j &quot;  
-&#x27;Cause, sa, difTrent men sets difTrent  
-value upon derselves ; my life is not in  
-de marked  
+place, when I questioned further. His  
+Were you in the fight?&quot;   
+&quot;I had a little taste of it, sa.&quot;  
+&quot;Stood your ground, did you?II  
+No, sa, I runs.&quot;  
+&quot;Run at the first fire, did you!&quot;  
+&quot;Yes, sa, an would have run soon  
+had I know&#x27;d it was comin&#x27;.&quot;  
+&quot;Why, that wasn&#x27;t very creditable to  
+your courage.&quot; 9a1&#x27; af  
+&quot;Dat isn&#x27;t my line, sa; cookin&#x27;s my  
+professhun.&quot;  
+&quot;Well! but have you no regard for  
+your reputation?  nrodes  
+Reputation&#x27;s nuffin to me by de side  
+of life.&quot;    
+&quot;Do you consider your life more  
+than other people&#x27;s?&quot;  
+It&#x27;s worth more to me, sa.n  
+&quot;Then you must value it very high­  
+ es, aa, I loes; more dan all dis  
+world, more dan a million doll  
+for what would that be wuth  
+wid the bret out of him? Self-preser  
+&quot;But why should you act upon a dif.­  
+ferent rule from other men!&quot;  
+&quot;Cause, sa, diff&#x27;rent men sets diff&#x27;rent  
+value upon derselves; my life is not in  
+de market.&#x27;  
 But if you lost it you would have  
 the satisfaction of knowing that you  
-died for your ceuntry.&#x27; f. &#x27;S  
-s WhatatistactiosV would -da -br to  
-me when the power : of , leeun was  
-gene?&#x27;- - - ; &#x27; ::&#x27; : ., J&#x27;:  
-Then patriotism and honor are  
-nothing to you V  
-NuuTn&#x27; whatever, sa.&#x27;&#x27;  
-&#x27;If our soldiers were like you, trait­  
+died for your country.  
+&quot;What satisfaction would dat be to  
+me when the power of feelin&#x27; was  
+gone?&quot;    
+&quot;Then patriotism and honor are  
+nothing to you?&quot;  
+Nuffin&#x27; whatever, sa.&quot;  
+&quot;If our soldiers were like you, trait­  
 ors might have broken up the Govern­  
-ment without resistance.&#x27; - -&#x27; --&#x27;  
-&#x27;Yesi sa ; dcr would have been no  
-help for it. &#x27; I wouldn&#x27;t put my life in  
-de scales &quot;gainst no&#x27; gul)er&quot;menl dat  
-ever etpd, for no gnberment could  
-replace 3eloss to mer&#x27; Spect&quot; dbugu  
-dat de.Goberment safe, da all;lite me.  
-&#x27;Do you think any&#x27; of year company  
+ment without resistance.&quot;I  
+&quot;Yes, sa; der would have been no  
+heip for it. I wouldn&#x27;t put my life in  
+de scales &#x27;gainst no guberment dat  
+ever existed, for no guberment could  
+replace de loss to me. Spect dough  
+dat de Goberment safe, da all like me.  
+&quot;Do you think any of your company  
 would have missed you, if you had  
-been kinedr  
-&#x27;Maybe not, sa. A dead white man  
+been killed?  
+&quot;Maybe not, sa. A dead white man  
 ain&#x27;t much wid dese sojers, let alone a  
-dead nigga; but I&#x27;d missed myself,  
-and dat was de pint wid me.&#x27; &#x27;  
-TBI ICEBKBGS L9f TUE SOUTH
+dead nigga; but I&#x27;d missed myseif,  
+and dat was de pint wid me.&quot;  
+THE ICEBERGS IN THE NORTH.  
+Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_fu_ver01%2Fdata%2Fsn83035083%2F00296027182%2F1875071501%2F0121.jp2/pct:6.877619,51.523350,10.576506,17.303847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027182:1875071501:0121/pct:6.805375,26.138101,19.187979,43.477238/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Democratic press._](https://www.loc.gov/resource/sn83035083/1875-07-15/ed-1/?sp=4)
+
+#### 1875-07-15 &middot; [Ravenna, O. [Ohio]](http://dbpedia.org/resource/Ravenna%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+philosophy was so peculiar, that I will  
+give his views in his oin words, as  
+near as memory will kerve mefl
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027182:1875071501:0121/pct:6.848721,36.278085,10.504262,1.552758/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Grant County herald._](https://www.loc.gov/resource/sn85033133/1875-07-15/ed-1/?sp=1)
+
+#### 1875-07-15 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+—The far seeing, careful portion of  
+the Democratic party is in a sea of  
+trouble and worry. They know Mr.  
+Taylor is not such a man as should  
+represent their party in Wisconsin,  
+and yet they know if an attempt is  
+made to set the old gentleman aside  
+he will roar like a hurt lion, as will a  
+few of his backers. They pass by the  
+cage and look at Williom R. and wish  
+the old breed were exchanged for a  
+better breed, but for the life of them  
+they dare not stir the animals up with  
+their canes. If something only hap­  
+pen to get Mr. Taylor out of the way,  
+how that portion of the party would  
+rejoice. Had they supposed there  
+was any chance of securing an elec­  
+tion in 187 S, Mr Taylor is about the  
+last man they would have hit upon.  
+They really want Colonel Robinson,  
+or a good many of them do; hut they  
+shut their teeth together and groan,  
+knowing full well that any movement  
+toward keeping Wm. R. Taylor out of  
+a renomination would kick up a dis­  
+turbance in their camp.—Fond du  
+Lac Commonwealth.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159385:1875071501:0312/pct:70.724170,15.148972,10.788660,13.921527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10989,13 +14674,14 @@ TBI ICEBKBGS L9f TUE SOUTH
 
 ---
 
-## [From _Helena weekly herald._](https://chroniclingamerica.loc.gov/lccn/sn84036143/1875-08-26/ed-1/seq-1)
+## [From _Helena weekly herald._](https://www.loc.gov/resource/sn84036143/1875-08-26/ed-1/?sp=1)
 
 #### 1875-08-26 &middot; [Helena, Mont.](http://dbpedia.org/resource/Helena%2C_Montana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+­  
+at  
 A Philosophical Colored Man.  
 An elderly colored man, with a very philo­  
 sophical and retrospective cast of counten­  
@@ -11065,98 +14751,145 @@ killed?&quot;
 &quot;May-be not, sah. A dead white man ain t  
 much wid dose sojers, let alone a dead nigga;  
 but I&#x27;d a missed myself, and dat was de pint  
-wid me.&quot;— JS&#x27;ewepaper Correspondence during  
-the TVbr
+wid me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mthi_harrier_ver01%2Fdata%2Fsn84036143%2F00295860662%2F1875082601%2F0278.jp2/pct:59.750911,19.814149,16.980559,38.599121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_harrier_ver01:data:sn84036143:00295860662:1875082601:0278/pct:58.778858,19.814149,17.952612,76.568745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Columbian._](https://chroniclingamerica.loc.gov/lccn/sn83032011/1875-09-03/ed-1/seq-4)
+## [From _The Columbian._](https://www.loc.gov/resource/sn83032011/1875-09-03/ed-1/?sp=4)
 
 #### 1875-09-03 &middot; [Bloomsburg, Pa.](http://dbpedia.org/resource/Bloomsburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-A Philosophical Colore! Man.  
+.  
+A Philosophical Colored Man.  
 An elderly colored man, with a very phil­  
 osophical and retrospective cast of counte­  
-nance, was squatting upon his bundlo on tho  
-hurricane deck of ono of tho western river  
-steamers, toasting his shins against tho  
-chimney, and apparently plunged in a stato  
+nance, was squatting upon his bundle on the  
+hurricane deck of one of the western river  
+steamers, toasting his shins against the  
+chimney, and apparently plunged in a state  
 of profound meditation. His dress and ap­  
-pcaranco indicated familiarity with camp  
-&quot; life, and it being soon after tho siego and  
-capturo of Fort Donaldson, I was inclined  
+pearance indicated familiarity with camp  
+life, and it being soon after the siege and  
+capture of Fort Donaldson, I was inclined  
 to disturb his reveries, and on interrogation  
-found that ho had been with tho Union forces  
-at tho place, when I questioned further. His  
+found that he had been with the Union forces  
+at the place, when I questioned further. His  
 philosophy was so peculiar, that I will give  
 his views in his words, as near as memory  
-will serve mo :  
-&quot;Were you in tho fight?&quot;  
-&quot;I hndalittlo taste of it, sa.&quot;  
+will serve me:  
+&quot;Were you in the fight?&quot;  
+&quot;I had a little taste of it, sa.&quot;  
 &quot;Stood your ground, did you?&quot;  
 &quot;No sa, I runs.&quot;  
-&quot;Run at tho first fire, did you?&quot;  
-&quot;Yes, sa, an&#x27; would havo run soona, had  
-I Juiow&#x27;d it was comin&#x27;.&quot;  
+&quot;Run at the first fire, did you?&quot;  
+&quot;Yes, sa, an&#x27; would have run soona, had  
+I know&#x27;d it was comin&#x27;.&quot;  
 &quot;Why, that wasn&#x27;t very creditable to your  
-courage.&#x27;&quot;  
-&quot;Dat isn&#x27;t my lino, sa ; cookln&#x27;s my pro­  
-fession,&quot;&quot;Well I but you have regard for your rep­  
-utation?&quot;&quot;Ileputation&#x27;d nufiiu&#x27; to mo by do sldo of  
+courage.&quot;  
+&quot;Dat isn&#x27;t my line, sa; cookin&#x27;s my pro­  
+WellI but you have regard for your rep­  
+ Meputation&#x27;s nutlnt to me by de side of  
 life.&quot;  
-&quot;Do you consider your lifo worth moro  
-than other people h.&quot;  
-&quot;It&#x27;s worf moro to mo sa.&quot;  
-&quot;Then you must valuo it very highly 1&quot;  
-&quot;Yes, sa, I docs ; moro dan all dis world,  
-moro dan a million dollars, sa, for what  
-would that be worth to a man wid do bret  
-out of him. Sclf-prcberbation is do first law  
-wld me.&quot;  
-Hut why should youacton a different rulo  
-from other men 1&quot;  
-&quot;Cause, sa, diff&#x27;ront men acts diff&#x27;ront  
-valuo upon desselvea ; my lifo is not In dor  
+&quot;Do you consider your life worth more  
+than other people&#x27;s.&quot;  
+&quot;It&#x27;s worf more to me sa.&quot;  
+&quot;Then you must value it very highly?&quot;  
+&quot;Yes, sa, I does; more dan all dis world,  
+more dan a million dollars, sa, for what  
+would that be worth to a man wid de bret  
+out of him. Self-preserbation is de first law  
+wid me.&quot;  
+But why should you act on a different rule  
+from other men?&quot;  
+&quot;Cause, sa, diff&#x27;rent men sets diff&#x27;rent  
+value upon desselves; my life is not in der  
 market.&quot;  
-&quot;But if you lost it you would havo the  
+&quot;But if you lost it you would have the  
 satisfaction of knowing that you died for  
 your country.&quot;  
-&quot;What satisfaction would that bo to mo  
-when do power of feelin was gouo 1&quot;  
-&quot;Then,&quot;patriotism and honor aro nothing  
-to you,&#x27;,  
-&quot;Nufiiu1 whatever sa.&quot;  
-&quot;If our soldiers wcro all .like you, Irai  
-tors might havo broken up tho government  
-wJtlwut resistance1&quot;  
-&quot;Yes, sa ; der would havo been no help  
-for It. I wouldn&#x27;t put my life in do scales  
-&#x27;gainst no gubcrment dat ebcr existed, for no  
-gubcrment could replaco do loss to me.  
-&#x27;Spect dough dat do gubcrment safe da all  
-liko mo.&quot;  
+&quot;What satisfaction would that be to me  
+when de power of feelin was gone?&quot;  
+&quot;Then patriotism and honor are nothing  
+to you.&quot;.  
+&quot;Nuffin&#x27; whatever sa.&quot;  
+&quot;If our soldiers were all like you, trai  
+tors might have broken up the Government  
+without resistance.&quot;  
+&quot;Yes, sa; der would have been no help  
+for it. I wouldn&#x27;t put my life in de scales  
+&#x27;gainst no guberment dat eber existed, for no  
+guberment could replace de loss to me.  
+Spect dough dat de guberment safe da all  
+like me.&quot;  
 &quot;Do you think any of your company  
-would havo missed you if you had been  
+would have missed you if you had been  
 killed?&quot;  
-&quot;Maybe not sa, A dead whito man ain&#x27;t  
-innch wid dese sojers, let alone a dead nlgga;  
-but I&#x27;d a missed myself, and dat was do pint  
-wld mo.&quot;
+&quot;Maybe not sa. A dead white man ain&#x27;t  
+much wid dese sojers, let alone a dead nigga;  
+but I&#x27;d a missed myself, and dat was de pint  
+wid me.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_carnegie_ver01%2Fdata%2Fsn83032011%2F0023728799A%2F1875090301%2F0380.jp2/pct:4.302956,61.753781,11.876858,36.057310/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:0023728799A:1875090301:0380/pct:4.302956,61.753781,11.876858,36.057310/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The morning star and Catholic messenger._](https://chroniclingamerica.loc.gov/lccn/sn86086284/1876-12-24/ed-1/seq-3)
+## [From _The daily news._](https://newspapers.digitalnc.org/lccn/sn84026559/1875-11-28/ed-1/seq-1/)
+
+#### 1875-11-28 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+, do you suppose vou would  
+have been missed much, if you had  
+Deen Allied ?&quot;  
+&#x27; May be not sah, a dead white  
+man aint much to dese sogers, let  
+alone a dead nigger, but id amissed  
+myself, and data ue pint wid me, aud  
+1 runs nail ebery time.&quot;  
+Now the pint with me has been all  
+along, that 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewsObs66n_ver01%2Fdata%2F1875112801%2F0511.jp2/pct:50.747689,49.717827,14.749864,6.097156/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _DNR (Daily News Record) 1988-2008_](https://archive.org/details/sim_dnr_the-daily-news_1875-11-28_8_76/page/n0/mode/1up?view=theater)
+
+#### 1875-11-28
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+, do you suppose you would  
+have been missed much, if you had  
+been Killed?”  
+  
+‘** May be not sah, a dead white  
+man aint much to dese sogers, let  
+alone a dead nigger, but id amissed  
+mysel’, and dats de pint wid me, aud  
+I runs sah ebery time.”  
+  
+Now the pinf with me has been all  
+along, that
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_dnr_the-daily-news_1875-11-28_8_76%2Fsim_dnr_the-daily-news_1875-11-28_8_76_jp2.zip%2Fsim_dnr_the-daily-news_1875-11-28_8_76_jp2%2Fsim_dnr_the-daily-news_1875-11-28_8_76_0000.jp2/pct:37.390196,36.943172,11.057467,4.553497/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The morning star and Catholic messenger._](https://www.loc.gov/resource/sn86086284/1876-12-24/ed-1/?sp=3)
 
 #### 1876-12-24 &middot; [New Orleans [La.]](http://dbpedia.org/resource/New_Orleans)
 
@@ -11220,9 +14953,10 @@ of your company would have missed you
 if you had been killed?&quot; &quot;Maybe not, as.  
 A dead white man ain&#x27;t much wid dese so­  
 jers, let alone a dead nigga, but I&#x27;d a miss­  
-ed myself, and dat was de nint wid me &quot; M
+ed myself, and dat was de nint wid me &quot; Ma  
+..
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_Cypher_ver01%2Fdata%2Fsn86086284%2F00280762027%2F1876122401%2F0992.jp2/pct:15.707134,41.618693,18.523154,33.846935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_Cypher_ver01:data:sn86086284:00280762027:1876122401:0992/pct:15.710411,41.618693,18.527019,34.117846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11425,7 +15159,7 @@ company would have missed you if you had
 been killed V&quot; * Maybe not, sah. A dead  
 white man ain&#x27;t much wid the sogers, let  
 alone a dead nigga ; but I&#x27;d missed  
-myself, and dat was de piutwid me.&#x27;
+myself, and dat was de piutwid me.
 </td></tr></table>
 
 ---
@@ -11438,8 +15172,7 @@ myself, and dat was de piutwid me.&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-AMERICAN PAPER.) Air elderly coloured  
+) Air elderly coloured  
 man, with a very philosophical and  
 retrospective cast of countenance, was  
 squatting upon his bundle on the  
@@ -11493,78 +15226,226 @@ sab; dere would have been no; hdp
 for-&#x27;it,&#x27;. 1 wouldn&#x27;t : pnt&#x27;^iny Ufe in  
 ; the scalcs &#x27;gainst any gubernment dat  
 eber existed, for no : jgObejrin sent  
-could replace de loss to me. de 
+could replace de loss to me. de :  
+guberinent safe if da AtLakej^rv; --&quot;  
+Do,you think any of .your ;(^&gt;mpaay ,  
+would have missed you if . you had been.  
+killed?&quot; :,. ..^v.^:...^-.; ; &quot; Maybe  
+not, sah. Aidead white man ain&#x27;t much  
+wid the Bojfflrs, let alone a dead  
+nigga&gt;; but rd&quot;a miesed my8elJ^ end dat  
+wab de pint wid me
 </td></tr></table>
 
 ---
 
-## [From _The Newtown bee._](https://chroniclingamerica.loc.gov/lccn/sn92051487/1878-06-20/ed-1/seq-1)
+## [From _The Newtown bee._](https://www.loc.gov/resource/sn92051487/1878-06-20/ed-1/?sp=1)
 
 #### 1878-06-20 &middot; [Newtown, Conn.](http://dbpedia.org/resource/Newtown%2C_Connecticut)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-chmigt.A Philosophical Colored Man.  
-Au elderly colored man, with a very  
-philosophical and rostrospective cast of  
+m  
+An elderly colored man, with a very  
+philosophical and restrospective cast of  
 countenance, was squatting upon his  
-bundle on the hurricane duck of ono o!&#x27;  
+bundle on the hurricane deck of one of  
 the Western river steamers, toasting his  
 shins against the chimney, and appar  
-ently plunged in a slate of profound med  
-itation. His dress and nppearaip e In &#x27;i­  
-cated familiarity with camp life, and if  
+ently plunged in a state of profound med  
+itation. His dress and appearane indi­  
+cated familiarity with camp life, and it  
 being soon after the siege and capture of  
 Fort Donaldson, I was inclined to dis­  
-turb Ids reveries, and on interrogation  
+turb his reveries, and on interrogation  
 found that he had been with the Union  
 forces at the place, when I questioned  
 futher. His philosophy was so peculiar,  
-that I will give his views In his words, as  
+that I will give his views in his words, as  
 near as memory will serve me:  
-&quot; Were you in the fight V&quot; &#x27;  
-&quot;Iliad a little ttiste of it, sa.&quot;  
+&quot;Were you in the fight?&quot;  
+&quot;I had a little taste of it, sa.&quot;  
 &quot;Stood your ground, did you?&quot;  
-&quot;Ho, sa, I rims.&quot; &#x27; ;  
-&quot; Attho flrst lire, did you?&#x27; &#x27;  
-&#x27; Yes, sa, an&#x27; would run soona, had I  
-know&#x27;d It was comin&#x27;.&quot;  
-&quot; Why, that wasn&#x27;t very creditable to  
+&quot;No, sa, I runs.  
+&quot;At the first fire, did you?&quot;  
+&quot;Yes, sa, an&#x27; would run soona, had I  
+know&#x27;d it was comin&#x27;.&quot;  
+&quot;Why, that wasn&#x27;t very creditable to  
 your courage.&quot;  
-i&quot;Dat Isn&#x27;t in my line, s-t, cookln&#x27;s my  
-profi sdon.&quot;  
+ e   
+profession.&quot;  
 &quot;Well! but have you no regard for  
-your reputation?&quot; &#x27;  
-t Ttnniit itl m&#x27;s nnffln&#x27;tn rrlo bv dc side  
-of life.&quot; &#x27; ,  
-&#x27; Do you consider your life worth more  
-thaii other people&#x27;s?&quot; &#x27;  
-&quot;It Is worf more to me, sa.&quot;  
-&quot;Then you must value it Mghlyr  
-&quot; Yes, sa, I does ; more dan all dis  
-j world, more than a million dollars, sa,  
-t for what would that c wuth to a man  
-wid dc brA out of liim.  
-Sclf-preserba-  
-Uon Is tie first law wld me.  
-&quot; But why shouM T u act  
+your reputation?&quot;  
+ Ponutation&#x27;s nuffin to me by de side  
+of life.&quot;  
+&quot;Do you consider your life worth more  
+than other people&#x27;s?&quot;  
+&quot;It is worf more to me, sa.&quot;  
+&quot;Then you must value it highly?&quot;  
+&quot;Yes, sa, I does; more dan all dis  
+world, more than a million dollars, sa,  
+for what would that be wuth to a man  
+wid de bret out of him.  
+Self-preserba-  
+tion is de first law wid me.  
+&quot;But why should you act  
 on a differ-  
-ent rule from&#x27; other1 juonT  
-..n... ss Mir..,t. monsntj. rilffor-  
--vnuns wi.i. .  
-ent value upon dessclves; my life Is not  
-1 .... .  
-In der market. . .  
-ttut if von Irsit it VOU would have the  
-But II you lOfol IV you wouiu u.n e me  
-satisfaction of knowing Uiat you died for  
-yonr country.&quot;  
-&quot; What gatisfaclion would that be to  
+ent rule from other men?&quot;  
+ Canea sa different men sots differ-  
+t0, ae a  
+ent value upon desselves; my life is not  
+ o e e  
+in der market.&quot;  
+But if you lost it you would have the  
+But if you lost ie you would have the  
+satisfaction of knowing that you died for  
+your country.&quot;  
+&quot;What satisfaction would that be to  
   
-mo wlimi tlu powr of fiMIIit ww
+me when de power of feelin&#x27; was gone?&quot;  
+&quot;Then patrlotism and honor are noth  
+ing to you.&quot;  
+Nuffin whatever, sa.&quot;   
+&quot;If our soldiers were all like you,  
+traitors might have broken up the gov­  
+crnment without resistance.&quot;  
+&quot;Yes, sa; der would have been no help  
+for it. I wouldn&#x27;t put my life in de  
+scales &#x27;gainst no guberment dat eber ex­  
+isted, for no guberment could replace de  
+loes to mer Spect dough dat de guber  
+safe if da all like me.&quot;  
+&quot;Do you think any of your company  
+would have missed you if you had been  
+killed?&quot;  
+May be not, sa. A dead white man  
+aint much wid dese sojers, let alone a  
+dead nigga; but I&#x27;d a missed myself, and  
+dat was the pint wid me.&quot;  
+  
+19 WHITEVALE STREeT, GLAsW,  
+May 27th, 1878.  
+Dea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_maple_ver01%2Fdata%2Fsn92051487%2F00271763189%2F1878062001%2F0211.jp2/pct:66.431171,13.585645,22.350674,81.031363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763189:1878062001:0211/pct:66.431171,13.585645,24.898309,81.031363/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Pacific._](https://archive.org/details/per_the-pacific_the-pacific_1878-06-27_27_26/page/n5/mode/1up?view=theater)
+
+#### 1878-06-27 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+: An elderly colored  
+‘man, with a very philosophical and ret-  
+rospective cast of countenance, was  
+squatting upon his bundle on the hurri-  
+cane deck of one of the western river  
+steamers, toasting his shins against the  
+chimney, and apparently ina state of  
+profound meditation. His dress and  
+appearance indicated familiarity with  
+camp life, and it being soon after the  
+siege and capture of Fort Donelson, I  
+was inclined to disturb his reveries, and,  
+on interrogation, found that he had  
+been with the Union forces at that  
+place, when I questioned further. His  
+philosophy was so peculiar that I give  
+his views in his own words as near as  
+my memory will serve me:  
+  
+“‘ Were you in the fight ?”  
+  
+‘JT had a little taste of it, sa.”  
+  
+“Stood your ground, did you?”  
+  
+* No, sa, I runs.”  
+  
+‘Run at first fire, did you ?”  
+  
+‘¢ Yes, sa, an’ would have run soona  
+had I know’d it was comin’.”  
+  
+“‘ Why, that wasn’t very creditable to  
+your courage.”  
+  
+‘Dat isn’t in my line, sa; cookin’s  
+my professhun.”’  
+  
+“ Well! but have you no regard for  
+your reputation ?”’  
+  
+‘¢Reputation’s nuffin to me. by de  
+side of life.”  
+  
+‘Do you consider your life worth  
+more than other people’s ?”’  
+  
+‘*Tt’s worth more to me, sa.”  
+  
+“Then you must value it very highly.”  
+  
+* Yes, sa, Idoes; more dan all this  
+world, more dana million dollars, sa ,  
+for what would that be wuth to a man  
+wid the bref out of him?  Selfpreser-  
+bashun is de first law wid me.”  
+  
+“ But why should you act upon a dif-  
+ferent rule from other men?”  
+  
+*‘’Oause, sa’ diff’rent men set diff’-  
+rent value upon derselves; my life is  
+not inde market.”  
+  
+*¢ But if you lost it, you would have  
+the satisfaction of knowing that you  
+died for your country.”  
+  
+“What satisfaction would dat be to me,  
+when the power of feelin’ was gone ?’”’  
+  
+“Then patriotism and honor are  
+nothing to you?”  
+  
+Nuffin’ whatever, sa.”  
+  
+“If our soldiers were all like you,  
+traitors might have broken up the  
+government without resistance.”  
+  
+“Yes,sa; would have been no belp  
+fer it. I wouldn’t put my life in the  
+scales ’gainst any guberment dat eber  
+existed, for no guberment could replace  
+de loss to me. ‘Spect dough dat de  
+guberment be safe, if dey all like me.”  
+  
+“ Do you think any of your company  
+  
+| would have missed you if you bad been:  
+  
+killed ?”’  
+  
+“ Maybe not, sa. A dead white man  
+ain’t much wid dese sojers, let alone a  
+dead nigga; but ’d a missed myself,  
+and dat was de pint wid me.”  
+  
+A TROUBLESOME VERB.  
+  
+An educational journal thus describes  
+the trouble a Frenchman had with the  
+verb “break” :  
+  
+“I begfn to understand your languag
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1878-06-27_27_26%2Fper_the-pacific_the-pacific_1878-06-27_27_26_jp2.zip%2Fper_the-pacific_the-pacific_1878-06-27_27_26_jp2%2Fper_the-pacific_the-pacific_1878-06-27_27_26_0005.jp2/pct:37.047663,27.948478,13.314207,51.944349/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11580,91 +15461,13 @@ mo wlimi tlu powr of fiMIIit ww
 
 ---
 
-## [From _Zion's Herald (1868-1910)_](https://archive.org/details/sim_zions-herald_1879-02-06_56_6/page/n0/mode/1up?view=theater)
-
-#### 1879-02-06 &middot; [Boston](http://dbpedia.org/resource/Boston)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-He seemed perfectly at home, stanainy |&#x27;0 he 8th  
-  
-distinguish «o  
-  
-Donaldson — if he was in the fight.  
-  
-‘* Stood your ground, did you?”  
-‘* No, sah, I runs.”  
-** Run at the first fire, did you ?”  
-  
-soona, had I knowed it was coming.”  
-  
-‘* Well, but have you no regard for  
-  
-your reputation ?”  
-  
-‘* Reputation’s nuffin to me by de side  
-  
-ob life.”  
-  
-**Do you consider your life worth  
-  
-more than other people&#x27;s?”  
-  
-‘‘T’s worth more to me, sah.”  
-‘*Then you must value it very high-  
-] ? ”  
-  
-. ** Yes, sah, I does — more dun all dis  
-wuld — more dun ‘a million ob dollas,  
-sah; for what would da be worth to a  
-man wid de bref out ob him? Self-  
-preserbashun am de first law wid me.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_zions-herald_1879-02-06_56_6&#0036;0/pct:31.004902,52.722032,23.943015,15.254056/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The weekly register._](https://chroniclingamerica.loc.gov/lccn/sn84026817/1879-03-26/ed-1/seq-4)
-
-#### 1879-03-26 &middot; [Point Pleasant, Va. [W. Va.]](http://dbpedia.org/resource/Point_Pleasant%2C_West_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-&quot;Had a little taste of it, sah.&quot;  
-&quot;Stood your ground, did you?&quot;  
-&quot;No, sah, I runs.&quot;  
-&quot;Run at the first fire, did you?&quot;  
-&quot;Yes, sah; would hab run sooner if  
-I had known it was comin,&#x27;&#x27;  
-&quot;Why that is not very creditable  
-to your courage.&quot;  
-&quot;Dat is not my line, sah; cookin&#x27;s  
-my profession.&quot;  
-?&#x27;Well, but have you no regard for  
-your reputation?&quot;  
-&quot;Reputation&#x27;s nothin&#x27;tome by the  
-side uf life.&quot;  
-&quot;Do you consider your life worth  
-more than other people&#x27;s?&quot;  
-&quot;It&#x27;s worth more to me, sah.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_jordan_ver03%2Fdata%2Fsn84026817%2F00202193791%2F1879032601%2F0054.jp2/pct:15.759175,23.790694,13.900216,12.281173/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## From _The Hickman courier._
+## [From _The Hickman courier._](https://www.loc.gov/resource/sn85052141/1879-07-11/ed-1/?sp=1)
 
 #### 1879-07-11 &middot; [Hickman, Ky.](http://dbpedia.org/resource/Hickman%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 a PHIlOsOPHICat COIOreD MaN.  
 An elderly colored man, with a very  
 philosophical and retrospective cast of  
@@ -11761,18 +15564,21 @@ and dat was de pint wid me.&quot;
 change.  
 The  
 Tongue is Migltier tha  
-the SaoRd
-</td></tr></table>
+the SaoR
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195052:1879071101:0084/pct:38.649081,31.268044,10.778044,38.951810/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _The interior journal._
+## [From _The interior journal._](https://www.loc.gov/resource/sn84038328/1879-07-18/ed-1/?sp=4)
 
 #### 1879-07-18 &middot; [Stanford, Ky.](http://dbpedia.org/resource/Stanford%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+,  
 4 PhHOsoPhTEOl COFORED MAN.  
 An elderly colored man, with a very  
 philosophical and retrospective cast of  
@@ -11864,227 +15670,143 @@ Lighting the tupitof bg EleefrIeite
   
 The arrangements for lighting the  
   
-capitol building with a new electri
-</td></tr></table>
+capitol building with a ne
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fernico_ver01:data:sn84038328:00280763779:1879071801:0135/pct:7.655407,10.217941,10.853488,47.915351/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _The Hickman courier._
+## [From _The Hickman courier._](https://www.loc.gov/resource/sn85052141/1880-06-04/ed-1/?sp=1)
 
 #### 1880-06-04 &middot; [Hickman, Ky.](http://dbpedia.org/resource/Hickman%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-chimney, and apparently plunged in a  
-profound state of meditation. Finding  
-upon inquiry, that he belonged to the  
-Ninth Illinois, one of the most heavy  
-losing regiments at Fort Donelson, and  
-part of which was aboard, the corres­  
-pondent interrogated him somewhat on  
-the subject. That the Ethiop&#x27;s philos­  
-ophy was much in the Falstaffian vein  
-the following will show: &quot;Were you  
-in the fight?&quot; &quot;Had a little taste of  
-it sa.&quot; &quot;Stood your ground did you  
-No, sa, I runs.&quot; &quot;Run at the first  
-fire did you?&quot; &quot;Yes, sa; and would  
-have run soona had I known it war  
-comin&#x27;.&quot; &quot;Why, that was not very  
-creditable to your courage.&quot; &quot;Dat isn&#x27;t  
-in my line sa--cookin&#x27;s my perfeshun  
-Well, but have you no regard for  
-your reputation?&quot; &quot;Reputation&#x27;s nuf  
-fin to me by de side ob life.&quot; &quot;Do you  
-consider your life w orth more than  
-other people&#x27;s?&quot; &quot;It&#x27;s worth more to  
-me, sa. &quot;Then you must value it very  
-highly.&quot; &quot;Yes, sa, I does--more dan  
-all dis wuld--more dan a million ob  
-dollars, sa; for what would even dat be  
-worth to a man wid de bref out of him  
-Self preserbashun am de fust law wid  
-me.&quot; &quot;Then patriotism and honor are  
-nothing to you?&quot; &quot;Nuffin, whatever  
-sa; I regard dem as &#x27;mong de vanities  
-It is safe to say that the dusky corpse  
-of that African will never darken 
-</td></tr></table>
+upon inquiry that he belonged to the  
+Ninth Illinois one of the mot heavy  
+losing regiments at Fort Dooelson and  
+part of which was aboard the corres­  
+pondent interrogated him somewhat oa  
+the subject That the Eihiop philos­  
+ophy was much in thcjFalstaffian vein  
+the following will show Were jou  
+in the fight Had a little taste of  
+it sa Stood your ground did you  
+No sa I runs Ran at the first  
+fire did yon Yes 6a and would  
+have run sooca had I known it war  
+corain Why that was not very  
+creditable to your courage Dat isnt  
+in my line sa cookius my perfeshun  
+Well but have you no regard for  
+your reputation Reputations nuf  
+Gn to me by do side ob iife Do you  
+consider your life orth more than  
+other peoples Its worth more to  
+me sa Then you must value it very  
+highly Yes sa I docs more dan  
+all dis wuld more dan a million ob  
+dollars sa for what would even dat be  
+worth to a man wid de brcf out of him  
+Self preserbashun am da fn3t law wid  
+me Then patriotism and honor aro  
+nothing to you Nuffin whatever  
+sa I regard dem as mong do vanities  
+It is safe t
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn85052141:00206533638:1880060401:0063/pct:106.800934,44.922410,13.747811,20.093565/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## A Colored Camp Follower
-
-#### From _Daily evening bulletin._
-
-#### 1880-11-29 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
-
-[This text is not available under an open license.]
-
----
-
-## [From _Wheeling register._](https://chroniclingamerica.loc.gov/lccn/sn86092518/1880-12-11/ed-1/seq-3)
+## [From _Wheeling register._](https://www.loc.gov/resource/sn86092518/1880-12-11/ed-1/?sp=3)
 
 #### 1880-12-11 &middot; [Wheeling, W. Va.](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ is nuffin to me, by de  
+i o ie  
+&quot;Well, if you lost your life you wouldd  
   
-| aide of life.&quot; *  
-&quot;Well, if you lost your life yon wooU!  
-  
-j have the aatiafaction of knowing that  
-: yon died for your country,&quot; said the  
-| colonel.  
-&quot;What natiafaction would dat be to  
-me, uh, when de power of feelin&#x27; it wns  
+have the satisfaction of knowing that  
+ you died for your country,&quot; said the  
+ colonel.  
+&quot;What satisfaction would dat be to  
+me, sah, when de power of feelin&#x27; it was  
 gone?&quot;  
-&quot;Then patriotism and honor arenoth*  
+&quot;Then patriotism and honor are noth-  
 ing to you?&quot;  
-&quot;Nuffia whatever.&#x27;&#x27;  
+&quot;Nuffin whatever.&quot;  
 &quot;If our soldiers were all like you,  
-I traitors might have broken up the gov­  
+traitors might have broken up the gov­  
 ernment.&quot;  
-&quot;Ye*, Bah, dat&#x27;s bo; dere would have  
-; 1xh*u no help for it. I wouldn&#x27;t put my  
-life into de rcalee &#x27;ga&#x27;ntt *M.V gubein­  
-m«*nt dat ever existed, for no gubern­  
-ment could replace de lo&lt;« to uie. I  
-&#x27; &#x27;spect, though, dat de gubernment  
-would le gate null&#x27; if all de soldiers were  
-like me, cos den d**re couldn&#x27;t Ik* no  
-dtin.&quot;
+&quot;Yes, sah, dat&#x27;s so; dere would have  
+ been no help for it. I wouldn&#x27;t put my  
+life into de scales &#x27;gainst any gubern­  
+ment dat ever existed, for no gubern­  
+ment could replace de loss to me. I  
+&#x27;spect, though, dat de gubernment  
+would be safe nuff if all de soldiers were  
+like me, cos den dere couldn&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_nova_ver02%2Fdata%2Fsn86092518%2F00383341620%2F1880121101%2F0565.jp2/pct:10.434406,4.223615,23.889931,92.799644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341620:1880121101:0565/pct:10.434406,4.223615,23.889931,92.799644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The true northerner._](https://chroniclingamerica.loc.gov/lccn/sn85033781/1881-01-07/ed-1/seq-3)
-
-#### 1881-01-07 &middot; [Paw Paw, Mich.](http://dbpedia.org/resource/Paw_Paw%2C_Michigan)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-the hi.le of life.&quot; &#x27; Well, if you lost  
-your life you would have tho satisfac­  
-tion of knowing that you dud for your  
-country&#x27; &quot;What satisfaction would  
-dat be to me, sah, when do power of  
-feelin&#x27; it was gone?&quot; &quot;Then patriot­  
-ism and honor aro nothing to vou, Sam.&quot;  
-&quot; Nulliu whatelKT, sah,&quot; if our sol
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023760%2F1881010701%2F0764.jp2/pct:80.241773,74.154883,13.781061,4.148328/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1881-01-14/ed-1/seq-1)
-
-#### 1881-01-14 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-the side of life.” “Well, if you lost  
-your life you would have the satisfac­  
-tion of knowing that you died for your  
-country.” “What satisfaction would  
-dat be to me, sah, when de power of  
-feelin’ it was gone ? ” “ Then patriot­  
-ism and honor are nothing to you, Sam. ”  
-“ Nuflin whateber, sah,” “If onr sol­  
-diers were all like you, traitors might  
-have broken up the Government without  
-resistance.” “Yes, sah, dat’s so; dere  
-would hab been no help for it. I  
-wouldn’t put my life into de scales  
-| ’gainst any Gubemment dat eber exist­  
--1 ed, for no Gubernment could replace de  
-I loss to me. I ’sped, though, dat de  
-Gubernment would be safe ’null if ail fin  
-| .soldiers were like me, cos den dtr
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151283%2F1881011401%2F0298.jp2/pct:60.432982,82.006827,10.716536,7.965798/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Daily globe._](https://chroniclingamerica.loc.gov/lccn/sn83025287/1881-01-23/ed-1/seq-5)
-
-#### 1881-01-23 &middot; [St. Paul, Minn.](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-the side of life.&quot; &quot;Well, if you lost  
-yonr life you would have the satisfac­  
-tion of knowing that you died for your  
-country.&quot; &quot;What satisfaction would  
-dat be to me, sah, -when de power of  
-feelin&#x27; it was gone?&quot; &quot;Then patriot­  
-ism and honor are nothing to you, Sam.&quot;  
-&quot; Nuffin whateber, sah,&quot; &quot;If our sol­  
-diers were all like you, traitors might  
-have broken up the Government without  
-resistance.&quot; &quot;Yes, sah, dats so; dere  
-would nab been no help for it. I  
-wouldn&#x27;t put my life into de scales  
-&#x27;gainst any Gubernment dat eber exist­  
-ed, for no Gubernment could replace de  
-loss to me. I &#x27;spect, though, dat de  
-Gubernment would be safe &#x27;nuff if all de  
-soldiers were like me, cos den der
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_blaine_ver01%2Fdata%2Fsn83025287%2F00100493901%2F1881012301%2F0109.jp2/pct:57.060730,88.987894,13.013484,9.361606/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## From _The Iowa plain dealer._
+## [From _The Iowa plain dealer._](https://www.loc.gov/resource/sn83025167/1881-04-28/ed-1/?sp=5)
 
 #### 1881-04-28 &middot; [New Oregon, Howard County, Iowa](http://dbpedia.org/resource/Cresco%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+,  
+did you  
+&quot;No, aa, I runs J&quot;  
   
-Yes, sa, and would ha&#x27; run soona  
+Bun at the first fire  
+Yes, sa, and would ha* run soona  
 had I knowed it comin&#x27;.&quot;  
   
 If our soldiers were all like you  
-traitors might have broken up the Go  
-ernment without resistance.&quot;  
+traitors might have broken up the do&#x27;  
+eminent without resistance.&quot;  
   
-Yes, sa; dar would hab been no help  
-for it. I wouldn&#x27;t put my life in de scale  
-&#x27;gainst any Gobernment dat ever exist-­  
-ed, for no Gobernment could make up  
-de loss.&quot;  
+Yes, sa dar would hab been no help  
+for it I wouldn&#x27;t put my life in de scale  
+&#x27;gainst any (tobernment dat ever exist­  
+ed, for no (Juberwiient could make up  
+dc loss.&quot;  
   
-Do you think your company woul  
+Do you think your oompany woul  
 have missed you if you had been killed?  
-Maybe not, sa; a dead white man  
+Maybe not, Ba a dead white mau  
 ain&#x27;t much to these sogers, let alone  
-dead nigga; but I&#x27;d ha&#x27; missed myself  
-and dat was de p&#x27;int wid m
-</td></tr></table>
+dead nigga but I&#x27;d ha&#x27; missed myself,  
+and dat was de p&#x27;int wid me  
+  
+Mr. Planche s Irish couchman took  
+much the same view o
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528402:1881042801:0083/pct:16.923849,80.283055,10.738929,9.480419/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _The Kenosha telegraph._](https://chroniclingamerica.loc.gov/lccn/sn85033123/1881-05-06/ed-1/seq-4)
+## [From _The Kenosha telegraph._](https://www.loc.gov/resource/sn85033123/1881-05-06/ed-1/?sp=4)
 
 #### 1881-05-06 &middot; [Kenosha, Wis.](http://dbpedia.org/resource/Kenosha%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+’.”  
 “If our soldiers were all like yon  
 traitors might have broken up the Gov­  
 ernment without resistance.”  
@@ -12098,9 +15820,127 @@ have missed you if you had been killed? ’
 “Maybe not, sa; a dead white man  
 ain’t much to these sogers, let alone a  
 dead nigga; but I’d ha’ missed myself,  
-and dat was de p’int wid me !
+and dat was de p’int wid me !”  
+Mr. Planche’s Irish coachman took  
+much the same view o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_engledinger_ver02%2Fdata%2Fsn85033123%2F00514151283%2F1881050601%2F0367.jp2/pct:39.450246,82.301934,10.552014,6.144362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151283:1881050601:0367/pct:39.441204,81.851438,10.552014,7.387461/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Danbury reporter._](https://newspapers.digitalnc.org/lccn/sn91068291/1881-05-12/ed-1/seq-1/)
+
+#### 1881-05-12 &middot; [Danbury, N.C.](http://dbpedia.org/resource/Danbury%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+A Philoaophical Colored Man.  
+An eldorly colored aian, with a very  
+philosophic*! aßd retrospective cast of  
+counteuanoe was squatting upon hi*  
+bundle on the hurrkauc deck of one of  
+the Westera river steamers, toasting bis  
+skir.a sgainst tha chimney, and apparent­  
+ly plunged in a stato of profound medi­  
+tation. Ilis dress and appcaraneo indi­  
+cated familiarity with camp life, and, it  
+being soon after tbosicze and capture of&#x27;  
+Fort Oonelson, I was inclined to disturb  
+hi* reveries, and, on interrogation, found  
+that he had been with the Union force*  
+at the plaee, whon 1 questioned further.  
+Ilis philoaopliy was IO peeuliar that I  
+will give his views in his word* as near  
+as memory will serve :  
+&quot;Were you in the fight ?&quot;  
+&quot;I had a little taste of it, ea.&quot;  
+&quot;Stood your ground, did you 7&quot;  
+&quot;No sa ; I runs.&quot;  
+&quot;Run at the first fire, did you 7&quot;  
+&quot;Yc»,*a; and would have run soona  
+had x know&#x27;d it was eomin&#x27;.&quot;  
+&quot;Why, that wasn&#x27;t very creditable to  
+your courage 7&quot;  
+&quot;Dat isn&#x27;t in my line, sa. Cookin&#x27;a  
+my profession.&quot;  
+&quot;Well! but have you no rogard for  
+your reputation 7&quot;  
+&quot;Reputation&#x27;* nuffin&#x27; to me by ds Bide  
+of life.&quot;  
+&quot;Do you consider your lifo worth more  
+than other people&#x27;s 7&quot;  
+&quot;It&#x27;s worf moro to me, *ah.&quot;  
+&quot;Than you must value it very high ?&quot;  
+&quot;Yes, sa, I does—more dan all die  
+world ; more dan a million dollars, sah ;  
+for what would dat be wuth to a man  
+wid d* bref out of him ? Self preser­  
+bation is de first law wid me.&quot;  
+&quot;But why ebould yon act on a differ­  
+ent rule from other man?&quot;  
+&quot;Cause, sa, diff&#x27;rent men set diff&#x27;rent  
+values upon dcsselves. My life iB not in  
+der market.&quot;&#x27;  
+&quot;But if you lost it, you would have  
+the satisfaction of knowing that you died  
+for your country.&quot;  
+&quot;What satisfaction would that be to  
+mo when de power of feelin&#x27; was gone 1&quot;  
+&quot;Then patriotism and honor aro aoth.  
+ing to you 7&quot;  
+&quot;Nuffin&#x27;, whatever, sa.&quot;  
+&quot;If our soldiers were all like you, trai­  
+tors might have broken up the govern­  
+ment without resistance.&quot;  
+&quot;Yes, sa; dere would have beon no  
+help for it, I wouldn&#x27;t put my life in de  
+scales &#x27;gainst no guber-nent dat eber ex­  
+isted, for no guberment could replace de  
+loss to me. &#x27;Spcct, dough, dat de gub­  
+ermcnt safo ef da all like ice.&quot;  
+&quot;Do you think nay et your company  
+would havo missed you if you had be«n  
+killed?&quot;  
+&quot;Maybe not, la. A deed white a*an  
+ain&#x27;t much wid dese tojers, Ist alone a  
+dead nigga; but I&#x27;d missed myself, and  
+dat was de pint wid me.&quot;  
+A Louisville dispatch say*: During  
+a terrible thunder ttorro that visited  
+thi
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DaR1_ver01%2Fdata%2F1881051201%2F0384.jp2/pct:65.445954,37.118792,13.644418,46.543712/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Weekly Kansas chief._](https://www.loc.gov/resource/sn82015484/1881-06-02/ed-1/?sp=4)
+
+#### 1881-06-02 &middot; [Troy, Kan.](http://dbpedia.org/resource/Troy%2C_Kansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ it war comin&#x27;.&quot;  
+&quot;If our soldiers were all like you, traitors  
+might have broken up the Government without  
+any resistance.&quot;  
+&quot;Yes, sah; dar would hab been no help for it.  
+I wouldn&#x27;t put my life in de scale gainst any  
+gobernment dat existed; for no gobernment  
+could make up de loss.&quot;  
+&quot;Do you think your company would have miss-  
+ed you if you had been killed?&quot;  
+&quot;May be not, sah; a dead white man ain&#x27;t  
+much to these sogers, let alone a dead nigga; but  
+I&#x27;d a missed myself, an&#x27; dat was de pint wid me.&quot;  
+Mr. Planche&#x27;s Irish coachman took much the  
+same view o
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1881060201:0273/pct:3.212924,25.311601,11.036486,5.300644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12114,23 +15954,7 @@ and dat was de p’int wid me !
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-gunboats, an elderly darkey, with a very  
-philosophical and retrospective cast of  
-countenance, squatted upon his bundle
-</td></tr></table>
-
----
-
-## [THE POINT WITH HIM.](http://trove.nla.gov.au/ndp/del/article/97285429)
-
-#### From _Northern Argus (Clare, SA : 1869 - 1954)_
-
-#### 1881-08-05 &middot; [Clare, South Australia](http://dbpedia.org/resource/Clare%2C_South_Australia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+, and part of  
 which was aboard, I began to interrogate  
 him upon the subject : u Were you in the  
 fight ?&#x27; &#x27; Had a little taste of it,  
@@ -12175,21 +15999,21 @@ me.&#x27; &#x27; Do you think any of your company
 killed?&#x27; &#x27; Maybe not, sa ; a dead white  
 man am t much to dese sogers, let alone  
 a dead nigga ; but I&#x27;d a missed myself,  
-and dat was de pint wid me.&#x27; _ &#x27;Got an
+and dat was de pint wid me.&#x27; _ &#x27;Got any  
+medicine?&#x27; asked a boy, entering a drug  
+store the other day. &#x27; Yes, lots of it.  
+What d
 </td></tr></table>
 
 ---
 
-## [From _Clarksville weekly chronicle._](https://chroniclingamerica.loc.gov/lccn/sn88061082/1881-08-06/ed-1/seq-1)
+## [From _Clarksville weekly chronicle._](https://www.loc.gov/resource/sn88061082/1881-08-06/ed-1/?sp=1)
 
 #### 1881-08-06 &middot; [Clarksville, Tenn.](http://dbpedia.org/resource/Clarksville%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-tion is nothing to me, sah, by the  
-side of life.&quot; &quot;Well, If you lost your  
+, If you lost your  
   
 life you would have the satisfaction  
   
@@ -12223,21 +16047,21 @@ though, that de government would
   
 be safe &#x27;nulf If all de soldiers were  
   
-like me, cos den dere couldn&#x27;t bo no
+like me, cos den dere couldn&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_jimmy_ver02%2Fdata%2Fsn88061082%2F00296020618%2F1881080601%2F0543.jp2/pct:75.509638,65.809278,9.638053,8.884646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020618:1881080601:0543/pct:100.665557,88.307312,12.839712,11.277098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Brookhaven ledger._](https://chroniclingamerica.loc.gov/lccn/sn86053968/1881-09-01/ed-1/seq-4)
+## [From _The Brookhaven ledger._](https://www.loc.gov/resource/sn86053968/1881-09-01/ed-1/?sp=4)
 
 #### 1881-09-01 &middot; [Brookhaven, Miss.](http://dbpedia.org/resource/Brookhaven%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+”  
 “If oar soldiers were all like von,  
 traitors might have broken np the gov­  
 ernment without resistance.”  
@@ -12257,15 +16081,16 @@ A Wager in the Pulpit.
   
 ■  
 Not many years since there was a fa­  
-mous preacher of the old Puritan schoo
+mous preacher of the old Puritan school  
+i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_chert_ver01%2Fdata%2Fsn86053968%2F00383343781%2F1881090101%2F0523.jp2/pct:4.110501,70.906397,10.005825,8.054458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_chert_ver01:data:sn86053968:00383343781:1881090101:0523/pct:4.111185,70.915154,10.003329,8.410522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Morehouse clarion._](https://chroniclingamerica.loc.gov/lccn/sn86053659/1881-09-02/ed-1/seq-1)
+## [From _The Morehouse clarion._](https://www.loc.gov/resource/sn86053659/1881-09-02/ed-1/?sp=1)
 
 #### 1881-09-02 &middot; [Bastrop, La.](http://dbpedia.org/resource/Bastrop%2C_Louisiana)
 
@@ -12290,21 +16115,23 @@ had been killed ?&quot;
 man ain&#x27;t much to these sogers,  
 let alone a nigga, but I would  
 bab missed mysef, An&#x27; dat was  
-de pint wid me !&quot;
+de pint wid me !&quot;  
+  
+W orthy of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_charizard_ver01%2Fdata%2Fsn86053659%2F00295874399%2F1881090201%2F0249.jp2/pct:78.326446,39.635473,14.524793,16.390098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn86053659:00295874399:1881090201:0249/pct:78.326446,39.635473,14.524793,17.709467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Bristol news._
+## [From _Bristol news._](https://www.loc.gov/resource/sn85026955/1881-10-25/ed-1/?sp=3)
 
 #### 1881-10-25 &middot; [Bristol, Va. & Tenn.](http://dbpedia.org/resource/Bristol%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+&#x27;.&quot;  
 &quot;If our soldiers all like you, traltors  
 might have broken up the Government  
 withont resistance.&quot;  
@@ -12328,12 +16155,17 @@ EeaIl MOdOee tons
   
   
 e  
-Have the Largest
-</td></tr></table>
+Have the Largest  
+  
+countr
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn85026955:00200293526:1881102501:0749/pct:42.226380,5.690952,46.623012,90.782992/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Sacramento daily record-union._](https://chroniclingamerica.loc.gov/lccn/sn82014381/1882-08-26/ed-1/seq-4)
+## [From _Sacramento daily record-union._](https://www.loc.gov/resource/sn82014381/1882-08-26/ed-1/?sp=4)
 
 #### 1882-08-26 &middot; [Sacramento [Calif.]](http://dbpedia.org/resource/Sacramento%2C_California)
 
@@ -12431,20 +16263,49 @@ nigger ; but I&#x27;d a missed myself, and dat
 was de pint wid me.&quot;  
 It is safe to say that the dark corpse of  
 that African never darkened the field of  
-carnage.
+carnage.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/curiv_grimes_ver01%2Fdata%2Fsn82014381%2F00175037986%2F1882082601%2F0107.jp2/pct:70.151515,4.901961,24.737077,90.247008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_grimes_ver01:data:sn82014381:00175037986:1882082601:0107/pct:70.142602,4.901961,24.741533,90.234276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Phoenix herald._](https://chroniclingamerica.loc.gov/lccn/sn87062082/1882-09-08/ed-1/seq-4)
+## [From _The White Pine news._](https://www.loc.gov/resource/sn84022047/1882-08-26/ed-1/?sp=4)
+
+#### 1882-08-26 &middot; [Treasure City, Nev.](http://dbpedia.org/resource/Ely%2C_Nevada)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+. “Had a little  
+taste of it, sah.&quot; Stood your ground,  
+did you ?&quot; “No, sah; I run.&quot; “Run  
+at the first fire, did you?&quot; “Yes,  
+aah; would have run sooner if I had  
+known it was cornin’.&quot; “Why, that&#x27;s  
+not very creditable to your courage.&quot;  
+“Dat isn’t inv line, sah—cookin’ is  
+nay profession.” “Well, but have  
+you no regard for your reputation?&quot;  
+“Reputation is nothing to me by the  
+aide ob life.&quot; “Do yon consider your  
+life worth more than other people&#x27;s?&quot;  
+•*It la worth more to we, sah.&quot;
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_gabbs_ver01:data:sn84022047:00340582585:1882082601:0335/pct:5.967181,70.225080,17.652909,8.794212/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Phoenix herald._](https://www.loc.gov/resource/sn87062082/1882-09-08/ed-1/?sp=4)
 
 #### 1882-09-08 &middot; [Phoenix, Maricopa County, A.T. [Ariz.]](http://dbpedia.org/resource/Phoenix%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+&quot;  
   
 A rlii&#x27;osopliieal Warter  
   
@@ -12555,141 +16416,144 @@ myself, end dat was de pint wid
 me.&quot;  
 It is safe to say that the dark  
 corpse of that African never dark­  
-ened the field of carnage.
+ened the field of carnage.  
+  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/az_deserttortoise_ver01%2Fdata%2Fsn87062082%2F00202192907%2F1882090801%2F0521.jp2/pct:76.472461,52.417062,11.111111,43.696682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_deserttortoise_ver01:data:sn87062082:00202192907:1882090801:0521/pct:101.925525,55.477319,22.087842,72.674340/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Arizona silver belt._
+## [From _The Carolina mountaineer._](https://newspapers.digitalnc.org/lccn/sn91068497/1883-06-16/ed-1/seq-3/)
+
+#### 1883-06-16 &middot; [Morganton, N.C.](http://dbpedia.org/resource/Morganton%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+&#x27;.&quot;  
+&quot; If our soldiers &#x27; were all like yon  
+traitors might have broken up the Gov­  
+ernment without resistance.&quot;  
+&quot; Yes, sa; dar would hab been no help  
+for it. I wouldn&#x27;t put my life in de scale  
+&#x27;gainst any Gobernment dat ever exist­  
+ed, for no Gobernment could make up  
+do loss.&quot; s . -  
+&quot; Do you think your company wouIJ  
+have missed you if you had been killed?&quot;  
+&quot; Maybe not, sa; a dead white- man  
+ain&#x27;t much to these sogers, let alone a  
+dead nigga; but I&#x27;d ha&#x27; missed myself,  
+and dat was de p&#x27;int wid m
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BurCN3n_ver01%2Fdata%2F1883061601%2F0047.jp2/pct:104.323995,95.711583,18.818514,10.216523/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Arizona silver belt._](https://www.loc.gov/resource/sn84021913/1883-06-16/ed-1/?sp=1)
 
 #### 1883-06-16 &middot; [Globe City, Pinal County, Ariz.](http://dbpedia.org/resource/Globe%2C_Arizona)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-Box 763.  
-George A. Newton  
-SHOP.At Hlitchcock &amp; Co&#x27;s Drug Store,  
-Globe, A. T.  
-WAIChEs, CI0CNS A MWEIfI.  
-Sewing Machine  
-Fixtures and Needles.  
-Pistols.  
-Guns And pistols reraired  
-H. A. Anderson  
-Is prepared to  
-Contract for the Build­  
-ing of Houses,  
-Do JoB  
-tering.  
-Work, and General  
-Carpen­  
-jy29  
-For MENT.  
-The building lately occupied as a lodging  
-house by Mrs. O. Mills. Apdly to  
-J.D. BR  
+ rates than  
+Willcox ca it&#x27;ih nfitr.  
+; f Ii HI M)T1 MiN  
   
-STER.  
+A PHH.OHOVIIICAI. AUKt;y.  
   
-  
-AoTICE. I am prepared to make con­  
-In tracts for the delivery at any smelter  
-in the vicinity, of coke from Bowie Station,  
-and take back copper, at lower rates than  
-Willcox can possibly offer.  
-&quot;if D. Henberso  
-  
-A PHILOSOPHICAL DARKEY.  
-  
-An elderly darkey, with a very sor­  
-rowful and retrospective cast of coun­  
+An eldcily datkey, with a very sor­  
+rowful and retrospective east of coun­  
 tenance was squatting upon his bun­  
 dle on the hurricane deck of one of the  
-western steamers. His dress and ap­  
+western steamei s. His dress and ap­  
 pearance indicated familiarity with  
-camp life, and, it being soon after the  
-siege and capture of Fort Donelson,  
-felt inclined to disturb his reverie  
-On interrogation I found that he had  
+camp life, and,&quot;it being soon after the  
+sicgo and capture of Fort Donelson,  
+felt inclined to distuib his reverie  
+On intcnogation I found that he had  
 been with the Union forces at that  
-place when I questioned him further.  
+placo when I questioned him further.  
 His philosophy was so much in the  
 Falstaffian vein that I will give his  
 views in his own words, as near as  
 memory will serve me:  
-&quot;Were you in the fight?&quot;  
-&quot;I had a little taste of it, sah.&quot;  
+&quot;Weie you in the fight?&quot;  
+&quot;I had a little taste of if, sab.!&#x27;  
 &quot;Stood your ground, did you?&quot;  
 &quot;No, sah, I run.&quot;  
-&quot;Run at the first fire, did you?&quot;  
+&quot;Run at tho first fire, did you?&quot;  
 &quot;Yes, sab, and would hab run soon­  
-er, had I know&#x27;d it was coming.&quot;  
-&quot;Why, that wasn&#x27;t very creditable  
+er had I know&#x27;d it was coming.&quot;  
+&quot;&quot;Why, that wasn&#x27;t very creditable  
 to your courage.&quot;  
-&quot;Dat isn&#x27;t in my line, sah; cookin&#x27;s  
-my profession.&quot;  
+&quot;Dat isn&#x27;t in my line,&#x27; sah; cookin&#x27;s  
+my profession.v  
 &quot;Well, but have you no regard for  
 your reputation?&quot;  
-&quot;Reputation! Nuffin to me by de  
-side of life.&quot;  
-&quot;Do you consider your life worth  
-more than other people&#x27;s?&quot;  
-&quot;It&#x27;s worth more to me, sah.&quot;  
+&#x27;Reputation! Nufiin to me byde  
+side of life.&quot;.  
+&quot;Do you consider your lifo worth  
+moie than other people&#x27;s?&quot;  
+&quot;It&#x27;s worlh mote to mo, sah.&quot;t  
 &quot;Then you must value it very high­  
-ly.&quot;  
-&quot;Yes sah, I does; more than all dis  
-world; more dan a million dollars, sah  
-For what would dat be wid de bref  
-out ob him? Self preservation am de  
-first law ob nature?&quot;  
-&quot;But why should you act on a  
+ly.&quot; &quot;  
+&quot;Yes,safi,Xdoes: more than all dis  
+world; moie dan a million dollars, sah  
+ror-whatVould d.it bo w&#x27;id.&#x27;&#x27;de bief  
+out obhim? Self preservation am do  
+first lawob nature?&quot;  
+&quot;Lift v,hv should yoiuact on a  
 dif-  
-ferent rule from other med?&quot;  
-Cause, sah, different men sets a  
-different value upon derselves; my  
-life is not in de market, sah.&quot;  
-But if you lost it, you would have  
-the satisfaction of knowing that ye  
-e eeoe eee     
-ol  
-cilid if for your country.  s  
-  
-a   e rerge  
-  
-  
-oo e  
-  
-P then Is Eotism and honor are  
-  
-thing o yoare,  
-Nuffin wherover;  
-dem.  
-&quot;I our soldiers wigt you, trai­  
-tors might have broken tup our Gov-  
-ernment without resistance, I  
-&quot;Yes, sah; der would hab been no  
+feieut rule fiom other med?&quot;.  
+Caufjc, sail, different men sets a  
+.different value upon deceives; &#x27;my  
+life is not in do market, sah.&quot; &#x27;js  
+t &quot;&#x27;13ut if you lost itj you wonldrjiave  
+&#x27; vthefSatitaction ot KnvlnE&#x27;tlia
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_falcon_ver01:data:sn84021913:00211106293:1883061601:0148/pct:23.580871,18.135808,32.931571,110.614368/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Arizona silver belt._](https://www.loc.gov/resource/sn84021913/1883-06-16/ed-1/?sp=1)
+
+#### 1883-06-16 &middot; [Globe City, Pinal County, Ariz.](http://dbpedia.org/resource/Globe%2C_Arizona)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+&quot;If oiirLso&#x27;ldicr5,s-gKtrTdu? J.trai­  
+&#x27;tors might, have brolreti&#x27;upAour Uov-  
+einment withoutx&#x27;ii?cei&#x27;X&#x27;f r  
+&quot;Yes, sah; der woiSHIiab, been no  
 help for it.  
-I wouldnt put my life in  
-nit put my.  
-de scales ginst any guberment dat  
-eber existed, for no guberment could  
-replace de loss to me. Spect, dough,  
-dat de guberment&#x27;s safe if da all do  
-like me.&quot;  
- &quot;Do you think any of your company  
+I wouldrTl.&#x27;iHtt my.itfeT&#x27;Tn  
+n&#x27;l.&#x27;nut my.  
+de scales Vinst any nlbeiment dat  
+eber existed for-no guber;nent could  
+leplace do loss to me. tipecrVdough,,  
+dat de gubencent&#x27;6 safe if da all do  
+like,me&quot;.&quot; &quot; &quot;  
+. &quot;Do you think any of your company  
 would have missed you if you had  
-been killed?&quot;  
-&quot;May be not, sah; a dead white man  
-aint much to dese sojers, let alon a  
-dead nigger; but I&#x27;d a missed myself,  
-and dat was de pint wid me.&quot;  
-It is safe to say that the dark corpse  
-of that African never darkened the  
-field of carnage
-</td></tr></table>
+been killed?&quot; , T&quot;  
+&quot;May be not, sah; a dead1 white man  
+aint much to dee sojeis, let alon a  
+dead nigger; but I&#x27;d a missed .&#x27;myself,  
+and dat was do pintyyl?m.&quot;  
+It is siifo-to&quot;E.iy thatfthe-dink corpse  
+of that&#x27; African never &#x27;darkened Hhe  
+field ot callage.&quot; &quot;
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_falcon_ver01:data:sn84021913:00211106293:1883061601:0148/pct:39.735614,67.453958,16.757387,17.165753/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -12701,7 +16565,18 @@ field of carnage
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+RANK CONFESSION. Dr. W. W. Hall, in  
+his admirable little book, &quot;How to Live  
+Long,&quot; records the following refreshing  
+exhibition of primitive frankness of  
+character:--A coloured tlan had slipped  
+off from the army near Fort tonelson,  
+and, making his way on board a pdasing  
+steamboat, was found beside the smoke-  
+stack, sitting on a bundle of  
+dilapidated liomesepun trying to warm  
+himself. &quot; Were you in the fight ?&quot; one  
+of the passengers inquired of him. &quot;I  
 :sad a little taste of it, sa.&quot; &quot; Stood  
 your ground, did you&#x27;?&quot; &quot;No, sa; I  
 runs.&quot; &quot;Run at the first fire, did you  
@@ -12739,18 +16614,24 @@ scales &#x27;gainst any Gobernment dat ever
 existed, for no Gobernment could replace  
 de loss to me.&quot; &quot;Do you think any of  
 your company would have missed you if  
-you had been killed ?&quot; &quot;May be not, sa 
+you had been killed ?&quot; &quot;May be not, sa ;  
+but I&#x27;d a missed myself, and that was  
+the p&#x27;int wid me.&quot; &quot;Then patriotism and  
+honour are nothing to you ?&quot; &quot;Nufin&#x27;  
+whatever, sa; I consider dem as among do  
+vanities
 </td></tr></table>
 
 ---
 
-## [From _The Republican._](https://chroniclingamerica.loc.gov/lccn/sn88065202/1885-12-19/ed-1/seq-8)
+## [From _The Republican._](https://www.loc.gov/resource/sn88065202/1885-12-19/ed-1/?sp=8)
 
 #### 1885-12-19 &middot; [Oakland, Md.](http://dbpedia.org/resource/Oakland%2C_Maryland)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+Tlie Pint Wid Old Pete.  
+Upon the hurricane dcek of one of  
 our gunboat-*, during the war, an  
 elderly darkey, with a very philoso  
 phical and retrospective east ot coun­  
@@ -12816,21 +16697,23 @@ been killed?”
 ain’t much to dese sogers, let alone a  
 dead nigga ; but I’d miss myself, and  
 dat was de pint wid me.”  
-tiettiug a Wife •‘on Tick.
+tiettiug a Wife 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_goatsbeard_ver01%2Fdata%2Fsn88065202%2F00340588290%2F1885121901%2F1228.jp2/pct:8.843921,8.382954,13.685813,42.510216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588290:1885121901:1228/pct:11.411739,8.933414,17.652193,56.733956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The Bad Lands cow boy._
+## [From _The Bad Lands cow boy._](https://www.loc.gov/resource/sn84024777/1886-10-21/ed-1/?sp=3)
 
 #### 1886-10-21 &middot; [Little Missouri, Dakota [i.e. N.D.]](http://dbpedia.org/resource/Medora%2C_North_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+.  
   
+The Contraband&#x27;s Patriotism,  
 An elderly colored man, with a very  
 philosophical and retrospective cast  
 of countenance, was squatting with  
@@ -12861,17 +16744,23 @@ your courage.”
 &quot;Dat isn&#x27;t in my line, sah; cookin&#x27;s  
 my profession.&quot;  
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_jessie_ver01:data:sn84024777:00295863912:1886102101:0508/pct:42.396812,6.272229,11.784799,15.954642/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _The Bad Lands cow boy._
+## [From _The Bad Lands cow boy._](https://www.loc.gov/resource/sn84024777/1886-10-21/ed-1/?sp=3)
 
 #### 1886-10-21 &middot; [Little Missouri, Dakota [i.e. N.D.]](http://dbpedia.org/resource/Medora%2C_North_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+&#x27;s nuffin to me by the  
+side of lie e ae­  
+&quot;Do you consider your life worth  
+more than other people&#x27;s?&quot;  
 &quot;It&#x27;s worth more to me, san.&quot;  
 &quot;But why should you act upon a  
 different ruile from other men??&quot;  
@@ -12907,18 +16796,25 @@ you had been killed??
 aint much wid dese sojers, let alone a  
 dead niggah; but I&#x27;d a missed myself,  
 and dat was de p&#x27;int wid me.From  
-Eli Perkins&#x27; &quot;Wit and Humor of the
-</td></tr></table>
+Eli Perkins&#x27; &quot;Wit and Humor of the  
+  
+A Prayer fo
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_jessie_ver01:data:sn84024777:00295863912:1886102101:0508/pct:42.328494,22.590903,11.984059,18.737186/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Little Falls transcript._](https://chroniclingamerica.loc.gov/lccn/sn89064525/1886-10-22/ed-1/seq-7)
+## [From _Little Falls transcript._](https://www.loc.gov/resource/sn89064525/1886-10-22/ed-1/?sp=7)
 
 #### 1886-10-22 &middot; [Little Falls, Morrison County, Minn.](http://dbpedia.org/resource/Little_Falls%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+&amp;m  
   
+The Contraband&#x27;s Patriotism.  
 An elderly colored man, with a very  
 philosophical and retrospective cast  
 of countenance, was squatting with  
@@ -12992,21 +16888,21 @@ dead niggah but I&#x27;d a missed myself,
 and dat was de p&#x27;int wid me.&quot;—From  
 Eli Perkins&#x27; &quot;Wit and Humor of the  
   
-A Prayer for Coffee.
+A Prayer fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_mazda_ver01%2Fdata%2Fsn89064525%2F00212479238%2F1886102201%2F0405.jp2/pct:44.966353,7.632147,11.987438,35.167206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mazda_ver01:data:sn89064525:00212479238:1886102201:0405/pct:39.502019,6.957929,17.442799,90.442961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Emmons County record._](https://chroniclingamerica.loc.gov/lccn/sn87096040/1886-10-22/ed-1/seq-3)
+## [From _Emmons County record._](https://www.loc.gov/resource/sn87096040/1886-10-22/ed-1/?sp=3)
 
 #### 1886-10-22 &middot; [Williamsport, D.T. [i.e. N.D.]](http://dbpedia.org/resource/Linton%2C_North_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 An elderly colored man, with a very  
 philosophical and retrospective cast  
 of countenance, was squatting with  
@@ -13076,21 +16972,21 @@ dead niggah but I&#x27;d a missed myself,
 and dat was de p&#x27;int wid me.&quot;—From  
 Eli Perkins&#x27; &quot;Wit and Humor of the  
   
-A Prayer for Coffee.
+A Prayer fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_argon_ver01%2Fdata%2Fsn87096040%2F00199917936%2F1886102201%2F0512.jp2/pct:42.642797,5.872687,11.881836,35.893406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_argon_ver01:data:sn87096040:00199917936:1886102201:0512/pct:53.304119,7.340924,14.846626,44.862693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Wahpeton times._](https://chroniclingamerica.loc.gov/lccn/sn84024779/1886-10-28/ed-1/seq-7)
+## [From _The Wahpeton times._](https://www.loc.gov/resource/sn84024779/1886-10-28/ed-1/?sp=7)
 
 #### 1886-10-28 &middot; [Wahpeton, Richland County, Dakota [N.D.]](http://dbpedia.org/resource/Wahpeton%2C_North_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 An elderly colored man, with a very  
 philosophical and retrospective cast  
 of countenance, was squatting with  
@@ -13159,13 +17055,9 @@ you had been killed?&quot;
 &quot;Maybe not, sah a dead white man  
 aint much wid dese sojers, let alone a  
 dead niggah but I&#x27;d a missed myself,  
-and dat vras de p&#x27;int wid me.&quot;—From  
-Eli Perkins&#x27; &quot;Wit and Humor of the  
-Age.&quot;  
-  
-A Prayer for Coffee.
+and dat vras de p&#x27;int wid me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_bowbells_ver01%2Fdata%2Fsn84024779%2F00295863699%2F1886102801%2F0975.jp2/pct:44.305643,6.374360,12.297672,35.822911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863699:1886102801:0975/pct:52.118717,7.499373,14.462172,39.841986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13179,7 +17071,18 @@ A Prayer for Coffee.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ and Mohammedans.&#x27;  
+-Dr. W« W. Hall, in his admirable little  
+book, -&#x27;How to Live Long,&#x27; records the  
+following refresh- : ing exhibition of  
+primitive frankness of character. A :  
+coloured man had slipped off from the  
+army near Fort Donelson, and, making his  
+way on board a . passing steamboat, was  
+found beside the smoke-stack, sitting  
+-on a bunkle of dilapidated home-spun  
+trying to warm himself. &#x27;? Were you in  
+the fight ?&#x27; one of the passengers  
 inquired of him. &#x27; I had a little taste  
 of it, S1..&#x27; &#x27;Stood your ground, did  
 your&#x27; &#x27;No, sa;I rins &#x27; &#x27; ltun at the  
@@ -13219,18 +17122,23 @@ wouldn&#x27;t put my life in de scales
 for no Gubernment could replace de loss  
 to me.&#x27; &#x27; you think any of your company  
 would have missed you if you had been  
-killed? &#x27; &#x27; May be not, sa ; but I&#x27;d 
+killed? &#x27; &#x27; May be not, sa ; but I&#x27;d a  
+missed it myself, and dat was the p&#x27;int  
+wid me.&#x27; &#x27; Then patriotism, and honour  
+are nothing to you f &#x27; &#x27;N uffin&#x27;  
+whatever, sa; 1 consider dem as among de  
+vanities.&#x27; 
 </td></tr></table>
 
 ---
 
-## [From _Jamestown weekly alert._](https://chroniclingamerica.loc.gov/lccn/sn85042405/1886-11-04/ed-1/seq-3)
+## [From _Jamestown weekly alert._](https://www.loc.gov/resource/sn85042405/1886-11-04/ed-1/?sp=3)
 
 #### 1886-11-04 &middot; [Jamestown, Stutsman County, D.T. [N.D.]](http://dbpedia.org/resource/Jamestown%2C_North_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 An elderly colored man, with a very  
 philosophical and retrospective cast  
 of countenance, was squatting with  
@@ -13304,9 +17212,9 @@ and dat cas de p&#x27;int wid me.&quot;—From
 Eli Perkins&#x27; &quot;Wit and Humor of the  
 Age.&quot;  
   
-A Prayer for Coffee.
+A Prayer fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ndhi_hazen_ver01%2Fdata%2Fsn85042405%2F00212478714%2F1886110401%2F1249.jp2/pct:43.787707,6.154593,12.221908,35.206772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478714:1886110401:1249/pct:50.032321,7.029856,13.962508,40.240276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13320,7 +17228,17 @@ A Prayer for Coffee.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ Ifall, in his  
+work &quot; How to Live Long,&quot; records the  
+following refreskhing exli! bitiou of  
+primitive frankness of character. A  
+co:brcd man lhad slipped offfroui the  
+army near Forti.Doalson, and making his  
+way oni board a passing steaunboat, Was  
+found beside the smnoke-stact, siiting  
+on a bundle of dilapidated home-spun,  
+tryiung to warm himself. &quot;. ere you ii  
+tile fight?&quot; one of the passenlgers  
 inquired of him. &quot;&#x27; I had a little taste  
 of it, sa.&quot; &quot; Stood your ground, did you  
 ?&quot;&#x27; &quot; No, sat, ; I runs.&quot; &quot; Run at the  
@@ -13357,22 +17275,20 @@ resistance.&#x27; &quot; Yes, sa ; der would Ihave
 beeni no help for it. I wouldn&#x27;t put my  
 life in scales &#x27;gainst anly (iubarnmclut  
 that &#x27;ever existed, for no Gubernmeunt  
-could replace de loss- to me.&quot; &#x27;&quot; Do yo
+could replace de loss- to me.&quot; &#x27;&quot; Do you  
+think any of your company would have  
+omised you if you had lieen killed?&#x27;  
+&quot;May be not, s ; but I&#x27;dtl a missed it  
+myself aiid that was the pint willd me.&quot;  
+&quot; Then patriotism and l onlor are  
+nothing &quot;to you ?&#x27; Nuflin,&#x27; whateser, sa  
+I consider dent as ailong dle vanities.&quot;  
+A
 </td></tr></table>
 
 ---
 
-## SOUND OR UNSOUND?
-
-#### From _Ipswich Journal_
-
-#### 1887-08-12 &middot; [Ipswich, England](http://dbpedia.org/resource/Ipswich)
-
-[This text is not available under an open license.]
-
----
-
-## [From _Turner County herald._](https://chroniclingamerica.loc.gov/lccn/sn2001063133/1888-08-09/ed-1/seq-3)
+## [From _Turner County herald._](https://www.loc.gov/resource/sn2001063133/1888-08-09/ed-1/?sp=3)
 
 #### 1888-08-09 &middot; [Hurley, Dakota [S.D.]](http://dbpedia.org/resource/Hurley%2C_South_Dakota)
 
@@ -13473,34 +17389,36 @@ and dat was de pint wid me, sah.&quot;
   
 It is safe to say that the dusky corpse  
 of that African will never darken the  
-field of&quot; carnage.&quot;—Ohiaago Ledger
+field of&quot; carnage.&quot;—Ohiaago Ledger,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_dagger_ver01%2Fdata%2Fsn2001063133%2F00415623240%2F1888080901%2F1099.jp2/pct:24.672088,10.976750,11.258307,39.350615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_dagger_ver01:data:sn2001063133:00415623240:1888080901:1099/pct:24.658972,10.970069,11.245191,39.337253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Wessington Springs herald._](https://chroniclingamerica.loc.gov/lccn/sn99067997/1888-08-17/ed-1/seq-6)
+## [From _Wessington Springs herald._](https://www.loc.gov/resource/sn99067997/1888-08-17/ed-1/?sp=6)
 
 #### 1888-08-17 &middot; [Wessington Springs, Aurora County, Dakota [S.D.]](http://dbpedia.org/resource/Wessington_Springs%2C_South_Dakota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-BY DAVID STONER.  
+.  
   
 It is safe to say that the dusky corpse  
 of that African will never darken the  
-field of carnage.&quot;—Chicago Ledger
+field of carnage.&quot;—Chicago Ledger.  
+  
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_mustang_ver01%2Fdata%2Fsn99067997%2F00415625078%2F1888081701%2F0714.jp2/pct:38.370110,18.217814,14.472019,45.320653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625078:1888081701:0714/pct:47.957078,77.435470,18.076764,3.205662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Wessington Springs herald._](https://chroniclingamerica.loc.gov/lccn/sn99067997/1888-08-17/ed-1/seq-6)
+## [From _Wessington Springs herald._](https://www.loc.gov/resource/sn99067997/1888-08-17/ed-1/?sp=6)
 
 #### 1888-08-17 &middot; [Wessington Springs, Aurora County, Dakota [S.D.]](http://dbpedia.org/resource/Wessington_Springs%2C_South_Dakota)
 
@@ -13591,48 +17509,170 @@ been killed?&quot;
 &quot;Mabv not, sah. A dead white man&#x27;  
 ain&#x27;t much to dese sojers, let alone a  
 dead nigga but I&#x27;d &#x27;a missed myself,  
-and dat was de pint wid me, sah.&quot;
+and dat was de pint wid me, sah.&quot;  
+  
+E were camped  
+a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/sdhi_mustang_ver01%2Fdata%2Fsn99067997%2F00415625078%2F1888081701%2F0714.jp2/pct:38.188521,2.797617,15.583558,59.197720/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625078:1888081701:0714/pct:47.730087,3.497086,19.459348,78.934221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The state republican._
+## [From _The Centre reporter._](https://panewsarchive.psu.edu/lccn/sn83032058/1889-12-19/ed-1/seq-7/)
+
+#### 1889-12-19 &middot; [Centre Hall, Pa.](http://dbpedia.org/resource/Centre_Hall%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+, one of the most gal.  
+lantly behaved and heavy loosing regi-  
+ments at the Fort Donaldson battle, I  
+began to interrogate him upon the sub-  
+ject,  
+  
+“Were you in the fight?”  
+  
+“Had a tasle of it, sa,”  
+  
+“Stood your ground, did you?”  
+  
+“No sa, I runs,”  
+  
+“Run at the first fire, did you?”  
+  
+“Yes sa, and wou!d hab run soona,  
+bad I know&#x27;d it war comin’.”  
+  
+“Why that wasn’t very creditabie te  
+your courage,”  
+  
+**Massa, dat is&#x27;nt my line, sa, cook.  
+in&#x27;s my profeshun,”’  
+  
+“Well, but have you no regard for  
+your reputation?”  
+  
+“Yah Yah! reputation’s nuffin to me  
+by de side ob life,”  
+  
+“Do you consider your life worth  
+more than other people’s?”  
+  
+“It’s worth more to me, sa.”  
+  
+“Then you must value it very higi-  
+ly.»  
+  
+sa; for what would dat  
+servation am de first Jaw wid me.”  
+“But why should you act upon a di -  
+  
+ferent rule from other men?”  
+  
+| market,”  
+“But if you lost it, you would have  
+  
+  
+died for your country.”  
+  
+“What satisfaction would  
+me, when the powers of  
+gone?”  
+  
+“Then patriotism and  
+nothing to you?”  
+  
+“Nuflin whatever, sa: 1  
+{ 88 among the vanities  
+  
+dat  
+feelin’  
+  
+honor  
+  
+  
+i ment without resistance.”  
+  
+*Yes, sa; dere would bh  
+help for it.»  
+  
+“Do you think any of your comp  
+  
+{ would have missed you if you  
+  
+! been killed?”  
+  
+“Maybe not, sa;  
+  
+ain&#x27;t much to these sogers, let alone a  
+  
+dead nigga; but I&#x27;d miss myself. and  
+  
+| dat’s the pint wid me.”  
+  
+ab been no
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_centrereporter1_ver01%2Fdata%2Fsn83032058%2F13362145%2F1889121901%2F00007.jp2/pct:62.232906,18.413561,17.841880,37.318841/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The state republican._](https://www.loc.gov/resource/sn90061576/1891-12-31/ed-1/?sp=4)
 
 #### 1891-12-31 &middot; [Jefferson City, Mo.](http://dbpedia.org/resource/Jefferson_City%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+.  
   
-hl3 bundle and toasting his shins  
-against the chimney, and apparently  
-plunged In a state of meditation. Fin
-</td></tr></table>
-
----
-
-## [From _Perrysburg journal._](https://chroniclingamerica.loc.gov/lccn/sn87076843/1892-01-02/ed-1/seq-7)
-
-#### 1892-01-02 &middot; [Perrysburg, Wood Co., O. [Ohio]](http://dbpedia.org/resource/Perrysburg%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
+with the bref out er him, sahl  
   
-darkey, with a philosophical east of  
-countenance. Ho was squatted upon  
-his bundle and toasting his shins  
-against tho chimney, nnd apparently  
-plunged in a state of meditation. Find
+&quot;But why should you act upon a dif­  
+feront rule from other men?&quot;  
+&quot;Because different men set different  
+valueslupon their lives--mine&#x27;s not in  
+de market.&quot;  
+But if you lost it you would have  
+the satisfaction of knowing that you  
+  
+wat saterfaction would dat be  
+  
+me wen de powah of feeling war  
+  
+Then patriotism and honor are noth  
+ing to you!&quot;  
+&quot;Nuffin, whatevah, sah. Dey&#x27;s &#x27;mong  
+de vanitles, sah.&quot;  
+&quot;If all our soldiers were like you,  
+traitors might break up our government  
+with very little resistance.&quot;  
+&quot;Yes, sah! dar would be no help foh  
+it, I wouldn&#x27;t put my head in de scale  
+&#x27;gainst no gov&#x27;ment dat eber existed,  
+co&#x27;s no gov&#x27;ment could give me a new  
+head!&quot;  
+&quot;Do you think any of your friends  
+would have missed you if you had been  
+killed?&quot;  
+&quot;May be not, sah! A dead white man  
+ain&#x27;t much to dese solgiers, let &#x27;lone a  
+dead niggah! but I&#x27;d acmissed myself,  
+sah, an&#x27; dat war de pint wid me.&quot;  
+  
+It is safe to say the dusky corpse of  
+  
+SiSHY vA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_foxtrot_ver01%2Fdata%2Fsn87076843%2F00237282796%2F1892010201%2F0377.jp2/pct:17.988639,16.972547,13.949085,2.699833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn90061576:0020029208A:1891123101:0410/pct:32.628399,5.979813,22.507553,34.774329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Perrysburg journal._](https://chroniclingamerica.loc.gov/lccn/sn87076843/1892-01-02/ed-1/seq-7)
+## [From _Perrysburg journal._](https://www.loc.gov/resource/sn87076843/1892-01-02/ed-1/?sp=7)
 
 #### 1892-01-02 &middot; [Perrysburg, Wood Co., O. [Ohio]](http://dbpedia.org/resource/Perrysburg%2C_Ohio)
 
@@ -13700,43 +17740,42 @@ dead niggah! but I&#x27;d a missed myself,
 sah, an&#x27; dat war de pint wid me.&quot;  
 It is safe to say the dusky corpse of  
 that African never darkened the field of  
-carnage. American Tribune
+carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_foxtrot_ver01%2Fdata%2Fsn87076843%2F00237282796%2F1892010201%2F0377.jp2/pct:18.072796,21.947520,14.496108,32.033975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_foxtrot_ver01:data:sn87076843:00237282796:1892010201:0377/pct:24.074853,29.258304,19.322960,42.711967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The morning news._](https://chroniclingamerica.loc.gov/lccn/sn86063034/1892-02-10/ed-1/seq-4)
+## [From _The morning news._](https://www.loc.gov/resource/sn86063034/1892-02-10/ed-1/?sp=4)
 
 #### 1892-02-10 &middot; [Savannah, Ga.](http://dbpedia.org/resource/Savannah%2C_Georgia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 An elderly colored man. with a very philo­  
 sophical and retrospective cast of con:*nance,  
 was squatting with his bundle upon the hurri  
 cane deck of one of the western river steamers,  
 casting his sains against the chimney and  
 apparently plunged In a state of profound medi­  
-tation, says Eli Perkins’ &quot;Wit and Humor o
+tation, says Eli Perkins’ &quot;Wit an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_columbo_ver02%2Fdata%2Fsn86063034%2F00414182069%2F1892021001%2F0894.jp2/pct:58.058868,6.370265,12.455044,2.973502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:00414182069:1892021001:0894/pct:74.903829,8.219744,16.083532,3.758777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The morning news._](https://chroniclingamerica.loc.gov/lccn/sn86063034/1892-02-10/ed-1/seq-4)
+## [From _The morning news._](https://www.loc.gov/resource/sn86063034/1892-02-10/ed-1/?sp=4)
 
 #### 1892-02-10 &middot; [Savannah, Ga.](http://dbpedia.org/resource/Savannah%2C_Georgia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-the Age. ’ His dress and appearance indicated  
+’ His dress and appearance indicated  
 familanty with camp life, and. it 1 eing soon  
 after th * selge and capture of Fort Donaldson. I  
 was inclined to disturb his reveries, and on inter­  
@@ -13788,31 +17827,22 @@ would have missed you if you had been killed?&quot;
 much wid dese sojers, let alone a dead nigeah  
 But I’d a missed myself, and dat was de D&#x27;int  
 wid me.”  
-Hie Curiosity was Satisfied
+Hie Curiosity was Satisfied.  
+In an elevate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/gu_columbo_ver02%2Fdata%2Fsn86063034%2F00414182069%2F1892021001%2F0894.jp2/pct:57.902707,9.276187,12.544956,20.601103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:00414182069:1892021001:0894/pct:74.702326,12.006058,16.193442,27.123778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Herald and news._](https://chroniclingamerica.loc.gov/lccn/sn86082061/1892-02-18/ed-1/seq-6)
+## [From _Herald and news._](https://www.loc.gov/resource/sn86082061/1892-02-18/ed-1/?sp=6)
 
 #### 1892-02-18 &middot; [West Randolph, Vt.](http://dbpedia.org/resource/Randolph%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-darkey, with a philosophical cast of  
-countenance. He was squatted upon  
-his bundle and toasting his shins  
-against the chimney, and apparently  
-plunged in a state of meditation. Find­  
-ing he belonged to the Ninth Illinois,  
-one of the most gallant regiments en­  
-gaged in that hard fought battle, I be­  
-gan to interrogate him upon that sub­  
-ject:&quot;Were you in that fight?&quot; I inquired.  
+&quot;Were you in that fight?&quot; I inquired.  
 &quot;Had a little taste of it sab!&quot;  
 &quot;Stood your ground, did you?&quot;  
 &quot;No, sah! I runs!&quot;  
@@ -13849,8 +17879,21 @@ gone?&quot;
 &quot;Then patriotism and honor are noth­  
 ing to you!&quot; if  
 &quot;Nufiin, whatevah, sah. Dey&#x27;s &#x27;raong  
-de vanities, sah.&quot;  
-&quot;If all our soldiers were like you,  
+d
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kohlrabi_ver01:data:sn86082061:00415629266:1892021801:0493/pct:26.417769,30.186573,19.683365,29.166002/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Herald and news._](https://www.loc.gov/resource/sn86082061/1892-02-18/ed-1/?sp=6)
+
+#### 1892-02-18 &middot; [West Randolph, Vt.](http://dbpedia.org/resource/Randolph%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ like you,  
 traitors might break up our government  
 with very little resistance.&quot;  
 &quot;Yes, sah! dar would be no help foh  
@@ -13867,30 +17910,21 @@ dead niggah! but I&#x27;d a missed myself,
 sah, an&#x27; dat war de pint wid me.&quot;  
 It is safe to say the dusky corpse of  
 that African never darkened the field of  
-carnage. American Tribune
+carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_kohlrabi_ver01%2Fdata%2Fsn86082061%2F00415629266%2F1892021801%2F0493.jp2/pct:19.829827,17.030777,14.819192,37.729230/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kohlrabi_ver01:data:sn86082061:00415629266:1892021801:0493/pct:26.465028,59.543932,19.588847,13.458779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Indiana State sentinel._](https://chroniclingamerica.loc.gov/lccn/sn87056600/1892-04-13/ed-1/seq-10)
+## [From _The Indiana State sentinel._](https://www.loc.gov/resource/sn87056600/1892-04-13/ed-1/?sp=10)
 
 #### 1892-04-13 &middot; [Indianapolis](http://dbpedia.org/resource/Indianapolis)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-countenance, squatted on his bundle toast­  
-ing his shins against the chimney and  
-apparently plunged into a state of pro­  
-found meditation. Finding upon inquiry  
-that he belonged to the 2sinth Illinois,  
-one of the most gal!ant!y behaved and  
-heavy losing regiments at the Ft. Donald­  
-son battle. 1 began to interrogate him upon  
-the subject.  
+.  
 &quot;Were you in the fight?&quot;  
 &quot;Had a little taateof it, ea.&quot;  
 &quot;Stood your ground, did you?&quot;  
@@ -13942,35 +17976,19 @@ ain&#x27;t much use, yer know, let alone a dead
 nigga, but I&#x27;d miss myself, and dat was de  
 pint wid me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/in_gary_ver01%2Fdata%2Fsn87056600%2F00202191551%2F1892041301%2F0191.jp2/pct:42.418798,46.735936,12.480995,28.148615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191551:1892041301:0191/pct:56.605860,68.555835,16.583748,31.286734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Ketchum keystone._](https://chroniclingamerica.loc.gov/lccn/sn86091095/1893-07-22/ed-1/seq-4)
+## [From _The Ketchum keystone._](https://www.loc.gov/resource/sn86091095/1893-07-22/ed-1/?sp=4)
 
 #### 1893-07-22 &middot; [Ketchum, Idaho](http://dbpedia.org/resource/Ketchum%2C_Idaho)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-titions in one form  
-or another. The longer he gambles the  
-more likely he is to acquire some super­  
-stition. The most firmly rooted of them  
-all, and the one which is the most advo­  
-cated, is that a machine beats human na­  
-ture, and that the way to win is to bet  
-against all superstitions which logically  
-would include betting against this par­  
-ticular one if it be a superstition and not  
-a fact.  
-A Story of tho War.  
-A correspondent of the Cincinnati Ga­  
-zette, writing from the Cumberland river,  
-gives the following humorous colloquy  
-with a philosophic darkey;  
-I noticed upon the hurricane deck to day  
+ hurricane deck to day  
 an elderly darkey, with a very philosoph­  
 ical and retrospective cast of countenance,  
 squatted upon his bundle, toasting bis  
@@ -14040,223 +18058,587 @@ ga;but rd missed inyself, and dat was
 the pint wid me.  
 It is safe to say that the dnsky corpse  
 of that Africa* will sever darken the deld  
-of carnage.  
-?
+of carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_iles_ver01%2Fdata%2Fsn86091095%2F00279550936%2F1893072201%2F0537.jp2/pct:18.356124,50.394288,12.901308,45.396419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_iles_ver01:data:sn86091095:00279550936:1893072201:0537/pct:18.385850,60.581841,12.871581,35.208866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## Philosophical
+## [From _The Wheeling daily intelligencer._](https://www.loc.gov/resource/sn84026844/1894-02-28/ed-1/?sp=6)
 
-#### From _The Atchison daily globe._
+#### 1894-02-28 &middot; [Wheeling, W. Va.](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
-#### 1893-09-15 &middot; [Atchison, Kan.](http://dbpedia.org/resource/Atchison%2C_Kansas)
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Ho Han.  
+To the Elitor of the Intellioenter.  
+Sin; During the war I heard the fole  
+lowing conversation between an officer  
+and a colored man a day or so after a  
+fight:  
+&quot;Were you in the fightp  
+&quot;Had a little taste of it, sah.&quot;  
+&quot;Stood your ground, did you?&quot;  
+&quot;No, sah, I runs.&quot;  
+&quot;Ran at the first fire, did you  
+Yes, aah; and I would have gun  
+sooner had I knowed it war coming,  
+&quot;Why, that wasn&#x27;t very croditablo to  
+your courage.&quot;  
+&quot;Dat isn&#x27;t in my line, sah. Cookin&#x27;s  
+my perfeasion.&quot;  
+&quot;Well, but have you no regard for  
+your reputation?&quot;  
+&quot;Reputation&#x27;s nufin&#x27; by the side of  
+life.&quot;  
+&quot;Do you consider your life worth more  
+than other peoplo&#x27;s ilves &quot;  
+&quot;It&#x27;s worth more to me, sah.  
+&quot;Then you must value it very highly.  
+&quot;Yes, sah, I does-more dan all dis  
+world--mnore dan a million oh dollars,  
+sain, tor what would that be wuth to a  
+man with de bref out ob him? Self  
+preserbashun am de first law wid me.  
+&quot;Lut why should you act uipon a dife  
+ferant rule from othor men?&quot;  
+&quot;Becauso different men sot different  
+values upon dar lives. Mine is not in  
+de market,&quot;  
+&quot;But if you lost it you would have the  
+satislaction of knowing that you died  
+for your country.&quot;  
+&quot;What satislaction would dat be to  
+me when de power of feelin&#x27; war gone?  
+&quot;Then patriotism and honor are nothe­  
+ing to you?&quot;  
+&quot;Nullin&#x27; whatever, aah. I regard  
+dem as among de vanities.&quot;  
+&quot;If our soldiers wero all like you,  
+traitors might have broken up the gov­  
+ernment without resistance.&quot;  
+&quot;Yos, sah, dar wouldehave been no  
+help for it. I wouldn&#x27;t put my head in  
+de scale against no gobernmont dat eber  
+existed, for no gobernment could re­  
+place de loss to me.&quot;  
+&quot;Do vou think any of your company  
+would have missed you if you had been  
+killed?&quot;  
+&quot;Maybe not, sah. A dead white man  
+ain&#x27;t much to dese sojers, let alone a  
+dead niggah, but I&#x27;d a mniss mysolf, and  
+dat was de pint wid me.&quot;  
+Joun T. Lisros,  
+Late of Company B, Fourteenth West  
+Virginia Voluntears.  
+Abrichisile, B. TA. Tt.2.  
+Rerlval in the Fairmont M1. 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193614:1894022801:0406/pct:18.255889,5.374131,16.069700,31.956641/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Life (1883-1936)_](https://archive.org/details/sim_life_1894-10-25_24_617/page/n13/mode/1up?view=theater)
+
+#### 1894-10-25 &middot; [New York](http://dbpedia.org/resource/New_York_City)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+/ndependent.  
+  
+‘* WERE you in the fight ?” asked an officer of an elderly negro on a steamer after  
+taking a fort.  
+  
+‘* Had a little taste of it, sah.”  
+  
+‘* Stood your ground, did you ?”  
+  
+‘* No, sah, I runs.”  
+  
+‘* Run at the first fire, did you ?”  
+  
+‘* Yes, sah ; would have run sooner if I had known it was comin’.”  
+  
+‘* Why, that is not very creditable to your courage.”  
+  
+‘* Dat isn’t my line, sah—cookin’ my perfeshun.”  
+  
+‘* Well, but have you no regard for your reputation ?”  
+  
+‘* Reputation’s nothin’ to me by the side of life.”  
+  
+‘* Do you consider your life worth more than other peoples ?”  
+  
+‘It’s worth more to me, sah.”—A xchange. :  
+  
+re:  
+  
+Not long ago a resident of one of the small tow
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_life_1894-10-25_24_617%2Fsim_life_1894-10-25_24_617_jp2.zip%2Fsim_life_1894-10-25_24_617_jp2%2Fsim_life_1894-10-25_24_617_0013.jp2/pct:5.120482,5.244917,74.006024,37.638632/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Topeka state journal._](https://www.loc.gov/resource/sn82016014/1894-10-31/ed-1/?sp=1)
+
+#### 1894-10-31 &middot; [Topeka, Kansas](http://dbpedia.org/resource/Topeka%2C_Kansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+&quot;Were you in tic littht&#x27;.&#x27;&quot; u-l.- I u;  
+officer of an elderly m-grj eti u ivB-;i  
+after taking a fort.  
+&quot;Had a little ttiste of it, t,i!p. &quot;  
+&quot;Stood your ground, did yot.?&quot;  
+&quot;No, sah. I runs &quot;  
+&quot;Run at the firs! fire, did yo.i?&quot;  
+&quot;Yes, sail. Would have run tuii&quot;r L  
+I had known it was com in. &quot;&#x27;  
+&quot;Why, that is not very creditable u.  
+your courage.&quot;  
+&quot;Dat isn&#x27;t my line, sah cook in my  
+perfeshun. &quot;  
+&quot;Well, but have you no r :.id f jt  
+your reputation?&quot;  
+&quot;Reputation&#x27;s notiiiu t.. ui by ti  
+pside of life. &quot;  
+&quot;Do you consioVr your lif w .j t ii  
+more than other prupl;:&#x27;-:&quot;  
+&quot;It&#x27;s worth moro tome, fesh. &quot; Ex­  
+change.The Statk Journal&#x27;s Want and  
+cellaneons columns reach each wor  
+day in the week more tha
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871258:1894103101:0228/pct:80.196629,80.910853,14.202949,13.455150/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Mexico weekly ledger._](https://www.loc.gov/resource/sn89067274/1894-11-01/ed-1/?sp=4)
+
+#### 1894-11-01 &middot; [Mexico, Mo.](http://dbpedia.org/resource/Mexico%2C_Missouri)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ Independence.  
+Some ool Kcasous.  
+&quot;Were you in the fight?&quot; asked  
+an officer of an elderly negro on a  
+steamer after taking a fort.  
+&quot;Had a little taste o! it, sah&quot;  
+&quot;Stood your ground, did you?&quot;  
+&quot;No, sah, I runs.&quot;  
+&quot;Run at the first fire, did you?&quot;  
+&quot;Yes, sah; would have been  
+sooner if I had known it was com-  
+inV  
+&quot;Why, that is not very creditable  
+to your courage.&quot;  
+&quot;Dat isn&#x27;t my line, sah cookin&#x27;s  
+my perfeshun.&quot;  
+&quot;We&#x27;1, but have you no regard for  
+your reputation?&quot;  
+&quot;Reputation&#x27;8 nothin&#x27; to me by  
+the side of life.&quot;  
+&quot;Do you consider your life worth  
+more than any other people&#x27;s?&quot;  
+&quot;It&#x27;a, worth more to me, sah
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556989:1894110101:0611/pct:22.279459,102.703382,13.361236,18.018358/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Post-mirror._](https://texashistory.unt.edu/ark:/67531/metapth984671/m1/2)
+
+#### 1894-11-02 &middot; [Pilot Point, Tex.](http://dbpedia.org/resource/Pilot_Point%2C_Texas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+“Were you iu the fight asked an  
+officer of hu elderly negro oa a steamer  
+after takiug a fort  
+Had a little taste of it sah ”  
+Stood your ground did you ”  
+No sah I runs ” ‘  
+Run at the first fire did you ”  
+“Yes sah Would have run sooner if  
+I had known it was comin ’’  
+Why that is not very creditable to  
+your courage ”  
+Dat isn’t my line sah—oookin my  
+jferfeshun Well but have you no regard for  
+yonr reputation ”  
+Reputation’s nothin to me by the  
+side of life ’ ’  
+“Do you consider your life worth  
+more than other peoples  
+It’s worth more to mo sail —•Ex-  
+change     
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth984671/m1/2/pct:44.533333,29.152863,15.000000,12.399432/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Semi-weekly interior journal._](https://www.loc.gov/resource/sn85052020/1894-11-06/ed-1/?sp=4)
+
+#### 1894-11-06 &middot; [Stanford, Ky.](http://dbpedia.org/resource/Stanford%2C_Kentucky)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+mplexion, sleeping drafts, tinctures,  
+and that largo bottlo is plain ammonia,  
+but wo must mark them all so that iu  
+caso n juvenile in tho family should  
+drink of thoir contents a coroner&#x27;s jury  
+would oxonernto us. See?&quot;  
+&quot;Alas,&quot; murmured tho other man as  
+ho gazed on tho deadly assortment, &quot;to  
+this complexion havo wo como nt last!&quot;  
+nud ho gavo nn inward thanskgiving  
+that ho was still n bacholor. Detroit  
+Froo Press.  
+HI Idea.  
+&quot;Wcro you in tho fight?&quot; n.&quot;ked an  
+officer of an elderly negro on a steamer  
+nfter taking a fort  
+&quot;Had a littlo tasto of it, sah.&quot;  
+&quot;Stood your ground, did you?&quot;  
+&quot;No, sah. I runs.&quot;  
+&quot;Run at tho first fire, did yon?&quot;  
+&quot; Yes, sah. Would havo run soonor if  
+I had known it was coiuin.&quot;  
+&quot;Why, tliut is not very creditable to  
+your courage. &#x27;  
+&quot;Datitn&#x27;t my line, sah cookin my  
+perfeshun. &quot;  
+&quot;Well, but havo you no regard for  
+your roputatiou?&quot;  
+&quot;Reputation&#x27;s nothin to mo by tho  
+side of life.&quot;  
+&quot;Do yon consider your lifo worth  
+moro than ohor peoples?&quot;  
+&quot;It&#x27;s worth moro to mo, sah.&quot; Exchange.  
+Precisely.  
+MrM  
+aBBv:nj8!3R  
+rk&#x27;LJ&#x27;J  
+&#x27;  
+&quot;Grandpa, what doos &#x27;D. F. &#x27;mean?&quot;  
+&quot;Nowadays, my boy, it means a young  
+man who Is quite &#x27;btnart&#x27; &quot; Life.  
+A (&quot;line Call.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn85052020:00206534163:1894110601:0950/pct:21.396055,61.091103,14.207132,31.225824/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Capital journal._](https://www.loc.gov/resource/sn99063954/1894-11-06/ed-1/?sp=3)
+
+#### 1894-11-06 &middot; [Salem, Or.](http://dbpedia.org/resource/Salem%2C_Oregon)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+mplexios, sleeping drafts, tinctures,  
+and that large bottle is plain ammonia,  
+but we must mark them all so that in  
+case a juvenile in the family should  
+drink of their contents a coroner&#x27;s jury  
+would exenerate us. See?&quot;  
+&quot;Alas,&quot; murmured the other man as  
+he gazed on the deadly assortment, &quot;to  
+this complexion have we come at last!&quot;  
+and he gave an inward thansk giving  
+that he was still a bachelor.-Letroit  
+Free Fress.  
+His JSS.  
+&quot;Were you in the figls?&quot; asked an  
+officer of an elderly negro on a steamer  
+after taking a fort  
+&quot;Had a little taste of it, sah.&quot;  
+&quot;Stood your ground, did you?&quot;  
+&quot;No, sah, I runs.&quot;  
+&quot;Run at the first fire, did you?&quot;  
+&quot;Yes, sah. Would have run rooner if  
+I had known it was comin.&quot;  
+&quot;Why, that is not very creditable to  
+your courane.&quot;    
+&quot;Dat isn&#x27;t my line, suh cookin my  
+perfeshun.&quot;  
+&quot;well, but have you no regard for;  
+your reputation?&quot;  
+side of life.&quot;  
+a e  e  
+It&#x27;s with min tn
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_desalvo_ver01:data:sn99063954:00280760341:1894110601:0391/pct:15.210101,61.003116,13.296508,19.097789/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Wheeling register._](https://www.loc.gov/resource/sn86092518/1894-11-09/ed-1/?sp=4)
+
+#### 1894-11-09 &middot; [Wheeling, W. Va.](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+&quot;Were you In the fight?” asked an  
+officer of an elderly negro on a steamer  
+after taking a fort.  
+“Had a little taste of it, sah.”  
+“Stood your ground, did you?”  
+“&gt;to, sab, I runs.”  
+“Iiuu at tbe first fire, did you?”  
+“Yes, sah; would have run sooner If I  
+had known it was cornin’.”  
+“Why, that Is not very creditable to  
+your courage.”  
+“Dat isn’t ray line, sab—ctokln’s my  
+perfeshun.”  
+&quot;Well, but have you no regard for  
+your reputation?”  
+“Reputation’s nothin’ to me by the  
+side of life.”  
+“Do you consider your life worth more  
+than other people’s?”  
+“It’s worth more to me, sah.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092518:00414186804:1894110901:0270/pct:55.513911,39.977807,12.685599,9.653990/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Saturday Night 1986-2005_](https://archive.org/details/sim_saturday-night_1894-11-10_7_51/page/n5/mode/1up?view=theater)
+
+#### 1894-11-10 &middot; [Toronto, Canada](http://dbpedia.org/resource/Toronto)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+  
+‘* Were you in the fight?” asked an officer of  
+an elderly negro on a steamer after taking a  
+fort.  
+  
+** Had a little taste of it, sah.”  
+  
+“Stood your ground, did you?”  
+  
+**No, sah, | runs,”  
+  
+* Run at the first fire, did you?”  
+  
+‘*Yes, sah; would have run sooner if I had  
+known it was comin’,”  
+  
+‘* Why, that is not very creditable to your  
+courage.”  
+  
+**Dat isn’t my line, sah—cookin’&#x27; my per-  
+feshun.”  
+  
+‘“*Well, but have you no regard for your  
+reputation?”  
+  
+**Reputation’s nothin’ to me by the side of  
+life.”  
+  
+‘*Do you consider your life worth more than  
+  
+other people&#x27;s?  
+‘It’s worth more to me, sah.” — Exchange,  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_saturday-night_1894-11-10_7_51%2Fsim_saturday-night_1894-11-10_7_51_jp2.zip%2Fsim_saturday-night_1894-11-10_7_51_jp2%2Fsim_saturday-night_1894-11-10_7_51_0005.jp2/pct:58.688784,81.416322,15.699052,11.516854/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Yellowstone journal._](https://www.loc.gov/resource/sn86075022/1894-11-21/ed-1/?sp=3)
+
+#### 1894-11-21 &middot; [Miles City, Mont.](http://dbpedia.org/resource/Miles_City%2C_Montana)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ of incendiaries.  
+&quot;Were you in the fight?&quot; asked an  
+officer of an elderly negro on a steamer  
+after taking a fort.  
+&quot;Had a little taste of it, sah.&quot;  
+&quot;Stood your ground, did you?&quot;  
+&quot;No, sah. I runs.&quot;  
+&quot;Run at the first fire, did you?&quot;  
+&quot;Yes, sah. Would have run sooner if  
+I had known it was comin.&quot;  
+&quot;Why, that is not very creditable to  
+your courage.&quot;  
+&quot;Dat isn&#x27;t my line, sah--cookin my  
+&quot;Well, but have you no regard for  
+your reputation  
+&quot;Reputation&#x27;s nothin to me by the  
+side of life.&quot;  
+&quot;Do you consider your life worth  
+more than other peoples?&quot;  
+&quot;It&#x27;s worth more to me, sah.&quot;E-  
+&quot;Grandpa, what does T. F.&quot; mean?&quot;  
+&quot;Nowadays, my boy, it means a young  
+man who is quite &#x27;smart.&quot;&quot;-Life  
+A ClOsE Call.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_avocet_ver01:data:sn86075022:00294550057:1894112101:1117/pct:50.000000,31.342593,14.383865,24.984568/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Life (1883-1936)_](https://archive.org/details/sim_life_1895-01-03_25_627/page/n15/mode/1up?view=theater)
+
+#### 1895-01-03 &middot; [New York](http://dbpedia.org/resource/New_York_City)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ury.  
+  
+‘*WERE you in the fight ?” asked an officer of an elderly negro on a steamer  
+after taking a fort.  
+  
+‘* Had a little taste of it, sah.”  
+  
+‘* Stood your ground, did you ?”  
+  
+** No, sah, I runs.  
+  
+nie Run at first fire, did you ?”  
+  
+‘Yes, sah ; would have run sooner if I had known it was comin’.”  
+  
+‘* Why, that was not very creditable to your courage.”  
+  
+‘* Dat isn’t my line, sah—cookin’s my perfeshun.”  
+  
+‘* Well, but have you no regard for your reputation ?”  
+  
+‘* Reputation’s nothin’ to me by the side of life.”  
+  
+‘*Do you consider your life worth more than other people’s ?”  
+  
+‘It’s worth more to me, sah.” —Fxchange.  
+  
+  
+  
+That  
+is the 4 35S  
+  
+  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_life_1895-01-03_25_627%2Fsim_life_1895-01-03_25_627_jp2.zip%2Fsim_life_1895-01-03_25_627_jp2%2Fsim_life_1895-01-03_25_627_0015.jp2/pct:23.085984,39.050752,68.875147,19.031955/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The midland journal._](https://www.loc.gov/resource/sn89060136/1895-01-04/ed-1/?sp=4)
+
+#### 1895-01-04 &middot; [Rising Sun, Md.](http://dbpedia.org/resource/Rising_Sun%2C_Maryland)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+“Had a iittlo taste of it, sah. ”  
+“Stood your ground, did you?”  
+“No, sah. I runs. ”  
+“Hun at the first fire, did you?”  
+&quot;Yes, sah. Would have run sooner if  
+I had known it was comin. ”  
+“Why, that is not very creditable to  
+your courage. ”  
+“Dat isn’t my line, sah—cookin my  
+perfeshun. ”  
+“Well, but have you no regard for  
+your reputation?”  
+“Reputation’s nothin to me by the  
+side of life. ”  
+“Do you consider your life worth  
+more than other peoples?”  
+“It’s worth more tome, sah.”—Ex­  
+chang
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1895010401:0685/pct:90.470657,83.087598,15.572342,11.968777/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## True Courage
+
+#### From _The Milwaukee journal._
+
+#### 1895-02-22 &middot; [Milwaukee [Wis.]](http://dbpedia.org/resource/Milwaukee)
 
 [This text is not available under an open license.]
 
 ---
 
-## [From _The Kootenai herald._](https://chroniclingamerica.loc.gov/lccn/sn86091083/1893-10-07/ed-1/seq-6)
+## [From _The Manitowoc pilot._](https://www.loc.gov/resource/sn85033139/1895-02-28/ed-1/?sp=4)
 
-#### 1893-10-07 &middot; [Kootenai, Idaho](http://dbpedia.org/resource/Kootenai%2C_Idaho)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-whatever to me by dé side of life.&quot;  
-&quot; Do you consider your life worth  
-more than other people&#x27;s?&quot;  
-&quot; Wuth mo&#x27; to me, sah.&quot;  
-&quot; Then you must value it very highly &quot;  
-&quot;I does, sah; mo&#x27;dan all dis world,  
-mo&#x27; dan $1,000,000, for what am dat to  
-a man wid de bref out&#x27;n himself. Pres­  
-ervation am de fust law, sah.&quot;  
-&quot; But why should you act upon a dif­  
-ferent law from other men?&quot;  
-&quot;&#x27;Case different men hab different  
-vallers on dair libes. Mine am not in  
-de market.&quot;  
-&quot;But if you had lost it in the war you  
-would have had the satisfaction of  
-knowing that you died for your coun­  
-try.&quot;  
-&quot;.Wot satisfaction would dat be, mas­  
-sah, wid de powah of feelin&#x27; gone?&quot;  
-&quot; Then patriotism and honor are noth­  
-ing to you!&quot;  
-&quot;Nuffln whatever, sah; nuflin what­  
-ever. I gards &#x27;em as &#x27;mong de vani­  
-ties.&quot;  
-.  
-.  
-&quot; But if our soldiers had all been like  
-you traitors might have broken up the  
-government without resistance.&quot;  
-&quot;Yaas, sah;- dar wud be no help fur  
-it.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_kellerman_ver01%2Fdata%2Fsn86091083%2F00415669070%2F1893100701%2F0740.jp2/pct:57.436131,27.157738,17.791971,21.413690/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Hawaiian star._](https://chroniclingamerica.loc.gov/lccn/sn82015415/1893-10-18/ed-1/seq-6)
-
-#### 1893-10-18 &middot; [Honolulu [Oahu]](http://dbpedia.org/resource/Honolulu)
+#### 1895-02-28 &middot; [Manitowoc, Wis.](http://dbpedia.org/resource/Manitowoc%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ Store.  
   
-Why, th.it was not very ereditable to  
-your courage.  
-Slaatab, wah wasu t in my line. Cookin  
-were my iierlessliln.  
-Well, but had you no regard for your  
-reputation r 1  
-&quot;YsSi sir; tint rcputat ion s nuflin what  
-ever lo me by de side of life.&quot;  
-&quot;Do you consider your life worth more  
-than Othqf people&#x27;s?&quot;  
-&quot;Wuth more to lue, sab.&quot;  
-&quot;Then you must value it very highly.&quot;  
-&quot;I does, sah, more dan all dis world,  
-mo&#x27;ah dan 11,000,000, for w hut am datto a  
-man wid de href out&#x27;n himself? Preserva­  
-tion amde fust, law, sah.&quot;  
-&quot;But why should you act upon a differ­  
-ent rule from other men?&quot;  
-&quot; &#x27;Case different men has different vallers  
-on dair libes. Mine am not In de market &quot;  
-&quot;But if you had lost it in the war yon  
-would have had t he satisfaction of know­  
-ing that you died for your country.&quot;  
-&quot;Wot satisfaction Would chit be, massah.  
-wid de power of feelin gone?&quot;  
-&quot; Then patriotism and honor are nothing  
-to you?&quot;  
-&quot;Nuflin whatever, sah. Nuflin whatever.  
-1 &#x27;gards &#x27;em as &#x27;mong de vanities.&quot;  
-&quot;But if our soldiers hail all been like  
-you traitors might have broken up the  
-government without resistance.&quot;  
-&quot;Yaas, sah, dar WUd been no help fur  
-it.
+‘•Were you in the tight ?” asked an  
+officer of an elderly negro on a steam­  
+er after taking a fort.  
+‘‘Had a little taste of it. sah.”  
+“Stood your ground, did you?”  
+“No sah. 1 runs.”  
+“Run at tirst tire, did you?”  
+“Yes sah: would have run sooner if  
+I had known it was coinin’.”  
+&quot;Why, that was not very creditable  
+to your courage.”  
+“Hat isn’t my line, sah—cookin’s  
+my perfeshun.”  
+“Well, hut have you no regard for  
+your reputation?”*  
+“Reputation’s nothin’ to me by the  
+side of life.”  
+&quot;Do you consider your life worth  
+more than other people’s?”  
+“It&#x27;s worth more to me. sah.’’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/hihouml_azure_ver01%2Fdata%2Fsn82015415%2F00237284203%2F1893101801%2F0564.jp2/pct:31.087118,16.879075,11.578555,15.515708/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Pascagoula democrat-star._](https://chroniclingamerica.loc.gov/lccn/sn87065532/1893-10-20/ed-1/seq-4)
-
-#### 1893-10-20 &middot; [Pascagoula, Miss.](http://dbpedia.org/resource/Pascagoula%2C_Mississippi)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-whatever to me by de side of life.&quot;  
-&quot;1&#x27;oyou consider your life worth  
-more that other people&#x27;s?&quot;  
-&quot;Wuth niorj.to me, sah.&quot;  
-Then you must value it very high!&#x27;  
-indeed.&quot;  
-&quot;I does, sah ; more dan all 1 i-  
-world ; more (Ian a million dollars.for  
-what am dattoa man wld de brof  
-mit&#x27;n hissclf. rrcservatinti am lc  
-fust law, sah,&quot;  
-&quot;Hut why should you act upon a  
-different rule from other men?&quot;  
-&quot;Case different men has different  
-vallers.on their libes. Mine am nut  
-In1.lic nct,&quot;  
-&quot;Hueir y;ou lost it in. the war yon  
-would have had the satisfaction of  
-knowing that you died for your coun­  
-try.&quot;&quot;What satisfaction would (tat be  
-massah, wid de pow&#x27;cr of fcelin  
-gone ?&quot;  
-&quot;Then iatrlotism and honor are  
-nothing to you?&quot; (  
-&quot;Nuffln&#x27; whatever, sah i nuflhW  
-whatever, l&#x27;gards &#x27;em as &#x27;niong-&#x27;&#x27;  
-vanities.&quot; 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_daisy_ver01%2Fdata%2Fsn87065532%2F00295878836%2F1893102001%2F0384.jp2/pct:86.876972,59.783363,11.735016,15.845022/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Santa Fe daily New Mexican._](https://chroniclingamerica.loc.gov/lccn/sn84020631/1893-11-29/ed-1/seq-3)
-
-#### 1893-11-29 &middot; [Santa Fe, N.M.](http://dbpedia.org/resource/Santa_Fe%2C_New_Mexico)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-ever to me by de side of life.&quot;  
-&quot;Do you consider your life worth more  
-than other people&#x27;s?&quot;  
-&quot;Wuth more to me, sah.&quot;  
-&quot;Then you must value it very hlirblv.&quot;  
-&quot;I does, sah, more dan all dis world.  
-mo&#x27;ah dan 11,000,000, for what am dat to a  
-man wid de bref out&#x27;n himself? Preserva  
-tion am de fust law, sah.&quot;  
-&quot;But why should you act upon a differ­  
-ent rule from other men?&quot;  
-&quot; &#x27;Cuse different men has different vallers  
-on dair libes. Mine am not in de market.&quot;  
-&quot;But if you had lost it in tne war you  
-woma nave baa the satisfaction of know  
-ing that you died for your country.&quot;  
-&quot;Wot satisfaction would dat be, massah,  
-wltl de power of feelin cone?&quot;  
-&quot;Then patriotism and honor are nothing  
-to you?&quot;  
-&quot;Nuffln whatever, sah. Nuffln whatever.  
-I &#x27;gards &#x27;em as &#x27;ruong de vanities.&quot;  
-&quot;But if our soldiers had all been like  
-you traitors might have broken up the  
-government without resistance.&quot;  
-&quot;Yaas, sah, dar wud been no help fur  
-it.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/nmu_fleming_ver01%2Fdata%2Fsn84020631%2F00415628948%2F1893112901%2F1148.jp2/pct:54.871176,20.518732,12.198068,12.363112/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Mt. Sterling advocate._](https://chroniclingamerica.loc.gov/lccn/sn86069675/1894-01-30/ed-1/seq-6)
-
-#### 1894-01-30 &middot; [Mt. Sterling, Ky.](http://dbpedia.org/resource/Mount_Sterling%2C_Kentucky)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-what am dat to a man wid do href  
-outn himself Preservation am do  
-fust law sah  
-But why should you act upon a  
-different rule from other men  
-Cose different men has different  
-vallers on dair llbes Mine am not  
-in do market  
-But if you had lost it in the war  
-you would havo had tho satisfaction  
-of knowing that you died for your  
-Country  
-Wot satisfaction would dat be
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_casablanca_ver01%2Fdata%2Fsn86069675%2F00206534187%2F1894013001%2F0047.jp2/pct:80.104397,28.525339,14.414776,7.608550/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769386:1895022801:0488/pct:28.201016,31.262792,10.866079,10.345886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14268,16 +18650,7 @@ Wot satisfaction would dat be
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-our gunboats an elderly darkey, with a very philo-  
-sophical and retrospective cast of countenance,  
-squatted upon his bundle, toasting his shins against  
-the chimney, and apparently plunged into a state  
-of profound meditation. Finding upon inquiry that  
-he belonged to the Ninth Illinois, one of the most  
-gallantly behaved and heavy losing regiments at  
-the Fort Donelson battle, and part of which was  
-aboard, I began to interregate him upon the sub-  
+-  
 ject: “Were you in the fight?” I asked. ‘Had a  
 little taste of it, sah.” “Stood your ground, did  
 you?” “No, sah, I runs.” “Run at the first fire,  
@@ -14315,7 +18688,7 @@ myself, and dat was de pint wid me.”
   
 A Good Shot.—A good story is told of the lat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_current-opinion_1898-10_24_4&#0036;81/pct:50.249377,23.556430,36.315461,55.708661/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_current-opinion_1898-10_24_4%2Fsim_current-opinion_1898-10_24_4_jp2.zip%2Fsim_current-opinion_1898-10_24_4_jp2%2Fsim_current-opinion_1898-10_24_4_0081.jp2/pct:50.249377,34.711286,36.159601,44.553806/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

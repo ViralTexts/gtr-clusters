@@ -1,7 +1,7 @@
 
 # The World Is Agreeable
 
-### 100 reprints from 1834-05-13 to 1882-05-18
+### 134 reprints from 1833-04-17 to 1882-05-18
 
 ## [The World Is Agreeable](https://chroniclingamerica.loc.gov/lccn/sn83016348/1842-04-16/ed-1/seq-1)
 
@@ -19,13 +19,68 @@ This is an agreeable world after all. If we would only bring ourselves to look a
 
 ---
 
+## [From _Republican herald._](https://www.loc.gov/resource/sn83021460/1833-04-17/ed-1/?sp=4)
+
+#### 1833-04-17 &middot; [Providence [R.I.]](http://dbpedia.org/resource/Providence%2C_Rhode_Island)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ometimes ornamented with  
+gold and precious stoves. This dress  
+was the heighth of the mode in the reign  
+of King Edward 111,  
+Henry&#x27;s History of England.  
+  
+Bornfor Empire.—Alexius Comnenus,  
+Emperor of Constantinople, hated abook  
+more than a monster did a looking glass;  
+and when his tutor endeavoured to play  
+him into scholarship by presenting plea­  
+sant authors to him, he replied, that  
+learning was-beneath the greatness of a  
+prince, who if wanting it, might borrow  
+it from his subjects, being better stored;  
+for (suith he) it they will not lend me  
+their brains, I&#x27;ll thke away their heads  
+  
+This World.—This is an agreeable  
+world, after all. 1f we could anly bring  
+ourselves to fook at the objects which sur­  
+round us in their true light, we would see  
+beauty where we before beheld deformi­  
+ty, and listen to barmony where we he­  
+fore heard nothing but discord. To he  
+sure, there is a great deal of vexation and  
+anxiety 1o meet—we cannot expect to  
+sail on a summer of sea forever 5 vet, if  
+we will preserve a ealm eye and a steady  
+hand, we can so trim our sails nnd man­  
+age our helm,as to avoid the quicksands  
+and weather the storms that threaten  
+shipwreck.  
+  
+UMBRELLA AND PARASOL  
+~ MANUFACTORY,  
+  
+Sign of the Red Parasol, No. 23, Vorth Main st.  
+THE subseriber, grateful for the  
+patronage hitherto so liberally b
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_annishag_ver04:data:sn83021460:00514153206:1833041701:1025/pct:52.330368,43.531232,14.951534,23.225682/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Man (1834-1834)_](https://archive.org/details/sim_man-us_1834-05-13_1_71/page/n3/mode/1up?view=theater)
 
 #### 1834-05-13 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+E  
+There is a sound, healthy spirit prevading the following  
+sentiments, worthy of all commendation.  
   
 “This is an agreeable world, afier all. If we would only  
 bring ourselves to look at the objects that surround us in  
@@ -51,9 +106,10 @@ deaf ear to the tale of scandal ; breathe the spirit of charity
 from our lips; and from our hearts let the rich gushings of  
 lruman kindness swell up as from a fountain—so the ‘ golden  
 age’ will become no fiction, and the * island of the blessed’  
-bloom in more than Hesperian beauty.”
+bloom in more than Hesperian beauty.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_man-us_1834-05-13_1_71&#0036;3/pct:47.914410,11.836283,37.919827,23.635693/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_man-us_1834-05-13_1_71%2Fsim_man-us_1834-05-13_1_71_jp2.zip%2Fsim_man-us_1834-05-13_1_71_jp2%2Fsim_man-us_1834-05-13_1_71_0003.jp2/pct:47.860238,9.937316,37.973998,25.534661/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -65,7 +121,8 @@ bloom in more than Hesperian beauty.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+| Thore isa sound, healthy spirit prevading the following  
+| sentiments, worthy of all cominendation,  
 | This isan agreeablo world, afer all. If we would only  
 , bring ourselves to look at the objects that surround us in  
 | their true light, we should see beauty where before we beheld  
@@ -96,9 +153,10 @@ deafearto the tale of scandal ; breathe the spirit of charity
 from our lips; and from our hearts let the rich gushings of  
 human kindness swell up as froin a fountain—so tho * golden  
 age’ will become no fiction, and the * island of tho blessed’  
-bloom in more than Hesperian beauty.”
+bloom in more than Hesperian beauty.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_young-america_1834-05-17_5_40_0&#0036;3/pct:27.547269,67.675960,15.861345,12.202925/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_young-america_1834-05-17_5_40_0%2Fsim_young-america_1834-05-17_5_40_0_jp2.zip%2Fsim_young-america_1834-05-17_5_40_0_jp2%2Fsim_young-america_1834-05-17_5_40_0_0003.jp2/pct:27.547269,66.716179,15.861345,13.162706/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +188,7 @@ kindness swell up as from a fountain, so the “golden age”
 will become no fiction, and the ‘island of the blessed’ bloom  
 inmore than Hesperian beauty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_the-cincinnati-mirror-and-western-gazette-of-literature_1834-08-23_3_45&#0036;2/pct:62.449084,7.677319,27.622200,14.653157/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_the-cincinnati-mirror-and-western-gazette-of-literature_1834-08-23_3_45%2Fsim_the-cincinnati-mirror-and-western-gazette-of-literature_1834-08-23_3_45_jp2.zip%2Fsim_the-cincinnati-mirror-and-western-gazette-of-literature_1834-08-23_3_45_jp2%2Fsim_the-cincinnati-mirror-and-western-gazette-of-literature_1834-08-23_3_45_0002.jp2/pct:62.449084,7.677319,27.622200,14.653157/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,6 +200,23 @@ inmore than Hesperian beauty
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+amation of independence till|  
+matters are more nearly mature for his purposes. How-,|  
+ever these things may be, it is almost certain, that. should |  
+his policy be continued by his successors, Egypt will,  
+before many years, attain to something like her pristine |  
+  
+  
+  
+a  
+  
+j pind uthropist.—And thouga he may be hailed asa pat-  
+| riot by a few short-sighted and self-interested friends, yet  
+j will he travel to the grave, filled with a consciousness  
+jthat, as he never cherished a-gingle permanently good  
+feeling for his species, he can desc?veeuly their execra-  
+tion and conteinpt. ™  
+  
   
   
 NOBLE SENTINENT.—This is an agreeable world aftery  
@@ -162,9 +237,12 @@ against it. Such persons deservedly lose the confidence
 of all honest and consistent people. For they at one time  
 advocate the opinions which they oppose at another, and  
 then when they are with others, turn against them.—Such  
-persons are like flood trash floating upon the surface of 
+persons are like flood trash floating upon the surface of a  
+river, and taking every new direction with the current,  
+and are unlike those substances with sufficient weight to  
+[sink to the bottom of the stream
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_the-cincinnati-mirror-and-western-gazette-of-literature_1834-08-23_3_45&#0036;2/pct:34.954175,63.620421,55.728106,28.955573/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_the-cincinnati-mirror-and-western-gazette-of-literature_1834-08-23_3_45%2Fsim_the-cincinnati-mirror-and-western-gazette-of-literature_1834-08-23_3_45_jp2.zip%2Fsim_the-cincinnati-mirror-and-western-gazette-of-literature_1834-08-23_3_45_jp2%2Fsim_the-cincinnati-mirror-and-western-gazette-of-literature_1834-08-23_3_45_0002.jp2/pct:7.077393,63.620421,83.604888,29.910366/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,9 +254,7 @@ persons are like flood trash floating upon the surface of
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-‘“* This is an agreeable world after all.—  
+* This is an agreeable world after all.—  
 If we would only bring ourselves to look  
 at the objects that surround us in their  
 true light, we should see beauty where be-  
@@ -220,19 +296,291 @@ ness swell up as a fountain—so that the
 idland of the blessed bloom in more than  
 Hesperian beauty.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_maine-farmer_1835-01-02_2_50&#0036;7/pct:17.865854,7.717918,49.837398,83.156780/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_maine-farmer_1835-01-02_2_50%2Fsim_maine-farmer_1835-01-02_2_50_jp2.zip%2Fsim_maine-farmer_1835-01-02_2_50_jp2%2Fsim_maine-farmer_1835-01-02_2_50_0007.jp2/pct:17.865854,7.717918,49.837398,83.156780/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Herald of the times._](https://chroniclingamerica.loc.gov/lccn/sn83021167/1836-03-17/ed-1/seq-4)
+## [From _The New Hampshire gazette._](https://www.loc.gov/resource/sn83025588/1835-01-20/ed-1/?sp=1)
+
+#### 1835-01-20 &middot; [Portsmouth [N.H.]](http://dbpedia.org/resource/Portsmouth%2C_New_Hampshire)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+PorurariTY.—There are some in community  
+who, chameleon-like, take the coior of every  
+thing they touch ; who are so condescending as to  
+coincide with whatever is said or done. They will  
+practice vice with the vicious, advocate virtue with  
+the virtuous, will doubt with the sceptic, and pro­  
+fess a veneration for religion with the pious. If any  
+thing is unpopular ainong the people where they are,  
+it affords them sufficient ground to reject it, and talk  
+against it. Such persons deservedly lose the confi­  
+dence of all honest and consistent men. For they  
+at one time advocate the opinions which they op­  
+pose at another, and profess friendship for those  
+they are with, and then, when they are with others,  
+turn against them. Such persons are like flood trash  
+floating upon the surface of a river, and taking ev­  
+ery new direction with the current, and are unlike  
+those substances which have sufficient weight to sink  
+to the bottom of the stream.  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835012001:0009/pct:48.403517,75.588915,13.990437,9.434180/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## Popularity
+
+#### From _Vermont patriot and State gazette._
+
+#### 1835-02-02 &middot; [Montpelier [Vt.]](http://dbpedia.org/resource/Montpelier%2C_Vermont)
+
+[This text is not available under an open license.]
+
+---
+
+## [From _Tennessee Farmer (1834-1839)_](https://archive.org/details/sim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4/page/n12/mode/1up?view=theater)
+
+#### 1835-03-01 &middot; [Jonesborough](http://dbpedia.org/resource/Jonesborough%2C_Tennessee)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ cate virtue with the virtuous, will doubt y  
+forgive them.” Oh! it was worthy of its origin sceptic, and  
+  
+‘people where they are, it aflords them suffic  
+  
+with, and then when they are with others, turn a  
+  
+every new direction withthe current, and ere u  
+like those substances which have sufficient
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4%2Fsim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4_jp2.zip%2Fsim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4_jp2%2Fsim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4_0012.jp2/pct:10.791667,9.965438,74.625000,18.375576/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Tennessee Farmer (1834-1839)_](https://archive.org/details/sim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4/page/n12/mode/1up?view=theater)
+
+#### 1835-03-01 &middot; [Jonesborough](http://dbpedia.org/resource/Jonesborough%2C_Tennessee)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ practice vice with the  
+ape a veneration for religion wit  
+f any thing is unpepalar among |  
+  
+  
+  
+he pious.  
+  
+  
+  
+For they at one t  
+dyocate the opinions which they oppose! 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4%2Fsim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4_jp2.zip%2Fsim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4_jp2%2Fsim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4_0012.jp2/pct:48.666667,8.813364,34.625000,11.808756/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Tennessee Farmer (1834-1839)_](https://archive.org/details/sim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4/page/n12/mode/1up?view=theater)
+
+#### 1835-03-01 &middot; [Jonesborough](http://dbpedia.org/resource/Jonesborough%2C_Tennessee)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+other  
+  
+  
+  
+Put off no businesstil] to-morrow whi  
+  
+  
+  
+  
+  
+: Revenge:—The subjoined beautiful extract, ground tu reject H, ard talk against it.  
+: is from the pen of Cuarres Miner, formerly persons deservedly lose the confidence of all hi  
+| and until recently the editor of the Westchester est and consistent men.  
+Pennsylvania, “Village Record.” The reader,a a  
+“may have seen it—but it cannot be too often read nother, and profess friendship fer these they —  
+or too closely treasured in the memory:— |  
+; Acquaintances—have yon quarrelied?——Friends!&#x27; gainst them. Such persons are like flood - as
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4%2Fsim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4_jp2.zip%2Fsim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4_jp2%2Fsim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4_0012.jp2/pct:0.000000,15.495392,86.250000,68.865207/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Tennessee Farmer (1834-1839)_](https://archive.org/details/sim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4/page/n12/mode/1up?view=theater)
+
+#### 1835-03-01 &middot; [Jonesborough](http://dbpedia.org/resource/Jonesborough%2C_Tennessee)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ and floating upon the surface of arvet, and taki  
+‘ 4 perfect, forgave his bitterest enemies, do you, :  
+‘ -well to cherish your anger? .  
+, .. Brothers—to you the precept is imperative? weight to sink to the bottom of the stream,  
+: 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4%2Fsim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4_jp2.zip%2Fsim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4_jp2%2Fsim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4_0012.jp2/pct:0.000000,24.452765,84.083333,7.114055/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## Popularity
+
+#### From _Greenville mountaineer._
+
+#### 1835-03-28 &middot; [Greenville, S.C.](http://dbpedia.org/resource/Greenville%2C_South_Carolina)
+
+[This text is not available under an open license.]
+
+---
+
+## [From _The liberator._](https://www.loc.gov/resource/sn84031524/1835-07-04/ed-1/?sp=4)
+
+#### 1835-07-04 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+n Mas.  
+Popularity.—There are some in commu­  
+nity who, chamelion-like, take the color of  
+every thing they touch ; who are so con­  
+descending as to coincide with whatever is  
+said or done. They will practise vice with  
+the vicious, advocate virtue with the virtuous,  
+will doubt with the sceptic, and profess a  
+veneration for religion with the pious. If  
+any thing is unpopular among the people  
+where they are, it affords them sufficient  
+ground to reject it, and talk against it.  
+Such persons deservedly lose the confidence  
+of all honest and consistent men. For they  
+at one time advocate the opinions which  
+they oppose at another, and profess friend­  
+ship for those they are with, and then, when  
+they are with others, turn against them.  
+—Such persons are like flood trash floating  
+upon the surface of a river, and taking every  
+new direction with the current, and unlike  
+those substances which have sufficient  
+weight to sink to the bottom of the stream.  
+  
+Slavery in Massachusetts.—The followin
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_selene_ver01:data:sn84031524:print:1835070401:0942/pct:65.528242,56.117021,14.299118,14.135638/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Zion's Herald (1823-1841)_](https://archive.org/details/sim_zions-herald_1835-07-15_6_28/page/n3/mode/1up?view=theater)
+
+#### 1835-07-15 &middot; [Boston](http://dbpedia.org/resource/Boston)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ be praised.”  
+  
+Porutariry.—There are some in community who  
+cameleon-like, take the color of every thing they  
+touch ; who are so condescending as to coincide with  
+They will practice vice  
+  
+If any thing is unpopu-  
+  
+sufficient ground to reject it, and talk against it. ~ Such  
+persons deservedly lose the confidence of all honest  
+and consistent men. For they at one time advocate  
+the opinions which they oppose at another, and pro-  
+fess friendship for those they are with, and then,  
+when they are with others, turn against them. Such  
+persons are like flood trash floating upon the surface  
+of a river, and taking every new direction with the  
+eurrent, and unlike those substances which have suf-  
+ficient weight to sink to the bottom of the stream.  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_zions-herald_1835-07-15_6_28%2Fsim_zions-herald_1835-07-15_6_28_jp2.zip%2Fsim_zions-herald_1835-07-15_6_28_jp2%2Fsim_zions-herald_1835-07-15_6_28_0003.jp2/pct:73.758465,28.319007,14.080135,11.998567/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## Items
+
+#### From _The Ohio observer._
+
+#### 1835-07-16 &middot; [Hudson [Ohio]](http://dbpedia.org/resource/Hudson%2C_Ohio)
+
+[This text is not available under an open license.]
+
+---
+
+## [From _Zion's Herald (1823-1841)_](https://archive.org/details/sim_zions-herald_1835-07-22_6_29/page/n0/mode/1up?view=theater)
+
+#### 1835-07-22 &middot; [Boston](http://dbpedia.org/resource/Boston)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+—they seem to give us such long arms. We  
+  
+30 condescending as to coincide with  
+| or done. They will practice vice  
+, advocate virtue with the virtuous,  
+the skeptic, and profess a veneration  
+the pious. If any thing is unpopu-  
+sople where they are, it affords them
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_zions-herald_1835-07-22_6_29%2Fsim_zions-herald_1835-07-22_6_29_jp2.zip%2Fsim_zions-herald_1835-07-22_6_29_jp2%2Fsim_zions-herald_1835-07-22_6_29_0000.jp2/pct:0.000000,29.605899,85.186230,4.581721/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Herald of the times._](https://www.loc.gov/resource/sn83021167/1836-03-17/ed-1/?sp=4)
 
 #### 1836-03-17 &middot; [Newport, R.I.](http://dbpedia.org/resource/Newport%2C_Rhode_Island)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+l remembered face appears;  
+We see them ns in times long past,  
+From each to each kind looks are cast;  
+We hear their words, their smiles behold,  
+They&#x27;re round us as they were of old   
+We are all here.  
   
+We are all here!  
+Father, Mother,  
+Sister, Brother,  
+  
+You that I love with love so dear—  
+This may not long of us be said,  
+Soon must we join the gathered dend,  
+And by the hearth we now sit round,  
+Some other eirele will be found.  
+O then that wisdom may we know,  
+That yields a life of peace below;  
+80 in the world to follow this,  
+May each repent, in words of bliss,  
+Woea&#x27;re all—all here!  
   
 Nowre Sesyrimexts,—This is an agreea­  
 ble world after all. If we would only bring  
@@ -269,20 +617,23 @@ Ued medium that invests every objeet with the
 ness swell up as a fountain——-so that the  
 “oolden nee” will beeome Hetion, and the is­  
 &quot; ands of the blessed bloom in more than “Ilas­  
-perian boauty
+perian boauty”  
+( THE PAST WINTER. |  
+ii The wea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/rp_azer_ver02%2Fdata%2Fsn83021167%2F00514152755%2F1836031701%2F0056.jp2/pct:3.302942,7.094399,31.160044,89.120543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1836031701:0056/pct:3.302942,7.086126,31.223121,89.116406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Vermont phœnix._](https://chroniclingamerica.loc.gov/lccn/sn98060050/1836-04-29/ed-1/seq-4)
+## [From _Vermont phœnix._](https://www.loc.gov/resource/sn98060050/1836-04-29/ed-1/?sp=4)
 
 #### 1836-04-29 &middot; [Brattleboro, Vt.](http://dbpedia.org/resource/Brattleboro%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+&quot;  
   
 iNOBLE skntimi:nts. 1 ins is on agree  
   
@@ -345,9 +696,9 @@ gushings of human kindness swell up ns n
 luuuiuni so moi mo &quot;golden ngc &quot; will be­  
 come no fiction, nml the islands of the blessed  
   
-bloom in more than &quot;Hesperian beauty.
+bloom in more than &quot;Hesperian beauty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_danby_ver01%2Fdata%2Fsn98060050%2F00280777328%2F1836042901%2F0026.jp2/pct:5.215712,29.805014,16.119339,20.783039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777328:1836042901:0026/pct:6.952790,39.740019,21.480687,27.700402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,13 +710,9 @@ bloom in more than &quot;Hesperian beauty.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-Your bill for spirit was large last year —Add to it one hun-  
-  
-dred per cent. for loss of time, bad bargims, accidents, &amp;c. &amp;c. || common mother.—It is not becoming then that brother should 
+| common mother.—It is not becoming then that brother should
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_baltimore-monument-a-weekly-journal_1837-02-25_1_21&#0036;7/pct:13.185654,40.468986,55.986287,2.061271/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_baltimore-monument-a-weekly-journal_1837-02-25_1_21%2Fsim_baltimore-monument-a-weekly-journal_1837-02-25_1_21_jp2.zip%2Fsim_baltimore-monument-a-weekly-journal_1837-02-25_1_21_jp2%2Fsim_baltimore-monument-a-weekly-journal_1837-02-25_1_21_0007.jp2/pct:41.218354,41.736006,27.320675,0.794251/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,9 +724,7 @@ dred per cent. for loss of time, bad bargims, accidents, &amp;c. &amp;c. || comm
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-Tue wortp.—This world is an agreeable world after all.  
+.—This world is an agreeable world after all.  
   
   
   
@@ -404,9 +749,22 @@ it is not right that neighbor should deceive neighbor. We
 | Let us tear from our eyes the colored medium that invests  
 every object with the green hue of jealousy and suspicion  
   
-lof charity from our lips; and from our hearts let the ric
+lof charity from our lips; and from our hearts let the rich  
+  
+  
+  
+The most appropriate motto for a spirit retailer’s sign is, |  
+‘Beggars made here.”  
+  
+If a young woman wishes to destroy herself, let her wed a  
+man who frequents the tavern and grog shop.  
+  
+As well might the butcher cry, at every stroke of the knife | !  
+“Live,” as for the man to drink to the lealth of another, when |  
+  
+in the very,ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_baltimore-monument-a-weekly-journal_1837-02-25_1_21&#0036;7/pct:40.796414,29.198185,27.768987,21.028744/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_baltimore-monument-a-weekly-journal_1837-02-25_1_21%2Fsim_baltimore-monument-a-weekly-journal_1837-02-25_1_21_jp2.zip%2Fsim_baltimore-monument-a-weekly-journal_1837-02-25_1_21_jp2%2Fsim_baltimore-monument-a-weekly-journal_1837-02-25_1_21_0007.jp2/pct:13.001055,29.198185,55.564346,28.385023/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,12 +776,33 @@ lof charity from our lips; and from our hearts let the ric
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+there, not a sigh or a groan, or a tear |  
   
+1}  
   
 |“golden age” will become no fiction, and the “island of the  
-| blessed” bloom in‘more than Hesperian beauty
+| blessed” bloom in‘more than Hesperian beauty.  
+  
+  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_baltimore-monument-a-weekly-journal_1837-02-25_1_21&#0036;7/pct:40.743671,51.342663,27.768987,1.720877/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_baltimore-monument-a-weekly-journal_1837-02-25_1_21%2Fsim_baltimore-monument-a-weekly-journal_1837-02-25_1_21_jp2.zip%2Fsim_baltimore-monument-a-weekly-journal_1837-02-25_1_21_jp2%2Fsim_baltimore-monument-a-weekly-journal_1837-02-25_1_21_0007.jp2/pct:24.367089,51.342663,44.145570,40.052950/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Maine farmer and journal of the useful arts._](https://archive.org/details/sim_maine-farmer_1837-03-07_5_4/page/n7/mode/1up?view=theater)
+
+#### 1837-03-07 &middot; [Winthrop, Me.](http://dbpedia.org/resource/Winthrop%2C_Maine)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+The most appropriate motto for a spirit retailer’s  
+sign is, ‘ Beggars ede
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_maine-farmer_1837-03-07_5_4%2Fsim_maine-farmer_1837-03-07_5_4_jp2.zip%2Fsim_maine-farmer_1837-03-07_5_4_jp2%2Fsim_maine-farmer_1837-03-07_5_4_0007.jp2/pct:39.746544,51.330742,23.982335,1.779306/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,12 +828,13 @@ lof charity from our lips; and from our hearts let the ric
 
 ---
 
-## [From _Columbus Democrat._](https://chroniclingamerica.loc.gov/lccn/sn83016867/1838-01-27/ed-1/seq-1)
+## [From _Columbus Democrat._](https://www.loc.gov/resource/sn83016867/1838-01-27/ed-1/?sp=1)
 
 #### 1838-01-27 &middot; [Columbus, Miss.](http://dbpedia.org/resource/Columbus%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+.  
   
 The WeRLo. This is an agreeable world  
   
@@ -507,33 +887,33 @@ man kindness swell up from a fountain so ihe
 golden age&quot; w ill become no fiction, and ihe &quot;is  
 land of the blessed&quot; bloom in more than llespe  
   
-nan beauty
+nan beauty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn83016867%2F00295877637%2F1838012701%2F0107.jp2/pct:50.583032,75.217037,15.681544,17.539338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1838012701:0107/pct:67.403537,100.284862,20.900322,23.372219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Iowa news._](https://chroniclingamerica.loc.gov/lccn/sn82015686/1838-02-24/ed-1/seq-4)
+## [From _Iowa news._](https://www.loc.gov/resource/sn82015686/1838-02-24/ed-1/?sp=4)
 
 #### 1838-02-24 &middot; [Dubuque, Upper Mississippi Lead Mines, Wisconsin Territory](http://dbpedia.org/resource/Dubuque%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ road, and shall arrive  
   
 :hc &#x27;golden will become nofiction,  
 and the&#x27;island of the blessed&#x27; bloom  
-in more than Hesperian beauty
+in more than Hesperian beauty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn82015686%2F00415668818%2F1838022401%2F0292.jp2/pct:22.468714,8.053402,14.288965,1.993971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838022401:0292/pct:13.924915,8.049096,22.815700,74.922481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Iowa news._](https://chroniclingamerica.loc.gov/lccn/sn82015686/1838-02-24/ed-1/seq-4)
+## [From _Iowa news._](https://www.loc.gov/resource/sn82015686/1838-02-24/ed-1/?sp=4)
 
 #### 1838-02-24 &middot; [Dubuque, Upper Mississippi Lead Mines, Wisconsin Territory](http://dbpedia.org/resource/Dubuque%2C_Iowa)
 
@@ -547,20 +927,48 @@ at the same goal. We breathe the free!
   
 •j)d we shall ail lie down on the bosom!  
   
-of our common mother. It is not bc-
+of our common mother. It is not bc-j  
+  
+11)w&#x27;^«!,  
+  
+1  
+  
+Uc  
+  
+^cc,,&#x27;  
+  
+average,  
+  
+trict.  
+  
+a n ,mc wh at  
+  
+^spGnnblc office! she must be the  
+  
+ul1sl&#x27;ol,t  
+  
+wneUiary to which weaned  
+  
+man may flee from the. crime of the  
+world, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn82015686%2F00415668818%2F1838022401%2F0292.jp2/pct:7.394767,82.988803,17.445961,2.639966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838022401:0292/pct:7.389078,15.374677,33.907850,70.245478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Iowa news._](https://chroniclingamerica.loc.gov/lccn/sn82015686/1838-02-24/ed-1/seq-4)
+## [From _Iowa news._](https://www.loc.gov/resource/sn82015686/1838-02-24/ed-1/?sp=4)
 
 #### 1838-02-24 &middot; [Dubuque, Upper Mississippi Lead Mines, Wisconsin Territory](http://dbpedia.org/resource/Dubuque%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+)C Ppojier.  
+  
+m0  
+  
+sympathy  
   
 coming then that brother should hate, again waken into life, nor the crushed  
 brother it iir not proper that friend  
@@ -571,23 +979,69 @@ ihould deceive friend it is not right, wonted beauty.&quot; 1
 ihat neighbor should dec.eiye neighbor. I Lit1­  
 W« piiy that man who can harbor! SCHOOLS JN NRW-YOKK.—-From  
 oriniity against bis fellow he loses half Gov. Mart y&#x27;s rpcent message to the  
-the enjoyment of life, he embitters Ids Legislature of New-York, it appcM-s  
-  
-eJI up trow reported, and the
+the enjoyment of life, he embitters Id
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn82015686%2F00415668818%2F1838022401%2F0292.jp2/pct:7.451650,85.645995,29.436860,9.896641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838022401:0292/pct:7.440273,82.984496,29.283276,7.235142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Iowa news._](https://chroniclingamerica.loc.gov/lccn/sn82015686/1838-02-24/ed-1/seq-4)
+## [From _Iowa news._](https://www.loc.gov/resource/sn82015686/1838-02-24/ed-1/?sp=4)
 
 #### 1838-02-24 &middot; [Dubuque, Upper Mississippi Lead Mines, Wisconsin Territory](http://dbpedia.org/resource/Dubuque%2C_Iowa)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ in thine own habitation.—There  
   
+,h n huurs  
+  
+f^&#x27;Uide  
+  
+ni&#x27;.sun  
+  
+oi ine larynx i ,,  
+  
+which, by vibrating, fills the surround-  
+  
+a n f|  
+  
+crt:  
+  
+.!r  
+  
+thy bospm.  
+  
+lho,&quot;  
+  
+k wdl  
+  
+choose  
+  
+wouldst love for though thou be wise  
+in other things--little will it a trail thee,  
+if thou choosest not wisely the wife of  
+  
+,!°  
+  
+h.er W?y!!  
+  
+wh,  
+  
+th.ou  
+  
+1JKAUTIFUL I&#x27;.XTHACT.  
+  
+The glory of thc summer is none by  
+the bcautifulgrecnncsshasbee.omc with­  
+ered and dead. Were this all were  
+there no associations of  
+tion—of faded hopes—of  
+cring in thc hosoms of the living  
+necli&#x27;d with the  
+round us, we  
+momcul&#x27;s me  
   
 TIIE VVOBI.D.—This is an agreeable  
 World after all. If we would only bring  
@@ -602,24 +1056,114 @@ yet if we preserve a calm eye and stea-!
 dy hand, we soon can trim our sai  
 and manage our helm, so as to avoid  
 the quicksands and weather the storms  
-that threaten shipwreck. We are incm-jfj£* &quot;,&#x27;£11 &#x27;of nature&#x27; It has no pccond  
-bcrs of one great family. We arc tra-  
-  
-This brusqueric broke off the ac
+that threaten shipwreck. We are inc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/iahi_abra_ver01%2Fdata%2Fsn82015686%2F00415668818%2F1838022401%2F0292.jp2/pct:7.320819,43.940568,43.629124,38.389320/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838022401:0292/pct:7.286689,62.816537,29.095563,18.863049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## This World
+## [From _The phenix._](https://www.loc.gov/resource/sn83021111/1838-06-02/ed-1/?sp=1)
 
-#### From _New-Hampshire statesman and state journal._
+#### 1838-06-02 &middot; [Bristol, R.I.](http://dbpedia.org/resource/Bristol%2C_Rhode_Island)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ upon, and  
+&#x27;while the worthy divine was reading the lesson  
+‘in the evening, his eyes discerned in the gallery  
+\ncnr him, the very two persons whom he had  
+beheld in the strect, but a few hours before mak­  
+ing the above remark. His text was taken from  
+Psalm ix. 17, “The wicked shall be tnrned into  
+hell, and all nations that forget God.” Tor a  
+moment the minister paused, and then looking  
+them both full in the l!:u‘(-. and pointing to them  
+with all the dignity of his ealling, repeated to them  
+‘the awful denunciation of seripture, adding at the  
+same time, “There’s fun for ye my boys ! |  
+  
+The World.—This is an agreeable world af­  
+ter all. If we would only bring ourselves to look  
+at the objects that surround us in their true light,  
+we should see beauty where before we could  
+liear nothing but discord. To be sure there is’  
+a great deal of anxiety and vexation to meet, we  
+cannot expect to sail on a summer sea forever,  
+yet if we preserve a calm eye and a steady hand,  
+we soon can trim our sails and manage our helm  
+so as to avoid the quick-sands and weather the  
+storms that threaten shipwreck. We are mem­  
+bers of one great family !—We are travelling  
+the same road, and shall arrive at the same gaol.  
+“We breath the free air, we are subject to the  
+‘same bounty, and we shall all lic down on the  
+bosom of our common mother. [t is not becoom­  
+ing then that brother should hate brother; it is not  
+proper that friends should deceive friends; it is not  
+-right that neighbor should deceive neighbor. We  
+Eity that man who can harbor enmity against  
+is fellow ; he loses half the enjoyment of life,  
+he embitters his own existence. Let us tear  
+from our eyes the colored medium that invests  
+every object with the green hue of jealousy and  
+suspicion ; turn a deaf ear to the voice of scan­  
+dal ; breathe the spirit of charity from our lips,  
+and from our hearts let thg rich gushing ol human  
+kindness swell up from,a foyntain—so the ‘gol­  
+den age’ will become no fiction, and the ‘lsland  
+tof the blessed’ bloom in more than Hesperian  
+|beauty,  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_distraughtsoul_ver03:data:sn83021111:00513688908:1838060201:0147/pct:40.443213,63.740062,17.141926,26.892499/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _New-Hampshire statesman and state journal._](https://www.loc.gov/resource/sn84022931/1838-06-09/ed-1/?sp=1)
 
 #### 1838-06-09 &middot; [Concord [N.H.]](http://dbpedia.org/resource/Concord%2C_New_Hampshire)
 
-[This text is not available under an open license.]
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+”  
+Tris WorrLp. This is an agreeable world,  
+after all. It we would only bring ourselves to  
+look at the objects that surround us in their true  
+light, we should see beauty where before we  
+could behold nothing but discord. To be sure,  
+there is a great deal of anxiet{ and vexation to  
+meet, we cannot expect to sail on a summer sea  
+forever ; yet if we hold a calm eye and a steady .  
+hand, we soon can trim our sails and manage our  
+helm so as to avoid the quicksand and weather  
+the storms that threaten shipwreck. We are  
+members of one great family—we are travelling  
+the same road—and shall arrive at the same gaol.  
+We breathe the free air, we are subject to the  
+same bounty, and we shall lie down on the bosom  
+of our common mother. It is not becoming then,  
+that brother should hate brother ; it is not proper  
+that friends should hate friends; it is not right  
+that neighbor shoutd deceive neighbor. We pity  
+the man who can harbor enmity towards his fel­  
+low ; he loses half the enjoyment of life ; he em­  
+bitters his own existence. Let us tear from our  
+eyes the colored medium that invests every object  
+with the green hue of jealousy and suspicion;  
+turn a deaf ear to the voice of scandal ; breathe  
+the epirit of charity from our lips; and from our  
+hearts let the rich gushings of human kindness  
+swell up as from a fountain—so the ¢ Folden 13:,’  
+will become no fiction, and the *island of the  
+blcseed’ blocm 1n more than Hesperian beauty
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_isolation_ver01:data:sn84022931:00542868314:1838060901:0297/pct:103.454931,93.057334,19.629415,19.063878/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -629,10 +1173,7 @@ This brusqueric broke off the ac
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-THE WORLD.  
-  
-fulfilment of his bond, demanding the amount of advance This is an agreeable world, after all. If we would on  
+ This is an agreeable world, after all. If we would on  
 (which the country merchant had never returned) with inter- | bring ourselves to look at the objects that suriound us in their  
   
   
@@ -646,9 +1187,11 @@ fulfilment of his bond, demanding the amount of advance This is an agreeable wor
 | This was like a thunderbolt to the ears of the poor Dea- Haseena “ 8 eget ape in SUMMET geq  
 eon, who had not once doubted but that the merchant’s money || pitino Alagoas ee an, SS  
 , had been promptly returned, and the bond cancelled. Pre. | oun tein cur sails, end congue spr Bele ep ap&#x27;te deed the  
-| , | quicksands and whether the storms that threaten shipwreck,
+| , | quicksands and whether the storms that threaten shipwreck,  
+  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_baltimore-monument-a-weekly-journal_1838-07-14_2_39&#0036;5/pct:40.583075,7.432432,54.747162,8.295796/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_baltimore-monument-a-weekly-journal_1838-07-14_2_39%2Fsim_baltimore-monument-a-weekly-journal_1838-07-14_2_39_jp2.zip%2Fsim_baltimore-monument-a-weekly-journal_1838-07-14_2_39_jp2%2Fsim_baltimore-monument-a-weekly-journal_1838-07-14_2_39_0005.jp2/pct:40.583075,8.145646,54.747162,7.582583/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -660,7 +1203,6 @@ eon, who had not once doubted but that the merchant’s money || pitino Alagoas 
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 | We are members of one great femily! We are travelling the  
   
 |, same road, and shall arrive atthe same goal. We breathe  
@@ -677,9 +1219,58 @@ i} coming, then, that brother should hate brother, it is not pro-
 |lips; and from our hearts let the rich gushings of human  
 kindnes swell up as froma fountain—so the “golden age”  
 || will become no fiction; and the “island of the blest” bloom in  
-‘more than Hesperian beauty
+‘more than Hesperian beauty.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_baltimore-monument-a-weekly-journal_1838-07-14_2_39&#0036;5/pct:68.111455,15.690691,27.296182,14.864865/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_baltimore-monument-a-weekly-journal_1838-07-14_2_39%2Fsim_baltimore-monument-a-weekly-journal_1838-07-14_2_39_jp2.zip%2Fsim_baltimore-monument-a-weekly-journal_1838-07-14_2_39_jp2%2Fsim_baltimore-monument-a-weekly-journal_1838-07-14_2_39_0005.jp2/pct:68.111455,15.690691,27.296182,14.864865/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Southern Christian advocate._](https://www.loc.gov/resource/sn87065702/1838-08-31/ed-1/?sp=4)
+
+#### 1838-08-31 &middot; [Augusta, Ga.](http://dbpedia.org/resource/Augusta%2C_Georgia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ heart, and live a more holy  
+life, the only substantial proof of real religion.  
+•Milton.  
+  
+THE WORLD.  
+This is an agreeable world, after all. If  
+we would only bring ourselves to look at the ob­  
+jc&#x27;cts that surround us in their true light, we  
+should see beauty where we could hear nothing  
+but discord. To be sure, there is a great deal  
+of anxiety and vexation to meet; we cannot ex.  
+pect to sail on a summer sea forever, yet if we  
+hold a cuhn eye and steady hand, we soon can  
+trim our sails and manage our healm so as to a­  
+void the quicksands and whether the storm that  
+threaten shipwreck. We are members of one  
+great family! We are travelling the same road,  
+and slinlt arrive at the same goal. Wo breathe  
+the free air, we are subject to the same bounty,  
+and we shall lie down in the bosom of our com­  
+mon mother. It is not becoming, then that  
+brother, it is not proper that friends should do­  
+ceive friends; it is not right that neighbor should  
+deceive neighbor. We pity that man who can  
+’ harbor enmity towards his fellow; he loses half  
+the enjoyment of life; lie embitters his own  
+existence. Let us tear from our eyes the col­  
+ored medium that invests every object with the  
+green line of jealousy and suspicion; turn a deal j  
+ear to the voice of scandal; breathe the spirit of  
+charity upon our lips and from our hearts let  
+the rich gushing of human kindness swell up as I  
+from a fountain—so the “golden age” will he  
+come no fiction; and the islands of the blest”  
+bloom in more than Hesperian beauty
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991215:1838083101:0250/pct:19.860357,29.753752,15.418929,20.151537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -693,6 +1284,8 @@ kindnes swell up as froma fountain—so the “golden age”
 
   
   
+  
+  
 surround us in their true light, we would see beauty where  
 we before beheld deformity, and listen to harmony where we  
 before could hear nothing but discord. To be sure, there is  
@@ -701,9 +1294,9 @@ expect to sail upon a summer sea forever; yet, if we will
 preserve a calm eye and a steady hand, we can so trim  
 our sails and manage our helm, as to avoid the quicksands  
 and weather the storms that threaten shipwreck.  
-ORIGIN OF PAPER MONEY
+ORIGIN OF PAPER MONE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_boston-weekly-magazine_1839-08-17_1_50&#0036;2/pct:62.100344,8.938121,25.725529,9.587471/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_boston-weekly-magazine_1839-08-17_1_50%2Fsim_boston-weekly-magazine_1839-08-17_1_50_jp2.zip%2Fsim_boston-weekly-magazine_1839-08-17_1_50_jp2%2Fsim_boston-weekly-magazine_1839-08-17_1_50_0002.jp2/pct:62.100344,8.938121,25.725529,9.587471/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -715,42 +1308,18 @@ ORIGIN OF PAPER MONEY
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 Yuis world is an agreeable world after all. It  
   
-we would only bring ourselves to look at objects
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13&#0036;6/pct:6.921488,68.167203,25.180785,2.049839/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Rural Repository Devoted to Polite Literature, Such as Moral and Sentimental Tales, Original Communications, Biography, Traveling Sketches, Poetry, Amusing Miscellany, Humorous and Historical Anecdotes (1824-1851)_](https://archive.org/details/sim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13/page/n6/mode/1up?view=theater)
-
-#### 1839-12-07 &middot; [Hudson](http://dbpedia.org/resource/Hudson%2C_New_York)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
+we would only bring ourselves to look at objects  
   
 not right that neighbor should deceive neighbor. nals who are recorded as having kept fools,  
 We pity that man who harbors enmity against) Wolsey must not be forgotten; and he would  
-his fellows; he loses half the enjoyment of life ;\ secm to have good cause to repent of hav-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13&#0036;6/pct:32.515496,10.269293,51.833678,3.295820/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Rural Repository Devoted to Polite Literature, Such as Moral and Sentimental Tales, Original Communications, Biography, Traveling Sketches, Poetry, Amusing Miscellany, Humorous and Historical Anecdotes (1824-1851)_](https://archive.org/details/sim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13/page/n6/mode/1up?view=theater)
-
-#### 1839-12-07 &middot; [Hudson](http://dbpedia.org/resource/Hudson%2C_New_York)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
+his fellows; he loses half the enjoyment of life ;\ secm to have good cause to repent of hav-  
   
+‘and embitters his own existence.—Let us tear ing disobeyed in this respect the ordinances of  
+  
+from our eyes the colored medium that invests | the church. Wolsey, who, as is well known,  
   
 every object with the green hue of jealousy and | was the son of a butcher, received no hearticr  
 )  
@@ -759,9 +1328,10 @@ suspicion; turn a deaf ear to the voice of sean. congratulations on obtaining hi
 dal; breathe the spirit of charity from our lips ; | than those which his jester offered him. “ Thank  
 and from our hearts, let the gushings of human ,heaven! you are a cardinal,” said the jester,  
 kindness well up as from a fountain—so the jee now | have nothing morc to desire than to sce  
-* golden age” will become no fiction, and the you pope.” ‘The cardinal inquired of him hi
+* golden age” will become no fiction, and the you pope.” ‘The cardinal inquired of him his  
+island of the blessed” bloom in more than Iles- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13&#0036;6/pct:32.515496,15.896302,51.807851,6.672026/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13%2Fsim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13_jp2.zip%2Fsim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13_jp2%2Fsim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13_0006.jp2/pct:6.921488,10.269293,77.505165,59.947749/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -773,7 +1343,7 @@ kindness well up as from a fountain—so the jee now | have nothing morc to desi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ as the negro |  
   
 that surround us in their true light, we should |  
   
@@ -795,22 +1365,25 @@ aime bounty, and we shall all le down on the
   
 bosom of our common mother. Et is not becom  
   
-&#x27; then that brother should hate brother; it)
+&#x27; then that brother should hate brother; it)  
+  
+sired the mi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13&#0036;6/pct:6.947314,70.458199,25.826446,17.785370/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13%2Fsim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13_jp2.zip%2Fsim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13_jp2%2Fsim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13_0006.jp2/pct:6.947314,46.583601,51.807851,41.659968/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The spirit of the age._
+## [From _The spirit of the age._](https://www.loc.gov/resource/sn84023294/1840-11-07/ed-1/?sp=4)
 
 #### 1840-11-07 &middot; [Woodstock, Vt.](http://dbpedia.org/resource/Woodstock%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-Nonle SentiMeNts. This is an agreeable  
+false, to the last,  
+Let us look to the future and not to the past!  
+Nonle SEnttIMents. This is an agreeable  
 world after all. If we would only bring ourselves  
 to look at the objects that surround us in their true  
 light, we should see beauty where before we be­  
@@ -837,11 +1410,59 @@ colored medium that invests every object with the
 green hue of jealousy and suspicion; turn a deaf  
 ear to the tale of scandal--breathe the spirit of  
 charity from our hearts let the rich gushings of hu­  
-man kindness swell up as a sountain--so that the  
+man kindness swell up as a fountain--so that the  
 &quot;golded age&quot; will become no fiction, and the isl­  
 ands of the blessed bloom in more than &quot;Hesper­  
-ian beauty.
-</td></tr></table>
+ian beauty.&quot;
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840110701:0110/pct:5.459162,24.552249,14.980956,16.894655/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The New Hampshire gazette._](https://www.loc.gov/resource/sn83025588/1840-11-24/ed-1/?sp=2)
+
+#### 1840-11-24 &middot; [Portsmouth [N.H.]](http://dbpedia.org/resource/Portsmouth%2C_New_Hampshire)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ii of a fulse one.  
+  
+NoeLE SeNTIMENTS.—Thit is an agreeable world  
+after all. If we would only bring ourselves to look at  
+the objects that surround us in their true light, we  
+should see beauty where before we beheld deformity,  
+and listen to harmony where we before could hear  
+nothing but discord. T&#x27;o be sure \here is a great deal  
+of anxiety and vexation to meet ; we cannot expect to  
+sail upon a sammer coast forever ; yet if we preserve  
+a calm eye and steady hand, we can so trim our sails  
+and manage our helm as to avoid the quick-sands and  
+weather the storms that threaten shipwreck. We are  
+members of one great family ; we ate travelling the  
+same road, and shall arrive at the same goal. We  
+breathe the same air ; are subject to the same bounty,  
+and we shall lie down upon the bosom of our common  
+mother. It is noi becoming then that brother should  
+hate brother ; it is not proper that friend chounld de­  
+ceive friend ; it is not right that neighbor should mjure  
+neighbor. We pity that man who can harbor enmity  
+against his fellow 5 he loses half the enjoyment of life  
+—he embitters his own existence, Lel us tear from  
+our eyes the colored medium that invests every object  
+with the green hue of jealousy and sospicion ; tcra a  
+daaf ear to the tale of scandal—breathe the spirit of  
+charity,—from our hearts let the rich gushings of hu­  
+man kindness swell up as a fountain,—so that the  
+s golden age *’ will become no fiction, and the islands  
+of the blessed bloom in more than ¢ Hesperian beau­  
+ly.!’ ,  
+Good Sent
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840112401:0608/pct:35.520727,29.982436,14.662370,15.631780/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -855,13 +1476,15 @@ ian beauty.
 
 ---
 
-## [From _The Yazoo Whig and political register._](https://chroniclingamerica.loc.gov/lccn/sn87065695/1841-08-13/ed-1/seq-1)
+## [From _The Yazoo Whig and political register._](https://www.loc.gov/resource/sn87065695/1841-08-13/ed-1/?sp=1)
 
 #### 1841-08-13 &middot; [Yazoo City, Miss.](http://dbpedia.org/resource/Yazoo_City%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ alleviate the  
+wants and woes of those who aro pining,,  
+suffering, starving before their very eyes.&quot; &quot;  
 The Would is Agreeable. This is an  
 agreeable world after all. If we v, ould crdj  
 bring ourselves to look at tho.oljects thet  
@@ -879,20 +1502,21 @@ are &#x27;members of one grc-t . family; wjj r.ts-travelling
 tho same reed, and fh-ll errive at  
 tho same goal. We breath tLa r :;.,e . air.  
 are itubject to the same bounty, ft::. v: &quot; &#x27;1  
-lie uc .r. rT i t&#x27; e ! .-: cl&#x27; c:r 
+lie uc .r. rT i t&#x27; e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn87065695%2F00295877583%2F1841081301%2F0038.jp2/pct:71.284712,63.099631,16.829417,10.521592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065695:00295877583:1841081301:0038/pct:94.996949,81.180812,22.452715,16.944251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Liberty advocate._](https://chroniclingamerica.loc.gov/lccn/sn83016942/1841-08-26/ed-1/seq-1)
+## [From _Liberty advocate._](https://www.loc.gov/resource/sn83016942/1841-08-26/ed-1/?sp=1)
 
 #### 1841-08-26 &middot; [Liberty, Miss.](http://dbpedia.org/resource/Liberty%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ in woman ahmo ought to o  
   
 Tie U&#x27;er7 it Arcea&#x27;t&#x27;c. This is an  
 agreeable world a tor all. If we would  
@@ -938,7 +1562,7 @@ tin &#x27;goiden age1 will becumo no fiction,
 aud ihe islands of .the blessed bloom in  
 inure than &#x27; Hyperion beauty.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_hoitytoity_ver01%2Fdata%2Fsn83016942%2F00295878204%2F1841082601%2F1111.jp2/pct:73.158608,31.476757,16.809761,21.967120/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1841082601:1111/pct:80.713640,41.964286,39.182475,29.577664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -954,7 +1578,7 @@ inure than &#x27; Hyperion beauty.&#x27;
 
 ---
 
-## [From _Litchfield enquirer._](https://chroniclingamerica.loc.gov/lccn/sn84020071/1841-09-16/ed-1/seq-1)
+## [From _Litchfield enquirer._](https://www.loc.gov/resource/sn84020071/1841-09-16/ed-1/?sp=1)
 
 #### 1841-09-16 &middot; [Litchfield, Conn.](http://dbpedia.org/resource/Litchfield%2C_Connecticut)
 
@@ -1011,15 +1635,17 @@ breathe the spirit of charity from our hearts;
 swell up as a fountain ; so that the • golden  
 age’ will become no fiction, and the islands  
 of the blessed bloom in more than 4 Hespe­  
-rian beauty.*
+rian beauty.*  
+  
+GOD SEEN I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ct_barnum_ver01%2Fdata%2Fsn84020071%2F00414182951%2F1841091601%2F0344.jp2/pct:39.245533,6.811989,34.949261,88.215259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1841091601:0344/pct:39.254192,6.812966,34.951456,88.224326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Cecil Whig._](https://chroniclingamerica.loc.gov/lccn/sn83016348/1842-04-16/ed-1/seq-1)
+## [From _The Cecil Whig._](https://www.loc.gov/resource/sn83016348/1842-04-16/ed-1/?sp=1)
 
 #### 1842-04-16 &middot; [Elkton, Md.](http://dbpedia.org/resource/Elkton%2C_Maryland)
 
@@ -1080,11 +1706,21 @@ our hearts—let the rich gusliings of hu­
 man kindness swell up as a fountain; so  
 that the “golden age” will become no fe­  
 lloe, and die islands of die blessed, bloom  
-in more than “Hyperion beauty.
+in more than “Hyperion beauty.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mdu_fitzgerald_ver01%2Fdata%2Fsn83016348%2F00415624414%2F1842041601%2F0148.jp2/pct:4.408939,5.951708,47.394718,89.126221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624414:1842041601:0148/pct:5.674814,7.674273,61.168969,114.989059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## A Life of Plasure.
+
+#### From _Trumpet and Universalist Magazine (1828-1851)_
+
+#### 1842-07-23 &middot; [Boston](http://dbpedia.org/resource/Boston)
+
+[This text is not available under an open license.]
 
 ---
 
@@ -1094,9 +1730,7 @@ in more than “Hyperion beauty.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-XoBi.K Se.nti.mk.nts.—T hi.H i.s .&#x27;ll! .Tjrreeablrt  
+—T hi.H i.s .&#x27;ll! .Tjrreeablrt  
 world after all. If we would only hriipjj ourH’lves  
 to ltx&gt;k at the objects that surround us in their true  
 liirht, we should sec lH*auty where liefore. we ladicld  
@@ -1128,118 +1762,326 @@ as a fountain, so that the “ golden at?e” will become
 no fiction, and the island of the blessed bloom in  
 more than ” Hesjierian beauty.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_every-youths-gazette-a-semi-monthly-journal_1842-12-31_1_28&#0036;10/pct:67.276423,53.651904,27.997967,36.305361/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_every-youths-gazette-a-semi-monthly-journal_1842-12-31_1_28%2Fsim_every-youths-gazette-a-semi-monthly-journal_1842-12-31_1_28_jp2.zip%2Fsim_every-youths-gazette-a-semi-monthly-journal_1842-12-31_1_28_jp2%2Fsim_every-youths-gazette-a-semi-monthly-journal_1842-12-31_1_28_0010.jp2/pct:67.276423,53.651904,27.997967,36.305361/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The Illinois free trader and LaSalle County commercial advertiser._
+## [From _Carlisle herald and expositor._](https://panewsarchive.psu.edu/lccn/sn86071296/1843-02-08/ed-1/seq-1/)
+
+#### 1843-02-08 &middot; [Carlisle, Pa.](http://dbpedia.org/resource/Carlisle%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+•wont whip you indeed,  
+nor. i wont look at no boddyelse so i wont  
+—Daddy sais as how i must git married to  
+some bodily-quick,. ause I&#x27;ve let itrun too  
+long so no more at present. li. A. T.  
+. P. S. Note ti Bianny  
+my pen is Bad, my ink is pail,  
+my love to you shall never fail, •  
+, for henry is my own true luv,  
+my Lark my Duck, my Turkle Duv,  
+So no more at present.. K. A. T. •  
+  
+P. S. Mother is ded, so she wont throw  
+he tongs at you any more when -you kum&#x27;  
+o our house, ands Robert has got the feveer-  
+  
+vague. &#x27;  
+So no &#x27;more at present,yours till deth du  
+us part.., Yours, K. A.T. •  
+  
+NOBLE SENTIMENTS.—This is an agree=  
+able world after all: If we would only  
+bring_ ourselves to lo_o_Lat_the_objects_tliat  
+surround us in their true light, we should  
+see beauty where before we beheld deforni­  
+ity, and listen to harmony where before we  
+could hear nothing but discord. To be  
+sure there is a great deal of anxiety to meet;  
+&#x27;we cannot expect to sail upon a summer  
+coast. forever; yet if we preserve a calm  
+eye and steady hand, w.e can so trim our  
+sail and Manage our helm as to avoid the  
+quicksands and weather the storm that  
+threatens shipwreck:&#x27; We are members of  
+one  
+. great family ; we . are travelling the  
+same road and shall arrive at the same goal.  
+We breath the sane air; are subject to the  
+same bounty, and we shall lie dOwn upon  
+the bosom of our common .mother. It is­  
+-not- beComing then, that brother should  
+hate brother ; it is not proper that friend  
+should deceive friend; it is not right that  
+neighbor should injure neighbor.. We pity  
+the man who can harbor enmity.agatnst his  
+fellow,:he loses half the • enjoyments of  
+life , --he embitters his own existence, Let  
+us tear from&#x27;our eyes the Coloreds- medium .  
+flint invests every object with thegreen hue  
+Of jeelousy_ and.suspicion, Turn. .a deaf  
+ear tolhe tale of saandid, breathe the spir­  
+it of &#x27;charity &#x27;from .our hearts; lei the rich  
+gnshings of human kindness swell up itie  
+&amp;Wain, so that the &quot; golden age&quot; will be.  
+corne.no fiction, and the islander the bleet , ‘  
+ed bloom in more than&quot; 1-letterianbeitily.!
+</td></tr></table>
+
+---
+
+## [From _The Illinois free trader and LaSalle County commercial advertiser._](https://www.loc.gov/resource/sn82014968/1843-03-03/ed-1/?sp=1)
 
 #### 1843-03-03 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-This is an agreeable world afier all.  
-If we would only bring ourselves to look  
-at the objects that surround us in their  
-true light, we should see beauty where  
+ . : ;  
+INoblo ffrntluirnt.  
+This U an agreeable world after all.  
+If vo would only bring ourselves to look  
+at the objects that surround us in their .  
+Iruo light, wo should sec beauty where  
 before we beheld deformity, and listen to  
 harmony where before we could hea  
-nothing but discord. To be sure there is  
-a great deal of anxiety to meet; we can­  
-not expect to sail upon a summer coast  
-forever; yet if we preserve a calm eye  
-and steady hand, we can so trim our sail  
-and manage our helm as to avoid the  
-quicksands and weather the storm that  
-threatens shipwreck. We are members  
-of one great family; we are travelling the  
-same road and shall arrive at the same  
-goal. We breathe the same air; are sub  
-fect to the same bounty, and we shall his  
-upon the bosom of our common  
-mother. It is not becoming then, that  
-brother should hate brother; it is not  
-proper that friend should deceive friend:  
+nothing but discord. &#x27;Vo be sure there is  
+a great deal of anxicly to meet ; we can­  
+not ejipect to sail upon a summer coast  
+forever ; yet if wo preserve a calm eye&#x27;  
+and steady hand, we can so trim our sail&#x27;  
+and manage our helm as to avoid the&#x27;  
+quicksands and weather tho storm thav  
+tlirentcns shipwreck. We are members  
+of one great family ; w.c arc travelling tho&#x27;  
+same road and shall arrive at the samo  
+goal. We breathe the same air ; are sub  
+jeet to the same bounty, and we shall lie-down  
+upon the bosom of our common,  
+mother. It is not becoming then, thai  
+brother should hale brother; it-U not  
+proper that friend should deceive friend ;  
 it is not right that neighbor should injure  
 neighbor. We pity the man who can  
-harbor enmity against his fellow, he loses  
-half the enjoyments of life--he embitters  
-his own existence. Let us tear from our  
+harbor enmity against his follow, he loses  
+half the enjoyments of life he embitters  
+his own existence. Let us tear from our,  
 eyes the colored medium that invests  
 every object with the green hue of jeal  
-ousy and suspicion. Turn a deaf ear to  
-the tale of scandal; breathe the spirit of  
+ousy and suspicion. Turn a deaf ear to.  
+tho talc of scandal ; breathe the spirit of  
 charity from our hearts; let the rich gush­  
-ings of human kindness swell up as a  
-fountain, so that the &quot;golden age&quot; will  
-become no siction, and the island of the  
+ings of human kindness swell up as rt  
+fountain, so that the &quot; golden age&#x27;, will  
+become no fiction, and the island of the  
 blessed bloom in more than &quot;Hesperian  
-beauty.
-</td></tr></table>
-
----
-
-## [From _Edgefield advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84026897/1843-07-19/ed-1/seq-2)
-
-#### 1843-07-19 &middot; [Edgefield, S.C.](http://dbpedia.org/resource/Edgefield%2C_South_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Noble senitmetct.-This is an agreeable CI  
-rld after all. If we would only bring &quot;  
-irselves to look at the olajects that suar­  
-ends its in their true light, we should la  
-o beauty where before we beheld dcinr- 0  
-ity, and listen to hairmony where before ~  
-a could hear nothing btut discord. To 9i  
-a sura there is a great deal of anxiety 0  
-ad velationt to meet t we cannoat expect i  
-Ssail on a calm soummter coast forever ; r  
-et if we keep a calm and steady hand, &#x27;~  
-re can so trim our sails anal man­  
-Sour helm as co avoid the quickands,  
-na weather the storms that threaten n  
-hipwreck. &#x27; We are member a of one I  
-,ret family, we are travelling the same  
-nad and shall strive at the same goal.  
-Ve breathe theli same air. are subject to  
-he same hounty, and we shall lie do&#x27;vt&#x27;i  
-n then bosom of our common niocher. Ic  
-s tt becoming then-, the brother shouldl  
-tate brother-it is not proper that friend  
-la~n,1l .loccivec friend--it is nor rightt thit t  
-  
-eighbur should injure neighbor! We  
-ity the man who cat harbor enmity  
-gainst his fellw, he lew half the sn.  
-oyment of lire-he embit ers hibiwd ex­  
-tence. I&#x27;s as tear from outeyethe  
-Alored medium that invests every object  
-ith the green hue ofjealonsy and suspi.  
-iou. Turn a deaf car to the fale of  
-:an Jal. breathe the spirit of charity front  
-ur hearts--iet the riah gush of human  
-indness swell up as a fountain, so that  
-ie &quot;golden age&#x27; will become no tiction  
-tod blessings blootm in more than &quot;Ies
+beauty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_cootiestark_ver01%2Fdata%2Fsn84026897%2F00237288324%2F1843071901%2F0428.jp2/pct:52.782520,3.289500,28.855127,92.845940/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn82014968:00212472025:1843030301:0583/pct:108.424337,67.380492,20.963339,36.211661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1844-05-03/ed-1/seq-1)
+## [From _Edgefield advertiser._](https://www.loc.gov/resource/sn84026897/1843-07-19/ed-1/?sp=2)
+
+#### 1843-07-19 &middot; [Edgefield, S.C.](http://dbpedia.org/resource/Edgefield%2C_South_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+Noble sentiment.  This is an agreeablee  
+eld after all. if we would only bringo  
+selves to look at the objects that sur-­  
+unds us in their true light, we should  
+beauty where before we beheld defor  
+ity, and listen to harmony where before  
+could heur nothing but discord. To  
+sure there is a great deal of anxiety  
+I vexation to meet; we canniot expect  
+sail on a calm sommer const forever:  
+if we keep a calm and steady hand,  
+e can so trim our salls and man­  
+eour helm as to avoid the quicksands,  
+id weather the storms that threatene  
+ipwreck. We are members of one  
+eat family, we are travelling the same  
+ad and shall arrive at the same goal.  
+ve breathe the same air, are subject to  
+e same hounty, and we shall lie down  
+the bosom of our common mother. I  
+not becoming then, the brother should  
+te brother--it is not proper that friend  
+ould deceive friend--it is not right that  
+  
+leighbor should injure neighbor! We  
+ity the man who can hathor cumity  
+igainst his fellow, he looses half the en  
+pyment of life,-he embitters his own ex.­  
+stence. Let us tear from our eyes the  
+solored medium that invests every object  
+ith the green hue of jealousy and suspis  
+ion. Tura a deaf car to the fale of  
+canlal, breathe the spirit of charity from  
+ur hearts,-let the rish gush of human  
+indness swell up as a fountain, so that  
+he &quot;golden age will become no fiction  
+ad blessings bloom in more than &quot;Hes.­  
+erian beauty.&quot;
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288324:1843071901:0428/pct:52.782520,3.289500,28.855127,92.845940/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Highland messenger._](https://newspapers.digitalnc.org/lccn/sn84020687/1844-03-29/ed-1/seq-1/)
+
+#### 1844-03-29 &middot; [Asheville, N.C.](http://dbpedia.org/resource/Asheville%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ hi  
+Noble Sentiments. This s an agreeable  
+world after all. If we would onlyvbring ourselves  
+to look at the obiccts that surround us in their true  
+light, we should see beauty where wV before be  
+held deformity, and listen to harmony where neiore  
+wc could hear nothing but discord. Tbj be sure  
+there is a great deal of anxiety and vexation to  
+meet: wc cannot expect to sail upon a summer  
+coast forever ; yet if we preserve a calm eyoand  
+steady hand, we can so trim jour sail and manage  
+our helm as to avoid the quick sands and weather  
+the storm that threatens shipwreck. We ore  
+members ofj one great family ; we are travelling  
+the same i road and shall arrive at the same goal  
+We breath the same air; arp subject to the same  
+bounty, and! w&#x27;e shall lie down upon the bosom of  
+our common mother. It is riot becoming then that  
+brother should hate brother;! it is not proper that  
+friend should deceive friend ; it is not right that  
+neighbor should injure neighbor. We pity the  
+man who can harbor enmityj against his fellow, be  
+loses half the enjoyments ofjlife he-embitters his  
+own existence. Let us tear from our eyes the  
+colored medium that invests every object with the  
+ureen hue of jealously and suspicion: turn adca  
+ear to the tale of scandal, breathe the spirit of chari  
+ty from our hearts; let the rich gushings of human  
+kindness swell up as a lountam, so that the &#x27;gold­  
+en age will become no fiction and the island of the  
+blessed, bloom in more than &#x27;Hesperian beauty  
+&quot; Patrick, I w
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AsvHM3_ver01%2Fdata%2F1844032901%2F0277.jp2/pct:85.875194,96.801665,26.087519,31.008706/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Newbernian._](https://newspapers.digitalnc.org/lccn/sn85042032/1844-04-30/ed-1/seq-4/)
+
+#### 1844-04-30 &middot; [Newbern, N.C.](http://dbpedia.org/resource/New_Bern%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+­  
+to graze. Several attempts on the dy hand, we can so trim our sail  
+part of the French to punish this and manage our helm as to avoid  
+supposed carelessness failed com- the quicksands and weather the  
+pletely ; aided by their comrades, storm that threatens shipwreck.  
+  
+the Cossacks sprang quickly on We are members of one great fam­  
+their horses, and received their ily; we are travelling the same  
+foiled adversaries with loud shouts road and shall arrive at the same  
+of laughter. When they intend an goal. We breathe the same air; are  
+attack, a shout is raised alone: the subject to the same bounty, and  
+  
+whole line ; on which they collect  
+in a mass, and throw themselves,  
+with loud yells and couched  
+spears, with bodies bent to their  
+horses&#x27; mane, at full speed upon  
+  
+the enemy. Such an onrushmg not ngnt mat neignoor snouiu m­  
+swarm seems at first to be irresis- jure neighbor. We pity the man  
+tible, and would be so were the who can harbor enmity against his  
+onset continued as it commenced, fellow, he loses half the enjoy­  
+But this is not the case; the Cos- ments of lifehe embitters his own  
+  
+sacks charge close up to the ene-  
+  
+my, who are lost if they show the eyes tne coiorea medium mat in­  
+slightest want of firmness ; but vests every object with the green  
+are in little danger if they hold hueof jealousy and suspicion : turn  
+their ground firmly, and receive a deaf ear to the tale of scandal,  
+the assailants with a steady fire, breathe the spirit of charity from  
+When thus met, the Cossacks fly our hearts ; let the rich gushings  
+as fast as they had advanced, and of human kindness swell upas a  
+with the
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewBerNB7n_ver01%2Fdata%2F1844043001%2F0176.jp2/pct:34.327971,7.285884,30.980799,21.163759/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Newbernian._](https://newspapers.digitalnc.org/lccn/sn85042032/1844-04-30/ed-1/seq-4/)
+
+#### 1844-04-30 &middot; [Newbern, N.C.](http://dbpedia.org/resource/New_Bern%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+Noble Sentiments. This is an  
+agreeable world after all. If we  
+would only bring ourselves to look  
+at the objects that surround us in  
+their true light, we should see beau-  
+discord. To be sure there is a  
+1 great deal of anxiety and vexation  
+i to meet; we cannot expect to sai  
+  
+we shall lie down upon the bosom  
+of our common mother. It is not  
+becoming then that brother should  
+hate brother; it is not proper that  
+friend should deceive friend : it is  
+  
+existence. Let us tear irom our  
+island ot tne blessed, oioom in  
+more than Hesperian beauty.&#x27;  
+A Har
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewBerNB7n_ver01%2Fdata%2F1844043001%2F0176.jp2/pct:35.028542,14.234734,30.267255,83.009516/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Alexandria gazette._](https://www.loc.gov/resource/sn85025007/1844-05-03/ed-1/?sp=1)
 
 #### 1844-05-03 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ented by a loafer in a  
+gilt-edged jacket and half boots or high lows, as  
+Boz calls them, with a three days* beard, and a  
+felt of hair that would make the fortune of a  
+mattress stuffer. In the last scene Gpslpr carri­  
+ed the only sword on the stage, Tell snatehed it  
+from him and politely ran him through with his  
+own weapon. The boy, Albert, floored the bul*  
+ley, Sarnerq, by a dig in the ribs, while the Aus­  
+trian army ‘awfully arrayed* stood in the hack  
+ground with his hands in his breeches pockets  
+‘smiling at the ruin,’and thus was the indepen­  
+dence of Switzerland achieved.”  
 NOBLE SENTIMENTS.—This is an agreea­  
 ble world after all. If we would only bring  
 ourselves to look at the objects that surround us  
@@ -1271,9 +2113,10 @@ charity from our hearts; let the rich gushings of
 human kindness swell up as a fountain, so that  
 the ‘golden age’ will become no fiction, and the  
 island of the blessed bloom in more than Hespe­  
-rian beauty.&quot; __
+rian beauty.&quot; ___  
+CHRISTMAS IN NORWA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_bees_ver01%2Fdata%2Fsn85025007%2F00414215749%2F1844050301%2F0283.jp2/pct:50.393701,47.097554,14.633356,15.199767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844050301:0283/pct:50.398600,40.448834,14.631538,22.522341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1286,6 +2129,8 @@ rian beauty.&quot; __
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
+Noble Sentiments.  
   
 This is an agreeable world, after all, If&#x27;we  
 would only bring ourselves to look at the objects  
@@ -1319,20 +2164,19 @@ we.are travelling the,
   
 d wes te . ~ ney  
 ei tO mother. It is &quot;not | :  
-brother should hate brother ; it is not proper that
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_christian-secretary_1844-05-03_7_8&#0036;0/pct:62.955975,78.901791,15.710692,11.169061/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Christian secretary._](https://archive.org/details/sim_christian-secretary_1844-05-03_7_8/page/n0/mode/1up?view=theater)
-
-#### 1844-05-03 &middot; [Hartford [Conn.]](http://dbpedia.org/resource/Hartford%2C_Connecticut)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
+brother should hate brother ; it is not proper that  
+  
+  
+  
+  
+  
+speaking of the Jesuits, previously to their sup-  
+pression, describes them as ‘follows :—“Catholic |  
+rope was at this time occupied with the quar  
+rels of this too famous body, Its insatiable’ ambi-  
+nmense “ihe tet? ying power ;  
+  
+y  
   
 a friend should deceive a friend ; it is not right  
 that‘neighbor should injare neighbor. We pity  
@@ -1372,32 +2216,19 @@ tain, so that the ‘golden ege’ will become no fic-
 tion, and the island of the blessed bloom in more  
 than ‘Hesperian beauty.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_christian-secretary_1844-05-03_7_8&#0036;0/pct:62.867925,11.956308,31.723270,82.336154/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_christian-secretary_1844-05-03_7_8%2Fsim_christian-secretary_1844-05-03_7_8_jp2.zip%2Fsim_christian-secretary_1844-05-03_7_8_jp2%2Fsim_christian-secretary_1844-05-03_7_8_0000.jp2/pct:47.433962,11.956308,47.157233,82.336154/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Staunton spectator, and general advertiser._](https://chroniclingamerica.loc.gov/lccn/sn84024719/1844-05-16/ed-1/seq-1)
+## [From _Staunton spectator, and general advertiser._](https://www.loc.gov/resource/sn84024719/1844-05-16/ed-1/?sp=1)
 
 #### 1844-05-16 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-al circumstance, much  
-more than in his meeting with the founder of  
-Methodism, that the acquirements and fame of  
-Dr.&#x27;Clarke originated ; for, however his learn­  
-1 ed Commentary niav exeito admiration, and  
-preserve his name amongst the celebrated di­  
-i vinity scholars of the age, it is, and ever will  
-j be, for the variety and extent of his knowl­  
-1 edge of Oriental languages and literature that  
-I lie will be longest held in remembrance. And  
-I the foundation of this great fabric was the  
-! Hebrew Grammar of which he became the  
-owner so fortuitously.—JFisher&#x27;s Colonial  
-j Magazine.  
+ine.  
 NOBLE SENTIMENTS.  
 This is an agreeable world after all. If  
 we would only bring ourselves to look at the  
@@ -1432,9 +2263,9 @@ the spirit of charity from our hearts ; let the
 | rich gushing* of human kindness swell up as  
 a fountain, so that the golden age, will be­  
 come no fiction, and the island of the blessed  
-blooni,in more than Hesperian beauty
+blooni,in more than Hesperian beauty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kernals_ver02%2Fdata%2Fsn84024719%2F00414183700%2F1844051601%2F0083.jp2/pct:19.289120,11.978059,29.494774,81.163476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844051601:0083/pct:19.306358,11.979400,29.479769,81.168831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1448,8 +2279,7 @@ blooni,in more than Hesperian beauty
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-of the worthy MainstrMft. This Wom,n —  
+ the worthy MainstrMft. This Wom,n —  
 This is an agreeable world, after nil.  
 If we wnulil only bring ourselves to  
 look at the objects that surround us in  
@@ -1499,8 +2329,7 @@ blessed&#x27; bloom in IhibhGai.x* Klin&#x27;— Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-of the worthy Magistrate.  This World —  
+ the worthy Magistrate.  This World —  
 This is an agreefilile world, after oil.  
 If we would only bring ourselves lo look  
 at ihe objects ihat surround us in their  
@@ -1537,70 +2366,104 @@ hearts let the rich flushings of human
 kindness swell up as from a fountain ;  
 so the &#x27; golden o^e &#x27; will become no  
 fiction, itmle&#x27;u.rfVt-Rori.of ihe  
-hlesaed &#x27; bloom in TzirsHGAM^NTnr— Th
+hlesaed &#x27; bloom i
 </td></tr></table>
 
 ---
 
-## From _The Ripley advertiser._
+## [From _The Ripley advertiser._](https://www.loc.gov/resource/sn84020048/1844-06-01/ed-1/?sp=1)
 
 #### 1844-06-01 &middot; [Ripley, Miss.](http://dbpedia.org/resource/Ripley%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ e  
   
- o e   
+friend; it is not right that neighbor shoulehman and melancho  
+ine eie  e ee e e on e e e i e o  
   
-threatens shipwreck, we are membert afand o botter in future.  
+can harbor enmity against his felinl he escphy of life, they might become use  
+loses half the enio of net his fellow, hecitizens, ornaments to society, and blessin,  
   
-a g  s  
+ie o ee o eo eo o o e o a e o oa eee  
   
-a odan a ae ae  e  i a  oo  
-e ee e a e a e a o  e o e e e ee  
+e e o ee e aie ee e e e oe e  
   
-o o e e oe e e e e o a o e e e  e  
+overy oblec with the green ie  o  ee o e teoa narsh word.  
   
-bounty, and shall lo do ee e e o e e e e oe   
+and suspicion; turn a deaf car to the tale offrouble. theul them into a wor a  
+scandal, breathe the spirit of char  e e e te  a eo  
   
- oee e o on e a i o o eoo  
+our hearts; let the rich gushings of 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn84020048:0029587823A:1844060101:0112/pct:37.014739,64.150943,33.506332,7.044025/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Carlisle herald and expositor._](https://panewsarchive.psu.edu/lccn/sn86071296/1844-07-03/ed-1/seq-1/)
+
+#### 1844-07-03 &middot; [Carlisle, Pa.](http://dbpedia.org/resource/Carlisle%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ it the prosper­  
+ity it has lost—he; our- GOvernor,,&#x27;found  
+traversing the State; chodu - e:ting-the dee­  
+tioneeeing campaign, for tke elevation of  
+others and to keep in train the System  
+which is so oppressi r ve, and in power, the  
+rulers Who ask for power at such-a price.  
   
-e o ur common ee o   o e  e e eeee e o e  
+ms we resent as a most&#x27; serious  
+grievance, a dereliction of duty, in one who  
+ought to ho-a 14h . ftinfitiorvy--4n evil ex­  
+ample to others who may be prompted to  
+do. the he, and ivnieli s in the end, will  
+prove the overthrow of our free institutions,  
+8/e., J AMES SEATON,.  
   
-o e e e ee  e e e oa a ei e ee  
+Foreman of the Grand Jun•.&quot;  
   
-eii o oe e e o o iee on oan o o o ee  
-  
-friend; it is not right that neighbor shollepenin and melanche  
-inu eeoe ee o e on e en e ii e e  
-  
-can harbor enmity against his tan wheosophy of life, they might become use  
-loses half the anid aginst his fellow, heiten ore o oan  e  
-  
-e  e o e  ee e o e o a e o e o eo  
-  
-e i o exe edi that ine ee e eee e o ee  
-  
-every obec with the ee i a eeeoe e a ar or  
-  
-and suspicion; turn a deaf car to the tals oftroe o o te io a  
-scandal, breathe the spirif of char i a oo te bus a e of  
-  
-our hearts; let the rich gusin o o oe e e e e ereerinand  
-  
-man may behold his ad ar.The young  
-  
-morrow in the true light of peal ect on th
+A NotLE SE fitl IEN r.—&#x27;This is an a­  
+greeable world after alt. If we would only  
+brim ourselves to look at the, objects, drat  
+surround - iii`in their true light, We should&#x27;  
+see beauty where before we beheld tlefoi 7  
+tnity, and listen to .harniony, where before.  
+we enuld !leaf nothing but .disoord. , To  
+be sure there is a great  
+_deal.ol anxiety,to_ i  
+meet; we cannot expect tosaii-uptin a Burn­  
+..•- , . ,  
+mil coast fotrever; . &#x27;yet  
+.if we preserve a  
+bald eye and steady hand; the can sotri in  
+iiiiriaillipta: WteolitjA . iL.wi4 • o.,...atuaid.  
+the&#x27;quieksands and. weather thekstorm -that.  
+threatens shipwreck&#x27;...- we, are m&#x27;einbers-Of  
+one grt - A,tniiir, - icve:ati &#x27; travelling&#x27; the  
+sanie;rtia4 - a - lurifiall tirriVi; at itie&#x27;jiaite goal;  
+We brbith :Eh? .. 414 iiri4!reailbji , g4..(o,,,tfift.  
+Same,;liMiniY - ,&quot; - shall -: We - shall - lie - Al - owrr . up - Oti;  
+. .  
+..the-of-ottr-conamon-Ttirothei,T- Itrii -  
+Mit , becoming:then&#x27;, ~that&#x27; binther:; shonld  
+ha te-brothe ri...!it J-fs not pi;operltht frietidL  
+Should&#x27; deceive frianti;
 </td></tr></table>
 
 ---
 
-## [From _The Whig standard._](https://chroniclingamerica.loc.gov/lccn/sn82016317/1844-07-11/ed-1/seq-2)
+## [From _The Whig standard._](https://www.loc.gov/resource/sn82016317/1844-07-11/ed-1/?sp=2)
 
 #### 1844-07-11 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ the Highlands.  
+NOBLE SENTIMENTS.  
 T This is an agreeable world after all. If we  
 would only bring ourselves to look at the objects  
 that surround us in their true light, we should  
@@ -1633,19 +2496,19 @@ tain, so that the &quot;goldeaage&#x27; will become no
 fiction, and the islands of the blessed bloom in  
 more than &quot; Hesperian beauty.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_firedrake_ver01%2Fdata%2Fsn82016317%2F00415661642%2F1844071101%2F0858.jp2/pct:7.455507,76.781943,18.422318,18.818198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844071101:0858/pct:7.449495,75.013200,18.416306,20.578141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Alexandria gazette._](https://chroniclingamerica.loc.gov/lccn/sn85025007/1844-11-02/ed-1/seq-1)
+## [From _Alexandria gazette._](https://www.loc.gov/resource/sn85025007/1844-11-02/ed-1/?sp=1)
 
 #### 1844-11-02 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+/*  
   
 This is an agreeable world alter an. u  
 would only bring ourselves to look at the  
@@ -1676,22 +2539,21 @@ it of charity from our hearts; let the rich gush­
 ings of human kindness swell up in us a fountain  
 —so that tho ‘golden age’ will become no fiction,  
 and tbe islands of the blessed bloom in more than .  
-“Hyperian beauty.”—*V. Y. Plebeian. 
+“Hyperian beauty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_bees_ver01%2Fdata%2Fsn85025007%2F00414215750%2F1844110201%2F0223.jp2/pct:63.789495,14.219369,14.983887,14.925101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1844110201:0223/pct:49.750797,14.220340,29.027113,83.710129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Yazoo City Whig._](https://chroniclingamerica.loc.gov/lccn/sn84020019/1845-01-03/ed-1/seq-1)
+## [From _The Yazoo City Whig._](https://www.loc.gov/resource/sn84020019/1845-01-03/ed-1/?sp=1)
 
 #### 1845-01-03 &middot; [Yazoo, Miss.](http://dbpedia.org/resource/Yazoo_City%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-Let na Happy. This is an agreeable  
+. This is an agreeable  
 world afier all. If we would only bring our­  
 selves to look at Ihe subjects that surround&quot;  
 us ;n their true light, we would see beauty  
@@ -1732,9 +2594,9 @@ rich gushing of human kindness swell upa3
 a fountain so that the &#x27;&#x27;golden age&quot; will  
 become no fiction, and the islands of the  
   
-blessed bleom in more than &quot;Hyperian beau
+blessed bleom in more than &quot;Hyperian bea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_cloudchaser_ver01%2Fdata%2Fsn84020019%2F00295877583%2F1845010301%2F0637.jp2/pct:78.868246,39.773716,13.912920,18.113577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn84020019:00295877583:1845010301:0637/pct:105.133296,53.089643,18.547930,24.086162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1746,13 +2608,14 @@ blessed bleom in more than &quot;Hyperian beau
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
   
 This is an agreeable world after al]. If we burn and Syracuse Railroad, states that a;  
   
 would only bring ourselves to look at the sub-  
 jects that surround us in their true light, we
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_american-cultivator_1848-09-02_10_36&#0036;7/pct:34.915335,65.794209,30.288576,1.783085/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_american-cultivator_1848-09-02_10_36%2Fsim_american-cultivator_1848-09-02_10_36_jp2.zip%2Fsim_american-cultivator_1848-09-02_10_36_jp2%2Fsim_american-cultivator_1848-09-02_10_36_0007.jp2/pct:34.915335,65.794209,30.288576,1.783085/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1764,7 +2627,9 @@ jects that surround us in their true light, we
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+-  
   
+should see beauty where we behold deformity, es so much annoyance on railroads. The!  
 and listen to harmony where we heard nothing | plates in general use are abolished, and the  
 but discord. To be sure there is a great deal | nds of the rails are connected by dowel pins, |  
   
@@ -1794,9 +2659,10 @@ charity from our hearts.
   
 Let not any one say he cannot govern his  
 passions, nor hinder them from breaking out  
-and carrying him into action; for what he ca
+and carrying him into action; for what he can  
+do before 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_american-cultivator_1848-09-02_10_36&#0036;7/pct:34.915335,68.149845,30.360124,17.045640/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_american-cultivator_1848-09-02_10_36%2Fsim_american-cultivator_1848-09-02_10_36_jp2.zip%2Fsim_american-cultivator_1848-09-02_10_36_jp2%2Fsim_american-cultivator_1848-09-02_10_36_0007.jp2/pct:34.915335,67.560936,30.360124,18.059872/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1812,7 +2678,7 @@ and carrying him into action; for what he ca
 
 ---
 
-## [From _Portage sentinel._](https://chroniclingamerica.loc.gov/lccn/sn83035101/1848-10-25/ed-1/seq-1)
+## [From _Portage sentinel._](https://www.loc.gov/resource/sn83035101/1848-10-25/ed-1/?sp=1)
 
 #### 1848-10-25 &middot; [Ravenna, Ohio](http://dbpedia.org/resource/Ravenna%2C_Ohio)
 
@@ -1849,23 +2715,22 @@ istence. Let us tear from our e, es tl.e col
 ored medium that invests every object with  
 the gieen hue of jealousy and suspicion:  
 turn a deaf ear to scai.dal, and b-eaihe the  
-spirit of charity from our hearts
+spirit of charity from our hearts.  
+05
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_gann_ver01%2Fdata%2Fsn83035101%2F00296027054%2F1848102501%2F0078.jp2/pct:30.329475,74.948637,12.626892,16.107383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027054:1848102501:0078/pct:40.420228,99.931516,16.844729,22.462676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The examiner._](https://chroniclingamerica.loc.gov/lccn/sn82015050/1848-10-28/ed-1/seq-4)
+## [From _The examiner._](https://www.loc.gov/resource/sn82015050/1848-10-28/ed-1/?sp=4)
 
 #### 1848-10-28 &middot; [Louisville, Ky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-Nsfcla Neatlaaeaia.  
+ Neatlaaeaia.  
   
 This in an agreeable world after all. If  
   
@@ -1899,20 +2764,19 @@ cion ; turn a deaf ear to scandal, and
 breathe the fpirit of charity from our  
 hearts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/kyu_albatross_ver01%2Fdata%2Fsn82015050%2F00280763366%2F1848102801%2F0293.jp2/pct:19.706972,62.462704,12.832072,16.605462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848102801:0293/pct:26.271732,83.291255,17.095943,22.125316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Anti-slavery bugle._](https://chroniclingamerica.loc.gov/lccn/sn83035487/1848-11-03/ed-1/seq-4)
+## [From _Anti-slavery bugle._](https://www.loc.gov/resource/sn83035487/1848-11-03/ed-1/?sp=4)
 
 #### 1848-11-03 &middot; [New-Lisbon, Ohio](http://dbpedia.org/resource/Salem%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-Crawley !&#x27;  
 Noble Sentiments. Thin 1 an agreea­  
 ble world after all. If we would only bring  
 uurseives to loos at tue suujecis mat surround  
@@ -1943,25 +2807,58 @@ jealousy and suspicion; turn a deaf ear
 scandal, and breathe the spirit ol charity from  
 our hearts,  
 . .  
-There is nothing which favors and fall
+There is nothin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_ariel_ver02%2Fdata%2Fsn83035487%2F00211100473%2F1848110301%2F0676.jp2/pct:48.464373,72.494024,13.738739,18.310757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1848110301:0676/pct:48.464373,73.848606,13.738739,16.956175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## Miscellany
-
-#### From _New Hampshire statesman._
+## [From _New Hampshire statesman._](https://www.loc.gov/resource/sn84022932/1848-11-17/ed-1/?sp=4)
 
 #### 1848-11-17 &middot; [Concord [N.H.]](http://dbpedia.org/resource/Concord%2C_New_Hampshire)
 
-[This text is not available under an open license.]
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Noble Sentiments.,  
+This is an agreeable world after all. If we  
+would only bring ourselves to look at the sub­  
+jects that surround us in their true light, we  
+should see beauty where we behold deformity,  
+and listen to harmony where there is nothing but  
+discord. To be sure, there isa great deal of  
+vexation to meet; we cannot sail upona clear  
+coast forever ; yet if we preserve a calm eye  
+and steady hand, we can so trim our sail and  
+‘manage our helm, as to avoid the quicksands  
+and weather the storms that threaten shipwreck.  
+We are members of one great family; we are  
+travelling the same road, and shall arrive at the  
+same goal. We breathe the same air, are sub­  
+ject to the same bounty, and we shall lie down  
+upon the bosom of our common mother. It is  
+not becoming, then, that brother should hate  
+brother; it is not proper that friend should de­  
+ceive friend ; itis not right that neighbor should  
+injure neighbor. We pity that man who can  
+harbor enmity against his fellow ;he loses half  
+the enjoyment of life ;he embitters his own ex­  
+istence. Let us tear from our eyes the colored  
+medium that invests every object with the green  
+hue of jealousy and suspicion ; turn a deaf ear  
+to scandal, and breathe the spirit of charity from  
+our hearts.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_isolation_ver01:data:sn84022932:00542868466:1848111701:0396/pct:75.493570,38.736871,16.319507,16.583748/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Glasgow weekly times._](https://chroniclingamerica.loc.gov/lccn/sn86063325/1848-11-23/ed-1/seq-4)
+## [From _Glasgow weekly times._](https://www.loc.gov/resource/sn86063325/1848-11-23/ed-1/?sp=4)
 
 #### 1848-11-23 &middot; [Glasgow, Mo.](http://dbpedia.org/resource/Glasgow%2C_Missouri)
 
@@ -2013,21 +2910,21 @@ every object with the green hue of jealousy
 and suspicion; turn a deaf ear to scandal,  
 and breathe the spirit of charity from our  
 hearts.  
-New use fob, Audent Spirits. A co
+New use fob, Audent Spirits. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_henri_ver01%2Fdata%2Fsn86063325%2F00200292455%2F1848112301%2F0036.jp2/pct:8.387478,51.935179,14.333530,34.329767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1848112301:0036/pct:11.181102,69.241661,19.094488,45.767778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Port Gibson herald, and correspondent._](https://chroniclingamerica.loc.gov/lccn/sn87090283/1848-12-01/ed-1/seq-1)
+## [From _The Port Gibson herald, and correspondent._](https://www.loc.gov/resource/sn87090283/1848-12-01/ed-1/?sp=1)
 
 #### 1848-12-01 &middot; [Port Gibson, Claiborne Co., Miss.](http://dbpedia.org/resource/Port_Gibson%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 Noble Sentiments. —This is an agree­  
 able world after all. If we would only  
 bring ourselves to look at the subjects that  
@@ -2057,38 +2954,21 @@ own existence. Let us tear from our eyes
 the colored medium that invests every ob­  
 ject with the green hue of jealousy and  
 suspicion; turn a deal ear to scandal, and  
-breathe the spirit of charity from our hearts.  
-\T  
-to  
-t
+breathe the spirit of charity from our hearts.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_ikat_ver01%2Fdata%2Fsn87090283%2F00199917353%2F1848120101%2F0617.jp2/pct:41.687042,67.274775,14.135086,18.310811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_ikat_ver01:data:sn87090283:00199917353:1848120101:0617/pct:41.687042,67.274775,13.050122,16.677928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Wisconsin tribune._](https://chroniclingamerica.loc.gov/lccn/sn86086768/1849-02-16/ed-1/seq-1)
+## [From _Wisconsin tribune._](https://www.loc.gov/resource/sn86086768/1849-02-16/ed-1/?sp=1)
 
 #### 1849-02-16 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ep the soul fair ? Religion is the  
-only true secret for that.’’  
-“ Thus you see mj&#x27; love, how little we  
-can depend upon personal perfection ; how  
-little on mental excellencies or amiable traits  
-of character. But, the virtues born of, and  
-nourished by religion, are immortal—seek  
-them from Him who is the author of religi­  
-on ; nod seek them daily from him. Be as­  
-sured thus, that you will remain fair and n­  
-miable in the eyes of your husband, and be  
-blessed in every relation of life.”  
-Louisa flung her aims around her Aunt’s  
-neck, and thanked her with tearful eyes for  
-her lesson.  
+.  
   
 NOBLE SENTIMENT.  
 This is an agreeable world after all. If we  
@@ -2124,19 +3004,19 @@ as a fountain—so the “golden age” will be­
 come no fiction, and islands of the blessed  
 bloom in more than Hyperian beauty.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/whi_inez_ver01%2Fdata%2Fsn86086768%2F00271769751%2F1849021601%2F0073.jp2/pct:32.678143,48.908914,14.225321,25.590935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:00271769751:1849021601:0073/pct:34.393064,60.405606,14.960088,18.008070/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Glasgow weekly times._](https://chroniclingamerica.loc.gov/lccn/sn86063325/1849-04-12/ed-1/seq-4)
+## [From _Glasgow weekly times._](https://www.loc.gov/resource/sn86063325/1849-04-12/ed-1/?sp=4)
 
 #### 1849-04-12 &middot; [Glasgow, Mo.](http://dbpedia.org/resource/Glasgow%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 Noble Sentimest. This is an agroea.  
 Lie world after all. If we would only luok  
 at the subjects that surround us in thuir true  
@@ -2171,19 +3051,21 @@ den age&#x27; -will become no fiction, and islands
 of the blessed bloom in more than Hfpcjiau  
 leau ty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mohi_henri_ver01%2Fdata%2Fsn86063325%2F00200292455%2F1849041201%2F0119.jp2/pct:5.168108,61.857121,12.814601,22.838831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1849041201:0119/pct:6.874040,82.476161,17.069892,30.436142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Minnesota pioneer._](https://chroniclingamerica.loc.gov/lccn/sn83025241/1849-05-19/ed-1/seq-1)
+## [From _The Minnesota pioneer._](https://www.loc.gov/resource/sn83025241/1849-05-19/ed-1/?sp=1)
 
 #### 1849-05-19 &middot; [St. Paul, Minn. Territory](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+.  
   
+Noble Sentiment.  
   
 This is an agreeable world after all. If  
 we would only look at the subjects that sur­  
@@ -2219,19 +3101,32 @@ the “golden age” will become no fiction, and
 islands of the blessed bloom in more than  
 Hyperian beauty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mnhi_foxtrot_ver01%2Fdata%2Fsn83025241%2F0038334721A%2F1849051901%2F0015.jp2/pct:81.563109,31.523800,13.905116,17.785131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1849051901:0015/pct:81.558683,30.906835,13.900690,18.395202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Columbus Democrat._
+## [From _Columbus Democrat._](https://www.loc.gov/resource/sn83016867/1849-12-01/ed-1/?sp=2)
 
 #### 1849-12-01 &middot; [Columbus, Miss.](http://dbpedia.org/resource/Columbus%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ the laws of the community permit the  
+men to have as many wives as they can support,  
+and that some of the older ones have twenty,  
+but that the young men content themselves with  
+five.  
+Good IdeA. The bill for the preservation  
+f files of newspapers by the different county  
+clerks, which has been pending before the Leg­  
+islature of Vermont, has passed both branches  
+of that body, and will probably become a law.  
+Flowers are, in the language of a late cultiva­  
+tor, &quot;the playthings of childhood and the ornas,  
+mehts of a grave; they raise smiling looks to man  
+and grateful ones to God.&quot;  
 BEAETIFEL THOUCHT.This is an agreeable  
 world after all. If we would only bring ourselves  
 to look at the objects that surround us in their  
@@ -2263,17 +3158,35 @@ from our hearts let the rich gushings of human
 kindness swell up as from a fountain, so the  
 tory of the &quot;golden age&quot; will hecome no fiction,  
 and the &quot;island of the blessed&quot; bloom in more  
-than Hesperian beauty
-</td></tr></table>
+than Hesperian beauty.  
+  
+co
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1849120101:0982/pct:9.133127,6.293895,28.424923,87.155592/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1850-01-09/ed-1/seq-1)
+## [From _Staunton spectator._](https://www.loc.gov/resource/sn84024718/1850-01-09/ed-1/?sp=1)
 
 #### 1850-01-09 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ observed that he did  
+not know what he was passing,for he could see noth­  
+ing above the ground. Young Fennell could not  
+resist the temptation of plaguing Walker about the  
+pumpkins; so whenever they approached a stately  
+building, or tower spire, he would invariably ex­  
+claim : “Look, W’alker,there are 9ome pumpkins!”  
+It is almost needless to say, it became a favorite if  
+not a common saying, as it is to this day.  
+The President’s Message was published en­  
+tire in the Pittsburg, Cincinnati, Louisville and St.  
+Louis papers on Tuesday morning, having been re­  
+ceived by telegraph.  
   
 Beautiful Thought.—This is an agreeable  
 world after all. If we would only bring ourselves  
@@ -2304,58 +3217,84 @@ of charity frotr our lips, and from onr hearts let the
 rich gushings if human kindness swell up as from  
 a fountain, so the &quot;golden age” will become no fic­  
 tion, and the “island of the blessed” bluom in more  
-than Hesperian beauly
+than Hesperian beauly.  
+A Fema
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_kernals_ver02%2Fdata%2Fsn84024718%2F00414183736%2F1850010901%2F0007.jp2/pct:50.915751,12.683960,14.290802,15.249691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1850010901:0007/pct:35.719737,12.685303,29.491681,80.950868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Athens post._](https://chroniclingamerica.loc.gov/lccn/sn84024443/1851-12-26/ed-1/seq-1)
+## [From _Plough, the Loom and the Anvil (1848-1857)_](https://archive.org/details/sim_american-farmers-magazine_1850-11_3_5/page/n19/mode/1up?view=theater)
+
+#### 1850-11-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ Flow-  
+ers are, in the language of a late cultivator, ‘ the playthings of childhood and  
+the ornaments of the grave; they raise smiling looks to man and grateful  
+ones to God.’
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_american-farmers-magazine_1850-11_3_5%2Fsim_american-farmers-magazine_1850-11_3_5_jp2.zip%2Fsim_american-farmers-magazine_1850-11_3_5_jp2%2Fsim_american-farmers-magazine_1850-11_3_5_0019.jp2/pct:26.745718,19.858003,64.558630,4.969880/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Athens post._](https://www.loc.gov/resource/sn84024443/1851-12-26/ed-1/?sp=1)
 
 #### 1851-12-26 &middot; [Athens, Tenn.](http://dbpedia.org/resource/Athens%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-Noble Sentiments. 1 his s an agreea­  
+e slave law shall be faithfully executed.  
+He is to leave his seat soon, and is desirous  
+of securing the passage of the resolutions  
+e stte tete aa ie  
+the discussion, that he expected to be sent  
+hack to the Senate by his Unien Legislature  
+next winter.  
+heste li walitsss.  stated uweyer 14  
+No Ble SrntIMents. This ts an agreen­  
 ble world after all. If we would only bring  
-. -1 . a I....1. ml Ihn ..liiila lliat Ktltm  
-&quot;-TOIIW&quot; &quot; i  
-round us in their true light, wo should see  
-beauty where we beheld deformity, and  
+elas ta loak at the sbiects thet Suf-  
+ e  e o  a o a eo  
+round us in their true light, we should see  
+beauty where we boheld deformity, and  
 listen to harmony where we heard nothing  
 but discord. To be sure there is a great  
 deal of vexation and anxiety to meet; we  
-cannot sail upon a summer coat forever;  
+cannot sail upon a summer coast forever;  
 yet if we preserve a calm eye and a steady  
 hand, we can so trim our sails and manage  
-our holm, as to avoid the quicknnds, end  
-weather the storm dial threaten shipwreck.  
-We are members of one great fmiily; we  
+our heim, as to avoid the quicksands, and  
+weather the storms that threaten shipwreck.  
+We are members of one great family; we  
 re traveling the same road, and shall ar­  
-rive at Ihe same goal. We breathe the  
+rive at the same goal. We breathe the  
 ame air, are subject to the same bounty,  
-eaasjl taja disk II tin liisUffl II mm lh bosom of  
+and wa shall lie down upon the bosom of  
 our common mother. It is not becoming,  
-, then, that brother should hate brother; il is  
-not pn per that friend should deceive friend;  
+then that brother should hate brother; it is  
+not preper that friend should deceive friend;  
 it is not right that neighbor should deceive  
-neighbor. We piy that man who can liar,  
-bur enmity against his fellow; he lose hall  
+neighbor. We pity that man who can har,  
+bor enmity against his fellow; he loses hall  
 the enjoyment of life; he embitters his own  
--existence. Let us tear from our eres ihe  
+e existence. Let us tear from our eyes the  
 colored medium that invests every object  
-with ihe green hueof jealousy and suspicion;  
+with the green hue of jealousy and suspicion,  
 turn a deaf ear to scandal; breathe the spirit  
 of charity from our hearts; let the rich  
-gushing of human kindness swell up as  
+gushings of human kindness swell up as  
 fountain, so that the &quot;golden age&quot; will be­  
 come no fiction, and islands of the blessed  
-bloom in more than Hypernian beauty.
+bloom in more than &quot;Hypernian beauty.&quot;  
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn84024443%2F00280779210%2F1851122601%2F0388.jp2/pct:4.449457,52.796291,14.373590,21.790785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779210:1851122601:0388/pct:4.449457,47.710808,14.373590,28.180238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2367,7 +3306,22 @@ bloom in more than Hypernian beauty.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+out $7: The number used in France last year was  
+100,500, in value (shell) $44,800. Theaverage value  
   
+of large cameos made in Paris, is about one dollar}  
+  
+twelve anda half cents each. The whole value of  
+eameos made in Paris last year, was about $200,000.  
+In England not more than six persons are engaged in  
+the trade. In America about the same number ; but  
+Yankee genius, as in the instance to which we have  
+adverted, has entered the field of cameo art, and soon  
+we shall be provided with republican gems, carved  
+with republican hands, to deck the bosoms of our re-  
+publican girls.  
+  
+—  
   
 Noste Sentment.—This is an agreeable world af-  
 ter all. If we would only look at the subjects that  
@@ -2390,34 +3344,74 @@ turn a deaf ear to scandal ; breathe the spirit of char-
 ity from our hearts ; let the rich gushings of human  
 kindness swell up as a fountain, so that the “golden  
 age” will become no fiction, and islands of the bles-  
-sed bloom in more than “ Hyperion beauty.”
+sed bloom in more than “ Hyperion beauty.”  
+  
+—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_district-school-journal-of-education-state-of-new-york_1852-04_12_12&#0036;15/pct:25.920417,50.903042,36.593529,22.694867/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_district-school-journal-of-education-state-of-new-york_1852-04_12_12%2Fsim_district-school-journal-of-education-state-of-new-york_1852-04_12_12_jp2.zip%2Fsim_district-school-journal-of-education-state-of-new-york_1852-04_12_12_jp2%2Fsim_district-school-journal-of-education-state-of-new-york_1852-04_12_12_0015.jp2/pct:25.808851,36.787072,37.374489,37.856464/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Spirit of Jefferson._](https://chroniclingamerica.loc.gov/lccn/sn84026788/1852-05-25/ed-1/seq-1)
+## [From _The North Carolina Whig._](https://newspapers.digitalnc.org/lccn/sn84020725/1852-05-12/ed-1/seq-3/)
+
+#### 1852-05-12 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+This in mi agroouble world ufter all. If  
+wo would only bring our-sulvcii to loot at  
+the BiibjecU around us in their tnic lif-&#x27;ht,  
+  
+we Kiioum eoe Imnitty where wo behold de-  
+f..i&#x27;Hutv iitiil lili.ti I. !...,  
+V ; ...... ...r..jr nuei.;  
+- r &quot;&quot;iliing tint uncord. To be sure there  
+. .i .i , ...  
+K&#x27; .. utm ui vexation aim anxiety 10  
+uiuei , we cuniioi can upon a tmiumcr coast  
+forever, yet, if we preserve a calm eye and  
+steady hand, we can bo trim our nails and  
+manage our helm, as to avoid the quick­  
+sands anil weather the storms that threaten  
+shipwreck. We are members of one great  
+family j we aro travelling the same road,  
+und shall arrive at the same goal. We  
+brcatho the same air, are subject to the  
+same bounty, and we shall lie down upon  
+the bosom of our common mother. It is not  
+becoming1, then, that brother should hate  
+brother; it is not proper that friend should  
+deceive friend ; it is im1, light that neighbor  
+should deceive neighbor. We pity that  
+man who can harbor enmity against bis fel­  
+low ; he loots half the enjoyment of life ; he  
+embitters bis own existence. Let us tear  
+from our eves the colored medium that in  
+vests every object with the prei n hue of  
+jealousy and su-pieion, and turn a deaf ear  
+to scandal ; breathe the spirit of charity  
+Irom our hearts; let (lie rich gn  
+lillL&#x27;S of  
+human kimliie-s swell un its the fountain, so  
+that the gulden age will become no fiction,  
+and Mauds of the blessed bloom iu more  
+tlmu Jlypcriau beauty
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CHNCWw1_ver01%2Fdata%2F1852051201%2F0067.jp2/pct:15.350224,5.909408,13.021610,18.243902/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Spirit of Jefferson._](https://www.loc.gov/resource/sn84026788/1852-05-25/ed-1/?sp=1)
 
 #### 1852-05-25 &middot; [Charles Town, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-art,ant1 then, then  
-?how will it spring back all llirougl the lone­  
-some years, and with the freshness ind beauty  
-of youth and youthful love go forth tcmeet him.  
-Or, as these lines will in oeednygo firtherthan  
-she can in a thousand, if Wtllium bcatiywhere  
-on the earth, and his conscience telli him he is  
-wandering Irom the love he owes alhgiance to,  
-let him know when he reads this. Hat there is  
-ringing all thrnngh the world, now here, now  
-there, a voice that is calling him mournfully, but  
-oh, how lovingly, back to arms that yearn to em­  
-brace him.? Journal of Commerce.  
-  
 . IV OB LIS SCriTirdCNT.  
 This is an agreeable world after all. If we  
 would only bring ourselves lo look at the sub  
@@ -2449,11 +3443,56 @@ our hearts; let the rich gH3hings of human
 kindness swell up as a fountain, so that* the  
 golden age will become no fictioq, and islands  
 of tho blessed bloom in more than Hyperian  
-baauty
+baauty.  
+Tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/wvu_iceland_ver01%2Fdata%2Fsn84026788%2F00202192300%2F1852052501%2F0203.jp2/pct:39.844156,71.183886,13.930736,21.714853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192300:1852052501:0203/pct:39.948052,77.596602,13.818182,15.935873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## [From _American volunteer._](https://panewsarchive.psu.edu/lccn/sn83032169/1852-06-03/ed-1/seq-1/)
+
+#### 1852-06-03 &middot; [Carlisle [Pa.]](http://dbpedia.org/resource/Carlisle%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ they have mind to.  
+  
+Noble Sentiment*  
+  
+This is on agreeable world after id). If wo  
+would only bring ourselves to look at* the subjects  
+aropnd us io their truo light, we should sco beauty  
+where wo behold deformity, and listen to harmo­  
+ny where wo hoar nothing but discord. To bo  
+suro there is a great deal of vexation and anxiety  
+19 meet; we cannot sail on a summer cotot forev­  
+er, yet, if we preserve a calm oyo and steady hand,  
+wo can so trim our sails and manage our holm, as  
+to avoid (ho quicksands and weather 1110 storms  
+that threaten‘shipwreck. Wo aro members of one  
+great family ; wo nrn (ravelling 1 the same road,  
+and shall arrive at the samo goal. Wo breathe  
+the same air, are subject to the same bounty, and  
+wo shall lie down.upon tho bosom Of our common  
+mother. It is not becoming, then, that brother  
+should halo brother; U is not proper that friend  
+should deceive friend ; it is not rigtn (hot neigh­  
+bor should deCoivo neighbor. We pity that muh  
+who can harbor enmity against his follow; ho lo­  
+ses half tho enjoyment of life; he embitters his  
+own existence. Let us tear from our eyes the  
+colored medium that invests every object with the  
+green hue of Jealousy and suspicion, and turn a  
+deaf ear to scandal 5 breathe tho spirit of .charily  
+from our hearts; let. the rich guehings of human  
+kindness swell up as o fountain, so that (ho gold­  
+en ago will become no&#x27; 1 fiction, and Islands of (he  
+blessed bloom In more than Hyperion beauty.  
+
+</td></tr></table>
 
 ---
 
@@ -2463,6 +3502,7 @@ baauty
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
   
 Noble Sentiuskt. — This is an agree-  
 able world after all. If we would only  
@@ -2500,73 +3540,60 @@ from our hearts; let the rich gusflings
 of human kindness swell tip as a foun-  
 tain, so that the golden age will become  
 no fiction and islands of the blessed  
-bloom ill more than Hyperian beauty 
+bloom ill more than Hyperian beauty .  
+  
+03“
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/xt7xwd3pzm8r&#0036;0/pct:64.515142,48.158675,12.756195,20.328720/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt7xwd3pzm8r%2Fxt7xwd3pzm8r_jp2.zip%2Fxt7xwd3pzm8r_jp2%2Fxt7xwd3pzm8r_0000.jp2/pct:64.515142,48.158675,12.756195,21.230845/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Vermont watchman and State journal._
+## [From _Vermont watchman and State journal._](https://www.loc.gov/resource/sn84023200/1852-07-01/ed-1/?sp=1)
 
 #### 1852-07-01 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-No Place for Loafers.  
-Having a little business with a son of the  
-  
-type, a few days since I entered his office ate broter it is not proper that fiend  
-to transact the same. The entrance to the should decie friend it is ot ih that  
-printing room was a narrow lane, leadingegbor sho deceive neighbor. We  
+ ate brother i is not proper that tiend  
+to transact the same. The entrance to the should decive fiend it is ot ih tha  
+printing room was a narrow lane, leadingegor so decee eigbor. We  
 from the main street to the front of a wood pity that man who can harbor enmity a­  
 en stairway in the rear of a large brick gainst his fellow; he loses half the enjoy­  
-bloch. At the head of said stairway, is themen of ife he ebitter his own exit­  
+bloch. At the head of said stairway, is themen of lifehe ebitters his own exit­  
 home of my friend Typo. After closing a ence. Let us tear from our eyes the color­  
 bargain with the man of ink, I stopped a ed medium that invests every object with  
 moment out of curiosity; and what a busy the green hue of jealousy and suspicion;  
-scene met my eye! Here were some 20 or turn a dea ar to scandal brethe the spir­  
+scene met my eye! Here were some 20 or turn a deaf ar to scandal brethe the spir­  
 30 workmen, all intent upon their own emi o ai o  er et the i  
 ployment, not one idle, or staring me in the gushings of human kindness swell up as a  
 face, though a stranger to them all--a very fountain, so that the &quot;golden age&quot; will be-  
 remarkable instance of good manners,- come no fiction, and islands of the blessed  
-They worked too with a commendable zeal cloom in more than &quot;Hyperian beauty.&quot;
-</td></tr></table>
+They worked too with a commendable zeal cloom in more than &quot;Hyperian beauty.&quot;  
+  
+a
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1852070101:0316/pct:40.898258,21.835982,25.206233,8.498865/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _Vermont watchman and State journal._
+## [From _Vermont watchman and State journal._](https://www.loc.gov/resource/sn84023200/1852-07-01/ed-1/?sp=1)
 
 #### 1852-07-01 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nse of the beautiful,  
-a faculty of the soul which is awakened;  
-colors, forms, odors, are perceived for the  
-first time, and these charming objects have  
-at last spectators. Those who have travel­  
-led in the country can testify, that a rose­  
-tree under the window, a honeysuckle a­  
-round the door of a cottage, are always a  
-good omen to a weary traveller. The hand  
-that cultivates flowers is not closed against  
-the supplications of the poor, nor against  
-the wants of the stranger. Flowers may  
-be called the alphabet of angels, wherewith  
-they write on hills and plains mysterious  
-truths.  
-  
-The RighT Side.  
+.  
 This is an agreeable world after all. If  
 we would only look at the subjects that sur  
 round us in their true light, we should see  
 beauty where we behold deformity, and lis­  
 ten to harmony where we heard nothing  
 but discord. We are members of one  
-great samily, we are travelling the same  
+great family, we are travelling the same  
 road, and shall arrive at the same goal.  
 We breathe the same air, are subject to the  
 same bounty, and we shall lie down upon  
@@ -2575,8 +3602,11 @@ the bosom of our common mother. It is
 not becoming, then, that brother should  
 Good Advice.  
 There is much good sense in the follow­  
-ing, which although old, deserves to be re
-</td></tr></table>
+ing, which although old, deserves to b
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1852070101:0316/pct:53.712191,15.550511,12.520623,16.685585/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2586,6 +3616,8 @@ ing, which although old, deserves to be re
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+It resists the action of the most  
+powerful chemical agents, being totally insoluble in  
   
 Noste Sentiments.—This is an agreeable world | acids or alkalies, and is entirely insensible to the ac-  
   
@@ -2610,9 +3642,9 @@ upon the bosom of our common mother. It is not be-
 coming, then, that brother should hate brother; it is  
 not proper that friend should deceive friend ; it is not  
 right that neighbor should deceive neighbor. We  
-pity the man who can harbor enmity against his fel
+pity the man who can harbor enmity against his fe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_pennsylvania-school-journal_1852-07_1_7&#0036;29/pct:12.677107,57.932011,79.642058,21.458924/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_pennsylvania-school-journal_1852-07_1_7%2Fsim_pennsylvania-school-journal_1852-07_1_7_jp2.zip%2Fsim_pennsylvania-school-journal_1852-07_1_7_jp2%2Fsim_pennsylvania-school-journal_1852-07_1_7_0029.jp2/pct:12.677107,55.712937,79.642058,23.677998/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2624,7 +3656,7 @@ pity the man who can harbor enmity against his fel
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ The  
   
 Let us tear from our eyes the colored mediums that | milky juice or sap exudes at these incisions, and is  
 invest every object with the green hue of jealousy | collected in cocoa-nut shells, placed under the body  
@@ -2633,9 +3665,9 @@ and suspicion, and turn a deaf ear to scandal ; breathe |
   
 of the fallen tree. From these the sap is gathered  
   
-the spirit of charity from our hearts, let the rich gush- and reduced to the condition of the crude article o
+the spirit of charity from our hearts, let the rich gus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_pennsylvania-school-journal_1852-07_1_7&#0036;29/pct:13.012677,81.633617,79.492916,4.508971/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_pennsylvania-school-journal_1852-07_1_7%2Fsim_pennsylvania-school-journal_1852-07_1_7_jp2.zip%2Fsim_pennsylvania-school-journal_1852-07_1_7_jp2%2Fsim_pennsylvania-school-journal_1852-07_1_7_0029.jp2/pct:13.012677,80.476865,79.418345,5.665722/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2647,7 +3679,7 @@ the spirit of charity from our hearts, let the rich gush- and reduced to the con
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+, that this method of  
 collecting the gum, if persevered in for a few more  
 years, will destroy the source from which this valua-  
   
@@ -2657,7 +3689,122 @@ islands of the blessed bloom in more than Hesperian |
   
 beauty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_pennsylvania-school-journal_1852-07_1_7&#0036;29/pct:12.975391,85.717658,79.418345,4.981114/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_pennsylvania-school-journal_1852-07_1_7%2Fsim_pennsylvania-school-journal_1852-07_1_7_jp2.zip%2Fsim_pennsylvania-school-journal_1852-07_1_7_jp2%2Fsim_pennsylvania-school-journal_1852-07_1_7_0029.jp2/pct:12.975391,85.717658,79.716629,4.981114/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Huntingdon journal._](https://panewsarchive.psu.edu/lccn/sn86071456/1852-08-12/ed-1/seq-1/)
+
+#### 1852-08-12 &middot; [Huntingdon, Pa.](http://dbpedia.org/resource/Huntingdon%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ the instints and the  
+passive faculties; the soul over the body;  
+man over nature.—Guyot&#x27;s Earth and  
+Man.  
+  
+Noble Sentiments.  
+  
+This is an agreeable world after all. If  
+we would only bring ourselves to look at  
+the subjects around us in their true light,  
+and would see beauty where we behold de­  
+formity, and listen to harmony where we  
+hear nothing but discord. To be sure  
+there is a great deal of vexation and anx­  
+iety to meet; we cannot sail upon a sum­  
+mer coast forever, yet if we preserve a  
+calm eye and steady hand, we can so trim  
+our sails and manage our helm, as to avoid  
+the quick sands and weather the storm  
+that threatens shipwrech. We are mem­  
+bers of one great family; we are travelling  
+the same road, and shall arrive at the  
+same goal. We breath the same air, are  
+subject to the same bounty, and we shall  
+lie down upon the bosom of our common&#x27;  
+mother. It is not becoming, then, that  
+brother should hate brother; it is not pro­  
+per that friend should deceive friend; it is  
+sot right that neighbor should deceive  
+neighbor. We pity the man who can har­  
+bor enmity against his fellow; he loses  
+half the enjoyment of life; he embitters his  
+own existence.  
+  
+Le us tear from our eyes the colored  
+mediums that invest every object with the  
+green hue of jealousy and suspicion, and  
+turn a deaf ear to scandal; breathe the  
+spirit of charity from our hearts, let the  
+rich Bushings of human kindness swell up  
+as the fountain, so that the golden ago  
+will become no fiction, and islands of the  
+blessed bloom in more than Hesperian  
+beauty
+</td></tr></table>
+
+---
+
+## [From _The Pacific._](https://archive.org/details/per_the-pacific_the-pacific_1852-08-13_1_52/page/n0/mode/1up?view=theater)
+
+#### 1852-08-13 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+hearts. }  
+  
+This is an agree-  
+able world after all. If we would only  
+bring ourselves to look at the subjects that  
+surround us in their true light, we should  
+see beauty where we behold deformity,  
+and listen to harmony‘where we heard no-  
+thing But discord. To be sure-there is a  
+great deal of vexation and anxiety to meet ;  
+we cannot sail upon a summer coast for-  
+ever; yet if we preserve a calmeye and  
+steady hand, we can so trim eur sails aud  
+manage our helin as to avoid the quick-  
+sand and weather the storms that threaten | ‘?.  
+shipwreck. We are members of one great .  
+family; we are travelling the same road,  
+and shall arrive at the same goal. We  
+breathe the same air, are subject to the  
+same bounty, and’ we shall lie down on the  
+bosom of our common mother. It is not  
+becoming, then, that brother should hate  
+brother; it.is vot right, that.,neighbor  
+should deceive neighber.. We pity that  
+man who can harbor enmity against his  
+fellow man; he looses half the enjoyment  
+of life; he embitters hig oWh existence.  
+  
+Let. us tear from our eyes the ‘Colored me- _ .  
+‘dium that invests evéry object with the  
+  
+green hue of jealousy and suspicion; turn  
+  
+a deaf ear to seandal; breathe’ the spirit  
+  
+of charity from hearts; let. the rich gush-  
+  
+ings of human kindness well np as a foun-  
+  
+tain, so that the “golden age,” will  
+  
+become no. fictiow, and islands of the  
+  
+blessed bloom in more than “ Hyperian  
+beauty.”  
+  
+Apmonis
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1852-08-13_1_52%2Fper_the-pacific_the-pacific_1852-08-13_1_52_jp2.zip%2Fper_the-pacific_the-pacific_1852-08-13_1_52_jp2%2Fper_the-pacific_the-pacific_1852-08-13_1_52_0000.jp2/pct:74.040879,45.265895,21.065188,21.806965/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2673,13 +3820,47 @@ beauty
 
 ---
 
-## [From _The southern enterprise._](https://chroniclingamerica.loc.gov/lccn/sn85027003/1859-05-19/ed-1/seq-1)
+## [From _Democratic watchman._](https://panewsarchive.psu.edu/lccn/sn83031981/1859-05-12/ed-1/seq-2/)
+
+#### 1859-05-12 &middot; [Bellefonte, Pa.](http://dbpedia.org/resource/Bellefonte%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+, vet alit Itarelling the saute road, and  
+shall ill I 0 at the saute goal NVe Ittenlho  
+the q ono air, are ~t119‘,1 to the snore au­  
+ty, and shall lie rimer, upon the Intstort of  
+our VOllllllOll mother It as ittdt , •eorturig then;  
+&#x27;  
+hut broll,er should hate hinrht r, it i , (lot  
+proper that flit nil ,I,llli/11 lie0•11Ii. fat nd,&#x27;lt  
+is Ont right that to rpil.or should riestive  
+neighlrur  
+  
+We pity that man nlaeau harbor (mum.) ,  
+agaiii.t. his fellow : he !uses half the enjoy­  
+intim of life , he embitters 111.1 0,1 n existence  
+Let o f f tear from your eyes the colored me­  
+dium that invests every object with the green  
+hoe of Jealousy anti muimicion : trim a deaf  
+ear to scandal : breath a spurt of charity  
+limn your hearts let the rwh gushings cff  
+11111111111 I 1111.111VSS swell up as a fountain, so  
+that the golden age&#x27;&#x27; will become no fic­  
+tion, and the islands of the blessed bloom in  
+more titan &#x27;• Ilyp;rion beauty &quot;
+</td></tr></table>
+
+---
+
+## [From _The southern enterprise._](https://www.loc.gov/resource/sn85027003/1859-05-19/ed-1/?sp=1)
 
 #### 1859-05-19 &middot; [Greenville, S.C.](http://dbpedia.org/resource/Greenville%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+reaks of  
+violence ?&quot;  
 Noiii.k Sknti mkmk. ?Tli i* is an agreeable world  
 after all. If we would only bring ourselves to  
 look at the subjects that surround us in their  
@@ -2711,133 +3892,126 @@ n spirit of charity from your hearte; let the rich
 gushing of human kindness swell up ns A foun  
 tnin, so that the &quot; golden age &quot; will become no  
 fiction, and the island* of the ble**ed bloom in  
-more than &quot; Hyperion beauty.
+more than &quot; Hyperion beauty.&quot;  
+Cituncn Going.?Att
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_kershawhogjam_ver03%2Fdata%2Fsn85027003%2F00415620111%2F1859051901%2F0791.jp2/pct:65.208845,37.160627,16.953317,19.240123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85027003:00415620111:1859051901:0791/pct:65.208845,35.545987,16.953317,21.887334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Keowee courier._](https://chroniclingamerica.loc.gov/lccn/sn84026912/1859-05-21/ed-1/seq-3)
+## [From _Keowee courier._](https://www.loc.gov/resource/sn84026912/1859-05-21/ed-1/?sp=3)
 
 #### 1859-05-21 &middot; [Pickens Court House, S.C.](http://dbpedia.org/resource/Pickens%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s a gfuilt dual  
-of vexation and anxiety to moot, Wc O.U&lt;not  
-sail on a Hummer coast forever; yi&#x27;t if  
-wo preserve a calm oyo and a steady hand, j  
-wo can so trim our sails and manage our j  
-holm, as to avoid tho fpiicksands, and i  
-; weutherlhe storms that threaten slupwrcek j  
-t c are member* of om? -  
+. This ls anagrer  
+able world after all. If we would only bring  
+ourselves to louk at the subjects that sur  
+round us in their true light, we should see  
+heauty where we beheld deformlty, and lis  
+ten to harmony where we heard flothing but  
+discord. T be sure, there is a wrent deal  
+of vexation and ansicty to meel, we cau  
+sail on a summer coast forever; yet if  
+we preserve a calm eye and a steady hand,  
+we can so trim our sails and manage our  
+helm, as to avold the quicksands, and  
+weatherthe storms that throaten shipwreck  
+We ar meber o on   
   
-... ... .... bi ? wv t &lt;11 ii II &gt; , WU 1  
-j AW IfaVolllujj tin-same road, and .shall nrI  
-liVo ar the name goal. Wo breathe tlio  
-same air. arc subject to the same beauty,  
-and shalHio down upon the bo.som of oui  
-: wimuiVM mulhvY. t? is Unb?e??ii?in^ then  
-I lUal brother should hate brolliVf; il la not  
-j proper that friend should deceivo friend,  
+ et amy wo  
+ahe teavellisy the same rud an sudae  
+rive ae the same goal. We breathe the  
+same air, are subject to the same beauty.  
+and shall lie down upon the bosom of out  
+wunmom mother. Is is unbecoming then  
+that brother should hate brother; Its not  
+proper that friend should deceise friend,  
   
-t &quot; 1.1 ii&quot;liij;iivj,h,U nciguuor suouia deceive,  
-j neighbor.  
-We pit v that man who can Inrbor onnii. |  
-tv against his follow ; lie loses half the en  
-! joymont of lilo ; ho embitters his own oxi  
-istenoe. Lot lu tear from your oyes the ool!  
-tired medium that invests every object with  
-the green iiuo of jealousy and suspicion ;  
+i is not right that neigibor should deceive  
+neighbor.  
+We pity that man who can harbor enmi  
+ty against his fellow; he loses half the en  
+foyment of life; he ambittens hi ouy  
+istence. Let ur tear from your eves the col  
+ored medium that invests every object with  
+the green hue of jealousy and suspicion;  
 turn a deaf ear to scandal; breathe a spirit  
-of charity from your hearts; lot t!&gt;o rich  
-gushing of human kindness swell up n.s a  
-1 fountain, so that the &quot; golden nge &#x27; will  
-{ become no fiction, and the islands of the?  
+of charity from your hearts; let the rich  
+gushings of human kindness swell up as a  
+fountain, so that the &quot;golden age&quot; will  
+become no fiction, and the islands of the  
   
-blessed bloom in more tlian &quot; Hyperion  
-j beauty.*
+blessed bloom in more than &quot;Hyperion  
+beauty.&quot;  
+r Irtacons or CutwaTh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_henryjohnson_ver01%2Fdata%2Fsn84026912%2F00211109981%2F1859052101%2F0860.jp2/pct:17.598746,14.158667,16.793646,18.833894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:sn84026912:00211109981:1859052101:0860/pct:17.598746,10.418485,16.793646,24.348585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Clearfield Republican._
+## [From _Clearfield Republican._](https://www.loc.gov/resource/sn83032199/1859-06-08/ed-1/?sp=1)
 
 #### 1859-06-08 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-the peace of the world. (Cheers.)  
-Nonle SENTIMeNTs. This is an agreea­  
-tle world after all. If we would only  
+ peace of tho world. (Cheers.)  
+Noni.E Sentiments. This is an agrcea­  
+lle world after all. If wo would only  
 bring ourselves to look at the subjects that  
-surrounds us in their true light, we should  
-see beauty where we beheld deformity,  
+surrounds us in their true light, wo should  
+seo beauty whero wo beheld deformity,  
 and listen to harmony where we heard  
-nothing but discord. To be sure, there is  
+nothing but discord. To bo sure, there is  
 a great deal of vexation and anxiety, to  
 meet, we cannot sail on a summer coast  
-forever; yet if we preserve a calm eye and  
+forever ; yet if we preserve a calm eye und  
 a steady hand, we can so trim our sails  
-and manage our helm, as to avoid the  
-quicksands, and weather the storms that  
-threaten shipwreck. We are members of  
-one great family; we are travelling the  
-same road, and shall arrive at the same  
- We heoathe the same afy aro  
-ject to the same beauty, and shall lie down  
-upon the bosom of our common mother.  
+and manago our helm, as to avoid the  
+quicksands, and weather tho storms that  
+threaten shipwreck. Wo aro members of  
+ono great family ; wo aro travelling the  
+samo road, nnd shall arrive at tho samo  
+I (&#x27; l.ll. tl.n cn.nn nt. I...  
+ject to the samo beauty, and shall lio down  
+upon tho bosom of ourcomrr.oo mother.  
 It is unbecoming then that brother should  
-hate brother; it is not proper that friend  
-should deceive friend, it is not right that  
+bate brother ; it is not proper that friend  
+should decoive friend, it is not right that  
 neighbor should deceive neighbor.  
-We pity that man who can harbor en­  
-mity against his fellow; he loses half the  
-enjoment of life; he embitters his own ex­  
+We pity that man who can harlor en­  
+mity against his fellow ; ho loses half the  
+onjoment of life ; he ombittors his own ex­  
 istence. Let us tear from our eyes the  
 colored medium that invests every object  
-with the green hue of jealousy and suspi­  
-cion; turn a deaf ear to the scandal;  
+with tho green hue of jealousy and suspi­  
+oion ; turn ft deaf enr to tho scandal ;  
 breathe a spirit of charity from your  
-hearts; let the rich gushings of human  
-kindness swell up as a fountain, so that  
-the, golden age&quot; will become no fiction,  
+hearts ; let tho rich gushings of human  
+kindness swell up ns a fountain, so tlit&#x27;t  
+the, &#x27;golden age&quot; will booomo no fiction,  
 and the islands of the blessed, bloom in  
 more than &quot;Hyperion beauty.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1859060801:0333/pct:32.832571,71.410091,15.088178,20.497341/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _The prairie news._](https://chroniclingamerica.loc.gov/lccn/sn85034467/1859-08-04/ed-1/seq-1)
+## [From _The prairie news._](https://www.loc.gov/resource/sn85034467/1859-08-04/ed-1/?sp=1)
 
 #### 1859-08-04 &middot; [Okolona, Miss.](http://dbpedia.org/resource/Okolona%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-es, but, when I went  
-to remonstrate with the felli w about it,  
-what do you think the imuudent rascal  
-told me t He told mo to go to h 1 1&quot;,  
-With these&#x27; words he laid a ten dollar  
-bill on the desk, and said. &quot;Now. what  
-would you dot&quot; ;  
-&quot;JJo you mean this for a retainer J&quot;  
-said Brief. - .  
-&quot;I do.&quot;  
-&quot; Then,&quot; said Brief, quietly folding up4  
-the X and putting it in his pocket,&#x27; bo  
-told you to go lo h 1.. Well, mj opin­  
-ion and advice to you in don&#x27;t you do it.  
-There is, moreover, no statute or local  
-law that can compel you to a specific  
-performance ; I fay don&#x27;t you do It.&quot; &#x27;  
-Cin. Enji  
+i  
 NobU Saatlnaau.  
 This is an agreeable world after all.  
 If we would only bring ourselres to look  
@@ -2874,9 +4048,9 @@ hearts ; let the rich tushinc of human
 kindness swell up as a fountain jbo that  
 the &quot; golden age&quot; will become no fiction,  
 and the islands of the- blessed bloom in-  
-more than Hyperion beauty.&quot; , ; ; 
+more than Hyperion beauty.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_kingsombra_ver01%2Fdata%2Fsn85034467%2F00415662014%2F1859080401%2F0316.jp2/pct:78.975630,50.518984,15.386204,33.529090/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn85034467:00415662014:1859080401:0316/pct:105.243600,82.450150,20.334434,29.609396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2888,7 +4062,8 @@ more than Hyperion beauty.&quot; , ; ;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+_  
+NOBLE’ SENTIMENTS.  
   
 This is an agreeable world, after all. If we  
 would only bring ourselves to look at the sub-  
@@ -2919,21 +4094,21 @@ to scandal; breathe a spirit of charity from our
 hearts ; let the rich gushings of human kindness  
 sweil up as a fountain, so that the “ golden age ”  
 will become no fiction, and the islands of the  
-blessed bloom in more than “ Hyperion beauty.
+blessed bloom in more than “ Hyperion beauty.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/iiif/sim_flag-of-our-union_1859-11-12_14_46&#0036;2/pct:27.172196,57.035176,12.460506,13.457915/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_flag-of-our-union_1859-11-12_14_46%2Fsim_flag-of-our-union_1859-11-12_14_46_jp2.zip%2Fsim_flag-of-our-union_1859-11-12_14_46_jp2%2Fsim_flag-of-our-union_1859-11-12_14_46_0002.jp2/pct:27.172196,56.454146,12.460506,14.038945/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Des Arc citizen._](https://chroniclingamerica.loc.gov/lccn/sn89051343/1859-11-23/ed-1/seq-1)
+## [From _Des Arc citizen._](https://www.loc.gov/resource/sn89051343/1859-11-23/ed-1/?sp=1)
 
 #### 1859-11-23 &middot; [Des Arc, Ark.](http://dbpedia.org/resource/Des_Arc%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
   
 Nonr.E Sentiments. — This is an  
 agreeable world, after all. If we would  
@@ -2971,21 +4146,33 @@ rich gushings of human kindness swell
 up as a fountain, so that “the golden age”  
 will become no fiction, and the islands of  
 the blessed bloom in more lhanHyperian  
-beauty
+beaut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_dragonair_ver01%2Fdata%2Fsn89051343%2F00414212578%2F1859112301%2F0395.jp2/pct:82.701904,16.739666,12.996673,20.780865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1859112301:0395/pct:82.717190,16.741958,12.994455,20.780287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1859-12-06/ed-1/seq-1)
+## [From _Staunton spectator._](https://www.loc.gov/resource/sn84024718/1859-12-06/ed-1/?sp=1)
 
 #### 1859-12-06 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+derive from  
+smoking, with provoking nouohalance, as if it  
+were noDe of my business. Alter smoking he  
+concluded to dress himself. Upon looking around  
+awhile, he found his inexpressibles, which he  
+brought to me to arrange in their proper place.  
+After that he gathered up his shoes and stock­  
+ings, which he put on himself, I having nothing  
+to do in the latter process but to tie the shoe­  
+strings. It was not long after this that I was  
+on the road again, and what I saw, heard and  
+thought, or at least so much as I with you to  
+know, must be reserved for another letter.  
 ’ L’ ANGUILLE.  
 Noble Sentiments.—This is an agreeable  
 world, after all. If we would only bring our -  
@@ -3017,82 +4204,69 @@ it ot charity from your hearts; let the rich gush­
 ings of human kindness swell up as a fountain,  
 so “that the golden age” will become no fiction,  
 and the islands of the blessed bloom in more  
-than Hyperiau beauty.—Selected.
+than Hyperiau beauty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_loons_ver01%2Fdata%2Fsn84024718%2F00414183773%2F1859120601%2F0373.jp2/pct:70.525606,54.928518,12.767296,14.892149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183773:1859120601:0373/pct:70.454239,49.205155,12.845397,20.618945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Evening star._](https://chroniclingamerica.loc.gov/lccn/sn83045462/1860-06-28/ed-1/seq-1)
+## [From _Evening star._](https://www.loc.gov/resource/sn83045462/1860-06-28/ed-1/?sp=1)
 
 #### 1860-06-28 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-Noili SerrivrKT*.?Thi? is an agreeable  
-world after all. If we would only bring our??1?m  
+.  
+Nonle SExTINEerS. This is an agreeable  
+world after all. If we would only bring oure  
 to look at the subjects that surround us  
 in their true light, we should see beauty whe  
-we beheld deformity, aad listen to haruiony  
-where we heard nothing but discord To be  
+we beheld deformity, aad listen to harmony  
+where we heard nothing but discord. To be  
 sure, there is a great deal of vexation and  
-anxHy to meet: we cannot sail on a summer  
-coaal forever; yet if we preserve a calm eye  
+anxky to meet, we cannot sail on a summer  
+coast forever; yet if we preserve a calm eye  
 and steady hand we can so trim our sails and  
-manage our helm, as to avoid the quicksand?,  
-and weather the stonus that threaten shipwreck  
+manage our helm, as to avoid the quicksands.  
+and veather the storms that threaten shipe  
 We are members of one great family;  
-we are traveling the same road, and shall arrive  
-at the same goal We breathe the same  
-air. are subject to the same beauty, and shall  
-J - 1 &#x27; ?  
+we are traveling the same road, and shall are  
+at the same goal. We breathe the same  
+air, are subject to the same beauty, and shall  
+ow on the bosom of o a  
   
-iic u?wu iipuu tuc uvauia 01 our common moioer.  
-It i* unbecoming then that brother should  
-bate brother it ii not proper that friend should  
-deceive friend; it U not right that neighbor  
-should deceive neighbor. We pitj that man  
-w bo can harbor enmity again &lt;t hia fellow; he  
-] -m half the enjoyment of life; he embitters  
-kit own existence Let as tear from jour eyes  
-the eolored medium that invents every object  
+tie down upon the borom of our common moth  
+It is unbecoming then that brother should  
+hate brother; it is not proper that friend should  
+deceive friend, it is not right that neighbor  
+should deceive neighbor. We pity that man  
+who can harbor enmity against his fellow; he  
+Lises half the enjoyment of life, he embitters  
+his own existence. Let us tear from your eyes  
+the colored medinm that invests every object  
 with the green hue of jealousy and suspicion;  
 turn a deaf ear to scandal; breathe a spirit of  
-charity from your hearts: let the rich gushings  
-??f human kindness swell up as a fountain, so  
-that the &#x27;&#x27;golden age&quot;&#x27; will become no fiction,  
-an l the islands of the blessed bloom in more  
-than Hyperion beauty.&quot;
+charity from your hearts; let the rich gushings  
+of human kindness swell up as a fountain, so  
+that the &quot;golden age&quot; will become no fiction,  
+and the islands of the blessed bloom in more  
+than &quot;Hyperion beauty.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/dlc_leonberger_ver03%2Fdata%2Fsn83045462%2F00280654152%2F1860062801%2F0211.jp2/pct:1.210139,70.011320,17.792314,14.626455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654152:1860062801:0211/pct:1.210139,70.011320,17.792314,14.626455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Delaware gazette._](https://chroniclingamerica.loc.gov/lccn/sn83035595/1860-07-06/ed-1/seq-1)
+## [From _Delaware gazette._](https://www.loc.gov/resource/sn83035595/1860-07-06/ed-1/?sp=1)
 
 #### 1860-07-06 &middot; [Delaware, Ohio](http://dbpedia.org/resource/Delaware%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ow were you able, with suchpa-tienee,-ou  
-various occasions, to bear iny abuse?&quot;  
-&quot;JFrieod,&quot; replied the Quaker, &quot;I will tell thee ;  
-I was naturally as hot and violent as thou art.  
-I knew that to indulge this temper was sinful;  
-and femid it was imprudent. I observed  
-that inca in a passion always spake&#x27; aloud;  
-ajod I thought if I controlled my voice I should  
-repress my passions. I, therefore, made a rule  
-never to let my voice rise above a certain key,  
-and. by a cartful observance of this rule, I have  
-by tips blessing of God, entirely mastered my  
-BSnral -temper , j ..: - ;  
-,,f, JXQUJX SEOTDCinjTS.  
+ SEOTDCinjTS.  
 This is an agreeable world after all. If we  
 would only bring ourselves to look at the sub­  
 ject that surround us in their true light, we  
@@ -3122,130 +4296,117 @@ breath a&#x27; spirit of charity from our hearts, let
 the rich gushing of haman kindness swell np  
 8 a fdnalipinap that the &quot;golden age&quot; will be­  
 etome &#x27;no Action , and the islands of the blessed  
-boobs h mora toao -xiyperum oomj.
+boobs h mora toao -xiyperu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/ohi_julian_ver02%2Fdata%2Fsn83035595%2F00296029191%2F1860070601%2F0465.jp2/pct:5.584826,72.883239,10.702996,21.710689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296029191:1860070601:0465/pct:7.540638,106.467539,14.163155,19.649469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Clearfield Republican._
+## [From _Clearfield Republican._](https://www.loc.gov/resource/sn83032199/1860-07-18/ed-1/?sp=1)
 
 #### 1860-07-18 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-Nonle SENTIMENTs. This is an agrecable  
-world after all. If we would only bring  
-ourselves to look at the subjects that sur­  
-round us in their true light, we should see  
-beauty where we beheld deformity, and  
-listen to harmony where we heard noth­  
-ing but discord. To be sure, there is a  
-great deal of vexation and anxity to meet;  
-we cannot sail on a summer coast forever;  
-yet if we preserve a calm eye and steady  
-hand we can so trim our sails and manage  
-our helm, as to avoid the quicksands, and  
+. This is nn ngrceablo  
+world lifter nil. If wo would only brirg  
+ourselves to look nt the subjects that sur­  
+round us in their truo light, we should seo  
+beauty where we beheld deformity, nnd  
+listen to harmony w hero ive heard noth­  
+ing but discord. To be sure, thero is a  
+great deal of vexation and nnxity to meet ;  
+we cannot suil on a summer const forever ;  
+yet if we p.eserve a calm eye nnd&#x27; steady  
+hand wo can so trim our sails and manage  
+our helm, as to avoid tho quicksands, nnd  
 weather the storms that threaten ship­  
-wreck. We are members of one family; we  
-are traveling the same road, and shall arrive  
-at the same goal. We breathe the srme  
-air, are subject to the same beauty, and  
-shall lie down upon the bosom of our com­  
+wreck. We nro members ofone family; we  
+nre traveling thesame rond, nnd shall arrive  
+nt tho same goal. Wo breathe the srmo  
+nir. nro ulject to the same beauty , mid.  
+shall lie down upon tho bosom of our com­  
 mon mother. It is unbecoming then that  
-brother shoud hate brother; it is not preper  
+brother shoud haiebrothcr; it is not proper  
 that friend should deceive friend; it is not  
-right that neighbor should deceive neigh-  
-bor. We pity that man who can harbor­  
-enmity against his fellow, he loses half th  
-enjoyment of life; he embitters his own  
-existence. Let us tear from your eyes the  
-colored medinm that invests every object,  
-with the green hue of jealousy and suspi­  
-cion; turn a deaf ear to scandal; breathe a  
-spirit of charity from your hearts; let the  
-rich gushings of human kindness swell up  
-as a fountain, so that the &quot;golden age&quot;  
-will become no fiction, and the lslands of  
-the blessed bloom in more than &quot;Hyperi  
+right that neighbor should deceive neigh-,  
+bor. &#x27;We pity that man who can harbor­  
+enmity against his fellow, ho fonts half th  
+enjoyment of lite; ho embitters his own  
+existence. Los us tear from your eyes tho  
+colored medium that invests every object,  
+with the green hue of jealousy unci suspi­  
+cion; turn n deaf ear tosoaudal ; breathe a  
+spirit of charity from your hearts; let tho  
+rich gushing of human kindnoss swell ux  
+as a fountain, so that the &quot;golden nge&quot;  
+will become no fiction, nnd tho Islands of  
+the blessed bloom in more than &quot;Ilyperw  
 on beauty.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1860071801:0358/pct:78.709810,17.967661,14.921682,18.427655/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _Clearfield Republican._
+## [From _Clearfield Republican._](https://www.loc.gov/resource/sn83032199/1860-07-18/ed-2/?sp=1)
 
 #### 1860-07-18 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-Nonle SEntIMents.This is an agreeable  
-world after all. If we would only bring  
-ourselves to look at the subjects that sura  
-round us in their true light, we should see  
+. This is nn agreeable)  
+world nftcr nil. If wo would only brir g  
+oursolves to look nt the subjects that sur,  
+round us in their truelight, we should see  
 beauty where we beheld deformity, and  
 listen to harmony where we heard noth­  
-ing but discord. To be sure, there is a  
-great deal of vexation and anxity to meet;  
-we cannot sail on a summer coast forever:  
-yet if we preserve a calm eye and steady  
-hand we can so trim our sails and manage  
-our helm, as to avoid the quicksands, and  
+ing but discord. To be sure, there it a  
+great deal of vexation and anxity to meet ;  
+we onnnot sail on a summer coast farever ;  
+yet if we pmcrve a calm eyo and steady  
+hand we can so trim our sails and manage,  
+our helm, ns to avoid the quicksands, nnd  
 weather the storms that threaten ship­  
-wreck. We are members of one family; we  
-are traveling the same road, and shall arrive  
-at the same goal. We breathe the srme  
-air, are subject to the same beauty, and  
-shall lie down upon the bosom of our coms  
+wreck. We aro members of one family; wn  
+are traveling thesame road, and shall arrive,  
+nt the same goul. Wa brentho the srme  
+air. are subject to the samo beauty , nnd,  
+shall lie down upon the bosom of our conu  
 mon mother. It is unbecoming then that  
-brother shoud hate brother; it is not proper.  
-that friend should deceive friend; it is not  
-right that neighbor should deceive neigh-  
+brother shoud hate brother; it is not proper  
+that IViond should deceive friend; it is not  
+right that neighbor should deceive neigh-,  
 bor. We pity that man who can harbor­  
-enmity against his fellow, he loses half the  
-enjoyment of life; he embitters his own  
-existence. Let us tear from your eyes the  
-colored medinm that invests every object  
-with the green hue of jealousy and suspi­  
-cion; turn a deaf ear to scandal; breathe a  
-spirit of charity from your hearts; let the  
-rich gushings of human kindness swell up  
-as a fountain, so that the &quot;golden age&quot;  
-will become no fiction, and the lslands of­  
-the blessed bloom in more than &quot;Hyperi.  
-on beauty
-</td></tr></table>
+enmity ngainst his fellow, be losts half the,  
+enjoyment of life; ho embitters his own,  
+existence. Let us tear from your eyes tho.  
+colored medinm that invests every object,  
+with tho green hue of jealousy nnd suspi­  
+cion; turn a deaf ear tosoindal ; brentho a.  
+spirit of charily from your hearts; let llio. .  
+rich gushing of human kindnos swell up,  
+as a fountain, so that the &quot;golden ago&quot;  
+will become no fiction, and the Islands of­  
+the blessed bloom in more than &quot;Hypcri-  
+on beauty.&quot;
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477849:1860071802:0197/pct:105.491453,23.700504,20.576923,24.607631/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Green-Mountain freeman._](https://chroniclingamerica.loc.gov/lccn/sn84023209/1860-08-09/ed-1/seq-8)
+## [From _Green-Mountain freeman._](https://www.loc.gov/resource/sn84023209/1860-08-09/ed-1/?sp=8)
 
 #### 1860-08-09 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
-ows of the twilight have interposed their vale  
-between us ; we look around for the familiar  
-faces: tho companions of our travel, but we  
-gazo in vain to find them ; we have out­  
-stripped them all in tho race after ptcaBuro  
-and the phantom has fled ; and caught, in a  
-land of strangers, in a sterile and inhospita­  
-ble country, the night time overtakes us.  
-  
-tho dark and terrible night time of death;  
-and weary ajid&#x27; heavy laden, we lie down  
-to rest in tho bed of tho grave ! Happy,  
-thrice happy is he who has laid up treasures  
-for the distant and unknown to-morrow.  
-Knickerbocker.  
+.  
   
 Noble Sentiments-  
 This is an agreeable world, after all.  
@@ -3287,19 +4448,34 @@ en age &#x27; will become no fiction, and the is­
 lands of the blessed bloom in moro than Ily­  
 pernian beauty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vtu_hildene_ver01%2Fdata%2Fsn84023209%2F00202197619%2F1860080901%2F0169.jp2/pct:12.198700,10.703539,32.341228,84.267087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197619:1860080901:0169/pct:38.076278,20.533028,21.290863,30.219229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1860-09-11/ed-1/seq-1)
+## [From _The Anderson intelligencer._](https://www.loc.gov/resource/sn84026965/1860-09-11/ed-1/?sp=1)
 
 #### 1860-09-11 &middot; [Anderson Court House, S.C.](http://dbpedia.org/resource/Anderson%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+s  
+their reason, and, like Honeywood in the  
+play, they satisfy and encourage the ap?  
+parently charitable demands of those who  
+have penetration enough to ascertain&#x27;the  
+weak points of their &quot; good natured  
+friend,&quot; and brass enough to invent and  
+Cany out their schemes of attack.  
+Good humor, when not weakened by a  
+universal and indiscriminate charity, is  
+the most exquisite beauty of a fine face,  
+and a redeeming grace in a homely one.  
+It is like the green in the landscape, har?  
+monizing with every color, mellowing the  
+glories of the bright, and softening the__  
+hue of tho dark,  
 -*&gt;­  
 Noele Sentiments.?This is an agree?  
 able world, after all. If we would only  
@@ -3335,21 +4511,60 @@ the spirit of charity from our hearts; let
 the rich gush of human kindness swell up  
 a. fountain, so that the &quot;golden age&quot; will  
 become no fiction, and blessings bloom in  
-more than &quot;Hesperian beauty.
+more than
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551244%2F1860091101%2F0017.jp2/pct:81.724288,50.411430,16.373125,25.841562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551244:1860091101:0017/pct:81.686236,39.542190,16.682975,36.579892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _East Saginaw courier._](https://chroniclingamerica.loc.gov/lccn/sn97063063/1863-04-28/ed-1/seq-1)
+## [From _Mineral Point weekly tribune._](https://www.loc.gov/resource/sn86086769/1861-04-16/ed-1/?sp=1)
+
+#### 1861-04-16 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ SlNtiMents.- This is an  
+agreeable world after all. If we would  
+only bring ourselves to look at the sub­  
+jects that surround us in their true light  
+ve should see beauty where we behold  
+7 O
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1861041601:0623/pct:83.414892,77.787743,11.122867,3.602392/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Danbury times._](https://www.loc.gov/resource/sn84022465/1862-05-22/ed-1/?sp=1)
+
+#### 1862-05-22 &middot; [Danbury, Conn.](http://dbpedia.org/resource/Danbury%2C_Connecticut)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ would turn a deaf oar to the  
+(ale of scandal, breathe the spirit of charity ।  
+from our lips ; and from our heart let the &gt;  
+rich gushing* of human kindness swell up  
+as a fountain, the “ golden age&quot; would be  
+■ come a fiction, and the island of the blessed  
+bloom in more than Hesperian beauty
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_algaesoup_ver02:data:sn84022465:0051717452A:1862052201:0665/pct:29.769959,67.127675,13.357819,3.435726/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _East Saginaw courier._](https://www.loc.gov/resource/sn97063063/1863-04-28/ed-1/?sp=1)
 
 #### 1863-04-28 &middot; [East Saginaw, Mich.](http://dbpedia.org/resource/Saginaw%2C_Michigan)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+in the world.  
 Noni.B Sentiments. This m an agree­  
 able world after all. If wo w ould only  
 bring ourselves to look at the subjects  
@@ -3388,21 +4603,135 @@ our hearts : let the rich gushing of hu­
 man kindness swell up as a fountain, so  
 that tho &quot;golden age&quot; will become no  
 fiction, and the islands of tho blessed  
-bloom in more than &quot;Hyperian beauty.
+bloom in more than &quot;Hyperian beauty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/mimtptc_flint_ver01%2Fdata%2Fsn97063063%2F00296024302%2F1863042801%2F0896.jp2/pct:31.594119,50.800840,12.727011,21.838065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024302:1863042801:0896/pct:47.377522,74.594057,19.077810,34.364299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The daily phoenix._](https://chroniclingamerica.loc.gov/lccn/sn84027008/1866-04-08/ed-1/seq-4)
+## [From _Village record._](https://panewsarchive.psu.edu/lccn/sn88079228/1863-05-08/ed-1/seq-1/)
+
+#### 1863-05-08 &middot; [Waynesboro', Pa.](http://dbpedia.org/resource/Waynesboro%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ North  
+American.  
+  
+Noble Sentitaents  
+  
+This is an agreeable world after all. If  
+we would: bring- Ourselves to look ,at the  
+subjects that surround us in their true light,  
+We should behold bounty&#x27; where&#x27; otherwise  
+all is &#x27;defOrinity, and listen to harmony where.  
+we heard nothing but discord. To be sure,  
+there is a great deal of vexation and anxiety  
+to meet;&#x27; we eminot sail on a summer coast  
+forever, yet it we preserye a&#x27; calm eye and a  
+steady heart, we can so tri our sails and  
+ts ,  
+manage out helm, as to avoi the quicksand&#x27;s,  
+and weather the storms that hrcaten ship­  
+wreck. We aro traveling the same road, and  
+shall arrive at&#x27; the same goal. We breathe  
+the same air, are subject to the same sorrows,  
+- And - shall - lie - down-upon—the—basoiii_or our  
+common. knottier. . It is unbecoming &#x27; then,  
+that brother should Hatobrother i&#x27; it is not  
+proper&#x27; that • &#x27;friend should deceive frien&#x27;l&#x27;;  
+it&#x27;is tot&#x27;right that neighbor sheuld &#x27; deceive  
+neighbor.. &#x27;  
+  
+We pity the man who can&#x27; barber enmity  
+against his fellow ; he &amp;Ms&#x27; lial!ef the enjOy i  
+meet of lite&#x27;;:einbitterie his otra L&#x27;existeOCe.—  
+Lit us tear limn oar 63 , 6 the enlOred - MCcli­  
+im that invests every objee(ll4li the green  
+has &#x27;of jealoaSy and suspiet4;ini . turn 464  
+ear to scandal ; . a spirit ehaiity  
+front he:irts.  
+the gushing , ot 
+</td></tr></table>
+
+---
+
+## [From _New Berne daily times._](https://newspapers.digitalnc.org/lccn/sn85042124/1866-03-30/ed-1/seq-1/)
+
+#### 1866-03-30 &middot; [New Berne, N.C.](http://dbpedia.org/resource/New_Bern%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+. -This . is- an agreeable  
+  
+orld after all. -If we would only brin Ourselves  
+o look at the subjecUthars&#x27;uund us&quot; in their  
+puiBght.e fehould see beauty where wVbehold  
+  
+eiurmuy, and hsten to harmony1 where we -be-  
+  
+-&#x27;v, auu listen to harmony? where-we  
+  
+&quot;&quot;&quot;ojto. -looe sure, were .is  
+great deal of vexation to meet we ; cannot sail  
+  
+JPoa a clear coast forever; yet wetpreserve a  
+2aUn eve anl BtT.j v a . . . ;v. - &#x27;  
+  
+. - &quot;j &quot;&quot;uu, we can so trim our  
+and manage our helm,- as to avoid  
+pe quicksands and weather the storms that  
+threaten shipwreck. We are &quot; members -of one  
+patfemily; we are traveling ihe same road, and  
+  
+arnvft t  
+  
+- oiuue goat. e oreavne  
+8 Same aU subject to iko. Enmknnnf  
+  
+Shall lie down On th bnsnm of iTV OAmmmi  
+  
+r T; not becoming, then, that brother  
+  
+ui in in w a a t j  
+  
+-&quot;a orotner j it.isTnot proper that friends  
+  
+ucceive friends : it isnntriorKt. y,ot  
+  
+k?ljUnei
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCDailyT8n_ver01%2Fdata%2F1866033001%2F0601.jp2/pct:2.583440,99.117491,22.897946,18.118022/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The daily phoenix._](https://www.loc.gov/resource/sn84027008/1866-04-08/ed-1/?sp=4)
 
 #### 1866-04-08 &middot; [Columbia, S.C.](http://dbpedia.org/resource/Columbia%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+Gazette was issued, of which James  
+Franklin was the printer. In 1721,  
+Franklin established the New Eng.  
+land Courant, and being soon after  
+imprisoned, was succeeded by his  
+brother Benjamin. In 1727, James  
+Franklin established a paper at New­  
+Sort. In 1731, the Boston Weekly  
+Rehearsal-afterward called the Bos?  
+ton Evening Post-was started by  
+Thomas Fleet. New York, it seems,  
+was twenty-one years behind Boston  
+in newspapers, the first paper having  
+been established in 1715, by William  
+Bradford, under the title of tho New  
+York Gazette. The size was about  
+half-a-sheet of foolscap.  
 NOBLE SENTIMENTS.-This is an  
 agreeable world after all. If we j  
 would only bring ourselves to look at  
@@ -3437,21 +4766,42 @@ colored medium that invests every
 object with the green hue of jealousy  
 and suspicion; turn a deaf ear to  
 scandal, and breathe the spirit of  
-charity from our hearts
+charity from our hearts.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_alexiavalentine_ver01%2Fdata%2Fsn84027008%2F00294551657%2F1866040801%2F0008.jp2/pct:33.939167,27.549144,16.195116,22.316504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551657:1866040801:0008/pct:33.932921,16.320181,16.320030,33.531325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Staunton spectator._](https://chroniclingamerica.loc.gov/lccn/sn84024718/1866-04-17/ed-1/seq-4)
+## [From _Staunton spectator._](https://www.loc.gov/resource/sn84024718/1866-04-17/ed-1/?sp=4)
 
 #### 1866-04-17 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ in his  
+i life time, the product of his professional and  
+political speculations. He died leaving his  
+! property to his children, and his debts to his  
+| friends. The former sold for less than $20,000,  
+} the latter exceeded $250.0001  
+Henry Clay left a very handsome estate. It  
+| probably exceeded $100,000. He was a pru­  
+i dent manager and a scrupulously honest man.  
+James K. Folk left about $150,000, $50,000  
+Jof which he saved from his presidency of four  
+j years.  
+| John Tyler left $50,000. Before he reached  
+j the presidency he was a bankrupt. In office he  
+! husbanded his means, and then married a rich  
+: wife.  
+Zachary Taylor left $150,000.  
+Millard Fillmore is a wealthy man, and keeps  
+i his money in a strong box. It Avill not be  
+i squandered in speculation nor in vice.  
+| _ Ex-President Pierce saved some $50,000 from  
+; his term of service.  
   
 Noble Sentiments.—This is an agreeable  
 world after all. If we would only bring ourselves  
@@ -3479,21 +4829,21 @@ his own existence. Let us tear from our eyes
 the colored medium that invests every object  
 with the green hue of jealousy ancl suspicion ;  
 turn a deaf scandal, and breathe the spirit  
-of charity from our hearts
+of charity from our hearts.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/vi_lure_ver01%2Fdata%2Fsn84024718%2F00280762477%2F1866041701%2F0075.jp2/pct:35.700345,28.104294,14.347195,13.301816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762477:1866041701:0075/pct:35.385077,17.051682,14.652455,24.347265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Anderson intelligencer._](https://chroniclingamerica.loc.gov/lccn/sn84026965/1866-04-19/ed-1/seq-1)
+## [From _The Anderson intelligencer._](https://www.loc.gov/resource/sn84026965/1866-04-19/ed-1/?sp=1)
 
 #### 1866-04-19 &middot; [Anderson Court House, S.C.](http://dbpedia.org/resource/Anderson%2C_South_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+?  
 Noble Sentiments.?This rs an agree?  
 able world after aft. ff we would only  
 bring ourselvos to look at the subjects  
@@ -3525,32 +4875,71 @@ colored medium rUftt invests every object
 with tbo green&#x27; hue of jealousy and suspi?  
 cion; turn a deaf ear to scatadal, and  
 breathe the spirit of charity from our  
-hearts
+hearts.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/scu_carlacox_ver01%2Fdata%2Fsn84026965%2F00294551244%2F1866041901%2F0297.jp2/pct:81.430574,39.106876,16.235446,22.840060/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551244:1866041901:0297/pct:81.419793,39.103139,16.235446,22.836323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Public ledger._](https://chroniclingamerica.loc.gov/lccn/sn85033673/1866-12-07/ed-1/seq-1)
+## [From _The Bolivar bulletin._](https://www.loc.gov/resource/sn85033306/1866-05-12/ed-1/?sp=4)
+
+#### 1866-05-12 &middot; [Bolivar, Hardeman County, Tenn.](http://dbpedia.org/resource/Bolivar%2C_Tennessee)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+in his lifetime, the product of his profes  
+tdonal speculation. lie died leaving his  
+property to hi children, and his debts to  
+ins friends. Iho lormer sold lor less tnau  
+$20,000 ; the latter exceeded $55,000.  
+John J vler lelt S.jO.UW. Jieloro lie was  
+President ho was bankrupt. In office he  
+husbanded his- means, and then married a  
+rich wife.  
+Zachary Tavlor left $100,000.  
+Millard Fillmoro is a wealthy man, and  
+keens las money in a etronir box. It will  
+not be squandered in speculation and vice.  
+Frank Pierce saved some $50,000 from his  
+term of service
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470107:1866051201:0330/pct:7.119741,30.633076,16.680151,9.392985/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Hillsborough recorder._](https://www.loc.gov/resource/sn84026472/1866-05-30/ed-1/?sp=2)
+
+#### 1866-05-30 &middot; [Hillsborough, N.C.](http://dbpedia.org/resource/Hillsborough%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+means, and then married a  
+rich wife  
+Zachary Taylor left $150,000.  
+Millard Fillmore is a wealthy man and  
+keeps his money in a strong box. It will  
+not be squandered in speculation and vice.  
+Frank. Pierce saved some $50,000 fron  
+his term of service.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1866053001:1014/pct:76.182592,85.379692,21.050142,5.891766/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Public ledger._](https://www.loc.gov/resource/sn85033673/1866-12-07/ed-1/?sp=1)
 
 #### 1866-12-07 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-o bit of good smell about it.  
-It Is true that enny kind ov a laff, if it  
-iz honest, is better than none; but give  
-me the luff that looks out ov a man a eye,  
-lust, tew see it the coust is clear, then  
-steals down inte the dimple of his chsek  
-and rides in an eddy there awhile, then  
-waltzes a spell at the corner of his  
-mouth like a thing of life, then bursts its  
-bouds of beauty and fills the air for a  
-moment with a shower of silvcry-tongucd  
-Bpurks, then steals bak with a smile tew  
+ith a smile tew  
 lair in the heart tew watvh agin for its  
 prey this is the kind of laff that 1 luv  
 and am t afraid ov.  
@@ -3592,15 +4981,40 @@ hearts let the rich gushings of human
 kindness swell np as troni a fountain, so  
 the &quot; golden age &#x27; will become no fiction,  
 and the &quot; island of the blessed &quot; bloom  
-with more than Hesperian beauty
+with more than Hesperian beauty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/tu_nancy_ver01%2Fdata%2Fsn85033673%2F00280779349%2F1866120701%2F0941.jp2/pct:29.897339,52.422717,13.094490,26.355140/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779349:1866120701:0941/pct:39.824121,77.023724,17.336683,28.008627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _The daily Gate City._
+## [From _The daily Gate City._](https://www.loc.gov/resource/sn83025182/1866-12-09/ed-1/?sp=3)
+
+#### 1866-12-09 &middot; [Keokuk, Iowa](http://dbpedia.org/resource/Keokuk%2C_Iowa)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+NonLe SENTINENts. This is an agreeable  
+world after all. If we would only bring our  
+Celves te  
+  
+look  
+  
+at the subects that sutronnd us  
+  
+i their true light, we would see beauty whers  
+we nos hehold deformiity, and listen
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528360:1866120901:0542/pct:15.169692,44.117294,10.970797,2.175219/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The daily Gate City._](https://www.loc.gov/resource/sn83025182/1866-12-09/ed-1/?sp=3)
 
 #### 1866-12-09 &middot; [Keokuk, Iowa](http://dbpedia.org/resource/Keokuk%2C_Iowa)
 
@@ -3616,15 +5030,18 @@ um that invests every object with the green
 hue of envy and suspicion; turn a deaf ear  
 to scandal, breathe a spirit of charity from  
 our hearts; let the rich gushing of human  
-kindeess swell up as a fountain, so that the  
+kindesss swell up as a fountain, so that the  
 &quot;golden age&quot; may become no fiction, and  
 the islands of the blessed btoom in more than  
-Hyperian beauty
-</td></tr></table>
+Hyperian beauty.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528360:1866120901:0542/pct:15.348592,52.261347,10.870823,4.847174/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _The daily Gate City._
+## [From _The daily Gate City._](https://www.loc.gov/resource/sn83025182/1866-12-09/ed-1/?sp=3)
 
 #### 1866-12-09 &middot; [Keokuk, Iowa](http://dbpedia.org/resource/Keokuk%2C_Iowa)
 
@@ -3638,40 +5055,28 @@ coast forever; yet if we preserve a calm eye
 and a steady hand we can so trim our sails  
 and manage our helm, as to avoid the  
 rocks and weather the storms that threaten  
-shipwreck. We aire members of one great  
+shipwreck. We are members of one great  
 family; we are traveling the same road, and  
-shall arrive at the same commaon goal. We  
+shall arrive at the same common goal. We  
 breathe the same air, are subject to the same  
 beauty, and shall lie down on the bosom of  
 our common mother. It is unbecoming then  
 that brother should hate brother; it is not  
-propes that friend should deceive frien
-</td></tr></table>
+propes that friend should deceive friend
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528360:1866120901:0542/pct:15.295975,46.252454,10.891871,6.048952/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _The Bossier banner._](https://chroniclingamerica.loc.gov/lccn/sn85034235/1866-12-22/ed-1/seq-1)
+## [From _The Bossier banner._](https://www.loc.gov/resource/sn85034235/1866-12-22/ed-1/?sp=1)
 
 #### 1866-12-22 &middot; [Bellevue, Bossier Parish, La.](http://dbpedia.org/resource/Benton%2C_Louisiana)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- appears  
-Then when he walked with careless feet  
-Adown the stream of childhood sweet.  
-The youthful maid, the strong, stern man,  
-And tottering age, of the moirow plan.  
-In the pride of your strength, brave man,  
-beware,  
-And youth and age, in time prepare !  
-For though to-day the sun beams bright,  
-To-morrow&#x27;s clouds may obscure its light ;  
-And he who walks in health to-day  
-To-morrow may be but senseless clay.  
-There&#x27;s a spectre glides with noiseless tread ;  
-This night he may stand beside your bed ;  
-And many there be, now laughing loud,  
-Who will ere the morrow fill a shroud.  
+ the morrow fill a shroud.  
 Noble Sentiment. —&quot;This is  
 agreeable world after all. If we would  
 only bring ourselves to look at the  
@@ -3711,21 +5116,23 @@ human kindness swell up as from
 fountain, as the &#x27;golden age&#x27; will be  
 come no fiction, and the &#x27;island of the  
 blessed&#x27; bloom more than Hesperian  
-beauty.
+beauty.&quot;  
+Cautious 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/lu_meowth_ver01%2Fdata%2Fsn85034235%2F0029587398A%2F1866122201%2F0362.jp2/pct:60.900474,33.740701,14.139021,32.186504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_meowth_ver01:data:sn85034235:0029587398A:1866122201:0362/pct:61.097946,42.893199,13.941548,23.963868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Daily clarion._](https://chroniclingamerica.loc.gov/lccn/sn83045232/1866-12-25/ed-1/seq-2)
+## [From _The Daily clarion._](https://www.loc.gov/resource/sn83045232/1866-12-25/ed-1/?sp=2)
 
 #### 1866-12-25 &middot; [Jackson, Miss.](http://dbpedia.org/resource/Jackson%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+st entire extinction  
+of the freedman ?  
   
 NoiiiE Sentiments. This is an  
 agreeable world after all. If we  
@@ -3767,21 +5174,40 @@ hearts let the rich gushings of human
 kindness swell up as from a fountain,  
 so the &#x27;golden age&#x27; will become no  
 fiction, and the &#x27;island of the blessed&#x27;  
-bloom more than Hesperian beauty
+bloom more than Hesperian beauty.  
+  
+JACKSON.  
+  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_junebug_ver01%2Fdata%2Fsn83045232%2F00415661952%2F1866122501%2F0387.jp2/pct:15.333333,33.990242,14.277778,22.663350/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn83045232:00415661952:1866122501:0387/pct:15.333333,32.440448,14.305556,26.289104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Des Arc citizen._](https://chroniclingamerica.loc.gov/lccn/sn89051370/1867-01-05/ed-1/seq-1)
+## [From _Des Arc citizen._](https://www.loc.gov/resource/sn89051370/1867-01-05/ed-1/?sp=1)
 
 #### 1867-01-05 &middot; [Des Arc, Ark.](http://dbpedia.org/resource/Des_Arc%2C_Arkansas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+e low scale of wa­  
+ges paid to workmen in other coun­  
+tries, and their own men will submit  
+to no reduction. No stronger illustra­  
+tion need be required of the constant  
+operation of that economic rule, the  
+existence of which trades’ unions  
+sometimes ignore, that the law of sup­  
+ply and demand regulates wages. A  
+few years ago, on the Mersey, ship­  
+wrights were paid the rate of a guinea  
+per day; but the law in question soon  
+worked a change. If these 27,000 men  
+would regard half a loaf as better than  
+noiie, the English employer might still  
+lie. able to keen his head above water.  
   
 Noble Sentiment.—“This is an  
 agreeable world after all.” If wc  
@@ -3825,21 +5251,19 @@ will become no fiction, and the ‘islanc
 of the blessed’ bloom more than lies  
 perian beauty.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/arhi_dragonair_ver01%2Fdata%2Fsn89051370%2F00414212578%2F1867010501%2F0167.jp2/pct:56.825811,43.744120,13.656285,25.322537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051370:00414212578:1867010501:0167/pct:56.836411,33.454301,13.654169,35.618280/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Idaho world._](https://chroniclingamerica.loc.gov/lccn/sn82015407/1867-01-26/ed-1/seq-3)
+## [From _The Idaho world._](https://www.loc.gov/resource/sn82015407/1867-01-26/ed-1/?sp=3)
 
 #### 1867-01-26 &middot; [Idaho City, Idaho Territory](http://dbpedia.org/resource/Idaho_City%2C_Idaho)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-Thla^if an agreeable  
-____ ^ 4 r would only hiring  
+^ 4 r would only hiring  
 ourselves to look ât tfîê objects that surround  
 us in their true light, we should see beauty  
 where before we beheld deformity, and listen  
@@ -3873,27 +5297,28 @@ let the rich gusbings of human kindness
 swell up as from a fountain, so the &#x27;golden  
 age&#x27; will become no fiction, and-the &#x27;island  
 of the blessed&#x27; bloom with more than Hes­  
-perian beauty.
+perian beauty.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/idhi_dickens_ver01%2Fdata%2Fsn82015407%2F00295869458%2F1867012601%2F0473.jp2/pct:23.111888,3.772052,17.465035,21.599350/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_dickens_ver01:data:sn82015407:00295869458:1867012601:0473/pct:23.111888,4.410399,17.465035,22.028784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## From _Memphis daily appeal._
+## [From _Memphis daily appeal._](https://www.loc.gov/resource/sn83045160/1867-02-09/ed-1/?sp=4)
 
 #### 1867-02-09 &middot; [Memphis, Tenn.](http://dbpedia.org/resource/Memphis%2C_Tennessee)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-aat surround us in their  
+hat surround us in their  
   
-true light, we should see beau whe e  a  
-before we beheld deformity, and listen to  O  O,  
+true light, we should see bean hea  a  
+before we beheld deformity, and listen to  O a O,  
   
-harmony where before we cound hear  
+harmony where before we cound near  
 nothing but discord. To be sure there is  
 a great deal of anxiety and vexation to  
 meet; we cannot expect to sail upon a  
@@ -3904,8 +5329,8 @@ avoid the quicksands, and weather the
 storms that threaten shipwreck. We are  
 members of one great family; we are all  
   
-traveling the samg road, and shall arrive aepity  
-at tha same goal.We breathe the free  
+traveling the same road, and shall arrivehepgly  
+at the same goal. We breathe the freea  
   
 air, we are subject to the same  
 bounty, and we shall lie down on  
@@ -3925,105 +5350,96 @@ medium that invests every object with
 the green hue of jealousy and suspicion;  
 turn a deaf ear to the tale of scandal;  
   
-breathe the suirit of charity from our!Change Our Rusiness  
-lips; and from our hearts let the rich ee e e a  
-i o ea ie e  ae  oa o  
-feoss a fountain-sso the tIgolden age  
+breathe the suirit of charity from our Change Our Rusiness  
+lips; and from our hearts let the rich e ee e e ae  
+in o ean ine e  ae   o a o  
+feoms o fountain--so the iI golden age  
   
 will become no fiction, and the &quot;island  
 of the blessed&quot; bloom in more than  
-Hesperian beauty
-</td></tr></table>
+Hesperian beauty.  
+  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867020901:0130/pct:14.563707,81.498958,19.598456,13.157028/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _The Holt County sentinel._
+## [From _The Holt County sentinel._](https://www.loc.gov/resource/sn85034039/1867-02-22/ed-1/?sp=1)
 
 #### 1867-02-22 &middot; [Oregon, Missouri.](http://dbpedia.org/resource/Oregon%2C_Missouri)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d wasted as though with grief, they said­  
-Poor child, poor child! and was long since dead;  
-  
-Ah! dead for the love of me  
-Poor heart!  
-Broken, and vainly, for me!  
-Weighed down by a load too heavy to hold,  
-She died unmurmuringly;  
-nd I, remorseful and unconsoled,  
-I dream of the wasted days of old,  
-And of the heart that was broken for me  
-Poor heart!  
-Broken so vainly for me!  
-And my soul cries out in bitter pain  
-For the bliss that cannot be  
-For the love that never can come again,  
-For the sweet young life that was lived in vain,  
-And the heart that was broken for me  
-Poor heart!  
-Broken and buried for me!  
-This is an agreeable world, after all.  
-If we would only bring ourselves to  
-look at the objects that surround us in  
-their true light, we should see beauty  
-where before we beheld deformity, and  
-listen to harmony where before we  
+ I  
+DroKen and burled for roe I  
+This is an agrccablo world, after nil.  
+If wo would only brine ourselves to  
+look at tho objects tbat surround us in  
+their truo light, wo should sco beauty  
+whero beforo wo behold deformity, and  
+listen to harmony whero beforo wo  
 could hear nothing but discord. To be  
-sure there is a great deal of anxiety and  
-vexation to meet; we cannot expect to  
-sail upon a summer sea forever; yet if  
-we preserve a calm eye and a steady  
-hand, we can so trim our sails and man­  
-age our helm as to avoid the quick  
-sands, and weather the storms that  
-threaten shipwreck. We are members  
-of one great family; we are all travel­  
-ing the same road and shall arrive at  
-the same goal. We breath the free  
+euro tlicro is a great deal of anxiety and  
+vexation to meet : wo cannot expect to  
+sail upon a summor sea forovcr ; yet if  
+wo preservo a calm oyo ana a steady  
+hand, wo can so trim our sails and man­  
+ago our holm as to avoid tho quick  
+sands, and woathor tho storms that  
+thi eaten shipwreck. Wo aro members  
+of ono groat family ; wo aro all travel­  
+ing tho samo road and shall arrivo at  
+the sjmo goal, no breath tno iroo  
 air,  
 and  
-are subject to the same bounty,  
-e shall lie down on the bosom of  
+aro subioct to the samo bounty,  
+e shall lio down on tho bosom of  
 our  
 mmon mother. It is not becom-  
-in  
-then, that brother should hate  
-broty  
-r; it is not proper that friend  
-should deceivs friend; it is not right  
+inr 1  
+then, that brother should hato  
+brotl  
+r : it is not proper that friend  
+should deccivfl friend ; it is not right  
 that neighbor should injure neighbor.  
-We pity that man who can harbor en­  
-mity ainstthis fellow; he loses half  
-thedenjoyment of life; he embitters his  
-owicvstence. Let us tear from our  
-eyotil colored medium that invests ev­  
-7 object with the green hue of jeal­  
-ousy and supicion; turn a deaf ear to  
-the tale of Scandal; breath the spirit of  
-charity grom our lips; and from our  
-hearts le the rich gushings of human  
-kindnes well up as from a fountain  
-so the &quot;golden age&quot; will become no  
-fiction, and the &quot;island of the blessed&quot;  
-bloom in more than Hesperian beauty
-</td></tr></table>
+Wo pity thirl man who can harbor en­  
+mity qgainstliis fellow ; ho loses half  
+thJjcnjoymcnl of lifo ; ho embitters his  
+owSv,?tenco. Let us tear from our  
+eytliio jolorou medium that invests ov­  
+sftbjeot Aih tho greon huo of jeal­  
+ousy and svfpicion ; turn a deaf ear to  
+tho talo ofcandal ; breath tho spirit of  
+charity mom our lips ; and from our  
+hearts If tliOAricb gushings of human  
+kindnosi woA up as from a fountain  
+so tholgoldon ago&quot; will becomo no  
+fiction, fcd tho &quot;island of tho blessed&quot;  
+bloom irlmore than Uosporian beaut
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559905:1867022201:0328/pct:44.865320,76.794757,18.918350,33.571641/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## From _The Texas Republican._
+## [From _The Texas Republican._](https://www.loc.gov/resource/sn83025730/1867-02-23/ed-1/?sp=1)
 
 #### 1867-02-23 &middot; [Marshall, Tex.](http://dbpedia.org/resource/Marshall%2C_Texas)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ the visible presence of  
+our tod and of the Laml  
   
-  
-Norll SentIaent. This is an  
+NorlE SeNTIaENt. This is an  
 agreeable world after all. If we  
 should only bring ourselves to look  
-the objects that surround us in  
-their true light, we shou  
+the objects that sarround us in  
+their true lisht, we shou  
 ty where before we beheld deformity  
 listen to harmony whert  
 we could hear nothing but discord  
@@ -4037,41 +5453,103 @@ quicksands and weather the storn
 that threaten shipwreck  
 We are members of one great  
 family, we are all traveling the same  
-road, and shall arrive at the same  
+road, and shall arrive at the same!  
 goal. We breathe the free air, we  
 are subject to the same bounty, and  
 shall lie down on the bosom of  
 our common mother. It is not be  
 coming then that brother should hate  
 ther; it is not proper that friend  
-should deceive friend, it is not right  
+should deceive friend, it is not righ  
 that neighbor should injure neighbor  
 We pity that man who can harbor en  
 mity against his fellow; he loses half  
 the enjoyment of life; he embitters  
 his own existence. Let us tear from  
-our eves the colored medium that in  
+our eyes the colored medium that in  
 every object with the green hue  
 of jealousy and suspicion; turn a  
-leaf ear to the tale of scandal  
+leef ear to the tale of scandal  
 breathe the spirit of charity from our  
 lips, and from our hearts let the rich  
 gushings of human kindness swell  
-up as from a fountain, so the?  
-en ace will become no fiction, and  
-theisland of the blessed&#x27; bloom  
+up as from a fountain, so the  
+en age will become no fiction, and  
+the island of the blessed&#x27; bloom  
 I with more than Hesperian beaut
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1867022301:0629/pct:42.151899,66.281791,10.448312,21.333281/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
-## [From _Bedford inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032006/1867-03-08/ed-1/seq-1)
+## [From _Oregon City enterprise._](https://oregonnews.uoregon.edu/lccn/sn84022660/1867-03-02/ed-1/seq-1/)
+
+#### 1867-03-02 &middot; [Oregon City, Or.](http://dbpedia.org/resource/Oregon_City%2C_Oregon)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Then why should we always be ready  
+To hear what another may say,  
+To canvass the faults of a brother,  
+Forgetting our own by the way?  
+  
+Noble Sentiment. &quot; This is an agreea­  
+ble world, after all. If we would only  
+bring ourselves to look at the objects that  
+suiTOund U3 in their true light, we should  
+see beauty where before we behell de  
+formity, listen to harmony where before  
+we could hear nothing but discord. To  
+be sure, there is a great deal of anxiety  
+and vexation to meet ; we cannot expect  
+to sail upon a summer sea forever 5 yet if  
+we preserve a calm eye and steady hand.  
+we can so trim our sails and manage our  
+helm as to avoid the quicksands, and  
+weather the storms that threaten ship­  
+wreck. &quot; We are members of one great family :  
+we are all traveling the same road, and  
+shall arrive at the saiua goal. We breathe  
+the free air, we are subject to the same  
+bounty, and we shall lie down on the bo­  
+som of our common mother. It is not be­  
+coming then, that brother should hate  
+brother ; it is not proper that friend should  
+deceive friend ; it is not right that neigh­  
+bor should injure neighbor.  
+&quot; We pity that man who can harbor en  
+mity against his fellow, lie loses half  
+the enjoyment of life ; be embitters his  
+own existence. Let us tear from our eves  
+the colored medium that invests every ob  
+ject with the green hue of jealousy and  
+suspicion ; turn a deaf ear to the tale of  
+scandal ; brearhe the spirit of charity from  
+our lips ; and from our hearts let the rich  
+giishings of human kindness swell up as  
+from a fountain, so the &#x27; golden  
+will  
+become no fiction, and ihe &#x27; island of the  
+blessed&#x27; bloom with more than Hesperian  
+beauty7
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_eva_ver01%2Fdata%2Fsn84022660%2F00000002053%2F1867030201%2F0075.jp2/pct:30.328310,28.736769,12.526911,24.819468/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Bedford inquirer._](https://www.loc.gov/resource/sn83032006/1867-03-08/ed-1/?sp=1)
 
 #### 1867-03-08 &middot; [Bedford, Pa.](http://dbpedia.org/resource/Bedford%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
+NOBLE SENTIMENT.  
 &quot;This is an agreeable world after all. If  
 we would only bring ourselves to look at tne  
 objects that surround us in their true light,  
@@ -4107,22 +5585,70 @@ i and from our hearts let the rich gushings of
 | human kindness swell up as from a fountain  
 so the &quot;golden age&quot; will become no fiction,  
 and the &quot;island of the blessed&quot; bloom in  
-j more than Hesperian beauty
+j more than Hesperian beauty.  
+  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/pst_intramural_ver01%2Fdata%2Fsn83032006%2F00296028575%2F1867030801%2F0115.jp2/pct:68.462534,62.811245,12.633001,16.740647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028575:1867030801:0115/pct:68.451275,62.308180,12.633001,18.135701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The weekly Copiahan._](https://chroniclingamerica.loc.gov/lccn/2018270504/1878-11-23/ed-1/seq-1)
+## [From _Village record._](https://panewsarchive.psu.edu/lccn/sn88079228/1869-04-23/ed-1/seq-1/)
+
+#### 1869-04-23 &middot; [Waynesboro', Pa.](http://dbpedia.org/resource/Waynesboro%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+&#x27;This is an agreeable world after all, If  
+we would only bring ourselves to look at the  
+objects that surround us in their true light,  
+we should see beauty where before we be•  
+held deformity, and listen to harmony, where  
+before we could hoar nothing but discord.—  
+To be sure there is a great deal of anxiety  
+and vexation to meet ; we cannot expect to  
+sail upon a summer sea forever; yet if wo  
+preserve a calm eye and a steady hand, we  
+can so trim our sails and manage our helm  
+as to avoid the quicksands, and weather the  
+storms that threaten shipwreck.  
+&#x27;We are members of one great family ; w­  
+are all travelling the same road, and shall ar­  
+rive at the same goal. We breathe the free  
+air, we aro subject to the same bounty, and  
+we shall lie down on the bosom of our com­  
+mon mother, It is not becoming then that  
+brother should hate bkrother ; it is not prop.  
+er that friend should deceive friend ; it is  
+not right that neighbor should injure neigh•  
+bor. We pity that man who can harbor en•  
+mitt&#x27; against his fellows; he losses half the  
+enjoyment of life; he embitters his own ex­  
+istence. Let us tear from our eyes the .col.  
+ore(&#x27; medium that invests every object with  
+the green hue of jealousy and suspicion;  
+turn a deaf oar to the tale of scandal; breathe  
+the spirit of charity from our lips; and from  
+our hearts let the rich gushings of human  
+kindness swell up as from a fountain, so the  
+&#x27;golden age&#x27; will become no fiction, and the  
+&#x27;island of the blessed&#x27; bloom in more than  
+flesperian beauty
+</td></tr></table>
+
+---
+
+## [From _The weekly Copiahan._](https://www.loc.gov/resource/2018270504/1878-11-23/ed-1/?sp=1)
 
 #### 1878-11-23 &middot; [Hazlehurst, Copiah County, Miss.](http://dbpedia.org/resource/Hazlehurst%2C_Mississippi)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-An exchange thinks this is an  
+ this is an  
 agreeable world ofW all. If we  
 would only bring oorselves to look  
 at the objecis that surround us iii  
@@ -4167,19 +5693,20 @@ become no fiction, and the ‘&#x27;island of
 the blessed” bloom in more than  
 Hesperian beauty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/msar_agate_ver01%2Fdata%2F2018270504%2F00383343550%2F1878112301%2F0410.jp2/pct:71.441992,61.726773,10.619227,23.408765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:2018270504:00383343550:1878112301:0410/pct:71.453179,61.769975,10.616975,23.372746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Monmouth inquirer._](https://chroniclingamerica.loc.gov/lccn/sn83032307/1882-05-18/ed-1/seq-4)
+## [From _The Monmouth inquirer._](https://www.loc.gov/resource/sn83032307/1882-05-18/ed-1/?sp=4)
 
 #### 1882-05-18 &middot; [Freehold, N.J.](http://dbpedia.org/resource/Freehold_Township%2C_New_Jersey)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+jftltmnumlj} Jnqutw.  
+FREEHOLD, THURSDAY, MAY 18.  
 Noble Sentiments.—This is an agree­  
 able world after all. If we would only  
 tiling ourselves to look at the objects that  
@@ -4214,9 +5741,10 @@ our hearts, let the rich gushings of human
 kindness swell tip as a fountain—so that  
 the ‘golden age’will become no fiction, and  
 the islands of the blessed bloom iu more  
-than ‘Hesperian beauty.”
+than ‘Hesperian beauty.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://chroniclingamerica.loc.gov/iiif/2/njr_eggharbor_ver01%2Fdata%2Fsn83032307%2F00513685294%2F1882051801%2F0299.jp2/pct:4.499600,9.281364,10.860689,14.887333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685294:1882051801:0299/pct:4.500320,6.553782,10.858424,17.614813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
