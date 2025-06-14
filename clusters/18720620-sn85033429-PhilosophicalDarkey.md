@@ -109,7 +109,7 @@ never darken the field of carnage.
   
 thir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_anderson_ver01:data:sn83026172:00211678367:1862032101:0088/pct:6.793394,4.800573,24.291056,90.386912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_anderson_ver01:data:sn83026172:00211678367:1862032101:0088/pct:6.777812,4.788631,24.291056,90.374970/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ that African will never darken the field of
 carnage.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237283508:1862032601:0536/pct:11.038961,38.605898,14.718615,48.513283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237283508:1862032601:0536/pct:8.286951,28.966610,11.038961,36.400195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -504,7 +504,7 @@ It is safe to say that the dusky corpse
 of that A moan will never darken the  
 field of carnage. J. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028848:1862032801:0209/pct:19.545767,20.337621,21.834136,105.961951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028848:1862032801:0209/pct:14.659326,15.259914,16.379904,79.501608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -568,7 +568,7 @@ It is safe to say that the dusky corpse of
 that African will never darken the field of  
 carnag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624505:1862032901:0360/pct:104.797601,20.434967,16.547976,29.148425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624505:1862032901:0360/pct:81.203148,15.831097,12.837331,22.595679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -856,7 +856,10 @@ was de pint wid me.&#x27;
 It is safe to say that the dusky corpse  
 of that African will never darken the field  
 of carnage.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aura_ver01%2Fdata%2Fsn83032227%2F000001971%2F1862040201%2F0056.jp2/pct:5.747748,4.524823,11.936937,43.053191/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1192,7 +1195,7 @@ It is safe to say that the dusty corpse
 of that African .will never darken the  
 field of carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1862040301:0106/pct:84.780844,22.299073,19.947240,63.770923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1862040301:0106/pct:63.595779,16.724305,14.955357,47.835109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1323,7 +1326,10 @@ irords. as neapas my teemoty saves me: •
 a.Had a little.mste of it,ta.&quot; • . .  
 Stood.your groundedid Ion?&quot; •  
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002351%2F1862040501%2F0056.jp2/pct:6.685954,18.716794,10.371750,7.871333/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1369,7 +1375,10 @@ pint wid Truer -
 It is safe - to say that - the dusky corpse , . of  
 :tluttAfricia will tiara&#x27; darken the field - of  
 carnage, -
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002351%2F1862040501%2F0056.jp2/pct:6.741439,32.166782,10.692771,13.955301/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1639,7 +1648,7 @@ of that African will never darken the field
 of carnage.  
 To Youn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033622:00296026462:1862040901:0591/pct:114.952639,21.319018,21.109608,71.566777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033622:00296026462:1862040901:0591/pct:76.674560,14.216612,14.073072,47.734781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1845,7 +1854,7 @@ It is safe to say that the dusky corpse
 of that African will never darken the  
 field of carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038462:00514151052:1862041001:0008/pct:70.018665,14.947296,25.641624,80.888198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038462:00514151052:1862041001:0008/pct:69.995334,14.930016,25.641624,80.870918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1904,7 +1913,10 @@ life &quot;i - :
 &quot;Then you &#x27;twit value it&#x27;vory  
 • &quot;Yea, sa, I does---Thoro don all:dis wuld—  
 &#x27;bore don 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_februus_ver01%2Fdata%2Fsn88079228%2F000002419%2F1862041101%2F0041.jp2/pct:65.118790,56.313748,14.706460,22.737394/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1988,7 +2000,7 @@ House of Representatives, having return­
 ed to his homo in Tennessee in company  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895035:1862041101:0480/pct:16.814159,15.988963,26.206758,82.340982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895035:1862041101:0480/pct:16.794047,15.974441,26.206758,82.326459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2278,7 +2290,7 @@ of that African will never darken the
 field of carnage,  
 &quot;Them&quot; Sabdiket. Not a grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472086:1862041201:0123/pct:69.173554,76.373138,14.449036,32.388259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472086:1862041201:0123/pct:51.900826,57.304870,10.840220,24.305092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2493,7 +2505,10 @@ of that African will never darken the field
 of carnage.  
   
 HUMOROUS
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_camenae_ver02%2Fdata%2Fsn85054562%2F000002022%2F1862041601%2F0352.jp2/pct:38.541667,10.313773,16.278176,47.148676/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2677,7 +2692,7 @@ aDd dst WM d P!nl wiJ roe&quot;
 Il is 8afe to that tfce dustJ corpse  
 ui no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775526:1862041701:0233/pct:61.607143,8.709002,16.238839,54.710398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775526:1862041701:0233/pct:46.223958,6.531752,12.183780,41.060712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2934,7 +2949,7 @@ It is safe to say that the dusky corpse1
 of that African will never darken the  
 li Id of carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1862042301:0868/pct:70.234455,36.339523,13.149847,39.499481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1862042301:0868/pct:66.724916,34.517357,12.479977,37.515857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3031,7 +3046,7 @@ that African will never darken the field . of
 carnage.  
 ,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026694:1862043001:0504/pct:43.865144,21.292971,16.285925,45.202668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026694:1862043001:0504/pct:32.903464,15.969728,12.232867,33.940482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3307,7 +3322,10 @@ was de pint wid me.” r
 It is safe to say that the dusky corpse  
 of that African will never darken the field  
 of carnage. ■
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_monroej_ver01%2Fdata%2Fsn83031964%2F000001717%2F1862050801%2F0061.jp2/pct:73.462702,16.027778,12.642809,44.340278/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3384,7 +3402,7 @@ wurldmore&quot; dan a million cb dollars,
 sab; fcr-what &quot;would dat be wuth to a.  
 man wid de brcf out cb him? Self-pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470594:1862050801:0591/pct:106.116876,60.648424,18.214091,32.916915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470594:1862050801:0591/pct:79.601311,45.498711,13.667395,24.687686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3439,7 +3457,7 @@ field of carnage.
   
 A livi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470594:1862050801:0591/pct:105.857455,93.674400,17.749863,25.956772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470594:1862050801:0591/pct:79.410158,70.265715,13.312398,19.482451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3538,7 +3556,7 @@ rican will never darken the field of carnage.
 | account of a spicy conversation with a phi |  
 losophic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_DemoWatchman1_ver01%2Fdata%2Fsn83031981%2F00000001%2F1862051501%2F0196.jp2/pct:72.031558,30.093507,15.108481,2.344264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_DemoWatchman1_ver01%2Fdata%2Fsn83031981%2F00000001%2F1862051501%2F0196.jp2/pct:55.818540,23.310944,11.715976,1.830633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3647,7 +3665,7 @@ carnage.
   
 i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_DemoWatchman1_ver01%2Fdata%2Fsn83031981%2F00000001%2F1862051501%2F0196.jp2/pct:72.031558,33.846964,14.930966,41.880680/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_DemoWatchman1_ver01%2Fdata%2Fsn83031981%2F00000001%2F1862051501%2F0196.jp2/pct:55.818540,26.221520,11.577909,32.464112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3743,7 +3761,10 @@ ESE
 It is safe to) say that the dusky corpse. of  
 that African will never darken the field of  
 carnage.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_alernus_ver01%2Fdata%2Fsn83031981%2F000001920%2F1862051501%2F0065.jp2/pct:52.262790,14.111933,16.812418,46.870702/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3939,7 +3960,7 @@ is safe to say that the dusky corpse of that Af­
 rican will never darken the field of carnage.”  
 Artemus Ward as a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172157:1862052201:0482/pct:90.156777,63.825088,15.915856,23.439340/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172157:1862052201:0482/pct:69.874975,49.455241,12.323874,18.168433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4475,7 +4496,7 @@ th.it Afrit-mi will never darkwi the field of
   
 carnuge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_bravo_ver01%2Fdata%2Fsn84022657%2F00033872215%2F1862060701%2F0374.jp2/pct:90.170279,60.868307,18.227554,55.875543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_bravo_ver01%2Fdata%2Fsn84022657%2F00033872215%2F1862060701%2F0374.jp2/pct:67.627709,45.658466,13.680341,41.924747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4580,7 +4601,7 @@ EaT Method of Killing Insects.
 For all moths, and beetle that fly at night,  
 use fire to trap them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:0021247292A:1862061401:0550/pct:57.142857,70.345851,21.949405,45.131834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:0021247292A:1862061401:0550/pct:38.095238,46.912453,14.657738,30.087890/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5849,7 +5870,7 @@ It is safe to say thai the dusky corpse of that
 African will never darken the field of carnage.  
 sparge) Earapea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471379:1862082301:0489/pct:8.286778,34.263704,20.080695,45.807748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471379:1862082301:0489/pct:6.222843,25.711734,15.068281,34.364184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5956,7 +5977,10 @@ was de pint wid me.&quot;
 It is safe to say that the dusky corpse  
 of that African will never darken the field  
 of carnage.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001838%2F1862103101%2F0169.jp2/pct:81.258253,15.669655,12.186380,39.811572/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6238,7 +6262,7 @@ that African will never darken the fleld of
 carnage.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_DemoWatchman1_ver01%2Fdata%2Fsn83031981%2F00000001%2F1863112001%2F0476.jp2/pct:38.458574,39.401529,19.210019,35.433694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_DemoWatchman1_ver01%2Fdata%2Fsn83031981%2F00000001%2F1863112001%2F0476.jp2/pct:29.788054,30.543106,14.894027,27.432112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6269,7 +6293,10 @@ began interrogate ,him uporA the stillest, as
 Soildws : • •  
   
 &quot;Were &#x27;you in the figh
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_alernus_ver01%2Fdata%2Fsn83031981%2F000001921%2F1863112001%2F0169.jp2/pct:30.492988,16.806020,12.250319,10.054348/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6342,7 +6369,10 @@ the recent eleotion the better we&#x27; are, in
 some respects, satiated with it. It may in  
 the end prove. thil beat&#x27; that Jiidge Wood­  
 wa
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_alernus_ver01%2Fdata%2Fsn83031981%2F000001921%2F1863112001%2F0169.jp2/pct:30.168933,35.275920,12.372503,30.117057/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6726,7 +6756,7 @@ We were accidentally a listener, not
 long ago, to a Methodist Minister labor­  
 in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:00294555626:1863120301:0037/pct:71.304018,58.406608,17.835481,59.952038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:00294555626:1863120301:0037/pct:53.506444,43.818279,13.381350,44.977351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6894,7 +6924,7 @@ It is safe to predict that the dusky
 corpse of that African will never darken  
 the field of carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059181:00296022020:1863122401:0407/pct:7.309766,66.458116,14.784302,31.131966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059181:00296022020:1863122401:0407/pct:5.482325,49.855173,11.099461,23.357664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7278,7 +7308,10 @@ It is safe to say that the dusky corpse of
 that African will never darken the field of  
   
 carnag
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_cacus_ver01%2Fdata%2Fsn86081591%2F000002013%2F1864011201%2F0005.jp2/pct:40.894444,15.693182,33.833333,80.049242/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -7566,7 +7599,7 @@ xs-Jias. piiuttesAN is prepared to give
   
 bstruction on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DJoWilm12n_ver01%2Fdata%2F1864012201%2F1012.jp2/pct:98.381452,83.178098,30.730534,44.369179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DJoWilm12n_ver01%2Fdata%2F1864012201%2F1012.jp2/pct:73.840770,62.418854,23.053368,33.305109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7629,7 +7662,7 @@ jckts de pint wid me.”
 | Collection of the Tax in Kind.  
 | Agreeably to a resolution of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349475:1864012901:0088/pct:67.919935,22.657458,12.645388,26.966292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349475:1864012901:0088/pct:67.906411,22.647150,12.645388,26.966292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7746,7 +7779,7 @@ ob life.&quot;
   
 nuthin to me by de sjde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DailyNCF1n_ver01%2Fdata%2F1864020601%2F0029.jp2/pct:102.658637,62.273546,22.076968,19.398241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DailyNCF1n_ver01%2Fdata%2F1864020601%2F0029.jp2/pct:77.012338,46.721051,16.554054,14.546032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8133,7 +8166,7 @@ but Id a missed myself, aud dat was de pint
 It is safe to say that the dusky corps of that  
 Amcau will never darken the field ot carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414183414:1864112401:0193/pct:5.159705,2.093180,12.688663,31.600270/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414183414:1864112401:0193/pct:5.142155,2.079676,12.688663,31.600270/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8212,7 +8245,7 @@ dats depint with me.
 How a Mak vebls With his Hkao orv. It is  
 considered do all sides that the b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1865021701:0443/pct:69.583333,59.658422,19.423077,48.256773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1865021701:0443/pct:52.211538,44.758539,14.567308,36.207303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8289,7 +8322,7 @@ dead nigger, but I&#x27;d missed myself, sa, and
 dats depint with me.  
 . -.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1865022201:0616/pct:68.396577,57.852194,20.851935,49.422633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1865022201:0616/pct:51.302083,43.392353,15.643601,37.079805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8380,7 +8413,10 @@ wid me.
 It is safe to say that the dusky corpse of  
 that African will never darken the field of  
 carnage
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_februus_ver01%2Fdata%2Fsn88079228%2F000002422%2F1865030301%2F0032.jp2/pct:81.321023,17.028454,14.813312,39.773394/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -8520,7 +8556,10 @@ than nllwr people’s 7&quot;
 “It’s worth moreto me, 5m.”  
 &quot;&#x27;l‘xhen ynu must value it. very highly ‘3”  
 “Yrs, sn, 1 does—more dan ul
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_trumanhs_ver01%2Fdata%2Fsn85055100%2F000001897%2F1865032701%2F0049.jp2/pct:43.289284,18.376756,12.801982,18.651200/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -8556,7 +8595,10 @@ knov/ed ; it was&#x27;Oumin.&#x27;’, j&quot;.&#x27; ~ . 1 ‘‘ ■
 ~ ‘ by, that wasn’t vary qfeditable tb.yiur  
 oourngo.’f ■&#x27; &#x27;.T‘; &#x27; j[ ; i  
 ‘Da’tjsn&#x27;t.ih my linlf, si
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001745%2F1865033001%2F0049.jp2/pct:44.179389,18.516750,11.423119,10.931531/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -8581,7 +8623,10 @@ wid me
 ’’&#x27;■But why should,you&#x27;o(ft ,uptfh&#x27;&#x27;&#x27;a different  
 &quot;rule from other men ?1  
 v ßeciVuse setsdifferent valu
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001745%2F1865033001%2F0049.jp2/pct:44.047619,29.848663,11.532170,6.868939/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -9058,7 +9103,10 @@ pint wid me.&quot;
 It is safe to say that the dusky corpse of  
 that African will never darken the field of  
 carnage.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fufluns_ver02%2Fdata%2F2018264050%2F000002750%2F1865042701%2F0027.jp2/pct:21.273632,26.708513,14.104478,44.796464/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -9142,7 +9190,7 @@ A crusty old bachelor savs he thinks it&quot;1
 is woman, and not her wrongs, that ought  
 t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DailyStan5n_ver01%2Fdata%2F1865050201%2F0027.jp2/pct:83.424855,19.360087,20.476879,51.724512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DailyStan5n_ver01%2Fdata%2F1865050201%2F0027.jp2/pct:62.572254,14.522777,15.361272,38.796095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9502,7 +9550,7 @@ for what would dat he worth to a man
 wid de href out ob him ? Self-preserba­  
 slmn am de first law wid me.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685257:1865101201:0398/pct:35.456432,32.727273,13.921162,13.737374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685257:1865101201:0398/pct:35.435685,32.712843,13.921162,13.737374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9546,7 +9594,7 @@ you?”
 among de vanities.”  
 There is another kin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525206:1865101301:0604/pct:3.042071,77.146113,10.938511,11.699164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525206:1865101301:0604/pct:3.025890,77.133452,10.938511,11.686503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9682,7 +9730,7 @@ among de vanities.&quot;
   
 “ Hb’il Never Sit tbr Temse ok Fire.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991288:1866052501:0068/pct:59.163200,7.125420,35.209200,86.481538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991288:1866052501:0068/pct:59.138733,7.110162,35.209200,86.466280/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9794,7 +9842,7 @@ iien upon.lar; livrt .mine ip uot- in Ibe
 market.&quot; -  
 &quot; But ifyou Iftt, it. you would hava die
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868022301:0190/pct:24.093880,11.458449,14.453357,16.698187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868022301:0190/pct:18.077837,8.599399,10.843731,12.526421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9820,7 +9868,7 @@ It is safe, tossy that thediiskv cornsn of
 that African will never darken the field of  
 carnage. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868022301:0190/pct:24.123589,35.065080,14.304813,6.763822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868022301:0190/pct:18.092692,26.309934,10.739750,5.083992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9891,7 +9939,7 @@ It is safe to say that the dusky corpse, of
 that African. will never darken tho field of  
 carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470107:1868022901:0687/pct:111.023835,12.421677,16.495125,34.176102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470107:1868022901:0687/pct:83.274648,9.321754,12.378115,25.634825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9987,7 +10035,7 @@ It is safe to say that the dusky
 corpse of that African will never  
 darken the field of carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028824:1868052101:0085/pct:81.578947,41.104772,14.506173,55.951763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028824:1868052101:0085/pct:61.208577,30.848029,10.899935,41.973548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10294,7 +10342,10 @@ There is a mysterious feeling of sad­
 ness that frequently passes like a cloud o­  
 ver the spirit, It comes on the soul in  
 the busy bustle o
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fecunditas_ver01%2Fdata%2Fsn84026572%2F000002429%2F1871122801%2F0099.jp2/pct:83.992806,53.060113,12.788231,32.568608/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -10365,7 +10416,7 @@ ga but I&#x27;d a missed myself, and dat was
 de pint wid me.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026050:00280776804:1872010901:0022/pct:101.586889,73.834887,23.829344,53.961385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026050:00280776804:1872010901:0022/pct:76.222685,55.392810,17.872008,40.496005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10382,7 +10433,7 @@ There is a mysterious feeling of sadness i
 that frequently passes like a cloud over the &#x27;  
 spirit. It comes on the soul in the busy 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151131:1872012601:0369/pct:39.042154,86.482896,11.741337,2.175357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151131:1872012601:0369/pct:39.020084,86.449684,11.741337,2.175357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10590,7 +10641,7 @@ of that African will never darken the
 field of carungc.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779313:1872062001:0385/pct:32.981030,11.806528,31.693767,113.670150/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779313:1872062001:0385/pct:24.742547,8.854896,23.780488,85.284929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11036,7 +11087,10 @@ dat was de pint with me.
 It is sane to say that the darkey corpse  
 of that African will never darken the field  
 of carnage.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fecunditas_ver01%2Fdata%2Fsn84026572%2F000002430%2F1872072501%2F0113.jp2/pct:56.949715,13.717776,26.086338,83.591876/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -11699,7 +11753,7 @@ It is safe to say that the corpse of
 that African will never darken the field  
 of carnage.—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84023142:00517015982:1872081701:0650/pct:86.849201,44.535479,18.875752,57.410388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84023142:00517015982:1872081701:0650/pct:67.309687,34.513533,14.623522,44.476957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11885,7 +11939,7 @@ It is safe to say that the corpse of
 that African&quot; will never darken the  
 field of carnage. &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:00295867541:1872083001:0508/pct:112.948565,67.593046,14.683014,58.337414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:00295867541:1872083001:0508/pct:84.718900,50.697845,11.019737,43.768364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12288,7 +12342,7 @@ to you ?
 Nuffin whatever, sa—l regard dem as  
 among the varieties
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625492:1873040401:0275/pct:87.006814,15.160539,23.530344,101.708959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625492:1873040401:0275/pct:67.421962,11.755567,18.237997,78.806318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12695,7 +12749,10 @@ Was de pint wid
 It is gale to say that the darkey corpse  
 of that African will never darken the  
 field of carnage.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fascinus_ver01%2Fdata%2Fsn84026112%2F000002386%2F1873092401%2F0153.jp2/pct:55.734804,36.511920,11.875520,39.640841/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -12751,7 +12808,7 @@ sogers, lot alone a doad niggft ; but I&#x27;d ha&#x27; miss­
 ed myself, and dat was dc pint wid mo !&quot; Mr.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033438:00200293575:1873121001:0416/pct:56.352087,16.475462,22.459165,6.469089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033438:00200293575:1873121001:0416/pct:42.264065,12.364563,16.878403,4.859783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12869,7 +12926,7 @@ It is safe to say that the dusky corpse of
 that African will never darken the field of  
 carnage.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155860:1874031101:0310/pct:67.290993,41.316872,12.463817,42.825789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155860:1874031101:0310/pct:67.273966,41.303155,12.463817,42.812071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13379,7 +13436,7 @@ Then patriotism and honor a,*­
 &#x27;..•thing to you ?”  
 &quot;&gt;ni!in’ wrlmteber, sa; I regu*i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn84026801:00340582123:1875041501:0261/pct:6.727741,6.105525,11.365588,31.595315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn84026801:00340582123:1875041501:0261/pct:6.713427,6.095159,11.365588,31.595315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13465,7 +13522,7 @@ wid me.&quot; !
   
 The Spe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155860:1875050501:0548/pct:57.833787,13.621489,23.671662,81.456231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155860:1875050501:0548/pct:57.816757,13.607854,23.671662,81.442596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13665,7 +13722,7 @@ It is safe to say that the corpse of
 that Afiican will never darken the field  
 of carnage. -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:0029602742A:1875060101:0311/pct:68.230063,83.839036,14.314400,42.543577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:0029602742A:1875060101:0311/pct:51.190476,62.890037,10.742972,31.923822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13834,7 +13891,7 @@ thai African will never darken the Deld
 of carnage.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1875061101:0911/pct:118.828079,18.759642,21.683522,46.117453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1875061101:0911/pct:79.223676,12.506428,14.455681,30.751826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13999,7 +14056,7 @@ that African will never darken the
 field of carnage.  
 A Little Gir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn85033681:00296021088:1875062301:0541/pct:91.133196,16.235070,18.662881,111.193320/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn85033681:00296021088:1875062301:0541/pct:68.378936,12.176303,14.003614,83.426699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14186,7 +14243,7 @@ dead nigga: but I&#x27;d a missed myself,
 aud dat was de pint wid me.”  
 Impolite Tiunu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342399:1875062501:0929/pct:9.675583,29.268659,16.315690,50.848476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342399:1875062501:0929/pct:7.493834,22.676077,12.635174,39.405316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14511,7 +14568,7 @@ Portrait or Pocahontas.—The Rich­
 mond Journal says that Dr. James Beale  
 has deposited in the Stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769738:1875070801:0313/pct:52.243896,15.151860,23.161915,84.870891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769738:1875070801:0313/pct:49.624881,14.389717,22.016096,80.616540/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14858,7 +14915,7 @@ myself, and data ue pint wid me, aud
 Now the pint with me has been all  
 along, that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewsObs66n_ver01%2Fdata%2F1875112801%2F0511.jp2/pct:50.747689,49.717827,14.749864,6.097156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewsObs66n_ver01%2Fdata%2F1875112801%2F0511.jp2/pct:38.064165,37.291136,11.065797,4.592232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14956,7 +15013,7 @@ jers, let alone a dead nigga, but I&#x27;d a miss­
 ed myself, and dat was de nint wid me &quot; Ma  
 ..
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_Cypher_ver01:data:sn86086284:00280762027:1876122401:0992/pct:15.710411,41.618693,18.527019,34.117846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_Cypher_ver01:data:sn86086284:00280762027:1876122401:0992/pct:15.689547,41.601761,18.506155,34.100914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15717,7 +15774,7 @@ nothing to you Nuffin whatever
 sa I regard dem as mong do vanities  
 It is safe t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn85052141:00206533638:1880060401:0063/pct:106.800934,44.922410,13.747811,20.093565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn85052141:00206533638:1880060401:0063/pct:80.107998,33.694660,10.318155,15.073026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15912,7 +15969,7 @@ A Louisville dispatch say*: During
 a terrible thunder ttorro that visited  
 thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DaR1_ver01%2Fdata%2F1881051201%2F0384.jp2/pct:65.445954,37.118792,13.644418,46.543712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DaR1_ver01%2Fdata%2F1881051201%2F0384.jp2/pct:62.177594,35.259948,12.935617,44.220157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16049,7 +16106,7 @@ be safe &#x27;nulf If all de soldiers were
   
 like me, cos den dere couldn&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020618:1881080601:0543/pct:100.665557,88.307312,12.839712,11.277098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020618:1881080601:0543/pct:75.499168,66.236100,9.636717,8.457823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16084,7 +16141,7 @@ Not many years since there was a fa­
 mous preacher of the old Puritan school  
 i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_chert_ver01:data:sn86053968:00383343781:1881090101:0523/pct:4.111185,70.915154,10.003329,8.410522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_chert_ver01:data:sn86053968:00383343781:1881090101:0523/pct:4.094541,70.902804,10.003329,8.398172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16293,7 +16350,7 @@ aide ob life.&quot; “Do yon consider your
 life worth more than other people&#x27;s?&quot;  
 •*It la worth more to we, sah.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_gabbs_ver01:data:sn84022047:00340582585:1882082601:0335/pct:5.967181,70.225080,17.652909,8.794212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_gabbs_ver01:data:sn84022047:00340582585:1882082601:0335/pct:5.942317,70.192926,17.652909,8.794212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16420,7 +16477,7 @@ ened the field of carnage.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_deserttortoise_ver01:data:sn87062082:00202192907:1882090801:0521/pct:101.925525,55.477319,22.087842,72.674340/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_deserttortoise_ver01:data:sn87062082:00202192907:1882090801:0521/pct:76.464036,41.611374,16.565882,54.529452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16448,7 +16505,7 @@ ain&#x27;t much to these sogers, let alone a
 dead nigga; but I&#x27;d ha&#x27; missed myself,  
 and dat was de p&#x27;int wid m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BurCN3n_ver01%2Fdata%2F1883061601%2F0047.jp2/pct:104.323995,95.711583,18.818514,10.216523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BurCN3n_ver01%2Fdata%2F1883061601%2F0047.jp2/pct:78.258222,71.809964,14.113886,7.662392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16516,7 +16573,7 @@ life is not in do market, sah.&quot; &#x27;js
 t &quot;&#x27;13ut if you lost itj you wonldrjiave  
 &#x27; vthefSatitaction ot KnvlnE&#x27;tlia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_falcon_ver01:data:sn84021913:00211106293:1883061601:0148/pct:23.580871,18.135808,32.931571,110.614368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_falcon_ver01:data:sn84021913:00211106293:1883061601:0148/pct:17.690513,13.608885,24.708398,82.974835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16551,7 +16608,7 @@ It is siifo-to&quot;E.iy thatfthe-dink corpse
 of that&#x27; African never &#x27;darkened Hhe  
 field ot callage.&quot; &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_falcon_ver01:data:sn84021913:00211106293:1883061601:0148/pct:39.735614,67.453958,16.757387,17.165753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_falcon_ver01:data:sn84021913:00211106293:1883061601:0148/pct:29.801711,50.597498,12.577760,12.877829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16699,7 +16756,7 @@ dead nigga ; but I’d miss myself, and
 dat was de pint wid me.”  
 tiettiug a Wife 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588290:1885121901:1228/pct:11.411739,8.933414,17.652193,56.733956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588290:1885121901:1228/pct:8.837006,6.929798,13.680995,43.959024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16974,7 +17031,7 @@ Eli Perkins&#x27; &quot;Wit and Humor of the
   
 A Prayer fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_argon_ver01:data:sn87096040:00199917936:1886102201:0512/pct:53.304119,7.340924,14.846626,44.862693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_argon_ver01:data:sn87096040:00199917936:1886102201:0512/pct:42.629273,5.867381,11.884312,35.874079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17057,7 +17114,7 @@ aint much wid dese sojers, let alone a
 dead niggah but I&#x27;d a missed myself,  
 and dat vras de p&#x27;int wid me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863699:1886102801:0975/pct:52.118717,7.499373,14.462172,39.841986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863699:1886102801:0975/pct:44.295763,6.370705,12.283411,33.860045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17214,7 +17271,7 @@ Age.&quot;
   
 A Prayer fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478714:1886110401:1249/pct:50.032321,7.029856,13.962508,40.240276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478714:1886110401:1249/pct:43.778281,6.149637,12.217195,35.208755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17412,7 +17469,7 @@ field of carnage.&quot;—Chicago Ledger.
   
 A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625078:1888081701:0714/pct:47.957078,77.435470,18.076764,3.205662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625078:1888081701:0714/pct:38.361535,61.934499,14.465539,2.567305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17514,7 +17571,7 @@ and dat was de pint wid me, sah.&quot;
 E were camped  
 a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625078:1888081701:0714/pct:47.730087,3.497086,19.459348,78.934221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625078:1888081701:0714/pct:38.175815,2.789342,15.579860,63.141826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17614,7 +17671,7 @@ dead nigga; but I&#x27;d miss myself. and
   
 ab been no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_centrereporter1_ver01%2Fdata%2Fsn83032058%2F13362145%2F1889121901%2F00007.jp2/pct:62.232906,18.413561,17.841880,37.318841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_centrereporter1_ver01%2Fdata%2Fsn83032058%2F13362145%2F1889121901%2F00007.jp2/pct:48.219373,14.259834,13.817664,28.933747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17742,7 +17799,7 @@ It is safe to say the dusky corpse of
 that African never darkened the field of  
 carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_foxtrot_ver01:data:sn87076843:00237282796:1892010201:0377/pct:24.074853,29.258304,19.322960,42.711967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_foxtrot_ver01:data:sn87076843:00237282796:1892010201:0377/pct:18.061396,21.947520,14.486964,32.064311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17763,7 +17820,7 @@ casting his sains against the chimney and
 apparently plunged In a state of profound medi­  
 tation, says Eli Perkins’ &quot;Wit an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:00414182069:1892021001:0894/pct:74.903829,8.219744,16.083532,3.758777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:00414182069:1892021001:0894/pct:58.050925,6.361008,12.438175,2.918904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17830,7 +17887,7 @@ wid me.”
 Hie Curiosity was Satisfied.  
 In an elevate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:00414182069:1892021001:0894/pct:74.702326,12.006058,16.193442,27.123778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:00414182069:1892021001:0894/pct:57.886060,9.307449,12.548086,21.010602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17881,7 +17938,7 @@ ing to you!&quot; if
 &quot;Nufiin, whatevah, sah. Dey&#x27;s &#x27;raong  
 d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kohlrabi_ver01:data:sn86082061:00415629266:1892021801:0493/pct:26.417769,30.186573,19.683365,29.166002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kohlrabi_ver01:data:sn86082061:00415629266:1892021801:0493/pct:19.825142,22.643916,14.768431,21.878488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17912,7 +17969,7 @@ It is safe to say the dusky corpse of
 that African never darkened the field of  
 carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kohlrabi_ver01:data:sn86082061:00415629266:1892021801:0493/pct:26.465028,59.543932,19.588847,13.458779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kohlrabi_ver01:data:sn86082061:00415629266:1892021801:0493/pct:19.848771,44.665923,14.697543,10.094084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17976,7 +18033,7 @@ ain&#x27;t much use, yer know, let alone a dead
 nigga, but I&#x27;d miss myself, and dat was de  
 pint wid me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191551:1892041301:0191/pct:56.605860,68.555835,16.583748,31.286734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191551:1892041301:0191/pct:42.454395,51.416877,12.437811,23.467674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18254,7 +18311,7 @@ the side of life.&quot;
 more than any other people&#x27;s?&quot;  
 &quot;It&#x27;a, worth more to me, sah
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556989:1894110101:0611/pct:22.279459,102.703382,13.361236,18.018358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556989:1894110101:0611/pct:16.709594,77.040111,10.028976,13.529486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18420,7 +18477,7 @@ side of life.”
 than other people’s?”  
 “It’s worth more to me, sah.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092518:00414186804:1894110901:0270/pct:55.513911,39.977807,12.685599,9.653990/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092518:00414186804:1894110901:0270/pct:55.499495,39.967719,12.685599,9.653990/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18593,7 +18650,7 @@ more than other peoples?”
 “It’s worth more tome, sah.”—Ex­  
 chang
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1895010401:0685/pct:90.470657,83.087598,15.572342,11.968777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1895010401:0685/pct:70.094906,64.382770,12.085997,9.280139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

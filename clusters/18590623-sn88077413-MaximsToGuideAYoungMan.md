@@ -37,7 +37,7 @@ young to spend when you are old.”
 TRADE THROUGH THE WELLAND CANAL.  
 FROM TH
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_custer_ver01:data:sn83026172:0021167815A:1852022001:0657/pct:32.936384,73.167260,14.963961,5.610913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_custer_ver01:data:sn83026172:0021167815A:1852022001:0657/pct:32.920715,73.155397,14.963961,5.599051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -303,7 +303,7 @@ over the above maxims at least once a week.
   
 What a Lis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348781:1857101701:0376/pct:29.028156,5.419837,13.042688,20.905086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348781:1857101701:0376/pct:29.009991,5.406488,13.042688,20.905086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ to spend whin you arc old. Head over the
 above maxi ns ul least once a week.  
 .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624487:1857103101:0274/pct:39.880609,50.679191,16.291161,18.800578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624487:1857103101:0274/pct:30.906990,39.263006,12.632390,14.566474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -501,7 +501,7 @@ before you spend it. Never run into debt
 unless you see a way to get out again.  
 Never borrow if you c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:0041418439A:1857121201:0023/pct:42.639117,58.035482,12.092040,16.045002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:0041418439A:1857121201:0023/pct:42.627377,58.026828,12.092040,16.036348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -787,7 +787,7 @@ you are old. Read over the above maxims at
 i least once a week.  
 The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183773:1858010601:0007/pct:56.871287,65.567732,12.792079,11.971636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183773:1858010601:0007/pct:56.858086,65.558523,12.792079,11.962427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -836,7 +836,7 @@ that you may spend when you on- old.— i
 Head over the above maxims at least once |  
 Som
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151118:1858011201:0330/pct:62.270899,76.347305,11.533304,16.034597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151118:1858011201:0330/pct:62.248547,76.314039,11.533304,16.034597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -982,7 +982,7 @@ void it.
 Do not marry until you are able to  
 support a wife.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn85026031:00280774807:1858021801:0264/pct:102.836066,109.272977,15.737705,7.873800/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn85026031:00280774807:1858021801:0264/pct:77.147541,81.975309,11.803279,5.912209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1335,7 +1335,7 @@ happy.
 Save when you are young to spend  
 when you are old
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TiGreen1n_ver01%2Fdata%2F1858060501%2F0472.jp2/pct:8.680556,41.289418,18.094136,31.506657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TiGreen1n_ver01%2Fdata%2F1858060501%2F0472.jp2/pct:6.520062,30.988087,13.560957,23.644008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1418,7 +1418,7 @@ happy.
 Save when you are j-onng to spend when  
 you are old.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1858062201:0352/pct:36.589672,73.422603,11.313815,11.044456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1858062201:0352/pct:36.574960,73.401178,11.313815,11.044456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1458,7 +1458,10 @@ you-ain able to support a wife. Never speak evil
 bf any one. Be just be fore generous. Keep youtl  
 shiF ihnbtant if -You would be happy. Save *hen  
 you are, young to spen
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aura_ver01%2Fdata%2Fsn83032227%2F000001967%2F1858062301%2F0098.jp2/pct:44.711712,51.432624,11.959459,13.773050/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1655,7 +1658,7 @@ iu that case, the vessel must be put
   
 umphed in all the grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1858072901:0135/pct:82.578397,97.000508,44.468641,11.955601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1858072901:0135/pct:61.933798,72.750381,33.362369,8.981529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1753,7 +1756,7 @@ him. Drink no intoxicating liquors. Evir
 live (misfortunes excepted) within your iu&quot;  
 come. When you retire to bed, think
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1858080501:0937/pct:42.627974,63.868334,16.204037,10.257719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1858080501:0937/pct:31.975487,47.920388,12.166547,7.693289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1794,7 +1797,7 @@ Earn your money before you spend
   
 o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AshSpec1n_ver01%2Fdata%2F1858081901%2F0053.jp2/pct:91.469681,36.399258,17.150565,43.008868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AshSpec1n_ver01%2Fdata%2F1858081901%2F0053.jp2/pct:68.615108,27.304599,12.872559,32.264384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1828,7 +1831,7 @@ Read over the above maxims at least
   
 once awe&#x27;ek.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AshSpec1n_ver01%2Fdata%2F1858081901%2F0053.jp2/pct:91.482528,87.255104,16.251285,9.589606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AshSpec1n_ver01%2Fdata%2F1858081901%2F0053.jp2/pct:68.627955,65.456795,12.191675,7.187049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2147,7 +2150,7 @@ Do not marry until yon are able to support a
 wife. Never speak evil of nny one. Be just  
 before yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182999:1859060901:0299/pct:78.914405,26.214394,15.961283,7.114353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182999:1859060901:0299/pct:78.895426,26.200633,15.961283,7.114353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2313,7 +2316,7 @@ acter is above all things else. Your charac­
 ter cannot be essentially injured except by­  
 your own acts. If one speaks
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_eterna_ver01:data:sn86071898:00542867012:1859092301:0268/pct:80.012717,76.151501,12.039000,5.889905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_eterna_ver01:data:sn86071898:00542867012:1859092301:0268/pct:79.991522,76.119403,12.039000,5.889905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2346,7 +2349,7 @@ le happy. Save when you are young, to
 spend when you &#x27; are old. Read over the  
 above maxims once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775393:1859101301:0064/pct:58.549703,67.233576,16.561573,13.262927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775393:1859101301:0064/pct:43.916914,50.445755,12.444362,9.943766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2380,7 +2383,7 @@ evil of you, let your life be so that none
 will believe him. Drink no kinds of intox­  
 icating liquors. Ever live (misfortune e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340597:1860021801:0238/pct:44.047825,17.089542,12.354878,10.659149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340597:1860021801:0238/pct:44.030497,17.076118,12.354878,10.659149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2427,7 +2430,7 @@ happy. Save when you areyounar, that you
 irtay spend when you arc old. Read over  
 the above maxims at least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624517:1865070801:0413/pct:7.375806,88.097999,16.382253,20.484198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624517:1865070801:0413/pct:5.707243,68.266164,12.703830,15.888663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2664,7 +2667,10 @@ be happy. save whoa you are youn t i,
 that you may spend when you are old.  
 Read over t4e above maxims at least  
 once a week-
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001952%2F1865080201%2F0117.jp2/pct:78.632887,69.527692,11.247610,22.194065/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2739,7 +2745,10 @@ when you are old; and&quot;above all, fear
 trod and keep his commandments.  
 Read over the&#x27;above maxims at least  
 once a week.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fufluns_ver02%2Fdata%2F2018264050%2F000002752%2F1865100501%2F0002.jp2/pct:50.323383,50.850542,13.890547,9.355965/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2866,7 +2875,10 @@ Keep_ yourself innocent, if you would be
 •lappy. Save&#x27; when you &#x27;are young, that  
 you may spend when you are old. -Read  
 the above &#x27;Maxims at least once. a week.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_acis_ver01%2Fdata%2Fsn83032185%2F000001885%2F1867010501%2F0004.jp2/pct:6.493392,26.605569,12.383260,13.519659/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2941,7 +2953,7 @@ young, that you may spend when you are
 old. Head over the above maxims at least  
 once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624529:1867081701:0129/pct:56.811704,74.077824,16.036481,16.027774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624529:1867081701:0129/pct:44.024321,57.413569,12.426373,12.411399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3209,7 +3221,7 @@ that you may spend when you are old.—
 Bead over the above maxims at least once a  
 week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_invicta_ver01:data:sn89053987:print:1874010701:0179/pct:19.341894,37.880455,12.680578,23.774600/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_invicta_ver01:data:sn89053987:print:1874010701:0179/pct:19.325843,37.868231,12.680578,23.774600/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3338,7 +3350,7 @@ that you may spend when you are old.—
 Read over the above maxims at least once a  
 week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_invicta_ver01:data:sn89053987:print:1874031101:0215/pct:44.086368,65.054678,13.293587,32.065614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_invicta_ver01:data:sn89053987:print:1874031101:0215/pct:44.070255,65.042527,13.293587,32.053463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3387,7 +3399,7 @@ generous. Keep yourself innocent, if yi
 that you may spend when you are old. lie.  
 over the above maxim., at leu t once a wee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:004141867006:1874040401:0260/pct:55.806170,41.665775,12.354482,22.224601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:004141867006:1874040401:0260/pct:55.791618,41.655069,12.354482,22.224601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3490,7 +3502,7 @@ tion of your mind. Always speak the
 truth and you may yet die happy.  
 It is 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DJoWilm24n_ver01%2Fdata%2F1874042301%2F0508.jp2/pct:28.464978,97.343280,15.536513,4.894647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DJoWilm24n_ver01%2Fdata%2F1874042301%2F0508.jp2/pct:21.348733,73.027091,11.661699,3.677529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3509,7 +3521,7 @@ vation of your mind. Always speak the
 truth and you may yet die happy.  
 Peanuts an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OxLead3n_ver01%2Fdata%2F1874042801%2F0047.jp2/pct:44.018665,83.008025,19.188348,4.815218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OxLead3n_ver01%2Fdata%2F1874042801%2F0047.jp2/pct:33.017534,62.270881,14.394796,3.606460/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3873,7 +3885,7 @@ unless you can see your way out.
 Read over the above maxims at least  
 once a wee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776488:1881052501:0537/pct:70.183344,84.829433,13.688626,26.359297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776488:1881052501:0537/pct:52.656930,63.639539,10.270354,19.781115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3943,7 +3955,7 @@ once a week.
   
 Worth K
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776488:1881052501:0539/pct:70.071296,85.631045,13.654681,26.232374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776488:1881052501:0539/pct:52.557347,64.223284,10.244885,19.694674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4213,7 +4225,7 @@ been doing during the day.—
 Make no haste to he Vicli if  
 you would prosper. D
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:2018270504:00383343562:1881082701:0166/pct:71.267696,6.035329,22.023810,90.174190/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:2018270504:00383343562:1881082701:0166/pct:71.251609,6.023062,22.023810,90.161923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4263,7 +4275,7 @@ run into debt unless you can see you
 way out Read over the above max­  
 ims at least once a wee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn85058130:0020653588A:1881091801:0636/pct:71.285266,57.292355,20.501567,29.995594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn85058130:0020653588A:1881091801:0636/pct:47.523511,38.202247,13.667712,19.993391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4316,7 +4328,7 @@ ness. Heavy blows may fall upon the neryous
 beast only to be followed by the worst results.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348732:1881120801:0411/pct:83.532557,73.607072,11.544511,21.809934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348732:1881120801:0411/pct:83.516829,73.595440,11.544511,21.798302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

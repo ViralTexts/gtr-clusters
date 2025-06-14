@@ -73,7 +73,7 @@ pain. Put a coat over the timber, and there
 is not a man that will live long enough to  
 see it rotten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197590:1872061901:0441/pct:38.603554,68.635416,15.033315,14.293556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197590:1872061901:0441/pct:28.956135,51.487540,11.285397,10.736634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ paint. - Pot a coat of this over the
 umber, and tiler i riot a man, that  
 will live long enough, to se it ro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286856:1872062601:0208/pct:72.628769,47.235530,12.829774,14.256118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286856:1872062601:0208/pct:54.475503,35.426648,9.626256,10.695326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ oil, and stir in pulverized charcoal to the consistency
 of paint. Put a coat over the timber, and there is  
 not a man that will live long enough to see it rotten.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_invicta_ver01:data:sn89053987:print:1872091101:0020/pct:58.333333,45.676329,13.251634,18.466184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_invicta_ver01:data:sn89053987:print:1872091101:0020/pct:58.316993,45.664251,13.251634,18.466184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ portant omission is made, namely that
 the oil and charcoal are applied.  
 ,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NoCarEC1n_ver01%2Fdata%2F1872092501%2F0505.jp2/pct:2.159282,59.487179,15.858104,24.687179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NoCarEC1n_ver01%2Fdata%2F1872092501%2F0505.jp2/pct:1.626472,44.625641,11.890073,18.523077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ fences, &amp;o. lie says :
   
 &#x27;L discovered many years
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmMess60n_ver01%2Fdata%2F1872100301%2F0136.jp2/pct:6.914358,18.056618,16.939547,10.864575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmMess60n_ver01%2Fdata%2F1872100301%2F0136.jp2/pct:5.188917,13.542464,12.707809,8.157995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -586,7 +586,7 @@ man mat win ue to &amp;eu it
   
 So Person can take these Bitter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmMess60n_ver01%2Fdata%2F1872100301%2F0136.jp2/pct:7.178841,19.213849,31.221662,29.695868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmMess60n_ver01%2Fdata%2F1872100301%2F0136.jp2/pct:5.390428,14.412777,23.413098,22.283856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -653,7 +653,7 @@ the atmosphere of continuous good humor.
   
 T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340652:1872101101:0367/pct:72.317015,15.917718,13.697975,78.388637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340652:1872101101:0367/pct:72.301068,15.905473,13.697975,78.376393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -749,7 +749,7 @@ timber, and there is not a man that
 will live to see it rotten.&quot;  
 &quot; Stubborn Horse. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat29n_ver01%2Fdata%2F1872112001%2F0192.jp2/pct:5.079938,13.611634,15.562145,17.880310/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat29n_ver01%2Fdata%2F1872112001%2F0192.jp2/pct:3.816400,10.211341,11.668386,13.412848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -897,7 +897,7 @@ over the timber, and there is not a
 man that will live to see it rotten.&#x27;  
 Sheep. Some way or othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat29n_ver01%2Fdata%2F1872121801%2F0208.jp2/pct:4.080000,44.366785,15.400000,24.087211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat29n_ver01%2Fdata%2F1872121801%2F0208.jp2/pct:3.066667,33.277697,11.546667,18.078448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1020,7 +1020,7 @@ should be well seasoned brforo
 the oil and charcoal are applied.  
 The Terre Haute
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85038222:00280774911:1873013001:0448/pct:56.546185,5.606241,15.763052,94.116091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85038222:00280774911:1873013001:0448/pct:42.409639,4.204681,11.847390,70.620124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1103,7 +1103,7 @@ paint. Put a coat over the timber,
 and there is not a man that live  
 long enough to see it rotte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL3_ver01%2Fdata%2F1873021401%2F0564.jp2/pct:70.893204,61.296918,12.349515,18.139331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL3_ver01%2Fdata%2F1873021401%2F0564.jp2/pct:70.873786,61.282313,12.349515,18.124726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1172,7 +1172,7 @@ over tho timber, and thero is not a man
 that will live to *oo it rot.&#x27;—Curretpondcnt  
 \\\-*tcrn Iinral.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187146:1873022101:0592/pct:83.713965,34.492124,12.978909,12.514938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187146:1873022101:0592/pct:83.701485,34.481260,12.978909,12.514938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1313,7 +1313,7 @@ man that will live to see it rotten.—
   
 Western Rural.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85033526:00212472566:1873022701:0035/pct:15.148840,28.049383,10.759334,14.350617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85033526:00212472566:1873022701:0035/pct:14.013623,25.945679,9.952069,13.274074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1357,7 +1357,7 @@ coat of this over the tinilier, and there iu
 not a mau that will live to eee it rot.&quot;  
 Cor. Wtitf-m Itural
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1873030101:0230/pct:108.895265,66.009297,17.073171,13.466685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1873030101:0230/pct:81.671449,49.514016,12.804878,10.100014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1398,7 +1398,7 @@ casts a shadow, set a stick upright near
 the cud of the shadow of the tree. 31ark  
 th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn85033474:00514151131:1873030701:0601/pct:14.990095,18.452780,11.402157,13.362358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn85033474:00514151131:1873030701:0601/pct:14.968083,18.436035,11.402157,13.362358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1544,7 +1544,7 @@ to the coLMsteiicv ot paint, i&#x27;ut a co-it
 of this over the timber, and there is not  
 man that vt&#x27;u live to&#x27;see it ro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://nebnewspapers.unl.edu/images/iiif/batch_nbu_plattsmouth02_ver01%2Fdata%2Fsn84022825%2F00000000007%2F1873031301%2F0244.jp2/pct:66.963811,114.975792,14.675359,12.511004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://nebnewspapers.unl.edu/images/iiif/batch_nbu_plattsmouth02_ver01%2Fdata%2Fsn84022825%2F00000000007%2F1873031301%2F0244.jp2/pct:50.239489,86.267606,11.016498,9.386004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1578,7 +1578,7 @@ timber, and there is not a man that will
 live to see it rot.&quot; Car. Western Rural.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470119:1873031401:0684/pct:20.196448,93.039520,14.800861,12.522202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470119:1873031401:0684/pct:15.150700,69.782416,11.100646,9.391652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1651,7 +1651,7 @@ there is not a man that will live to
 see it rotten.&quot; Cor. Western Rural.  
 How to Dky Tomatoes. W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061082:00212470314:1873031501:0252/pct:19.058687,100.444444,13.088321,15.422222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061082:00212470314:1873031501:0252/pct:14.294015,75.344444,9.819872,11.588889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1687,7 +1687,7 @@ teen ian trro cents a lece. They fhould
 lie well seasoned before the oil and char-;  
 coal are applied.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026118:00280776348:1873031901:0459/pct:11.204996,79.830374,16.605437,9.687252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026118:00280776348:1873031901:0459/pct:8.412932,59.886032,12.454078,7.275378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1852,7 +1852,7 @@ will live to see it rotten. ;.&#x27;
 Cor. Western Rufal.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SHomeChar2n_ver01%2Fdata%2F1873033101%2F0052.jp2/pct:29.823801,17.989418,19.699596,17.518038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SHomeChar2n_ver01%2Fdata%2F1873033101%2F0052.jp2/pct:22.371462,13.496873,14.774697,13.140933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1896,7 +1896,7 @@ not a man that will live to see it rotten.
 Cor. Western Jiural.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn85033386:00296020709:1873040401:0061/pct:75.078616,96.016771,12.984801,18.746552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn85033386:00296020709:1873040401:0061/pct:56.328616,72.029129,9.735325,14.068189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1973,7 +1973,7 @@ to see it rotten.”—Cor. Water* Mural.
   
 le k
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895394:1873041001:0060/pct:62.909658,63.081320,13.143749,32.683814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895394:1873041001:0060/pct:62.892318,63.068329,13.143749,32.670824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2088,7 +2088,10 @@ The 3111111 n Law
   
 The following. in brief, are some of the fea­  
 tures of th
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fascinus_ver01%2Fdata%2Fsn84026112%2F000002386%2F1873041601%2F0063.jp2/pct:19.882256,42.730100,11.593679,14.113096/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2135,7 +2138,7 @@ rot.&quot; fCor. Western Rural, i
   
 Save th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283624:1873041701:0255/pct:21.241830,52.153759,13.042187,24.239683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283624:1873041701:0255/pct:15.938800,39.129452,9.789067,18.179763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2257,7 +2260,10 @@ live to see them rotten.
 The women of the United Slates use  
 more pins and needles than those of any  
 othe
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001753%2F1873042401%2F0065.jp2/pct:82.440204,77.980253,10.566916,13.049949/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2321,7 +2327,10 @@ less ]tan, two cents apiece. For the ben
 j p  
 of others I, will . give the recip : &quot;Ti  
 boile
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_deaTacita_ver01%2Fdata%2Fsn86081130%2F000002100%2F1873042901%2F0065.jp2/pct:85.125448,60.312803,10.328035,6.488988/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2387,7 +2396,7 @@ not a man will live to see it rotten. Carres.
 H’&lt; .stern Rural.  
 Hearing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342399:1873050201:0485/pct:9.946340,63.087551,14.909927,14.221355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342399:1873050201:0485/pct:7.704101,48.896231,11.556152,11.007659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2629,7 +2638,7 @@ the corn is swelled ready to sprout, and
 then plant.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197498:1873051701:0077/pct:10.554371,26.833398,16.186923,6.669272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197498:1873051701:0077/pct:7.924662,20.125049,12.135750,5.028006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2660,7 +2669,7 @@ prepared for lew than twoceuts apiece. For
 the benefit oi others, I will rjVe the rec  
 Take boiled linseed oil and tr t 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022986:1873052001:0295/pct:9.455307,110.277078,19.916201,12.231738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022986:1873052001:0295/pct:7.094972,82.740554,14.944134,9.178841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2680,7 +2689,7 @@ nnlil the corn is swelled ready to sprout, and
 then plant.  
 Save yon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:0029455564A:1873052201:0663/pct:23.828697,124.061653,16.544656,4.309976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:0029455564A:1873052201:0663/pct:17.880673,93.078350,12.408492,3.239618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2768,7 +2777,10 @@ w ill live to see it rot.—Corzetipondent
 Western Rural.  
   
 Th
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_obamab_ver01%2Fdata%2Fsn83031982%2F000001765%2F1873052801%2F0067.jp2/pct:3.411930,79.562367,9.775141,11.177061/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2914,7 +2926,7 @@ timber and there is not a niari that will
 live to see it rotten.&quot; Cor. Weitfrn Rural.  
 T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026050:00280776804:1873060301:0619/pct:8.689979,63.466931,22.938413,21.738413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026050:00280776804:1873060301:0619/pct:6.524008,47.600198,17.223382,16.328550/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2985,7 +2997,7 @@ and there is not a man that will live to see
 it rot.  
 How to Make 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016739:00295877509:1873060701:0271/pct:68.813314,26.770708,14.960203,13.190276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016739:00295877509:1873060701:0271/pct:51.609986,20.078031,11.233719,9.903962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3104,7 +3116,7 @@ consistent 06 paint. Put a coat of *hi
 over the timber, and there is not a man  
 that will live to see it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769726:1873061201:0507/pct:15.365568,56.774404,10.165515,12.906736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769726:1873061201:0507/pct:14.596638,53.934052,9.644207,12.253782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3145,7 +3157,10 @@ to the consistency of paint. Put a
 coat of this over the timber, and  
 there is not a man that will live to  
 see it rot.— Western Rural.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_yamhillcountyhistoricalsociety_20210719CedarPenanggalanEatingCrabgrass_ver01%2Fdata%2Fsn85033157%2Fprint%2F1873061301%2F0004.jp2/pct:13.149584,8.950487,13.006029,16.610241/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3181,7 +3196,7 @@ of paint. Put a coat of this over the
 timber, and there is not a man that  
 will live to see it rot.’ ”—Co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:0051415238A:1873061301:0335/pct:105.204003,79.251337,15.319477,20.546643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:0051415238A:1873061301:0335/pct:81.524249,61.414141,11.870670,15.923945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3325,7 +3340,7 @@ this over the limber, and there
 is not a man who will live to  
 see it ro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85038222:00280774911:1873061901:0527/pct:76.562500,17.810062,15.949675,28.423460/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85038222:00280774911:1873061901:0527/pct:57.447240,13.357546,11.992695,21.334409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3356,7 +3371,7 @@ of others I will give the recipe: Take
 boiled linseed oil and stir in it pulver  
 ized charcoal to tl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776087:1873061901:0095/pct:7.551320,87.367540,16.312317,11.349693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776087:1873061901:0095/pct:5.663490,65.546570,12.243402,8.505298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3388,7 +3403,7 @@ to the consistency of paint. P.it a coat of
 this over the timber, and there is not a man  
 that w ill live t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471525:1873062101:0127/pct:26.958883,58.191489,20.093095,12.526596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471525:1873062101:0127/pct:20.228860,43.656915,15.089216,9.414894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3430,7 +3445,7 @@ continuous good homor.
   
 6B
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat29n_ver01%2Fdata%2F1873062501%2F0311.jp2/pct:34.719361,8.361899,27.407312,120.671029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat29n_ver01%2Fdata%2F1873062501%2F0311.jp2/pct:26.042739,6.274021,20.558702,90.526644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3456,7 +3471,7 @@ sudden change of temperature which
 produces the change on the mucous  
 coat of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479718:1873062601:0320/pct:28.329177,36.928846,10.760599,5.585710/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479718:1873062601:0320/pct:25.498753,33.237935,9.688279,5.023192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3483,7 +3498,7 @@ sudden change of temperature which
 produces tlie «hange on the mucous  
 coat of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479718:1873062601:0321/pct:28.514802,36.764995,10.727115,5.929204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479718:1873062601:0321/pct:25.665800,33.087512,9.637062,5.339233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3522,7 +3537,7 @@ timber, and there i9 not a muu Ilia­
 viil live to see it rot.  
 A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn84026809:00340582123:1873062601:0038/pct:5.253118,40.500424,11.283933,14.365988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn84026809:00340582123:1873062601:0038/pct:5.238445,40.489822,11.283933,14.365988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3648,7 +3663,7 @@ ized charcoal to the consistency of
   
 paint, rut a ooai ot tbM over iae
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:0019991991A:1873071001:0032/pct:32.151197,98.172414,12.521891,13.011494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:0019991991A:1873071001:0032/pct:27.320490,83.436782,10.653824,11.057471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3853,7 +3868,7 @@ gister.cy of paint. Put a coat of this on tin
 timber, and there is not a man who will liv«  
 j to see it rot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:004141867006:1873080201:0124/pct:68.813803,84.743219,12.465852,10.807334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:004141867006:1873080201:0124/pct:68.799425,84.721775,12.465852,10.807334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3890,7 +3905,7 @@ paint. Put a coat of this on the timber,
 and there is not a man who will live to  
 see it rot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776087:1873080701:0118/pct:40.203193,71.671977,16.055878,16.719767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776087:1873080701:0118/pct:30.152395,53.760909,12.046444,12.536362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3922,7 +3937,7 @@ pulveriiioit charcoal to the consistency of paint
 Tut a coat of this over the timer aud there is  
 not a man that will live to see it lotion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_longines_ver01:data:sn85025371:00542867218:1873082801:0143/pct:65.062454,75.484381,14.162381,11.664690/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_longines_ver01:data:sn85025371:00542867218:1873082801:0143/pct:65.044085,75.458020,14.162381,11.664690/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3989,7 +4004,10 @@ it pulverized charcoal to the consistency of
 paint. Put a coat of this&#x27; over the timber,  
 and there is not a Man that will live to see  
 it rotten.&quot;—Cur. lV.s&amp;&#x27;rn Rural.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_deaTacita_ver01%2Fdata%2Fsn86081130%2F000002100%2F1873091601%2F0145.jp2/pct:85.520916,62.825957,11.389108,7.730263/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4060,7 +4078,7 @@ pared for less than two centa apieoe. &quot;
 They should be well seasoned before the  
 oil and charcoal are applied.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1873102401:0237/pct:53.315412,123.884892,20.848268,10.041110/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1873102401:0237/pct:35.543608,82.610483,13.903823,6.700925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4086,7 +4104,7 @@ into tlio ground. The posts can be pre­
 * They should be well seasoned before the  
 &#x27; oil and charcoal are applied
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627610:1873102501:0465/pct:105.458908,96.809779,16.836633,9.973166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627610:1873102501:0465/pct:81.723655,75.029815,13.037393,7.722123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4127,7 +4145,7 @@ man that will live to see it rot.
   
 NEW U8B FOR STEAM
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479718:1873110601:0431/pct:27.145709,76.111716,10.903194,14.746955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479718:1873110601:0431/pct:24.438623,68.505497,9.805389,13.271269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4184,7 +4202,10 @@ into the ground. The posts can lie pre­
 pared for loss than two cents apiece.”  
 They should I m ? well seasoned before  
 the oil and charcoal are applied
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_jacksonvilleboosters_20210525DiamondUnicornTramplingKelp_ver01%2Fdata%2Fsn84022655%2Fprint%2F1873120601%2F0004.jp2/pct:12.990335,78.810484,13.132462,6.754032/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4223,7 +4244,10 @@ cy of paint. Put a coat of this over
 G//#f-  
 t? at will ive i &gt; so t it rotten .  
 a
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_washingtoncountycooperativelibraryservice_20180918BasaltVampireTramplingCrabgrass_ver01%2Fdata%2Fsn93051619%2Fprint%2F1873121301%2F0004.jp2/pct:10.582738,58.549761,11.627268,13.692084/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4251,7 +4275,7 @@ should be well &quot;seasoned before
 the oil and charoal are applied.&#x27;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RuthSWCR1n_ver01%2Fdata%2F1873122001%2F0169.jp2/pct:106.473870,90.539851,19.950088,15.328095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RuthSWCR1n_ver01%2Fdata%2F1873122001%2F0169.jp2/pct:79.888432,67.925298,14.973576,11.511379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4298,7 +4322,7 @@ plenty. The process is not an expen
 sive one, and we hope some of our read­  
 ers will be led to try it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028903:1874013001:0073/pct:112.537583,7.098174,12.793145,21.626452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028903:1874013001:0073/pct:84.440770,5.323631,9.591100,16.226222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4379,7 +4403,10 @@ recipe : Take boiled linseed ;Aland stir it
 itr pulverized charcoal to the eousist ene y  
 of paint. Pnt a coat of this Over the  
 tirril•er.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fascinus_ver01%2Fdata%2Fsn84026112%2F000002387%2F1874032501%2F0048.jp2/pct:7.664309,78.032356,11.740849,14.340931/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4617,7 +4644,7 @@ consistency of paint. Put a coat of
 this over the timber, and there is not a  
 man that will live to see it rot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776087:1874090301:0342/pct:8.418367,80.320680,16.126093,12.840894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776087:1874090301:0342/pct:6.322886,60.257640,12.099125,9.634096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4653,7 +4680,7 @@ Put a coat of this over the timber,
 and there is not a man that will  
 live to see it rot.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472979:1874091101:0239/pct:5.084299,64.044944,12.420969,12.701035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472979:1874091101:0239/pct:3.819810,48.050231,9.312434,9.539546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4686,7 +4713,7 @@ timber, and there is not a man that will live to
 see it rOt  
 The entire stock o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_eos_ver01:data:sn83021205:00517171785:1874091501:0876/pct:50.435962,7.418356,28.831622,117.919482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_eos_ver01:data:sn83021205:00517171785:1874091501:0876/pct:39.081573,5.743243,22.321256,91.385135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4722,7 +4749,7 @@ who will live to see it rot.
   
 When beginning to us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://nebnewspapers.unl.edu/images/iiif/batch_nbu_plattsmouth03_ver01%2Fdata%2Fsn84022825%2F00000000008%2F1874100801%2F0198.jp2/pct:52.120653,31.052687,14.712856,7.876676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://nebnewspapers.unl.edu/images/iiif/batch_nbu_plattsmouth03_ver01%2Fdata%2Fsn84022825%2F00000000008%2F1874100801%2F0198.jp2/pct:39.093783,23.292155,11.037935,5.912786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4752,7 +4779,7 @@ will live to see it rot.
   
 Tbe main featur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775137:1874100801:0304/pct:65.909091,115.653775,11.896745,8.081465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775137:1874100801:0304/pct:49.452862,86.772831,8.922559,6.066515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4789,7 +4816,7 @@ there is not a mau that will live to sco
 it rot.&quot;  
 Did any o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776117:1874101401:0911/pct:66.832130,85.619725,19.855596,21.198080/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776117:1874101401:0911/pct:50.157942,64.239616,14.891697,15.919245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4910,7 +4937,7 @@ and stir it in pulverized charcoal to the
 consistency of paint.&#x27; Put a coat of timber,  
 and there is not a man that will live t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349517:1874103001:0370/pct:84.913725,58.387827,10.891246,8.626761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349517:1874103001:0370/pct:84.897895,58.375252,10.891246,8.626761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5001,7 +5028,7 @@ tbigver the timber, and there is
 not vman that will live to see it rot.  
 Save all the Bones. There I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat29n_ver01%2Fdata%2F1874111801%2F0590.jp2/pct:7.932446,71.313673,14.252815,16.477624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat29n_ver01%2Fdata%2F1874111801%2F0590.jp2/pct:5.949335,53.495566,10.696008,12.373685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5038,7 +5065,7 @@ and there is not a man who will lire
 to see it rotten. Cor. Western  
 litera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775794:1874112001:0307/pct:46.796827,114.893617,13.148261,14.091385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775794:1874112001:0307/pct:35.112874,86.210906,9.868822,10.568539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5259,7 +5286,7 @@ tency of paint. Put a coat of this &#x27;wer
 the timber, and there is not a man who  
 will-live to see it rot.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769738:1874122401:0115/pct:19.616652,69.712261,15.004492,13.399184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769738:1874122401:0115/pct:18.628332,66.222890,14.255765,12.722783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5356,7 +5383,7 @@ In the practice of medicine, as in other worldly
 matters, certain things are ia fashioa for a certain  
 time. Bleeding and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474289:1875013001:0564/pct:74.186992,41.423671,16.514228,10.666810/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474289:1875013001:0564/pct:55.652947,31.067753,12.385671,8.008148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5417,7 +5444,7 @@ Teriredcharcoal to the consistency of poiut. Pnt
 a coat of this over the timber, and there is not a  
 man who will live to see it rot.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1875021101:0338/pct:4.951959,106.144307,16.851441,8.511838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1875021101:0338/pct:3.713969,79.650507,12.638581,6.397971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5479,7 +5506,7 @@ been tt wtn in ,
 j kucjr ncie ss HDBa  
 when taken out as when they were first
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194989:1875041201:0059/pct:25.101863,106.954805,14.566356,10.223782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194989:1875041201:0059/pct:18.830035,80.243528,10.928405,7.667837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5766,7 +5793,7 @@ consistency of paint. Put a coat of this
 over the timber, and. he adds, there 13  
 not a man whj will live to sci it r;&#x27;. J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470120:1875070201:0313/pct:76.770538,118.119239,15.269122,8.272080/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470120:1875070201:0313/pct:57.592068,88.624431,11.473088,6.206977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5880,7 +5907,7 @@ it rot.
 Harness Polish.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_judaspriest_ver01:data:sn84037890:00280763573:1875072101:0122/pct:44.003690,44.226148,16.014760,17.173145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_judaspriest_ver01:data:sn84037890:00280763573:1875072101:0122/pct:33.007380,33.187279,12.029520,12.876325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5940,7 +5967,7 @@ over the timber and, be adds, there
 is not a man who will lire to see it  
 rot.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472979:1875073001:0421/pct:71.545791,119.362745,12.705135,7.809715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472979:1875073001:0421/pct:53.665961,89.538770,9.528851,5.860071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6093,7 +6120,7 @@ this over the timber; and there s
 ; nos a man that will live to see it  
 &#x27;rot.&quot; ; &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OxLead6n_ver01%2Fdata%2F1875102601%2F0256.jp2/pct:2.310030,93.818447,15.835866,19.566805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OxLead6n_ver01%2Fdata%2F1875102601%2F0256.jp2/pct:1.732523,70.382088,11.884498,14.687272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6292,7 +6319,7 @@ is to go into the ground, and lie adds,
 rot.’  
 ■
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625509:1876012801:0435/pct:109.285595,109.895212,14.020412,9.178936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625509:1876012801:0435/pct:84.691317,85.157183,10.858290,7.109696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6334,7 +6361,7 @@ a man that will ever live to see it
 rotten.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn84037890:00280763585:1876020201:0027/pct:25.958062,9.588466,15.871294,24.258119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn84037890:00280763585:1876020201:0027/pct:19.468547,7.194849,11.912509,18.197088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6374,7 +6401,7 @@ t,)e timb,r wl)ich U to jro into thei
 not a man who will live to see  
 it rot &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470387:1876030201:0639/pct:21.775083,108.358466,16.262404,15.338216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470387:1876030201:0639/pct:16.331312,81.301163,12.196803,11.514433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6469,7 +6496,7 @@ a coat of this over the timber, and there is
 not a man who will live to see it rot.  
 Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_longines_ver01:data:sn85025371:00542867218:1876051101:0704/pct:5.513830,46.817706,14.196739,12.873232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_longines_ver01:data:sn85025371:00542867218:1876051101:0704/pct:5.495512,46.804610,14.196739,12.873232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6496,7 +6523,7 @@ the consistency of paint. Fut a coat
 of this over the timber, and there is  
 not a man that will live to sec it ro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn84037890:00280763585:1876051701:0102/pct:24.909289,64.556609,15.656749,12.325711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn84037890:00280763585:1876051701:0102/pct:18.686502,48.424428,11.738026,9.244283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6533,7 +6560,7 @@ sistency of paint. Put a coat of this
 over the timber, and there is not the  
 man that will live to see it ro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919921:1876051801:0276/pct:97.033521,40.876750,12.474043,13.311912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919921:1876051801:0276/pct:82.482943,34.748680,10.605162,11.303649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6611,7 +6638,7 @@ have no effect on them. The
   
 IWHICH WE KEEP AT THE Git 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalCA10n_ver01%2Fdata%2F1876071901%2F0504.jp2/pct:25.276753,61.899791,26.383764,12.398515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalCA10n_ver01%2Fdata%2F1876071901%2F0504.jp2/pct:18.957565,46.439341,19.787823,9.301786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6941,7 +6968,7 @@ lect on it. The posts can be prepared
 for less than two ccnts a-piecc. This  
 is the recipe Take boiled
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919933:1877021501:0028/pct:34.594751,37.837535,12.135711,6.151261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919933:1877021501:0028/pct:30.274032,33.109244,10.598811,5.366947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7114,7 +7141,7 @@ the consUteney of paint. Put a coal
 of this over the timber, and there ia n*  
 man that will live t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919933:1877042601:0065/pct:32.042553,84.818926,11.872340,13.936540/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919933:1877042601:0065/pct:28.028369,74.212356,10.397163,12.187465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7166,7 +7193,7 @@ loan Mat
   
 Will live
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479731:1877042601:0289/pct:31.557429,9.318226,11.192028,9.161946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479731:1877042601:0289/pct:29.973170,8.849385,10.642647,8.702872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7239,7 +7266,7 @@ of paint. Put a coav of this over the
 timber, and there is not a man that  
 will live t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_elk_ver01%2Fdata%2Fsn84022653%2F00000000018%2F1877062301%2F0292.jp2/pct:103.521739,75.065256,18.717391,18.395384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_elk_ver01%2Fdata%2Fsn84022653%2F00000000018%2F1877062301%2F0292.jp2/pct:77.695652,56.326418,14.043478,13.820580/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7258,7 +7285,7 @@ farmer discovered, many years ago, that
 wood could bo made to last longer than  
 iron in the ground. Time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197619:1877062701:0400/pct:55.430566,110.836200,14.895268,2.818206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197619:1877062701:0400/pct:41.582622,83.156920,11.190846,2.116962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7292,7 +7319,7 @@ of paint. Put a cost ol this over the tim­
 ber, nml there is not a man that will live  
 to see it ro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn87076843:00280775733:1877071301:0524/pct:49.272005,28.699208,14.311714,6.695630/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn87076843:00280775733:1877071301:0524/pct:36.962277,21.530795,10.737922,5.021722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7370,7 +7397,7 @@ ency of paint. Put a coat of this over the
 timber, and there is not a man that will  
 live long enough to see it rotten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349554:1882071401:0323/pct:73.389858,81.157775,11.381053,12.750662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349554:1882071401:0323/pct:73.373553,81.132551,11.381053,12.750662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7406,7 +7433,7 @@ Put a coat of this ovgr^tho timber*
 and there is not a man that will live  
 long enough to see it &quot;otten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:2018270504:00383343562:1882102801:0336/pct:61.971388,76.630904,10.422889,13.824146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:2018270504:00383343562:1882102801:0336/pct:61.955667,76.618572,10.422889,13.811814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7559,7 +7586,7 @@ tended, all right ; if not, you will Euffer
 but little loss  
 A S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn86090474:00296020503:1884101101:0958/pct:35.564011,16.512084,22.112802,50.437622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn86090474:00296020503:1884101101:0958/pct:26.678603,12.384063,16.606983,37.857609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7749,7 +7776,7 @@ purpose intended, all right; if not,
 you will suffer but little loss.  
 What is t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020552:1884111301:0401/pct:113.577813,63.709942,13.052050,31.729192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020552:1884111301:0401/pct:85.199790,47.796128,9.792324,23.799628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7789,7 +7816,7 @@ man that will live long enough to see
 it rotten.  
 Mistakes 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297672:1884111301:0017/pct:87.001174,29.302326,13.116197,14.976744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297672:1884111301:0017/pct:65.272887,21.976744,9.859155,11.244186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7863,7 +7890,7 @@ over the timber, and there is not a man
 that will live long enough to see it rotten.  
 Fatt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023024:1884120501:0192/pct:6.614219,70.462396,17.074592,14.752089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023024:1884120501:0192/pct:4.967949,52.869081,12.805944,11.064067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7931,7 +7958,7 @@ sistency ot paint. Tut a coat ot this over
 the timber, and there is not a man that  
 will live long enough to see it ro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_eddington_ver01:data:sn82014248:00332895126:1885032601:0295/pct:17.452553,54.332620,13.089415,9.892934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_eddington_ver01:data:sn82014248:00332895126:1885032601:0295/pct:17.432988,54.318344,13.089415,9.892934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7978,7 +8005,7 @@ r .l a - n i; . .
 muu initv win live loug vuuugu iv w  
 it rotten.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GraA13n_ver01%2Fdata%2F1885100101%2F0957.jp2/pct:92.142299,111.346379,16.810008,14.485981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GraA13n_ver01%2Fdata%2F1885100101%2F0957.jp2/pct:69.155590,83.557243,12.607506,10.864486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8029,7 +8056,7 @@ to see it rotten.&quot;
   
 At th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DaR14n_ver01%2Fdata%2F1885100801%2F0722.jp2/pct:23.451883,37.837426,15.648536,19.094098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DaR14n_ver01%2Fdata%2F1885100801%2F0722.jp2/pct:17.594142,28.381882,11.736402,14.335824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8065,7 +8092,7 @@ is not a man that will live long enough
 to sea it rotten.&quot;  
 =A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DaR1_ver01%2Fdata%2F1885100801%2F0874.jp2/pct:18.650089,29.221539,12.176830,14.852210/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DaR1_ver01%2Fdata%2F1885100801%2F0874.jp2/pct:17.702783,27.758267,11.565029,14.105941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8104,7 +8131,7 @@ timber, and there is not a mad that
 will live to see it rotten.”  
 The Banner says that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_freeport_ver01:data:sn95047329:00517170070:1889021601:0168/pct:93.194990,64.252967,17.012526,19.673679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_freeport_ver01:data:sn95047329:00517170070:1889021601:0168/pct:72.219106,49.797735,13.198729,15.250809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

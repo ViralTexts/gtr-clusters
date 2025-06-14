@@ -1,7 +1,7 @@
 
 # The Footsteps of Decay
 
-### 305 reprints from 1824-01-01 to 1899-07-13
+### 303 reprints from 1824-01-01 to 1899-07-13
 
 ## [The Footsteps of Decay](http://chroniclingamerica.loc.gov/lccn/sn82015407/1864-12-17/ed-1/seq-1/)
 
@@ -355,7 +355,7 @@ Comes stealing on.
 How pleasure, like the passing wind,  
 Blows b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn85059803:00514157832:1824061201:0078/pct:37.910448,11.192581,26.919946,14.082381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn85059803:00514157832:1824061201:0078/pct:37.883311,11.171016,26.919946,14.082381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ That lure us here ;
 Dreams of a sleep that death must break,  
 Ala
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn85059803:00514157832:1824061201:0078/pct:40.135685,30.062540,22.388060,37.977140/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn85059803:00514157832:1824061201:0078/pct:40.108548,30.040975,22.388060,37.977140/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -442,7 +442,7 @@ Come* stealing on.
 Mow pleasure,like the passing wind,  
 Blows h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825011401:0018/pct:1.044848,5.706617,15.431603,6.966974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825011401:0018/pct:1.028774,5.694947,15.431603,6.966974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -469,7 +469,7 @@ Comes stealing on.
 How pleasure, like the passing wind,  
 Blows b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825020501:0068/pct:6.559245,30.514827,14.436849,8.587807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825020501:0068/pct:6.542969,30.503803,14.436849,8.587807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -496,7 +496,7 @@ Conies stealing on.
 How pleasure, like the pasa ng wind.  
 Blo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1825022401:0461/pct:7.649214,7.611403,17.000646,7.791309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1825022401:0461/pct:7.627666,7.597564,17.000646,7.791309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -906,7 +906,7 @@ The heart’s blithe tone ;
 The strength is gone, the stop is slow,  
 And joy grows 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_hale_ver01:data:sn84022927:00542868582:1825053001:0068/pct:8.345265,11.475643,22.335856,54.750746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_hale_ver01:data:sn84022927:00542868582:1825053001:0068/pct:6.463489,8.890783,17.324606,42.437154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1106,7 +1106,7 @@ Like them the present shall delight—
 Like them decay.  
 Ottr lives like hasting streams must b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825090601:0173/pct:6.298389,7.410782,12.199205,12.300683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825090601:0173/pct:6.277464,7.395596,12.199205,12.300683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1152,7 +1152,7 @@ The strength is gone, the step is slow,
 And joy grows weariness and wo  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825090601:0173/pct:6.612262,20.637813,12.052731,16.142749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825090601:0173/pct:6.591337,20.622627,12.052731,16.142749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1217,7 +1217,7 @@ Has pai’d away.
 Youth smiled and all was heavenly fair,  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_fonda_ver01:data:sn85054267:print:1825101001:0352/pct:13.492279,12.148669,18.423192,34.874260/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_fonda_ver01:data:sn85054267:print:1825101001:0352/pct:13.465186,12.130178,18.423192,34.874260/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1966,7 +1966,7 @@ And joy grows weariness and wo
 When age comes on.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1826111401:0083/pct:22.299032,41.119054,17.203239,36.252406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1826111401:0083/pct:22.279281,41.105307,17.203239,36.238658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2279,7 +2279,7 @@ And joy grows weariness and woe
 When age comes on.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826121201:0404/pct:4.241628,18.491699,18.647406,42.847051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826121201:0404/pct:4.228496,18.482868,18.647406,42.847051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2686,16 +2686,6 @@ When age comes on. Flowarp. |
 
 ---
 
-## The following is a translation from an ancient Spanish Poem, which, says the Edinburgh Review, is surpassed by nothing with which we are acquainted in the Spanish language, except the Odes of Lewis de Leon
-
-#### From _Daily national intelligencer._
-
-#### 1830-10-13 &middot; [Washington City [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
-
-[This text is not available under an open license.]
-
----
-
 ## [From _Martinsburg gazette and public advertiser._](https://www.loc.gov/resource/sn85059526/1830-10-21/ed-1/?sp=1)
 
 #### 1830-10-21 &middot; [Martinsburg, Va. [W. Va.]](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
@@ -2764,7 +2754,7 @@ And joy grovis wearisome and vv*&gt;
 When age comes on.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830102101:0388/pct:0.744634,10.335077,92.882173,38.060229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830102101:0388/pct:0.722733,10.320939,92.882173,38.060229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2942,7 +2932,7 @@ When age comes on.
   
 i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NBSpec1n_ver01%2Fdata%2F1830103001%2F0468.jp2/pct:13.373494,5.538211,25.060241,54.716981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NBSpec1n_ver01%2Fdata%2F1830103001%2F0468.jp2/pct:10.040161,4.153658,18.795181,41.061490/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3638,7 +3628,7 @@ There all those glittering toys are brought,
 That pti It alone of all tmsougbt,  
 Is found of all.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat11n_ver01%2Fdata%2F1831011201%2F0467.jp2/pct:41.233221,33.457944,23.552852,35.180240/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat11n_ver01%2Fdata%2F1831011201%2F0467.jp2/pct:30.935403,25.113485,17.680369,26.395194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3674,7 +3664,7 @@ The strength is g ne, the step is slow,
 And joy grows weariness and woo-  
 WJieu, age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat11n_ver01%2Fdata%2F1831011201%2F0467.jp2/pct:10.067114,70.120160,53.523490,52.763685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat11n_ver01%2Fdata%2F1831011201%2F0467.jp2/pct:7.550336,52.616822,40.184564,39.612817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3754,16 +3744,6 @@ ing personal danger, or the instinet, t
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831051701:0499/pct:12.066116,8.772105,16.393689,31.411729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## The Olio
-
-#### From _The Arkansas gazette._
-
-#### 1831-06-01 &middot; [Arkansas Post, Ark. Ter.](http://dbpedia.org/resource/Arkansas_Post)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -4660,7 +4640,7 @@ The strength is gone the step is slow,
 And joy grows wearisome and wo  
 When age comes o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_isolation_ver01:data:sn84022931:00542868302:1836021301:0236/pct:5.962873,22.016319,18.901181,41.045499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_isolation_ver01:data:sn84022931:00542868302:1836021301:0236/pct:4.612788,17.051583,14.644665,31.821325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5086,7 +5066,7 @@ Death levels poverty and pride,
 . Within the grave.  
 / Our birth is hut a starting place&#x27;;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991215:1837111701:0090/pct:4.612440,4.654567,15.712919,23.565574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991215:1837111701:0090/pct:4.593301,4.639930,15.712919,23.565574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5158,7 +5138,7 @@ And joy grows weariness and woe
 When age comes on.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991215:1838110901:0290/pct:4.207873,6.097383,14.892379,25.968709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991215:1838110901:0290/pct:4.188482,6.082761,14.892379,25.968709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5245,7 +5225,7 @@ When age comes on.
   
 R
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991227:1839062101:0099/pct:2.293850,40.740201,13.328060,28.879499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991227:1839062101:0099/pct:2.274076,40.725630,13.328060,28.879499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5382,7 +5362,7 @@ The step that strolled so light and gay,
 Tliehoort’s hlylhe tone?  
 The strength is gone, the ste
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991227:1839082301:0127/pct:2.070834,33.760746,13.779756,15.692846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991227:1839082301:0127/pct:2.051481,33.746175,13.779756,15.692846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5923,7 +5903,7 @@ The strength is gone the step is slow,
 And jaalgrows wearisome and wo  
 nen age comes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_isolation_ver01:data:sn84022931:00542868338:1842081201:0340/pct:8.414477,7.998873,16.277788,33.305168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_isolation_ver01:data:sn84022931:00542868338:1842081201:0340/pct:6.522139,6.196310,12.603344,25.799183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6080,7 +6060,7 @@ When nge comes on.
 HENRY CLAY.  
 BY J. G
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_isolation_ver01:data:sn84022931:0054286834A:1844080201:0328/pct:8.615682,9.235439,37.270087,114.857638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_isolation_ver01:data:sn84022931:0054286834A:1844080201:0328/pct:6.679574,7.154213,28.867377,89.001301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6499,7 +6479,7 @@ That path alone, of all unsought,
 Is found of all.  
 To thee, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jaeger_ver01:data:sn94059319:print:1852030401:0320/pct:10.306083,17.839856,13.308795,13.926151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jaeger_ver01:data:sn94059319:print:1852030401:0320/pct:10.286711,17.826027,13.308795,13.926151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6591,7 +6571,7 @@ Is found of all.
 Long ere the dumps of earth can blight,  
 The cheek’s pure glow o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340597:1860033101:0262/pct:20.443391,28.480593,10.712472,18.413035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340597:1860033101:0262/pct:20.426468,28.467347,10.712472,18.413035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6879,7 +6859,7 @@ And joy grows wenriaome. and wo!
 When age comes on!  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84022932:00542868545:1864011501:0220/pct:6.104095,6.984216,19.192499,30.395307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84022932:00542868545:1864011501:0220/pct:4.726368,5.419751,14.887103,23.550775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7209,7 +7189,10 @@ The heart&#x27;s blithe tone?
 The strength is gone. the step is slow;  
 Thejoy grows wearisome, and wo!  
 When age comes on!
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_februus_ver01%2Fdata%2Fsn88079228%2F000002421%2F1864101401%2F0144.jp2/pct:5.239699,17.899494,14.203645,41.829356/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -7349,7 +7332,10 @@ And joy grows f i wearisome_ and Nru
 When age comes di.  
   
 THE AITSTEHIOE
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_annaPerenna_ver01%2Fdata%2Fsn85054674%2F000001938%2F1864112301%2F0297.jp2/pct:68.667636,22.049379,11.128876,19.434137/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -8302,7 +8288,10 @@ And-the sterii footsteps of deeoy
 I Como stealing on] j 1 ■- ,  
 And while we&#x27;view the rolling tide,  
 VOW.n &quot;Uloli wu.i f
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_obamab_ver01%2Fdata%2Fsn83031982%2F000001757%2F1865030801%2F0029.jp2/pct:5.748275,15.845469,11.478387,9.405486/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -8596,7 +8585,7 @@ When age comes on.
 UOSEA BIG LOW ON PEACE.  
 The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174348:1865040601:0271/pct:6.433949,6.855767,12.073922,26.104250/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174348:1865040601:0271/pct:6.420260,6.845300,12.073922,26.104250/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8742,7 +8731,10 @@ When age comes on!
 THE CLOUDED INTELLECT.  
   
 BY TH
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fufluns_ver02%2Fdata%2F2018264050%2F000002751%2F1865072701%2F0026.jp2/pct:6.437811,5.158966,13.756219,36.603031/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -8894,7 +8886,7 @@ YVfljii ago comes oat.
   
 Two iawyers i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525206:1865093001:0563/pct:4.095789,4.122022,11.114781,23.635447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525206:1865093001:0563/pct:4.079273,4.109416,11.114781,23.635447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8932,7 +8924,7 @@ The strengtbis one, tiie; ilep Ma slow,
 And joy grows wearisome and woe!  
 i-I.- Wberfage cbmes on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DailyStan4n_ver01%2Fdata%2F1865100601%2F0498.jp2/pct:109.588644,25.163178,16.830823,25.151924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DailyStan4n_ver01%2Fdata%2F1865100601%2F0498.jp2/pct:82.213210,18.872384,12.630359,18.872384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9128,7 +9120,7 @@ And joy grows wearisome and wo !
 | When age comes on,  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625479:1866012601:0422/pct:24.350921,39.452896,19.221106,40.871855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625479:1866012601:0422/pct:18.865159,30.573435,14.907873,31.655939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9201,7 +9193,7 @@ W hon age er
 hon age comes on I  
 THEEE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_anderson_ver01:data:sn83026172:00211678410:1866041401:0306/pct:5.040466,6.412576,12.040324,22.370504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_anderson_ver01:data:sn83026172:00211678410:1866041401:0306/pct:5.026267,6.401267,12.040324,22.370504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9550,7 +9542,7 @@ And joy grows wearisome, and woe!
 When age comes on !  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991288:1866060801:0084/pct:5.410723,8.655025,18.175111,31.510417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991288:1866060801:0084/pct:5.386129,8.639706,18.175111,31.510417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9631,7 +9623,7 @@ And joy grows wearisome, and woe,
 When age comes on !  
 R
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296026645:1866061501:0107/pct:37.850746,16.967181,13.970149,31.612401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296026645:1866061501:0107/pct:28.388060,12.725386,10.507463,23.725516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10019,7 +10011,10 @@ The heart&#x27;s blithe tone?
 The strength is gone, the &#x27;step is slow,  
 And joy grows weans - me, and woe!  
 When age comes on.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_dianaNemorensis_ver01%2Fdata%2Fsn84026016%2F000002125%2F1866110301%2F0019.jp2/pct:9.108562,10.296909,13.398663,26.165944/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -10265,7 +10260,7 @@ And joy grows wearisome, and woe
 With age comes on.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DaDisWi4n_ver01%2Fdata%2F1867032701%2F0308.jp2/pct:7.034121,13.639350,19.435696,41.190275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DaDisWi4n_ver01%2Fdata%2F1867032701%2F0308.jp2/pct:5.275591,10.231860,14.580052,30.902093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10560,7 +10555,7 @@ laat lore us Bars:
 Praams of a sleep that death most break, .  
 Ala 1 b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:0023728687A:1867092501:0481/pct:46.652652,16.399744,13.114489,23.164638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:0023728687A:1867092501:0481/pct:34.993532,12.299808,9.831824,17.373479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10642,7 +10637,7 @@ The strength is gone, the step is slow,
 And joys grows wearisome and woe !  
 When age comes on. . ..
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775174:1867100501:0063/pct:43.092105,19.377928,16.603186,36.725664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775174:1867100501:0063/pct:32.323407,14.536700,12.465374,27.550755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10796,7 +10791,7 @@ And Jov grows wearisome, and woe &#x27;.
 When age comes on !  
 From the Atlanti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026724:1868110501:0409/pct:56.506849,20.683623,16.647641,39.483246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026724:1868110501:0409/pct:42.408676,15.516081,12.480974,29.632620/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11029,7 +11024,7 @@ When age comes on !
 REI.I-IOCS INTELLIGENCE.  
 The whol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293381:1868110801:0271/pct:7.198725,20.714446,11.500579,28.263312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293381:1868110801:0271/pct:5.402665,15.535835,8.632677,21.197484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11110,7 +11105,7 @@ joy grows wearisome. and woe I
 when age eomes on I  
 THE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_doubleday_ver01:data:sn83026172:0021167846A:1868111001:0146/pct:3.620690,5.500512,12.916667,23.516684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_doubleday_ver01:data:sn83026172:0021167846A:1868111001:0146/pct:3.606322,5.489124,12.916667,23.516684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11447,7 +11442,7 @@ grows wearisome, and woe! &#x27;&quot;&#x27;.&#x27;
 m-&#x27;tf (&#x27; &quot;Tien age comes on I  
 STAT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042148:00296022676:1868120201:0627/pct:5.897626,11.233020,17.563056,34.770115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042148:00296022676:1868120201:0627/pct:4.432493,8.424765,13.167656,26.084117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11596,7 +11591,7 @@ The strength is gone, the step i. slow,
 And joy grows wearisome, and woe!  
 Whea age conies on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn97065409:00212470417:1868121701:0123/pct:12.529880,10.768126,18.247012,44.393396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn97065409:00212470417:1868121701:0123/pct:9.402390,8.083274,13.685259,33.295047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11874,7 +11869,10 @@ The heart&#x27;s blithe tone ?
 The strength is gone, and step is slow,  
 And joy grows wear&#x27;some, and woe !  
 When age comes on !
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_rooseveltfd_ver01%2Fdata%2Fsn85025168%2F000001773%2F1868122501%2F0061.jp2/pct:61.028542,14.706231,13.956670,25.178042/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -12026,7 +12024,7 @@ And joy grows wearisome and woe I
 When age comes on 1  
 NO HOME
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_collie_ver01:data:sn84027460:print:1869010201:0271/pct:36.304910,16.930681,14.599483,40.400456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_collie_ver01:data:sn84027460:print:1869010201:0271/pct:27.228682,12.698010,10.949612,30.313015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12544,7 +12542,7 @@ The strength is gone, the stop is slow,
 And Joy grows wearisome and woe,  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buford_ver01:data:sn95079605:00211678471:1869101101:0078/pct:5.009135,4.525980,10.718636,28.100626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buford_ver01:data:sn95079605:00211678471:1869101101:0078/pct:4.993910,4.514995,10.718636,28.100626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12712,7 +12710,7 @@ needing repairs to keep up the shapeliness
 and usefulness of the building ; but not all  
 in eiial degrees. Some nf the wall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776075:1869103001:0155/pct:45.495130,17.030965,18.871753,52.155434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776075:1869103001:0155/pct:34.131494,12.780814,14.143669,39.131755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12786,7 +12784,7 @@ Tbe strength is gone, the step Is slow.
 And joy grows wearisome and wo,  
 Vi hen age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286868:1869112401:0450/pct:45.738994,15.082645,13.490566,26.885331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286868:1869112401:0450/pct:34.308176,11.311983,10.125786,20.170455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12858,7 +12856,7 @@ When age comes on
 From the Constantinople Correspondenc  
 the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_collie_ver01:data:sn84027460:print:1869120801:0676/pct:6.572923,5.066163,14.290386,37.441714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_collie_ver01:data:sn84027460:print:1869120801:0676/pct:4.937868,3.805923,10.709614,28.078135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13150,7 +13148,7 @@ The strength Is gone, the step Is slow, _
 And joy grows wearisome, and woe! -  
 - , When we comes oa!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991409:1870032501:0358/pct:2.222570,7.817512,13.038034,23.856481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991409:1870032501:0358/pct:2.206918,7.805631,13.038034,23.856481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13524,7 +13522,10 @@ Alas ! beforakit bids us wake
 We disappear.  
   
 MrT 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_februus_ver01%2Fdata%2Fsn88079228%2F000002427%2F1870102001%2F0161.jp2/pct:3.353840,12.678546,30.120064,80.861348/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -13595,7 +13596,7 @@ Thestrenglli is gone, llio step is slow,
 Andjoysyrow wearisome and wol  
 W&#x27;lu n age conies on !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026724:1870112401:0866/pct:57.751343,18.802845,16.960860,33.029124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026724:1870112401:0866/pct:43.342287,14.105489,12.720645,24.788619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13666,7 +13667,7 @@ When age comes on I
 Intellect in Rags.  
 I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186981:1870123101:0424/pct:56.976744,16.969894,10.828488,26.380767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186981:1870123101:0424/pct:56.962209,16.959064,10.828488,26.380767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13742,7 +13743,7 @@ The strength is gone, the step is slow,
 And joy grows wearisome, and woe 1  
 When ace comas on !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186993:1871010701:0004/pct:56.031746,12.751678,12.178932,27.754925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186993:1871010701:0004/pct:56.017316,12.740853,12.178932,27.754925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13873,7 +13874,7 @@ The strength is gone, the step is slow.
 And Joy grows wearisome and woe  
 When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991410:1871021501:0190/pct:4.703317,11.962972,9.640243,16.247330/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991410:1871021501:0190/pct:4.687743,11.951104,9.640243,16.247330/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14057,7 +14058,7 @@ TJx strength is gone, the step is slow,
 And joy grows wearisome, and woe!  
 . .When age conies o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat28n_ver01%2Fdata%2F1871112301%2F0593.jp2/pct:39.119977,43.595434,15.520656,16.677235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat28n_ver01%2Fdata%2F1871112301%2F0593.jp2/pct:29.343520,32.699218,11.644029,12.523779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14135,7 +14136,7 @@ his goalcr, and told him that he had a secret
 of great importance which he wished to im­  
 part to the king, and wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1871113001:0511/pct:43.689821,22.763367,12.242091,37.916887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1871113001:0511/pct:43.672627,22.750132,12.242091,37.916887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14217,7 +14218,7 @@ the ones who most declare against the character
 of the paper they beg. They comprise those  
 who complain of the lack of news aud th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186993:1871120901:0184/pct:56.550725,13.927877,12.478261,31.699417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186993:1871120901:0184/pct:56.536232,13.917081,12.478261,31.699417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14290,7 +14291,7 @@ And jor grows wearisome and wo,
 - When age comes on!  
 TH
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:0029455564A:1872031401:0405/pct:91.113139,23.236338,16.660584,30.532292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:0029455564A:1872031401:0405/pct:68.339416,17.430802,12.500000,22.909865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14492,7 +14493,7 @@ And the stern footsteps of decay,
 Come stealing on.&quot;  
 F. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:0029602742A:1874021001:0029/pct:38.412839,101.702720,13.000589,5.076033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:0029602742A:1874021001:0029/pct:28.813310,76.301135,9.761484,3.812380/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14514,7 +14515,7 @@ nothing with which we are acquaint­
 ed Id the Spanish language:  
 0, letthefloul its slumber orea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775435:1874082701:0365/pct:9.240871,38.969549,14.173607,5.589104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775435:1874082701:0365/pct:6.934657,29.230374,10.634209,4.201465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14585,7 +14586,7 @@ When age comes on.
   
 THE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775435:1874082701:0365/pct:9.320948,39.110883,14.253684,42.605679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775435:1874082701:0365/pct:6.998719,29.333162,10.682255,31.967108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14771,7 +14772,7 @@ The strength is gone, the step is slow,
 And joy grows wearisome and woe  
 When age comes on !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200295602:1874111901:0528/pct:12.544803,16.015302,15.561529,27.595120/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200295602:1874111901:0528/pct:9.408602,12.014061,11.678614,20.698925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14886,7 +14887,7 @@ turous traders purchased many furs,
 with which they loaded their birch  
 canoes ; established friendly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152627:1874120401:1119/pct:8.762058,8.040593,17.379421,58.183711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152627:1874120401:1119/pct:6.575563,6.036950,13.038585,43.650794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14971,7 +14972,7 @@ The strength is gone, the step is slow.
 And joy grows wearisome and woe  
 When age comes on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061082:00212470314:1875013001:0640/pct:5.396733,31.003445,13.287631,29.969997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061082:00212470314:1875013001:0640/pct:4.054842,23.258140,9.962077,22.491388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15051,7 +15052,7 @@ The strength is gone, the step is slow,
 Aud ioys grow wearisome and woe  
 When age comes on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn84026810:00393349190:1875031301:0491/pct:0.748621,34.092827,17.848700,44.992968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn84026810:00393349190:1875031301:0491/pct:0.728920,34.078762,17.848700,44.978903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15126,7 +15127,7 @@ The strength is gone, the step is slow.
 And joy grows wearisome and woe.  
 When age comes on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776671:1875050501:0321/pct:6.821330,17.601183,14.542936,40.621218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776671:1875050501:0321/pct:5.124654,13.204249,10.907202,30.469275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15193,7 +15194,7 @@ POETRY.THE FOOTSTEPS OF DECAY.Miscellaneous.
   
 MARY QUEEN OF SCOTS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775435:1875050601:0510/pct:3.642057,6.432369,16.875412,39.644663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775435:1875050601:0510/pct:2.735662,4.824277,12.656559,29.749708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15267,7 +15268,7 @@ When age comes on !
 THE SPEAKERSHIP.  
 THE VARIOU
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191575:1875051301:0175/pct:69.151515,6.237242,37.772727,118.042640/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191575:1875051301:0175/pct:51.878788,4.683602,28.348485,88.568836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15339,7 +15340,7 @@ And Joy grows wearisome with woe
 When age comes on.  
 Benefit of Catholic Societies.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_Cypher_ver01:data:sn86086284:00280762027:1875052301:0328/pct:1.762561,6.203766,15.478120,36.180229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_Cypher_ver01:data:sn86086284:00280762027:1875052301:0328/pct:1.742301,6.186954,15.457861,36.163416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15411,7 +15412,7 @@ Theheart’s blithe tone?
 And joy_grows wearisome and woe,  
 When age conies on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155860:1875072101:0588/pct:19.510961,14.230663,9.291737,23.506744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155860:1875072101:0588/pct:19.494098,14.216901,9.291737,23.506744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16004,7 +16005,7 @@ Alas! before It bids us wake,
 Ye disappear!  
 II. A. P., in tbe Observer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777389:1876072101:0596/pct:36.750375,18.177690,13.118441,26.744362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777389:1876072101:0596/pct:27.567466,13.637052,9.838831,20.054488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16409,7 +16410,7 @@ Within therave.
 Oiti birth is but the Martin place.  
 Life is the runni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195192:1876090801:0173/pct:21.518987,19.082947,10.506329,15.095312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195192:1876090801:0173/pct:16.139241,14.312210,7.886076,11.324060/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16508,7 +16509,7 @@ Alas! before it bide us wake, j
 Ye disappear!  
 THE TARTY PLAT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AbC7n_ver01%2Fdata%2F1876091301%2F0199.jp2/pct:10.141509,7.066956,19.649175,42.608068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AbC7n_ver01%2Fdata%2F1876091301%2F0199.jp2/pct:7.606132,5.302796,14.740566,31.971526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16624,7 +16625,7 @@ Dreams of a sleep that death must break,
 Alan! befo&#x27;o it bids us wake,  
 Ye disappear.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_alpha_ver01%2Fdata%2Fsn85042522%2F00033872199%2F1876092201%2F1140.jp2/pct:73.099704,8.435329,27.912142,116.159444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_alpha_ver01%2Fdata%2Fsn85042522%2F00033872199%2F1876092201%2F1140.jp2/pct:54.861797,6.334767,20.952616,87.181608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16798,7 +16799,7 @@ Dreams of a sleep that death must break.
 Alas! before it bids us wake.  
 Ye disappear 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_fireant_ver01:data:sn84021912:00211104260:1876111801:0704/pct:32.822757,24.816793,21.790664,39.696932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_fireant_ver01:data:sn84021912:00211104260:1876111801:0704/pct:21.881838,16.544529,14.533187,26.468762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16927,7 +16928,7 @@ Dreams of a sleep that death, must break,
 &quot; Alas ! before it bids us wake,  
 Ye disappear !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal1_ver01%2Fdata%2F1877101101%2F0371.jp2/pct:0.547645,8.971887,23.904710,47.589567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal1_ver01%2Fdata%2F1877101101%2F0371.jp2/pct:0.410734,6.728915,17.935378,35.694712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17025,7 +17026,7 @@ Dreams of a sleep that death must break,
 A Us ! before It bids us wake.  
 Ye disappear !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WestSen20n_ver01%2Fdata%2F1878112101%2F0393.jp2/pct:58.027778,16.416027,14.000000,19.013566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WestSen20n_ver01%2Fdata%2F1878112101%2F0393.jp2/pct:43.541667,12.314649,10.500000,14.270691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17117,7 +17118,7 @@ The strength is gone, the step is slow,
 And joy grows wearisome add woo,  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL4_ver01%2Fdata%2F1880082001%2F0448.jp2/pct:6.886684,12.356322,84.719573,41.321839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL4_ver01%2Fdata%2F1880082001%2F0448.jp2/pct:6.867608,12.341954,84.719573,41.321839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17188,7 +17189,7 @@ The .strength is gone,
 te  
 step i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WestSen28n_ver01%2Fdata%2F1881041201%2F0057.jp2/pct:22.784810,29.997749,13.686709,22.028366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WestSen28n_ver01%2Fdata%2F1881041201%2F0057.jp2/pct:17.088608,22.501126,10.271624,16.524088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17460,7 +17461,7 @@ The strength is irone, the stej is slow,
 Aud jov srroMs wenrisome with woe  
 When aire conns in.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023772:1882102701:0301/pct:12.472737,22.199479,18.661396,25.958318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023772:1882102701:0301/pct:8.315158,14.802754,12.445474,17.314849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -698,7 +698,7 @@ come no fiction, nml the islands of the blessed
   
 bloom in more than &quot;Hesperian beauty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777328:1836042901:0026/pct:6.952790,39.740019,21.480687,27.700402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777328:1836042901:0026/pct:5.214592,29.805014,16.115880,20.783039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -889,7 +889,7 @@ land of the blessed&quot; bloom in more than llespe
   
 nan beauty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1838012701:0107/pct:67.403537,100.284862,20.900322,23.372219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1838012701:0107/pct:50.582797,75.244167,15.675241,17.539338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1161,7 +1161,7 @@ swell up as from a fountain—so the ¢ Folden 13:,’
 will become no fiction, and the *island of the  
 blcseed’ blocm 1n more than Hesperian beauty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_isolation_ver01:data:sn84022931:00542868314:1838060901:0297/pct:103.454931,93.057334,19.629415,19.063878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_isolation_ver01:data:sn84022931:00542868314:1838060901:0297/pct:80.177572,72.115521,15.209419,14.781619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1270,7 +1270,7 @@ from a fountain—so the “golden age” will he
 come no fiction; and the islands of the blest”  
 bloom in more than Hesperian beauty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991215:1838083101:0250/pct:19.860357,29.753752,15.418929,20.151537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991215:1838083101:0250/pct:19.840962,29.739181,15.418929,20.151537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1504,7 +1504,7 @@ tho same goal. We breath tLa r :;.,e . air.
 are itubject to the same bounty, ft::. v: &quot; &#x27;1  
 lie uc .r. rT i t&#x27; e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065695:00295877583:1841081301:0038/pct:94.996949,81.180812,22.452715,16.944251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065695:00295877583:1841081301:0038/pct:71.262965,60.895582,16.839536,12.725641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1562,7 +1562,7 @@ tin &#x27;goiden age1 will becumo no fiction,
 aud ihe islands of .the blessed bloom in  
 inure than &#x27; Hyperion beauty.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1841082601:1111/pct:80.713640,41.964286,39.182475,29.577664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1841082601:1111/pct:60.569106,31.490930,29.381210,22.179705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1639,7 +1639,7 @@ rian beauty.*
   
 GOD SEEN I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1841091601:0344/pct:39.254192,6.812966,34.951456,88.224326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1841091601:0344/pct:39.232127,6.798623,34.951456,88.209983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1708,7 +1708,7 @@ that the “golden age” will become no fe­
 lloe, and die islands of die blessed, bloom  
 in more than “Hyperion beauty.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624414:1842041601:0148/pct:5.674814,7.674273,61.168969,114.989059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624414:1842041601:0148/pct:4.399575,5.939356,47.375133,89.121601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1830,7 +1830,10 @@ gnshings of human kindness swell up itie
 &amp;Wain, so that the &quot; golden age&quot; will be.  
 corne.no fiction, and the islander the bleet , ‘  
 ed bloom in more than&quot; 1-letterianbeitily.!
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_washingtong_ver01%2Fdata%2Fsn86071296%2F000001854%2F1843020801%2F0021.jp2/pct:56.128564,57.860354,12.116397,33.004355/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1880,7 +1883,7 @@ become no fiction, and the island of the
 blessed bloom in more than &quot;Hesperian  
 beauty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn82014968:00212472025:1843030301:0583/pct:108.424337,67.380492,20.963339,36.211661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn82014968:00212472025:1843030301:0583/pct:81.357254,50.566455,15.737129,27.176015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1977,7 +1980,7 @@ en age will become no fiction and the island of the
 blessed, bloom in more than &#x27;Hesperian beauty  
 &quot; Patrick, I w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AsvHM3_ver01%2Fdata%2F1844032901%2F0277.jp2/pct:85.875194,96.801665,26.087519,31.008706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AsvHM3_ver01%2Fdata%2F1844032901%2F0277.jp2/pct:57.250129,64.534444,17.400311,20.685087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2116,7 +2119,7 @@ island of the blessed bloom in more than Hespe­
 rian beauty.&quot; ___  
 CHRISTMAS IN NORWA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844050301:0283/pct:50.398600,40.448834,14.631538,22.522341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844050301:0283/pct:50.388878,40.442115,14.631538,22.522341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2265,7 +2268,7 @@ a fountain, so that the golden age, will be­
 come no fiction, and the island of the blessed  
 blooni,in more than Hesperian beauty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844051601:0083/pct:19.306358,11.979400,29.479769,81.168831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844051601:0083/pct:19.291908,11.968204,29.479769,81.157635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2452,7 +2455,10 @@ Same,;liMiniY - ,&quot; - shall -: We - shall - lie - Al - owrr . up - Oti;
 Mit , becoming:then&#x27;, ~that&#x27; binther:; shonld  
 ha te-brothe ri...!it J-fs not pi;operltht frietidL  
 Should&#x27; deceive frianti;
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_washingtong_ver01%2Fdata%2Fsn86071296%2F000001855%2F1844070301%2F0085.jp2/pct:43.317685,44.391932,12.444913,24.385978/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2541,7 +2547,7 @@ ings of human kindness swell up in us a fountain
 and tbe islands of the blessed bloom in more than .  
 “Hyperian beauty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1844110201:0223/pct:49.750797,14.220340,29.027113,83.710129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1844110201:0223/pct:49.740829,14.213510,29.027113,83.703299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2596,7 +2602,7 @@ become no fiction, and the islands of the
   
 blessed bleom in more than &quot;Hyperian bea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn84020019:00295877583:1845010301:0637/pct:105.133296,53.089643,18.547930,24.086162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn84020019:00295877583:1845010301:0637/pct:78.857062,39.817232,13.910947,18.070061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2718,7 +2724,7 @@ turn a deaf ear to scai.dal, and b-eaihe the
 spirit of charity from our hearts.  
 05
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027054:1848102501:0078/pct:40.420228,99.931516,16.844729,22.462676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027054:1848102501:0078/pct:30.324074,74.948637,12.624644,16.874401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2764,7 +2770,7 @@ cion ; turn a deaf ear to scandal, and
 breathe the fpirit of charity from our  
 hearts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848102801:0293/pct:26.271732,83.291255,17.095943,22.125316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848102801:0293/pct:19.703799,62.474179,12.830006,16.605462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2852,7 +2858,7 @@ hue of jealousy and suspicion ; turn a deaf ear
 to scandal, and breathe the spirit of charity from  
 our hearts.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_isolation_ver01:data:sn84022932:00542868466:1848111701:0396/pct:75.493570,38.736871,16.319507,16.583748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_isolation_ver01:data:sn84022932:00542868466:1848111701:0396/pct:58.503894,30.016584,12.642637,12.852405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2912,7 +2918,7 @@ and breathe the spirit of charity from our
 hearts.  
 New use fob, Audent Spirits. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1848112301:0036/pct:11.181102,69.241661,19.094488,45.767778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1848112301:0036/pct:8.385827,51.935179,14.330709,34.345500/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3004,7 +3010,7 @@ as a fountain—so the “golden age” will be­
 come no fiction, and islands of the blessed  
 bloom in more than Hyperian beauty.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:00271769751:1849021601:0073/pct:34.393064,60.405606,14.960088,18.008070/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:00271769751:1849021601:0073/pct:32.672722,57.390104,14.216901,17.105543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3051,7 +3057,7 @@ den age&#x27; -will become no fiction, and islands
 of the blessed bloom in more than Hfpcjiau  
 leau ty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1849041201:0119/pct:6.874040,82.476161,17.069892,30.436142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1849041201:0119/pct:5.165131,61.888385,12.807220,22.854463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3220,7 +3226,7 @@ tion, and the “island of the blessed” bluom in more
 than Hesperian beauly.  
 A Fema
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1850010901:0007/pct:35.719737,12.685303,29.491681,80.950868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1850010901:0007/pct:35.704473,12.674714,29.491681,80.940280/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3492,7 +3498,10 @@ kindness swell up as o fountain, so that (ho gold­
 en ago will become no&#x27; 1 fiction, and Islands of (he  
 blessed bloom In more than Hyperion beauty.  
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001732%2F1852060301%2F0091.jp2/pct:22.023810,58.153137,13.619755,14.861751/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3745,7 +3754,10 @@ as the fountain, so that the golden ago
 will become no fiction, and islands of the  
 blessed bloom in more than Hesperian  
 beauty
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_epona_ver01%2Fdata%2Fsn86071456%2F000002318%2F1852081201%2F0123.jp2/pct:65.563527,42.024816,14.873100,28.741833/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3849,7 +3861,10 @@ limn your hearts let the rwh gushings cff
 that the golden age&#x27;&#x27; will become no fic­  
 tion, and the islands of the blessed bloom in  
 more titan &#x27;• Ilyp;rion beauty &quot;
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_alernus_ver01%2Fdata%2Fsn83031981%2F000001917%2F1859051201%2F0074.jp2/pct:42.806786,51.446074,12.414629,10.060010/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4050,7 +4065,7 @@ the &quot; golden age&quot; will become no fiction,
 and the islands of the- blessed bloom in-  
 more than Hyperion beauty.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn85034467:00415662014:1859080401:0316/pct:105.243600,82.450150,20.334434,29.609396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn85034467:00415662014:1859080401:0316/pct:78.963666,61.854685,15.255987,22.220705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4148,7 +4163,7 @@ will become no fiction, and the islands of
 the blessed bloom in more lhanHyperian  
 beaut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1859112301:0395/pct:82.717190,16.741958,12.994455,20.780287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1859112301:0395/pct:82.698706,16.728268,12.994455,20.780287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4206,7 +4221,7 @@ so “that the golden age” will become no fiction,
 and the islands of the blessed bloom in more  
 than Hyperiau beauty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183773:1859120601:0373/pct:70.454239,49.205155,12.845397,20.618945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183773:1859120601:0373/pct:70.440760,49.195748,12.845397,20.618945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4298,7 +4313,7 @@ the rich gushing of haman kindness swell np
 etome &#x27;no Action , and the islands of the blessed  
 boobs h mora toao -xiyperu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296029191:1860070601:0465/pct:7.540638,106.467539,14.163155,19.649469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296029191:1860070601:0465/pct:5.659241,79.856825,10.626129,14.749445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4394,7 +4409,7 @@ will become no fiction, and the Islands of­
 the blessed bloom in more than &quot;Hypcri-  
 on beauty.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477849:1860071802:0197/pct:105.491453,23.700504,20.576923,24.607631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477849:1860071802:0197/pct:79.145299,17.782577,15.448718,18.473722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4448,7 +4463,7 @@ en age &#x27; will become no fiction, and the is­
 lands of the blessed bloom in moro than Ily­  
 pernian beauty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197619:1860080901:0169/pct:38.076278,20.533028,21.290863,30.219229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197619:1860080901:0169/pct:28.562448,15.403353,15.968148,22.668004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4605,7 +4620,7 @@ that tho &quot;golden age&quot; will become no
 fiction, and the islands of tho blessed  
 bloom in more than &quot;Hyperian beauty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024302:1863042801:0896/pct:47.377522,74.594057,19.077810,34.364299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024302:1863042801:0896/pct:31.585014,49.740418,12.723343,22.909533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4654,7 +4669,10 @@ has &#x27;of jealoaSy and suspiet4;ini . turn 464
 ear to scandal ; . a spirit ehaiity  
 front he:irts.  
 the gushing , ot 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_februus_ver01%2Fdata%2Fsn88079228%2F000002420%2F1863050801%2F0069.jp2/pct:48.548103,68.798016,14.709621,18.839922/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4703,7 +4721,7 @@ ucceive friends : it isnntriorKt. y,ot
   
 k?ljUnei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCDailyT8n_ver01%2Fdata%2F1866033001%2F0601.jp2/pct:2.583440,99.117491,22.897946,18.118022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCDailyT8n_ver01%2Fdata%2F1866033001%2F0601.jp2/pct:1.941592,74.364700,17.169448,13.588517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4906,7 +4924,7 @@ not be squandered in speculation and vice.
 Frank Pierce saved some $50,000 from his  
 term of service
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470107:1866051201:0330/pct:7.119741,30.633076,16.680151,9.392985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470107:1866051201:0330/pct:5.339806,22.977522,12.513484,7.058313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4983,7 +5001,7 @@ the &quot; golden age &#x27; will become no fiction,
 and the &quot; island of the blessed &quot; bloom  
 with more than Hesperian beauty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779349:1866120701:0941/pct:39.824121,77.023724,17.336683,28.008627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779349:1866120701:0941/pct:29.878559,57.800144,13.023451,21.020848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5251,7 +5269,7 @@ will become no fiction, and the ‘islanc
 of the blessed’ bloom more than lies  
 perian beauty.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051370:00414212578:1867010501:0167/pct:56.836411,33.454301,13.654169,35.618280/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051370:00414212578:1867010501:0167/pct:56.817758,33.440860,13.654169,35.618280/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5420,7 +5438,7 @@ so tholgoldon ago&quot; will becomo no
 fiction, fcd tho &quot;island of tho blessed&quot;  
 bloom irlmore than Uosporian beaut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559905:1867022201:0328/pct:44.865320,76.794757,18.918350,33.571641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559905:1867022201:0328/pct:33.670034,57.625856,14.204545,25.201072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5638,7 +5656,10 @@ kindness swell up as from a fountain, so the
 &#x27;golden age&#x27; will become no fiction, and the  
 &#x27;island of the blessed&#x27; bloom in more than  
 flesperian beauty
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_februus_ver01%2Fdata%2Fsn88079228%2F000002426%2F1869042301%2F0061.jp2/pct:79.245754,61.020393,14.680320,20.400473/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5693,7 +5714,7 @@ become no fiction, and the ‘&#x27;island of
 the blessed” bloom in more than  
 Hesperian beauty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:2018270504:00383343550:1878112301:0410/pct:71.453179,61.769975,10.616975,23.372746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:2018270504:00383343550:1878112301:0410/pct:71.437520,61.758032,10.616975,23.360803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5744,7 +5765,7 @@ the islands of the blessed bloom iu more
 than ‘Hesperian beauty.”  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685294:1882051801:0299/pct:4.500320,6.553782,10.858424,17.614813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685294:1882051801:0299/pct:4.484305,6.541601,10.858424,17.614813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

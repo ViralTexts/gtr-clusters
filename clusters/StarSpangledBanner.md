@@ -148,7 +148,7 @@ O’er the land of the free and the home
 of the brave.  
 [Whoever is the author of t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buford_ver01:data:sn83026172:00211677478:1814092601:0221/pct:24.211831,5.606578,18.260716,55.425032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buford_ver01:data:sn83026172:00211677478:1814092601:0221/pct:24.194120,5.595899,18.260716,55.414353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ O’er the land of the free and • lie home of the
 liesvc.  
 \ T l&gt; ) s hoMcn in the Clerk&#x27;s Office of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814092801:0162/pct:24.102472,39.151935,17.319141,39.485721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814092801:0162/pct:24.084431,39.139572,17.319141,39.473359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -931,7 +931,10 @@ And the Star spangled Banner in triumph
 shall wave,  
 O&#x27;er the land of the free and the home of  
 the brave.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_diana_ver01%2Fdata%2Fsn86071454%2F000002108%2F1839102301%2F0204.jp2/pct:65.970429,45.200730,15.450207,45.152068/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -967,7 +970,7 @@ On the shore dimly seen, through the mist of the
 deep,  
 Where the fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1839121101:0406/pct:7.382920,5.995889,62.300275,45.100503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1839121101:0406/pct:5.537190,4.499772,46.749311,33.839653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -988,7 +991,7 @@ cu&#x27;d land,
 &#x27; Praise the Power that hath made and preserved  
 us a Nation!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1839121101:0406/pct:7.079890,34.684788,124.462810,39.093193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1839121101:0406/pct:5.316804,26.016446,93.374656,29.328460/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1510,7 +1513,7 @@ Fhall wave.
 O&#x27;er the land of tlte free and the home  
 of the brave.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_LinREPw1_ver01%2Fdata%2F1841081101%2F0092.jp2/pct:75.065746,11.142454,45.151216,124.588622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_LinREPw1_ver01%2Fdata%2F1841081101%2F0092.jp2/pct:50.065746,7.428303,30.095332,83.086507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1741,7 +1744,7 @@ shall wave,
 O&#x27;er the land of the free, and the home o  
 the brave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1841091801:0348/pct:55.335366,7.237354,46.864111,119.610895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1841091801:0348/pct:41.528746,5.431907,35.169861,89.758755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1782,7 +1785,7 @@ Between their , lov&#x27;d home, and &#x27; the i wars
 stand j  
 Blest with vic&#x27;try and peace, may the heave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NSWWash5n_ver01%2Fdata%2F1842070601%2F0119.jp2/pct:49.436475,66.256451,20.927254,12.485113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NSWWash5n_ver01%2Fdata%2F1842070601%2F0119.jp2/pct:37.077357,49.692338,15.701844,9.368797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1865,7 +1868,7 @@ And the star-tapnngled banner in triumph shall wave
   
 O&#x27;er the land oftha tree and tho borne of the brave.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat14n_ver01%2Fdata%2F1843021101%2F0233.jp2/pct:29.655797,76.233662,48.659420,10.789544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat14n_ver01%2Fdata%2F1843021101%2F0233.jp2/pct:22.246377,57.188584,36.521739,8.095492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1933,7 +1936,7 @@ stream,
 ’Tie the Star Spangled Banner, O, long may  
 it wave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082161:00514159324:1845061401:0458/pct:65.895727,23.314566,19.443356,22.159665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082161:00514159324:1845061401:0458/pct:51.058408,18.074202,15.052920,17.164718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2046,7 +2049,10 @@ Aa it fitfully blows, half conceals, half discloses?
 Now it catches the gleam of the mornings first beam,*  
 In full glory reflected now shines in the stream,  
 s Tfs the star-spangled banner , 0 !
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fontus_ver01%2Fdata%2Fsn83032304%2F000002693%2F1848070401%2F0109.jp2/pct:6.584201,32.485465,10.785590,9.042774/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2095,7 +2101,7 @@ if And this be our motto, &quot;In God is our trust!&#x27;1 J
 . ,i And the star-spangled Banner in triumph shall wave k  
 &quot; O&#x27;er the land of the free and the home of the,brave.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCTelGold1n_ver01%2Fdata%2F1850070401%2F0049.jp2/pct:50.819052,47.992864,32.195060,23.233224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCTelGold1n_ver01%2Fdata%2F1850070401%2F0049.jp2/pct:38.130040,36.009515,24.155746,17.434830/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2133,7 +2139,10 @@ What is that which the breeze o&#x27;er the towering
   
 steep,  
 As it fitfully blows, Aulf - conceals,
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aurora_ver01%2Fdata%2Fsn84038509%2F000001979%2F1853062901%2F0101.jp2/pct:7.406250,67.434418,13.927083,12.788401/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2183,7 +2192,7 @@ And the Star-Spangled Banner in triumph shall wave,
 O&#x27;er the Land of the Free and the Home of the Brave.  
 Death through the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667280:1854032501:0592/pct:86.067853,38.712189,19.869299,27.268683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667280:1854032501:0592/pct:64.571746,29.048043,14.919355,20.451512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2292,7 +2301,10 @@ Then conquer we must, when our cause it is Just,
 And this he our motto: •&#x27; In God is our trust!&quot;  
 O&#x27;er the land of the free and the home of the brave,  
 And th
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aurora_ver01%2Fdata%2Fsn84038509%2F000001982%2F1856070201%2F0105.jp2/pct:23.655225,50.320006,17.706199,19.599399/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2547,7 +2559,7 @@ And this be our motto—“In God is our trust!’’
 And the star spangled banner in triumph shall wave  
 O’er the land of the free, and the home of the brave!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1856091001:0123/pct:44.218959,32.374234,12.189586,22.238723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1856091001:0123/pct:44.205607,32.364953,12.189586,22.238723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3006,7 +3018,7 @@ And the star-spangled banner in triumph shall wave
 O&#x27;er the land of the free and the home of the brave.  
 THE DOUBLE MXTRDES DOM
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027297:1860071101:0326/pct:7.149175,13.706397,17.320165,39.110070/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027297:1860071101:0326/pct:5.365566,10.279798,13.001179,29.347960/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3091,7 +3103,7 @@ wave,
 O&#x27;er the land of the fieo aud the home t Ih  
 brave !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021970:1861011001:0139/pct:43.319515,93.442412,16.406250,18.874002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021970:1861011001:0139/pct:32.493622,70.097913,12.308673,14.171605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3214,7 +3226,10 @@ O&#x27;er the land of the free, and the home of the
 brave !  
   
 MIiXT
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_bonaDea_ver03%2Fdata%2Fsn84035968%2F000002003%2F1861041701%2F0372.jp2/pct:35.634409,48.447059,14.381720,31.682353/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3296,7 +3311,10 @@ completed, the cheering was prolonged and in­
 tense.  
   
 After th
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_bonaDea_ver03%2Fdata%2Fsn84035968%2F000002003%2F1861041801%2F0376.jp2/pct:49.478495,17.878431,14.456989,33.886275/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3334,7 +3352,7 @@ O&#x27;er the land of the free and the home of the brave.
 And where is the band who so vauntingly swore  
 That the havoc of war and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861042301:0073/pct:4.615385,17.942724,16.133603,15.137347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861042301:0073/pct:3.562753,13.895383,12.510121,11.732905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3489,7 +3507,10 @@ O&#x27;er the lead of the free, and the home •of the
 bravel  
   
 ilar- We have such an immense
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aura_ver01%2Fdata%2Fsn83032227%2F000001970%2F1861042401%2F0066.jp2/pct:6.000000,20.758865,12.045045,25.648936/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3743,7 +3764,7 @@ OUR NATIONAL CRISIS,
 OPINIONS OF THE PRE;  
 From the New
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054845:00212477667:1861042501:0048/pct:22.694704,30.995261,20.280374,57.559242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054845:00212477667:1861042501:0048/pct:17.024922,23.246445,15.218069,43.187204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3934,7 +3955,10 @@ O&#x27;er the land of the free, and the home of the braVe I
 SPEECH OF HON. JOHN A. DIX  
   
 We publish this wee
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fontus_ver01%2Fdata%2Fsn83032304%2F000002706%2F1861043001%2F0070.jp2/pct:7.021664,25.207237,12.044670,13.970395/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4266,7 +4290,7 @@ ware
 O&#x27;er the land of the free, and the home of the  
 brave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775848:1861050301:0531/pct:7.494407,14.954597,16.815809,28.916005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775848:1861050301:0531/pct:5.630127,11.223042,12.602535,21.679909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4326,7 +4350,7 @@ O&#x27;er the land of the free and the home of the
 brave .&#x27;  
 On the shore, dimly seen through t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026785:1861050301:0385/pct:33.309899,18.589598,19.361642,107.790143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026785:1861050301:0385/pct:24.985939,13.945037,14.524747,80.853963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4366,7 +4390,7 @@ O&#x27;er the laud of the free and the home of the
 brave.  
 THE PHANTOM BRID
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026785:1861050301:0385/pct:38.090551,54.712696,14.510686,16.318419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026785:1861050301:0385/pct:28.571429,41.040200,10.883015,12.241653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4727,7 +4751,7 @@ And w here is that band who so vaunting!-, swore
 I’hat fhe havoc &lt; f war and the hat tin’s confusion  
 A home and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1861050701:0629/pct:26.244622,27.131453,16.748617,14.007451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1861050701:0629/pct:24.938537,25.779670,15.903503,13.294305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4787,7 +4811,7 @@ umph shall wave
 of the brave?  
 &quot;Milloriam&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027479:1861050801:0113/pct:7.835600,26.059579,16.809580,38.387019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027479:1861050801:0113/pct:5.884092,19.544684,12.610881,28.808428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4846,7 +4870,10 @@ of tho free, and tho&#x27;homo of tho
 . bravo I &#x27;•  
   
 when freemen
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001741%2F1861050901%2F0074.jp2/pct:7.028841,25.092937,12.316343,17.343437/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5007,7 +5034,7 @@ wave,
 O&#x27;er the land of the free and the home of the brave.  
 Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198016:1861050901:0052/pct:7.468250,37.492137,18.953617,25.246383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198016:1861050901:0052/pct:4.983435,24.994758,12.631143,16.837912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5097,7 +5124,7 @@ brave !
   
 On the shore dimly seen throug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_DemoWatchman1_ver01%2Fdata%2Fsn83031981%2F00000001%2F1861051601%2F0013.jp2/pct:26.261905,32.797470,17.428571,9.382000/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_DemoWatchman1_ver01%2Fdata%2Fsn83031981%2F00000001%2F1861051601%2F0013.jp2/pct:20.333333,25.405192,13.500000,7.260509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5139,7 +5166,7 @@ wave i
 O’er the lend of hie free and the home of the  
 brave !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_DemoWatchman1_ver01%2Fdata%2Fsn83031981%2F00000001%2F1861051601%2F0013.jp2/pct:26.190476,46.514692,17.309524,9.513770/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_DemoWatchman1_ver01%2Fdata%2Fsn83031981%2F00000001%2F1861051601%2F0013.jp2/pct:20.285714,36.039004,13.404762,7.379101/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5511,7 +5538,10 @@ And where la that bend who so tauntingly swore
 That the havoc of war, and the battle&#x27;s confusion,  
 A home and a country should leave us no morel  
 Their blood hue wasted out their foul footste
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001948%2F1861053001%2F0092.jp2/pct:17.851740,11.284889,9.043116,17.021862/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5631,7 +5661,10 @@ And the star-spangled banner in triumph shall wave,
 O&#x27;er the land of the free, and the home of the brave!  
   
 THE COUNTRY MOURNS
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001948%2F1861060401%2F0094.jp2/pct:18.771903,9.723757,8.997410,22.593232/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5698,7 +5731,10 @@ And the star-spangled banner In tt imp!) shall wave,
 O&#x27;er the land of the free, and the home of the brave!  
   
 Lettere fro
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001948%2F1861061801%2F0100.jp2/pct:17.960536,21.577855,8.890751,11.117647/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5733,7 +5769,10 @@ And the lase-spangled bander in triumph d6th wave,
 e.&#x27;lYer the land of• the free, and the hemp of the brave I  
 1.12 h! lints be it ever, when freC..men shall stand—  
 ,C,Between theirloved home and war&#x27;s desolation I
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001948%2F1861062001%2F0102.jp2/pct:17.401737,21.138408,9.030317,7.896194/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5777,7 +5816,10 @@ O&#x27;er the land of tho free, and the home of the brava I
 Ohl thns be it ever, wben freemen obeli stand  
 Between their loved home and ware desolation!  
 Blessed with victory and peace, may
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001948%2F1861062501%2F0104.jp2/pct:17.832115,19.857813,8.942718,9.687327/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5860,7 +5902,10 @@ When borne by the red, white, and blue,
 - When bonne by the rod. white, and blue,  
 Thy banners make tyranny tremble.  
 Wheu
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001948%2F1861062701%2F0106.jp2/pct:18.982658,10.811087,8.898939,25.337102/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6032,7 +6077,7 @@ served us a nation I
 pre-  
 Then conquer w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1861062901:0902/pct:22.208213,56.045198,17.219020,41.228814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1861062901:0902/pct:16.660663,42.048023,12.914265,30.946328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6098,7 +6143,10 @@ Then conquer we must, when our cause it Is f net,
 And this be our motto—&quot; In God is our trust I&quot;  
 And the starepangled banner In triumph shall ware,  
 O&#x27;er the land of the free. and the home of the bravo!
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001948%2F1861070201%2F0108.jp2/pct:18.709368,11.537422,8.791371,20.423534/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6277,7 +6325,7 @@ O’er the land of the free and the home of the brave.
 0, thus be it ever, when freemen shall stand,  
 Between their loved home an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340603:1861070601:0111/pct:23.136292,22.088787,17.558323,12.022669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340603:1861070601:0111/pct:23.118751,22.075293,17.558323,12.022669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6401,7 +6449,10 @@ from the terror of flight or the gloom of the gravel
 And the starspangled banner in triumph duth wave,  
 O&#x27;er the land of the free, and the home of the brave!  
 1%1
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001948%2F1861070901%2F0110.jp2/pct:18.425313,20.998256,8.690213,7.144774/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6570,7 +6621,10 @@ The home of the brave and the free,
 The ebriue of each patriot&#x27;s devotion,  
 A world offere homage to thee.  
 Thy mandates
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001948%2F1861071601%2F0114.jp2/pct:17.832115,9.202348,8.996039,25.414365/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6751,7 +6805,10 @@ Thy mandates make limn, assemble,
 M hen liberty&#x27;a form kande In view,  
 Thy banners make tyranny tremble,  
 Wheu
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001948%2F1861072301%2F0118.jp2/pct:17.206308,8.896490,8.978364,26.326700/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6780,7 +6837,10 @@ O&#x27;er the land of the free, and the home of the brevet
 On the !here, dimly seen through the mists of the deep,  
 Where the foes haughty host in dread silence reposes,  
 What Is that which the breeze, o&#x27;er the towerin
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001948%2F1861072501%2F0120.jp2/pct:18.013866,13.827143,9.107877,10.945050/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6794,7 +6854,10 @@ What Is that which the breeze, o&#x27;er the towerin
 &#x27;Tie the etar•epangled banner! Oh, long may it nave,  
 O&#x27;er the land of the free, and the home of the brave I  
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001948%2F1861072501%2F0120.jp2/pct:18.516684,25.341709,8.262228,0.849096/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6825,7 +6888,10 @@ And this be our motto—&quot; In God is our Inuit I&quot;
 . .  
 ♦nd the star-spangled banner In triumph shall wave,  
 War the laud of the free, and the home of the brave!
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001948%2F1861072501%2F0120.jp2/pct:18.211946,26.418611,8.944080,5.460445/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6993,7 +7059,10 @@ And where is that band who se vauntingly swore
 That the havoc of war, and the hat tle&#x27;s confusion,  
 A home and a country should leave us no more ?  
 Their blood has wasted out their foul footstep
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001948%2F1861091701%2F0150.jp2/pct:17.815785,9.031612,9.035502,18.605052/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -7042,7 +7111,10 @@ And where Is that band who se vauntingly swore
 That the havoc of war, and the battle&#x27;s confusion,  
 A borne and a country should leave us no more?  
 Their blood has wasted out their foul footstep
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001948%2F1861091901%2F0152.jp2/pct:16.567141,10.830212,9.041494,16.892079/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -7091,7 +7163,10 @@ O&#x27;er the land of the Lee, and the home of the blare)
   
 Amid where is that band olio no vauntingly swots  
 That the havoc of trot., and the b
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001948%2F1861101001%2F0162.jp2/pct:17.149170,9.809952,9.020265,19.277816/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -7132,7 +7207,10 @@ O&#x27;er the laud of the free, and the home of the butte
 On the shore, dimly seen through the mists of the deep,  
 Where the foes haughty host in dread silence reposes,  
 &#x27;Mat is that which the b
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001948%2F1861101701%2F0166.jp2/pct:18.439476,10.297741,8.890394,16.865161/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -7153,7 +7231,10 @@ three months—in adranct.
 HUNTINGDON, PA.  
   
 Thursday afternoon, Oct. 24, 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001948%2F1861102401%2F0170.jp2/pct:17.607568,10.327892,8.918218,5.457941/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -7315,7 +7396,10 @@ O&#x27;er the land of the free, and the home of the
 brave r •  
   
 My Country, &#x27;ti
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_bonaDea_ver03%2Fdata%2Fsn84035968%2F000002004%2F1862022201%2F0201.jp2/pct:19.784946,26.419608,14.327957,29.960784/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -7393,7 +7477,10 @@ My Country, &#x27;tie of Thee.
 My country, &#x27;tis of thee,  
 Sweet land of liberty,  
 Of thee I eing
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_bonaDea_ver03%2Fdata%2Fsn84035968%2F000002004%2F1862022201%2F0205.jp2/pct:19.913978,24.862745,14.274194,33.682353/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -7460,7 +7547,10 @@ As it fitfully blows, half conceals, half discloses?
 NOW it catches the gleam of the morning&#x27;s first beam;  
 In full glory reflected, now• shines ou the stream—  
 &#x27;Tis the star pangled banner! Oh, long may it
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001949%2F1862070201%2F0101.jp2/pct:17.728173,33.826580,8.944080,7.073710/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -7538,7 +7628,7 @@ And the star-spangled baunerin triumph shall wave
 O’er the land of the free, and the home of the brave.  
 Tlte 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174324:1862070401:0290/pct:65.273647,35.659000,14.872100,14.683768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174324:1862070401:0290/pct:65.258775,35.647943,14.872100,14.683768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7594,7 +7684,7 @@ Gave proof through the night that our flag was still there
 O say, does that Star-Spangled lianner yet wave  
 O&#x27;er the land of the Free and home of the Brave 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474241:1863070901:0195/pct:30.568239,100.763040,18.087265,4.839553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474241:1863070901:0195/pct:22.932522,75.582732,13.571791,3.637504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7776,7 +7866,7 @@ b.
 They&#x27;d.&quot;—(J ris wold.  
 -Griswold—Dann. Common ver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_anderson_ver01:data:sn83026172:00211678410:1866033101:0256/pct:72.663618,63.086181,13.275221,10.230498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_anderson_ver01:data:sn83026172:00211678410:1866033101:0256/pct:72.649328,63.074827,13.275221,10.230498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7869,7 +7959,7 @@ version.
 9. &quot;Freeman.&quot; Griswold.  
 10. &quot;Our.&quot; Griswold Daua. Common version.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022822:1866041901:0061/pct:10.673482,76.078811,16.040289,22.410250/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022822:1866041901:0061/pct:8.012628,57.077239,12.026458,16.813731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7959,7 +8049,7 @@ A home and a country they&#x27;d leave us no more ?
 Their blood has washed out their foul lootsheps*  
 pollution.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525243:1867071301:0014/pct:6.107862,30.023015,10.948668,1.449942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525243:1867071301:0014/pct:6.091618,30.011507,10.948668,1.449942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8002,7 +8092,10 @@ And the star-spangled banner In triumph shall
 Wave,  
 O&#x27;er the land of the tree and the home_of the  
 brace!
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_annona_ver01%2Fdata%2Fsn83032044%2F000001942%2F1868010301%2F0001.jp2/pct:72.134159,20.565513,10.912240,12.225742/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -8335,7 +8428,7 @@ shall wave,
 O&#x27;er the land ot tbe free, and the home of  
 brave.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn86053406:00296020813:1876070701:0178/pct:73.317560,18.638111,13.314932,23.064250/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn86053406:00296020813:1876070701:0178/pct:55.007886,13.981329,9.989485,17.309171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8392,7 +8485,7 @@ Their blood, has washed out their foul
 more.  
 foot-stops pollutio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bobcat_ver01:data:sn82014896:00211105719:1876070801:0165/pct:7.464539,18.380478,32.074468,108.134029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bobcat_ver01:data:sn82014896:00211105719:1876070801:0165/pct:5.602837,13.791429,24.060284,81.109627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8630,7 +8723,7 @@ umph shall wave
 O’er the land df the free, and the home  
 of the brave!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349086:1885070401:0255/pct:24.833625,7.902015,11.418564,21.467141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349086:1885070401:0255/pct:24.816112,7.888845,11.418564,21.467141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8843,7 +8936,7 @@ And this be our motto “ In God is our trust,”
 And the Star-Spangled Banner in triumph shall wave,  
 O’er the Land of the Free, and the Home of the Brave!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1890071001:0346/pct:72.448378,35.319149,21.179941,12.422787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1890071001:0346/pct:72.428712,35.305422,21.179941,12.422787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8981,7 +9074,7 @@ Chorus.
 Tis the Star Spangled Banner, Oh! long may  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_eisenhower_ver01:data:sn84024546:00237282188:1892070401:0056/pct:5.162020,111.771088,16.559910,15.473285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_eisenhower_ver01:data:sn84024546:00237282188:1892070401:0056/pct:3.880934,83.875780,12.415222,11.608354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9019,7 +9112,7 @@ the Brave.
 RED, WHITE AND BLUE.  
 O Columbia 1 the gem of the ocea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_eisenhower_ver01:data:sn84024546:00237282188:1892070401:0056/pct:22.795780,65.229184,16.767144,18.077027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_eisenhower_ver01:data:sn84024546:00237282188:1892070401:0056/pct:17.106255,48.955791,12.565938,13.561161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9357,7 +9450,7 @@ shall wave
 O’er the land of the free and the home of the  
 brave!”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865982:1895070401:0009/pct:6.360883,8.106518,15.274773,22.921877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865982:1895070401:0009/pct:6.339247,8.091805,15.274773,22.921877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9445,7 +9538,7 @@ And the star spangled banner In triumph
 shall wave,  
 While the l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285281:1895070501:0238/pct:68.788291,26.744778,17.869299,46.446765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285281:1895070501:0238/pct:45.864534,17.829852,11.912866,30.973001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9538,7 +9631,7 @@ O&#x27;er the laud of the free, and the home of the brave.
   
 THE STA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1896070201:0805/pct:6.615324,12.252154,86.216430,21.878846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1896070201:0805/pct:6.595577,12.238479,86.216430,21.878846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9579,7 +9672,7 @@ yet wave
 O&#x27;er the land of the free and tho home of  
 tho brav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665611:1896070401:0040/pct:22.232558,24.239544,17.325581,10.300726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665611:1896070401:0040/pct:16.674419,18.181818,13.000000,7.725544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9801,7 +9894,7 @@ umph shall wave
 &#x27; of the brave.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_longines_ver01:data:sn85025371:00542867267:1897062301:0517/pct:20.050891,15.296140,11.942324,30.817028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_longines_ver01:data:sn85025371:00542867267:1897062301:0517/pct:20.033927,15.282919,11.942324,30.817028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9855,7 +9948,7 @@ the olden time that &quot;tried bouIs,&quot; when ,ta nazy light over the hills.
   
 It catches the glea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_austen_ver01:data:sn86063592:00296025628:1897062601:0415/pct:6.031273,39.324159,64.501117,20.983785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_austen_ver01:data:sn86063592:00296025628:1897062601:0415/pct:4.523455,29.499932,48.380491,15.737839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10015,7 +10108,7 @@ O&#x27;er the land of the free and the home
 of the brave.  
 tJEW
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897070101:0023/pct:7.231129,47.977554,21.342685,63.970072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897070101:0023/pct:4.826319,31.985036,14.228457,42.670096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10034,7 +10127,7 @@ of the well-feasted multitude.
 The day declines and the sun hovers  
 in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897070101:0023/pct:51.720107,75.590367,20.991984,5.225625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897070101:0023/pct:34.485638,50.409165,13.994656,3.483750/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10077,7 +10170,7 @@ As It fitfully blows, now conceals, now
 discloses?  
 Now It catches the gleam of the morn­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85030687:00212473133:1897070101:1025/pct:5.942623,15.415136,18.852459,50.448200/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85030687:00212473133:1897070101:1025/pct:4.462659,11.565026,14.139344,37.839824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10128,7 +10221,7 @@ Ami where la that band who so vaunt­
 That the havoc of war and the battle’s  
 co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013912:1897070101:0760/pct:18.078246,33.644569,14.380911,22.595705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013912:1897070101:0760/pct:18.056750,33.629007,14.380911,22.595705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10348,7 +10441,7 @@ umph shall wave
 O&#x27;er the land of the free and the home  
 of the brave.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ames_ver01:data:sn83025186:00202198399:1897070201:0153/pct:5.115962,56.086850,15.842428,26.738229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ames_ver01:data:sn83025186:00202198399:1897070201:0153/pct:4.229195,46.267382,13.062756,22.066358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10476,7 +10569,7 @@ umph shall wave
 O&#x27;er the land ot the free and the home  
 of the brave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn83040052:00212473728:1897070201:0619/pct:12.195672,51.063179,18.778179,51.170262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn83040052:00212473728:1897070201:0619/pct:9.152390,38.320330,14.089270,38.396818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10530,7 +10623,7 @@ And w er0 Is that band who so vaunt­
 it gly swore  
 That th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_baldwin_ver01:data:sn98066406:00296023346:1897070201:0077/pct:11.948052,17.150604,21.347403,65.913456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_baldwin_ver01:data:sn98066406:00296023346:1897070201:0077/pct:7.970779,11.433736,14.237013,43.949836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11079,7 +11172,7 @@ O&#x27;er the land of the free and the home of the brave.
   
 $24; the differential rate via the S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_PhO1_ver01%2Fdata%2F1898022501%2F0147.jp2/pct:45.679012,52.118644,54.876543,55.084746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_PhO1_ver01%2Fdata%2F1898022501%2F0147.jp2/pct:30.452675,34.761456,36.604938,36.738858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11290,7 +11383,7 @@ What is that which the breeze oer tho
 I towering steep  
 A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:0020653476A:1898041801:0478/pct:65.419066,75.925715,19.641715,14.162014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:0020653476A:1898041801:0478/pct:43.618042,50.632335,13.115803,9.445141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11445,7 +11538,7 @@ O&#x27;er the land of the free and the home of
 the brave?  
 On 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_eva_ver01%2Fdata%2Fsn00063696%2F00000002055%2F1898042201%2F0228.jp2/pct:50.406504,9.890266,28.274616,25.096195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_eva_ver01%2Fdata%2Fsn00063696%2F00000002055%2F1898042201%2F0228.jp2/pct:37.804878,7.424825,21.228546,18.825709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11492,7 +11585,10 @@ the brave!
 O, thus be It ever when freemen shall stand  
 Between their loved homes and the war’s  
 desolation!
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_yamhillcountyhistoricalsociety_20210813SerpentineYetiSurroundedByShrubs_ver01%2Fdata%2Fsn97071127%2Fprint%2F1898042201%2F0006.jp2/pct:10.998787,25.385054,13.384553,13.576726/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -11641,7 +11737,7 @@ O’er the land of the free and the home of the brave!
 tives yvere placed in bondage as  
 slaves. The slav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588496:1898042801:0131/pct:45.568783,36.223098,36.750441,42.588663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588496:1898042801:0131/pct:35.317460,28.069112,28.461199,32.994847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11736,7 +11832,7 @@ And tLis be4ur motto, &quot;In God,is our trust!&quot; . i
 . And the star-spangled -banker in triumph shall wave ,  
 &#x27; O&#x27;er the land of the free, and the home of the brave&#x27; I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NSGreen29n_ver01%2Fdata%2F1898050501%2F0076.jp2/pct:13.165791,12.797026,35.690173,27.306518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NSGreen29n_ver01%2Fdata%2F1898050501%2F0076.jp2/pct:9.883721,9.597770,26.762941,20.483207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11772,7 +11868,7 @@ shall wave
 O&#x27;er the land of the free, and thu home ot  
 the brave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WelRN13n_ver01%2Fdata%2F1898050501%2F0280.jp2/pct:7.636955,39.404133,14.786444,13.599231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WelRN13n_ver01%2Fdata%2F1898050501%2F0280.jp2/pct:5.733519,29.569117,11.095636,10.203428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11824,7 +11920,7 @@ shall wave
 O’er the laud of the free and the home of  
 brav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625571:1898050601:0496/pct:78.688239,33.413260,13.900487,15.381849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625571:1898050601:0496/pct:60.977731,25.896176,10.786360,11.917036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11880,7 +11976,7 @@ bursting in air, Gave proof thro&#x27; the night that our Flag was stlU there. O
 morning&#x27;s first beam, In fuU glory refleot&#x27;d, now shines in the stream, &#x27;Tls the Star Bpangl&#x27;4  
 hireling and slave From the terror of flight, or the gloom of the grav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270503:00271762744:1898050701:0248/pct:76.587591,51.650190,32.937956,6.752852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270503:00271762744:1898050701:0248/pct:57.463504,38.752852,24.726277,5.079848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11995,7 +12091,7 @@ And this be our motto, &quot;In Ood la our trust!&quot;
 And the star-spangled banner In triumph doth wave  
 O&#x27;er the land of the free, and the home of the brave.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ChCN147n_ver01%2Fdata%2F1898050801%2F0961.jp2/pct:8.275862,18.079833,33.728448,7.552831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ChCN147n_ver01%2Fdata%2F1898050801%2F0961.jp2/pct:6.206897,13.566397,25.301724,5.661362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12065,7 +12161,7 @@ Ianty streaming?
 Soloni to Eat Shad.  
 members of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:0051368535A:1898051201:0573/pct:20.729796,22.560597,14.685471,8.297079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:0051368535A:1898051201:0573/pct:20.707410,22.545059,14.685471,8.297079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12278,7 +12374,7 @@ And where is that band who so vaunt
 ingly swore,  
 ’Mid the havoc of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn85059533:00393349128:1898052801:0866/pct:34.283993,15.055249,14.641494,18.480663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn85059533:00393349128:1898052801:0866/pct:34.263908,15.041436,14.641494,18.480663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12321,7 +12417,7 @@ umph shall waye
 O’er the land of the free and the home  
 of the braye.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn85059533:00393349128:1898052801:0866/pct:34.444668,33.135359,14.480819,15.593923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn85059533:00393349128:1898052801:0866/pct:34.424583,33.121547,14.480819,15.593923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12365,7 +12461,7 @@ so gallantly streaming?
   
 The y
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092151:00514157522:1898060101:0897/pct:6.145880,66.045907,17.492121,8.387469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092151:00514157522:1898060101:0897/pct:6.123368,66.017035,17.492121,8.387469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12627,7 +12723,7 @@ of the brave.
 . TU CHOW HELD UP.  
 A Chi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86064199:00200296667:1898061001:0581/pct:73.944591,46.836128,16.226913,19.280692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86064199:00200296667:1898061001:0581/pct:55.474934,35.140617,12.170185,14.467280/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12676,7 +12772,7 @@ I, And this be our motto, “In God is our trust!&quot;
 fc And the star-spangled banner in triumph shall wave  
 &#x27; While the laud of the free is the home of the brave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn85059533:00393349128:1898061102:0890/pct:33.078512,19.026112,59.483471,16.584333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn85059533:00393349128:1898061102:0890/pct:33.057851,19.011997,59.483471,16.584333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12891,7 +12987,7 @@ O&#x27;er the land of the free and the home of
 the brave.  
 There is nothin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1898062301:0105/pct:6.842105,31.494178,14.473684,34.465121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1898062301:0105/pct:5.138504,23.626075,10.858726,25.857003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12938,7 +13034,7 @@ And the star spangled bmuer in triumph shall wave
 O’er the land of the free and the home of the bravo.  
 _
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:0027955033A:1898062301:0104/pct:73.224932,7.968850,22.737127,23.810540/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:0027955033A:1898062301:0104/pct:73.211382,7.958182,22.737127,23.810540/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12961,7 +13057,7 @@ umph shall wave,
 O’er the land of the free and the home  
 . of the brave.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092518:00340582238:1898062401:0583/pct:8.116293,60.531382,14.556834,3.799256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092518:00340582238:1898062401:0583/pct:8.096103,60.518547,14.556834,3.786420/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13129,7 +13225,7 @@ yet wave,
 O&#x27;er the land of the free and the home  
 of the brav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86064199:00200296667:1898070201:0670/pct:108.099532,47.020585,16.533066,11.565547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86064199:00200296667:1898070201:0670/pct:81.112224,35.278982,12.408150,8.680932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13167,7 +13263,7 @@ of the brave.
   
 1. My country! &#x27;tis of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86064199:00200296667:1898070201:0670/pct:107.849031,65.885699,16.683367,18.187974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86064199:00200296667:1898070201:0670/pct:80.928524,49.431203,12.508350,13.651138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13216,7 +13312,7 @@ And this br our motto. &quot;In God is our trust.&quot;
 And the star spangled banner in triumph shall wave  
 O&#x27;er the land of the free and the home of the brave.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102147:1898070401:0538/pct:108.273810,35.663627,29.880952,26.173590/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102147:1898070401:0538/pct:72.202381,23.775751,19.925595,17.460317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13239,7 +13335,7 @@ O&#x27;er the ramparts we watched wereso gallantly streaming;
 And the rocket&#x27;s red glare, th? bombs bursting in air  
 Gave proof thro the night that our flag was still there.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn84024441:211103164:1898070401:0375/pct:96.442533,29.034184,25.566849,5.866547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn84024441:211103164:1898070401:0375/pct:72.361220,21.779370,19.175137,4.403642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13326,7 +13422,7 @@ and the firm establishment of the Un­
 ion as a &quot;government of the people, by  
 the people and for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:0041562119A:1898070601:0038/pct:60.196314,86.472425,16.786859,21.004906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:0041562119A:1898070601:0038/pct:45.172276,64.887766,12.600160,15.772261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13486,7 +13582,7 @@ banner yet wave
 Oer tho land of tho free and the  
 home of the brav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_angel_ver01:data:sn85047097:00211100394:1898080601:0135/pct:55.691057,80.772532,22.002033,16.669528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_angel_ver01:data:sn85047097:00211100394:1898080601:0135/pct:41.793699,60.618026,16.514228,12.515021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13596,7 +13692,7 @@ triumph doth wave
 O&#x27;er the land of the free and the  
 home of the brave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FayObs4n_ver01%2Fdata%2F1898081101%2F0143.jp2/pct:3.877005,43.756050,22.563874,29.912875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FayObs4n_ver01%2Fdata%2F1898081101%2F0143.jp2/pct:2.911468,32.817038,16.934046,22.437345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13825,7 +13921,7 @@ Gave proof thro&#x27; the night that our
   
 nag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ECHert2n_ver01%2Fdata%2F1898110301%2F0723.jp2/pct:25.695029,28.813326,37.763269,97.384361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ECHert2n_ver01%2Fdata%2F1898110301%2F0723.jp2/pct:19.271272,21.613436,28.327717,73.072687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13876,7 +13972,7 @@ O’er the land of the free and the home of the
 brave ?  
 I hope that thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896519:1899051801:0080/pct:85.955312,13.943065,9.697522,5.741975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896519:1899051801:0080/pct:85.940112,13.930951,9.697522,5.741975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13941,7 +14037,7 @@ And the star-spangled banner in triumph shall wave
 O&#x27;er the land of the free and the home of the brave.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159257:1899062201:0193/pct:50.715103,54.683955,23.398169,24.267963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159257:1899062201:0193/pct:39.302059,42.377093,18.135011,18.800648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13977,7 +14073,7 @@ And the star-spangled banner in triumph shall wave
 O’er the land of the free, and the home of the brave!  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1899070101:0571/pct:49.096149,37.354440,20.775478,11.699418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1899070101:0571/pct:49.069950,37.336245,20.775478,11.699418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14114,7 +14210,7 @@ si-lence re pos es; What is that which the breeze, o&#x27;er the towering steep 
 bat-tie&#x27;s con-fns-ion, A home and a ooun - try shall leave us no more Their  
 war&#x27;s desolation ; Blest with vict&#x27;ry and peace, may the Heav&#x27;n nescu&#x27;d land, Praise tbe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270503:00271762859:1899102001:0147/pct:43.145743,20.018021,31.204906,2.507884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270503:00271762859:1899102001:0147/pct:32.359307,15.017270,23.412698,1.877159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14130,7 +14226,7 @@ war&#x27;s desolation ; Blest with vict&#x27;ry and peace, may the Heav&#x27;n n
 blood has wash&#x27;d out their foul footsteps po-lu-tion Ko refuge could save ths  
 &#x27; Pow&#x27;r that hath made and preserv&#x27;d us a nation: And this b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270503:00271762859:1899102001:0147/pct:43.452381,26.265205,30.645743,1.817090/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270503:00271762859:1899102001:0147/pct:32.593795,19.702658,22.979798,1.366572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

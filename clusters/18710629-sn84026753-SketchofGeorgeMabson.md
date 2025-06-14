@@ -403,7 +403,7 @@ school house; fro
 box, from the whipping post to the  
 school house,&#x27; fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_EraRal4n_ver01%2Fdata%2F1872020801%2F0130.jp2/pct:112.608696,75.943538,16.905371,2.012213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_EraRal4n_ver01%2Fdata%2F1872020801%2F0130.jp2/pct:84.488491,56.982681,12.672634,1.511663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

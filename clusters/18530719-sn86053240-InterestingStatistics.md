@@ -608,7 +608,7 @@ ase
   
 IIS pot oi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1853071501:0577/pct:69.601817,28.500244,61.972207,30.923302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1853071501:0577/pct:52.218065,21.377626,46.499198,23.204690/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -673,7 +673,7 @@ flannel under-garments. N. Y. Dutchman.
   
 Latest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1853071501:0577/pct:75.962052,42.266732,36.183859,42.081094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1853071501:0577/pct:56.988242,31.714704,27.151256,31.568149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -988,7 +988,7 @@ Br m Tj
 by mixing plain mathematics with the  
 valu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WestSen12n_ver01%2Fdata%2F1853072301%2F0487.jp2/pct:90.496098,61.631681,16.875697,21.272452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WestSen12n_ver01%2Fdata%2F1853072301%2F0487.jp2/pct:67.879041,46.223761,12.653289,15.959749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1161,7 +1161,10 @@ in a degree, by mixing- plain mathemotios with
 tho market valuo-of-flannel- under-garments.—  
 7T. Y,; Dutchman.  
 ■
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_diInferi_ver01%2Fdata%2Fsn84026248%2F000002239%2F1853072501%2F0078.jp2/pct:45.081845,51.699612,9.843750,18.975663/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1373,7 +1376,7 @@ ue of flannel under-garments. JV. T. Dutchman.
   
 LILLTPUT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SWPostR1n_ver01%2Fdata%2F1853073001%2F0103.jp2/pct:80.171032,25.890269,27.164618,99.679089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SWPostR1n_ver01%2Fdata%2F1853073001%2F0103.jp2/pct:60.141635,19.420290,20.376804,74.782609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1805,7 +1808,7 @@ lar, and yet many of them are susceptii
 casv solution. mm y6er than  
 tad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn87065674:00295878460:1853082301:0605/pct:23.616071,93.818075,20.580357,27.789226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn87065674:00295878460:1853082301:0605/pct:17.723214,70.400353,15.446429,20.841919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1897,7 +1900,10 @@ cember, uro brought about, in a great de­
 gree, by nilxing plain mathematics with the  
 market value of flannel under gaiwnents.—  
 N. 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aurora_ver01%2Fdata%2Fsn84038509%2F000001979%2F1853082401%2F0135.jp2/pct:21.067177,46.084861,14.184736,44.180626/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2301,7 +2307,7 @@ by mixing plain mathematics with the
 market value of flannel under garments  
 [X Y. Dutchman.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:00271769763:1853091501:0001/pct:57.843278,11.338907,27.462257,87.023250/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:00271769763:1853091501:0001/pct:54.953271,10.777689,26.081955,82.659489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2390,7 +2396,10 @@ robust than others. Births and deaths are
 more frequent by night than day. The num•  
 berrof men capable of bearing arms is calcu­  
 lated at one-fourth of the population.&quot;
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001829%2F1853092101%2F0101.jp2/pct:68.641390,47.120591,11.942141,20.964437/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2424,7 +2433,7 @@ Youno Lady Shot. A foolish and some­
 what reckless boy named Price, near Goshen,  
 Ind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1853092301:0143/pct:26.024590,77.835423,15.815946,17.322381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1853092301:0143/pct:19.523100,58.394581,11.866617,12.998991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2491,7 +2500,7 @@ pable of bearing arm i calculated at one
 fourth of the population. .  
 Yellow Fever. The latest accounts t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1853092401:0150/pct:110.095448,69.387466,18.649046,35.153487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1853092401:0150/pct:82.617474,52.072429,13.986784,26.382798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2607,7 +2616,10 @@ month, of June and of !December. !
 Those : brim in the spring are generally  
 more robust than others. Births and  
 deaths are more frequen
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fauna_ver01%2Fdata%2Fsn85038381%2F000002395%2F1853093001%2F0115.jp2/pct:57.850734,15.563725,22.787520,46.215398/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2633,7 +2645,7 @@ this enioy a felicity refused to one-half the human
 SDacies To every 1000 persons only one reaches  
 OOjeirsin life; .o every 10
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016866:00295877625:1853100101:0194/pct:44.457688,111.377859,19.830155,10.308340/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016866:00295877625:1853100101:0194/pct:33.343266,83.547616,14.883790,7.736944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2724,7 +2736,7 @@ every 100 only 7 reach the age of 66, and not more
 than one in 5000 live to 80 years of age.  
 With reference to the America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853100801:0327/pct:86.219293,49.118628,19.997004,13.554073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853100801:0327/pct:64.679449,36.850881,15.023966,10.171510/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2789,7 +2801,7 @@ reaches 100 years id lit*; to every lOu, only 7
 reach the age ot 60, and not more than one in  
 500 life to bO years ot age ”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215907:1853101001:0344/pct:5.512108,46.437329,12.635447,8.386464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215907:1853101001:0344/pct:5.502685,46.430323,12.635447,8.386464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2852,7 +2864,7 @@ A every. J00 ov&amp;j . j-oach. the.-age-pf &quot;6 and not more
 than one in 5000 live to 80 years of age.  
 A Hoosiek Dodqe. They have 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1853101201:0160/pct:85.915293,101.555556,21.347356,12.296296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1853101201:0160/pct:64.454235,76.201058,16.031836,9.227513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2888,7 +2900,10 @@ age of 66; and uut:Mure than one in 5,000
 live to 8u years of age. . .  
   
 FAT;Ess • BEACTI 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002342%2F1853101501%2F0165.jp2/pct:84.328854,45.848499,9.731246,8.840423/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3057,7 +3072,7 @@ age.
 Sewark Eagle.  
 . . Great Fires in Michigan.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028873:1853102701:0700/pct:91.838154,54.789395,16.560067,20.087663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028873:1853102701:0700/pct:68.895996,41.105409,12.416574,15.073765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3281,7 +3296,10 @@ Beven reach the ago of bb; and not more than
 | one in 500 lire to esc 80 years of age.  
   
 A Place fob 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_diInferi_ver01%2Fdata%2Fsn84026248%2F000002243%2F1853111201%2F0042.jp2/pct:46.964286,52.605586,9.631696,7.481835/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3681,7 +3699,10 @@ beture reaching 17 : and those who pass
 this age enjoy a facility refused one.halt the  
 human .pecies. . To evesk 1,000 persons on­  
 ly one reorheA lryi years o
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002342%2F1853122401%2F0205.jp2/pct:85.687023,62.194127,9.755725,5.147402/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3932,7 +3953,7 @@ How fondly together we used to dwell—
 But none remember thee  
 Save me!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1854021301:0024/pct:47.612050,15.105577,21.748714,83.229561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1854021301:0024/pct:47.593681,15.092041,21.748714,83.216026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4236,7 +4257,7 @@ Mammon ties as many marriage knots as
 Cupid. A heart once given, should to  
 &quot;not transferabl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775514:1854030901:0259/pct:107.682194,74.129496,16.773103,37.266187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775514:1854030901:0259/pct:80.785124,55.611511,12.584523,27.971223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4336,7 +4357,10 @@ ripens, under the seed
 .s,into  
   
 Mitnit
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fauna_ver01%2Fdata%2Fsn85038381%2F000002396%2F1854033101%2F0037.jp2/pct:29.414451,57.771429,12.177796,9.010714/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4467,7 +4491,10 @@ Births and deaths are more frequent by night
 than by day.. The number of men capable of  
 bearing arms is calculated at one.fourth of the  
 population
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_epona_ver01%2Fdata%2Fsn86071456%2F000002320%2F1854041901%2F0058.jp2/pct:56.276251,76.720901,12.559389,19.706925/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4965,7 +4992,7 @@ are more frequent by night than bv day.—
 The number of men capable of bearing arms  
 is calculated at one-fourth of the population.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:0041418375A:1854052401:0079/pct:56.526883,75.056075,12.554226,18.887850/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:0041418375A:1854052401:0079/pct:56.513737,75.037383,12.554226,18.887850/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5113,7 +5140,7 @@ by day Tbe number of men capable of bear­
 ing arms is calculated at one-fourth of the  
 population.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349013:1854053101:0087/pct:82.148584,36.419923,13.094602,25.220143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349013:1854053101:0087/pct:82.130768,36.406164,13.094602,25.220143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5363,7 +5390,7 @@ Births and deaths are more frequent by night thaa
 by day. 1 be number ot men capable or bearing  
 arms, ia calculated at one-lourtn ot tne populatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035487:00237283776:1854061001:0929/pct:69.224924,88.493033,18.617021,23.775320/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035487:00237283776:1854061001:0929/pct:51.937690,66.398506,13.981763,17.856630/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5574,7 +5601,7 @@ quent by .night than by day, The nutav t
 ber ot men capable of &#x27;beanns arui.u;  
 calculated at one-fourth of the popntatidf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal3_ver01%2Fdata%2F1854062901%2F0358.jp2/pct:110.857372,52.275379,20.492788,26.079347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal3_ver01%2Fdata%2F1854062901%2F0358.jp2/pct:83.173077,39.221120,15.364583,19.574096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5641,7 +5668,7 @@ is calculated at one-fourth of the population.
 English Heziew.  
 UcLTrvATrsQ otkawberries. About a yea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1854070501:0319/pct:48.435673,68.558807,20.555556,23.909442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1854070501:0319/pct:36.330409,51.419105,15.423977,17.934843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5685,7 +5712,7 @@ deaths are generally more frequent by night than by
 any. nc numi er oi men capable ot hearing arms  
 i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854070501:0218/pct:48.243002,69.914610,20.518166,19.943853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854070501:0218/pct:36.182251,52.438882,15.396069,14.960814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5753,7 +5780,7 @@ men capable of hearing arms is calculated at
 one-fourth of the population.—English Quar­  
 terly-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624475:1854071501:0102/pct:108.845862,42.627032,16.343964,30.165471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624475:1854071501:0102/pct:84.339408,33.035584,12.680334,23.370918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6014,7 +6041,7 @@ bearing arms is calculated at one-fourtlf of
 the population. English Quarterly.  
 ARemarkablk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_PDeeWade1n_ver01%2Fdata%2F1854081901%2F0037.jp2/pct:109.362319,18.996977,17.449275,31.646703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_PDeeWade1n_ver01%2Fdata%2F1854081901%2F0037.jp2/pct:82.043478,14.250532,13.086957,23.732229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6043,7 +6070,7 @@ plause. Want uina lies a many tuai&#x27;rir-ktMit
 its &#x27;pid. X heait once giveu should La &quot;out  
 lrafcriM
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1854081901:0038/pct:15.123907,107.532931,18.604227,9.838090/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1854081901:0038/pct:11.352041,80.666850,13.957726,7.381998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6145,7 +6172,7 @@ by night than by day. The number of men ca­
 pable of bearing arms is calculated at one-fourth  
 of the population.—English Quarterly.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84024361:00542868284:1854083001:0908/pct:91.066862,15.519082,16.130800,21.123566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84024361:00542868284:1854083001:0908/pct:70.569967,12.022952,12.495433,16.373098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6258,7 +6285,10 @@ are more frequent . by&#x27;night than day.
 The nmnber&#x27;of men capable of; bear­  
 ing arm. is calculated to be eue : titrtlt  
 of the reguh - ,ti on
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_caca_ver01%2Fdata%2Fsn83032194%2F000002008%2F1854092901%2F0149.jp2/pct:77.734375,66.184498,13.466005,25.896756/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6416,7 +6446,7 @@ personsonly one reaches onehuri-
   
 dred Vf:ns nf nrro f n pvwrv 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470338:1854101201:0749/pct:8.755568,29.174147,31.472717,18.402154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470338:1854101201:0749/pct:6.570156,21.880610,23.608018,13.812837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6444,7 +6474,7 @@ America. The inhabitants of our I fraternal love. ; : ;. - ,
 g obe&#x27;profoss more than 1,000 difTek -&quot;Joseph prays he 13 delivered from  
 e it religions. The number of men 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470338:1854101201:0749/pct:25.027840,30.184022,31.361359,8.763465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470338:1854101201:0749/pct:18.777840,22.643627,23.538419,6.586625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6618,7 +6648,7 @@ of age ; to every one thousand only six reach the
 age of 8G.  
 Ax Example.—While taking notes in the srimi.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016561:1854121501:0274/pct:30.356849,45.140552,12.152606,8.622211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016561:1854121501:0274/pct:30.340405,45.127947,12.152606,8.622211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6780,7 +6810,10 @@ and deaths are more frequent by night than
 by day. The number of melt capable of bear.  
 ing arms is caletdeted at one-fourth 01 the pup•  
 elatio
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_epona_ver01%2Fdata%2Fsn86071456%2F000002321%2F1855011001%2F0003.jp2/pct:70.778989,46.220668,13.063930,20.493670/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -7058,7 +7091,7 @@ National Monitor.
 Making Game of the Members of Congress.  
 The following harmless
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879166:1855021601:0201/pct:64.509804,23.047347,41.288515,98.813578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879166:1855021601:0201/pct:48.403361,17.291003,30.980392,74.140393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7309,7 +7342,10 @@ number of men capable of bearing arms is, cal­
 culated at one eighth the population.  
   
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_concordia_ver01%2Fdata%2Fsn84024587%2F000002071%2F1855041601%2F0061.jp2/pct:20.124846,40.605570,14.704589,23.558938/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -7388,7 +7424,7 @@ night than by day. : The number of men
 capable of bearing arms is calculated at  
 one etghth the populatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1855041801:0602/pct:92.133492,19.095598,18.742551,65.875015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1855041801:0602/pct:69.115018,14.321698,14.064362,49.418256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7426,7 +7462,7 @@ life; to every HW, ouly six reach the
 age m.iwj uuu uoi im umu uuo wl,ic-h we deduce from our own expe­  
 5u0 lives to SO years of aire. There are 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal3_ver01%2Fdata%2F1855041901%2F0513.jp2/pct:40.506073,4.648714,35.080972,15.435535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal3_ver01%2Fdata%2F1855041901%2F0513.jp2/pct:30.384615,3.490296,26.336032,11.584173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7523,7 +7559,7 @@ one eighth the population Y
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WestSen13n_ver01%2Fdata%2F1855042801%2F0265.jp2/pct:109.318456,28.774281,22.873945,103.873679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WestSen13n_ver01%2Fdata%2F1855042801%2F0265.jp2/pct:82.026538,21.583551,17.159228,77.939339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7882,7 +7918,7 @@ are more frequent by night than by day.
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1855-06-02_10_38/page/n0/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1855-06-02_10_38/page/n0/mode/1up?view=theater)
 
 #### 1855-06-02 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -8110,7 +8146,7 @@ and ksixty every minute, or one for every
 second.  
 JKS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82015827:00212472815:1855061901:0073/pct:63.601909,52.731139,19.708029,7.253190/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82015827:00212472815:1855061901:0073/pct:42.405952,35.157824,13.138686,4.835460/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8326,7 +8362,7 @@ j short ones. Women have more chances
 | fifty years of age than men, but fewer  
 . afterwards. Children bor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn91054099:00514151003:1855081101:0004/pct:35.011500,80.620011,14.362382,12.567292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn91054099:00514151003:1855081101:0004/pct:34.985944,80.582885,14.362382,12.567292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8464,7 +8500,10 @@ ter (lie previous to the age of 7 years ; one half
 before reaching 17.  
   
 t
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aurora_ver01%2Fdata%2Fsn84038509%2F000001981%2F1855103101%2F0174.jp2/pct:83.506944,39.605721,14.404297,2.931416/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -8740,7 +8779,7 @@ more frequently by night than ly day. The |
 number of men capable of bearing arms is cal­  
 culated at one fourth of the populatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1856042401:0279/pct:64.655920,47.265469,15.115271,20.039920/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1856042401:0279/pct:64.638586,47.252162,15.115271,20.039920/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8862,7 +8901,7 @@ more robust than others. Births and
 deaths are more frequent b night thaa  
 by day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470697:1856071201:0022/pct:90.152297,22.494496,35.351058,101.110367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470697:1856071201:0022/pct:67.643263,16.875658,26.522974,75.859098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8922,7 +8961,7 @@ fewer afterward. The number of marriages is in the
 proportion of 7o to every 1000 individuals. . Those  
 born in spring are generally, more robust than others
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474228:1856080701:0022/pct:8.755589,92.672959,22.615499,31.166683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474228:1856080701:0022/pct:6.569796,69.514450,16.964729,23.392040/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8940,7 +8979,7 @@ ihe world is 33 years. One-quarter &#x27;die previous to
 the age of 7 years one-half before reaching 17.  
 The Espana announces the death of Donn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474228:1856090401:0038/pct:8.057956,100.895773,21.873411,3.816367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474228:1856090401:0038/pct:6.049822,75.702155,16.408236,2.864608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9393,7 +9432,7 @@ The profound theological wisdom
 of some of our Scriptural expositors  
 is very amusing, or would b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:0021247034A:1857091001:0556/pct:75.028409,27.628110,16.178977,41.510948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:0021247034A:1857091001:0556/pct:56.292614,20.726814,12.130682,31.147541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9818,7 +9857,7 @@ number of marriages is in proportion1 of
   
 to toIUU. &#x27; , .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1858030301:0746/pct:44.749104,101.935720,16.594982,17.214512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1858030301:0746/pct:33.566308,76.479182,12.455197,12.916971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9851,7 +9890,10 @@ a sober/and industrious conduct. Women have
 more chances of life previous to the age of fifty  
 years than men, but fewer after. The number  
 of marriages is in proportion of 75 to a 100.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001738%2F1858030401%2F0036.jp2/pct:8.161342,82.822639,11.912240,8.258832/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -9923,7 +9965,7 @@ quent by night than by day. Number
 of men capable of bearing arms is estima­  
 ted at about one fourth of the population
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:0029602885A:1858031801:0067/pct:66.733467,76.470588,19.589178,22.424242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:0029602885A:1858031801:0067/pct:50.050100,57.361854,14.704409,16.827094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10150,7 +10192,7 @@ ber of men capable of bearing arms is cal­
 culated at one-fourth of the population.  
 (9”The London 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn91054100:00514151003:1858052201:0548/pct:5.833957,25.761035,13.936674,19.767884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn91054100:00514151003:1858052201:0548/pct:5.809025,25.742009,13.936674,19.767884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10394,7 +10436,7 @@ pable of bearing arms Is calculated ul ono­
 iburth nf the population.  
 Thb Influence of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_charm_ver01%2Fdata%2Fsn83025129%2F00000002043%2F1858072401%2F0701.jp2/pct:10.531053,58.269504,19.239424,28.524823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_charm_ver01%2Fdata%2Fsn83025129%2F00000002043%2F1858072401%2F0701.jp2/pct:7.898290,43.730496,14.446445,21.418440/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10463,7 +10505,7 @@ quarter die before the age of7. One­
 half before the age of 17. To every 1.  
 000 persons, one only reache
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn85026031:00280774807:1858081201:0368/pct:13.634890,66.643760,15.661479,7.146784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn85026031:00280774807:1858081201:0368/pct:10.230220,49.986256,11.754215,5.360088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10620,7 +10662,7 @@ For the benefit of that portion of our read­
 ers who must have been surprised in seeing  
 smong the obituary notices i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1858090401:0352/pct:32.116788,70.060750,12.595485,17.974115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1858090401:0352/pct:32.099813,70.047544,12.595485,17.960909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10706,7 +10748,7 @@ ber of men capable of bearing arms is calu­
 lated at one fourth the population.  
 A railroad co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1858091101:0045/pct:5.877483,92.226031,14.569536,14.442110/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1858091101:0045/pct:4.415011,69.191640,10.927152,10.837112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10792,7 +10834,7 @@ The cradle is the woman&#x27;s ballot box. Yes and some
 of them deposite in it two ballots at once. Now is&#x27;nt  
 that illegal?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471380:1858092501:0522/pct:28.780566,113.181439,20.109395,15.531433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471380:1858092501:0522/pct:21.589447,84.909937,15.090090,11.654539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10836,7 +10878,10 @@ Births and deaths are more frequent by night
 than by day. Number of men capable of  
 bearing arms is calculated at one fourth of  
 the population
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_ferentina_ver01%2Fdata%2Fsn85054567%2F000002491%2F1858100701%2F0021.jp2/pct:65.773104,16.411253,10.930095,15.722210/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -10974,7 +11019,7 @@ and deaths arc moro frequent by night than
 by day. The number cf men capable ot hear­  
 ing arms is one-fourth of the population
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172078:1858102201:0988/pct:108.960712,28.233618,15.928005,18.660969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172078:1858102201:0988/pct:84.439714,21.880342,12.347590,14.458689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11062,7 +11107,10 @@ industrious coquet. Woman have More
 chances vf life previous to the age of 50 years  
 than men, but fewer after. The number of  
 marriages is in proportion of 75 to 109.:.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fascinus_ver01%2Fdata%2Fsn84026112%2F000002373%2F1858102801%2F0169.jp2/pct:31.706785,81.557488,11.987616,9.789055/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -11155,7 +11203,7 @@ more frequent by night than by day. Num.
 ber of inescapable of bearing arma is cal  
 eulated at one fourth o( tbe population.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:0029602708A:1858110401:0183/pct:4.807005,97.709924,16.815583,22.874441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:0029602708A:1858110401:0183/pct:3.609721,73.295604,12.616154,17.175573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11340,7 +11388,7 @@ deaths are more frequent by nigh than by
 day. Number of men capable of bearing arms  
 is one fourth of the population.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477783:1858121501:0314/pct:7.815735,51.961170,19.185645,17.801391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477783:1858121501:0314/pct:5.866115,38.987275,14.389234,13.354322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11898,7 +11946,10 @@ breakfast tuNe.
 &#x27;Why ?&#x27; said Smith.  
 illecause„ said Brown, &#x27;I don&#x27;t believe  
 it would ever
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_epona_ver01%2Fdata%2Fsn86071456%2F000002325%2F1859031601%2F0041.jp2/pct:81.966751,48.801144,12.510566,27.467811/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -12253,7 +12304,7 @@ the breakfast table. “Why?” inquired
 Smith. “Because,” said Brown, &quot;I  
 don’t believe it would settl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1859051301:0558/pct:16.778645,50.997067,14.091157,3.343109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1859051301:0558/pct:13.001634,39.530792,10.913383,2.580645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12409,7 +12460,7 @@ one-fourth the whole population.
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1859-08-27_1_9/page/n13/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1859-08-27_1_9/page/n13/mode/1up?view=theater)
 
 #### 1859-08-27 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -12443,7 +12494,10 @@ years. To every 106 only six reach seventy-five yean;
 and not more than one in 500 will reach eight; years.&#x27;*  
 To attaia a vigorous oM age, we advise our reader* to  
 wear the elegan
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fulgora_ver01%2Fdata%2Fsn84026296%2F000002790%2F1859092001%2F0066.jp2/pct:82.482880,52.827273,9.842158,3.063636/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -12636,7 +12690,7 @@ is one fourth of the population.
   
 OBITUARY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalCA39n_ver01%2Fdata%2F1859112401%2F0383.jp2/pct:76.833235,13.248249,33.663513,110.944206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalCA39n_ver01%2Fdata%2F1859112401%2F0383.jp2/pct:57.643406,9.939011,25.266115,83.239214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12983,7 +13037,7 @@ the age of 50 years than men, but
 fewer after. The uumber of marri- i  
 ages is in proportion of T5 to 100. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85035610:00513684976:1860052301:0079/pct:38.539497,22.510555,11.203665,14.097415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85035610:00513684976:1860052301:0079/pct:38.525614,22.500257,11.203665,14.097415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13405,7 +13459,7 @@ ber of men capable of bearing arms is one­
 fourth of the population.  
 -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn87090585:00414212414:1861021501:0058/pct:5.481849,62.207358,12.902756,14.543101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn87090585:00414212414:1861021501:0058/pct:5.467269,62.196569,12.902756,14.532312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13461,7 +13515,7 @@ the number of men riahiA nt 1.0 . &#x27;.
 - , - 1 v&#x27; &quot;&quot;S ill 1113 IS  
 one-fourth of the population. !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DailyHW7n_ver01%2Fdata%2F1861022501%2F0186.jp2/pct:39.143481,79.717029,18.426077,15.371400/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DailyHW7n_ver01%2Fdata%2F1861022501%2F0186.jp2/pct:29.364430,59.787772,13.816148,11.531076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13647,7 +13701,7 @@ Births and deaths are more frequent by night
   
 man oymyv-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewProg6n_ver01%2Fdata%2F1861032601%2F0287.jp2/pct:69.405450,85.892232,19.735756,19.076277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewProg6n_ver01%2Fdata%2F1861032601%2F0287.jp2/pct:52.085054,64.436669,14.801817,14.317705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13814,7 +13868,10 @@ months of June amt December. Those
 born in Spring are generally more robust  
 than others. Births and deaths are more  
 frequent by night than by day.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_carmentes_ver01%2Fdata%2Fsn88086163%2F000002041%2F1862010401%2F0004.jp2/pct:32.462258,36.150442,11.745159,12.336283/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -14174,7 +14231,7 @@ whom her merchants and traders are hav­
 ing daily relations.  
 Jambs Rxnr.T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200294567:1862041001:0349/pct:41.744702,27.510002,16.806309,4.839017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200294567:1862041001:0349/pct:31.308526,20.632501,12.617053,3.638788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14213,7 +14270,7 @@ months of June and December. Those Kirn in
 spring are more robust than others. Births and  
 deaths are more frequent by night than by day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:0021247423A:1862041701:0535/pct:41.370490,99.043338,16.962843,14.949285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:0021247423A:1862041701:0535/pct:31.031233,74.308437,12.735595,11.214846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14265,7 +14322,7 @@ inirnuj mora rcousi man otners.
 xiirtbs and deaths are more frequent  
 ,w miralit i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775526:1862050801:0243/pct:11.181750,101.082677,18.100224,24.339145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775526:1862050801:0243/pct:8.395662,75.829584,13.575168,18.250844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14609,7 +14666,7 @@ deaths are more frequent by night than by day.
 The number of men capable of bearing arms is  
 calculated at one-fourth of the population.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879208:1866112001:0186/pct:44.086323,24.835757,20.992152,102.574044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879208:1866112001:0186/pct:33.071749,18.632202,15.751121,76.962843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15023,7 +15080,7 @@ capable ot bearing arms is calculated at
 one fourth of&#x27;the population. Home  
 Journal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn86081582:00280776543:1867010901:0173/pct:91.515152,85.991995,16.041667,36.263579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn86081582:00280776543:1867010901:0173/pct:68.674242,64.522584,12.045455,27.215552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15188,7 +15245,7 @@ tkan 1000 different religion, professed.
   
 THE FORTIETH COKGHEIS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DJoWilm16n_ver01%2Fdata%2F1867013101%2F0265.jp2/pct:22.170659,12.497142,31.422156,114.578093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DJoWilm16n_ver01%2Fdata%2F1867013101%2F0265.jp2/pct:16.631737,9.375715,23.562874,85.947862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15239,7 +15296,7 @@ number of men capable of bearing anus is
 calculated at one-fourth of the population.  
 Home Journal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022834:1867021901:0090/pct:77.760736,50.234962,16.932515,22.650376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022834:1867021901:0090/pct:58.343558,37.676222,12.699387,16.999530/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15257,7 +15314,7 @@ ger-lived than the .single. Tall men
 live longer than short ones. Women  
 have more chat ■ s of life previous t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769799:1867022001:0095/pct:84.273364,70.246327,12.831069,2.301210/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769799:1867022001:0095/pct:80.060382,66.735091,12.186085,2.171564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15307,7 +15364,7 @@ bust than ethers. Uirths and deaths are more
 frequent by night than by day. The number of  
 men capable oj neariii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewJC5n_ver01%2Fdata%2F1867022101%2F0216.jp2/pct:78.210881,86.868687,17.106001,20.992534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewJC5n_ver01%2Fdata%2F1867022101%2F0216.jp2/pct:58.679192,65.162495,12.829501,15.755380/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15361,7 +15418,7 @@ frequentW night than by, day. j The number of
   
 men caj?Die oi oeaiiu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewJC6n_ver01%2Fdata%2F1867022201%2F0062.jp2/pct:79.285338,15.648343,17.589662,17.850986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewJC6n_ver01%2Fdata%2F1867022201%2F0062.jp2/pct:59.480485,11.741046,13.198840,13.388240/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15417,7 +15474,7 @@ most freonent. t nfW thp
 that is, during the months of June and  
 T t r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_IndWarren1n_ver01%2Fdata%2F1867030601%2F0036.jp2/pct:77.366947,20.676815,17.198880,31.420436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_IndWarren1n_ver01%2Fdata%2F1867030601%2F0036.jp2/pct:58.025210,15.507611,12.899160,23.568065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15497,7 +15554,10 @@ and deaths are more frequent by night
 than by day. The number of men  
 capable of bearing arms is calculated at  
 one.fourth of the population
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_acis_ver01%2Fdata%2Fsn83032185%2F000001885%2F1867040601%2F0049.jp2/pct:70.815326,53.862547,10.542719,21.756793/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -15700,7 +15760,7 @@ ges are more frequently after the
 equinoxes: that is during the months  
 of Juue and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84026522:00296023140:1871052501:0085/pct:97.453434,94.908125,15.002910,22.636706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84026522:00296023140:1871052501:0085/pct:73.122817,71.208767,11.248545,16.991366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15787,7 +15847,7 @@ than the single, aud above all, those who
 observe a sober and industrious conduct.  
 Tall men live longer than shor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184418:1871101801:0134/pct:44.466825,29.267029,11.990521,9.764310/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184418:1871101801:0134/pct:44.454976,29.258396,11.990521,9.764310/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15829,7 +15889,7 @@ years of age. &#x27; There are &#x27;on earth 1,-
 ry day, 3,730 every hour, and 60 eve­  
 ry minute, or ono every socond. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_EagFay2n_ver01%2Fdata%2F1871101901%2F0120.jp2/pct:93.112103,68.779575,16.662019,12.061186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_EagFay2n_ver01%2Fdata%2F1871101901%2F0120.jp2/pct:69.841049,51.590184,12.493028,9.045890/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15899,7 +15959,7 @@ every second. The married are
 longer lived than the single, and  
 abov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775800:1871111001:0185/pct:114.996927,98.115430,13.045482,13.627797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775800:1871111001:0185/pct:86.263061,73.604240,9.787953,10.235571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15931,7 +15991,7 @@ hour, and CO every minute, or 1 every
 second. The married are longer-lived  
 than th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:0027955520A:1871112701:0512/pct:45.240375,48.225496,11.664432,8.456118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:0027955520A:1871112701:0512/pct:45.221222,48.212684,11.664432,8.456118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16146,7 +16206,7 @@ Births and deaths are more frequent
   
 by night than by day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194977:1872021901:0029/pct:83.360478,98.655914,14.902280,21.288255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194977:1872021901:0029/pct:62.540717,74.017783,11.197068,15.973945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16220,7 +16280,7 @@ The inhabitants of the globe jsrofess
 more than 1,000 different religions.  
 “Wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_arrowhead_ver01:data:sn84022060:0027955470A:1879062501:0598/pct:57.671616,54.748359,16.268560,5.572575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_arrowhead_ver01:data:sn84022060:0027955470A:1879062501:0598/pct:57.650097,54.733771,16.268560,5.572575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16303,7 +16363,7 @@ nrAvinna to fiftv vears of age than men
 r rf  
 have, but fewer alter waras. ine na
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SHomeChar4n_ver01%2Fdata%2F1880060401%2F0293.jp2/pct:41.764871,86.086390,16.905163,16.767962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SHomeChar4n_ver01%2Fdata%2F1880060401%2F0293.jp2/pct:31.327160,64.564793,12.682379,12.578685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16639,7 +16699,7 @@ ble of carrying arms is calculated ut one-
 fourth of the population.  
 Storm Calendar and W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dewitt_ver01:data:sn99021999:00206539616:1888102601:0981/pct:57.730496,87.094585,16.790780,22.811779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dewitt_ver01:data:sn99021999:00206539616:1888102601:0981/pct:43.315603,65.354865,12.606383,17.125797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16895,7 +16955,7 @@ by day, also deaths.
 The number of men capable of bearing,  
 arms is calculated at one-fourth of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_20210405Foo05_ver01%2Fdata%2Fsn96088450%2F14111410001%2F1888112701%2F0685.jp2/pct:77.473958,21.202977,25.000000,34.882317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_20210405Foo05_ver01%2Fdata%2Fsn96088450%2F14111410001%2F1888112701%2F0685.jp2/pct:58.105469,15.912291,18.750000,26.151680/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16978,7 +17038,7 @@ and December.
 mi  
 Joseph 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jughead_ver01:data:sn89066489:00294556643:1888112801:0033/pct:68.943606,45.497312,20.095314,39.529570/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jughead_ver01:data:sn89066489:00294556643:1888112801:0033/pct:51.707705,34.126344,15.091342,29.650538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17075,7 +17135,7 @@ more frequent by night than by day, also deaths.
 The number of men capable of tearing arms it  
 calculated at one-fourth of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00202191605:1888113001:0286/pct:67.855461,110.093610,18.149718,14.220594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00202191605:1888113001:0286/pct:50.906309,82.588523,13.618173,10.663411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17125,7 +17185,7 @@ year. 91.854 every day. 3.730 every hour,
 and GO every minute, or 1 every second.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895151:1888120301:0527/pct:35.109654,7.554923,9.592130,5.974395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895151:1888120301:0527/pct:35.089158,7.539118,9.592130,5.974395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17270,7 +17330,7 @@ the population.- New York Journal.
   
 From the Dist
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_PiCR27n_ver01%2Fdata%2F1888120601%2F0254.jp2/pct:61.486486,72.179501,24.309948,32.434425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_PiCR27n_ver01%2Fdata%2F1888120601%2F0254.jp2/pct:46.118459,54.145160,18.243243,24.344254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17490,7 +17550,7 @@ The number of men capable of
 bearing arms is calculated at one­  
 foiirth of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DRWilm22_ver01%2Fdata%2F1888121401%2F0563.jp2/pct:21.426380,28.956229,20.291411,28.461700/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DRWilm22_ver01%2Fdata%2F1888121401%2F0563.jp2/pct:16.073620,21.717172,15.214724,21.359428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17624,7 +17684,7 @@ men have more chances of - life In their
 men have, but fewer, afterward. Phila­  
 delphia CalL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ChCN141n_ver01%2Fdata%2F1888121801%2F0434.jp2/pct:44.015152,106.726873,15.696970,7.711011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ChCN141n_ver01%2Fdata%2F1888121801%2F0434.jp2/pct:33.015152,80.074100,11.772727,5.777469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17649,7 +17709,7 @@ favor previom to 0 years of age than
 men have, but fewcf afterward. Phila­  
 delphia Cal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmMess4n_ver01%2Fdata%2F1888122001%2F0541.jp2/pct:32.105696,115.098489,18.606243,8.519793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmMess4n_ver01%2Fdata%2F1888122001%2F0541.jp2/pct:24.082694,86.345382,13.951260,6.387455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17684,7 +17744,7 @@ favor previous to 50 years of age
 than men have, bnt fewer afterward  
 Philadelphia Call.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreensbDW6n_ver01%2Fdata%2F1888122201%2F0311.jp2/pct:26.163392,85.954703,22.802482,20.100661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreensbDW6n_ver01%2Fdata%2F1888122201%2F0311.jp2/pct:19.622544,64.517144,17.140641,15.083360/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17764,7 +17824,7 @@ single and above all those who
 observe a sober aud industrious conduct  
 Tall men live longer than short one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_foxtrot_ver01:data:sn86064205:00206536561:1888122601:0478/pct:65.870445,113.184812,18.502024,12.442203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_foxtrot_ver01:data:sn86064205:00206536561:1888122601:0478/pct:49.412955,84.923637,13.906883,9.331652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17785,7 +17845,7 @@ number of marriages is in the pro­
 portion of seventyfive to every 1000 indi­  
 viduals Marriages
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_foxtrot_ver01:data:sn86064205:00206536561:1888122601:0478/pct:85.384615,34.356172,18.137652,5.310354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_foxtrot_ver01:data:sn86064205:00206536561:1888122601:0478/pct:64.068826,25.767129,13.603239,3.993274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17813,7 +17873,7 @@ The married are longer-lived thai
 the single, and, above all, those whdhan  
 observe a sober and industriou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556849:1888122701:0429/pct:56.594724,83.103252,17.700839,8.819167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556849:1888122701:0429/pct:42.446043,62.327439,13.279376,6.617228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17996,7 +18056,7 @@ The number of men capable of
 hearing arms is calculated at ono­  
 fourtli of the population
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588307:1888122901:1156/pct:101.712028,84.548324,17.822651,33.067789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588307:1888122901:1156/pct:78.819140,65.519315,13.827919,25.627536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18131,7 +18191,7 @@ The number of men of bear.
 ing arms is calculated at one-fourth  
 of the population
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_centrereporter1_ver01%2Fdata%2Fsn83032058%2F13362145%2F1889010301%2F00002.jp2/pct:101.699561,77.944215,17.744883,28.189566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_centrereporter1_ver01%2Fdata%2Fsn83032058%2F13362145%2F1889010301%2F00002.jp2/pct:78.819444,60.408058,13.742690,21.849174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18297,7 +18357,7 @@ men capable of bearing arms is calcu­
 lated at one-fourth of the population.—  
 [Golden Argosy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_bullfrog_ver01:data:sn84022060:00332890530:1889010701:0023/pct:26.600877,5.681983,17.171053,25.670387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_bullfrog_ver01:data:sn84022060:00332890530:1889010701:0023/pct:26.578947,5.667488,17.171053,25.670387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18369,7 +18429,7 @@ To 1,000 persons only one reaches 100
 years of life; to every 100 only six reach  
 tho age of G
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286625:1889011001:0128/pct:46.850394,113.802227,18.609933,14.221144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286625:1889011001:0128/pct:31.238643,75.879175,12.401575,9.480763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18401,7 +18461,7 @@ of life; to every 100 only six reach the ago
 of sixty-five, and not more than one in 500  
 lives to eighty years
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:0029587031A:1889011301:0127/pct:92.654462,67.016789,16.704805,10.848041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:0029587031A:1889011301:0127/pct:69.508009,50.271201,12.528604,8.136031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18775,7 +18835,7 @@ The number of men capable of heating
 arms Is calculated nt nne-fourth of tb  
 population
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287903:1889011901:0478/pct:96.600418,77.369439,14.400279,24.854932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287903:1889011901:0478/pct:72.472106,58.040895,10.808926,18.651561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18836,7 +18896,7 @@ hearing arms is calculated at one­
 fourth of the population.—Chicago  
 Journal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1889012301:0437/pct:55.233979,13.877831,25.540312,82.470830/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1889012301:0437/pct:55.215185,13.864104,25.540312,82.457104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18857,7 +18917,7 @@ hour and sixty every minute or
 one every second.  
 BETTER TUA.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_greengear_ver01:data:sn96061150:00200297921:1889012301:0072/pct:40.782933,102.202508,16.507871,8.213521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_greengear_ver01:data:sn96061150:00200297921:1889012301:0072/pct:30.592378,76.705414,12.406794,6.163965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19022,7 +19082,7 @@ capable of-bearing arms is calcu- j
 lated at cne-fourth of the popula-  
 tion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat33n_ver01%2Fdata%2F1889013101%2F0017.jp2/pct:92.993388,80.356420,28.853001,28.898339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat33n_ver01%2Fdata%2F1889013101%2F0017.jp2/pct:69.773652,60.287566,21.642930,21.688943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19084,7 +19144,7 @@ bearing arms is calculated at one­
 fourth of the population.—Chica­  
 go Journal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_epidote_ver01:data:sn85032971:0051699051A:1889013101:0874/pct:59.658600,66.005041,11.776145,30.702583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_epidote_ver01:data:sn85032971:0051699051A:1889013101:0874/pct:59.636992,65.989288,11.776145,30.686830/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19211,7 +19271,7 @@ lated at one-fourth of the population.
 Golden Argosy.  
 Hints for Hie Housewife.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_chelsea_ver01:data:sn85038709:00415669276:1889020801:0163/pct:97.437426,80.570081,21.513707,32.308008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_chelsea_ver01:data:sn85038709:00415669276:1889020801:0163/pct:64.973182,53.737312,14.362336,21.552343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19703,7 +19763,7 @@ every second.
 The married are longer lived than  
 th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn85032814:00237283259:1889030701:0482/pct:98.544521,111.789499,20.993151,11.223507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn85032814:00237283259:1889030701:0482/pct:65.702055,74.542389,13.989726,7.478324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19724,7 +19784,7 @@ sixty every minute or one every
 secoad.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kay_ver01:data:sn85033964:00296020564:1889030701:0465/pct:3.847207,32.176139,13.061336,6.359447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kay_ver01:data:sn85033964:00296020564:1889030701:0465/pct:2.888828,24.137225,9.802848,4.782386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19824,7 +19884,7 @@ months of Juno and Docomber. Chris­
 tian Union.  
 Vnluo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_papa_2_ver01%2Fdata%2Fsn93051670%2F00033877420%2F1889032101%2F0216.jp2/pct:48.168790,62.299834,19.187898,25.704031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_papa_2_ver01%2Fdata%2Fsn93051670%2F00033877420%2F1889032101%2F0216.jp2/pct:36.146497,46.755936,14.390924,19.284925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20115,7 +20175,7 @@ oapable of bearing arms is calculated at
 one-fourth of the population. Golden  
 Argosy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023036:1889040501:0488/pct:39.520132,46.503159,16.781577,23.048088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023036:1889040501:0488/pct:29.646994,34.882725,12.589630,17.286066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20344,7 +20404,7 @@ Dr. Young J. Allen, one of the
 most experienced and useful missionaries-  
 in China (in a letter fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BurCN23n_ver01%2Fdata%2F1889041801%2F0458.jp2/pct:12.278481,35.028313,18.512658,35.934315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BurCN23n_ver01%2Fdata%2F1889041801%2F0458.jp2/pct:9.208861,26.285391,13.892405,26.964892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20512,7 +20572,7 @@ calculated at oue-fourth of the population.
   
 Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_gorham_ver01:data:sn84022565:00332895692:1889051601:0100/pct:63.970870,53.037184,10.042162,13.128016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_gorham_ver01:data:sn84022565:00332895692:1889051601:0100/pct:63.951706,53.022992,10.042162,13.128016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20660,7 +20720,7 @@ The married are longer lived than
 the single, mid, above nil, those who  
 observe 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890372:1889052901:0088/pct:18.782767,67.391657,15.682699,9.203051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890372:1889052901:0088/pct:18.759973,67.375426,15.682699,9.186820/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20856,7 +20916,7 @@ years of age. There are on the earth 1,000,000,­
 year, 91,824 every day, 3,730 every hour, and  
 sixty every minute, or one every second.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1889071101:0140/pct:50.942285,87.621525,21.063997,6.066000/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1889071101:0140/pct:50.922654,87.594139,21.063997,6.066000/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20911,7 +20971,7 @@ of men capable of bearing arms is
 calculated at one fourth of the  
 f population
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_iceman_ver01:data:sn88064119:00280761837:1889082301:0179/pct:64.677804,10.698925,16.570065,85.129032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_iceman_ver01:data:sn88064119:00280761837:1889082301:0179/pct:64.660757,10.688172,16.553017,85.107527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20932,7 +20992,7 @@ liter equinoxes—that is, during tho
 months of Juno and December.—Chris­  
 dan Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890372:1889100201:0160/pct:19.258754,77.752443,15.916326,5.211726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890372:1889100201:0160/pct:19.236016,77.719870,15.916326,5.211726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21078,7 +21138,7 @@ as are deaths. The number of men
 capable of bearing arms is calculat­  
 ed at one-fourth the population
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jughead_ver01:data:sn89066489:00294556643:1890010101:0513/pct:42.282697,19.308970,20.430544,33.700997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jughead_ver01:data:sn89066489:00294556643:1890010101:0513/pct:31.722177,14.485050,15.353371,25.289037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21176,7 +21236,7 @@ men capable of bearing arms is cal*
 culated at one-fourth of the popula­  
 tion.—Excha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_emerald_ver02:data:sn87065614:00383343793:1890052901:0895/pct:50.265090,8.413358,42.618271,82.915293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_emerald_ver02:data:sn87065614:00383343793:1890052901:0895/pct:50.244698,8.399025,42.618271,82.900960/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21220,7 +21280,7 @@ riages is in the Dronortinn nf aavantv
 five to 1,000 individuals. Those born  
 in the spring are generally of a more
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AnsWade5n_ver01%2Fdata%2F1890061901%2F0351.jp2/pct:5.877294,67.275709,14.506881,17.498243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AnsWade5n_ver01%2Fdata%2F1890061901%2F0351.jp2/pct:4.415138,50.468494,10.880161,13.141251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21273,7 +21333,7 @@ persons, seldom one reaches 100
 years of life; of every 100, only six  
 reach the age of sixty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_epidote_ver01:data:sn85032971:00516990521:1890091101:0149/pct:18.068470,19.426501,11.221471,7.830471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_epidote_ver01:data:sn85032971:00516990521:1890091101:0149/pct:18.047337,19.410745,11.221471,7.830471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21511,7 +21571,7 @@ robust than others. Births and deaths are
 more frequent by night than hy day.  
 W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_easton_ver01:data:sn85025407:00279522126:1891032001:0235/pct:35.608359,33.350562,14.088305,19.214369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_easton_ver01:data:sn85025407:00279522126:1891032001:0235/pct:27.586788,25.843132,10.920121,14.898566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21598,7 +21658,7 @@ capable of bearing arms is calculated
 at one-fourth ot the population.  
 Fell an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066818:00200292327:1891052301:0081/pct:64.510097,52.818610,13.836948,23.933210/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066818:00200292327:1891052301:0081/pct:48.410621,39.631797,10.377711,17.967747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22070,7 +22130,7 @@ and sixty every mlante, or one every
   
 INVENTION OF SCHOONER
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2018270201:0027952813A:1898020301:0332/pct:67.289314,9.709580,36.424848,115.127872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2018270201:0027952813A:1898020301:0332/pct:50.499566,7.282185,27.324066,86.374801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

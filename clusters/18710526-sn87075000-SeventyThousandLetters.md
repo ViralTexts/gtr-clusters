@@ -190,7 +190,7 @@ often quoted in favor of the &quot; rod,&quot;
 would prove to have meant &quot; Spare the  
 rod, and save the child.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776075:1871033001:0400/pct:110.059613,92.486683,16.430700,9.924306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776075:1871033001:0400/pct:82.581967,69.400056,12.332340,7.457247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ daily accumulate in the New York Post
 .Office. . .  
 The censu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075000:00237286923:1871052601:0153/pct:7.949232,94.172553,14.696059,20.396065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075000:00237286923:1871052601:0153/pct:5.961924,70.660949,11.038744,15.312815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -83,7 +83,7 @@ Hay. &#x27;Well, I don&#x27;t know,&#x27; mid the urchin,
 pausing a moment, with the gravest countenance  
 imaginable, &#x27;unltvs he hvllrnd &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1844062201:0817/pct:46.968534,111.905788,19.915579,11.273876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1844062201:0817/pct:35.226401,83.943702,14.946278,8.458998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -109,7 +109,7 @@ imaginable, &quot; unless he hollowed .&#x27;! -,.
 GENERAL JACKSON,  
 Alain farme
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalReg6n_ver01%2Fdata%2F1844080601%2F0249.jp2/pct:3.128672,84.786211,19.873678,12.274887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalReg6n_ver01%2Fdata%2F1844080601%2F0249.jp2/pct:2.350176,63.595183,14.908931,9.203403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -153,7 +153,7 @@ Boy&quot; Well, I don&#x27;t know,&quot; eaid the urchin
 pausing a moment, withlthe gravest countenance  
 imaginable, unless he hollowed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WhigCR1n_ver01%2Fdata%2F1844082101%2F0246.jp2/pct:102.185583,87.724317,29.447853,35.786736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WhigCR1n_ver01%2Fdata%2F1844082101%2F0246.jp2/pct:76.687117,65.825748,22.085890,26.866060/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ Alt o&#x27;er from snout to tail O, &#x27; , -
 Will make poor Jemmy think he&#x27;s been i i ,  
 A riding on a. rail O.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OxMerc4n_ver01%2Fdata%2F1844082301%2F0101.jp2/pct:56.060606,106.729516,20.726129,14.712667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OxMerc4n_ver01%2Fdata%2F1844082301%2F0101.jp2/pct:42.066895,80.082238,15.551744,11.031993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

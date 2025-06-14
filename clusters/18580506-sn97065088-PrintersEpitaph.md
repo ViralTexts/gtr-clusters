@@ -68,7 +68,7 @@ t urn oui, me xype is inrown to pi again
 The impression lives through an eternal ,ae  
 &quot;Dear Sir, I am sorry that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1854102501:0318/pct:33.610272,93.104565,17.779456,9.474479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1854102501:0318/pct:25.211480,69.850005,13.353474,7.122046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -123,7 +123,7 @@ Worn out, the type is thrown to pi again, &#x27;
 &#x27; The impression lives through aa eternal  
 Sf H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1854110201:0435/pct:67.219388,103.157103,18.223852,7.792533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1854110201:0435/pct:50.430485,77.386620,13.679847,5.863192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ Whose impress is the spirit’s deathless page;
 Worn out, the tyjie is thrown to pi agaii). -  
 Ths impression lives through an eternal ag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171992:1854110301:0990/pct:41.243264,120.660920,12.933025,5.517241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171992:1854110301:0990/pct:31.966898,93.505747,10.007698,4.281609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ Whoae imprest is tiie spirit&#x27;) deathlee page,
 Worn out, the type is thrown to pi sguin,  
 The impression lives thro&#x27; an eternal age
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1854111001:0389/pct:23.533671,6.283481,16.039102,6.544086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1854111001:0389/pct:17.650253,4.719849,12.038378,4.908064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ My First Home and my Last.
 BY AN INVALID.  
 Out of my firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895667:1854112301:0399/pct:6.261963,19.784284,12.400875,8.012327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895667:1854112301:0399/pct:6.248291,19.774011,12.400875,8.012327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,10 @@ Worn &#x27;out, the tips is thrown to pl again,
 The impress lives through an eternal age.  
   
 I
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fauna_ver01%2Fdata%2Fsn85038381%2F000002396%2F1854120101%2F0142.jp2/pct:16.891065,86.675000,11.515708,5.064286/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -354,7 +357,10 @@ The body&#x27;s but the typo at beet, of man,
 Whose impress is the spirit&#x27;s deathless page;  
 Worn out, the type is thrown to pi again—.  
 Thy tbz
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_epona_ver01%2Fdata%2Fsn86071456%2F000002320%2F1854120601%2F0187.jp2/pct:70.572304,91.789819,12.764593,5.429313/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -454,7 +460,7 @@ The impression lives through an eternal age.
 A Frist Eate Hit.  
 If ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82015827:00212472815:1855051501:0055/pct:103.465623,73.970769,19.438234,9.148723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82015827:00212472815:1855051501:0055/pct:68.977082,49.313846,12.968139,6.102867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +508,7 @@ Worn out, the type is thrown to pi again,
 The impression lives to an eternal age.  
 From the Newbern Journa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AmAdKin1n_ver01%2Fdata%2F1855083001%2F0046.jp2/pct:12.295082,58.229629,17.114189,8.559680/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AmAdKin1n_ver01%2Fdata%2F1855083001%2F0046.jp2/pct:9.228378,43.685748,12.832109,6.417054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -593,7 +599,7 @@ The impression lives through an eternal age
 READ THIS!  
 I.atest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348781:1856102501:0175/pct:3.635716,60.948264,12.849759,15.331622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348781:1856102501:0175/pct:3.617893,60.934756,12.849759,15.318114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -686,7 +692,7 @@ thus hits off the recent movements of the
 authorities against Kossuth. A neator thing  
 wo have never seen. It will b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn91054100:00514151003:1856122701:0273/pct:9.454449,37.183780,14.353814,9.319196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn91054100:00514151003:1856122701:0273/pct:9.427966,37.165179,14.353814,9.319196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -709,7 +715,7 @@ Whose impress is the spirit’s deathless page,
 \i orn . ill, the lone is thrown to pi again,  
 The impression lives through an eternal ape.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1857011301:0646/pct:16.112084,24.010976,10.785172,5.705465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1857011301:0646/pct:15.294804,22.810428,10.259778,5.419620/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -733,7 +739,7 @@ Won out, the type is throwto pi again,
 The impression lives through an eternal age.  
 Presen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474228:1857032601:0193/pct:5.815749,27.985006,16.405044,7.423661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474228:1857032601:0193/pct:4.361812,20.991040,12.313433,5.567745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -753,7 +759,7 @@ shooter in his hand was asked:
 Somebody says tho ladies do not set  
 their caps for the gentlemen any mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1857070101:1196/pct:11.018809,63.134281,25.203762,7.830360/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1857070101:1196/pct:7.351097,42.100203,16.802508,5.223801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -801,7 +807,7 @@ The impression lives through an eternal age.
   
 -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1857091601:1237/pct:37.087039,43.639880,24.650572,10.045122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1857091601:1237/pct:24.729987,29.093253,16.439009,6.714654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -917,7 +923,7 @@ Worn out, the type is thrown iopi again,
 The impression Iirei through en tiers al  
 age.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn97065088:00212470478:1858050601:0473/pct:84.092726,94.901117,20.043965,31.212162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn97065088:00212470478:1858050601:0473/pct:63.089528,71.222925,15.067946,23.422575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1110,7 +1116,7 @@ B’orn out. the type is thrown to pi again;
 The impression lives through an eternal age.  
 The 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_keres_ver01:data:sn83020847:00517171323:1874030601:0910/pct:43.641292,73.276296,17.709510,6.425096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_keres_ver01:data:sn83020847:00517171323:1874030601:0910/pct:33.815225,56.785774,13.733906,4.965610/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1189,7 +1195,7 @@ Where ten men will oheerfully lay
 down their lives for a woman, only one  
 will carry her a scuttle of coal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RockMtM2n_ver01%2Fdata%2F1875092401%2F0025.jp2/pct:108.077261,19.033184,17.339772,21.665603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RockMtM2n_ver01%2Fdata%2F1875092401%2F0025.jp2/pct:81.057946,14.278877,13.015803,16.257179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1236,7 +1242,7 @@ down their lives for a woman, only one
 will carry her a scuttle of coal.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763815:1875092401:0386/pct:111.236780,20.016349,14.791422,20.518510/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763815:1875092401:0386/pct:83.445946,15.018101,11.089894,15.391802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1357,7 +1363,7 @@ Whose impress ia the spirit&#x27;a deatnieas page ;
 Worn out, tbe type is thrown to pi again  
 Ihe impression bves through an eteanaJag.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283612:1875111101:0192/pct:113.253574,46.730364,14.045991,39.111552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283612:1875111101:0192/pct:84.944065,35.053977,10.534493,29.333664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1396,7 +1402,7 @@ to your friends! You’ll find them cool
 enough... I lie art of life is to know  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187158:1876031701:0209/pct:29.114907,78.326136,12.784679,13.962575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187158:1876031701:0209/pct:29.101967,78.315854,12.784679,13.952293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1503,7 +1509,7 @@ plated visit. Had Mr. C. gone he probably 1
 u til I have taken the fated train on returning, j  
 The premonition was certainly remarkable.— 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:004141867018:1876032501:0256/pct:31.461494,36.000847,12.675029,9.304541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:004141867018:1876032501:0256/pct:31.446908,35.990261,12.675029,9.304541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1541,7 +1547,7 @@ Statesman.
 Th* above has been severely criticised  
 by the V
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:0039334846A:1876033001:0258/pct:30.567057,39.034231,12.097210,12.859560/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:0039334846A:1876033001:0258/pct:30.549055,39.021216,12.097210,12.859560/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1579,7 +1585,7 @@ markable.—Martinsburg Statesman.
 The papers have made a good deal of  
 sport of this dream from the faq
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349529:1876033101:0235/pct:60.545080,64.603898,10.964982,10.339155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349529:1876033101:0235/pct:60.529235,64.591243,10.964982,10.339155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1692,7 +1698,7 @@ To be dWnbuteJ to dust again.
 The body ’« but a type. at best, of man.  
 Whose impiw* is the spirit&#x27;s deathless pag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159245:1897052701:1039/pct:4.997037,100.110147,18.645072,5.768966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159245:1897052701:1039/pct:3.871223,77.571252,14.418329,4.474735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

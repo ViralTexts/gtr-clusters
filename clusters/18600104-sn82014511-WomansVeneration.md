@@ -263,7 +263,7 @@ genuine hero who never wooed them, except
 by heroic deeds and the rhetoric of a noble  
 life.1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027133:1859102601:0605/pct:20.207254,104.644525,14.944948,10.378827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027133:1859102601:0605/pct:15.155440,78.489881,11.220855,7.797094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -412,7 +412,7 @@ the. feet of a genuine hero, who never wooed
 them, except by heroic deeds aud the rhetor  
 icof a noble lif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775393:1859112401:0081/pct:42.791971,86.381696,16.441606,9.110837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775393:1859112401:0081/pct:32.098540,64.789697,12.335766,6.836553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ to prostrate themselves at the feet of a genuin*
 hero who never wooed them, except by heroic  
 deeds and the rhetoric of a noble life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_iris_ver01:data:sn83020847:00517171475:1859121701:1234/pct:105.886144,88.877151,18.431794,7.847872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_iris_ver01:data:sn83020847:00517171475:1859121701:1234/pct:82.062299,68.880169,14.264232,6.082101/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1184,7 +1184,10 @@ from the flattery of admirers to prostrate them­
 selves at the feet of a genuine hero who never  
 would woo them except by heroic deeds and the  
 rhetoric of a ncble life.— Jfrutier&#x27;
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_madisonj_ver01%2Fdata%2Fsn84026595%2F000001706%2F1860022301%2F0029.jp2/pct:19.798961,66.543149,15.072284,29.916008/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1456,7 +1459,10 @@ lkevpr so rough inthehaiWthey catch
 fcetaf a gelinine hero who never &#x27;would woo,  
 :them ekoept bt. oroic deeda - and the rhetoric  
 Of ti-nolledife:
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001836%2F1860042501%2F0055.jp2/pct:68.223042,69.287388,11.819813,23.963674/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1935,7 +1941,10 @@ from the flattery of admirers to prostrate
 themselves at tho feet of a genuine hero, who  
 never wooed them, except by heroic deeds  
 and tho rhetoric of noble life.— The Minister’
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001741%2F1861120501%2F0177.jp2/pct:43.558199,15.888186,24.536953,78.169014/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2029,7 +2038,7 @@ makers of silver shrines for some divinity
 or other, which, of course, they always  
 think fell straight down from heaven
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026724:1867051601:0082/pct:75.509434,43.347348,16.603774,6.822189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026724:1867051601:0082/pct:56.660377,32.510511,12.452830,5.140377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2052,7 +2061,7 @@ even before the sound of cornet, flute,
 harp, sackbut, and so forth,&quot; where the  
 mos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026724:1867051601:0082/pct:75.509434,50.196664,16.641509,7.418961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026724:1867051601:0082/pct:56.660377,37.664451,12.471698,5.560830/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2071,7 +2080,7 @@ feet of a genuine hero, who never
 moved them except by heroic deeds and  
 the rhetoric of a noble life&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026724:1867051601:0082/pct:75.547170,57.032416,16.641509,4.394412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026724:1867051601:0082/pct:56.679245,42.791265,12.490566,3.295809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2092,7 +2101,7 @@ throwing oat fluttering tendrils every­
 where for somethiug high and strong to  
 climh b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026724:1867051601:0082/pct:75.584906,66.892717,16.584906,6.062661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026724:1867051601:0082/pct:56.716981,50.183101,12.433962,4.557168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2159,7 +2168,7 @@ at the feet of a irenuine hero, who never
 wooed theni;ureenthy heroin deeds and the  
 rhetoric ot noble lire. 2
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868012601:0091/pct:22.508691,96.314173,14.310545,30.199649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868012601:0091/pct:16.888760,72.257569,10.732908,22.663449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2296,7 +2305,7 @@ deeds and the rhetoric of noble life.-
   
 &quot;pie Mtnistir&#x27;i Wooing.1 y .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774753:1868020501:0399/pct:26.804485,63.048149,16.415557,40.123847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774753:1868020501:0399/pct:20.112123,47.301908,12.316048,30.102363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2439,7 +2448,10 @@ trate themselves at the feet of a genuine hero,
 who never wooed them, except by heroic  
 deeds and the rhetoric of noble life.  
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_dianaNemorensis_ver01%2Fdata%2Fsn84026016%2F000002136%2F1868021301%2F0054.jp2/pct:27.198457,24.959283,6.854992,24.653909/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2683,7 +2695,10 @@ selves at tho feet of n genuine hero,&#x27; who
 never wooed them, except by heroic deeds  
 and the rhetoric of noble life. —The Min­  
 isfrr&#x27;n Wooiny,
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001748%2F1868032601%2F0049.jp2/pct:82.196763,14.141077,10.460993,24.985165/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2755,7 +2770,7 @@ the lcetot.a genuine hero, who never
 wooed them, except by heroic deeils and  
 the rhetoric ot noble lite.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775174:1868032801:0167/pct:53.941980,14.023819,20.529010,114.398501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775174:1868032801:0167/pct:40.460751,10.517864,15.392491,85.815603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2832,7 +2847,7 @@ of a genuine hero, who never wooed
 them except by heroic deeds and the  
 rhetoric of noble life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774972:1868042401:0149/pct:50.414286,57.162026,13.014286,37.772560/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774972:1868042401:0149/pct:37.814286,42.882702,9.757143,28.335011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3405,7 +3420,7 @@ Hero, who never wooed them oxcept by he­
 roin deeds and the rholorio if a noble life.  
 N
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_alpha_ver01%2Fdata%2Fsn85042522%2F00033872199%2F1875061801%2F0397.jp2/pct:10.235235,31.035671,22.747748,9.184904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_alpha_ver01%2Fdata%2Fsn85042522%2F00033872199%2F1875061801%2F0397.jp2/pct:7.682683,23.298294,17.067067,6.892986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3433,7 +3448,7 @@ ever so rough in the bark, they catch upon
   
 it, and clin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilMir1n_ver01%2Fdata%2F1888020801%2F0175.jp2/pct:72.298177,95.312008,46.582031,6.554798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilMir1n_ver01%2Fdata%2F1888020801%2F0175.jp2/pct:54.248047,71.504982,34.928385,4.918721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3468,7 +3483,7 @@ nth of February. The Rev. Mr. Summer­
 ell will preach that night and those who  
 have had the pleasure of hearin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilMir3n_ver01%2Fdata%2F1890020501%2F0037.jp2/pct:96.653543,43.406243,23.392388,24.368231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilMir3n_ver01%2Fdata%2F1890020501%2F0037.jp2/pct:72.506562,32.565300,17.552493,18.284137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -208,7 +208,7 @@ the fruits of their labor.”
 There is evident candor in this remark.  
 It was not made fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769726:1871062901:0095/pct:27.577783,64.916367,11.365390,8.363328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769726:1871062901:0095/pct:26.189252,61.666314,10.799691,7.950455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ I !r SV and forrJbf. Pro,,lotlon of the interests
 of both races.—[X. Y. Times.  
 tIlol&quot;n!a|[conclave of the gran
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_aragonite_ver01:data:sn82014367:00513688350:1871080701:0706/pct:14.279801,9.879921,26.221026,87.840097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_aragonite_ver01:data:sn82014367:00513688350:1871080701:0706/pct:14.259106,9.864721,26.221026,87.824897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

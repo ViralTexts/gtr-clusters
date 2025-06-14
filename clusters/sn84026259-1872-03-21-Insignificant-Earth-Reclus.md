@@ -62,7 +62,7 @@ astounding facts, and demonstrated tho
 laws which govern universal nature !  
 Paiu and li
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776075:1872032101:0601/pct:38.831361,40.209937,16.420118,24.366690/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776075:1872032101:0601/pct:29.123521,30.160952,12.315089,18.278516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ such astounding facts, mid demon­
 strated the laws which govern uni­  
 versal nature 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_alpha_ver01%2Fdata%2Fsn85042522%2F00033872207%2F1872040601%2F0088.jp2/pct:40.062435,81.252262,88.657648,35.975389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_alpha_ver01%2Fdata%2Fsn85042522%2F00033872207%2F1872040601%2F0088.jp2/pct:30.046826,60.984437,66.545265,26.999638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ and demonstrated theJaws which govern univer­
 sal nature!  
 Marbleized Glas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_keres_ver01:data:sn83020847:00517171323:1872041201:0118/pct:87.127371,83.967529,18.879855,20.294267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_keres_ver01:data:sn83020847:00517171323:1872041201:0118/pct:67.524842,65.076949,14.634146,15.711145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ seems lost amid the eighteen millions of
 stars which Ilerschel&#x27;s telescope discerned  
 in the Milky Way; th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197590:1872071101:0450/pct:79.437952,15.953008,30.314413,109.980237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197590:1872071101:0450/pct:59.599332,11.967501,22.746244,82.520861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -462,7 +462,7 @@ human brain, to have ascertained
 such astounding facta, and tlecion-  
 jjjiraieu. tu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195301:1872102601:0564/pct:63.561503,113.700868,14.359238,11.036243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195301:1872102601:0564/pct:47.683994,85.308831,10.769429,8.279735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,7 +537,7 @@ versal nature I
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470119:1872110101:0611/pct:67.843866,19.978022,18.122677,107.703297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470119:1872110101:0611/pct:50.889538,14.989011,13.595327,80.791209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -612,7 +612,7 @@ ing facts, and demonstrated tlie laws
 which govern universal nature.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028821:00280775484:1872120501:0581/pct:60.896095,115.697443,12.970711,13.922374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028821:00280775484:1872120501:0581/pct:45.676430,86.792953,9.728033,10.438469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -644,7 +644,7 @@ such astounding facts, and demonstra
 ted tbe laws which govern universal  
 natur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286856:1873010101:0321/pct:21.178837,54.800404,12.577351,10.181910/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286856:1873010101:0321/pct:15.887995,41.106620,9.436881,7.630116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -677,7 +677,10 @@ Way. What incomprehensible organ
 the human brain, to have ascertained  
 Th”rlow Weed, standing by the coflin such astounding facts, and demonstrated  
 of Greeley said he could not remember the laws which govern universal B84air
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_jacksonvilleboosters_20210525DiamondUnicornTramplingKelp_ver01%2Fdata%2Fsn84022655%2Fprint%2F1873010401%2F0001.jp2/pct:62.765957,69.023429,27.541371,10.698735/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -708,7 +711,7 @@ tounding facts, and demonstrate the
 laws which govern universal nature.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280532:1873091101:0057/pct:95.962567,119.235028,15.280749,10.830398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280532:1873091101:0057/pct:72.005348,89.461500,11.457219,8.122798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

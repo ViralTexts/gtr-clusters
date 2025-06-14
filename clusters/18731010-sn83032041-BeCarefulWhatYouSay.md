@@ -93,7 +93,7 @@ Our chickens, &quot;roost at home ;&quot;
 Don&#x27;t speak of others&#x27; faults until  
 We have non of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477692:1873101001:0560/pct:105.926724,24.969310,16.641010,24.109993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477692:1873101001:0560/pct:79.448892,18.733121,12.484606,18.082494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ Our chickens, !roo&#x27;st at home ; f
 Don&#x27;t fcpealt of others fault&#x27;.- uutil  
 We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_EagFay2n_ver01%2Fdata%2F1874102201%2F0279.jp2/pct:7.292240,35.547261,15.327463,20.551103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_EagFay2n_ver01%2Fdata%2F1874102201%2F0279.jp2/pct:5.476059,26.665935,11.502477,15.424306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ Our ehickens, &quot;roost at home.&#x27;
 Don&#x27;t speak of others faults until  
 We hare none of onr own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665817:1875011401:0010/pct:9.008338,11.564212,13.162597,17.967133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665817:1875011401:0010/pct:6.759976,8.679245,9.871948,13.475350/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,7 +537,7 @@ Like our chickens, &quot;roost at home;&quot;
 Don&#x27;t speak of others&#x27; faults until  
 We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029014:1875012101:0370/pct:8.990148,35.672590,13.423645,14.489558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029014:1875012101:0370/pct:6.742611,26.760929,10.067734,10.870411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -669,7 +669,7 @@ We have none of our own.
   
 I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470387:1875040801:0449/pct:67.670517,27.581685,14.672717,22.882745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470387:1875040801:0449/pct:50.756326,20.686264,11.014851,17.167523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -717,7 +717,7 @@ We have none of our own.
   
 I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029014:1875052001:0434/pct:67.512151,19.805825,13.441677,16.090615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029014:1875052001:0434/pct:50.637910,14.860841,10.085055,12.064725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -866,7 +866,7 @@ Our chiekons, &quot;roost at heme
 Don&#x27;t speak of others&#x27; fnulls, until  
 We have none of our ow.i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn85033549:00296023966:1875071401:0111/pct:64.396655,71.184669,12.813620,12.404181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn85033549:00296023966:1875071401:0111/pct:42.936081,47.468060,8.557348,8.269454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -914,7 +914,7 @@ Don&#x27;t speak of others&#x27; faults until
 We have none of our own.  
 Hom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SHomeChar2n_ver01%2Fdata%2F1875090601%2F0532.jp2/pct:39.166667,47.348021,16.055556,20.716034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SHomeChar2n_ver01%2Fdata%2F1875090601%2F0532.jp2/pct:29.375000,35.516116,12.041667,15.544676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -960,7 +960,7 @@ Our chickens &quot;roost at home ;&quot;
 Don&#x27;t npeak of other&#x27;s faults until  
 We have known our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292170:1875121701:0966/pct:5.669050,9.300711,21.322778,28.006247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292170:1875121701:0966/pct:4.264556,6.975534,15.985700,21.030713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1056,7 +1056,7 @@ Our chickens, &quot;roost at home;&quot;
 Don&#x27;t speak of others&#x27; faults until  
 We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022998:1876011701:0224/pct:44.490132,19.504028,18.379934,25.907712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022998:1876011701:0224/pct:33.388158,14.628021,13.788377,19.451711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1201,7 +1201,7 @@ Our chickens, “roost at home,”
 Don’t speak of others&#x27; faults until  
 W&#x27;e have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1876030201:0243/pct:16.296995,13.693252,9.957527,13.717791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1876030201:0243/pct:16.281265,13.680982,9.957527,13.717791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1341,7 +1341,7 @@ We have none of oar own.
 HIS OWN MEDICINE.  
 The Story of a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763827:1876101301:0184/pct:37.967223,21.479077,13.599770,26.022951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763827:1876101301:0184/pct:28.479011,16.112206,10.207016,19.520111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1571,7 +1571,7 @@ Don’t speak of other’s faults until
 We have none of our own.  
 THE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1877011101:0231/pct:39.971550,27.335867,8.801565,16.354344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1877011101:0231/pct:39.953770,27.322762,8.801565,16.354344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1668,7 +1668,7 @@ Don’t speak of other’s faults until
 We have none of our own.  
 GO:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:0039334846A:1877012501:0412/pct:29.367962,14.391928,9.825645,12.201275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:0039334846A:1877012501:0412/pct:29.349800,14.378651,9.825645,12.201275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2001,7 +2001,7 @@ Bon&#x27;t speak of others&#x27; faults until
   
 You&#x27;ve tried to sec your own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn2001063144:00295876475:1877032801:0184/pct:99.259897,5.498859,10.929432,14.179373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn2001063144:00295876475:1877032801:0184/pct:86.850258,4.802497,9.552496,12.414456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2048,7 +2048,7 @@ Don’t speak of other’s faults until
 W o have none of our own.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187158:1877040601:0417/pct:17.095132,5.055358,12.893123,19.897639/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187158:1877040601:0417/pct:17.082083,5.044913,12.893123,19.897639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2111,7 +2111,7 @@ Don&#x27;t speak of other&#x27;s faults until
 We have none of our own.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022998:1877041301:0496/pct:25.610403,20.613775,40.432590,105.624630/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022998:1877041301:0496/pct:19.214437,15.462799,30.321125,79.228340/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2159,7 +2159,7 @@ Like our chickeru?, &quot;roost at home.&quot;
 Don&#x27;t speak of others&#x27; faults until  
 We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026034:00280774996:1877041301:0292/pct:45.947489,20.231916,12.014840,19.061292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026034:00280774996:1877041301:0292/pct:34.460616,15.173937,9.018265,14.301491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2222,7 +2222,7 @@ Don&#x27;t s|eak of others&#x27; faults until
   
 We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919933:1877041901:0063/pct:7.060371,10.315058,10.846367,16.100460/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919933:1877041901:0063/pct:6.168689,9.025676,9.501535,14.093508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3303,7 +3303,7 @@ roost at home ; doo’t speak of oth­
 ec’s faults until youv&#x27;e tried to seol  
 your own,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177283:1880090201:0841/pct:73.340395,40.967337,15.607345,21.570352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177283:1880090201:0841/pct:56.832627,31.746231,12.093927,16.708543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3447,7 +3447,7 @@ Don&#x27;t speak ol others faults until
   
 j ou ve tried to see your own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat64n_ver01%2Fdata%2F1882121501%2F0280.jp2/pct:15.996827,19.350863,21.628768,76.006574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat64n_ver01%2Fdata%2F1882121501%2F0280.jp2/pct:12.004231,14.513147,16.221576,57.004930/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3497,7 +3497,7 @@ Don&#x27;t speak of others&#x27; faults until
 We have none of our own.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_alpha_ver01%2Fdata%2Fsn85042522%2F00033872173%2F1883042701%2F0778.jp2/pct:65.539906,11.653338,18.051643,25.493716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_alpha_ver01%2Fdata%2Fsn85042522%2F00033872173%2F1883042701%2F0778.jp2/pct:49.154930,8.748164,13.544601,19.112127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3828,7 +3828,7 @@ We have uone of our own.
   
 SUNDAY REFLECTIONS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665404:1884041901:0164/pct:42.287182,16.288164,13.687537,17.777109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665404:1884041901:0164/pct:33.833695,13.024515,10.942129,14.212664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3883,7 +3883,7 @@ Don&#x27;t speak of others&#x27; faults until
   
 We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863699:1884050201:0030/pct:21.640664,16.915486,12.514679,15.941296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863699:1884050201:0030/pct:18.402953,14.385121,10.619024,13.537449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4288,7 +4288,7 @@ We have none of our own.
   
 WHOLESAL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DRWilm26_ver01%2Fdata%2F1890080501%2F0119.jp2/pct:43.793321,6.395604,32.923756,25.835165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DRWilm26_ver01%2Fdata%2F1890080501%2F0119.jp2/pct:32.844991,4.802198,24.700693,19.373626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4496,7 +4496,7 @@ For all had a weight of care;
 It greeted their eyes in the morning.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:0020219641A:1891041301:0269/pct:8.988912,11.359691,13.635164,12.835101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:0020219641A:1891041301:0269/pct:6.744984,8.524590,10.229673,9.623915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4586,7 +4586,7 @@ Don&#x27;t speak of other&#x27;s faults until
 AVe have none of our own.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197309:1891052801:0074/pct:72.488038,20.703041,11.921850,14.276472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197309:1891052801:0074/pct:54.385965,15.527281,8.944710,10.707354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4637,7 +4637,7 @@ Our chickens, &quot;roost at home, &#x27; &#x27;
 And speak not of others faults until  
 We hare none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_MurfIn2n_ver01%2Fdata%2F1891071001%2F0311.jp2/pct:24.189526,114.311803,15.436409,5.574779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_MurfIn2n_ver01%2Fdata%2F1891071001%2F0311.jp2/pct:18.142145,85.765090,11.583541,4.181084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4848,7 +4848,7 @@ Our chickens, “ roost at home
 Don’t speak of others’ faults until  
 We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1893090701:0153/pct:10.031104,14.064640,81.804044,18.844152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1893090701:0153/pct:10.011664,14.050945,81.804044,18.844152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4882,7 +4882,7 @@ none?
 The old ns well as young;  
 We may, perhaps,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_excalibur_ver01:data:sn86069313:00206533808:1894031601:0489/pct:41.455467,18.765336,29.688631,110.564381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_excalibur_ver01:data:sn86069313:00206533808:1894031601:0489/pct:31.100652,14.077231,22.266474,82.939429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4951,7 +4951,7 @@ Our chickens, &quot;roost at home&#x27;
 Don&#x27;t speak of others&#x27; faults until  
 We have o&#x27;ercome our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_beaver_ver01:data:45043535:00237280350:1899040101:0749/pct:21.398892,98.000975,109.314404,39.127255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_beaver_ver01:data:45043535:00237280350:1899040101:0749/pct:14.265928,65.382740,72.957064,26.109215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -333,7 +333,7 @@ will be sure, to blacken you.
 Dodging the Old Folks. The  
 Hartford Couran
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FrTempR1n_ver01%2Fdata%2F1869082501%2F0196.jp2/pct:9.227579,18.078346,19.090202,55.392203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FrTempR1n_ver01%2Fdata%2F1869082501%2F0196.jp2/pct:6.920684,13.563502,14.320892,41.553637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ give up the road to bulls and madmen; and
 never fight with a coal-heaver, or contend wit h  
 .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_connemara_ver01:data:sn85025007:00414184807:1869082701:0082/pct:6.508970,7.981830,14.923004,17.910448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_connemara_ver01:data:sn85025007:00414184807:1869082701:0082/pct:6.493094,7.971014,14.923004,17.910448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -451,7 +451,7 @@ with a base character, for they will be sure
 
 ## [From _The Sailor's Magazine and Seamen's Friend_](https://archive.org/details/the-sailors-magazine-and-seamens-friend_1869-09_41_9/page/n23/mode/1up?view=theater)
 
-#### 1869-09-01
+#### 1869-09-01 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -624,7 +624,7 @@ aud never fight with a coal heaver, or
 contend with a base character, for they  
 wiil be sure to blacken von
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84026522:00296023139:1869090201:0355/pct:95.864662,20.517202,14.300174,37.491456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84026522:00296023139:1869090201:0355/pct:71.920185,15.390750,10.728745,28.138528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1582,7 +1582,7 @@ for they will be sure to blacken you.—Rev.
 C. 11. ifpurtjeon.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_peugeot_ver01:data:sn85025431:00212479706:1869090901:0034/pct:61.862696,17.694692,10.903584,82.725182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_peugeot_ver01:data:sn85025431:00212479706:1869090901:0034/pct:55.678950,15.925222,9.805654,74.457663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1638,7 +1638,7 @@ portion as they are good. A plain face with
 a heart behind it is worth a vjorld of heart­  
 less beauty. Men who have trie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1869090901:0111/pct:56.274097,70.446194,13.161584,22.965879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1869090901:0111/pct:56.256572,70.433071,13.161584,22.952756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2331,7 +2331,7 @@ heaver cor contend with a ba,?.e cbrac­
 ter, for they will V,e&#x27;su 14 ,b!aeken you.  
 ,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NoCarEC1n_ver01%2Fdata%2F1869091601%2F0037.jp2/pct:97.147470,78.771445,15.648547,39.242753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NoCarEC1n_ver01%2Fdata%2F1869091601%2F0037.jp2/pct:72.887513,59.100769,11.746502,29.441925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3371,7 +3371,7 @@ madmen, and never fight with a coal
 heaver, nor contend with a base &quot;charac­  
 ter, for they will be sure to blacken you.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562847A:1869092401:0814/pct:70.289289,28.013360,16.907740,51.887888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562847A:1869092401:0814/pct:52.736513,21.013651,12.685692,38.948591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3542,7 +3542,7 @@ is now on exhibition at th
 way, and a3 the passcrcr passes onward his hat  
 is pushed from behind so os to&#x27; nearly cover h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TimeDem11n_ver01%2Fdata%2F1869100501%2F0157.jp2/pct:98.051785,47.628324,29.625440,2.941463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TimeDem11n_ver01%2Fdata%2F1869100501%2F0157.jp2/pct:73.554550,35.726113,22.222222,2.201227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3625,7 +3625,7 @@ that the gingerbread is good because of the
   
 gilt on l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194965:1869101201:0155/pct:61.863234,126.255274,12.749169,2.584388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194965:1869101201:0155/pct:46.414729,94.725738,9.565338,1.940928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3645,7 +3645,7 @@ tween two erinders, tbev are very apt to
   
 DIM).
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194965:1869101201:0155/pct:75.193798,126.772152,12.804540,1.962025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194965:1869101201:0155/pct:56.409192,95.116034,9.606866,1.476793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3663,7 +3663,7 @@ madmen ; and never fight with a coal hea­
 ver, nor contend with a base character, for  
 they will be sure to blacken you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194965:1869101201:0156/pct:18.153932,12.002507,12.771891,2.141439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194965:1869101201:0156/pct:13.622421,9.004492,9.578918,1.608691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3736,7 +3736,7 @@ Rev. C. H. Spurgeon.
   
 K
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775411:1869101401:0227/pct:67.564018,69.968512,14.478004,32.812910/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775411:1869101401:0227/pct:50.689429,52.492784,10.866710,24.612962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4066,7 +4066,7 @@ ting it on the door. Our friends are
 always welcome when we are at home,  
 but we want i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470193:1869110501:0109/pct:39.320892,53.090830,14.061690,46.714301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470193:1869110501:0109/pct:29.497149,39.818123,10.549508,35.054671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4086,7 +4086,7 @@ it means no more than it says.
 In any business, never wade into wat.r  
 where you cannot see tile bottom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349499:1869110501:0246/pct:73.672055,88.433982,11.266909,3.799898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349499:1869110501:0246/pct:73.655559,88.408393,11.266909,3.799898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4233,7 +4233,7 @@ blacken you.
 . &#x27; j T J.S TT.ct r; rj y  
 CONCERNING
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027157:1869111101:0320/pct:10.959339,27.396746,14.358323,44.518148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027157:1869111101:0320/pct:8.227446,20.550688,10.768742,33.416771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4421,7 +4421,7 @@ ve of his own adversity,
 for there is much bran in prosperous  
 friendship.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774972:1869120301:0450/pct:84.721433,124.615895,12.805571,1.856969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774972:1869120301:0450/pct:63.558840,93.500608,9.621944,1.392727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4516,7 +4516,10 @@ madmen, and neverlght with a coal
 heaver or contend witho base char­  
 eater, for they will be slue to blacken &#x27;  
 you.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aerecura_ver01%2Fdata%2Fsn84024558%2F000001804%2F1869120901%2F0169.jp2/pct:84.527176,16.887019,10.391140,26.211412/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4710,7 +4713,7 @@ office better than being out of employ-,
 meat  
 Beware of no uiau more than yourself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348446:1869121601:0193/pct:5.273834,90.369108,12.310813,3.339012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348446:1869121601:0193/pct:5.258231,90.346394,12.310813,3.339012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4920,7 +4923,7 @@ sack opened before you buy what ia iu it;
 for he who trades in the dark asks to be  
 cheated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_aragonite_ver01:data:sn82014367:00513688349:1870020501:0734/pct:3.594707,83.022837,12.680229,14.543269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_aragonite_ver01:data:sn82014367:00513688349:1870020501:0734/pct:3.574956,82.992788,12.680229,14.543269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4996,7 +4999,7 @@ sure to blacken you.
   
 Tm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_aragonite_ver01:data:sn82014367:00513688349:1870021201:0758/pct:1.988351,55.324951,12.592890,19.678837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_aragonite_ver01:data:sn82014367:00513688349:1870021201:0758/pct:1.968267,55.309802,12.592890,19.678837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5109,7 +5112,7 @@ ter, for they will be sure to blacken you.
 Spurgeon.  
 Julianism. Geo W Julian i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744808:1870030101:0523/pct:93.068367,20.101605,16.372762,44.117307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744808:1870030101:0523/pct:69.804666,15.079090,12.276180,33.090867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5246,7 +5249,7 @@ net.
 Petty thieves continue their nefar­  
 en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn92053883:00514151027:1870031701:0044/pct:32.555596,61.724997,11.629603,32.402674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn92053883:00514151027:1870031701:0044/pct:32.537368,61.711889,11.629603,32.389566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5283,7 +5286,7 @@ and do not be sure that the ginger­
 bread is good ltccan-c of the gilt on  
 It, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033386:00200293873:1870051301:0169/pct:7.916438,120.355221,13.139087,4.499462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033386:00200293873:1870051301:0169/pct:5.937328,90.301399,9.868059,3.379978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5326,7 +5329,7 @@ In any business never wade into
 water when you cannot see the bot­  
 tom.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033386:00200293873:1870051301:0169/pct:35.252886,110.053821,13.084112,17.502691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033386:00200293873:1870051301:0169/pct:26.443101,82.572659,9.826828,13.132400/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5346,7 +5349,7 @@ only their own inclination, have forgotten
 that others have a claim to the same defer­  
 ence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349499:1870051301:0346/pct:49.705594,90.876611,11.122015,3.406916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349499:1870051301:0346/pct:49.689238,90.851091,11.122015,3.406916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5488,7 +5491,7 @@ seive of his own adversity, for there is
 much bran in prosperous friendship.  
 A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177271:1870060301:0309/pct:8.125795,98.142455,18.469369,4.291571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177271:1870060301:0309/pct:6.289765,76.056879,14.324668,3.330771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5572,7 +5575,10 @@ thee hatter down.
   
 Mental pleasures never cloy. En­  
 like those ofth
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_alernus_ver01%2Fdata%2Fsn83031981%2F000001928%2F1870090101%2F0270.jp2/pct:35.692532,61.162346,14.108845,4.850357/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5646,7 +5652,7 @@ And you may depend
 You&#x27;ll have peace to your end.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028821:00280775484:1870101301:0104/pct:35.408093,69.252449,12.928669,40.249631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028821:00280775484:1870101301:0104/pct:26.560357,51.939337,9.705075,30.210710/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5686,7 +5692,10 @@ them in the net.
 If s man is honest and truthful, there is  
 little need of saying much about it.  
 T
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_februus_ver01%2Fdata%2Fsn88079228%2F000002427%2F1870102001%2F0161.jp2/pct:64.715221,18.777954,14.625918,12.985139/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5707,7 +5716,10 @@ that it means no More than it asp.
 Beware of .a man who swears; for a man  
 who would blaspheme his Maker, would make  
 no bones of lying or stealing.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_februus_ver01%2Fdata%2Fsn88079228%2F000002427%2F1870102001%2F0161.jp2/pct:64.690415,38.187130,14.606073,5.691819/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5746,7 +5758,7 @@ there is little need of saying much
 about it  
 &quot;Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775812:1870102101:0482/pct:98.960880,5.429278,27.261614,122.729949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775812:1870102101:0482/pct:74.251222,4.074903,20.446210,92.085738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6086,7 +6098,7 @@ jj.sk to he cheated.
 Keep clear of a man who does, not  
 value his own character.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775927:1870122101:0072/pct:11.152416,55.102277,13.925031,18.190223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775927:1870122101:0072/pct:8.364312,41.338264,10.455390,13.660002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6236,7 +6248,10 @@ It 8111.
 Dn&#x27;t go to law onleart von have.  
 111e1 to 10140; lawyer&#x27;a liontaat are  
 1111111. O
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_alernus_ver01%2Fdata%2Fsn83031981%2F000001928%2F1870122301%2F0399.jp2/pct:36.116924,60.648148,13.628041,8.666494/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6289,7 +6304,7 @@ Keep clear of a man who does not
 value his own character.  
 Wel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat28n_ver01%2Fdata%2F1871010501%2F0409.jp2/pct:86.906804,20.919834,16.237850,29.096135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat28n_ver01%2Fdata%2F1871010501%2F0409.jp2/pct:65.194397,15.692537,12.178388,21.824763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6354,7 +6369,7 @@ cheased.
 Keep clear oi man who does  
 not value his own character
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn85034457:00280774820:1871010501:0170/pct:49.074074,79.070365,15.709877,36.517720/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn85034457:00280774820:1871010501:0170/pct:36.805556,59.322034,11.790123,27.401130/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6630,7 +6645,7 @@ when yon cannot see the bottom.
 Baa the sack open before yon bay what is  
 nr he who trades in Urn dark asks to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991410:1871011101:0170/pct:1.548569,83.961261,13.014234,14.408882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991410:1871011101:0170/pct:1.532927,83.937640,13.014234,14.408882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6659,7 +6674,7 @@ the Beive of his own adveraity, for
 there Is much bran In prosperous  
 friendship.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286947:1871011801:0120/pct:74.203187,77.923838,12.682603,2.818810/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286947:1871011801:0120/pct:55.677291,58.476758,9.511952,2.114108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6829,7 +6844,7 @@ tobe cheated.. f 4, f j,:,- , ; ,,
 Keep clear of a man who does not value  
 his own character. ., , ,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779313:1871011901:0095/pct:114.052376,19.839400,14.902808,22.794433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779313:1871011901:0095/pct:85.569654,14.882227,11.177106,17.109208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6979,7 +6994,7 @@ Keep clear of a man who does not
 value his own character.  
 Gems o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340652:1871012001:0015/pct:51.232082,61.138192,11.000161,20.290032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340652:1871012001:0015/pct:51.215977,61.126005,11.000161,20.277845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7049,7 +7064,10 @@ Keep clear of a man who does not value
 his own character.  
   
 Clo
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_egeria_ver01%2Fdata%2Fsn83032115%2F000002295%2F1871012501%2F0016.jp2/pct:26.577381,39.346847,11.636905,25.729730/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -7068,7 +7086,7 @@ it. See the sack opened before yon buy
 what is in it, for he who trades in the  
 dark askt to be cheated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779398:1871012501:0076/pct:56.214460,122.484542,16.368806,4.623384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779398:1871012501:0076/pct:42.160845,91.891512,12.307067,3.471051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7189,7 +7207,7 @@ Keep clear of a man who does not value
 Every Teacher a Pastor.—Every Sab­  
 bath School teacher shoul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL3_ver01%2Fdata%2F1871020301%2F0376.jp2/pct:54.911742,16.072490,12.413661,26.604278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL3_ver01%2Fdata%2F1871020301%2F0376.jp2/pct:54.892556,16.057635,12.413661,26.604278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7345,7 +7363,7 @@ with a musket; they can&#x27;t raise ducks
 mere no now, ior the stones are so  
 thick the ducks can&#x27;t get thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286947:1871021501:0137/pct:74.630625,24.321745,12.709872,14.192229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286947:1871021501:0137/pct:55.993956,18.241309,9.536602,10.661213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7403,7 +7421,7 @@ asks to oe cheated.&#x27; I
 Keep clear of a man who does not val  
 ue his own character. ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NoCarEC1n_ver01%2Fdata%2F1871021601%2F0185.jp2/pct:115.109121,63.011351,15.738668,27.907475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NoCarEC1n_ver01%2Fdata%2F1871021601%2F0185.jp2/pct:86.331841,47.258514,11.807499,20.935961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8019,7 +8037,7 @@ acter, for they will be sare to blacken
 yon.  
 Deat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat28n_ver01%2Fdata%2F1871033001%2F0457.jp2/pct:96.841826,38.030165,14.769108,30.903938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat28n_ver01%2Fdata%2F1871033001%2F0457.jp2/pct:72.651274,28.525154,11.080149,23.190606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8046,7 +8064,7 @@ gentleman until lie has offered Imnself. I
 Ii makes the gentleman feel awkward.  
 A farmer who 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348446:1871033001:0457/pct:6.197707,44.964314,12.395414,10.252634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348446:1871033001:0457/pct:6.182213,44.952985,12.395414,10.252634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8125,7 +8143,7 @@ gentleman until he has offered himself. It
 makes the gentleman feel awkward.  
 My dear, it is very wrong fer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349505:1871040701:0059/pct:2.486504,34.950071,11.091117,4.616781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349505:1871040701:0059/pct:2.470146,34.937103,11.091117,4.616781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8210,7 +8228,7 @@ where you cannot see the bottom, :. ;
 &#x27; Keep clear of a man who does not value  
 his own character. -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85033437:00200293708:1871041601:0383/pct:43.801653,33.305085,19.406730,17.012712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85033437:00200293708:1871041601:0383/pct:32.851240,24.978814,14.566116,12.764831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8350,7 +8368,7 @@ Rolling Grain in tho Spring.
 If farmers would look at the theory of roll­  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186993:1871042201:0064/pct:69.631811,13.139950,25.360825,82.920229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186993:1871042201:0064/pct:69.617084,13.129127,25.360825,82.909406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8368,7 +8386,7 @@ should not refuse a gentleman until he
 has offered himself. It makes the gen­  
 tleman feel awkward
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279555193:1871042401:0388/pct:45.613361,44.416412,11.633711,2.708804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279555193:1871042401:0388/pct:45.594164,44.403134,11.633711,2.708804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8514,7 +8532,10 @@ Keep clear of a man who does not
 value his own character.  
   
 Tart
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_alernus_ver01%2Fdata%2Fsn83031981%2F000001929%2F1871050501%2F0140.jp2/pct:35.656283,36.270133,14.563365,21.336660/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -8887,7 +8908,7 @@ deal of religion displayed in his window
 you may depend upon it he keep a very  
 small stock within.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026050:00280776798:1871071801:0672/pct:78.681771,123.807925,22.348095,3.257220/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026050:00280776798:1871071801:0672/pct:59.037075,92.931498,16.786818,2.451310/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9019,7 +9040,7 @@ Hold on to your good character ; fur it is,
 and over will be your best wealth. •  
 Honor (he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1871081701:0449/pct:81.808821,71.902887,12.373434,11.692913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1871081701:0449/pct:81.791660,71.889764,12.373434,11.679790/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9080,7 +9101,10 @@ One beautiful imit- of our humanity is
 the tenderness with which we cherish the  
 memory of the departed. Let Death take  
 from
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fecunditas_ver01%2Fdata%2Fsn84026572%2F000002429%2F1871082401%2F0033.jp2/pct:67.828122,51.847720,11.976683,22.845489/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -9096,7 +9120,7 @@ only their own inclinations, have forgot­
 ten that others have a claim to the same  
 deference
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dean_ver02:data:sn84038034:00271740566:1871082401:0020/pct:113.274473,49.381553,14.513631,2.532689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dean_ver02:data:sn84038034:00271740566:1871082401:0020/pct:84.975217,37.036164,10.889095,1.920132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9147,7 +9171,7 @@ Hold on to your good character; tor it
 is and ever will be your best wealth..  
 HONOR THE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal2_ver01%2Fdata%2F1871090101%2F0129.jp2/pct:109.799169,74.860632,16.464681,16.458720/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal2_ver01%2Fdata%2F1871090101%2F0129.jp2/pct:82.375346,56.158747,12.344183,12.344040/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9169,7 +9193,7 @@ However many friends you have, do not
 neglect yourself; through you have a  
 thousand, net one of them lov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348446:1871091401:0549/pct:7.850410,50.637914,11.945603,5.780738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348446:1871091401:0549/pct:7.834956,50.626623,11.945603,5.780738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9190,7 +9214,7 @@ depend upon it he keeps a very small stock ot It
 within.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_keres_ver01:data:sn83020847:00517171311:1871091501:1134/pct:104.882379,38.078234,19.063471,4.966726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_keres_ver01:data:sn83020847:00517171311:1871091501:1134/pct:81.269419,29.508197,14.780293,3.846778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9206,7 +9230,7 @@ within.
 their own inclinations, hare forgotten that oth­  
 ers have a claim to the same deferenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187146:1871091501:0326/pct:16.994178,89.917937,12.542455,1.619951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187146:1871091501:0326/pct:16.982048,89.896622,12.542455,1.619951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9225,7 +9249,7 @@ ino- onlv their own inclinations, have for-
 cotten that others have a claim to the  
 same deference.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628377:1871092101:0721/pct:71.093303,28.222003,14.439038,3.663486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628377:1871092101:0721/pct:53.319977,21.169244,10.832856,2.753099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9429,7 +9453,7 @@ window, you may depend upon it he
 keeps a very smail stock within.  
 However many friends you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177271:1871100601:0550/pct:7.726308,86.144112,15.222772,4.041839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177271:1871100601:0550/pct:5.993635,66.761364,11.792786,3.125000/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9555,7 +9579,7 @@ shop window, you may depend upon
 it lie keeps a very small stock of it  
 within.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152615:1871101401:0615/pct:109.586721,99.129757,18.275745,4.896740/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152615:1871101401:0615/pct:82.215447,74.360307,13.702575,3.688791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9574,7 +9598,7 @@ degree of hardness comes with years,
 and tiie man is not su sceptible of pain  
 like a chhd.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152615:1871120201:0669/pct:72.244624,31.037522,17.859543,3.185596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152615:1871120201:0669/pct:54.200269,23.281289,13.407258,2.392344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9646,7 +9670,7 @@ and never fight with a coalheaver or
 contend with a base character,for they  
 will lie sure to blacken you.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775125:1871120701:0304/pct:17.710706,4.274611,12.742027,27.903713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775125:1871120701:0304/pct:13.283030,3.205959,9.567198,20.930484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9745,7 +9769,7 @@ his own character.
 - &#x27; ^ t -.  
 3 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184418:1871121301:0143/pct:68.466010,51.409847,12.682406,26.584461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184418:1871121301:0143/pct:68.454146,51.401224,12.682406,26.575839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9793,7 +9817,7 @@ eternity.
 price to you in all times and places.  
 Hold pu to your character, for it is and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL3_ver01%2Fdata%2F1871121501%2F0529.jp2/pct:19.787718,65.796265,12.509477,23.455291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL3_ver01%2Fdata%2F1871121501%2F0529.jp2/pct:19.768764,65.781084,12.509477,23.440109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9854,7 +9878,7 @@ own kind. .
 In any business never wade into -water  
 where you cannot see the bottom.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCDailyT3n_ver01%2Fdata%2F1872011401%2F0038.jp2/pct:26.734820,101.183283,16.790582,24.622356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCDailyT3n_ver01%2Fdata%2F1872011401%2F0038.jp2/pct:20.058860,75.893756,12.592937,18.479355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9874,7 +9898,7 @@ his shop window, you may depend
 up&#x27;on it he keeps a very little stock  
 of it within
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_eva_ver01%2Fdata%2Fsn94052321%2F00000002054%2F1872020201%2F0448.jp2/pct:106.996681,90.261948,16.261062,4.429114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_eva_ver01%2Fdata%2Fsn94052321%2F00000002054%2F1872020201%2F0448.jp2/pct:80.268252,67.706459,12.195796,3.329334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10105,7 +10129,7 @@ be cheated
 Keep clear of a man who does not value  
 his own character.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348719:1872030701:0039/pct:69.089976,64.071307,12.401642,19.648709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348719:1872030701:0039/pct:69.072870,64.058199,12.401642,19.635601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10166,7 +10190,7 @@ tom.Ste the sack open before you buy
 what is in it, for he who trades in  
 dark aska to be cheated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286856:1872061901:0204/pct:73.136646,53.257392,12.500000,9.061820/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286856:1872061901:0204/pct:54.875776,39.959043,9.378882,6.796365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10224,7 +10248,7 @@ Keep clear of a man Who does not
 value his character.-&#x27; &quot; &#x27;  
 - .it ! 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027169:1872062001:0314/pct:108.348737,54.437351,14.525570,26.498936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027169:1872062001:0314/pct:81.269254,40.831143,10.890327,19.877331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10337,7 +10361,7 @@ value his own character
 Slow they Shave in China  
 A fellow who ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_collie_ver01:data:sn84027460:print:1872071301:0283/pct:61.594203,36.395594,13.269928,23.013827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_collie_ver01:data:sn84027460:print:1872071301:0283/pct:46.210749,27.314272,9.963768,17.260370/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10379,7 +10403,7 @@ he who trades in the dark asks to be cheated.
   
 HOW TO GET PLENTY O
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340652:1872081601:0335/pct:62.421308,16.806928,19.515738,78.180266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340652:1872081601:0335/pct:62.405165,16.794731,19.515738,78.168069/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10525,7 +10549,7 @@ Soe the sack open before tou buv what
 Is in it, for he who trades in the dark asks.  
 lo be cheated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293460:1872082801:0197/pct:96.919856,12.996152,14.593301,16.371633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293460:1872082801:0197/pct:72.697368,9.752611,10.944976,12.281473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10567,7 +10591,7 @@ a coal-heave, or contend with abase
 character, for tlrey will be sure to  
 blacken yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665805:1872082901:0229/pct:8.846618,109.151414,14.251208,3.302189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665805:1872082901:0229/pct:6.642512,81.863561,10.688406,2.483041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10629,7 +10653,7 @@ blacken you. Spurgeon.
 A gentleman advertised for a  
 wife an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665805:1872091901:0238/pct:112.011002,92.924649,14.532396,7.484036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665805:1872091901:0238/pct:84.046455,69.719029,10.895477,5.619413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10741,7 +10765,7 @@ ing without reading it; and make sure that it
 means no more than it. says.  
 A course, of popular lectures b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186993:1872101201:0356/pct:56.578180,38.255613,12.645858,10.977979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186993:1872101201:0356/pct:56.563594,38.244819,12.645858,10.977979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10785,7 +10809,7 @@ Beware of no man more than
 yourself; we carry our worst ene­  
 mies with us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:0051415238A:1873010301:0144/pct:35.318445,30.502763,20.326716,4.744575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:0051415238A:1873010301:0144/pct:27.377998,23.628521,15.715467,3.679741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10864,7 +10888,7 @@ Br do means put yourself in another&#x27;s
 power; if you put your thumb between  
 f wo grinders they are very opt to bite.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776087:1873010901:0021/pct:6.389302,122.885710,16.400446,2.346896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776087:1873010901:0021/pct:4.791976,92.181641,12.314264,1.763644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10955,7 +10979,10 @@ to be cheated.
   
 The Sience of Teaching, Ninies Eje­  
 kashun.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_egeria_ver01%2Fdata%2Fsn83032115%2F000002297%2F1873030501%2F0037.jp2/pct:50.238761,12.400034,22.804566,82.014633/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -11042,7 +11069,7 @@ The EprrAni of the -42d Congress.
 The XLIId Congress was content  
 to go down int
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_bayocean_ver01%2Fdata%2Fsn94052321%2F00000002033%2F1873041101%2F0088.jp2/pct:88.331454,58.774576,15.924464,48.923333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_bayocean_ver01%2Fdata%2Fsn94052321%2F00000002033%2F1873041101%2F0088.jp2/pct:66.262683,44.096536,11.950395,36.700302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11266,7 +11293,10 @@ where you cannot see the bottom.
 See the sack open before you buy what  
 is in it, for he who trades in the dark  
 asks to be cheated.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_egeria_ver01%2Fdata%2Fsn83032115%2F000002297%2F1873102201%2F0165.jp2/pct:85.311033,35.162281,11.203052,16.206140/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -11741,7 +11771,7 @@ fight&#x27; with a coal-heaved or con­
 tend with a base character, for&#x27;  
 they will be safe to black yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kerr_ver01:data:sn84038216:print:1878031301:0209/pct:69.005478,11.680958,25.747998,86.102572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kerr_ver01:data:sn84038216:print:1878031301:0209/pct:68.984408,11.664779,25.747998,86.086394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11797,7 +11827,7 @@ what is in it; for he who trades in
 the dark asks to be cheated.  
 I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn85033549:00296023966:1878040301:0680/pct:66.600245,32.389163,17.933783,43.047470/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn85033549:00296023966:1878040301:0680/pct:44.405273,21.596507,11.971183,28.705777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11858,7 +11888,7 @@ dark asks to be cheated.
 Keep clear of a man who does not  
 his own character.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026034:00280774996:1878051001:0525/pct:35.659898,90.489341,12.676255,29.813322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026034:00280774996:1878051001:0525/pct:26.748449,67.889098,9.531867,22.379322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12046,7 +12076,7 @@ merriest men now and then have solemn
 faces, and the most serious frequently  
 have cheerful ones.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283600:1878112801:0365/pct:88.224299,19.632053,26.931464,109.766638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283600:1878112801:0365/pct:66.183801,14.730214,20.218069,82.355846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12447,7 +12477,7 @@ dark asks to be cheated.
 Keep clear ot a uifii who does not  
 value bis character
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776683:1879080601:0553/pct:25.839161,98.113695,14.790210,25.478036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776683:1879080601:0553/pct:19.388112,73.604651,11.101399,19.121447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12467,7 +12497,7 @@ mad men ; and never light with a coal
 heaver, or contend with a basec.iaraeter,  
 for they will be sure to blackeu you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763190:1879091001:0187/pct:107.303011,102.189599,16.111467,5.362030/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763190:1879091001:0187/pct:80.477258,76.648420,12.091608,4.030853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13070,7 +13100,7 @@ I ?j . .i vMZTTi
 contend with a base character, for they  
 I will be sure to blacken you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556278:1881063001:0340/pct:110.292165,81.713496,15.836653,23.929065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556278:1881063001:0340/pct:82.735724,61.296637,11.885790,17.964072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13163,7 +13193,7 @@ Keep clear of the man who does not
 vaiue his own character.  
 A Ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341644:1881092601:0301/pct:36.589192,51.833613,10.879795,14.218357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341644:1881092601:0301/pct:36.574932,51.823135,10.879795,14.218357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13290,7 +13320,7 @@ person’s power; if you put your thumb
 betwten two grinders they are very apt  
 to bite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332897093:1887020501:0823/pct:40.864788,70.047651,10.579479,3.076923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332897093:1887020501:0823/pct:40.847067,70.034037,10.579479,3.076923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13342,7 +13372,7 @@ only to do our duty wisely and leave the
 issue to Him.  
 There ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775290:1889041101:0412/pct:36.184657,110.668748,14.782756,12.867551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775290:1889041101:0412/pct:27.138493,83.021077,11.099796,9.653916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13468,7 +13498,7 @@ it. See the sack open before you
 buy what is in it, for he who trades  
 tn the dark asks to be cheated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn88068010:00294556060:1889120501:0229/pct:52.966590,84.583481,14.372120,12.643678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn88068010:00294556060:1889120501:0229/pct:39.732143,63.443536,10.771889,9.479796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13758,7 +13788,7 @@ to no man, yet be not evermore sus
 picious, for suspicion is a cowardly  
 virtue at best.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalCA27n_ver01%2Fdata%2F1890030501%2F0068.jp2/pct:52.293032,109.297630,19.297201,5.791096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalCA27n_ver01%2Fdata%2F1890030501%2F0068.jp2/pct:39.219774,81.989162,14.487790,4.345978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13874,7 +13904,7 @@ tho dark asks to be cheated.
 A Cure ot CaturrU  
 In tbo head, as well as of all bro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288038:1890040401:0283/pct:48.813803,38.873163,14.396118,12.360156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288038:1890040401:0283/pct:36.610352,29.154873,10.801582,9.273487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13931,7 +13961,7 @@ trap as soon as yon smell a rst; hut
 mind you don&#x27;t curb ?*&gt;ur own fln­  
 Pera in it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187183:1890041101:0665/pct:4.273828,70.049531,11.283409,23.247971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187183:1890041101:0665/pct:4.261220,70.038993,11.283409,23.237433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13956,7 +13986,7 @@ receipt for It. Hoe in tho sack lcfore you
 buy what ia In it, for ho who reads in the  
 dark asks to bo cheated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776142:1890042301:0641/pct:93.591270,14.352763,17.023810,8.614686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776142:1890042301:0641/pct:70.198413,10.764572,12.777778,6.464799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13986,7 +14016,7 @@ I no alls, according to the papers,
 spent over $40,000 in the purchase of  
 Atchiso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473467:1890042401:0717/pct:8.501914,50.027566,18.411700,14.720476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473467:1890042401:0717/pct:5.672499,33.366413,12.274467,9.813651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14042,7 +14072,7 @@ he who trades in the dark asks to be
 cheated.&quot;  
 The call for an election to vot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878666:1890052901:0316/pct:33.333333,9.413324,14.615385,9.115015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878666:1890052901:0316/pct:25.000000,7.059993,10.982906,6.839023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14074,7 +14104,7 @@ ibout ten years ago. What he said
 during his lifetime may have been  
 misunderstood o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197292:1890052901:0404/pct:8.889482,7.021393,25.654031,118.771256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197292:1890052901:0404/pct:6.673785,5.266045,19.233849,89.105869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14119,7 +14149,7 @@ self; we carry our worst enemies with us,
 A life that will bear the inspection  
 of God and of men is th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775307:1890082101:0181/pct:34.630739,35.731445,14.637392,8.092047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775307:1890082101:0181/pct:25.981371,26.804906,10.978044,6.069035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14165,7 +14195,7 @@ out of the woods ; and don&#x27;t cry fresh
 fish till tbsy are caught in thu net.  
 li
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00332899004:1892040801:0053/pct:107.935009,66.270077,13.810693,21.044021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00332899004:1892040801:0053/pct:83.638768,51.353361,10.712261,16.299822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14247,7 +14277,7 @@ Ladies, call and see
 that handsome line of  
 ladie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn88068010:00294556059:1895052401:0857/pct:86.114691,98.723814,19.039948,26.077534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn88068010:00294556059:1895052401:0857/pct:64.594072,74.042861,14.271907,19.576210/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14306,7 +14336,7 @@ in the dark aides to be cheated.&quot;
 Why don&#x27;t our temperance  
 women &quot;get i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776154:1895060501:0594/pct:91.163793,106.815476,16.340125,13.497024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776154:1895060501:0594/pct:68.377743,80.133929,12.264890,10.119048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14358,7 +14388,7 @@ Goop HearLTH—And a good appetite
   
 tite, the system canno
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_DemoWatchman1_ver01%2Fdata%2Fsn83031981%2F00000002%2F1895061401%2F1638.jp2/pct:79.453484,31.659417,17.209011,13.813101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_DemoWatchman1_ver01%2Fdata%2Fsn83031981%2F00000002%2F1895061401%2F1638.jp2/pct:61.576971,24.528799,13.329161,10.702517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14410,7 +14440,7 @@ it, for he who buys in the dark asks to be
 cheated.  
 We non
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477758:1896032001:0401/pct:13.481375,37.346149,15.028653,8.392920/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477758:1896032001:0401/pct:10.114613,28.015473,11.275072,6.294690/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14461,7 +14491,7 @@ See the sack open before you buy what
 is in it, for he who trades in the dark  
 asks to be cheated.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_centrereporter2_ver01%2Fdata%2Fsn83032058%2F13362148%2F1896061101%2F00004.jp2/pct:29.294591,68.142272,18.037281,11.476459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_centrereporter2_ver01%2Fdata%2Fsn83032058%2F13362148%2F1896061101%2F00004.jp2/pct:22.697368,52.814739,13.961988,8.879222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14522,7 +14552,7 @@ dark asks to be cheated.&quot;
 WANAMAKER CLOTHING  
 Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn83032011:00280776865:1896061801:1126/pct:49.349776,53.775847,19.663677,16.137249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn83032011:00280776865:1896061801:1126/pct:37.017937,40.350614,14.775785,12.106683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

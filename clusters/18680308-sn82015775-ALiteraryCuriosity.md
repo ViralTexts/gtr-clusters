@@ -158,7 +158,7 @@ ft r-y:29. Willis; 30,addison; 31. iyder; 39. Fratcis
 Quarl »;&#x27;33 Wetkine; 34. Hereik; 35. W ilium Masoa; 36, Mill;  
 37, Daus; 38. bhakespear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buford_ver01:data:sn83026172:00211678446:1868030201:0622/pct:2.876870,6.609784,13.363061,23.026166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buford_ver01:data:sn83026172:00211678446:1868030201:0622/pct:2.862486,6.598407,13.363061,23.026166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -307,7 +307,7 @@ Crabbe; 23, Masstager; 24. CowUe 25, Beastia;
 Qaarles;S37Watkins:ai, Herrick; 35, William  
 Mason; 36, Hill; 37, Dana; 38, Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879932:1868030901:0492/pct:60.317211,79.951130,15.923367,44.984728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879932:1868030901:0492/pct:45.241834,59.975565,11.966080,33.756872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -854,7 +854,7 @@ Dryden; 32, Francis Quarles; 33, Watkins ; 34, Her­
 rick; 35, William Mason; 86, Hill; 37, Dana; 38,  
 Shakspeare.&#x27; &#x27; . &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744808:1868040901:0155/pct:21.873247,17.895242,16.895681,42.298933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744808:1868040901:0155/pct:16.404936,13.424428,12.675266,31.727196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1133,7 +1133,7 @@ Addison; 81, Drvden; 32, Francis liuaries; 88, Wat-
 kius; 84, Hernck; 35, William Uasou; as, mu; a,  
 i Dana; its, bhakespearo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562847A:1868042401:0513/pct:21.651090,14.772894,49.221184,112.376893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562847A:1868042401:0513/pct:16.238318,11.083346,36.935358,84.301044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1441,7 +1441,7 @@ yourself be just ;
 l.Youne: 3, Dr. Johnson; .3, Pope ; 4,  
 Southwell; 11, Congreve ; 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774972:1868050101:0150/pct:18.230337,21.144498,13.047753,50.121520/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774972:1868050101:0150/pct:13.679775,15.863897,9.789326,37.593902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1498,7 +1498,7 @@ T~Bu» Hfht car»s speak when u.ig‘ ty gTiefi are dumb,
 18— Custom does not ofr-&#x27;*.on overrule  
 14—Aud throw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897883:1868053001:0250/pct:3.789997,6.498877,11.307860,10.138249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897883:1868053001:0250/pct:3.774464,6.487061,11.307860,10.138249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1537,7 +1537,7 @@ CrurcMIl. ?t, loctiwtor, 14. Armstrong 13, Mxlton.
 0*v*ni i. 28, forsy 2ii, Willie. SO, Addison. 81.  
 Drjdeii. 84. Fr«ncU Quarles- 3J, Watkins. 34, W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897883:1868053001:0250/pct:3.805530,21.422663,11.292327,10.693607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897883:1868053001:0250/pct:3.789997,21.410847,11.292327,10.693607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2322,7 +2322,10 @@ mint; 28, Gray; 29, Willis; 30, A.4.ldis4)n :
 31, Dryden; 32, Frauds. Quarles : 33, W.kt -  
 king; 31, Lierriek ; 3. , William ALLior.; ::.;,  
 Hill; 37, Dena; :18, e.lualesfieare.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_cupid_ver01%2Fdata%2Fsn83032076%2F000002082%2F1868111301%2F0181.jp2/pct:87.971630,21.490527,8.791763,34.181225/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2566,7 +2569,7 @@ Addison; 31, Dryden; 32, Francis Quarles; 33,
 Watkins; 34, Herrick; 35, William Mason; 36,  
 Hill; 37, Dana; 38, Shakspeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_connemara_ver01:data:sn85025007:00414184790:1869010601:0223/pct:3.907455,36.678109,14.961440,43.059590/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_connemara_ver01:data:sn85025007:00414184790:1869010601:0223/pct:3.894602,36.669307,14.961440,43.050788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2650,7 +2653,7 @@ S3, WiUiam Masoo; 38, UU1; 37, Dana; 38,
 Shakspeare. j  
 &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SemiWeek16n_ver01%2Fdata%2F1869012001%2F0068.jp2/pct:6.554524,5.372540,18.024942,50.829096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SemiWeek16n_ver01%2Fdata%2F1869012001%2F0068.jp2/pct:4.915893,4.034933,13.529582,38.127349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2770,7 +2773,10 @@ Devenant;‘.B. Gray ; 29, Willis; 30, Addison :
 ,31, Dryden; 32. Francis Quarles; 33 Watkins;  
 34, Herrick ; 35, William Mason; 36, Hill* 37,  
 Dana; 38, ah&amp;kapeare.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fontus_ver01%2Fdata%2Fsn83032304%2F000002714%2F1869012001%2F0009.jp2/pct:55.258929,60.780765,9.343750,27.834152/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2883,7 +2889,7 @@ To be, is better far than not to bo.
 Though all man&#x27;s life may seem a  
 traged
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn85025295:00280777523:1869032001:1002/pct:28.408195,93.382353,19.700552,9.375000/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn85025295:00280777523:1869032001:1002/pct:21.315997,70.050905,14.775414,7.055995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3315,7 +3321,7 @@ venant; 23, Gray, 20, Willis; 30, Addison; 31, Dryden:
 42, Prancis Charles; 33, Watkins; 34, ‘lvrrick; 345,  
 Willtam Mason; 36, Hill; 37, Dana; 38, Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177271:1869043001:0109/pct:83.110159,18.956456,18.211034,33.958959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177271:1869043001:0109/pct:64.399214,14.689690,14.122478,26.326326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3437,7 +3443,7 @@ enant: 28, Gray: 29, Willis; 30. Addison:
 kins: 34, Herrick; 35, William Mason; 3(1.  
 Hill: 37, Dana; 38. Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624529:1869051501:0491/pct:49.400237,50.024759,14.867376,61.946026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624529:1869051501:0491/pct:38.283494,38.759594,11.522217,48.006932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3699,7 +3705,7 @@ shed. So much for tinkering the Consti­
 tution.  
 Of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625480:1869062501:0324/pct:90.523387,62.857532,15.840723,11.277581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625480:1869062501:0324/pct:70.144323,48.719695,12.276126,8.730591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3939,7 +3945,10 @@ lire dnmb
 Lair fate It I/111 lII° rommon fut. of All,  
 In 1 , , f100 , g 1,,,t 102 , &#x27; h e re n o man la hJI  
 II Nature to Yin II allots i
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_alernus_ver01%2Fdata%2Fsn83031981%2F000001927%2F1869081301%2F0228.jp2/pct:64.683478,20.990194,14.243499,14.931711/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4302,7 +4311,7 @@ Ushes all the Local and County News Legal
 Advertisements, Dellnquont Land List, Notices,  
 of Strays, aa many other matters of interest U
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1870010601:0004/pct:109.196429,124.890006,19.441964,3.409805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1870010601:0004/pct:81.897321,93.683218,14.598214,2.561282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4331,7 +4340,7 @@ Use B .Fames .1.
 WartVs Compound  
 Prickly As
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1870010601:0006/pct:107.820624,59.009500,18.955806,7.927114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1870010601:0006/pct:80.914211,44.276592,14.211438,5.964803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4484,7 +4493,7 @@ II &#x27; Congreve 12 Churchill 13 Rochester
 Trench 18 Somerville 19 Thompson 80  
 Byron: 21 Smollet 22 Crabbe 23 Maes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_collie_ver01:data:sn84027460:print:1870031901:0092/pct:5.112540,5.524440,15.659164,42.744399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_collie_ver01:data:sn84027460:print:1870031901:0092/pct:3.842444,4.149695,11.752412,32.077393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5403,7 +5412,7 @@ lor live how we can, yet die we must.
 —Shakespeare.  
 A Christmas stor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769726:1872092601:0362/pct:7.439825,10.738540,11.172609,29.838710/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769726:1872092601:0362/pct:7.066547,10.207980,10.619127,28.342530/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5694,7 +5703,7 @@ lust.
 For live how we can, yet die we must.   
 —Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:0051415238A:1872100401:0046/pct:15.578818,10.121237,20.484401,45.429778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:0051415238A:1872100401:0046/pct:12.068966,7.846342,15.886700,35.199564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5948,7 +5957,7 @@ lust.
 For livo how wo can, yet die wo must.  
 —Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627610:1872101201:0240/pct:6.915850,17.793965,114.231461,40.002973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627610:1872101201:0240/pct:5.356786,13.780288,88.526884,31.009365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6190,7 +6199,7 @@ dumb— &gt;•
 The bottom is hut shallow whence they come. 8  
 lour fate is hut the common fate of al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187146:1873032801:0612/pct:18.107871,17.899504,12.839444,11.041622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187146:1873032801:0612/pct:18.095357,17.888721,12.839444,11.041622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6253,7 +6262,7 @@ Davenant—28, &lt;JiHy —_&gt;:*, WiBis — 30, Addison
 Dana—38, Shakespeare.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187146:1873032801:0612/pct:18.045301,29.189131,12.876987,29.544964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187146:1873032801:0612/pct:18.032787,29.178348,12.876987,29.544964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6716,7 +6725,7 @@ Prr..
 Fcr, live wo hjv.1 we car., yet fltov mn-t.  
 Sink
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033438:00200293575:1873121001:0416/pct:9.732305,18.005099,22.300363,48.454430/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033438:00200293575:1873121001:0416/pct:7.304900,13.511791,16.742287,36.360739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6757,7 +6766,7 @@ f, e masters grow of all thai we de.plse.
 Cowley.  
 Then, I renounce that Impious self-esteem ,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293083:1873121401:0674/pct:23.550517,50.641613,12.442595,9.773144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293083:1873121401:0674/pct:17.666475,37.992667,9.342710,7.332722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6919,7 +6928,7 @@ ron ; 21, MiiolMt; 22. Crabbe; 2), Massmger; 21,
 CYowi. y ; -a, ueatue : 20, uowper ; 27, hir w. Dave  
 iiant; 28, Gray; 2., Willis; 3
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023759:1876090801:0202/pct:9.026946,12.014712,21.661677,44.135676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023759:1876090801:0202/pct:6.017964,8.009808,14.446108,29.423784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7067,7 +7076,7 @@ means, a kind, intelligent man &quot;
 man. I tell you, Mrs. Carlisle, I wouldn&#x27;t  
 marry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556266:1876101201:0028/pct:7.703777,27.234382,19.996687,89.660283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556266:1876101201:0028/pct:5.781975,20.428637,15.009940,67.270862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7657,7 +7666,7 @@ of the establishment.
   
 &quot;What other old folks do, .1 sup-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776129:1877050901:0168/pct:31.459797,56.436343,59.504294,24.614950/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776129:1877050901:0168/pct:23.594848,42.334322,44.633099,18.454147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7724,7 +7733,7 @@ Live well how long or short permit to
 u -  
 They who &#x27;forgive shall be most forgive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775204:1877080301:0279/pct:39.041995,5.624847,14.009186,14.587919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775204:1877080301:0279/pct:29.281496,4.218635,10.515092,10.943996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7780,7 +7789,7 @@ Herrinkf SS William Mason: 86 HJ1; 8
 Dana; 38 Shakespeare.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775204:1877080301:0279/pct:38.910761,25.238445,14.058399,21.447787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775204:1877080301:0279/pct:29.183071,18.928833,10.547900,16.091954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8040,7 +8049,7 @@ Drvd.-n; :. Francis Quarles: Watkins; 84, Her­
 Tik: 3.1, William Mason, 3H, Hill; T, Daua;88,  
 SlAkspi-are
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023759:1878100401:1056/pct:9.853029,10.288569,21.325735,31.548894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023759:1878100401:1056/pct:6.568686,6.862445,14.217157,21.035995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8181,7 +8190,7 @@ r™le * Cowper; 27, Sir Walter Davenant ;
 £fcis Quarles : *3, Watkins; 34, Herrick ;  
 JVJWlMam Mason ; 36, Hill; 37, Dana ; 38, Shak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_monroe_ver01:data:sn84037877:00542867656:1878120701:0245/pct:77.419355,71.014744,17.195415,24.423244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_monroe_ver01:data:sn84037877:00542867656:1878120701:0245/pct:77.392695,70.980052,17.195415,24.423244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8404,7 +8413,7 @@ VUe Intercourse where vi rtue has no place.
 Sornennlle.  
 Then keep each pass
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DaiCharO20n_ver01%2Fdata%2F1880020101%2F0109.jp2/pct:40.472695,17.846905,16.779213,23.378278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DaiCharO20n_ver01%2Fdata%2F1880020101%2F0109.jp2/pct:30.358191,13.387833,12.595420,17.549634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9135,7 +9144,7 @@ America. This is the result tf a year&#x27;s labor­
 ious search among the leading poets of the past  
 and present time:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026455:0020219803A:1881052101:0556/pct:9.436275,16.330275,17.933007,5.045872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026455:0020219803A:1881052101:0556/pct:6.290850,10.886850,11.955338,3.363914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9179,7 +9188,7 @@ A jUSt. , ! &#x27; j &#x27; &#x27;
 - : ! f , : Dana.&quot;  
 For; live we how we can, yet die we mus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026455:0020219803A:1881052101:0556/pct:9.531590,50.397554,18.041939,18.481142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026455:0020219803A:1881052101:0556/pct:6.358932,33.598369,12.023420,12.334353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9224,7 +9233,7 @@ This is the result of a year’s laborious
 search among the leading poets of the past  
 and present tim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349554:1881110401:0179/pct:40.426548,15.899796,10.934267,4.626789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349554:1881110401:0179/pct:40.410632,15.887014,10.934267,4.626789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9268,7 +9277,7 @@ The trust-that’s given guard, and to yourself be just,
 Dana.  
 For, live we how we can. yet die we mus t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349554:1881110401:0179/pct:40.410632,38.969836,10.806939,12.998466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349554:1881110401:0179/pct:40.394716,38.957055,10.806939,12.998466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9559,7 +9568,7 @@ Herrick; 3o, William Mason; 3G,
 Pill; 37, Dana; 3S, Shakespeare.  
 A short whil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020540:1882083101:0582/pct:86.434659,42.457463,13.366477,48.201439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020540:1882083101:0582/pct:64.843750,31.860226,10.042614,36.165353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9799,7 +9808,7 @@ dumb,
 &quot;Nature to each allota its proper sphere.  
 &quot;Fortune makes folly her peculiar oare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779507:1882093001:0940/pct:70.508867,49.004193,14.880493,11.111111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779507:1882093001:0940/pct:52.910563,36.766247,11.160370,8.333333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10043,7 +10052,7 @@ tneaa,
 just;- -  
 &quot;For, live how we can, die we must
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn83045160:00280779635:1882102201:0368/pct:73.210162,64.735985,12.846420,9.362642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn83045160:00280779635:1882102201:0368/pct:54.922055,48.569435,9.642032,7.036520/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10268,7 +10277,7 @@ kins; 34, Herrick; 35, William Mason;
 36, Pill; 37, Dana; 38, Shakspeare.  
 For the Standar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn86090474:00296020503:1882111801:0314/pct:25.879765,17.530191,17.650293,73.133359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn86090474:00296020503:1882111801:0314/pct:19.409824,13.154136,13.251466,54.863005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10362,7 +10371,7 @@ NEW FALL GOODS.
 We have iust returned from the Northern  
 ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023012:1882120801:0428/pct:21.583113,18.880375,32.453826,107.865049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023012:1882120801:0428/pct:16.187335,14.165602,24.366755,80.928054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10478,7 +10487,7 @@ Francis Charles ; 33, Watkint ; 34. Ilerrick ;
 Sbakspeare.  
 THE 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477722:1882120801:0202/pct:48.094556,23.611442,15.057307,46.007151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477722:1882120801:0202/pct:36.074499,17.711561,11.303725,34.517282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10736,7 +10745,7 @@ Pill; 87. Dana ; SS Shakspeare.
 bceu drivea crazy by misfortune Jidhot  
 have fa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:00212473030:1883010401:0076/pct:28.559464,62.857457,18.453378,77.650682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:00212473030:1883010401:0076/pct:19.039643,41.904971,12.311558,51.781786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10819,7 +10828,7 @@ gre\e: 12. Churchill: 12, Rochester: 14, Arm­
 strong: 17. Milton: 10. Bailey: 17, Trench: In.  
 &gt;onn-r\ii!e: p.», Thompson; 2*2 Byron:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524706:1883010401:0437/pct:14.872433,4.705072,12.912259,90.819371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524706:1883010401:0437/pct:14.856876,4.693597,12.912259,90.807895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11158,7 +11167,7 @@ Watkins; 34, Herrick; 35, William
 Mason; 30, Pill: 37, Dana: 38, Shakes­  
 peare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562458A:1883060901:0059/pct:104.820980,12.888405,18.985553,112.489421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562458A:1883060901:0059/pct:81.234296,9.986701,14.714196,87.172047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11391,7 +11400,7 @@ Shukf-pcare.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00280775861:1883080801:0780/pct:93.069695,74.084591,16.483947,41.712748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00280775861:1883080801:0780/pct:69.831637,55.582125,12.353171,31.295770/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11583,7 +11592,7 @@ tl. W hat*- all th© gaudy glitter of a crown ?
 2 The way of bits- Ilea not on beds of down,  
 -i. ll**w long we live not yea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn84022374:00332895357:1883091301:0166/pct:35.617155,16.717006,11.192469,15.863427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn84022374:00332895357:1883091301:0166/pct:35.599721,16.703874,11.192469,15.863427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11717,7 +11726,7 @@ ii. « lib craft am! skill to niln ami betray.
 2.1. Soar not too high to tall, l&gt;ui stoop to rise,  
 : ft. tt&#x27;e inimteni grow of all that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:0027952407a:1883102301:0538/pct:15.209240,12.916194,25.513724,82.115246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:0027952407a:1883102301:0538/pct:15.194240,12.905886,25.513724,82.104938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11950,7 +11959,7 @@ For lire bowe&#x27;en we may, yet die we mast.
 ShaKespeare.  
 WIT AM
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191447:1883112101:0523/pct:4.882706,8.792957,17.021277,37.728044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191447:1883112101:0523/pct:3.668849,6.597370,12.765957,28.309291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12036,7 +12045,7 @@ j us. ; uana
 For. live wa bow wi can. vet die we mnst.  
 dhaKespea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn83045160:00280779969:1884042201:0380/pct:64.846642,56.616947,11.488630,24.034698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn83045160:00280779969:1884042201:0380/pct:48.651507,42.473289,8.619778,18.036602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12130,7 +12139,7 @@ Addison; 31, Dryden; 32, &#x27;Francis Charles
 33, Walk Ins ; 34, Herrlck ! 35, Wm, Mason  
 36, Pill ; 37, Dana ; 88, Shakspear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:0029602062A:1884042601:0478/pct:14.848993,3.318609,18.386465,124.827274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:0029602062A:1884042601:0478/pct:11.143736,2.491788,13.786353,93.645940/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12797,7 +12806,7 @@ For live we how wo may, yet die we must.—
 Shakespeare.  
 —Brooklyn Magazine.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627701:1886052201:0537/pct:38.056843,6.066121,16.186253,42.068547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627701:1886052201:0537/pct:29.490022,4.686078,12.537795,32.605399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13106,7 +13115,7 @@ Gray 29 Willis 30 Addison 31 Dryden
 rick 35 William Mason 30 Pill 37  
 Dana 3S Shakespher
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_damsel_ver01:data:sn83025121:00211108915:1886110201:0486/pct:3.998351,36.646392,26.669415,73.983965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_damsel_ver01:data:sn83025121:00211108915:1886110201:0486/pct:3.009068,27.495162,19.991756,55.487973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13200,7 +13209,7 @@ I For, live now we may, yet die we must.—
 I Shakespeare.  
 ADD
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627701:1886110601:0640/pct:55.732100,6.051437,16.592920,56.701967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627701:1886110601:0640/pct:43.201931,4.689864,12.851971,43.933434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14150,7 +14159,7 @@ I &gt;an:»: 5*. sliakspeare.
   
 Co d. or Wood fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn84022374:00332895333:1887030301:0039/pct:24.796033,1.921353,10.174372,26.911746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn84022374:00332895333:1887030301:0039/pct:24.780035,1.908544,10.174372,26.911746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14227,7 +14236,7 @@ Quarles; 33, Watkins; 34, Herrick; 35, William
 Mason; 36, Hill; 37, Dana; 88, Shai(esgeare.  
 —Globe Democra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84022957:00542868739:1887030301:0065/pct:3.732965,47.686883,16.472447,28.928068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84022957:00542868739:1887030301:0065/pct:2.883666,36.953456,12.778985,22.425952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14418,7 +14427,7 @@ Dryden; 32, Francis Quarles; 33, Watkins;
 34, Herrick; 35, William Mason; 30, Hill;  
 87, Dana; 3s, Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bunting_ver01:data:sn85033474:00542864552:1887031001:0782/pct:36.699078,35.522696,14.460234,30.914718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bunting_ver01:data:sn85033474:00542864552:1887031001:0782/pct:36.674146,35.505502,14.460234,30.914718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14490,7 +14499,7 @@ Daveuant: 28. Grav; 29. Willis;k30. Addison; 31. Dry.
 den: 32 Francis Quarles; 33 Watkins; 34, Herrick  
 35. ffui. Masou; 3o Hill. 37, l)aua; 38, Shakespear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685312:1887031701:0252/pct:50.355757,18.210399,11.157827,17.944377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685312:1887031701:0252/pct:50.339586,18.198307,11.157827,17.944377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14508,7 +14517,7 @@ A Curious Litre Poem.
 Mrs. II. A. Deming, of San Francis­  
 co, is said to have occupied
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296026839:1887031701:0052/pct:53.720334,8.396666,13.758820,1.826428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296026839:1887031701:0052/pct:40.298268,6.300564,10.311097,1.372886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14595,7 +14604,7 @@ Drydeii&quot;; 32. Francis Quarle.i: 33. Wat­
 kius; 31. Derrick; 3o. William Mason;  
 36, Hill; 37, Dana; 3J, Shakspear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296026839:1887031701:0052/pct:53.704298,9.708262,14.336113,33.267958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296026839:1887031701:0052/pct:40.282232,7.281196,10.760103,24.957097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14823,7 +14832,7 @@ Quarles; 88, Watkins; 84, Herrick; 35,
 Wilson Mason; 86, Hill; 37, Dann; 88,  
 Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013882:1887033101:0263/pct:20.952821,4.530491,31.082331,91.722841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013882:1887033101:0263/pct:20.929695,4.514814,31.082331,91.707164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15421,7 +15430,7 @@ Dryden; 32, Francis Quarles; 33, Watkins;
 34, Herrick; 35, William Mason; 33, Hill;  
 37, Dana; 38, Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529637:1887041401:0540/pct:36.844396,39.743783,13.928183,27.143934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529637:1887041401:0540/pct:36.822633,39.728711,13.928183,27.143934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15813,7 +15822,7 @@ deu; 32, Francis (Juarles; 33, Watkins;
 Hill; 37, Dana; 33. Shakespeare.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776701:1887042001:0681/pct:53.160346,24.501351,14.537591,56.260456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776701:1887042001:0681/pct:39.870259,18.376013,10.911510,42.195342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16012,7 +16021,7 @@ venaut; 28. Gray; 29. Willis; 30. Addison;
 kins; 34. Herrick; 35. William Mason;  
 36. Hill; 37. Dana; 38. Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897901:1887043001:0353/pct:43.394820,57.144849,12.297373,35.410567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897901:1887043001:0353/pct:43.376188,57.130908,12.297373,35.396626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16184,7 +16193,7 @@ Drytlen: a2, l-’ranei-t^naile-: ;t;t, Wat­
 kins; H4. Herriek: do. William Mason;  
 ati. Hill; a,, Dana; 78. Shak-peare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bunting_ver01:data:sn85033474:00542864552:1887051901:0867/pct:2.141764,5.260426,14.941356,32.462364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bunting_ver01:data:sn85033474:00542864552:1887051901:0867/pct:2.116267,5.243122,14.941356,32.462364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16351,7 +16360,7 @@ kins; 34, Herrick; 35. William Mason;
 36, Hill; 37, Dana; 38, Shakspeare.  
 The Value o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539252:1887060101:0442/pct:80.405405,37.782900,14.216216,38.390612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539252:1887060101:0442/pct:60.310811,28.342414,10.662162,28.792959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17806,7 +17815,7 @@ For live we how we may, yet die
 we must.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878757:1890042401:0277/pct:37.466416,19.281525,15.072542,53.634269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878757:1890042401:0277/pct:28.103170,14.463762,11.311123,40.228320/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18014,7 +18023,7 @@ sou. 31, Dry den. 32, Francis Ujuaries. 83,
 Watkins. 34, Ilerrick. 35, Wm. Mason.  
 39, Hill. 37, Dana. 38, Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DaJoNB6n_ver01%2Fdata%2F1890070601%2F0019.jp2/pct:48.125545,9.341351,19.333043,66.480213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DaJoNB6n_ver01%2Fdata%2F1890070601%2F0019.jp2/pct:36.094159,7.006013,14.516129,49.881136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18051,7 +18060,7 @@ tragedy;
 , grief is dumb  
 . S. The&quot; bottom is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NBWeekJ4n_ver01%2Fdata%2F1890071001%2F0110.jp2/pct:78.005904,72.250596,22.463768,31.971399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NBWeekJ4n_ver01%2Fdata%2F1890071001%2F0110.jp2/pct:58.521202,54.204971,16.854536,23.981387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18069,7 +18078,7 @@ tragedy;
 Your fate is but the common late of  
 all:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NBWeekJ4n_ver01%2Fdata%2F1890071001%2F0110.jp2/pct:87.412775,84.814436,12.962963,2.008853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NBWeekJ4n_ver01%2Fdata%2F1890071001%2F0110.jp2/pct:65.579710,63.625014,9.728932,1.509477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18121,7 +18130,7 @@ a dream .
 2S. The paths of nlory  
 grav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NBWeekJ4n_ver01%2Fdata%2F1890071001%2F0110.jp2/pct:87.292002,88.026331,12.989801,17.773238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NBWeekJ4n_ver01%2Fdata%2F1890071001%2F0110.jp2/pct:65.485776,66.031097,9.742351,13.335603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18180,7 +18189,7 @@ sou. 31, Drydeu. 32, t rancis tuaries. 33
   
 their superb Carriage. This. tOO, is Watkins. 34, Henick. 35, W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NBWeekJ4n_ver01%2Fdata%2F1890071001%2F0110.jp2/pct:73.993559,107.921916,26.086957,15.435251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NBWeekJ4n_ver01%2Fdata%2F1890071001%2F0110.jp2/pct:55.515298,80.955624,19.565217,11.587788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18318,7 +18327,7 @@ Xlakethen. while yet yc may, your
   
 God your friend.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FraTL25n_ver01%2Fdata%2F1890071801%2F0113.jp2/pct:90.357766,20.917452,17.350204,60.273665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FraTL25n_ver01%2Fdata%2F1890071801%2F0113.jp2/pct:67.771960,15.690893,13.016289,45.210857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18348,7 +18357,7 @@ French. 18, Soroerrille. 19, Thompson,
 20, Cowper. 27, Sir Wii&#x27;.tam DaTcuaut.  
 28. Giat. 23. WflUi. 30, Add-on. 31,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FraTL25n_ver01%2Fdata%2F1890071801%2F0113.jp2/pct:92.161140,83.714670,15.997673,12.169134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FraTL25n_ver01%2Fdata%2F1890071801%2F0113.jp2/pct:69.124491,62.786003,11.998255,9.129655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18773,7 +18782,7 @@ Whom Christians worship, yet not comprehend.
 The trust that&#x27;s given guard, and to yourself he Just,  
 For live howe&#x27;or we may, yet die we must.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn96091104:00296020825:1891041701:0073/pct:57.678480,36.976127,26.258346,20.519894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn96091104:00296020825:1891041701:0073/pct:43.258860,27.734748,19.709810,15.405836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18793,7 +18802,7 @@ Lord has done for them.
 Hold It to the Light.  
 The man who tell
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn86053634:00212478039:1891052001:0086/pct:38.843537,91.571694,14.591837,5.459846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn86053634:00212478039:1891052001:0086/pct:29.132653,68.698648,10.952381,4.094885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18985,7 +18994,7 @@ dumb.
 is. roriuas sasaea roily oer pseuuar oar.  
 IS. Ous&#x27;oaa soos of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764091:1893032001:0267/pct:99.124396,85.724753,12.983092,13.164000/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764091:1893032001:0267/pct:74.365942,64.305776,9.737319,9.879106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19212,7 +19221,7 @@ A Tito bottom Is but shallow whence they
   
 «. i ow n» is out us common rate or a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_gabbs_ver01:data:sn86076126:0033289108A:1893061701:0194/pct:34.721888,16.599339,14.977125,13.202350/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_gabbs_ver01:data:sn86076126:0033289108A:1893061701:0194/pct:34.697809,16.580977,14.977125,13.202350/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19567,7 +19576,7 @@ For Over Fifty Yean
 Mrs. Winslow&#x27;s S iothing Syrup has  
 been use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297507:1894031501:0407/pct:48.458749,33.957845,19.718948,52.005269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297507:1894031501:0407/pct:36.355394,25.468384,14.800544,39.022248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19700,7 +19709,7 @@ Christian Age.
   
 Literature vs. Sch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542866007:1894040501:0363/pct:6.962415,8.184438,14.787431,61.556196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542866007:1894040501:0363/pct:6.941877,8.170029,14.787431,61.556196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20198,7 +20207,7 @@ Dana; 38, Shakespeare.
 The Canals of Mars.  
 As
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529686:1897070101:0637/pct:35.175439,6.814701,14.429825,35.696784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529686:1897070101:0637/pct:35.153509,6.799387,14.429825,35.696784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20490,7 +20499,7 @@ are fascinating stories of treasures
 waiting for some lucky one to find  
 them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:0051368535A:1897091601:0298/pct:79.564154,6.932382,14.409606,71.029777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:0051368535A:1897091601:0298/pct:79.541917,6.916873,14.409606,71.014268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20533,7 +20542,7 @@ are fascinating stories of treasures
 waiting for some lucky one to find  
 them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270502:00271762781:1897092001:0560/pct:59.793052,77.655510,17.036216,19.134953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270502:00271762781:1897092001:0560/pct:44.844789,58.260737,12.804878,14.351215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20679,7 +20688,7 @@ to yourself be just.
   
 must.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270502:00271762781:1897092301:0588/pct:94.388889,26.787358,32.425926,63.577785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270502:00271762781:1897092301:0588/pct:70.814815,20.098190,24.314815,47.698681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20734,7 +20743,7 @@ fingers in their ears to keep out the
 horrible sounds.  
 The grim Recorder leane
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270502:00271762781:1897092301:0588/pct:76.555556,59.680884,52.574074,46.854863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270502:00271762781:1897092301:0588/pct:57.444444,44.783676,39.425926,35.148819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21476,7 +21485,7 @@ Mason; 36, PilJ; 37, Dana; 38,Shakespeare.
   
 BTJCKLE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:0027176358A:1898110301:0198/pct:67.049419,5.813819,14.534884,48.483101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:0027176358A:1898110301:0198/pct:50.305233,4.360365,10.901163,36.382512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21551,7 +21560,7 @@ peare.
   
 C 5 jB
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_abolitionist_ver02:data:sn86074033:00199916385:1898111901:0063/pct:65.831406,18.971683,14.443588,25.785252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_abolitionist_ver02:data:sn86074033:00199916385:1898111901:0063/pct:51.015163,14.699913,11.192496,19.986470/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21697,7 +21706,7 @@ Davenant: 28. Gray; 29. Willis: 30. Addison; 31. Drxden: 32,
 Fi-anei- (Quarles: 33. Watkins; 31. Herrick: 35. Wiilu.m  
 Mason; 36 Hill: 37 Dana: 38. Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159257:1899072001:0225/pct:52.015437,75.838710,23.727844,46.967742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159257:1899072001:0225/pct:40.308748,58.774194,18.381933,36.397849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

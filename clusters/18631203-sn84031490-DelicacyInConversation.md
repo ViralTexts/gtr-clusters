@@ -197,7 +197,7 @@ this conversation is cruel, and the compa­
 risons which naturally rises m them betwixt  
 their condition and yours j ezcrut&#x27;rating
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalReg19n_ver01%2Fdata%2F1828071801%2F0223.jp2/pct:52.904192,91.453771,24.086826,12.946067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalReg19n_ver01%2Fdata%2F1828071801%2F0223.jp2/pct:39.685629,68.603001,18.068862,9.712084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ naturally rises in them betwixt their condw
   
 tiqft and yours is excrutiati
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarObsF3n_ver01%2Fdata%2F1828073101%2F0085.jp2/pct:98.378141,106.834639,24.956166,21.158615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarObsF3n_ver01%2Fdata%2F1828073101%2F0085.jp2/pct:73.787259,80.140859,18.717124,15.871441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -433,7 +433,7 @@ id this ova venation it cruel, and the eompeneo
 — - which naturally rises m them fictwiu tbeir condi  
 &gt;- turn and yours, » tucruciatinf.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007020:00393342894:1851090901:0837/pct:40.711732,91.486486,13.536523,4.648649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007020:00393342894:1851090901:0837/pct:40.694705,91.459459,13.536523,4.648649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -485,7 +485,7 @@ naturally rises in them betwixt their con­
 * dition and yours, is excrutiating.  
 ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82014892:00393342870:1851092701:0129/pct:74.642096,84.768823,15.077673,7.529113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82014892:00393342870:1851092701:0129/pct:74.626866,84.745763,15.077673,7.529113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ versation is cruel, and the comparison which
 naturally raises in them betwixt their con­  
 dition and yours is excrutiating.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82014892:00393342870:1852031301:0143/pct:16.225266,82.193194,14.596651,6.886674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82014892:00393342870:1852031301:0143/pct:16.210046,82.170276,14.596651,6.886674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -533,7 +533,7 @@ ble. This conversation is cruel, and the comparison
 which naiorally rises in them betwixt their condition  
 and yours is excruciating.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853011201:0019/pct:43.352341,118.567164,19.882953,6.722388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853011201:0019/pct:32.518007,88.955224,14.915966,5.038806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -558,7 +558,10 @@ In woman eight- As age inreaies, a man&#x27;s l i perity before the miserable. �
 heart grows heavier , and a woman&#x27;s ligbter two is erne; and the comparison which yet­  
 i Ail: alit&#x27;. Soine drIS lose theirs at six--I urally, rises, it* them betwixt their condition  
 leen. &#x27; and yipirs telicruciating,
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002342%2F1853060401%2F0089.jp2/pct:65.443244,91.591248,19.664792,4.356169/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -603,7 +606,7 @@ naturally rises in them betwixt their condi
 lion and yours, is excruciating.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_charm_ver01%2Fdata%2Fsn83025129%2F00000002043%2F1858041001%2F0639.jp2/pct:69.626594,101.632827,19.034608,11.699560/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_charm_ver01%2Fdata%2Fsn83025129%2F00000002043%2F1858041001%2F0639.jp2/pct:52.254098,76.274315,14.275956,8.788868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -704,7 +707,7 @@ tion is cruel, and the comparison which natu­
 rally arises in them betwixt their condition  
 and yours is excrutiation.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769787:1863120901:0259/pct:34.624601,86.465121,12.539936,6.644589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769787:1863120901:0259/pct:32.894036,82.138660,11.914271,6.302745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -952,7 +955,7 @@ arise ia Ihem betwixt their condition aud your
 excruciating.  
 X
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_20210412Foo05_ver01%2Fdata%2Fsn83025131%2F14063001525%2F1864011801%2F0121.jp2/pct:93.331940,119.389665,17.328595,8.593638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_20210412Foo05_ver01%2Fdata%2Fsn83025131%2F14063001525%2F1864011801%2F0121.jp2/pct:70.004181,89.563841,13.001672,6.448827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1051,7 +1054,7 @@ son which naturully arises in them betwixt
 their condition and ytiars is eitnlclating.’*  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_invicta_ver01:data:sn89053987:print:1864033101:0083/pct:48.939641,83.269159,14.428131,13.985840/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_invicta_ver01:data:sn89053987:print:1864033101:0083/pct:48.921515,83.244317,14.428131,13.985840/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1083,7 +1086,10 @@ Bruyere, we would not forget that &quot;there
 is speaking well, speaking easily, speak­  
 ing justly, and speaking seasonably.&quot;.  
 There is good sens
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fufluns_ver02%2Fdata%2F2018264050%2F000002749%2F1865020201%2F0033.jp2/pct:35.606965,78.049324,14.054726,12.546427/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1677,7 +1683,7 @@ newer cleans the scalp of dandruff, and
 allays all unpleasant irritations.  
 We have a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665799:1871020201:0841/pct:22.165388,53.909135,14.620631,2.986033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665799:1871020201:0841/pct:16.624041,40.439878,10.976130,2.231498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1768,7 +1774,7 @@ STOEATIVE.
 —Prevents the hair from falling off.  
 _j—See advertisement
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver02:data:sn97064666:00517016068:1871062201:0182/pct:59.044025,14.117834,33.584906,78.323011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver02:data:sn97064666:00517016068:1871062201:0182/pct:59.018868,14.101953,33.584906,78.307130/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1788,7 +1794,7 @@ I perfumed. Restores Gray Hair. Prevents the
 l Hair from falling oil&#x27;.  
 t Bee advertisement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026050:00280776798:1871062701:0649/pct:101.942740,124.615642,22.776074,4.411765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026050:00280776798:1871062701:0649/pct:76.508180,93.532754,17.101227,3.308824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1812,7 +1818,7 @@ t Bee advertisement.
 ^Prevents the hair from tailing off.  
 —See advertisement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85033526:00212472554:1871092801:0430/pct:49.696433,24.032546,9.271439,4.663624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85033526:00212472554:1871092801:0430/pct:45.965090,22.226632,8.575765,4.316333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

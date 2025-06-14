@@ -78,7 +78,7 @@ and pay in advance, and it shall be well
 with thee and thy little ones. Broivns  
 vill
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287927:1837082601:0082/pct:79.625000,23.183849,48.425000,104.236306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287927:1837082601:0082/pct:59.750000,17.392024,36.325000,78.222737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ eye. that thou mayst understand it.
 ately for it, and pay in trlcance, and it i  
 shall be well w th thee and thy little one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215622:1837091401:0695/pct:54.590542,50.463667,15.790081,14.594102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215622:1837091401:0695/pct:54.579008,50.456066,15.790081,14.594102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ ately for it, and pay in advance, and it
 shall be well with thee and thy little  
 ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1837092001:0531/pct:46.251713,70.868946,14.151497,18.034188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1837092001:0531/pct:46.232139,70.854701,14.151497,18.019943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -326,7 +326,7 @@ fi.Lnr f decav. Woman ! thy empire is the heart j Rating the several changes, an
 and he who would know the capacity ol the hu­  
 man soul for happiness, must y eld himself to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058213:00271744730:1837100701:0643/pct:1.362484,87.976614,104.119138,41.471784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058213:00271744730:1837100701:0643/pct:1.029785,66.014235,78.121039,31.113371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -549,7 +549,7 @@ hirntTft ho: is the author of anrarticlc;
   
 We have taken up the idea, we think i for his duty requires him to keep such
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SCitAsh1n_ver01%2Fdata%2F1837102101%2F0166.jp2/pct:51.589347,7.603656,45.253436,11.259770/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SCitAsh1n_ver01%2Fdata%2F1837102101%2F0166.jp2/pct:38.724227,5.709365,33.956186,8.438204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -575,7 +575,7 @@ ISrvwhsvule Manner.
   
 pie of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SCitAsh1n_ver01%2Fdata%2F1837102101%2F0166.jp2/pct:31.035223,7.630150,71.885739,43.250762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SCitAsh1n_ver01%2Fdata%2F1837102101%2F0166.jp2/pct:23.281787,5.722612,53.973368,32.454630/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -751,7 +751,7 @@ r reier tny coanirr paper tO.ArtJ&#x27;bther:
 B-iuscnur immeoiaieir &#x27; ior ir, &quot;amj pay in  
 advance; and it slralf Ve well with thee1 and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarObsF8n_ver01%2Fdata%2F1837111501%2F0182.jp2/pct:94.805195,90.704438,21.536797,19.291254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarObsF8n_ver01%2Fdata%2F1837111501%2F0182.jp2/pct:71.119357,68.041792,16.156463,14.487290/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -788,7 +788,7 @@ and pay in advance; and it shall Ix
 well with thee and thy little ones.  
 At 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarRal11n_ver01%2Fdata%2F1837112201%2F1027.jp2/pct:113.185654,99.781596,19.451477,18.972044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarRal11n_ver01%2Fdata%2F1837112201%2F1027.jp2/pct:84.936709,74.883518,14.599156,14.225393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -826,7 +826,7 @@ subscribe immediately for it, and pay in advance,
 and it shall be well with thee and thy little ones.  
 THE ORIGINA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_errol_ver01:data:sn84045036:00516993583:1837112301:0161/pct:66.216216,3.664027,14.781705,13.584847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_errol_ver01:data:sn84045036:00516993583:1837112301:0161/pct:66.195426,3.648502,14.781705,13.584847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -877,7 +877,7 @@ it&quot;shall be welf with thee and thy littte ooes,
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1838010601:0095/pct:44.174566,88.629857,20.833333,16.918882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1838010601:0095/pct:33.135861,66.503067,15.659558,12.706203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -954,7 +954,7 @@ scribe immediately for it, and pay in advance;
 and it shall be,wel{ with thee and thy little ones.  
 A BEAvY Carrtar. The amount of ie i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_isolation_ver01:data:sn84022931:00542868314:1838033101:0257/pct:103.282191,104.980843,19.557196,16.886618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_isolation_ver01:data:sn84022931:00542868314:1838033101:0257/pct:80.034958,81.353768,15.167994,13.083582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -990,7 +990,7 @@ Neither examine thou the proof-sheet ;
 for it is not roadv to meet thino eye, ihlt  
 thou may est understand it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn83016620:00202197991:1838052301:0410/pct:124.652220,100.268041,18.258427,18.659794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn83016620:00202197991:1838052301:0410/pct:83.105939,66.845361,12.172285,12.453608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1027,7 +1027,7 @@ may&#x27;st undorstnnil it.
 .&#x27;iubscnbc immediatcly for it, and pny m advancc;  
 and it shall bo woll with theo and thv little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1838061201:0183/pct:77.631579,59.410687,23.233083,18.017764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1838061201:0183/pct:58.251880,44.579163,17.443609,13.520372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1212,7 +1212,7 @@ derstandit. 1 , 4- rt t-
 immediately tor it, and pay in advance; and it  
 shall be weU with the and thy Iittle.ones;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalMicro1n_ver01%2Fdata%2F1838092901%2F0053.jp2/pct:52.017820,95.318669,38.181342,33.596541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalMicro1n_ver01%2Fdata%2F1838092901%2F0053.jp2/pct:39.019916,71.517202,28.668763,25.211506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1265,7 +1265,7 @@ subscribe immediately for it. and pay in
 advance, and it shall be well with thee  
 and thy little ones. :
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016939:00295878216:1838102001:0611/pct:74.698516,25.398666,44.967532,96.216295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016939:00295878216:1838102001:0611/pct:56.052876,19.049000,33.766234,72.223833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1352,7 +1352,10 @@ and thy little ones.
   
 It&#x27;s a sad house where the hen crows  
 lotider than the coc
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_diana_ver01%2Fdata%2Fsn86071454%2F000002108%2F1838111401%2F0020.jp2/pct:18.917852,73.766546,15.268562,21.774970/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1394,7 +1397,7 @@ vance, that it may be well with the and thy
 little ones.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016864:00295878186:1839010101:0620/pct:22.761194,9.073746,18.687811,23.799410/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016864:00295878186:1839010101:0620/pct:17.070896,6.808260,14.023632,17.852507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1435,7 +1438,7 @@ scribe immediately it an l&quot; pay in ad­
 vance, that it may be well ilh thee and  
 thv little on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn87065337:00415662002:1839011201:0128/pct:2.651163,11.777188,46.558140,114.389920/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn87065337:00415662002:1839011201:0128/pct:2.000000,8.832891,34.953488,85.848806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1513,7 +1516,7 @@ and it shall be well with the and thy little
 oneB.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1840100301:0335/pct:72.420382,9.321922,19.458599,18.854510/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1840100301:0335/pct:54.331210,6.991442,14.617834,14.140882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1674,7 +1677,7 @@ advance and it shall be well with thee and
 thy little ones. Richland Jef.  
 Quite 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065695:00295877583:1841123101:0114/pct:95.868773,58.749230,21.613001,22.437872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065695:00295877583:1841123101:0114/pct:71.901580,44.064490,16.221142,16.830971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1716,7 +1719,10 @@ subscribe for
 .it immediately and pay in  
 advance and tt shall be well with thee and  
 thy. little eves.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_faunus_ver01%2Fdata%2Fsn86081069%2F000002407%2F1842020101%2F0014.jp2/pct:7.101688,65.531716,14.491560,14.846441/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1742,7 +1748,7 @@ The following ore the Yei nd on
   
 the passage-of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1842021201:0400/pct:87.745869,6.095151,38.552321,119.288646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1842021201:0400/pct:65.833989,4.575163,28.933910,89.512084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1911,7 +1917,7 @@ is still better, they won’t let a fellow look at
 them if he owe the printer more than one  
 yea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1842072101:0504/pct:58.108705,80.651643,17.322139,15.300703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1842072101:0504/pct:58.086611,80.622937,17.322139,15.300703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1952,7 +1958,7 @@ Col. Switzlbr its readers will lose noth­
 ing by the change, as the two numbers is  
 sued since Mr. M&#x27;K. has taken charg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1842090301:0519/pct:89.061257,44.742048,19.212411,23.040633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1842090301:0519/pct:66.845664,33.571755,14.399364,17.288084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1986,7 +1992,7 @@ him who is the author of an article: for
 his duty requires him to keep such things  
 to himself.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348987:1844030701:0043/pct:15.304413,78.602740,12.995718,6.287671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348987:1844030701:0043/pct:15.285794,78.575342,12.995718,6.287671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2074,7 +2080,7 @@ advance, that it may be well with thee
 [a nd thy little ones.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082160:00514159324:1844033001:0212/pct:37.399840,6.276994,41.085737,116.441117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082160:00514159324:1844033001:0212/pct:28.986378,4.866110,31.830929,90.224590/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2202,7 +2208,7 @@ Look not at the copy which is in tha
 hands of the compositor, for that is not  
 meet in tne aigiu 01 me prime
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016863:00415662051:1844042701:0284/pct:102.953074,94.521956,19.579288,16.580996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016863:00415662051:1844042701:0284/pct:77.265372,70.920840,14.684466,12.454105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2238,7 +2244,7 @@ it is being struck off, or look over the
 shoulders of the editor while ha is  
 reading proo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065034:00295877649:1844052301:0219/pct:106.836735,106.295299,20.393586,18.285359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065034:00295877649:1844052301:0219/pct:80.145773,79.747360,15.291545,13.719197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2314,7 +2320,7 @@ scribe immediately for it, and pay in advance,
 that it may be well with thee and thy little  
 ones.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_energytonic_ver01:data:sn82015816:00516995610:1844053101:0502/pct:88.857466,49.003598,18.684012,15.541102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_energytonic_ver01:data:sn82015816:00516995610:1844053101:0502/pct:68.853695,37.973983,14.479638,12.039856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2386,7 +2392,7 @@ Hill Aurora, with much truth
 bunker  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287940:1844072701:0053/pct:105.472637,60.650278,20.315091,19.777954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287940:1844072701:0053/pct:79.104478,45.487708,15.257048,14.845361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2555,7 +2561,7 @@ with thee and thy little
 ones.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292431:1845090601:0355/pct:6.984127,7.149446,18.154762,30.458180/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292431:1845090601:0355/pct:5.238095,5.365929,13.630952,22.847478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2758,7 +2764,7 @@ may be well with thee and thy little ones.
   
 Expectep Returs or tu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_isolation_ver01:data:sn84022932:00542868466:1847091701:0152/pct:108.375819,92.117210,16.114348,12.739029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_isolation_ver01:data:sn84022932:00542868466:1847091701:0152/pct:83.994902,71.385335,12.490896,9.863805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2820,7 +2826,7 @@ little ones.— Exeter News Letter.
   
 Drat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_dinomayo_ver02:data:sn92051540:00517174968:1847092501:0568/pct:5.609915,5.562827,85.127202,116.721204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_dinomayo_ver02:data:sn92051540:00517174968:1847092501:0568/pct:4.348771,4.303010,65.949119,90.445026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2872,7 +2878,7 @@ printer.
 ready to meet thine eye, that thou mayst understand it.  
 3 [Exete
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84024361:00542868272:1847092901:0504/pct:84.756969,77.583211,18.959971,24.234728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84024361:00542868272:1847092901:0504/pct:65.689778,60.125652,14.689064,18.767544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2913,7 +2919,7 @@ any other—subscribe immediately lor it and
 pay in advance, and it shall be well with thee  
 and thy little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348999:1847102101:0163/pct:69.167292,61.271198,13.222056,14.476768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348999:1847102101:0163/pct:69.148537,61.257411,13.222056,14.462981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3014,7 +3020,7 @@ for it and pay in advance, and it shall be
 well withjthee and thy littleones. Exiter  
 News letter; ; .-&quot;&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1847102901:0079/pct:56.891271,96.497035,16.921899,22.452076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1847102901:0079/pct:42.668453,72.390015,12.691424,16.839057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3116,7 +3122,7 @@ it and pay in advance, and it shall be well
 wilh thee and thy little &quot;, ones. Extra  
 Netts Letter: : - - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:0021247163A:1847111601:0265/pct:105.362584,39.064588,19.485070,23.095768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:0021247163A:1847111601:0265/pct:79.052407,29.309577,14.625229,17.327394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3484,7 +3490,10 @@ wssitie,ind- it shall be well with thee and
 thy,iitile ones.  
   
 .
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fauna_ver01%2Fdata%2Fsn85038381%2F000002391%2F1849030201%2F0026.jp2/pct:52.046010,61.660179,6.323799,11.288927/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3524,7 +3533,7 @@ LitportTAST to California Emicraiits. Gen
 Smiih, on his way out to California, sent an ira­  
 portani notification to ihe 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmChron1n_ver01%2Fdata%2F1849031401%2F0800.jp2/pct:107.516829,92.987322,20.231862,18.343899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmChron1n_ver01%2Fdata%2F1849031401%2F0800.jp2/pct:80.665669,69.756999,15.164547,13.774432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3557,7 +3566,7 @@ If IDUSTRI is no more than habit, it is at least an excel­
 lent one. “ If you ask me which is the real hereditary sin of  
 human nature, do you imagine I shall answer pride, or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_custer_ver01:data:sn83026172:00211678100:1849031401:0318/pct:20.936116,79.145217,15.543960,9.960493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_custer_ver01:data:sn83026172:00211678100:1849031401:0318/pct:20.920304,79.121274,15.543960,9.960493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3573,7 +3582,7 @@ human nature, do you imagine I shall answer pride, or
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1849-03-17_4_26/page/n5/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1849-03-17_4_26/page/n5/mode/1up?view=theater)
 
 #### 1849-03-17 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3635,7 +3644,7 @@ pay in advance,&#x27; an,d it sUuil be well witn
 thee and tby litile ones.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ComWilm2n_ver01%2Fdata%2F1849032201%2F0283.jp2/pct:8.784830,10.878661,40.402477,5.674686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ComWilm2n_ver01%2Fdata%2F1849032201%2F0283.jp2/pct:6.598297,8.158996,30.321207,4.262552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3674,7 +3683,7 @@ other, and subscribe immediately for it and
 pay in itdvance, and it shall be Well witn  
 thee and thy little-ones. ... ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WeekComW1n_ver01%2Fdata%2F1849032301%2F0122.jp2/pct:91.125198,25.330591,20.972002,20.295817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WeekComW1n_ver01%2Fdata%2F1849032301%2F0122.jp2/pct:68.343899,19.002841,15.742208,15.221863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3710,7 +3719,7 @@ well with thee and thy little ones.
 A Costly Pen. Gen. Taylor is abont  
 to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1849032601:0570/pct:33.640351,41.168091,22.807018,23.994935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1849032601:0570/pct:25.241228,30.895853,17.127193,18.012029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3757,7 +3766,7 @@ meet thine eye, J.hat you mayest understand
 Oil Contract Taken. The iovernment  
 ontract
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OldNSEC1n_ver01%2Fdata%2F1849040701%2F0027.jp2/pct:33.227007,103.012871,19.364700,17.482449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OldNSEC1n_ver01%2Fdata%2F1849040701%2F0027.jp2/pct:24.920255,77.271841,14.526847,13.114275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3783,7 +3792,7 @@ to his office, have a cure unto thy .-.elf that thou do t
 not look at w hut m - v be Iv ir g open, for it is not  
 meet in the o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:00271769751:1849042701:0111/pct:81.331878,74.935622,14.574236,7.253219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:00271769751:1849042701:0111/pct:77.265284,71.190987,13.837336,6.877682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3845,7 +3854,7 @@ his recent valedictory on retiring from the
 editorial chair, which he had filled for  
 forty-two years, .has the foil-owin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1849072101:0333/pct:67.797344,70.157771,20.381062,22.345306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1849072101:0333/pct:50.866051,52.646302,15.285797,16.761777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3880,7 +3889,10 @@ and it shall be well with thee and thy little ones•
   
 BURNING Cntanscys.—Mr. A. Booth, lecturer on  
 chemistry, in a letter t
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aerecura_ver01%2Fdata%2Fsn84024558%2F000001784%2F1849080101%2F0117.jp2/pct:4.645104,74.331276,14.353126,12.878454/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3923,7 +3935,10 @@ dollars, and the imports nine millionS, two hun­
 dred and ninety thousand, four hundred and  
 thirty-nine dollars.  
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aurora_ver01%2Fdata%2Fsn84038509%2F000001975%2F1849083001%2F0126.jp2/pct:23.458059,52.710177,27.878289,16.908976/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3987,7 +4002,7 @@ other, and subscribe immediately for it, and
 pay in advance, and it shall be well with, thee  
 and thy little ones. Picayune
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289699:1849110301:0737/pct:27.215190,64.846377,20.353098,14.771014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289699:1849110301:0737/pct:20.419720,48.637681,15.256496,11.084058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4328,7 +4343,7 @@ of gKKl bree-ling, Kmtiier examine thou tte
 pns.f sheet, for It is B&#x27;it ready hi meet thine eve.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarRal6n_ver01%2Fdata%2F1853111601%2F1018.jp2/pct:92.196414,115.763772,17.216789,10.865253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarRal6n_ver01%2Fdata%2F1853111601%2F1018.jp2/pct:69.193154,86.876240,12.917685,8.148939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4364,7 +4379,10 @@ meet thino eye, that thou twat understand&#x27;
   
 . .  
 SEVERE
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001829%2F1853112301%2F0138.jp2/pct:44.879287,75.277018,11.515616,10.300043/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4521,7 +4539,7 @@ with thee and thy little ones.
 GENERAL NEWS  
 TH
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL1_ver01%2Fdata%2F1854032901%2F0770.jp2/pct:48.919294,53.559421,13.880627,20.070165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL1_ver01%2Fdata%2F1854032901%2F0770.jp2/pct:48.899465,53.544803,13.880627,20.070165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4588,7 +4606,7 @@ for it is not ready to meet thine eye, that
 thou mayest understand it.  
 Where&#x27;s the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1855122001:0172/pct:91.863075,60.783479,16.231762,19.672131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1855122001:0172/pct:68.925365,45.603577,12.177329,14.764743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4669,7 +4687,7 @@ and subscribe nn mediately lor it and pay jii
 advance, ami il shall be well with thee and  
 Ihy lilteoues. ,,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn84028570:00280774790:1856022801:0363/pct:65.622424,101.496875,17.951360,16.160442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn84028570:00280774790:1856022801:0363/pct:49.216818,76.137189,13.478978,12.134864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4806,7 +4824,7 @@ Pay in advance, and it shall be well with
 thee and thy little ones. .  
 Tho Bounty La
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775782:1856041101:0279/pct:56.989645,109.356066,16.974852,18.669861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775782:1856041101:0279/pct:42.751479,82.048753,12.740385,14.005918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4875,7 +4893,7 @@ any other, and subscribe immediate­
 ly for it and pay in advaaoe end. it  
 shell be well with thee aod t^jr little
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059861:00514157364:1856041601:0206/pct:55.820628,77.916830,12.771300,15.708513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059861:00514157364:1856041601:0206/pct:55.802691,77.890757,12.771300,15.708513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4930,7 +4948,10 @@ Prefer] thine own county :paper i s O - ar.y oth­
 er, and subscribe imqediately forlit and pay  
 in adyatSe, and it will&#x27; be well thee and  
 thy little ones.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_arimanius_ver01%2Fdata%2Fsn84026111%2F000001961%2F1856042401%2F0064.jp2/pct:20.410909,56.750750,11.476364,10.756754/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5117,7 +5138,7 @@ any other, and subscribe immediately
 for it and pay in advance, and it will  
 be well with thee and thy little ones.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470697:1856072601:0030/pct:39.154893,91.289398,16.732077,20.429799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470697:1856072601:0030/pct:29.369440,68.471824,12.558870,15.329513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5155,7 +5176,7 @@ thee- and thy little ones.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151118:1856092301:0072/pct:26.043738,72.710375,11.574994,11.659344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151118:1856092301:0072/pct:26.021648,72.693478,11.574994,11.642447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5347,7 +5368,7 @@ ranra nn.l .Kail . ll .1. I .x
 . , wui wivu moeanu tay uiue  
 ones,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalRegNCWA7n_ver01%2Fdata%2F1857090901%2F0350.jp2/pct:63.078125,101.684533,18.406250,15.938273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalRegNCWA7n_ver01%2Fdata%2F1857090901%2F0350.jp2/pct:47.328125,76.298740,13.812500,11.956650/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5402,7 +5423,7 @@ all othr journals; iub?cribc tmmcdiately
 for it. pay in advance, and it shall be well  
 with thee &#x27;and thy little ones.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DemPEC2n_ver01%2Fdata%2F1857091501%2F0144.jp2/pct:64.773348,3.783231,17.654287,21.380368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DemPEC2n_ver01%2Fdata%2F1857091501%2F0144.jp2/pct:48.580011,2.842536,13.244129,16.032720/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5431,7 +5452,7 @@ bSr Neither examine thou the prootsheet, for
 it iot ready to meet thine eye, that thou mayest  
 it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474216:1857091701:0047/pct:19.843169,117.585133,17.344498,9.313568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474216:1857091701:0047/pct:14.885699,88.226448,13.011696,6.982490/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5523,7 +5544,10 @@ down: . I
 journals; sibscribe im ediately for It, pay in  
 advance, sad&#x27;it shalt be well with thee and thy  
 little one.,
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002346%2F1857092601%2F0153.jp2/pct:82.961477,55.427046,11.091493,9.083343/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5652,7 +5676,10 @@ the very letter, we always find seine mis­
 take which renders them anything but  
 what we expected.  
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001944%2F1857102101%2F0165.jp2/pct:34.494685,67.680405,13.889826,26.293851/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6017,7 +6044,7 @@ of the printer, ami he might knock you down.
 ready to meet thine eye that thou niavest understand  
 i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AmAdKin2n_ver01%2Fdata%2F1858040101%2F0351.jp2/pct:42.902542,106.807388,20.409605,13.232190/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AmAdKin2n_ver01%2Fdata%2F1858040101%2F0351.jp2/pct:32.185734,80.131926,15.307203,9.934037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6234,7 +6261,7 @@ it ia not ready to meet thine, eye, that then
 mayst understand it. -  
 Tik End oi! tiie World- A di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TiGreen1n_ver01%2Fdata%2F1858052901%2F0466.jp2/pct:112.412993,97.894441,17.459397,21.280180/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TiGreen1n_ver01%2Fdata%2F1858052901%2F0466.jp2/pct:84.358082,73.469961,13.089714,15.960135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6275,7 +6302,7 @@ is not ready to meet thine eye, that thou
 mayest understand it.  
 Marri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038462:00514151039:1858061001:0074/pct:16.021086,73.706531,12.995645,19.168787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038462:00514151039:1858061001:0074/pct:15.998166,73.689567,12.995645,19.151824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6403,7 +6430,7 @@ it is not ready to meet thine eye, that thou
 mayest understand it.  
 Laziness tr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85030219:00212472803:1858062601:0204/pct:70.805369,121.234623,22.223917,22.941372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85030219:00212472803:1858062601:0204/pct:47.223917,80.860024,14.810860,15.294248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6445,7 +6472,7 @@ raayest understand it.
 Beautiful Anecdote.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1858070101:0337/pct:94.160757,83.580420,16.501182,22.041958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1858070101:0337/pct:70.650118,62.703963,12.375887,16.540793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6722,7 +6749,7 @@ thine eye, that thou nn.yo t understand
 it.  
 teT A man who i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1858082701:0435/pct:71.439510,95.730468,15.486217,14.217252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1858082701:0435/pct:55.359877,74.179495,12.002297,11.022364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6794,7 +6821,10 @@ in the sight of the printer; and he might knock
 thee down.  
   
 g®“ Fonr 3hnwa of the stock ofth
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_monroej_ver01%2Fdata%2Fsn83031964%2F000001713%2F1858090901%2F0122.jp2/pct:23.415998,76.728220,11.987529,2.947443/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6836,7 +6866,7 @@ with certainty, the nomination of Mr.
 Albert for Auditor and Mr. Boner for  
 Sheriff. The vote was a very light on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn85026031:00280774807:1858090901:0385/pct:7.582487,11.391725,30.853426,110.706609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn85026031:00280774807:1858090901:0385/pct:5.694797,8.543794,23.144036,83.046749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7060,7 +7090,7 @@ the hand of the compositor, for that is not
 meet in the sight of a printer, and he  
 might knock thee down
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1859091401:0351/pct:54.974856,63.626537,12.877155,16.295095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1859091401:0351/pct:54.956897,63.613025,12.877155,16.281584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7200,7 +7230,7 @@ the hands of the compositor, for that is not
 meet in the sight of the printer.  
 CT I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85025182:00212477886:1861031301:0150/pct:111.350897,62.491301,16.605942,16.539086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85025182:00212477886:1861031301:0150/pct:83.548206,46.880074,12.457960,12.421712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7308,7 +7338,7 @@ printer trouble
 Look thou not at the copy which is in the  
 hands of the compositor, for tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_DemoWatchman1_ver01%2Fdata%2Fsn83031981%2F00000001%2F1861060601%2F0025.jp2/pct:63.720500,89.483371,16.890329,7.940055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_DemoWatchman1_ver01%2Fdata%2Fsn83031981%2F00000001%2F1861060601%2F0025.jp2/pct:49.375289,69.357171,13.095789,6.125937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7343,7 +7373,7 @@ eight of the printer.
 Sigs of Hank The relative rank of offi  
 cers in the regular army i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477643:1861081401:0364/pct:11.365003,26.867374,18.911606,15.760064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477643:1861081401:0364/pct:8.523752,20.150530,14.191221,11.825750/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7732,7 +7762,7 @@ l&quot; in ninnt flitim tl.nf
 it IS not ready to meet tllltie ejO, tlWt  
 thou&#x27;mavest Utldeistanil It.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_lyonsport_ver02:data:sn84022673:00200298433:1872051701:0128/pct:25.423729,100.361833,16.031073,15.800054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_lyonsport_ver02:data:sn84022673:00200298433:1872051701:0128/pct:19.067797,75.288127,12.040960,11.860091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7767,7 +7797,7 @@ is in the hands of the compositor, for it
 is not mete, in the eyes of the printer,  
 ana lie might Knoca tne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775265:1881041401:0213/pct:23.577502,114.461260,14.584696,13.426465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775265:1881041401:0213/pct:17.691302,85.862114,10.938522,10.076316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7805,7 +7835,7 @@ any other, and subscribe immediately
 tor it and pay in advance, and it will  
 be well with thee and thy little oner
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_junior_ver01:data:sn85035561:00332896921:1881110301:0144/pct:29.809253,15.883352,12.012987,15.826727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_junior_ver01:data:sn85035561:00332896921:1881110301:0144/pct:29.788961,15.869196,12.012987,15.826727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

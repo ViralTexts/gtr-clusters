@@ -109,7 +109,7 @@ ami one hears everywhere, &quot;That&#x27;s what I&#x27;ve
 been telling Emily.&#x27;*—Harper&#x27;s Magazine for  
 Decembe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_eos_ver01:data:sn83021205:00517171785:1874111301:1080/pct:66.596113,7.557733,13.911872,13.379986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_eos_ver01:data:sn83021205:00517171785:1874111301:1080/pct:51.606696,5.850245,10.775447,10.370889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ of the papers, and one hears every where,
 EtUbjfs Drawer, In Harper&#x27;s Magazine for  
 December,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_iris_ver01:data:sn83021219:00517171426:1874112001:1108/pct:21.397463,97.947011,14.050369,23.581634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_iris_ver01:data:sn83021219:00517171426:1874112001:1108/pct:16.587767,75.905119,10.888089,18.282702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ hears every where, &quot;That&#x27;s what I&#x27;ve
 been telling Emily.&quot; Harper&#x27;.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn86053406:00296020709:1874112701:0411/pct:101.364366,94.926260,13.162119,29.495928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn86053406:00296020709:1874112701:0411/pct:76.029963,71.197447,9.871589,22.132952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1149,7 +1149,7 @@ going the rounds of the newspapers, and
 : now one hears everywhere:  
 “That’s what I’ve been telling Emily.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349517:1874121101:0395/pct:71.440275,42.146803,11.584467,15.732702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349517:1874121101:0395/pct:71.423890,42.133649,11.584467,15.732702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1245,7 +1245,7 @@ by a stalwart young emigrant, who
   
 cried out:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarWilm67n_ver01%2Fdata%2F1874121301%2F0481.jp2/pct:17.395055,6.775272,17.366302,10.443414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarWilm67n_ver01%2Fdata%2F1874121301%2F0481.jp2/pct:13.053479,5.081454,13.024727,7.832560/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1268,7 +1268,7 @@ too man r children.? &#x27; ?
 Lord Duff erin said: v , r ; , &#x27;  
 &quot;I remarked that perhaps no better
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarWilm67n_ver01%2Fdata%2F1874121301%2F0481.jp2/pct:3.637148,120.196353,16.173088,5.221707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarWilm67n_ver01%2Fdata%2F1874121301%2F0481.jp2/pct:2.731455,90.160751,12.133410,3.916280/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1325,7 +1325,7 @@ the round of the papers, and one hears
 everywhere, &quot;That&#x27;s what I&#x27;ve been  
 telling Emily,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775137:1874121701:0345/pct:79.881490,105.467986,11.907449,15.479943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775137:1874121701:0345/pct:59.932280,79.128166,8.930587,11.609958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1416,7 +1416,7 @@ papers, and now one hears everywhere.
 “ That’s what I’ve been telling Emily.”  
 —Harper Magazine far
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342399:1874121801:0818/pct:102.145027,81.773028,15.091116,24.322697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342399:1874121801:0818/pct:79.157175,63.365443,11.693242,18.859121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1535,7 +1535,7 @@ going the rounds of the newspapers, and now
   
 hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FCoLou1n_ver01%2Fdata%2F1874122501%2F0435.jp2/pct:25.210416,73.918210,17.766965,51.519952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FCoLou1n_ver01%2Fdata%2F1874122501%2F0435.jp2/pct:18.911099,55.441133,13.321936,38.647391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1598,7 +1598,7 @@ newspapers, aud now one hear every
 where, &quot;That s what 1 ve been telling  
 Emily.&quot; Harper&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026034:00280774984:1874122501:0475/pct:110.962331,49.014720,12.595644,27.504748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026034:00280774984:1874122501:0475/pct:83.240141,36.764008,9.446733,20.643400/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1696,7 +1696,7 @@ going thej-ouuds of the newspapers, and now
 one hears, everywhere :  
 &quot; That&#x27;s what I&#x27;ve been telling Emily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FCoLou2n_ver01%2Fdata%2F1875010801%2F0004.jp2/pct:23.781490,60.831423,16.757941,25.271658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FCoLou2n_ver01%2Fdata%2F1875010801%2F0004.jp2/pct:17.839540,45.628551,12.568456,18.951251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1839,7 +1839,7 @@ the round of tl.a papers, and one hears
 everywhere, &#x27; &quot; That I whu J&#x27;v been  
 telling L.raily
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:0028077943A:1875011801:0057/pct:27.739166,82.557503,16.680294,21.412924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:0028077943A:1875011801:0057/pct:20.809485,61.924973,12.510221,16.073384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1959,7 +1959,7 @@ of the newspapers, and now one hears
 i everywhere, &quot;That’s what I’ve been tell­  
 l ing Emily
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554619:1875021401:0407/pct:81.532779,55.504967,11.394275,25.662252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554619:1875021401:0407/pct:81.514312,55.491170,11.394275,25.648455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2245,7 +2245,7 @@ made familiar by g-iing t!.e rounds of
 everywhere, &quot;lba.&#x27;s what I&#x27;ve bjeu tiling  
 Emily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470120:1875030501:0246/pct:46.360485,107.081317,15.381282,20.830875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470120:1875030501:0246/pct:34.777585,80.313938,11.539573,15.637909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2406,7 +2406,7 @@ where &quot; Thats&#x27; what I&#x27;ve been telling
 Emily.&quot;  
 Wiiktiier
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_joshuatree_ver01:data:sn82014896:0021110465A:1875030601:0328/pct:60.993705,109.970370,53.484712,23.866667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_joshuatree_ver01:data:sn82014896:0021110465A:1875030601:0328/pct:40.692446,73.362963,35.678957,15.925926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

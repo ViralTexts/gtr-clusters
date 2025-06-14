@@ -586,7 +586,7 @@ Must lend a helping hand,
 For those who talk yet to do,  
 But built upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn87065704:00415662038:1852102001:0248/pct:67.594154,16.182842,17.875211,32.192374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn87065704:00415662038:1852102001:0248/pct:50.716695,12.142548,13.406408,24.155113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -647,7 +647,10 @@ The Mercy that is warm and true I
 Must lend a helping hand, • I  
 For those who talk yet-fait to do, . !  
 But &quot;build upon the sand.&quot;
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002341%2F1852110601%2F0175.jp2/pct:61.542184,16.043367,10.005646,14.773419/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -700,7 +703,7 @@ f - &#x27; .The mercy that&#x27; is warm and true
 For those who talk, yet fail to do,  
 -&quot; X But build upon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:00296022718:1852110601:0354/pct:114.303718,97.861557,18.100189,27.948084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:00296022718:1852110601:0354/pct:85.759294,73.423980,13.579080,20.976514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -755,7 +758,7 @@ For those who talk, yet fail to doy
 But &quot; build upon the sand.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1852111001:0632/pct:113.796083,95.129575,18.159562,28.436019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1852111001:0632/pct:85.383065,71.382475,13.623272,21.327014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -916,7 +919,7 @@ But &quot;build upon the sand.&quot;
 The Bible.  
 How comes that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728169A:1853010601:0505/pct:6.084997,33.270677,19.092080,48.076073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728169A:1853010601:0505/pct:4.571797,24.955772,14.327109,36.057054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -974,7 +977,7 @@ thing to recommend themselves, will be finding
 fault with others. No man envies the merit of  
 another that has any of his own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1853012001:0011/pct:7.861190,41.840060,16.023371,30.533968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1853012001:0011/pct:5.895892,31.386312,12.021955,22.900476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1339,7 +1342,7 @@ self to somebody.
 murdered in the trading boat on Tensas river  
 the owner of the bout wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1853031801:0108/pct:89.061317,104.222649,17.713853,16.945435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1853031801:0108/pct:66.824375,78.201261,13.285390,12.709076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1360,7 +1363,7 @@ man envies the merit of another that has
 any of his own.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895667:1853032401:0051/pct:19.827704,32.543958,12.361548,4.268726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895667:1853032401:0051/pct:19.814030,32.533794,12.361548,4.268726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1385,7 +1388,7 @@ the bachelor who, having nothing to keep resting place for the brother and siste
 him steady, is always floundering inTthe parfc 0f a tallow candle was burning upon &#x27;  
 mud. If you want to ascend in the world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728169A:1853033101:0553/pct:5.131074,82.266227,41.496164,10.781078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728169A:1853033101:0553/pct:3.852302,61.705171,31.122123,8.096810/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1393,7 +1396,7 @@ mud. If you want to ascend in the world
 
 ## [From _The Sailor's Magazine and Seamen's Friend_](https://archive.org/details/the-sailors-magazine-and-seamens-friend_1853-04_25_8/page/n23/mode/1up?view=theater)
 
-#### 1853-04-01
+#### 1853-04-01 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1577,7 +1580,7 @@ nothing to keep him oteaely, is always
 I floundering, in tbe nud. If you wart to  
 &#x27; ascend ill the w. r!d, tie luura &#x27;.f to suuubn&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn84028479:0028077537A:1853050601:0075/pct:110.293054,95.340194,17.203329,10.091481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn84028479:0028077537A:1853050601:0075/pct:82.742402,71.526587,12.897974,7.561464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1682,7 +1685,7 @@ noiiung to Keep turn steady, is alwayesfloundering,
 in the mud. If you want to nscend  
 in tho world, tie yourself to somebody
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1853052101:0077/pct:58.599419,101.725367,17.216981,11.364609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1853052101:0077/pct:43.976778,76.329673,12.917271,8.541280/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1706,7 +1709,7 @@ always floundering in tbe mud If you want
 to ascend iu the world, tie yourself to some­  
 body.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1853072701:0495/pct:82.751938,59.872611,12.649753,6.618665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1853072701:0495/pct:82.734320,59.858765,12.649753,6.618665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1734,7 +1737,10 @@ SPonsibilities.,l; and &#x27;their make a
 higher and stronger flight thau the bachelor  
 who, having nothing to keep turn steady, is,  
 always floundering in t
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002342%2F1853073001%2F0121.jp2/pct:73.996836,71.587069,9.254998,5.561500/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1758,7 +1764,10 @@ went to aecoud in the world, tie yourself
 to somebody.  
   
 Ltveu LINO ENOIIOII.-111
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fauna_ver01%2Fdata%2Fsn85038381%2F000002395%2F1853090901%2F0106.jp2/pct:80.310093,66.190888,11.805837,6.963668/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1777,7 +1786,7 @@ half a V ?e bkeaahig roi-j cm-ibtli. Us, and their
 ; him steady, is always floundering in the muJ. -  
 j Iiycu want to ascend in ti.e 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1853093001:0223/pct:86.679537,117.098315,20.785071,6.839326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1853093001:0223/pct:65.009653,87.842595,15.604891,5.129495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1800,7 +1809,7 @@ floundering in the mud.. If you. want to ascco i
 in the M-orld, tic yourself to somebody.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1853100701:0133/pct:106.798382,115.690892,18.388301,7.064112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1853100701:0133/pct:80.133790,86.802954,13.799004,5.298084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1875,7 +1884,7 @@ Must lend a helping hand,
 F *r ih ‘S&#x27;* who talk, yet fail to do,  
 I •• build ujon the sand.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151155:1853122201:0393/pct:4.484733,38.259442,10.806298,22.094508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151155:1853122201:0393/pct:4.460878,38.241197,10.806298,22.094508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2007,7 +2016,7 @@ who having nothing to keep him steady, is al
 ways floundering in the mud. If you wnnt.r  
 ascend in the world, tie yourself to somebody
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCRepGold1n_ver01%2Fdata%2F1854031401%2F0101.jp2/pct:29.094260,44.609965,19.220642,6.824358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCRepGold1n_ver01%2Fdata%2F1854031401%2F0101.jp2/pct:21.827278,33.457474,14.415482,5.123301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2027,7 +2036,7 @@ Wfcplor. who havine nothinz to keep him steady,
 snis always floundering in the mud. If you want to  
 g3cend &quot; the world, tie yourself to somebody.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293174:1854031801:0264/pct:8.453350,122.458087,17.705072,3.726933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293174:1854031801:0264/pct:6.340013,91.870703,13.290545,2.798215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2051,7 +2060,7 @@ a stronger and higher flighWhan (lid the
 bachelor, wlio; having, nothing lo keep  
 hinr steady, is always floundering inihe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DemPEC1n_ver01%2Fdata%2F1854032101%2F0125.jp2/pct:25.523631,95.018861,18.098818,6.451301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DemPEC1n_ver01%2Fdata%2F1854032101%2F0125.jp2/pct:19.146079,71.283490,13.574114,4.855402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2159,7 +2168,7 @@ If you want to ascend in the world, tie
 1 yourself to somebody.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn97066026:print:1855051601:0134/pct:75.458217,84.515007,20.534327,11.178773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn97066026:print:1855051601:0134/pct:75.427151,84.471509,20.534327,11.178773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2209,7 +2218,7 @@ Must lend a helping hand.
 For those who talk yet fail to do.  
 But 44 build upon the sand.&quot;&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237283703:1855080101:0130/pct:10.255995,50.759166,12.070642,22.392297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237283703:1855080101:0130/pct:7.696047,38.081718,9.057032,16.812739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2580,7 +2589,7 @@ from being run over in the streets of New
 Voik, than it did to discharge the duties of  
 a justice of the peace in the country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348781:1856041901:0064/pct:56.492351,87.379162,13.002490,9.317938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348781:1856041901:0064/pct:56.474564,87.352309,13.002490,9.317938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2654,7 +2663,10 @@ Bureau of the Patent Office is actively engaged
 is distributing rare and valuable seed, procured  
 in this and other cities. It is said that the  
 amount thus scattered over the land wil
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aurora_ver01%2Fdata%2Fsn84038509%2F000001982%2F1856043001%2F0070.jp2/pct:53.582058,9.110303,28.146259,83.671776/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2677,7 +2689,7 @@ in the streets of New York, than
 it did to discharge the duties of a  
 justice of the peace in the countn!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:0021247034A:1856050101:0275/pct:76.056746,113.610543,16.097279,6.134969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:0021247034A:1856050101:0275/pct:57.064273,85.241990,12.072959,4.601227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2744,7 +2756,7 @@ Must lend a helping hand,
 For those who talk, yet fail to do,  
 but &#x27;build oponihe sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775782:1856053001:0307/pct:40.902312,19.193051,15.268456,36.312693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775782:1856053001:0307/pct:30.686055,14.401793,11.465324,27.248529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2806,7 +2818,7 @@ t 7 . Must lend a helpiug hand,
 i For those i ho, talk, yet fail to do,  
 But &quot;build upon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1856061201:0267/pct:10.939227,21.482345,16.201657,30.463365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1856061201:0267/pct:8.204420,16.117061,12.154696,22.860778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3115,7 +3127,7 @@ For those who talk, yet fail to do,
 But &quot;build upon the sa&quot;d.&quot;  
 How to tell a good Teacber. A gentleman from
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022846:1858032001:0093/pct:4.301075,34.425843,17.884250,29.203018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022846:1858032001:0093/pct:3.225806,25.819382,13.425047,21.917001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3292,7 +3304,7 @@ Must lend a helpiug hand,
 For those who talk, yet fail to do,  
 But “build upon the sand.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183773:1858040701:0059/pct:8.067340,14.680711,21.171717,82.309790/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183773:1858040701:0059/pct:8.053872,14.671306,21.171717,82.300386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3574,7 +3586,7 @@ For those that talk, yet fail to do,
 But &quot;build upon the sand.&quot;  
 LADIE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1858052501:0302/pct:6.712329,11.021739,19.315068,32.195652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1858052501:0302/pct:5.041096,8.271739,14.493151,24.141304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3627,7 +3639,7 @@ For those who talk, yet fail to do,
 But &quot;build upon the sand.&quot;  
 &quot;Is ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1858052801:0930/pct:92.281627,74.931731,16.566265,29.765156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1858052801:0930/pct:69.258283,56.226106,12.424699,22.337520/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3822,7 +3834,7 @@ For those that talk, yet fail to do,
 But &quot;build upon the sand.&quot;  
 True E
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_UniNB3n_ver01%2Fdata%2F1858060401%2F0097.jp2/pct:66.398515,22.912062,17.995050,41.383950/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_UniNB3n_ver01%2Fdata%2F1858060401%2F0097.jp2/pct:49.801980,17.184046,13.502475,31.042768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3983,7 +3995,7 @@ Must lend a helping hand.
 For those who talk yet fail to do,  
 But H build upon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198004:1858071501:0053/pct:2.490627,12.687544,24.544724,130.440036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198004:1858071501:0053/pct:1.660418,8.458363,16.363149,86.990233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4093,7 +4105,7 @@ For those who talk, and fail to do,
 But “build upon the sand.”  
 Interestin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1858072301:0423/pct:41.414531,21.908127,14.415109,32.317432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1858072301:0423/pct:32.106379,16.975854,11.158219,25.029446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4317,7 +4329,7 @@ HY AUDUHflX.
   
 ^Nntv return from the uppe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn83032308:00513685506:1858081901:0262/pct:10.309441,9.447459,21.976634,86.531820/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn83032308:00513685506:1858081901:0262/pct:10.293653,9.435126,21.976634,86.519487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4833,7 +4845,7 @@ Bat “build upon the sand.”
   
 ! The L
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84023142:00517015969:1860072801:0053/pct:53.948897,65.154343,15.505226,25.384063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84023142:00517015969:1860072801:0053/pct:41.811847,50.495334,12.001549,19.669777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4950,7 +4962,7 @@ Must lend a helping hand,
 For those who talk, yet fail to do,  
 But “build upon the sand.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84023142:00517015969:1860091501:0077/pct:37.236715,13.204301,15.207729,23.612903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84023142:00517015969:1860091501:0077/pct:28.850242,10.236559,11.787440,18.279570/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5008,7 +5020,10 @@ The mercy that. le swarm and true
 Must lend a belplng;hand  
 For those who yet fail to do,  
 But &quot;band upon the sand.&quot;
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fascinus_ver01%2Fdata%2Fsn84026112%2F000002377%2F1862020601%2F0025.jp2/pct:20.677827,16.413363,9.399012,18.990755/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5162,7 +5177,10 @@ Beside his coffer-chest and own
 .1 0. RITCIIIII  
   
 &#x27;Tis good to speak in kindl
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_cybele_ver01%2Fdata%2Fsn84026518%2F000002097%2F1865011101%2F0005.jp2/pct:13.043684,18.947104,17.085855,17.302179/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5323,7 +5341,7 @@ Tis &quot;built upon the sand.&quot;
 &#x27;Tis good to speak in kindly guise  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472931:1866021001:0433/pct:30.555556,24.832823,19.168121,21.285277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472931:1866021001:0433/pct:20.375218,16.558994,12.783595,14.190185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5373,7 +5391,7 @@ Must lend a helping hand,
 For those who talk, yet fail to do,  
 But &quot; build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SouthFFR2n_ver01%2Fdata%2F1866041401%2F0270.jp2/pct:101.814059,15.561335,16.581633,29.042046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SouthFFR2n_ver01%2Fdata%2F1866041401%2F0270.jp2/pct:76.388889,11.671001,12.443311,21.792371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5680,7 +5698,7 @@ Have ■•built upon ttm siii 1.”
 Mountain of the Lovers.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348434:1868020601:0262/pct:35.509705,16.653299,11.958735,24.132745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348434:1868020601:0262/pct:35.496131,16.643273,11.958735,24.132745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5937,7 +5955,7 @@ Must lend a helping hand,
 For those who talk, but fail to do,  
 But “build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1869050601:0046/pct:6.363319,9.002212,10.739191,20.983479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1869050601:0046/pct:6.345886,8.989203,10.739191,20.983479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6065,7 +6083,7 @@ Must lend a helping hand :
 For tin se who talk, jet fail to do,  
 But “build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187134:1869061101:0475/pct:31.339655,7.329898,12.035011,24.734462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187134:1869061101:0475/pct:31.327498,7.319382,12.035011,24.734462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6294,7 +6312,7 @@ For those who talk, yet fail to do,
 But build upon the sand.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RuthSWCR1n_ver01%2Fdata%2F1873050301%2F0053.jp2/pct:83.032070,31.496626,20.058309,39.358004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RuthSWCR1n_ver01%2Fdata%2F1873050301%2F0053.jp2/pct:62.288630,23.635248,15.058309,29.533838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6345,7 +6363,7 @@ Must lend a helping band ;
 For those who talk, yet fail to do,  
 But &#x27;luudupon the sand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NoCarEC2n_ver01%2Fdata%2F1873050701%2F0073.jp2/pct:63.982823,20.513866,14.465915,21.757749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NoCarEC2n_ver01%2Fdata%2F1873050701%2F0073.jp2/pct:47.987118,15.385400,10.856146,16.323409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6467,7 +6485,7 @@ Beside his coffer chest, and o wn
 ’Tis good to speak in kindly guise,  
 An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn84038206:00393349190:1876010801:0837/pct:2.702173,20.225501,15.390640,16.856904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn84038206:00393349190:1876010801:0837/pct:2.682593,20.211581,15.390640,16.856904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6622,7 +6640,7 @@ But ‘&#x27;build upou the sand.&#x27;*
 At Last.  
 S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_capemay_ver01:data:sn85025540:00513685051:1876022301:0126/pct:2.238138,11.021633,88.137869,27.364598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_capemay_ver01:data:sn85025540:00513685051:1876022301:0126/pct:2.215756,11.005842,88.137869,27.364598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6765,7 +6783,7 @@ Must lend a helping hand,
 For those that talk, yet fail to do.  
 But &quot; bnild upon the sand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NSGreen22n_ver01%2Fdata%2F1876041301%2F0263.jp2/pct:23.540146,21.482304,16.438564,28.992477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NSGreen22n_ver01%2Fdata%2F1876041301%2F0263.jp2/pct:17.655109,16.117894,12.332725,21.741275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6800,7 +6818,7 @@ Unmixed with purer things;
 And he who piles rip wealth alone  
 Will often have
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194989:1876042401:0266/pct:19.576417,21.308537,10.990269,12.917320/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194989:1876042401:0266/pct:14.682313,15.987004,8.242702,9.690791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7037,7 +7055,7 @@ But &quot;baUd «*m the a—d.&quot;
 Lore Among the Lawyers.  
 A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DaR1_ver01%2Fdata%2F1876101901%2F0069.jp2/pct:11.481923,8.147059,12.653953,22.205882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DaR1_ver01%2Fdata%2F1876101901%2F0069.jp2/pct:10.905840,7.735294,12.018276,21.088235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7089,7 +7107,7 @@ For those that talk, yet fall to do,
 But &quot; build Upon the sand.&quot;  
 When Hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_capemay_ver01:data:sn85025540:00513685063:1876122701:0607/pct:7.150813,6.926952,14.457563,22.181990/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_capemay_ver01:data:sn85025540:00513685063:1876122701:0607/pct:7.128536,6.911209,14.457563,22.181990/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7245,7 +7263,7 @@ Must lend a helping hand.
 For those that talk, yet fail to do,  
 Hut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:00414186702A:1877012701:0016/pct:55.852247,14.510097,11.541314,14.713110/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:00414186702A:1877012701:0016/pct:55.837413,14.499412,11.541314,14.713110/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7466,7 +7484,7 @@ Beside his coffer chest, and own
 ’Tis good to speak in kindly guise  
 And so
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342417:1878092701:0162/pct:73.037417,18.401228,14.068232,25.055804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342417:1878092701:0162/pct:56.603081,14.257812,10.895084,19.405692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7515,7 +7533,7 @@ Must lend a helping hand;
 For those that talk, yet fail to do,  
 But &quot;build upon the san
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_adam_ver02:data:sn84026526:00295879671:1881051901:0332/pct:26.001040,20.866739,13.754550,24.236186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_adam_ver02:data:sn84026526:00295879671:1881051901:0332/pct:19.500780,15.655471,10.322413,18.179848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7565,7 +7583,7 @@ Must lend a helping hand,
 Fat those that talk, yet fall to do,  
 But “build upon the sand.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348732:1881051901:0295/pct:50.720000,18.173302,8.768000,14.297424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348732:1881051901:0295/pct:50.704000,18.161593,8.768000,14.297424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7643,7 +7661,7 @@ Tis “ built upon the sand.”
 -Tis good to speak in kindly guise,  
 And sooth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896441:1882031601:0244/pct:5.287897,14.040521,9.971462,12.956511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896441:1882031601:0244/pct:5.271110,14.027616,9.971462,12.956511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7843,7 +7861,7 @@ Moat lend a helping hand,
 For there that talk, yet fail to do,  
 &#x27; But &quot; build upon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_egret_ver01:data:sn86069394:00202194692:1884111401:0424/pct:13.045267,37.280172,12.798354,22.150624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_egret_ver01:data:sn86069394:00202194692:1884111401:0424/pct:9.794239,27.963485,9.588477,16.633105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7895,7 +7913,7 @@ For those that talk, yet fail to do.
 But “build upon the sand.”  
 —M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625534:1885022701:0251/pct:22.736286,9.449028,12.508262,16.821932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625534:1885022701:0251/pct:17.614012,7.319670,9.699273,13.029013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7964,7 +7982,7 @@ For theses that talk and fail to do,
 Bat “baikl upon the sand.”  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_centrereporter1_ver01%2Fdata%2Fsn83032058%2F13362143%2F1885042201%2F00003.jp2/pct:13.202247,7.825630,16.836376,22.767857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_centrereporter1_ver01%2Fdata%2Fsn83032058%2F13362143%2F1885042201%2F00003.jp2/pct:10.217697,6.053046,13.044242,17.633929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8018,7 +8036,7 @@ Eliza Cook.
   
 PUNGE.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_HighMCNCA1n_ver01%2Fdata%2F1885082101%2F0019.jp2/pct:13.863428,7.467429,25.802016,42.087703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_HighMCNCA1n_ver01%2Fdata%2F1885082101%2F0019.jp2/pct:10.403300,5.608516,19.362970,31.585637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8727,7 +8745,7 @@ Here is a sentiment from the
 Bpringfield Union that will de to  
 keep: “We have talked a goo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_abby_ver02:data:sn89053287:00517177155:1886080501:0720/pct:10.284984,71.942446,15.966387,10.490517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_abby_ver02:data:sn89053287:00517177155:1886080501:0720/pct:7.964925,55.748855,12.367556,8.136037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9091,7 +9109,7 @@ Must lend a helping hand
 For those who talk yet fall to do  
 But build upon tho san
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn86069675:00206534199:1897113001:0586/pct:35.239651,12.249153,17.120552,23.169143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn86069675:00206534199:1897113001:0586/pct:26.434277,9.186865,12.854031,17.383372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9195,7 +9213,7 @@ For those who talk, yet fail to do,
   
 But &quot;build upon the sand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jackson_ver01:data:sn87057934:0041562265A:1898012701:0292/pct:27.138584,7.641430,15.593220,20.785252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jackson_ver01:data:sn87057934:0041562265A:1898012701:0292/pct:21.694915,6.107515,12.482552,16.619758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -187,7 +187,10 @@ Hearers f &#x27;
   
 Front the Lancaster Efaminer and Herald. .  
 A Northern Ma
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_arimanius_ver01%2Fdata%2Fsn84026111%2F000001962%2F1857050701%2F0061.jp2/pct:68.105962,15.733939,12.228613,21.588645/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -231,7 +234,7 @@ I aith, Truth and II &gt;pe—Lest boons to mortal given
 Wav’d their bright vuugs, and whispered, 44 Vos in  
 Heaven/’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1857051201:0708/pct:16.820108,20.640691,13.210580,16.676133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1857051201:0708/pct:15.972527,19.606952,12.552974,15.846870/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -864,7 +867,7 @@ Heaven!”
   
 miscellaneous.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151118:1857062301:0214/pct:2.535519,47.049924,11.344262,21.499412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151118:1857062301:0214/pct:2.513661,47.033115,11.344262,21.499412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -925,7 +928,7 @@ ffematr
   
 TELLMEYE WINGED WINDS.Miscellaneous.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775460:1857070201:0189/pct:6.259151,19.839761,18.246706,35.035307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775460:1857070201:0189/pct:4.703514,14.883216,13.689605,26.290060/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1122,7 +1125,7 @@ were delighted, none had been obliged ; and,
 though they had many to eelebrate, they had  
 none to love them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1857111201:0790/pct:30.645730,115.492958,15.949188,5.227763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1857111201:0790/pct:22.988709,86.651440,11.961891,3.920822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1178,7 +1181,7 @@ r Where mortals may bo blessed,
 Where grief may find a balm, . , ,  
 &#x27; And weariness a rest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016548:1857112601:0243/pct:69.523226,34.486736,12.294956,16.366782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016548:1857112601:0243/pct:69.507895,34.475202,12.294956,16.366782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1320,7 +1323,10 @@ And where the girls may rest?
 Faith, Truth and Hope—best boons to mortals given,  
 Waved their bright wings and answered,&quot; Yes In  
 Heaven I&quot;
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001838%2F1862121201%2F0193.jp2/pct:7.634924,32.877523,11.185301,19.036186/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1359,7 +1365,10 @@ ME
 given,  
 Waved their bright wings and answered, yes  
 in heaven.&quot;
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001840%2F1864060301%2F0085.jp2/pct:17.121157,25.477004,13.721633,10.109640/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1420,7 +1429,7 @@ navti tneir ongm wings ana answerem
   
 FAMILY JARS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn86079037:0028077490A:1867041801:0069/pct:29.854369,69.611690,18.648867,42.619402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn86079037:0028077490A:1867041801:0069/pct:22.390777,52.212150,13.996764,31.984846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

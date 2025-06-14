@@ -123,7 +123,7 @@ appearing in its columns whether
 original or selected.—New York  
 Monthly Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349232:1890122701:0695/pct:60.766644,12.519335,22.165434,85.373163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349232:1890122701:0695/pct:60.753194,12.509667,22.165434,85.363496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -506,7 +506,7 @@ Ci) 0
 V A.  
 A 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669252:1891070201:0372/pct:66.785105,10.971393,36.910176,130.221104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669252:1891070201:0372/pct:44.528141,7.314262,24.602047,86.828041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -556,7 +556,7 @@ but tho average quality of all tho matter
 appearing in its columns, whether original  
 or solected
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn86069309:00100481765:1891071501:0349/pct:73.766505,85.287418,16.018068,28.018223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn86069309:00100481765:1891071501:0349/pct:55.350938,63.995712,12.022238,21.037116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -598,7 +598,7 @@ average quality of all the matter appearing in
 its columns, whether original or selected.— N.  
 . Y. Journalist
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891081301:0596/pct:71.308921,28.916161,21.464745,17.277992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891081301:0596/pct:71.289443,28.902372,21.464745,17.277992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -654,7 +654,7 @@ containp, but the average qnalily of
 all the matter appearing in its col­  
 umn&quot;, whether origin 1 or -elected
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073907:00416156736:1891090301:0147/pct:58.015062,80.679731,16.218397,36.997346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073907:00416156736:1891090301:0147/pct:43.518020,60.512349,12.157074,27.760768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -711,7 +711,7 @@ appearing in its columns, whether
 original or selected ”  
 And the editor of the Journalist
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177301:1891100101:1048/pct:9.141324,6.982922,17.889088,41.796331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177301:1891100101:1048/pct:7.084079,5.414295,13.864043,32.384567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -730,7 +730,7 @@ contains, but the average quality of all
 the matter appearing in its columns,  
 whether original or selected
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763219:1891100201:0255/pct:97.864167,48.676196,14.643516,3.343692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763219:1891100201:0255/pct:73.432698,36.519577,10.986478,2.510876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -894,7 +894,7 @@ quality of all the matter appear­
 ing in its columns, whether ori  
 ginal or selected
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84020731:00416157121:1891120201:0855/pct:20.512278,25.377732,16.490262,11.031245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84020731:00416157121:1891120201:0855/pct:15.389500,19.040634,12.362405,8.273434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -936,7 +936,7 @@ quate to contain all the treas­
 ures so prodigally spread before  
 him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84020731:00416157121:1891120201:0855/pct:54.784081,20.859616,16.532599,21.358369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84020731:00416157121:1891120201:0855/pct:41.088061,15.652046,12.404742,16.018777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1084,7 +1084,7 @@ original matter it contains, but the average
 quality of all the matter appearing in its col­  
 umns, whether original or selected
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1899120701:0651/pct:5.244029,73.362686,21.105919,19.757843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1899120701:0651/pct:5.218069,73.325995,21.105919,19.757843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

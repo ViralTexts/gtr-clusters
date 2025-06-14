@@ -83,7 +83,7 @@ give her an acquaintance with this ac-
   
 A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86053972:00295878186:1846100701:0018/pct:89.891750,73.097404,37.814511,5.502552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86053972:00295878186:1846100701:0018/pct:67.422469,54.825826,28.364541,4.126914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,10 @@ l&#x27;&quot;
 &#x27; Urge her to read the newspapers, and be &quot;What more ?&quot; asked the bachelor, looking  
 familiar with the present character and aghast, &quot;what more can you say ?&quot; &quot;Why  
 movements of our race. historys of som
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_faunus_ver01%2Fdata%2Fsn86081069%2F000002408%2F1846110601%2F0130.jp2/pct:4.093147,78.009660,41.490562,6.332901/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -253,7 +256,10 @@ intelliga it coneirsation concerning the Mr. B. said there was one subject to
 men tu , moral, political and religious move- which he wished particularly to -refer, and  
 ments of our times. &#x27; Let the gilded annu- . that was the election of Canal Commission­  
 ; / als and poems on the centre-table be kept i or. He wished to se
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_faunus_ver01%2Fdata%2Fsn86081069%2F000002408%2F1846110601%2F0130.jp2/pct:14.490152,84.511967,31.334633,6.044550/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -272,7 +278,10 @@ sell at very.low prices. &#x27;(`!all and examine. • count of their absence. I
 AI COBEA N. ily—cncti s woinim,, &#x27; and childre - n--read •‘• -  
 -. ever gn.e up—lis wizer and better  
 t; •&#x27;tysltrg, o.:t. •3;t, 1816.-11it&#x27; I the newspapers. And if any body •has a : ..tlway, to hove tha
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_faunus_ver01%2Fdata%2Fsn86081069%2F000002408%2F1846110601%2F0130.jp2/pct:0.630899,91.169262,45.019491,3.780998/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -357,7 +366,7 @@ papers. I his is the way to make an intelligent,
 republican and virtuous population.—Lotcell Cou  
 rier
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1846110701:0332/pct:52.984416,37.823778,14.863276,15.476319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1846110701:0332/pct:52.969715,37.812940,14.863276,15.476319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -623,7 +632,7 @@ times. Let thfe gilded annuals and poems on the
 centre table be kept covered with approved week­  
 ly and daily journals.&#x27;&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1847012201:0051/pct:49.280641,4.750979,28.774358,92.968012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1847012201:0051/pct:49.262429,4.737481,28.774358,92.954515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -668,7 +677,7 @@ persr&quot; This i is :tbewy&quot;ii6&#x27;mtike an. intelligent, re­
 publican and virtuous population. Jewell Cour­  
 ier.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat15n_ver01%2Fdata%2F1847012301%2F0016.jp2/pct:25.017088,13.757039,20.625427,14.641995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat15n_ver01%2Fdata%2F1847012301%2F0016.jp2/pct:18.762816,10.324484,15.481887,10.981496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -697,7 +706,10 @@ Let her have an intelligent opinion. and be able
 to sustain intelligent conversation concerning  
 the mental, moral, political and religious move­  
 ments of ou
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aerecura_ver01%2Fdata%2Fsn84024558%2F000001782%2F1847020301%2F0013.jp2/pct:78.638039,48.846714,14.167209,9.214147/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -739,7 +751,7 @@ speak to the world through the newspapers.
 Tins is the way to make an intelligent republi­  
 can, and virtuous population
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348999:1847020401:0023/pct:69.789924,16.236867,13.050753,14.886069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348999:1847020401:0023/pct:69.771333,16.223223,13.050753,14.886069/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -920,7 +932,7 @@ lation.
   
 Thou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn83032308:00513685506:1857022601:0084/pct:69.943446,60.162702,12.608117,19.573524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn83032308:00513685506:1857022601:0084/pct:69.926813,60.150376,12.608117,19.561198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1071,7 +1083,10 @@ family—men, women, and children read the
 newspapers.  
   
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001944%2F1857111801%2F0182.jp2/pct:3.816283,69.383775,14.573290,21.404765/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1114,7 +1129,7 @@ tion, somewhat like Betty Wiggle&#x27;s pig:
 &#x27; When it lived, it lived in clover;  
 And when it died, it died all over.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1857120101:0197/pct:8.747904,66.762052,16.699273,25.797931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1857120101:0197/pct:6.567915,50.088048,12.520961,19.359454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1190,7 +1205,10 @@ whole family--men women and children--
 road the newspapers.  
   
 7S
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_alernus_ver01%2Fdata%2Fsn83031981%2F000001915%2F1857123101%2F0184.jp2/pct:68.520033,68.578384,11.442150,15.289751/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1358,7 +1376,7 @@ ered with weekly and daily journals. Lefi
 J &#x27; &#x27;  
 read the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667309:1858031301:0036/pct:106.870443,60.765330,20.288839,18.741355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667309:1858031301:0036/pct:80.187886,45.585523,15.213124,14.073306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1476,7 +1494,7 @@ ble be kept covered with weekly and
 daily journals. &#x27; Let the Whole &#x27; family  
 men, women and children read the. new
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858040601:0209/pct:75.194932,57.914339,15.675763,18.449056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858040601:0209/pct:56.400260,43.442405,11.760884,13.833466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1652,7 +1670,7 @@ and daily .journals. Let the whole
 family men, women and children  
 read the newpaper. Ex.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn97065088:00212470478:1858052001:0486/pct:8.340000,47.882385,20.100000,30.631238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn97065088:00212470478:1858052001:0486/pct:6.260000,35.918533,15.080000,22.970057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1713,7 +1731,7 @@ men and children -read the newspaper.
 Mr Skinflint&#x27;s fJooDNESs. When Mr Skin­  
 flint, id&#x27; BeanTllle, die
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1858052501:0302/pct:6.684932,43.608696,20.054795,35.489130/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1858052501:0302/pct:5.013699,32.706522,15.041096,26.630435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1883,7 +1901,7 @@ with weekly and daily journals. Let the
 family men, women,; and children read  
 the newspapers. -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85030219:00212472803:1858061201:0196/pct:71.379950,116.094870,22.524752,18.444567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85030219:00212472803:1858061201:0196/pct:47.586634,77.418643,15.037129,12.300055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2018,7 +2036,7 @@ time covered with weekly and daily jour­
 nals. Let the whole family, men wom­  
 en and children read the newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn85026031:00280774807:1858070101:0346/pct:28.291139,24.368619,15.395570,39.494895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn85026031:00280774807:1858070101:0346/pct:21.218354,18.283181,11.550633,29.634605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2104,7 +2122,7 @@ laniily bjcd, women and children-read the
 newspapers.  
 The Society of Frie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477783:1858071401:0225/pct:4.652778,92.394292,20.277778,29.153031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477783:1858071401:0225/pct:3.489583,69.328446,15.225694,21.874591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2191,7 +2209,10 @@ of Mr. Jonas Cornman, living in Swatara&#x27;
 township, came to.her death by .attempting  
 to swallow a grain of, coffee. - The mother  
 had handed her some hal
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001945%2F1858072801%2F0115.jp2/pct:5.099707,5.634966,30.552506,91.707370/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2271,7 +2292,7 @@ whole family men, women and children
 read the newspapers.  
 ESP&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027480:1858080401:0101/pct:57.549431,50.704559,16.791492,21.610420/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027480:1858080401:0101/pct:43.169563,38.034340,12.597364,16.222617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2313,7 +2334,10 @@ nals. Let the whole family—men, women
 and children—read the newspapers.  
   
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_monroej_ver01%2Fdata%2Fsn83031964%2F000001713%2F1858080501%2F0101.jp2/pct:51.300889,58.343188,12.327982,16.118732/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2349,7 +2373,7 @@ sleepy book, but speak to the world through the
 newspapers. This is the way to make an intelligent,  
 republican, and virtuous population
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1858081101:0549/pct:48.802737,70.929250,19.754846,15.290391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1858081101:0549/pct:36.616306,53.220697,14.823261,11.467793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2379,7 +2403,7 @@ time covered with weekly and daily journals. Let
 the whole family, man, woman and children read the  
 newspape
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022846:1858081101:0258/pct:49.805825,73.900224,19.805825,10.803161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022846:1858081101:0258/pct:37.362460,55.442859,14.870550,8.102371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3060,7 +3084,7 @@ weekly and daily journals. Let the whole family
 men, women and children read the newspa­  
 pers. Ax Ixtillioik
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalRegNCWA7n_ver01%2Fdata%2F1858110301%2F0586.jp2/pct:59.635417,40.636641,17.621528,14.832374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalRegNCWA7n_ver01%2Fdata%2F1858110301%2F0586.jp2/pct:44.733796,30.477481,13.208912,11.129924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3133,7 +3157,7 @@ weekly and daily journals. Let the&#x27; whole
 family men, women and children read  
 thonewspapers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667814:1858111001:0681/pct:102.606030,100.386548,24.220746,26.710475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667814:1858111001:0681/pct:76.967297,75.299575,18.178334,20.052184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3307,7 +3331,7 @@ a it h weekly and daily journals. Let
 the family men, womao, and &#x27;children  
 all read tbe newspapers. &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1858122201:0531/pct:83.963415,113.016158,14.542683,11.400359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1858122201:0531/pct:62.972561,84.778148,10.914634,8.553475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3342,7 +3366,10 @@ nunls and poems on the centre table.be kept a
 part of the time covered with weekly, and daily  
 journals Let the whole family—men, women  
 and &#x27;children, read the newspapers.&#x27; ,
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001738%2F1858122301%2F0196.jp2/pct:68.698642,40.041553,11.772061,12.949563/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3757,7 +3784,7 @@ u iih weekly journals. Let the family—
 men, women and children—read tii*•  
 newspaper.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038462:00514151039:1859120801:0384/pct:3.068182,57.745754,13.000000,18.785383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038462:00514151039:1859120801:0384/pct:3.045455,57.728598,13.000000,18.768228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3957,7 +3984,7 @@ journals. Let the family men, women
 and cnuarea rrau me newspaper.  
 A Texas eauo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:0021247292A:1859123101:0081/pct:78.693182,118.556361,22.039474,22.017139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:0021247292A:1859123101:0081/pct:52.467105,79.048561,14.697967,14.678093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4059,7 +4086,7 @@ his possession, convicted him of several false­
 hoods, and strengthened the snypiciolis as &#x27;to his  
 character.&#x27; He was passing as a book pedler.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewProg5n_ver01%2Fdata%2F1860010601%2F0018.jp2/pct:34.050940,9.663064,46.315949,117.217631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewProg5n_ver01%2Fdata%2F1860010601%2F0018.jp2/pct:25.545785,7.247298,34.733172,87.931765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4109,7 +4136,7 @@ his possession, convicted him of several false- ied b Wallace &amp; Elias, is an
 hoods, and strengthened the suspicions as to his .  
 character. He was passing as a book pedler.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_price_ver01:data:sn84026547:00296022962:1860011001:0028/pct:85.211089,54.359780,39.229400,19.609191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_price_ver01:data:sn84026547:00296022962:1860011001:0028/pct:63.911495,40.769835,29.425229,14.709348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4186,7 +4213,7 @@ a part of the time covered with weekly
 journals. Let the family—men, women  
 and children—read the newspaper
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1860012501:0664/pct:71.503398,17.136545,10.815402,10.551231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1860012501:0664/pct:71.489241,17.126026,10.815402,10.551231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4301,7 +4328,7 @@ table, be kept a part of the time covered with
 weekly journals. Let the family—men, women,  
 and children—read the newspapers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016524:1860022301:0035/pct:31.102674,28.691578,12.672046,10.861468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016524:1860022301:0035/pct:31.086853,28.679563,12.672046,10.861468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4327,7 +4354,7 @@ familiar with the presont character and ini­
 nrovment of our race. Histories are some  
 the improvements i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061076:00200293897:1860030901:0662/pct:91.462561,99.105495,16.864941,12.040324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061076:00200293897:1860030901:0662/pct:68.596921,74.329121,12.666200,9.044441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4361,7 +4388,7 @@ journals. I Let the whole family, men, women,
 and children, read the newspaper.  
 No one thing i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WCoFay1n_ver01%2Fdata%2F1860031001%2F0031.jp2/pct:44.179894,2.605420,20.780423,16.040599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WCoFay1n_ver01%2Fdata%2F1860031001%2F0031.jp2/pct:33.134921,1.956681,15.595238,12.033065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4506,7 +4533,7 @@ ered, with weekly journals. Let the family­
 men, women and children read the newspa­  
 per.;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TiGreen2n_ver01%2Fdata%2F1860032401%2F0092.jp2/pct:107.173175,59.369597,24.023769,20.880436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TiGreen2n_ver01%2Fdata%2F1860032401%2F0092.jp2/pct:80.411715,44.540497,18.017827,15.666977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4545,7 +4572,7 @@ ered with journals. Let the family men,
 women and children, read the newspapers.  
 Bf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat24n_ver01%2Fdata%2F1860033001%2F0457.jp2/pct:110.451370,89.630487,17.839871,19.380987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat24n_ver01%2Fdata%2F1860033001%2F0457.jp2/pct:82.872112,67.249184,13.379903,14.548900/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4607,7 +4634,10 @@ on the eenkre table be kept a part of the
 time covered with Wtekly journals Lot the  
 family—men, women and children—read the  
 newspapers
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_alernus_ver01%2Fdata%2Fsn83031981%2F000001918%2F1860041201%2F0029.jp2/pct:4.368294,56.579813,12.957083,13.706230/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4703,7 +4733,7 @@ newspapers and become familiar with the
 present character and improvement of our race.  
 How t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477795:1860051601:0067/pct:64.479638,114.957780,19.747899,7.249698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477795:1860051601:0067/pct:48.367809,86.236429,14.819005,5.440290/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4813,7 +4843,7 @@ the family men, woman, and children
   
 read the newspaper.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292480:1860081601:0513/pct:91.353937,108.241993,17.310522,21.793594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292480:1860081601:0513/pct:68.524650,81.195730,12.987491,16.355872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4894,7 +4924,10 @@ the family—men, women, and children—
 read the newspaper.—Ereharge.  
   
 BANKS I
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_carmentes_ver01%2Fdata%2Fsn88086163%2F000002039%2F1860102001%2F0132.jp2/pct:32.425703,73.312500,11.497992,12.473214/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4927,7 +4960,7 @@ part of the time covered with journals. Let the
 family men, wome and childrenread , the  
 newspapers. &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewProg8n_ver01%2Fdata%2F1860122001%2F0577.jp2/pct:4.409318,96.176262,19.550749,14.157783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewProg8n_ver01%2Fdata%2F1860122001%2F0577.jp2/pct:3.306988,72.181947,14.683860,10.618337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4967,7 +5000,7 @@ family men, women and children read the
 newspapers.  
 Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_price_ver01:data:sn84026547:00296022962:1860122501:0222/pct:93.762834,112.380192,16.927618,16.393770/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_price_ver01:data:sn84026547:00296022962:1860122501:0222/pct:70.328542,84.295128,12.692505,12.300319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5036,7 +5069,10 @@ the family—men, women and children—read the
 newspapers.  
   
 AN &#x27;ENGINE OF WAR.—
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aesculapius_ver01%2Fdata%2Fsn84035983%2F000001902%2F1861030201%2F0211.jp2/pct:18.945274,58.989796,14.950249,14.125850/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5230,7 +5266,7 @@ covered with journals. Let the family
 in? ii, women and children read the  
 newspapers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026785:1861060701:0407/pct:51.617984,63.605012,14.819588,17.450282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026785:1861060701:0407/pct:38.717068,47.718129,11.111111,13.093459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5302,7 +5338,7 @@ with journals. Let the family men wo
   
 men and children read tho newspapers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024302:1861062701:0472/pct:43.958094,62.071946,18.900689,18.018797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024302:1861062701:0472/pct:29.305396,41.395701,12.614811,12.023334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5418,7 +5454,10 @@ and daily journals. Let the whole family—men
 women and children—read the newspapers.  
   
 VRT.ANCIEIOLIE Arpera.—Tw
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_bonaDea_ver03%2Fdata%2Fsn84035968%2F000002003%2F1861121601%2F1292.jp2/pct:34.951613,78.647059,14.349462,13.101961/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5730,7 +5769,7 @@ time covered with journals. Let the family
 men, women and children read the news­  
 paper
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kathy_ver01:data:sn86053503:00415622247:1862070301:0008/pct:9.993084,84.956891,18.983402,14.361086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kathy_ver01:data:sn86053503:00415622247:1862070301:0008/pct:7.503458,63.749839,14.228907,10.770815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5810,7 +5849,7 @@ and daily journals. Let the whole
 family men, women and children i  
 read the newspapers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026797:1862082201:0168/pct:19.087404,67.069098,15.086761,18.263550/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026797:1862082201:0168/pct:14.315553,50.308246,11.327121,13.691241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5933,7 +5972,7 @@ journals. Let .the whole family, taeo wo
 men and children yead the newspctpfej-s.-  
 Godey. ,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038244:00280775939:1865012701:0258/pct:88.466757,62.019107,15.400271,19.713400/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038244:00280775939:1865012701:0258/pct:66.350068,46.514330,11.550204,14.794733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6009,7 +6048,7 @@ lWi r weeklv and daily journals. Let the
 whole familymen WOU)eu aiiri children read  
 the newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775836:1865021701:0456/pct:4.217926,113.062862,14.894552,9.964333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775836:1865021701:0456/pct:3.163445,84.830584,11.174575,7.478823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6292,7 +6331,10 @@ men, women and children—read the
 newspapers.—L. A. Godey.  
   
 A
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_averruncus_ver01%2Fdata%2Fsn88080881%2F000001995%2F1865032501%2F0041.jp2/pct:78.900000,36.113636,13.805556,20.166667/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6413,7 +6455,7 @@ daily journals. Let the whole family,
 men, women and children, road the uews*  
 paper*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895023:1865042101:0065/pct:3.154253,58.978039,13.003663,11.942012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895023:1865042101:0065/pct:3.133903,58.963686,13.003663,11.942012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6449,7 +6491,10 @@ of our times. -
 SHERMAN  
   
 Th
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_alernus_ver01%2Fdata%2Fsn83031981%2F000001923%2F1865050501%2F0060.jp2/pct:42.536979,17.122266,21.122815,78.367296/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6578,7 +6623,10 @@ time covered with weekly and daily
 journals. Let the whole family, men  
 women and children, road the news­  
 papers
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aura_ver01%2Fdata%2Fsn83032227%2F000001974%2F1865061401%2F0088.jp2/pct:6.490991,56.861702,12.346847,17.656028/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6617,7 +6665,7 @@ women and children, read the newspapers.
 — Godey.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340627:1865061701:0099/pct:81.977701,77.072121,12.392616,15.191066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340627:1865061701:0099/pct:81.959422,77.045210,12.392616,15.191066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6733,7 +6781,7 @@ time covered with weekly and daily journals,
 let the whole family, men, women and chil­  
 dren, read tho newspapers. CJohev. .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85034406:00296026700:1865120601:0320/pct:94.154412,58.508375,16.102941,14.384472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85034406:00296026700:1865120601:0320/pct:70.643382,43.897899,12.077206,10.795001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6860,7 +6908,7 @@ read the newspapers.
 Wife —There is no combination of letters  
 in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051370:00414212578:1866063001:0075/pct:75.549556,66.408608,14.346317,14.722477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051370:00414212578:1866063001:0075/pct:75.530274,66.395486,14.346317,14.709356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6981,7 +7029,7 @@ ered with the woekly and daily journals. Let
 the whole family, bf men, women and chil-.  
 dren, read the newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn85054828:00212477898:1866080801:0432/pct:109.465479,96.940549,17.274499,18.171283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn85054828:00212477898:1866080801:0432/pct:82.099109,72.708309,12.959354,13.640051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7021,7 +7069,7 @@ ered with tho weekly and daily journals.
 Let tho whole family of men, women and  
 children, read the newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:0028077604A:1866081801:0268/pct:89.800560,65.422234,16.532540,18.046563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:0028077604A:1866081801:0268/pct:67.354794,49.070120,12.403779,13.541810/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7109,7 +7157,7 @@ and daily journals. Let the « hole family
 men, women and ehilhren, read the news  
 papers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:0051717435A:1866110101:0212/pct:66.742279,54.913066,12.406212,11.946786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:0051717435A:1866110101:0212/pct:66.724830,54.899895,12.406212,11.946786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7208,7 +7256,7 @@ conversation concerning the mental morel
 political and religious improvement of our  
 time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_collie_ver01:data:sn84027460:print:1866111001:0164/pct:5.694981,90.009238,14.848777,10.492279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_collie_ver01:data:sn84027460:print:1866111001:0164/pct:4.279279,67.533325,11.132561,7.879108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7314,7 +7362,7 @@ condition of it. Let her havo an in­
 telligent opinion and bo ablo to sustain  
 a conversation concernin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075001:00237286935:1866111601:0081/pct:84.803150,77.150896,21.633858,15.889234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075001:00237286935:1866111601:0081/pct:63.602362,57.870576,16.240157,11.920628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7416,7 +7464,10 @@ tion of it. Let her have an intelligent opin­
 ion and be able to sustain a conversation  
 concerning the mental, moral, political and  
 religions improvements of our times.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fontus_ver01%2Fdata%2Fsn83032304%2F000002711%2F1866112101%2F0183.jp2/pct:28.416792,76.007959,10.805723,8.474687/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -7457,7 +7508,10 @@ to be constructed at a cost of $2,500,000
 —Slander is more accumulative than  
 a snow-ball. It is like a salad, which  
 every one will season to his own taste, or
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_acis_ver01%2Fdata%2Fsn83032185%2F000001884%2F1866112401%2F0173.jp2/pct:81.578947,78.900376,12.962619,18.240312/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -7493,7 +7547,7 @@ A Good Rule Works Roth &quot;Ways.
 Men should practice some little of what  
 they preach. For instance the merchant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:0021247020A:1866113001:0191/pct:27.101079,46.305310,17.830778,22.168142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:0021247020A:1866113001:0191/pct:20.329358,34.734513,13.373083,16.626106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7537,7 +7591,7 @@ able to sust ain a conversation con- harvested this year in Murray,
 cerning the mental, political and Alameda Count-, Cab, 2,200 acres  
 religious improvement of our tim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470363:1866120601:0266/pct:10.682360,62.591602,32.479142,24.950564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470363:1866120601:0266/pct:8.015495,46.958241,24.359356,18.715831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7775,7 +7829,7 @@ concerning the mental, moral, political and
 religious improvements of our times.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn85054828:00212477898:1866122601:0512/pct:75.304540,105.406665,16.597453,17.525052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn85054828:00212477898:1866122601:0512/pct:56.492248,79.084130,12.472315,13.155442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7871,7 +7925,7 @@ tal, moral, politi cal and religious improve
   
 ments of our tim es.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DJoWilm16n_ver01%2Fdata%2F1867010501%2F0179.jp2/pct:22.787081,102.893519,17.523923,10.601852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DJoWilm16n_ver01%2Fdata%2F1867010501%2F0179.jp2/pct:17.090311,77.175926,13.157895,7.962963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7900,7 +7954,7 @@ to sustain a conversation concerning the mental, .
 moral; political and , religious improvements of  
 the times.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewJC5n_ver01%2Fdata%2F1867010501%2F0061.jp2/pct:73.996041,22.297297,17.703620,8.772886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewJC5n_ver01%2Fdata%2F1867010501%2F0061.jp2/pct:55.500566,16.728422,13.277715,6.582389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7976,7 +8030,10 @@ the time covered with weekly and daily
 journals. Let the whole family, men,  
 ‘vomen.and cadre&#x27;&#x27;, read the newspapers.  
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_annona_ver01%2Fdata%2Fsn83032044%2F000001941%2F1867011401%2F0005.jp2/pct:67.606037,52.072776,11.893389,11.036036/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -8236,7 +8293,7 @@ The wide pasture is but separate spires
 of grass; the sheeted bloom of the  
 prairies but isolated fiwers,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://nebnewspapers.unl.edu/images/iiif/batch_nbu_plattsmouth01_ver01%2Fdata%2Fsn84022825%2F00000000005%2F1868040901%2F0611.jp2/pct:75.091241,66.530954,16.408151,27.110526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://nebnewspapers.unl.edu/images/iiif/batch_nbu_plattsmouth01_ver01%2Fdata%2Fsn84022825%2F00000000005%2F1868040901%2F0611.jp2/pct:56.341241,49.910190,12.317518,20.356843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8269,7 +8326,7 @@ gent conversation concerning tlie mental moral
 and religious improvement of our limes Let  
 tbe wbol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_collie_ver01:data:sn84027460:print:1868041801:0773/pct:20.406824,115.642884,14.944226,11.662215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_collie_ver01:data:sn84027460:print:1868041801:0773/pct:15.305118,86.773496,11.220472,8.749841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8571,7 +8628,7 @@ ture is but sonarattf miri if ,,r.u . ,1...
 --4- - 1 &#x27; &#x27; 1. , fcUU  
 sheeted bloom of the prairie but isolate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:0028077604A:1868080101:0683/pct:108.685694,106.850076,16.684285,15.895512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:0028077604A:1868080101:0683/pct:81.536293,80.172294,12.508809,11.921634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8631,7 +8688,7 @@ When a lady indulges in a yawn or two,
 gentlemen are justified in guessing their hat  
 is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685269:1868080601:0440/pct:68.272540,79.065068,12.216105,14.199111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685269:1868080601:0440/pct:68.255334,79.038125,12.216105,14.199111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8663,7 +8720,7 @@ Is but separate spires of grass ; the
 sheeted bloom of tho prairies but iso­  
 lated flowers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279554164:1868080801:0136/pct:44.555955,61.633695,11.702329,8.206765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279554164:1868080801:0136/pct:44.537020,61.620932,11.702329,8.194001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8707,7 +8764,10 @@ are needed on their heads, and that the best
 side of the door is the outside:  
   
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_februus_ver01%2Fdata%2Fsn88079228%2F000002425%2F1868090401%2F0133.jp2/pct:81.493176,66.258818,15.059075,3.262787/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -8794,7 +8854,7 @@ such. = The wide pastures are but separ­
 ate apires of grass; the sheeted bloow  
 of the prairics but isolated flowers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177271:1868111301:0017/pct:73.439340,92.283445,20.533962,21.775312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177271:1868111301:0017/pct:56.910090,71.516833,15.901060,16.883117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8837,7 +8897,7 @@ family, men, women and children, read
 newspapers. ·  
 Git Our that W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279554164:1868111401:0472/pct:35.558432,65.343915,11.556953,13.681028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279554164:1868111401:0472/pct:35.539941,65.331318,11.556953,13.668430/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8925,7 +8985,7 @@ and daily journals,, Let the whole
 family, men, women and children,  
 read newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_eva_ver01%2Fdata%2Fsn85042452%2F00000002053%2F1868121201%2F0436.jp2/pct:66.293467,80.240444,14.699684,24.773942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_eva_ver01%2Fdata%2Fsn85042452%2F00000002053%2F1868121201%2F0436.jp2/pct:49.736565,60.203453,11.024763,18.588163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9144,7 +9204,10 @@ journals. Let Ore - whole family—men,
 women and children—read newspapers.&#x27; -  
   
 RCSiIA AND BRITXSIT INDIA.—Th
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_caelus_ver01%2Fdata%2Fsn84026384%2F000002017%2F1869010501%2F0017.jp2/pct:73.626078,37.848328,12.073455,12.131768/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -9186,7 +9249,10 @@ of the time covered with weekly and daily
 journals. Let tire whole family—min,  
 women and children—read newspapers/ &quot;  
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_caelus_ver02%2Fdata%2Fsn84026384%2F000002017%2F1869010501%2F0017.jp2/pct:73.796695,36.236067,11.902838,12.957803/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -9223,7 +9289,7 @@ and daily journals. Let the whole family
 men, women and children—read news­  
 papers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_aragonite_ver01:data:sn82014367:00513688349:1869010501:0012/pct:11.556365,57.467383,11.698037,13.154259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_aragonite_ver01:data:sn82014367:00513688349:1869010501:0012/pct:11.536126,57.452034,11.698037,13.154259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9579,7 +9645,7 @@ men, women and children read news
   
 papers.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293393:1869012901:0096/pct:49.883109,44.237004,12.989480,12.219117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293393:1869012901:0096/pct:37.434249,33.191727,9.745763,9.167132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9616,7 +9682,7 @@ weekly and daily journals. Let the
 whole family, men, women and children,  
 read newspapers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562847A:1869020501:0681/pct:88.180000,94.737624,17.360000,21.376542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562847A:1869020501:0681/pct:66.160000,71.086666,13.040000,16.054705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9673,7 +9739,7 @@ daily journals. Let the whole family
 m-mi. women and children read newspa  
 per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal2_ver01%2Fdata%2F1869021901%2F0584.jp2/pct:75.475018,40.241660,16.889514,20.882585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal2_ver01%2Fdata%2F1869021901%2F0584.jp2/pct:56.615060,30.181245,12.667136,15.668505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9713,7 +9779,7 @@ daily journals,- Let the whole family
 men women and children read -newspapers&quot;.  
 1 .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RStarRuth1n_ver01%2Fdata%2F1869022701%2F0356.jp2/pct:45.251555,81.763015,16.676088,19.631641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RStarRuth1n_ver01%2Fdata%2F1869022701%2F0356.jp2/pct:33.959864,61.343554,12.507066,14.723730/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9889,7 +9955,7 @@ kept part of the tim e covered with weekly
 and daily journals. Let the whole family—  
 men, women and children, read newspapers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349499:1869041601:0136/pct:61.672991,45.570753,11.301765,12.322638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349499:1869041601:0136/pct:61.656492,45.557970,11.301765,12.322638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9934,7 +10000,7 @@ weekly and daily journals. Let tho whole
 lamuy men, women ana onitaren react  
 newspapers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:0029586753A:1869042401:0652/pct:92.700000,81.785579,16.362500,19.431861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:0029586753A:1869042401:0652/pct:69.525000,61.343903,12.275000,14.580974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9972,7 +10038,7 @@ men and children, read newspapers.
   
 Nothing 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283636:1870010601:0066/pct:80.443675,84.483574,14.207048,15.977310/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283636:1870010601:0066/pct:60.352423,63.389270,10.667086,11.982983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10017,7 +10083,7 @@ nals.; Let the whole family, men, wo­
 - men and children, read newspapers.  
 A young lad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027157:1870030301:0387/pct:10.475297,101.827904,27.939337,20.890326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027157:1870030301:0387/pct:7.864290,76.386471,20.950594,15.680179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10058,7 +10124,7 @@ covered with daily and weekly jour
 nals. Let the whole family, men, wo  
 men and children, read newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286868:1870030901:0517/pct:72.730119,80.861305,12.867877,19.252692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286868:1870030901:0517/pct:54.571071,60.658645,9.643081,14.452185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10340,7 +10406,7 @@ family men, women and children, read
 newspapers.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://nebnewspapers.unl.edu/images/iiif/batch_nbu_plattsmouth01_ver01%2Fdata%2Fsn84022825%2F00000000006%2F1871011201%2F0487.jp2/pct:50.275634,100.238311,14.581036,16.307308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://nebnewspapers.unl.edu/images/iiif/batch_nbu_plattsmouth01_ver01%2Fdata%2Fsn84022825%2F00000000006%2F1871011201%2F0487.jp2/pct:37.706725,75.192919,10.942668,12.244666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10409,7 +10475,7 @@ conversation according to the mental,
 moral find rf:ll?kns Improvement of onr  
 tinv-.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85033437:00200293708:1871020101:0127/pct:45.371462,113.509545,19.590212,13.131949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85033437:00200293708:1871020101:0127/pct:34.035967,85.147892,14.696344,9.848962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10484,7 +10550,7 @@ ligious improvement of our times.
   
 How to get a L
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028821:00280775484:1871020901:0178/pct:21.770335,69.209228,13.106630,15.882118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028821:00280775484:1871020901:0178/pct:16.336295,51.926924,9.825701,11.908254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10615,7 +10681,7 @@ cording to the mental, moral and re­
 ligious improvement of our times.  
 1mv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470193:1871022301:0338/pct:63.727679,65.009371,14.076451,17.947305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470193:1871022301:0338/pct:47.809710,48.770808,10.560826,13.471503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10660,7 +10726,7 @@ sustain conversation according to tne
 mental, moral and religious improvement  
 of our times
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195301:1871030401:0233/pct:93.536711,106.553266,14.128749,13.313706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195301:1871030401:0233/pct:70.152534,79.914949,10.599793,9.998910/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10696,7 +10762,7 @@ provement of our times.
 Dealh.und the CJrave.  
 l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779313:1871030901:0123/pct:96.700163,45.217391,15.181966,14.610843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779313:1871030901:0123/pct:72.528517,33.913043,11.393265,10.960816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10776,7 +10842,7 @@ ral aud religious improvement of our
 times.  
 A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779313:1871032301:0131/pct:96.548913,64.867199,14.986413,14.586482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779313:1871032301:0131/pct:72.418478,48.650399,11.236413,10.947959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10816,7 +10882,7 @@ the mental, moral and religious im­
 provement of our times.  
 e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177271:1871032401:0455/pct:104.159323,99.550360,15.297850,18.306783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177271:1871032401:0455/pct:80.719069,77.145427,11.843497,14.182939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10842,7 +10908,7 @@ ered with weekly and daily journal
 Let the whole family men women and  
 children read newspapers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_collie_ver01:data:sn84027460:print:1871032501:0527/pct:48.346246,113.288527,13.021454,16.271666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_collie_ver01:data:sn84027460:print:1871032501:0527/pct:36.263409,84.989978,9.773540,12.203750/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11222,7 +11288,10 @@ impove its condition. Let her have an in­
 telligent opinion, and be able to sustain  
 conversation according to the mental, mor­  
 al and religious improvement of our times.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_egeria_ver01%2Fdata%2Fsn83032115%2F000002296%2F1872011701%2F0010.jp2/pct:61.408748,80.590218,11.148194,10.468935/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -11254,7 +11323,7 @@ conversation according to the mental.
 niorl. and reliiuu improvemcuU of  
 our tiuica.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195301:1872020301:0423/pct:8.254094,109.442104,14.329107,11.949039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195301:1872020301:0423/pct:6.193872,82.091852,10.750132,8.969485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11316,7 +11385,7 @@ ered with weekly and daily journals,
 Let the whole family, men, women and  
 c hildren, read the newspapers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061082:00212470314:1873120601:0407/pct:5.120305,33.800920,13.805751,15.430367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061082:00212470314:1873120601:0407/pct:3.843897,25.350690,10.357981,11.581192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11362,7 +11431,7 @@ Burmese Elephants. Mr. ..-Vincent
 gives an interesting account of the elo-  
 phants employed in the immense
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCGazFay1n_ver01%2Fdata%2F1874082001%2F0209.jp2/pct:92.670388,18.217730,35.355464,110.456605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCGazFay1n_ver01%2Fdata%2F1874082001%2F0209.jp2/pct:69.521152,13.663297,26.527615,82.874405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11449,7 +11518,7 @@ lA Mr. Thoma Cooper, an Englishman,
 has publiahcd an account of his travels in  
 Thibet, whloli ho visited disguised a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn84026050:00280776816:1874111701:0383/pct:54.507338,10.020141,46.619497,117.153407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn84026050:00280776816:1874111701:0383/pct:40.906709,7.519302,35.010482,87.932192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11629,7 +11698,7 @@ daily lournats. let tbe whole family
 men, women, and ohildren, read newspa  
 pers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023209:00202197486:1881011901:0639/pct:96.772969,57.383384,14.939256,14.794369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023209:00202197486:1881011901:0639/pct:72.589218,43.044438,11.199696,11.095777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11670,7 +11739,7 @@ erea with weekly and dally journals.,
 Let the whole family, man, womaiP^  
 and children, read the newspape
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349219:1884062101:0611/pct:79.088627,23.301501,15.524232,18.731241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349219:1884062101:0611/pct:79.069318,23.287858,15.524232,18.731241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

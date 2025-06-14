@@ -85,7 +85,7 @@ viows with greater flueucy, clearness and cor­
 rectness in the use of language,  
 Tho f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1852012001:0117/pct:115.096094,79.662326,24.969002,42.683734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1852012001:0117/pct:76.766894,53.133966,16.646001,28.470536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ Meets, and expressing their views with greater fluen
 &#x27;cy, clearness and correctness in the use ot language.&quot;  
 Origin or Cbrtain Words. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1852021101:0475/pct:41.082621,35.816619,21.025641,26.545231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1852021101:0475/pct:30.811966,26.872698,15.783476,19.914040/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -278,7 +278,7 @@ ley. clearness and correctness in the use ot language.&quot;
 Origin or Certain Words. The bayonet tells  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:00296022718:1852021101:0051/pct:43.407107,39.351682,20.963217,23.938838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:00296022718:1852021101:0051/pct:32.559227,29.529052,15.741895,17.957187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ views with greater fluency, clearness and cor­
 rectness, in the use of language.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1852030201:0108/pct:118.713620,69.624789,21.609430,29.310708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1852030201:0108/pct:79.147264,46.416526,14.406286,19.540472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -595,7 +595,7 @@ fluency, clearness and correctness in the use
 of language.&quot; M-  
 The Upas Tree of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RepNB4n_ver01%2Fdata%2F1852070601%2F0176.jp2/pct:6.384577,9.507010,39.296445,117.704948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RepNB4n_ver01%2Fdata%2F1852070601%2F0176.jp2/pct:4.794692,7.130257,29.469204,88.301922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -660,7 +660,10 @@ hibiting a more extensive knowledge upon
 a greater variety of subjects, and expres­  
 sing their views. ith greater clearness and  
 correctness in the use of language.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_epona_ver01%2Fdata%2Fsn86071456%2F000002318%2F1852070801%2F0103.jp2/pct:65.386099,53.491578,14.981100,33.674999/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -720,7 +723,7 @@ creater variety of subjects, and expressing
 their views with greater fluency, clearness  
 and correctness in the use of language.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1852072801:0295/pct:55.463844,45.836230,13.350081,26.567496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1852072801:0295/pct:55.445900,45.822327,13.350081,26.567496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -776,7 +779,7 @@ pressing their views with greater flu
 3ncy, clearness, and correctness in tli0  
 ueo of language. - . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn90068762:00296026876:1852080601:0158/pct:48.467601,65.745282,19.001751,34.670828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn90068762:00296026876:1852080601:0158/pct:36.383538,49.338683,14.251313,26.021697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -828,7 +831,10 @@ ty. exhibiting a more extensive knowledge . pr.
 on a .greater. variety- of !inbjeete,- and -&#x27;expree­  
 iring theii views with&#x27;greater flueney,elearneas  
 1 nod correctness In the nee of language,
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fascinus_ver01%2Fdata%2Fsn84026112%2F000002367%2F1852081901%2F0116.jp2/pct:20.245998,78.994864,12.431667,15.597946/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -924,7 +930,10 @@ expressing their views with greater clear­
 ness and correctness in the use of the lan­  
 guage.  
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aurora_ver01%2Fdata%2Fsn84038509%2F000001978%2F1852100601%2F0141.jp2/pct:75.930060,24.265171,21.694303,22.882427/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1161,7 +1170,7 @@ i , , ? , .
 1 fluency-, clearness and correctness in their  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728169A:1852101401:0465/pct:105.764249,39.133764,20.110104,43.082139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728169A:1852101401:0465/pct:79.339378,29.355791,15.090674,32.319808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1228,7 +1237,7 @@ It is now more than forty years ago that Mr.
 I.—— called at the house of Dr. B———, one  
 very cold morning, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84024361:00542868284:1852102001:0528/pct:58.902878,23.508258,15.737410,31.486414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84024361:00542868284:1852102001:0528/pct:45.647482,18.220565,12.194245,24.387320/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1252,7 +1261,10 @@ town. He has purl
 chased fore/kali and  
 is consequently able  
 to sell cheaper tha
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aurora_ver01%2Fdata%2Fsn84038509%2F000001978%2F1852102701%2F0156.jp2/pct:14.613045,64.913875,6.244757,6.289507/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1383,7 +1395,7 @@ edge on a greater variety of subjects, and
 expressing their views with clearness and  
 accuracy in the use of language.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895655:1852110401:0559/pct:5.634573,56.202906,12.509117,22.672228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895655:1852110401:0559/pct:5.616338,56.189451,12.509117,22.658773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1565,7 +1577,10 @@ verthementh to the fbiiehed and claisical oration
 of the statesman, they more readily eromPreitend  
 the meaning of the text, and consequently sina­  
 lyre Its constructlon wit
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fides_ver01%2Fdata%2Fsn84026382%2F000002545%2F1852110801%2F0025.jp2/pct:70.881965,27.406004,9.318524,7.056678/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1614,7 +1629,7 @@ views with greater fluency, clearness, and correctness in
 their use of language.  
 Iron Shivs.—As a good deal of attention h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_custer_ver01:data:sn83026172:00211678173:1852110801:0167/pct:78.181532,50.718859,15.400346,18.231243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_custer_ver01:data:sn83026172:00211678173:1852110801:0167/pct:78.165801,50.706778,15.400346,18.231243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1672,7 +1687,7 @@ rectness in their use of languages._i
   
 Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215889:1852111001:0511/pct:7.422604,37.031401,12.607236,22.271407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215889:1852111001:0511/pct:7.413279,37.024485,12.607236,22.271407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1798,7 +1813,7 @@ ception, that those scholars of both sexes and of all
   
 ages, wno nave had access to newspapers at Home,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1852111201:0435/pct:22.024841,57.907213,20.335066,5.327915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1852111201:0435/pct:16.522241,43.436054,15.251300,3.995936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1825,7 +1840,7 @@ ency, clearness and correctness in their use of lan­
 uap;e.O O  
 Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1852111201:0435/pct:22.559214,75.200361,19.945118,7.551642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1852111201:0435/pct:16.926632,56.405915,14.962449,5.666554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1948,7 +1963,7 @@ nuency, clearness and correctness in their
   
 use of language.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OldNSEC2n_ver02%2Fdata%2F1852111301%2F0174.jp2/pct:64.742590,91.726005,50.520021,21.983753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OldNSEC2n_ver02%2Fdata%2F1852111301%2F0174.jp2/pct:48.556942,68.799519,37.896516,16.497844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2005,7 +2020,10 @@ their views&#x27; with greater fluency, clearness
 an. correctness in their use Of language.  
   
 N
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002341%2F1852111301%2F0179.jp2/pct:76.920635,12.386980,16.369048,16.075949/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2116,7 +2134,7 @@ ness in their use of language
 A Fortvme in View.—’Ve learn from  
 the Hoslon Advertiser, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624463:1852111301:0276/pct:83.277517,15.302435,38.691672,107.101335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624463:1852111301:0276/pct:64.545658,11.861744,29.962045,83.000786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2244,7 +2262,7 @@ greater variety of *ubv**ts, and expressing
 their views with grsster uuenev, clearness and  
 I correctness iu the use of language.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1852111701:0355/pct:53.990691,29.975728,13.118428,21.992988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1852111701:0355/pct:53.973453,29.962244,13.118428,21.992988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2395,7 +2413,10 @@ ency, dearness and correctness in the use of lan­
 guage.  
   
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fauna_ver01%2Fdata%2Fsn85038381%2F000002394%2F1852111901%2F0139.jp2/pct:28.482307,48.547434,12.292902,16.345877/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2502,7 +2523,7 @@ subj ctf, and express their views with a greater
 fluency, clearness and correctness in tho use of  
 language,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1852112401:0287/pct:90.034744,99.070796,25.758054,31.648230/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1852112401:0287/pct:60.028427,66.050885,17.166772,21.106195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2680,7 +2701,7 @@ greater variety of subjects, nnd expressing
 their views with greater fluency, clearness  
 uud correctness in their use of language
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779210:1852112601:0418/pct:3.666667,28.283713,18.958333,29.757735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779210:1852112601:0418/pct:2.750000,21.220082,14.229167,22.314653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2801,7 +2822,10 @@ tiad in the debating socie:y;ethit , itin2 a more er­
 icrisive knoWledge °pan a great variety of , iitietnr  
 and expressing, their views with greater fittency , ,  
 cletantess and correctness in their use (.1&#x27; tangnage.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aerecura_ver01%2Fdata%2Fsn84024558%2F000001787%2F1852112701%2F0177.jp2/pct:76.403868,69.561217,13.750465,21.634820/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2899,7 +2923,7 @@ pers has made them familiar with the
 location of the important places, nations,  
 their governments and doings on the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn90052434:00296023085:1852112701:0412/pct:65.028490,26.780232,19.387464,22.432406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn90052434:00296023085:1852112701:0412/pct:48.789174,20.085174,14.544160,16.836684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2952,7 +2976,7 @@ Expcnsivc Hoarding.
 In an article relating to the Metro­  
 politan Hotel, New York, the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn90052434:00296023085:1852112701:0412/pct:7.649573,35.020303,96.267806,92.908785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn90052434:00296023085:1852112701:0412/pct:5.740741,26.275131,72.236467,69.713776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3171,7 +3195,7 @@ ished anti classical oration «*f the states­
 man, they more readily comprehend the  
 m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151155:1852121101:0184/pct:66.341811,38.162479,12.526741,17.054832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151155:1852121101:0184/pct:66.318041,38.144141,12.526741,17.054832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3194,7 +3218,7 @@ ledge upon a greater vuiiety of subjects,
 lluenov, clearness and correctness in their  
 use of language
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151155:1852121101:0184/pct:66.603280,54.740510,12.241502,5.629928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151155:1852121101:0184/pct:66.579510,54.722171,12.241502,5.629928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3246,7 +3270,7 @@ and expressing their views with greater Cuency,
 clearness and correctness in their use of lanjrua-  
 A Wom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1852121101:0020/pct:101.635373,56.425183,18.049667,26.778784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1852121101:0020/pct:76.256814,42.335058,13.537250,20.094868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3378,7 +3402,7 @@ a more rciiMiL-&#x27;e ,n,nnwledie upon a ureati-r.
 variety ot&quot; aiiftieelaniiM exprcxiiiir their views :  
 with greaip
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarRal6n_ver01%2Fdata%2F1853011201%2F0856.jp2/pct:42.024291,21.521307,17.287449,14.541011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarRal6n_ver01%2Fdata%2F1853011201%2F0856.jp2/pct:31.518219,16.144799,12.975709,10.905758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3803,7 +3827,7 @@ supplied with material for thought wbieb
 cannot fell to make him wiser aad bettor, sod  
 elevate him in tbo scale of humanity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1853102601:0547/pct:69.389205,11.796432,12.695312,7.979533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1853102601:0547/pct:69.371449,11.782603,12.695312,7.979533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3830,7 +3854,10 @@ children, and go forth to his labor supplied
 with material for thought which cannot fail to  
 make him wiser and better, and elevate him in  
 the scale of humanity
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001829%2F1853110201%2F0125.jp2/pct:80.700469,58.503949,11.679367,7.666715/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3854,7 +3881,10 @@ fast table, with his wife and children, and go forth
 to his labor supplied with material for thought  
 which cannot fail to make him wiser and better,  
 and elevate him in the scale of humanity
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001733%2F1853111001%2F0160.jp2/pct:23.133227,61.204945,13.509986,7.631029/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4015,7 +4045,7 @@ and correctness in their uso of language.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1854032401:0031/pct:68.846695,56.189248,12.967651,21.275541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1854032401:0031/pct:68.832630,56.179329,12.967651,21.265622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4208,7 +4238,7 @@ HOME.
 | which are found alone amid the genial iufluences of the  
 | bome-cirele
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84024361:00542868284:1854042601:0836/pct:25.574189,64.802676,16.605906,28.976589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84024361:00542868284:1854042601:0836/pct:19.814072,50.220736,12.869121,22.461538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4480,7 +4510,10 @@ their views with greater fluency; and clear­
 :less in their use of language. •  
   
 TIL
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002343%2F1854061001%2F0091.jp2/pct:25.352747,9.415215,9.625488,18.628288/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4498,7 +4531,10 @@ artificialities. Bead it yo who seek lu.vnin abroad,
 for thoso unalloyed pleasures’ which aro found  
 nlono amidst tho genial influences of the honie  
 oircl
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fortuna_ver01%2Fdata%2Fsn83032199%2F000002722%2F1854061401%2F0070.jp2/pct:25.658144,45.293079,13.446970,3.368644/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4708,7 +4744,10 @@ ness in the use of language.&quot;
   
 t&#x27;on Irish boy trying hard to get a  
 place, denied that, he, Was
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001830%2F1854091301%2F0156.jp2/pct:24.849565,65.295809,16.163361,22.222679/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4770,7 +4809,10 @@ a greater fluency, calmness, and correct­
 ness in the ,use of language.&quot;  
   
 CONFIDENCE IN Os i ts hen 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fauna_ver01%2Fdata%2Fsn85038381%2F000002396%2F1854092901%2F0115.jp2/pct:41.110209,58.228571,12.614167,19.878571/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4805,7 +4847,7 @@ nrehnd the mn.mine of the text, and conse-
 &#x27; &quot; -&#x27; i  
 more cie&#x27;Tiy anu e&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn84028570:00280774790:1854101901:0078/pct:83.381148,76.052707,18.053279,17.430536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn84028570:00280774790:1854101901:0078/pct:62.561475,57.075337,13.565574,13.076482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4889,7 +4931,7 @@ better language, containing more thoughts
 more cleaSy and correctly expressed.&#x27;&#x27;  
 6. Those young men who have for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059861:00514157364:1855010101:0010/pct:18.603402,67.062750,12.820054,25.821095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059861:00514157364:1855010101:0010/pct:18.585497,67.049399,12.820054,25.807744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4972,7 +5014,7 @@ tcr tluency, clearness and correctness in
 their use of language.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1855020301:0204/pct:69.416058,61.219248,13.156934,26.466613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1855020301:0204/pct:69.397810,61.205731,13.156934,26.453095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5207,7 +5249,7 @@ views with greater fluency, and clearness la
 their se of language.  
 -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477771:1855120501:0274/pct:108.562300,25.138223,19.536741,31.846664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477771:1855120501:0274/pct:81.437700,18.859811,14.664537,23.897285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5290,7 +5332,7 @@ them familiar with the location of the impor-
   
 of our land spring
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667814:1856020601:0212/pct:75.934460,54.781138,51.088070,22.383994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667814:1856020601:0212/pct:56.950845,41.085854,38.325653,16.795040/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5322,7 +5364,7 @@ their views with greater fluency, clearness
 and correctness in their use of language.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667814:1856020601:0212/pct:110.445469,69.293631,16.756272,10.294946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667814:1856020601:0212/pct:82.834101,51.972572,12.570405,7.721210/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5416,7 +5458,10 @@ greater fluency, clearness, and correctness in
 the use of languages.  
   
 Our young friend and &quot; brothe
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aurora_ver01%2Fdata%2Fsn84038509%2F000001982%2F1856030501%2F0038.jp2/pct:24.121094,6.289507,14.507378,18.848767/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5566,7 +5611,7 @@ pressing their views with greater flu
 ency and clearness in their usv of lan­  
 guage &quot; &#x27; . -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:0021247034A:1856040301:0257/pct:82.841110,29.346571,42.971057,99.642115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:0021247034A:1856040301:0257/pct:62.152983,22.015701,32.235676,74.763334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5691,7 +5736,7 @@ ia their use of language.
 ...j  
 &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn97065089:00212470478:1856041201:0043/pct:35.620000,10.104761,55.660000,117.093224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn97065089:00212470478:1856041201:0043/pct:26.720000,7.585201,41.760000,87.839809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5750,7 +5795,7 @@ er variety of subjects, and expressing their
 views with greater fluency and clearness iu  
 their uso of language.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1856061101:0992/pct:117.428571,76.293661,26.174603,46.366969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1856061101:0992/pct:78.285714,50.862441,17.460317,30.929280/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5827,7 +5872,7 @@ nations, their governments and doings,
 on the globe.1 ; f  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470697:1856090601:0054/pct:91.956293,68.463457,16.850974,8.315749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470697:1856090601:0054/pct:68.996840,51.371571,12.638231,6.234414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5888,7 +5933,7 @@ text, and consequently . annalyze . its
 construction with accuracy. : . ..  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470697:1856112201:0090/pct:90.833333,61.738360,17.005208,31.902746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470697:1856112201:0090/pct:68.151042,46.313614,12.760417,23.939364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6064,7 +6109,7 @@ compared with those who have not,
 ie: -a ,  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200295894:1856121801:0058/pct:9.686255,98.175002,16.048307,10.239716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200295894:1856121801:0058/pct:7.270916,73.631252,12.039343,7.694584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6119,7 +6164,7 @@ hend the meaning of the text, and conse­
 quently analyze its construction with accuracy.  
 PAINE, TII
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016548:1857012901:0075/pct:31.069584,7.657351,12.397448,15.598728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016548:1857012901:0075/pct:31.054391,7.645990,12.397448,15.598728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6148,7 +6193,10 @@ to the finished , and ,classical oration of the
 statesman, they more readily comprehend the  
 meaning of the text, and emissiquently analyse,  
 its construction with acenracis
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fauna_ver01%2Fdata%2Fsn85038381%2F000002399%2F1857013001%2F0013.jp2/pct:77.572559,74.175000,14.121169,8.232143/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6339,7 +6387,7 @@ more readily comprehend the meaning of the text,
 and consequently analyze its construction with ac­  
 curacy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474228:1857021201:0166/pct:10.985262,103.671114,23.116812,16.311855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474228:1857021201:0166/pct:8.242358,77.774624,17.344432,12.233892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6383,7 +6431,7 @@ statesman, they more readily comprehend
 the meaning of tho text, and consequent­  
 ly analyze its construction more readily
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1857022001:0214/pct:96.895307,82.846498,14.368231,22.131148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1857022001:0214/pct:75.090253,64.202683,11.119134,17.138599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6474,7 +6522,7 @@ of the text, and subsequently analyze
 its construction more readily.&quot;  
 lHoder
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn97065087:00212470478:1857022701:0224/pct:48.125997,74.962641,20.574163,35.511479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn97065087:00212470478:1857022701:0224/pct:36.104466,56.228773,15.430622,26.653987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6582,7 +6630,7 @@ of the statesmen, they more rapidly compre­
 hend the meaning of the text,and cons ‘que.fc  
 ly unnalizo its construction with accuracy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn91054100:00514151003:1857031401:0314/pct:47.398844,55.260244,13.722041,18.050941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn91054100:00514151003:1857031401:0314/pct:47.373712,55.241787,13.722041,18.050941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6668,7 +6716,7 @@ queiitly analyze its construction with .accu­
 racy. The Testimony of an Opponent  
 The Washington correspo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477631:1857032501:0183/pct:105.915916,46.254376,19.384384,25.705951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477631:1857032501:0183/pct:79.444444,34.690782,14.534535,19.288215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6750,7 +6798,7 @@ its construction with accuracy.”
   
 A s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_algaesoup_ver02:data:sn84022465:00517174518:1857042301:0469/pct:99.866489,47.302133,18.863246,21.353943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_algaesoup_ver02:data:sn84022465:00517174518:1857042301:0469/pct:77.398436,36.653786,14.609956,16.545012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7121,7 +7169,7 @@ construction with accuracy.
 MinoLttrWRY CoiLtoE, Commencement at  
 this iiistitmliin occurs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777353:1857071801:0120/pct:23.689436,103.929063,16.977760,22.932273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777353:1857071801:0120/pct:17.772041,77.969729,12.748213,17.199205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7403,7 +7451,7 @@ ished and classical oration of the statesman, they more
 readily comprehend the nieaninuof the text, and con  
 sequ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AmAdKin2n_ver01%2Fdata%2F1858021101%2F0323.jp2/pct:44.384934,27.912781,20.162405,17.548929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AmAdKin2n_ver01%2Fdata%2F1858021101%2F0323.jp2/pct:33.293020,20.937869,15.117484,13.161697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7424,7 +7472,7 @@ knowledge upon a greater variety of subjects, and ex­
 pressing their views with greater fluency and clear­  
 ness i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AmAdKin2n_ver01%2Fdata%2F1858021101%2F0323.jp2/pct:44.367657,46.144752,19.937802,4.571128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AmAdKin2n_ver01%2Fdata%2F1858021101%2F0323.jp2/pct:33.275743,34.611848,14.961990,3.428346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7796,7 +7844,7 @@ tho ut&amp;totuian, they more readily eonipiehend
 the moaning of the text, tr:d comcqucr.tly  
 analiao iti; construction with accuracy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197619:1860112201:0254/pct:63.202934,87.269705,20.048900,22.011359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197619:1860112201:0254/pct:47.412388,65.466131,15.057050,16.525835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7875,7 +7923,10 @@ newspaper reading, extending - through
 the years of minority, cannot easily be  
 estimated.  
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001948%2F1861013001%2F0019.jp2/pct:54.467954,51.945298,12.161052,32.185169/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -8014,7 +8065,10 @@ accumulated by an early course of news­
 paper reading, extending through- the  
 jears of minority, cannot easily be esti­  
 mated. V
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_monroej_ver01%2Fdata%2Fsn83031964%2F000001716%2F1861022801%2F0033.jp2/pct:65.997706,15.244122,24.666714,79.387596/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -8595,7 +8649,7 @@ cumulated during the winter. A later and
 more careful investigation, with a view to  
 learn th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_longines_ver01:data:sn85025371:00542867218:1874052101:0295/pct:19.902640,39.115420,15.090807,28.449993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_longines_ver01:data:sn85025371:00542867218:1874052101:0295/pct:19.883917,39.102138,15.090807,28.449993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8644,7 +8698,7 @@ prehend the meaning of the text,
 and constantly aualize its con  
 struction wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1876040601:0242/pct:3.003400,39.347490,11.843597,20.306567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1876040601:0242/pct:2.984511,39.333427,11.843597,20.306567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8755,7 +8809,7 @@ variety of subjects, and .expressing
 their viess a-ith greater fluency,  
 clearness and correctness:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OxLead4n_ver01%2Fdata%2F1879021801%2F0334.jp2/pct:81.772967,27.037243,15.242832,27.159533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OxLead4n_ver01%2Fdata%2F1879021801%2F0334.jp2/pct:61.337039,20.277932,11.439438,20.377988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8861,7 +8915,7 @@ and correctness.
   
 Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_epidote_ver01:data:sn85032971:00516990508:1882072701:0710/pct:84.914842,44.621384,13.625304,33.474163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_epidote_ver01:data:sn85032971:00516990508:1882072701:0710/pct:84.892723,44.605135,13.625304,33.457914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -86,7 +86,7 @@ mg it in the air on a warm day. Alter j
 doing this three or four times, he will find  
 his finger uncomfortably cold
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215646:1838061901:0080/pct:69.054024,74.448640,15.444967,13.149547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215646:1838061901:0080/pct:69.042816,74.433535,15.444967,13.149547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ will fi id his finger uneorr.t • a» &#x27; v cord.
   
 B- r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187122:1838063001:0178/pct:32.762238,9.738062,26.538462,85.436772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187122:1838063001:0178/pct:32.744755,9.725530,26.538462,85.424239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ a marriage notice in the Perry Fores­
 ter : .  
 “ On th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1838071101:0115/pct:46.003624,65.031646,14.455406,18.987342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1838071101:0115/pct:45.983491,65.017261,14.455406,18.972957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ a finger in water and nolding it in the air on a warm
 day. After doing this three nr four times, he will find  
 his finger uncomfortably cold
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:0041418294A:1838080201:0761/pct:41.328656,64.228890,16.904188,8.011165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:0041418294A:1838080201:0761/pct:41.306731,64.200977,16.904188,8.011165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ and holding it in the air on a warm day.
 After doing this three or four times, he  
 will find his linger uncomfortably cold.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn82014968:00212472025:1841061101:0227/pct:23.979183,46.274673,19.095276,21.601334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn82014968:00212472025:1841061101:0227/pct:17.994396,34.709480,14.331465,16.207951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -482,7 +482,7 @@ a finger in the water and holding it in the air
 times, he will find his finger uncomfortably  
 1 cold.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991239:1841062501:0193/pct:0.909630,62.354482,16.452442,12.660070/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991239:1841062501:0193/pct:0.889856,62.339930,16.452442,12.645518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ it in the air, on a waim day. After doing
 this three or four times, lie will find his fin­  
 ger uncomfortably cold
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_eggplant_ver02:data:sn95079550:00516991550:1841072901:0374/pct:2.993528,60.832073,15.028317,11.739788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_eggplant_ver02:data:sn95079550:00516991550:1841072901:0374/pct:2.973301,60.816944,15.028317,11.739788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -588,7 +588,7 @@ air, on a warm day. After doing ibis two
 or three times, lie will find bis finger un­  
 comfortably cold
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn92053389:00514151179:1841082801:0119/pct:62.376765,46.581982,17.665867,15.276617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn92053389:00514151179:1841082801:0119/pct:62.350120,46.565268,17.665867,15.276617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -621,7 +621,7 @@ ter anid holding it in the a.r ou a warm day. Afler
 doing this three or four times, he will find his fin­  
 ger uncomfortably cold.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_isolation_ver01:data:sn84022931:00542868338:1841090401:0143/pct:44.064150,7.131560,18.736554,11.229331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_isolation_ver01:data:sn84022931:00542868338:1841090401:0143/pct:34.148250,5.521208,14.512028,8.698778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -652,7 +652,7 @@ other for evaporation, and he can always havo a
 l supply of cold water in warm weather.”  
 T. H. M‘Oaleh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1841091601:0115/pct:80.492170,88.402575,15.346756,8.566413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1841091601:0115/pct:80.477256,88.379169,15.346756,8.566413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -694,7 +694,7 @@ the authorities of this State. At the time of
 his arrest he was in charge of officer Wm. U.  
 Coulson, who is tho 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1842072101:0505/pct:43.139383,39.257895,16.912723,16.739839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1842072101:0505/pct:43.117673,39.243733,16.912723,16.739839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1037,7 +1037,7 @@ fiîïd his linger uncomfortably cold.
   
 H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844060301:0389/pct:3.275323,75.131012,14.489636,9.784411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844060301:0389/pct:3.265546,75.117745,14.489636,9.784411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1154,7 +1154,7 @@ doing this three or four times, he will n.u
 his finger uncomfortably cuul.  
 Sew Yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarObsF10n_ver01%2Fdata%2F1844061201%2F0302.jp2/pct:112.872208,104.391015,18.377792,15.306468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarObsF10n_ver01%2Fdata%2F1844061201%2F0302.jp2/pct:84.692928,78.327125,13.787221,11.491139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1254,7 +1254,7 @@ comfortably cold.”
 Marriage.—ln marriage prefer the  
 p
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082160:00514159324:1844062201:0257/pct:24.708090,87.603787,20.663053,24.195193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082160:00514159324:1844062201:0257/pct:19.140951,67.895120,16.013344,18.747269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1509,7 +1509,10 @@ in water, and holding it in the air of a
 warm day; after doing this three or  
 four times, he will find his finger on­  
 -comfortably cold
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aerecura_ver01%2Fdata%2Fsn84024558%2F000001779%2F1844072401%2F0060.jp2/pct:9.120708,50.026284,13.912591,14.261039/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1635,7 +1638,7 @@ nature’s great convulsions, our granite
 hills are at the greatest point of dis­  
 tance.—Farmer&#x27;s Monthly Visiter.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348392:1844110701:0406/pct:23.274918,77.420206,13.928441,2.558692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348392:1844110701:0406/pct:23.256663,77.393827,13.928441,2.558692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1891,7 +1894,10 @@ this by dipping , a fingecini . %vater, and hisldina it in
 the air of -a;Warro day Skid after doing this three  
 \ or four titnes, he will foid , ,O: finger uncomfortably  
 cold
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002334%2F1845083001%2F0140.jp2/pct:79.978430,72.550596,11.496980,9.911540/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2210,7 +2216,7 @@ three or four times lie will find Ins finger
 uncomfortably colJ,  
 A kind hearte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895655:1852070801:0488/pct:29.972401,79.570896,12.585097,11.966951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895655:1852070801:0488/pct:29.954002,79.544243,12.585097,11.966951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2423,7 +2429,7 @@ water,-- and holding in the air ona warnl day;
 lifter doing this three&#x27; of four times he will  
 ed his finger uncomfortably cold.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667802:1853061501:0434/pct:99.769112,73.175524,18.907132,15.812126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667802:1853061501:0434/pct:74.846075,54.893338,14.186762,11.863772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2556,7 +2562,7 @@ with lids or covers one to contain water for drink
 iug, the other for evaporation, and be can al­  
 wuys have a supply of cold water in warm weal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_algaesoup_ver02:data:sn84022465:00517174518:1857072301:0521/pct:80.168938,64.093383,18.679209,9.997135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_algaesoup_ver02:data:sn84022465:00517174518:1857072301:0521/pct:62.123248,49.670581,14.474947,7.748496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2596,7 +2602,7 @@ times he will find his finger uncomfortably cold.
 LATE SECRETARY OF STATE—ANECDOTES, &amp;e. |  
 FROM TH
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_doubleday_ver01:data:sn83026172:00211678264:1857072301:0646/pct:18.152820,2.895553,27.142236,93.933127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_doubleday_ver01:data:sn83026172:00211678264:1857072301:0646/pct:18.138321,2.884063,27.142236,93.921636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2946,7 +2952,7 @@ be will find his&#x27; finger uncomfortably cold.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WestSen14n_ver01%2Fdata%2F1857081401%2F0130.jp2/pct:12.276906,84.048948,54.340184,41.036926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WestSen14n_ver01%2Fdata%2F1857081401%2F0130.jp2/pct:9.207680,63.063547,40.778799,30.785745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3058,7 +3064,7 @@ to oootain fresh water for drinking, tbe other
 i for evaporation, and be can always bate a  
 supply of cold water in warm weather.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:0041421597A:1857081801:0167/pct:68.813392,10.811380,26.065977,83.491394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:0041421597A:1857081801:0167/pct:68.803545,10.804355,26.065977,83.484370/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3143,7 +3149,7 @@ will find his finger uncomfortably cWd.
 X  
 Albany Journal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82015486:00280760924:1857082001:0068/pct:42.406716,72.714852,16.679104,29.034021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82015486:00280760924:1857082001:0068/pct:31.809701,54.556633,12.518657,21.792595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3228,7 +3234,7 @@ niSCELLANEOVS RIAUIKC.
 BEAUTIFULLY SAID.  
 We make tbe followin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:0041421597A:1857082001:0175/pct:68.320723,10.991485,24.702761,83.393146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:0041421597A:1857082001:0175/pct:68.310897,10.984449,24.702761,83.386109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3353,7 +3359,7 @@ covers, one to contain fresh water for drink-
 always have a supply of cold water in warm  
 weather.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1857082501:0136/pct:72.580199,94.688503,17.063053,30.585371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1857082501:0136/pct:54.452434,71.030209,12.804204,22.950094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3421,7 +3427,7 @@ ing, the other for evaporation, and be can
 always have supply of cold water in  
 warm weather. &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ComWilm8n_ver01%2Fdata%2F1857082901%2F0325.jp2/pct:57.313028,16.780648,18.787696,10.245694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ComWilm8n_ver01%2Fdata%2F1857082901%2F0325.jp2/pct:43.003619,12.588652,14.098311,7.687437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3549,7 +3555,7 @@ other for ( evaporation, and he catf always
 iive a suddIv of cold water in warm weatl  
 er
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_UniNB1n_ver01%2Fdata%2F1857090201%2F0110.jp2/pct:90.875186,4.886180,19.567379,21.078198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_UniNB1n_ver01%2Fdata%2F1857090201%2F0110.jp2/pct:68.162606,3.667016,14.669319,15.811030/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3619,7 +3625,7 @@ and ho can always havo a supply of cold wa­
 ter in warm weather.  
 The Failure of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857090801:0107/pct:118.291979,88.482847,20.470283,14.319199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857090801:0107/pct:78.880554,59.002770,13.646855,9.546133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3790,7 +3796,7 @@ finger in water, and holding it in the air on a warm
 day; after doing this three or four times he will find  
 his finger uncomfortably cold
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474216:1857111201:0082/pct:8.593337,18.266321,17.067689,9.122352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474216:1857111201:0082/pct:6.451613,13.705145,12.797462,6.841764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3811,7 +3817,7 @@ and reduce it to a freezing point. In India
 and other tropical climates, where ice cannot  
 bo procured, this is oommon. j j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AshNMF2n_ver01%2Fdata%2F1858022501%2F0232.jp2/pct:4.979360,64.524080,19.865841,6.086462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AshNMF2n_ver01%2Fdata%2F1858022501%2F0232.jp2/pct:3.740970,48.407281,14.899381,4.560106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4155,7 +4161,7 @@ dependent of its coldness.—Maine, Farmer.
 GBEA T  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85035610:00513684964:1859063001:0139/pct:7.613716,8.371521,27.781666,86.218844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85035610:00513684964:1859063001:0139/pct:7.599720,8.360344,27.781666,86.207667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4265,7 +4271,10 @@ pingw a finger in water, and holding it in the
 air on a Warm -day. After doing this three or  
 four times he will find hie finger uncomfortably  
 cold
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aesculapius_ver01%2Fdata%2Fsn84035983%2F000001903%2F1863082501%2F0581.jp2/pct:81.373134,86.792517,14.855721,9.367347/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4316,7 +4325,10 @@ pitplmni thus provided, angl mu; liés or
 his; ilm other [or evqpomtion, and he &#x27;can  
 nlyvgtya&#x27;gm&#x27;ve asupply ol‘wld wawrin warm  
 wax h
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_trumanhs_ver01%2Fdata%2Fsn85055100%2F000001895%2F1863083101%2F0133.jp2/pct:43.933570,85.221459,12.364479,7.473323/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4344,7 +4356,7 @@ Aft-r doing this three or four times he will find his finger
 uncemfortably cold —Exchange paper.  
 Mary B. Sumner has presented at the office of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_anderson_ver01:data:sn83026172:00211678380:1863090901:0478/pct:20.277017,85.008335,15.364793,7.847106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_anderson_ver01:data:sn83026172:00211678380:1863090901:0478/pct:20.260912,84.984520,15.364793,7.847106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4423,7 +4435,7 @@ water and holding it it* tho air on a warm
 day. After doing this three or four times  
 ho will find his finger uncomfortably cold
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523908:1863100901:0170/pct:17.580394,50.824093,12.806347,9.269803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523908:1863100901:0170/pct:17.566228,50.814104,12.806347,9.269803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4474,7 +4486,7 @@ warm day. After doing this three or four
 times he will find-his finger uncomforta­  
 bly cold
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:00294555626:1865062201:0376/pct:69.598540,63.163454,16.751825,19.778189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:00294555626:1865062201:0376/pct:52.226277,47.385794,12.572993,14.853446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4581,7 +4593,10 @@ lids or covers, one to contain fresh
 water for the evaporation, and he can  
 always have a supply of cold water  
 in warm weather
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fufluns_ver02%2Fdata%2F2018264050%2F000002751%2F1865070601%2F0002.jp2/pct:79.208955,68.013668,14.009950,10.017085/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4658,7 +4673,7 @@ work, two pitcher thus provided, and with
 for the evaporation, and he can always have  
 a supply of cold water in warm weathe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn85025182:00212477898:1865071901:0218/pct:111.635750,111.498014,17.228780,11.638233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn85025182:00212477898:1865071901:0218/pct:83.726813,83.641038,12.928612,8.728675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4747,7 +4762,7 @@ tion, and he can always have a supply of
   
 cool water in warm weather
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn84023428:00202197425:1865072601:0166/pct:80.479735,94.928460,19.168734,11.276385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn84023428:00202197425:1865072601:0166/pct:60.380480,71.228219,14.392060,8.457289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4801,7 +4816,10 @@ or covers, one to contain fresh water
 evaporation, and he can always  
 have a supply of cold water in warm  
 weather
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fufluns_ver02%2Fdata%2F2018264050%2F000002751%2F1865080301%2F0034.jp2/pct:79.000000,65.153766,14.124378,10.035656/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5049,7 +5067,7 @@ ing, tbe other for evaporation, and be can
 always haye a supply of cool water in warm  
 weather
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:00294555638:1869062401:0537/pct:74.981536,59.722035,16.395864,8.554851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:00294555638:1869062401:0537/pct:56.240768,44.798273,12.296898,6.409391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5109,7 +5127,10 @@ provided, and with lids or corers—one to
 `contain water for drinking, the other for  
 evaporation—and he em always have a  
 supply of cold water in warm weather
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fascinus_ver01%2Fdata%2Fsn84026112%2F000002384%2F1871080901%2F0116.jp2/pct:8.358969,76.724522,11.694866,10.109776/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5135,7 +5156,7 @@ provided, and lld-s or covers, one to
 he can always have a supply of cold  
 water in warm weather
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279553901:1872070901:0031/pct:6.667926,29.025974,11.673593,6.766234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279553901:1872070901:0031/pct:6.649037,29.012987,11.673593,6.766234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5162,7 +5183,7 @@ covers, one to supply water for lhe evanoraiion,
 and he can always have a supply of void water  
 in warm weather.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171876:1872071901:0682/pct:19.699563,77.839030,14.014071,6.711687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171876:1872071901:0682/pct:15.269063,60.322492,10.857577,5.195700/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5202,7 +5223,10 @@ oration, and hocan always have a supply
 of cold water in warm weather.  
   
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_obamab_ver01%2Fdata%2Fsn83031982%2F000001764%2F1872081401%2F0119.jp2/pct:14.617211,41.136725,9.231544,6.893027/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5255,7 +5279,7 @@ er.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028821:00280775484:1872082201:0519/pct:8.123297,53.121272,12.738420,10.629556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028821:00280775484:1872082201:0519/pct:6.096730,39.854208,9.553815,7.978794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5424,7 +5448,7 @@ to contain water for drinking, the other
 ! r vaporafion, and he can always have  
 a supply of cob! water in warm w&#x27;tather
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn86053406:00296020709:1874061901:0318/pct:7.169411,97.470860,13.050982,8.148230/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn86053406:00296020709:1874061901:0318/pct:5.377058,73.125137,9.798194,6.113921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5491,7 +5515,7 @@ jng, tho other for evaporation, and he can a!»
 wfljs have a supply of cold water in warm wea­  
 tl)&lt; r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187146:1874070301:0866/pct:3.266854,30.188088,12.724826,7.533960/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187146:1874070301:0866/pct:3.254619,30.177638,12.724826,7.533960/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5589,7 +5613,7 @@ ing, the other for evaporating, and he can
 always have a supply of cold water in  
 warm weather
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779313:1874070901:0677/pct:23.660059,26.882414,16.868576,14.711191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779313:1874070901:0677/pct:17.749633,20.165034,12.665198,11.036617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5710,7 +5734,7 @@ tion
 and be can always have a supply  
 of cold water in warm weather
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061082:00212470314:1874071801:0530/pct:103.481568,107.929125,13.297250,9.390919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061082:00212470314:1874071801:0530/pct:77.618490,80.963455,9.976594,7.043189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5743,7 +5767,7 @@ drinking, the otner ior evaporation,
 and he can always have a supply of  
 cold water in warm weather
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat29n_ver01%2Fdata%2F1874081201%2F0532.jp2/pct:40.012755,99.538793,14.400510,7.563800/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat29n_ver01%2Fdata%2F1874081201%2F0532.jp2/pct:30.012755,74.674593,10.816327,5.677975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5766,7 +5790,7 @@ inside, and reduce it to* freezing point.
 In India and -other tropical countries  
 where ice cannot be produced, thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173381:1876083001:0263/pct:4.065410,76.008634,14.717238,6.641209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173381:1876083001:0263/pct:4.042698,75.975428,14.717238,6.641209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5840,7 +5864,7 @@ manac, published in Philadelphia in 1848,
 now in the hands of Capt. F. P. Peace.  
 Donation t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kay_ver01:data:sn85033437:00296021052:1881091101:0247/pct:53.920266,35.068836,16.279070,17.747184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kay_ver01:data:sn85033437:00296021052:1881091101:0247/pct:40.465116,26.320401,12.209302,13.304130/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

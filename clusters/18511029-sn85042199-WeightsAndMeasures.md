@@ -145,7 +145,7 @@ Of dried apples, twenty-four pound 9.
 Of onions, fifty-seven pounds  
 Of salt, fifty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851100101:0395/pct:23.021789,113.390101,20.470183,14.145822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851100101:0395/pct:17.273509,85.055881,15.352638,10.612028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ Of driet) apples, twenty-four&quot; pounds&#x27;. V
 Of onions, fifty-seven pounds.  
 Of salt, fifty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851100101:0388/pct:22.180214,112.661051,20.100819,13.800793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851100101:0388/pct:16.635161,84.539148,15.091367,10.356789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -218,7 +218,7 @@ Of dried apples, twenty -four pounds.
 ,()f onion, fifty-seven p.nniil,  
 &#x27; Of salt, fifty poun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat22n_ver01%2Fdata%2F1851100401%2F0158.jp2/pct:67.244969,62.276874,19.760583,17.651726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat22n_ver01%2Fdata%2F1851100401%2F0158.jp2/pct:50.433727,46.714267,14.833449,13.235489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ Of onions, fifty-seven pounds.
 Of salt, fifty pounds.  
 Hnvn Ttntrs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn85042204:00296023085:1851101801:0170/pct:52.268761,74.373427,23.312973,25.465526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn85042204:00296023085:1851101801:0170/pct:39.208842,55.792652,17.495637,19.114243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -382,7 +382,7 @@ Of salt, fifty poundsr&#x27; -s-&#x27;
   
 On the 20t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OldNSEC1n_ver01%2Fdata%2F1851102501%2F0539.jp2/pct:109.647470,81.457021,17.962863,19.294859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OldNSEC1n_ver01%2Fdata%2F1851102501%2F0539.jp2/pct:82.265877,61.115627,13.468784,14.478764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ Of dt ied apples, twenty-f .iir poumla.
 Ofoui ms. li ty seven pound*  
 Of salt, fi &#x27;ty pounds&#x27;.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851102801:0143/pct:68.752209,72.276546,13.061152,13.276408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851102801:0143/pct:68.734535,72.262774,13.061152,13.262636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -498,7 +498,7 @@ Of castor beans, forty-six pounds.
 Of onions, fifty-seven pounds.  
 Of salt, fifty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026203:0029602756A:1851110701:0343/pct:67.899160,85.002077,35.504202,16.535106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026203:0029602756A:1851110701:0343/pct:50.924370,63.758482,26.638655,12.408254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -545,7 +545,7 @@ Of dried apples, twenty-four pounds.
 Of onions, fifty-seven pounds.  
 Of salt, fifty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851111201:0385/pct:15.709598,65.589073,12.934099,12.154859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851111201:0385/pct:15.695926,65.579247,12.934099,12.145033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -584,7 +584,10 @@ Ofdiied peaohes, thirty-three pounds.
 Of dried apples, twenty-four pounds.  
 Of onions, filly-seven pounds.  
 Of salt fifty pounds. ,
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001731%2F1851111301%2F0176.jp2/pct:23.108138,66.672244,13.138846,11.661369/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -620,7 +623,7 @@ Of salt., fifty pounds
 &#x27; Of mineral coal, seventy pound.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1851111301:0945/pct:57.515576,96.067968,16.744548,14.983851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1851111301:0945/pct:43.165888,72.082573,12.558411,11.262463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -655,7 +658,7 @@ Of blue grass seed, fourteen pounds.
 Of castor beans, forty-six pounds.  
 3to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728169A:1851111301:0280/pct:4.204253,89.565888,20.376933,19.479947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728169A:1851111301:0280/pct:3.157216,67.199207,15.286727,14.620978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -695,7 +698,7 @@ Of onions, fifty-scrcn pounds.
 Of salt, III ty pounds.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035487:00237283776:1851111501:0393/pct:54.353933,12.468155,35.654093,108.332085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035487:00237283776:1851111501:0393/pct:40.790530,9.351116,26.765650,81.297767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -887,7 +890,10 @@ Of dried apples, twenty-fire pounds.
 Of emiszae, fifty-seven pounds.  
 Of salt, fiftrpounds.  
 Of uthurahteonl, sevent
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fides_ver01%2Fdata%2Fsn84026382%2F000002533%2F1851112201%2F0072.jp2/pct:9.114583,11.021076,9.678819,8.757267/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -931,7 +937,10 @@ Of castor beat* forty-six pounds.
 Of dried apples, twenty-four pounds:  
 Of onions, fifty-seven pounds-  
 Of saltl&#x27;fifty pounds.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001828%2F1851112601%2F0182.jp2/pct:6.601796,42.383960,13.463074,17.071827/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1054,7 +1063,7 @@ Of dried peaches, thirty-three pounds,
 Of dried ripples&#x27;, twenty lotif pounds.  
 Of onions, fifty -seven pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarRal6n_ver01%2Fdata%2F1851120301%2F0644.jp2/pct:21.224900,56.220238,17.068273,16.086310/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarRal6n_ver01%2Fdata%2F1851120301%2F0644.jp2/pct:15.923695,42.187500,12.811245,12.083333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1216,7 +1225,7 @@ Of onions, fifty-seven pounds.
 Ol salt,&#x27; fifty pounds.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WeekComW2n_ver01%2Fdata%2F1851121201%2F0181.jp2/pct:20.885910,101.103405,20.609884,21.616225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WeekComW2n_ver01%2Fdata%2F1851121201%2F0181.jp2/pct:15.667718,75.830181,15.457413,16.225305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1248,7 +1257,10 @@ Of dried apPles, tiventy-foni
 ..pounds.  
 • Of oiirinia. &#x27;fifty-Seven - Rounds.  
 Of silk - fifty-six ,pounds
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fascinus_ver01%2Fdata%2Fsn84026112%2F000002366%2F1851121801%2F0178.jp2/pct:8.448439,61.126313,11.083254,10.412661/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1352,7 +1364,7 @@ Of dried apples, twenty-four pounds.
 Of onions, fifty seven pounds.  
 Of salt, fifty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013523:1851122601:0419/pct:70.271216,78.036942,10.831146,12.565727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013523:1851122601:0419/pct:70.253718,78.009977,10.831146,12.565727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1722,7 +1734,7 @@ Of dried peaches, thirty-three pounds.
 Of onions, fifty-scven&quot;ounds.  
 Of salt, fifty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BibRecRal10n_ver01%2Fdata%2F1852020601%2F0008.jp2/pct:88.323529,28.009934,21.308824,18.918043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BibRecRal10n_ver01%2Fdata%2F1852020601%2F0008.jp2/pct:66.264706,21.012850,16.000000,14.199331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1759,7 +1771,7 @@ Of mineral-coal, sevonnty pounds.
   
 c ®a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172145:1852021101:0104/pct:7.410935,7.560628,28.881692,114.793153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172145:1852021101:0104/pct:5.734426,5.863053,22.385216,88.958631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1843,7 +1855,7 @@ unwise parent labors hard and lives spar­
 ingly all his life for the purpose of lea­  
 ving enough to giv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895655:1852030401:0419/pct:7.779579,6.259175,24.905457,92.019218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895655:1852030401:0419/pct:7.761570,6.245829,24.905457,92.005872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1878,7 +1890,7 @@ Of castor beans, foKf.tix pounds.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1852030501:0757/pct:87.500000,110.775801,19.241573,16.170819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1852030501:0757/pct:65.650080,83.131673,14.446228,12.142349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1931,7 +1943,7 @@ Of mineral-coal, seventy pounds.
   
 SAMUE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1852032501:0404/pct:26.372060,12.121212,24.180328,22.651515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1852032501:0404/pct:19.779045,9.090909,18.139701,16.994949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2087,7 +2099,7 @@ Of buckwheat, forty-two pounda.
 Of castor beans, forty .six ponnds.  
 ; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00296026815:1852092401:0013/pct:86.070507,74.356303,18.099742,16.684030/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00296026815:1852092401:0013/pct:64.574377,55.782110,13.585555,12.516744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2160,7 +2172,7 @@ Of dried apples twenty-four pounds.
 Of onions fifty-seven pounds.  
 Of salt fifty pound
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151155:1853060401:0285/pct:56.000949,43.799231,12.547438,14.068511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151155:1853060401:0285/pct:55.977230,43.780912,12.547438,14.068511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2282,7 +2294,7 @@ Of dried apples, twenty-four pounds.
 Of onions, fifty -seven pounds.  
 Of salt, fifty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1853092101:0528/pct:59.550764,28.338627,13.117700,13.119735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1853092101:0528/pct:59.532794,28.324817,13.117700,13.119735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2324,7 +2336,7 @@ Of onions, filtv-seven pounds.
 Of salt, fifty pounds.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026712:1853092201:0123/pct:60.325292,48.219643,16.100146,18.481805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026712:1853092201:0123/pct:45.248538,36.181036,12.097953,13.864615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2364,7 +2376,7 @@ O f dried peaches, thirty -th ree pounds.
 Of onions, fifty-seven pounds.  
 Of salt, fifty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775514:1853092901:0164/pct:26.386778,11.808223,16.299392,18.779343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775514:1853092901:0164/pct:19.794833,8.863281,12.234043,14.084507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2439,7 +2451,7 @@ Of dried apples, twenty-four pounds.
 Of onions, fifty-seven pound.  
 Of salt, fifty pound.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn84028479:0028077537A:1853110401:0192/pct:75.018077,78.183129,16.720897,17.087239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn84028479:0028077537A:1853110401:0192/pct:56.290672,58.673396,12.563268,12.819034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2554,7 +2566,7 @@ Of onions, fifty-seven pounds.
   
 Bt 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DJoWilm3n_ver01%2Fdata%2F1853121601%2F0118.jp2/pct:36.784512,83.574277,32.154882,41.450648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DJoWilm3n_ver01%2Fdata%2F1853121601%2F0118.jp2/pct:27.588384,62.724327,24.137205,31.094217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2645,7 +2657,7 @@ Of dried apples, twenty-four pounds.
 Of onions, fifty-seven pounds. -: . .&#x27;  
 Of salt, fifiy pounds. -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1854010401:0420/pct:111.041667,88.859381,18.253205,27.393440/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1854010401:0420/pct:83.317308,66.671093,13.701923,20.568318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2683,7 +2695,10 @@ Of dried apples, twenty-four pounds. ■ 1
 Of onions, fifty-seven pounds.  
 Of salt, fifty pounds.  
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_diInferi_ver01%2Fdata%2Fsn84026248%2F000002245%2F1854010501%2F0006.jp2/pct:66.263873,79.069968,9.488172,8.984375/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2699,7 +2714,7 @@ ihe rates by which they sho&#x27;d be bonght and
 .ld.  
 A bath, of NVbea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1854010701:0212/pct:59.956395,114.062055,16.933140,4.056362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1854010701:0212/pct:44.985465,85.596356,12.699855,3.045830/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2775,7 +2790,7 @@ Of dried apples, twenty-four pounds.
 Of onions, fifty-seven pounds.  
 Of salt, fifty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1854022301:0085/pct:86.002288,71.977273,13.282814,13.045455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1854022301:0085/pct:81.698599,68.375000,12.625107,12.397727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2855,7 +2870,7 @@ Of dried apples, twenty-four pounds.
 , Of onions, fifty -seven pounds.  
 Of salt, fifty pounds
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1854051101:0359/pct:11.352488,93.371986,16.468115,17.024641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1854051101:0359/pct:8.514366,70.048755,12.351086,12.781658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3065,7 +3080,7 @@ Of dried apples, twenty-four pounds.
 01 otiisn-i, fifty-seven pounds.  
 Of salt, fifty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026712:1854062901:0295/pct:75.525526,70.958084,16.629129,17.242787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026712:1854062901:0295/pct:56.644144,53.225367,12.481231,12.928688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3101,7 +3116,7 @@ Of dried apples, twenty-four pounds,
 i Of i &#x27; :is, fifty-seven pounds.  
 1 Of »alt, sixty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349013:1854092701:0153/pct:54.305109,46.789495,13.129689,14.698199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349013:1854092701:0153/pct:54.287245,46.775746,13.129689,14.698199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3141,7 +3156,7 @@ Of salt, fifty pounds. . .
 From tbe London Time.  
 Ireland Agriculture and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1854110101:0300/pct:111.167147,39.153300,17.417147,21.246384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1854110101:0300/pct:83.393372,29.371549,13.076369,15.947936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3229,7 +3244,7 @@ i Of dried apples, twenty-four pounds.&quot;
 alt. fifty pounds, ;j T i ?  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1854112901:0513/pct:92.678462,109.154674,16.488713,17.837707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1854112901:0513/pct:69.524100,81.896239,12.370348,13.375257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3463,7 +3478,7 @@ Of onions, fifty seven pounds.
 Of salt fifty pounds.  
 Re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:0041418375A:1855103101:0331/pct:31.438839,78.748370,12.524957,11.231142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:0041418375A:1855103101:0331/pct:31.425529,78.729745,12.524957,11.231142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3504,7 +3519,7 @@ Of onions, fifty-seven pounds !
 Of sfilt, fifty pounds.  
 Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059861:00514157364:1855112801:0141/pct:18.764548,48.794308,12.748433,15.522467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059861:00514157364:1855112801:0141/pct:18.746643,48.781131,12.748433,15.522467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3623,7 +3638,7 @@ hemp seed, 44 pounds ; of blue grassseed, 15 pounds ; of
 castor beans, 46 pounds ; of dried peaches, 38 pounds ; of  
 dried apples, 2 pounds ; of onious, 57 pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_doubleday_ver01:data:sn83026172:00211678240:1856021801:0048/pct:15.735966,79.808022,13.673199,5.119415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_doubleday_ver01:data:sn83026172:00211678240:1856021801:0048/pct:15.721232,79.785167,13.673199,5.119415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3673,7 +3688,7 @@ pounds; of hemp sued, 44 pounds; of blue
 l-rass seed, 15 pounds; of castor beans, 46  
 pounds;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1856030701:0506/pct:109.596714,84.444444,16.579537,7.018970/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1856030701:0506/pct:82.244212,63.360434,12.434653,5.271003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3688,7 +3703,7 @@ pounds;
  of dried peaches, 38 pounds; of dried  
 apples, 24 pounds; of onions, 57 pounds
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1856030701:0506/pct:109.559373,90.840108,16.523525,1.273713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1856030701:0506/pct:82.206871,68.157182,12.397311,0.962060/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3841,7 +3856,10 @@ of Caster Benno, forty-six pounds.
 Of Mil: cl Apples, twenty- fonr pound,  
 (II Onions, fifty-seven p wind  
 It i t, fifty pound:,
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_epona_ver01%2Fdata%2Fsn86071456%2F000002322%2F1856091701%2F0149.jp2/pct:56.702279,81.642594,12.386040,14.103653/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4064,7 +4082,7 @@ Of castor beans forty-six pounds.
 Of onions fifty-seven pounds.  
 Of salt fifty-six pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194928:1858031901:0468/pct:38.356669,8.759224,14.996315,14.389177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194928:1858031901:0468/pct:28.776713,6.572834,11.256448,10.795299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4124,7 +4142,7 @@ Of castor beans forty-six pounds.
 Of onions fifty-seven pounds.  
 Of salt fifty-six pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalCA39n_ver01%2Fdata%2F1858041501%2F0192.jp2/pct:107.179931,112.135466,14.460784,13.229069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalCA39n_ver01%2Fdata%2F1858041501%2F0192.jp2/pct:80.406574,84.125118,10.841984,9.924741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4160,7 +4178,7 @@ Of salt fifty-six&#x27;pounds.
   
 T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL3_ver01%2Fdata%2F1858042301%2F0024.jp2/pct:74.692308,54.575210,15.826923,12.395048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL3_ver01%2Fdata%2F1858042301%2F0024.jp2/pct:74.673077,54.560979,15.826923,12.395048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4213,7 +4231,7 @@ Of onions, fifty-seven pounds.
 Of salt, fifty pounds.  
 Mormon L
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bobcat_ver01:data:sn82014067:00211105689:1859041401:0036/pct:57.655393,19.029717,84.552102,127.962764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bobcat_ver01:data:sn82014067:00211105689:1859041401:0036/pct:38.459781,12.692445,56.398537,85.356248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4497,7 +4515,7 @@ Of onious, fifty-seven pounds.
 Of salt, Afty pounds.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1860030701:0454/pct:82.684861,66.666667,13.110824,13.669261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1860030701:0454/pct:82.666421,66.653011,13.110824,13.655606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4682,7 +4700,7 @@ Of dried apples, twenty-four pounds.
 r Of dnkns, fifty-seven pounds..  
 The New York Post, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:0021247292A:1860041401:0141/pct:123.364346,67.475996,21.458583,23.981900/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:0021247292A:1860041401:0141/pct:82.277911,44.995034,14.300720,16.002649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4845,7 +4863,7 @@ Of dried apples, twenty-four pounds.
 Of onions fifty-seven pound.  
 Of sH, itv pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065471:00295877558:1860062001:0021/pct:93.644689,88.494609,16.831502,19.680633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065471:00295877558:1860062001:0021/pct:70.256410,66.384605,12.637363,14.780947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4883,7 +4901,7 @@ Of dried peaches, thirty-three pounds.
 I Of dried apples, twenty-four pounds.  
 &#x27; Of onions, fifty-seven pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624499:1860062301:0409/pct:72.022367,110.772933,15.936626,13.674972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624499:1860062301:0409/pct:55.824790,85.843715,12.339236,10.603058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4922,7 +4940,7 @@ Of driod peaches, tbirty-threo pounds
 Of driod apples, twenty-four pounds.  
 Of onions, fifty-sevea pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:00237287897:1860062801:0383/pct:85.536044,77.157466,20.178681,20.786810/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:00237287897:1860062801:0383/pct:64.155884,57.873317,15.141713,15.600543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5006,7 +5024,7 @@ Core—shelled, [
 Corn—in the cob,  
 Oats, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059862:00514157388:1860073001:0015/pct:66.824478,51.125616,12.204103,6.087652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059862:00514157388:1860073001:0015/pct:66.806944,51.112295,12.204103,6.087652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5065,7 +5083,7 @@ Of flax seed, fifty-eight.
 Of hemp seed, fifty-four.  
 O
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85035610:00513684976:1860090501:0139/pct:6.267487,78.439044,11.010073,11.532125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85035610:00513684976:1860090501:0139/pct:6.253497,78.418451,11.010073,11.532125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5143,7 +5161,7 @@ Of casior beam), forty ix pounds. &#x27; - i
 Of blue grass seed, fourteen pounds. . ,  
 .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026694:1860120501:0199/pct:110.883857,103.833950,16.654492,7.905870/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026694:1860120501:0199/pct:83.199416,77.921735,12.490869,5.922792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5204,7 +5222,10 @@ some prominent place for reference:
 ‘ ‘ Por’Bushel  
 or wheat - - - - 60 lbs.  
 01&#x27; shelled.corn ~
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aesculapius_ver01%2Fdata%2Fsn84035983%2F000001901%2F1860121501%2F0199.jp2/pct:34.741294,25.261905,14.666667,4.047619/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5486,7 +5507,10 @@ Ofeastor-beatut, thirty-three pounds.
 Of onions, fifty-sevett pounds.  
   
 GESSI
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fascinus_ver01%2Fdata%2Fsn84026112%2F000002376%2F1861041101%2F0059.jp2/pct:8.397079,7.916158,11.600313,12.355854/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5705,7 +5729,7 @@ out and stick it up in some place for
 reference:  
 Wheat,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026785:1861092001:0469/pct:67.364672,98.048669,14.487179,5.234160/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026785:1861092001:0469/pct:50.541311,73.565197,10.868946,3.925620/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5763,7 +5787,7 @@ Of dried peaches, thirty-three pounds.
   
 Of salt, fifty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DJoWilm11n_ver01%2Fdata%2F1862120401%2F0871.jp2/pct:10.382276,86.582422,30.408341,24.464007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DJoWilm11n_ver01%2Fdata%2F1862120401%2F0871.jp2/pct:7.797567,64.943916,22.806255,18.358654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5820,7 +5844,7 @@ Ol ouions. fifiy-seeit pounds.
   
 T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BibRecRal15n_ver01%2Fdata%2F1863040101%2F0256.jp2/pct:49.938195,48.487747,23.176761,27.949791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BibRecRal15n_ver01%2Fdata%2F1863040101%2F0256.jp2/pct:37.453646,36.365810,17.398022,20.980275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5952,7 +5976,7 @@ Of unsUckeJ lime, eighty kuim1s.
 Of plastering hair, eight pounds.  
 Of stone coal, eighty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776671:1875080401:0373/pct:8.432679,53.484950,14.463534,22.046823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776671:1875080401:0373/pct:6.328892,40.133779,10.852034,16.535117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6003,7 +6027,7 @@ Of unslacked lime, eighty pounde.
 Of plastering hair, eight pounds.  
 Of atone coal, eighty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776087:1875082601:0536/pct:70.541516,99.219713,15.974729,27.802875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776087:1875082601:0536/pct:52.924188,74.442163,11.985560,20.876112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6064,7 +6088,7 @@ fifty-seven pounds; of dried peaches, thirty­
 three pounds; of dried apples, twenty-five  
 pounds, and o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896441:1881040701:0048/pct:51.626567,29.209084,11.030159,4.594101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896441:1881040701:0048/pct:51.609624,29.196032,11.030159,4.594101/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6088,7 +6112,7 @@ beans, sixty pounds; of peas, sixty pounds; of onions,
 fifty-seven pounds ; of dried peaches, thirty-three pounds ;  
 of dried apples, twenty-five pounds, and o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529601:1881040701:0055/pct:16.557456,35.869297,10.947739,3.119605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529601:1881040701:0055/pct:16.541474,35.856967,10.947739,3.119605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6151,7 +6175,7 @@ pounds.
 Of onions, fifty-seven pounds.  
 Of salt, fifty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556278:1882022301:0509/pct:33.430411,73.341763,14.301042,30.290838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556278:1882022301:0509/pct:25.076640,55.029314,10.744942,22.738246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6234,7 +6258,7 @@ Dried peache*. thirty-three pouuds.
 ! Onions, fifty-sevon pounds.  
 | Salt, fifty pound*.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn87065172:00383343549:1882042801:0063/pct:33.314359,11.824565,11.840046,13.747838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn87065172:00383343549:1882042801:0063/pct:33.300128,11.814389,11.840046,13.747838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6298,7 +6322,7 @@ Of dried apples, twenty-two pounds;
 Of flax seed, fifty-six pounds;  
 Of barley, forty-eight&#x27; pounds; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029130:1886042201:1050/pct:80.441434,74.188474,18.116259,11.625912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029130:1886042201:1050/pct:60.358392,55.655656,13.592657,8.723009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6360,7 +6384,7 @@ thirty-three pounds; of dried apples,
 twenty-live pounds; of onions, torty­  
 i eight pounds; of salt, fifty pound
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bashir_ver02:data:sn84045439:00517017358:1897100701:0252/pct:1.314708,70.843542,18.789373,6.282814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bashir_ver02:data:sn84045439:00517017358:1897100701:0252/pct:1.287319,70.808540,18.789373,6.282814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

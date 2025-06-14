@@ -60,7 +60,7 @@ tinually. Catalogue sent free.
   
 R
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896102401:0382/pct:26.778154,32.664407,16.977138,16.989831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896102401:0382/pct:26.756986,32.650847,16.977138,16.989831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -97,7 +97,7 @@ linually. Catalogue sent free. \
   
 NE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890748:1896102801:0165/pct:50.751880,5.630526,21.945489,88.692415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890748:1896102801:0165/pct:50.728383,5.615015,21.945489,88.676904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,10 @@ V
 J  
   
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_ymcaashland_20200608ClaySoucouyantEatingWheat_ver01%2Fdata%2Fsn96088226%2Fprint%2F1896102901%2F00001.jp2/pct:81.497326,69.164087,9.144385,6.191950/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -176,7 +179,7 @@ tinually. Catalogue sent free.
 &#x27; 1051 Market Street, San Francisco, Cal.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896103101:0383/pct:6.033376,67.620339,15.126230,13.288136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896103101:0383/pct:6.011981,67.593220,15.126230,13.288136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +217,7 @@ tinually. Catalogue sent free.
   
 Vote of Lyon Count
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896110701:0387/pct:5.882353,15.170447,51.691446,66.372403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896110701:0387/pct:5.860806,15.156865,51.691446,66.358821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +251,7 @@ A Go and learn how wonderfully you art 9
 A Thousands of new objects. Additions con- 9  
 T tinuaily. Catalogue sent free. \
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890748:1896111101:0173/pct:37.164569,84.319527,14.438376,9.654313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890748:1896111101:0173/pct:37.140822,84.288384,14.438376,9.654313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +292,7 @@ tinually. Catalogue sent free.
 1061 Market Street, San Franciaco, Cal.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896111401:0391/pct:4.522293,66.851802,17.367304,14.765646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896111401:0391/pct:4.501062,66.824709,17.367304,14.765646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +330,7 @@ I 1061 MarkatStraat.SanFraaclaea.Cal. I
   
 NE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890748:1896111801:0177/pct:36.685420,5.834633,21.870605,88.096724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890748:1896111801:0177/pct:36.661978,5.819033,21.870605,88.081123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -389,7 +392,10 @@ herbs, and
 contains no  
 mineral  
 drugs
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_ymcaashland_20200608ClaySoucouyantEatingWheat_ver01%2Fdata%2Fsn96088226%2Fprint%2F1896111901%2F00001.jp2/pct:6.318381,7.038988,85.557987,86.807165/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -423,7 +429,7 @@ tinually. Catalogue sent free.
 0 t031 Market ste, 5anFranci$co,;ai.  
 Phoenix restaurant 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1896112101:0025/pct:71.731749,8.899642,16.595925,16.358090/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1896112101:0025/pct:47.821166,5.933095,11.063950,10.908900/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -454,7 +460,7 @@ of Marriage,&quot; free.
 DR. JORDAN A CO.’S  
 GREAT MUSEUM OF ANATOMY. !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896112101:0395/pct:5.703986,84.285714,15.118745,8.342318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896112101:0395/pct:5.682782,84.258760,15.118745,8.342318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -493,7 +499,10 @@ Thousands of new objects. Additions con­
 tinually. Catalogue aent free.  
 worth $5.00 if it could not be had for less.  
 lost Market Strwt. San Francisco, Cal
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_ymcaashland_20200608ClaySoucouyantEatingWheat_ver01%2Fdata%2Fsn96088226%2Fprint%2F1896112601%2F00002.jp2/pct:8.384513,90.115183,30.387183,3.706806/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -518,7 +527,7 @@ tinually. Catalogue sent free.
   
 WHY CAPITAL SHOULD SEEK TUMA COUNT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1896112801:0029/pct:51.661036,20.752542,34.586149,101.100514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1896112801:0029/pct:34.445383,13.835028,23.057432,67.414317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +562,7 @@ Thousands of new objects. AdctyUuoscon* j
 tinually. Catalogue sent free.  
 1051 Market street. See Fraeclece. Cal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896112801:0399/pct:6.754460,84.602851,15.144435,10.875764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896112801:0399/pct:6.733220,84.575696,15.144435,10.875764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -592,7 +601,10 @@ tinually. Catalogue sent free.
 &gt;•  
   
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_ymcaashland_20200608ClaySoucouyantEatingWheat_ver01%2Fdata%2Fsn96088226%2Fprint%2F1896120301%2F00001.jp2/pct:7.328990,76.840329,15.228013,17.485762/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -661,7 +673,7 @@ Thousands of new objects. Additions con­
 tinually. Catalogue sent fire*  
 1051 Market Street, San Francises, Cal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896120501:0403/pct:5.055461,84.266775,14.782423,10.795455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896120501:0403/pct:5.034130,84.239719,14.782423,10.795455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +732,10 @@ herbs, and
 contains no  
 mineral  
 drugs
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_ymcaashland_20200608ClaySoucouyantEatingWheat_ver01%2Fdata%2Fsn96088226%2Fprint%2F1896121001%2F00001.jp2/pct:6.522911,6.929861,84.393531,86.791264/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -786,7 +801,7 @@ Thousands ofnejr objects. Additions?®^&#x27;
 tmualljr. Catalogue sent ftce. _ . n g  
 tOBj Market Street. San Francises. Cal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896121201:0407/pct:5.849701,84.165881,15.093937,10.771509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896121201:0407/pct:5.828352,84.138952,15.093937,10.771509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -827,7 +842,10 @@ made; how to avoid sickness and al»«“«-
 Thousands of new objects. Addition» con­  
 tinually. Catalogue »ent free.  
 • toot Market Street, »a« FranclBSie, Cal.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_ymcaashland_20200608ClaySoucouyantEatingWheat_ver01%2Fdata%2Fsn96088226%2Fprint%2F1896121701%2F00001.jp2/pct:7.358594,85.693122,9.060956,7.788360/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -872,7 +890,7 @@ tiaually. Catalogue sent fzee.
   
 1081 Market Street. Sas FraacJ, Cat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_hedgehog_ver01:data:sn82015133:00211104673:1896121901:0773/pct:129.641776,24.122763,14.152371,10.436869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_hedgehog_ver01:data:sn82015133:00211104673:1896121901:0773/pct:86.440464,16.085174,9.434914,6.957913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -909,7 +927,7 @@ tinually. Catalogue sent free. \
 1 1051 Market Street, San Francleco, Cal. f  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896121901:0411/pct:5.020123,84.189298,16.034738,10.890024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896121901:0411/pct:4.998941,84.162409,16.034738,10.890024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -944,7 +962,7 @@ tinually. Catalogue sent free.
 1051 Market S treat, San Franelsco, Cal.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1896122601:0046/pct:126.995503,49.734845,16.666667,19.902256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1896122601:0046/pct:84.668353,33.160029,11.115795,13.268171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -993,7 +1011,7 @@ Usually. Catalogue sent tree.
 1051 Market Street. Saa FraKlsee. Cat.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_hedgehog_ver01:data:sn82015133:00211104673:1896122601:0777/pct:129.489796,80.106994,14.234694,10.402219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_hedgehog_ver01:data:sn82015133:00211104673:1896122601:0777/pct:86.352041,53.427779,9.489796,6.934813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1028,7 +1046,7 @@ Thousands of new objects. Additions con- &lt;
 tinuatly. Catalogue sent free.  
 tp51 Market Street. San Francisco. Cal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896122601:0415/pct:6.528926,83.968233,14.545455,10.728227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896122601:0415/pct:6.508264,83.941311,14.545455,10.728227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1062,7 +1080,7 @@ made how to avoid sicknesa and disease.
 Usually. Catalogue sent free. \
 1 toft 3 MarkM ftt-Mt tan transits.. Cal. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890748:1896123001:0197/pct:36.423685,81.214866,14.484548,9.697064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890748:1896123001:0197/pct:36.400094,81.183635,14.484548,9.697064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1099,7 +1117,10 @@ Thousands of new objects. Addition* con­
 tinually. Catalogue »ent free.  
   
 1051 Market Street, San Francisco, Ca
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_ymcaashland_20200608ClaySoucouyantEatingWheat_ver01%2Fdata%2Fsn96088226%2Fprint%2F1896123101%2F00001.jp2/pct:7.013699,85.160059,75.369863,9.094764/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1132,7 +1153,7 @@ tinually. Catalogue sent free.
 1051 Market Strett, San Franelsco, Cat.  
 5
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897010201:0052/pct:127.440745,51.631117,15.829571,16.792137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897010201:0052/pct:84.988713,34.431200,10.553047,11.198243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1169,7 +1190,7 @@ tinually. Catalogue sent free.
 1051 Market Streat, San Fran8ltcet Cat.  
 2
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897010901:0056/pct:126.897133,51.808366,15.640809,16.888563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897010901:0056/pct:84.598089,34.542405,10.427206,11.259042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1206,7 +1227,7 @@ Thousands of new objects. Additions con­
 tinually. Catalogue sent free.  
 1051 Market Street, San Francisco, Cel.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897010901:0425/pct:75.870169,69.900296,16.506513,10.724872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897010901:0425/pct:75.848815,69.873350,16.506513,10.724872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1242,7 +1263,7 @@ tinually. Catalogue sent free.
 1 05 1 Market Street, San Francises, Cal.  
 C
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897011601:0060/pct:125.055991,8.839258,15.943449,16.965503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897011601:0060/pct:83.398656,5.892838,10.638298,11.313830/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1277,7 +1298,7 @@ Thousands of new objects. Additions con- |
 linuakly. Catalogue sent free.  
 1051 Market Street, Sea Francleee. Cel.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897011601:0429/pct:76.752064,69.232847,15.329240,10.642896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897011601:0429/pct:76.730891,69.205835,15.329240,10.642896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1313,7 +1334,7 @@ Thousands of new objects. Additions con
 tinually. Catalogue sent tree.  
 1051 Market Street, San-Franelsce, Cal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897012301:0064/pct:126.940382,8.182963,15.621485,13.061267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897012301:0064/pct:84.645669,5.455308,10.419010,8.707512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1349,7 +1370,7 @@ tinually. Catalogue sent free.
 1051 Market Street, San Franeleeo, Cal. (  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897012301:0432/pct:63.442940,49.966303,14.958092,10.553983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897012301:0432/pct:63.421449,49.952824,14.958092,10.553983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1385,7 +1406,7 @@ Thousands of new objects. Additions on-
 Unually. Catalogue sent tree.  
 1051 Market Slreat, San Francisco, Cal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897013001:0068/pct:128.474958,8.748036,15.869443,13.158722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897013001:0068/pct:85.664041,5.835516,10.579629,8.768989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1421,7 +1442,7 @@ i Thousands of new objects. Additlonscon­
 tinually. Catalogue sent free.  
 1051 Market Straat, San Francisco, Cal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897013001:0436/pct:80.200830,73.119006,15.542458,13.656626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897013001:0436/pct:80.179000,73.091990,15.542458,13.656626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1467,7 +1488,7 @@ tinually. Catalogue sent tree.
   
 1 051 Market SlrSat, San Francisco, usu.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897020601:0074/pct:124.423185,8.087075,15.531795,13.313703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897020601:0074/pct:82.948790,5.394889,10.354530,8.875802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1505,7 +1526,7 @@ Thousands of new objects. Additions con­
 tinually. Catalogue sent free.  
 1051 Market Street, San Francisco, Cel.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897020601:0440/pct:80.496840,76.342780,15.515363,10.823212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897020601:0440/pct:80.475049,76.315789,15.515363,10.823212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1541,7 +1562,7 @@ a Thousands of new objects. Additions eon-
 tinually. Catalogue sent tree.  
 a 1051 &#x27;Market Street, San Franolsco, Cat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897021301:0078/pct:126.360544,10.076304,16.709184,13.138915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897021301:0078/pct:84.254535,6.721020,11.139456,8.759277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1596,7 +1617,7 @@ Thousands of new objects. Additions con- |
 tiuuatly. Catalogue sent free.  
 1051 Market Street, San Francisco. Cal. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897021301:0444/pct:78.753786,58.566221,17.481610,28.608073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897021301:0444/pct:78.732151,58.552720,17.481610,28.594573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1631,7 +1652,7 @@ Thousands of new objects. Additions con- (
 tiuuaily. Catalogue sent free.  
 1031 Market Street, San Franclsco. Cal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897022001:0448/pct:80.390456,76.425394,15.271150,10.783124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897022001:0448/pct:80.368764,76.398436,15.271150,10.783124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1667,7 +1688,7 @@ Thousands ofnew objects. Additions con­
 tinually. Catalogue sent free.  
 1051 Market Street, SanFraneisce.cai.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897022701:0087/pct:126.064426,9.282656,15.266106,13.093871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897022701:0087/pct:84.061625,6.191918,10.182073,8.729247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1703,7 +1724,7 @@ T housands of n ew objects. Additions con­
 tinually. Catalogue sent free.  
 1051 Market Street, San Francisco, Cal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897022701:0452/pct:80.573523,76.292407,14.898663,10.473883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897022701:0452/pct:80.551962,76.265482,14.898663,10.473883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1746,7 +1767,7 @@ DE JIE A MAN
 AJAX TA3LETS POSITIVELY CUBE  
 A LZ, Nervous JHscasea Fail
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897030601:0092/pct:125.378151,8.703356,16.596639,16.937669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897030601:0092/pct:83.585434,5.805712,11.064426,11.288305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1781,7 +1802,7 @@ made: how to avoid sickness ana disease.
 . tinudily. Catalogue sent free.  
 1031 Market Street, San Frandsee. Cal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897030601:0456/pct:79.792970,76.078749,16.023291,10.854908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897030601:0456/pct:79.771404,76.051780,16.023291,10.854908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1844,7 +1865,7 @@ A MAN
   
 AJAX TABLETS POSITTVELY CUBS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897031301:0096/pct:122.659692,11.140829,17.276982,15.924288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897031301:0096/pct:81.773128,7.427219,11.522577,10.616192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1881,7 +1902,7 @@ Thousands of new objects. Additionscon- |
 liuua.ly. Catalogue sent free.  
 1051 Market Steel, SanFrancleco.^al-^
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897031301:0460/pct:80.830601,76.130687,15.475410,11.192116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897031301:0460/pct:80.808743,76.103686,15.475410,11.192116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1909,7 +1930,7 @@ tinually. Catalogue sent tree,
 msi H-.pfcelSJfeai. San Francisco, Cal.  
 M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897032001:0100/pct:125.415973,15.310905,15.252357,10.498906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897032001:0100/pct:83.610649,10.207270,10.177482,6.999271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1943,7 +1964,7 @@ made: how to avoid sekness and disease. &#x27;
 \ tiuuad’y. Catalogue sent free. \
 C 10131 Market St eat, Sen Francisco, Cal. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897032001:0464/pct:79.425212,78.391892,16.829959,9.162162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897032001:0464/pct:79.403440,78.364865,16.829959,9.162162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1980,7 +2001,7 @@ GREAT MUSEUM OF ANATOMY, f
 tinuaHy. Catalogue sent free/^ f  
 I 1061 Marks! Strsst, tan Francises. Cal. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:0033289075A:1897032401:0049/pct:67.367415,79.978254,14.500717,10.080770/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:0033289075A:1897032401:0049/pct:67.343526,79.947189,14.500717,10.080770/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2017,7 +2038,7 @@ Thousands of new objects. Additions con* |
 tinua.ly. Catalogue sent free.  
 Idol Market St ett, San Francisco, Cal. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897032701:0468/pct:78.836904,76.225854,16.309576,11.306227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897032701:0468/pct:78.815042,76.198838,16.309576,11.306227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2061,7 +2082,7 @@ and Watery Public.
 Will practice in all Courts in the State  
 Offib
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897040301:0474/pct:79.411765,75.476545,17.041522,20.927403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897040301:0474/pct:79.390138,75.449507,17.041522,20.927403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2096,7 +2117,7 @@ Thousands of new objects. Additions con* j
 tinuaily. Catalogue sent free.  
 1031 Market Street, San Franeleeo. Cal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897041001:0478/pct:79.921688,78.424472,15.923428,10.841906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897041001:0478/pct:79.899935,78.397401,15.923428,10.841906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2130,7 +2151,7 @@ I . °7 i0r avold slckne*s and disease. Y
 Unually. Catalogue sent free. f  
 I 1051 Market Street. San Franelaea. Cal. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:0033289075A:1897041401:0061/pct:65.760870,80.074662,14.673913,9.503811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:0033289075A:1897041401:0061/pct:65.737240,80.043553,14.673913,9.503811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2165,7 +2186,7 @@ Thousands of new objects. Additions cou-I
 tinuady. Catalogue sent free.  
 1051 Market Street, Sen Francisco. Cal. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897041701:0482/pct:82.514261,78.094980,15.379552,10.796915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897041701:0482/pct:82.492321,78.067920,15.379552,10.796915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2199,7 +2220,7 @@ made: how to avoid sickness and disease. 1
 tinually. Catalogue lent free. 1  
 | 1051 Market Street, San Fnnclioo.Cil. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:0033289075A:1897042101:0065/pct:67.241787,79.202235,14.110139,9.560764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:0033289075A:1897042101:0065/pct:67.218152,79.171194,14.110139,9.560764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2233,7 +2254,7 @@ tinuallv. Catalogue sent free.
 Market strait, San Franauc, csi.-  
 MADE ME 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897042401:0121/pct:125.320692,14.368771,16.926938,13.631645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897042401:0121/pct:83.575014,9.582641,11.293921,9.084302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2266,7 +2287,7 @@ Thousands of new objects. Additions con
 tinually. Catalogue sent tree.  
 1051 Market Strest, San Franslsce, CaJ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897050101:0126/pct:128.465623,11.913735,15.497485,13.201424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897050101:0126/pct:85.648407,7.945980,10.326998,8.804439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2301,7 +2322,7 @@ Thousands of new objects. Additionscon- |
 tiuua.ly. Catalogue sent free.  
 105t Market St eet, Sen Francisco. Cal. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897050101:0490/pct:80.876232,77.978536,15.355969,10.827333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897050101:0490/pct:80.854326,77.951365,15.355969,10.827333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2343,7 +2364,7 @@ whom It may concern that SING KEE
 A CO., have sold their Store, Goods,Wares  
 and Merchandise, in Tule
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:0033289075A:1897050501:0073/pct:20.491029,5.303148,30.099150,87.765545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:0033289075A:1897050501:0073/pct:20.467422,5.287641,30.099150,87.750039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2381,7 +2402,7 @@ whom it may concern that SING KEE
 A CO., have sold their Store, Goods.Wares  
 and Merchandise. In Tule
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:0033289075A:1897051201:0077/pct:20.428336,4.794414,30.454225,87.664856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:0033289075A:1897051201:0077/pct:20.404801,4.778898,30.454225,87.649341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2412,7 +2433,7 @@ tinually. Catalogue sent free.
 1 051 Market Sirest, San Franoitco, Cal.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897051501:0134/pct:126.707989,14.819829,16.005510,12.455738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897051501:0134/pct:84.476584,9.883358,10.674931,8.300354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2447,7 +2468,7 @@ k Co and learn how wonderfully you are f
 \ tin uady. Catalogue sent free. \
 9 1051 Market Street, Sen Francisco. Cel. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897051501:0498/pct:80.134607,78.086628,16.869301,10.794765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897051501:0498/pct:80.112896,78.059641,16.869301,10.794765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2481,7 +2502,7 @@ f Thousands of new objects. Additions con- M
 \ tinuaily. Catalogue sent free. Y  
 P 1031 Market Si. set, San Francisco. Cal. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:0033289075A:1897051901:0081/pct:21.275089,84.630862,14.332940,9.688903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:0033289075A:1897051901:0081/pct:21.251476,84.599907,14.332940,9.688903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2516,7 +2537,7 @@ I Thousands of new objects. Additions con- i
 tinually. Catalogue sent free.  
 1 1061 Market Street, Sen Francieoo. Cal. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897052201:0502/pct:80.047816,78.126267,16.018257,11.180208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897052201:0502/pct:80.026081,78.099229,16.018257,11.180208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2551,7 +2572,7 @@ I I Thousands of new objects. Additions cc a- A
 tinually. Catalogue sent free. T  
 I* 1051 Market Street, San Franclsee. Cel. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:0033289075A:1897052601:0085/pct:20.686391,83.101207,14.603550,9.733829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:0033289075A:1897052601:0085/pct:20.662722,83.070257,14.603550,9.733829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2610,7 +2631,7 @@ sist upon liBrtr.c tho eenninn Aiax TaWsta. They
 have cured thousands and ill enraycrn. W rItb s pos­  
 itive written sacrantea to eEsc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897052901:0143/pct:123.546674,9.184630,19.997205,67.822555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897052901:0143/pct:82.392398,6.123087,13.331470,45.235864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2645,7 +2666,7 @@ T made how to avoid sickness and disease. \
 \ tinua’.ly. Catalogue sent free. T  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:0033289075A:1897060201:0089/pct:19.856631,83.090289,14.528076,9.897611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:0033289075A:1897060201:0089/pct:19.832736,83.059262,14.528076,9.897611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2680,7 +2701,7 @@ Thousands of new objects. Additions con- |
 tinually. Catalogue sent free.  
 1051 Market Street, San Francisco. Cal. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897060501:0510/pct:80.281390,76.654166,15.092731,10.715242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897060501:0510/pct:80.260072,76.627377,15.092731,10.715242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2732,7 +2753,7 @@ sist upon haying the Genuine Aj.is Tablets. Th7
 have curod thousands and will euro yon. Wo (rive a pq­  
 itive written guarantee to eilac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897061901:0156/pct:126.096121,10.806553,17.875211,21.728628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897061901:0156/pct:84.092187,7.204369,11.916807,14.492754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2767,7 +2788,7 @@ Thousands of new ob)ects. Additions con­
 tinually. Catalogue sent free. *  
 10B1 Market Street, San Francisco, Cal. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897061901:0518/pct:79.312595,78.266145,16.075702,11.028718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897061901:0518/pct:79.290842,78.239180,16.075702,11.028718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2803,7 +2824,7 @@ Thousands of new objects. Additions eoa­
 tinually. Catalogue sent free.  
 1051 MaVScet Street, San Franelsco, Cat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897062601:0160/pct:127.617729,10.207070,15.207756,13.103953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897062601:0160/pct:85.110803,6.808199,10.138504,8.732483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2840,7 +2861,7 @@ Thousands of new objects. Additions con*
 tinually. Catalogue sent free,  
 f 051 Market Street. San Francisco. Cal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897062601:0522/pct:81.549734,77.484158,15.364121,10.799515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897062601:0522/pct:81.527531,77.457193,15.364121,10.799515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2875,7 +2896,7 @@ Thousands of new objects. Additions con
 tinually, catalogue sent tree.  
 1051 Market Street, San Franslsce, Ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897070301:0165/pct:125.069871,115.706203,15.665176,13.128667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897070301:0165/pct:83.384572,77.147946,10.438793,8.759430/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2920,7 +2941,7 @@ Will practice in all Coarts in the State.
 Oman—Pike Street, Dayton, Nevada.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897070301:0526/pct:78.156997,73.422692,17.342150,22.881126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897070301:0526/pct:78.135666,73.395613,17.342150,22.881126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2967,7 +2988,7 @@ Will practice ia all Coartala the 8tate.
 Ornaa—Pike Street, Dayton, Nevada.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897071001:0530/pct:76.850461,73.568521,17.292427,22.930801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897071001:0530/pct:76.829007,73.541384,17.292427,22.930801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3002,7 +3023,7 @@ rnousanasoinewoDjecis. iiaainoas cuh­
 tinually. Catalogue sent free.  
 1051 Marks! Sl:ct, San Franclsce, Cal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897071701:0173/pct:126.649888,114.227344,15.673937,13.074908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897071701:0173/pct:84.451902,76.176008,10.444631,8.716606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3038,7 +3059,7 @@ I Thousands of new objects. Additions con­
 . tinually. Catalogue sent free.  
 &#x27; 1051 Market Street, San Francises, Cal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897072401:0538/pct:78.812648,74.881517,16.648742,13.581584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897072401:0538/pct:78.791138,74.854435,16.648742,13.581584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3087,7 +3108,10 @@ _
   
 GBr.1T M’JItCM Off AjiZTOMT.  
 Co and lr.W how womter
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_ymcaashland_20200608ClaySoucouyantEatingWheat_ver01%2Fdata%2Fsn96088226%2Fprint%2F1897080501%2F00001.jp2/pct:6.754355,78.656675,9.882688,6.494588/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3120,7 +3144,7 @@ Thousands cf new objects. Additions con- ,
 Unually. Catalogue sent free.  
 1051 Market S!?sst, San Franelsce, Col. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897080701:0186/pct:124.567764,114.722396,16.020636,12.975671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897080701:0186/pct:83.073062,76.512789,10.680424,8.650447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3155,7 +3179,7 @@ f Thousands of new objects. Additions con* |
 tinually. Catalogue sent free.  
 &#x27; tOSt Markst Street, San Francisco, Cal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897080701:0546/pct:79.025739,77.117165,15.741332,10.857603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897080701:0546/pct:79.004467,77.090323,15.741332,10.857603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3218,7 +3242,7 @@ made: how to avoid sickness and disease.
 ^ tinually. Catalogue sent free.  
 1051 Market Street, San Francisco. Cal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897082101:0550/pct:78.813019,77.946151,15.975324,10.972805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897082101:0550/pct:78.791746,77.919091,15.975324,10.972805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3252,7 +3276,7 @@ Thousands of new objects. Additions con­
 tinually. Catalogue sent free.  
 1051 Market Street, San Francisco. Cal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897082801:0554/pct:79.774803,77.276412,15.338857,10.970008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897082801:0554/pct:79.753559,77.249392,15.338857,10.970008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3289,7 +3313,7 @@ I Thousand* of new object*. Addition* con- ,
 tinually. Catalogue aent free.  
 IOSI Market Street, San Franeleee, Cal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897090401:0558/pct:81.317729,77.892031,15.604681,10.810445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897090401:0558/pct:81.296055,77.864971,15.604681,10.810445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3322,7 +3346,7 @@ Thousands of new objects. Adomoascoa-
 unuauy. waiaiogue sens tree.  
 I0Sf Bfarkst Strut. San Fransffei, Ct.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897091101:0205/pct:124.819244,126.895401,15.656285,11.888622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897091101:0205/pct:83.231368,84.617791,10.442158,7.925748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3359,7 +3383,7 @@ Thousands of new objects. Additions con-1
 Usually. Catalogue sent free.  
 10B1MarhetStrM
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897091101:0562/pct:79.583599,78.213655,15.020183,10.818515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897091101:0562/pct:79.562354,78.186507,15.020183,10.818515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3392,7 +3416,7 @@ Thousands of new objects. Additions eon­
 tinually. Catalogue sent free.  
 1051 ftarket Street, San Francisco, Cal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897091801:0209/pct:124.201233,128.522301,16.269619,10.785744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897091801:0209/pct:82.833520,85.712797,10.846413,7.190496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3429,7 +3453,7 @@ Thousands of new objects. Additions con­
 tinually. Catalogue sent free.  
 1061 Market Street, San Francleeo. Cal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897091801:0566/pct:80.463718,78.545307,14.834693,10.781525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897091801:0566/pct:80.442250,78.518218,14.834693,10.781525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3465,7 +3489,7 @@ i Thousands of new objects. Additions con* |
 tinually. Catalogue sent free.  
 1 I OBI Market Street, San Fraaeleee. Ca!.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897092501:0570/pct:80.529425,78.061638,15.904616,10.678562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897092501:0570/pct:80.507548,78.034604,15.904616,10.678562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3557,7 +3581,7 @@ ills of men, come to the oldest \
 Specialist on the Pacihc Coast, 9  
 OR. JORDAN A CO., 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:0033289075A:1897121501:0198/pct:65.914489,70.863928,23.444181,8.342446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:0033289075A:1897121501:0198/pct:65.890736,70.832682,23.444181,8.342446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3604,7 +3628,10 @@ W e are continually adding new specimens.
 CA TA LOU VK t&#x27;RRH. Call nr write.  
 1051 Market Street. San Francisco, Cal.  
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_20170302ObsidianSoucouyantBehindTrees_ver01%2Fdata%2Fsn93051617%2Fprint%2F1897122101%2F0002.jp2/pct:84.077017,86.057039,11.491443,5.794477/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3637,7 +3664,7 @@ QDICXCTIMBl I
 TO  
 San Francisc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_morrowcountymuseum_juno_ver01%2Fdata%2Fsn94049698%2F00000000003%2F1898012801%2F1224.jp2/pct:94.251627,49.611587,30.404917,22.593812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_morrowcountymuseum_juno_ver01%2Fdata%2Fsn94049698%2F00000000003%2F1898012801%2F1224.jp2/pct:70.715835,37.221856,22.794649,16.945359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3659,7 +3686,7 @@ CATALOG VE XUm, full or write.
 lOBfl Market Street. S;in Francisco. Cat.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_eva_ver01%2Fdata%2Fsn00063696%2F00000002055%2F1898020401%2F0136.jp2/pct:89.095023,26.298563,15.995475,4.553864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_eva_ver01%2Fdata%2Fsn00063696%2F00000002055%2F1898020401%2F0136.jp2/pct:66.877828,19.723922,11.990950,3.429629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -741,7 +741,7 @@ pressive exemplification of tho modo in
 which thn contents of tho gravo haro been  
 entirely absorbod
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1861010401:0440/pct:21.846677,36.767472,17.787009,22.384604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1861010401:0440/pct:16.389728,27.593691,13.349698,16.784836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -850,7 +850,10 @@ as constituting a very impressive exem­
 plification of the mode in which the con­  
 tents of the grave have be.-n entirely ab­  
 sorbed.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aura_ver01%2Fdata%2Fsn83032227%2F000001970%2F1861022701%2F0036.jp2/pct:6.063063,61.549645,12.049550,12.968085/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -874,7 +877,7 @@ phosphates of the bone, presented a singular re
 semblance to toe sseietoa lueir, ana uaa peen  
 preserved. a cunostiyj .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCAWade1n_ver01%2Fdata%2F1861030701%2F0848.jp2/pct:48.666401,15.794105,19.148089,9.796158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCAWade1n_ver01%2Fdata%2F1861030701%2F0848.jp2/pct:36.504777,11.849245,14.390924,7.347118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -912,7 +915,7 @@ Impressive exemplification of the mode in
 entirely absorbed.  
 Grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_charm_ver01%2Fdata%2Fsn83025129%2F00000002043%2F1861031601%2F1262.jp2/pct:2.420857,77.215371,18.552142,21.350731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_charm_ver01%2Fdata%2Fsn83025129%2F00000002043%2F1861031601%2F1262.jp2/pct:1.815642,57.915113,13.919926,16.030972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1146,7 +1149,7 @@ constituting a very impressive exemplifi­
 cation of the mode in which the contents  
 of the grave had been entirely absorbed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194941:1864041501:0684/pct:27.301338,106.295194,16.522423,19.736282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194941:1864041501:0684/pct:20.476003,79.753296,12.391817,14.802212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1186,7 +1189,7 @@ pressive exemplification of tbe mode
 in which the contents of the grave had  
 been coti rely absorbed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat26n_ver01%2Fdata%2F1865030201%2F0105.jp2/pct:102.271453,33.544304,15.479529,22.225738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat26n_ver01%2Fdata%2F1865030201%2F0105.jp2/pct:76.724621,25.158228,11.609647,16.687764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1375,7 +1378,10 @@ branches, sending one along each leg to the
 heel, where they both turned upward to  
 tbe toes. One v of these roots formed a slight  
 crook at th
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_dianaNemorensis_ver01%2Fdata%2Fsn84026016%2F000002124%2F1866101601%2F0059.jp2/pct:22.719473,33.701246,12.527095,6.189057/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1400,7 +1406,7 @@ heel, where they both turned upward to the
 toes. One of these roots formed a slight  
 crook at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022822:1866101601:0360/pct:5.525031,33.568424,16.529304,8.723088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022822:1866101601:0360/pct:4.151404,25.179411,12.393162,6.557783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1427,7 +1433,7 @@ heel, where they both turned upward to the
 toes. One of these roots formed a slight  
 crook at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042148:00296022676:1866101701:0170/pct:60.663684,34.617897,16.983594,8.739386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042148:00296022676:1866101701:0170/pct:45.507084,25.969954,12.751678,6.557805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1516,7 +1522,7 @@ one alone each leg to the heel, where they both
 turned upward t j the toes. One of these roots  
 formed a slight crook at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn85025697:00393348318:1866102001:0360/pct:3.189727,42.172668,14.374482,6.991110/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn85025697:00393348318:1866102001:0360/pct:3.169014,42.157601,14.374482,6.991110/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1545,7 +1551,7 @@ the heel, where they both turned upward
 to the toes.. One of these roots formed a  
 slight crook at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779349:1866102301:0793/pct:22.601323,86.313686,16.873449,10.318253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779349:1866102301:0793/pct:16.956162,64.749536,12.655087,7.763665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1642,7 +1648,7 @@ to the heel, where they both turned upward O&#x27;
 the toes. One of tho roots formed a slight  
 crook at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952522A:1866102601:0487/pct:73.126444,82.489637,11.224827,4.635096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952522A:1866102601:0487/pct:73.109937,82.464515,11.224827,4.635096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1721,7 +1727,7 @@ toes. One of these roots formed a
 slight crook at the knee, which make -  
 the whole bea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769799:1866110701:0037/pct:70.250651,48.911895,12.943432,8.694274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769799:1866110701:0037/pct:66.730585,46.461018,12.285988,8.261145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1828,7 +1834,7 @@ along each leg to tho heel, where they
 both turned upward to the toes. One of  
 these roots formed a slight crook at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744791:1866112901:0170/pct:92.398946,31.369214,16.388401,13.935123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744791:1866112901:0170/pct:69.317516,23.532985,12.302285,10.448305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1865,7 +1871,7 @@ the knee, which makes the whole bear a
 But not a trace of the dead remained, y  
 The Use op the Ro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991288:1866113001:0285/pct:21.081081,18.530885,17.567568,16.072242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991288:1866113001:0285/pct:21.056511,18.515708,17.567568,16.072242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1902,7 +1908,7 @@ at th
 
 ## [From _The Sailor's Magazine and Seamen's Friend_](https://archive.org/details/the-sailors-magazine-and-seamens-friend_1866-12_39_4/page/n14/mode/1up?view=theater)
 
-#### 1866-12-01
+#### 1866-12-01 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2178,7 +2184,7 @@ crook at th
 , the roots of an apple­  
 tree planted over the grave of Roger William
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_keres_ver01:data:sn83020847:00517171311:1869100201:0318/pct:67.785527,87.197811,18.504795,1.140338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_keres_ver01:data:sn83020847:00517171311:1869100201:0318/pct:52.528335,67.568800,14.319965,0.897066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2486,7 +2492,7 @@ at the part occupied by the knee joints,
 thus producing an increased resem  
 blance to the outlines of the skeleto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293496:1874041601:0366/pct:68.961927,71.004668,14.292088,10.324517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293496:1874041601:0366/pct:51.725164,53.256279,10.722784,7.746166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

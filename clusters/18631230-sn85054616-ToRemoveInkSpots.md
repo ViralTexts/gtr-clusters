@@ -52,7 +52,10 @@ juice on it, and the 3pct will disappear at
 Wash immediately in cold water.  
 This is a complete remedy, and will satis­  
 fy all who may try it.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_camenae_ver02%2Fdata%2Fsn85054562%2F000002023%2F1863122301%2F1203.jp2/pct:35.834160,22.252604,9.668485,3.076172/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -71,7 +74,7 @@ Wash immediately in water. This is a com­
 plete remedy, and will satisfy all who may  
 try it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477801:1863123001:0275/pct:5.725585,28.675514,19.463549,5.087171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477801:1863123001:0275/pct:4.298487,21.506635,14.597662,3.825137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -90,7 +93,10 @@ squeeze a few drops of lemon juice on it , and
 the, spots will disappear at once. Wash lutme­  
 diately in water. This is a complete remedy,  
 and will satisfy all whc; may try it
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_angerona_ver01%2Fdata%2Fsn84035966%2F000001932%2F1864010501%2F0012.jp2/pct:7.307292,89.602273,13.979167,2.901515/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -108,7 +114,7 @@ drops of lemon juice on it, and the spot
 will disappear at once. Wash immedi­  
 ately in cold water.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293435:1871012001:0070/pct:35.424469,8.412867,13.857678,4.029692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293435:1871012001:0070/pct:26.576155,6.315541,10.408864,3.028161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +163,7 @@ cold water. This is a complete remedy,
 and will satisfy all who may try it.  
 Last Sun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562847A:1871060901:1176/pct:81.060606,27.776977,16.899767,23.080248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562847A:1871060901:1176/pct:60.819736,20.832733,12.703963,17.331797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +328,7 @@ juice on it, and the spot will disappear
 at once. Wash immediately .in ; cold  
 water.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779398:1871061301:0549/pct:57.987805,18.386731,35.040650,110.221151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779398:1871061301:0549/pct:43.495935,13.793592,26.280488,82.676496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -444,7 +450,7 @@ the largest in tho United States, and is
 of &quot;three thousand cow power.&quot;  
 Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776075:1871061501:0441/pct:8.042348,95.508733,16.214710,5.406155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776075:1871061501:0441/pct:6.036404,71.638481,12.165676,4.075409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +493,7 @@ a few dreps of lemon juice on it, and the spot
 will disappear at once. W’ash immediately in  
 I cold water. That’s one wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_keres_ver01:data:sn83020847:00517171311:1871061601:1030/pct:85.160576,33.370805,19.091916,13.120283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_keres_ver01:data:sn83020847:00517171311:1871061601:1030/pct:66.002215,25.871206,14.772979,10.165409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -526,7 +532,7 @@ before the coming firt of July, and la­
 borers are, therefore, busily at work fin­  
 ishing up this second section.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779398:1871061601:0562/pct:41.517857,108.495802,16.558442,19.510460/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779398:1871061601:0562/pct:31.148539,81.414544,12.439123,14.657749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -547,7 +553,7 @@ tvctorywhi. hu claimed to he the largest
 in the I niter] States, and is of fthrce thous­  
 and r &gt;w power’...
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187146:1871061601:0273/pct:45.525808,87.978086,12.506030,5.592309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187146:1871061601:0273/pct:45.513748,87.957412,12.506030,5.592309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -570,7 +576,7 @@ home and foreign, was about eight millions of
 d&#x27;dlari; and that for artifi* tal flowers —w h is li  
 ; arc vanity—fifteen millions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187146:1871061601:0274/pct:30.045816,73.060413,12.792380,6.072663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187146:1871061601:0274/pct:30.033759,73.049942,12.792380,6.072663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -751,7 +757,7 @@ mm l ied again.
 A curious fact, which throws a great  
 deal of light on the cha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776075:1871062201:0444/pct:107.635285,38.980217,16.345441,26.720535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776075:1871062201:0444/pct:80.726464,29.242129,12.268347,20.047367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -772,7 +778,7 @@ on polygamy and wa&amp;t tieatlle husband.
   
 FO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn83025925:00280776324:1871062201:0374/pct:66.622252,7.211915,28.014657,118.865952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn83025925:00280776324:1871062201:0374/pct:49.966689,5.408937,21.035976,89.182127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -807,7 +813,7 @@ ly in cold water
 It is stated that this year foreign to­  
 bacco bus been sold and smok
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033386:00200293873:1871062301:0361/pct:61.687394,49.820750,12.549463,5.898968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033386:00200293873:1871062301:0361/pct:46.269079,37.370994,9.412097,4.421510/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -846,7 +852,7 @@ er method which never fails is to take a
 pair of scissors and eut them out,  
 —
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84023142:00517015982:1871062401:0395/pct:100.593776,56.031017,18.959869,19.615164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84023142:00517015982:1871062401:0395/pct:77.948403,43.423320,14.680590,15.206778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -904,7 +910,7 @@ the machinations of the wife&#x27;s mother,
 did the best thing possible under the cir­  
 cumstances promptly got married again
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293435:1871062501:0639/pct:80.294306,41.060695,13.883557,2.863877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293435:1871062501:0639/pct:60.220729,30.795522,10.412668,2.156747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -927,7 +933,7 @@ IWAlad was seated on a rail of tho
 Boston and Albany Road on Sunday, just  
 as the stor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026050:00280776798:1871062701:0653/pct:7.946336,18.617201,22.471620,9.224283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026050:00280776798:1871062701:0653/pct:5.959752,13.962901,16.873065,6.930860/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -965,7 +971,7 @@ exactly adapted to the need.
 To remove. ink spots, put the ar­  
 ticle stained over a warm -flatriron,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FrTempR1n_ver01%2Fdata%2F1871062801%2F0317.jp2/pct:72.689295,67.732530,48.420366,9.135970/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FrTempR1n_ver01%2Fdata%2F1871062801%2F0317.jp2/pct:54.516971,50.801827,36.318538,6.851978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1197,7 +1203,7 @@ all down on polygamy and want Gen­
 tile hut-bands.  
 A youn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033386:00200293873:1871063001:0362/pct:112.768891,91.084599,12.810259,5.130152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033386:00200293873:1871063001:0362/pct:84.611142,68.340564,9.611142,3.850325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1218,7 +1224,7 @@ disappear at once. Wash immediate
 ly in cold water  
 John Robinson&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470119:1871063001:0339/pct:112.466488,65.730710,14.061662,4.068096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470119:1871063001:0339/pct:84.383378,49.314614,10.549598,3.051072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1238,7 +1244,7 @@ member of a congregation is a fair minimum
 salary for a pastor.  
 An English paper say
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349505:1871063001:0101/pct:39.689289,44.103622,11.201962,2.783864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349505:1871063001:0101/pct:39.672935,44.090733,11.201962,2.783864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1315,7 +1321,7 @@ who wouldn&#x27;t take &quot;No&quot; for an answer,
 by throwing a lot of snuff into his eyes;  
 the other day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293447:1871070201:0011/pct:22.554003,32.419547,13.945362,3.539928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293447:1871070201:0011/pct:16.915502,24.314660,10.466963,2.657926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1351,7 +1357,7 @@ it well, then squeeze a fow drops of lonion
 juice on it, and tho spot will disappear at  
 once. Wash immediately in cold water.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026050:00280776798:1871070401:0660/pct:9.015544,106.530476,22.746114,20.981246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026050:00280776798:1871070401:0660/pct:6.761658,79.922974,17.072539,15.740121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1445,7 +1451,7 @@ at once. Wash immediately in cold wat-
 er. This is a complete remedy and will  
 fcatisfy all who mav tr i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200294580:1871070601:0764/pct:5.291604,8.388978,15.045249,4.843412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200294580:1871070601:0764/pct:3.971845,6.291733,11.287079,3.639613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1475,7 +1481,7 @@ the past ten years 08 per cent, faster
 than the growth of the great metropo  
 lis. &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775423:1871071301:0035/pct:70.065574,89.193736,14.885246,3.571891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775423:1871071301:0035/pct:52.573770,66.921185,11.163934,2.678918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1660,7 +1666,7 @@ any laborious exercise. Eat no late
 suppers. Severe physical or mental  
 labor during th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn83021327:00200297106:1871083101:0018/pct:81.010766,7.483842,14.204545,8.957932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn83021327:00200297106:1871083101:0018/pct:60.780502,5.612881,10.660885,6.724118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1926,7 +1932,10 @@ To .11F.Itovr. INK-Sep - v-3.-13m tlu article
 then sqadgze a few drops of lemon juice on  
 it, and the spot will disappear at once. Wash  
 immediately in cold;dater.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_deaTacita_ver01%2Fdata%2Fsn86081130%2F000002101%2F1872020701%2F0020.jp2/pct:3.465001,70.946671,11.163278,2.412909/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 

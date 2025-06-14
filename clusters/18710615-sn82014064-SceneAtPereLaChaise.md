@@ -180,7 +180,7 @@ of lime. There are many women among them,
 and faces the ferocity oi which makes one sick  
 to look npon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn83025925:00280776324:1871061501:0318/pct:6.457627,52.109344,19.305085,5.572349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn83025925:00280776324:1871061501:0318/pct:4.847458,39.085294,14.474576,4.179261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -262,7 +262,7 @@ i-&#x27;ifter?lut !b;ith;cTOeJlnrdble
 Coating bf lime. There are many Nvorhep  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarWilm58n_ver01%2Fdata%2F1871062101%2F0586.jp2/pct:3.371659,107.009779,22.545059,9.161091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarWilm58n_ver01%2Fdata%2F1871062101%2F0586.jp2/pct:2.532629,80.267627,16.920447,6.875965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ city of which makes ona sick to look
   
 upon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779398:1871062101:0577/pct:59.575783,51.483722,16.598023,6.943244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779398:1871062101:0577/pct:44.686985,38.619994,12.458814,5.200230/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ many women among them, and faces
 the ferocity of which make one sick to  
 look upon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:0027955520A:1871070601:0020/pct:20.350944,80.486857,11.768072,6.266995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:0027955520A:1871070601:0020/pct:20.331871,80.460961,11.768072,6.266995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

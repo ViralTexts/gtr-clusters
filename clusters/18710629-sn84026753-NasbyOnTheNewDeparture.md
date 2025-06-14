@@ -1087,7 +1087,7 @@ Ff.trolefm V. Nasbt,
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895175:1871061401:0612/pct:55.533088,17.688042,39.338235,79.070098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895175:1871061401:0612/pct:55.514706,17.673823,39.338235,79.055879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1358,7 +1358,7 @@ of thought and action, and desired that every
 one should express his views without reserve;  
 but any one s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171888:1871061701:0570/pct:4.735429,71.079746,13.995399,5.829217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171888:1871061701:0570/pct:3.661810,55.088215,10.851227,4.516584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1658,7 +1658,10 @@ PETROLEUM V..Nssmi&#x27;.
 Sad irate at a Late Army eater.&#x27;  
 BLaj.GeniCharlesMuntlee. citizen  
 o
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_obamab_ver01%2Fdata%2Fsn83031982%2F000001763%2F1871062101%2F0096.jp2/pct:17.388889,5.476534,19.532407,89.935018/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1972,7 +1975,10 @@ PETROLEUM. V. NASIPAr,
 .....(wick wuz Postmaster.)  
   
 A
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001846%2F1871062201%2F0097.jp2/pct:54.834562,10.110556,28.973084,84.276034/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2369,7 +2375,7 @@ PeETrROLEUM V. NASBY. |
 (wich wuz Postmaster.) ]  
 —The worst
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84023142:00517015982:1871062401:0402/pct:7.018272,8.067324,38.725083,114.016251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84023142:00517015982:1871062401:0402/pct:5.440199,6.239118,30.004153,88.363320/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3705,7 +3711,7 @@ Peteolecm V. Napbt.
 (wich was Postmatter )  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1871063001:0108/pct:5.765125,15.632658,13.754448,91.087321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1871063001:0108/pct:4.323843,11.724494,10.320285,68.347736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4178,7 +4184,7 @@ wuz all.”
 And nigger laffed a feendisl) laff.  
 “ Dat wuz all!” he repeated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn92053883:00514151027:1871070601:0301/pct:49.006019,12.333071,32.463980,82.704897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn92053883:00514151027:1871070601:0301/pct:48.987780,12.319979,32.463980,82.691804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4687,7 +4693,7 @@ Petroleum V. Nasbt.
 (wich wus Poa Unas tar.)  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562847A:1871070701:1191/pct:90.437158,6.761723,34.816550,121.123034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562847A:1871070701:1191/pct:67.876659,5.071292,26.112412,90.886374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4937,7 +4943,7 @@ course this &quot;ontrage,&quot; as tlioy will call i?,&#x27;
 will get into tbe Northern ptprs, and nv  
 cours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026118:00280776348:1871071901:0117/pct:90.371991,18.561302,32.567469,108.269887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026118:00280776348:1871071901:0117/pct:67.797228,13.927540,24.434719,81.228669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5072,7 +5078,7 @@ by their works. “ There are,” I said, in a
 spasm of delight, “ present at this meetin  
 twenty-two uv our fellow-citizens of Afr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624530:1871080501:0216/pct:93.882626,47.726437,14.190981,76.761858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624530:1871080501:0216/pct:72.745358,36.989827,11.007958,59.480328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5195,7 +5201,7 @@ Petroleum V. Nasby,
 (which wuz Postmaster.)  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624530:1871080501:0216/pct:108.554377,13.898762,14.124668,72.239245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624530:1871080501:0216/pct:84.118037,10.761123,10.941645,55.987253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

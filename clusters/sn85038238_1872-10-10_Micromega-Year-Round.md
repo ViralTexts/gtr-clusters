@@ -178,7 +178,7 @@ height, it follows that the Sirian&#x27;s nose
 must have measured nearly a mile and  
 a half in length.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038238:00296028812:1872101001:0468/pct:3.880157,39.952032,14.800262,36.569048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038238:00296028812:1872101001:0468/pct:2.914211,29.967180,11.100196,27.429942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

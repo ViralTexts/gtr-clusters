@@ -154,7 +154,10 @@ And pays his bill when due,
 Can live at peace with God and man,  
 And with the printer tou.  
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_diana_ver01%2Fdata%2Fsn86071454%2F000002108%2F1839090401%2F0176.jp2/pct:5.100524,12.268856,64.116405,84.543796/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -252,7 +255,10 @@ For ho who takes tho capers,
 And pays his bill when it is due,  
 Can live at ponce with God and man,  
 And with the printer too.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_faunus_ver01%2Fdata%2Fsn86081069%2F000002404%2F1839092401%2F0114.jp2/pct:18.132763,35.917767,12.772348,45.310706/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -344,7 +350,7 @@ And pays his bill when it is due.
 Can live at peace with God end man,  
 And with the Printi r too
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187122:1839100301:0405/pct:2.277246,6.471031,16.139526,49.247555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187122:1839100301:0405/pct:2.259172,6.458490,16.139526,49.247555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -382,7 +388,7 @@ Would think her iarict stars
   
 . Ti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SCitAsh1n_ver01%2Fdata%2F1839102501%2F0397.jp2/pct:9.159964,12.509804,23.704200,23.816993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SCitAsh1n_ver01%2Fdata%2F1839102501%2F0397.jp2/pct:6.881144,9.385621,17.783735,17.869281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +438,7 @@ With health upon her brow.
   
 The Tuilor$ treumK tailor who
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SCitAsh1n_ver01%2Fdata%2F1839102501%2F0397.jp2/pct:9.472744,47.790850,48.168007,48.078431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SCitAsh1n_ver01%2Fdata%2F1839102501%2F0397.jp2/pct:7.104558,35.856209,36.126005,36.078431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -459,7 +465,7 @@ Tor he Hvlo takes the papers, 4 ;
 . Can live at peace w ith God and man,  
 Ai-d wnli the fi inter ti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SCitAsh1n_ver01%2Fdata%2F1839102501%2F0397.jp2/pct:10.746202,96.705882,23.748883,10.627451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SCitAsh1n_ver01%2Fdata%2F1839102501%2F0397.jp2/pct:8.065237,72.562092,17.806077,7.973856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -731,7 +737,7 @@ And pays bis bill when it is due,
 Can live at peace with God and man,  
 And with the printer too
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777328:1839122001:0550/pct:7.066116,9.403056,19.566116,55.819814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777328:1839122001:0550/pct:5.309917,7.056229,14.669421,41.880611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1003,7 +1009,7 @@ At home like neig&#x27;ibor Jim,
 I&#x27;ll bet a cent the accident  
 Would not have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1841051201:0080/pct:8.493228,9.713830,14.559819,13.350815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1841051201:0080/pct:6.376975,7.285372,10.919865,10.021662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1051,7 +1057,7 @@ And killed him as it should.
 ... Had he been reading of ths new, &#x27;  
 . At bonis like neiahhor Jiai.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal7_ver01%2Fdata%2F1841052901%2F0485.jp2/pct:26.039069,21.213951,15.627598,12.667975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal7_ver01%2Fdata%2F1841052901%2F0485.jp2/pct:19.534497,15.914238,11.720698,9.497207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1083,7 +1089,7 @@ At home like neighbor Jim,
 I&#x27;ll bet a cent the accident  
 Would not have happened him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat13n_ver01%2Fdata%2F1841060801%2F0864.jp2/pct:8.996540,40.414508,17.128028,17.191444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat13n_ver01%2Fdata%2F1841060801%2F0864.jp2/pct:6.747405,30.317524,12.854671,12.886940/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1114,7 +1120,7 @@ I&#x27;ll bet a cent this accident
 Would not have happened him.  
 A Southern Paper complains t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1841060901:0247/pct:52.790545,84.864045,21.700591,18.695297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1841060901:0247/pct:39.609324,63.671374,16.283651,14.038978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1241,7 +1247,7 @@ Would not have happened him.
 SulpM, Snaps, and Scrap*.  
 (Stolen from the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_dinomayo_ver02:data:sn84023073:00516996936:1841070301:0372/pct:10.029718,16.999722,11.942793,25.451013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_dinomayo_ver02:data:sn84023073:00516996936:1841070301:0372/pct:7.763744,13.169581,9.268202,19.719678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1425,7 +1431,7 @@ At home, like neighbor Jim,
 I&#x27;ll bet a cent this accident  
 Would not befallen him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TarFPS6_ver01%2Fdata%2F1841073101%2F0544.jp2/pct:4.385677,46.786102,26.182654,18.501629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TarFPS6_ver01%2Fdata%2F1841073101%2F0544.jp2/pct:2.923784,31.205212,17.460578,12.334419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1660,7 +1666,7 @@ And talk of men aM things.&quot;
   
 which tmr pocket 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat14n_ver01%2Fdata%2F1843102801%2F0384.jp2/pct:6.823066,7.856104,38.377507,51.712736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat14n_ver01%2Fdata%2F1843102801%2F0384.jp2/pct:5.121777,5.898691,28.778653,38.791165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1730,7 +1736,7 @@ I&#x27;ll bet a cent the accident
 Would not have happened him.  
 D’ye give it up 1 Then just send to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082160:00514159324:1844091401:0305/pct:25.901442,41.826300,18.649840,20.927553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082160:00514159324:1844091401:0305/pct:20.072115,32.406741,14.443109,16.217773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1841,7 +1847,7 @@ I&#x27;ll bet a cent the accident . ,
 Would not hare happened him.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AsvHM3_ver01%2Fdata%2F1844110801%2F0380.jp2/pct:12.992126,13.517869,16.561680,18.504124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AsvHM3_ver01%2Fdata%2F1844110801%2F0380.jp2/pct:8.661417,9.015073,11.049869,12.332923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1926,7 +1932,7 @@ Can live at peace with God and man,
 And with the printer too.  
 A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292431:1845022201:0241/pct:85.625000,14.731051,18.496094,67.221883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292431:1845022201:0241/pct:64.238281,11.048289,13.906250,50.458435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2039,7 +2045,10 @@ I&#x27;ll het n cent chat accident.
 &#x27;A WOXAN LOMECHKR HUSEI•ND IN, AND NUNS.—  
 Three months ago, says the Boston Post, down east,  
 the wife of Mr Bernard, painter, left him fo
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_felicitas_ver01%2Fdata%2Fsn85054565%2F000002457%2F1845070801%2F0022.jp2/pct:17.411782,57.716121,10.986094,11.039720/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2068,7 +2077,7 @@ At home, like neighber Jim
 I&#x27;ll bet a cent that accident  
 Would not have happened him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn84023914:00296029816:1845071001:0292/pct:9.101858,99.729451,57.312457,13.050760/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn84023914:00296029816:1845071001:0292/pct:6.830695,74.800309,42.980041,9.804174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2094,7 +2103,7 @@ A tree fell down upon his crown,
 B&#x27;il bet a cent that accident  
 Would not have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845071101:0382/pct:7.275873,9.407881,12.038262,6.436971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845071101:0382/pct:7.265697,9.401004,12.038262,6.436971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2157,7 +2166,7 @@ I’ll bet a coni (hat aceident
 Would not have hap|ffiinl him.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1845071701:0315/pct:17.391946,3.956955,75.674878,7.913911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1845071701:0315/pct:17.377194,3.945746,75.674878,7.913911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2262,7 +2271,7 @@ Would not have happened him.
 Tribute to Merit.—A large number of the  
 friends of Law and Or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1845072401:0086/pct:57.521935,55.915454,17.312219,11.199561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1845072401:0086/pct:57.500535,55.901729,17.312219,11.185836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2299,7 +2308,10 @@ Would not have happened him
 Epigram.  
 Yon Nicety possesses no silver or gold,  
 Yet who in appearnore more merry and bol
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_felicitas_ver01%2Fdata%2Fsn85054565%2F000002457%2F1845072501%2F0082.jp2/pct:38.976525,68.228195,10.948714,9.240905/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2370,7 +2382,10 @@ I&#x27;ll het n cent that accident
 Wotdd not have happened him  
   
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_washingtong_ver01%2Fdata%2Fsn86071296%2F000001856%2F1845073001%2F0107.jp2/pct:19.084225,61.503391,11.817227,9.325546/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2422,7 +2437,7 @@ Acd talk of mon and thin&#x27;rs.
   
 CT&#x27;As soon as th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744754:1845073001:0330/pct:27.729181,89.761513,42.669699,7.743969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744754:1845073001:0330/pct:20.801260,67.324561,32.015395,5.811404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2485,7 +2500,7 @@ For cash thus spent is money lant
 On interest four fold paid.  
 My grandad used to mak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348987:1845080701:0339/pct:16.908493,16.288365,9.440898,4.739472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348987:1845080701:0339/pct:16.889147,16.274090,9.440898,4.739472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2538,7 +2553,7 @@ Next morning she was at her work,
 Divested of her pain;  
 But did forget to pay her deb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348987:1845080701:0339/pct:16.811762,24.910778,9.692397,20.742327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348987:1845080701:0339/pct:16.792416,24.896502,9.692397,20.742327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2570,7 +2585,7 @@ I&#x27;ll hot n con! that accident
 Would not liavo happened him.  
 SnNTiMRNT.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1845080801:0111/pct:43.535768,82.428756,16.132638,13.847916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1845080801:0111/pct:32.656483,61.850208,12.127422,10.396678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2606,7 +2621,7 @@ ii- her name is iuim beuy , v
 . r &#x27; - if god a&#x27;.mity lets me.-  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal7_ver01%2Fdata%2F1845080901%2F0520.jp2/pct:69.961977,107.397622,20.396524,15.892694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal7_ver01%2Fdata%2F1845080901%2F0520.jp2/pct:52.485062,80.581242,15.304183,11.919520/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2658,7 +2673,7 @@ Would not have happend him.
 THE PRESS IN GERMANY.  
 To show the sor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1845080901:0127/pct:45.897023,38.327232,19.227675,19.360743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1845080901:0127/pct:34.432824,28.752464,14.420756,14.531118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2728,7 +2743,7 @@ At home, like neighbor Jim, &quot; .
 I&#x27;ll bet a cent this accident  
 Would not have happened him,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472037:1845081501:0389/pct:69.142857,102.565250,18.163265,10.544370/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472037:1845081501:0389/pct:51.877551,76.972409,13.632653,7.904549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2789,7 +2804,10 @@ lied he been reading of the now.
 At home, like neighbor j int  
 I&#x27;ll bet a cent that accident  
 Would not have happened hum,
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_epona_ver01%2Fdata%2Fsn86071456%2F000002311%2F1845082701%2F0132.jp2/pct:4.747774,84.913337,14.768318,9.558045/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2857,7 +2875,7 @@ At home, like neighbor Jim
 I&#x27;ll bet a ceut that accident  
 Would not have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027042:1845091001:0075/pct:29.714286,77.034045,18.938776,17.152337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027042:1845091001:0075/pct:22.285714,57.775534,14.204082,12.867859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3058,7 +3076,7 @@ Next morning she was at her work,
 Divested of her pain;  
 But did forget to pay her deb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_emerald_ver02:data:sn87090125:00414212621:1845102801:0099/pct:1.239669,45.269373,15.764463,23.173432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_emerald_ver02:data:sn87090125:00414212621:1845102801:0099/pct:1.219008,45.254613,15.764463,23.173432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3099,7 +3117,7 @@ IV
   
 The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_emerald_ver02:data:sn87090125:00414212621:1845102801:0099/pct:1.260331,15.601476,19.380165,79.571956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_emerald_ver02:data:sn87090125:00414212621:1845102801:0099/pct:1.239669,15.586716,19.380165,79.557196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3135,7 +3153,7 @@ No! hearty a» a horse.
   
 1 knew 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1845110101:0095/pct:64.812770,32.971306,11.213734,11.491016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1845110101:0095/pct:64.802731,32.964602,11.213734,11.491016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3170,7 +3188,7 @@ Because you borrow of his boy,
 A paper every week,  
 For he who takes the paper
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1845110101:0095/pct:64.792691,49.993296,10.832246,12.355859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1845110101:0095/pct:64.782652,49.986592,10.832246,12.355859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3498,7 +3516,7 @@ l&#x27;vo funic! of my own
 And on my lipfirt the euro bestow  
 And let my friends alone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845120401:0195/pct:63.425926,21.114119,18.711420,10.072660/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845120401:0195/pct:47.569444,15.842713,14.062500,7.550933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3530,7 +3548,10 @@ And make it wider still.
 It is enough for me to know  
 I&#x27;ve follies of rn!, awn ;  
 on my heart the care besto
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_epona_ver01%2Fdata%2Fsn86071456%2F000002311%2F1845121001%2F0191.jp2/pct:4.922773,82.650616,14.813969,10.293708/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3571,7 +3592,7 @@ Next morning she was at her work.
 Diverted ot her pain ,  
 But did forget to pay her deb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026593:00202198065:1845122401:0305/pct:14.294671,43.586300,21.128527,24.121334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026593:00202198065:1845122401:0305/pct:9.529781,29.068726,14.090909,16.084621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3609,7 +3630,7 @@ And pays his bill when due.
 Can live ai peace with Uod and man,  
 And with the PRINTER to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026593:00202198065:1845122401:0305/pct:15.047022,71.032013,16.363636,20.483546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026593:00202198065:1845122401:0305/pct:10.031348,47.369599,10.909091,13.666891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3729,7 +3750,7 @@ Next morning she was at her work.
 Divested of her pain ;  
 But did forget to pay her deb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1846102401:0308/pct:66.548516,16.542570,14.960863,14.168555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1846102401:0308/pct:66.533747,16.531779,14.960863,14.168555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3934,7 +3955,10 @@ Two Arguments make one Speec
 While dying of the cough,  
 Desired to hear the latest news,  
 While he was going Off.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002336%2F1847110601%2F0177.jp2/pct:83.407120,35.023294,8.922118,1.325706/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3955,7 +3979,10 @@ Of some new ping in tome &quot;.•
 lie bought a box—and is.he dead  
 - No—hearty . as a horse:  
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002336%2F1847110601%2F0177.jp2/pct:81.658836,16.816251,11.817853,77.973417/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4002,7 +4029,7 @@ He bought a box &quot;and is he dead?&quot;
 . &quot;No! hearty as a horse!&quot;  
 A Bea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848032301:0617/pct:58.911765,54.703380,12.779412,7.102340/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848032301:0617/pct:44.205882,41.042307,9.588235,5.329709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4025,7 +4052,7 @@ For cash thus paid is money lent
 On interest four fold paid.  
 From the New Orleans Picayune of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1848042201:0494/pct:27.111287,34.677546,16.258879,9.351954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1848042201:0494/pct:20.343331,26.016005,12.194159,7.013965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4277,7 +4304,7 @@ Can live in peace with God and man,
 • And with the printer too,  
 J FOREIGN INTELLIGENCE. ~
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849062501:0372/pct:48.934620,12.397743,15.006374,37.531735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849062501:0372/pct:48.916409,12.383639,15.006374,37.531735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4559,7 +4586,10 @@ ma he been reading of the nett■
 At borne. tike neighbor Ilm, •  
 121 bet a cent this accident  
 /lad not befallen him.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002338%2F1849100601%2F0156.jp2/pct:7.488708,8.320312,6.639566,7.045455/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4800,7 +4830,7 @@ Njj4 from the printer aneak,
 Because jroa borrow of hit bejr 4  
 Ajphpe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851021401:0329/pct:4.210172,25.129279,12.344224,23.774932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851021401:0329/pct:4.193331,25.116966,12.344224,23.774932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4892,7 +4922,10 @@ For he who takes the papers&#x27;
 And pays timbal when due, •  
 Can live in peace with Uwl and want  
 And with the printers too
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fauna_ver01%2Fdata%2Fsn85038381%2F000002393%2F1851112101%2F0139.jp2/pct:54.418960,14.662630,12.257900,28.319637/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5033,7 +5066,7 @@ And pays his bill when due,
 Can live in peace with God and man,  
 And with the printer, too.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_isolation_ver01:data:sn84022932:0054286848A:1852032001:0256/pct:8.265533,42.706307,13.424556,15.809947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_isolation_ver01:data:sn84022932:0054286848A:1852032001:0256/pct:6.397929,33.092526,10.392012,12.253404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5101,7 +5134,7 @@ And pays his bill when due,
 Can live at peace with God and man,  
 And with the printer too
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OldNSEC2n_ver02%2Fdata%2F1853120301%2F0387.jp2/pct:72.312961,44.642360,14.265016,18.554597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OldNSEC2n_ver02%2Fdata%2F1853120301%2F0387.jp2/pct:54.254478,33.491047,10.695469,13.934502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5802,7 +5835,7 @@ ordinaiy barn-yard manure.
 A voting lady was asked recently how  
 the coul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029105:1857111201:0835/pct:7.515456,56.883469,16.943586,61.138211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029105:1857111201:0835/pct:5.641422,42.669377,12.712519,45.867209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5867,7 +5900,7 @@ mm strength, of muscular buii&#x27;i, nrnl very J
 lare statu:?, us a (inn Ic licwr in the!  
 rfocirine o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286893:1857111801:0080/pct:8.524845,16.550564,14.363354,31.924093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286893:1857111801:0080/pct:6.397516,12.418929,10.776398,23.949075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6066,7 +6099,7 @@ Can lire in peace with God and man,
 v ., . And with the printer too.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775460:1857122401:0292/pct:7.051763,17.396061,119.486122,51.887309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775460:1857122401:0292/pct:5.288822,13.047046,89.628657,38.922319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6382,7 +6415,10 @@ And&#x27; talk of men and things.
   
 v ■ &#x27; J-.:-. ! , ■... L  
 The other took nopapers, an
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_monroej_ver01%2Fdata%2Fsn83031964%2F000001713%2F1858021801%2F0009.jp2/pct:13.119983,36.104858,13.578698,26.519550/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6605,7 +6641,10 @@ And &#x27;killed tinu—&quot; weary good.&quot;
 Lied he been readlnz of the newi,  
 At h,me, like ntdeb&#x27;•or Jim,  
 I&#x27;ll b
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_ferentina_ver01%2Fdata%2Fsn85054567%2F000002484%2F1858032401%2F0081.jp2/pct:78.354994,18.451137,7.432827,15.929666/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6882,7 +6921,7 @@ Divested of her pain.
   
 Till taken down
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:0023728172A:1858042201:0531/pct:6.596386,44.535176,77.138554,33.375209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:0023728172A:1858042201:0531/pct:4.954819,33.417085,57.861446,25.041876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6931,7 +6970,7 @@ Aud pays his bills when due,
 Gan live in peace with Go l aud man,  
 Aud with the printer too.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:0023728172A:1858042201:0531/pct:6.204819,78.580402,17.635542,28.433836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:0023728172A:1858042201:0531/pct:4.653614,58.961474,13.237952,21.335846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7045,7 +7084,7 @@ And pays&#x27;hi. bills when due,&#x27;&#x27;&#x27;&#x27; &#x27;&quot;9&quot;
 &#x27; 1 Oan live in peace with God hnd &#x27;man,&#x27;  
 y&#x27;U m And with tb. printer too&#x27;, ms
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:0029602885A:1858042301:0087/pct:107.850610,19.374551,19.004065,23.975557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:0029602885A:1858042301:0087/pct:80.945122,14.539899,14.253049,18.008627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7088,7 +7127,10 @@ And with the printer too.
 TH$ WILD WHITS MAN.  
   
 , ♦ ROMANCE 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_arimanius_ver01%2Fdata%2Fsn84026111%2F000001963%2F1858050601%2F0065.jp2/pct:7.116186,17.354449,9.764675,13.086477/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -7536,7 +7578,7 @@ And paya fa is bills when due.
 Can live In peace with God and man.  
 And with the printer too.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1858110301:0509/pct:6.684815,12.379607,12.885662,38.615641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1858110301:0509/pct:5.021174,9.284705,9.664247,28.971363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7611,7 +7653,7 @@ BAB AT ASIAN CHIEF.
 -,  
 A TALE FOUNDED O
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85035610:00513684964:1858111101:0008/pct:6.750282,25.217785,14.148816,44.563865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85035610:00513684964:1858111101:0008/pct:6.736189,25.206471,14.148816,44.563865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7757,7 +7799,7 @@ And with the printer too.
   
 a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn96027384:00393349451:1859020501:0231/pct:5.754717,5.210135,10.431267,33.255317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn96027384:00393349451:1859020501:0231/pct:5.741240,5.199959,10.431267,33.255317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8062,7 +8104,7 @@ At home like neighbor Jim,
 I&#x27;ll let a cent this accident  
 Woald not have befalien him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477655:1865011101:0257/pct:11.219262,28.725977,17.315574,13.262059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477655:1865011101:0257/pct:8.418716,21.547665,12.995219,9.952908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8149,7 +8191,10 @@ m Sii«wllirnnni«.
 UNDER THE CHARCOAL,  
   
 .j|ln New York you m
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001745%2F1865072701%2F0115.jp2/pct:5.952163,27.852102,10.891679,39.190679/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -8223,7 +8268,7 @@ una ot the members of the Lower House
   
 ot the legislature of New York, rejoiced i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn85025182:00212477898:1865080201:0226/pct:7.847534,31.503970,16.690022,62.108828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn85025182:00212477898:1865080201:0226/pct:5.885650,23.633816,12.528027,46.578702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8258,7 +8303,7 @@ lie bought n box and It be dead t
 No hearty a a honro.  
 I knew 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_bravo_ver01%2Fdata%2Fsn84022657%2F00033872231%2F1865080501%2F0414.jp2/pct:42.066004,19.180225,14.353526,18.929912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_bravo_ver01%2Fdata%2Fsn84022657%2F00033872231%2F1865080501%2F0414.jp2/pct:31.555154,14.392991,10.782098,14.205257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8318,7 +8363,10 @@ Arid killed him &#x27;&#x27;very good.&quot;
   
 fled he been reeding of the news,  
 At home like ids neigkkp
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_alernus_ver01%2Fdata%2Fsn83031981%2F000001923%2F1865082501%2F0120.jp2/pct:6.410683,12.903757,10.920878,20.183751/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -8453,7 +8501,7 @@ r .. And pays his bills when due,
 Can lire in peace with God and man,  
 i And with the printed jtQo.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DailyProgR3n_ver01%2Fdata%2F1865092201%2F0466.jp2/pct:3.108324,20.908544,20.144077,43.752507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DailyProgR3n_ver01%2Fdata%2F1865092201%2F0466.jp2/pct:2.334578,15.683915,15.114728,32.821901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8523,7 +8571,7 @@ And pays his bills when due.
 Can five in peacs with God and man,  
 And with the.printer too.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DUBSal1n_ver01%2Fdata%2F1865092701%2F0289.jp2/pct:8.088818,67.921548,21.134021,55.877320/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DUBSal1n_ver01%2Fdata%2F1865092701%2F0289.jp2/pct:6.066614,50.954324,15.860428,41.924444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8789,7 +8837,7 @@ And with the printer too.
 .  
 JOINING TH
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027467:1865110101:0504/pct:73.477232,20.768119,14.606742,42.547556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027467:1865110101:0504/pct:55.130101,15.579099,10.955056,31.928726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8855,7 +8903,7 @@ And with the printer too.
   
 In the strikes ol mechamces a wu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349475:1865111001:0245/pct:7.752470,4.545455,11.676729,31.485334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349475:1865111001:0245/pct:7.738749,4.535053,11.676729,31.485334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8986,7 +9034,7 @@ Can live in peace with God and man,
 Hnd with the printer too.  
 TIIE LEFT HANDED TTIIEF.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn84026851:00514157844:1866011801:0145/pct:20.544864,16.237692,17.695576,30.868889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn84026851:00514157844:1866011801:0145/pct:20.519870,16.220418,17.695576,30.868889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9047,7 +9095,7 @@ And pays his bills when due, ,
 Can live in peace with God and man,  
 And w ith the printer too.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028836:1866021401:0277/pct:56.945237,19.699248,14.974330,30.257787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028836:1866021401:0277/pct:42.712493,14.779807,11.252139,22.696026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9111,7 +9159,7 @@ And pays his bills when due, ,
 Can live in peace with God and man,  
 And with the printer too.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775824:1866022301:0035/pct:83.719035,12.492129,12.744459,43.218738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775824:1866022301:0035/pct:62.809648,9.369097,9.566493,32.439239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9238,7 +9286,7 @@ And pays his bills when due,
 Can live in peace with God and man.  
 And with the printer, too.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051370:00414212578:1866042101:0038/pct:8.239921,7.350543,12.271386,35.951087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051370:00414212578:1866042101:0038/pct:8.220256,7.336957,12.271386,35.951087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9362,7 +9410,7 @@ And pays bis bills when due,
 Can live in peace with God and man,  
 And with tne printer too.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879907:1866053001:0509/pct:4.081633,86.103035,17.563389,35.108734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879907:1866053001:0509/pct:3.061224,64.577276,13.172542,26.351901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9796,7 +9844,7 @@ Can lire in pesos with God and man,
 And with the printer too.  
 Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033371:00212470302:1866100501:0165/pct:67.925194,17.493288,29.375441,113.494419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033371:00212470302:1866100501:0165/pct:50.970360,13.127031,22.053634,85.163205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9858,7 +9906,7 @@ And with the printer too.
 NEWS ITEMS.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349487:1866111601:0187/pct:6.906534,4.968276,9.636063,30.401118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349487:1866111601:0187/pct:6.892749,4.957522,9.636063,30.401118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9987,7 +10035,7 @@ And with the printer too.
 A Snake Story.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075001:00237286935:1866112301:0087/pct:9.838963,10.770130,18.008641,36.329095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075001:00237286935:1866112301:0087/pct:7.384132,8.081251,13.511390,27.254128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10271,7 +10319,7 @@ r 11 bet a cent this accident
 Would not have befallen him.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349487:1867062801:0307/pct:6.936258,6.953956,9.732694,9.746075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349487:1867062801:0307/pct:6.922550,6.943420,9.732694,9.746075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10303,7 +10351,10 @@ Xnd him Mnn i as it should.
   
 Had he been reading of the_ maws,  
 1 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_diusFidius_ver01%2Fdata%2Fsn86053495%2F000002287%2F1867070401%2F0001.jp2/pct:80.711286,5.428287,14.380935,6.932271/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -10422,7 +10473,7 @@ npws. at home like neighbor Jim. we&#x27;ll bet
 l. &#x27;cpnt that accident would nnt havn.lmn-  
 pened hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774741:1867082101:0346/pct:58.540802,63.561819,16.390041,5.752723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774741:1867082101:0346/pct:43.931535,47.687380,12.292531,4.330557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10660,7 +10711,7 @@ k.r the benefit of the ladies. The editor* say
 ;hat monthly reports os in magazines, am bo­  
 und the times, thcrelicing “ materia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:0041418697A:1867091901:0153/pct:81.780330,44.413968,12.203877,9.610718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:0041418697A:1867091901:0153/pct:81.765973,44.403418,12.203877,9.610718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10683,7 +10734,7 @@ been reading of the news, at home like
 neighbor Jim, we&#x27;ll bet a cent that  
 accident would not have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775824:1867092701:0359/pct:102.726146,42.473634,13.104089,5.776606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775824:1867092701:0359/pct:77.075589,31.867210,9.835812,4.338447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11181,7 +11232,10 @@ With health upon her brow.
 Why don’t you take the papers;  
 Nor from the printer’* visage sneak,  
 Becausu you bo; row ol bi
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fontus_ver01%2Fdata%2Fsn83032304%2F000002714%2F1869090801%2F0141.jp2/pct:5.968750,21.003357,8.669643,14.746901/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -11231,7 +11285,10 @@ And talk of ine.a`and things.
 &#x27; &#x27;The &#x27;other took no paper, and ,  
 While strolling in&#x27;tlie Wood , :‘. &#x27;&#x27; • „- .  
 Atm% tell down and broke his crown;
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_acis_ver01%2Fdata%2Fsn83032185%2F000001887%2F1869100901%2F0137.jp2/pct:85.653105,15.489601,10.456817,13.117418/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -11293,7 +11350,7 @@ Can live in pence Willi God and man,
 And willi the printer too.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775186:1869101601:0179/pct:42.435622,14.792899,13.698140,36.517329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775186:1869101601:0179/pct:31.831187,11.101719,10.300429,27.402085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11422,7 +11479,7 @@ Can live in peace with God and man,
 And with the printer too;  
 THE CHILD
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn84023428:00202197437:1869101901:0611/pct:20.885093,22.695916,30.415373,102.759382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn84023428:00202197437:1869101901:0611/pct:15.663820,17.025386,22.845497,77.110927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11570,7 +11627,7 @@ Ami pays his bill when due,
 Meaning of the Election.  
 Now that the E
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038238:00296028824:1869102101:0389/pct:68.255814,18.757483,12.940199,34.601570/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038238:00296028824:1869102101:0389/pct:51.212625,14.074764,9.700997,25.954503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11633,7 +11690,7 @@ Can livo at pence with God nud man.
 And with the printers too.  
 A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776075:1869102301:0151/pct:67.261905,4.072672,16.379310,43.058289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776075:1869102301:0151/pct:50.451560,3.058289,12.294745,32.293717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11694,7 +11751,7 @@ And with the printer too.
   
 Mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775411:1869102801:0237/pct:20.941884,82.612695,12.758851,23.616770/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775411:1869102801:0237/pct:15.714763,61.966093,9.569138,17.729005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11874,7 +11931,10 @@ For he who takes the papers,
 And pays kis bills whin due,  
 Can live iii peace With God and man;  
 And with the printer, too: . .
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_rooseveltt_ver01%2Fdata%2Fsn83031987%2F000001774%2F1869111001%2F0171.jp2/pct:73.230663,15.508057,9.136529,27.526968/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -11904,7 +11964,10 @@ and take t,o papoix,
 And pay to-day, nor pay delay,  
 And my woad for Inform),  
 until you&#x27;
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001844%2F1869111901%2F0175.jp2/pct:6.876387,13.235085,6.876387,6.343443/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -12087,7 +12150,7 @@ And with th printer too.
   
 The Tippler
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775113:1869120301:0700/pct:49.242014,4.051131,10.720087,28.692232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775113:1869120301:0700/pct:36.951814,3.038348,8.040065,21.524090/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12165,7 +12228,10 @@ For he who takes the papers,
 And pays MI hills w ten due,  
 4 .. an live at pew. with God and man,  
 And with the printers too.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_cupid_ver01%2Fdata%2Fsn83032076%2F000002083%2F1869121701%2F0201.jp2/pct:58.204925,15.655941,10.203053,22.728960/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -12224,7 +12290,7 @@ Can live in peace with God androaD,
 And with the printer too.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470193:1869121701:0130/pct:20.753989,13.942782,13.188369,30.318974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470193:1869121701:0130/pct:15.568708,10.457086,9.894493,22.744711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12359,7 +12425,7 @@ Hasten Slowly
   
 Ona of the chiel sin of our time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn87065677:00415662300:1870012901:0813/pct:41.658900,24.244426,32.176142,42.576383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn87065677:00415662300:1870012901:0813/pct:31.244175,18.183320,24.161230,31.957060/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12392,7 +12458,7 @@ And pays bis bill when dun ;
 Can live at peace with Ood and man,  
 And with the printer too.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn87065677:00415662300:1870012901:0813/pct:41.612302,67.151115,15.796831,15.227085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn87065677:00415662300:1870012901:0813/pct:31.220876,50.388109,11.835974,11.412056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12658,7 +12724,7 @@ To news all readers turn, and they can look
 Pleased on a paper, who abhor a book.  
 For
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022974:1871012401:0438/pct:26.637070,11.281110,21.642619,113.596491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022974:1871012401:0438/pct:19.977802,8.465932,16.245838,85.210118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12698,7 +12764,7 @@ il nae:
 To news all rsatle n turn,  
 and the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286947:1871012501:0124/pct:33.704319,6.118857,12.425249,12.427237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286947:1871012501:0124/pct:25.282392,4.589143,9.318937,9.327196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12734,7 +12800,7 @@ Mot innsio so commands&#x27; nor so the Muse;
 To news all readers torn, and they can look  
 Pleassd on a paper, who abhor a book
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn84038628:0029587997A:1871012701:0708/pct:36.893204,6.115763,13.425364,15.046718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn84038628:0029587997A:1871012701:0708/pct:27.669903,4.586822,10.087985,11.285038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12904,7 +12970,7 @@ ril bet a cent that accident
 Would never have happened him.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763803:1871091501:0052/pct:111.525130,21.412778,14.326979,9.973234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763803:1871091501:0052/pct:83.651069,16.059583,10.745234,7.482835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13139,7 +13205,10 @@ TWO WOMEN FIGHTING A BEAR.
 OBE T IitEDELL,  
   
 Pain
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aurora_ver01%2Fdata%2Fsn84038509%2F000001989%2F1871121301%2F0197.jp2/pct:71.352626,4.303393,20.007396,64.637792/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -13269,7 +13338,7 @@ llf bought a Ik ix -and is he dead?
 No hearty as a horse. &quot;  
 Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FrTempR1n_ver01%2Fdata%2F1872013101%2F0440.jp2/pct:7.443366,10.917166,13.713592,16.659781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FrTempR1n_ver01%2Fdata%2F1872013101%2F0440.jp2/pct:5.582524,8.190457,10.288565,12.497418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13507,7 +13576,7 @@ Pleased on a paper, w Iks abhor a btwk.
 Too Lnte.  
 &quot;Too late, too
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627610:1872022401:0101/pct:37.825390,41.799819,16.119343,16.581248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627610:1872022401:0101/pct:29.315178,32.393729,12.494994,12.858004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13729,7 +13798,7 @@ I’ll bet a cent that accident
 Would never have happened him.  
 C
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155860:1873090301:0204/pct:16.880416,75.990708,12.131716,8.608910/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155860:1873090301:0204/pct:16.863085,75.977043,12.131716,8.595245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13778,7 +13847,7 @@ And pay to-day pray not delay,
 And my word heard; it ii inferred.  
 You will live till you are gray.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WAnsPolk2n_ver01%2Fdata%2F1874042301%2F0009.jp2/pct:15.663322,7.698701,15.746934,24.197403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WAnsPolk2n_ver01%2Fdata%2F1874042301%2F0009.jp2/pct:11.747492,5.776623,11.817168,18.150649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13848,7 +13917,7 @@ Yon will lire till you are gray.
   
 A NIGHT IN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283624:1874070201:0516/pct:5.824956,8.418819,12.921348,16.873010/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283624:1874070201:0516/pct:4.376109,6.320009,9.683619,12.651810/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13890,7 +13959,7 @@ And pay to-day pray not delar,
 And my word beard, it is inferred,  
 You will live till you are gray.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85026421:00415669203:1874070901:0256/pct:10.014656,22.590332,12.359551,16.390584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85026421:00415669203:1874070901:0256/pct:6.680508,15.063451,8.243771,10.927056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14005,7 +14074,7 @@ And with the printers, too.
 a iobi m  
 Men
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1874081301:0227/pct:24.908759,9.879653,13.923358,26.602295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1874081301:0227/pct:18.686131,7.416737,10.437956,19.955220/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14244,7 +14313,7 @@ And pays bis bills when due;
 And with the printer too.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1875010901:0091/pct:51.318013,10.611376,37.816830,31.896768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1875010901:0091/pct:39.776952,8.218492,29.300439,24.730644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14651,7 +14720,7 @@ l Aud pays his bills when due, ,.
 C&#x27;n live in peace with God and man,  
 And with the printer too.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FrTempR2n_ver01%2Fdata%2F1875080401%2F0227.jp2/pct:7.449426,36.904762,13.655003,35.338346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FrTempR2n_ver01%2Fdata%2F1875080401%2F0227.jp2/pct:5.590487,27.694236,10.251504,26.514202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14997,7 +15066,7 @@ At d pays his hills when due.
 Can live in f»e*&lt;« with Godand man,  
 And with the printer |o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1875082101:0714/pct:17.745197,12.408666,7.313785,19.343674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1875082101:0714/pct:17.728345,12.395847,7.313785,19.343674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15042,7 +15111,7 @@ i&#x27;v r 4 difference! lu the bump
 ii w usW&quot;! anii wllt  
 It happier Uia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775022:1875082601:0287/pct:9.667542,8.113509,18.132108,21.915801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775022:1875082601:0287/pct:7.261592,6.088463,13.604549,16.453504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15105,7 +15174,7 @@ And pays his bills when due,
 Can live in peace with God and nun.  
 And with the printer too
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283132:1875082801:0139/pct:11.432453,16.566092,24.786491,104.626437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283132:1875082801:0139/pct:8.579193,12.428161,18.594720,78.505747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15160,7 +15229,7 @@ I knew a printer’s debtor once,
 Backed with a shocking fever,  
 Who swore t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1875092301:0133/pct:37.716003,7.647141,11.157025,12.568153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1875092301:0133/pct:37.697220,7.633161,11.157025,12.568153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15198,7 +15267,7 @@ And pars Ids bill when due,
 Jan live in peace with God and man,  
 And with the printer loo.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1875092301:0133/pct:37.716003,25.262128,11.288505,13.994128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1875092301:0133/pct:37.697220,25.248148,11.288505,13.994128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15394,7 +15463,7 @@ And with the printer too.
 Count the Cost.  
 Coun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1875112501:0170/pct:15.439120,6.748036,23.251911,90.881033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1875112501:0170/pct:15.420474,6.734007,23.251911,90.867003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15572,7 +15641,7 @@ For cash thus paid, is money lent
 At inteiest four-fold paid.  
 Independence, W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_monroe_ver01:data:sn84037877:00542867644:1876022601:0047/pct:3.064215,3.934485,17.612577,30.461100/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_monroe_ver01:data:sn84037877:00542867644:1876022601:0047/pct:3.037570,3.916682,17.612577,30.461100/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15890,7 +15959,7 @@ his bills when due, can live in peace with
   
 every man, and with the printer too.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763827:1876033101:0068/pct:24.589202,104.298934,14.788732,20.873843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763827:1876033101:0068/pct:18.441901,78.224201,11.091549,15.672953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15946,7 +16015,7 @@ paper,and pays his bill when due,
 can live in peace with every man,  
 and with the printer too.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn84038206:00393349190:1876040101:0930/pct:21.937036,40.353318,14.958893,25.928502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn84038206:00393349190:1876040101:0930/pct:21.916984,40.339407,14.958893,25.928502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16049,7 +16118,7 @@ too.
   
 land 1 almor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FCoLou2n_ver01%2Fdata%2F1876040701%2F0239.jp2/pct:72.294372,64.561334,40.016234,12.306326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FCoLou2n_ver01%2Fdata%2F1876040701%2F0239.jp2/pct:54.220779,48.425935,30.018939,9.227277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16211,7 +16280,7 @@ peace with every man, and with tho
 printer too.  
 Wanted to he aa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152639:1876042801:0349/pct:90.584010,20.159916,32.198626,105.701927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152639:1876042801:0349/pct:67.973142,15.126491,24.156777,79.315769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16269,7 +16338,7 @@ can live iu ptxtce wini evci j uiau,
 and with the printer, too.  
 H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_EraRal1n_ver01%2Fdata%2F1876050401%2F0486.jp2/pct:78.314990,39.879835,17.321803,34.294029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_EraRal1n_ver01%2Fdata%2F1876050401%2F0486.jp2/pct:58.752621,29.919264,13.011006,25.732257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16322,7 +16391,7 @@ ia peace witn every man, anu wun
 the printer, too.  
 Tnn nioMelu Closeted. A ladv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat30n_ver01%2Fdata%2F1876053101%2F0289.jp2/pct:96.447095,70.976143,14.574689,29.086363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat30n_ver01%2Fdata%2F1876053101%2F0289.jp2/pct:72.367739,53.245130,10.931017,21.825190/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16426,7 +16495,7 @@ ids bill when due, can live in peace with
 every man, and with the printer too.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1876061001:0394/pct:29.995265,62.152947,21.046402,31.531093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1876061001:0394/pct:23.248106,48.157168,16.287879,24.435785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16454,7 +16523,7 @@ roooi1 &quot;why dldnWou fall in love summer. I confess, I was infatua- h must b
   
 with Kitty instead of Beatrix ? I telTl tei but I never knew what real delicately &#x27;washed in with a fine Hn- PeiDS9are already placed, and tbat tne I&#x27;ll bet a cent tbat acciden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmMess63n_ver01%2Fdata%2F1876061201%2F0185.jp2/pct:40.528579,59.464485,85.596864,8.125697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmMess63n_ver01%2Fdata%2F1876061201%2F0185.jp2/pct:30.399595,44.607661,64.226100,6.108219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16501,7 +16570,7 @@ klKed him-—&quot; very good.* ]!;»&#x27;! ho
 he n reading all the n»wx r at koine  
 hke 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GraA1_ver01%2Fdata%2F1876061301%2F0286.jp2/pct:21.482036,58.129460,13.005240,22.298675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GraA1_ver01%2Fdata%2F1876061301%2F0286.jp2/pct:20.396707,55.224261,12.369012,21.190112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16547,7 +16616,7 @@ hill vvhen due, can live in peace with every
 man and witli the printer, too.  
 A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349529:1876070701:0290/pct:51.722488,63.142568,10.940989,18.105850/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349529:1876070701:0290/pct:51.706539,63.129906,10.940989,18.093188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16604,7 +16673,7 @@ his bill when due, can live in
 peace with every man, and  
 with the printer, too,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_monroe_ver01:data:sn84037877:00542867644:1876070801:0117/pct:21.246006,33.362754,17.838126,36.610768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_monroe_ver01:data:sn84037877:00542867644:1876070801:0117/pct:21.219382,33.345102,17.838126,36.593116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16652,7 +16721,7 @@ his bill when due, can live in peace with
 every man, and with the printer too.  
 I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:0039334846A:1876071301:0308/pct:68.097719,63.936541,12.071133,20.662969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:0039334846A:1876071301:0308/pct:68.079756,63.923642,12.071133,20.650071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16699,7 +16768,7 @@ bills when due, can live in peace with
 every man, and with a printer too.”  
 A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895928:1876071701:1004/pct:81.561584,17.027686,12.628299,19.480706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895928:1876071701:1004/pct:81.543255,17.013341,12.628299,19.480706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16811,7 +16880,7 @@ every, man, and with the printer, too.
   
 A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194989:1876073101:0322/pct:49.098970,6.876600,15.932494,121.186158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194989:1876073101:0322/pct:36.827803,5.163013,11.956522,90.909091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16855,7 +16924,7 @@ nfigbor Jim, I’ll bet a cent that accident
 would not have happened to him; for he  
 who takes the paper, and pays his bills
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895382:1876090701:0352/pct:82.962435,62.208013,11.126936,12.945322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895382:1876090701:0352/pct:82.944632,62.194963,11.126936,12.932272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16947,7 +17016,7 @@ all read andjwrito, and;toldof men
 and things. The ctbertook no pa­  
 per, and, whilo&#x27;strolling.thi&#x27;ough th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BeeRock1n_ver01%2Fdata%2F1876122301%2F0140.jp2/pct:99.058920,33.532253,19.680851,25.703325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BeeRock1n_ver01%2Fdata%2F1876122301%2F0140.jp2/pct:74.324877,25.149190,14.770867,19.295254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17008,7 +17077,7 @@ Can live in peace with God and man,
 And with tlie printer too.  
 ATTEMPT AT WHOLESAL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152639:1877011201:0497/pct:89.853748,22.774869,14.579525,35.497382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152639:1877011201:0497/pct:67.428397,17.081152,10.938452,26.649215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17105,7 +17174,7 @@ Why saonld you be afraid t
 For cash thus spent is money lent  
 At interest four-fold paid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_cholla_ver01:data:sn87062081:00202196238:1878030201:0026/pct:9.392789,16.000000,14.207780,16.000000/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_cholla_ver01:data:sn87062081:00202196238:1878030201:0026/pct:7.044592,12.000000,10.673624,12.000000/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17199,7 +17268,7 @@ At homo, like neighbor Jim,
 I&#x27;d bet a cent, this accident  
 Had not befallen him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029038:1878121901:0139/pct:9.929287,7.831995,11.314084,7.955528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029038:1878121901:0139/pct:7.454331,5.880173,8.485563,5.966646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17229,7 +17298,7 @@ I&#x27;d bet acent this accident
 , Had not befallen him,  
 :
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewsObs79n_ver01%2Fdata%2F1878122901%2F0602.jp2/pct:79.055286,112.909964,15.294654,9.609359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewsObs79n_ver01%2Fdata%2F1878122901%2F0602.jp2/pct:59.310450,84.708586,11.482382,7.207019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17284,7 +17353,7 @@ At home, like neighbor Jim,
 I&#x27;d bet a cent, this accident  
 Had not befallen hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472992:1879011001:0006/pct:87.849741,58.474295,10.246114,7.573245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472992:1879011001:0006/pct:65.906736,43.869541,7.681347,5.682698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17339,7 +17408,7 @@ Because you borrow from his boy
 A paper every week.  
 For he who takes the paper
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625510:1879012401:0426/pct:51.129087,26.931713,11.156050,22.506934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625510:1879012401:0426/pct:39.619144,20.869106,8.645096,17.434949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17653,7 +17722,7 @@ find
 Was Happier than a king’s;  
 flis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_epidote_ver01:data:sn85032971:00516990508:1879060501:0096/pct:5.290527,32.579766,11.937599,3.896104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_epidote_ver01:data:sn85032971:00516990508:1879060501:0096/pct:5.267918,32.563733,11.937599,3.896104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17683,7 +17752,7 @@ At home like neighbor Jim,
 I&#x27;d bet a cent this accident  
 Had not befallen him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020539:1879061901:0520/pct:86.287625,86.862566,11.287625,8.495312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020539:1879061901:0520/pct:64.715719,65.149783,8.472687,6.368626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17809,7 +17878,7 @@ And with the printer too..
 From Ciranville County.  
 For the last two weeks I hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OxLead8n_ver01%2Fdata%2F1884081201%2F0381.jp2/pct:2.818907,51.117287,14.023349,41.256253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OxLead8n_ver01%2Fdata%2F1884081201%2F0381.jp2/pct:2.121298,38.343524,10.521071,30.939411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17946,7 +18015,7 @@ I’ll bet a cent that accident
 Would not have happened him.  
 Why don’t you take the paper
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_epidote_ver01:data:sn85032971:0051699051A:1885100801:0206/pct:36.475063,15.864246,9.721048,21.310182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_epidote_ver01:data:sn85032971:0051699051A:1885100801:0206/pct:36.453931,15.848461,9.721048,21.310182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18324,7 +18393,7 @@ At home, like neighbor Jim,
 I&#x27;ll bet a cent that accident  
 Would ne&#x27;er have happened hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CcSTDw2_ver01%2Fdata%2F1892012801%2F0215.jp2/pct:84.465021,101.374302,12.301587,8.759777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CcSTDw2_ver01%2Fdata%2F1892012801%2F0215.jp2/pct:73.897707,88.692737,10.773075,7.664804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18483,7 +18552,7 @@ At home, like neighbor Jim,
 I&#x27;d bet a cent this accident  
 Had not befallen him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_LenTop4n_ver01%2Fdata%2F1894041101%2F0624.jp2/pct:24.649860,59.514170,15.994398,13.647986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_LenTop4n_ver01%2Fdata%2F1894041101%2F0624.jp2/pct:18.487395,44.651609,12.002801,10.238653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18515,7 +18584,10 @@ CLOTHING I
   
 To tuany the arri /al of Tuesday&#x27;s  
 G
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_20180112GraniteNamahageSurroundedByTrees_ver01%2Fdata%2Fsn96088079%2Fprint%2F1895081001%2F0003.jp2/pct:47.951977,15.849057,44.456215,4.770889/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 

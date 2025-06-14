@@ -286,7 +286,7 @@ to listen I Keep thy spirit free from earth
 taint; so shalt thou go to them, tho&#x27; they may  
 not return to thee. i anny fern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1853030401:0103/pct:82.091798,52.715304,17.644846,19.226550/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1853030401:0103/pct:61.587660,39.550192,13.261851,14.440483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ earth, two in heaven.”
 There spoke the mother!  
 jJ^’As there i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1853032301:0423/pct:27.649770,88.825255,13.133641,5.741025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1853032301:0423/pct:27.632045,88.797318,13.133641,5.741025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ ten! Keep thy spirit free from enith taint; so
 shalt thou “go to them,” though they may not  
 return to thee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347958:1853032401:0772/pct:19.659160,72.579951,18.015825,17.108848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347958:1853032401:0772/pct:19.638872,72.551269,18.015825,17.108848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -549,7 +549,10 @@ thy footsteps! cherub farms bond to Ulm. Keep
 thy spirit free from earthly taut; so shalt thou &quot;go  
 to them&quot; though &quot;they may not return to tbee.&quot;—  
 Olive Brunc
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_dispater_ver01%2Fdata%2Fsn83032025%2F000002280%2F1853032601%2F0133.jp2/pct:48.065237,65.068493,14.548704,16.806668/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -615,7 +618,7 @@ bend to listen ! Keep ihy spirit free from
 earrn taint ; sp snail innu go 10 mem, iuu  
 they may not return to xhee 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal3_ver01%2Fdata%2F1853033101%2F0260.jp2/pct:110.922897,34.751381,19.392523,41.491713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal3_ver01%2Fdata%2F1853033101%2F0260.jp2/pct:83.235981,26.077348,14.544393,31.132597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -865,7 +868,7 @@ not too closely to your beautiful treas­
 ures, children of earth!  
 JEST A brave veteran office
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1853040701:0789/pct:79.515903,14.621481,15.543109,24.856518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1853040701:0789/pct:79.495899,14.607816,15.543109,24.856518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1085,7 +1088,7 @@ taint; so shall thou “go.to them,” though they
 may not return to thee.--0/n*e Branch.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215890:1853041601:0360/pct:8.284075,27.508961,12.673853,20.058884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215890:1853041601:0360/pct:8.275382,27.502560,12.673853,20.058884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1323,7 +1326,10 @@ them, touch them not, they are forbidden.
 &quot;Only just inside the fence!&quot; , Within  
 that fence is sin, without it is safety.—Cam•  
 bridge - Chronicle. ,
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002342%2F1853042301%2F0065.jp2/pct:64.684447,67.301906,9.270383,3.864719/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1340,7 +1346,7 @@ within the srift of the President of the United
 1 States amount to upwards of fifty millions of dol  
 lars a year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarObsF13n_ver01%2Fdata%2F1853050201%2F0273.jp2/pct:43.934426,120.238548,21.426230,4.517193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarObsF13n_ver01%2Fdata%2F1853050201%2F0273.jp2/pct:32.950820,90.191600,16.081967,3.400584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1511,7 +1517,7 @@ j closely to your beautiful treasures, children of
 I earth !  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalRegNCWA6n_ver01%2Fdata%2F1853051101%2F0074.jp2/pct:77.254601,80.604097,18.895706,22.358523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalRegNCWA6n_ver01%2Fdata%2F1853051101%2F0074.jp2/pct:57.944785,60.455966,14.171779,16.780465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1648,7 +1654,7 @@ dren of earth !
   
 Poetry.—Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895667:1853051901:0080/pct:69.225478,56.509863,12.587701,23.287810/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895667:1853051901:0080/pct:69.211721,56.499747,12.587701,23.277693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1715,7 +1721,7 @@ Wanted angels for heaven! Cling not too close­
 ly to your beautiful treasures, children of earth!  
 Mr. Sovle&#x27;s Flight from Francf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1853052001:0547/pct:26.840408,87.867756,41.711445,39.358457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1853052001:0547/pct:20.137023,65.905736,31.286943,29.528682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1868,7 +1874,7 @@ shall thou &quot;go to them,&quot; though &quot;they may not
   
 return to thee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_imogen_ver01:data:sn87091069:00280779714:1853052601:0255/pct:51.025460,56.882677,18.652758,20.288014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_imogen_ver01:data:sn87091069:00280779714:1853052601:0255/pct:38.277935,42.679656,14.002829,15.219540/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1954,7 +1960,10 @@ go such company as that!&quot;
 my baggage, and put me in wills the piekpock  
 el?&quot; And the traveller walked off in search  
 of the bar-room.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_epona_ver01%2Fdata%2Fsn86071456%2F000002319%2F1853062901%2F0101.jp2/pct:70.748009,90.209902,12.891069,2.873471/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2047,7 +2056,10 @@ watch thy footstepsl—cherub forms bend to
 listen I Keep thy spirit free from earth-taint;  
 so shalt thou &quot;go to them,&quot; though &quot;they may  
 not return to thee I&quot;—Fern Leaves
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_epona_ver01%2Fdata%2Fsn86071456%2F000002319%2F1853081001%2F0121.jp2/pct:70.982651,63.435347,12.898180,17.310260/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2093,7 +2105,10 @@ eyee watch thy .00t.teps !—cherub forms
 bend to listen ! Keep thy spirit free front  
 eartit•taint ; so shalt thou ••go to ihemr  
 though •they may not return to th
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fauna_ver01%2Fdata%2Fsn85038381%2F000002395%2F1853081201%2F0094.jp2/pct:78.619632,31.163495,12.121677,15.563725/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2283,7 +2298,7 @@ I have four, &quot; was the reply; &quot; two on
 earth, and two in heaven.&quot;  
 They were still her
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OBGreen1n_ver01%2Fdata%2F1854020201%2F0400.jp2/pct:11.063771,116.472908,20.313359,6.715798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OBGreen1n_ver01%2Fdata%2F1854020201%2F0400.jp2/pct:8.301264,87.388416,15.241891,5.034254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2326,7 +2341,7 @@ bent to listen ! Keep thy spirit free from
 earth-taint; so shalt thou “go to them,”  
 though they canunot come to thee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL1_ver01%2Fdata%2F1854030101%2F0755.jp2/pct:38.031496,13.376812,14.133858,20.304348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL1_ver01%2Fdata%2F1854030101%2F0755.jp2/pct:38.011811,13.362319,14.133858,20.304348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2719,7 +2734,10 @@ so .Mosel} to your beautiful—Areasutes, - ehii4
 siren of earth !.  
   
 You
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fascinus_ver01%2Fdata%2Fsn84026112%2F000002370%2F1855051001%2F0065.jp2/pct:69.240058,40.835504,12.228305,16.672869/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2967,7 +2985,7 @@ taint; so shalt thou &quot; go to them;,,; though,
 &quot;they may not return to thee. Fanny  
 Fern. ,H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1855052301:0417/pct:57.271418,45.390973,16.918647,24.831532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1855052301:0417/pct:42.962563,34.049587,12.706983,18.639542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3032,7 +3050,7 @@ Wanted angels for Heaven! Cling
 not too closely to your beautiful treasures,  
 children of earth!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775782:1855052501:0091/pct:58.637379,62.180462,16.753537,36.962830/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775782:1855052501:0091/pct:43.987342,46.635346,12.565153,27.732486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3453,7 +3471,7 @@ closely to your beautiful treasures, children of
 earth. Olive Branch.  
 Men-belt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293204:1855081901:0169/pct:109.710366,31.141454,16.783537,24.038807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293204:1855081901:0169/pct:82.286585,23.356091,12.591463,18.038088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3532,7 +3550,7 @@ taint, so shalt thou &#x27;go to them,&#x27; though
 &#x27;they may not return to thee.  
 ! Fanny Fer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1855082901:0159/pct:25.954064,92.851824,16.625442,25.254406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1855082901:0159/pct:19.469965,69.669893,12.473498,18.950112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3714,7 +3732,7 @@ free from earth ; thou shalt go to them,
 though they cannot return to thee !  
 Authorit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1855102301:0530/pct:24.697428,65.755208,17.378971,28.255208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1855102301:0530/pct:18.532526,49.334491,13.029501,21.209491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3828,7 +3846,7 @@ On her brow a glory crown.
 TYING A KNOT.  
 Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879166:1855121101:0361/pct:72.691880,91.771454,16.935484,26.935804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879166:1855121101:0361/pct:54.532814,68.839621,12.708565,20.218398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3939,7 +3957,7 @@ clasp of his lingers, and Lear him say again—
   
 Sarcasti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1856010101:0446/pct:74.136442,12.609195,27.504318,87.827586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1856010101:0446/pct:70.423143,11.977011,26.137018,83.436782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4048,7 +4066,7 @@ Terrible bct Successful Dr.
 Carnochan, of this city, has recently per­  
 formed an operation for neural
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194928:1856051601:0076/pct:44.199847,32.047872,17.802450,33.045213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194928:1856051601:0076/pct:33.154671,24.055851,13.380551,24.800532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4088,7 +4106,7 @@ listen ! Keep thy spirit free from earth taint;
 : ’ so sbalt shou go to them though they may not  
 Mtnrato thee.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:0051701655A:1856092501:0261/pct:3.763089,60.605283,13.563482,13.336753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:0051701655A:1856092501:0261/pct:3.746728,60.592460,13.563482,13.336753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4135,7 +4153,7 @@ to them though they may not return to
 thee.  
 Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalCA30n_ver01%2Fdata%2F1856100301%2F0145.jp2/pct:55.364146,71.256249,15.686275,26.602912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalCA30n_ver01%2Fdata%2F1856100301%2F0145.jp2/pct:41.540616,53.466638,11.764706,19.952184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4242,7 +4260,7 @@ WoCEaro accused by the stronger sex
 of insincerity and deception; thfjare re­  
 proached for dissimulation And cheatin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026712:1857022601:0726/pct:106.185185,19.988849,16.574074,24.728185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026712:1857022601:0726/pct:79.666667,14.998606,12.425926,18.553108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4391,7 +4409,7 @@ Sweet child! safely housed from storm and
 tempest! No sickness there, no drooping head,  
 nor fading eye, nor weary fee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016548:1858020401:0286/pct:43.661120,7.159221,25.052950,89.175258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016548:1858020401:0286/pct:43.645991,7.147766,25.052950,89.163803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4480,7 +4498,7 @@ tllOll (TO to thWlh. ihn&#x27;iV.rh lfiW Wiv
 L &#x27; -O &quot; &quot;&quot;V ,  
 nl return to thee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn95063180:00212472852:1858062401:0113/pct:106.313559,100.532278,18.983051,27.419135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn95063180:00212472852:1858062401:0113/pct:79.745763,75.419681,14.237288,20.567763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5020,7 +5038,7 @@ midst of them—
 In her eyes a glory bright,  
 On her brow a glory crown.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL2_ver01%2Fdata%2F1859090901%2F0048.jp2/pct:47.909443,35.366402,13.848664,21.339727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL2_ver01%2Fdata%2F1859090901%2F0048.jp2/pct:47.889048,35.351416,13.848664,21.339727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5111,7 +5129,7 @@ On her head a glory crown.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174324:1860042001:0016/pct:76.327769,37.558008,15.560767,18.882128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174324:1860042001:0016/pct:76.313974,37.547695,15.560767,18.882128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5537,7 +5555,7 @@ So shalt thou go to them, though they may
 not return to thee.—Missionary Messenger.  
 tm i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184418:1874120901:0278/pct:5.189766,62.170315,12.586395,24.219962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184418:1874120901:0278/pct:5.177640,62.161696,12.586395,24.211343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5649,7 +5667,7 @@ the parents upward. A still, small voice
 is ever whispering to the world-weary  
 spirits, &#x27; come.&quot; May th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalCA19n_ver01%2Fdata%2F1892092801%2F0311.jp2/pct:3.407683,116.319848,19.563197,9.654590/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalCA19n_ver01%2Fdata%2F1892092801%2F0311.jp2/pct:2.555762,87.261012,14.684015,7.246224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

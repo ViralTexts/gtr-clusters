@@ -66,7 +66,7 @@ boiling the pickle, it is purified for tho
 amount of dirt which is thrown off by  
 the operation, from the salt and suga
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1856120301:0096/pct:36.227545,43.345324,14.565868,21.891059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1856120301:0096/pct:27.170659,32.515416,10.928144,16.431141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ should not be put down for at least two days af­
 ter killing, during which time it should be slight­  
 ly sprinkled with powdered saltpetr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84024361:00542868296:1856121001:0352/pct:57.609693,69.868457,15.843584,9.577967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84024361:00542868296:1856121001:0352/pct:44.648430,54.151822,12.263631,7.412990/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ should be slightly sprinkled with
 saltpetre.  
 Severa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023881:0020219137A:1857010201:0246/pct:18.969298,16.939460,13.170078,17.274699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023881:0020219137A:1857010201:0246/pct:14.230019,12.709525,9.880604,12.956024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +336,10 @@ dirt al toys to be found in salt and sugar.
 his weipt is properly tried, it will never  
 he abandoned. There is nano that surpa- , sow  
 it, if so good
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001838%2F1862110701%2F0175.jp2/pct:20.410628,10.927978,11.872910,13.150970/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -373,7 +376,7 @@ the dirt always to bo found in salt and sugar.
 never he abandoned. There is none that  
 surpasses it, if so good.—O&#x27;er. Telegrap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624505:1862110801:0490/pct:88.807786,60.229040,16.245555,15.552100/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624505:1862110801:0490/pct:68.819016,46.670437,12.595920,12.059946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -729,7 +732,7 @@ will never be abandoned. There is none
 that surpasses it, if so good. German­  
 low Telegraph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775526:1863011501:0389/pct:45.567507,59.134682,15.986647,20.614096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775526:1863011501:0389/pct:34.180267,44.354501,11.999258,15.464061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -918,7 +921,7 @@ or for lameness, etiff-ncck, fec.
   
 5
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198016:1863110501:0571/pct:121.568365,59.255735,20.670241,66.064066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198016:1863110501:0571/pct:81.072386,39.517919,13.780161,44.063855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -992,7 +995,10 @@ surpasses it, if so good. Germantown Tele­
 graph.  
   
 Monroe Teachers
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001839%2F1863112701%2F0158.jp2/pct:81.484532,67.023639,12.177375,12.929799/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1035,7 +1041,10 @@ salt and sugar.
 If this receipt&quot; is,. properly; trid,&#x27;it  
 will never be abandoned. There is none  
 that surpasses it; if so good.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_averruncus_ver01%2Fdata%2Fsn88080881%2F000001993%2F1863112801%2F0185.jp2/pct:64.098958,47.439394,12.848958,18.738636/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1138,7 +1147,7 @@ never be abandoned. There is none that
 surpasses it, if so good.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195234:1863121001:0206/pct:83.645975,42.960979,19.321282,20.071410/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195234:1863121001:0206/pct:62.755798,32.223922,14.495225,15.072686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1196,7 +1205,10 @@ surpasses it, if so good.—Germantown
 2 deraph.  
   
 Wonderful increase o
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_cybele_ver01%2Fdata%2Fsn84026518%2F000002095%2F1863122301%2F0189.jp2/pct:29.777100,52.351467,12.698853,26.209735/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1224,7 +1236,7 @@ which time it should be slightly sprinkled with
 powdered saltpetre, which remove* all the sur­  
 face
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174348:1863122501:0004/pct:66.222962,46.780844,14.929663,7.315784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174348:1863122501:0004/pct:66.207835,46.770272,14.929663,7.315784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1279,7 +1291,10 @@ surpasses it, if so good
 For* a Sore Theoat. —The best remedy we  
 havei found for Asore . throat * is, on retiring to  
 r6st, to : rub‘ on the outside
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fufluns_ver02%2Fdata%2F2018264050%2F000002744%2F1863123101%2F0100.jp2/pct:44.113636,8.633929,12.113636,1.446429/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1302,7 +1317,10 @@ or two can be gotf chejtply &#x27;at the druggist’s;
 Rub it on withtheAijgers. We find nothing  
 better than  
 joints, or for laraenes
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fufluns_ver02%2Fdata%2F2018264050%2F000002744%2F1863123101%2F0100.jp2/pct:44.056818,9.645833,12.189394,6.187500/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1382,7 +1400,7 @@ If this receipt is properly tried it will
 never be abandoned. There is none that ]  
 surpasses if, if so good.— O&#x27;er. Telegraph j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn88065733:00415625649:1864010801:0431/pct:10.093168,33.415021,22.271517,22.329537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn88065733:00415625649:1864010801:0431/pct:7.808341,25.890154,17.280390,17.312959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1631,7 +1649,7 @@ nercr be abandoned. There is none that
 surpasses it, if so good.—Germantown Tele­  
 graph.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174348:1864120101:0196/pct:54.633152,80.534311,12.160326,13.441592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174348:1864120101:0196/pct:54.619565,80.513358,12.160326,13.441592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1702,7 +1720,10 @@ for.at least two- days after . killing, :during .
 which time it should be slightly sprinkled  
 .with powdered saltpetre, which removes all  
 the surface blood, &amp;c , leaving the mea
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002352%2F1864121001%2F0200.jp2/pct:83.741453,63.168973,10.498489,9.443483/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1740,7 +1761,7 @@ never be abandoned. There is none that!
 surpasses it, it so good.— Germantown!  
 Telegraph,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625479:1864121601:0178/pct:8.324662,71.469991,18.772112,21.064077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625479:1864121601:0178/pct:6.451613,55.392867,14.547347,16.323572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1780,7 +1801,7 @@ er bo abandoned. There is none that sur­
 passes it, if so good. GermantowH le.lt­  
 graph.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85034406:00296026700:1864122101:0112/pct:58.156699,76.133051,16.597275,17.134906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85034406:00296026700:1864122101:0112/pct:43.622256,57.103101,12.452687,12.854492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1958,7 +1979,7 @@ petre, which removes alt the surface blood, &amp;c., i
 leaving the meat fresh and clean.  
 Some omit boiling the pickl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_eos_ver01:data:sn83021205:00517171712:1865110601:1055/pct:39.421378,75.654931,16.519435,8.977140/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_eos_ver01:data:sn83021205:00517171712:1865110601:1055/pct:30.543286,58.618388,12.809187,6.974804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2007,7 +2028,7 @@ throwing off the dirt, always to ba foutid
 in salt and sugar,  
 House Thief Arueste
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn89066162:00200292479:1865113001:0538/pct:30.115512,88.001210,18.234323,16.053866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn89066162:00200292479:1865113001:0538/pct:22.586634,66.000908,13.675743,12.059313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2106,7 +2127,7 @@ pickle by throwing off the dirt always to be
 found in salt and sugar.  
 The Tim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525218:1865121301:0115/pct:3.197158,65.441545,11.077022,10.210738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525218:1865121301:0115/pct:3.181011,65.429002,11.077022,10.210738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2226,7 +2247,7 @@ properly tried, it will never be abandoned. There
 is none that surpasses it, if so good. German.  
 Te
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SouthFFR2n_ver01%2Fdata%2F1865123001%2F0150.jp2/pct:95.980047,30.485708,25.968310,20.148291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SouthFFR2n_ver01%2Fdata%2F1865123001%2F0150.jp2/pct:71.992371,22.866968,19.468897,15.108532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2285,7 +2306,7 @@ will never be abandoned. There is none
 that surpasses it, if so good.  
 tf 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn84023428:00202197425:1866010301:0270/pct:10.067397,75.821830,19.966302,36.018215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn84023428:00202197425:1866010301:0270/pct:7.561078,56.894834,14.974726,27.038566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2392,7 +2413,7 @@ these evils must be avoided, when a little
 attention and observation will enable the  
 farmer to do it. Rural AJ&#x27;airs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:0023728687A:1866011001:0093/pct:95.134543,117.500300,14.205257,6.765023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:0023728687A:1866011001:0093/pct:71.386108,88.161209,10.653942,5.073768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2523,7 +2544,10 @@ found hi salt and sugar.
 If thls recipe is pro Orly tried it will  
 never be abandoned. There is none that  
 surpasses it, If so good.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_annona_ver01%2Fdata%2Fsn83032044%2F000001940%2F1866102901%2F0089.jp2/pct:43.677694,61.910192,12.609093,14.244476/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2548,7 +2572,7 @@ There is none that surpasses it, if so good
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1866-11-10_15_20/page/n2/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1866-11-10_15_20/page/n2/mode/1up?view=theater)
 
 #### 1866-11-10 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2638,7 +2662,7 @@ There is none that surpasses it, if so good.
 Cream in Cold Weather.  
 For some reason not yet known,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186968:1866111501:0269/pct:80.370894,44.139624,14.600031,4.067037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186968:1866111501:0269/pct:80.355178,44.128950,14.600031,4.067037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2776,7 +2800,7 @@ be well covered with pickle, aud should not
 be down for at least two days alter killing,  
 during which
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624517:1866112401:0704/pct:39.186377,79.847086,16.140019,8.424697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624517:1866112401:0704/pct:30.368969,61.872475,12.488174,6.520485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2813,7 +2837,7 @@ If this recipe is properly tried, it will never be
 abandoned. There is none that surpasses it, if  
 any so good.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952522A:1866112401:0587/pct:36.741425,76.275828,11.510554,7.903908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952522A:1866112401:0587/pct:36.724934,76.250934,11.510554,7.903908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3227,7 +3251,7 @@ Telegraph.
   
 A Fact ron o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077540A:1867120501:0814/pct:9.259928,67.602041,16.299639,13.321995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077540A:1867120501:0814/pct:6.949458,50.722789,12.238267,10.005669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3260,7 +3284,10 @@ boiling the pickle, and find it to answer;
 though the operation of boiling purifies  
 the pickle by throwing off the dirt al­  
 ways to be found in salt and sugar.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_annona_ver01%2Fdata%2Fsn83032044%2F000001941%2F1867120601%2F0190.jp2/pct:38.559050,73.421549,11.275139,10.629025/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3332,7 +3359,7 @@ it is purified—for the amount of dirt which
 is thrown off by the operation, from the salt  
 and suga
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349499:1868100901:0032/pct:80.595956,18.802566,12.238382,12.202423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349499:1868100901:0032/pct:80.578219,18.788311,12.238382,12.202423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3412,7 +3439,7 @@ s
   
 UMMER GOODS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054846:00212477679:1868120301:0512/pct:15.830450,11.654299,29.584775,23.461371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054846:00212477679:1868120301:0512/pct:11.880046,8.740725,22.188581,17.612396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3530,7 +3557,10 @@ found in salt and sugar.
 If this receipt is properly tried, it  
 will never bo abandoned.&#x27; There is  
 none that surpasses it, if so good.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001955%2F1868122301%2F0185.jp2/pct:62.400459,59.743004,8.954824,13.057634/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3602,7 +3632,7 @@ relegraph.
   
 Rules to Keep a Farmer Poor.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775411:1869110401:0239/pct:112.616822,77.499010,14.819760,13.508517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775411:1869110401:0239/pct:84.495995,58.153968,11.114820,10.128087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3731,7 +3761,7 @@ in salt and sugar. If this recipe Is proper­
 ly tried, it will never be abandoned. There  
 is none that surpasses it. If auy as good.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895011:1870042801:0279/pct:16.858840,74.928542,11.146052,9.759085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895011:1870042801:0279/pct:16.841370,74.914931,11.146052,9.745474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4047,7 +4077,7 @@ never be abandoned. There is none that
 surpasses it, if so good.  
 Perfect C
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349499:1870111101:0450/pct:84.266794,13.486425,11.297271,20.781528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349499:1870111101:0450/pct:84.250838,13.473738,11.297271,20.781528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4278,7 +4308,7 @@ Kittle and Will.
 BT XU M. B. BCBK.  
 There a b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200294580:1870112401:0640/pct:95.835411,9.760900,25.735661,119.474918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200294580:1870112401:0640/pct:71.907731,7.323019,19.301746,89.639006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4329,7 +4359,7 @@ never be abandoned. There is none that
 surpasses it, or is so good.  
 More thin half of all tho wea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:0029455564A:1870112401:0133/pct:74.594395,52.656533,15.652655,23.678706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:0029455564A:1870112401:0133/pct:55.955015,39.492400,11.744100,17.766002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4397,7 +4427,7 @@ iperation of boiling purifies the pickle by
 blowing off the dirt always to be found in  
 ;a 11 aud sugar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348446:1870112401:0386/pct:82.809291,70.229183,12.039817,11.896810/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348446:1870112401:0386/pct:82.793490,70.217667,12.039817,11.885293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4430,7 +4460,10 @@ throwing off the dirt always to be found
 in salt and sugar.  
   
 DAN OEROtt
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_cupid_ver01%2Fdata%2Fsn83032076%2F000002084%2F1870112501%2F0183.jp2/pct:32.196861,11.471875,8.507344,9.418750/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4667,7 +4700,7 @@ operation of boiling purifies the pickle
 by tbhrowing off the dirt always to be  
 found in salt and sugar.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84023142:00517015982:1870121001:0226/pct:10.231023,15.956063,18.894389,29.007082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84023142:00517015982:1870121001:0226/pct:7.920792,12.357277,14.645215,22.488799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4732,7 +4765,7 @@ it will never be abandoned. There
 is none that surpasses it, if so good.  
 Milkin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_evart_ver01:data:sn85033781:00296023735:1870121201:0005/pct:64.122356,14.821727,24.656947,62.105884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_evart_ver01:data:sn85033781:00296023735:1870121201:0005/pct:42.753002,9.881151,16.437965,41.410470/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4812,7 +4845,7 @@ so good.
 Water-tight Cellar Floors.  
 When floors
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038238:00296028812:1871011901:0108/pct:51.893939,60.514969,14.409722,17.198472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038238:00296028812:1871011901:0108/pct:38.920455,45.386226,10.811237,12.898854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4890,7 +4923,7 @@ abandoned. There is none that surpass It. if so
 good.*  
 HOW TO CL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524652:1871012601:0431/pct:16.686654,67.633278,12.609217,10.902875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524652:1871012601:0431/pct:16.669522,67.620615,12.609217,10.890211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4941,7 +4974,7 @@ Warp.
 Green For three pounds of warp,  
 take one pound of fustic,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028821:00280775484:1871012601:0168/pct:114.423741,26.712693,13.026225,21.043548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028821:00280775484:1871012601:0168/pct:85.817805,20.034519,9.782609,15.785980/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5129,7 +5162,7 @@ There is none
 surpass it, if as  
 ood.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalCA24n_ver01%2Fdata%2F1871030101%2F0032.jp2/pct:26.533651,10.692406,29.064920,118.552768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalCA24n_ver01%2Fdata%2F1871030101%2F0032.jp2/pct:19.907683,8.022194,21.798690,88.937695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5251,7 +5284,7 @@ though the boiling purifies the pickle
 bv throwing olf the dirt always to be  
 found in salt and sugar.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_evart_ver01:data:sn85033781:00296023735:1871050501:0381/pct:36.063072,54.507896,20.142421,22.319133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_evart_ver01:data:sn85033781:00296023735:1871050501:0381/pct:24.046287,36.347778,13.428281,14.882483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5393,7 +5426,7 @@ surpass it, if so good
   
 Grindin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524652:1871091401:0563/pct:3.073624,60.250660,11.329521,13.364116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524652:1871091401:0563/pct:3.055754,60.237467,11.329521,13.364116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5441,7 +5474,7 @@ tiioogh tho operation of boiling puriiies
 tuo pickle by throwing off the dirt  
 alwavs to be found in salt and sugar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat28n_ver01%2Fdata%2F1871110901%2F0585.jp2/pct:103.098351,42.560118,16.301876,21.505828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat28n_ver01%2Fdata%2F1871110901%2F0585.jp2/pct:77.359295,31.933214,12.222854,16.129371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5476,7 +5509,7 @@ If this rceipt Is properly tried, it will •
 never he abandoned. There is none that i  
 surpass it if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624530:1871111101:0275/pct:49.933021,86.613595,15.036839,11.512554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624530:1871111101:0275/pct:38.697254,67.127985,11.654387,8.916105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5523,7 +5556,7 @@ tion of boiling purifies the pickle by
 throwing off the uirt always to be found  
 |a salt or sugar.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348446:1871111601:0582/pct:82.411067,12.398060,12.131347,20.674454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348446:1871111601:0582/pct:82.395865,12.387040,12.131347,20.674454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5601,7 +5634,7 @@ find it to answer well; though the boil­
 ing purifleB the pickle by throwing off  
 the dirt always to bo fouud i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028193:00296028988:1871120901:0093/pct:47.835561,113.938805,12.972109,13.999514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028193:00296028988:1871120901:0093/pct:35.894829,85.490529,9.732714,10.502671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5889,7 +5922,10 @@ sugar.
 If this receipt is properly tried, it  
 \yin never be &#x27;abandoned. There is  
 none that surpass it, if sp good.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aerecura_ver01%2Fdata%2Fsn84024558%2F000001807%2F1872120501%2F0192.jp2/pct:6.331925,68.138184,9.547043,14.348779/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5925,7 +5961,7 @@ never be abandoned. There is none that
 surpass it, if so good.—Ed. Germantown  
 Telegraph.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349505:1872121301:0398/pct:86.071195,26.171369,11.561071,12.658556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349505:1872121301:0398/pct:86.054866,26.158426,11.561071,12.658556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5962,7 +5998,7 @@ If this receipt is properly tried, it will
 ie »er be abandoned There is none that  
 surpasses it. if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524664:1872121901:0207/pct:3.561181,86.220521,11.443038,9.099889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524664:1872121901:0207/pct:3.544304,86.195827,11.443038,9.099889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6086,7 +6122,7 @@ will answer; put in the apples, cover and
 fry till soft; then remove the cover and  
 brown them nicely
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895904:1873110501:0124/pct:80.721995,45.628726,12.839598,4.527391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895904:1873110501:0124/pct:80.703387,45.614533,12.839598,4.527391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6110,7 +6146,7 @@ If this recipe is properly tried, it will
 never be abandoned- There is norm  
 that surpasses it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348458:1873110601:0380/pct:83.585353,77.957626,11.969393,6.764048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348458:1873110601:0380/pct:83.567134,77.931307,11.969393,6.764048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6132,7 +6168,7 @@ by throwing off the dirt always found
 in salt and sugar. If this recipe is  
 properly tried, it will never beabandoned.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775794:1873110701:0080/pct:102.078240,123.056685,12.729218,6.230567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775794:1873110701:0080/pct:76.573961,92.322411,9.550733,4.675915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6164,7 +6200,7 @@ face blood, See., leaving the meat fresh pnd
 clean. Some omit boiling the pickle, and  
 find it to answer well
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCGazFay1n_ver01%2Fdata%2F1873112001%2F0062.jp2/pct:2.861538,115.353679,18.876923,14.383724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCGazFay1n_ver01%2Fdata%2F1873112001%2F0062.jp2/pct:2.153846,86.527088,14.153846,10.799621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6262,7 +6298,7 @@ found in salt and sugar. If this recipe is
 properly tried, it will never be abandoned.  
 There is none that surpasses it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283624:1873120401:0392/pct:7.078584,79.603782,13.737253,14.520486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283624:1873120401:0392/pct:5.308938,59.714093,10.317936,10.895993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6326,7 +6362,7 @@ superiority over the common way of
 putting down meat.  
 m 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1874103101:0054/pct:19.037308,42.594676,14.223851,18.560180/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1874103101:0054/pct:14.756829,33.008374,10.992672,14.398200/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6436,7 +6472,7 @@ require only a single trial to prove its
 superiority over the common way or  
 most ways of putting down meat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776671:1874112501:0237/pct:70.260989,46.690734,14.337225,15.135713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776671:1874112501:0237/pct:52.712912,35.018051,10.765797,11.365156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6514,7 +6550,7 @@ tud sugar- If this receipt is st«icily fol-*
 prove its superiority over the common  
 way or most ways of putting down meat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349517:1874121801:0398/pct:86.001307,35.478807,11.450506,12.192569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349517:1874121801:0398/pct:85.984972,35.465725,11.450506,12.192569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6552,7 +6588,7 @@ trial to prove its superiority over the com­
 mon way or most wrays of putting down  
 meat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCGazFay1n_ver01%2Fdata%2F1874122401%2F0284.jp2/pct:57.885999,9.146341,16.906475,19.704155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCGazFay1n_ver01%2Fdata%2F1874122401%2F0284.jp2/pct:43.414499,6.865402,12.700609,14.780939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6584,7 +6620,7 @@ ly followed, it will require only a single trial to
 proro its superiority over the common way or  
 most ways of putting down meat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292170:1875010101:0639/pct:57.425000,64.324230,22.525000,16.002783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292170:1875010101:0639/pct:43.100000,48.286659,16.900000,12.002087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6623,7 +6659,10 @@ cipe is strictly followed, it will require
 only a single trial to prove its superiority  
 over the common way or most ways of put­  
 ting down meat
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_egeria_ver01%2Fdata%2Fsn83032115%2F000002299%2F1875010601%2F0004.jp2/pct:6.576305,68.823610,11.080686,15.564229/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6655,7 +6694,7 @@ the opei at ion of boiling purifies the pickie
 by throwing oil the dirt always lobe found  
 iu salt aud auga!. If this recipe i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895382:1875110401:0179/pct:17.386686,24.779679,11.614731,10.018144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895382:1875110401:0179/pct:17.368980,24.766719,11.614731,10.018144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6720,7 +6759,7 @@ Farming is a game of chance, and, in
 fact, one&#x27;s whole life is a game of  
 c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919921:1876120701:0389/pct:58.686973,12.210308,12.597959,32.203390/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919921:1876120701:0389/pct:49.874316,10.377032,10.720095,27.372305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6762,7 +6801,7 @@ meat, and will not soon be abandoned for
 any other. The meat is unsurpassed for  
 sweetness and delicacy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775204:1876122901:0149/pct:109.125164,81.781963,14.646134,13.751056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775204:1876122901:0149/pct:81.880734,61.366655,10.992792,10.310274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6851,7 +6890,7 @@ not soon be abandoned for any other.
 I he meat is .unsurpassed for sweet-  
 ness,aeiicac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewBerNB4n_ver01%2Fdata%2F1877012001%2F0009.jp2/pct:27.495517,48.672748,21.727436,8.322230/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewBerNB4n_ver01%2Fdata%2F1877012001%2F0009.jp2/pct:20.621638,36.507123,16.303048,6.241673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6891,7 +6930,7 @@ tion of boiling purifies the pickle by
 throwing off the dirt alwajs to be  
 found in salt and sugar.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:00237281871:1877020101:0416/pct:9.115783,38.655557,40.020161,38.756897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:00237281871:1877020101:0416/pct:6.840438,28.994483,30.011521,29.084563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6937,7 +6976,7 @@ operation of boiling purifies the pickle by
 throwing off the dirt always to be found in  
 salt and sugar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525425:1877020501:0102/pct:4.862579,81.917316,10.993658,13.541043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525425:1877020501:0102/pct:4.846316,81.893349,10.993658,13.541043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7012,7 +7051,7 @@ putting down meat, and will not soon
 meat is unsuroasiscd for sweetness,  
 ( delicacy and freshness ol color
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn84037890:00280763585:1877040401:0350/pct:47.875000,8.999031,30.553571,115.533712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn84037890:00280763585:1877040401:0350/pct:35.910714,6.756195,22.928571,86.681434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7152,7 +7191,7 @@ down meat, and will not soon be abandoned
 for any other. Tho meat is unsurpassed for  
 sweetness, ueucac&#x27; anil freshness of color.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777389:1877112301:0907/pct:7.113821,70.290395,14.726534,13.373045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777389:1877112301:0907/pct:5.339985,52.717796,11.049520,10.037230/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7196,7 +7235,7 @@ clean. Some omit boiling the pickle, and
 find it to answer well, though the operation  
 of boilin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1878011701:0223/pct:84.357097,72.125307,11.155315,9.705160/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1878011701:0223/pct:84.341184,72.113022,11.155315,9.692875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7297,7 +7336,7 @@ beat the whites of the eggs until light,
 add to the cake, alternately with the  
 flour. Bake in pans as for jelly cake.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775204:1878032201:0432/pct:68.087558,75.036461,14.055300,26.944579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775204:1878032201:0432/pct:51.086241,56.295576,10.549704,20.223627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7404,7 +7443,7 @@ any other. The meat is unsurpassed
 for sweetness, delicacy und freshness  
 of color.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237285190:1878103101:0502/pct:66.684128,31.857001,14.628078,23.932473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237285190:1878103101:0502/pct:50.026192,23.892751,10.974332,17.964250/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7485,7 +7524,7 @@ If tins recipe is strictly followed, it
 will require only a single trial to  
 prove it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919933:1878121201:0403/pct:8.450292,26.769887,12.485380,15.954224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919933:1878121201:0403/pct:7.397661,23.426456,10.921053,13.945922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7532,7 +7571,7 @@ The meat is unsurpassed for sweet­
 ness, delicacy and freshness of color.  
 —G
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_albert_ver01:data:sn96027724:00271766294:1878122501:0262/pct:96.391304,56.977964,20.086957,33.833009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_albert_ver01:data:sn96027724:00271766294:1878122501:0262/pct:74.695652,44.161295,15.565217,26.202968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7573,7 +7612,7 @@ be abandoned for any other. The meat
 is unsurpassed for sweetness, delicacy  
 and freshness of color. Gcrmantown
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn90069164:00280776828:1878123101:0865/pct:10.689311,20.160761,22.377622,23.900919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn90069164:00280776828:1878123101:0865/pct:8.016983,15.124672,16.783217,17.929790/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7612,7 +7651,7 @@ other. The meat is unsurpassed for
 sweetness, delicacy and freshness of  
 color. 11&#x27;&lt; rma//(own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn85033474:00514151143:1879100301:0886/pct:34.202212,40.742764,14.481306,13.762971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn85033474:00514151143:1879100301:0886/pct:34.175882,40.724559,14.481306,13.762971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7746,7 +7785,7 @@ sweetness, delicacy and freshness of
 color.  
 Fre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_adam_ver02:data:sn84026526:0029587966A:1879120401:0672/pct:78.529219,91.053258,16.250821,22.043082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_adam_ver02:data:sn84026526:0029587966A:1879120401:0672/pct:58.913329,68.309766,12.196323,16.545527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8001,7 +8040,7 @@ graph.
   
 e -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020539:1879122501:0632/pct:47.420524,56.193978,13.455103,23.546311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020539:1879122501:0632/pct:35.582822,42.162721,10.094813,17.674098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8108,7 +8147,10 @@ down meat, and gill not soon -be
 abandoned for any Other. The meat  
 is unsurpassed foi sweetness, delicacy  
 and fresknes4 of col&#x27;or.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aerecura_ver01%2Fdata%2Fsn84024558%2F000001815%2F1880011501%2F0012.jp2/pct:84.436313,15.684889,9.950171,17.936118/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -8184,7 +8226,7 @@ bleed, etc., leaving the meat fresh and
 clean. Seme emit boiling the pickle, and  
 find it te answer well, though the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282255:1880102801:0407/pct:76.553583,55.596007,16.249207,15.173224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282255:1880102801:0407/pct:57.435003,41.714621,12.190869,11.379918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8354,7 +8396,7 @@ other. The meat is unsurpassed for
 sweetness, delicacy and fjjgjhtiess of  
 color.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn85038603:00415662142:1880112001:0424/pct:57.046632,82.158153,14.715026,18.813329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn85038603:00415662142:1880112001:0424/pct:42.784974,61.621226,11.049223,14.112608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8394,7 +8436,7 @@ not be put down for at least two days
 after killing, during which .time it  
 should be slightly sprinkle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85026421:00415669215:1880112501:0758/pct:40.556369,113.645093,16.105417,12.972921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85026421:00415669215:1880112501:0758/pct:27.037579,75.772998,10.736945,8.661417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8522,7 +8564,7 @@ abandoned for any other. The meat is u -
 sari assed for sweetness, delicacy of fresh­  
 ness and color.—Ο
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00279525498:1880120101:0370/pct:6.318153,44.198962,10.840282,8.040565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00279525498:1880120101:0370/pct:6.302117,44.186889,10.840282,8.040565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8585,7 +8627,7 @@ the sugar rises to the top and is
 skimmed off. Then throw it into a tub  
 t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919945:1880120201:0427/pct:43.818002,91.291291,12.166172,6.161717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919945:1880120201:0427/pct:38.335453,79.879880,10.640102,5.394283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8629,7 +8671,7 @@ The meat is unsurpassed for sweetness, del­
 icacy and freshness of color.  
 Suboidinate Gr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn87007277:00415662178:1880120401:0032/pct:27.072072,67.356288,19.662162,29.407418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn87007277:00415662178:1880120401:0032/pct:20.315315,50.554160,14.774775,22.077730/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8729,7 +8771,7 @@ is unsurpassed for sweetness,
 delicacy and freshness of eo  
 lor”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:2018270504:00383343562:1880121101:0074/pct:73.940345,51.546012,10.423862,25.926380/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:2018270504:00383343562:1880121101:0074/pct:73.924647,51.533742,10.423862,25.926380/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8777,7 +8819,7 @@ ly keep it. (lennantoirn Tele.
 TREATMENT OF COLPS AND CROUT.  
 Wo believe in &quot;every one to his trad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777390:1880121701:0667/pct:38.721528,88.179566,14.511389,19.530681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777390:1880121701:0667/pct:29.041146,66.171112,10.911095,14.662586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8833,7 +8875,10 @@ ting down meat, and will not SOQII
 be abandoned for any Other. The  
 meat is unsurpassed for sweetnes4  
 delicacy and freshness of color;,
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aerecura_ver01%2Fdata%2Fsn84024558%2F000001815%2F1880123001%2F0188.jp2/pct:86.029840,80.159195,9.865357,12.042023/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -8908,7 +8953,7 @@ always to be found in salt and sugar. If
 this receipt s strictly followed, it will require  
 only a single trial to prove it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529601:1881012701:0022/pct:6.113399,63.061625,10.912258,6.641296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529601:1881012701:0022/pct:6.097561,63.049349,10.912258,6.641296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8952,7 +8997,7 @@ dered saltpetre, which removes all the
 surface-blood, fts., leaving the meat  
 fresh and olean.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn86053402:00280779283:1881012801:0878/pct:10.180505,23.194863,15.884477,21.189883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn86053402:00280779283:1881012801:0878/pct:7.635379,17.402700,11.913357,15.895689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9091,7 +9136,7 @@ any ether. The meat is unsurpassed for
 sweetness, delicacy and fresbness of color.  
 Saving th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282279:1881111001:0455/pct:8.295964,21.088676,16.479821,22.611879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282279:1881111001:0455/pct:6.229981,15.822411,12.363869,16.955957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9237,7 +9282,7 @@ ual says : Among the many
 inducements offered in the  
 various branche
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:2018270504:00383343562:1881121701:0227/pct:15.902285,5.131031,21.859732,90.509429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:2018270504:00383343562:1881121701:0227/pct:15.886525,5.118785,21.859732,90.497183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9381,7 +9426,7 @@ I Spanish onions, fry them in but­
 i remove from the pan and drain  
 i on a hair sieve. This done, pu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_harlow_ver01:data:sn86092348:00517011290:1899033101:0302/pct:84.982031,53.454649,12.634765,14.060279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_harlow_ver01:data:sn86092348:00517011290:1899033101:0302/pct:84.963117,53.440432,12.634765,14.060279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9402,7 +9447,7 @@ sure to keep the water as hot as
 possible.  
 T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_harlow_ver01:data:sn86092348:00517011290:1899041401:0310/pct:86.565734,87.269053,12.246071,5.167436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_harlow_ver01:data:sn86092348:00517011290:1899041401:0310/pct:86.546570,87.240185,12.246071,5.167436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

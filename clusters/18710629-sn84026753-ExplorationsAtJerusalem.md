@@ -2075,7 +2075,10 @@ o
 EVERY man who does a great work be­  
 lieves, as effective reformers always be­  
 lieved, that one with God is a majority.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_egeria_ver01%2Fdata%2Fsn83032115%2F000002295%2F1871080901%2F0120.jp2/pct:37.905922,96.651674,11.138968,1.544682/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 

@@ -46,7 +46,7 @@ Mexico. Arizona, and California. Free
 descriptive literature. W. J. Black, G.  
 P. A., A. T. &amp;. S. F. Ry., Topeka, Kan.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897040801:0528/pct:65.432836,105.846054,18.298507,15.492043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897040801:0528/pct:43.626866,70.574862,12.208955,10.338855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ Mexico, Arizona, and California. Free
 descriptive literature. W. J. Black, G.  
 P. A., A. T. &amp; S. F. Ry., Topeka, Kan.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897040901:0542/pct:7.888422,10.994595,38.242352,49.664865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897040901:0542/pct:5.263947,7.329730,25.494901,33.124324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ descriptive literature. W. J. Black, G.
 P. A., A. T. &amp; S. F. Ry Topeka, Kan.  
 Unconditional surrender, is th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871350:1897041001:0073/pct:22.897527,99.215264,16.696113,23.711340/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871350:1897041001:0073/pct:17.173145,74.426835,12.526502,17.802739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ ail ladies who appreciate the latest in
 hats and trimmings. Music by Mandolin  
 club and Professor Blume. 125-2t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897041101:0558/pct:27.411624,105.925447,18.304374,5.203620/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897041101:0558/pct:18.274416,70.620556,12.207909,3.479853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -308,7 +308,7 @@ P. 1L ANDERSON,
 W. S. MITCHELL.  
 Committee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897041301:0570/pct:8.902878,112.139540,18.525180,26.190733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897041301:0570/pct:5.935252,74.770494,12.350120,17.464089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -358,7 +358,7 @@ P. M. ANDERSON,
 &quot;W. S. MITCHELL.  
 Committee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897041401:0578/pct:7.522659,113.181378,18.504532,27.072358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897041401:0578/pct:5.015106,75.465004,12.341390,18.051822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ arrived yesterday. It Is the old home
   
 stead of the family.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmMess19n_ver01%2Fdata%2F1897041501%2F0359.jp2/pct:81.807131,114.999440,13.897893,7.818976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmMess19n_ver01%2Fdata%2F1897041501%2F0359.jp2/pct:61.358725,86.266383,10.426796,5.869833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ passage on board the Werra at Gibraltar,
 died on board shortly before noon to-day.  
 He was a native of Lynchburg, Va
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182203:1897041501:1025/pct:18.933383,60.745109,16.368334,11.119102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182203:1897041501:1025/pct:14.670603,47.079977,12.696069,8.601841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ llraneli of the K. S. Dean Concern.
 WASHINGTON, April 14. Another of the  
 agents of the late 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665659:1897041501:0441/pct:61.701653,79.697202,16.279589,10.938164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665659:1897041501:0441/pct:46.292988,59.794165,12.215275,8.207876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -686,7 +686,7 @@ A ear load of horses from Red Dak,
 la., has arrjyed flfeere.; . If ts the,’, old  
 homestead of the family
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn93058748:00517171529:1897041601:0163/pct:89.469371,88.415172,16.103258,5.865922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn93058748:00517171529:1897041601:0163/pct:69.330055,68.523964,12.497439,4.542782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -734,7 +734,7 @@ appointed a committee by Wichita Coun­
 cil, No 39, United Commercial Travelers,  
 to arrange for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897041701:0604/pct:7.221890,98.238642,18.271531,4.865213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897041701:0604/pct:4.814593,65.513908,12.186005,3.243475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -767,7 +767,7 @@ Mexkn. Arizona, and California. Frc
 desciiptiv literature. W J Black. G.  
 P A., A. T. Sz S. F. Ry.. Topek. Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897041701:0604/pct:83.492823,109.966706,18.899522,13.607561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897041701:0604/pct:55.681818,73.343357,12.604665,9.075287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -819,7 +819,7 @@ Mexico. Arizona, and California. Free
 descriptive literature. W. J. Black. G.  
 P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871350:1897042001:0137/pct:93.706048,96.414464,16.807314,23.761775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871350:1897042001:0137/pct:70.323488,72.348830,12.605485,17.836524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -915,7 +915,7 @@ Mexico. Arizona, and California. Free
 desctiptlve literature. W. J. Black. G.  
 P. A., A. T. &amp; S. F. Ry.. Topeka. Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897042101:0632/pct:105.000000,13.097402,18.933934,13.428846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897042101:0632/pct:70.000000,8.735165,12.627628,8.949000/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -968,7 +968,7 @@ Consul at Cadiz, died last week in
 New York. He was a native of  
 Lynchburg, Va
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_glycine_ver01:data:sn89053987:print:1897042101:0352/pct:27.801372,46.414073,21.267560,9.539919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_glycine_ver01:data:sn89053987:print:1897042101:0352/pct:27.768703,46.391520,21.267560,9.539919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1149,7 +1149,7 @@ C. W. Spalding, president of the
 defunct Globe Savings bank of Chi  
 cago, owe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:0020219705A:1897042301:0132/pct:25.153374,19.596151,16.372699,4.146903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:0020219705A:1897042301:0132/pct:18.865031,14.703889,12.289110,3.103402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1182,7 +1182,7 @@ free trial at J. K. Jones- drug store.oth
 and Kansas avenue. Regular si3e 50c  
 and S1.0
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871350:1897042401:0167/pct:23.268551,111.021264,16.590106,12.084456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871350:1897042401:0167/pct:17.455830,83.273435,12.455830,9.074573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1218,7 +1218,7 @@ Mexico, Arizona, and California. Free
 descriptive literature. W. J. Black, G.  
 P. -V. A. T. &amp; S. F. Ry.. Topeka. Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897042401:0008/pct:91.999404,8.598930,30.378427,132.770053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897042401:0008/pct:61.337902,5.732620,20.247318,88.524064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1256,7 +1256,7 @@ Mexico, Arizona, and California. Free
 desciiptive literature. &quot;W. J. Black, G.  
 P. A., A.;y. &amp; S. F. Ry.. Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897042501:0018/pct:27.080838,9.912819,36.482036,133.720805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897042501:0018/pct:18.053892,6.608546,24.326347,89.161554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1290,7 +1290,7 @@ Mexico, Arizona, and California. Free
 descriptive literature. &quot;W. J. Black, G.  
 P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897042701:0028/pct:64.045779,11.234143,18.356124,13.609976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897042701:0028/pct:42.702140,7.493012,12.247325,9.073318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1323,7 +1323,7 @@ Mexico, Arizona, and California. Free
 descriptive literature. &quot;W. J. Black, G.  
 P. A., A. T. &amp; S. F. Ry Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897042801:0036/pct:65.161002,12.423560,18.485391,13.560777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897042801:0036/pct:43.440668,8.282373,12.343470,9.044094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1384,7 +1384,7 @@ descriptive litenitme. W. J. Black. G.
 P. A.. A. T. &amp; S. F. Ky.. Topeka. Kas.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283053:1897042901:0593/pct:13.570465,56.116459,126.972353,73.831885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283053:1897042901:0593/pct:9.052596,37.426626,84.659474,49.236910/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1417,7 +1417,7 @@ Mexico, Arizona, and California. Free
 descriptive literature. W. J. Black. G.  
 P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897042901:0044/pct:103.151135,12.667884,18.578256,13.527452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897042901:0044/pct:68.787336,8.445256,12.380526,9.025465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1483,7 +1483,7 @@ many beautiful spots in Colorado, New
 descriptive literature. W. J. Black. G.  
 P. A, A. T. &amp;. S. F. Ry.. Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897050101:0060/pct:105.051112,13.350477,19.016837,13.489767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897050101:0060/pct:70.069152,8.903889,12.672880,8.989607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1516,7 +1516,7 @@ Mexico, Arizona, and California. Free
 descriptive literature. W. J. Black. G.  
 P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897050401:0080/pct:104.469607,12.146315,18.355185,13.587951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897050401:0080/pct:69.651371,8.101130,12.231824,9.058634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1550,7 +1550,7 @@ Mexico. Arizona, and California. Free
 descriptive literature. W. J. Black. G.  
 P. A, A. T. &amp;. S. F. Ry.. Topeka. Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897050501:0088/pct:103.671642,12.845319,18.373134,13.608513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897050501:0088/pct:69.149254,8.567129,12.253731,9.072342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1596,7 +1596,7 @@ Fe Route offers a facile tranaitleu to
 ataav beantiful spots&#x27; to .Colorado, New  
 atw1m. Arises, and California. Free
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283053:1897050601:0594/pct:28.225806,111.570936,21.757392,33.095493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283053:1897050601:0594/pct:18.817204,74.396480,14.516129,22.059698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1672,7 +1672,7 @@ Topeka, Kas.
 The Scenic Route to California.  
 If you are going to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897050601:0332/pct:56.394389,76.099826,42.966172,61.532211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897050601:0332/pct:37.603135,50.737086,28.650990,41.033082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1705,7 +1705,7 @@ Mexico, Arizona, and California. Free
 descriptive literature. W. J. Black, G.  
 P. A, A. T. &amp;S. F. Ry., Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897050601:0096/pct:103.067847,27.950043,18.274336,13.738157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897050601:0096/pct:68.731563,18.636951,12.182891,9.162360/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1739,7 +1739,7 @@ Mexico, Arizona, and California. Free
 descriptive literature. W. J. Black, G.  
 P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897050701:0104/pct:45.122681,73.946237,18.536804,13.795699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897050701:0104/pct:30.086774,49.301075,12.357870,9.193548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1772,7 +1772,7 @@ Mexico, Arizona, and California. Free
 descriptive literature. W. J. Black, G.  
 P. A, A. T. &amp; S. F. Ry.. Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897050801:0112/pct:82.643027,12.330244,18.310489,13.709851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897050801:0112/pct:55.110250,8.223755,12.216925,9.139901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1831,7 +1831,7 @@ Mexico, Arizona, and California. Free
 desciiptive literature. W. J. Black, G.  
 P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897050901:0122/pct:25.715137,9.027405,37.708582,133.734551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897050901:0122/pct:17.148391,6.018270,25.134088,89.167114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1897,7 +1897,7 @@ Mexico, Arizona, and California. Free
 descriptive literature. W. J. Black, G.  
 P- A-, A. T. ft S. F. Ry., Topeka. Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897051201:0140/pct:103.654189,11.491285,18.404635,13.535614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897051201:0140/pct:69.102793,7.660856,12.269756,9.027329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1980,7 +1980,7 @@ Free descriptive literature. W. J.
 Black, G. P.A., A.T. &amp;S. F.Railwav,  
 Tupeka, Kas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897051301:0340/pct:56.161826,76.401112,43.547718,65.759611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897051301:0340/pct:37.468880,50.961093,29.024896,43.874479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2013,7 +2013,7 @@ Mexico. Arizona, and California. Free
 descriptive literature. W. J. Black. G.  
 P. A., A. T. &amp; S. F. Ry.. Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897051301:0148/pct:103.125000,12.562922,18.377976,13.558959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897051301:0148/pct:68.779762,8.375281,12.261905,9.039306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2046,7 +2046,7 @@ Mexico. Arizona, and California. Free
 descriptive literature. W. J. Black. G.  
 P. A, A T. &amp; S. F. Ry.. Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897051401:0156/pct:104.176611,13.526310,18.332339,13.590875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897051401:0156/pct:69.465990,9.017540,12.231504,9.060583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2079,7 +2079,7 @@ Mexico. Arizona, and California. Free
 descriptive literature. W. J. Black. G.  
 P. A., A. T. &amp; S. F. Ry., Topeka. Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897051501:0164/pct:103.229167,13.521577,18.392857,13.393713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897051501:0164/pct:68.839286,9.014385,12.261905,8.929142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2115,7 +2115,7 @@ Mexico, Arizona, and California. Free
 descriptive literature. W. J. Black. G.  
 P. A., A. T. &amp; S. F. Ry., Topeka. Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897051801:0184/pct:85.493460,8.825424,18.370987,17.468327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897051801:0184/pct:57.015458,5.883616,12.247325,11.649130/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2291,7 +2291,7 @@ Mexico, Arizona, and California. Free
 descriptive literature. &quot;W. J. Black. G.  
 P. A., A. T. &amp; S. F. Ry Topeka, Ka
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897052001:0200/pct:77.618193,9.792093,24.311789,133.803727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897052001:0200/pct:51.765410,6.528062,16.202873,89.227620/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2397,7 +2397,7 @@ and Kansas avenue. Regular size 50c
 and S1.00  
 Inflammation of the Bowel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871350:1897052501:0372/pct:59.517045,108.529011,16.761364,16.830783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871350:1897052501:0372/pct:44.637784,81.396758,12.588778,12.649599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2431,7 +2431,7 @@ Mexico, Arizona, and California. Free
 descriptive literature. TV&quot;. J. l3ck, G.  
 P. A., A. T. &amp; S. F. Ry.. Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897052501:0236/pct:86.126045,12.857143,18.413978,13.576799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897052501:0236/pct:57.437276,8.571429,12.290920,9.054780/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2470,7 +2470,7 @@ ileIco, Arizona, and California. Free
 descriptive literature. V J. Black, G.  
 P. A., A. T. &amp; S. F. By., Topeka. Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897052601:0244/pct:86.600238,12.767781,18.337299,13.592545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897052601:0244/pct:57.748364,8.515424,12.239738,9.061697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2522,7 +2522,7 @@ descriptive literature. W. J. Black, G,
 P. A., A. T. &amp; S. F. Ky., Topeka, Kas,  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283053:1897052701:0618/pct:115.485830,107.048458,21.373144,36.766282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283053:1897052701:0618/pct:77.007422,71.389451,14.254386,24.514823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2604,7 +2604,7 @@ Free descriptive literature. W. J.
 Black, G. P.A., A.T. &amp;S. F. Railway,  
 Topeka, Ka
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897052701:0357/pct:54.560531,76.680209,43.843284,53.755078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897052701:0357/pct:36.380597,51.120139,29.228856,35.856065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2637,7 +2637,7 @@ and SL.00
 &quot;They are dandles,&quot; said Thos. Bow­  
 er
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871350:1897052701:0390/pct:41.281513,110.578236,16.491597,12.809228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871350:1897052701:0390/pct:30.969888,82.956443,12.377451,9.622097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2670,7 +2670,7 @@ Mexico, Arizona, and California. Free
 desciiptive literature. &quot;W. J. Black. G.  
 P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897052701:0252/pct:86.484468,11.630411,18.533453,13.504200/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897052701:0252/pct:57.661290,7.753608,12.350657,9.002800/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2703,7 +2703,7 @@ Mexico, Arizona, and California. Free
 descriptive literature. &quot;W. J. Black, G.  
 P. A., A. T. &amp; S. F. Ry.. Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897052801:0260/pct:85.170761,12.401196,18.663871,13.469344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897052801:0260/pct:56.785500,8.267464,12.447573,8.983123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2971,7 +2971,7 @@ H- F- Smith, Druggist, Wellington.
 Cash Moore has increased the value  
 of hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897061001:0369/pct:32.549505,132.649493,21.122112,6.411004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897061001:0369/pct:21.699670,88.471850,14.088284,4.277888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2995,7 +2995,7 @@ prices.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897061001:0373/pct:79.278729,44.961512,60.574572,21.903429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897061001:0373/pct:52.852486,29.974341,40.383048,14.602286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3072,7 +3072,7 @@ Black, G. P.A., A.T. &amp;S. F. Railway.
   
 Topeka, Kas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897061001:0373/pct:34.494703,78.446466,42.379788,65.477024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897061001:0373/pct:23.003260,52.297644,28.259984,43.666900/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3139,7 +3139,7 @@ arrivals when I was there averaged 100,
 though the suow* lay so deep that prospecting  
 was impossible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_lachesis_ver01:data:sn83020847:00517171207:1897061101:0901/pct:40.378368,111.933603,16.262182,9.062360/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_lachesis_ver01:data:sn83020847:00517171207:1897061101:0901/pct:31.282247,86.735457,12.612268,7.028563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3186,7 +3186,7 @@ descriptive literature. W. J. Black, G
 F. A., A. T. &amp; S. F. By., Topeka. Kas,  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897061701:0001/pct:115.150502,110.200492,21.304348,32.196037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897061701:0001/pct:76.789298,73.490444,14.197324,21.467933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3221,7 +3221,7 @@ Free descriptive literature. W. J.
 Black, G. P.A., A. T. &amp; S. F. Rail war,  
 Topeka, Kas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897061701:0378/pct:74.440762,85.905410,21.396023,16.124868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897061701:0378/pct:49.627175,57.293745,14.291632,10.749912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3256,7 +3256,7 @@ Free descriptive literature. W. J&quot;.
 Black, G P. A., A. T. &amp; S. F. Ryv  
 Topeka, Ka
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897061801:0405/pct:119.936709,92.598075,21.272855,19.935850/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897061801:0405/pct:79.957806,61.732050,14.187764,13.311128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3309,7 +3309,7 @@ descriptive literature. W. J. Black, G
 P. A., A. T. &amp; S. F. By., Topeka, Kas.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897062401:0009/pct:115.305445,98.909603,21.198539,44.225583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897062401:0009/pct:76.875830,65.939735,14.126826,29.499355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3344,7 +3344,7 @@ Free descriptive literature. W. J.
 Black, G. P. A., A. T. &amp; S. F. Rallwar,  
 Topeka, Kas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897070101:0397/pct:77.000825,10.091957,21.328383,15.725760/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897070101:0397/pct:51.361386,6.727971,14.212046,10.487720/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3396,7 +3396,7 @@ Free descriptive literature. W. J.
 Black, G. P. A., A.T. &amp;S. F.Railwav,  
 Topeka, Kas.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897070801:0402/pct:72.689425,66.175955,21.440466,32.468746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897070801:0402/pct:48.459617,44.117303,14.300583,21.661409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3446,7 +3446,7 @@ descriptive literatme. W. J. Black, G.
 P. A., A. T. &amp; S. F. Ry., Topeka. Kas.  
 Wheu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897071501:0033/pct:28.625577,101.885475,21.028345,37.918994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897071501:0033/pct:19.083718,67.935289,14.024390,25.290968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3481,7 +3481,7 @@ Free descriptive literature. W. J.
 Black. G. P.A.. A.T. ,tS F Rnilw  
 Topeka, Kas.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897071501:0410/pct:51.136364,71.685684,21.280992,16.056934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897071501:0410/pct:34.111570,47.817904,14.194215,10.716386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3530,7 +3530,7 @@ Mexico, Arizona, and California. Free
 descriptive literatu.e. W. J. Black, G.  
 P. A.,-A. T. &amp; S. F. By., Topeka, Kas.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897072201:0041/pct:72.179827,109.352686,21.118115,35.760272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897072201:0041/pct:48.125415,72.913496,14.084273,23.844083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3582,7 +3582,7 @@ Black, G. P. A., A.T. &amp;S. F. Railway,
 Topeka, Kas.  
 The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897072201:0418/pct:74.217463,83.585770,21.190280,28.190677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897072201:0418/pct:49.485173,55.723846,14.126853,18.809440/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3637,7 +3637,7 @@ Black. G. P. A.. A. T. S. F. Railway.
 Topeka, Kas.  
 The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897072901:0429/pct:55.182421,25.952686,21.683250,36.650740/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897072901:0429/pct:36.795191,17.305675,14.448590,24.437711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3715,7 +3715,7 @@ P. A., A. T. &amp; S. F. Ry., Topeka, Kas.
   
 W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897082601:0084/pct:10.933288,53.636472,50.185310,90.251161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897082601:0084/pct:7.294474,35.757648,33.456873,60.183312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3838,7 +3838,7 @@ tamps, as they will be sent by mail,
 kddress. John Sebastian, G. P. A.,  
 Chicago.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn87057928:00340584417:1897090901:0282/pct:89.850017,69.192974,15.172654,7.615772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn87057928:00340584417:1897090901:0282/pct:78.618765,60.533104,13.271713,6.669942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3891,7 +3891,7 @@ descriptive literatme. W. J. Black. G.
 P. A., A. T. &amp; S. F. Ry., Topeka, Kas.  
 Sex Your Own Land First. Only
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897090901:0100/pct:54.258517,95.380627,21.309285,38.805091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897090901:0100/pct:36.172345,63.598869,14.211757,25.889701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4015,7 +4015,7 @@ P. A., A. T. 4 S. F. By., Tofeka, Kan.
   
 Them awlhoaatnd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897091601:0108/pct:55.116667,5.292806,34.066667,136.533271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897091601:0108/pct:36.750000,3.532449,22.733333,91.045652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4125,7 +4125,7 @@ THE
 Address,  
 KANSAS CITY JOUKNAL,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897092301:0116/pct:54.607452,118.612839,43.463074,25.243516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897092301:0116/pct:36.410512,79.086962,28.975383,16.829011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4154,7 +4154,7 @@ John Sebastin, G, P. A.,
 Chicago.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897092301:0117/pct:73.426110,122.337418,21.007290,11.486805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897092301:0117/pct:48.956262,81.573987,13.999337,7.657870/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4204,7 +4204,7 @@ Mexico, Arizona, and California. Free
 descriptive literatme. W. J. Black, b.  
 P. A., A. T. &amp; S. F. By., Topeka, Ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897093001:0124/pct:32.863850,108.830126,21.462106,36.135049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897093001:0124/pct:21.914822,72.588832,14.319249,24.105773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4278,7 +4278,7 @@ descriptive literature. W. J. Black, G.
 P. A., A. T. &amp; S. F. Ry., Topeka. Kas.  
 I FREE EDUCATIO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897102801:0153/pct:94.005358,100.998825,21.282652,28.601645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897102801:0153/pct:62.692565,67.356052,14.199598,19.083431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4314,7 +4314,7 @@ descriptive litei-atme. W. J. Black, G.
 P. A., A. T. &amp; S. F. Ry., Topeka. Kas.  
 T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897110401:0168/pct:55.718085,72.919372,21.143617,21.402432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897110401:0168/pct:37.167553,48.636525,14.095745,14.272223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4374,7 +4374,7 @@ Mexico, Arizona, and California. Free
 descriptive literatine. W. J. Black, G.  
 P. A., A. T. &amp; S. F. Ry., Topeka, Kas.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897112501:0188/pct:54.946524,43.357474,21.473930,37.860620/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897112501:0188/pct:36.631016,28.908940,14.338235,25.252285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4501,7 +4501,7 @@ ateAico, Arizona, ana uauiorma. Free
 descriptive literatme. W. J. Black, G.  
 P. A., A. T. &amp; S. F. By., Topeka. Kas.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897123001:0225/pct:48.076923,54.905458,90.215924,65.750981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897123001:0225/pct:32.051282,36.603639,60.155196,43.845879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4611,7 +4611,7 @@ Only set of abstract books in Ford
   
 County up to date.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898020301:0268/pct:101.274643,58.126558,44.000680,85.195299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898020301:0268/pct:67.556084,38.762911,29.333787,56.832482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4693,7 +4693,7 @@ residents. Examine lands.
 Only set of abstract books in Ford  
 County up to date. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898021001:0276/pct:99.677310,53.149002,41.253397,93.170271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898021001:0276/pct:66.474185,35.448423,27.513587,62.152901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4714,7 +4714,7 @@ cities.
 It Has Just  
 as Much
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898021001:0276/pct:122.639266,88.231124,21.382473,10.268226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898021001:0276/pct:81.793478,58.844381,14.266304,6.853362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4834,7 +4834,7 @@ Mexico, Arizona, and California. Free
 descriptive literatme. W. J. Black. G.  
 P. A., A. T. &amp; S. F. Ry., Topeka. Kas.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898022401:0292/pct:100.988412,93.325430,21.864349,35.281565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898022401:0292/pct:67.365372,62.240664,14.570552,23.532899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4861,7 +4861,7 @@ contain 12 cents in stamps, as they will
 be sent by mail. &#x27; Address,  
 John Sebastian, G. P. A., Chicago.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030821:0021247289A:1898032501:0075/pct:66.302473,72.685133,19.091432,12.696439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030821:0021247289A:1898032501:0075/pct:44.220817,48.468061,12.722829,8.479367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4895,7 +4895,7 @@ contain 12 cents in stamps, as they will
 be sent by mail. Address,  
 Johx Sebastian, G. P. A., Chicago.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030821:0021247289A:1898040801:0084/pct:25.622172,95.001128,18.735860,9.038592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030821:0021247289A:1898040801:0084/pct:17.081448,63.360415,12.500000,6.025728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4947,7 +4947,7 @@ Mexico. Arizona, and Califoruia. Free
 descriptive litemtiiie. W. J. Black. O.  
 P. A., A. T. it S. F. Ky., Topeka. Kas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898061601:0422/pct:99.882313,11.359602,44.636853,134.161638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898061601:0422/pct:66.610625,7.573068,29.757902,89.468702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5006,7 +5006,7 @@ descriptive literatme. W. J. Black, Or.
   
 P. A., A. T. &amp; S. F. Ry., Topeka. Kas.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898062301:0430/pct:56.060095,12.662876,63.605672,51.374082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898062301:0430/pct:37.390277,8.445866,42.420662,34.257285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5027,7 +5027,7 @@ Chair Cars will lcao points in K.iu.is
 on July 4. IStH, for accommodation ot  
 teachers and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898062301:0430/pct:122.552330,60.518834,18.129642,4.655295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898062301:0430/pct:81.735314,40.357735,12.086428,3.103530/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5082,7 +5082,7 @@ descriptive literatiue. W. J. Black, &amp;.
 P. A., A. T. &amp; S. F. Ry., Topeka, Kas.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898063001:0435/pct:95.917339,120.700224,21.337366,20.523400/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898063001:0435/pct:63.944892,80.478604,14.230511,13.686196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5193,7 +5193,7 @@ sr tides on the mountains, cli­
 m ate, camping fishing and  
 eh ooting;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898071401:0451/pct:118.294314,96.982911,22.274247,28.296995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898071401:0451/pct:78.896321,64.678845,14.849498,18.880377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5227,7 +5227,7 @@ descriptive literature. W. J. Black, G.
 P. A., A. T. &amp; S. F. Ry., Topeka, Kas.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898072101:0459/pct:28.979181,108.915605,21.356615,17.807404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898072101:0459/pct:19.325050,72.634210,14.237743,11.879538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5277,7 +5277,7 @@ tboy will be sent by mail. AddresB,
 JOHN SEBASTIAN U. P. A.,  
 Chicag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_bronte_ver01:data:sn86063592:00415626721:1898100301:0115/pct:26.367319,87.385107,14.297772,6.314107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_bronte_ver01:data:sn86063592:00415626721:1898100301:0115/pct:19.783930,65.552151,10.719109,4.742241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

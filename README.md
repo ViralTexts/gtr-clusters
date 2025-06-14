@@ -4,7 +4,7 @@
 * [Advantage of Taking a Newspaper](clusters/18410703-sn85054702-AdvantageOfTakingANewspaper.md): 410 reprints from 1839-09-04 to 1895-08-10
 * [American Inventions](clusters/18750702-sn89077510-AmericanInventions.md): 186 reprints from 1872-09-05 to 1891-01-22
 * [Antiquities](clusters/18491020-sn82015408-Antiquities.md): 260 reprints from 1838-08-01 to 1890-05-16
-* [Art of Swimming](clusters/18520804-sn83035101-ArtOfSwimming.md): 250 reprints from 1806-09-01 to 1891-11-26
+* [Art of Swimming](clusters/18520804-sn83035101-ArtOfSwimming.md): 249 reprints from 1806-09-01 to 1891-11-26
 * [Be Careful What You Say](clusters/18731010-sn83032041-BeCarefulWhatYouSay.md): 118 reprints from 1873-10-10 to 1899-04-01
 * [Beautiful Snow](clusters/18590113-sn86081096-BeautifulSnow.md): 422 reprints from 1858-11-27 to 1899-12-30
 * [Beautiful Things](clusters/18751016-sn84038806-BeautifulThings.md): 2 reprints from 1875-10-16 to 1875-11-20
@@ -13,8 +13,8 @@
 * [The Children](clusters/18640902-sn84038223-TheChildren.md): 285 reprints from 1863-09-19 to 1899-12-30
 * [Chinese Gossip](clusters/18710617-sn83025925-ChineseGossip.md): 13 reprints from 1871-06-17 to 1871-08-04
 * [Delicacy in Conversation](clusters/18631203-sn84031490-DelicacyInConversation.md): 76 reprints from 1826-07-06 to 1880-11-20
-* [The Dude](clusters/18830723-sn84022871-TheDude.md): 6 reprints from 1883-07-23 to 1883-09-06
 * [The Dude](clusters/18830723-sn84022871-TheDude.md): 31 reprints from 1883-07-11 to 1893-07-15
+* [The Dude](clusters/18830723-sn84022871-TheDude.md): 6 reprints from 1883-07-23 to 1883-09-06
 * [Editing a Paper](clusters/18801119-sn87062082-EditingAPaper.md): 272 reprints from 1863-08-04 to 1897-09-29
 * [Educate Your Daughters](clusters/18500316-sn83035487-EducateYourDaughters.md): 185 reprints from 1849-07-28 to 1870-06-15
 * [Eloquent Extract](clusters/18430908-sn98060050-EloquentExtract.md): 418 reprints from 1842-05-01 to 1898-07-23
@@ -24,7 +24,7 @@
 * [The Explorations at Jerusalem](clusters/18710629-sn84026753-ExplorationsAtJerusalem.md): 31 reprints from 1867-11-14 to 1871-08-11
 * [The Farmer's Creed](clusters/18570709-sn82015486-FarmersCreed.md): 286 reprints from 1845-05-17 to 1895-07-26
 * [First Rate Paste](clusters/18470818-sn85025007-FirstRatePaste.md): 197 reprints from 1847-04-10 to 1881-12-17
-* [The Footsteps of Decay](clusters/18640117-sn82015407-TheFootstepsOfDecay.md): 305 reprints from 1824-01-01 to 1899-07-13
+* [The Footsteps of Decay](clusters/18640117-sn82015407-TheFootstepsOfDecay.md): 303 reprints from 1824-01-01 to 1899-07-13
 * [Four Good Habits](clusters/18520309-sn85026466-FourGoodHabits.md): 183 reprints from 1833-05-07 to 1899-12-16
 * [A Fragment Found in a Skeleton Case](clusters/18360226-sn83035366-FragmentFoundInASkeletonCase.md): 257 reprints from 1815-11-01 to 1899-09-11
 * [From _Bucks Chronicle and Bucks Gazette_](clusters/Manhood%20Buck%27s%20Chronicle%2021%20June%201851.md): 17 reprints from 1851-05-03 to 1851-10-25
@@ -89,7 +89,7 @@
 * [A Printer's Epitaph](clusters/18580506-sn97065088-PrintersEpitaph.md): 63 reprints from 1854-10-12 to 1897-05-27
 * [Printers Proverbs](clusters/18370826-sn85025180-PrintersProverbs.md): 222 reprints from 1837-08-26 to 1881-11-03
 * [Printers and Printing](clusters/18510115-sn84026472-PrintersAndPrinting.md): 210 reprints from 1849-01-01 to 1898-11-26
-* [The Properties of the Tomato](clusters/18520820-sn84023127-PropertiesOfTheTomato.md): 362 reprints from 1834-08-22 to 1893-02-25
+* [The Properties of the Tomato](clusters/18520820-sn84023127-PropertiesOfTheTomato.md): 361 reprints from 1834-08-22 to 1893-02-25
 * [Regularly Sold](clusters/18560821-sn83045462-RegularlySold.md): 249 reprints from 1856-08-21 to 1887-07-08
 * [Religious Courtship](clusters/18360420-sn87065654-ReligiousCourtship.md): 295 reprints from 1809-04-15 to 1899-12-16
 * [Rest](clusters/18721011-sn84026994-Rest.md): 215 reprints from 1872-09-11 to 1898-08-12
@@ -105,7 +105,7 @@
 * [Starching Linen](clusters/18540819-sn85038518-StarchingLinen.md): 67 reprints from 1853-06-21 to 1898-06-11
 * [Tired Mothers](clusters/18720906-sn98060050-TiredMothers.md): 157 reprints from 1872-09-06 to 1899-10-26
 * [To Remove Ink Spots](clusters/18631230-sn85054616-ToRemoveInkSpots.md): 76 reprints from 1863-10-03 to 1872-10-31
-* [True Philosophy—The Farmers](clusters/18390614-sn98060050-TruePhilosophy.md): 194 reprints from 1806-02-01 to 1899-11-18
+* [True Philosophy—The Farmers](clusters/18390614-sn98060050-TruePhilosophy.md): 193 reprints from 1806-02-01 to 1899-11-18
 * [Twelve Ways of Committing Suicide](clusters/18560816-sn84020109-12WaySuicide.md): 208 reprints from 1856-01-16 to 1899-08-23
 * [The Union](clusters/18500109-sn88064476-TheUnion.md): 17 reprints from 1850-01-05 to 1866-01-01
 * [Untitled](clusters/18690123-sn82016099-untitled.md): 167 reprints from 1868-10-01 to 1890-10-30

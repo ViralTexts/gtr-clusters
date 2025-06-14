@@ -597,7 +597,7 @@ For appoplexy, raise the head and body ;
 for fainting lay the person flat.  
 DAILY METEO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85033437:00200293733:1872121801:0568/pct:65.534262,22.736313,19.250871,37.694965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85033437:00200293733:1872121801:0568/pct:49.172474,17.052235,14.445412,28.284309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ would be granted to ottier companies.
   
 day under her father&#x27;s roof. , Tbe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556527:1872122101:0207/pct:72.855030,27.195906,27.056213,1.987622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556527:1872122101:0207/pct:54.644970,20.399905,20.295858,1.499643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -689,7 +689,7 @@ moving.
 For appoplexy, raise the head and body ;  
 for fainting lay tho person llat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033438:00200293563:1872122501:1029/pct:32.960894,29.641434,22.788641,40.111554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033438:00200293563:1872122501:1029/pct:24.720670,22.231076,17.108939,30.087649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -723,7 +723,7 @@ to other companies. Aiken (S. C.) Letter
   
 to the Xcw York Journal of Commerce.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033438:00200293563:1872122501:1035/pct:33.009259,17.276487,22.569444,10.594973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033438:00200293563:1872122501:1035/pct:24.768519,12.965320,16.921296,7.938276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -809,7 +809,7 @@ for fainting, lay the person flat.
 may look if properly clad. Try this and  
 be happier and heal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dean_ver02:data:sn84038034:00271740566:1873010201:0505/pct:8.237105,6.813947,38.202463,84.828320/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dean_ver02:data:sn84038034:00271740566:1873010201:0505/pct:6.177829,5.110460,28.656659,63.627895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -964,7 +964,7 @@ nose and mouth projecting.
 For apoplexy, raise tha head and  
 body; for fainting, lay th9 per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775800:1873010301:0430/pct:113.974201,85.147338,13.590295,43.714354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775800:1873010301:0430/pct:85.488329,63.866445,10.196560,32.794677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1327,7 +1327,7 @@ for apoplexy, raise the head and
 body; for fainting, lay tha perwon flat.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779416:1873012401:0080/pct:71.359223,94.708919,16.808252,26.541440/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779416:1873012401:0080/pct:53.539644,71.078291,12.621359,19.902495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1381,7 +1381,7 @@ for fainting, lay the person flat.
 The strike of tho London gas-etoker3 has  
 .ended thns: Tho rank and hie o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293472:1873012501:0090/pct:50.957510,90.418502,14.542190,23.325991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293472:1873012501:0090/pct:38.240575,67.841410,10.906643,17.500000/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1436,7 +1436,7 @@ For apoplexy, ratso the head &#x27;and
 body ; for fainting, lay the person flat.  
 With
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1873012901:0641/pct:84.622222,16.284868,19.688889,32.616487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1873012901:0641/pct:63.466667,12.217547,14.777778,24.466261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1786,7 +1786,7 @@ and body; for fainting, lay the
 I person fiat.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470387:1873020601:0023/pct:6.514382,6.677053,30.767061,119.541509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470387:1873020601:0023/pct:4.892837,5.007790,23.082346,89.672824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1887,7 +1887,7 @@ and body; ior fainting lay the per
   
 son nat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472967:1873020701:0591/pct:6.046883,35.615385,11.827384,27.945055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472967:1873020701:0591/pct:4.541822,26.714286,8.870538,20.978022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2242,7 +2242,10 @@ For apoplexy, raise the head and body
 for fainting, lay the person flat.  
   
 WHAT THEN
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001753%2F1873022701%2F0033.jp2/pct:39.370655,13.301491,17.503659,81.216529/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2300,7 +2303,7 @@ the nose and mouth projecting.
 For anoDlexv. raise the head and body.  
 For fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028821:00280775496:1873022701:0043/pct:20.198330,82.184741,13.082811,23.560416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028821:00280775496:1873022701:0043/pct:15.153097,61.655027,9.812109,17.683489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2420,7 +2423,7 @@ For apoplexy, raise the head and body :
 for fainting, lay the person flat.  
 An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895394:1873030601:0043/pct:16.891776,39.134873,10.907847,21.334694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895394:1873030601:0043/pct:16.874679,39.122113,10.907847,21.334694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2600,7 +2603,7 @@ For apoplexy, raise the head and
 body; for faiotinj lay the person flat.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628481:1873030701:0259/pct:10.586836,50.817537,17.208565,52.177688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628481:1873030701:0259/pct:7.950040,38.127623,12.906423,39.154970/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3053,7 +3056,7 @@ water; if the skin is destroyed cover
 with varnish.  
 Bank Motion.—John Ran
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895394:1873032701:0052/pct:85.689506,51.463129,11.101474,19.014176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895394:1873032701:0052/pct:85.672160,51.450124,11.101474,19.014176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3112,7 +3115,7 @@ For apoplexy, raise the head and
 body; for fainting, lay the person flat.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver02:data:sn97064666:0051701607A:1873032901:0054/pct:14.908035,33.271128,12.971926,23.620368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver02:data:sn97064666:0051701607A:1873032901:0054/pct:14.888674,33.257798,12.971926,23.620368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3216,7 +3219,7 @@ For slight hums, dip the part in cold wa­
 ter ; if the skm is destroyed cover with var­  
 uish.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349517:1873040401:0058/pct:85.760941,12.889463,11.626388,18.267615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349517:1873040401:0058/pct:85.744611,12.876535,11.626388,18.267615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3257,7 +3260,7 @@ wounil-d part as long ascanu be borne to a
 bhmr cm-a; or end of a cigar.  
 Fom ..&#x27;dI poisons, giv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_Cypher_ver01:data:sn86086284:00280762015:1873040601:0596/pct:50.606241,74.018967,16.736235,15.516678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_Cypher_ver01:data:sn86086284:00280762015:1873040601:0596/pct:50.586365,74.002616,16.716359,15.483976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3360,7 +3363,7 @@ the nose and mouth projecting.
 For anonlexv. raise the r cad anu body ;  
 for fainting, lay tho person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776087:1873041001:0052/pct:107.106227,95.039956,16.721612,23.422430/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776087:1873041001:0052/pct:80.366300,71.314412,12.545788,17.580601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3456,7 +3459,7 @@ If m the water, tWt on the back, #with
 h r apoplex v. raise the head and bml^,  
 I for famting, lay the person Hat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1873041201:0333/pct:84.293364,62.736922,12.396560,14.265858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1873041201:0333/pct:84.277138,62.724286,12.396560,14.265858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3785,7 +3788,7 @@ For apoplexy, raise the head and body; for
 fainting, lay the person flat.  
 Cister
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:0029455564A:1873050101:0649/pct:58.556925,38.526912,16.569978,19.461756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:0029455564A:1873050101:0649/pct:43.944888,28.909348,12.418419,14.603399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3901,7 +3904,7 @@ body: for tainting, lay tlie pcr-on lhit.
 For acid jioison-. gie alkalie-; for  
 alkaline poison-, give arid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:0023728186A:1873050801:0226/pct:65.221956,96.996587,14.322136,22.923777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:0023728186A:1873050801:0226/pct:48.935213,72.775882,10.737852,17.201365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4004,7 +4007,7 @@ For apoplexy, raise the head aud hod) ;
 for fainting, lay the person flat.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524664:1873051501:0291/pct:14.043339,27.460570,11.254829,13.033378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524664:1873051501:0291/pct:14.026541,27.448343,11.254829,13.033378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4063,7 +4066,7 @@ nose and mouth projecting.
 For apoplexy, raise the head and body ;  
 for fainting lay the person flat. j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877480:1873051501:0178/pct:6.483516,101.266366,15.714286,26.647349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877480:1873051501:0178/pct:4.862637,75.949775,11.785714,20.004293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4121,7 +4124,7 @@ For apoplexy, isjse tbe bead and body ;
 for fainting, lay tbe person flat.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628481:1873051601:0299/pct:11.616362,60.632561,16.620334,32.152747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628481:1873051601:0299/pct:8.717236,45.474421,12.470214,24.121848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4257,7 +4260,7 @@ and body ; for faint ng iay the per­
 son flat.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_quartz_ver01:data:sn84022044:00279554838:1873051701:0502/pct:11.289967,7.305266,15.192944,27.871498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_quartz_ver01:data:sn84022044:00279554838:1873051701:0502/pct:11.267916,7.290597,15.192944,27.871498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4324,7 +4327,7 @@ mouth is sore ; enlarge tne wound, or,
   
 better, cut out the part without dela
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776087:1873052201:0076/pct:91.974852,83.067450,16.605030,13.084243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776087:1873052201:0076/pct:68.990385,62.300588,12.444527,9.823678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4354,7 +4357,7 @@ For apoplexy raise the head and body ;
   
 for fainting lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776087:1873052201:0076/pct:92.270710,98.096837,33.653846,6.591100/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776087:1873052201:0076/pct:69.212278,73.579625,25.240385,4.953820/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4572,7 +4575,7 @@ water ; if the skin is destroyed cover with
 varnish.  
 Bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SHomeChar2n_ver01%2Fdata%2F1873060201%2F0088.jp2/pct:30.835735,73.981402,19.524496,26.095293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SHomeChar2n_ver01%2Fdata%2F1873060201%2F0088.jp2/pct:23.126801,55.498035,14.654179,19.585850/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4629,7 +4632,7 @@ For apoplexyj Taiee the bead and body ;
 tor fainting, lay the person flat  
 Ci.&#x27; ---
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WeekSenR3n_ver01%2Fdata%2F1873060301%2F0139.jp2/pct:93.239437,69.574919,14.154930,26.932947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WeekSenR3n_ver01%2Fdata%2F1873060301%2F0139.jp2/pct:69.957746,52.192346,10.619718,20.216445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4742,7 +4745,7 @@ nose and mouth projecting.
 For apoplexy, raise the hea l and body ;  
 for fainting, lay the person flit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197607:1873060401:0093/pct:38.027366,64.153030,14.737742,22.291022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197607:1873060401:0093/pct:28.520525,48.120301,11.060433,16.718266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4872,7 +4875,7 @@ For apoplexy, -aise the head and body; for
 fainting, lay the person flat.  
 Coinage Map
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525358:1873061001:0115/pct:85.246444,27.406160,11.131326,17.312320/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525358:1873061001:0115/pct:85.229904,27.394129,11.131326,17.312320/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4901,7 +4904,7 @@ For slight burns, dip the par; in cold
 water; if the skiu rs destroyed, cover with  
 varnish.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal1_ver01%2Fdata%2F1873061201%2F0093.jp2/pct:90.888474,61.967079,16.702241,9.866067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal1_ver01%2Fdata%2F1873061201%2F0093.jp2/pct:68.183031,46.488089,12.526681,7.402106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4924,7 +4927,7 @@ better, cut out the part without delay;
 hold the wounded part as long as can be  
 borne to a hot coal or end of a cigar.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal1_ver01%2Fdata%2F1873061201%2F0093.jp2/pct:91.115261,73.550762,25.213447,6.267253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal1_ver01%2Fdata%2F1873061201%2F0093.jp2/pct:68.356457,55.178407,18.916756,4.702996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4951,7 +4954,7 @@ in most cases. In a case ot opium poison
 ing, give strong coffee, and keep moving.  
 If in water, float on the back, with the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal1_ver01%2Fdata%2F1873061201%2F0093.jp2/pct:91.248666,79.930477,16.675560,5.643595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal1_ver01%2Fdata%2F1873061201%2F0093.jp2/pct:68.449840,59.963194,12.513340,4.232696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5092,7 +5095,7 @@ body ; for fainting, lay the person flat
 The Co-Operative Movement.  
 But it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470119:1873061301:0738/pct:20.972522,11.528712,15.086207,32.734487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470119:1873061301:0738/pct:15.732759,8.652045,11.314655,24.545354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5143,7 +5146,7 @@ poisoning give strong coffee, and keep
 moving.  
 DxroRru i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1873061301:0519/pct:85.233711,57.363236,13.155099,19.030334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1873061301:0519/pct:63.951841,43.038631,9.879603,14.285714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5310,7 +5313,7 @@ tho nose and mouth projecting.
 For apoplexy, raise the head and  
 l)ody ; for fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470181:1873061901:0106/pct:20.576075,11.280174,13.519846,18.007093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470181:1873061901:0106/pct:15.435502,8.465851,10.143330,13.511040/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5357,7 +5360,7 @@ For apoplexy, raise the head and body ;
 for fainting, lay the person flat.  
 Chicke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470119:1873062001:0742/pct:67.583603,7.593819,14.859763,23.311258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470119:1873062001:0742/pct:50.701187,5.695364,11.151564,17.494481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5451,7 +5454,7 @@ for fainting, lay the person flat.
   
 - Thzbe is 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470181:1873062601:0110/pct:76.064410,6.466751,18.122271,20.464690/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470181:1873062601:0110/pct:57.055131,4.852924,13.591703,15.348518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5708,7 +5711,7 @@ For apoplexy, raise the head and
 body; for fainting, lay the person flat  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061082:00212470314:1873070501:0319/pct:20.445285,88.983717,13.111176,28.624368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061082:00212470314:1873070501:0319/pct:15.337602,66.760247,9.837020,21.482313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5939,7 +5942,7 @@ moving.
   
 For the Advocat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalCA24n_ver01%2Fdata%2F1873082001%2F0513.jp2/pct:49.969934,21.544152,29.509922,106.634304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalCA24n_ver01%2Fdata%2F1873082001%2F0513.jp2/pct:37.492483,16.158114,22.143716,80.016181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6131,7 +6134,7 @@ if carbonic acid gas is suspected, walk
 croct.  
 Suck poisoned wounds, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_alpha_ver01%2Fdata%2Fsn85042522%2F00033872207%2F1873101101%2F0720.jp2/pct:9.449193,3.260510,29.748338,28.417742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_alpha_ver01%2Fdata%2Fsn85042522%2F00033872207%2F1873101101%2F0720.jp2/pct:7.098765,2.449520,22.317189,21.317445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6263,7 +6266,7 @@ mouth projecting.
   
 For apoplexy, raise the head and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmMess60n_ver01%2Fdata%2F1873121501%2F0571.jp2/pct:109.835221,97.905265,17.147271,6.416305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmMess60n_ver01%2Fdata%2F1873121501%2F0571.jp2/pct:82.376416,73.438385,12.860453,4.821664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6321,7 +6324,7 @@ the nose and mouth projecting.
 For apoplexy, raise tne head ana  
 body ; for tainting, lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152627:1873122701:0771/pct:75.914286,67.783676,21.885714,34.638354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152627:1873122701:0771/pct:56.971429,50.862641,16.428571,25.995355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6367,7 +6370,7 @@ nose and mouth projecting.
 I1 or slight burns, dip the part in cold water;  
 if tho skirt is destroyed, cover with varnish.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155860:1874012101:0282/pct:81.601363,39.615175,12.810903,18.627183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155860:1874012101:0282/pct:81.584327,39.601528,12.810903,18.627183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6457,7 +6460,7 @@ For duat in the eyes, avoid rub­
 bing; dash cold water in them;  
 remov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472979:1874012301:0106/pct:5.786547,118.055710,11.877648,6.347797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472979:1874012301:0106/pct:4.343220,88.558429,8.911547,4.760848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6478,7 +6481,7 @@ with nose and mouth projecting.
 For apoplexy, raise tho head and  
 body; for fainting, lay the person fla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DJoWilm24n_ver01%2Fdata%2F1874012801%2F0220.jp2/pct:44.725819,76.537345,15.936786,6.492478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DJoWilm24n_ver01%2Fdata%2F1874012801%2F0220.jp2/pct:33.549124,57.403009,11.957350,4.869359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6496,7 +6499,7 @@ dash water in them remove cinders,
 &amp;c., with the round point of a lead  
 pencil.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:0021247972A:1874012901:0026/pct:50.419555,37.438566,10.726012,1.985159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:0021247972A:1874012901:0026/pct:45.372735,33.699528,9.655843,1.773152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6606,7 +6609,7 @@ the nose and mouth projecting.
 For apoplexy, raise tho head and  
 body ; for fainting, lay tho persou flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627610:1874013101:0525/pct:104.939012,89.094465,16.276745,28.083634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627610:1874013101:0525/pct:81.323735,69.043321,12.617477,21.765945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6651,7 +6654,7 @@ bock, with the nose and mouth project­
 ing. I\ - appoplexy, raise the head and  
 body ; for fainting, lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769726:1874020301:0646/pct:39.242379,77.294219,14.649305,21.222867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769726:1874020301:0646/pct:37.274342,73.436493,13.924238,20.148291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6922,7 +6925,7 @@ with nose and mouth projecting. For
 apoplexy, raise the head and body  
 for fainting lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775794:1874061901:0213/pct:19.353370,21.196130,39.981785,100.043975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775794:1874061901:0213/pct:14.526412,15.904427,29.986339,75.065963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7029,7 +7032,7 @@ For apoplexy, raise, the head and body ;
 for fainting, lay the person flat.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877480:1874090301:0450/pct:21.296814,8.203251,15.721073,26.041555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877480:1874090301:0450/pct:15.972610,6.157821,11.794298,19.528475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7080,7 +7083,7 @@ nose and mouth projecting.
 For apoplexy, raise the head and body  
 for fainting, lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver02:data:sn97064666:0051701607A:1874110501:0362/pct:52.569844,41.449814,13.947537,19.230769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver02:data:sn97064666:0051701607A:1874110501:0362/pct:52.548518,41.435516,13.947537,19.230769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7123,7 +7126,7 @@ artery is rut, compress above the wound;
 if a Vein ia cut, compress below. I&#x27;  
 choked, get. upon all lours and cough
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763815:1874110601:0197/pct:96.933411,42.885445,14.602804,7.481645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763815:1874110601:0197/pct:72.707360,32.164083,10.952103,5.617061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7357,7 +7360,7 @@ and body : for fainting, lay the person
 flat  
 The Wisdom of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776671:1874112501:0237/pct:25.206044,79.529349,14.560440,25.912555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776671:1874112501:0237/pct:18.904533,59.660382,10.920330,19.454473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7460,7 +7463,7 @@ For apoplexy, raise the head and
   
 (or fainting, lay the person flit.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:0019991991A:1874112601:0294/pct:94.065195,66.892668,12.556644,20.397610/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:0019991991A:1874112601:0294/pct:79.959070,56.849000,10.656337,17.352333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7596,7 +7599,7 @@ the danger. Before - pa-siug through
 smoke, taka a full breath, and then stoop  
 low, but if carbon is suspected, then
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053488:00212470016:1874112601:0158/pct:110.390625,110.749795,14.515625,10.293602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053488:00212470016:1874112601:0158/pct:82.812500,83.085741,10.890625,7.731898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7687,7 +7690,7 @@ with the nose and mouth projecting. Em*
 apoplexy raise the head and body ; for  
 | fainting lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342399:1874112701:0806/pct:101.948543,66.302722,15.266742,21.537541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342399:1874112701:0806/pct:79.001135,51.376010,11.823685,16.706551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7736,7 +7739,7 @@ with the nose and mouth projecting.
 For apoplexy, raise the head and body ;  
 for fainting, lay the person flat.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152627:1874112701:1103/pct:42.253289,8.263584,32.993421,118.094859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152627:1874112701:1103/pct:31.694079,6.204331,24.769737,88.601036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7787,7 +7790,7 @@ the person flat.
 Business Still Improving.  
 The present condition of busi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470120:1874112701:0193/pct:80.851064,18.527473,29.468085,108.318681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470120:1874112701:0193/pct:60.651596,13.901099,22.114362,81.263736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7943,7 +7946,7 @@ mouth projecticg. For apoplexy, raise
 tho head acd body ; for faintiu, lay  
 the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470181:1874120301:0414/pct:62.303310,106.252868,12.981552,19.515833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470181:1874120301:0414/pct:46.730874,79.703993,9.753120,14.651216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7991,7 +7994,7 @@ apoplexy, raise the head and body; for
 fainting, lay the person flat.  
 Reducing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn84026810:00393349190:1874120501:0379/pct:3.371227,65.913844,14.719718,20.521400/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn84026810:00393349190:1874120501:0379/pct:3.351627,65.899902,14.719718,20.507459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8080,7 +8083,7 @@ mouth projecting. For apoplexy, raise
 the head and body; for fainting, lay tbe  
 person nat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779428:1874121001:1156/pct:57.237386,38.290500,17.038875,21.339879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779428:1874121001:1156/pct:42.928040,28.717875,12.799835,16.026567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8131,7 +8134,7 @@ because a bt. bouts paper said some
 thing shout “the hoot of public indig  
 nation,&quot; the lesion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348458:1874121001:0599/pct:55.922959,61.440245,11.487984,22.944331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348458:1874121001:0599/pct:55.905914,61.427477,11.487984,22.931563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8334,7 +8337,7 @@ and mouth projectiig. For apoplexy
 raise the head and bidy, for fainting lay  
 the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628481:1874121801:0632/pct:54.484578,97.475728,17.370130,26.900672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628481:1874121801:0632/pct:40.868506,73.114264,13.027597,20.194175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8534,7 +8537,7 @@ For apoplexy, raise the head and body
 for fainting, lay the person flat,  
 and F. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028903:1874122501:0263/pct:98.979903,65.839321,12.926309,24.271718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028903:1874122501:0263/pct:74.269184,49.392554,9.698538,18.223383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8672,7 +8675,7 @@ For appoplexy, raise the head and body;
 for fainting, lay the person flat.  
 The New
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283132:1875010901:0007/pct:74.634236,17.113953,15.380395,27.272727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283132:1875010901:0007/pct:55.998537,12.842490,11.558157,20.472109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8871,7 +8874,7 @@ For apoplexy, raise the head and body;
 for fainting, lay the person flat.  
 THE CI11SC
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280532:1875020401:0360/pct:41.622481,3.953298,18.093849,28.113478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280532:1875020401:0360/pct:31.216861,2.970094,13.586957,21.087669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8919,7 +8922,7 @@ projecting. For apoplexy, raise the bead
 and body; for fainting, Uy the person  
 flat. m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver02:data:sn97064666:00517016081:1875021101:0023/pct:19.908421,71.941319,12.522397,16.678536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver02:data:sn97064666:00517016081:1875021101:0023/pct:19.888513,71.912833,12.522397,16.678536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8960,7 +8963,7 @@ poisoning, excite vomiting by tick­
 ling the throat, or by water and  
 mustard.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775198:1875030501:0271/pct:108.156028,101.479398,14.506770,17.985084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775198:1875030501:0271/pct:81.157318,76.146228,10.880077,13.497983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8982,7 +8985,7 @@ fir fainting, lay the person flat
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775198:1875030501:0271/pct:108.091554,118.718670,13.523533,5.391857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775198:1875030501:0271/pct:81.108962,89.081795,10.138620,4.046950/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9031,7 +9034,7 @@ the nose and mouth projecting.
 For apoplexy, raise the head and body;  
 for fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1875031801:0047/pct:73.219419,50.784047,10.843181,17.533029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1875031801:0047/pct:73.203449,50.771700,10.843181,17.533029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9198,7 +9201,7 @@ the person flat. ; ;
 Of recent climatic vagaries a willy  
 Washington roan says: &quot;Guess the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:0028077943A:1875051201:0446/pct:102.723005,70.163170,19.812207,24.271562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:0028077943A:1875051201:0446/pct:77.042254,52.622378,14.882629,18.225524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9282,7 +9285,7 @@ fainting, lay the person flat
 . ..  
 Bayin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NoCarEC2n_ver01%2Fdata%2F1875051901%2F0479.jp2/pct:89.260658,78.067501,27.212628,43.959626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NoCarEC2n_ver01%2Fdata%2F1875051901%2F0479.jp2/pct:66.958985,58.563768,20.412844,32.982862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9436,7 +9439,7 @@ apoplexy, raise the head and body; for
 fainting lay tlie person flat.  
 Metal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625509:1875052801:0295/pct:95.844371,57.734807,14.039735,20.941857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625509:1875052801:0295/pct:74.271523,44.738227,10.894040,16.232570/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9490,7 +9493,7 @@ For apoplexy, raise the head and
 body fainting, lay the ersoii flat.  
 Mrs. C. U
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022553:00202197243:1875060501:0238/pct:22.494172,93.669803,16.122766,29.312803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022553:00202197243:1875060501:0238/pct:16.880342,70.259481,12.101787,21.998859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9626,7 +9629,7 @@ body ; for fainting, lay the person
 flat  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SouthIAR2n_ver01%2Fdata%2F1875082101%2F0051.jp2/pct:99.449794,101.106221,22.145805,20.554300/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SouthIAR2n_ver01%2Fdata%2F1875082101%2F0051.jp2/pct:74.604539,75.853455,16.626547,15.415725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9673,7 +9676,7 @@ body for fainting, lay the person
 flat  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85033526:00212472566:1875090201:0557/pct:94.464621,54.717711,10.782718,16.647332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85033526:00212472566:1875090201:0557/pct:87.376331,50.609049,9.981215,15.390565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9727,7 +9730,7 @@ For apoplexy, raise the head and body:
 for fainting, lay the person flat.  
 An Old Fashioned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470120:1875090301:0343/pct:100.617631,24.297981,15.131948,32.548155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470120:1875090301:0343/pct:75.477260,18.229288,11.355980,24.425621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9776,7 +9779,7 @@ varnish.
 For apoplexy, raise the head and body ;  
 for fainting, lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85042534:00200293575:1875090801:1116/pct:66.909754,100.547474,18.983592,27.749101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85042534:00200293575:1875090801:1116/pct:50.182315,75.426247,14.243391,20.819646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9862,7 +9865,7 @@ wii ii varniMi.
 Fur up ipUxy, raise the head and  
 body; for faintiug, lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061082:00212470314:1875100201:0781/pct:87.847222,78.458278,13.049769,15.004462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061082:00212470314:1875100201:0781/pct:65.899884,58.857653,9.794560,11.256136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9970,7 +9973,7 @@ the skiu is destroyed, cover with varnish.
 For apoplexy, raise tbe head and body; for  
 fainting, lay tbe person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1875112501:0513/pct:40.457875,108.654790,16.721612,9.215879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1875112501:0513/pct:30.347985,81.512134,12.545788,6.915416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10299,7 +10302,7 @@ White beans fin&#x27;stnue .al
 Irish potatoes fio.MUt  
 sweet potatoes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1875120301:1116/pct:11.607143,17.732468,20.967262,53.753475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1875120301:1116/pct:7.738095,11.821646,13.988095,35.856245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10392,7 +10395,7 @@ bask, with the nose nnd mouth project
 ing. For apoplexy, raise the head and  
 body. For fainting, lay the pen SJ fln
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1875122401:1134/pct:119.537691,96.263033,20.656655,25.539383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1875122401:1134/pct:79.726148,64.199443,13.766196,17.033137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10438,7 +10441,7 @@ raise the head and body ; for fainting,
 lay the person flat.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_LenTop16n_ver01%2Fdata%2F1876012001%2F0061.jp2/pct:84.942244,86.723125,18.832508,23.138915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_LenTop16n_ver01%2Fdata%2F1876012001%2F0061.jp2/pct:63.737624,65.073077,14.150165,17.374676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10508,7 +10511,7 @@ For apoplexy, raise the head and body;
 for fainting, lay the person flat.  
 The “Court Jour
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349529:1876012801:0198/pct:73.797921,77.551533,11.192333,16.390146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349529:1876012801:0198/pct:73.781676,77.526395,11.192333,16.390146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10644,7 +10647,7 @@ head and body : for fainting, lay the per­
 son fiat.  
 On Seconi# Titotm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_longines_ver01:data:sn85025371:00542867218:1876021001:0649/pct:49.420994,55.238095,14.717968,22.301587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_longines_ver01:data:sn85025371:00542867218:1876021001:0649/pct:49.402316,55.224868,14.717968,22.288360/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10735,7 +10738,7 @@ For apoplexy, raise the head and
 body ; for fainting, lay the person  
 flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280532:1876022401:0581/pct:23.375932,9.464196,30.591054,119.479219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280532:1876022401:0581/pct:17.531949,7.100651,22.949947,89.624437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10931,7 +10934,7 @@ the akin is destroyed cover with varnUb.
 For apoplexy raise the head and body ; fur  
 lainting lay the pr-rson Hat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776671:1876030801:0500/pct:16.045296,13.966261,15.087108,9.062377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776671:1876030801:0500/pct:12.038328,10.474696,11.324042,6.800052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11027,7 +11030,7 @@ with varnish.
 For apoplexy raise the head and  
 body ; for fainting lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775447:1876030901:0170/pct:112.442168,103.310149,14.590218,13.098918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775447:1876030901:0170/pct:84.335757,77.485832,10.938533,9.840289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11067,7 +11070,7 @@ FUXGEST PARAGRAPHS.
 Ptck out the next bank to be cracked.  
 It&#x27;s much safer to rob a bank of half 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053488:00212470016:1876030901:0418/pct:95.009271,7.506361,29.187268,118.979875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053488:00212470016:1876030901:0418/pct:71.291718,5.632663,21.894314,89.278279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11308,7 +11311,7 @@ cold water ; it the skin is destroved cover
 with v9rni.!, F.Vr ..irwmlUv ri th  
 head and bodv ; for fainting1 lav the pe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DRWilm28n_ver01%2Fdata%2F1876032301%2F0189.jp2/pct:63.927944,81.518217,20.269479,28.920750/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DRWilm28n_ver01%2Fdata%2F1876032301%2F0189.jp2/pct:47.949619,61.141118,15.202109,21.702838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11536,7 +11539,7 @@ For apoplexy,raise the head and
 body ; for fainting, lay the person  
 flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn84038206:00393349190:1876032501:0922/pct:22.532146,65.763375,14.520277,12.906831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn84038206:00393349190:1876032501:0922/pct:22.512364,65.749406,14.520277,12.892862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11570,7 +11573,7 @@ varnish.
 For apoplexy, raise the head and body;  
 tor tainting lay the person lint
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777560:1876032901:0298/pct:111.945266,102.952982,14.552515,13.689794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777560:1876032901:0298/pct:83.986686,77.236239,10.909763,10.278096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11801,7 +11804,7 @@ nose and mouth projecting. s
 : For apoplexy, raise the head and body y  
 fainting, lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022998:1876041701:0276/pct:107.254585,100.124585,19.471413,24.730066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022998:1876041701:0276/pct:80.447681,75.093439,14.603560,18.563123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12166,7 +12169,7 @@ with varnish.
 For apoplexy, raise the head and  
 body ; for fainting lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DaiCharO12n_ver01%2Fdata%2F1876051201%2F0455.jp2/pct:5.097087,109.511710,16.732403,15.753425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DaiCharO12n_ver01%2Fdata%2F1876051201%2F0455.jp2/pct:3.822816,82.158639,12.560680,11.820592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12198,7 +12201,7 @@ For apoplexy ralso tho head nnd
 body; for fainting lay tho person Hat.  
 Tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_alpha_ver01%2Fdata%2Fsn85042522%2F00033872199%2F1876051201%2F0954.jp2/pct:60.812133,9.479149,22.137965,14.001005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_alpha_ver01%2Fdata%2Fsn85042522%2F00033872199%2F1876051201%2F0954.jp2/pct:45.621331,7.117736,16.609589,10.500754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12258,7 +12261,7 @@ above the wound ; if a vein is cat
 compress t bekw.  
 I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat30n_ver01%2Fdata%2F1876052401%2F0285.jp2/pct:112.222222,26.507655,14.392765,12.675763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat30n_ver01%2Fdata%2F1876052401%2F0285.jp2/pct:84.198966,19.883345,10.801034,9.519842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12308,7 +12311,7 @@ despair, er e 1 : &quot;Och, I&#x27;m undone !&quot;
 Said the other : &quot;Faix, then I wUh  
 you would come and undo inc.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027182:1876060101:0314/pct:38.402819,58.202247,14.283617,4.127735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027182:1876060101:0314/pct:28.802114,43.666470,10.731063,3.098758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12525,7 +12528,7 @@ nish. For apoplexy, raise the. head
 and body. For fainting, lay the person  
 flat. ;&#x27;; ; .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053488:00212470016:1876062201:0481/pct:22.012384,108.457944,15.325077,11.553738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053488:00212470016:1876062201:0481/pct:16.517028,81.378505,11.486068,8.668224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12643,7 +12646,7 @@ cold water; if the skin is destroyed, cover with
 varnish. For apoplexy raise the bead and body ;  
 for fainting, lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876072701:0658/pct:41.743937,58.141816,16.298146,7.104821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876072701:0658/pct:31.312411,43.623879,12.250357,5.339126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12732,7 +12735,7 @@ a ed, cover with varnish. For apoplexy, raisi
 ^ the head and body; for fainting, lay the  
 0 person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1876081001:0335/pct:72.824185,68.730496,11.328560,6.640869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1876081001:0335/pct:72.808274,68.718013,11.328560,6.640869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12763,7 +12766,7 @@ with varnish.
 For apoplexy, raise the bead and bo­  
 dy ; for fainting, lay the person fla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187158:1876090101:0304/pct:82.008095,15.114568,12.730121,10.006306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187158:1876090101:0304/pct:81.995039,15.104057,12.730121,10.006306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12936,7 +12939,7 @@ For apoplexy, raise the head and body; for fainting,
 lay the person flat.  
 The Journal of Chemistry asserts that tea is no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1876093001:0473/pct:5.007536,51.268341,14.235471,8.194479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1876093001:0473/pct:3.868699,39.728923,11.036677,6.341706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12975,7 +12978,7 @@ with varnish. For apop&#x27;.cxy, raise the
 head and body; for faiutness, lay the  
 person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_hillsboropubliclibrary_cascadia_ver01%2Fdata%2Fsn84022654%2F77777777771%2F1876102601%2F0328.jp2/pct:57.480106,98.968851,15.543767,10.204082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_hillsboropubliclibrary_cascadia_ver01%2Fdata%2Fsn84022654%2F77777777771%2F1876102601%2F0328.jp2/pct:43.129973,74.253491,11.657825,7.669173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12993,7 +12996,7 @@ skin be destroyed, cover with varnish.
 For apoplexy, raise the head and body;  
 fur faint r.ess lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195192:1876102701:0198/pct:33.844992,120.119934,12.908908,1.964433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195192:1876102701:0198/pct:25.390035,90.126137,9.687972,1.468156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13037,7 +13040,7 @@ and body; for fainting, lay the
 person flat.  
 Wliat 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1876111601:0362/pct:13.853714,9.491716,11.793612,14.546476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1876111601:0362/pct:13.834814,9.477675,11.793612,14.546476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13113,7 +13116,7 @@ apoplexy, raise the head and body; tor
 fainting lay the person flat.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895382:1876112301:0396/pct:84.392655,84.802392,11.069915,12.129485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895382:1876112301:0396/pct:84.375000,84.776391,11.069915,12.129485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13263,7 +13266,7 @@ the head and body; for fainting, lay the ‘
 person flat.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769738:1877030801:0657/pct:51.476565,16.151749,22.879978,86.528851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769738:1877030801:0657/pct:48.889190,15.333939,21.742075,82.212631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13303,7 +13306,7 @@ for fainting, lay ti e person flat.
 Dandruff generally comes from an  
 over-heated or feverish state of the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283600:1877050301:0025/pct:47.770898,121.520090,13.142415,10.274910/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283600:1877050301:0025/pct:35.851393,91.180495,9.860681,7.712402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13493,7 +13496,7 @@ To cure freckles, grate horse-radish
 fine, let it stand a few horn&#x27;s in butter­  
 milk, then strain and use the was
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:00295867553:1878032201:0557/pct:66.428085,101.073115,14.587594,18.414652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:00295867553:1878032201:0557/pct:49.829584,75.804836,10.940695,13.836028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13524,7 +13527,7 @@ varnish. For apoplexy, raise the
 head and body; for fainting, lay the  
 person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_albert_ver01:data:sn96027724:00271766294:1878052901:0018/pct:99.209233,99.018003,19.662321,16.113674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_albert_ver01:data:sn96027724:00271766294:1878052901:0018/pct:76.896773,76.729653,15.216927,12.483261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13602,7 +13605,7 @@ cases ; in a case of opium poisoning, give
 strong coffee, and keep moving.  
 To clea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WestSen27n_ver01%2Fdata%2F1879052701%2F0074.jp2/pct:44.046291,32.475248,11.447295,6.255096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WestSen27n_ver01%2Fdata%2F1879052701%2F0074.jp2/pct:38.706079,28.538148,10.052984,5.497962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13709,7 +13712,7 @@ and mouth projecting. For apoplexy, raise
 * | son Hat.  
 , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624566:1879070501:0076/pct:98.704946,100.301532,13.278203,25.147751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624566:1879070501:0076/pct:76.486191,77.734893,10.298018,19.478953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13732,7 +13735,7 @@ coffee and keep moving.
 FiFn Frittebs. Take the remains of  
 an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn86053402:00280779283:1879080701:0593/pct:28.271693,52.838314,15.522760,6.981600/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn86053402:00280779283:1879080701:0593/pct:21.212660,39.631998,11.646515,5.245987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13819,7 +13822,10 @@ of poisoning., &#x27;excite .vomiting . by
 tickling the throat by Water or mus­  
 tard. For acid poisons, &#x27;give .alka­  
 lies; &#x27;in case, of opium poison, giv
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aerecura_ver01%2Fdata%2Fsn84024558%2F000001814%2F1879092501%2F0152.jp2/pct:75.919460,73.742741,9.858007,9.573088/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -13900,7 +13906,7 @@ the hack, with the nose and mouth pro­
 jecting. For apoplexy, raise tlie head  
 and body; lor fainting, lay th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:00414186580:1879092701:0398/pct:30.155956,24.492799,12.086582,21.150005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:00414186580:1879092701:0398/pct:30.142511,24.482287,12.086582,21.150005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14100,7 +14106,7 @@ ting by tickling the throat or by­
 hot water or mustard. In case of  
 opium poison giv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020540:1880111101:0198/pct:113.033109,22.270443,12.991021,6.920968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020540:1880111101:0198/pct:84.806397,16.708543,9.750281,5.196437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14180,7 +14186,7 @@ nose and mouth projecting. For appo­
 plexy, raise the head and body; for  
 fainting, lay 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacklin_ver01:data:sn86092182:00514157479:1882080501:1087/pct:19.918246,4.833795,12.281680,17.908587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacklin_ver01:data:sn86092182:00514157479:1882080501:1087/pct:19.899666,4.819945,12.281680,17.908587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14242,7 +14248,7 @@ with the nose and mouth project­
 iug.For apoplexy, raise the head and  
 body; for fainting lay fla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020540:1882081001:0573/pct:21.530554,10.709002,13.577955,30.454080/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020540:1882081001:0573/pct:16.147915,8.034597,10.194175,22.840560/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14283,7 +14289,7 @@ end, of * Cigar.y , f !
 In case of poisoning, excite vomit­  
 ing by tiuklipg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:0051699146A:1883051901:0061/pct:22.982585,21.992324,16.703458,18.254630/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:0051699146A:1883051901:0061/pct:22.958057,21.975638,16.703458,18.254630/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14433,7 +14439,7 @@ coffee and keep moving. It in
 j water float on the back with the]  
 ! nose and mouth projectin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213042:1886091501:0374/pct:18.458682,9.303562,13.351903,24.481659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213042:1886091501:0374/pct:18.440111,9.290271,13.351903,24.481659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14619,7 +14625,7 @@ through smoke take- a full breath
 and then stoop low, but if carbonic  
 acid is suspected walk erect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarWilm100n_ver01%2Fdata%2F1892033001%2F0307.jp2/pct:40.650289,53.402969,16.213873,22.979659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarWilm100n_ver01%2Fdata%2F1892033001%2F0307.jp2/pct:30.491329,40.065970,12.182081,17.251237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14668,7 +14674,7 @@ gas is suspected walk erect.—From a
 Book of Profeuor B. G. Wilder of  
 Cor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_bullfrog_ver01:data:sn84022060:00332890566:1892033001:0305/pct:25.470482,36.609420,17.478732,28.209488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_bullfrog_ver01:data:sn84022060:00332890566:1892033001:0305/pct:25.444702,36.592416,17.478732,28.209488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14776,7 +14782,7 @@ For apoplexy raise the head and body;
 for fainting lay the person flat.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:0041421096A:1892040501:0605/pct:44.450946,43.093002,12.502438,19.918207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:0041421096A:1892040501:0605/pct:44.431441,43.077855,12.502438,19.918207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14849,7 +14855,7 @@ smoke take a full breath and then stoop
 low, but if carbonic acid gas is suspect- j  
 ed walk erect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:0041418666A:1892041201:0222/pct:28.521870,40.488875,12.986425,17.037501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:0041418666A:1892041201:0222/pct:28.506787,40.478429,12.986425,17.037501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15117,7 +15123,7 @@ nose and month projecting.
 for fainting lay the penoa flskOiiW  
 York Herald.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ComRS1n_ver01%2Fdata%2F1892042801%2F0028.jp2/pct:43.272472,11.296112,16.376404,23.359920/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ComRS1n_ver01%2Fdata%2F1892042801%2F0028.jp2/pct:32.457865,8.474576,12.289326,17.517448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15170,7 +15176,7 @@ Turk Herald. j
   
 THE DISCOVERY OF M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalSigR2n_ver01%2Fdata%2F1892042801%2F0371.jp2/pct:61.352592,7.341147,35.934125,120.203578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalSigR2n_ver01%2Fdata%2F1892042801%2F0371.jp2/pct:46.017819,5.511001,26.970842,90.170677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15222,7 +15228,7 @@ For apoplexy raise the heed and body |
 for fainting lay the person flat.—Sew  
 Jobson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SanEx2_ver01%2Fdata%2F1892042801%2F0251.jp2/pct:43.791574,71.132665,12.439024,21.436791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SanEx2_ver01%2Fdata%2F1892042801%2F0251.jp2/pct:43.769401,71.116226,12.439024,21.420352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15265,7 +15271,7 @@ take a fail breath and then stoop low, but
 if carbonic acid gas is suspected walk erect.  
 —Professor Wilder.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896477:1892042801:0334/pct:86.619610,59.518307,9.820470,13.343875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896477:1892042801:0334/pct:86.604266,59.506143,9.820470,13.343875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15319,7 +15325,7 @@ Turk Herald.
   
 The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SSoRock2n_ver01%2Fdata%2F1892043001%2F0337.jp2/pct:109.436275,75.691221,18.491285,30.706357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SSoRock2n_ver01%2Fdata%2F1892043001%2F0337.jp2/pct:82.094227,56.781029,13.875272,23.047427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15358,7 +15364,7 @@ pneumonia while in the northern part
 ot the State during the recent blixxard.  
 Mr. Blaize had occasion t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_quartz_ver01:data:sn86076200:00279554103:1892043001:0075/pct:4.385423,53.165844,12.373893,11.966308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_quartz_ver01:data:sn86076200:00279554103:1892043001:0075/pct:4.364834,53.151322,12.373893,11.966308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15455,7 +15461,7 @@ by tickling the throat or by warm water
 and mustard.  
 If i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776142:1892050401:1100/pct:58.688080,50.058599,16.215170,36.859068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776142:1892050401:1100/pct:44.040248,37.562262,12.171053,27.658951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15519,7 +15525,7 @@ by tickling the throat or by warm water
 and mustard.  
 If i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776142:1892050401:1104/pct:59.578907,50.778862,15.781487,36.555539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776142:1892050401:1104/pct:44.707891,38.098704,11.836115,27.442131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15561,7 +15567,7 @@ take a full breath and then stoop low but
 if carbonic acid gas is suspected walk erect  
 Professor Hililc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048637:1892050801:0447/pct:27.406932,102.398545,19.431964,18.108446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048637:1892050801:0447/pct:18.276637,68.284642,12.949294,12.072297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15690,7 +15696,7 @@ For apoplexy, raise the head and
 body; for fainting, lay the person  
 flat.—Selected.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jicama_ver01:data:sn87065702:00516991021:1892051901:0026/pct:36.312383,72.286509,14.073919,23.846492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jicama_ver01:data:sn87065702:00516991021:1892051901:0026/pct:36.291501,72.257214,14.073919,23.846492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15802,7 +15808,7 @@ equally good training, one will succeed in life,
 while the other, without being bad, “never  
 anounts to anything,” as th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1892061601:0771/pct:6.445855,6.908345,43.316144,87.045144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1892061601:0771/pct:6.426021,6.894665,43.316144,87.031464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15879,7 +15885,7 @@ by tickling the throat or by warm water
 and mustard.  
 If i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ChronWilk1n_ver01%2Fdata%2F1892062301%2F0327.jp2/pct:68.007878,52.803532,18.275183,29.061810/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ChronWilk1n_ver01%2Fdata%2F1892062301%2F0327.jp2/pct:51.012943,39.602649,13.702870,21.799117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15900,7 +15906,7 @@ then stoop low, but if carbonic gas is
 suspected walk erect.—Prof. B.  
 Wilder.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013894:1892071401:1064/pct:52.919455,86.432878,14.493423,4.300222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013894:1892071401:1064/pct:52.896377,86.401142,14.493423,4.300222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15921,7 +15927,7 @@ put on to cook, and when it is done,
 letting it remain in the pot until cold.  
 The Line
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1892072101:0064/pct:29.148860,95.594262,15.580484,5.660861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1892072101:0064/pct:21.866097,71.695697,11.680912,4.264857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15946,7 +15952,7 @@ old.
 To The Public:  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271762926:1892072201:0079/pct:95.632911,7.267356,14.240506,9.276219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271762926:1892072201:0079/pct:71.756329,5.450517,10.696203,6.957164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16037,7 +16043,7 @@ through smoke take a full breath and
 then sloop low, but if carbonic acid  
 | gas is suspected walk erect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1892081201:0152/pct:55.597015,80.283336,16.084053,31.809552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1892081201:0152/pct:43.087196,62.217029,12.450903,24.638528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16109,7 +16115,7 @@ water when put on to rook, and when
 it is done letting it remain in the pot  
 until cold.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539276:1892101201:0164/pct:81.588542,100.623913,13.697917,6.116396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539276:1892101201:0164/pct:61.197917,75.473049,10.273438,4.602639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16354,7 +16360,7 @@ For apoplexy raise the head and body ; for
   
 fainting lay the person flit.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_20210405Foo05_ver01%2Fdata%2Fsn96088450%2F14111410005%2F1893020901%2F1072.jp2/pct:29.298150,6.308283,20.484222,28.323277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_20210405Foo05_ver01%2Fdata%2Fsn96088450%2F14111410005%2F1893020901%2F1072.jp2/pct:21.980413,4.735784,15.369967,21.247029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16412,7 +16418,7 @@ mustard.
   
 Agains
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_mazama_ver01:data:sn84022644:00295868351:1893021701:0163/pct:26.893939,12.290112,29.195804,43.959888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_mazama_ver01:data:sn84022644:00295868351:1893021701:0163/pct:20.177739,9.223414,21.896853,32.987407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16459,7 +16465,7 @@ The water should be boiling when
 they are put in.  
 Wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jicama_ver01:data:sn87065702:00516991021:1893030201:0354/pct:35.273258,69.798951,14.080100,7.634033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jicama_ver01:data:sn87065702:00516991021:1893030201:0354/pct:35.252399,69.784382,14.080100,7.619464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16489,7 +16495,7 @@ smoke take a full breath and then stoop
 low, but if carbonic acid gaa is ins  
 pected walk erect &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473649:1893042101:0455/pct:74.813278,138.342967,20.746888,5.732177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473649:1893042101:0455/pct:49.875519,92.244701,13.838174,3.817437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16561,7 +16567,7 @@ will often spread burning oil and in­
 crease dangor.  
 Remove matter from th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_desalvo_ver01:data:sn99063954:0028076033A:1894012901:0733/pct:19.988781,112.783564,16.997008,9.730347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_desalvo_ver01:data:sn99063954:0028076033A:1894012901:0733/pct:14.996260,84.619775,12.752431,7.304894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16617,7 +16623,7 @@ teen Cents.
 Upon receipt of your address and fif­  
 teen cents in postage sta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159233:1894030101:1342/pct:46.759078,21.192053,18.703631,38.991756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159233:1894030101:1342/pct:36.235845,16.421138,14.506052,30.220300/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16682,7 +16688,7 @@ tlu&gt; wrong side of the knee of chil­
 diva’s hose with strong cotton  
 wf.l strengthen &#x27;the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542866007:1894031501:0338/pct:35.955519,6.539628,13.879736,31.990761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542866007:1894031501:0338/pct:35.934926,6.525191,13.879736,31.990761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16774,7 +16780,7 @@ bound on the throat will greatly easo r
 soro throat. It is said that it will also  
 heal cuts amt euro chilblains
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_desalvo_ver01:data:sn99063954:0028076033A:1894031901:0899/pct:76.542270,38.675707,17.174410,8.381420/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_desalvo_ver01:data:sn99063954:0028076033A:1894031901:0899/pct:57.425743,29.024812,12.909368,6.289671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -440,7 +440,7 @@ If Gi&#x27;-.ndciir&#x27;a guilty bride they murn!,
 A.t I ho ne to Virtue bp reuira&#x27;d j ;&#x27;  
 T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalMin2n_ver01%2Fdata%2F1817082201%2F0356.jp2/pct:7.440476,5.329417,85.141941,35.319625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalMin2n_ver01%2Fdata%2F1817082201%2F0356.jp2/pct:5.586081,4.000560,63.896520,26.493216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ An J home to Virtue&#x27; lap retnrn&#x27;d ;
 1U sefeet with angel&#x27;s win? shall vie,  
 An.Vread the palace of the sky !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalRegNCWA22n_ver01%2Fdata%2F1817091201%2F0148.jp2/pct:12.198221,10.254065,23.046379,33.221545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalRegNCWA22n_ver01%2Fdata%2F1817091201%2F0148.jp2/pct:9.148666,7.693089,17.296696,24.928862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -965,7 +965,7 @@ Or co&#x27;nfort to !the;n)uurnecJroui:ht,
 These hands a rurhr ihted sit;:ll claim,  
 VThan ali that-woits on ultlt or 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCSen2n_ver01%2Fdata%2F1820120901%2F0568.jp2/pct:9.461279,9.198910,23.905724,49.100817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCSen2n_ver01%2Fdata%2F1820120901%2F0568.jp2/pct:7.104377,6.899183,17.929293,36.850136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1211,7 +1211,7 @@ And home to virtue’s lap return’d;
 Tit ese feet with angel&#x27;s wings shall vie,  
 And tread the palace of the sky !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1821041001:0055/pct:5.989583,6.521036,17.578125,38.446602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1821041001:0055/pct:5.963542,6.504854,17.578125,38.446602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1524,7 +1524,7 @@ These feet with angel&#x27;s wings snail
 vie,  
 And tread the palace of the sky 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TarFPS1_ver01%2Fdata%2F1824060401%2F0048.jp2/pct:12.149158,18.576699,25.641540,50.101154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TarFPS1_ver01%2Fdata%2F1824060401%2F0048.jp2/pct:8.099439,12.388433,17.101043,33.404736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2860,7 +2860,7 @@ Aid come to VRtm&#x27;s lap returned.
 These tret w jth angels, w ings shkll vie,  
 Anr! &quot;e;d the nalnce of tl.c kv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat12n_ver01%2Fdata%2F1836072701%2F0164.jp2/pct:6.886716,10.127592,25.264874,36.190856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat12n_ver01%2Fdata%2F1836072701%2F0164.jp2/pct:5.175224,7.602339,18.948655,27.153110/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3169,7 +3169,7 @@ way back to Wilkesbarre for the night. In re
 passing (now in recollection) the quiet residence  
 of good old Fathe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1840100201:0119/pct:53.962017,36.296038,23.722986,23.527361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1840100201:0119/pct:40.471513,27.222029,17.796333,17.648426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3802,7 +3802,7 @@ And tread the pnlaoe of the sky!
   
 &#x27;•
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016494:1846052201:0275/pct:52.226796,45.509412,11.751497,25.678977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016494:1846052201:0275/pct:52.208084,45.495042,11.751497,25.678977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3859,7 +3859,7 @@ And home to virtue&#x27;s lap returned,
 These feet with angel&#x27;s wings shall vie,  
 And tread the palace of the aky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1847111301:0402/pct:24.007149,13.633511,22.259730,72.434892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1847111301:0402/pct:18.010326,10.229056,16.699762,54.361468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4005,7 +4005,7 @@ And heme, to virtue&#x27;s lap returned,
 These feet with angel&#x27;s wings shall vie,  
 And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalReg9n_ver01%2Fdata%2F1849042801%2F0134.jp2/pct:86.059480,7.272344,18.945831,29.152614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalReg9n_ver01%2Fdata%2F1849042801%2F0134.jp2/pct:64.551248,5.459528,14.206054,21.859191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4062,7 +4062,7 @@ I These feet with angel’s wines shall vie,
 j And tread the palace of the sky.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849050301:0247/pct:84.173696,13.254848,12.327454,19.162050/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849050301:0247/pct:84.164110,13.247922,12.327454,19.162050/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4110,7 +4110,7 @@ And home to virtues lap returned;
 These feet with angel&#x27;s wings shall fly  
 . And reach the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065038:00295877662:1851112001:0110/pct:21.149490,39.614228,16.067384,24.587784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065038:00295877662:1851112001:0110/pct:15.869196,29.710671,12.046999,18.458986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4282,7 +4282,7 @@ And tread the palace ot the sky.
   
 Orland
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1852042901:0601/pct:49.152880,55.510037,15.327885,27.789157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1852042901:0601/pct:49.132948,55.496381,15.327885,27.775502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4427,7 +4427,7 @@ And tread the palace of the sky.
 &quot;These lines were found in a case which contained a skole­  
 ton in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_doubleday_ver01:data:sn83026172:0021167829A:1858090101:0371/pct:82.662404,10.171245,12.934167,20.675784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_doubleday_ver01:data:sn83026172:0021167829A:1858090101:0371/pct:82.647871,10.159752,12.934167,20.675784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4682,7 +4682,7 @@ To seek Affliction&#x27;s humble shed;
 If Grandeur&#x27;s guilty bribe they spurned,  
 And
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198004:1860110801:0537/pct:47.616468,28.390447,16.657638,28.296989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198004:1860110801:0537/pct:31.744312,18.930426,11.118635,18.878505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5131,7 +5131,7 @@ And hpme to Virtue&#x27;s Up return’d; v ^
 These feet with angel&#x27;s wings shall vie,  
 And tread the palace of the sky! 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151167:1867042601:0833/pct:2.594180,47.115385,11.279044,24.353147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151167:1867042601:0833/pct:2.571622,47.097902,11.279044,24.353147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5275,7 +5275,10 @@ And home to virtue&#x27;s cot returned.
 These feet with angel&#x27;s wings shall vie.  
 And - tread the palace of the sky.  
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_caelus_ver01%2Fdata%2Fsn84026384%2F000002016%2F1868041501%2F0548.jp2/pct:16.388595,7.810789,12.261653,23.545318/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5346,7 +5349,10 @@ If gritadeur&#x27;s guilty bribe they spurned,
 And home to virtue&#x27;s cot returned.  
 These feet with angel&#x27;s wings shall vie.  
 And - tread the palace of the sky.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_caelus_ver02%2Fdata%2Fsn84026384%2F000002016%2F1868041501%2F0548.jp2/pct:16.388595,9.282585,12.261653,22.073521/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5379,7 +5385,7 @@ Thi space was thought&#x27;s nivsterious seat;
 What beauteous vision filled this spot!  
 WJiat dreams of pleasure louz forzot !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195301:1868050201:0052/pct:36.442208,16.438505,14.215686,12.940026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195301:1868050201:0052/pct:27.334881,12.331595,10.668215,9.702303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5524,7 +5530,7 @@ These feet with angel&#x27;s winj-s shall vie. 1
 And tread the. palace of the sky.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WestSen17n_ver01%2Fdata%2F1868050801%2F0069.jp2/pct:5.518395,40.026871,26.365663,48.284415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WestSen17n_ver01%2Fdata%2F1868050801%2F0069.jp2/pct:4.138796,30.022737,19.774247,36.223646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5599,7 +5605,10 @@ Those feet with angel&#x27;s wings shall vie,
 And tread the palace of tho.skY.  
   
 MISCELLANEOUS.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001843%2F1868050801%2F0072.jp2/pct:50.570167,15.375131,10.538900,23.759528/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5709,7 +5718,7 @@ That eye shall be Joiever bright,
 When can and stars are tank In night.  
 Within this hollow cavern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895023:1868052201:0712/pct:57.216597,15.759476,12.626563,11.028783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895023:1868052201:0712/pct:57.196744,15.745227,12.626563,11.028783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5823,7 +5832,7 @@ FURSI4N
 LEGATIONS AN THlE  
 UNITED
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buford_ver01:data:sn83026172:00211678458:1868090501:0598/pct:5.089606,5.942275,13.390681,18.087153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buford_ver01:data:sn83026172:00211678458:1868090501:0598/pct:5.075269,5.930956,13.390681,18.087153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5884,7 +5893,7 @@ These feet with angel&#x27;s wings shall vlo,
 And tread the palace of the sky.  
 Author
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1868091801:0038/pct:104.181952,23.003282,15.572267,30.333698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1868091801:0038/pct:78.173147,17.259300,11.683786,22.770788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6001,7 +6010,7 @@ And home to virtue’s lap return’d
 These feet with angel’s wings shall vie  
 And tread the palace of the sk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_collie_ver01:data:sn84027460:print:1868101001:0174/pct:38.671622,6.144041,14.495798,24.333971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_collie_ver01:data:sn84027460:print:1868101001:0174/pct:29.007757,4.614404,10.875889,18.253665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6061,7 +6070,7 @@ And home to virtue&#x27;s cot returned,
 &#x27;. These lect with angel wings shall vie,  
 And tread the palace ol the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042148:00296022676:1868110401:0611/pct:6.536189,7.210278,17.115953,27.464604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042148:00296022676:1868110401:0611/pct:4.911374,5.414263,12.832349,20.595176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6240,7 +6249,7 @@ If with no lawless Are it gleamed.
 But through the dew of kindness beamed.  
 i nat eye snail oe iorever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286868:1869032401:0295/pct:34.294459,15.136794,12.999356,12.925083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286868:1869032401:0295/pct:25.724871,11.352595,9.761598,9.703401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6270,7 +6279,7 @@ If grauduer&#x27;s guilty bribe they spurned.
 These feet with angel&#x27;s wings shall vie.  
 And tread the pa luce of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286868:1869032401:0295/pct:34.987113,32.983892,11.952320,6.916390/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286868:1869032401:0295/pct:26.240335,24.737919,8.972294,5.190488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6331,7 +6340,10 @@ It Grandeur&#x27;s guilty bribe they spurned,
 A d Bowe to Virtue&#x27;s cot returned,  
 (q..t With co gel&#x27;s wings shall vie,  
 An:l tilt• palace of the cloy
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_rooseveltt_ver01%2Fdata%2Fsn83031987%2F000001774%2F1869051901%2F0077.jp2/pct:36.769561,18.611465,13.238693,21.576433/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6581,7 +6593,7 @@ Yi t genilo con runl i i vi r broke.
 This silent tongue shall plead n.r thee  
 When time unveils elei titty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477680:1870021701:0510/pct:55.455093,33.226305,17.450271,18.599120/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477680:1870021701:0510/pct:41.591320,24.925675,13.110307,13.949340/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6686,7 +6698,10 @@ I I with 00 laovless lire it 00111110 f,
 Ihit through the dent of kindness beamed—  
 &#x27;vita t eye Ithal I he Iner,et•r•O•riert , • -&quot; - •  
 When .nn and stars nve sunk in ni
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_acis_ver01%2Fdata%2Fsn83032185%2F000001888%2F1870030501%2F0037.jp2/pct:36.457660,40.087813,13.130252,10.544172/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6741,7 +6756,7 @@ These feet with angels&#x27; wings shall vie,
 And tread the palace of the sky.  
 Winning 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026050:00280776798:1870081601:0277/pct:30.681818,17.033525,21.837945,43.565865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026050:00280776798:1870081601:0277/pct:23.023715,12.783610,16.403162,32.695564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6964,7 +6979,7 @@ j &quot; flf grandeur&#x27;s guilty bribe they spurned,
 , These feet with angel&#x27;s wings shall vie,  
 &quot;And tread the palace of the&#x27;teky. -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_EagFay2n_ver01%2Fdata%2F1871021601%2F0028.jp2/pct:3.731720,9.117149,19.490671,25.440430/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_EagFay2n_ver01%2Fdata%2F1871021601%2F0028.jp2/pct:2.798790,6.837862,14.624307,19.080322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7101,7 +7116,7 @@ I .-
 SILVER I WEST VIHGIMA.  
 Reportrd THacovery or an Ancien
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779398:1871031001:0224/pct:21.434494,47.392485,17.475124,30.504358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779398:1871031001:0224/pct:16.086235,35.547935,13.101161,22.874696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7370,7 +7385,7 @@ And home to virtue&#x27;s cot returned,
 These wings with angel&#x27;s wings shall vie,  
 And tread the palace of the sky
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn85033681:00296021088:1871051001:0014/pct:11.149425,11.364921,14.382184,38.278865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn85033681:00296021088:1871051001:0014/pct:8.362069,8.526518,10.790230,28.711976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7546,7 +7561,10 @@ These feet with angel’s wings Shall rise,
 And treat the palace of the skies.  
   
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001751%2F1871072001%2F0115.jp2/pct:22.247549,14.114799,17.658696,75.684647/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -7716,7 +7734,10 @@ Whin - time unveils eternity.
 o?Eiy, did&#x27;tbese,flogers delve the mine,  
 Or with the envied ruby shlpe?  
 To 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_cura_ver03%2Fdata%2Fsn86081133%2F000002092%2F1871110101%2F0173.jp2/pct:49.928752,16.514555,10.568398,13.063708/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -7881,7 +7902,7 @@ And home to Virtue&#x27;s cot returned
 These feet with angels wings shall vie.  
 And tread the palace of the sky
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:0029455564A:1872031401:0408/pct:44.088580,20.464255,12.445095,12.475078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:0029455564A:1872031401:0408/pct:33.071010,15.351752,9.333821,9.356309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8221,7 +8242,10 @@ Can llUlepow avail to them,
 But If the page of trullmhey  
 Or comfort to the mourner brought  
 The hands a richer meed shall c
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fascinus_ver01%2Fdata%2Fsn84026112%2F000002386%2F1873021201%2F0025.jp2/pct:57.973509,14.075195,21.855444,79.420902/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -8263,7 +8287,7 @@ It social love that eye employed,
 If with no lawless lire it gleamed,  
 Hut through the dew o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_longines_ver01:data:sn85025371:00542867218:1873022001:0035/pct:19.508197,11.488354,57.176685,15.778392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_longines_ver01:data:sn85025371:00542867218:1873022001:0035/pct:19.489982,11.475194,57.176685,15.778392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8319,7 +8343,7 @@ And tread the palace of the sky.
 SIM&#x27;S LITTLE GIRL.  
 Fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn85033386:00296020709:1873082201:0138/pct:22.402938,19.394544,12.224554,19.860279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn85033386:00296020709:1873082201:0138/pct:16.802204,14.548680,9.181532,14.892437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8342,7 +8366,7 @@ nnisenm of the RoyallColie oi Snnr-ons, -Lincoln&#x27;s
 Inn, London, rtnd that th&#x27; c nratr of the  
 Museum had tbeiii fuent to the Up Perry, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NBWeekT2n_ver01%2Fdata%2F1873110801%2F0502.jp2/pct:4.940507,36.538085,19.826694,7.382025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NBWeekT2n_ver01%2Fdata%2F1873110801%2F0502.jp2/pct:3.711847,27.403564,14.873254,5.541414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8422,7 +8446,7 @@ And home to virtue&#x27;s cot returned.
 These feet with angel&#x27;s wings shall vie,  
 And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_joshuatree_ver01:data:sn82014896:0021110465A:1873112201:0030/pct:8.700540,19.777778,54.473921,124.903704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_joshuatree_ver01:data:sn82014896:0021110465A:1873112201:0030/pct:5.800360,13.185185,36.330935,83.303704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8499,7 +8523,7 @@ A nd borne to vn tiio&#x27;s cot returned;
 &#x27;J bnse feet with angel&#x27;s wins hall vie.  
 And tlead the. paUM-e oi tne k j.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:00296028988:1873112201:0508/pct:7.716581,98.318304,13.654618,29.259079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:00296028988:1873112201:0508/pct:5.794607,73.738728,10.240964,21.959542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8874,7 +8898,7 @@ Those feet the path of Uutv trod?
 I To sock a Miction* humble shed,  
 j If grandeur’s guilty bribe they sp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1875030401:0024/pct:16.203887,47.455027,12.376041,15.437178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1875030401:0024/pct:16.184054,47.441082,12.376041,15.437178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8910,7 +8934,7 @@ Thes feet with angel&#x27; wings shall vie.
 And tread the palaces of the sky.  
 Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470181:1875051301:0506/pct:35.913774,21.507811,12.255965,12.259452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470181:1875051301:0506/pct:26.938720,16.130858,9.191974,9.203079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9026,7 +9050,7 @@ And home to Virtue&#x27;s cot returned,
 Thee feet with angel wings shall vie,  
 And tread the palace of the sky
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DRWilm27n_ver01%2Fdata%2F1875101301%2F0023.jp2/pct:2.558942,12.667261,18.516389,26.365348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DRWilm27n_ver01%2Fdata%2F1875101301%2F0023.jp2/pct:1.926394,9.505402,13.887292,19.774011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9081,7 +9105,7 @@ And home to Virtue’s cot returned—
 These feet with angel wings shall vie,  
 And tread the palace of the sky!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver02:data:sn97064666:00517016081:1875101401:0162/pct:30.102554,7.073348,12.185803,21.641249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver02:data:sn97064666:00517016081:1875101401:0162/pct:30.082445,7.058824,12.185803,21.641249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9135,7 +9159,7 @@ Yet gentle Concord never broke 1
 This silent tongue shall plead for thee  
 &quot;Wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_lyonsport_ver02:data:sn84022673:0020029841A:1875120301:0061/pct:101.107829,18.458957,25.775480,109.649000/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_lyonsport_ver02:data:sn84022673:0020029841A:1875120301:0061/pct:75.867799,13.844218,19.350074,82.282198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10129,7 +10153,7 @@ sentenced him to six months&#x27; imprison­
 ment with hard labor.  
 A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AnTiW5n_ver01%2Fdata%2F1879022601%2F0058.jp2/pct:27.384479,3.655914,40.876777,122.703533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AnTiW5n_ver01%2Fdata%2F1879022601%2F0058.jp2/pct:20.542062,2.744496,30.672393,92.053251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10975,7 +10999,7 @@ And home to virtue&#x27;s lap returned,
 These feet with nngel&#x27;s wings shall vie,  
 And trend the palace of the sky I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288002:1879031401:0489/pct:35.182427,40.411246,12.844378,13.162680/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288002:1879031401:0489/pct:26.396128,30.311932,9.623976,9.889495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11185,7 +11209,7 @@ Colorado Miners.
 The small mines of Colorado are  
 worked b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763839:1879040901:0301/pct:19.739209,18.741762,30.710432,110.940683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763839:1879040901:0301/pct:14.808153,14.056321,23.051559,83.247454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11891,7 +11915,7 @@ he seemed determined to at once return
 i to the cask, and no doubt withdraw  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524688:1879052201:0323/pct:37.211669,53.595338,11.770692,25.030994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524688:1879052201:0323/pct:37.194708,53.582941,11.770692,25.018597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11947,7 +11971,7 @@ The Zulus as Warriors
 The .accession of desperate battles  
 fought b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524688:1879052201:0323/pct:37.754410,9.905777,22.998643,86.647657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524688:1879052201:0323/pct:37.737449,9.893380,22.998643,86.635259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11988,7 +12012,7 @@ iIA
   
 old Australian settlers, who had been Of course,&quot; he said, there is not a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479755:1879052901:0102/pct:6.904343,46.262410,22.633693,4.701187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479755:1879052901:0102/pct:6.565403,43.945883,21.503892,4.467588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12088,7 +12112,7 @@ return to the cask, and no doubt with*
 draw something more that the interrup­  
 tion had prevented him withdrawing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479755:1879052901:0102/pct:17.901080,53.776523,11.611850,35.146973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479755:1879052901:0102/pct:16.997238,51.090130,11.034396,33.385244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12350,7 +12374,7 @@ And tread the palace of the sky.
 lUTHERX 3EWS.  
 Mormon elder3 are preaching to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779568:1879060101:0461/pct:45.570917,32.776618,12.339990,20.438413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779568:1879060101:0461/pct:34.178187,24.582463,9.267793,15.334029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13068,7 +13092,7 @@ ened and charmed us with his vlvaoity
 and anecdote. All day through he worked  
 on the model of tbe Janet b Pride, still
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023209:00202197486:1879091001:0336/pct:94.600592,122.084196,14.515533,4.596273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023209:00202197486:1879091001:0336/pct:70.968935,91.594203,10.891272,3.450656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13229,7 +13253,7 @@ was summarily dealt with. The presid­
 ing magistrate sentenoed him to sis  
 months&#x27; imprisonment with hard labor.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023209:00202197486:1879091001:0336/pct:109.430473,33.209110,14.663462,85.396825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023209:00202197486:1879091001:0336/pct:82.100592,24.913734,11.002219,64.071774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13418,7 +13442,7 @@ And tread the palace of the sky.
   
 OUR NEW YORK LETTER
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84022957:00542868715:1883061401:0009/pct:5.315126,69.020729,17.962185,13.123660/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84022957:00542868715:1883061401:0009/pct:4.117647,53.481058,13.907563,10.178699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13481,7 +13505,7 @@ These feet with angels&#x27; wings shall vie,
 And tread the palace or the sky.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032575:00237281895:1883090601:0436/pct:43.691589,21.008305,11.799065,24.961984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032575:00237281895:1883090601:0436/pct:32.768692,15.756229,8.878505,18.739034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13655,7 +13679,7 @@ To seek affliction&#x27;s humble shed ;
 If grandeurs guilty bribe they spurned,  
 And home to virtue&#x27;s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879233:1886060201:0201/pct:11.408228,21.758691,22.943038,38.016360/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879233:1886060201:0201/pct:8.560127,16.319018,17.215190,28.527607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13803,7 +13827,7 @@ That tuneful tongue shall plead for thee
 When death unveils eternity.&quot;  
 The above sad thoug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_jones_ver01:data:sn96061150:00200298408:1890050401:0432/pct:59.822420,78.063463,16.856271,16.069789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_jones_ver01:data:sn96061150:00200298408:1890050401:0432/pct:39.886238,52.045710,11.237514,10.713193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13880,7 +13904,7 @@ Yet gentle concord never broke,
 That tuneful tongue shall plead for thee  
 When death uiiu&#x27;ils i lernlt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_papa_2_ver01%2Fdata%2Fsn93051670%2F00033877420%2F1890050801%2F0675.jp2/pct:69.059011,59.923035,18.062201,13.070368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_papa_2_ver01%2Fdata%2Fsn93051670%2F00033877420%2F1890050801%2F0675.jp2/pct:51.814195,44.956020,13.556619,9.813084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14540,7 +14564,7 @@ And where it could not praise was
 chained;  
 If bold i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AshCit28n_ver01%2Fdata%2F1899091101%2F0564.jp2/pct:68.217054,30.162017,15.205725,13.741016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AshCit28n_ver01%2Fdata%2F1899091101%2F0564.jp2/pct:51.162791,22.621513,11.419201,10.305762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

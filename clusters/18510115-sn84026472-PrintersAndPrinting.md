@@ -139,7 +139,10 @@ locking him up sentrWerd word&#x27; his friends, if he has
 any, that heis ctinfined, who, if they­  
 him, can do so. The jailer gives :the  
 water, but no food. If he has any friends ,wh
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fontus_ver01%2Fdata%2Fsn83032304%2F000002694%2F1849082101%2F0133.jp2/pct:73.285590,80.850331,10.785590,10.515436/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -273,7 +276,7 @@ ters themse Ives would be puzzled to read.&quot;’
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_custer_ver01:data:sn83026172:00211678112:1849110101:0415/pct:37.328554,25.936942,15.243142,22.296252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_custer_ver01:data:sn83026172:00211678112:1849110101:0415/pct:37.312968,25.925045,15.243142,22.296252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +327,7 @@ proof-reader, is compelled to spend in reducing
 to a readable condition manuscripts that the  
 i writers themselves would be puzzled to read &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:0041421583A:1849110201:0196/pct:31.086142,48.129096,13.099011,16.284969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:0041421583A:1849110201:0196/pct:31.076539,48.122049,13.099011,16.284969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -448,7 +451,7 @@ readable condition manuscripts that the
 writers themselves would be puzzled to  
 read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarObsF12n_ver01%2Fdata%2F1849110601%2F0179.jp2/pct:21.225845,31.894084,34.012681,44.012405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarObsF12n_ver01%2Fdata%2F1849110601%2F0179.jp2/pct:15.926932,23.926527,25.513285,33.015267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -568,7 +571,7 @@ i hours a compositor, and after him a proof reader, is
 i lion manuscripts that the writers would bo puzzled  
 j to read.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1849110701:0378/pct:20.636084,47.630359,14.876154,23.334464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1849110701:0378/pct:20.621428,47.619048,14.876154,23.334464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -701,7 +704,7 @@ reducing to a readable condition manuscripts that
 the. writer themseUe would be punlcd to read,?  
 ; . - -. --
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat15n_ver01%2Fdata%2F1849111001%2F0590.jp2/pct:27.501714,86.433231,40.250171,39.488750/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat15n_ver01%2Fdata%2F1849111001%2F0590.jp2/pct:20.630569,64.824923,30.191912,29.636533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -907,7 +910,10 @@ how many hours a compositor, stud afire him a
 proofreader, m compelled tu spend in reducing to  
 readable ea:id:non manuterapte that the writers  
 themselves would be puzzled to read.&quot;
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_flora_ver01%2Fdata%2Fsn85054514%2F000002678%2F1849111201%2F0038.jp2/pct:37.789898,24.382985,9.542060,10.957462/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1055,7 +1061,7 @@ Not. 8. - Stated Clerk.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal3_ver01%2Fdata%2F1849111501%2F0183.jp2/pct:44.592476,50.213614,19.879833,8.107852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal3_ver01%2Fdata%2F1849111501%2F0183.jp2/pct:33.463950,37.672078,14.903344,6.085636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1113,7 +1119,7 @@ CO.,
 &quot;ITJOULD respectfully Inform the publlo, thai  
 VV they have tsken a atore on the South aid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ComWilm2n_ver01%2Fdata%2F1849111501%2F0677.jp2/pct:0.785546,7.029900,43.892380,113.049834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ComWilm2n_ver01%2Fdata%2F1849111501%2F0677.jp2/pct:0.589159,5.275748,32.934014,84.797342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1164,7 +1170,10 @@ printer knows how many hours a compositor, and
 after him a proof reader, is compelled to spend in  
 reducing to a readable condition manuscripts that  
 the writers themselves would bo puzzled to read.”
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001729%2F1849111501%2F0177.jp2/pct:21.512277,21.625845,14.687500,24.860642/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1284,7 +1293,7 @@ spend in reducing to a readable condition
 inaniuscripts thai the writers themselves  
 would be puzzled to read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WeekComW1n_ver01%2Fdata%2F1849111601%2F0234.jp2/pct:48.658601,84.911701,21.002104,32.944335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WeekComW1n_ver01%2Fdata%2F1849111601%2F0234.jp2/pct:36.493951,63.699267,15.768017,24.713415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1343,7 +1352,7 @@ to spend in reducing to a readable condition man
 uscripts that tha writers themselve would be pus  
 iled to read.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmChron1n_ver01%2Fdata%2F1849112101%2F0942.jp2/pct:109.771863,92.711446,22.205323,25.152657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmChron1n_ver01%2Fdata%2F1849112101%2F0942.jp2/pct:82.338403,69.546577,16.653992,18.877485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1433,7 +1442,7 @@ Nov 24 Stated Clerk,
   
 Town Ordinance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_LinLC1_ver01%2Fdata%2F1849112401%2F0354.jp2/pct:32.024520,56.522228,42.064281,11.018571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_LinLC1_ver01%2Fdata%2F1849112401%2F0354.jp2/pct:21.355202,37.692741,28.064944,7.349465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1540,7 +1549,7 @@ pelled to spend in reducing ia a reada­
 ble condition, manuscripts that the wri­  
 ter himself would be puzzled to read,”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1849112901:0155/pct:78.216056,12.652335,14.806739,26.222101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1849112901:0155/pct:78.196234,12.638642,14.806739,26.222101/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1605,7 +1614,7 @@ to a readible condition manuscripts that
 the writers themselves would be puzzled  
 to read.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027510:1849120101:0610/pct:88.755102,76.171314,19.530612,34.521414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027510:1849120101:0610/pct:66.571429,57.128485,14.653061,25.912619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1778,7 +1787,10 @@ is compelled to spend in reducing to a
 readable condition manuscripts that the  
 writers themselves would be puzzled to  
 read,&quot; ,
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fauna_ver01%2Fdata%2Fsn85038381%2F000002391%2F1849121401%2F0147.jp2/pct:41.849610,19.362745,12.797497,18.915802/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1830,7 +1842,7 @@ to snfcnd in redutcine to a readable condi
 tio &#x27; manuscript tnit the writers thero-  
 selves wawa p puzaiea ip reau.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1849123101:0709/pct:53.451327,22.340759,46.814159,106.542203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1849123101:0709/pct:40.088496,16.755570,35.110619,79.934107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1880,7 +1892,10 @@ spend&#x27; in &#x27;redueinglit readable =Edon
 manuactipts that; the writer s  
 would be pitzzled  
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002339%2F1850010501%2F0002.jp2/pct:49.631661,78.661363,10.368339,15.907667/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2053,7 +2068,10 @@ how many home a compositor.&#x27; and after him a proof­
 rerder. Is compelled to speed in reducing -totoadish!,  
 condition:manuscripts that tbb writerstheruseliba would  
 be rattled is read&quot;
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_dispater_ver01%2Fdata%2Fsn83032025%2F000002277%2F1850022301%2F0133.jp2/pct:63.885703,83.046018,14.540329,12.334103/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2151,7 +2169,7 @@ reducing to a readable condition manu­
 scripts that the writers themselves would  
 be puzzled to read.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1850102401:0301/pct:48.318829,14.270212,14.517405,34.346175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1850102401:0301/pct:48.299051,14.256647,14.517405,34.346175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2276,7 +2294,7 @@ himself would be puzzled to read.&quot;
 I PINE IMPORTED CIGARS AND CHOICE  
 ’ CHEWING
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851010101:0251/pct:7.351838,54.735683,12.659415,18.784416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851010101:0251/pct:7.342461,54.728800,12.659415,18.784416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2336,7 +2354,7 @@ himself would be puzzled to read.”
 UxIon DEMONSTRATION in Iowa—A mass meeting—  
 the largest gathering of the people ever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_custer_ver01:data:sn83026172:00211678136:1851010801:0553/pct:48.833955,38.685694,15.220771,24.463365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_custer_ver01:data:sn83026172:00211678136:1851010801:0553/pct:48.818408,38.673702,15.220771,24.463365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2359,7 +2377,7 @@ ficers of tlie U. S. Ship Marion, excepting
 one officer and fifteen men perished.  
 France.— A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1851010901:0346/pct:82.110454,28.542345,14.635108,4.736699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1851010901:0346/pct:82.090730,28.528773,14.635108,4.736699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2458,7 +2476,7 @@ officers of the United States ship Marion,
 except one officer and fifteen men, perish­  
 ed.&quot; GARDEN SEED
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarObsF12n_ver01%2Fdata%2F1851011401%2F0424.jp2/pct:94.397939,103.711159,17.981326,11.598943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarObsF12n_ver01%2Fdata%2F1851011401%2F0424.jp2/pct:70.830650,77.808529,13.490019,8.718078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2503,7 +2521,10 @@ knows how many hours the compositor, and after
 him the proof-reader, is compelled to- spend an re­  
 ducing to a readable condition manuscripts that  
 the writer himself would bo puzzled to read.&quot;
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_diInferi_ver01%2Fdata%2Fsn84026248%2F000002209%2F1851011401%2F0042.jp2/pct:47.398325,56.091736,9.748804,10.505870/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2763,7 +2784,7 @@ some of the officers of the United States ship
 Marion, except one officer and fifteen men, per­  
 ished.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jaeger_ver01:data:sn94059319:print:1851011601:0092/pct:39.848341,16.973302,14.824645,5.394937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jaeger_ver01:data:sn94059319:print:1851011601:0092/pct:39.829384,16.959469,14.824645,5.394937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2872,7 +2893,7 @@ nscripts that the writer himself would
 be puzzled to read.”  
 Mas. Junsov*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624451:1851011801:0315/pct:104.133333,68.066961,19.444444,33.891346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624451:1851011801:0315/pct:80.711111,52.747947,15.066667,26.263424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2915,7 +2936,7 @@ which bjic fVuii fair lo the eye, but : to remove fi orn them the temptation to
 mortal in its effects, how much more, in j gel at the goods of others by violent or  
 this fallen slate, ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1851012301:0488/pct:93.387471,74.376121,34.976798,15.217746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1851012301:0488/pct:70.088940,55.798402,26.237432,11.433698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3036,7 +3057,7 @@ Immigrants. The number of Immigrants into the
 united States during the year ending 30th September  
 ; JJt wa 325,333, including 43.615 from California.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851012501:0104/pct:3.389831,92.727040,19.752282,30.631093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851012501:0104/pct:2.542373,69.561313,14.830508,22.986147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3061,7 +3082,7 @@ every shape; and to take from its advocates every
 plausrMe ground, lm would now vote for Free Suff­  
 rage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851012901:0253/pct:2.866515,108.620690,40.159726,6.811409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851012901:0253/pct:2.153451,81.492124,30.119795,5.108557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3081,7 +3102,7 @@ Immigrants. The number of Immigrants inin ibo
   
 last was 325,333, including 43,615 from California.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851012901:0255/pct:3.391747,124.239177,19.389486,2.057437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851012901:0255/pct:2.543810,93.206172,14.556246,1.543078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3126,7 +3147,7 @@ proof-reader, is compelled to spend in reducing to a
 readable condition manuscripts that the writer him­  
 self would be puzzled to read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1851013101:0027/pct:4.596679,49.626781,20.803677,19.904999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1851013101:0027/pct:3.454923,37.231396,15.599051,14.951368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3249,7 +3270,7 @@ rcdusing to a readable condition man­
 uscripts that the writer himself would  
 be puzzled to rea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779210:1851013101:0214/pct:61.654442,84.626843,18.072535,37.107106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779210:1851013101:0214/pct:46.251019,63.488753,13.569682,27.856398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3309,7 +3330,7 @@ proof reader, is compelled to spend in reducing to a
 readible condition, manuscripts that the writer him­  
 self wouid be puzzled to read.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172170:1851020301:0092/pct:56.115108,10.182918,44.495313,110.384560/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172170:1851020301:0092/pct:43.492479,7.878439,34.466972,85.553795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3517,7 +3538,7 @@ ducing to a readable condition manu­
 scripts that the writer himself would b*  
 puszled to read.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1851022001:0369/pct:70.469400,13.450847,23.846306,84.094915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1851022001:0369/pct:70.449594,13.437288,23.846306,84.081356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3612,7 +3633,7 @@ the writer himself would be puzzled to read.”
   
 A FREE VERSION OF
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84024361:00542868284:1851022601:0184/pct:65.693300,70.617855,19.025439,30.035384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84024361:00542868284:1851022601:0184/pct:50.913651,54.722373,14.743819,23.271639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3706,7 +3727,10 @@ but the compositor, anti after him the proof
 reader, is compelled to spend tune in redu­  
 cing to a readable condition manuscript that  
 the writer himself would be puzzled to; read!&quot;
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002340%2F1851032201%2F0045.jp2/pct:72.720401,5.260284,20.054901,87.999029/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4050,7 +4074,7 @@ cr, is compelled to Epend&#x27; in reducing to a
 readable condition manu --ripts that the wri­  
 ter himself would bo puzzied to read.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065038:00295877662:1851090401:0070/pct:40.942857,88.533444,17.414286,26.371001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065038:00295877662:1851090401:0070/pct:30.714286,66.420856,13.071429,19.796427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4174,7 +4198,7 @@ scripts that the writer himself would be puzzled
 to read.”  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL1_ver01%2Fdata%2F1851100801%2F0464.jp2/pct:72.757410,63.345836,16.731669,29.722431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL1_ver01%2Fdata%2F1851100801%2F0464.jp2/pct:72.737910,63.330833,16.731669,29.707427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4786,7 +4810,10 @@ condition, manuscripts that the author
 himself would be puzzled to read.&#x27;  
   
 I
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_epona_ver01%2Fdata%2Fsn86071456%2F000002319%2F1853011901%2F0009.jp2/pct:50.620998,5.892226,33.888760,90.846970/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4841,7 +4868,7 @@ vines sent to the press without points or capitals
 to designate the division of sentences sermons  
 which, if publishe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1853022601:0038/pct:45.719490,47.625174,17.820279,17.958615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1853022601:0038/pct:34.289617,35.724241,13.372799,13.466281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4874,7 +4901,7 @@ spend in reducing to areadable condition manu
 scripts which the writers themselves would be  
 puzzled to rea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1853022601:0038/pct:45.673953,69.582931,17.729205,14.785033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1853022601:0038/pct:34.259259,52.192559,13.296903,11.086094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5039,7 +5066,7 @@ and the sexton for a grave.
   
 Longevitt o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151155:1853061801:0293/pct:42.267793,24.378655,12.303981,20.577485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151155:1853061801:0293/pct:42.243667,24.360380,12.303981,20.577485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5096,7 +5123,7 @@ lxHfy but .i&#x27;pratirix4e&quot;r Tcnow8&quot;how
   
 TT appearinsr to the satisfaction of the Court, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCRepGold2n_ver01%2Fdata%2F1853072701%2F0045.jp2/pct:8.054393,88.919231,34.466527,32.528096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCRepGold2n_ver01%2Fdata%2F1853072701%2F0045.jp2/pct:6.040795,66.715681,25.849895,24.409201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5117,7 +5144,7 @@ cina&#x27; to ft readable &quot; condition,&quot; mahuscripts,
   
 that the autho?3&#x27; himself vwould be raszled toi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCRepGold2n_ver01%2Fdata%2F1853072701%2F0045.jp2/pct:9.427301,121.268774,32.479079,2.930364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCRepGold2n_ver01%2Fdata%2F1853072701%2F0045.jp2/pct:7.073745,90.988342,24.359310,2.195148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5282,7 +5309,7 @@ than to any other man, have been indebted, for
 our present syetein of cheap postage, died last  
 week in Boston. H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1853102001:0139/pct:23.568361,16.276362,16.177523,16.949153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1853102001:0139/pct:17.680744,12.213740,12.133142,12.705395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6300,7 +6327,7 @@ compelled to spend reducing to a redible condition
 manuscripts that the writer himself would be puzzled  
 to read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744791:1866011101:0007/pct:24.251945,41.470077,16.831239,24.124659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744791:1866011101:0007/pct:18.192699,31.102558,12.627169,18.102806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6581,7 +6608,7 @@ or write gramiuatiealy to say nothing ot their
 sprawling pen-ut»nfthip., And, as might be  
 expected these are generally the ones that Uni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051370:00414212578:1866051201:0047/pct:78.632141,77.870649,14.844831,14.867087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051370:00414212578:1866051201:0047/pct:78.612374,77.843245,14.844831,14.867087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6870,7 +6897,7 @@ wished it were penal offence to correct an
 authors s manuscript  
 F, S. Ilciskcll, in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033371:00212470302:1866062201:0105/pct:67.816702,70.599065,15.003539,26.426852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033371:00212470302:1866062201:0105/pct:50.866950,52.952840,11.252654,19.827220/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7192,7 +7219,7 @@ able condition,- manuscript! that the
 author himself would be puzzled to  
 read.&quot;-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061082:00212470314:1873102501:0380/pct:114.485294,93.687151,13.220588,26.983240/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061082:00212470314:1873102501:0380/pct:85.897059,70.290503,9.911765,20.256983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7246,7 +7273,10 @@ and after him the proof-reader are com­
 pelled to spend in reducing to a readable  
 condition, manuscript that the author him­  
 self would be puzzled to read.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_egeria_ver01%2Fdata%2Fsn83032115%2F000002298%2F1874012101%2F0009.jp2/pct:50.473151,37.340480,10.717285,19.776246/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -7387,7 +7417,7 @@ ble condition manuscript that often writ­
 ers themselves would be puzzled to read.  
 -Ex.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763190:1879041501:0056/pct:65.988201,94.717245,15.029499,33.092855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763190:1879041501:0056/pct:49.513274,71.061205,11.268437,24.842914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7492,7 +7522,7 @@ ble condition manuscript that often writ
 ers themselves would be puzzled to read.  
 Li.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_PiCR1_ver01%2Fdata%2F1879042401%2F0043.jp2/pct:58.984375,30.319370,12.704613,27.858427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_PiCR1_ver01%2Fdata%2F1879042401%2F0043.jp2/pct:56.063988,28.826213,12.053571,26.462049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7692,7 +7722,7 @@ t manuscript that often writers themselves
 g would be puzzled to read.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_easton_ver01:data:sn85025407:00279522230:1879052201:0076/pct:41.021788,83.747904,16.453794,20.975405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_easton_ver01:data:sn85025407:00279522230:1879052201:0076/pct:31.780616,64.910565,12.753569,16.252096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8052,7 +8082,7 @@ themselves would be puzzled to read.
   
 C
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_epidote_ver01:data:sn85032971:00516990508:1879070301:0115/pct:20.626276,60.841166,14.476968,24.518082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_epidote_ver01:data:sn85032971:00516990508:1879070301:0115/pct:20.603585,60.825235,14.476968,24.502151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8122,7 +8152,7 @@ laily pinned a letter insido tho lining of
 1110 old mans cloak every day, ana  
 whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_alpha_ver01%2Fdata%2Fsn85042522%2F00033872165%2F1879071101%2F0735.jp2/pct:110.720412,82.104430,18.396226,8.734177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_alpha_ver01%2Fdata%2Fsn85042522%2F00033872165%2F1879071101%2F0735.jp2/pct:83.083190,61.613924,13.807890,6.550633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8162,7 +8192,7 @@ find it puzzling to read.
   
 M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775253:1879071701:0345/pct:96.925306,109.824694,14.327109,14.957750/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775253:1879071701:0345/pct:72.698004,82.381133,10.753381,11.224618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8287,7 +8317,7 @@ often the author themselves might find it
 puzzling to read.  
 THK 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:00295867553:1879081501:0852/pct:96.268185,61.398018,14.626818,25.521648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:00295867553:1879081501:0852/pct:72.216951,46.061555,10.974067,19.144497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8332,7 +8362,7 @@ tbat often writers themselves would bo
 puzzled to read.  
 T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023209:00202197486:1879082001:0323/pct:65.227273,84.517125,14.753788,19.174621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023209:00202197486:1879082001:0323/pct:48.920455,63.405390,11.098485,14.402021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8430,7 +8460,7 @@ often the writers themselves would lie
 puzzled to read.  
 A mon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477710:1879092601:0290/pct:81.659013,106.999764,16.417910,19.432006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477710:1879092601:0290/pct:61.265786,80.273391,12.327784,14.588734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8767,7 +8797,7 @@ ing to readable condition manuscript that 1
 often the writers themselves would be  
 puzzled to read.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_easton_ver01:data:sn85025407:00279522230:1881041501:0129/pct:34.688075,98.153242,14.785081,24.165029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_easton_ver01:data:sn85025407:00279522230:1881041501:0129/pct:26.877404,76.057629,11.456765,18.742633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8907,7 +8937,7 @@ readable condition manuscript that
 the writers themselves would be  
 puzzled to read.—Printers Circular
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177295:1888083001:0768/pct:10.641799,90.820089,18.376303,31.710108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177295:1888083001:0768/pct:8.246480,70.387794,14.225635,24.564526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9151,7 +9181,7 @@ points or capitals to designate the
 division of sentences sermons  
 which, if publishe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elephanttree_ver01:data:sn94051692:00211106128:1891021901:0566/pct:121.456574,20.283976,21.019300,22.301697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elephanttree_ver01:data:sn94051692:00211106128:1891021901:0566/pct:80.986128,13.526209,14.022919,14.871357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9182,7 +9212,7 @@ a readable condition manuscript
 that the writers themselves would  
 be puzzled to read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elephanttree_ver01:data:sn94051692:00211106128:1891021901:0566/pct:121.094692,42.916622,21.139928,20.497491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elephanttree_ver01:data:sn94051692:00211106128:1891021901:0566/pct:80.744873,28.611081,14.098311,13.675670/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9315,7 +9345,7 @@ sent to the press without points or cap­
 itals to designate the division of sen­  
 tencessermons which, if publishe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_bronte_ver01:data:sn86063592:00415626721:1898111901:0238/pct:53.699932,59.502593,14.477257,10.919005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_bronte_ver01:data:sn86063592:00415626721:1898111901:0238/pct:40.274949,44.633595,10.862186,8.192579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9343,7 +9373,7 @@ pelled to spend iu reducing to a reada­
 ble condition manuicript that the writ­  
 ers themselves would be puzzled to read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_bronte_ver01:data:sn86063592:00415626721:1898111901:0238/pct:53.665988,71.286075,14.443313,10.985503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_bronte_ver01:data:sn86063592:00415626721:1898111901:0238/pct:40.257977,53.464556,10.828242,8.245777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9370,7 +9400,7 @@ sent to the presa wltheut points or cap­
 itals ta designate the division of sen  
 tences sermons which, If publishe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_juniper_ver02:data:sn92070422:00200290203:1898112601:0471/pct:37.383178,90.119380,28.271028,18.796038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_juniper_ver02:data:sn92070422:00200290203:1898112601:0471/pct:28.037383,67.640335,21.261682,14.122428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9398,7 +9428,7 @@ pelled to spuud In reducing to a reada­
 ble condition luauuii npt that the writ­  
 is themselves would be puzzled ta read.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_juniper_ver02:data:sn92070422:00200290203:1898112601:0471/pct:37.383178,110.566421,28.204272,18.288037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_juniper_ver02:data:sn92070422:00200290203:1898112601:0471/pct:28.037383,83.007366,21.194927,13.716027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

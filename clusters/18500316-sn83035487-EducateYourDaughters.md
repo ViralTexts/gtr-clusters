@@ -125,7 +125,7 @@ It seems from the above narative. that the poor
   
 Indian arrived at once at a point to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn90068958:00296027017:1849102001:0010/pct:69.992923,35.387900,19.550602,23.729537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn90068958:00296027017:1849102001:0010/pct:52.512385,26.548043,14.667374,17.807829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ i:,cirl, conferring upon them the legitimate j
 pfivileges of cilizensliio  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027054:1849102201:0275/pct:7.224607,121.099022,16.988555,5.274756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027054:1849102201:0275/pct:5.418455,90.841482,12.750358,3.952624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ S. Dyer.
 A MOTHER’S MEMORY.  
 I have b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013523:1850011801:0015/pct:34.988180,78.884678,14.493544,14.293449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013523:1850011801:0015/pct:34.969995,78.857607,14.493544,14.293449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -329,7 +329,7 @@ ed to discharge the duties of the homo work
 ol educution. IUv. S. Dyer.  
 It has been remarked that &#x27; th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035487:00237283776:1850031601:0051/pct:70.248777,106.097561,18.393148,17.260788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035487:00237283776:1850031601:0051/pct:52.712072,79.612258,13.805057,12.945591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -464,7 +464,7 @@ man to his bright particular, the other
   
 n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667802:1851022101:0109/pct:6.564246,100.273785,21.601490,21.731691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667802:1851022101:0109/pct:4.934823,75.222450,16.201117,16.307324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ ucation.’
   
 Western
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851031301:0018/pct:38.148641,59.785867,11.556738,12.405425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851031301:0018/pct:38.129633,59.771592,11.556738,12.405425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ The Farmer.
 extreme radicalLt, the conservative is a  
 knave the mere tool of a 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:0028077635A:1851070201:0370/pct:37.592868,21.085986,85.716939,62.076912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:0028077635A:1851070201:0370/pct:28.194651,15.814489,64.338782,46.593691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -796,7 +796,7 @@ nation can become fully and permanent-
 ly civilized and enlightened, when the  
 1 things he informed me a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728169A:1851070301:0205/pct:86.601513,77.222952,20.412989,21.265878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728169A:1851070301:0205/pct:64.974779,57.939115,15.321564,15.965834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -894,7 +894,7 @@ charge the duties of the home woik
 of education.  
 Cab ages. Ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779210:1851071801:0306/pct:26.799163,62.283534,18.577406,38.787790/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779210:1851071801:0306/pct:20.104603,46.727326,13.933054,29.131200/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -970,7 +970,7 @@ passage to the United States. Kossuth will be sent
 riiies lhere handed OTer t0 the British autbo-  
 at v
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851080601:0363/pct:1.379408,82.773553,19.908987,40.367554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851080601:0363/pct:1.038111,62.082805,14.931741,30.291508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1052,7 +1052,7 @@ mere handed over to the British autho
 P -T  
 at Ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851080601:0324/pct:1.585289,77.218676,19.324667,46.100889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851080601:0324/pct:1.188966,57.942170,14.505390,34.597572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1089,7 +1089,7 @@ a &quot;ood degree, quaked to discharge the du­
 ties #f the home work of education.  
 *■ ’•
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851080601:0330/pct:71.611847,83.812950,13.197762,11.928835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851080601:0330/pct:71.598198,83.793506,13.197762,11.928835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1149,7 +1149,7 @@ home work of education.
 ister, who formerly resided in Vermont, was one  
 day seated in a room where two of hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL1_ver01%2Fdata%2F1851081301%2F0450.jp2/pct:55.039370,18.231791,16.555118,24.202168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL1_ver01%2Fdata%2F1851081301%2F0450.jp2/pct:55.019685,18.216522,16.555118,24.202168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1174,7 +1174,7 @@ nnr muni vw isiim n uuiu uo u&amp; .iiliid cwbw ilu .
 inp en.rns.sllv trust Mr. Slant v mav be succesr ,  
 fuly though the vote must be a close&#x27; one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RepNB4n_ver01%2Fdata%2F1851081401%2F0021.jp2/pct:107.019520,107.146193,19.569570,8.771602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RepNB4n_ver01%2Fdata%2F1851081401%2F0021.jp2/pct:80.267768,80.373657,14.677177,6.576366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1226,7 +1226,7 @@ f nlightened, when the mothers are not, to a
 good degree, qualified to discharge the du­  
 ties oihome education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85042199:00296026670:1851082701:0155/pct:5.200594,58.902116,18.109212,31.865079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85042199:00296026670:1851082701:0155/pct:3.900446,44.193122,13.595840,23.915344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1525,7 +1525,7 @@ wa wM Mmn tli irirlt fnr when, thee
 become motherathey would, eduotte their  
 sons.&quot;&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_bonanza_ver01%2Fdata%2Fsn84022662%2F22222222223%2F1855022401%2F0010.jp2/pct:66.525424,50.619624,34.221146,15.760315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_bonanza_ver01%2Fdata%2Fsn84022662%2F22222222223%2F1855022401%2F0010.jp2/pct:49.899112,37.964718,25.665860,11.823881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1640,7 +1640,7 @@ discharge the duties of the home work of
 education.&#x27;  
 In Abyssini
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855090701:0707/pct:80.797637,41.198925,12.525849,12.731514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855090701:0707/pct:80.787789,41.191856,12.525849,12.731514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1880,7 +1880,7 @@ cate their sons. - ,
 The Aoa of a Horse. A man, who  
 wanted to buy a hors
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AshNMF1n_ver01%2Fdata%2F1856041001%2F0433.jp2/pct:45.025575,84.087714,20.294118,18.564333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AshNMF1n_ver01%2Fdata%2F1856041001%2F0433.jp2/pct:33.772379,63.068129,15.217391,13.934964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1960,7 +1960,10 @@ ucate their sons.’ &quot;
   
 (£7&quot; A week or so ogo, the jail at Spartans­  
 burg, S. C., had one tenan
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001736%2F1856050801%2F0065.jp2/pct:32.493898,67.997187,11.715110,9.095305/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2107,7 +2110,10 @@ ly and permanently civilized and enlightened,
 when the mothers are not in a good degree  
 qualified to discharge the duties of the home  
 work of education.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fides_ver01%2Fdata%2Fsn84026382%2F000002596%2F1857021101%2F0033.jp2/pct:60.870536,50.282881,9.428571,6.682641/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2148,7 +2154,7 @@ enlightened;-, when the piotiirs arc. not in a
 good degree tfjualiaV 1 -tn discharge the da­  
 ties of the homo work ,fr educatiou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DemPEC2n_ver01%2Fdata%2F1857021701%2F0022.jp2/pct:83.253589,75.910705,17.317916,22.699137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DemPEC2n_ver01%2Fdata%2F1857021701%2F0022.jp2/pct:62.453482,56.945713,12.998405,17.026890/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2382,7 +2388,7 @@ The recent intensely cold weather has kept this j
 large, black, shaggy animal in high spirits. I  
 When they take him into the forest among the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1857030501:0456/pct:50.396167,54.756082,15.238622,16.604454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1857030501:0456/pct:50.377741,54.743210,15.238622,16.591582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2763,7 +2769,7 @@ when thev become mothers they would edu- a pleasant evening in batning in tne su
   
 and attention to guests, 1. L. Hall i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667814:1857070101:0459/pct:4.901961,49.358491,68.175955,17.301887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667814:1857070101:0459/pct:3.676471,37.028302,51.148091,12.981132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2787,7 +2793,7 @@ Woman.
 The Irish are no less proverbial for their  
 gallantry the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667814:1857070101:0459/pct:5.237358,66.839623,16.731166,7.292453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667814:1857070101:0459/pct:3.934469,50.141509,12.551600,5.471698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2957,7 +2963,7 @@ a good degree, qualified to discharge the duties
 of the home-work of education.”  
 Oysters.—Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1857090901:0343/pct:56.490994,44.034223,12.568379,11.624663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1857090901:0343/pct:56.477652,44.024923,12.568379,11.624663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3051,7 +3057,7 @@ to discharge the duties of the home work of
   
 education.&#x27; ,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667814:1857091601:0729/pct:58.602151,109.769254,16.628264,14.803716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667814:1857091601:0729/pct:43.951613,82.349416,12.480799,11.102787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3414,7 +3420,7 @@ No nation can become .fully enlightened .when
 mothers are not iu a good degree qualified to dis­  
 charge the duties of the home work of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarObsF15n_ver01%2Fdata%2F1858032901%2F0050.jp2/pct:69.996931,52.183637,20.089012,16.574456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarObsF15n_ver01%2Fdata%2F1858032901%2F0050.jp2/pct:52.516882,39.152443,15.085942,12.430842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3521,7 +3527,7 @@ work of education.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182999:1858041501:0063/pct:79.217041,67.725865,14.699674,13.235492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182999:1858041501:0063/pct:79.197851,67.712401,14.699674,13.222028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3597,7 +3603,7 @@ a good degree qualified to dlschife &#x27; the
 daties of the home work of educationS-  
 How many fon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DemPEC2n_ver01%2Fdata%2F1858050401%2F0271.jp2/pct:94.556566,96.547918,19.087550,23.602609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DemPEC2n_ver01%2Fdata%2F1858050401%2F0271.jp2/pct:70.920978,72.423482,14.326322,17.701957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3884,7 +3890,7 @@ no nation can fail to become fully enlightened when
 its mothers are in a good degree qualified to dis­  
 charge the duties of the home work of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471380:1858100201:0523/pct:86.368047,101.704545,19.938551,12.097538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471380:1858100201:0523/pct:64.796248,76.302083,14.957956,9.079072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3981,7 +3987,7 @@ girls,&quot; for when they become mothers iney edu­
 cate their scsa.&quot;- &#x27;- Th-3 is the ooint and it u tru3.  
 llbxiiica cm iccc-a fly c-lr-htcrl vjhea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BibRecRal13n_ver01%2Fdata%2F1859052601%2F0284.jp2/pct:27.437943,113.633924,21.069740,15.254965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BibRecRal13n_ver01%2Fdata%2F1859052601%2F0284.jp2/pct:20.582151,85.249597,15.809693,11.443908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4064,7 +4070,7 @@ home-work of education.
   
 “ Is T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1859062401:0579/pct:52.267389,80.894606,14.200542,20.727964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1859062401:0579/pct:40.505872,62.680895,11.002710,16.079521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4104,7 +4110,7 @@ are not in a good degree qualified to dis­
 charge the duties of the home work ofeducation.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775393:1859071401:0015/pct:24.266862,70.355731,16.532258,17.609377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775393:1859071401:0015/pct:18.200147,52.800872,12.408358,13.207033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4153,7 +4159,7 @@ education.
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1859-07-30_1_5/page/n2/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1859-07-30_1_5/page/n2/mode/1up?view=theater)
 
 #### 1859-07-30 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4235,7 +4241,7 @@ in a good degree qualified to discharge
 the duties of the home work ofeducation,&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470594:1859080401:0035/pct:55.296950,103.994557,17.161584,19.972786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470594:1859080401:0035/pct:41.479401,78.015356,12.881220,14.986879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4738,7 +4744,7 @@ in agood degree qualified to discharge the duties
 | of the home work of education.  
 Comports as o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016524:1860022301:0035/pct:24.268312,6.968641,19.174181,90.003604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016524:1860022301:0035/pct:24.252492,6.956626,19.174181,89.991590/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4775,7 +4781,7 @@ point, and it is true. No nation ran l e­
 eoni ■ fully enlightened w ;i mothers aro  
 not in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1860030701:0015/pct:83.879627,43.457447,10.977677,10.436170/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1860030701:0015/pct:83.865499,43.446809,10.977677,10.436170/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4892,7 +4898,10 @@ in a good degree qualified to discharge the, duties
 of the home-work of education.  
   
 LADY MORGAN AND YOUN
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fufluns_ver02%2Fdata%2F2018264050%2F000002737%2F1860042601%2F0056.jp2/pct:31.246212,11.136905,12.113636,13.511905/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4932,7 +4941,7 @@ education.
 CUMBERLAND COUNTY COURTS.  
 Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340597:1860051201:0286/pct:4.835894,2.958260,25.139665,91.881670/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340597:1860051201:0286/pct:4.818436,2.944752,25.139665,91.868162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5028,7 +5037,7 @@ It is
 . i . j 8iore3 . worK oi education,&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TiGreen2n_ver01%2Fdata%2F1860052601%2F0164.jp2/pct:59.417808,107.288591,70.869007,18.738255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TiGreen2n_ver01%2Fdata%2F1860052601%2F0164.jp2/pct:44.563356,80.483221,53.167808,14.053691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5070,7 +5079,7 @@ tha not in a cood detree Qualified to discharge
 ago.&#x27; duties of the homework of education.&#x27;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100485:1860052601:0059/pct:49.775707,91.192685,19.202899,19.443324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100485:1860052601:0059/pct:37.336094,68.401237,14.406487,14.602662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5116,7 +5125,10 @@ qualified to discharge the duties of the
 home-work - of education. -•  
   
 Morning Thoughts for a Littl
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_carmentes_ver01%2Fdata%2Fsn88086163%2F000002039%2F1860061601%2F0060.jp2/pct:32.502008,17.928571,11.497992,15.241071/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5158,7 +5170,7 @@ home-work of education.&#x27; .
 A Cheat Siarr.su an anii a Conserva­  
 tor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_invicta_ver01:data:sn89053987:print:1860061601:0085/pct:83.840335,56.379248,13.165942,15.854396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_invicta_ver01:data:sn89053987:print:1860061601:0085/pct:83.824239,56.367154,13.165942,15.854396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5302,7 +5314,7 @@ it is true. No nation can become enlight­
 ened when mothers are not in a good de­  
 gree qualified to discharge the duties of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1860082901:0550/pct:68.063690,55.831974,13.177160,13.907015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1860082901:0550/pct:68.045388,55.818380,13.177160,13.907015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5344,7 +5356,7 @@ not in a good degree qualified to dis­
 charge the duties of the home work of  
 cduca&#x27;ian.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1860090501:0032/pct:46.027065,61.461281,17.002082,21.430409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1860090501:0032/pct:34.541985,46.115256,12.751561,16.092102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5413,7 +5425,10 @@ they educate their sons. ,s
   
 The item is not intended to convey the im­  
 pression that i
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_monroej_ver01%2Fdata%2Fsn83031964%2F000001715%2F1860110801%2F0171.jp2/pct:27.698538,34.910630,12.259891,8.457623/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5566,7 +5581,7 @@ qualified to discharge the duties of the home-work of
 education.  
 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471379:1861060801:0229/pct:48.418305,109.333035,19.625307,14.077887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471379:1861060801:0229/pct:36.332924,82.038944,14.726658,10.564011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5692,7 +5707,7 @@ nation can become fully enlightened when moth­
 ers are not in good degree qualified to discharge  
 the duties of the home-work of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474241:1863091001:0233/pct:27.970939,62.006906,19.564089,11.091347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474241:1863091001:0233/pct:20.978204,46.520875,14.686040,8.328974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5904,7 +5919,10 @@ give your daughters as well as jttur sons, the
 best education in your power.  
   
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_madisonj_ver01%2Fdata%2Fsn84026595%2F000001711%2F1865022201%2F0032.jp2/pct:7.744191,7.321786,13.725876,12.646722/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5996,7 +6014,10 @@ beteome methers they educate their eons.
 This iilhe point and it is true.—No na­  
 tion can become fully enlightened when  
 mothers are no
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_averruncus_ver01%2Fdata%2Fsn88080881%2F000001995%2F1865031801%2F0037.jp2/pct:78.216667,51.719697,13.905556,11.579545/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6022,7 +6043,10 @@ one class of our children, we should choose
 the girls, for when they become - filo:hers, I  
 they educate their sons. This is the point,  
 and it is true. No nation can become full
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_cybele_ver01%2Fdata%2Fsn84026518%2F000002097%2F1865032201%2F0039.jp2/pct:29.682765,30.676259,13.063447,10.212230/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6221,7 +6245,10 @@ war the multitude of questions the
 will be put to her by her Inquisitive  
 child on art, science, literature and re­  
 ligion, and tins t
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_caelus_ver01%2Fdata%2Fsn84026384%2F000002015%2F1867111901%2F1094.jp2/pct:17.025105,45.871998,8.813202,11.217249/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6267,7 +6294,10 @@ war the multitude of questions the
 will be put to her by her Inquisitive  
 child on art, science, literature and re­  
 ligion, and tins t
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_caelus_ver02%2Fdata%2Fsn84026384%2F000002015%2F1867111901%2F1094.jp2/pct:17.025105,45.871998,8.813202,11.217249/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 

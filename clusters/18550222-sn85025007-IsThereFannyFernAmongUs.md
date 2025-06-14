@@ -75,7 +75,10 @@ and brilliant
   
 AUTHOR OF FERN LEAVES AND RCTU HALL,  
 at ba
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_diInferi_ver01%2Fdata%2Fsn84026248%2F000002258%2F1855021701%2F0056.jp2/pct:58.433119,40.508204,9.455315,1.803213/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -129,7 +132,7 @@ Fein Leaves and Ruth Hall. I all early* and se­
 cure a copy. GEO. e. y ren&lt; h.  
 :eb -M [Pied. Whig &amp; Rockingham Reg.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855022101:0037/pct:15.976100,49.615275,12.626114,6.761186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855022101:0037/pct:15.966304,49.608150,12.626114,6.761186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +148,7 @@ cure a copy. GEO. e. y ren&lt; h.
 Fern. It presents vivid life-like pictures of the charming  
 and brilliant author of Ruth Bail, at her ow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_doubleday_ver01:data:sn83026172:00211678227:1855022201:0063/pct:81.126354,54.703083,12.981949,1.133273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_doubleday_ver01:data:sn83026172:00211678227:1855022201:0063/pct:81.111913,54.691750,12.981949,1.133273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +206,7 @@ Is Ruth Hall Fanny Fern, or somebody else ? And if Fan­
 ny is not Ruth Hall, who is Fanny Fern ? The life and  
 Beautie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895679:1855022201:0034/pct:42.628322,22.364573,12.322534,3.105417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895679:1855022201:0034/pct:42.610120,22.350648,12.322534,3.105417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +224,7 @@ It presents vivid, life-like pictures of the charming and
 brilliant  
 AUTHOR OF FERN LEAVES AND RUTH HAL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895679:1855022201:0034/pct:42.610120,27.224621,12.358937,1.824258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895679:1855022201:0034/pct:42.591918,27.210695,12.358937,1.824258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +246,7 @@ And, if Fanny Fern is not Rnth Hall,
 WHO IS FANNY EE UN?  
 THE LIFE and BEAUTIE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855022201:0181/pct:60.573924,25.721754,16.469120,6.296780/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855022201:0181/pct:45.430443,19.294285,12.383032,4.728526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +264,7 @@ It presents vivid and life life pictures of the charming
 and brilliant  
 Author or Fern I.enes and Ruth Hal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855022201:0181/pct:60.667498,33.978852,16.406737,2.459309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855022201:0181/pct:45.508422,25.484139,12.320649,1.853392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -303,7 +306,7 @@ January, price $1. Ju&amp;t received, and tor sale
 by [tel. 2&lt;»] ROBERT BELL.  
 1 TRENCH WINDOW GLASS.—Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855022201:0041/pct:55.232162,59.969918,12.742140,14.403381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855022201:0041/pct:55.222428,59.962756,12.742140,14.403381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +322,7 @@ by [tel. 2&lt;»] ROBERT BELL.
 Fern. It presents vivid life-like pictures of the charming  
 and brilliant author of Ruth Hall, at her ow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_doubleday_ver01:data:sn83026172:00211678227:1855022301:0067/pct:81.883003,59.072306,13.227590,1.159618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_doubleday_ver01:data:sn83026172:00211678227:1855022301:0067/pct:81.868452,59.060937,13.227590,1.159618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +448,7 @@ by [i»*l&gt; tin] ROBERT BELL.
   
 MASON X DIXOYS LINE.—Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855022601:0050/pct:59.942874,57.978119,12.616961,14.286729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855022601:0050/pct:59.933025,57.971014,12.616961,14.286729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -464,7 +467,7 @@ Is Ruth Hall Fanny Fern, or somebody else ? And u Fan­
 ny is not Ruth Hall, who is Fanny Fern ? The life and  
 Beautie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895679:1855030101:0038/pct:29.954504,66.823660,12.447680,1.703837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895679:1855030101:0038/pct:29.936306,66.809807,12.447680,1.703837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -482,7 +485,7 @@ It presents vivid, life-like pictures of the charming and
 brilliant  
 AUTHOR OF PERN LEAVES AND RUTII HAL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895679:1855030101:0038/pct:29.972702,70.356005,12.411283,1.911622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895679:1855030101:0038/pct:29.954504,70.342153,12.411283,1.911622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -520,7 +523,7 @@ r.ew edition. •&gt;&#x27; I. !
 The-Wept-of-ll ith-toii-Wish, by J. F* n.s•&#x27;• ‘  
 Cooper. complete inone volume. n» w e&lt;!it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855030101:0062/pct:86.312195,66.471554,12.907317,11.913770/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855030101:0062/pct:86.302439,66.464416,12.907317,11.906631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

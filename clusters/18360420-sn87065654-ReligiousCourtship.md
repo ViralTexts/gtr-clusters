@@ -123,7 +123,7 @@ you and speak face to face.”
 From the above interview the marriage took  
 plac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn83016083:00332895114:1823070801:0115/pct:40.486111,16.323980,35.225694,78.211973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn83016083:00332895114:1823070801:0115/pct:40.468750,16.312621,35.225694,78.200613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ speak face to face.” From the above interview,
 the marriage took place the ensuing week.  
 From the Baltimore America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826103101:0261/pct:38.046823,25.572755,18.903010,32.569659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826103101:0261/pct:38.033445,25.563910,18.903010,32.569659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +302,7 @@ and speak face !o taco ” From the
 at&#x27;uve interview, the marriage took  
 place the ensuing wee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826110901:0190/pct:58.905579,60.754070,17.403433,23.564696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826110901:0190/pct:58.884120,60.739789,17.403433,23.550414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1348,7 +1348,7 @@ anyspeaic tace to lace.&quot;
 Vom the above interview the mar-  
 ge took place thn ensuing week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065654:00295878216:1839042001:0718/pct:31.446414,25.512078,19.963739,46.814522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065654:00295878216:1839042001:0718/pct:23.589847,19.141122,14.987913,35.132081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1393,7 +1393,7 @@ face.&quot; ;
 From the above interview, the marriage;  
 took place the ensjing week. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065188:00295877935:1839060801:0068/pct:109.296636,82.161697,21.926606,41.446873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065188:00295877935:1839060801:0068/pct:81.972477,61.621272,16.452599,31.101303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1464,7 +1464,7 @@ and then wo shall speak face to face.&quot;
 Tiioy were marr!?d soon after.  
 II onaparle&#x27;s e pin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065542:0029587756A:1845080601:0428/pct:27.792863,25.870440,22.148953,26.550146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065542:0029587756A:1845080601:0428/pct:20.849496,19.406298,16.640807,19.933417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1601,7 +1601,7 @@ From the above interview, the matriage took plawe the
 ensuing week.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021203:00517172091:1846052101:0228/pct:15.773672,9.852856,51.131640,110.155799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021203:00517172091:1846052101:0228/pct:12.217090,7.631275,39.630485,85.372187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1646,7 +1646,7 @@ view, the marriage took place the ensu-
 mg  
 week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016940:0029587806A:1846052101:0649/pct:77.792916,77.493935,23.365123,30.612245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016940:0029587806A:1846052101:0649/pct:58.378747,58.141858,17.529519,22.977023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1763,7 +1763,10 @@ you, T would,, hot write with paper and, ink; but I
 trust to cointf&#x27; utild&#x27;you.-and speak -face to faco.”~  
 From the above., interview, the marriage took placb  
 the cnsuinjfwcck- ». t
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001726%2F1846052801%2F0001.jp2/pct:64.234293,54.190260,13.814354,10.338133/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1805,7 +1808,10 @@ to face.&quot; j From the above interview, the marriage
 took piste, the ensuing week.  
   
 ccy.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_felicitas_ver01%2Fdata%2Fsn85054565%2F000002468%2F1846062301%2F0078.jp2/pct:36.819677,12.943140,18.050987,72.064917/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1879,7 +1885,7 @@ lace. k rorn the abovo interview the marriage
 took place the ensuing week.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183712:1846062501:0083/pct:34.016393,67.593426,14.841920,12.426835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183712:1846062501:0083/pct:34.001756,67.582170,14.841920,12.415579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2182,7 +2188,7 @@ courtship on the spot; but the place not suit­
 ing a formal declaration, the exigency sug­  
 gested tVe. follow in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289699:1847122501:0322/pct:83.767252,90.171294,19.071518,7.595983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289699:1847122501:0322/pct:62.845044,67.643237,14.303639,5.705848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2312,7 +2318,7 @@ From the above interview a marriage took
 place tho ensuing week.  
 A Good One. In St.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477783:1859070601:0425/pct:88.322065,89.937784,18.930547,19.633884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477783:1859070601:0425/pct:66.241549,67.456329,14.197910,14.740369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2459,7 +2465,7 @@ took place the ensuing week.
   
 THE PIG IN THE FENCE.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1859101801:0591/pct:7.277397,9.432909,38.384703,116.599687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1859101801:0591/pct:5.465183,7.077473,28.781393,87.463720/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2534,7 +2540,10 @@ to enmo unto you shortly, and speak face to
 face, that our joy may be full.” From the  
 above interview a marriage took place the en­  
 suing year.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_madisonj_ver01%2Fdata%2Fsn84026595%2F000001705%2F1859102701%2F0167.jp2/pct:78.167058,74.652669,14.254433,8.687168/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -2618,7 +2627,7 @@ full.&quot; From the above interview a marriage
 took place the en&amp;ning weok.  
 The United States Descuirfh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat24n_ver01%2Fdata%2F1859111101%2F0384.jp2/pct:42.629590,71.147681,17.427106,29.119470/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat24n_ver01%2Fdata%2F1859111101%2F0384.jp2/pct:31.978942,53.376790,13.066955,21.842274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2868,7 +2877,7 @@ gethe
 motives of wealth, or the ambitious desire of social  
 display, but by the personal qualities seen in each
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DailyHW5n_ver01%2Fdata%2F1860050901%2F0433.jp2/pct:29.323944,111.630079,22.971831,3.300638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DailyHW5n_ver01%2Fdata%2F1860050901%2F0433.jp2/pct:22.000000,83.761482,17.239437,2.475479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2885,7 +2894,7 @@ alwpys. surrounded with the same circle, and-here
 they spend the long winter evenings together.  
 - American Journal o 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DailyHW5n_ver01%2Fdata%2F1860050901%2F0433.jp2/pct:29.366197,119.258913,22.971831,4.047953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DailyHW5n_ver01%2Fdata%2F1860050901%2F0433.jp2/pct:22.028169,89.475323,17.253521,3.051534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2940,7 +2949,7 @@ always surrounded with the same circle, and
 here they spend the long winter’s evening to­  
 gether.—American Journal of Education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016524:1860092701:0159/pct:30.200382,28.633301,12.500000,3.476901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016524:1860092701:0159/pct:30.184478,28.621270,12.500000,3.476901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2974,7 +2983,7 @@ that 1 am a stranarer&#x27;;&quot;
 Ho returned the book, pointing  
 to the twelfth verse of John II
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077265:00280774819:1860110801:0054/pct:10.750389,71.287816,16.193624,13.044685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077265:00280774819:1860110801:0054/pct:8.067652,53.483208,12.150078,9.783514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3022,7 +3031,7 @@ and speak face to face.”
 From the above interview the mar­  
 riage took place the ensuing wee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85035610:00513684976:1860111401:0172/pct:71.620127,15.280875,11.169477,21.227567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85035610:00513684976:1860111401:0172/pct:71.606304,15.270256,11.169477,21.227567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3113,7 +3122,7 @@ of the leg. lie jumped about four feet and
 ejaculated, &quot; By jolly, the wrong boy jump-&#x27;  
 ed that time! &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628407:1863102301:1048/pct:63.417235,76.730310,63.054608,51.014320/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628407:1863102301:1048/pct:47.568259,57.562649,47.312287,38.290573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3148,7 +3157,7 @@ that our joy may be full.” From the a­
 bove interview a marriage took place the  
 ensuing week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340615:1863103101:0175/pct:71.088815,78.000000,12.560386,6.413333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340615:1863103101:0175/pct:71.070234,77.973333,12.560386,6.413333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3301,7 +3310,7 @@ part of the leg. He jumped about four
 feet and ejaculated, By jolly, the wrong  
 boy jumped that time 1&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194941:1863110601:0593/pct:6.088993,77.417027,16.705699,45.122655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194941:1863110601:0593/pct:4.566745,58.080808,12.548790,33.852814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3417,7 +3426,7 @@ ourjoy be full.” From the above interview,
 a marriage took place the ensueing week.—  
 [
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769787:1863112501:0252/pct:70.849006,63.830248,12.627620,5.737794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769787:1863112501:0252/pct:67.302526,60.636570,11.996239,5.445491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3482,7 +3491,7 @@ have I found grace in thine eyes, seeing
 r k ? 8.lrn8er , &quot;e.,r,&quot;aro &quot; HAW of the large trees ia the oeigt  
 the book pointing to be thirteenth borhood a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028889:00296027364:1863112701:0810/pct:76.287817,77.711196,49.223222,21.850336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028889:00296027364:1863112701:0810/pct:57.236304,58.301666,36.937858,16.398714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3521,7 +3530,7 @@ face, that our joy be full.” From the above
 interview, a marriage took place the ensuing  
 week.—E
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_keres_ver01:data:sn83020847:00517171499:1863112801:0366/pct:105.330444,71.515986,18.483207,13.844271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_keres_ver01:data:sn83020847:00517171499:1863112801:0366/pct:81.625135,55.422977,14.322860,10.723574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3648,7 +3657,7 @@ of the leg. He jumped about four feet
 and ejaculated: &quot;By eolrr the wronir  
 boy jumped that tim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027467:1863120901:0102/pct:110.161871,9.613325,16.816547,13.610946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027467:1863120901:0102/pct:82.628897,7.209994,12.604916,10.220107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3908,7 +3917,7 @@ self to the ground, and said unto him, Why
 1 am a stranger He returned the book  
 write unto you, I would not write with pape
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774698:1864030801:0871/pct:7.722144,85.356429,16.889986,13.271153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774698:1864030801:0871/pct:5.800423,64.023984,12.658674,9.953364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3981,7 +3990,10 @@ grace in thine eyes, seeing-thatl am a stran­
 ger?” lle returned the book, poirﬁting to  
 the thirteenth verse of the _Third Epistle of  
 John—&quot; Having many things to writ
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_trumanhs_ver01%2Fdata%2Fsn85055100%2F000001897%2F1865072401%2F0117.jp2/pct:57.758100,31.680501,12.507547,10.219164/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4012,7 +4024,7 @@ Epistle of Jviith, verse tenth: &quot;Then she
 fell on her face, and bowed herself to the  
 ground an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477655:1866041201:0344/pct:83.372016,46.910529,18.816313,15.694513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477655:1866041201:0344/pct:62.549735,35.195255,14.141247,11.777064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4076,7 +4088,7 @@ to face that our joy may be full.” From
 the above interview a marriage took place the  
 ensuing week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349487:1866091401:0148/pct:82.194924,21.447245,12.594492,27.690055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349487:1866091401:0148/pct:82.181425,21.436788,12.594492,27.690055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4223,7 +4235,7 @@ that our joy may be full.” From the
 above interview a marriage took place  
 the ensuing week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn84026851:00514157844:1866092001:0425/pct:39.037564,29.844895,17.972011,29.009715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn84026851:00514157844:1866092001:0425/pct:39.013013,29.827851,17.972011,29.009715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4657,7 +4669,7 @@ she fell on her face, and bowed herself to
 the ground, and said t hinr ,Why hive&#x27;  
 I found grace in thine eyes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027443:1869021601:0109/pct:113.503985,105.981941,14.776211,8.939052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027443:1869021601:0109/pct:85.147149,79.514673,11.082158,6.704289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4687,7 +4699,7 @@ face, and bowed herself to the
 ground, and said to him. &#x27;Why­  
 have I found grace in thine eyes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038238:00296028824:1869030401:0260/pct:65.389740,23.846974,14.740173,11.223674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038238:00296028824:1869030401:0260/pct:49.050633,17.888563,11.059294,8.424420/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4735,7 +4747,7 @@ fell on her face and bowed herself t.
 the ground, and said to him: W hy have  
 I found grace, m thine eyes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NoCarEC1n_ver01%2Fdata%2F1869111101%2F0061.jp2/pct:98.511099,107.648391,15.254467,5.561571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NoCarEC1n_ver01%2Fdata%2F1869111101%2F0061.jp2/pct:73.917163,80.765823,11.437466,4.173639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4789,7 +4801,10 @@ chapter . of Ruth, tenth verse:—&quot; Then she
 fell on her face and bowed herself to the  
 around, and said to him: Why have I  
 Found grace in thine eyes
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_angitia_ver01%2Fdata%2Fsn83032297%2F000001934%2F1869121701%2F0184.jp2/pct:16.996788,83.496833,14.721627,7.701220/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4861,7 +4876,7 @@ thee, and we shall speak face to face.&quot;
 J rom tbe above interview a marriage  
 took place.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472955:1870022501:0508/pct:87.513021,118.378857,12.747396,8.149950/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472955:1870022501:0508/pct:65.638021,88.797965,9.557292,6.115227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5018,7 +5033,10 @@ But I trust I shall shortly see thee, and
 we shall speak face to face.”  
 From tho above interview a marriage  
 took place.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001750%2F1870042101%2F0061.jp2/pct:48.280737,74.361393,10.301897,10.203193/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5052,7 +5070,10 @@ lam a stranger?&#x27; He returned the book,
 pointing to the thirteenth verse of the Third  
 Epistle of John—&#x27;Having many things to  
 writ
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_februus_ver01%2Fdata%2Fsn88079228%2F000002427%2F1870121501%2F0193.jp2/pct:79.878294,58.042857,14.926574,13.464286/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5127,7 +5148,7 @@ to write unto you, I. would, not with
 paper and ink, but I trust to come un­  
 to yon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776117:1871041801:0119/pct:111.070325,29.155711,16.634467,15.834064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776117:1871041801:0119/pct:83.346213,21.866784,12.480680,11.890155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5283,7 +5304,7 @@ speak faoe to faoe.” From the above
 interview the marriage took plaoe the  
 following week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_chert_ver01:data:sn86053968:00383343781:1879071701:0276/pct:71.804200,67.839383,10.666446,13.140229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_chert_ver01:data:sn86053968:00383343781:1879071701:0276/pct:71.787663,67.826952,10.666446,13.127797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5417,7 +5438,7 @@ and ink, but I trust to come unto you and
 speak face to face.” From the above in  
 terview a marriage took place
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173393:1879091201:0829/pct:2.256827,76.458025,15.797788,17.381304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173393:1879091201:0829/pct:2.234259,76.425168,15.797788,17.381304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5455,7 +5476,7 @@ unto you and speak face to face.” From the
 above interview a marriage took place.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_keres_ver01:data:sn83020847:00517171347:1879091201:0711/pct:42.066172,7.882353,18.748593,16.773109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_keres_ver01:data:sn83020847:00517171347:1879091201:0711/pct:32.590592,6.100840,14.539725,13.008403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5495,7 +5516,7 @@ with paper and ink, but I trust to route
 unto you and speak face to face.” From  
 the above interview a marriage took place.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524688:1879091801:0397/pct:72.810676,84.207921,11.125938,12.512376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524688:1879091801:0397/pct:72.793995,84.183168,11.125938,12.512376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5573,7 +5594,7 @@ trust to come unto you and speak face to
 face.&quot; From tbe above interVidw a mar­  
 riage took place
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1879092501:0450/pct:58.884448,103.293700,15.479651,15.088151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1879092501:0450/pct:44.186047,77.518109,11.609738,11.316113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5735,7 +5756,7 @@ trust to come unto you and speak face to
 face. .From the above interview a mar­  
 riage took place.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288002:1879102401:0624/pct:96.562033,50.062788,14.985052,18.934003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288002:1879102401:0624/pct:72.440209,37.561044,11.248132,14.203991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5774,7 +5795,7 @@ face.&quot; From this interview a marriage
 took place.  
 Says the Gazette: &quot;Cincinnati
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_columnist_ver01:data:sn92053943:00295873152:1879111401:0156/pct:37.892709,34.528022,16.553053,15.112430/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_columnist_ver01:data:sn92053943:00295873152:1879111401:0156/pct:28.423237,25.910284,12.433314,11.334323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5819,7 +5840,7 @@ speak face to face.&quot; From this in­
 terview a marriage took place.  
 Ax Irish ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020618:1879112201:0193/pct:5.813626,110.454242,13.175676,17.713204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020618:1879112201:0193/pct:4.363739,82.876865,9.881757,13.282120/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5900,7 +5921,7 @@ pointing5 to the &quot; thirteenth verse of
 the third epistle of John &quot;Having  
 many things to write unt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TarSouth12n_ver01%2Fdata%2F1879120401%2F0579.jp2/pct:108.778942,101.603913,14.911797,20.350358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TarSouth12n_ver01%2Fdata%2F1879120401%2F0579.jp2/pct:81.601433,76.214310,11.190739,15.276988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5974,7 +5995,7 @@ The Male and the Small Boy.
   
 Cincinnati
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn83025440:00295876475:1879120401:0749/pct:67.076974,50.302731,13.999672,33.671074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn83025440:00295876475:1879120401:0749/pct:58.690300,44.013345,12.259970,29.469912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6066,7 +6087,7 @@ and speak face to face.&quot; From this
 interview a marriage took place.  
 An Aiiieslng
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_katherine_ver01:data:sn86086852:00271769623:1879120501:0343/pct:101.562809,82.263839,18.061325,26.259983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_katherine_ver01:data:sn86086852:00271769623:1879120501:0343/pct:78.694362,63.756541,14.005935,20.352520/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6213,7 +6234,7 @@ you and speak face to face.&quot; From
 this interview a marriage took placei  
 Cost of The &quot;Know
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_LProLin1n_ver01%2Fdata%2F1879121301%2F0347.jp2/pct:89.445438,62.911176,21.094216,28.327130/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_LProLin1n_ver01%2Fdata%2F1879121301%2F0347.jp2/pct:67.113894,47.208530,15.831843,21.255407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6545,7 +6566,7 @@ faee to face.&quot; From this interview
 a marriage took place.  
 It waB not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:206539239:1880012801:0314/pct:36.150771,72.353956,14.591662,43.091183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:206539239:1880012801:0314/pct:27.113078,54.268161,10.950885,32.334555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6608,7 +6629,7 @@ marriage took place.
 &amp; w &quot;  
 Worthy o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237285189:1880012901:0119/pct:108.997326,63.779846,14.585561,36.746257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237285189:1880012901:0119/pct:81.778075,47.845002,10.949198,27.579927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6965,7 +6986,7 @@ From the above interview a marri
 age took place the ensuing week.  
 M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn86090474:00296020515:1886070301:0210/pct:56.255430,8.627655,21.177237,35.292584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn86090474:00296020515:1886070301:0210/pct:42.202433,6.477258,15.899218,26.482471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7122,7 +7143,7 @@ above interview a marriage took
 place the ensuing week.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OxLead10n_ver01%2Fdata%2F1886080301%2F0336.jp2/pct:15.135760,11.701713,19.035240,31.376558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OxLead10n_ver01%2Fdata%2F1886080301%2F0336.jp2/pct:11.351820,8.781153,14.283651,23.529984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7260,7 +7281,7 @@ ing to the thirteenth verse of the Third!
 Kpistle of Julia - ‘1 had many things to1  
 write 1 will not with pen and in.% writ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bunting_ver01:data:sn85033474:00542864552:1887040701:0813/pct:33.935743,69.920935,14.834337,13.630113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bunting_ver01:data:sn85033474:00542864552:1887040701:0813/pct:33.910643,69.886559,14.834337,13.630113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7300,7 +7321,7 @@ shall speak face to face.” From the
 above interview a marriage took place  
 the ensuing week,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_centrereporter1_ver01%2Fdata%2Fsn83032058%2F13362144%2F1887042701%2F00006.jp2/pct:46.246508,102.359959,17.458101,16.428942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_centrereporter1_ver01%2Fdata%2Fsn83032058%2F13362144%2F1887042701%2F00006.jp2/pct:35.841480,79.330913,13.512570,12.733402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7335,7 +7356,7 @@ ink write unto thee; but I trust I shall
 shortly see thee, and we shall speak face  
 to face.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173460:1887042901:0135/pct:65.456362,81.576849,15.073284,12.601117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173460:1887042901:0135/pct:65.439707,81.554062,15.073284,12.601117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7669,7 +7690,7 @@ ous of entering into a courtship on the
 spot but the place not suiting a forma  
 declaration the exigency of the case
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918138:1887071501:0300/pct:71.253435,6.492206,19.023462,7.078507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918138:1887071501:0300/pct:60.558022,5.519806,16.169943,6.006006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7721,7 +7742,7 @@ view a marriage took place the ensuing
 week.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918138:1887071501:0298/pct:70.545073,4.948781,18.888889,25.407589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918138:1887071501:0298/pct:59.958071,4.198528,16.058700,21.584187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7769,7 +7790,7 @@ a marriage took plaoe the ensuing week.
   
 W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_sparks_ver01:data:sn84022044:00279554127:1887071501:0661/pct:48.191466,4.954368,14.988088,17.108504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_sparks_ver01:data:sn84022044:00279554127:1887071501:0661/pct:48.169807,4.939881,14.988088,17.108504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8134,7 +8155,7 @@ See thee, and we shall speak face tc j
 fare.” • From the above interview a  
 ms rriage took place the ensuing wee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_hiko_ver01:data:sn84022047:00340582597:1887072301:0535/pct:8.972006,7.485433,17.668655,22.277006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_hiko_ver01:data:sn84022047:00340582597:1887072301:0535/pct:8.949059,7.470492,17.668655,22.277006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8440,7 +8461,7 @@ whole story was macte up in the newspa­
 per office after a hard struggle with a  
 Bible and a concordance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WashProg1n_ver01%2Fdata%2F1887080901%2F0094.jp2/pct:91.576739,75.526004,20.428657,31.532926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WashProg1n_ver01%2Fdata%2F1887080901%2F0094.jp2/pct:68.705036,56.653611,15.317746,23.663357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8489,7 +8510,7 @@ whole story was made up in the newspa­
 per office after a hard struggle with a  
 Bible and a comofdance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187183:1887081201:0130/pct:15.583536,73.527569,12.632006,21.626984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187183:1887081201:0130/pct:15.569997,73.517126,12.632006,21.616541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8569,7 +8590,7 @@ shortly see thee face to fac.&quot;
 From the above interview a mr­  
 riage took u&#x27;ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn85033306:00296020461:1887102101:0374/pct:35.118110,108.837826,13.661417,18.669907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn85033306:00296020461:1887102101:0374/pct:26.338583,81.650464,10.262467,14.019001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9224,7 +9245,7 @@ may be full.&quot; From the above interview
 a marriage took place, the ensuing week.  
 M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763219:1891020601:0043/pct:66.769231,80.291971,15.338462,25.893851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763219:1891020601:0043/pct:50.076923,60.225164,11.507692,19.423481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9281,7 +9302,7 @@ From the above
 interview, a marriage took place  
 the ensuing week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_epidote_ver01:data:sn85032971:00516990521:1891021201:0237/pct:71.756046,49.103774,11.146162,24.622642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_epidote_ver01:data:sn85032971:00516990521:1891021201:0237/pct:71.735016,49.088050,11.146162,24.622642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9334,7 +9355,7 @@ suing week.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1891021201:0859/pct:67.649703,41.039690,12.623629,25.591340/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1891021201:0859/pct:67.631721,41.026326,12.623629,25.591340/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9612,7 +9633,7 @@ above interview the marriage took place
 the coming week.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_abby_ver02:data:sn89053283:00517177003:1893052401:0263/pct:58.140496,30.249968,22.871901,27.293491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_abby_ver02:data:sn89053283:00517177003:1893052401:0263/pct:45.061983,23.436112,17.706612,21.152138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9662,7 +9683,7 @@ face to face.&quot; From the above interview
 the marriage took place , the coming  
 wecK.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AshCit22n_ver01%2Fdata%2F1895081501%2F0215.jp2/pct:32.263963,91.752440,15.458777,24.836252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AshCit22n_ver01%2Fdata%2F1895081501%2F0215.jp2/pct:24.202128,68.814330,11.602394,18.647240/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9705,7 +9726,7 @@ speak face to face.” From the above in­
 terview the marriage took place the com­  
 ing week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:0041418215A:1895081801:1033/pct:4.787813,11.647278,16.249547,20.594571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:0041418215A:1895081801:1033/pct:3.717809,9.019101,12.586144,15.970128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9747,7 +9768,7 @@ unto you, and speak face to fac$..’ From
 the above interview the marriage*, totok  
 place the com-itg wee*;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340226:1895082101:0182/pct:50.559132,86.481113,11.182650,9.954558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340226:1895082101:0182/pct:50.542189,86.452712,11.182650,9.954558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9790,7 +9811,7 @@ speak face to face. &quot; From the above in­
 terview tho marriage took place the  
 coming week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271762987:1895083001:0216/pct:45.701754,38.349388,12.865497,18.484770/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271762987:1895083001:0216/pct:34.283626,28.768550,9.649123,13.863577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9971,7 +9992,7 @@ speak face to face. ”
 From the above interview the mar­  
 riage took place the coming week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn89051168:00393343047:1895092401:0085/pct:17.328229,75.042040,14.487205,14.069507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn89051168:00393343047:1895092401:0085/pct:17.308080,75.014013,14.487205,14.069507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10088,7 +10109,7 @@ tho beginning, that wo love one anoth­
 er. &quot; She returned it with tho follow -  
 in&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:2016270502:00271762987:1895093001:0430/pct:85.936133,85.133218,37.204724,15.497399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:2016270502:00271762987:1895093001:0430/pct:64.479440,63.865679,27.909011,11.650638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10165,7 +10186,7 @@ face to face. &quot;
 From the above interview the mar­  
 riage took place the coming week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AshCit22n_ver01%2Fdata%2F1895100201%2F0383.jp2/pct:37.764933,55.450365,14.804110,22.572356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AshCit22n_ver01%2Fdata%2F1895100201%2F0383.jp2/pct:28.323699,41.601298,11.127168,16.946173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10207,7 +10228,7 @@ and speak face te face &quot; Frem the abeve
 interview the miirriagu took place the  
 coming week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_gandhi_ver01:data:sn86069117:00206533730:1895100201:1025/pct:67.169657,29.148175,19.147635,23.550465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_gandhi_ver01:data:sn86069117:00206533730:1895100201:1025/pct:50.407830,21.861131,14.355628,17.680744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10252,7 +10273,7 @@ speak face to face. ”
 From the above interview the mar­  
 riage took place the coming week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn89051168:00393343047:1895100301:0121/pct:48.140580,71.122250,14.773192,17.335004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn89051168:00393343047:1895100301:0121/pct:48.120147,71.094403,14.773192,17.335004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10393,7 +10414,7 @@ thine eyes that »hou shoulilst lake
 ilolj Cfl ot me, sawing 1 am a s&#x27;ranger&#x27;”  
 /le returned the b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_fairview_ver02:data:sn86076270:00332891200:1895102401:0174/pct:5.955227,43.796909,14.149098,16.556291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_fairview_ver02:data:sn86076270:00332891200:1895102401:0174/pct:5.933493,43.782193,14.149098,16.556291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10803,7 +10824,7 @@ grace in thine eyes; that thou
 should take mtice of me; seeing I  
 am a stranger?&quot; He returned the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_comanche_ver01:data:sn83025010:00237284744:1896022001:0173/pct:67.147117,111.613068,14.413519,16.551812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_comanche_ver01:data:sn83025010:00237284744:1896022001:0173/pct:50.381047,83.754467,10.818423,12.417050/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11052,7 +11073,7 @@ the Baltimore Sun. There were several
 Jews on board to act as Interpreters with  
 the Saracen peopl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182185:1896083101:1166/pct:94.016937,56.797930,16.292342,9.557344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182185:1896083101:1166/pct:72.846097,44.021270,12.628866,7.387180/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11202,7 +11223,7 @@ speak face to face. &quot; From the above in
 tervtew tho marriage took place the  
 coming wock
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_austen_ver01:data:sn86063592:00296025495:1897021501:0523/pct:24.717620,41.370768,15.756777,20.038536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_austen_ver01:data:sn86063592:00296025495:1897021501:0523/pct:18.542922,31.034957,11.822289,15.028902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11262,7 +11283,7 @@ week. Church Paper.
   
 Tti is Yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CcSTDd27n_ver01%2Fdata%2F1897022201%2F0164.jp2/pct:17.708333,67.279001,48.437500,53.719679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CcSTDd27n_ver01%2Fdata%2F1897022201%2F0164.jp2/pct:13.289141,50.471937,36.332071,40.302446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

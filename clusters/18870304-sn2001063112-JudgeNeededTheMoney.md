@@ -70,7 +70,7 @@ ered off. The Judge thought it so good a
 etory that he told it on himself.  
 illrUuul.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn82015137:00414181946:1887021101:0592/pct:40.894977,33.305463,15.890411,19.007804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn82015137:00414181946:1887021101:0592/pct:31.689498,25.808250,12.310502,14.729654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ old fellow, take it and have your hair cut.&quot;
 Saying which he scampered off. Augusta  
 (Go J Cnroukfe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_hotel_ver01:data:sn87076917:00237289225:1887022601:0093/pct:26.300813,109.874539,16.422764,15.719557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_hotel_ver01:data:sn87076917:00237289225:1887022601:0093/pct:19.735772,82.450185,12.317073,11.793358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ old fellow you take it and have your hair
 cut.&quot; Saying which ho scampered off.—  
 Auf/vsta [Ga.) Chronicle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415623409:1887030401:0572/pct:33.748540,23.647977,14.266251,13.286018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415623409:1887030401:0572/pct:28.668743,20.099361,12.144803,11.298793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ and have your hair cut saying which he
 scampered off The Judge thought ii so  
 good a story that he told it on himsel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206535581:1887031401:0039/pct:50.886745,99.314114,18.823895,19.515593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206535581:1887031401:0039/pct:38.176727,74.504340,14.125700,14.650091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -582,7 +582,7 @@ money, old fe’low; you take it and have
 your hair cut.” Htying which he seam­  
 jx’red otT. —| Augusta (Hi.) Chronicle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187183:1887031801:0045/pct:70.846612,66.931572,12.886241,15.316338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187183:1887031801:0045/pct:70.832756,66.921251,12.886241,15.306017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -699,7 +699,7 @@ money, old fellow : you take it and
 have your hair cut.&quot; Saying which  
 he scampered off. Augusta Chronicl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn85033549:0029602398A:1887032301:0334/pct:76.021477,9.443990,34.114720,135.578496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn85033549:0029602398A:1887032301:0334/pct:50.680985,6.295993,22.747512,90.402698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -827,7 +827,7 @@ judge thought it so good a story that he
 told it on himself.  
 Facts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556837:1887040701:0469/pct:57.263923,33.667654,15.859564,22.361523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556837:1887040701:0469/pct:42.947942,25.256439,11.894673,16.765443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -874,7 +874,7 @@ your hair cut,&quot; saying which he scam­
 pered off. The Judge thought it sc  
 good a story that he told it on himself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296026839:1887040701:0061/pct:96.522017,94.664691,14.103382,20.464370/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296026839:1887040701:0061/pct:72.415444,71.013956,10.577537,15.363715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -918,7 +918,7 @@ earned your money ; here it is.
 dou&#x27;t want your  
 hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_alburg_ver02:data:sn84023253:0020029631A:1887040701:0489/pct:100.397035,7.581460,14.756485,17.937413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_alburg_ver02:data:sn84023253:0020029631A:1887040701:0489/pct:75.304394,5.688784,11.064055,13.453059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1109,7 +1109,7 @@ Vjw: you tako it and have your hair cut,&quot;
   
 saying which he scampered off
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn86053488:00296020370:1887040901:0924/pct:11.490683,71.104031,21.472937,14.060119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn86053488:00296020370:1887040901:0924/pct:8.629104,53.359191,16.104703,10.555479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1147,7 +1147,7 @@ which he scampered oil&#x27;. The jml lt
 thought it so trood a story that ho toll!  
 it on himself. Agitata i&#x27;hronule.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:00200297167:1887041101:0670/pct:56.959034,75.821792,22.426471,23.243784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:00200297167:1887041101:0670/pct:42.725840,56.883030,16.859244,17.453696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1182,7 +1182,7 @@ said: “1 don’t want y.a.r money, oi l fel­
 low; you take it and have your hair cut,’*  
 saving whieh he scamp red of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bunting_ver01:data:sn85033474:00542864552:1887041401:0826/pct:51.989060,69.635212,14.370960,10.686761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bunting_ver01:data:sn85033474:00542864552:1887041401:0826/pct:51.964197,69.600959,14.370960,10.686761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1396,7 +1396,7 @@ want your money, old fellow you take
 it and have your hair cut.&quot; saying  
 which be scampered off
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863705:1887042101:0132/pct:23.256643,84.042272,15.480649,15.918098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863705:1887042101:0132/pct:18.601748,67.239102,12.395220,12.734478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1467,7 +1467,7 @@ said: “1 don’t want your money, old fel­
 low; you take it and have your hair cut,”  
 saving which he scampered off
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529637:1887042801:0557/pct:49.033118,68.449116,14.336519,10.176722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529637:1887042801:0557/pct:49.010891,68.433882,14.336519,10.161487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1546,7 +1546,7 @@ said: &quot;I don&#x27;t want your money, old fel
 low; you take It and have your hair cut,&quot;  
 laying which he scampered off
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058248:00296020424:1887051901:0347/pct:62.122356,37.415584,15.709970,14.974026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058248:00296020424:1887051901:0347/pct:46.601208,28.064935,11.782477,11.233766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1596,7 +1596,7 @@ have your hair cut.&quot; Saying which he
 scampered off.—Atlanta:(Ga.) Chroni­  
 cle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415623409:1887052001:0673/pct:83.355860,85.150035,14.442943,18.883461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415623409:1887052001:0673/pct:70.843792,72.379623,12.280363,16.050244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1665,7 +1665,7 @@ iTi6,,107 said: &quot;l don,t your money,
 old fellow; take it and have your hair cut.&quot;  
 wg which tf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195465:1887052101:0462/pct:5.413932,26.414907,34.982332,100.426207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195465:1887052101:0462/pct:4.063604,19.813658,26.236749,75.329567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1782,7 +1782,7 @@ your hair cut.” Saying which he
 scampered off,  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_hale_ver01:data:sn84020381:00542868363:1887060201:0590/pct:89.868188,93.540089,16.446980,17.207375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_hale_ver01:data:sn84020381:00542868363:1887060201:0590/pct:69.643911,72.488209,12.748377,13.334286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2214,7 +2214,7 @@ have your hair cut.’ baying which
 be scampered olT.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187183:1888010601:0211/pct:8.543510,47.319683,12.267265,20.218129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187183:1888010601:0211/pct:8.530305,47.309394,12.267265,20.218129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2345,7 +2345,7 @@ fellow. You take it and have your
 hair cut&quot; and forthwith scampered  
 off.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn82015485:00237283326:1893080501:0242/pct:96.112760,115.609175,21.424332,23.890378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn82015485:00237283326:1893080501:0242/pct:64.094955,77.092642,14.287834,15.926919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2702,7 +2702,7 @@ money.
 is.  
 &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:00202196445:1897020801:0473/pct:90.519288,85.457990,19.005935,6.574549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:00202196445:1897020801:0473/pct:67.908012,64.107421,14.258160,4.936483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2723,7 +2723,7 @@ the money.
 sor, “you’ve earned your money;  
 here it is.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865970:1897061001:0329/pct:51.822917,19.253294,14.062500,4.158126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865970:1897061001:0329/pct:51.801215,19.238653,14.062500,4.158126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

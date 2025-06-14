@@ -79,7 +79,7 @@ wis the solo constituent member of my own nody.
 I do not make much account of the lords of creation  
 in raising up men. I look to the mothers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_doubleday_ver01:data:sn83026172:00211678252:1856122501:0505/pct:1.295710,33.671057,12.669162,7.801418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_doubleday_ver01:data:sn83026172:00211678252:1856122501:0505/pct:1.281313,33.659800,12.669162,7.801418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,10 @@ the principles , inculcated .in his breast in ; ces avoirdupois. ,- All precious
 i butig,ht, and sold by, Troy, weight.  
 childhood by her who gave him birth.  
 I
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fauna_ver01%2Fdata%2Fsn85038381%2F000002399%2F1857010901%2F0004.jp2/pct:28.962668,41.846429,25.270298,24.332143/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -424,7 +427,7 @@ when I wns the sole constituent member of
 my own body; and that I have adhered to it  
 through all time, I owe to my mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1857011601:0675/pct:43.161601,16.330150,16.493699,17.694407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1857011601:0675/pct:32.375834,12.251023,12.379540,13.274216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +474,10 @@ as the stile constituent nsertMer of
 my own body ; and that I have adhere !  
 to it through all thee, I owe to my  
 another
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_caca_ver01%2Fdata%2Fsn83032194%2F000002011%2F1857012901%2F0016.jp2/pct:10.446623,60.531634,13.763617,17.829939/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -572,7 +578,7 @@ principles inculca&#x27;ed in his breast in child­
 hood by her who gave him birth.  
 K7
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_charm_ver01%2Fdata%2Fsn83025129%2F00000002043%2F1857022801%2F0392.jp2/pct:44.951284,88.599717,18.600531,33.380481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_charm_ver01%2Fdata%2Fsn83025129%2F00000002043%2F1857022801%2F0392.jp2/pct:33.746678,66.492221,13.950399,25.049505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -627,7 +633,7 @@ inculcated in his breast in childhood by her
 W’ho gave him birth.  
 Discipline in Childhood.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanhart_ver01:data:sn89053987:print:1857031401:0044/pct:30.899609,40.860215,12.793351,23.080770/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanhart_ver01:data:sn89053987:print:1857031401:0044/pct:30.883312,40.847712,12.793351,23.080770/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -939,7 +945,7 @@ with her pious and earnest wishes.”
 The grand jury of New Orleans have  
 found tru
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857120101:1078/pct:57.945925,75.956679,16.047462,17.010830/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857120101:1078/pct:44.913441,58.859206,12.429488,13.184116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -990,7 +996,7 @@ I may attain in life, I attribute to having com­
 plied with her pious and earnest wishes.”  
 Lif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_iris_ver01:data:sn83020847:00517171475:1857120501:0388/pct:25.599660,94.095439,18.382509,16.958623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_iris_ver01:data:sn83020847:00517171475:1857120501:0388/pct:19.825939,72.923588,14.243260,13.138025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1023,7 +1029,7 @@ uent member of my own body, ai d that I have
 adhered to it through all time, I owe to toy  
 mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1857121001:0615/pct:64.609572,77.220521,14.519611,10.681470/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1857121001:0615/pct:64.591580,77.194997,14.519611,10.681470/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1119,7 +1125,7 @@ may attain in life. I atlrilute to having
 complied with her pious and- earnest wish  
 ea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ComWilm8n_ver01%2Fdata%2F1857121901%2F0492.jp2/pct:19.909366,78.250031,17.371601,13.212015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ComWilm8n_ver01%2Fdata%2F1857121901%2F0492.jp2/pct:14.939577,58.693755,13.036254,9.909012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1214,7 +1220,7 @@ to bavine complied with her&#x27; pious and earnest
 wishes.&quot;  
 Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474216:1858012801:0126/pct:18.055556,67.147975,17.208995,8.131582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474216:1858012801:0126/pct:13.544974,50.374552,12.910053,6.101400/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1246,7 +1252,7 @@ complied wilh her pious and earnest wishes.
 music is not sufficiently valued. In rais  
 ing th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_charm_ver01%2Fdata%2Fsn83025129%2F00000002043%2F1858030601%2F0617.jp2/pct:89.423942,59.374558,19.014401,17.461440/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_charm_ver01%2Fdata%2Fsn83025129%2F00000002043%2F1858030601%2F0617.jp2/pct:67.124212,44.559219,14.266427,13.103156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1311,7 +1317,7 @@ Wd whatever usefulness I may attain in life, I attri­
 tat3 to having complied with her pious and earnest  
 wiea- T. II. Benton.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474216:1858040801:0165/pct:4.055118,106.303384,16.706037,7.016975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474216:1858040801:0165/pct:3.044619,79.738350,12.532808,5.276246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1345,7 +1351,7 @@ ent member i; my own body; and tha&#x27; I ha. ;
 adi.e;eil to it through all past Ume, 1/ to  
 my mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1858041301:0898/pct:87.350870,29.741980,13.425327,9.495583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1858041301:0898/pct:82.981170,28.254300,12.749748,9.007438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1382,7 +1388,7 @@ of my own body, and that 1 have adher­
 ed to it through all time I owe to my  
 mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038462:00514151039:1858041501:0041/pct:5.874439,52.221463,12.286996,15.481887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038462:00514151039:1858041501:0041/pct:5.852018,52.204375,12.286996,15.481887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1504,7 +1510,10 @@ rows, and cares, and disappointments; he
 opens his heart to confidence, and to pleasure  
 not mingled with remorse. This world is the  
 home of a virtuous and amiable woman.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001945%2F1858082501%2F0129.jp2/pct:78.818067,58.365073,14.717815,14.413175/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1532,7 +1541,10 @@ plied with her pious and correct wishes. When i n-n* opposite THE ST. CLAIR HOTE
 I was seven years fit age she asked me not to I B“lT«.fcrCoM»aptloi., Aathn..,  
 drink, and I then made a resolution of total ah- , &quot; d *&quot; ° tl, &#x27; r Chronic Complain.,  
 stinooce, at atio.eWhenl was the sole constl- 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fides_ver01%2Fdata%2Fsn84026382%2F000002614%2F1858082801%2F0094.jp2/pct:33.509887,7.577953,19.019244,5.346302/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1563,7 +1575,7 @@ mother.”
   
 NEWS B
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182999:1858090201:0144/pct:50.228947,9.660857,20.545491,84.421024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182999:1858090201:0144/pct:50.209038,9.647345,20.545491,84.407512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1677,7 +1689,7 @@ and that I have adhered to it through all
 time, I owe to my mother.&quot;  
 A DA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1858091801:0359/pct:16.854689,76.192396,12.375821,12.548703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1858091801:0359/pct:16.837851,76.178960,12.375821,12.535268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1798,7 +1810,7 @@ ments : he opens his heart to confidence and ple-t
 sirred not mingled with remorse. This world is; ;  
 tle home of a virtnous an amiabl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewProg2n_ver01%2Fdata%2F1858112001%2F0265.jp2/pct:98.480243,119.043072,24.437690,8.179504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewProg2n_ver01%2Fdata%2F1858112001%2F0265.jp2/pct:73.890578,89.316783,18.328267,6.142584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1840,7 +1852,7 @@ ice sole constituent member of my own
 body, and thstI have adhered toit through  
 all time, I owe Jp my mother.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_IExState1n_ver01%2Fdata%2F1858120301%2F0002.jp2/pct:55.821545,9.868008,16.648531,19.536979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_IExState1n_ver01%2Fdata%2F1858120301%2F0002.jp2/pct:41.866159,7.406243,12.500000,14.655353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1981,7 +1993,7 @@ He is, ind. ed,
 a good deal of an orator, and perhaps the  
 best popular lecturer in Germany.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628407:1859020401:0054/pct:104.377104,118.589650,19.444444,2.213752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628407:1859020401:0054/pct:78.303872,88.975224,14.583333,1.656649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2214,7 +2226,7 @@ owe to mv mother.&quot;
   
 Where it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1859061601:0320/pct:98.503445,16.555565,26.701120,24.504261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1859061601:0320/pct:73.901809,12.420893,20.025840,18.386634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2383,7 +2395,7 @@ when I was sole constituent member of my own
 bodyi and that I have adhered to it through all  
 time, I owe it to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewProg4n_ver01%2Fdata%2F1859100201%2F0318.jp2/pct:103.109606,23.992219,24.230296,13.184913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewProg4n_ver01%2Fdata%2F1859100201%2F0318.jp2/pct:77.339901,17.994164,18.165025,9.888685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2416,7 +2428,7 @@ total ulwtinence, t a time when I was sole constituent
 member of my own body, aud tbat I have adhered t it  
 through all time, I owe it to my mother.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DJoWilm29n_ver01%2Fdata%2F1859100301%2F0974.jp2/pct:57.230896,70.774514,23.993426,10.403154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DJoWilm29n_ver01%2Fdata%2F1859100301%2F0974.jp2/pct:42.953985,53.109500,17.995070,7.808724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2451,7 +2463,7 @@ er.”
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183773:1859100401:0345/pct:69.936289,77.924511,12.463499,9.309731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183773:1859100401:0345/pct:69.923016,77.905779,12.463499,9.309731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2480,7 +2492,7 @@ total abstinence, at a time when I waa sole constituent
 member of my own body, and that I have adhered to it  
 through all time, I owe it to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879099:1859100701:0584/pct:69.132517,115.695729,20.409792,10.588467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879099:1859100701:0584/pct:51.862693,86.803779,15.313997,7.941350/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2607,7 +2619,7 @@ lslied and forewarned against the vices of
 drinking and gambling, as coming from his  
 mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_IExState1n_ver01%2Fdata%2F1859102101%2F0173.jp2/pct:41.570088,70.768107,16.956402,22.270925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_IExState1n_ver01%2Fdata%2F1859102101%2F0173.jp2/pct:31.181015,53.078689,12.720751,16.708412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2866,7 +2878,7 @@ cr himself admonished and forewarned against the
 Ticca of drinking and eanibltns, as coming from ,  
 his mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1859112201:0611/pct:8.713808,70.173894,20.072383,18.897204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1859112201:0611/pct:6.542316,52.641426,15.047327,14.175655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2897,7 +2909,10 @@ made a resolution of total abstinence, at a time
 when I was sole constituent of my own body,  
 and that I have adhered to it through all, time,  
 I owe to my mother
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001739%2F1859112401%2F0185.jp2/pct:31.325245,79.377897,12.229117,8.810110/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3009,7 +3024,10 @@ ber of my own body, and that I have ad­
 hereij to it through all tittle, I  
 owe it to  
 my motrier.
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aura_ver01%2Fdata%2Fsn83032227%2F000001968%2F1859120701%2F0196.jp2/pct:5.468468,69.758865,12.004505,12.280142/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3106,7 +3124,7 @@ was sole constituent member of my own body,
 and that I havo adhered to it through all time,  
 I owe it to my mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777353:1860010701:0651/pct:110.157480,52.292176,16.948819,11.873472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777353:1860010701:0651/pct:82.618110,39.226773,12.716535,8.908924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3512,7 +3530,7 @@ hensions regarding the future,
   
 10r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667826:1860120501:0290/pct:93.586455,116.194216,33.876347,8.580732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667826:1860120501:0290/pct:70.189841,87.157633,25.410467,6.435549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3774,7 +3792,7 @@ through, all tiinc, I ?we it to my wjhcr.
 SallabarT-.  
 - Is the Srntb right? Can he 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CFlagCon1n_ver01%2Fdata%2F1861043001%2F0010.jp2/pct:39.912040,10.090667,33.012644,115.978667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CFlagCon1n_ver01%2Fdata%2F1861043001%2F0010.jp2/pct:29.934030,7.573333,24.766355,86.997333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4032,7 +4050,7 @@ constituent member of my own body; and
 mat i cave aanereu to it turouga all time, 1  
 Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775320:1861093001:0133/pct:28.306686,92.997199,16.369913,13.501401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775320:1861093001:0133/pct:21.239099,69.761905,12.281977,10.140056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4063,7 +4081,7 @@ usefulness I muy attain in life, I have at­
 tributed to haix:j complied whh her pious  
 1ml p.irrLct vriaiies. When 1 was seven
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn84030186:00294555699:1861101001:0021/pct:6.434059,96.208811,35.643406,24.766741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn84030186:00294555699:1861101001:0021/pct:4.289373,64.154955,23.767606,16.522972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4100,7 +4118,10 @@ member of my own body; and that I
 have adhered to it through all time, I  
 owe to my mother.&quot;  
 
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_averruncus_ver01%2Fdata%2Fsn88080881%2F000001991%2F1861101201%2F0041.jp2/pct:23.968750,69.094697,12.791667,14.655303/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4231,7 +4252,7 @@ A ao! her Kxplolt of Julius Jen he
 A Den of counterfeit Telegraphers  
 Broken up The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021982:1861101801:0409/pct:28.201416,7.620042,33.478121,118.554280/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021982:1861101801:0409/pct:21.155084,5.715031,25.112613,88.935282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4264,7 +4285,7 @@ I was sole constituent member of my own
 body; and that I have adhered, to it through  
 all time, I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775320:1861101801:0199/pct:60.494942,70.019613,15.914017,12.678621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775320:1861101801:0199/pct:45.375723,52.521715,11.940029,9.512468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4286,7 +4307,7 @@ appointed Major in Col. Dunham&#x27;s regiment.
 Secretary Cameron has promi.-ed to have  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014306:00202191691:1861102301:0201/pct:77.064220,41.931707,15.774720,6.029268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014306:00202191691:1861102301:0201/pct:57.810907,31.463415,11.850153,4.517073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4356,7 +4377,10 @@ have adhered to it through all time. I owe«
 to my mother.&quot; &#x27;  
   
 Cambium! Wa
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_trumanhs_ver01%2Fdata%2Fsn85055100%2F000001893%2F1861111101%2F0177.jp2/pct:67.785714,80.085160,12.147619,12.878682/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4388,7 +4412,7 @@ stituent member oil my own body; and
 that I havo adhered to it Chrouh all timo  
 I owo my mother.&quot;. ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054845:00212477667:1861112801:0149/pct:6.558401,110.071344,19.893816,16.634958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054845:00212477667:1861112801:0149/pct:4.918801,82.592152,14.928170,12.473246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4418,7 +4442,10 @@ ence Ht a time when J was sole constituent
 member of my own body ;mnd that I have ad­  
 hered tb it through all lime, li owe to iny  
 mother. ,
-</td></tr></table>
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_madisonj_ver01%2Fdata%2Fsn84026595%2F000001707%2F1861120401%2F0182.jp2/pct:48.262202,87.020725,15.001056,10.092524/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -4451,7 +4478,7 @@ ent member of my own body; and that I have ad­
 nered,to it through all time, I owe to my mother.&quot;  
 &quot;Scviom 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:0021247423A:1861121901:0463/pct:7.255521,97.098601,16.600946,9.837013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:0021247423A:1861121901:0463/pct:5.441640,72.847070,12.460568,7.386429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4558,7 +4585,7 @@ have adhere 1 to it through all time I owe
 to my mother.&quot;  
 T* i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1862040201:0857/pct:61.662654,88.246097,12.604447,11.168503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1862040201:0857/pct:58.575273,83.826905,11.952981,10.606061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4599,7 +4626,7 @@ my own uouy, anu umi. i
 to.it through,all. time, I owe to my &#x27;  
 motber
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026797:1862040401:0078/pct:5.285074,92.121291,31.197950,15.161332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026797:1862040401:0078/pct:3.971813,69.094208,23.398463,11.377478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4704,7 +4731,7 @@ a resolution of total abstinence, and that I
 have adhered to it through all time, I owe to  
 my mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:0051717435A:1865110901:0028/pct:82.072397,39.913318,12.300566,8.116627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:0051717435A:1865110901:0028/pct:82.055241,39.900184,12.300566,8.116627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4788,7 +4815,7 @@ she asked me not to drink, and then I made a res­
 olution of total abstinence.  
 hexed to it through all time I owe to xny mothe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1866020801:0464/pct:86.710460,116.471159,20.035371,10.392632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1866020801:0464/pct:65.032845,87.367911,15.032845,7.794474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4986,7 +5013,7 @@ own body: and that I have adhered to
 it through all .past time, I owe . to my  
 mother.&#x27;&#x27;&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775162:1867020201:0850/pct:77.089060,111.036084,16.327653,14.697194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775162:1867020201:0850/pct:57.833975,83.298164,12.245739,11.025533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5077,7 +5104,7 @@ own body, and that I have adhered to i;
 through all time, I owe to my noth#-  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086770:00271769799:1870020301:0787/pct:84.539547,86.228929,16.849653,15.361610/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086770:00271769799:1870020301:0787/pct:80.304728,81.919521,16.020614,14.586732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5126,7 +5153,7 @@ of my own body, and that I have ad
 hered to it through all time, I owe to  
 my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744808:1870022201:0522/pct:8.315217,90.639137,16.331522,19.058114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744808:1870022201:0522/pct:6.236413,68.008352,12.255435,14.290686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5226,7 +5253,7 @@ made a resolution of totp abstinence
 that I have adhered to through all hiy  
 life. Whatdolnot owe to my mothe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775411:1870040701:0299/pct:35.220540,28.971473,15.289664,11.031144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775411:1870040701:0299/pct:26.415405,21.735148,11.471363,8.270086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5295,7 +5322,7 @@ have adhered to through all my life.
 What do I not owe to my mother?&quot;  
 Troy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286868:1870041301:0536/pct:47.086175,111.667942,25.573466,15.888804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286868:1870041301:0536/pct:35.337880,83.792400,19.172350,11.922979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5592,7 +5619,7 @@ The Christian does not fear the knell,
 As angels toll the funeral bell.  
 Written for the Sunday S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191599:1878013001:0072/pct:4.260652,17.780160,21.036967,94.521853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191599:1878013001:0072/pct:3.195489,13.338097,15.789474,70.906276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5753,7 +5780,7 @@ and that I have adhered to it through
 all the time, I owe to my mother.&quot;  
 Many
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877492:1878013001:0473/pct:16.197945,6.350231,22.809627,121.849101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877492:1878013001:0473/pct:12.155219,4.768055,17.103840,91.421806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5895,7 +5922,7 @@ The christian does not fear the knell,
 Aa angels toll the funeral belL  
 la a Pari
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779544:1878020301:0112/pct:73.495597,31.870981,12.169765,28.801079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779544:1878020301:0112/pct:55.124755,23.905829,9.124266,21.603402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5978,7 +6005,7 @@ As angels toll the funeral bell-
   
 The Sounds of the Sabbath Bell
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775253:1878021401:0036/pct:5.747508,47.008004,15.199336,37.631813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775253:1878021401:0036/pct:4.318937,35.256003,11.395349,28.242917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6069,7 +6096,7 @@ The Christian does not fear the knell,
 As aiiL&#x27;els toll the funeral bell.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775034:1878022101:0388/pct:51.366002,5.523101,49.631396,117.100372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775034:1878022101:0388/pct:38.529922,4.142326,37.228968,87.838555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6109,7 +6136,7 @@ member of mine nnn liody, and that 1
 have adhered to it through all time I owe  
 to rny mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187158:1878022201:0588/pct:68.513790,63.982338,12.844740,15.885198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187158:1878022201:0588/pct:68.501021,63.971825,12.844740,15.885198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6512,7 +6539,7 @@ A s angels toll the funeral bell.
   
 Edison&#x27;s riioiKigraph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023209:00202197486:1878031301:0006/pct:50.867925,19.915428,13.169811,36.256991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023209:00202197486:1878031301:0006/pct:38.150943,14.936571,9.886792,27.213204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6545,7 +6572,7 @@ Swell! swell!swell! swell! ye waters swell!
 Exclaimed in peals the Baptist bell!  
 While 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84022957:00542868697:1878031401:0087/pct:2.740022,6.300900,19.029126,10.744392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84022957:00542868697:1878031401:0087/pct:2.114347,4.872125,14.757282,8.329761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6565,7 +6592,7 @@ No hell! no hel&#x27;! no hell! no hell!
 Do well! do well! do well! do well!  
 Said the Unitarian
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84022957:00542868697:1878031401:0087/pct:2.610572,25.132162,15.145631,3.700529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84022957:00542868697:1878031401:0087/pct:2.028047,19.474211,11.736785,2.871839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6596,7 +6623,7 @@ All meet at last beneath the Cross;
 The Christian does not fear the knell  
 As angels toll the funeral bell
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84022957:00542868697:1878031401:0087/pct:2.373247,30.804401,16.699029,9.415631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84022957:00542868697:1878031401:0087/pct:1.833873,23.860552,12.944984,7.301043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6761,7 +6788,7 @@ The Christian does not fear the knell
 As ange&#x27;s toll the funeral bell.  
 OA jo State Journa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474290:1878031601:0582/pct:5.359001,24.738206,14.854318,39.388284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474290:1878031601:0582/pct:4.019251,18.558839,11.147242,29.548989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6841,7 +6868,7 @@ All meet at last beneath the Croas;
 TbeChristain dues not fear the kuell.  
 As angels toll the funeral bell
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555663:1878032101:0298/pct:5.818649,26.364516,16.116006,31.864032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555663:1878032101:0298/pct:4.368576,19.773387,12.096182,23.918751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7111,7 +7138,7 @@ body, and that I have adhered to it
 through all the time I owo to my  
 mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:206539239:1878100901:0028/pct:18.984857,34.617437,14.189568,16.903212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:206539239:1878100901:0028/pct:14.245653,25.963078,10.642176,12.688080/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7145,7 +7172,7 @@ own body, and that I have adhered
 to it, through all the time, I owe to  
 to my mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991422:1878101201:0050/pct:29.096868,17.299639,12.272396,11.682310/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991422:1878101201:0050/pct:29.078660,17.285199,12.272396,11.682310/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7218,7 +7245,7 @@ constituent member of my own body nnd
 thnt I havo ndhercd to it through all tho  
 time I owo to my mothe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn86069309:00100481807:1878110601:0063/pct:40.691685,81.793217,16.151582,16.943567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn86069309:00100481807:1878110601:0063/pct:30.518764,61.375807,12.141280,12.714541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7450,7 +7477,7 @@ through all time I owe to my mother.&quot;
   
 Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn88068010:00294556072:1879020801:0144/pct:19.177632,5.925537,16.628289,122.050341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn88068010:00294556072:1879020801:0144/pct:14.391447,4.444153,12.467105,91.557420/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7485,7 +7512,7 @@ uent member of my own body, and that I ad­
 hered to it through all time I owo to my :  
 mother.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155872:1879021201:0425/pct:55.318783,66.565012,12.562296,12.586637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155872:1879021201:0425/pct:55.301598,66.551151,12.562296,12.586637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7522,7 +7549,7 @@ member of my own body, and that I
 adhered to it through all time I owe  
 to my mother.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_epidote_ver01:data:sn85032971:00516990508:1879030601:0051/pct:23.680650,76.255563,14.230943,14.558169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_epidote_ver01:data:sn85032971:00516990508:1879030601:0051/pct:23.658097,76.223776,14.230943,14.558169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7691,7 +7718,7 @@ mother.”
 j The Stream to the Mill.  
 **f notice,” said the stream to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_chert_ver01:data:sn86053968:00383343781:1879040301:0264/pct:84.267990,64.533300,11.050455,17.652884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_chert_ver01:data:sn86053968:00383343781:1879040301:0264/pct:84.251447,64.520921,11.050455,17.640505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7731,7 +7758,7 @@ time I ewe to my mother.&quot; ,
 Hill Ixxiire will be held in the new  
 Mawsale llall in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewsObs72n_ver01%2Fdata%2F1879040601%2F0327.jp2/pct:22.841530,96.668698,16.393443,19.683120/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewsObs72n_ver01%2Fdata%2F1879040601%2F0327.jp2/pct:17.131148,72.516758,12.295082,14.767418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7868,7 +7895,7 @@ Thos. II. Benton was a native of Orange
 county, North Carolina, and represented  
 Missouri in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296023000:1879041801:0272/pct:86.987251,61.430694,19.387472,17.947357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296023000:1879041801:0272/pct:65.257761,46.083634,14.550998,13.468478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7941,7 +7968,7 @@ body, and that I adhered to it through all
 time I owe to my mother.”  
 Thre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529595:1879050101:0075/pct:84.872868,70.778577,11.200515,11.257129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529595:1879050101:0075/pct:84.856775,70.766179,11.200515,11.244731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8053,7 +8080,7 @@ and then 1 made a resolution of total
 abstinance; and that I have adhered  
 to i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_albert_ver01:data:sn96027724:00271766294:1879060401:0426/pct:54.038211,73.826795,19.561442,19.748335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_albert_ver01:data:sn96027724:00271766294:1879060401:0426/pct:41.880156,57.216876,15.154147,15.292376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8126,7 +8153,7 @@ mother.&quot;
 ONEB0OK.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WelRN9n_ver01%2Fdata%2F1879062601%2F0278.jp2/pct:28.271405,25.295573,16.639742,18.366786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WelRN9n_ver01%2Fdata%2F1879062601%2F0278.jp2/pct:21.203554,18.971680,12.500000,13.788837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8174,7 +8201,7 @@ time, I owe to my mother.&quot;­
 The Watchword.  
 A TEMPERA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn85033395:00212470399:1880031101:0674/pct:69.226580,30.756596,14.447168,20.223796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn85033395:00212470399:1880031101:0674/pct:51.933551,23.067447,10.838780,15.183246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8206,7 +8233,7 @@ that I have adhered to it through all the
 time, I owe to my mother.”  
 The Faithful Word.—A gentlema
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver02:data:sn82004649:0051701610A:1880052001:0287/pct:44.190176,75.140754,12.033932,10.480728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver02:data:sn82004649:0051701610A:1880052001:0287/pct:44.170448,75.111881,12.033932,10.480728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8322,7 +8349,7 @@ drink, and then I made a resolution of
 totaljabstinence ; and that I have adherad  
 to it through all the time, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_hale_ver01:data:sn84020381:00542868363:1887033101:0514/pct:72.746781,29.887832,16.309013,20.218657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_hale_ver01:data:sn84020381:00542868363:1887033101:0514/pct:56.359735,23.157745,12.660944,15.660940/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8371,7 +8398,7 @@ adhered to it through all time I owe to
   
 my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556837:1887111701:0737/pct:14.519002,36.192876,16.196556,16.710572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556837:1887111701:0737/pct:10.896675,27.144657,12.143705,12.541519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8407,7 +8434,7 @@ sole constituent member of iny own body,
 and that 1 have adhered to it through all  
 time I owe to my mother.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:004141867092:1892021001:0230/pct:81.214898,74.565851,12.695832,15.694100/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:004141867092:1892021001:0230/pct:81.200118,74.544278,12.695832,15.694100/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8448,7 +8475,7 @@ body, and that I havo adhered to it
 through all time I owe to my  
 mother.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187195:1892030401:0236/pct:72.914383,61.338329,11.058336,16.037049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187195:1892030401:0236/pct:72.902204,61.327922,11.058336,16.037049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8486,7 +8513,7 @@ abstinence, at a; time when :T) was
 eole constituent member of my own  
 body; and that I.have adhered to it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RockPD13n_ver01%2Fdata%2F1892052601%2F0277.jp2/pct:61.949204,9.495684,16.814565,20.490686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RockPD13n_ver01%2Fdata%2F1892052601%2F0277.jp2/pct:46.481028,7.121763,12.622399,15.368015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8526,7 +8553,7 @@ body, and that I have adhered to it
 through all time I owe to my  
 mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalCA19n_ver01%2Fdata%2F1892070601%2F0213.jp2/pct:4.648318,31.227589,19.617737,24.203754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalCA19n_ver01%2Fdata%2F1892070601%2F0213.jp2/pct:3.486239,23.423328,14.724771,18.171272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8582,7 +8609,7 @@ whatever service I may have been able to ren­
 der to my country or whatever honor I may  
 have gained I owe it t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1894100401:0424/pct:72.253993,34.933297,21.179255,7.949388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1894100401:0424/pct:72.234273,34.919543,21.179255,7.949388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8600,7 +8627,7 @@ touched it from that time to the
 present day. She asked me not to  
 game, and I have no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_glycine_ver01:data:sn89053987:print:1898101201:0747/pct:29.180436,16.071429,21.546596,4.656420/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_glycine_ver01:data:sn89053987:print:1898101201:0747/pct:29.147389,16.048825,21.546596,4.656420/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8637,7 +8664,7 @@ own body, and that I have adhered to it through
 all the time, I owe to my mother.”  
 The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1899051801:0552/pct:50.839895,74.777879,20.997375,13.889393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1899051801:0552/pct:50.813648,74.741614,20.997375,13.889393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
