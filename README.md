@@ -14,7 +14,6 @@
 * [Chinese Gossip](clusters/18710617-sn83025925-ChineseGossip.md): 13 reprints from 1871-06-17 to 1871-08-04
 * [Delicacy in Conversation](clusters/18631203-sn84031490-DelicacyInConversation.md): 76 reprints from 1826-07-06 to 1880-11-20
 * [The Dude](clusters/18830723-sn84022871-TheDude.md): 31 reprints from 1883-07-11 to 1893-07-15
-* [The Dude](clusters/18830723-sn84022871-TheDude.md): 6 reprints from 1883-07-23 to 1883-09-06
 * [Editing a Paper](clusters/18801119-sn87062082-EditingAPaper.md): 272 reprints from 1863-08-04 to 1897-09-29
 * [Educate Your Daughters](clusters/18500316-sn83035487-EducateYourDaughters.md): 185 reprints from 1849-07-28 to 1870-06-15
 * [Eloquent Extract](clusters/18430908-sn98060050-EloquentExtract.md): 418 reprints from 1842-05-01 to 1898-07-23
@@ -27,25 +26,18 @@
 * [The Footsteps of Decay](clusters/18640117-sn82015407-TheFootstepsOfDecay.md): 303 reprints from 1824-01-01 to 1899-07-13
 * [Four Good Habits](clusters/18520309-sn85026466-FourGoodHabits.md): 183 reprints from 1833-05-07 to 1899-12-16
 * [A Fragment Found in a Skeleton Case](clusters/18360226-sn83035366-FragmentFoundInASkeletonCase.md): 257 reprints from 1815-11-01 to 1899-09-11
-* [From _Bucks Chronicle and Bucks Gazette_](clusters/Manhood%20Buck%27s%20Chronicle%2021%20June%201851.md): 17 reprints from 1851-05-03 to 1851-10-25
 * [From _Bucks Chronicle and Bucks Gazette_](clusters/Manhood%20Buck%27s%20Chronicle%2021%20June%201851.md): 218 reprints from 1850-08-24 to 1855-12-08
-* [From _Bucks Chronicle and Bucks Gazette_](clusters/Manhood%20Buck%27s%20Chronicle%2021%20June%201851.md): 7 reprints from 1850-10-30 to 1855-02-23
 * [From _Globe_](clusters/Untrodden%20Fields%20Globe%2010%20November%201896.md): 11 reprints from 1896-10-22 to 1899-03-01
 * [From _Lyon County Times_](clusters/Philosophy%20of%20Marriage%20Lyon%20County%20Times%2014%20November%201896.md): 98 reprints from 1896-10-24 to 1898-02-04
 * [From _Odd Fellow_](clusters/Silent%20Friend%20Odd%20Fellow%204%20December%201841.md): 146 reprints from 1841-12-04 to 1846-07-20
 * [From _Sheffield Independent_](clusters/Manly%20Vigour%20Sheffield%20Independent%2024%20June%201843.md): 473 reprints from 1842-01-30 to 1896-11-10
-* [From _Sheffield Independent_](clusters/Manly%20Vigour%20Sheffield%20Independent%2024%20June%201843.md): 2 reprints from 1844-06-01 to 1896-11-10
-* [From _Sheffield Independent_](clusters/Self%20Preservation%20Sheffield%20Independent%2024%20June%201843.md): 47 reprints from 1842-02-12 to 1896-11-10
 * [From _Sheffield Independent_](clusters/Self%20Preservation%20Sheffield%20Independent%2024%20June%201843.md): 566 reprints from 1841-05-22 to 1896-11-10
 * [From _Western Times_](clusters/Man%20and%20Woman%20Western%20Times%2013%20May%201854.md): 13 reprints from 1853-05-13 to 1854-12-31
-* [From _Western Times_](clusters/Man%20and%20Woman%20Western%20Times%2013%20May%201854.md): 3 reprints from 1853-05-13 to 1855-02-16
 * [The Future of the Negro in America](clusters/18710629-sn84026753-FutureoftheNegro.md): 11 reprints from 1871-06-16 to 1871-10-07
 * [God](clusters/18380718-sn83025661-God.md): 324 reprints from 1821-02-17 to 1898-12-16
 * [The Golden Side](clusters/18680107-sn84020712-TheGoldenSide.md): 73 reprints from 1868-01-07 to 1897-04-09
 * [A Good Wife](clusters/18430327-sn83016922-AGoodWife.md): 155 reprints from 1841-06-05 to 1892-01-07
-* [A Good Wife](clusters/18430527-sn83016922-AGoodWife.md): 5 reprints from 1843-05-27 to 1878-12-21
 * [A Good Wife](clusters/18430527-sn83016922-AGoodWife.md): 78 reprints from 1841-06-05 to 1899-11-24
-* [A Good Wife](clusters/18430527-sn83016922-AGoodWife.md): 4 reprints from 1843-05-27 to 1878-12-21
 * [Grammar](clusters/18460108-sn84022687-Grammar.md): 282 reprints from 1834-05-03 to 1899-11-18
 * [Have We a Fanny Fern Among Us](clusters/18550222-sn85025007-IsThereFannyFernAmongUs.md): 29 reprints from 1855-02-17 to 1855-03-02
 * [Hawthorne Quote](clusters/18750702-sn84024738-HawthorneQuote.md): 132 reprints from 1862-11-08 to 1895-11-09
@@ -64,8 +56,6 @@
 * [A Literary Curiosity](clusters/18680308-sn82015775-ALiteraryCuriosity.md): 324 reprints from 1868-02-26 to 1899-07-20
 * [The Longshoremen of Baltimore](clusters/18710629-sn84026753-LongshoremenofBaltimore.md): 2 reprints from 1871-06-29 to 1871-06-29
 * [The Mechanic](clusters/18451113-sn84023209-Mechanic.md): 288 reprints from 1845-10-16 to 1898-11-04
-* [Medical Uses of Salt](clusters/18480701-SciAm-MedicalUsesOfSalt.md): 5 reprints from 1848-07-01 to 1848-07-20
-* [Medical Uses of Salt](clusters/18480701-SciAm-MedicalUsesOfSalt.md): 2 reprints from 1848-07-01 to 1848-07-20
 * [Medical Uses of Salt](clusters/18480701-SciAm-MedicalUsesOfSalt.md): 262 reprints from 1848-05-16 to 1897-07-15
 * [Micromega-Year-Round](clusters/sn85038238_1872-10-10_Micromega-Year-Round.md): 7 reprints from 1827-02-01 to 1873-06-25
 * [Mortality](clusters/18391219-sn82015015-Mortality.md): 401 reprints from 1829-06-05 to 1899-12-28
@@ -118,7 +108,6 @@
 * [What is a Lady](clusters/18520622-sn82014593-AModelLady.md): 109 reprints from 1852-05-11 to 1883-12-22
 * [What to Do in Case of Accident](clusters/18730206-sn85033395-WhatToDoInCaseOfAccident.md): 396 reprints from 1872-07-11 to 1896-01-29
 * [A Woman's Answer to a Man's Question](clusters/18710126-sn87076794-WomansAnswer.md): 328 reprints from 1870-07-03 to 1899-09-29
-* [A Woman's Laugh](clusters/18530101-sn82014593-AWomansLaugh.md): 7 reprints from 1852-05-22 to 1857-10-01
 * [A Woman's Laugh](clusters/18530101-sn82014593-AWomansLaugh.md): 169 reprints from 1852-05-22 to 1896-12-31
 * [Woman's Veneration](clusters/18600104-sn82014511-WomansVeneration.md): 83 reprints from 1859-05-01 to 1893-09-20
 * [The World Is Agreeable](clusters/18420416-sn83016348-TheWorldIsAgreeable.md): 134 reprints from 1833-04-17 to 1882-05-18
