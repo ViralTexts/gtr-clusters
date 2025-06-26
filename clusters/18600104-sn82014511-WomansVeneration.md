@@ -287,10 +287,9 @@ not wanting of those who have turned away
 from the flattery of admirers to prostrate them­  
 selves at the feet of a genuine hero who never  
 wooed them except by heroic deeds and the  
-rhetoric of a noble life.  
-R
+rhetoric of a noble life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1859102701:0003/pct:23.816370,70.658242,9.598428,5.694681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1859102701:0003/pct:23.816370,70.658242,9.598428,4.194449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +305,7 @@ R
 
 ---
 
-## For the Fireside.
+## [For the Fireside.](http://search.proquest.com/docview/137234425/fulltext/)
 
 #### From _Ohio Farmer (1856-1906)_
 
@@ -382,7 +381,7 @@ ce to what she deems noblest in man? Does not old Richard
  upon  
 those who have turned away from the pr  
 themeelves at the feet of a genuine hero who never wooed them except by  
-heroic deeds and the rhetoric of a noble life, T
+heroic deeds and the rhetoric of a noble lif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_illustrated-london-news_1859-11-05_35_1001%2Fsim_illustrated-london-news_1859-11-05_35_1001_jp2.zip%2Fsim_illustrated-london-news_1859-11-05_35_1001_jp2%2Fsim_illustrated-london-news_1859-11-05_35_1001_0002.jp2/pct:4.802124,89.747956,26.472008,2.060627/600,/0/default.jpg"/>
 </td>
@@ -635,33 +634,9 @@ than she had expected? The faot is, women
 are burdened with fealty, faith, reverence,  
 hat to do with; they  
   
-they kno  
-  
-  
-  
-like  
-  
-Ou4t  
-  
-i t oe  
-  
-ton yay and aishaes  
-  
-.  
-  
-ant hack  
-  
-ogain aty  
-  
-proder Hans thought to thatch it mit shin-  
-  
-gles, but he sold dom and shingled it mit  
-straw, and clap boarded it mit rails. Afte  
-e o  ee a i a e ee e e e eo o a o  
-  
-house you come to is a hay stack of corn
+they kn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529480:1860011401:0006/pct:68.789745,49.482607,26.513444,14.164098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529480:1860011401:0006/pct:68.789745,49.482607,26.513444,9.393806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1860,7 +1835,7 @@ life.— The Minister&#x27;
 
 ---
 
-## NATIVE WINESHUME'S PROCESS.
+## [NATIVE WINESHUME'S PROCESS.](http://search.proquest.com/docview/137975530/fulltext/)
 
 #### From _Southern Cultivator (1843-1906)_
 
@@ -1886,8 +1861,6 @@ life.— The Minister&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- in  
-the morning.  
   
 Women’s Veneration.  
   
@@ -1942,7 +1915,7 @@ themselves at tho feet of a genuine hero, who
 never wooed them, except by heroic deeds  
 and tho rhetoric of noble life.— The Minister’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001741%2F1861120501%2F0177.jp2/pct:43.558199,15.888186,24.536953,78.169014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001741%2F1861120501%2F0177.jp2/pct:56.169421,15.888186,11.925731,24.004743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3189,10 +3162,7 @@ Minister&#x27;s Wooing.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-from the Xiafcter1* Wooing,  
-  
-Woman&#x27;s Veneration.  
+.  
 If women have one weakness more  
 marked than man, it is toward veneration.  
 They are born worshippers—makers of  
@@ -3248,7 +3218,7 @@ themselves at tho feet of a genuine hero
 who never wooed them except by heroio  
 deeds and the rhetoric of a noble life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027239:00279529443:1869092201:0799/pct:84.027068,3.028169,11.618999,31.659960/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027239:00279529443:1869092201:0799/pct:84.027068,4.034205,11.618999,30.653924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3260,7 +3230,10 @@ deeds and the rhetoric of a noble life.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+  
+From the Wooing.  
+  
+Woman&#x27;s Yeneration.  
 If women have one weakness more  
 marked than man, it is toward vonerationv  
 They are born worshippers—makers of  
@@ -3319,7 +3292,7 @@ themselves at the feet of a genuine hero&#x27;
 who never wooed them except by heroic  
 deeds aud the rhetoric of a noble life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027239:00279529443:1869092201:0801/pct:83.819595,4.113447,11.581093,30.715076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027239:00279529443:1869092201:0801/pct:83.819595,3.057427,11.581093,31.771095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

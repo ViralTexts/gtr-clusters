@@ -1,7 +1,7 @@
 
 # A Fragment Found in a Skeleton Case
 
-### 257 reprints from 1815-11-01 to 1899-09-11
+### 255 reprints from 1815-11-01 to 1899-09-11
 
 ## [A Fragment Found in a Skeleton Case](http://chroniclingamerica.loc.gov/lccn/sn83035366/1836-02-26/ed-1/seq-4/)
 
@@ -714,7 +714,7 @@ Aud tread the palace of the sky !
 
 ---
 
-## FOUND IN A CASE CONTAINING A HUMAN SKELETON.
+## [FOUND IN A CASE CONTAINING A HUMAN SKELETON.](http://search.proquest.com/docview/123976511/fulltext/)
 
 #### From _The Atheneum; or, Spirit of the English Magazines (1817-1833)_
 
@@ -885,7 +885,7 @@ And tread the palace of the sky.
 
 ---
 
-## A FRAGMENT.
+## [A FRAGMENT.](http://search.proquest.com/docview/136091088/fulltext/)
 
 #### From _Religious remembrancer._
 
@@ -1039,7 +1039,7 @@ mrwi
 
 ---
 
-## A FRAGMENT.
+## [A FRAGMENT.](http://search.proquest.com/docview/126609044/fulltext/)
 
 #### From _The National Recorder (1819-1821)_
 
@@ -1835,7 +1835,7 @@ And tread the palace of the sky.
 
 ---
 
-## A FRAGMENT.
+## [A FRAGMENT.](http://search.proquest.com/docview/126024002/fulltext/)
 
 #### From _Christian Advocate and Journal (1827-1828)_
 
@@ -2143,7 +2143,7 @@ And tread the palace of the sky.
 
 ## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1833-03-13_3_11/page/n1/mode/1up?view=theater)
 
-#### 1833-03-13
+#### 1833-03-13 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2205,7 +2205,7 @@ nglish paper.
 
 ---
 
-## POETRY.
+## [POETRY.](http://search.proquest.com/docview/136205303/fulltext/)
 
 #### From _New York Observer and Chronicle (1833-1912)_
 
@@ -2271,7 +2271,7 @@ And tread the palace of the sky.
 
 ---
 
-## LINES ON A SKULL.
+## [LINES ON A SKULL.](http://search.proquest.com/docview/89929033/fulltext/)
 
 #### From _The Catholic Telegraph (1831-1846)_
 
@@ -2359,7 +2359,7 @@ And tread the palace of the sky.
 
 ---
 
-## LINES ON A SKULL.
+## [LINES ON A SKULL.](http://search.proquest.com/docview/126333043/fulltext/)
 
 #### From _United States Catholic Miscellany (1822-1835)_
 
@@ -2868,7 +2868,7 @@ Anr! &quot;e;d the nalnce of tl.c kv
 
 ## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1837-07-08_7_27/page/n3/mode/1up?view=theater)
 
-#### 1837-07-08
+#### 1837-07-08 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3020,7 +3020,7 @@ And tread the palace of the sky !
 
 ---
 
-## SELECTED POETRY.
+## [SELECTED POETRY.](http://search.proquest.com/docview/89948111/fulltext/)
 
 #### From _The Catholic Telegraph (1831-1846)_
 
@@ -3865,7 +3865,7 @@ And tread the palace of the aky.
 
 ---
 
-## Miscellany.
+## [Miscellany.](http://search.proquest.com/docview/135753896/fulltext/)
 
 #### From _Christian Inquirer (1846-1864)_
 
@@ -5734,9 +5734,13 @@ Within this hollow cavern
 at dreams of pleasure long forgot.  
 &quot;Nor hope, nor joy, nor love, nor fear,  
 Have left one frace of record here.  
-eneath this mouldering cano
+eneath this mouldering canon  
+  e  
+Dot start not at the disral veld  
+employed,  
+i i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1868061201:0537/pct:33.970771,20.256917,10.463308,1.915898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1868061201:0537/pct:33.970771,20.256917,10.579913,3.524374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6140,7 +6144,7 @@ To seek Affliction&#x27;s humble shed—
 If Grandeur&#x27;s guilty bribe they spumed,  
 And home to Virtue&#x27;s cot returned.  
 These feet with Angel&#x27;s wings shall vie.  
-And tread the palace of sky.
+And tread the palace o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152378:1868121101:0159/pct:8.683026,3.974387,67.562073,92.095385/!600,600/0/default.jpg"/>
 </td>
@@ -7741,9 +7745,9 @@ To
 
 ---
 
-## [From _The Courier-Journal_](https://archive.org/details/per_courier_journal_the-courier-journal_1871-11-22_33_1-305/page/n3/mode/1up?view=theater)
+## [From _The courier-journal._](https://archive.org/details/per_courier_journal_the-courier-journal_1871-11-22_33_1-305/page/n3/mode/1up?view=theater)
 
-#### 1871-11-22
+#### 1871-11-22 &middot; [Louisville [Ky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8094,7 +8098,7 @@ If grandeu
 
 ---
 
-## An Old Poem.
+## [An Old Poem.](http://search.proquest.com/docview/125923436/fulltext/)
 
 #### From _Christian Advocate (1866-1905)_
 
@@ -12025,6 +12029,46 @@ old Australian settlers, who had been Of course,&quot; he said, there is not a
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+minus of every article of jewelry that  
+they had possessed. Even the grumbling  
+old gentleman had lost his gold snuff­  
+box.  
+  
+There was no keeping matters quiet  
+this time. The thief must be traced and  
+brought to justice. What was the wisest  
+method of procedure? What would Mr.  
+Moore suggest?  
+  
+To this proposition we unanimously  
+agreed.  
+This/&#x27; he continued, must be most  
+humiliating to the feelings of your crew,  
+captain, and therefore, in common fair­  
+ness to them as our fellow-men, let me  
+also suggest that every passenger and  
+  
+A  
+  
+a  
+  
+little hesitation on the part of one  
+  
+or two of the passengers was demon-
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479755:1879052901:0102/pct:13.118253,36.811369,15.001255,8.983843/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Mower County transcript._](https://www.loc.gov/resource/sn85025431/1879-05-29/ed-1/?sp=3)
+
+#### 1879-05-29 &middot; [Lansing, Minn.](http://dbpedia.org/resource/Austin%2C_Minnesota)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
   
 admirable and praiseworthy in our eyes  
   
@@ -12407,60 +12451,6 @@ adage baa it My only request in the swain before he could turn to protect
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-himself. I waited no longer, but flung  
-open the door of my cabin in an instant,  
-and in another I was to the rescue, and  
-in a few moments we had our pleasant  
-passenger in irons.  
-  
-So, you see,  
-  
-he  
-  
-In the interior of the Bide of the cask  
-he had driven several nails, about two  
-feet from the top, on which he had sus-  
-  
-my  
-  
-How could I deny him his request? pended, in wash-leather bags, the jewelry
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:0027952357A:1879060401:0333/pct:20.575453,6.663527,21.369699,7.322816/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Union County courier._](https://www.loc.gov/resource/sn84022137/1879-06-04/ed-1/?sp=5)
-
-#### 1879-06-04 &middot; [Elk Point, Union County, D.T. [S.D.]](http://dbpedia.org/resource/Elk_Point%2C_South_Dakota)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-­  
-teen robbed during the night.  
-  
-The three old gentlemen, the youn  
-married  
-brother  
-minus of every article of iewelrv mm i  
-17 ,Er^eg&#x27;,Tblln„, &quot;&#x27;&quot;leTiib r&quot;  
-old gentleman had lost his gold snufl-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:0027952357A:1879060401:0333/pct:19.886108,34.589122,17.503372,3.461267/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Union County courier._](https://www.loc.gov/resource/sn84022137/1879-06-04/ed-1/?sp=5)
-
-#### 1879-06-04 &middot; [Elk Point, Union County, D.T. [S.D.]](http://dbpedia.org/resource/Elk_Point%2C_South_Dakota)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
  about admirable and praiseworthy in our eyes the picture. Two millions of these are  
   
 searched like a common pickpocket. demnification, also for the expenses of  
@@ -12640,23 +12630,6 @@ atom bo, dressing myself, I determined eyes are common to only three members nit
 upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:0027952357A:1879060401:0333/pct:19.766222,63.174005,43.953244,2.613610/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Union County courier._](https://www.loc.gov/resource/sn84022137/1879-06-04/ed-1/?sp=5)
-
-#### 1879-06-04 &middot; [Elk Point, Union County, D.T. [S.D.]](http://dbpedia.org/resource/Elk_Point%2C_South_Dakota)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-, which endel by  
-direct for the water cask. It was now  
-obvious to me that the old boatswain had  
-been watching the pleasant passenger.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:0027952357A:1879060401:0333/pct:19.331635,89.463150,21.774314,1.895456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14505,7 +14478,7 @@ And tread the palace ot the sky!”
 
 ---
 
-## Lines on a Skull.
+## [Lines on a Skull.](http://search.proquest.com/docview/138029826/fulltext/)
 
 #### From _Southern Cultivator (1843-1906)_
 

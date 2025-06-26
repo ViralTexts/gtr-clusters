@@ -935,7 +935,7 @@ phrase, &quot;That&#x27;s what I&#x27;ve been telling
 Emily,&quot; having had the anecdote made  
 familiar by going the rounds of the news­  
 papers, and now one hears everywhere,  
-&quot;That&#x27;s what I&#x27;ve been telling Emily.
+&quot;That&#x27;s what I&#x27;ve been telling Emily.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn84038328:00280763391:1874120401:0600/pct:63.438896,36.168852,10.921640,25.487688/!600,600/0/default.jpg"/>
 </td>
@@ -1098,7 +1098,7 @@ what l&#x27;ve been telling Emily,&quot; having
 had the anecdote made familiar by  
 going the round of the papers, and  
 one hears everywhere, &quot;That&#x27;s what  
-I&#x27;ce been telling Emily.&quot;
+I&#x27;ce been telling Emily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776452:1874120901:0509/pct:75.314236,13.026477,11.692488,16.903139/!600,600/0/default.jpg"/>
 </td>
@@ -2610,7 +2610,7 @@ been telling Emly
 
 ## [From _Jewish Chronicle_](https://archive.org/details/sim_jewish-chronicle_the-jewish-chronicle_1875-05-28_322/page/n17/mode/1up?view=theater)
 
-#### 1875-05-28
+#### 1875-05-28 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

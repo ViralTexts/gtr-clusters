@@ -1,7 +1,7 @@
 
 # A Mother's Influence
 
-### 231 reprints from 1856-12-23 to 1899-06-24
+### 230 reprints from 1856-12-23 to 1899-06-24
 
 ## [A Mother's Influence](https://chroniclingamerica.loc.gov/lccn/sn85025181/1857-11-14/ed-1/seq-1/)
 
@@ -433,7 +433,7 @@ through all time, I owe to my mother
 
 ---
 
-## A MOTHER'S INFLUENCE.
+## [A MOTHER'S INFLUENCE.](http://search.proquest.com/docview/137548702/fulltext/)
 
 #### From _German reformed messenger._
 
@@ -714,7 +714,7 @@ THE PRINCESS AND THE TUTOR.
 
 ---
 
-## Article 9 -- No Title
+## [Article 9 -- No Title](http://search.proquest.com/docview/135686044/fulltext/)
 
 #### From _Christian Inquirer (1846-1864)_
 
@@ -724,7 +724,7 @@ THE PRINCESS AND THE TUTOR.
 
 ---
 
-## COL. BENTON'S MOTHER.
+## [COL. BENTON'S MOTHER.](http://search.proquest.com/docview/91185425/fulltext/)
 
 #### From _Forrester's Boys' and Girls' Magazine, and Fireside Companion (1851-1857)_
 
@@ -1329,6 +1329,7 @@ wiea- T. II. Benton.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+.  
   
 A Motuex’s IriU ENt e. —IT -;-., Thomas II  
 bent- ;j. in a speech in New York, turned *0 ILO  
@@ -2328,15 +2329,7 @@ it through all time, 1 owe to my motlier
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-pped the train and  
-put the lady off. The day was cold, and adriz­  
-fling rain had made it quite muddy, and  
-having over half a mile to walk for shelter,  
-the lady and the youngest child took a severe  
-cold, which after a sickness of over two  
-months, resulted in the death of the latter.  
-Suit was brought for damages, and, after a  
-protracted trial, the jury rendered a verdict  
+acted trial, the jury rendered a verdict  
 for plaintiff for six hundred dollars.   
   
 of  
@@ -2363,7 +2356,7 @@ hered to it through all time, I owe it to my
 mother. gow tol  
 ThE IRISH ExILes. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85025750:00280774650:1859100101:0154/pct:62.056969,31.085877,14.851055,34.364798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85025750:00280774650:1859100101:0154/pct:62.056969,34.790632,14.851055,30.660043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2587,8 +2580,7 @@ BY
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-November next  
-Regret our inability to be present.  
+ present.  
 A Mother&#x27;s Influence.  
 How touching the tribute pf the Hon. T.  
 II. Benton, to his mother&#x27;s influence :  
@@ -2619,7 +2611,7 @@ lslied and forewarned against the vices of
 drinking and gambling, as coming from his  
 mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_IExState1n_ver01%2Fdata%2F1859102101%2F0173.jp2/pct:31.181015,53.078689,12.720751,16.708412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_IExState1n_ver01%2Fdata%2F1859102101%2F0173.jp2/pct:31.181015,53.840534,12.720751,15.946566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2728,11 +2720,9 @@ cars of age, ane anaed te non to rinss aint then a
 made a resolution of total abstinence, at a time when  
 I was sole constituent member of my own body, and  
 that I have adhertd to it through all time, I owe it to  
-my mother.  
-OIry neWs  
-FIRE IN NINT
+my mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_nelson_ver01:data:sn83030272:00206539872:1859103101:0130/pct:48.057971,50.664987,12.579710,12.543749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_nelson_ver01:data:sn83030272:00206539872:1859103101:0130/pct:48.057971,50.664987,12.579710,10.709786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2795,8 +2785,7 @@ regarding the future.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- over him, und be beset on  
-all sides with obloquy and slander.’’  
+  
   
 A Moruer’s INFLuENcE.—How touching  
 the tribute of the Hon. T&#x27;. H. Benton to his  
@@ -2818,7 +2807,7 @@ sole constituent member ¢f my own body,
 and that I bave adhered to it through alll  
 time, I owe it tomy mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_eisenhower_ver01:data:sn84023814:00517015325:1859110701:0394/pct:22.494033,80.480000,17.497017,14.370000/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_eisenhower_ver01:data:sn84023814:00517015325:1859110701:0394/pct:22.494033,82.910000,17.497017,11.940000/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3130,7 +3119,7 @@ I owe it to my mother
 
 ---
 
-## Family Circle.
+## [Family Circle.](http://search.proquest.com/docview/135989586/fulltext/)
 
 #### From _Christian Observer (1840-1910)_
 
@@ -3299,7 +3288,7 @@ We abstain ourselves because we believe tha
 
 ---
 
-## THE USES OF LAUGHTER.
+## [THE USES OF LAUGHTER.](http://search.proquest.com/docview/127569786/fulltext/)
 
 #### From _Prairie farmer._
 
@@ -3615,7 +3604,7 @@ it
 
 ---
 
-## Article 8 -- No Title
+## [Article 8 -- No Title](http://search.proquest.com/docview/136067585/fulltext/)
 
 #### From _Merry's Museum, Parley's Magazine, Woodworth's Cabinet, and the Schoolfellow (1858-1866)_
 
@@ -3942,7 +3931,7 @@ to my mother
 
 ## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1861-08-17_31_33/page/n1/mode/1up?view=theater)
 
-#### 1861-08-17
+#### 1861-08-17 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4782,7 +4771,7 @@ The society
 
 ---
 
-## Read the Bible with Humility.
+## [Read the Bible with Humility.](http://search.proquest.com/docview/125959620/fulltext/)
 
 #### From _Christian Advocate (1866-1905)_
 
@@ -4865,7 +4854,9 @@ yean at it, the salary o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-i a e ee i e o e o e e ee   
+.  
+  
+eateci a e ee i e o e o e e ee   
   
 aie o o o e e a ee e i e ai  
   
@@ -4947,7 +4938,11 @@ Why shoul
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+, or whether  
+it was ‘traled in the dust’  
+It is evident that the colored boys were  
+loyal and were willing to fight for the  
+flag, they love. &#x27;  
   
 A Moruer’s InrLuence ~How touch­  
 ‘ing is this tribute of Hon T H Benton  
@@ -4967,9 +4962,12 @@ rect wishes. When I was seven years of
 age she asked me not to drink, and then  
 1 made n resolution of total abstince, aud  
 that I have advered to it through all  
-time I owe to my mesher
+time I owe to my mesher.’  
+  
+A private Telegram from ‘the Father  
+of his country’ t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_longview_ver01:data:sn82016224:00220720378:1866031701:0003/pct:17.554693,74.577758,17.695836,12.601448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_longview_ver01:data:sn82016224:00220720378:1866031701:0003/pct:17.466478,69.949550,17.889908,19.423119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5110,7 +5108,7 @@ through all time, I owe to my noth#-
 
 ---
 
-## A MOTHER'S INFLUENCE.
+## [A MOTHER'S INFLUENCE.](http://search.proquest.com/docview/125167773/fulltext/)
 
 #### From _The flag of our Union._
 
@@ -6232,23 +6230,13 @@ my mother.&quot;
 
 ---
 
-## In General
-
-#### From _Boston daily advertiser._
-
-#### 1878-03-08 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
-
-[This text is not available under an open license.]
-
----
-
 ## [From _Walla Walla statesman._](https://www.loc.gov/resource/sn86072040/1878-03-09/ed-1/?sp=1)
 
 #### 1878-03-09 &middot; [Walla Walla, Wash. Terr.](http://dbpedia.org/resource/Walla_Walla%2C_Washington)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
   
 SOINDS OF THE SARRATH REIIS.  
 Oh, no, there is no flaming hell!  
@@ -6330,7 +6318,7 @@ to think that there
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to the Carriers.  
+.  
 he sounds of the sannarh  
 BEIIS.  
 Oh, no, there is no flaming dell!  
@@ -6399,7 +6387,7 @@ a toll the funeral bell.
   
 SAN Jua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279553895:1878031201:0239/pct:3.697906,11.799370,11.372530,26.904892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279553895:1878031201:0239/pct:3.697906,12.607921,11.372530,26.096341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6786,9 +6774,9 @@ These paths that lead through earthly dross.
 All meet at last beneath the Cross ;  
 The Christian does not fear the knell  
 As ange&#x27;s toll the funeral bell.  
-OA jo State Journa
+OA j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474290:1878031601:0582/pct:4.019251,18.558839,11.147242,29.548989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474290:1878031601:0582/pct:4.019251,18.558839,10.301769,29.548989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

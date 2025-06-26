@@ -1,7 +1,7 @@
 
 # A Philosophical Darkey
 
-### 287 reprints from 1862-03-21 to 1898-10-01
+### 285 reprints from 1862-03-21 to 1898-10-01
 
 ## [A Philosophical Darkey](https://chroniclingamerica.loc.gov/lccn/sn85033429/1872-06-20/ed-1/seq-1/)
 
@@ -1389,6 +1389,7 @@ carnage, -
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
 Do yoe copelder pour life worth more  
 than other peeple&#x27;s ?&quot;  
 &quot;it&#x27;s wuf more to me, sa.&quot;  
@@ -2298,11 +2299,12 @@ field of carnage,
 
 ## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1862-04-12_32_15/page/n3/mode/1up?view=theater)
 
-#### 1862-04-12
+#### 1862-04-12 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+tended  
+his obsequies.  
   
 A PHILOSOPHIC NEGRO.  
   
@@ -2378,7 +2380,7 @@ IMPORTANCE OF ANIMALCULES.
 M. Pasteur, speaking of the wonderful  
 power possessed by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_presbyterian_the-presbyterian_1862-04-12_32_15%2Fsim_presbyterian_the-presbyterian_1862-04-12_32_15_jp2.zip%2Fsim_presbyterian_the-presbyterian_1862-04-12_32_15_jp2%2Fsim_presbyterian_the-presbyterian_1862-04-12_32_15_0003.jp2/pct:29.571984,21.310550,10.773745,26.754926/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_presbyterian_the-presbyterian_1862-04-12_32_15%2Fsim_presbyterian_the-presbyterian_1862-04-12_32_15_jp2.zip%2Fsim_presbyterian_the-presbyterian_1862-04-12_32_15_jp2%2Fsim_presbyterian_the-presbyterian_1862-04-12_32_15_0003.jp2/pct:29.571984,19.565887,10.773745,28.499589/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2775,7 +2777,7 @@ pint wid me.&quot;
 It is safe to say that the dusky corpse of  
 that African will never darken the field of  
   
-carnag
+carnage.Cor of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1862041901:1047/pct:4.707170,24.391601,13.081554,33.041302/!600,600/0/default.jpg"/>
 </td>
@@ -3127,17 +3129,9 @@ but I&#x27;d missed myself an dat was de pint wid
 me.&quot;  
 It is safe to say that the dusky corpse of  
 that African will never darken the field of  
-carnage.  
-  
-How to take Care of the Hair.  
-As to men, we say, when the hair begins  
-to fall out, the best plan is to have it cut  
-short, give it a good brushing with a moder­  
-ately stiff brush, while the hair is dry; then  
-wash it well with warm soap suds; then rub  
-into the scalp, about the roots of the hair
+carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1862050201:0491/pct:69.167458,23.112945,12.778305,47.344557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1862050201:0491/pct:69.167458,23.112945,12.778305,41.613706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3903,10 +3897,9 @@ preserbashun am de fust law wid me.’
 ¢ Nuffin whatever, sa—l regard dem as mong  
 de vanities.” . :  
 It is safe to say that the dusky corpse of that  
-African will never darken the field of carnage.  
-The Nashville corr
+African will never darken the field of carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84022932:00542868533:1862051701:0288/pct:17.580766,70.782123,12.967693,20.335196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84022932:00542868533:1862051701:0288/pct:17.580766,70.782123,12.967693,19.586592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4508,7 +4501,14 @@ carnuge
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- rese  
+  a e   
+aponn dar Hven smine in not ta da nere  
+afBut if you lost it you wecee hame e  
+  
+That guishathe soall het teute me  
+t ih  as sinhe   
+yo a e e  
+hid thsmes, wor rese  
 &quot;Yes, Sa, dar would hab been no help for  
    e  
 belmont ont shat thnnd, Ir af gabuinnt  
@@ -4520,23 +4520,9 @@ I&#x27;d missed
 It is safe to say that the dusky corpse of that   
 African will never darken the field of carnage  
 5 N.  
-Soene on a Ferry-Boat azh  
-the frr het tyiag betge e et  
-a   
-pariicularly pleasant, and the lady pasenges  
-which by the way compośed ofly about a dozen,  
-wmgy atry siochitrth  
-be scliek!&quot;  
-lastsuter the hoic rushed inte the ladle  
-eablu, and, sare shouch thefe aata  
-men of a Swedish woman, chdpring the pine  
-of parturition with great patience. The huss  
-the ladies, one of whom kept wa  
-a   
-e o ihe e th  oe  
-on the outeide oherving the husband
+Soene on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn88085145:no_reel:1862061201:0841/pct:79.983412,39.569398,15.417934,20.143534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn88085145:no_reel:1862061201:0841/pct:80.112432,34.824415,15.288913,14.457915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4615,8 +4601,7 @@ use fire to trap them.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e A  
-Pflmoaopinc Nbobo.—A correspondent of  
+—A correspondent of  
 the Cincinnati Gazette, writing from the  
 Cumberland River, gives a humorous  
 account of a colloquy with a philosophic  
@@ -4673,7 +4658,7 @@ field of eantas
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- step. A  
+ A  
 correspondent of the &#x27;Cincinnati  
 Gazette,1 writing from the Cumberland  
 River gives a humorous account of a  
@@ -4716,7 +4701,7 @@ to you?&#x27; &#x27;NnfTin whatever Sa— I regard
 dem ns among de vanities.&#x27; It is safe to  
 say that the dusky corpse of that  
 African will uovcr darkeu tho field of  
-carnage.&#x27; Body Snatciiino.— Ther
+carnage
 </td></tr></table>
 
 ---
@@ -5709,7 +5694,8 @@ will never darkon the field of carnage
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. A PnitosoMiic Nrnso.-A  
+ men and Sit I.) wea  
+tuen.. A PnitosoMiic Nrnso.-A  
 eorn*)&gt;orid. m -of the iknatMoti Gaulle,  
 writing from tin Oomberbuid Uiver.  
 Kivcsahumeruusaccoui.i ot a colloquy  
@@ -6292,21 +6278,28 @@ On&#x27; battle; and part of which was aboad, 1
 began interrogate ,him uporA the stillest, as  
 Soildws : • •  
   
-&quot;Were &#x27;you in the figh
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_alernus_ver01%2Fdata%2Fsn83031981%2F000001921%2F1863112001%2F0169.jp2/pct:30.492988,16.806020,12.250319,10.054348/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Democratic watchman._](https://panewsarchive.psu.edu/lccn/sn83031981/1863-11-20/ed-1/seq-1/)
-
-#### 1863-11-20 &middot; [Bellefonte, Pa.](http://dbpedia.org/resource/Bellefonte%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- worth&#x27; more  
+&quot;Were &#x27;you in the fight  
+&quot;Sid huge of it ?  
+&#x27;.Stood your ground ?&quot;  
+Tbio• as, I rune.&quot;  
+&quot;SW &#x27;MlMl:fret Hee; did you  
+wren, add would&#x27; run sooner, had I kno&#x27;d  
+  
+it war cumin,&quot;  
+  
+&quot;Why that wasn&#x27;t very creditabe to your  
+cou7age.&quot;  
+  
+Dot isn&#x27;t in my line 86—cooking&#x27; my pro­  
+caine.&quot;  
+  
+&#x27;Well but have you no regard for your rep­  
+utation 1&#x27;  
+  
+&#x27;•Repetation&amp;s nutlto to me by do side ob  
+ire.&quot;  
+  
+your life worth&#x27; more  
 than other peoples 1&quot; -  
 &quot;It&#x27;s worth m ,re to mo. sa..&quot;  
 &quot;Then you must Yalue your life high­  
@@ -6370,7 +6363,7 @@ some respects, satiated with it. It may in
 the end prove. thil beat&#x27; that Jiidge Wood­  
 wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_alernus_ver01%2Fdata%2Fsn83031981%2F000001921%2F1863112001%2F0169.jp2/pct:30.168933,35.275920,12.372503,30.117057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_alernus_ver01%2Fdata%2Fsn83031981%2F000001921%2F1863112001%2F0169.jp2/pct:30.168933,16.806020,12.574373,48.586957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6930,13 +6923,12 @@ the field of carnage
 
 ---
 
-## [From _Littell's living age_](https://archive.org/details/sim_living-age_1863-12-26_79_1021/page/n26/mode/1up?view=theater)
+## [From _Littell's Living Age (1844-1896)_](https://archive.org/details/sim_living-age_1863-12-26_79_1021/page/n26/mode/1up?view=theater)
 
 #### 1863-12-26 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
   
   
 A Necro Pattosopner.—A correspondent of  
@@ -7047,12 +7039,6 @@ African will never darken the field of carnage.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
 .  
-  
-it  
-  
-REGHO PHRLOSOr  
-  
-o A correspondent of the Cincinnasi C.  
 writing from the Cumberiand River,  
 the following humorous colloquy with  
   
@@ -7060,7 +7046,7 @@ losophic darkey
 I noticed upon the hurricane dock to  
 an elderly darkey, with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025161:00279529327:1864010101:0779/pct:60.326772,5.478395,32.351280,84.210157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025161:00279529327:1864010101:0779/pct:82.961804,6.646324,9.716247,2.556818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10422,23 +10408,6 @@ de pint wid me.&quot;
 
 ---
 
-## [From _Canton weekly register._](https://www.loc.gov/resource/sn84038367/1872-01-26/ed-1/?sp=4)
-
-#### 1872-01-26 &middot; [Canton, Ill.](http://dbpedia.org/resource/Canton%2C_Illinois)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-. ■  
-There is a mysterious feeling of sadness i  
-that frequently passes like a cloud over the &#x27;  
-spirit. It comes on the soul in the busy 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151131:1872012601:0369/pct:39.020084,86.449684,11.741337,2.175357/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _New York dispatch._](https://www.loc.gov/resource/sn85026214/1872-06-09/ed-1/?sp=3)
 
 #### 1872-06-09 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
@@ -11940,6 +11909,24 @@ that African&quot; will never darken the
 field of carnage. &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:00295867541:1872083001:0508/pct:84.718900,50.697845,11.019737,43.768364/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Catoctin clarion._](https://www.loc.gov/resource/sn84026688/1872-09-14/ed-1/?sp=1)
+
+#### 1872-09-14 &middot; [Mechanicstown, Md.](http://dbpedia.org/resource/Thurmont%2C_Maryland)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+. burial vault.  
+1; How terrible to die unprepared.—  
+, Yet, every tick of the clock, and one  
+“soul somewhere is launched into ot&lt;*r-  
+L nitv.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623458:1872091401:0279/pct:33.941236,89.721999,14.366768,2.940390/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13635,7 +13622,7 @@ will never darken the field of carnage.
 
 ---
 
-## A PHILOSOPHICAL COLORED MAN.
+## [A PHILOSOPHICAL COLORED MAN.](http://search.proquest.com/docview/126938013/fulltext/)
 
 #### From _Advocate of Peace (1847-1906)_
 
@@ -14671,7 +14658,7 @@ Th
   
 philosophy was so peculiar, that I will  
 give his views in his oin words, as  
-near as memory will kerve mefl
+near as memory will kerve mefl (4
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027182:1875071501:0121/pct:6.848721,36.278085,10.504262,1.552758/!600,600/0/default.jpg"/>
 </td>
@@ -14916,31 +14903,6 @@ Now the pint with me has been all
 along, that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewsObs66n_ver01%2Fdata%2F1875112801%2F0511.jp2/pct:38.064165,37.291136,11.065797,4.592232/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _DNR (Daily News Record) 1988-2008_](https://archive.org/details/sim_dnr_the-daily-news_1875-11-28_8_76/page/n0/mode/1up?view=theater)
-
-#### 1875-11-28
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-, do you suppose you would  
-have been missed much, if you had  
-been Killed?”  
-  
-‘** May be not sah, a dead white  
-man aint much to dese sogers, let  
-alone a dead nigger, but id amissed  
-mysel’, and dats de pint wid me, aud  
-I runs sah ebery time.”  
-  
-Now the pinf with me has been all  
-along, that
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_dnr_the-daily-news_1875-11-28_8_76%2Fsim_dnr_the-daily-news_1875-11-28_8_76_jp2.zip%2Fsim_dnr_the-daily-news_1875-11-28_8_76_jp2%2Fsim_dnr_the-daily-news_1875-11-28_8_76_0000.jp2/pct:37.390196,36.943172,11.057467,4.553497/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

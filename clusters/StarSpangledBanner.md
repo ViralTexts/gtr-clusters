@@ -1,7 +1,7 @@
 
 # Star Spangled Banner
 
-### 308 reprints from 1814-09-26 to 1899-10-20
+### 307 reprints from 1814-09-26 to 1899-10-20
 
 ## [Star Spangled Banner](https://chroniclingamerica.loc.gov/lccn/sn84024736/1814-09-28/ed-1/seq-4/)
 
@@ -3908,7 +3908,7 @@ ISLANDS.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-• STAR-SPANGLED BANNER.  
+.  
 Ohl say can you see by the dawn&#x27;s early light  
 What so proudly we ball&#x27;d at the twiUght&#x27;e last gleam­  
 •ingt  
@@ -3956,7 +3956,7 @@ SPEECH OF HON. JOHN A. DIX
   
 We publish this wee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fontus_ver01%2Fdata%2Fsn83032304%2F000002706%2F1861043001%2F0070.jp2/pct:7.021664,25.207237,12.044670,13.970395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fontus_ver01%2Fdata%2Fsn83032304%2F000002706%2F1861043001%2F0070.jp2/pct:7.021664,25.611842,12.044670,13.565789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4348,21 +4348,23 @@ O! say, dues lhat star-spangled banner yet
 wave  
 O&#x27;er the land of the free and the home of the  
 brave .&#x27;  
-On the shore, dimly seen through t
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026785:1861050301:0385/pct:24.985939,13.945037,14.524747,80.853963/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Pomeroy weekly telegraph._](https://www.loc.gov/resource/sn85038184/1861-05-03/ed-1/?sp=1)
-
-#### 1861-05-03 &middot; [Pomeroy, Meigs County, Ohio](http://dbpedia.org/resource/Pomeroy%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-e havocf war and the b.itile&#x27;s con­  
+On the shore, dimly seen through the mi3ts of  
+the deep,  
+Where i he loe 8 haughty host in dread silence  
+reposes ;  
+What is thai which the breeze, o&#x27;er the tower­  
+ing steep,  
+As it litiuily blows, half-conceals,h&#x27;ali-Jisjlo-.es  
+.&#x27;  
+Now it catches the gleam of the morning&#x27;s  
+first beam,  
+In fiillglory reflected now shines on the stream ;  
+&quot;1&#x27;is the star-spangled banner, O! long may  
+it wave  
+O&#x27;er tho laud of the free and the home of the  
+brave!  
+And where is that Band whoso Tauntingly swore  
+That the havocf war and the b.itile&#x27;s con­  
 fusion .  
 A home and a country should leave us no move?  
 Their blood has wash d out iheir loul loot­  
@@ -4390,7 +4392,7 @@ O&#x27;er the laud of the free and the home of the
 brave.  
 THE PHANTOM BRID
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026785:1861050301:0385/pct:28.571429,41.040200,10.883015,12.241653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026785:1861050301:0385/pct:24.985939,13.945037,14.524747,80.853963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4823,9 +4825,7 @@ of the brave?
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-STAR-SPANGLED BANNER.  
+.  
 Oh! Bay can you boo by tho dawn’s early light  
 What so proudly wo bail’d at tbc twilights last  
   
@@ -4871,7 +4871,7 @@ of tho free, and tho&#x27;homo of tho
   
 when freemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001741%2F1861050901%2F0074.jp2/pct:7.028841,25.092937,12.316343,17.343437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001741%2F1861050901%2F0074.jp2/pct:7.028841,25.836431,12.316343,16.599943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5551,11 +5551,7 @@ Their blood hue wasted out their foul footste
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
   
-THH STAR-SPANGLND BANNER.  
-  
-WORDS BY FRANCI S. KeY.  
   
 O say, can you see by the dawn&#x27;s early light,  
 What so proudly we hailed at the twilight&#x27;s last gleaming,  
@@ -5593,7 +5589,7 @@ Ald this be our motto--In God 18 Olir irust!
 And the Star-Spangled Bunner in triumph shall wave  
 O&#x27;er the land of the Free and the home of the Brave!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775393:1861053001:0399/pct:17.771084,17.578931,12.289157,14.469300/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775393:1861053001:0399/pct:17.771084,18.943360,12.289157,13.104871/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6726,9 +6722,12 @@ Praise the power that hath made and preserved us
 a nation.  
 Then conquer we mnst, when our cause it is just,  
 And this be our motto— &quot;In God is our trust&quot;—  
-And the star-spangled
+And the star-spangled banner in triumph shall  
+wave  
+0 er the land of the free, and the home of the  
+brave.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1861071901:0142/pct:7.065812,31.626541,13.975301,9.911920/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1861071901:0142/pct:7.065812,31.626541,13.975301,11.145038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7308,8 +7307,7 @@ a nation;
 Then conquer we mnst, when our cause it is just,  
 And this be our motto--&quot;In God is our trust!&quot;  
 And the S ar-Spangled Banner in triumph shall wave  
-O&#x27;er the land of the free and the home of the brave.  
-
+O&#x27;er the land of the free and the home of the brave.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1861121701:0987/pct:44.040678,23.454294,25.627119,24.124721/!600,600/0/default.jpg"/>
 </td>
@@ -9647,37 +9645,6 @@ THE STA
 
 ---
 
-## [From _The Indianapolis journal._](https://www.loc.gov/resource/sn82015679/1896-07-04/ed-1/?sp=4)
-
-#### 1896-07-04 &middot; [Indianapolis [Ind.]](http://dbpedia.org/resource/Indianapolis)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-2  
-  
-Oh! say, can you see by tho dawn&#x27;s early  
-light  
-What so proudly we hailed at the twi­  
-light&#x27;s last gleaming.  
-Whose bread stripes and bright stars  
-through tho perilous fight.  
-O&#x27;er the ramparts we watched were so  
-gallantly streaming?  
-And the rockets&#x27; red glare, the bombs  
-bursting in air.  
-Gave proof through the night that our  
-flag was still there;  
-Oh! say, does that star-spangled banner  
-yet wave  
-O&#x27;er the land of the free and tho home of  
-tho brav
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665611:1896070401:0040/pct:16.674419,18.181818,13.000000,7.725544/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The New York times._](https://archive.org/details/sim_new-york-times_1896-07-04_45_14001/page/n6/mode/1up?view=theater)
 
 #### 1896-07-04 &middot; [New-York [N.Y.]](http://dbpedia.org/resource/New_York_City)
@@ -9827,7 +9794,7 @@ st
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. J  
+J  
 Oh, say ran you see, by Hie dawn’s early  
 light,  
 Wlmt so proudly we balled at the twi­  
@@ -9894,7 +9861,7 @@ umph shall wave
 &#x27; of the brave.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_longines_ver01:data:sn85025371:00542867267:1897062301:0517/pct:20.033927,15.282919,11.942324,30.817028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_longines_ver01:data:sn85025371:00542867267:1897062301:0517/pct:20.033927,15.891063,11.942324,30.208884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12277,9 +12244,21 @@ gloom of the grave,
 And the star-spangled banner in tri­  
 umph doth wave  
 O&#x27;er the land of the free and the  
-home of the brave
+home of the brave.  
+IKflbcrcae, there are many  
+bravo and patriotic young  
+men employed by brave and  
+patriotic business men of the  
+city of Greenwood, Mise., and  
+whereas it in the duty of the  
+able-bodied men of the state  
+to respond to the call to  
+arms, to prosecute the right­  
+eous war against Spain, and  
+in order that those young  
+men whos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cotton_ver01:data:sn89065008:00199916555:1898051901:0456/pct:12.384899,27.727556,12.615101,31.078554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cotton_ver01:data:sn89065008:00199916555:1898051901:0456/pct:12.384899,27.727556,70.349908,31.078554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12719,11 +12698,9 @@ trust!&quot;
 And the Star Spangled Banner in  
 triumph shall wave,  
 O&#x27;er the land of the free and the home  
-of the brave.  
-. TU CHOW HELD UP.  
-A Chi
+of the brave.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86064199:00200296667:1898061001:0581/pct:55.474934,35.140617,12.170185,14.467280/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86064199:00200296667:1898061001:0581/pct:55.491425,35.140617,12.153694,12.114657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12906,7 +12883,7 @@ trustl&quot;
 And the Star Spangled Banner in  
 triumph shall wave,  
 O&#x27;er tbe land of the free and the home  
-of the brave
+of the brave.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86064199:00200296667:1898061701:0609/pct:56.047297,31.214498,12.668919,19.448201/!600,600/0/default.jpg"/>
 </td>
@@ -13129,32 +13106,7 @@ Tow&#x27;r that hath made and preserv&#x27;d us a nation: And thia b
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:  
-  
-THE STAR-SPANGLED BANNER.  
-By Francis Scott KEy.  
-OH! say, can you see by the dawn’s early light  
-What so proudly we hailed at the twilight’s last  
-gleaming ?—  
-Whose broad stripes and bright stars through the  
-perilous fight,  
-O’er the ramparts we watched, were so gallantly  
-streaming !  
-And the rockets’ red glare, the bombs bursting in air,  
-Gave proof through the night that our flag was still  
-there.  
-Oh! say, does that star-spangled banner yet wave  
-O’er the land of the free and the home of the brave ?  
-  
-On that shore, dimly seen through the mists of the  
-deep,  
-Where the foe’s haughty host in dread silence re-  
-  
-poses,  
-What is that which the breeze, o’er the towering  
-steep,  
-  
-As it fitfully blows, half conceals, half discloses ?  
+closes ?  
 Now it catches the gleam of the morning’s first beam;  
 In full glory reflected, now shines on the stream;  
   
@@ -13192,7 +13144,7 @@ O’er the land of the free and the home of the brave!
   
 THE names o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_saint-nicholas-a-magazine-for-boys-and-girls_1898-07_25_9%2Fsim_saint-nicholas-a-magazine-for-boys-and-girls_1898-07_25_9_jp2.zip%2Fsim_saint-nicholas-a-magazine-for-boys-and-girls_1898-07_25_9_jp2%2Fsim_saint-nicholas-a-magazine-for-boys-and-girls_1898-07_25_9_0081.jp2/pct:10.664062,29.665899,36.835938,55.702765/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_saint-nicholas-a-magazine-for-boys-and-girls_1898-07_25_9%2Fsim_saint-nicholas-a-magazine-for-boys-and-girls_1898-07_25_9_jp2.zip%2Fsim_saint-nicholas-a-magazine-for-boys-and-girls_1898-07_25_9_jp2%2Fsim_saint-nicholas-a-magazine-for-boys-and-girls_1898-07_25_9_0081.jp2/pct:10.664062,54.205069,36.601562,31.163594/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13223,9 +13175,11 @@ flag was still there!
 Oh say, does that star spangled banner  
 yet wave,  
 O&#x27;er the land of the free and the home  
-of the brav
+of the brave?  
+2. On the shore, dimly seen through  
+. the midst of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86064199:00200296667:1898070201:0670/pct:81.112224,35.278982,12.408150,8.680932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86064199:00200296667:1898070201:0670/pct:81.078824,35.278982,12.441550,10.306067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13237,7 +13191,8 @@ of the brav
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- in the  
+n  
+glory reflected, now shines in the  
 stream, &#x27; ,-  
 Tis the Star Spangled, Banner, oh,  
 long may it wave.  
@@ -13259,11 +13214,9 @@ trust!&quot;
 And the Star Spangled Banner in  
 triumph shall wave, &#x27;  
 O&#x27;er the land of the free and the home  
-of the brave.  
-  
-1. My country! &#x27;tis of the
+of the brave.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86064199:00200296667:1898070201:0670/pct:80.928524,49.431203,12.508350,13.651138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86064199:00200296667:1898070201:0670/pct:80.945224,49.417660,12.491650,10.956121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13390,12 +13343,7 @@ Tho followin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to them all  
-honor, we also give thanks and praise  
-to the long line of men and circum­  
-stances than have helped to establish  
-the perpetuity of our nation.  
-When England proposed to carry out  
+ to carry out  
 the &quot;Right of Search,&quot; our country re­  
 sisted the imposition; and in the war of  
 1812 the United States became strength­  
@@ -13411,18 +13359,9 @@ shall stand,
 Between their loved home and the  
 war&#x27;s desolation.  
 Blessed with victory and peace, may  
-the heaven rescued land  
-Praise the power that hath made and  
-preserved us a nation.&quot;  
-The crucial test of the stability of the  
-nation came with the outbreak of the  
-civil war, whose terrible ordeal result­  
-ed in the triumph of right over wrong,  
-and the firm establishment of the Un­  
-ion as a &quot;government of the people, by  
-the people and for th
+the heaven rescued lan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:0041562119A:1898070601:0038/pct:45.172276,64.887766,12.600160,15.772261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:0041562119A:1898070601:0038/pct:45.172276,67.400030,12.580128,8.532778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13434,7 +13373,12 @@ the people and for th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:  
+ it but for the superintending prov  
+idence of God who shapes alike the  
+destinies of men and nations.  
+J Here is, indeed, but worthy rec  
+ognition of this great truth in the clos­  
+ing stanza of Key&#x27;s immortal poem:  
 &quot;So be it ever when Freemen shall stand  
 Hetween their loved homes and the war&#x27;s  
 desolation,  
@@ -13449,14 +13393,9 @@ Trust,1
 And the Star Spangled Banner, O long  
 may it wave  
 O&#x27;er the land of the free and the home of  
-the brave.&quot;  
-How well Washington and his asso­  
-ciates did their great work&quot;, upon what  
-a solid basis they placed the founda­  
-tion of the republic, how wisely they  
-planned the&#x27; structure and how car
+the brav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1898071601:0021/pct:22.324281,30.482520,13.857827,13.550997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1898071601:0021/pct:22.384185,25.483964,13.877796,14.345565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13744,6 +13683,16 @@ nome of the brave
 
 ---
 
+## All Honor to "The Star-Spangled Banner"
+
+#### From _The Irish world and American industrial liberator._
+
+#### 1898-08-20 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
+
+[This text is not available under an open license.]
+
+---
+
 ## Irish World Calendar
 
 #### From _The Irish world and American industrial liberator._
@@ -13970,9 +13919,11 @@ Oh, say, does that star spangled banner yet
 wave  
 O’er the land of the free and the home of the  
 brave ?  
-I hope that thos
+I hope that those inspiring words  
+would not grate too harshly on the ears  
+of any of “th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896519:1899051801:0080/pct:85.940112,13.930951,9.697522,5.741975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896519:1899051801:0080/pct:85.940112,13.930951,9.712722,6.638401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14086,9 +14037,6 @@ O’er the land of the free, and the home of the brave!
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-  
-  
-The Star-Spangled Banner.........cccccceccccerecesevenes Francis Scott Key  
 Oh, say, can you see by the dawn’s early light  
 What so proudly we hail’d at the twilight’s last gleam-  
 ing—  
@@ -14136,7 +14084,7 @@ And this be our motto: “In God is our trust”;
 And the star-spangled banner in triumph shall wave  
 O’er the land of the free, and the home of the brave!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_current-opinion_1899-07_26_1%2Fsim_current-opinion_1899-07_26_1_jp2.zip%2Fsim_current-opinion_1899-07_26_1_jp2%2Fsim_current-opinion_1899-07_26_1_0066.jp2/pct:13.029925,13.101487,36.627182,45.122485/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_current-opinion_1899-07_26_1%2Fsim_current-opinion_1899-07_26_1_jp2.zip%2Fsim_current-opinion_1899-07_26_1_jp2%2Fsim_current-opinion_1899-07_26_1_0066.jp2/pct:13.029925,14.282590,36.471322,43.941382/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

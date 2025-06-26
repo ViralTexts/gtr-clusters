@@ -1,7 +1,7 @@
 
 # What to Do in Case of Accident
 
-### 396 reprints from 1872-07-11 to 1896-01-29
+### 383 reprints from 1872-07-11 to 1896-01-29
 
 ## [What to Do in Case of Accident](https://chroniclingamerica.loc.gov/lccn/sn85033395/1873-02-06/ed-1/seq-4/)
 
@@ -1393,6 +1393,9 @@ The strike of tho London gas-etoker3 has
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+day Night.  
+  
+NO. 4.  
   
 What to do la Case or Accidents  
 Prof. Wilder, of Cornell University,  
@@ -1436,7 +1439,7 @@ For apoplexy, ratso the head &#x27;and
 body ; for fainting, lay the person flat.  
 With
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1873012901:0641/pct:63.466667,12.217547,14.777778,24.466261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1873012901:0641/pct:52.466667,10.160511,25.777778,87.548699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1730,8 +1733,7 @@ it
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- young Indies circulate  
-it. &#x27; &#x27;  
+  
   
 What to Do in Case of Ac4  
 -.;.. -.cident;.-;.:&#x27;.v,-j  
@@ -1786,7 +1788,7 @@ and body; for fainting, lay the
 I person fiat.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470387:1873020601:0023/pct:4.892837,5.007790,23.082346,89.672824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470387:1873020601:0023/pct:16.723068,5.007790,11.252115,32.862230/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2988,26 +2990,6 @@ body; for fainting, lay the por
 
 ---
 
-## [From _DNR (Daily News Record) 1988-2008_](https://archive.org/details/sim_dnr_the-daily-news_1873-03-19_2_17/page/n3/mode/1up?view=theater)
-
-#### 1873-03-19
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-, wanted in &amp; exp ’ A.  
-of accident. It would not be a bad 28 bbis. 8. : HENNING, of Dawson Teel &amp; Hen- be continued as heretofore, under the  
-cut — feb-25tf PLOL « MOORING’S. S SrRUNT, British Vice-Cousul, of ! ‘Wholesale and Retail Grocers,  
-pocke 6 () BBLS. FAMILY MurPHy, Attorney at RALEIGH NATIONAL BANK, COTTON FACTOR:  
-For dust in the eyes, avoid rubbing, 20 BbIs, Soda Crackers, Bie pla seepage of J. D. Williams &amp; Co. |  
-i sacks Kio Coffee, at ay etlev tile. AND  
-dash water in them; remove cinders, feb25-t
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_dnr_the-daily-news_1873-03-19_2_17%2Fsim_dnr_the-daily-news_1873-03-19_2_17_jp2.zip%2Fsim_dnr_the-daily-news_1873-03-19_2_17_jp2%2Fsim_dnr_the-daily-news_1873-03-19_2_17_0003.jp2/pct:7.495619,30.727969,88.753326,4.243295/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Ellsworth American._](https://www.loc.gov/resource/sn84022374/1873-03-27/ed-1/?sp=1)
 
 #### 1873-03-27 &middot; [Ellsworth, Me.](http://dbpedia.org/resource/Ellsworth%2C_Maine)
@@ -3068,7 +3050,7 @@ Bank Motion.—John Ran
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ Times.  
   
 What to do is Case of Accident.—  
 I’rof. Wildor, of Cornell University,  
@@ -3115,7 +3097,7 @@ For apoplexy, raise the head and
 body; for fainting, lay the person flat.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver02:data:sn97064666:0051701607A:1873032901:0054/pct:14.888674,33.257798,12.971926,23.620368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver02:data:sn97064666:0051701607A:1873032901:0054/pct:14.888674,32.204745,12.971926,24.673420/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3465,13 +3447,69 @@ I for famting, lay the person Hat.
 
 ---
 
-## What to Do in Case of Accident
-
-#### From _Little Rock daily republican._
+## [From _Little Rock daily republican._](https://www.loc.gov/resource/sn82014368/1873-04-17/ed-1/?sp=3)
 
 #### 1873-04-17 &middot; [[Little Rock, Ark.]](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
 
-[This text is not available under an open license.]
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ a* might  
+be desired.  
+Mr.  
+  
+Whit to Ho in Case of Accident.  
+Profeanor Wilder, of Cornell univesi­  
+ty, says Moore’s Rumi New Yorker  
+gives the following short rules for ac­  
+tion in cases of accidents, which will be  
+found useful to remenber :  
+For duut in the eyes, avoid rubbing ;  
+dash water in them; remove cinders  
+ete., with the round point, of a lead  
+pencil. ,  
+Remove m itter from the car by tepid  
+water; never put a liard instrument  
+into the ear.  
+If an artery is cut, compress above  
+the wouud; if a vein is cut, comprees  
+below.  
+if chocked, get on all fours and cough  
+For slight burns. dip the part in cold  
+water; if  
+the skin is  
+destroyi, cove  
+with V r ish.  
+Smother a fire with carpets, etc;  
+water will often spread burning oil, and  
+increase the danger.  
+Before walking  
+through smoke take a long breath. and  
+then stoop low ; but if carbonic acid ga­  
+is suspected, walk erect. -  
+Buck polseiel wou.Js unless 3  
+mouth is sore; enlarge the wouau.  
+or  
+or.  
+better, cut out the part without delay;  
+hold the wounded part as long as ban  
+be borue to a hot enal or the end. ofa  
+eigar.-2____  
+In case of poisoning, excite vomiting  
+by tickling the throat, or by warm  
+water and mnu-tard.  
+&#x27; Prp usbolneliju&quot; ‘vaalzalies; for  
+alkaline poisons, xive acids—white of  
+opium polsoning, give strong cotfee,  
+and keep moving  
+If in water, float on the hack, with  
+the none and mouth projectiug.  
+—For apoplex y-raise the head ami  
+body ; for fainting, lay the person, flat.  
+-
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jadeite_ver01:data:sn82014368:00542869884:1873041701:0013/pct:14.742835,74.433377,11.739301,21.221308/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -3553,7 +3591,7 @@ Reviaion of the nibl
 
 ---
 
-## What to do in Case of Accident
+## [What to do in Case of Accident](http://search.proquest.com/docview/137274217/fulltext/)
 
 #### From _Ohio Farmer (1856-1906)_
 
@@ -3751,7 +3789,8 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ victims.  
+iaai  
 Waal to da la Case af Accident.  
 Prof. Wilder, i-f Cornell University, sajsAfoore&#x27;s  
 Hiiral Atv Torler, gives the following short rules  
@@ -3788,7 +3827,7 @@ For apoplexy, raise the head and body; for
 fainting, lay the person flat.  
 Cister
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:0029455564A:1873050101:0649/pct:43.944888,28.909348,12.418419,14.603399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:0029455564A:1873050101:0649/pct:43.944888,28.073654,12.418419,15.439093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4758,6 +4797,7 @@ for fainting, lay the person flit
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
 What to bo in Case of Accident.  
   
   
@@ -4952,9 +4992,11 @@ alkaline, give
 in most cases. In a case ot opium poison  
   
 ing, give strong coffee, and keep moving.  
-If in water, float on the back, with the
+If in water, float on the back, with the  
+  
+THE WOMA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal1_ver01%2Fdata%2F1873061201%2F0093.jp2/pct:68.449840,59.963194,12.513340,4.232696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal1_ver01%2Fdata%2F1873061201%2F0093.jp2/pct:56.803629,59.963194,24.159552,7.688375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5940,9 +5982,19 @@ in most cases; in a case of opium poi
 soning give strong coffee, and keep  
 moving.  
   
-For the Advocat
+For the Advocate.  
+THE CSOSFEL. VERSUS PHIL­  
+OSOPHY. To preach the gospel is one thing;  
+to deliver lectures upon Intellectual  
+and Moral Philosophy is quite anoth­  
+er. The one belongs principally to  
+tho pulpit; the other, wholly to the  
+school room.  
+To preach the gospel is to explain  
+the meaning of the doctrines of the  
+Bible i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalCA24n_ver01%2Fdata%2F1873082001%2F0513.jp2/pct:37.492483,16.158114,22.143716,80.016181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalCA24n_ver01%2Fdata%2F1873082001%2F0513.jp2/pct:37.492483,16.158114,22.730006,80.016181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6015,7 +6067,7 @@ flat.
 
 ---
 
-## GOOD RULES FOR EMERGENCIES.
+## [GOOD RULES FOR EMERGENCIES.](http://search.proquest.com/docview/135920328/fulltext/)
 
 #### From _Shaker and Shakeress Monthly (1873-1875)_
 
@@ -6715,7 +6767,7 @@ body; for fainting, lay the person fia
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ut sin&#x27;.  
+ anything but sin&#x27;.  
   
 Professor Wilder, of Cornell Universi­  
 ty, gives the following short rules for  
@@ -6761,7 +6813,7 @@ for fainting, lay the person fiat.
 Consumntion. the scourge of  
 the human family, may in it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194977:1874033001:0495/pct:39.436416,3.649796,12.557803,91.101555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194977:1874033001:0495/pct:36.936416,3.649796,15.057803,91.156688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8639,7 +8691,9 @@ flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ country.  
   
+JANUARY 9, 1875.  
   
 Preseaee of Mill.  
 Prof. Wilder gives these short rules  
@@ -8675,7 +8729,7 @@ For appoplexy, raise the head and body;
 for fainting, lay the person flat.  
 The New
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283132:1875010901:0007/pct:55.998537,12.842490,11.558157,20.472109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283132:1875010901:0007/pct:50.475494,10.833216,17.081200,83.644794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8836,7 +8890,7 @@ the head and body, For fainting, lay the person flat.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-gaVt  
+  
   
 PRESENCE OF 9XIBTD.  
 Professor Wilder gives these short  
@@ -8874,7 +8928,7 @@ For apoplexy, raise the head and body;
 for fainting, lay the person flat.  
 THE CI11SC
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280532:1875020401:0360/pct:31.216861,2.970094,13.586957,21.087669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280532:1875020401:0360/pct:31.216861,3.830397,11.055143,20.227366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9046,7 +9100,7 @@ for fainting, lay the person flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+tted.  
 I&#x27;RESENTK OF MIND.  
 | Professor Wilder gives these short  
 i rules for action in case of accident;  
@@ -9081,7 +9135,7 @@ I! give strong coliee and keep moving.
 &#x27; For fainting, lay tU person dat.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:0041562346A:1875040201:0160/pct:73.748255,71.261682,14.143228,24.615173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:0041562346A:1875040201:0160/pct:73.748255,70.203408,14.143228,25.673447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9093,7 +9147,6 @@ I! give strong coliee and keep moving.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- have  
 - Pmesemcb or Mikd. Professor  
 Wilder. glvea these short- rules for  
 action in case of accident: &#x27; &#x27;  
@@ -9104,7 +9157,7 @@ lead pencil. Reiriove inaeote from
 tba.ar by tepid watert&#x27;lheirer piita  
 I 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth78409/m1/1/pct:54.800000,68.759494,26.800000,6.278481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth78409/m1/1/pct:54.800000,70.075949,14.266667,4.962025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9351,7 +9404,7 @@ Mother and Babe.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ their*.  
   
 Presence of Xiad*  
 Professor Wilder gives these short  
@@ -9392,7 +9445,7 @@ If in water float on the back, with the
 nnee and month projecting.  
 For apoplexy,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028733:1875052001:0227/pct:76.504448,59.365341,9.746206,15.629508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028733:1875052001:0227/pct:76.504448,58.427777,9.746206,16.567072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9932,9 +9985,11 @@ water ; if the skin is destroyed, cover
 with  
   
 For apoplexy, raise the head and body; ;  
-for fainting, lay the person flat.
+for fainting, lay the person flat.  
+  
+~
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1875-10-21_24_42%2Fper_the-pacific_the-pacific_1875-10-21_24_42_jp2.zip%2Fper_the-pacific_the-pacific_1875-10-21_24_42_jp2%2Fper_the-pacific_the-pacific_1875-10-21_24_42_0007.jp2/pct:19.920027,32.501373,14.281906,33.424849/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1875-10-21_24_42%2Fper_the-pacific_the-pacific_1875-10-21_24_42_jp2.zip%2Fper_the-pacific_the-pacific_1875-10-21_24_42_jp2%2Fper_the-pacific_the-pacific_1875-10-21_24_42_0007.jp2/pct:19.920027,32.501373,14.281906,33.854141/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9998,7 +10053,7 @@ If an artery is cut, compress it above the wound ; if
 skin is destroyed, cover with varntsh.  
 For apoplexy,raise the head and body; for fainting,  
 &#x27; lay the person flat,  
-e 
+e L
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_hale_ver01:data:sn84020392:00517016044:1875112501:0184/pct:38.706048,86.727949,11.322082,5.071266/!600,600/0/default.jpg"/>
 </td>
@@ -10129,7 +10184,7 @@ For slight burns, dip the part in
 cold water; if the skin Is destroyed,  
 cover with varnish.  
 For apoplexy, raise the head and  
-body ; fur fainting, lay the person flat
+body ; fur fainting, lay the person fla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85042534:00200293575:1875120101:1216/pct:35.048587,13.393552,13.847173,10.839433/!600,600/0/default.jpg"/>
 </td>
@@ -11176,27 +11231,6 @@ Sulkies e6. can find them at this Factory, all o
 
 ---
 
-## [From _The Ottawa free trader._](https://www.loc.gov/resource/sn84038582/1876-03-11/ed-1/?sp=6)
-
-#### 1876-03-11 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-, and saves mhost of the  
-  
-They have a strange cattle disease in Cham  
-  
-paign county. There are no signs of iliness,  
-but after eating heartily all day, the animals  
-  
-te quictly down and die the neat hornin
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471537:1876031101:0106/pct:5.315488,92.681638,14.493308,2.866579/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _School Journal 1872-1914_](https://archive.org/details/sim_school-journal_1876-03-11_8_247/page/n11/mode/1up?view=theater)
 
 #### 1876-03-11 &middot; [New York City, New York](http://dbpedia.org/resource/New_York_City)
@@ -11250,9 +11284,7 @@ A vein o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
-Professor Wilder, of Cornell Univer.  
-sity, notes these handy prescriptions:  
+:  
 For dost in the eyes avoid rubbing;  
 daali cold water in them; remove cin­  
 ders, etc., with tho round point of a  
@@ -11263,7 +11295,7 @@ la cut compress it above the wound; if
 a voih k cut compress it below. If  
 s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_dickens_ver01:data:sn84022135:00295869483:1876031401:0381/pct:26.285047,83.278146,18.124166,9.230132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_dickens_ver01:data:sn84022135:00295869483:1876031401:0381/pct:26.285047,85.037252,18.124166,7.471026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11707,7 +11739,7 @@ A Young Lad
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Wilder, of Cornell I&#x27;uiecrsity,  
+&quot; lhof. Wilder, of Cornell I&#x27;uiecrsity,  
 gives these short tul -f&quot;!-m ?ion in case ~f  
 accident:  
 For dust in the eyes, avoid rubbing; clash  
@@ -11841,7 +11873,7 @@ cover with varnish.
 For apoplexy, raise the head and  
 body; for fainting, lay the person  
 flat.  
-WheN
+Whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296114:1876041901:0602/pct:18.202721,5.344418,12.416172,16.217999/!600,600/0/default.jpg"/>
 </td>
@@ -12215,7 +12247,7 @@ Tho
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Gazette. QUICK  
+. QUICK  
 PRESCRIPTIONS.-Professor Wilder, of  
 Cornell University, gives these short  
 rules for action in case of  
@@ -12273,7 +12305,8 @@ I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- s  
+, but own  
+in one s  
 Quick Prescriptions.  Professor Wilder  
 of Carrol University, gives these short  
 rules for action in case of accident.  
@@ -12292,7 +12325,7 @@ varnish.
 For apoplexy, raise the head and body;  
 for fainting lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416157108:1876053101:0888/pct:65.144790,70.741511,14.986261,11.753292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416157108:1876053101:0888/pct:65.144790,70.103950,14.986261,12.390852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12323,10 +12356,7 @@ you would come and undo inc.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-PROFESSOR WILDER, of Cornell University, notes  
-these handy prescriptions: For dust in the eyes avoid  
+s: For dust in the eyes avoid  
 rubbing; dash cold water in them; remove cinders,  
 ete., with the round point of a lead-pencil. Remove  
 insects from the ear by tepid water; never put &amp;  
@@ -12336,9 +12366,9 @@ press it below. If choked, go upon all fours and
 cough. For slight burns dip the part in cold water;  
 if the skin is destroyed, cover with varnish. For  
 apoplexy raise the head and body; for fainting lay  
-the person flat
+the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_godeys-magazine_1876-06_92_552%2Fsim_godeys-magazine_1876-06_92_552_jp2.zip%2Fsim_godeys-magazine_1876-06_92_552_jp2%2Fsim_godeys-magazine_1876-06_92_552_0083.jp2/pct:56.942337,75.567108,34.559939,11.862004/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_godeys-magazine_1876-06_92_552%2Fsim_godeys-magazine_1876-06_92_552_jp2.zip%2Fsim_godeys-magazine_1876-06_92_552_jp2%2Fsim_godeys-magazine_1876-06_92_552_0083.jp2/pct:56.942337,76.488658,34.559939,10.940454/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12414,8 +12444,6 @@ flat. &#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, and with-  
-drew.”  
   
   
   
@@ -12438,7 +12466,7 @@ lay the person flat.”
   
 The free use of celery is mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_harpers-weekly_1876-06-10_20_1015%2Fsim_harpers-weekly_1876-06-10_20_1015_jp2.zip%2Fsim_harpers-weekly_1876-06-10_20_1015_jp2%2Fsim_harpers-weekly_1876-06-10_20_1015_0006.jp2/pct:52.125604,81.322824,18.840580,9.818369/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_harpers-weekly_1876-06-10_20_1015%2Fsim_harpers-weekly_1876-06-10_20_1015_jp2.zip%2Fsim_harpers-weekly_1876-06-10_20_1015_jp2%2Fsim_harpers-weekly_1876-06-10_20_1015_0006.jp2/pct:52.149758,83.036326,18.816425,8.104866/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12501,36 +12529,6 @@ is destroyed, cover with varnish. For
 apoplexy, raise tiie bend aud b.nly ;  
 for fainting. Iny the person Hnt
 </td></tr></table>
-
----
-
-## [From _The Milan exchange._](https://www.loc.gov/resource/sn86053488/1876-06-22/ed-1/?sp=4)
-
-#### 1876-06-22 &middot; [Milan, Gibson County, Tenn.](http://dbpedia.org/resource/Milan%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-. Kansas CiOi  
-Times. 5 &#x27; .&#x27; &quot;-  
-The following brief rules for, prompt  
-action In case of accident are girta by j  
-rroiessor uuer, Pt &quot;woraeUL luversitj-  
-For dust in the eyes, avoid rubbing:  
-dash cold warer in &quot;them - tmvck-i &quot;i-L&#x27;  
-uers, bmhm viirrwnu poiaii.pia  
-lead-pencil. Remove insects from the  
-J . . - 1. -1 .1 . . ( 1 . f  
-vn is cut. compress it below. If ;holM  
-ed, go upon all fours&quot; and rough; V For  
-slight burns, dip tho part in ooid water ;  
-if the skin is destrpyedf t overwith var  
-nish. For apoplexy, raise the. head  
-and body. For fainting, lay the person  
-flat. ;&#x27;; ; .
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053488:00212470016:1876062201:0481/pct:16.517028,81.378505,11.486068,8.668224/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
@@ -13002,7 +13000,7 @@ fur faint r.ess lay the person flat
 
 ---
 
-## Article 1 -- No Title
+## [Article 1 -- No Title](http://search.proquest.com/docview/127510748/fulltext/)
 
 #### From _Prairie farmer._
 
@@ -13018,8 +13016,7 @@ fur faint r.ess lay the person flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, gives these short  
-lines:  
+:  
 For dust in the eyes, avoid rup­  
 hing; dash cold water in them,  
 ! remove cinders etc., with the  
@@ -13038,9 +13035,9 @@ stroyed, cover it with varnish.
 For apoplexy raise the head  
 and body; for fainting, lay the  
 person flat.  
-Wliat 
+Wliat a Plant 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1876111601:0362/pct:13.834814,9.477675,11.793612,14.546476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1876111601:0362/pct:13.834814,10.825611,11.793612,13.198540/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13263,8 +13260,7 @@ and cough. For slight burns, dip the part
 in cold water; if the skin is destroyed, ;  
 cover it with varnish. For apoplexy, raise  
 the head and body; for fainting, lay the ‘  
-person flat.  
-
+person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769738:1877030801:0657/pct:48.889190,15.333939,21.742075,82.212631/!600,600/0/default.jpg"/>
 </td>
@@ -13441,7 +13437,7 @@ for fainting lay the person flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- eudden emergencies:  
+:  
 For dust in the eyes, avoid rubbing;  
 dash cold water in them; remove cin  
 ders, etc, with the round point of a lead  
@@ -13458,7 +13454,7 @@ For apopleay, ralds the head and
 body; for fainting, lay the person flat.  
 M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027418:1877100201:0239/pct:71.123452,75.865099,10.280507,8.722399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027418:1877100201:0239/pct:71.123452,76.304515,10.280507,8.282984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14984,12 +14980,7 @@ For otight burns dip th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and acts for the  
   
-he  
-  
-it is reported that Senator Cullom has  
-retired from the race. |  
   
 Smother fire with carpets, etc., water  
 will often spread burning oil and in-  
@@ -14998,7 +14989,7 @@ smoke take a full breath and then st
 low, but if carbonic gas is suspec  
 walk erect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_los-angeles-times_the-los-angeles-times_1892-04-24%2Fsim_los-angeles-times_the-los-angeles-times_1892-04-24_jp2.zip%2Fsim_los-angeles-times_the-los-angeles-times_1892-04-24_jp2%2Fsim_los-angeles-times_the-los-angeles-times_1892-04-24_0008.jp2/pct:66.921928,91.388543,24.785207,5.585305/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_los-angeles-times_the-los-angeles-times_1892-04-24%2Fsim_los-angeles-times_the-los-angeles-times_1892-04-24_jp2.zip%2Fsim_los-angeles-times_the-los-angeles-times_1892-04-24_jp2%2Fsim_los-angeles-times_the-los-angeles-times_1892-04-24_0008.jp2/pct:78.081808,92.795766,13.625327,2.727273/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15385,7 +15376,7 @@ will often spread burning oll and increase
 danger. Before passing through smoke  
  take a full breath and then stoop low, but  
 if earbonic acid gas is suspected walk erect  
-Profemor B. G. Wilder
+Profemor B. G. Wilder.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn83045555:0020653980A:1892043001:1132/pct:0.106838,83.683031,16.372863,4.542677/!600,600/0/default.jpg"/>
 </td>
@@ -15393,7 +15384,7 @@ Profemor B. G. Wilder
 
 ---
 
-## Emergency Notes.
+## [Emergency Notes.](http://search.proquest.com/docview/137857081/fulltext/)
 
 #### From _Southern Cultivator (1843-1906)_
 
@@ -15633,15 +15624,14 @@ Som
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-bits.  
+.  
 Remove matter from the ear with  
 tepid water; never put a hard instru­  
 ment into the ear.  
 hx case of poisoning excite romiting  
-by tickling the throat or by warm water  
-and mustard.
+by tickling the throat or by warm wate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058370:00296021192:1892051801:0147/pct:52.849958,89.101681,13.327745,4.794709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058370:00296021192:1892051801:0147/pct:52.849958,90.341692,13.327745,3.168917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15820,10 +15810,7 @@ anounts to anything,” as th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nse be­  
-fore using.  
-The whole secret of having boiled  
-ham or corned-beef juicy and full­  
+­  
 flavored, is putting it into boiling  
 water when put on to cook, and when  
 it is done, letting it remain in the  
@@ -15833,9 +15820,9 @@ water will often spreading burning
 oil and increase danger. Before pass­  
 ing through smoke take a full breath  
 and then stoop low, but if carbonic  
-acid gas is suspected walk erect
+acid gas is suspected walk erect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550109:1892062201:0254/pct:35.541928,61.595894,14.131449,7.876808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550109:1892062201:0254/pct:35.541928,63.845077,14.131449,5.627625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15907,52 +15894,6 @@ suspected walk erect.—Prof. B.
 Wilder.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013894:1892071401:1064/pct:52.896377,86.401142,14.493423,4.300222/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Herald and tribune._](https://www.loc.gov/resource/sn85033429/1892-07-21/ed-1/?sp=4)
-
-#### 1892-07-21 &middot; [Jonesborough, Tenn.](http://dbpedia.org/resource/Jonesborough%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-1  
-Secret of Good Ham.  
-The whole secret of having boiled ham  
-or corned beef juicy and full-flavored,  
-is putting it into boiling water when  
-put on to cook, and when it is done,  
-letting it remain in the pot until cold.  
-The Line
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1892072101:0064/pct:21.866097,71.695697,11.680912,4.264857/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Waterbury evening Democrat._](https://www.loc.gov/resource/sn94053256/1892-07-22/ed-1/?sp=3)
-
-#### 1892-07-22 &middot; [Waterbury, Conn.](http://dbpedia.org/resource/Waterbury%2C_Connecticut)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-Secret of Good Ham.  
-The whole secret of havino- faoilad  
-  
-ham or corned beef juicy andfull-flavored,  
-is putting it into boiling water  
-vuen pui on to cook, and when it is  
-lone, letting it remain in the pot until  
-old.  
-To The Public:  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271762926:1892072201:0079/pct:71.756329,5.450517,10.696203,6.957164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16098,29 +16039,6 @@ fainting Iny&#x27;thuperson flat,
 
 ---
 
-## [From _The Columbus journal._](https://www.loc.gov/resource/sn95073194/1892-10-12/ed-1/?sp=4)
-
-#### 1892-10-12 &middot; [Columbus, Neb.](http://dbpedia.org/resource/Columbus%2C_Nebraska)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- is kept constant scrub­  
-bed with water iu which potash has  
-been dissolved, roaches an 1 ants will  
-speedih disappear.  
-The whole secret of having  
-boiled ham or corned beef juicy and  
-full-flavored is putting it into boiling  
-water when put on to rook, and when  
-it is done letting it remain in the pot  
-until cold.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539276:1892101201:0164/pct:61.197917,75.473049,10.273438,4.602639/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Pacific._](https://archive.org/details/per_the-pacific_the-pacific_1892-11-10_41_44/page/n2/mode/1up?view=theater)
 
 #### 1892-11-10 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
@@ -16215,74 +16133,6 @@ ter will often spread burning oil, and
 Before passing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1892-11-10_41_44%2Fper_the-pacific_the-pacific_1892-11-10_41_44_jp2.zip%2Fper_the-pacific_the-pacific_1892-11-10_41_44_jp2%2Fper_the-pacific_the-pacific_1892-11-10_41_44_0002.jp2/pct:48.213432,7.929537,15.085058,86.549228/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Life (1883-1936)_](https://archive.org/details/sim_life_1892-11-17_20_516/page/n13/mode/1up?view=theater)
-
-#### 1892-11-17 &middot; [New York](http://dbpedia.org/resource/New_York_City)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-sighed.  
-  
-‘« Three times this week I have told Mary to  
-I am completely disheartened.”  
-  
-The lawyer  
-  
-‘* My dear,” he replied, ‘‘ to-day I have had to deal with a murderer and two burg-  
-  
-lars.  
-  
-I have also examined two wife beaters and one child stealer, but anything like  
-  
-the moral depravity of Mary I confess I never saw before—never !”  
-And the lady triumphantly led the procession down the stairs.—Harper&#x27;s Bazar.  
-  
-THERE are trees in California so tall that it takes two men and a boy to look to
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_life_1892-11-17_20_516%2Fsim_life_1892-11-17_20_516_jp2.zip%2Fsim_life_1892-11-17_20_516_jp2%2Fsim_life_1892-11-17_20_516_0013.jp2/pct:49.696602,23.660714,44.144417,7.471805/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Los Angeles times._](https://archive.org/details/sim_los-angeles-times_the-los-angeles-times_1892-12-01/page/n6/mode/1up?view=theater)
-
-#### 1892-12-01 &middot; [[Los Angeles, Calif.]](http://dbpedia.org/resource/Los_Angeles)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-.  
-  
-THERE ARE trees in California so tall  
-thatittakestwomen and a hoy to look to
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_los-angeles-times_the-los-angeles-times_1892-12-01%2Fsim_los-angeles-times_the-los-angeles-times_1892-12-01_jp2.zip%2Fsim_los-angeles-times_the-los-angeles-times_1892-12-01_jp2%2Fsim_los-angeles-times_the-los-angeles-times_1892-12-01_0006.jp2/pct:19.418565,89.335574,11.939268,0.769131/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Indianapolis journal._](https://www.loc.gov/resource/sn82015679/1893-01-08/ed-1/?sp=2)
-
-#### 1893-01-08 &middot; [Indianapolis [Ind.]](http://dbpedia.org/resource/Indianapolis)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-lo  
-hot.  
-The whole secret of having boiled ham or  
-corned beef juioy ind f ulMIavorcd. Is put­  
-ting it into boiling water when put on to  
-cook, und when it is done letting it remain  
-in the liquor in tho pot until cold.  
-Woolen
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:0029587188A:1893010801:0081/pct:79.738946,54.920128,13.711195,3.298722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16444,43 +16294,6 @@ pected walk erect.
 
 ---
 
-## [From _Southern Christian advocate._](https://www.loc.gov/resource/sn87065702/1893-03-02/ed-1/?sp=7)
-
-#### 1893-03-02 &middot; [Augusta, Ga.](http://dbpedia.org/resource/Augusta%2C_Georgia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-to hang it by.  
-The whole &#x27;secret of having boiled  
-ham or corned beef juicy and full-fia­  
-vored, is putting it into boiling water  
-when put on to cook, and when it is  
-done letting it remain in the liquor  
-in the pot until cold.  
-Silver spoons and forks in daily use  
-may be kept bright by leaving them  
-in strong borax water several hours.  
-The water should be boiling when  
-they are put in.  
-Wh
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jicama_ver01:data:sn87065702:00516991021:1893030201:0354/pct:35.252399,69.784382,14.080100,7.619464/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## Epicurean Morsels
-
-#### From _The Atchison daily globe._
-
-#### 1893-03-07 &middot; [Atchison, Kan.](http://dbpedia.org/resource/Atchison%2C_Kansas)
-
-[This text is not available under an open license.]
-
----
-
 ## [From _People's voice._](https://www.loc.gov/resource/sn85032801/1893-04-21/ed-1/?sp=2)
 
 #### 1893-04-21 &middot; [Wellington, Sumner County, Kansas](http://dbpedia.org/resource/Wellington%2C_Kansas)
@@ -16496,54 +16309,6 @@ low, but if carbonic acid gaa is ins
 pected walk erect &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473649:1893042101:0455/pct:49.875519,92.244701,13.838174,3.817437/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Pacific._](https://archive.org/details/per_the-pacific_the-pacific_1893-08-23_42_34/page/n6/mode/1up?view=theater)
-
-#### 1893-08-23 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-n dip into the beaten eggs,  
-then into bread crumbs, covering  
-Fry in hot lard.  
-  
-Secret or Goop Ham—The whole  
-secret of having boiled ham or corn-  
-ed beef juicy and full-flavored is put-  
-ting it into boiling water when put  
-on to cook, and when it is done let-  
-ting it remain in the pot until cold.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1893-08-23_42_34%2Fper_the-pacific_the-pacific_1893-08-23_42_34_jp2.zip%2Fper_the-pacific_the-pacific_1893-08-23_42_34_jp2%2Fper_the-pacific_the-pacific_1893-08-23_42_34_0006.jp2/pct:46.880995,52.908085,13.653503,5.687452/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The daily herald._](https://www.loc.gov/resource/sn86089174/1893-10-04/ed-1/?sp=4)
-
-#### 1893-10-04 &middot; [Brownsville, Tex.](http://dbpedia.org/resource/Brownsville%2C_Texas)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-The whole secret of having  
-  
-boi&#x27;ed ham or corned beef juicy  
-nd full flavored, rays a correspon  
-dent, is putting it into boiling  
-water when put on to cook, and  
-  
-when it is done letting it remin in  
-  
-th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_alpha_ver01:data:sn86089174:0017503609A:1893100401:0219/pct:25.072098,17.723035,13.572459,5.791143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

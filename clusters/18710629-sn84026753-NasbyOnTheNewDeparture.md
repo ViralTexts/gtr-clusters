@@ -2811,9 +2811,54 @@ ntgomery county, Ohio, wuz to me a new
 lite. Troo, they hey the slite disadvantage  
 uv abpoorin evrything that is Dimocratic,  
   
-and uv puttin the Dimocratic party on pur
+and uv puttin the Dimocratic party on pure  
+  
+er attall,  
+plit in the  
+  
+eye got  
+appearane.  
+gendarme,  
+and proba  
+The Comn  
+  
+istomed to the gloom. The  
+ four strangers escorted by  
+ridently caused a sensation  
+awakened hope and fear  
+ists crowded round us, open  
+  
+usket  
+  
+ing  
+The  
+  
+struck  
+having  
+  
+balls fron  
+  
+lodged have  
+rgeons. W  
+e ae   
+the forchea  
+divided into  
+and beneath  
+  
+ly Republikin ground  
+  
+ want is the soopr  
+that nigger Lubbock  
+the Corners, and   
+place, and Kernel I  
+nibacker who hey  
+  
+and causing  
+.Thus matters  
+y years affliction,  
+ag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197590:1871062801:0229/pct:13.798813,40.067523,11.384021,7.035504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197590:1871062801:0229/pct:6.223265,40.013069,48.006071,12.470050/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

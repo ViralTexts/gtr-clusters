@@ -1,7 +1,7 @@
 
 # To Remove Ink Spots
 
-### 76 reprints from 1863-10-03 to 1872-10-31
+### 76 reprints from 1863-10-03 to 1872-02-07
 
 ## [To Remove Ink Spots](https://chroniclingamerica.loc.gov/lccn/sn85054616/1863-12-30/ed-1/seq-3/)
 
@@ -106,6 +106,7 @@ and will satisfy all whc; may try it
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+p  
 a long time.  
 To Remove Ink. Spots.  
 Pat the article stained over a warm flat  
@@ -800,8 +801,7 @@ FO
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- French, aliout  
-.-jO.oiki of other continental countries,  
+,  
 and alsiut M,ihji Ameiicaus.  
 To remove ink spots, put tho article  
 stained over a warm flat iron, stretch  
@@ -813,7 +813,7 @@ ly in cold water
 It is stated that this year foreign to­  
 bacco bus been sold and smok
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033386:00200293873:1871062301:0361/pct:46.269079,37.370994,9.412097,4.421510/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033386:00200293873:1871062301:0361/pct:46.269079,38.120587,9.412097,3.671917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1250,6 +1250,26 @@ An English paper say
 
 ---
 
+## [From _Burlington weekly free press._](https://www.loc.gov/resource/sn86072143/1871-06-30/ed-1/?sp=1)
+
+#### 1871-06-30 &middot; [Burlington, Vt.](http://dbpedia.org/resource/Burlington%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+hertelf the becomes tight.  
+A Wyoming Tromen-woman complunt that  
+hundreds of the sex refuse to Tote in the Terri­  
+tory unless coaxed to do so by good looking  
+roeo.  
+A womia suffrag
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1871063001:0105/pct:12.357550,55.210214,10.060541,2.321383/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Evening star._](https://www.loc.gov/resource/sn83045462/1871-07-01/ed-1/?sp=7)
 
 #### 1871-07-01 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
@@ -1457,6 +1477,26 @@ fcatisfy all who mav tr i
 
 ---
 
+## [From _The Pulaski citizen._](https://www.loc.gov/resource/sn85033964/1871-07-06/ed-1/?sp=1)
+
+#### 1871-07-06 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+To remove ink hpots put the af- .  
+tick; stained over a w arm Gut-iron,  
+stretch it well, then m.uccic a few .  
+drops of lemon juice on if, and .th  
+spot will disappear at once. Wash  
+immediately in cold water
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470193:1871070601:0414/pct:80.831504,73.943267,10.798573,3.498150/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## Multiple News Items
 
 #### From _Lowell daily citizen and news._
@@ -1464,26 +1504,6 @@ fcatisfy all who mav tr i
 #### 1871-07-08 &middot; [Lowell, Mass.](http://dbpedia.org/resource/Lowell%2C_Massachusetts)
 
 [This text is not available under an open license.]
-
----
-
-## [From _Belmont chronicle._](https://www.loc.gov/resource/sn85026241/1871-07-13/ed-1/?sp=4)
-
-#### 1871-07-13 &middot; [St. Clairsville, Ohio](http://dbpedia.org/resource/St._Clairsville%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
--  
-Everv seventh person in London is in  
-receipt of public charity.. The cost, of  
-aiding this class has increased during  
-the past ten years 08 per cent, faster  
-than the growth of the great metropo  
-lis. &#x27;
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775423:1871071301:0035/pct:52.573770,66.921185,11.163934,2.678918/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
@@ -1934,28 +1954,6 @@ it, and the spot will disappear at once. Wash
 immediately in cold;dater.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_deaTacita_ver01%2Fdata%2Fsn86081130%2F000002101%2F1872020701%2F0020.jp2/pct:3.465001,70.946671,11.163278,2.412909/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The weekly register._](https://www.loc.gov/resource/sn84026817/1872-10-31/ed-1/?sp=1)
-
-#### 1872-10-31 &middot; [Point Pleasant, Va. [W. Va.]](http://dbpedia.org/resource/Point_Pleasant%2C_West_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- if bo is  
-very unlike other men, ho is tnoro likely  
-to be a good husband.  
-A story is told of a person asking anoth­  
-er whether he would advise him to lend a  
-certain friend money. &quot;What, lond him  
-money? You might give him an emetio,  
-; aud bu wouldn&#x27;t return it!&quot;  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202193766:1872103101:0610/pct:80.078637,74.713000,15.989515,7.663667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

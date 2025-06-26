@@ -666,7 +666,7 @@ MY
 
 ---
 
-## A LITERARY CURIOSITY.
+## [A LITERARY CURIOSITY.](http://search.proquest.com/docview/136228933/fulltext/)
 
 #### From _New York Observer and Chronicle (1833-1912)_
 
@@ -1535,7 +1535,7 @@ CrurcMIl. ?t, loctiwtor, 14. Armstrong 13, Mxlton.
 5T. Byron. 21, gmullet. 22, Crabbo. 29, Monger  
 9S, «&#x27;*&gt;wl#t. tf. Beattie. 26, Co»p*-. 27. Sir Walter  
 0*v*ni i. 28, forsy 2ii, Willie. SO, Addison. 81.  
-Drjdeii. 84. Fr«ncU Quarles- 3J, Watkins. 34, W
+Drjdeii. 84. Fr«ncU Quarles- 3J, Watkins. 34, Wm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897883:1868053001:0250/pct:3.789997,21.410847,11.292327,10.693607/!600,600/0/default.jpg"/>
 </td>
@@ -3456,12 +3456,6 @@ Hill: 37, Dana; 38. Shakespeare
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-ounce Schottische, Ada Bell Waltz. 20 cents  
-  
-each, or the entire twelve for #2. Address orders as  
-above, to  
-  
-J. Stark HoLioway,  
   
   
   
@@ -3541,7 +3535,7 @@ Dana,
   
 For, live we how we can, yet die we must
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_godeys-magazine_1869-06_78_468%2Fsim_godeys-magazine_1869-06_78_468_jp2.zip%2Fsim_godeys-magazine_1869-06_78_468_jp2%2Fsim_godeys-magazine_1869-06_78_468_0056.jp2/pct:12.987520,11.242455,82.098284,77.339034/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_godeys-magazine_1869-06_78_468%2Fsim_godeys-magazine_1869-06_78_468_jp2.zip%2Fsim_godeys-magazine_1869-06_78_468_jp2%2Fsim_godeys-magazine_1869-06_78_468_0056.jp2/pct:50.468019,11.242455,44.617785,58.928571/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3911,8 +3905,7 @@ den ; 32, Francis Quarles; 33. Watkins; 34 Herrick;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-vite ad­  
-\ MIMS.  
+.  
   
 A LIT KRARY It —Tho fol­  
 lowing remarkable little poem is n con­  
@@ -3932,21 +3925,9 @@ DIEM
   
 I Why 14 all thls toil for It lomplt. of An  
 bong  
-2 Life&#x27;s a short Slimmer. 1111 0 5 er,  
-14 11111, ee i ;deli 1)1e ital breath end  
-die—  
-.&#x27; Ihe cradle end the tomb, talas I so nigh,  
-&#x27;l,, be t. better far than not to be.  
-&#x27;I hottult all limn /I lift Illny seem °tragedy, ,  
-7 lint light 111,4 speak a Ifrn &#x27;nighty grief.  
-lire dnmb  
-111 , bottom Is Lw /41/111 ,, W whenre they  
-~,,,, •  
-Lair fate It I/111 lII° rommon fut. of All,  
-In 1 , , f100 , g 1,,,t 102 , &#x27; h e re n o man la hJI  
-II Nature to Yin II allots i
+2 Life&#x27;s a short Slimme
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_alernus_ver01%2Fdata%2Fsn83031981%2F000001927%2F1869081301%2F0228.jp2/pct:64.683478,20.990194,14.243499,14.931711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_alernus_ver01%2Fdata%2Fsn83031981%2F000001927%2F1869081301%2F0228.jp2/pct:64.683478,22.789354,14.243499,8.334793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4278,7 +4259,7 @@ $ no
 
 ---
 
-## A Literary Curiosity.
+## [A Literary Curiosity.](http://search.proquest.com/docview/125934891/fulltext/)
 
 #### From _Christian Advocate (1866-1905)_
 
@@ -4288,7 +4269,7 @@ $ no
 
 ---
 
-## A Literary Curiosity.
+## [A Literary Curiosity.](http://search.proquest.com/docview/125934891/fulltext/)
 
 #### From _Christian Advocate (1866-1905)_
 
@@ -4304,14 +4285,15 @@ $ no
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+-too  
 EVERY FAMILY  
 Til (ha entint should hare tha IIlULO. It Db  
 Ushes all the Local and County News Legal  
 Advertisements, Dellnquont Land List, Notices,  
-of Strays, aa many other matters of interest U
+of Strays, aa many other matters of interest Ur  
+tlecUUeosr uneet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1870010601:0004/pct:81.897321,93.683218,14.598214,2.561282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1870010601:0004/pct:81.897321,92.928975,14.598214,3.755500/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4323,7 +4305,7 @@ of Strays, aa many other matters of interest U
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+,  
   
 Papers not sent unless paid in ndvance. and In  
   
@@ -6716,16 +6698,9 @@ q..w lor 2 w V.f, r.ot years but actions toll ;
 Watkin--.  
 Th&amp;t man live twice, wh- live the first lite  
 well. Herrick.  
-Vtke then, while yet v, c r.-.r.y, your God your  
-friend, Mason.  
-W hom . hriaun wor.hlp, y ei r.ot comprehend.  
-Hill.  
-The trust thut&#x27;e iven g-ard, ur.I to yourself be  
-Prr..  
-Fcr, live wo hjv.1 we car., yet fltov mn-t.  
-Sink
+Vtke then, while yet v, c 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033438:00200293575:1873121001:0416/pct:7.304900,13.511791,16.742287,36.360739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033438:00200293575:1873121001:0416/pct:7.304900,13.511791,16.742287,33.046526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8206,7 +8181,7 @@ JVJWlMam Mason ; 36, Hill; 37, Dana ; 38, Shak
 
 ---
 
-## Notes and Queries.
+## [Notes and Queries.](http://search.proquest.com/docview/136223371/fulltext/)
 
 #### From _New York Observer and Chronicle (1833-1912)_
 
@@ -13891,7 +13866,6 @@ GOLDEN GRAIN
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-CATE OF PEACE AND ARBITRATION.  
   
   
   
@@ -13986,7 +13960,7 @@ Quarles; 33, Watkins; 34, Herrick; 35, William Mason; 36, Hill;
 37, Dana; 38, Shakespeare.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_world-affairs-us_march-april-1887_49_2%2Fsim_world-affairs-us_march-april-1887_49_2_jp2.zip%2Fsim_world-affairs-us_march-april-1887_49_2_jp2%2Fsim_world-affairs-us_march-april-1887_49_2_0019.jp2/pct:11.016371,10.920121,69.713506,56.496461/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_world-affairs-us_march-april-1887_49_2%2Fsim_world-affairs-us_march-april-1887_49_2_jp2.zip%2Fsim_world-affairs-us_march-april-1887_49_2_jp2%2Fsim_world-affairs-us_march-april-1887_49_2_0019.jp2/pct:11.016371,15.318504,40.245566,52.098079/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14511,7 +14485,6 @@ den: 32 Francis Quarles; 33 Watkins; 34, Herrick
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
   
 A Curious Litre Poem.  
 Mrs. II. A. Deming, of San Francis­  
@@ -16027,17 +16000,12 @@ kins; 34. Herrick; 35. William Mason;
 
 ---
 
-## [From _American Printer 1883-2013_](https://archive.org/details/sim_american-printer_1887-05_4_8/page/n38/mode/1up?view=theater)
+## [From _American Printer 1883-2013_](https://archive.org/details/sim_american-printer_1887-05_4_8/page/n39/mode/1up?view=theater)
 
 #### 1887-05-01 &middot; [Chicago, Illinois](http://dbpedia.org/resource/Chicago)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- aid of hand and steam-press printing.  
-  
-  
-  
-  
   
   
   
@@ -16109,7 +16077,7 @@ Watkins ; 34, Herrick; 35, William Mason; 36, Hill; 37, Dana;
   
 38, Shakespear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_american-printer_1887-05_4_8%2Fsim_american-printer_1887-05_4_8_jp2.zip%2Fsim_american-printer_1887-05_4_8_jp2%2Fsim_american-printer_1887-05_4_8_0038.jp2/pct:63.712807,87.455197,19.469599,0.851254/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_american-printer_1887-05_4_8%2Fsim_american-printer_1887-05_4_8_jp2.zip%2Fsim_american-printer_1887-05_4_8_jp2%2Fsim_american-printer_1887-05_4_8_0039.jp2/pct:10.341495,13.089837,38.208763,58.121597/,600/0/default.jpg"/>
 </td>
 </tr></table>
 

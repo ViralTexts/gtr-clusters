@@ -1,7 +1,7 @@
 
 # From _Sheffield Independent_
 
-### 566 reprints from 1841-05-22 to 1896-11-10
+### 565 reprints from 1841-05-22 to 1896-11-10
 
 ## [From _Sheffield Independent_](https://link-gale-com.ezproxy.lib.ryerson.ca/apps/doc/R3212004854/BNCN?u=rpu_main&sid=bookmark-BNCN&xid=846d399a.)
 
@@ -153,6 +153,26 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 #### From _Manchester Times_
 
 #### 1841-09-11 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
+
+[This text is not available under an open license.]
+
+---
+
+## Advertisements & Notices
+
+#### From _Liverpool Mercury_
+
+#### 1841-09-17 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
+
+[This text is not available under an open license.]
+
+---
+
+## Advertisements & Notices
+
+#### From _Liverpool Mercury_
+
+#### 1841-10-01 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -693,6 +713,16 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 #### From _Manchester Times_
 
 #### 1842-04-23 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
+
+[This text is not available under an open license.]
+
+---
+
+## Advertisements & Notices
+
+#### From _Preston Chronicle_
+
+#### 1842-04-23 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1750,6 +1780,16 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 
 ## Advertisements & Notices
 
+#### From _Bristol Mercury_
+
+#### 1842-10-29 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
+
+[This text is not available under an open license.]
+
+---
+
+## Advertisements & Notices
+
 #### From _Manchester Times_
 
 #### 1842-10-29 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
@@ -2214,16 +2254,6 @@ or premature decay. Mr. La&#x27;Mert, who is a a
 #### From _Examiner_
 
 #### 1843-04-01 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1843-04-01 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3074,16 +3104,6 @@ poiut
 
 ## Advertisements & Notices
 
-#### From _The Era_
-
-#### 1844-01-07 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Manchester Times_
 
 #### 1844-01-20 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
@@ -3470,11 +3490,6 @@ At home for consultation daily, and immediate replies sent to all letters, if ac
 by the consultation-fee of £1 for advice, &amp;c.—No. 9, Bedford Street, Bedford Square,  
   
 London.  
-  
-  
-  
-  
-  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_british-and-foreign-review-or-european-quarterly-journal_1844-04_17%2Fsim_british-and-foreign-review-or-european-quarterly-journal_1844-04_17_jp2.zip%2Fsim_british-and-foreign-review-or-european-quarterly-journal_1844-04_17_jp2%2Fsim_british-and-foreign-review-or-european-quarterly-journal_1844-04_17_0024.jp2/pct:10.732984,82.574032,65.401396,9.965831/600,/0/default.jpg"/>
@@ -4314,6 +4329,16 @@ and alleviate.”— Wakefield Journal.
 
 ---
 
+## Advertisements & Notices
+
+#### From _Manchester Times_
+
+#### 1844-11-30 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
+
+[This text is not available under an open license.]
+
+---
+
 ## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://archive.org/details/sim_examiner-a-weekly-paper-on-politics-literature-music_1844-11-30_1922/page/n12/mode/1up?view=theater)
 
 #### 1844-11-30 &middot; [London, England](http://dbpedia.org/resource/London)
@@ -4693,29 +4718,6 @@ directions for their treatment an
 
 ---
 
-## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-02-01_15_493/page/n3/mode/1up?view=theater)
-
-#### 1845-02-01 &middot; [London, England](http://dbpedia.org/resource/London)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-e daily, from nine to three, and from five till eight; and immediate replies sent  
-to all letters, if accompanied by the consultationSfee of £1 for advice, &amp;c.  
-  
-9, Bedtord-street -square, London.  
-  
-  
-  
-  
-  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_mining-journal_1845-02-01_15_493%2Fsim_mining-journal_1845-02-01_15_493_jp2.zip%2Fsim_mining-journal_1845-02-01_15_493_jp2%2Fsim_mining-journal_1845-02-01_15_493_0003.jp2/pct:3.929273,80.836514,28.290766,1.399491/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## Advertisements & Notices
 
 #### From _Morning Chronicle_
@@ -5076,6 +5078,16 @@ directions for their treatment an
 
 ## Advertisements & Notices
 
+#### From _Morning Chronicle_
+
+#### 1845-03-28 &middot; [London, England](http://dbpedia.org/resource/London)
+
+[This text is not available under an open license.]
+
+---
+
+## Advertisements & Notices
+
 #### From _Manchester Times_
 
 #### 1845-03-29 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
@@ -5179,16 +5191,6 @@ directions for their treatment an
 #### From _The Era_
 
 #### 1845-04-13 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Morning Chronicle_
-
-#### 1845-04-15 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5396,16 +5398,6 @@ directions for their treatment an
 
 ## Advertisements & Notices
 
-#### From _Bristol Mercury_
-
-#### 1845-05-10 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _The Era_
 
 #### 1845-05-11 &middot; [London, England](http://dbpedia.org/resource/London)
@@ -5581,6 +5573,24 @@ directions for their treatment an
 #### 1845-06-07 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
+
+---
+
+## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://archive.org/details/sim_examiner-a-weekly-paper-on-politics-literature-music_1845-06-07_1949/page/n13/mode/1up?view=theater)
+
+#### 1845-06-07 &middot; [London, England](http://dbpedia.org/resource/London)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Hannay and Co. n3 Oxford stieet; Srarie, 28 I&#x27;ichborne street, Quadraoi]  
+(Tordon. 146 Leadcnhall street; Noble, 109 Chancery lane: Mansell, 3  
+King street, Southwark: Slat ter, Hi|fh street, tixford : Smith, Ca
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_examiner-a-weekly-paper-on-politics-literature-music_1845-06-07_1949%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1845-06-07_1949_jp2.zip%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1845-06-07_1949_jp2%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1845-06-07_1949_0013.jp2/pct:66.533546,71.021534,26.277955,1.483718/600,/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -6122,16 +6132,6 @@ directions for their treatment an
 
 ## Advertisements & Notices
 
-#### From _The Era_
-
-#### 1845-10-12 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Preston Chronicle_
 
 #### 1845-10-25 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
@@ -6175,16 +6175,6 @@ directions for their treatment an
 #### From _The Era_
 
 #### 1845-11-09 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1845-11-16 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -6305,16 +6295,6 @@ directions for their treatment an
 #### From _Jackson's Oxford Journal_
 
 #### 1845-12-27 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1845-12-28 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 

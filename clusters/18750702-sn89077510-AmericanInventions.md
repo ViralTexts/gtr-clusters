@@ -1,7 +1,7 @@
 
 # American Inventions
 
-### 186 reprints from 1872-09-05 to 1891-01-22
+### 190 reprints from 1872-09-05 to 1891-01-22
 
 ## [American Inventions](https://chroniclingamerica.loc.gov/lccn/sn89077510/1875-08-21/ed-1/seq-1/)
 
@@ -979,6 +979,7 @@ composing-machine for printers.
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+tIONS AbrOAD.  
 The great American inventions, which hav  
 been adopted alljover the world, are thus  
 merated: 1. The cotton gin, without which the  
@@ -994,7 +995,7 @@ elevator. 12. The artificial manufacture of ice
 a large scale. 14. The electro magnet, and  
 practical application, by Henry and Morse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_jinx_ver01:data:sn84020594:00271741698:1875091301:0911/pct:17.915861,25.054745,12.572534,6.149635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_jinx_ver01:data:sn84020594:00271741698:1875091301:0911/pct:17.915861,24.598540,12.572534,6.605839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1349,8 +1350,7 @@ Morse
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-American Inventions .«Abroad. —The  
+—The  
 great American inventions, which have  
 been adopted all over the world, are  
 the following: 1 .—The cotton gin,  
@@ -2721,13 +2721,25 @@ A Jackson. Mich., man owns the hi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-the sake of  
-advertising the beauty as a future  
-resident of their towns.  
+  
   
 The fifteen great American inven­  
 tions of wide-world adoption are: 1,  
-The cotton gin; 2 planing machine  
+The cotton gin; 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177295:1887080401:0523/pct:32.428646,83.745761,11.258974,1.695767/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Marietta journal._](https://www.loc.gov/resource/sn85034082/1887-08-04/ed-1/?sp=2)
+
+#### 1887-08-04 &middot; [Marietta, Ga.](http://dbpedia.org/resource/Marietta%2C_Georgia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+2 planing machine  
 3, the grass mower and reaper ; 4 the  
 Fatary orinting press: 5 mnavigation  
 by steam ; 6, the hot air engine; &amp;,  
@@ -2738,10 +2750,39 @@ sandblast for carving; 11, the guage
 lathe ; 12, the grain elevator; 13, ar­  
 tiicial ice making on a large scale:  
 14, the electric magnet and its prac­  
-tical apylicaiion ; 45, the telephana.  
-—
+tical apylicaiion ; 45, the telephana.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177295:1887080401:0523/pct:32.341096,81.459616,11.451585,11.016204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177295:1887080401:0523/pct:32.358606,85.001884,11.346524,7.260394/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Mountain echo._](https://www.loc.gov/resource/sn88051124/1887-08-05/ed-1/?sp=1)
+
+#### 1887-08-05 &middot; [Yellville, Ark.](http://dbpedia.org/resource/Yellville%2C_Arkansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+his place.”  
+The fifteen great American in­  
+ventions of wide-world adoption  
+are: 1, The cotton gin; 2, planing ma­  
+chine; 3 the grass mower and reaper;  
+4, the rotary printing press; 5, navi­  
+gation by steam; 6, the hot-air en­  
+gine; 7, the sewing machine; 8, the  
+India rubber industry; 9, the ma­  
+chine manufacture of horseshoes;  
+10, the sandblast for carving; 11,  
+the gauge lathe; 12, the grain ele­  
+vator; 13, artificial ico making on v.  
+large scale; 14, the electric magnet  
+and its practical application; 15, the!  
+telephone.  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fluorite_ver01:data:sn88051124:00516990776:1887080501:0122/pct:20.172719,83.922729,14.083260,11.294594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2823,7 +2864,8 @@ ephone.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-the mixture the properties of the  
+t heating by  
+steam, give the mixture the properties of the  
 burned hydraulic cements at present in use.  
   
 Tue fifteen great American inventions of world-  
@@ -2841,7 +2883,7 @@ electric magnet and its practical application ; and,
 Tue discovery of a new gas is a rare and im-  
 ortant event to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_leslies-weekly_1887-08-13_64_1665%2Fsim_leslies-weekly_1887-08-13_64_1665_jp2.zip%2Fsim_leslies-weekly_1887-08-13_64_1665_jp2%2Fsim_leslies-weekly_1887-08-13_64_1665_0010.jp2/pct:45.629529,51.736111,19.338768,9.209656/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_leslies-weekly_1887-08-13_64_1665%2Fsim_leslies-weekly_1887-08-13_64_1665_jp2.zip%2Fsim_leslies-weekly_1887-08-13_64_1665_jp2%2Fsim_leslies-weekly_1887-08-13_64_1665_0010.jp2/pct:45.629529,51.157407,19.338768,9.788360/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2958,6 +3000,16 @@ phone.
 
 ---
 
+## Bits of Science
+
+#### From _The daily picayune._
+
+#### 1887-08-28 &middot; [New Orleans, La.](http://dbpedia.org/resource/New_Orleans)
+
+[This text is not available under an open license.]
+
+---
+
 ## [From _The Indianapolis journal._](https://www.loc.gov/resource/sn82015679/1887-08-29/ed-1/?sp=4)
 
 #### 1887-08-29 &middot; [Indianapolis [Ind.]](http://dbpedia.org/resource/Indianapolis)
@@ -2980,6 +3032,36 @@ In his last letter from London to the Balti­
 timore Su
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745710:1887082901:0529/pct:50.784817,24.214398,14.169521,5.937993/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Orleans County monitor._](https://www.loc.gov/resource/sn84022871/1887-08-29/ed-1/?sp=4)
+
+#### 1887-08-29 &middot; [Barton, Vt.](http://dbpedia.org/resource/Barton%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+-wide  
+are I the  
+CouOl-  
+2 the planing machine; 3  
+the grass mower and reaper; a the ro  
+tary printing press: 5, navigation by  
+sleam;  the hol air engine: 7 the sew  
+  
+in macine a t i ue ine ae  ie ie in o i­  
+ the machine manfacture of horse e i e a ie e a­  
+shoes; 10, the sand-blast for carving  oe o o te e  
+  
+   
+  
+tor; 14, artificial ice making on a larg  
+scale, 14, the electric magnet and it  
+practical application; 15, the telephone
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:00202196408:1887082901:0142/pct:17.660835,60.407031,22.330900,5.786823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3093,7 +3175,8 @@ shoes; 10, the sandblast for carving;
 vator; 13, artificial ice-making on a  
 | large scale; 14, the electric magnet and  
 its practical application; 15, the tele-  
-phone.
+phone.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_zions-herald_1887-09-07_64_36%2Fsim_zions-herald_1887-09-07_64_36_jp2.zip%2Fsim_zions-herald_1887-09-07_64_36_jp2%2Fsim_zions-herald_1887-09-07_64_36_0006.jp2/pct:20.443645,36.295037,12.185252,7.365289/600,/0/default.jpg"/>
 </td>
@@ -3173,7 +3256,8 @@ ar
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- not till then. ,   
+*  
+but not till then. ,   
 The i it teen great American inventions of  
 world-wide adoption are: 1, the cotton gin ; 2j  
 the planting machine; 3, the grass mower and  
@@ -3185,7 +3269,7 @@ sewing machine; 8, the india-rubber industryj
 lathe; 12, the grain elevator; 13, artificial ice.  
 making on a large scale; 14, the electriS  
 magnet and its practical application; and,   
-tho telephone. 
+tho telephone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fornax_ver01:data:sn89053706:00393344659:1887091301:0006/pct:78.592491,30.543175,13.898172,5.529248/!600,600/0/default.jpg"/>
 </td>
@@ -3204,10 +3288,9 @@ The fifteen gTeat American inven
 tions of world-wide adoption are: 1,  
 the cotton-gin; 2, the planting ma  
 , . &#x27; &#x27;  
-uiiio o. me eraes mower and ren.  
-r- . r ,
+uiiio o. me eraes mower and re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarWilm92n_ver01%2Fdata%2F1887091401%2F0254.jp2/pct:43.665886,74.829545,12.770626,2.579545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarWilm92n_ver01%2Fdata%2F1887091401%2F0254.jp2/pct:43.665886,74.829545,12.770626,2.261364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3346,11 +3429,27 @@ reaper, (4) the rotary printing press, (5) navig
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-akingonalarge  
+ No other person in the county has  
+this power.  
+Fifteen Famou-i American Invention *  
+Da\/tim \Democrat.  
+The fifteen great American inventions of  
+world-Wide adoption are : (1) ( )Thecotton-  
+Kin , (3) ( ) the pianino-machine. (3)()thegrasa-  
+moworand reaper , (3) ()the&#x27;rotaryprinting  
+press , (5) ( ) navigation by steauv , (6)()thnhotair  
+engine , (7) ( ) the sewing machine,(9)()theIndia  
+tiff UU i ji  
+  
+rubber Industry , ( Oj the machine manufact­  
+ure of horse slions , (10) ( ) thesandblastfor  
+carvlne , ( U ) the gauge lane , (13) ( )the(train  
+elevator , (13) ( ) artificial Ice makingonalarge  
 ecale , (14) ( ) the electric magnet andItsprac­  
-tical application , (15) ( )thetelephone
+tical application , (15) ( )thetelephone.  
+Bntt 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:00206538181:1887091901:0671/pct:44.086402,5.709151,12.464589,1.437656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:00206538181:1887091901:0671/pct:31.002125,4.147083,25.566572,95.548797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3455,9 +3554,13 @@ shoes
 10 The sandblast for carving  
 11 The gaJge lathe  
 12 The crain elevator  
-13 Artificial Icemakin
+13 Artificial Icemaking on a large  
+scale  
+H The electric magnet and its practi­  
+cal application  
+13 The telephon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:0020653560A:1887092201:0513/pct:30.735194,25.512965,14.635807,16.651635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:0020653560A:1887092201:0513/pct:30.735194,25.512965,14.686862,18.613303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3551,7 +3654,7 @@ tical application.
 
 ---
 
-## Scientific Notes.
+## [Scientific Notes.](http://search.proquest.com/docview/125902548/fulltext/)
 
 #### From _Christian Advocate (1866-1905)_
 
@@ -3666,7 +3769,10 @@ re
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, (2) the planing machine, (3)  
+i  
+The fifteen great American inventions  
+of world-wide adoption are: (1) The  
+cotton-gin, (2) the planing machine, (3)  
 the grass-mower and reaper, (4) the rotary  
 printing press, (5) navigation by J  
 steam, (6) the hot-air engine, (7) the sew- r  
@@ -3674,9 +3780,14 @@ ing-machine, (8) the india-rubber indus- a
 try, (9) the machine manufacture of  
 horse-shoes, (10) the sand-blast for carving,  
 (11) the gauge lathe, (12) the grain  
-elevator, (13) artificial ice-makin
+elevator, (13) artificial ice-making on a  
+larsre scale. (14) the electric magnet and J  
+  
+its practical application, (15) the telephone.  
+i  
+His
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194060:1887100501:0078/pct:30.481946,84.040274,14.427398,4.787918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194060:1887100501:0078/pct:30.481946,83.033419,15.078258,8.204799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3713,6 +3824,35 @@ Tca
 
 ---
 
+## [From _News and citizen._](https://www.loc.gov/resource/sn97067613/1887-10-06/ed-1/?sp=4)
+
+#### 1887-10-06 &middot; [Morrisville, Vt. ;](http://dbpedia.org/resource/Morrisville%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+The fifteen great Ani&#x27;-riean invention i  
+nf world wide adoption are: (1) The  
+cotton-gin, (-2) th t pla-iiug-m i ihiti.s, (5)  
+the grass mower and reaper, (l)the ro­  
+tary printing pros, (&#x27;) navigation by  
+steam, (&quot;) the hot-air engine, 7l the  
+sewing machine, (8) the mdia rubber  
+industry, (&#x27;,)) the manufacture of horse  
+shoes, (10) the fraud blast for carvitig,  
+(11) the gauge lathe, (l i) the grain ele­  
+vator, (13) arlili.tial ic nuking on a  
+large scabs &#x27; 14) the electric; magnet and j  
+its practical application, (15) the. tele- &#x27;  
+phone. j  
+While 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197280:1887100601:0519/pct:26.657682,80.777299,9.501348,6.050569/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Grant County herald._](https://www.loc.gov/resource/sn85033133/1887-10-06/ed-1/?sp=1)
 
 #### 1887-10-06 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
@@ -3740,11 +3880,9 @@ gage lathe, (12) the grain elevator,
 (13) artificial ice-making on a large  
 scale, (14) the electric magnet and its  
 practical application, (15) the tele­  
-phone.  
-Q ■ 1  
-Rubies are
+phone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159221:1887100601:0155/pct:75.803982,85.006649,9.522484,9.840426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159221:1887100601:0155/pct:75.803982,85.006649,9.522484,8.964982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3812,7 +3950,7 @@ scale.
 14. The electrical magnet and its  
 practical application.   
 15. The telephone.   
-Th
+Ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:0051415210A:1887100701:0530/pct:61.994609,71.861250,10.902965,13.209864/!600,600/0/default.jpg"/>
 </td>
@@ -3836,7 +3974,12 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; (2) the planing nas­  
+  
+Our Fifteen Grent Inventions.  
+[Safety Valvo.1  
+The fifteen great Arnericat, inven­  
+tions of world-wide adoption are: (1)  
+The cotton gin; (2) the planing nas­  
 Schine; (3) the grass ratn or and rea.  
 t per ; (4) the rotary printing press; (5)  
 navigation by ste.am; (6) the hot air  
@@ -3845,9 +3988,13 @@ the india rubber industry; (9) the
 machine manufacture of horseshoes;  
 (10) the sand blast for carving; (11) the  
 electric lath ; (12) the grain eleva­  
-tor; (13) artificial ice makin
+tor; (13) artificial ice making on a  
+large scale; (1.1) the electric magnet  
+t and its practical application; (15) the  
+telephone.  
+Withdra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_angel_ver01:data:sn85034336:00211101040:1887100801:0499/pct:81.223415,65.825364,14.644521,5.925694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_angel_ver01:data:sn85034336:00211101040:1887100801:0499/pct:80.899332,62.674400,14.968604,11.882740/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4060,50 +4207,6 @@ Young
 
 ---
 
-## [From _The Lebanon express._](https://www.loc.gov/resource/sn97071028/1887-10-21/ed-1/?sp=1)
-
-#### 1887-10-21 &middot; [Lebanon, Linn County, Or.](http://dbpedia.org/resource/Lebanon%2C_Oregon)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-: 2, the planiug-machine;  
-S, the grass mower and reaper; 4, the  
-rotary printing press; 6, navigation by  
-steam; 6, the hot-air engine; 7, the sew­  
-ing machine; 8, the India rubber in­  
-dustry; 9, the machine manufacture of  
-horschoes; 10, the sand-blast for carv­  
-ing; 11. the gauge lathe; 13. the grain  
-elevator; 13, artificial ice makin
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn97071028:00416152652:1887102101:0117/pct:61.136091,84.674474,10.686451,4.533434/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [A Revolving Toaster.](http://trove.nla.gov.au/ndp/del/article/71090526)
-
-#### From _Australian Town and Country Journal (Sydney, NSW : 1870 - 1907)_
-
-#### 1887-10-22 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-.Even the  
-conservative Chinese appear¡ to be up to  
-date. &#x27; The regular&#x27; Chinese. troops are  
-being armed with a repeater. ; In  
-principle it - is yery similar to the  
-Led&#x27;; the bolt action arid .the  
-magazine&#x27;attachment below the breech&#x27;  
-bejhg &#x27;. unmistakable&#x27; adaptations from  
-that weapon.- »The cartridge is small j  
-; and the rifle is sighted to 600yds. *
-</td></tr></table>
-
----
-
 ## [From _The Iowa plain dealer._](https://www.loc.gov/resource/sn83025167/1887-10-27/ed-1/?sp=1)
 
 #### 1887-10-27 &middot; [New Oregon, Howard County, Iowa](http://dbpedia.org/resource/Cresco%2C_Iowa)
@@ -4224,6 +4327,28 @@ phone. f Carl S
 
 ---
 
+## [From _The Mountain echo._](https://www.loc.gov/resource/sn88051124/1887-10-28/ed-1/?sp=2)
+
+#### 1887-10-28 &middot; [Yellville, Ark.](http://dbpedia.org/resource/Yellville%2C_Arkansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+; 2, the planing-machine;  
+3, the grass mower and reaper; 4, tho  
+rotary printing press; 6, navigation by  
+steam; 6, the hot-air engine; 7, the sew­  
+ing machine; 8, the India rubber in­  
+dustry; 9, the machine manufacture ol  
+horsehoes; 10, the sand-blast for carv­  
+ing; 11, the gauge lathe; 12, the grain  
+elevator; 13, artificial ice makin
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fluorite_ver01:data:sn88051124:00516990776:1887102801:0171/pct:78.844383,79.048387,13.627993,5.161290/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Kimball graphic._](https://www.loc.gov/resource/sn99068076/1887-10-28/ed-1/?sp=4)
 
 #### 1887-10-28 &middot; [Kimball, Brule County, Dakota [S.D.]](http://dbpedia.org/resource/Kimball%2C_South_Dakota)
@@ -4288,7 +4413,16 @@ pletio
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, (2) the planing machine, (S)  
+  
+  
+Fifteen American Inventions.  
+Dayton Democrat.  
+The fifteen great American inventions  
+of world-wide adoption are:&#x27; (X) &#x27; The  
+  
+THE SAINT PAXIL DAILY GLOBE: SUNDAY MORNING, OCTOBER 30, 1887.— TWENTY PAGES.  
+  
+cotton-gin, (2) the planing machine, (S)  
 the grass mower and reaper, (4) the  
 rotary printing press, (5) navigation by  
 steam, &lt;€■) the hot-air engine,-(7) the sew­  
@@ -4296,9 +4430,12 @@ ing machine, (8) the india rubber indus
 try, (9) the machine manufacture of  
 horseshoes, (10) the sand-blast for carv­  
 ing, (11) the gauge lathe, (12) the grain  
-elevator, (13) artificial ice makin
+elevator, (13) artificial ice making on a  
+large scale, (14) the electric magnet and  
+its practical application, (15) the tele­  
+phone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn90059522:00175033270:1887103001:0720/pct:25.906060,2.879352,11.525080,3.908474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn90059522:00175033270:1887103001:0720/pct:13.743114,1.346617,59.002609,97.065908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4373,7 +4510,10 @@ India-rubber industry;&#x27; 9, the machine
 manufacture of horseshoes; 10, the sand-  
 blast for carving ; 11, the gauge Jathe  
 ;, ,12, the grain elevator : 13,  
-artificial icemakin
+artificial icemakinp on a large scale ;_  
+14, the electric magnet and its  
+practical application; 15, the  
+telephone.
 </td></tr></table>
 
 ---
@@ -4468,11 +4608,7 @@ the telephone.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-fifteenth day of September.&quot;  
-  
-In reply to a correspondent WO will  
-state that there are fifteen great  
+ there are fifteen great  
 American inventions which have had  
 a world-wide adoption. There are as  
 follows: (1) The cotton-gun, (2) the  
@@ -4489,9 +4625,9 @@ ing on a large scale. (14) the electric
 magnet aud its practical application-,  
 (15) the telephone.  
   
-A large stoc
+A larg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ibo_ver01:data:sn91059394:00383347737:1887121401:0464/pct:26.522974,31.332545,10.906040,10.447467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ibo_ver01:data:sn91059394:00383347737:1887121401:0464/pct:26.522974,32.594126,10.906040,9.185886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4573,7 +4709,7 @@ es moking on a large scale; 14, the
 elecirte magnet and its practical ap­  
 electric magnet  
 plication; 15, the telephone.  
-of Wethere
+o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_episky_ver01:data:sn84038114:00271765484:1887122201:0622/pct:20.680301,90.412304,10.872287,4.662958/!600,600/0/default.jpg"/>
 </td>
@@ -4604,7 +4740,10 @@ hot air engine; 7, The sewing-machine ;
 machine manufacture of borseebcts; 10.  
 The sandblast for carviDg; 11. The  
 gatspe lathe; 12. The grain elevator;  
-13. Artificial ice-makin
+13. Artificial ice-making on a large  
+scale ; 14. The e&#x27;eciiic msgntt aiid its  
+practical application; 15. The  
+telephone. 
 </td></tr></table>
 
 ---
@@ -4652,9 +4791,6 @@ application; 15. He telephone
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-  
-AMKHICAX IS VK.\TlO\S.  
-Fifteen of the greatest inventions of  
 the ago are American: 1, the cotton gin  
 2, the planing machine 3, the grass  
 mower and reaper 4, the rotary print­  
@@ -4668,7 +4804,7 @@ artificial ice making on a &#x27;large scale
 14, the electric magnet and Us practical  
 application 15, the teleplaone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625078:1888011301:0452/pct:68.224864,83.314794,14.245416,8.370412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625078:1888011301:0452/pct:68.224864,84.427141,14.245416,7.258065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4680,7 +4816,7 @@ application 15, the teleplaone.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- G. M.  
+.  
 The fifteen great American in­  
 ventions of world-wide adoption  
 are: (1) The cotton gin; (2) the  
@@ -4697,9 +4833,9 @@ tor; (13) artificial ice making on a
 large scale; (14) the electric mag­  
 net and its practical application;  
 (15) the telephone.  
-LIST
+LIST OF I.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lapras_ver01:data:2013271051:00295873966:1888011401:0331/pct:41.878284,17.994148,12.302977,12.418726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lapras_ver01:data:2013271051:00295873966:1888011401:0331/pct:41.878284,18.920676,12.302977,11.492198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4842,28 +4978,6 @@ The Republica
 
 ---
 
-## [A Strange Lunatic.](http://trove.nla.gov.au/ndp/del/article/77500303)
-
-#### From _Border Watch (Mount Gambier, SA : 1861 - 1954)_
-
-#### 1888-04-28 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-; 2, the planing machine; 3, the  
-grass mower and reaper; 4. thff rotary  
-printing machine; 5, navigation liy  
-steam; 6, the hot-air engine; 7, the  
-sewing machine; 8, the india-rubber  
-industry; 9, the machine manufacturer of  
-horseshoes; 10, the sand-blast for  
-carving; 11, the gnage lath; 12,the  
-grain elevator; 13, artificial ice-  
-makin
-</td></tr></table>
-
----
-
 ## [From _Industry Week 1880-2016_](https://archive.org/details/sim_industry-week_1888-05-03_21_19/page/n10/mode/1up?view=theater)
 
 #### 1888-05-03 &middot; [Cleveland, Ohio](http://dbpedia.org/resource/Cleveland)
@@ -4887,6 +5001,34 @@ tion; 15, the telephone.
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_industry-week_1888-05-03_21_19%2Fsim_industry-week_1888-05-03_21_19_jp2.zip%2Fsim_industry-week_1888-05-03_21_19_jp2%2Fsim_industry-week_1888-05-03_21_19_0010.jp2/pct:61.542056,49.441057,25.911215,11.856369/600,/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## [SCIENCE AND INVENTION.](http://trove.nla.gov.au/ndp/del/article/88550068)
+
+#### From _Bendigo Advertiser (Vic. : 1855 - 1918)_
+
+#### 1888-06-09 &middot; [Bendigo, Victoria](http://dbpedia.org/resource/Bendigo)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+]  
+Fifteen groat American iuycutiQiw o{  
+world&#x27; wide adoption are Ij tho cotton-  
+gin; 2, the planing machinc; 3, the  
+gross mower and reaper; 4, the rotary  
+printing prcus; o, navigation by steam;  
+(ij the liot air engine; 7, the Slowing  
+tnachinfci S,&#x27; tiie India r|ibljer  
+industry; 9, the machine manufacture ■  
+vf hbrs^l&#x27;oes:, 10j the s:ind«blast for  
+carving; 11, the gattgc JtitWej 1?, the  
+grain elevator; 13, artificial ice  
+making on a large scale: 14, the  
+electric magnet and its practical  
+application; 1.1, the telephone. So  
+pleased is th
+</td></tr></table>
 
 ---
 

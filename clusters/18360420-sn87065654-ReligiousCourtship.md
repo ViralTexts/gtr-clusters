@@ -1,7 +1,7 @@
 
 # Religious Courtship
 
-### 295 reprints from 1809-04-15 to 1899-12-16
+### 297 reprints from 1809-04-15 to 1899-12-16
 
 ## [Religious Courtship](https://chroniclingamerica.loc.gov/lccn/sn87065654/1839-04-20/ed-1/seq-4/)
 
@@ -807,6 +807,7 @@ Ther
 
   
   
+  
 RELIGIOUS COURTSHIP.  
   
 A young gentleman happening to sit at  
@@ -838,7 +839,8 @@ epistle of John:—* Having many things to
 write unto you, I would not write with paper  
 and ink, but I trust to come unto you and speak  
 face to face.”? From the above interview a mar-  
-riage took place the ensuing’week.
+riage took place the ensuing’week.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_grahams-illustrated-magazine_1827-01_2_1%2Fsim_grahams-illustrated-magazine_1827-01_2_1_jp2.zip%2Fsim_grahams-illustrated-magazine_1827-01_2_1_jp2%2Fsim_grahams-illustrated-magazine_1827-01_2_1_0030.jp2/pct:14.973082,6.840035,77.624495,83.719406/,600/0/default.jpg"/>
 </td>
@@ -931,10 +933,7 @@ Two or three dear
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- their choosing me their  
-‘Treasurer more than forty years, J have no notion  
-of losing it now, tn my old age, by being set up for  
-Governor.”  
+  
   
 RELIGIOUS COURTSHIP.  
   
@@ -963,9 +962,7 @@ epistle of John:—“ Having many things to
 write unto you, I would not write with paper  
 and ink, but I trust tocome unto you and speak  
 face to face.”’ From the above interview a mar-  
-riage took place the ensuing week.  
-  
-
+riage took place the ensuing week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_grahams-illustrated-magazine_the-casket_1827-01_2_1%2Fsim_grahams-illustrated-magazine_the-casket_1827-01_2_1_jp2.zip%2Fsim_grahams-illustrated-magazine_the-casket_1827-01_2_1_jp2%2Fsim_grahams-illustrated-magazine_the-casket_1827-01_2_1_0032.jp2/pct:11.582109,11.997043,75.600801,78.667230/,600/0/default.jpg"/>
 </td>
@@ -1266,7 +1263,7 @@ week.
 
 ---
 
-## RECANTATIONS
+## [RECANTATIONS](http://search.proquest.com/docview/126375211/fulltext/)
 
 #### From _The Western Examiner, a Journal Embodying a Full and Impartial Enquiry into the Truth or Falsity of the Christian Religion; Whether Philosophically or Historically Viewed (1833-1835)_
 
@@ -2013,6 +2010,41 @@ From the above interview, the marriag
  or ea oo eo 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846082101:0690/pct:55.976175,28.602360,12.909773,13.254664/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Arkansas state gazette._](https://www.loc.gov/resource/sn82016481/1846-08-31/ed-1/?sp=3)
+
+#### 1846-08-31 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ stones.&quot;  
+  
+COUTasHAP IN CUncH.—A youg gentleman happen­  
+ing to sit al church in a pew adjoining one in which  
+was a young lady, for whom he conceived a most vig­  
+lent passion, felt desirous of entering into courtship  
+on the spot; but the place not suiting a formal declsr.  
+■lion, the exigency suggested the following text:—2d  
+Epistle to John, verse 5 h: “And now I beseech ihee  
+fair lady, not as though I had written a new cominan.  
+ment unto thee, but that we had from the beginning,  
+that we love one another.” She returned the bible with  
+the following—2d chapter of Ruth, 10&gt;h verse: “Then  
+■be fell on her face, and bowed herself to the ground,  
+■nd said, why have I found grace in thine eves, that  
+thou should take notice of me, seeing lama stranger?”  
+He returned the book, opening the 3d epistle of John:  
+“Having many things to write unto you, I would not  
+write with paper and ink; but I trust to come unto you  
+and speak face to face.&quot; From the above interview  
+the marriage ceremonies took place on the ensuing  
+week
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fluorite_ver01:data:sn82016481:00516990715:1846083101:0081/pct:47.123229,77.742759,15.006441,10.100555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2981,9 +3013,16 @@ seeing
 BhouMst take notice of me  
 that 1 am a stranarer&#x27;;&quot;  
 Ho returned the book, pointing  
-to the twelfth verse of John II
+to the twelfth verse of John III  
+&quot;Having mnny things to write  
+unto you. I would not write with  
+p Ipcr fllld ink, but I trilPt to COlnO  
+into VOU, and Speak lace to lace,  
+that our joy may he full.&#x27;  
+From the above interview, a mar­  
+riage took place th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077265:00280774819:1860110801:0054/pct:8.067652,53.483208,12.150078,9.783514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077265:00280774819:1860110801:0054/pct:8.067652,53.483208,12.169518,13.974466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4348,29 +4387,6 @@ from the above interview a marriag
 
 ---
 
-## [From _American citizen._](https://www.loc.gov/resource/sn83016739/1866-10-20/ed-1/?sp=1)
-
-#### 1866-10-20 &middot; [Canton, Miss.](http://dbpedia.org/resource/Canton%2C_Mississippi)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- it.  
-RELIGIOes COURTSHIP. A young  
-gentleman happened to sit at church  
-in a pew adjoining one in which sat  
-a lady, for whom he conceived a sud­  
-den and violent passion, and wasd­  
-sirous of entering into a courtship  
-on the spot; but the place not suit­  
-ing a formal declaration, the exi­  
-gency of the case suggested the fo
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016739:00295877534:1866102001:0569/pct:82.084976,71.324667,13.359615,6.174559/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Shelby sentinel._](https://archive.org/details/xt7wh7080f4f/page/n0/mode/1up?view=theater)
 
 #### 1867-05-15 &middot; [Shelbyville, Ky.](http://dbpedia.org/resource/Shelbyville%2C_Kentucky)
@@ -5473,10 +5489,9 @@ verse of the third epistle of John—&quot; Having
 many things to write unto you, I would not  
 write with paper and ink, but I trust to come  
 unto you and speak face to face.” From the  
-above interview a marriage took place.  
-
+above interview a marriage took place.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_keres_ver01:data:sn83020847:00517171347:1879091201:0711/pct:32.590592,6.100840,14.539725,13.008403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_keres_ver01:data:sn83020847:00517171347:1879091201:0711/pct:32.590592,6.100840,14.539725,11.798319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5877,10 +5892,9 @@ verse of the third epiitle of John--&quot;Having
 many things to write unto you, I would not  
 writo with paper and ink, but I trust to come  
 unto you and speak face to face.&quot; From this  
-laterview a marriage took place.  
-Par
+laterview a marriage took place
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663833:1879112701:0418/pct:0.410383,7.751301,19.959988,11.900849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663833:1879112701:0418/pct:0.410383,7.751301,19.959988,10.983292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6413,7 +6427,8 @@ He Returned the book, pointing tdthi Bth
 verse of thsjihird EpisUso&#x27;f Mn-r»Haviag  
 mauT things to write nnto you, I wenU  
 *ot t, :le with paper and ink,1 bnt I  
-trust to come nnto yo
+trust to come nnto yon and speak face to  
+face
 </td></tr></table>
 
 ---
@@ -10386,8 +10401,7 @@ then it rcaseth to rain
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-ttiurrh (&gt;«rl&lt;kl|i.  
+.  
 A yotyjg gentleman Ht chinch con­  
 ceived n moat sudden and violent  
 passion /ora young Udv in the next  
@@ -10414,7 +10428,7 @@ thine eyes that »hou shoulilst lake
 ilolj Cfl ot me, sawing 1 am a s&#x27;ranger&#x27;”  
 /le returned the b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_fairview_ver02:data:sn86076270:00332891200:1895102401:0174/pct:5.933493,43.782193,14.149098,16.556291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_fairview_ver02:data:sn86076270:00332891200:1895102401:0174/pct:5.933493,44.547461,14.149098,15.791023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10443,6 +10457,33 @@ sentence with no better succese. &#x27; He e
 is another hard nut,&#x27; said tbe  
 commercial man, as be wrote: &#x27; ffae rain  
 ceaseth; then it ccassth to rain
+</td></tr></table>
+
+---
+
+## [Tongue Twisters.](http://trove.nla.gov.au/ndp/del/article/21637862)
+
+#### From _The Queenslander (Brisbane, Qld. : 1866 - 1939)_
+
+#### 1895-11-09 &middot; [Brisbane, Queensland](http://dbpedia.org/resource/Brisbane)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+Tongue Twisters. &quot;Here&#x27;s a sentence that  
+will puzzle you to read correctly at the  
+first trial,&quot; remarked the commercial  
+man as he wrote these words on the back  
+of an old envelope:—&quot;She stood at the  
+gate welcoming him in.&quot; The hotel clerk  
+glanced at it and- confidently began.  
+&quot;She stood at, the gate weleom—--&quot; Then  
+then was a confused murmur that sounded  
+like &quot; mingmingming.&quot; The newspaper man  
+then tackled the sentence wfth no bettor  
+success. &quot;.Here is .another hard nut,&quot;  
+said the commercial man as he  
+wrote:—&quot;The rain ceasctni then it  
+ceaseth to rain.
 </td></tr></table>
 
 ---
@@ -11046,6 +11087,21 @@ but&#x27; I tiust I shall shortly see thee,
 nnd we shall speak face to face.&#x27; From &#x27;  
 the abote &#x27; interview the marringo took  
 j)lace th
+</td></tr></table>
+
+---
+
+## [CURRENT TOPICS](http://trove.nla.gov.au/ndp/del/article/36058352)
+
+#### From _Burra Record (SA : 1878 - 1954)_
+
+#### 1896-06-10 &middot; [Burra, South Australia](http://dbpedia.org/resource/Burra%2C_South_Australia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+— A young gentleman at  
+church conceived a most sudden and  
+violent passion for a young
 </td></tr></table>
 
 ---

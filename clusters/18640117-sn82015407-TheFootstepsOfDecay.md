@@ -1,7 +1,7 @@
 
 # The Footsteps of Decay
 
-### 303 reprints from 1824-01-01 to 1899-07-13
+### 304 reprints from 1824-01-01 to 1899-07-13
 
 ## [The Footsteps of Decay](http://chroniclingamerica.loc.gov/lccn/sn82015407/1864-12-17/ed-1/seq-1/)
 
@@ -722,7 +722,7 @@ How pleasur
 
 ---
 
-## LITERARY RECREATIONS
+## [LITERARY RECREATIONS](http://search.proquest.com/docview/136116178/fulltext/)
 
 #### From _Mutual Rights and Methodist Protestant (1824-1825)_
 
@@ -732,7 +732,7 @@ How pleasur
 
 ---
 
-## LITERARY RECREATIONS
+## [LITERARY RECREATIONS](http://search.proquest.com/docview/136116178/fulltext/)
 
 #### From _Mutual Rights and Methodist Protestant (1824-1825)_
 
@@ -2357,7 +2357,7 @@ That path alone, of
 
 ---
 
-## POETRY.
+## [POETRY.](http://search.proquest.com/docview/126269283/fulltext/)
 
 #### From _United States Catholic Miscellany (1822-1835)_
 
@@ -2686,16 +2686,99 @@ When age comes on. Flowarp. |
 
 ---
 
+## [From _Daily national intelligencer._](https://www.loc.gov/resource/sn83026172/1830-10-13/ed-1/?sp=2)
+
+#### 1830-10-13 &middot; [Washington City [D.C.]](http://dbpedia.org/resource/Washington%2C_D.C.)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+v  
+  
+The I’ollowing is a translation from an an­  
+cient Spanish I’oel n, which, says the Edin­  
+burgh Review, is surpassed by nothing with  
+which we are acquainted in the Spanish lan­  
+guage, except the Odes of Lewis de Leon.  
+Oh ! let the soul its slumbers break,  
+Arouse its senses and awake,  
+To see how sbon  
+Life, like its glories, glides away,  
+And the stern footsteps of decay  
+Come stealing on.  
+  
+And while we view the rollingtide,  
+Down which our flowing.minutes glide  
+Away so fast,  
+Let us the present hour employ,  
+And deem each future dream a joy  
+Already past.  
+  
+Let no vain hope deceive the mind—  
+No happier let us hope to find  
+To-morrow than to-day ;  
+Our golden creams of yore w. rc bright,  
+Like them tlie present shall delight—  
+Like them decay.  
+  
+Our lives like hasting streams must be,  
+That into one ingulphing sea  
+Are doomed to fall —  
+The sea of death, whose waves roll on,  
+O’er king and kingdom, crown and throne.  
+And swallow all.  
+  
+Alike the river’s lordly tide,  
+Alike the humble riv’iet’s glide  
+  
+To that sad wave ;  
+Death levels poverty and pride,  
+And rich and poor sleep side by side  
+Within the grave.  
+  
+Our birth is but a starting place !  
+Life is the running of the race ;  
+And death the goal :  
+There all those glittering toys are brought,  
+That path alone, of all unsought,  
+Is found of all.  
+  
+Say, then, how poor and little worth  
+Are all those glittering toys of earth,  
+That lure us here ?  
+Dreams of a sleep that death must break,  
+Alas ! before it bids us wake,  
+We disappear !  
+  
+Long ere the lamp of death can blight,  
+The cheek’s pure glow of red and white  
+Has passed away ;  
+Youth smiled, and all was heavenly fair ;  
+Age came and laid his finger there,  
+And where are they ?  
+  
+Where is the strength that spurned decay,  
+The step that rolled so light and giy,  
+  
+The heart&#x27;s blithe tone ?  
+The strength is gone, the step is slow,  
+And joy grows wearisome and wo  
+When age comes on.  
+  
+We have
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_camilla_ver01:data:sn83026172:print:1830101301:0002/pct:66.354975,2.400254,14.237826,36.878080/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Martinsburg gazette and public advertiser._](https://www.loc.gov/resource/sn85059526/1830-10-21/ed-1/?sp=1)
 
 #### 1830-10-21 &middot; [Martinsburg, Va. [W. Va.]](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-: THURSDAY, OCTOBER 21, 1330- Nc, 43  
-  
-«L~: rrpi ■  
-PCDSTSTF  
+F  
 1 he following is a translation from an an­  
 cient Spanish Poem, which, says the Edin­  
 burgh Review, is surpassed by nothing nith  
@@ -2754,7 +2837,7 @@ And joy grovis wearisome and vv*&gt;
 When age comes on.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830102101:0388/pct:0.722733,10.320939,92.882173,38.060229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830102101:0388/pct:0.722733,13.714124,19.820412,34.667044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2766,11 +2849,7 @@ When age comes on.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, SATURDAY, OCTOBER 23, 1830.  
-  
-No. 43.  
-  
-Vou IV.  
+.  
   
 POETRY.  
   
@@ -2854,9 +2933,9 @@ And joy grows wearisome and wo
   
 When age comes on.  
   
-SELECT
+SELECT TALES.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_philadelphia-album-and-ladies-literary-port-folio_the-philadelphia-album-a_1830-10-23_4_43%2Fsim_philadelphia-album-and-ladies-literary-port-folio_the-philadelphia-album-a_1830-10-23_4_43_jp2.zip%2Fsim_philadelphia-album-and-ladies-literary-port-folio_the-philadelphia-album-a_1830-10-23_4_43_jp2%2Fsim_philadelphia-album-and-ladies-literary-port-folio_the-philadelphia-album-a_1830-10-23_4_43_0000.jp2/pct:7.849526,14.846612,82.479265,52.735806/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_philadelphia-album-and-ladies-literary-port-folio_the-philadelphia-album-a_1830-10-23_4_43%2Fsim_philadelphia-album-and-ladies-literary-port-folio_the-philadelphia-album-a_1830-10-23_4_43_jp2.zip%2Fsim_philadelphia-album-and-ladies-literary-port-folio_the-philadelphia-album-a_1830-10-23_4_43_jp2%2Fsim_philadelphia-album-and-ladies-literary-port-folio_the-philadelphia-album-a_1830-10-23_4_43_0000.jp2/pct:7.849526,19.768773,20.260664,47.813645/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2868,7 +2947,7 @@ SELECT
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
   
 The following U a translation from ao ancient Spanish  
 foetn, which, aeysthe Edinburgh Review, Is surpassed  
@@ -3014,7 +3093,8 @@ The step that rolled so light and gay,
 The heait’s bhthe tone ?  
 The strength is gone. the step is slow,  
 And joy grows wearisome and we  
-Whenage comeson.
+Whenage comeson.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_distraughtsoul_ver03:data:sn83025643:00513689184:1830111001:0360/pct:33.338717,48.050554,14.682604,34.231549/!600,600/0/default.jpg"/>
 </td>
@@ -3121,16 +3201,9 @@ The heart&#x27;s blithe tone ?
 The strength is gone, the step is slow,  
 And joy grows wearisome and wo  
 When age comes on.  
-  
-  
-  
-  
-  
-“  
-  
-©
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_religious-intelligencer_1830-12-04_15_27%2Fsim_religious-intelligencer_1830-12-04_15_27_jp2.zip%2Fsim_religious-intelligencer_1830-12-04_15_27_jp2%2Fsim_religious-intelligencer_1830-12-04_15_27_0015.jp2/pct:7.168459,9.784946,72.132616,68.306452/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_religious-intelligencer_1830-12-04_15_27%2Fsim_religious-intelligencer_1830-12-04_15_27_jp2.zip%2Fsim_religious-intelligencer_1830-12-04_15_27_jp2%2Fsim_religious-intelligencer_1830-12-04_15_27_0015.jp2/pct:7.168459,12.876344,38.844086,65.215054/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3156,7 +3229,7 @@ When age comes on.
 
 ---
 
-## POETRY.
+## [POETRY.](http://search.proquest.com/docview/126468230/fulltext/)
 
 #### From _Trumpet and Universalist Magazine (1828-1851)_
 
@@ -3626,9 +3699,11 @@ Life is the running of th race:
 And death the goal !  
 There all those glittering toys are brought,  
 That pti It alone of all tmsougbt,  
-Is found of all.
+Is found of all.  
+  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat11n_ver01%2Fdata%2F1831011201%2F0467.jp2/pct:30.935403,25.113485,17.680369,26.395194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat11n_ver01%2Fdata%2F1831011201%2F0467.jp2/pct:7.193792,25.113485,41.421980,46.261682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3676,9 +3751,7 @@ WJieu, age comes on.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-POLTRY.  
-i  
-—_—  
+—  
 The following is a translation from an ancient Span­  
 ish Poem, which, says the Eciuburgh Review, is sur­  
 passed by nothing with which we are acquainted in the  
@@ -3739,9 +3812,83 @@ Aud joy grows wearisome and wo
 When age comes on.  
   
 Wishing for Death.—The habit of avoid­  
-ing personal danger, or the instinet, t
+ing personal danger, or the instinet, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831051701:0499/pct:12.066116,8.772105,16.393689,31.411729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831051701:0499/pct:12.066116,9.921071,16.393689,30.262764/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Arkansas gazette._](https://www.loc.gov/resource/sn82016482/1831-06-01/ed-1/?sp=4)
+
+#### 1831-06-01 &middot; [Arkansas Post, Ark. Ter.](http://dbpedia.org/resource/Arkansas_Post)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+I9  
+The following is a translation from an ancient  
+Spanish poem/ which, says the Edinburgh Re­  
+view, is surpassed by nothing with which we are  
+acquainted in the Spanish language, except the  
+Odes of Lewis de Leon:  
+Oh! let the soul its slumbers break.  
+Arouse its senses and awake.  
+To see how soon  
+Life like its glories, glides away,  
+And the stern footsteps of decay  
+Come stealing on.  
+And while we view the rolling tide,  
+Down which our flowing minutes glide  
+Away so fast,  
+Let us the present hour employ.  
+And deem each future dream a joy  
+Already past.  
+Let no vain hope deceive the mind—  
+No happier let us hope to find  
+To-morrow than to-day—  
+Our golden dreams of yore were bright,  
+Like them the present shall delight—  
+O Like them decay.  
+Our lives like hasting dreams must be,  
+That into one engulphing sea  
+Are doomed to fall­  
+The sea of death, whose waves roll on,  
+O&#x27;er king and kingdom, crown and throne,  
+And swallow all.  
+Alike the river’s lordly tide.  
+Alike the humble riv’let’s glide  
+. To that sad wave—  
+Death levels poverty and pride.  
+And rich and poor sleep side by side  
+Within the grave.  
+Our birth is but a starting place,  
+Life is the running of the race,  
+And death the goal;  
+There all those glittering toys are brought,  
+The path alone, of all unsought,  
+is found of all.  
+Sy, then, how poor and little worth,  
+Are all those glittering toys of earth,  
+That lure us here ?  
+Dreams of a sleep that death must break,  
+Alas before it bids us wake,  
+We disappear!  
+Long ere the lamp of death ean blight,  
+The cheek’s pure glow of red and white  
+Has passed away;  
+Youth smiled, and all was heavenly fair;  
+- Age came and laid hi* finger there,  
+And where are they ?  
+Where is the strength that spurn’d decay,  
+The step that rolled so light and gay.  
+The heart’s blithe tone ?  
+The strength is gone, the step is slow,  
+And joy grows wearisome and wo  
+When age comes on.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fluorite_ver01:data:sn82016482:00516990661:1831060101:0355/pct:3.345471,8.620449,18.206645,37.006556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3763,7 +3910,7 @@ ing personal danger, or the instinet, t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
   
 The following is a translation from an ancient  
 Spanish poem, which, says the Edinburgh Review,  
@@ -4155,11 +4302,7 @@ When age comes on.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-88  
-  
-POETRY.  
-e  
-TRANSLATION.  
+.  
 The following is a translation from an ancient Spanish  
 poem, which, says the Edinburg Review, is surpassed  
 by nothing with which we are acquainted in the Span­  
@@ -4218,11 +4361,9 @@ The step that rolled so light and gay,
 The heart’s blithe tone?  
 The strength is gone, the step is slow,  
 And joys grow wearisome and wo,  
-When age comes on.  
-  
-SABBATH
+When age comes on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84024361:00542868740:1831093001:0586/pct:6.021849,4.318223,21.316280,51.442394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84024361:00542868740:1831093001:0586/pct:6.075140,8.439348,21.262990,45.762408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4252,7 +4393,7 @@ we understand and usually speak, you in you
 
 ---
 
-## TRANSLATION FROM THE SPANISH.
+## [TRANSLATION FROM THE SPANISH.](http://search.proquest.com/docview/89931341/fulltext/)
 
 #### From _The Catholic Telegraph (1831-1846)_
 
@@ -4388,7 +4529,7 @@ Colonization Society, a
 
 ---
 
-## Poem 1 -- No Title
+## [Poem 1 -- No Title](http://search.proquest.com/docview/126376421/fulltext/)
 
 #### From _United States Catholic Miscellany (1822-1835)_
 
@@ -4722,7 +4863,7 @@ When age comes o
 
 ## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1837-05-13_7_19/page/n3/mode/1up?view=theater)
 
-#### 1837-05-13
+#### 1837-05-13 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5144,7 +5285,7 @@ When age comes on.
 
 ---
 
-## LIFE.
+## [LIFE.](http://search.proquest.com/docview/126227006/fulltext/)
 
 #### From _Southern Rose (1835-1839)_
 
@@ -5233,7 +5374,7 @@ R
 
 ## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1839-08-10_9_31/page/n3/mode/1up?view=theater)
 
-#### 1839-08-10
+#### 1839-08-10 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5470,7 +5611,7 @@ When age comes on.
 
 ## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1839-10-05_9_39/page/n3/mode/1up?view=theater)
 
-#### 1839-10-05
+#### 1839-10-05 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5768,7 +5909,7 @@ and our questionings of the clements, or of the
 
 ## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1841-04-10_11_15/page/n3/mode/1up?view=theater)
 
-#### 1841-04-10
+#### 1841-04-10 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5817,7 +5958,7 @@ Life is the running of the race,
 
 ## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1841-04-10_11_15/page/n3/mode/1up?view=theater)
 
-#### 1841-04-10
+#### 1841-04-10 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6371,7 +6512,7 @@ When age comes on.
 
 ## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1848-02-12_18_7/page/n3/mode/1up?view=theater)
 
-#### 1848-02-12
+#### 1848-02-12 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6961,7 +7102,7 @@ come, they all cried, in one
 
 ## [From _The Christian Freeman_](https://archive.org/details/christian-freeman-1856_1864-07_8_7/page/n15/mode/1up?view=theater)
 
-#### 1864-07-01
+#### 1864-07-01 &middot; [Belfast, Northern Ireland](http://dbpedia.org/resource/Belfast)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8362,7 +8503,7 @@ The heart&#x27;s blithe tone 1
 The strength is gone the step is slow,  
 And joy grows wearysome and wo !  
 When age comes on.  
-LOVE I
+LOVE IS A STAGE COAC
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn85025182:00212477898:1865030801:0146/pct:18.250419,24.231720,12.660704,40.586365/!600,600/0/default.jpg"/>
 </td>
@@ -8593,7 +8734,7 @@ The
 
 ## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1865-04-15_35_15/page/n0/mode/1up?view=theater)
 
-#### 1865-04-15
+#### 1865-04-15 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10511,9 +10652,7 @@ When age comes o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-.f I  
-0. let the soul Its slnmber break.  
+. let the soul Its slnmber break.  
 Arouse its sense, aad awake,  
 To see how soon  
 Life, in its glories, glide away.  
@@ -10555,7 +10694,7 @@ laat lore us Bars:
 Praams of a sleep that death most break, .  
 Ala 1 b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:0023728687A:1867092501:0481/pct:34.993532,12.299808,9.831824,17.373479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:0023728687A:1867092501:0481/pct:35.996119,12.312620,8.829237,14.490711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11357,7 +11496,7 @@ The senlo
 
 ---
 
-## LITERATURE.
+## [LITERATURE.](http://search.proquest.com/docview/127572766/fulltext/)
 
 #### From _Prairie farmer._
 
@@ -11367,7 +11506,7 @@ The senlo
 
 ---
 
-## LITERATURE.
+## [LITERATURE.](http://search.proquest.com/docview/127572766/fulltext/)
 
 #### From _Prairie farmer._
 
@@ -11477,8 +11616,7 @@ and the stern footsteps of deca
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-The Footstens of Decay.  
+ Footstens of Decay.  
 The following is a translationfram an anclen  
  tatnaientea  
 viche, is surpassed by nothing with which we  
@@ -14289,7 +14427,7 @@ The heart&#x27;s blithe time I
 The strength ia gone, the atep la slow.  
 And jor grows wearisome and wo,  
 - When age comes on!  
-TH
+THE PAHT 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:0029455564A:1872031401:0405/pct:68.339416,17.430802,12.500000,22.909865/!600,600/0/default.jpg"/>
 </td>
@@ -14910,6 +15048,7 @@ canoes ; established friendly
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+  
 TEE FOOTSTEPS OF DECAY.  
 The following Is a translation from an  
 ancient Spanish poem, wulch.sayg the Ed  
@@ -15064,7 +15203,7 @@ When age comes on
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 THE fOOTNTFPtt OF DEC AT  
   
 TUe following is a translation from an an­  
@@ -15717,7 +15856,7 @@ A gentleman just in from th
 
 ---
 
-## A Psalm of Life
+## [A Psalm of Life](http://search.proquest.com/docview/124247982/fulltext/)
 
 #### From _Christian secretary._
 
@@ -15727,7 +15866,7 @@ A gentleman just in from th
 
 ---
 
-## Eight Gems
+## [Eight Gems](http://search.proquest.com/docview/124268636/fulltext/)
 
 #### From _Christian secretary._
 
@@ -16011,7 +16150,7 @@ II. A. P., in tbe Observer
 
 ---
 
-## A SPANISH POEM
+## [A SPANISH POEM](http://search.proquest.com/docview/127575812/fulltext/)
 
 #### From _Prairie farmer._
 
@@ -16365,54 +16504,6 @@ earth Thatluteushere? Dreams of a sleep
 that death must break, Alas ! befora it  
 bids us wake, Ye disappear !
 </td></tr></table>
-
----
-
-## [From _The Hickman courier._](https://www.loc.gov/resource/sn85052141/1876-09-08/ed-1/?sp=1)
-
-#### 1876-09-08 &middot; [Hickman, Ky.](http://dbpedia.org/resource/Hickman%2C_Kentucky)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-.  
-  
-A SPAXISIl 1&#x27;OEM.  
-Oh ! let the soul its slnraliers break,  
-Arouse Us slumbers and awake,  
-To see how soon  
-Life, with its glory glide awsr.  
-And the siern loouueps of dec-ay  
-Come stcaiioc on.  
-And while we eve therollins tide  
-Hown which our flawing minutes fcli.la  
-Away ki ff  
-I-et us the prewnt hour employ.  
-And deem each future dream of joy  
-Already past.  
-It no mln hne deceive 11 he mlud  
-No happier lei us hoi to find  
-1 o-morrow than to-flay.  
-Our K&#x27;Iden dreams of yore were bright­  
-Like tbcm the present shall delight,  
-Like tliciu decay.  
-n,ir lives like hustins; streams must be,  
-That into one engultinc sea  
-Are doomed to f .ill  
-The aea of .loath, whose wavei roll o  
-O er king and kingdom, crown and throne,  
-Aud swallow ail-  
-Alike the liver&#x27;s lordly tide,  
-Al.ke the humble riv&#x27;lefs glide  
-To that sad wave;  
-Peitb levels proerty and pride.  
-And rich and poor sleep si le by side  
-Within therave.  
-Oiti birth is but the Martin place.  
-Life is the runni
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195192:1876090801:0173/pct:16.139241,14.312210,7.886076,11.324060/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 

@@ -1,7 +1,7 @@
 
 # Hawthorne Truly Says
 
-### 134 reprints from 1897-04-08 to 1898-10-03
+### 124 reprints from 1897-04-08 to 1898-07-21
 
 ## [Hawthorne Truly Says](https://chroniclingamerica.loc.gov/lccn/sn82014635/1897-04-09/ed-1/seq-8/)
 
@@ -725,27 +725,6 @@ stead, of the family.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-Wichita, Kan., April 3.  
-air. E. E. Bleckley, P. and T. A., Mo. Pac  
-Ry., Wichita, Kan  
-Dear Sir The undersigned, who were  
-appointed a committee by Wichita Coun­  
-cil, No 39, United Commercial Travelers,  
-to arrange for
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897041701:0604/pct:4.814593,65.513908,12.186005,3.243475/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-04-17/ed-1/?sp=8)
-
-#### 1897-04-17 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
   
 Katrtliorne Truly Jy:  
 &quot;These railroads are positively the  
@@ -820,27 +799,6 @@ descriptive literature. W. J. Black. G.
 P. A., A. T. &amp; S. F. Ry., Topeka, Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871350:1897042001:0137/pct:70.323488,72.348830,12.605485,17.836524/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Wichita daily eagle._](https://www.loc.gov/resource/sn82014635/1897-04-20/ed-1/?sp=8)
-
-#### 1897-04-20 &middot; [Wichita, Kan.](http://dbpedia.org/resource/Wichita%2C_Kansas)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-.  
-Wichita, Kan., April 3.  
-air. E. E. Bleckley, P. and T. A., Mo. Pac  
-Ry., Wichita, Kan  
-Dear Sir The undersigned, who were  
-appointed a committee by Wichita Coun­  
-cil, No 39, United Commercial Travelers&#x27;,  
-to arrange for
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897042001:0624/pct:5.683174,66.737899,12.156921,3.194786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -927,9 +885,7 @@ P. A., A. T. &amp; S. F. Ry.. Topeka. Kan
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
-’ ner and Herbert B. Viall of Keene,  
-i SECURES HIS BOND.  
+.  
 NASHUA, April 14.—Solomon Spald­  
 ! ing, president of the New Hampshire  
 - Banking company, and father of C. W.  
@@ -943,7 +899,7 @@ stock farm. A carload of horses from
 Red Oak, la., arrived there yesterday. It  
 is the old homestiead of the family
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_carrigain_ver01:data:sn90062623:00517015684:1897042101:0187/pct:30.950729,81.516922,12.421929,6.214746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_carrigain_ver01:data:sn90062623:00517015684:1897042101:0187/pct:30.950729,82.856567,12.421929,4.875101/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3643,24 +3599,6 @@ The
 
 ---
 
-## [From _The Irish standard._](https://www.loc.gov/resource/sn90059959/1897-08-07/ed-1/?sp=4)
-
-#### 1897-08-07 &middot; [Minneapolis, Minn. ;](http://dbpedia.org/resource/Minneapolis)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- and  
-character.  
-  
-C. W. Spalding, president of the de­  
-funct Globe Savings bank, of Chicago
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742861:1897080701:0061/pct:68.911040,27.025079,12.262554,2.925915/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1897-08-26/ed-1/?sp=4)
 
 #### 1897-08-26 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
@@ -3727,7 +3665,7 @@ W
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nce.  
+  
   
 Rock Island Route Playing Cards.  
 The slickest cards on the market are  
@@ -3746,7 +3684,7 @@ Chicago.
 -9  
 It Saves the Croup
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897090201:0092/pct:37.090848,60.209363,14.195057,9.985886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897090201:0092/pct:37.090848,61.573747,14.195057,8.621501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3811,34 +3749,6 @@ THE
 KAN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1897090201:0092/pct:22.160989,58.233357,43.770875,38.085156/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Audubon Republican._](https://www.loc.gov/resource/sn87057928/1897-09-09/ed-1/?sp=1)
-
-#### 1897-09-09 &middot; [Audubon, Iowa](http://dbpedia.org/resource/Audubon%2C_Iowa)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-   
-  
-Rock Island Route Playing Cards.   
-The slickest cards on the market are  
-he “Rock Island’s.” They are also the  
-heapest, and will send you these ex  
-ellent standard goods at the low rute of  
-cents per pack if you order five or more  
-lacks. Send monev order, draft or  
-tamps and they will be sent promptly  
-iy express, charges prepaid. Orders for  
-ingle packs must contain 12 cents in  
-tamps, as they will be sent by mail,  
-kddress. John Sebastian, G. P. A.,  
-Chicago.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn87057928:00340584417:1897090901:0282/pct:78.618765,60.533104,13.271713,6.669942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4021,31 +3931,6 @@ Them awlhoaatnd
 
 ---
 
-## [From _Tombstone prospector._](https://www.loc.gov/resource/sn95060903/1897-09-17/ed-1/?sp=4)
-
-#### 1897-09-17 &middot; [Tombstone, Ariz.](http://dbpedia.org/resource/Tombstone%2C_Arizona)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-, but of no avail and was gtvon  
-up and told I could not live. Having  
-Dr. King&#x27;s Xew Discovery in my store  
-I sent w, a bottle anil began its use  
-and from the first dose began to got bot-  
-tpr Rnil ftftrr mine- thn a hot! 1a w,14 11 n  
-., ...... ., ,.  
-and about again. It is worth te  
-weight in goll. We won&#x27;t keep etoro  
-or house &#x27;vitliout it.&quot; tjet a Irco t ibII  
-the Tombstone Drug Store.  
-Owircta Canlv Catlia
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_dragonfly_ver01:data:sn95060903:0021110711A:1897091701:0885/pct:44.144144,31.829060,11.858370,6.615385/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Alexandria gazette._](https://www.loc.gov/resource/sn85025007/1897-09-22/ed-1/?sp=2)
 
 #### 1897-09-22 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
@@ -4210,40 +4095,19 @@ P. A., A. T. &amp; S. F. By., Topeka, Ma
 
 ---
 
-## [From _Smyrna times._](https://www.loc.gov/resource/sn84020422/1897-10-20/ed-1/?sp=2)
+## [From _Smyrna times._](https://www.loc.gov/resource/sn84020422/1897-10-06/ed-1/?sp=2)
 
-#### 1897-10-20 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
+#### 1897-10-06 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s and  
-exciting moment for Mr. Beck and  
-family.  
+ rule.  
 &quot;Many have said their children  
 would have died of croup, if Chamber­  
 berlain&#x27;s Cough Remedy had not been  
-given,&quot; write Kellam &amp; Ourran,
+given,&quot; write Kellam &amp; Onrra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_batman_ver01:data:sn84020422:00514156165:1897102001:0428/pct:40.483718,90.301870,10.749289,3.638207/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Smyrna times._](https://www.loc.gov/resource/sn84020422/1897-10-27/ed-1/?sp=2)
-
-#### 1897-10-27 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- to attend the State Con­  
-vention, Christian Endeavor.  
-&quot;Many have said their children  
-would have died of croup, if Chamber­  
-berlaiu&#x27;s Cough Remedy had not been  
-given,&quot; write Kellam * Ourran,
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_batman_ver01:data:sn84020422:00514156165:1897102701:0432/pct:63.135856,82.564390,10.530397,3.001120/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_batman_ver01:data:sn84020422:00514156165:1897100601:0420/pct:74.516334,36.165723,11.005392,2.710208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4840,67 +4704,6 @@ P. A., A. T. &amp; S. F. Ry., Topeka. Kas.
 
 ---
 
-## [From _The Goodland republic._](https://www.loc.gov/resource/sn85030821/1898-03-25/ed-1/?sp=2)
-
-#### 1898-03-25 &middot; [Goodland, Kan.](http://dbpedia.org/resource/Goodland%2C_Kansas)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- Clerk.  
-Rock Island Route Playing Cards  
-The slickest cards on the market-are  
-the &quot;Rock Island&#x27;s.&quot; They are also the  
-cheapest, and we will send you these  
-excellent standard goods at the low  
-rate of nine cents per pack if you order  
-five or more packs. Send money or­  
-der, draft or stamps and they will be  
-sent promptly by express, charges pre­  
-paid. Orders for single packs must  
-contain 12 cents in stamps, as they will  
-be sent by mail. &#x27; Address,  
-John Sebastian, G. P. A., Chicago.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030821:0021247289A:1898032501:0075/pct:44.220817,48.468061,12.722829,8.479367/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Goodland republic._](https://www.loc.gov/resource/sn85030821/1898-04-08/ed-1/?sp=3)
-
-#### 1898-04-08 &middot; [Goodland, Kan.](http://dbpedia.org/resource/Goodland%2C_Kansas)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-The slickest cards on the market are  
-the Rock Island&#x27;s.&quot; They are also the  
-  
-cheapest, and we will send you these  
-excellent standard goods at the low  
-  
-rate of nine cents per pack if you order  
-  
-five or more packs, bend money or  
-  
-der, draft or stamps and they will be  
-sent promptly by express, charges pre  
-  
-paid. Orders for single packs must  
-  
-contain 12 cents in stamps, as they will  
-  
-be sent by mail. Address,  
-Johx Sebastian, G. P. A., Chicago.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030821:0021247289A:1898040801:0084/pct:17.081448,63.360415,12.500000,6.025728/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Globe-republican._](https://www.loc.gov/resource/sn84029853/1898-06-16/ed-1/?sp=4)
 
 #### 1898-06-16 &middot; [Dodge City, Kan.](http://dbpedia.org/resource/Dodge_City%2C_Kansas)
@@ -5228,56 +5031,6 @@ P. A., A. T. &amp; S. F. Ry., Topeka, Kas.
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283065:1898072101:0459/pct:19.325050,72.634210,14.237743,11.879538/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Goodland republic._](https://www.loc.gov/resource/sn85030821/1898-08-05/ed-1/?sp=5)
-
-#### 1898-08-05 &middot; [Goodland, Kan.](http://dbpedia.org/resource/Goodland%2C_Kansas)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-contain 12 cents in stamps, as they will  
-be sent by maiL Address,  
-Joirs Sebastian, G. P. A-, Chicago.  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030821:0021247289A:1898080501:0154/pct:44.176214,81.934389,11.974905,2.228507/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Las Vegas daily optic._](https://www.loc.gov/resource/sn86063592/1898-10-03/ed-1/?sp=3)
-
-#### 1898-10-03 &middot; [Las Vegas, N.M.](http://dbpedia.org/resource/Las_Vegas%2C_New_Mexico)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-.  
-The aliokest cards on tbe market are the  
-  
-Rock laUnd&#x27;s.&quot; They are also the cheat)-  
-  
-est, end w will send you these excellent  
-  
-tandard goods at tbe low rate of nine  
-  
-cents per pack If you order flye or more  
-packs. Send money order, draft or stamps  
-and they will be sent promptly by express,  
-oharges prepaid. Orders for stogie paok  
-must contain twelve cents in stamps, as  
-tboy will be sent by mail. AddresB,  
-  
-JOHN SEBASTIAN U. P. A.,  
-Chicag
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_bronte_ver01:data:sn86063592:00415626721:1898100301:0115/pct:19.783930,65.552151,10.719109,4.742241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

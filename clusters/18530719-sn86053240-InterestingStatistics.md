@@ -1,7 +1,7 @@
 
 # Interesting Statistics
 
-### 573 reprints from 1851-10-18 to 1898-09-25
+### 574 reprints from 1851-10-18 to 1898-09-25
 
 ## [Interesting Statistics](https://chroniclingamerica.loc.gov/lccn/sn86053240/1853-07-19/ed-1/seq-1/)
 
@@ -68,7 +68,7 @@ in Africa, and 1264 in America. Th
 
 ## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1851-11-15_21_46/page/n1/mode/1up?view=theater)
 
-#### 1851-11-15
+#### 1851-11-15 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -111,7 +111,7 @@ in Asia, 276 in Africa, and 1264 in Ame-
 
 ---
 
-## THE GOSPEL HAS NOTHING TO DO WITH INFANTS.
+## [THE GOSPEL HAS NOTHING TO DO WITH INFANTS.](http://search.proquest.com/docview/137494443/fulltext/)
 
 #### From _German reformed messenger._
 
@@ -1300,10 +1300,9 @@ about by green fields, and the contagious influ­
 ence of bobolinks and yellow birds while those  
 which happen in December are brought about,  
 in a degree, by mixing plain mathematics with  
-the market value of flannel under-garments.—  
-.V. Y. Dutchman.
+the market value of flannel under-garments.—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1853072701:0418/pct:2.429652,23.176570,22.300731,3.782972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1853072701:0418/pct:2.429652,23.176570,22.300731,3.416878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2629,7 +2628,7 @@ deaths are more frequen
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-een oi rrussia.  
+.  
 The whole number of languages spoken in the  
 world amounts to 3C64; 587 in Europe, 936 in  
 Asia, 276 in Africa, and 1264 in America. The  
@@ -2645,7 +2644,7 @@ this enioy a felicity refused to one-half the human
 SDacies To every 1000 persons only one reaches  
 OOjeirsin life; .o every 10
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016866:00295877625:1853100101:0194/pct:33.343266,83.547616,14.883790,7.736944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016866:00295877625:1853100101:0194/pct:33.343266,84.571624,14.883790,6.712937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4190,7 +4189,7 @@ night than by day. The number of men
 capable of bearing arms is calculated at  
 one fourth of the population. English  
   
-learterey
+learterey.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1854030801:0038/pct:49.779398,60.245211,22.443890,24.122605/!600,600/0/default.jpg"/>
 </td>
@@ -4320,7 +4319,7 @@ more robust than others. B
 
 ---
 
-## LITTLE-OR-NOTHINGS.
+## [LITTLE-OR-NOTHINGS.](http://search.proquest.com/docview/126345241/fulltext/)
 
 #### From _Home Journal (1846-1856)_
 
@@ -4370,11 +4369,10 @@ Mitnit
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Es, of this city.  
+ this city.  
 The whole number of languages spoken in th  
 world amounts to 30644: 587in Europe, 386 in  
-Asia, 276 in Africa, and 1264 in America  
-
+Asia, 276 in Africa, and 1264 in Americ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475361:1854040401:0428/pct:69.732577,92.719780,12.621556,2.121490/!600,600/0/default.jpg"/>
 </td>
@@ -5028,7 +5026,7 @@ followers
 
 ---
 
-## LESSER GOSSIP.
+## [LESSER GOSSIP.](http://search.proquest.com/docview/126368778/fulltext/)
 
 #### From _Home Journal (1846-1856)_
 
@@ -5038,7 +5036,7 @@ followers
 
 ---
 
-## INGENUITY OF SCIENCE.
+## [INGENUITY OF SCIENCE.](http://search.proquest.com/docview/137536470/fulltext/)
 
 #### From _German reformed messenger._
 
@@ -5875,6 +5873,22 @@ ted at one-fourth of the po] ilation
 
 ---
 
+## [From _The Nevada journal._](https://www.loc.gov/resource/sn84026884/1854-08-04/ed-1/?sp=1)
+
+#### 1854-08-04 &middot; [Nevada City, Calif.](http://dbpedia.org/resource/Nevada_City%2C_California)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ free.  
+When a man sounds his own trumpet,  
+be sure there’s a crack in it.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557487:1854080401:0743/pct:53.070107,91.818083,14.503342,2.273964/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Hillsborough recorder._](https://www.loc.gov/resource/sn84026472/1854-08-09/ed-1/?sp=2)
 
 #### 1854-08-09 &middot; [Hillsborough, N.C.](http://dbpedia.org/resource/Hillsborough%2C_North_Carolina)
@@ -5923,7 +5937,10 @@ a e
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- e  
+ I was shawn tee it noltsud bpanc tis wor, stone was felt unturned by our opponents, and  
+  
+a   a  e ee eo t  
+aae  e a  o o o e  
 live longer than short ones. Women  
 have more chances of life in their favor,  
 previons to being fifty years of age,  
@@ -5935,9 +5952,9 @@ equinoxes; during the months of June
 and December. Thase  
 is calculated at one-fourth of the po  
 pulation. Enghsh QuarterlY.  
-o 
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1854080901:1085/pct:6.110572,74.993440,14.510184,11.834164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1854080901:1085/pct:6.110572,39.464707,45.237633,47.362897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6829,7 +6846,7 @@ elatio
 
 ## [From _Jewish Chronicle_](https://archive.org/details/sim_jewish-chronicle_the-jewish-chronicle-and-the-hebrew-observer_1855-01-26_12_6/page/n1/mode/1up?view=theater)
 
-#### 1855-01-26
+#### 1855-01-26 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7881,7 +7898,7 @@ at one-fourth of tho population
 
 ## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1855-06-02_24_22/page/n3/mode/1up?view=theater)
 
-#### 1855-06-02
+#### 1855-06-02 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7900,7 +7917,7 @@ reaching 1
 
 ## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1855-06-02_24_22/page/n3/mode/1up?view=theater)
 
-#### 1855-06-02
+#### 1855-06-02 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -7928,7 +7945,7 @@ er die previous to the age of seven years;
   
   
   
-one-half before reaching seventee
+one-half before reaching seventeen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_scientific-american_1855-06-02_10_38%2Fsim_scientific-american_1855-06-02_10_38_jp2.zip%2Fsim_scientific-american_1855-06-02_10_38_jp2%2Fsim_scientific-american_1855-06-02_10_38_0000.jp2/pct:67.653061,88.850416,19.464286,1.575485/600,/0/default.jpg"/>
 </td>
@@ -8539,9 +8556,11 @@ ferred.
 o The average duration of life through  
 out the world is 33 years. One-quarter die  
 previous to the age of 7 years--one half be  
-fore reaching 17.
+fore reaching 17.  
+  
+M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058249:00271744778:1855111501:0178/pct:81.503942,65.535215,13.174651,3.241800/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058249:00271744778:1855111501:0178/pct:81.503942,65.535215,13.265616,3.953725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8591,7 +8610,7 @@ The yout
 
 ---
 
-## FACTS WORTH NOTING.
+## [FACTS WORTH NOTING.](http://search.proquest.com/docview/136606028/fulltext/)
 
 #### From _New York Observer and Chronicle (1833-1912)_
 
@@ -8709,7 +8728,7 @@ Tu
 
 ## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1856-03-01_26_9/page/n3/mode/1up?view=theater)
 
-#### 1856-03-01
+#### 1856-03-01 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8787,7 +8806,7 @@ culated at one fourth of the populatio
 
 ## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1856-05-17_26_20/page/n3/mode/1up?view=theater)
 
-#### 1856-05-17
+#### 1856-05-17 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -9488,7 +9507,11 @@ frequent by night .than by day. I &#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-^The number of men is  
+&#x27;  
+Cdbioos Fun.— The nnmiier of languages  
+tPl In the world smonnt to 3034. The  
+inhabitar* »3ie globe profess more than  
+1000 diSerent rel&#x27;r^The number of men is  
 abont eqnxl to women. D6 average of  
 human life is about 28 jam- D9 cn»rter  
 die pn(rrioas to the ace of seven years  
@@ -9981,7 +10004,7 @@ ted at about one fourth of the population
 
 ---
 
-## News of the Week.
+## [News of the Week.](http://search.proquest.com/docview/137551415/fulltext/)
 
 #### From _German reformed messenger._
 
@@ -10189,10 +10212,9 @@ Those born in spring are generally more ro­
 bust than others. Births and deaths are  
 more frequent by night than by day. Num­  
 ber of men capable of bearing arms is cal­  
-culated at one-fourth of the population.  
-(9”The London 
+culated at one-fourth of the population.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn91054100:00514151003:1858052201:0548/pct:5.809025,25.742009,13.936674,19.767884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn91054100:00514151003:1858052201:0548/pct:5.809025,25.742009,13.936674,18.873668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10535,7 +10557,7 @@ fourth the populatio
 
 ## [From _The Christian Freeman_](https://archive.org/details/christian-freeman-1856_1858-09_2_9/page/n14/mode/1up?view=theater)
 
-#### 1858-09-01
+#### 1858-09-01 &middot; [Belfast, Northern Ireland](http://dbpedia.org/resource/Belfast)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10658,11 +10680,9 @@ years, than men, but fewer afterwards_
 The number of marriages is in proportion of  
 75 to 100.  
 Hot Head Yet.  
-For the benefit of that portion of our read­  
-ers who must have been surprised in seeing  
-smong the obituary notices i
+For th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1858090401:0352/pct:32.099813,70.047544,12.595485,17.960909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1858090401:0352/pct:32.099813,70.047544,12.595485,16.547808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10927,10 +10947,9 @@ is, during the months of June and December. Tb&lt;?c
 born in spring arc generally more robust than othersBirths  
 and deaths are more frequent by night titan by  
 day. Number of men capable of beat ing arms is calcula- I  
-ted at one fourth of the imputation.  
-According to the last oensns o
+ted at one fourth of the imputation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661095:1858101501:0372/pct:78.997919,42.073629,16.888106,8.339594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661095:1858101501:0372/pct:78.997919,42.073629,16.888106,7.851240/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11439,6 +11458,26 @@ SUCCESS IN LIFE.
 
 ---
 
+## [From _Ballou's Pictorial Drawing - Room Companion (1855-1859)_](https://archive.org/details/sim_ballous-pictorial-drawing-room-companion_1858-12-18_15_25/page/n12/mode/1up?view=theater)
+
+#### 1858-12-18 &middot; [Boston](http://dbpedia.org/resource/Boston)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+^  
+The number of women is abont equal to the namber of men. The  
+married lire longer than tho single, and fewer women than men  
+die before the age of fifty, though more after that age. One-quar¬  
+ter of both sexes die before the age of seven, one-half before the  
+age of seventeen, and only one person in a tliousand reaches the  
+ag
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_ballous-pictorial-drawing-room-companion_1858-12-18_15_25%2Fsim_ballous-pictorial-drawing-room-companion_1858-12-18_15_25_jp2.zip%2Fsim_ballous-pictorial-drawing-room-companion_1858-12-18_15_25_jp2%2Fsim_ballous-pictorial-drawing-room-companion_1858-12-18_15_25_0012.jp2/pct:36.428221,52.468099,27.804998,4.852250/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Lynchburg daily Virginian._](https://www.loc.gov/resource/sn85034360/1858-12-23/ed-1/?sp=2)
 
 #### 1858-12-23 &middot; [Lynchburg [Va.]](http://dbpedia.org/resource/Lynchburg%2C_Virginia)
@@ -11622,34 +11661,6 @@ To
 
 ---
 
-## [From _Early Baptist_](https://archive.org/details/per_early-baptist_the-youths-magazine_1859_1/page/n315/mode/1up?view=theater)
-
-#### 1859-01-01
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
--The number of  
-languages spoken in the world is 4064. The number of men is about  
-equal to the number of women. The average of human life is thirty-  
-three years. One quarter die before the age of seven. One half  
-before the age of seventeen. To every thousand persons, one only  
-reaches one hundred years. To every one hundred, only six reach sevent y-  
-five years, and not more than one in five hundred will reach eighty years.  
-There are, on the carth, one thousand millions of inhabitants: of these  
-$3,333,333 die every year—91,824 die every day—7,780 every hour, and  
-60 per minute, or one every second. These losses are about balanced by  
-an equal number of births. The married are longer lived than the single ;  
-and above all, those who observe a sober and industrious conduct. Women  
-have more chances of life previous to the age of 50 years than men, but  
-fewer alter.  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_early-baptist_the-youths-magazine_1859_1%2Fper_early-baptist_the-youths-magazine_1859_1_jp2.zip%2Fper_early-baptist_the-youths-magazine_1859_1_jp2%2Fper_early-baptist_the-youths-magazine_1859_1_0315.jp2/pct:14.081367,40.819371,73.360580,23.295846/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## General Intelligence.
 
 #### From _Caledonian Mercury_
@@ -11666,7 +11677,9 @@ fewer alter.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- reacheS  
+ 100  
+  
+than one in 500 reacheS  
   
 8°&#x27;  
   
@@ -11724,7 +11737,7 @@ day. The number of men capable of
 bearing arms is or.e-fourth of the pop­  
 ulation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1859012101:0219/pct:18.866863,28.718061,19.583861,12.775715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1859012101:0219/pct:18.866863,27.506006,19.583861,13.987770/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11736,7 +11749,10 @@ ulation
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ee hundred and thirty  
+f eighty  
+years. There are on the earth one thou­  
+sand million inhabitants. Of these, thirty  
+three million three hundred and thirty  
 three die every year, ninety-one thousand  
 eight hundred and twenty-four die evry day,  
 and seven thousand seven-hundred and  
@@ -11751,7 +11767,7 @@ age of fifty years than men, but fewer after.
 The number of marriages is in proportion of  
 seventy-five to one hundred
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296029191:1859021801:0211/pct:4.467925,77.608048,10.701887,6.619473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296029191:1859021801:0211/pct:4.422642,76.179831,10.747170,8.047690/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11953,7 +11969,17 @@ it would ever
 
 ---
 
-## RENT NOT RECOVERABLE WHERE LIQUOR IS SOLD.
+## [RENT NOT RECOVERABLE WHERE LIQUOR IS SOLD.](http://search.proquest.com/docview/136631694/fulltext/)
+
+#### From _New York Observer and Chronicle (1833-1912)_
+
+#### 1859-03-24 &middot; [New York](http://dbpedia.org/resource/New_York_City)
+
+[This text is not available under an open license.]
+
+---
+
+## [RENT NOT RECOVERABLE WHERE LIQUOR IS SOLD.](http://search.proquest.com/docview/136631694/fulltext/)
 
 #### From _New York Observer and Chronicle (1833-1912)_
 
@@ -11971,7 +11997,8 @@ it would ever
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-PASS.-The number of languages  
+. MUCH INFORMATION IN  
+SMALL COMPASS.-The number of languages  
 spoken is 4,064. The number of men is  
 about equal to the numlier of women. The  
 average of human life is thirty-three  
@@ -12291,6 +12318,58 @@ Letters
 
 ---
 
+## [From _The Arkansian._](https://www.loc.gov/resource/sn87090576/1859-05-07/ed-1/?sp=1)
+
+#### 1859-05-07 &middot; [Fayetteville, Ark.](http://dbpedia.org/resource/Fayetteville%2C_Arkansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+Much INFORMATION IN a SMALL Com­  
+pass.—The number of languages spoken  
+is 4,054. The number of men is about,  
+equal to the numper of women.  
+The av­  
+erage of human life is thirty-three years.  
+One quarter die before the age of seven —  
+One half before the age of seventeen.—  
+To every one thousand persons, only one  
+reaches one hundred years. To every one  
+hundred only six reach seventy-five years;  
+and not more than one in five hundred will  
+There are on earth  
+reach eighty years.  
+one thousand millions of inhabitants. Of  
+these 33,333,333 ie every year; 92,824  
+die every day; 7,780 every hour ; and six­  
+ty per minute,  
+one every second.—  
+or  
+These losses ate about balanced by an  
+equal number of births. The married are  
+longer lived than the single ; and above all;  
+those who observe a sober and industrious  
+conduct. Tall men live longer than short  
+ones. Women have more chances of life  
+previous to the age of fifty years than  
+men, but few after. The number of mar­  
+riages are in the proportion of seveety-six  
+to one hundred. Marriages are more fre­  
+quent after the equinoxes, that is, during  
+the months of June and December.—  
+Those born in spring are generally more  
+robust than others. Births are more fre­  
+quent by night than by day. The number  
+of men capable of bearing arms is one  
+fourth of the population.—Hunt&#x27;s New  
+York Merchants&#x27; Magazine
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_ilmenite_ver01:data:sn87090576:00516990077:1859050701:0039/pct:48.693260,60.766917,14.809720,19.533835/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Montgomery County sentinel._](https://www.loc.gov/resource/sn83016209/1859-05-13/ed-1/?sp=4)
 
 #### 1859-05-13 &middot; [Rockville, Md.](http://dbpedia.org/resource/Rockville%2C_Maryland)
@@ -12470,7 +12549,7 @@ one-fourth the whole population.
   
 “there are on the earth 1,000,000,000 inhabitants, and that of these  
   
-33,333,333 die every year, 7,780 every hour, and 60 every minute,”
+33,333,333 die every year, 7,780 every hour, and 60 every minut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_scientific-american_1859-08-27_1_9%2Fsim_scientific-american_1859-08-27_1_9_jp2.zip%2Fsim_scientific-american_1859-08-27_1_9_jp2%2Fsim_scientific-american_1859-08-27_1_9_0013.jp2/pct:34.190782,64.101562,24.410504,1.523438/600,/0/default.jpg"/>
 </td>
@@ -12484,7 +12563,7 @@ one-fourth the whole population.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-: “Thenum­  
+“Thenum­  
 ber of languages spoken is 4J&amp;4. The noiaber of mea m  
 about equal to the number of women. The oreraje of  
 human bfeis thirty-three years. One-quarter die before  
@@ -12636,7 +12715,7 @@ New York Merchant&#x27;s
 
 ---
 
-## FAMILY BIBLE CLASS.
+## [FAMILY BIBLE CLASS.](http://search.proquest.com/docview/136005179/fulltext/)
 
 #### From _Christian Observer (1840-1910)_
 
@@ -12742,7 +12821,7 @@ is one fourth of the population.
 
 ## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1859-11-26_29_48/page/n3/mode/1up?view=theater)
 
-#### 1859-11-26
+#### 1859-11-26 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -13070,7 +13149,7 @@ toM
 
 ---
 
-## Family Circle.
+## [Family Circle.](http://search.proquest.com/docview/136010243/fulltext/)
 
 #### From _Christian Observer (1840-1910)_
 
@@ -13080,7 +13159,7 @@ toM
 
 ---
 
-## MR. SPURGEON AND THE NOBILITY.
+## [MR. SPURGEON AND THE NOBILITY.](http://search.proquest.com/docview/137386438/fulltext/)
 
 #### From _German reformed messenger._
 
@@ -13090,7 +13169,7 @@ toM
 
 ---
 
-## MR. SPURGEON AND THE NOBILITY.
+## [MR. SPURGEON AND THE NOBILITY.](http://search.proquest.com/docview/137386438/fulltext/)
 
 #### From _German reformed messenger._
 
@@ -13151,14 +13230,13 @@ I A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-Mevicus.—The average of human life is 33 years. One  
+—The average of human life is 33 years. One  
 quarter die before the age of 7; one-half before the age  
 of 17. To every 1000 persovs, only one reaches 1u0  
 years. To every 100, only nine reach 75 years; and no  
 more than one in 500 will reach 80 years.  
   
-L. F —Napoleon, when 
+L. F —Napoleon, when a young wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_flag-of-our-union_1860-07-28_15_30%2Fsim_flag-of-our-union_1860-07-28_15_30_jp2.zip%2Fsim_flag-of-our-union_1860-07-28_15_30_jp2%2Fsim_flag-of-our-union_1860-07-28_15_30_0003.jp2/pct:61.158907,28.837131,15.991903,2.446381/600,/0/default.jpg"/>
 </td>
@@ -13332,7 +13410,7 @@ population.
 
 ---
 
-## MANY FACTS IN SMALL COMPASS.
+## [MANY FACTS IN SMALL COMPASS.](http://search.proquest.com/docview/126991846/fulltext/)
 
 #### From _Advocate of Peace (1847-1906)_
 
@@ -14782,7 +14860,7 @@ leariDg arms is calculated at one-fourth of
 
 ---
 
-## FACTS IN HUMAN LIFE.
+## [FACTS IN HUMAN LIFE.](http://search.proquest.com/docview/137221764/fulltext/)
 
 #### From _Ohio Farmer (1856-1906)_
 
@@ -15297,24 +15375,6 @@ calculated at one-fourth of the population.
 Home Journal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022834:1867021901:0090/pct:58.343558,37.676222,12.699387,16.999530/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Mineral Point weekly tribune._](https://www.loc.gov/resource/sn86086769/1867-02-20/ed-1/?sp=1)
-
-#### 1867-02-20 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-.  
-number of births. The married are lon­  
-ger-lived than the .single. Tall men  
-live longer than short ones. Women  
-have more chat ■ s of life previous t
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769799:1867022001:0095/pct:80.060382,66.735091,12.186085,2.171564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17869,11 +17929,9 @@ proportion of 75 to every 1,000 indivich the
 uals. Marriages are more frequeuivid­  
 after equinoxes that is, during thuent  
 months of June and December. the  
-The married are longer-lived thai  
-the single, and, above all, those whdhan  
-observe a sober and industriou
+The married are longe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556849:1888122701:0429/pct:42.446043,62.327439,13.279376,6.617228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556849:1888122701:0429/pct:42.446043,62.327439,13.279376,5.636052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18592,7 +18650,8 @@ Births are more frequent by night than
 by day, also deaths.  
   
 The number of men capable of bearing  
-arms is calculated at one-fourth of th
+arms is calculated at one-fourth of the  
+population
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_new-outlook_1889-01-17_39_3%2Fsim_new-outlook_1889-01-17_39_3_jp2.zip%2Fsim_new-outlook_1889-01-17_39_3_jp2%2Fsim_new-outlook_1889-01-17_39_3_0030.jp2/pct:5.865779,9.197787,40.163934,82.676349/,600/0/default.jpg"/>
 </td>
@@ -18606,8 +18665,7 @@ arms is calculated at one-fourth of th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-LONGEVITY.  
+.  
   
 Here are some interesting facts about  
 the people who compose the population of  
@@ -18652,8 +18710,7 @@ Births are more frequent by night than
 by day, also deaths.  
   
 The number of men capable of bearing  
-arms is calculated’ at one-fourth of the  
-population
+arms is calculated’ at one-fourth of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_new-outlook_the-christian-union_1889-01-17_39_3%2Fsim_new-outlook_the-christian-union_1889-01-17_39_3_jp2.zip%2Fsim_new-outlook_the-christian-union_1889-01-17_39_3_jp2%2Fsim_new-outlook_the-christian-union_1889-01-17_39_3_0030.jp2/pct:5.180828,9.530484,40.996121,82.060266/,600/0/default.jpg"/>
 </td>
@@ -19661,28 +19718,6 @@ Electric Street Railways
 
 ---
 
-## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://archive.org/details/sim_london-reader-of-literature-science-art-and-general_1889-03-02_52_1348/page/n24/mode/1up?view=theater)
-
-#### 1889-03-02 &middot; [London, England](http://dbpedia.org/resource/London)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-grinders.  
-  
-Tae, number of marriages is in the propor  
-tion of 75 to every 1000 individuals, Mar  
-rieges are more frequent after equinoxes—  
-that is, during the months of June and  
-December.  
-  
-Tux tomato-tinning industry i
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_london-reader-of-literature-science-art-and-general_1889-03-02_52_1348%2Fsim_london-reader-of-literature-science-art-and-general_1889-03-02_52_1348_jp2.zip%2Fsim_london-reader-of-literature-science-art-and-general_1889-03-02_52_1348_jp2%2Fsim_london-reader-of-literature-science-art-and-general_1889-03-02_52_1348_0024.jp2/pct:34.001272,16.906308,25.890585,6.725417/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Pawtucket record._](https://www.loc.gov/resource/sn92064062/1889-03-05/ed-1/?sp=1)
 
 #### 1889-03-05 &middot; [Pawtucket, R.I.](http://dbpedia.org/resource/Pawtucket%2C_Rhode_Island)
@@ -20231,6 +20266,25 @@ ihdi-1 viduals. Marriages
 
 ---
 
+## [HOME AND FOREIGN ITEMS.](http://trove.nla.gov.au/ndp/del/article/52277373)
+
+#### From _Morning Bulletin (Rockhampton, Qld. : 1878 - 1954)_
+
+#### 1889-04-08 &middot; [Rockhampton, Queensland](http://dbpedia.org/resource/Rockhampton)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ Wales, and therefore there  
+ls aa average of 1062 persons for each  
+doctor. There are on the earth  
+1,000,000,000 ithabitants ; of these  
+93,033,038 dis every year, 91,824 every  
+day, 3730 every hour, and 60 every  
+minute, or one every second.
+</td></tr></table>
+
+---
+
 ## [From _The messenger and intelligencer._](https://newspapers.digitalnc.org/lccn/sn88084143/1889-04-11/ed-1/seq-1/)
 
 #### 1889-04-11 &middot; [Wadesboro, N.C.](http://dbpedia.org/resource/Wadesboro%2C_North_Carolina)
@@ -20302,8 +20356,7 @@ d
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-There are It,(KM languages ill tho  
+(KM languages ill tho  
 world, and its inhabitants profess more  
 than one thousand religions. Tho  
 number of men is about equal to the  
@@ -20469,25 +20522,6 @@ fourth the population
 
 ---
 
-## [From _River Falls journal._](https://www.loc.gov/resource/sn85033255/1889-05-02/ed-1/?sp=1)
-
-#### 1889-05-02 &middot; [River Falls, Pierce County, Wis.](http://dbpedia.org/resource/River_Falls%2C_Wisconsin)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-   
-“The number of marriages is in the  
-proportion of 75 to every 1,000 individ­  
-uals. Marriages are more frequent  
-after equinoxes—that is, during the  
-months of June and December
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152512:1889050201:0695/pct:55.597015,57.322782,9.701493,2.452073/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _River Falls journal._](https://www.loc.gov/resource/sn85033255/1889-05-02/ed-1/?sp=4)
 
 #### 1889-05-02 &middot; [River Falls, Pierce County, Wis.](http://dbpedia.org/resource/River_Falls%2C_Wisconsin)
@@ -20624,9 +20658,10 @@ dav. also deaths.
 The number of men cab&amp;ble of bearing  
 . A. f ll  
 arms is caicmatea at one-iourtn or me  
-population. V
+population. V  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OGazFay11n_ver01%2Fdata%2F1889052301%2F0281.jp2/pct:42.391304,63.727083,12.739130,20.178696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OGazFay11n_ver01%2Fdata%2F1889052301%2F0281.jp2/pct:42.391304,63.727083,12.739130,21.014156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21376,11 +21411,25 @@ have more chances of long life in their favor
 previous to fifty years of age than men have,  
 but fewer afterward.  
 &quot;Joseph Andersen, a printer, was to have  
-marrie
+married Bertha Cloud the other day at  
+Leavenworth, Kan., but there was a hitch in  
+the obtaining of the license and he fatally  
+shot himself on the day before the wedding  
+was to have taken plac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539124:1890110901:0118/pct:17.773057,35.445946,12.444680,3.918919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539124:1890110901:0118/pct:17.773057,35.445946,12.444680,5.550676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## Local Grist Mill
+
+#### From _Weekly register-call._
+
+#### 1890-11-14 &middot; [Central City, Colo.](http://dbpedia.org/resource/Central_City%2C_Colorado)
+
+[This text is not available under an open license.]
 
 ---
 
@@ -21680,12 +21729,7 @@ about 33 years; one quarter die previous
 to the age of 7 years, one half before  
 reaching 17, and those who pass that  
 enjoy a felicity refused to one half of  
-the human species, and cannot be too  
-careful of this privilege. Shierlaw&#x27;s  
-suits by giving warmth in winter and  
-comfort in summer will help to prolong  
-the period of felicity for the male  
-portion of the Barrier.
+the human specie
 </td></tr></table>
 
 ---
@@ -21705,29 +21749,6 @@ years, one half before reaching 17, and
 those who pass that enjoy a felicity  
 refused to one half of the human  
 specie
-</td></tr></table>
-
----
-
-## [CONCENTRATES.](http://trove.nla.gov.au/ndp/del/article/44067867)
-
-#### From _Barrier Miner (Broken Hill, NSW : 1888 - 1954)_
-
-#### 1891-05-30 &middot; [Broken Hill, New South Wales](http://dbpedia.org/resource/Broken_Hill)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-. Hai south store, -f The  
-average of human life is about years;  
-one quarter die previous to the i of 7  
-years, one half before reaching and  
-those who pass that enjoy a felic  
-refused to one half of the human speci  
-and cannot be too careful of this  
-privily Shierlaw&#x27;s suits by giving  
-warmth winter and comfort in summer will  
-h to prolong the period of felicity for  
-male portion of the Barrier,
 </td></tr></table>
 
 ---
@@ -22138,7 +22159,7 @@ INVENTION OF SCHOONER
 
 ## [From _Every Other Sunday_](https://archive.org/details/every-other-sunday_1898-09-25_14_2/page/n4/mode/1up?view=theater)
 
-#### 1898-09-25
+#### 1898-09-25 &middot; [Boston, Massachusetts](http://dbpedia.org/resource/Boston)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

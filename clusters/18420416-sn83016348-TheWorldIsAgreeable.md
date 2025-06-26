@@ -1,7 +1,7 @@
 
 # The World Is Agreeable
 
-### 134 reprints from 1833-04-17 to 1882-05-18
+### 133 reprints from 1833-04-17 to 1882-05-18
 
 ## [The World Is Agreeable](https://chroniclingamerica.loc.gov/lccn/sn83016348/1842-04-16/ed-1/seq-1)
 
@@ -533,27 +533,6 @@ ficient weight to sink to the bottom of the stream.
 
 ---
 
-## [From _Zion's Herald (1823-1841)_](https://archive.org/details/sim_zions-herald_1835-07-22_6_29/page/n0/mode/1up?view=theater)
-
-#### 1835-07-22 &middot; [Boston](http://dbpedia.org/resource/Boston)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-—they seem to give us such long arms. We  
-  
-30 condescending as to coincide with  
-| or done. They will practice vice  
-, advocate virtue with the virtuous,  
-the skeptic, and profess a veneration  
-the pious. If any thing is unpopu-  
-sople where they are, it affords them
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_zions-herald_1835-07-22_6_29%2Fsim_zions-herald_1835-07-22_6_29_jp2.zip%2Fsim_zions-herald_1835-07-22_6_29_jp2%2Fsim_zions-herald_1835-07-22_6_29_0000.jp2/pct:0.000000,29.605899,85.186230,4.581721/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Herald of the times._](https://www.loc.gov/resource/sn83021167/1836-03-17/ed-1/?sp=4)
 
 #### 1836-03-17 &middot; [Newport, R.I.](http://dbpedia.org/resource/Newport%2C_Rhode_Island)
@@ -808,7 +787,7 @@ sign is, ‘ Beggars ede
 
 ---
 
-## THE WORLD.
+## [THE WORLD.](http://search.proquest.com/docview/126048340/fulltext/)
 
 #### From _Christian Advocate and Journal (1833-1865)_
 
@@ -818,7 +797,7 @@ sign is, ‘ Beggars ede
 
 ---
 
-## Other 2 -- No Title
+## [Other 2 -- No Title](http://search.proquest.com/docview/126356467/fulltext/)
 
 #### From _Trumpet and Universalist Magazine (1828-1851)_
 
@@ -1466,7 +1445,7 @@ Good Sent
 
 ---
 
-## Noble Sentiments.
+## [Noble Sentiments.](http://search.proquest.com/docview/126445275/fulltext/)
 
 #### From _Trumpet and Universalist Magazine (1828-1851)_
 
@@ -1714,7 +1693,7 @@ in more than “Hyperion beauty.”
 
 ---
 
-## A Life of Plasure.
+## [A Life of Plasure.](http://search.proquest.com/docview/126407646/fulltext/)
 
 #### From _Trumpet and Universalist Magazine (1828-1851)_
 
@@ -2217,7 +2196,9 @@ spirit of charity from our hearts; let the rich
 gushings of human kindness swell up as a foun-  
 tain, so that the ‘golden ege’ will become no fic-  
 tion, and the island of the blessed bloom in more  
-than ‘Hesperian beauty.’
+than ‘Hesperian beauty.’  
+  
+For the Christia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_christian-secretary_1844-05-03_7_8%2Fsim_christian-secretary_1844-05-03_7_8_jp2.zip%2Fsim_christian-secretary_1844-05-03_7_8_jp2%2Fsim_christian-secretary_1844-05-03_7_8_0000.jp2/pct:47.433962,11.956308,47.157233,82.336154/,600/0/default.jpg"/>
 </td>
@@ -3696,7 +3677,8 @@ ings of human kindness swell up as the fountain, so |
 that the golden age will become no fiction, and |  
 islands of the blessed bloom in more than Hesperian |  
   
-beauty
+beauty.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_pennsylvania-school-journal_1852-07_1_7%2Fsim_pennsylvania-school-journal_1852-07_1_7_jp2.zip%2Fsim_pennsylvania-school-journal_1852-07_1_7_jp2%2Fsim_pennsylvania-school-journal_1852-07_1_7_0029.jp2/pct:12.975391,85.717658,79.716629,4.981114/600,/0/default.jpg"/>
 </td>
@@ -4540,7 +4522,8 @@ more than
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- SlNtiMents.- This is an  
+&quot;  
+Nonle SlNtiMents.- This is an  
 agreeable world after all. If we would  
 only bring ourselves to look at the sub­  
 jects that surround us in their true light  

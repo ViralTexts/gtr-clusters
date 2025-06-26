@@ -2006,7 +2006,7 @@ i! fu! ^onl away to think those cherub lips will never,
 On hi.s brow a glory crown.”  
   
 Oh! cling not too closely to your beautiful  
-tressure.s. children of eart
+tressure.s. children of earth 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_evangelist-and-religious-review_1853-07-07_24_27%2Fsim_evangelist-and-religious-review_1853-07-07_24_27_jp2.zip%2Fsim_evangelist-and-religious-review_1853-07-07_24_27_jp2%2Fsim_evangelist-and-religious-review_1853-07-07_24_27_0003.jp2/pct:50.217558,49.633803,10.724341,1.436620/600,/0/default.jpg"/>
 </td>
@@ -3592,6 +3592,12 @@ scart de cart, and i
 
   
   
+plied the  
+routid  
+be  
+  
+and  
+  
 Wanted an Angel for Heav n.  
   
 And so death closed those little eyes-  
@@ -3606,7 +3612,7 @@ yon as yon sew the shroud; it meets you at
   
 coffin, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014139:0041566896A:1855100201:0126/pct:62.644552,31.828420,14.655609,12.979467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014139:0041566896A:1855100201:0126/pct:60.492974,19.913166,16.807187,24.894721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3795,7 +3801,7 @@ clasp of his lingers, and haar him say again—
 
 ---
 
-## WANTED--AN ANGEL OF HEAVEN.
+## [WANTED--AN ANGEL OF HEAVEN.](http://search.proquest.com/docview/137542938/fulltext/)
 
 #### From _German reformed messenger._
 
@@ -4159,7 +4165,7 @@ Th
 
 ---
 
-## WHAT LITTLE HANDS CAN DO.
+## [WHAT LITTLE HANDS CAN DO.](http://search.proquest.com/docview/135992630/fulltext/)
 
 #### From _Christian Observer (1840-1910)_
 
@@ -4309,7 +4315,7 @@ though tb y may ; at return to thee.
 
 ---
 
-## TWO IN HEAVEN
+## [TWO IN HEAVEN](http://search.proquest.com/docview/137551099/fulltext/)
 
 #### From _German reformed messenger._
 
@@ -4381,7 +4387,7 @@ N
 
 ---
 
-## The family.
+## [The family.](http://search.proquest.com/docview/137543577/fulltext/)
 
 #### From _German reformed messenger._
 
@@ -5478,7 +5484,7 @@ N
 
 ---
 
-## Stray Thoughts.
+## [Stray Thoughts.](http://search.proquest.com/docview/90422972/fulltext/)
 
 #### From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_
 
@@ -5488,7 +5494,7 @@ N
 
 ---
 
-## Religious Miscellany.
+## [Religious Miscellany.](http://search.proquest.com/docview/125956475/fulltext/)
 
 #### From _Christian Advocate (1866-1905)_
 
@@ -5498,7 +5504,7 @@ N
 
 ---
 
-## Two in Heaven.
+## [Two in Heaven.](http://search.proquest.com/docview/125925693/fulltext/)
 
 #### From _Christian Advocate (1866-1905)_
 
@@ -5561,7 +5567,7 @@ tm i
 
 ---
 
-## TWO IN HEAVEN.
+## [TWO IN HEAVEN.](http://search.proquest.com/docview/137520200/fulltext/)
 
 #### From _Reformed Church messenger /_
 

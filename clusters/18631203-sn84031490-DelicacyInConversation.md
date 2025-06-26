@@ -1,7 +1,7 @@
 
 # Delicacy in Conversation
 
-### 76 reprints from 1826-07-06 to 1880-11-20
+### 72 reprints from 1826-07-06 to 1880-11-20
 
 ## [Delicacy in Conversation](https://chroniclingamerica.loc.gov/lccn/sn84031490/1863-12-03/ed-1/seq-2/)
 
@@ -1353,10 +1353,9 @@ Blank Summons,
 for Justices of the Peace, just prin  
 ted and for sale at this office.  
   
-The Supreme Court of Mass  
-achus
+Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn86079037:00280774893:1870112301:0398/pct:18.655767,40.805559,11.771117,4.889976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn86079037:00280774893:1870112301:0398/pct:18.710263,40.805559,11.571299,4.259426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1368,7 +1367,7 @@ achus
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-a  
+  
 Hall&#x27;s Vegetable Sicilian  
 Hair Renewer cleans the scalp  
 of dandruff, and allays all un­  
@@ -1431,15 +1430,12 @@ Ebern wea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, MoArthur.   
+r.   
 Blank Summons,  
 For Justices of the Peace, just prin­  
-ted and for sale at this office.  
-HALl8  
-Every gear incrcases the popi­  
-larity of this valuabl
+ted and for sale at this office.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn86079037:00280774893:1870120701:0402/pct:68.644834,46.395587,11.597612,10.595177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn86079037:00280774893:1870120701:0402/pct:68.644834,46.395587,11.597612,2.629554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1592,8 +1588,7 @@ September 28, 1870-tf.
 Blank Summons,  
   
 For Justices of the Peace, just prin  
-ted and for sale at this office.  
-
+ted and for sale at this office.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn86079037:00280774893:1870122101:0409/pct:30.033003,35.109432,11.899523,2.996352/!600,600/0/default.jpg"/>
 </td>
@@ -1671,24 +1666,6 @@ September 28, 1870-tf.
 
 ---
 
-## [From _Fayette County herald._](https://www.loc.gov/resource/sn85038145/1871-02-02/ed-1/?sp=3)
-
-#### 1871-02-02 &middot; [Washington [Washington Court House], Fayette County, O. [Ohio]](http://dbpedia.org/resource/Washington_Court_House%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-.  
-Hill&#x27;s Vegetable Sicilian Hair Re&quot;  
-newer cleans the scalp of dandruff, and  
-allays all unpleasant irritations.  
-We have a
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665799:1871020201:0841/pct:16.624041,40.439878,10.976130,2.231498/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Democratic enquirer._](https://www.loc.gov/resource/sn86079037/1871-02-15/ed-1/?sp=1)
 
 #### 1871-02-15 &middot; [M'arthur, Vinton County, Ohio](http://dbpedia.org/resource/McArthur%2C_Ohio)
@@ -1747,78 +1724,6 @@ Contains nothing injurious.
 Clear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn84038628:00295873589:1871052901:0331/pct:5.107654,77.888397,8.643722,2.089479/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The working Christian._](https://www.loc.gov/resource/sn97064666/1871-06-22/ed-1/?sp=1)
-
-#### 1871-06-22 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-.  
-jan3 tf  
-  
-Business Notices.  
-fr£F“ USE NATUEE’S HAIE BE­  
-STOEATIVE.  
-—It is the best. _  
-—Contains nothing injurious.  
-—Clear as crystal.  
-—No sediment or filth.  
-—Does not stain the skin.  
-—Elegantly perfumed.  
-—Restores gray hair.  
-—Prevents the hair from falling off.  
-_j—See advertisement
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver02:data:sn97064666:00517016068:1871062201:0182/pct:59.018868,14.101953,33.584906,78.307130/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Bloomfield times._](https://www.loc.gov/resource/sn84026050/1871-06-27/ed-1/?sp=4)
-
-#### 1871-06-27 &middot; [New Bloomfield, Pa.](http://dbpedia.org/resource/New_Bloomfield%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-&#x27;gK NATL&#x27;RE&#x27;B HAllt 11E8TOHA-  
-I TIY K It Is the llcst. Contains nothing- In­  
-jurious. Clear as Crystal. No Sediment or  
-Filth. Does not Stain the 8klu. Elegantly  
-I perfumed. Restores Gray Hair. Prevents the  
-l Hair from falling oil&#x27;.  
-t Bee advertisement.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026050:00280776798:1871062701:0649/pct:76.508180,93.532754,17.101227,3.308824/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The St. Cloud journal._](https://www.loc.gov/resource/sn85033526/1871-09-28/ed-1/?sp=3)
-
-#### 1871-09-28 &middot; [St. Cloud, Minn.](http://dbpedia.org/resource/St._Cloud%2C_Minnesota)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-—It is the best. .::  
-—Contains nothing injurious.  
-—Clear as crystal. *5*&quot;*j&#x27;  
-—No sediment or filth.  
-—Does not stain the skin.  
-—BlegaUtiy perfumed.  
-—Restores gray hair. „,  
-^Prevents the hair from tailing off.  
-—See advertisement.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85033526:00212472554:1871092801:0430/pct:45.965090,22.226632,8.575765,4.316333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

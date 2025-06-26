@@ -1,7 +1,7 @@
 
 # Seventy Thousand Letters
 
-### 11 reprints from 1871-01-21 to 1871-10-07
+### 12 reprints from 1871-01-21 to 1871-10-07
 
 ## [Seventy Thousand Letters](https://chroniclingamerica.loc.gov/lccn/sn87075000/1871-05-26/ed-1/seq-1/)
 
@@ -145,6 +145,16 @@ A Paris correspondent writes: “All the ani-
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_the-womans-journal_1871-02-04_2_5%2Fsim_the-womans-journal_1871-02-04_2_5_jp2.zip%2Fsim_the-womans-journal_1871-02-04_2_5_jp2%2Fsim_the-womans-journal_1871-02-04_2_5_0002.jp2/pct:59.329268,38.348485,16.239837,14.303030/,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## The Gentle Sex
+
+#### From _The Cleveland morning herald._
+
+#### 1871-03-25 &middot; [Cleveland, Ohio](http://dbpedia.org/resource/Cleveland)
+
+[This text is not available under an open license.]
 
 ---
 

@@ -1,7 +1,7 @@
 
 # Eloquent Extract
 
-### 418 reprints from 1842-05-01 to 1898-07-23
+### 436 reprints from 1842-05-01 to 1898-07-23
 
 ## [Eloquent Extract](https://chroniclingamerica.loc.gov/lccn/sn98060050/1843-09-08/ed-1/seq-1/)
 
@@ -1462,16 +1462,56 @@ country.””—Calhoun.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:  
+  
   
 The great popular party is already rallied almost  
 en /fme around the banner which is leading the  
 party to its final triumph. The few that still lag,  
 will soon be rallied under its ample folds. On that  
 banner is inscribed—FßEE TRADE; LOW DU.  
-TIES,
+TIES, &amp;c. &amp;c.  
+  
+This assertion of Mr. CtLuoVN was a prophecy  
+--the fete that legged, have rallied under the ample  
+folds of FREE TRADE, Pout and DALLAS. Thin  
+is the issue, Ponnsylvanians ! &quot; Free Trade with  
+Polk,&quot; against &quot; a Tariff Policy with Clay.&quot;--  
+Choose ye between them—choose, but do not any  
+after the election, if you are betrayed, that you were  
+not weekly warned from the columns of our paper  
+and other Whig prints, Eliot the election of PoLx  
+would be the repeal of the Tariff of 1842, and the  
+destruction of the Protective Policy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_epona_ver01%2Fdata%2Fsn86071456%2F000002310%2F1844061201%2F0085.jp2/pct:81.630426,27.631063,15.135219,3.095038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_epona_ver01%2Fdata%2Fsn86071456%2F000002310%2F1844061201%2F0085.jp2/pct:81.560284,27.631063,15.205362,10.591534/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Jeffersonian Republican._](https://www.loc.gov/resource/sn86053954/1844-06-20/ed-1/?sp=1)
+
+#### 1844-06-20 &middot; [Stroudsburg, Pa.](http://dbpedia.org/resource/Stroudsburg%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+flits assertion of Mr. Calhoun was a proph  
+  
+ecy ihe fixo ihal lagged, have rallied under  
+ihu ample folds of Free Trade, Polk aud  
+Dallas. This ia the issue, Pennsylvania!) !  
+&quot; Free Trade wiih Polk,&quot; against &quot; a Tariff  
+Policy with Clay.&quot; Choo-iO ye between thorn  
+choose, but do not say after ihe election, if  
+you are betrayed, that you wore not weekly  
+warned from thecolumus of our paper and oili­  
+er Whig prints, that the election of Polk would  
+be the repeal of the Tariff of 1842, and the de­  
+struction of ihe Protective Policy.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728236A:1844062001:0120/pct:74.490513,84.657930,17.515812,7.887459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2643,10 +2683,9 @@ j otir names
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- 00 abe has now for our children. Yet a little while and all of this bright cirdle of benevolent ighoqwee TEFL .i¢ Youare tag Caust ‘t  
-
+ 00 abe has now for our children. Yet a little while and all of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_christian-secretary_1846-07-17_9_19%2Fsim_christian-secretary_1846-07-17_9_19_jp2.zip%2Fsim_christian-secretary_1846-07-17_9_19_jp2%2Fsim_christian-secretary_1846-07-17_9_19_0000.jp2/pct:0.275735,86.460084,98.240546,2.342437/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_christian-secretary_1846-07-17_9_19%2Fsim_christian-secretary_1846-07-17_9_19_jp2.zip%2Fsim_christian-secretary_1846-07-17_9_19_jp2%2Fsim_christian-secretary_1846-07-17_9_19_0000.jp2/pct:52.074580,86.922269,20.299370,1.029412/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3458,7 +3497,7 @@ elled
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-l Telegraph.  
+legraph.  
   
 An Eloquent Extract.  
   
@@ -4003,7 +4042,7 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+this folly.  
   
 An Elrgmit Fx tract.  
   
@@ -4036,7 +4075,7 @@ mind.”
   
 A Living Martyr.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059500:0038334718A:1858091801:0392/pct:17.259468,63.079131,10.734391,12.699877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059500:0038334718A:1858091801:0392/pct:17.259468,62.043870,10.734391,13.735137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4050,8 +4089,6 @@ A Living Martyr.
 
   
   
-the praire  
-  
 an  
   
 ELEGANT ExTRACT.  
@@ -4062,9 +4099,47 @@ our own. They passed away like a
 meteor as when the Creator command-­  
 ed light to be. The heavens shall be  
 as bright over our graves as they are  
-now around our paths. The world
+now around our paths. The world  
+  
+a te oe o eoii e e e e e e   ee o a e ao ae  
+possibility that he was ever going to  
+  
+of  
+  
+frin  
+  
+  
+  
+uhenthat e ba  
+  
+cLI1.  
+  
+The reader will readily divine what  
+ooe o a ee o e e e  e e  
+ee o e o e an e ae o e a an   
+whole of his immense estates; Jot  
+  
+.  
+  
+I  
+  
+en w  
+  
+ll.  
+  
+at a little  
+  
+while and all this wi ave appened e  e e   
+  
+The throbbing heart will find its w  
+  
+u  
+  
+e aae a teo o o e a  
+marie er an  ance a te e e e o o  
+be left behind in silence an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1858093001:0415/pct:75.172900,35.889872,10.195248,28.621436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1858093001:0415/pct:65.099976,36.479843,30.454011,36.735497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5769,7 +5844,7 @@ died; and the eye that mourned for us will
 be dried and animated with joy, and even  
 our children will ccase to think of us, and  
 will remember to lisp our names no more.  
- 
+ A CuatST LkE SESTIMEN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:sn84026912:00211109981:1859051401:0857/pct:34.627030,72.352313,15.904211,14.945362/!600,600/0/default.jpg"/>
 </td>
@@ -6647,9 +6722,19 @@ to
 Th  
 been  
 but  
-Co
+Cor.  
+in  
+  
+esti  
+Be  
+The  
+a!  
+have  
+lison  
+to  
+Toracco.- An exchan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026192:00280775769:1859082501:0347/pct:77.486188,66.859941,15.469613,20.474166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026192:00280775769:1859082501:0347/pct:77.486188,66.859941,15.504144,27.354722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6920,9 +7005,14 @@ will cease to think of us, and will re
 member to lisp our names no more.  
 ee   
 Tlnu i a lodu at Tountor  
-s   tls at 
+s   tls at I tiltGIl 3 Hit  
+some and so proud, that she says there is  
+o e oe eeeeeeoo  
+is  
+  
+only one thin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286893:1859101901:0488/pct:50.609375,70.042543,11.437500,13.082014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286893:1859101901:0488/pct:50.593750,70.042543,11.453125,14.322855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7016,7 +7106,7 @@ Nearer than I dare to think.
 
 ---
 
-## How to Keep Cows.
+## [How to Keep Cows.](http://search.proquest.com/docview/126299791/fulltext/)
 
 #### From _Southern Planter (1841-1866)_
 
@@ -7307,7 +7397,7 @@ gotten and clean gone out of mind.&quot;
 
 ---
 
-## ALL IS VANITY
+## [ALL IS VANITY](http://search.proquest.com/docview/137565084/fulltext/)
 
 #### From _German reformed messenger._
 
@@ -7400,7 +7490,7 @@ For th
 
 ---
 
-## Article 5 -- No Title
+## [Article 5 -- No Title](http://search.proquest.com/docview/127533801/fulltext/)
 
 #### From _Prairie farmer._
 
@@ -7650,7 +7740,7 @@ On the rock of the shore of death
 Feel as I would when my feet  
 Are slipping over the brink;  
 For it may be I&#x27;m nearer home,  
-Nearer now, than I think
+Nearer now, than I think.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1860082201:0372/pct:4.936015,35.730337,11.334552,15.224719/!600,600/0/default.jpg"/>
 </td>
@@ -7777,7 +7867,7 @@ and will forget to lisp our names.
 
 ---
 
-## Article 1 -- No Title
+## [Article 1 -- No Title](http://search.proquest.com/docview/137387542/fulltext/)
 
 #### From _German reformed messenger._
 
@@ -7823,7 +7913,7 @@ remember to lisp our names.”
 
 ---
 
-## INCREASING LIGHT.
+## [INCREASING LIGHT.](http://search.proquest.com/docview/135976054/fulltext/)
 
 #### From _Christian Observer (1840-1910)_
 
@@ -7917,7 +8007,7 @@ ten. Days will continue to move on;
 
 ## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1860-10-06_30_40/page/n0/mode/1up?view=theater)
 
-#### 1860-10-06
+#### 1860-10-06 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8357,33 +8447,6 @@ to lisp our names.
 
 ---
 
-## [From _The Jeffersonian._](https://www.loc.gov/resource/sn84026399/1860-11-22/ed-1/?sp=1)
-
-#### 1860-11-22 &middot; [Stroudsburg, Pa.](http://dbpedia.org/resource/Stroudsburg%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-.  
-Nearer.  
-One sweetly solemn thought  
-Comes to me o&#x27;er and o&#x27;er  
-I&#x27;m nearer home to-day  
-Than I&#x27;ve been before.  
-Nearer my father&#x27;s house,  
-Where the many mansioas be  
-Nearer the Great White Throne­  
-Nearer the jasper sea.  
-Nearer.lhe bound of Life  
-Where I lay my burdens down!  
-Nearer leaving my cross  
-Nearer wearing my crow
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:00237287897:1860112201:0461/pct:6.683922,22.735810,11.144945,8.743740/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Mineral Point weekly tribune._](https://www.loc.gov/resource/sn86086769/1860-11-27/ed-1/?sp=1)
 
 #### 1860-11-27 &middot; [Mineral Point, Wis.](http://dbpedia.org/resource/Mineral_Point%2C_Wisconsin)
@@ -8590,6 +8653,48 @@ will not remember to lisp our names.&quot;
 
 ---
 
+## [From _Arkansas state gazette._](https://www.loc.gov/resource/sn82016480/1861-03-02/ed-1/?sp=1)
+
+#### 1861-03-02 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+subside for the present.  
+  
+Orr Tibn Must Comb.—“Generation after&#x27;;  
+generation,” says a fine writer, “have felt as we!  
+now feel. and their lives were as active as ourj  
+Sown. They passed like a vapor, while nature;  
+wore the some aspect of beauty as when herj  
+Creator commanded her to he. The heavens!  
+I shall he as bright over our graves as they are  
+I now around our paths. The world will have j  
+the same attraction for our offspring unborn!  
+that she once had for us as children. Vet a I  
+little while, and all will have happened.. The  
+throbbing heart will be stifled, and we shall he  
+at rest. Our funeral will find its way, and  
+prayers will be said, and then we shall be left  
+alone in silence and in darkness for the worm*.  
+And it may bo for a short time we shall 1*  
+spoken of, but the things of life will creep in.  
+and oar names will soon be forgotten. l)*y»  
+will continue to move on, and laughter and  
+song will be heard in the room in which *re died :  
+and the eye mourned for ua will be dried, and  
+glisten again with joy; ami even our chihlren  
+will cease to think of us, and will not remember  
+to slip our names.&quot;  
+  
+Con
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fluorite_ver01:data:sn82016480:00516990752:1861030201:0150/pct:73.723537,73.748552,12.186444,11.079655/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Athens post._](https://www.loc.gov/resource/sn84024443/1861-03-15/ed-1/?sp=1)
 
 #### 1861-03-15 &middot; [Athens, Tenn.](http://dbpedia.org/resource/Athens%2C_Tennessee)
@@ -8790,6 +8895,51 @@ fjo out into the ope
 
 ---
 
+## [From _The spirit of democracy._](https://www.loc.gov/resource/sn85038115/1861-04-17/ed-1/?sp=1)
+
+#### 1861-04-17 &middot; [Woodsfield, Ohio](http://dbpedia.org/resource/Woodsfield%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+&quot;lieneration after generation,&quot; says a  
+  
+fine writer, &quot;have felt as we now feel, and  
+their lives were as active as onr own.  
+They passed away like a vapor, while  
+nature wore the same aspect of beauty as  
+when her Creator eommanded her to be.  
+The heavens shall be as bright under our  
+graves as they are now around our paths.  
+The world will have the same attractions  
+  
+for our children. Yet a little and all this  
+  
+will have happened. Tire throbbica-  
+  
+heart will be stilled and we shall be at  
+rest. Our funeral will wind its way, and  
+the prayers will be said, and we shall be  
+left behind in silenee and darkness of the  
+worm. And it may be for a short time  
+we shall be spoken of, bat the things of  
+life will creep in, and oar name will soon  
+be forgotten, Days will continue to move  
+on, and laughter and soag will be heard  
+in the room in which we died; and the eye  
+that mourned for ns will be dried and  
+glisten again with joy; and even our chil  
+  
+dren will cease to think of as, and will  
+not remember to lisp our names.&quot;  
+  
+PRYOR
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027479:1861041701:0098/pct:31.417510,20.630685,45.324598,57.101273/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Wood County reporter._](https://www.loc.gov/resource/sn85033078/1861-05-18/ed-1/?sp=1)
 
 #### 1861-05-18 &middot; [Grand Rapids [i.e. Wisconsin Rapids], Wis.](http://dbpedia.org/resource/Wisconsin_Rapids%2C_Wisconsin)
@@ -8829,6 +8979,191 @@ our names.”
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769416:1861051801:0443/pct:80.175557,76.048951,13.733964,18.099548/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Ashtabula weekly telegraph._](https://www.loc.gov/resource/sn83035216/1861-06-29/ed-1/?sp=1)
+
+#### 1861-06-29 &middot; [Ashtabula, Ohio](http://dbpedia.org/resource/Ashtabula%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+NeArER HOME.  
+  
+One sweetly-solemn thou ght  
+Comes to me o&#x27;er and o&#x27;er;  
+I&#x27;m nearer home to-day  
+Than I have ever been before.  
+Nearer my Father&#x27;s house,  
+Where the many mansonsions be;  
+Nearer the great white throne,  
+Nearer the jasper sea.  
+Nearer the bound of life  
+Where we lay our burdens down:  
+Nearer leaving my cross,  
+Nearer wearing my crown,  
+But lying darkly between,  
+Winding down through the night,  
+Is the dark and shadowy stream,  
+That bursts at last into light.  
+Oloser and closer my steps  
+Comes to the dark abysm;  
+Closer death to my lips  
+Presses the awful chrism.  
+Savior, perfect my love!  
+Strengthen the might of my faith;  
+Let me feel as I would when I stand  
+On the rock of the shore of death.  
+Feel as I would when my feet  
+Are slipping over the brink;  
+For it may be I&#x27;m nearer home,  
+Nearer now than I think.  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1861062901:0664/pct:19.487179,50.704411,10.034188,15.813035/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Clearfield Republican._](https://www.loc.gov/resource/sn83032199/1861-07-10/ed-1/?sp=1)
+
+#### 1861-07-10 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+,  
+NEAARER HOME.  
+One sweetly sol mn thought  
+ Comes to me o&#x27;or and o&#x27;er,  
+I&#x27;m nearer home to-day  
+Than I have ever been before.  
+Nearer my Father&#x27;s house,  
+Where the many mansions be;  
+Nearer-the great white throne,  
+Nearer the jasper sea.  
+Nearer the bound of life,  
+Where we lay our burdens down;  
+Nearer leaving the cross,  
+Nearer gaining the crown.  
+But lying darkly between,  
+Winding down through the night,  
+Is the dim and unknown stream  
+That leads me at last to the light.  
+Closer, closer my steps  
+Come to the dark abysm;  
+Closer death to my lips  
+Presses the awful crysm.  
+Savior perfect my trust,  
+ Strengthen the might of my faith,  
+Let me feel as I would when I stand  
+On the rock of the shore of death.  
+Feel as I would when my feet  
+Are slipping over the brink,  
+For it may be I&#x27;m nearer home,  
+Nearer now, than I think.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1861071001:0562/pct:3.272577,20.011010,11.681856,15.042664/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _New Oregon plaindealer._](https://www.loc.gov/resource/sn87058042/1861-08-16/ed-1/?sp=1)
+
+#### 1861-08-16 &middot; [New Oregon, Iowa](http://dbpedia.org/resource/New_Oregon_Township%2C_Howard_County%2C_Iowa)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+&#x27;m nearer to my home to-day  
+  
+Nea^jj[j$Jfe^»und of life,  
+When wclay our burdens down—  
+Nearer leaving my cross,  
+  
+Nearer wearing my crown.  
+  
+But lying dimly between,  
+V&#x27;inding down through the nigftil^  
+Is the dim and uncertain stream  
+  
+That leads us at length to the light.  
+  
+Father, perfeet my trust!  
+Strengthen my feeble faith!  
+Let me feel as I shall when 1 stand  
+  
+On the shores of the river of death.  
+  
+Let me feel an I shall when my feet  
+Are slipping over the brink  
+It may be l:m Bearer home.  
+  
+Still nearer home than I think.  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1861081601:0415/pct:35.504886,32.237779,12.491857,16.065496/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://archive.org/details/sim_friends-review-a-religious-journal_1861-08-31_14_52/page/n14/mode/1up?view=theater)
+
+#### 1861-08-31 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+NEARER HOME,  
+  
+One sweetly solemn thought  
+Comes to me o’er and o’er,  
+I’m nearer home to-day  
+Than I ever have been before.  
+  
+Nearer my Father’s house,  
+Where the many mansions be ;  
+  
+Nearer the great white throne,  
+Nearer the jasper sea.  
+  
+Nearer the bound of life,  
+  
+Where we lay our burdens down  
+Nearer leaving the cross,  
+  
+Nearer gaining the crown.  
+  
+But lying darkly between,  
+Winding down through the night,  
+Is the dim and unknown stream  
+That leads me at last to the light.  
+  
+Closer, closer my steps  
+Come to the dark abysm ;  
+  
+Closer death to my lips  
+Presses the awful chrysm.  
+  
+Saviour, perfect my trust,  
+Strengthen the might of my faith,  
+  
+Let me feel as I would when I stand  
+On the rock of the shore of death.  
+  
+Feel as I would when my feet  
+Are slipping over the brink,  
+For it may be I’m nearer home,  
+Nearer now, than I think.  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_friends-review-a-religious-journal_1861-08-31_14_52%2Fsim_friends-review-a-religious-journal_1861-08-31_14_52_jp2.zip%2Fsim_friends-review-a-religious-journal_1861-08-31_14_52_jp2%2Fsim_friends-review-a-religious-journal_1861-08-31_14_52_0014.jp2/pct:48.339623,14.282262,25.245283,33.035283/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9062,6 +9397,46 @@ gotten and clean out of mind.&#x27;
 
 ---
 
+## [From _Spirit of the age._](https://www.loc.gov/resource/sn84023296/1862-02-27/ed-1/?sp=4)
+
+#### 1862-02-27 &middot; [Woodstock, Vt.](http://dbpedia.org/resource/Woodstock%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+One sweetly solemn thought  
+Comes to me oer and o&#x27;er;  
+I am nearer home to-day  
+Than I was the day before.  
+Nearer my Fathor&#x27;s house,  
+Where the many mansions be;  
+Nearer the great white throne,  
+Nearer the crystal sea.  
+Nearer the bounds of life,  
+Where we lay our burdens down;  
+Nearer leaving the cross,  
+Nearer gaining the crown.  
+But lying darkly between,  
+Winding down through the night,  
+Is the deep and unknown steam  
+That leads at last to the light.  
+Jesus, perfect my trust,  
+Strengthen the hand of faith,  
+Let me feel thee near when I stand  
+On the edge of the shore of death  
+Feel thee near and more near,  
+When my feet  
+Are slipping over the brink,  
+For it may be I&#x27;m nearer home  
+Nearer now than I think.  
+Two touri
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296084:1862022701:0106/pct:9.024774,10.034453,13.291388,15.374677/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Urbana union._](https://www.loc.gov/resource/sn85026309/1862-05-14/ed-1/?sp=1)
 
 #### 1862-05-14 &middot; [Urbana, Ohio](http://dbpedia.org/resource/Urbana%2C_Ohio)
@@ -9141,6 +9516,130 @@ remember to lUp cu: Lames.
 
 ---
 
+## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1862-07-26_2139/page/n3/mode/1up?view=theater)
+
+#### 1862-07-26 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+a better lif as Americans  
+  
+Nearer wearing the crown! comsary to halt, and give up the parvait for  
+  
+But lying darkly bet ween,  
+Winding down through the night thoroughly disheartened at the non-appear-  
+re ance of the cow, for whose safety he now felt  
+  
+le Ube dart and shad. wy strenn  
+That busts at inet into light!  
+  
+Father, petiect my love;  
+Mtrengthen the might of my faith ,  
+  
+Let me feel ac IT would when | stand  
+On the rock of the shore of death  
+  
+Feel ae | would when my fect  
+Are slipping over the brink ,  
+  
+For tt may be I&#x27;m nearer home,  
+Nearer now than | think!
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_saturday-evening-post_1862-07-26_2139%2Fsim_saturday-evening-post_1862-07-26_2139_jp2.zip%2Fsim_saturday-evening-post_1862-07-26_2139_jp2%2Fsim_saturday-evening-post_1862-07-26_2139_0003.jp2/pct:10.967504,18.288313,55.668390,8.971885/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Union County star and Lewisburg chronicle._](https://www.loc.gov/resource/sn85038443/1862-10-07/ed-1/?sp=2)
+
+#### 1862-10-07 &middot; [Lewisburg, Pa.](http://dbpedia.org/resource/Lewisburg%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+)  
+One sweetly-solemn thought  
+Comes to me o&#x27;er and o&#x27;er  
+I&#x27;m nearer my home, to-day,  
+Than I&#x27;ve ever been before!  
+Nearer my Father&#x27;s house,  
+Where the many mansions be;  
+Nearer the great white throne,  
+Nearer the chrystal sea.  
+  
+Nearer the bound of life,  
+Where we lay our burdens down,  
+Nearer leaving the cross,  
+Nearer wearing the crown.  
+But, lying darkly between,  
+Winding down through the night,  
+Is that dim and unknown stream  
+Which leads at last to light.  
+For even now my feet  
+May stand upon its brin
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776385:1862100701:0650/pct:6.993622,20.136408,11.260172,11.188698/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://archive.org/details/sim_ladies-repository-a-monthly-periodical-devoted-to_1862-11_22_41/page/n57/mode/1up?view=theater)
+
+#### 1862-11-01 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+One sweetly-solemn thought  
+Comes to me o’er and o’er;  
+I’m nearer home to-day  
+Than I have ever been before.  
+  
+Nearer my Father’s house,  
+Where the many mansions be;  
+  
+Nearer the great white throne,  
+Nearer the jasper sea.  
+  
+Nearer the bound of life  
+  
+Where we lay our burdens down;  
+Nearer leaving my cross,  
+  
+Nearer wearing my crown;  
+  
+But lying darkly between,  
+Winding down through the night,  
+  
+Is the dark and shadowy stream,  
+That bursts at last into light.  
+  
+Closer and closer my steps  
+Come to the dark abysm;  
+  
+Closer death to my lips  
+Presses the awful chrism.  
+  
+Savior, perfect my love!  
+Strengthen the might of my faith;  
+Let me feel as I would when I stand  
+On the rock of the shore of death;  
+  
+Feel as I would when my feet  
+s Are slipping over the brink;  
+For it may be I’m nearer home,  
+Nearer now than I think.  
+  
+Tue Morner’
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_ladies-repository-a-monthly-periodical-devoted-to_1862-11_22_41%2Fsim_ladies-repository-a-monthly-periodical-devoted-to_1862-11_22_41_jp2.zip%2Fsim_ladies-repository-a-monthly-periodical-devoted-to_1862-11_22_41_jp2%2Fsim_ladies-repository-a-monthly-periodical-devoted-to_1862-11_22_41_0057.jp2/pct:51.204380,40.349617,26.313869,32.734674/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Iowa transcript._](https://www.loc.gov/resource/sn87058318/1862-12-25/ed-1/?sp=1)
 
 #### 1862-12-25 &middot; [Toledo, Tama County, Iowa](http://dbpedia.org/resource/Toledo%2C_Iowa)
@@ -9183,6 +9682,45 @@ and will not remember to lisp our
 names.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058318:0027952892A:1862122501:0648/pct:44.310127,74.279742,25.779202,18.928164/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _New Hampshire journal of agriculture._](https://www.loc.gov/resource/sn90062042/1863-01-12/ed-1/?sp=3)
+
+#### 1863-01-12 &middot; [Manchester, N.H.](http://dbpedia.org/resource/Manchester%2C_New_Hampshire)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+e  
+NEARER.  
+One sweetly solemn thought  
+Comes to me o’er and o’er :  
+I’m nearer to my home to-day i  
+Than I’ve ever been before.  
+Nearer my Father’s house :  
+Where the many mansions be  
+Nearer the great white throne,  
+Nearer the jasper sea ;  
+Nearer that bound of life,  
+When we lay our burdens down—  
+Nearer leaving my cross,  
+Nearer wearing my crown.  
+But lying dimly between,  
+Winding down through the night,  
+Is the dim and uncertain stream  
+That leads us at length to thelight.  
+Father, perfect my trust !  
+Strengthen my feeble faith ! :  
+Let me feel as when I stand  
+On the shore of the river of Death.  
+Let me feel as I shall when my feet  
+Are slipping cver the brink ;  
+It may be I’&#x27;m nearer home,  
+Still nearer home than I think
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_eisenhower_ver01:data:sn90062042:00517015428:1863011201:0235/pct:11.856128,26.204578,15.519538,18.889067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9271,6 +9809,45 @@ touching language of the psalmist, “ forgo-ten
 and gone on: of mind/’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86058108:00279557360:1863051601:0298/pct:28.717640,33.156780,13.245033,19.733656/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Springfield weekly Republican._](https://www.loc.gov/resource/sn83020847/1863-05-16/ed-1/?sp=7)
+
+#### 1863-05-16 &middot; [Springfield, Mass.](http://dbpedia.org/resource/Springfield%2C_Massachusetts)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+!  
+Nearer.  
+One sweetly solemn thought  
+Comes to me o’er and o’er:  
+I’m nearer to my home to.day,  
+Than I’ve ever been before.  
+Nearer my Father’s house  
+Where the many mansions.be;  
+Nearer the great white throne,  
+Nearer the jasper sea;  
+Nearer that bound of life,  
+When we lay our burdens down-  
+Nearer leaving my cross,  
+Nearer wearing ray crown.  
+But lyiug dimly between,  
+Winding down through the naglrt,  
+Is the dim and uncertain stream  
+That leads us at length to the light.  
+Father! perfect my trust!  
+Strengthen my feeble faith!  
+Let mo feel as when I stand  
+On the shore of the river of death.  
+Let me feel as I shall when my feet  
+Are slipping over the brink;  
+It may be I’m nearer home,  
+Still nearer home than I think
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_keres_ver01:data:sn83020847:00517171499:1863051601:0159/pct:19.394743,35.686758,10.823945,12.085710/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9464,6 +10041,50 @@ mind.”
 
 ---
 
+## [From _Dollar weekly mirror and New Hampshire journal of agriculture._](https://www.loc.gov/resource/sn84023819/1864-03-12/ed-1/?sp=1)
+
+#### 1864-03-12 &middot; [Manchester, N.H.](http://dbpedia.org/resource/Manchester%2C_New_Hampshire)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+NEARER HOME.  
+PR  
+Oae sweetly wzleome thought  
+Comes to me o’er and o’er:  
+I’m nearer home to day  
+Than I’ve ever been before.  
+Nearer my Fathers house,  
+Where many mtsions be;  
+Nearer the great white throne,  
+Nearer the Jasper sea ;  
+Nearcr the bouni of lif  
+Where we lay our burdeas dowa,  
+Nearer leavinyg the crosa,  
+Nearer gaining the crown.  
+But lying dimly between,  
+Winding down through the nizht,  
+Lies the dark and uncertain stream  
+That leads us at l-ngth to the light.  
+Closer and eloser my steps  
+Come to the dark ahysm,  
+Closer Daath to my lips  
+Presses the awful ehrism ; .  
+Father, perfect my trust !  
+Strengthen my feeble faith !  
+Let me feel as I would wien I stand  
+Oan the shores of the river ofileath—  
+Feel as T would were my feet  
+Even now slipping over the brink ;  
+¥or it may be I’m
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_eisenhower_ver01:data:sn84023819:00517015465:1864031201:0241/pct:46.443515,13.508348,9.286004,13.377590/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The aegis & intelligencer._](https://www.loc.gov/resource/sn83016107/1864-06-24/ed-1/?sp=1)
 
 #### 1864-06-24 &middot; [Bel Air, Md.](http://dbpedia.org/resource/Bel_Air%2C_Harford_County%2C_Maryland)
@@ -9515,6 +10136,189 @@ dren will cease to think of us and will not |
 remember to lisp our names.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625479:1864062401:0069/pct:63.566694,53.093233,15.120133,25.965728/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Waynesburg messenger._](https://panewsarchive.psu.edu/lccn/sn84026518/1864-12-21/ed-1/seq-1/)
+
+#### 1864-12-21 &middot; [Waynesburg, Greene County, Pa.](http://dbpedia.org/resource/Waynesburg%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+t  
+  
+Nearer Home.  
+One sweetly solemn thought  
+  
+Comes to me o&#x27;er and o&#x27;er :  
+I&#x27;m nearer . to my home to-day  
+Than I&#x27;ve ever been before.  
+  
+Nearer my father&#x27;s house,  
+Where many mansions be ;  
+Nearer the great white throne,  
+Nearer the jasper sea.  
+  
+Nearer the bound of life  
+Where we lay our burdens down  
+Nearer leaving my cross,  
+Nearer wearing my crown.  
+  
+But lying darkly betvreen,  
+Winding down the night,  
+Is that dim and unknoven stream  
+Which leads at last to light.  
+  
+J Y. pitculls  
+  
+Father! perfect my trust,  
+Strengthen my feeble faith ;  
+Let me fee! as it I trod  
+The shore of the river death  
+  
+For even now my feet  
+May stand upon its brink ;  
+I may be nearer my home,  
+Nearer now than I think.  
+  
+Thy Will be Done !  
+Thy will be done ;  
+In devious ways the hurr
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_cybele_ver01%2Fdata%2Fsn84026518%2F000002096%2F1864122101%2F0185.jp2/pct:12.701764,17.867394,15.718844,21.304535/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1865-03-18_38_29/page/n3/mode/1up?view=theater)
+
+#### 1865-03-18 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+em  
+  
+HYMN.  
+One sweetly solemn thought  
+Comes to me o’er and o’er;  
+I’m nearer my Home to-day,  
+Than I’ve ever been before.  
+  
+Nearer my Father’s house,  
+Where the many mansions be ;  
+  
+Nearer the great white throne—  
+Nearer the Jasper sea.  
+  
+Nearer the bound of life,  
+Where we lay our burdens down ;  
+Nearer leaving my cross,  
+Nearer wearing my crown.  
+  
+But lying darkly between  
+Winding down through the night,  
+Is that dim and unknown stream,  
+Which leads at last to light.  
+  
+Father, perfect my trust;  
+Strengthen my feeble faith ;  
+Let me feel as if I trod  
+The shore of the river—Death.  
+  
+For even now my feet  
+May stand upon its brink;  
+I may be nearer Home,  
+Nearer now, than I think.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_friend-a-religious-and-literary-journal_1865-03-18_38_29%2Fsim_friend-a-religious-and-literary-journal_1865-03-18_38_29_jp2.zip%2Fsim_friend-a-religious-and-literary-journal_1865-03-18_38_29_jp2%2Fsim_friend-a-religious-and-literary-journal_1865-03-18_38_29_0003.jp2/pct:42.756075,37.871108,18.824977,29.133478/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Raftsman's journal._](https://www.loc.gov/resource/sn85054616/1865-04-12/ed-1/?sp=1)
+
+#### 1865-04-12 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+-  
+  
+NEAEEE HOME.  
+One sweet solemn thought  
+Comes to me o&#x27;er and o&quot;er:  
+I&#x27;m nearer to my homo to day,  
+Than I&#x27;ve ever been before.  
+Kearer to my father&#x27;s house.  
+Where many mansions be;  
+Nearer the great white throne,  
+Nearer tVe j tsper sea.  
+Kearer the bound of life  
+Where we lay our burdens down !  
+Nearer loavin in if cr;iss.  
+Neater wearing my crown.  
+Bat lying darkly between.  
+Wiudiiig down the night.  
+Is that dim and unknown stream  
+Which le:ids at last te light.  
+Father! perfect my trust.  
+Strengthen mv fb&#x27;e faith;  
+Let me it-el as if T trod  
+The shore of the river death.  
+For even now my feet  
+M:iy stand upon its brink ;  
+I uiay be nearer my home.  
+Nearer now than I thin
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477801:1865041201:0537/pct:20.251018,20.012870,10.498643,12.496782/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Columbia Democrat and Bloomsburg general advertiser._](https://www.loc.gov/resource/sn85025181/1865-04-22/ed-1/?sp=1)
+
+#### 1865-04-22 &middot; [Bloomsburg, Pa.](http://dbpedia.org/resource/Bloomsburg%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+  
+Nearer Home.  
+One sweet solemn thought  
+Cemes to me o&#x27;er and o&#x27;er:  
+I&#x27;m nearer to my home to day,  
+Than I&#x27;ve ever baen befere.  
+Nearer to my father&#x27;s house,  
+Where many mansiens be  
+Nearer the great white throne,  
+Nearer the jasper sea.  
+Nearer the hound of life  
+Where we lay our burdens down!  
+Nearer leaving my cross,  
+Nearer wearing my crown.  
+But lying darkly between,  
+Winding down the night.  
+Is that dim and unknown stream  
+Which leads at last to light.  
+Father! perfact my trast,  
+Strengthen aly feeble farth;  
+Let me feel as if I trod  
+The shore of the river death.  
+Fer even now my feet  
+May stand upon its brink;  
+I may be nester to a y home,  
+Nearer now than I think.  
+For the Columhia Democrat.  
+Kitty Wells.  
+BY A SOLDIEr BOY.  
+You ask what makes this darve
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287964:1865042201:0075/pct:16.645232,20.231456,9.351461,16.480759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11069,6 +11873,16 @@ mourned for us be dry and will gliste
 
 ---
 
+## [Article 11 -- No Title](http://search.proquest.com/docview/137288761/fulltext/)
+
+#### From _Ohio Farmer (1856-1906)_
+
+#### 1868-07-11 &middot; [Cleveland](http://dbpedia.org/resource/Cleveland)
+
+[This text is not available under an open license.]
+
+---
+
 ## [From _The weekly Panola star._](https://www.loc.gov/resource/sn83016951/1868-07-11/ed-1/?sp=1)
 
 #### 1868-07-11 &middot; [Panola, Miss.](http://dbpedia.org/resource/Sardis%2C_Mississippi)
@@ -12225,7 +13039,7 @@ our children.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- in a  
+h us in a  
   
 We Fade. —We extract the following beau­  
 tiful and truthful illustration from an exchange :  
@@ -12540,7 +13354,7 @@ WU1 Dr. Miller,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ o his ann i  
   
 We Fane.-We extract the following  
 beantiful and truthful illustration from an  
@@ -12555,7 +13369,7 @@ ar revel in luxrry and wealth, go to the
   
 begs by the wavside, u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:0028077604A:1871010701:0857/pct:82.445759,76.648619,12.533620,5.150632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:0028077604A:1871010701:0857/pct:72.637619,76.648619,22.341761,14.841038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13797,10 +14611,7 @@ Have opened their new and elegant store with a large stoc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- open comibined with the medicinal properties o  
-on Mondays, Tuesdays and Wednesdays froma Boke oot livested of all disagrecable guall  
-  
-Sssssssssan ssssense whose real or dirco  
+ whose real or dirco  
   
 rause is bad blood. Rheuiatiam, Paf  
   
@@ -13813,7 +14624,7 @@ vapor, while nature wore the same
   
 M S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn85033549:00296023954:1873030401:0316/pct:47.579815,89.459282,48.300721,7.311734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn85033549:00296023954:1873030401:0316/pct:47.579815,90.586690,48.227159,6.184326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13982,7 +14793,13 @@ o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ance.  
+.  
+How Wf Fade.  
+As the trials of life thicken, and the  
+dreams of other days fade one by one,  
+in the deep vista of disappointed nope,  
+the heart grows weary of the struggle,  
+and w e begin to realizeour insignificance.  
 I Those who have climbed to the pinnacle  
 i of fame, or revel in luxury and Wealth,  
 I go to the grave at last with the poor  
@@ -14014,7 +14831,7 @@ t support their wives and children, is
 apt to militate against the usefulness of  
 the cable a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1873050901:0049/pct:62.971698,71.667010,14.298349,16.783433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1873050901:0049/pct:62.971698,68.957346,14.298349,19.493097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14062,7 +14879,7 @@ for our children.
 
 ---
 
-## ECHOES OF THE PAST.
+## [ECHOES OF THE PAST.](http://search.proquest.com/docview/137363420/fulltext/)
 
 #### From _Reformed Church messenger /_
 

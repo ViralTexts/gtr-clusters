@@ -108,6 +108,29 @@ Oe
 
 ---
 
+## [From _Spirit of Jefferson._](https://www.loc.gov/resource/sn84026788/1849-08-07/ed-1/?sp=1)
+
+#### 1849-08-07 &middot; [Charles Town, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ of heaven it minglon its wolee  
+hecpt langnage of heaveeseaintotor toe  
+hoirs when the leaves fall and the winter is ga­  
+tharing, to that evening stuly which the marey  
+thering to thaes eoviled i the boor of aivationl  
+cnttholite the shadow walley opens, which deadd  
+tan whlle the shadoy eniot ong thatfore whch  
+au Pomfors and save, and which san conduceto  
+these greempa stures and thoee atill waternw here  
+therolis an eternal spring for the children of Go
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192300:1849080701:0096/pct:53.374632,51.078990,14.217640,4.997964/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Lancaster intelligencer._](https://panewsarchive.psu.edu/lccn/sn83032304/1849-08-21/ed-1/seq-1/)
 
 #### 1849-08-21 &middot; [Lancaster [Pa.]](http://dbpedia.org/resource/Lancaster%2C_Pennsylvania)
@@ -141,29 +164,6 @@ him, can do so. The jailer gives :the
 water, but no food. If he has any friends ,wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fontus_ver01%2Fdata%2Fsn83032304%2F000002694%2F1849082101%2F0133.jp2/pct:73.285590,80.850331,10.785590,10.515436/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The miners' express._](https://www.loc.gov/resource/sn86083363/1849-10-10/ed-1/?sp=1)
-
-#### 1849-10-10 &middot; [Dubuque, Iowa](http://dbpedia.org/resource/Dubuque%2C_Iowa)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Ich&#x27; tlwff mercy &#x27;of heaven  
-  
-has provided in the book of j%|yatjon.-i*­  
-And while the shadow vali^ OjptnS, which  
-leads to the abode of derat, &quot;it spenks of  
-that love, wliicb cog-co&amp;ftrt and save,  
-and which can coSdract io thesa pastures  
-and &quot;those.&#x27;still waters, where there is  
-eternal spring for the children of God.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:0041566882A:1849101001:0338/pct:56.359244,29.138028,12.803752,4.608451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1690,7 +1690,7 @@ themselves would be puzzled to rea
 
 ---
 
-## FLOATINGS-BY.
+## [FLOATINGS-BY.](http://search.proquest.com/docview/126442903/fulltext/)
 
 #### From _Home Journal (1846-1856)_
 
@@ -1988,7 +1988,7 @@ ischolars, sent to the printer in their own hand-
 
 ## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1850-01-19_20_3/page/n3/mode/1up?view=theater)
 
-#### 1850-01-19
+#### 1850-01-19 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3734,7 +3734,7 @@ the writer himself would be puzzled to; read!&quot;
 
 ---
 
-## NEWS PAPER EDITING IN LONDON.
+## [NEWS PAPER EDITING IN LONDON.](http://search.proquest.com/docview/136572175/fulltext/)
 
 #### From _New York Observer and Chronicle (1833-1912)_
 
@@ -3750,10 +3750,7 @@ the writer himself would be puzzled to; read!&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;Pre not the money.&quot;  
-&quot;That&#x27;s just my e ise sir. I am glad to see  
-)oti can appreciate in) condition. Give lis  
-) our hand!&#x27;  
+  
 PnxTCCS and PjiiMixcr J. T. Buckingham  
 in Ins series of niuiiitseam cin course; ot pub-  
 lic itiou in the Boston .Courier speiks ot the  
@@ -3789,7 +3786,7 @@ tpend iu reducing to a readable condition
 manuscripts that the writer himself would be  
 puzzled to read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth79792/m1/2/pct:58.466667,71.889401,11.866667,18.228367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth79792/m1/2/pct:58.466667,74.142345,11.866667,15.975422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4474,7 +4471,7 @@ pelled to spend in reducing to a readable
 condition, manuscripts that the author  
 himielf would be puzzled to read.’  
   
-Pr
+Progress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_dinomayo_ver02:data:sn92051540:00516996894:1852091101:0142/pct:19.408305,13.879870,12.903226,21.929113/!600,600/0/default.jpg"/>
 </td>
@@ -4533,7 +4530,7 @@ practical printer knows how many hours a compositor?and,
 after him, a proof-render?is compelled  
 to spend in reducing, to a readable condition,  
 manuscripts which &#x27;ho writers themselves  
-would be puzzled to rea
+would be puzzled to read with propriety.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852092301:0312/pct:84.831771,60.749399,15.940430,18.341709/!600,600/0/default.jpg"/>
 </td>
@@ -4817,7 +4814,7 @@ I
 
 ---
 
-## PRINTERS AND THE ART OF PRINTING.
+## [PRINTERS AND THE ART OF PRINTING.](http://search.proquest.com/docview/137500422/fulltext/)
 
 #### From _German reformed messenger._
 
@@ -4827,7 +4824,7 @@ I
 
 ---
 
-## PRINTERS AND WRITERS.
+## [PRINTERS AND WRITERS.](http://search.proquest.com/docview/135971037/fulltext/)
 
 #### From _Christian Observer (1840-1910)_
 
@@ -5740,7 +5737,7 @@ Proof Reader.
 
 ---
 
-## Miscellaneous Items.
+## [Miscellaneous Items.](http://search.proquest.com/docview/137518169/fulltext/)
 
 #### From _German reformed messenger._
 

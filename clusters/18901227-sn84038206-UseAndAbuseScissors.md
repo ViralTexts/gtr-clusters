@@ -176,7 +176,7 @@ per&#x27;s real value is not the amount
 of original matter it contains, but  
 the average quality of all the mat­  
 ter appearing in its columns, wheth­  
-er original or selected
+er original or selected.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661769:1891030501:0315/pct:7.640638,26.916247,11.859782,27.626517/!600,600/0/default.jpg"/>
 </td>
@@ -728,9 +728,10 @@ The true test of a newspaper&#x27;s real val-
 ue is not the amount of original marter it  
 contains, but the average quality of all  
 the matter appearing in its columns,  
-whether original or selected
+whether original or selected.  
+I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763219:1891100201:0255/pct:73.432698,36.519577,10.986478,2.510876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763219:1891100201:0255/pct:73.432698,36.519577,10.986478,3.542573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

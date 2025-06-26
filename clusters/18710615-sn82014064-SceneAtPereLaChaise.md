@@ -1,7 +1,7 @@
 
 # The Scene at Pere la Chaise
 
-### 39 reprints from 1871-06-01 to 1871-08-19
+### 40 reprints from 1871-06-01 to 1871-08-19
 
 ## [The Scene at Pere la Chaise](https://chroniclingamerica.loc.gov/lccn/sn82014064/1871-06-15/ed-1/seq-1/)
 
@@ -94,6 +94,16 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 #### From _Manchester Times_
 
 #### 1871-06-03 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
+
+[This text is not available under an open license.]
+
+---
+
+## SECOND EDITION.
+
+#### From _Preston Chronicle_
+
+#### 1871-06-03 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 

@@ -1,7 +1,7 @@
 
 # A Printer's Epitaph
 
-### 63 reprints from 1854-10-12 to 1897-05-27
+### 66 reprints from 1854-10-12 to 1897-05-27
 
 ## [A Printer's Epitaph](http://chroniclingamerica.loc.gov/lccn/sn97065088/1858-05-06/ed-1/seq-1/)
 
@@ -144,7 +144,8 @@ To be distributed to dust again.
 The body’s but the type, at best, of man,  
 Whose impress is the spirit’s deathless page;  
 Worn out, the tyjie is thrown to pi agaii). -  
-Ths impression lives through an eternal ag
+Ths impression lives through an eternal age  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171992:1854110301:0990/pct:31.966898,93.505747,10.007698,4.281609/!600,600/0/default.jpg"/>
 </td>
@@ -745,26 +746,6 @@ Presen
 
 ---
 
-## [From _Grand River times._](https://www.loc.gov/resource/sn85026466/1857-07-01/ed-1/?sp=4)
-
-#### 1857-07-01 &middot; [Grand Haven, Mich.](http://dbpedia.org/resource/Grand_Haven%2C_Michigan)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-light.  
-A-gentleman having a large sized six­  
-shooter in his hand was asked:  
-&quot; Pray, sir I is that a horse pistol?&quot;  
-44 No sir 1&quot; he replied, 44 it is only a coiV  
-Somebody says tho ladies do not set  
-their caps for the gentlemen any mor
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1857070101:1196/pct:7.351097,42.100203,16.802508,5.223801/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Hillsdale standard._](https://www.loc.gov/resource/sn85033637/1857-07-07/ed-1/?sp=3)
 
 #### 1857-07-07 &middot; [Hillsdale, Mich.](http://dbpedia.org/resource/Hillsdale%2C_Michigan)
@@ -929,7 +910,7 @@ age.
 
 ---
 
-## EPITAPH ON A PRINTER.
+## [EPITAPH ON A PRINTER.](http://search.proquest.com/docview/136607296/fulltext/)
 
 #### From _New York Observer and Chronicle (1833-1912)_
 
@@ -1248,6 +1229,33 @@ will carry her a scuttle of coal.
 
 ---
 
+## Things in General
+
+#### From _Boston investigator._
+
+#### 1875-09-29 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
+
+[This text is not available under an open license.]
+
+---
+
+## [From _Port Tobacco times, and Charles County advertiser._](https://www.loc.gov/resource/sn89060060/1875-10-08/ed-1/?sp=1)
+
+#### 1875-10-08 &middot; [Port Tobacco, Md.](http://dbpedia.org/resource/Port_Tobacco_Village%2C_Maryland)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+Where ten men will cheerfully laA  
+down their lives for a woman, only one  
+will carry a scuttle of coal.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624359:1875100801:0281/pct:83.189415,90.451045,10.696379,1.562156/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## Multiple News Items
 
 #### From _Daily Arkansas gazette._
@@ -1258,13 +1266,32 @@ will carry her a scuttle of coal.
 
 ---
 
-## Odds and Ends.
+## [Odds and Ends.](http://search.proquest.com/docview/136641308/fulltext/)
 
 #### From _New York Observer and Chronicle (1833-1912)_
 
 #### 1875-10-14 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 [This text is not available under an open license.]
+
+---
+
+## [From _Nebraska advertiser._](https://www.loc.gov/resource/sn84020109/1875-10-14/ed-1/?sp=5)
+
+#### 1875-10-14 &middot; [Brownville, Nemaha County, N.T. [Neb.]](http://dbpedia.org/resource/Auburn%2C_Nebraska)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+-back dress.  
+  
+Where ten men will cheerfully lay  
+down their lives for a woman, only  
+one will carry her a scuttle of coal.  
+T
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280532:1875101401:0504/pct:39.270444,10.383883,10.916622,2.736293/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -1315,6 +1342,45 @@ nai aire.
 #### 1875-10-16 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
 
 [This text is not available under an open license.]
+
+---
+
+## [From _Weekly Arkansas gazette._](https://www.loc.gov/resource/sn82016484/1875-10-18/ed-1/?sp=2)
+
+#### 1875-10-18 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+e said he would make about  
+700 gallons, and Capt. Thos. Rye will  
+make 500 or 000 gallons. Mr. John  
+Bloomberg, four miles from town, will  
+make 1500 gallons at least. We have  
+small samples from persons who make  
+for their own consumption, and all are  
+good and pleasant to the taste. Mr.  
+Mike Collins made 160 gallons from  
+an acre of cane. A good cooper could  
+make money by making barrels and  
+kegs for holding it. Thousands of  
+gallons will be made in Sebastian  
+county this year. It is selling at fifty  
+cents per gallon, and is as pretty to the  
+sight and as sweet to the taste as the  
+best Louisiana sirup.  
+A PRINTER’S EPITAPH.  
+Here lies a form—place no imposing stone  
+To mark tne head, where weary it is lain;  
+Tls matter dead its mission being done—  
+To be distributed to dust again.  
+The body’s but a type and head of man,  
+I Whose impress is the spirit’s deathless page;  
+1 Worn out, the type is thrown to pi again—  
+The impression lives tlirdhgli an eternal ag
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fluorite_ver01:data:sn82016484:00516990788:1875101801:0315/pct:51.490733,80.561732,11.909750,12.264482/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 

@@ -1,7 +1,7 @@
 
 # The Explorations at Jerusalem
 
-### 31 reprints from 1867-11-14 to 1871-08-11
+### 29 reprints from 1867-11-14 to 1871-08-11
 
 ## [The Explorations at Jerusalem](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1/)
 
@@ -806,7 +806,7 @@ ren and sisters, is the tru
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
   
 following description of his explorations  
 at this point, taken from one of his letters  
@@ -1092,39 +1092,23 @@ wall, at a point near what is | this point, taken from one of his letters writte
 known as Wilson’s Arch. | at the time, will afford the reader a more  
 It receives this name from | graphic picture of the difficulties and dangers  
 the fact that it was first dis- | which attended his investigations than can be  
-covered by Captai
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_harpers-magazine_1871-07_43_254%2Fsim_harpers-magazine_1871-07_43_254_jp2.zip%2Fsim_harpers-magazine_1871-07_43_254_jp2%2Fsim_harpers-magazine_1871-07_43_254_0039.jp2/pct:29.995608,28.521940,56.258235,35.883372/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1871-07_43_254/page/n39/mode/1up?view=theater)
-
-#### 1871-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-| given by any general description :  
+covered by Captain Wilson, | given by any general description :  
 who had not the means,| ‘On Friday, having arrived at a depth of  
 however, to prosecute any | seventy-nine feet, the men were breaking up a  
   
-SORO
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_harpers-magazine_1871-07_43_254%2Fsim_harpers-magazine_1871-07_43_254_jp2.zip%2Fsim_harpers-magazine_1871-07_43_254_jp2%2Fsim_harpers-magazine_1871-07_43_254_0039.jp2/pct:30.390865,63.048499,55.862978,6.264434/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1871-07_43_254/page/n39/mode/1up?view=theater)
-
-#### 1871-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
+SOROS  
   
+  
+  
+mining operations,  
+  
+SHAFT SUNK.  
+  
+]  
+  
+Captain Warren’s explora- | stone at the bottom of the shaft. Suddenly the  
+  
+tions proved this arch to be one of a series form- ground gave way, down went the stone and  
 ing a viaduet which led from the Temple toward | the hammer, the men barely saving themselves.  
 the palace of Herod on the western hill,and con-| They at once rushed up, and told the sergeant  
 stituting perhaps the very bridge across which | they had found the bottomless pit. I went  
@@ -1159,7 +1143,7 @@ descent.
 ‘The shaft mouth is on the south side of the  
 Sanctuary wall, near the southwest angle, among
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_harpers-magazine_1871-07_43_254%2Fsim_harpers-magazine_1871-07_43_254_jp2.zip%2Fsim_harpers-magazine_1871-07_43_254_jp2%2Fsim_harpers-magazine_1871-07_43_254_0039.jp2/pct:15.854194,84.555427,70.794906,6.091224/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_harpers-magazine_1871-07_43_254%2Fsim_harpers-magazine_1871-07_43_254_jp2.zip%2Fsim_harpers-magazine_1871-07_43_254_jp2%2Fsim_harpers-magazine_1871-07_43_254_0039.jp2/pct:15.810277,28.521940,70.838823,62.124711/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1913,6 +1897,7 @@ l.eved, that one with God is a majority
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
   
 The Exploration of Jerusalem.  
 Tho first operations wero commcnccd on  

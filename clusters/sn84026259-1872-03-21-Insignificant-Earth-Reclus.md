@@ -112,7 +112,7 @@ human brain, to have ascertained such
 astounding facts, and demonstrated  
 the laws which govern universal  
 nature!  
-Monsteur D.
+Monsteur D. live
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84026522:00296023140:1872040401:0292/pct:84.578207,66.579753,11.057411,20.711937/!600,600/0/default.jpg"/>
 </td>

@@ -1,7 +1,7 @@
 
 # Advantage of Taking a Newspaper
 
-### 410 reprints from 1839-09-04 to 1895-08-10
+### 396 reprints from 1839-09-04 to 1895-08-10
 
 ## [Advantage of Taking a Newspaper](http://chroniclingamerica.loc.gov/lccn/sn85054702/1841-07-03/ed-1/seq-1/)
 
@@ -953,11 +953,9 @@ At home like neighbor Jim,
 1711 bet a cent the accident  
 Would not have happened him.  
   
-* W  
-Miscellanp.  
-From the
+* W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_carrigain_ver01:data:sn84022903:00517015386:1841030301:0112/pct:5.734967,47.445796,10.857461,10.914860/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_carrigain_ver01:data:sn84022903:00517015386:1841030301:0112/pct:5.734967,47.445796,10.857461,9.275516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1015,7 +1013,7 @@ Would not have happened him
 
 ---
 
-## ADVANTAGE OF TAKING A NEWSPAPER.
+## [ADVANTAGE OF TAKING A NEWSPAPER.](http://search.proquest.com/docview/137096612/fulltext/)
 
 #### From _The New World; a Weekly Family Journal of Popular Literature, Science, Art and News (1840-1845)_
 
@@ -1032,34 +1030,6 @@ Would not have happened him
 #### 1841-05-25 &middot; [Cleveland [Ohio]](http://dbpedia.org/resource/Cleveland)
 
 [This text is not available under an open license.]
-
----
-
-## [From _Carolina watchman._](https://newspapers.digitalnc.org/lccn/sn85042201/1841-05-29/ed-1/seq-1/)
-
-#### 1841-05-29 &middot; [Salisbury, N.C.](http://dbpedia.org/resource/Salisbury%2C_North_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-&quot; TtflE DirrKUENLE. .  
-I know two friends, as mot h alike)  
-As e&#x27;er you sw two stiinps; .  
-And aw plitenolojisl eoold find  
-,, A difference ia their bampj.  
-I Oris took the paper, Snd his life  
-Was huppier thsa a king&#x27; t  
-Ilia eiiililreA all can read and write.  
-And talk of are and thing.  
-Thenthsr took au paper, snd &#x27; w &quot;  
-While strolling through the wood,  
-A iies fV II down upon his eion,  
-And killed him as it should.  
-... Had he been reading of ths new, &#x27;  
-. At bonis like neiahhor Jiai.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal7_ver01%2Fdata%2F1841052901%2F0485.jp2/pct:19.534497,15.914238,11.720698,9.497207/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
@@ -1243,11 +1213,9 @@ And killed him as it should.
 Had he been reading of the news,  
 At home like neighbor Jim,  
 I’ll bet a cent the accident  
-Would not have happened him.  
-SulpM, Snaps, and Scrap*.  
-(Stolen from the 
+Would not have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_dinomayo_ver02:data:sn84023073:00516996936:1841070301:0372/pct:7.763744,13.169581,9.268202,19.719678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_dinomayo_ver02:data:sn84023073:00516996936:1841070301:0372/pct:8.302377,13.169581,8.599554,17.624202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1672,52 +1640,13 @@ which tmr pocket
 
 ---
 
-## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1844-08-31_25_1205/page/n3/mode/1up?view=theater)
-
-#### 1844-08-31 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-THE DIFFERENCE.  
-  
-1 knew two friends, as much alike  
-  
-i  
-| A difference im their bumps  
-One took a paper, and bis life  
-} Yas happier than « king&#x27;s;  
-j His childrea all could read and write,  
-| And talk of men aod things  
-| The ‘other took no paper, and  
-} While atroliimg through the wood,  
-A tree fell down upon hus crown,  
-| Aad tilled hum—as it should  
-| Had he been reading of the news,  
-At home like neighbor Jim  
-} TH bet « cent the accudent  
-Would not have happened hum  
-You are convinesd of th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_saturday-evening-post_1844-08-31_25_1205%2Fsim_saturday-evening-post_1844-08-31_25_1205_jp2.zip%2Fsim_saturday-evening-post_1844-08-31_25_1205_jp2%2Fsim_saturday-evening-post_1844-08-31_25_1205_0003.jp2/pct:45.692568,25.149004,7.770270,6.425353/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Grant County herald._](https://www.loc.gov/resource/sn87082160/1844-09-14/ed-1/?sp=1)
 
 #### 1844-09-14 &middot; [Lancaster, W.T. [i.e. Wis.]](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-to the gathering—come!  
-Ocean and earth, restore  
-All that your arms entomb,  
-Myriads from every shore,  
-Come to the gathering—come!  
-THE DIFFERENCE.  
+.  
 I knew two friends, as much alike  
 As ere you saw two stumps;  
 And no phrenologist conld find  
@@ -1734,9 +1663,9 @@ Had he been reading of the news,
 At home like neighbor Jim,  
 I&#x27;ll bet a cent the accident  
 Would not have happened him.  
-D’ye give it up 1 Then just send to th
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082160:00514159324:1844091401:0305/pct:20.072115,32.406741,14.443109,16.217773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082160:00514159324:1844091401:0305/pct:20.072115,37.505401,13.321314,11.075904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1748,8 +1677,7 @@ D’ye give it up 1 Then just send to th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-The Difference,  
+,  
 I knew two friends, as much alike  
 As eer you saw two stamps;  
 And ne phrenologiet could find  
@@ -1768,11 +1696,9 @@ A tree fell dawa apon his crown,
 Had he been reading of the news,  
 At home like neighbor Jim,  
 L&#x27;il beta cent the accident  
-Would not bave lbuppened him.  
-  
-Who will aot eubseribe for th
+Would not bave lbuppened him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_american-cultivator_1844-10-05_6_40%2Fsim_american-cultivator_1844-10-05_6_40_jp2.zip%2Fsim_american-cultivator_1844-10-05_6_40_jp2%2Fsim_american-cultivator_1844-10-05_6_40_0007.jp2/pct:13.718929,11.757617,13.408222,11.740403/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_american-cultivator_1844-10-05_6_40%2Fsim_american-cultivator_1844-10-05_6_40_jp2.zip%2Fsim_american-cultivator_1844-10-05_6_40_jp2%2Fsim_american-cultivator_1844-10-05_6_40_0007.jp2/pct:15.152964,12.635566,11.974187,10.001721/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1784,11 +1710,7 @@ Who will aot eubseribe for th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ntly adverted to this subject, and given  
-our own ideas of the matter and those of others ;  
-but we have recorded no case so shocking and fatal  
-in its consequences as the following from an ex-  
-change paper, entitled “ The Difference”—  
+—  
   
 I knew two friends, as much alike  
 As e’er you saw two stumps;  
@@ -1811,43 +1733,9 @@ And killed him—as it should.
 Had he been reading of the news,  
 At home like neighbor Jim,  
 I&#x27;ll) bet a cent the accident  
-Would not have happened him.  
-We hope our readers will show this to thei
+Would not have happened hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_maine-farmer_1844-10-24_12_43%2Fsim_maine-farmer_1844-10-24_12_43_jp2.zip%2Fsim_maine-farmer_1844-10-24_12_43_jp2%2Fsim_maine-farmer_1844-10-24_12_43_0001.jp2/pct:50.817610,26.855601,14.616352,11.692693/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Highland messenger._](https://newspapers.digitalnc.org/lccn/sn84020687/1844-11-08/ed-1/seq-4/)
-
-#### 1844-11-08 &middot; [Asheville, N.C.](http://dbpedia.org/resource/Asheville%2C_North_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-Tho Difference  
-I knew two friend, as joucb akke.  
-As e&#x27;er yoasaw two stumps;&#x27; 1  
-&#x27;And no phrenologist eo$dd Cud  
-A difference to thir bumps. i . : -  
-One took the &quot; Messengtr.f and Lb life.  
-Was happier than a king&#x27;s;  
-His children all could read and iHte i &#x27; .&#x27; ;  
-And talk of men and things. &#x27; ij  
-The other took no Messenger,&quot; and ,  
-Went strolling through the wooi,  
-A trceclFdown upon bis crown, j  
-. . And killed him as l should -- &#x27;  
-. Had he been reading of the news.  
-At home, like neighbor. Jim,  
-I&#x27;ll bet a cent the accident . ,  
-Would not hare happened him.  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AsvHM3_ver01%2Fdata%2F1844110801%2F0380.jp2/pct:8.661417,9.015073,11.049869,12.332923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_maine-farmer_1844-10-24_12_43%2Fsim_maine-farmer_1844-10-24_12_43_jp2.zip%2Fsim_maine-farmer_1844-10-24_12_43_jp2%2Fsim_maine-farmer_1844-10-24_12_43_0001.jp2/pct:52.528302,30.123385,9.283019,7.653750/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1870,14 +1758,21 @@ Subscribe, you cannot lose a cent,
 Depend tho advice i good;  
 For cash thus spent is money lent  
 On interest four fold paid.  
-My grandad used to make his brsjs  
-Of living at a day  
-When papers sold as chnnpas rags,&quot;  
-And trust was took for pay.  
-My grandma, when she had the blue,  
-Would thank her gracious stars  
-That papers filled with wholesome news  
-Were scattered every wraes.  
+My grandad used to mak
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292431:1845022201:0241/pct:64.238281,11.048289,13.906250,7.686430/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Boon's Lick times._](https://www.loc.gov/resource/sn83016957/1845-02-22/ed-1/?sp=1)
+
+#### 1845-02-22 &middot; [Fayette, Mo.](http://dbpedia.org/resource/Fayette%2C_Missouri)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
 I knew two friends, as much alike  
 As e&#x27;er you saw two stumps;  
 And no phrenel -gist could find  
@@ -1932,7 +1827,7 @@ Can live at peace with God and man,
 And with the printer too.  
 A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292431:1845022201:0241/pct:64.238281,11.048289,13.906250,50.458435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292431:1845022201:0241/pct:64.941406,23.884474,11.640625,37.622249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2004,106 +1899,6 @@ Of sonic new pills in force;
 I knew 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1845051401:0258/pct:4.262673,34.514509,14.573733,21.386719/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Pittsburgh morning post._](https://panewsarchive.psu.edu/lccn/sn85054565/1845-07-08/ed-1/seq-2/)
-
-#### 1845-07-08 &middot; [Pittsburgh, Pa.](http://dbpedia.org/resource/Pittsburgh)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-knew two friends en much alike  
-As e&#x27;er you sew two stomps;  
-And nolihrenologiet could find,  
-A difference in their bumps.  
-  
-- &quot;Each had a farm of equal worth,  
-&#x27;A pretty wife to keep—  
-above boys. three horses, and a cow,  
-Ade and twenty sheep.  
-  
-&#x27;One took th• papers and his life  
-Is happier than a king&#x27;s;  
-His children all.can reel and write,  
-And talk of men and things.  
-  
-&quot;The other took no papers. end  
-While straggling through the world,  
-A tree fell down upon his crown,  
-And killed him as it should.  
-  
-be been reading of the &#x27;newr,&#x27;  
-At bonne, like neighbor Jim,  
-I&#x27;ll het n cent chat accident.  
-:Wouhl.not have happened him.  
-  
-&#x27;A WOXAN LOMECHKR HUSEI•ND IN, AND NUNS.—  
-Three months ago, says the Boston Post, down east,  
-the wife of Mr Bernard, painter, left him fo
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_felicitas_ver01%2Fdata%2Fsn85054565%2F000002457%2F1845070801%2F0022.jp2/pct:17.411782,57.716121,10.986094,11.039720/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Evansville journal._](https://www.loc.gov/resource/sn84023914/1845-07-10/ed-1/?sp=2)
-
-#### 1845-07-10 &middot; [Evansville, Ind.](http://dbpedia.org/resource/Evansville%2C_Indiana)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-, the Last lurKU-  
-  
-1  
-  
-and the West, join togeiher in devising some  
-  
-Was happier than a king&#x27;s; -  
-  
-Ilis &#x27;children all could read and write  
-And talk of men and things.  
-Tlie other took no paper, and  
-While strolling through the wood,  
-A tree fell down upon his crown,  
-; And. killed him as it should.  
-Had he been reading of the news,  
-At home, like neighber Jim  
-I&#x27;ll bet a cent that accident  
-Would not have happened him.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn84023914:00296029816:1845071001:0292/pct:6.830695,74.800309,42.980041,9.804174/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Alexandria gazette._](https://www.loc.gov/resource/sn85025007/1845-07-11/ed-1/?sp=4)
-
-#### 1845-07-11 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-—  
-One took a paper, and his life  
-Was happier than a king&#x27;s;  
-His children all could read and write,  
-And talk of men and things.  
-*f he other took no paper, and  
-While strolling through the wood,  
-A tree fell down upon his crown,  
-* And killed him—as it should.  
-^Ifad he been reading of the news  
-. At home, like neighbor Jim,  
-B&#x27;il bet a cent that accident  
-Would not have happened him
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845071101:0382/pct:7.265697,9.401004,12.038262,6.436971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2203,6 +1998,39 @@ Would not have happened him.
 
 ---
 
+## [From _Arkansas state gazette._](https://www.loc.gov/resource/sn82016481/1845-07-21/ed-1/?sp=1)
+
+#### 1845-07-21 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+t in airy rings.  
+Singing a dirge to me.  
+A TALE with a Moral.—Some unknown  
+poet in an exchange paper relates, in very  
+touching verse, the opposite fates of two early  
+friends. We agree with Field of the Reveille,  
+who says that the little tale has a great moral:  
+One took a paper, and his life  
+Was happier than a king’s;  
+His children all could read and write,  
+And talk of men and things.  
+The other took uo paper, and  
+While strolling through the wood,  
+A tree fell down upon his crown,  
+And killed him— as it should.  
+Had he been reading of the news,  
+Ai home, like neighbor Jim—  
+1*11 bet a cent that accident  
+Would not have happened him.  
+EYACTLr
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fluorite_ver01:data:sn82016481:00516990703:1845072101:0550/pct:31.576737,48.963769,14.675625,11.018339/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Lynchburg Virginian._](https://www.loc.gov/resource/sn84024649/1845-07-21/ed-1/?sp=4)
 
 #### 1845-07-21 &middot; [Lynchburg [Va.]](http://dbpedia.org/resource/Lynchburg%2C_Virginia)
@@ -2249,8 +2077,7 @@ Would not have happened!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-icher blessings at his table, that  
-day, than did the wood sawyer upon his log.  
+n his log.  
 A great unknown (says the St. Louis Reveille,)  
 in an exchange paper, relates, in very touching  
 verse, the opposite fates of two early friends ; the  
@@ -2271,7 +2098,7 @@ Would not have happened him.
 Tribute to Merit.—A large number of the  
 friends of Law and Or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1845072401:0086/pct:57.500535,55.901729,17.312219,11.185836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1845072401:0086/pct:57.521935,56.395828,17.290820,10.691738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2417,27 +2244,6 @@ All persons residing in the vicinity of the following
 post offices, will receive their papers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191290:1845073001:0077/pct:19.619214,22.267989,14.618667,9.541022/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Richmond palladium._](https://www.loc.gov/resource/sn86058217/1845-07-30/ed-1/?sp=1)
-
-#### 1845-07-30 &middot; [Richmond, IA [i.e. Ind.]](http://dbpedia.org/resource/Richmond%2C_Indiana)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- that &quot;all imui arc born free ami equal. &quot; j  
-  
-One took a paper, and his life  
-Was happier than a king&#x27;s;  
-His childron all could read and write  
-Acd talk of mon and thin&#x27;rs.  
-  
-CT&#x27;As soon as th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744754:1845073001:0330/pct:20.801260,67.324561,32.015395,5.811404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2633,15 +2439,23 @@ ii- her name is iuim beuy , v
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-*  
-A great unknown in a exchange paper relates,  
+ in a exchange paper relates,  
 in very touching verse, io opposite fates of two  
 early friends: the little le has a great moral.  
 One took a pnpo and his life  
 Was happier t tn u king’s;  
-Hi
+His children all »uld read and write,  
+And talk of r in and thing*.  
+The other took 1 paper, and  
+While slrollin through the wood, •  
+A tree fell down ipon his crown,  
+’ And killed hii —as il should.  
+, Had he been ren ing of the news,  
+&#x27; At home like sighbor Jim;  
+, I&#x27;ll l»et a cent th I accident  
+Would not ha 1 happened hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82016488:00513688040:1845080901:0477/pct:74.004899,33.588247,18.340478,4.024955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82016488:00513688040:1845080901:0477/pct:73.668096,33.648621,18.677281,10.786879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2755,7 +2569,7 @@ Would not have happened him,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- SuBSerIbe.  
+.  
 A great unknown, says the St. Louis Reveille,  
 in an exchange paper relates, in very touching  
 verse, the opposite fate of two early friends;  
@@ -2773,7 +2587,7 @@ At home, like neighbor Jim,
 I&#x27;ll bet a cent that accident  
 Would not have happened him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776014:1845081601:0068/pct:5.319149,10.953058,14.389698,11.365576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776014:1845081601:0068/pct:5.319149,11.578947,14.389698,10.739687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2988,8 +2802,7 @@ et — e
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-than you.  
-A great unknown in an exchange paper relates in very  
+ great unknown in an exchange paper relates in very  
 touching verse the opposite fates of two early friends:  
 the li&#x27;.lle tale has a great moral.  
 One took a paper and his life  
@@ -3003,36 +2816,10 @@ And killed him as it should.
 Had he been reading of the news ;  
 At home like neighbor Jim ;  
 I&#x27;ll bet a cent thai accident  
-Would not have happened him. 
+Would not have happened him. 4?  
+Exactly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth78119/m1/1/pct:60.466667,65.935162,17.200000,10.473815/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Hill's New-Hampshire patriot._](https://www.loc.gov/resource/sn84022903/1845-10-09/ed-1/?sp=4)
-
-#### 1845-10-09 &middot; [Concord, N.H.](http://dbpedia.org/resource/Concord%2C_New_Hampshire)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-!  
-THE WARNING.  
-One took a paper, and his life  
-Was happier than a King’s;  
-His ehildren all could read and write,  
-And talk of men and things.  
-The othier took no paper, and  
-While strolling through the wood,  
-A tree fell down upon his crown,  
-And Killed him as it should.  
-Had he been reading of the news,  
-At home, like neighbor Jim—  
-I’il bet a cent that accident  
-Would not have happened him
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_carrigain_ver01:data:sn84022903:00517015404:1845100901:0164/pct:85.318404,29.241840,7.557733,4.088018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth78119/m1/1/pct:60.466667,66.882793,17.200000,9.925187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3200,10 +2987,7 @@ For he who takes the paper
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, in an exchange paper, re­  
-lates, in very touching verse, the opposite fate of  
-two early friends. We agree with Field of the  
-Reveille, who says that the little tale has a great  
+eat  
 mora :  
 One took a paper and his life  
 Was happier than a king&#x27;s ;  
@@ -3216,20 +3000,9 @@ And killed him as it should.
 Had he been reading of the news,  
 At home, like neighbour Jim  
 I&#x27;ll bet a cent that accident  
-Would not have happened him.  
-True religion- Somebody, who has evidently  
-got into the world through some mistake, has writ­  
-ten this : &#x27; -  
-41 What are another&#x27;s faults to me 7  
-I&#x27;ve not a vulture&#x27;s bill  
-To pick at every flaw I see,  
-And make it wider still.  
-It is enough for me to know  
-I&#x27;ve follies of my own  
-And on my heart the care bestow,  
-And .let my friends alone
+Would not have happened him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1845111201:0397/pct:32.806540,66.356757,15.095368,14.756757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1845111201:0397/pct:32.833787,68.108108,15.027248,6.918919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3308,86 +3081,6 @@ Aud with the Printer too.
 
 ---
 
-## [From _Virginia free press._](https://www.loc.gov/resource/sn84026784/1845-11-20/ed-1/?sp=1)
-
-#### 1845-11-20 &middot; [Charlestown, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-Speaking of the playful zephyr, a chl  
-ver poet thus writes:  
-&quot;He steals a kiss from my sweet Miss,  
-Before she can forbid it!  
-She sighs to find it was the wind,  
-her lover did it t  
-RAcTION --Man is prone to sland.  
-e sparks fly upward. How he feas  
-on the faults of others? But be unfo  
-lunate; be unable to pay your just deb  
-and what do your creditors think of you  
-In their view you are a human monsier­  
-a cheat--a villain--scoundrel, double di  
-tilled. Let your name be mentioned i  
-their presence, and Billingsgate appear  
-to be stoo loose. Tis not as it should t  
---but thus is man, untempered by religior  
-What are another&#x27;s faults to me?  
-I&#x27;ve not a vultute&#x27;s bilt,  
-To pick at every flaw I see,  
-And make it wider stilll  
-It is enough for me to know   
-I&#x27;ve follies of my own;  
-And on my heart the care bestor  
-And let my friends alone.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157315:1845112001:0082/pct:56.364898,33.886802,12.578044,12.595443/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Mississippi Democrat._](https://www.loc.gov/resource/sn86053972/1845-11-26/ed-1/?sp=1)
-
-#### 1845-11-26 &middot; [Carrollton, Miss.](http://dbpedia.org/resource/Carrollton%2C_Mississippi)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- as three hundred in a brook?  
-  
-Dkthaction. Man is prone tn slander  
-  
-as the sparks II v upward. How he feasts  
-upon the fuuhs of others! Be unfortunate,  
-be unable to pay your just debts, nnd  
-  
-whut do your creditois think of your fn  
-  
-heir view you are a human monster a  
-  
-cheat a villain a scoundrel double dia  
-  
-tilled. Let your mime be mentioned in  
-  
-their presence, and Billingsgite appears  
-lo be let loose.  
-  
-Whataro another&#x27;s fan Us to me!  
-I&#x27;ve not a vulture&#x27;s bill,  
-To pick at every Haw I see,  
-And make it wider still.  
-It isenough for me to know  
-I&#x27;ve follies of my own;  
-And on my heart the care bestow,  
-And lei my friends alone.  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86053972:00295878472:1845112601:0205/pct:18.049898,16.747355,60.972505,70.772817/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The Port-Gibson correspondent._](https://www.loc.gov/resource/sn83016954/1845-11-26/ed-1/?sp=1)
 
 #### 1845-11-26 &middot; [Port Gibson, Miss.](http://dbpedia.org/resource/Port_Gibson%2C_Mississippi)
@@ -3413,143 +3106,6 @@ I&#x27;ll bet a cent that accident
 Would not have happen&#x27;d hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_ikat_ver01:data:sn83016954:00199917341:1845112601:0154/pct:3.153299,56.200000,11.368047,9.311111/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Iowa territorial gazette and advertiser._](https://www.loc.gov/resource/sn84037932/1845-11-29/ed-1/?sp=1)
-
-#### 1845-11-29 &middot; [Burlington, Iowa Territory [Iowa]](http://dbpedia.org/resource/Burlington%2C_Iowa)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-oats) and 27,000 fat  
-horse beans.  
-  
-DETRACTION.—Man is prone to  
-as the sparks to fly Upward. How he feast*  
-upon the faults of others! Be unfortunate)&quot;  
-be unable to pay yottr just debts, and whttt  
-do your creditors think of you? In theif  
-view you are a human monster—a cheat  
-a villain—a scoundrel double distille  
-Let your naihe be mentioned in  
-presence, and billingsgate appears  
-let loose. &#x27;Tis not as it should b*—bf|t  
-thus is man, untempered by religion.  
-  
-11$  
-to mi  
-  
-Wihat are another*&#x27;fauita to M?. 1:  
-I&#x27;ve not a vulture&#x27;* bill,  
-To pick at every flaw I Ht,  
-  
-A nd make it wider (till.  
-It is enough for me to know  
-I&#x27;ve follies of my own|  
-Atrd oti my heart the care bestow|r. ..  
-  
-Awl let uiy friends alone.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037932:00415668946:1845112901:0409/pct:80.571429,52.945833,13.328185,12.348750/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Yazoo Democrat._](https://www.loc.gov/resource/sn87065704/1845-12-03/ed-1/?sp=1)
-
-#### 1845-12-03 &middot; [Yazoo City, Miss.](http://dbpedia.org/resource/Yazoo_City%2C_Mississippi)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-grains, aod is without flaw or defect.  
-  
-Dstxaction. Man la prone to slander  
-  
-as the sparks fly upward. How he feasts  
-upon the faults of o.htrs! Be unforluaate,  
-be unable to pay your jusl debts, and what  
-  
-do your creditors think of youf In their  
-  
-view you are a human monster a cheat  
-a rtllian a scoundrel double distilled.  
-  
-Let your name be mentioned in their pret­  
-ence, and Billingsgate appears to be let  
-  
-loose.  
-  
-What are another&#x27;
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065704:00295877571:1845120301:0495/pct:68.394649,73.901061,16.346154,9.328924/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Vermont watchman and State journal._](https://www.loc.gov/resource/sn84023200/1845-12-04/ed-1/?sp=1)
-
-#### 1845-12-04 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-&quot;  
-Detraction. Mnn is prono to slander as tho  
-sparks fly upward, How ho feasts upon tho faults  
-of others! Bo unfortunate ; bo unable to pay your  
-just debts, nnd what do your creditors think of you ?  
-In their view you nro n human monster a cheat  
-a villain a scoundrel double-distilled. Let your  
-nnmo bo mentioned in their presence and billings­  
-gate nppears to ho loose, &#x27;Tis not as it should bo  
-as it ought to bo but thus is man, untempcrcd  
-by the influences of religion:  
-Wlnt mo another&#x27;s f.iultB to mo ?  
-l&#x27;vo not a Tulturo&#x27;i Mil,  
-To pick nt ovory flaw I ice,  
-It Ii onotich for me lo know  
-l&#x27;vo funic! of my own  
-And on my lipfirt the euro bestow  
-And let my friends alone
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845120401:0195/pct:47.569444,15.842713,14.062500,7.550933/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Huntingdon journal._](https://panewsarchive.psu.edu/lccn/sn86071456/1845-12-10/ed-1/seq-4/)
-
-#### 1845-12-10 &middot; [Huntingdon, Pa.](http://dbpedia.org/resource/Huntingdon%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- .  
-  
-Detraction.  
-  
-Man is prone to blander as the sparks fly up­  
-ward. How he feasts upon the faults of others !  
-Be unfortunate; be unable to pay your Just debta,  
-and what do your creditors think of you? In their  
-view you are a human monster—a cheat—a villain  
-—a scottudrel, double distilled. Let your name be  
-lnentionea in their presence, and r i&#x27;llingsgate ap­  
-pears to lie let loose. Tis not as it should be—but  
-thus is man, untetnpered by religion.  
-What are another &#x27;a Nuns to me I  
-I&#x27;ve net-a vulture&#x27;s bill,  
-To pick tit every flaw I see,  
-And make it wider still.  
-It is enough for me to know  
-I&#x27;ve follies of rn!, awn ;  
-on my heart the care besto
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_epona_ver01%2Fdata%2Fsn86071456%2F000002311%2F1845121001%2F0191.jp2/pct:4.922773,82.650616,14.813969,10.293708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3646,6 +3202,78 @@ And with the PRINTER to
 
 ---
 
+## [From _Western frontier Whig._](https://www.loc.gov/resource/sn84025771/1846-02-03/ed-1/?sp=1)
+
+#### 1846-02-03 &middot; [Van Buren, Ark.](http://dbpedia.org/resource/Van_Buren%2C_Arkansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+Why don’t you take the papers?  
+They are “the life of my delight;”  
+Except about election time,  
+And then I read for spite.*  
+Subscribe, you cannot lose a cent,  
+Why should you be afraid?  
+For cush thus spent, is money lent,  
+On interest four fold paid.  
+Go then and take the papers.  
+And pay to-day, nor pray delay,  
+A nd my word heard, it is inferred,  
+You’ll live till you are gray.  
+An old newsmonger friend of mine,  
+While dying from a cough,  
+Desired to hear the latest news,  
+While he was going off  
+  
+I took the paper, and I read  
+Of some new pills in force.  
+He bought a box—and is ho dead?  
+No! hearty us a horse.  
+I  
+I  
+I  
+i  
+I knew n printer&#x27;s debtor once,  
+Racked with a scorching fever.  
+Who sai
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_ilmenite_ver01:data:sn84025771:00516990090:1846020301:0028/pct:28.950431,15.212418,13.474517,16.160131/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Western frontier Whig._](https://www.loc.gov/resource/sn84025771/1846-02-03/ed-1/?sp=1)
+
+#### 1846-02-03 &middot; [Van Buren, Ark.](http://dbpedia.org/resource/Van_Buren%2C_Arkansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+I knew two men as much alike,  
+As e&#x27;er you siw two stumps,  
+And no phrenologist could find  
+A difference in their bumps.  
+One took the papers, and his life  
+is happier than a king&#x27;s,  
+His children all can read and write,  
+And talk of men and things.  
+The other took no papers, and  
+Whilet strolling through the wood,  
+A tree fell down upon his crown,  
+And killed him—“worry good.”  
+Had he been reading of the news,  
+At home, like neighbor Jim,  
+I’ll bet a cent that accident  
+Had never happened hi
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_ilmenite_ver01:data:sn84025771:00516990090:1846020301:0028/pct:30.532930,38.300654,11.612753,11.062092/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## Why Don't You Take the Papers
 
 #### From _Daily sentinel and gazette._
@@ -3687,26 +3315,9 @@ He bought a box—and is he dead?
 No, hearty as a horse!  
 I knew a printer&#x27;s debtor once  
 Racked wiih a scorching fever,  
-Who swore to pay her bill next day,  
-If her disease would leave her.  
-Next morning she was at tier work,  
-Divested of her pain;  
-B*l did forget lo pay her debt;  
-Till taken down again.  
-&#x27;•Here, Jessie, take these silver wheels,  
-Go piy the primer now!&quot;  
-She spoke, she slept, ami tin n awoke  
-With health upon her brow.  
-Why don&#x27;t you take the papers!  
-Nor from tire printer&#x27;s visage sneak,  
-Because yo borrow of his boy  
-A paper every week.  
-For he who tnk :s the papers,  
-And pays bis bills when duo,  
-Can live at peace with God ami man,  
-R | And with the Printer too.
+Who swore t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:00296026141:1846100301:0975/pct:1.743047,23.462288,14.786526,19.788478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:00296026141:1846100301:0975/pct:2.173913,23.462288,14.355660,12.134706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3898,8 +3509,7 @@ I took the paper and I read
   
 Of some new pills in force;  
 He bought a box—and is he dead?  
-No—hearty as a horse!  
-
+No—hearty as a horse!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_maine-farmer_1847-09-30_15_39%2Fsim_maine-farmer_1847-09-30_15_39_jp2.zip%2Fsim_maine-farmer_1847-09-30_15_39_jp2%2Fsim_maine-farmer_1847-09-30_15_39_0001.jp2/pct:29.987421,47.348865,11.635220,6.226150/600,/0/default.jpg"/>
 </td>
@@ -3957,30 +3567,6 @@ Desired to hear the latest news,
 While he was going Off.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002336%2F1847110601%2F0177.jp2/pct:83.407120,35.023294,8.922118,1.325706/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The miners' journal, and Pottsville general advertiser._](https://panewsarchive.psu.edu/lccn/sn84026251/1847-11-06/ed-1/seq-1/)
-
-#### 1847-11-06 &middot; [Pottsville, Pa.](http://dbpedia.org/resource/Pottsville%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-, and linen ertielep.  
-The ewes are hastened together by tn,:issolu„big  
-gine.  
-  
-otki po6riba.  
-  
-I took the paper and I read -  
-Of some new ping in tome &quot;.•  
-lie bought a box—and is.he dead  
-- No—hearty . as a horse:  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002336%2F1847110601%2F0177.jp2/pct:81.658836,16.816251,11.817853,77.973417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6495,6 +6081,146 @@ And with the printer too.
 
 ---
 
+## [From _Arkansas state gazette and democrat._](https://www.loc.gov/resource/sn82016479/1858-03-06/ed-1/?sp=1)
+
+#### 1858-03-06 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ made Clothing at oond ap  
+,—--=orishrna.whe Moa la 6* Bargeis, mU  
+become pnesesnes of a  
+• -art loll os see ores* t  
+WPPPV 99 a SPUTP &quot;WTIYT LT” rrre rW  
+adoted with the SneolothesoMicing  
+AM  
+cassiagnihens.  
+-h smonit hnll anns  
+•===omda0e4 with the Onent,  
+&quot;—W9999* **99 * 911001 1  
+: .... -d. t .  
+J amM oM. UMm ja VMM «  
+in the  
+acsaet.  
+by  
+■ 1.2.  
+‘•n  
+gC0MB TO 858 MsL  
+■■ 26? - - grregman.  
+soag. -012011701  
+&quot;_zune/ess104:  
+oicheit.  
+I»’  
+k 6  
+Am M. I tM&#x27;  
+nnagd  
+* aesis -705,2  
+0R t. . MaK  
+JTwsrg  
+wewe&quot; &quot;t  
+9P* 1  
+. - nanantottabinn.’  
+veespysmegommr,  
+2, T994 at erilind TTea :  
+  
+WIT BUT YOU tiM Til MRU.  
+BY a. P. WiLsH  
+Why don’t you take the papers?  
+They’re the tod w W« i  
+Ereept about slestion times.  
+And them I rend for spite.  
+Subseribe—you cannot lose a dost—  
+Why should you be slraid ?  
+Per ouh thus paid is mnbej Mb*  
+On interest fourfold paid. .  
+you be «Ht!  
+Goe then, and tohe the pepere.  
+AddPYR#HzT2RRS*.  
+- i  
+-  
+■ I  
+I  
+»OQ mi T WUl m 16 • IWwsTee,  
+You’ll live till you are gray.  
+la uld newspaper frond er mine.  
+While dying of a cough.  
+Desired to read the latent news.  
+While he was dgins of  
+I took the paper, and I read .  
+Of some now pills la force ;  
+Be bought s bin and la to dead 1 ■  
+&#x27;t  
+4  
+I knew s printer’s doblor ones.  
+with a  
+fever.  
+next day.  
+Who swore to pay her debt ■—  
+It her distress would leave her.  
+I  
+j  
+!  
+k  
+1  
+L  
+Next morning she was at bar werd,  
+, Divested of her pein,  
+but did forget to pay her debt,  
+Till taken down again,  
+“Hare, Jessie, take these silver wheels.  
+And pay the printer now 1&quot;  
+She slept. Bud slopt, and thee awoke.  
+With health upon her brow.  
+i  
+&#x27; l  
+I knew two mes, he muek alike  
+As ever you saw two stumpe;  
+And no phrenologist amid And  
+A difference to their bumps.  
+I -  
+I  
+«  
+One takes the papers, ।  
+Ie happier than a king”  
+His children all can reed  
+. And talk of men and th  
+and his life  
+ing’sy  
+- -__ and write,  
+. And talk of men and things.  
+I  
+The other took no paper, and  
+While strolling through the wood,  
+A tree HI down and broke his.crown.  
+And killed bim &quot;very good,&quot;  
+Bad be boos reed ins of the news.  
+At home, like neighbor Jim,  
+Til bet a cent that accident  
+Would not hove bappoued Mtn,  
+Why don’t you take the papers ?  
+Nor from the printer suenk,  
+Becanse you borrowed of his boy  
+A paper every week.  
+I  
+i  
+I  
+t  
+I  
+1  
+(  
+I  
+4  
+For be who takes the paper.  
+And pays his bills wheu due  
+Can lira in peace with God and  
+And with the printer too.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fluorite_ver01:data:sn82016479:00516990740:1858030601:0219/pct:37.432578,10.973333,23.426825,86.026667/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _American Lancaster gazette._](https://www.loc.gov/resource/sn85026105/1858-03-11/ed-1/?sp=1)
 
 #### 1858-03-11 &middot; [Lancaster, Ohio](http://dbpedia.org/resource/Lancaster%2C_Ohio)
@@ -8724,7 +8450,7 @@ poses the Nomination o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
 Take the Papers.  
 Why don&#x27;t you take the papers?  
  They&#x27;re the life of my delight;  
@@ -10503,11 +10229,9 @@ readers. We will add this, however, as
 a solemn warning:  
 A young married man was selicited to  
 take a paper. He declined on the ground  
-that any village paper was not worth a  
-Daw; though we do not know whether  
-he meant a fema
+that any village paper was no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237286996:1867082101:0030/pct:69.345595,10.387383,13.239149,10.953912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237286996:1867082101:0030/pct:69.345595,10.387383,13.239149,10.035217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10680,38 +10404,6 @@ cent that accident would not have
 happoned to hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:00237288361:1867091801:0257/pct:83.764535,41.905919,13.435078,6.485571/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Virginia free press._](https://www.loc.gov/resource/sn84026784/1867-09-19/ed-1/?sp=1)
-
-#### 1867-09-19 &middot; [Charlestown, Va. [W. Va.]](http://dbpedia.org/resource/Charles_Town%2C_West_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-.  
-One man took a paper, and his life washap­  
-)ier than a king&#x27;s; his children could read ami  
-write, and talk of men and things. Another  
-ook no paper and while strolling through the  
-wood, a tree fell down upon his crown, and  
-tiUcd him—as it should. Had he been nsad­  
-ng of the news at home, like neighbor Jim,  
-ve il bet a cent that accident would not have  
-iaj&gt;j&gt;ened him.—I.y&gt;ms Republican.  
-[Editors know lots of such stories. They  
-lou’t often tell them, because they don&#x27;t wish  
-u harrow up the feelings of their readers.—  
-IVc giro this however, an a solemn warning.  
-A company has l&gt;een organized in I’hiladel­  
-phia to publish a Weekly Gazelle of t\ishon  
-k.r the benefit of the ladies. The editor* say  
-;hat monthly reports os in magazines, am bo­  
-und the times, thcrelicing “ materia
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:0041418697A:1867091901:0153/pct:81.765973,44.403418,12.203877,9.610718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11702,7 +11394,7 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+.  
   
 TAKE THE PAPERS.  
   
@@ -12097,7 +11789,7 @@ feiert
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ i  
   
 TAKE THE PAPERS.  
   
@@ -12150,7 +11842,7 @@ And with th printer too.
   
 The Tippler
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775113:1869120301:0700/pct:36.951814,3.038348,8.040065,21.524090/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775113:1869120301:0700/pct:31.997834,3.038348,12.994044,29.823009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12822,7 +12514,7 @@ Pleassd on a paper, who abhor a book
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+  
 K kasw tiro friends u much alike  
 A* erer yoa saw two stump*,  
 And uo Phrenologist coaid Cad  
@@ -13588,7 +13280,9 @@ Too Lnte.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+  
+  
+Vital Advantage of Taking a Paper.  
 I know two friends as much alike  
 As ever yon saw two stumps.  
 And no Phrenologist could lind  
@@ -13612,7 +13306,7 @@ Pleased 011 a x&gt;a,per, who abhor a, book.
 Patent Ontsides.  
 From ail address on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_blastoise_ver01:data:sn86079077:0029587613A:1872072701:0126/pct:5.756792,31.089439,12.241268,9.419600/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_blastoise_ver01:data:sn86079077:0029587613A:1872072701:0126/pct:5.756792,30.268792,12.241268,10.240247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13704,7 +13398,7 @@ cent this accident Had net befallen hi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ITAL ADVANTAGE OF  
+. VITAL ADVANTAGE OF  
 TAKING A NEWSPAPER. I knew two friends  
 as much alike As e&#x27;er you saw two  
 stumps; And no phrenologist could find A  
@@ -14601,10 +14295,7 @@ And with the printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-Saratoga Fan Chains can only be  
-had at Picken&#x27;s New Model Jewelry  
-Store. June 15.--tf.  
+e 15.--tf.  
   
   
   
@@ -14657,7 +14348,7 @@ Can live in peace with God and man,
 And with the printer too.  
 Fom th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85026955:00200293538:1875080301:0327/pct:16.280753,13.409879,22.518090,84.683709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85026955:00200293538:1875080301:0327/pct:16.295224,13.409879,22.503618,84.683709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14984,33 +14675,6 @@ And with the printer 100.
 
 ---
 
-## [From _Bristol news._](https://www.loc.gov/resource/sn85026955/1875-08-17/ed-1/?sp=1)
-
-#### 1875-08-17 &middot; [Bristol, Va. & Tenn.](http://dbpedia.org/resource/Bristol%2C_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-voice.&quot;  
-Saratoga Fan Chains can only be  
-had at Picken&#x27;s New Model Jewelry  
-June 15.-tf.  
-  
-Store.  
-  
-  
-BRI87OL, ViRGINiA  
-ANDMEW JOHNSON.  
-BY GEORGE ALFRED TOWNSEND.  
-They who in Northern hamlets drew  
-The warrior breath of freedom in,  
-Th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85026955:00200293538:1875081701:0335/pct:15.589626,12.850796,21.579023,84.505364/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _The workingman's advocate._](https://www.loc.gov/resource/sn89077510/1875-08-21/ed-1/?sp=1)
 
 #### 1875-08-21 &middot; [Chicago [Ill.]](http://dbpedia.org/resource/Cincinnati)
@@ -15175,24 +14839,6 @@ Can live in peace with God and nun.
 And with the printer too
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283132:1875082801:0139/pct:8.579193,12.428161,18.594720,78.505747/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Bristol news._](https://www.loc.gov/resource/sn85026955/1875-08-31/ed-1/?sp=1)
-
-#### 1875-08-31 &middot; [Bristol, Va. & Tenn.](http://dbpedia.org/resource/Bristol%2C_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-worth.&quot;  
-  
-Saratoga Fan Chains can only be  
-had at Picken&#x27;s New Model Jewelry  
-Store.June 15
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85026955:00200293538:1875083101:0343/pct:50.877957,32.965845,10.999855,2.377864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15866,9 +15512,10 @@ with every man, and with the printer
 too.  
   
 _ ——   
-A D
+A Doer Attacks a Farmer.  
+A corresponde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:0027176960A:1876033001:0046/pct:67.475995,31.357726,13.319616,23.112589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:0027176960A:1876033001:0046/pct:67.475995,31.357726,13.319616,23.838323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16224,7 +15871,11 @@ he beeo rending all the news, at
 fakes the paper, and pays his bill  
 when due, can live in peace with  
 every man, and with the printer  
-too.
+too.  to s  
+ ­  
+  
+An InTErEsTING ProblEM.  
+A problem propounded i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_franklin_ver02:data:sn86079080:00202190078:1876040802:0068/pct:40.667166,21.605431,27.623688,73.442492/!600,600/0/default.jpg"/>
 </td>
@@ -17204,9 +16855,10 @@ At home, like neighbor Jim,
 I&#x27;d bet a cent, this accident  
 Had not befallen him.  
   
-Conan
+Conan tattle: | 4S  
+T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9%2Fsim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9_jp2.zip%2Fsim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9_jp2%2Fsim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9_0009.jp2/pct:24.407252,15.299335,21.269177,19.817073/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9%2Fsim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9_jp2.zip%2Fsim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9_jp2%2Fsim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9_0009.jp2/pct:21.373780,15.299335,24.302650,21.396896/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17321,9 +16973,10 @@ strolling through the wood, a tree fell down
 upon his crown, and kilied him—as it should.  
 Had he been reading of the news at home,  
 like neighbor Jim, I’d bet a cent this accident  
-had not befallen hi
+had not befallen him. The moral of this is  
+tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562380A:1879010401:0012/pct:14.560603,70.586497,10.731998,4.594475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562380A:1879010401:0012/pct:14.560603,70.586497,10.731998,4.978579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17703,28 +17356,6 @@ reading of the mows At home, like
 neighbour Jim, I&#x27;d bet a cent this  
 accident Had not befallen him. 
 </td></tr></table>
-
----
-
-## [From _The Columbia banner._](https://www.loc.gov/resource/sn85032971/1879-06-05/ed-1/?sp=1)
-
-#### 1879-06-05 &middot; [Magnolia, Columbia County, Ark.](http://dbpedia.org/resource/Magnolia%2C_Arkansas)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-■  
-fi lends as much alike  
-As ever you saw two stumps.  
-And no phrenologist could  
-A difference in their bumps.  
-find  
-.One took a paper, and his life  
-Was Happier than a king’s;  
-flis
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_epidote_ver01:data:sn85032971:00516990508:1879060501:0096/pct:5.267918,32.563733,11.937599,3.896104/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 

@@ -1,7 +1,7 @@
 
 # Printers Proverbs
 
-### 222 reprints from 1837-08-26 to 1881-11-03
+### 223 reprints from 1837-08-26 to 1881-11-03
 
 ## [Printers Proverbs](https://chroniclingamerica.loc.gov/lccn/sn85025180/1837-08-26/ed-1/seq-1/)
 
@@ -259,11 +259,9 @@ eye, that thou mayest understand it
 7. Prefer thy country paper to any  
 other subscribe immediately for it,  
 and pay in advance, and it shall be  
-well with thee and thy little ones.  
-  
-MATTHIAS THE HAIRT PROPH
+well with thee and thy little ones.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1837100701:0224/pct:67.091926,66.122715,14.435512,21.161880/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1837100701:0224/pct:67.091926,66.122715,14.435512,19.934726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -561,7 +559,26 @@ We have taken up the idea, we think i for his duty requires him to keep such
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and lo;  
+ns be well enough for more  
+  
+Henry. W, Conned M. T. Hawkina, 0f ouf houorabios ttf take him as an ei-  
+  
+James J. McKay, zxd Samuel T. Saw ; empldr in mercy to their hearers and  
+yer! Now we unhgjuo&#x27; our, dear old UieirwaJerf Uiev.oug!itfc-;::-&#x27;i  
+  
+ItirvVanwinru Consider; this re ; -: All the state papers of our &quot;big men  
+iief-;wj&#x27;fi VV r-&#x27;Oii! I are terribly affected with the same pro-  
+  
+&#x27; - v.i &quot;... i . ,  
+  
+ta!my? that it has been actually survoyed, but  
+arc an i ex we should judge that the re, is something  
+  
+the old gc.  
+  
+wilt be apt  
+  
+lleep,; and lo;  
   
 ; 7 Prefer thy County (State?) naper  
   
@@ -571,11 +588,9 @@ for,it,,and pay in advance, and it shall
   
 be well with thee and thy little ones.  
   
-ISrvwhsvule Manner.  
-  
-pie of th
+ISrvwhsvule Manner.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SCitAsh1n_ver01%2Fdata%2F1837102101%2F0166.jp2/pct:23.281787,5.722612,53.973368,32.454630/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SCitAsh1n_ver01%2Fdata%2F1837102101%2F0166.jp2/pct:19.737973,21.817459,53.049828,16.531991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -711,6 +726,16 @@ thy lit&#x27; lo onus, llrornsrillc Banner
 #### From _The Floridian._
 
 #### 1837-10-28 &middot; [Tallahassee [Fla.]](http://dbpedia.org/resource/Tallahassee%2C_Florida)
+
+[This text is not available under an open license.]
+
+---
+
+## Long Speeches
+
+#### From _Raleigh register, and North-Carolina gazette._
+
+#### 1837-10-30 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
 
 [This text is not available under an open license.]
 
@@ -1023,11 +1048,9 @@ uiciit in tho f-ijjlii of tho Printcr.
 (rh. Neither i.&#x27;xnmine tliou tho proof sheer,  
 for it is not rendy to mect thine eye, that thou  
 may&#x27;st undorstnnil it.  
-7th. Prefor ihj&#x27; County Paper to nny other,  
-.&#x27;iubscnbc immediatcly for it, and pny m advancc;  
-and it shall bo woll with theo and thv little ones
+7th. Prefor ihj&#x27; Count
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1838061201:0183/pct:58.251880,44.579163,17.443609,13.520372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1838061201:0183/pct:58.289474,44.579163,17.406015,12.448893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1964,6 +1987,41 @@ sued since Mr. M&#x27;K. has taken charg
 
 ---
 
+## [From _Arkansas state gazette._](https://www.loc.gov/resource/sn82016481/1844-01-31/ed-1/?sp=1)
+
+#### 1844-01-31 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+Never inquire of the printer for news, for  
+behold it is his duty at the  
+appointed time to  
+give it unto thee without asking.  
+When thou dost write for his paper, never  
+iece?  
+say unto him, ‘what thinkest thou of my pic  
+for it may be that the truth may offend  
+thee.  
+it is not fit that thou shouldst ask him who  
+is the author of an article; for his duty re­  
+| quires him to keep such to himself.  
+Look thou not at the —*1  
+copy which is in the  
+; for that is not meet  
+hands of the compositor ;  
+in the sight of the printer.  
+When thou dost enter a printing office, have  
+a care upon thyself that thou dost not touch  
+the tvpe; and if thou hast no business with the  
+printe
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fluorite_ver01:data:sn82016481:00516990703:1844013101:0250/pct:64.022722,69.858901,14.980013,8.976283/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## Domestic
 
 #### From _The Ohio observer._
@@ -2004,7 +2062,8 @@ to himself.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+ The Heroine of  
+Saratoga.  
   
 Pkintkrs Pkoverbs. Never enquire &#x27;  
 thou of the printer for theNews,: fort;  
@@ -2034,7 +2093,7 @@ subscribj immediately for it, and
 pay in advance, that it &#x27;may be well .  
 with thee and thy little ones.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027522:1844032901:0016/pct:79.457683,47.360704,16.146261,15.791789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027522:1844032901:0016/pct:79.457683,45.645161,16.146261,17.507331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2398,7 +2457,7 @@ bunker
 
 ---
 
-## PRINTERS' PRECEPTS.
+## [PRINTERS' PRECEPTS.](http://search.proquest.com/docview/89949590/fulltext/)
 
 #### From _The Catholic Telegraph (1831-1846)_
 
@@ -3808,7 +3867,7 @@ meet in the o
 
 ---
 
-## Variety.
+## [Variety.](http://search.proquest.com/docview/135697674/fulltext/)
 
 #### From _Christian Inquirer (1846-1864)_
 
@@ -5309,7 +5368,7 @@ derstand it.
 journals subscribe immediately for it, pay in  
 advance, and it shall be well with thee and thy little  
 ones.  
-Brands or BrANDY.  Th
+Brands o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293241:1857090601:0237/pct:5.262313,42.430678,12.963260,10.796460/!600,600/0/default.jpg"/>
 </td>
@@ -5671,13 +5730,9 @@ all other papers; subscribe immediately
 for it, pay in advance, and it shall be well  
 with thee and thy little ones.  
   
-ger When our desires are fulfilled to  
-the very letter, we always find seine mis­  
-take which renders them anything but  
-what we expected.  
-
+ger When our d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001944%2F1857102101%2F0165.jp2/pct:34.494685,67.680405,13.889826,26.293851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001944%2F1857102101%2F0165.jp2/pct:34.494685,67.680405,13.889826,24.089636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5912,36 +5967,6 @@ Yankee Doodle.—During th
 
 ---
 
-## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1858-03-06_13_10/page/n4/mode/1up?view=theater)
-
-#### 1858-03-06 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- the least noise is  
-often the most useful—a prudent friend is bettcr  
-than a zealous one.  
-  
-Cheerfulness is to be preferred to mirth ; the  
-latter is short and transient, the former fixed and  
-permanent.  
-  
-Some desire is necessary to keep life in mo-  
-tion, and he whose real wants are supplied, must  
-admit those of fancy.  
-  
-When our desires are fulfilled to the very Ict-  
-ter, we always find some mistake which ren-  
-ders them anything but what we expected.  
-  
-O
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_flag-of-our-union_1858-03-06_13_10%2Fsim_flag-of-our-union_1858-03-06_13_10_jp2.zip%2Fsim_flag-of-our-union_1858-03-06_13_10_jp2%2Fsim_flag-of-our-union_1858-03-06_13_10_0004.jp2/pct:66.619775,54.724026,12.942122,6.737013/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [DREADFUL SHIPWRECK.](http://trove.nla.gov.au/ndp/del/article/66047169)
 
 #### From _The Star (Ballarat, Vic. : 1855 - 1864)_
@@ -6022,7 +6047,8 @@ understand it.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+ es, but that he was more sorry lot not hav  
+ing stijteii enough to britx the evidence.  
 Prinlr rs Proverbs.  
 Never inquire thou of the editor for tlie news ; for,  
 behold, it u his duty at the appointed time to give it  
@@ -6044,7 +6070,7 @@ of the printer, ami he might knock you down.
 ready to meet thine eye that thou niavest understand  
 i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AmAdKin2n_ver01%2Fdata%2F1858040101%2F0351.jp2/pct:32.185734,80.131926,15.307203,9.934037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AmAdKin2n_ver01%2Fdata%2F1858040101%2F0351.jp2/pct:32.185734,78.311346,15.307203,11.754617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6795,14 +6821,9 @@ mayest understand it.
 6. Look thou not at copy which is in  
 the hands of the compositor, for that is  
 not meet in the sight of the printar, and  
-he might knock thee down.  
-&quot;WHERE ARE YOU GOING!&quot; An anec  
-dole is told of Finney, &quot;the revivalist,&quot; and  
-a canaler, to the following effect:  
-He was holding forth&#x27; in Rochester, and  
-i
+he might knock thee down.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1858090201:0828/pct:69.449475,21.241740,12.441145,21.104075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1858090201:0828/pct:69.449475,21.241740,12.350598,18.006608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6818,11 +6839,9 @@ i
 ih;the compositor’s hands, for ihat is not meet  
 in the sight of the printer; and he might knock  
   
-thee down.  
-  
-g®“ Fonr 3hnwa of the stock ofth
+thee down.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_monroej_ver01%2Fdata%2Fsn83031964%2F000001713%2F1858090901%2F0122.jp2/pct:23.415998,76.728220,11.987529,2.947443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_monroej_ver01%2Fdata%2Fsn83031964%2F000001713%2F1858090901%2F0122.jp2/pct:23.415998,76.728220,11.987529,2.151397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

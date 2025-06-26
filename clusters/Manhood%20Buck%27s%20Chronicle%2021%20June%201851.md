@@ -1,7 +1,7 @@
 
 # From _Bucks Chronicle and Bucks Gazette_
 
-### 218 reprints from 1850-08-24 to 1855-12-08
+### 217 reprints from 1850-08-24 to 1855-12-08
 
 ## [From _Bucks Chronicle and Bucks Gazette_](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002197/18510621/003/0001)
 
@@ -1278,16 +1278,6 @@ United Kingdom. 41
 
 ## Advertisements & Notices
 
-#### From _Jackson's Oxford Journal_
-
-#### 1851-10-25 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Preston Chronicle_
 
 #### 1851-10-25 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
@@ -1728,16 +1718,6 @@ United Kingdom. 41
 
 ## Advertisements & Notices
 
-#### From _Jackson's Oxford Journal_
-
-#### 1852-05-01 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Manchester Times_
 
 #### 1852-05-01 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
@@ -1790,7 +1770,27 @@ United Kingdom. 41
 
 #### From _Reynolds's  Newspaper_
 
+#### 1852-06-13 &middot; [London, England](http://dbpedia.org/resource/London)
+
+[This text is not available under an open license.]
+
+---
+
+## Advertisements & Notices
+
+#### From _Reynolds's  Newspaper_
+
 #### 1852-06-20 &middot; [London, England](http://dbpedia.org/resource/London)
+
+[This text is not available under an open license.]
+
+---
+
+## Advertisements & Notices
+
+#### From _Reynolds's  Newspaper_
+
+#### 1852-07-11 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -1861,16 +1861,6 @@ United Kingdom. 41
 #### From _Liverpool Mercury_
 
 #### 1852-09-03 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Morning Chronicle_
-
-#### 1852-09-04 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 

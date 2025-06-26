@@ -1021,7 +1021,7 @@ Of Salt, fifty pounds
 
 ---
 
-## EDITORS' TABLE.
+## [EDITORS' TABLE.](http://search.proquest.com/docview/127542537/fulltext/)
 
 #### From _Prairie farmer._
 
@@ -1138,7 +1138,7 @@ Jf-sT Afte
 
 ---
 
-## Article 6 -- No Title
+## [Article 6 -- No Title](http://search.proquest.com/docview/135984986/fulltext/)
 
 #### From _Christian Observer (1840-1910)_
 
@@ -1704,7 +1704,7 @@ A L
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+&#x27;r  
 Weissan4 Measures. :  
   
 The following table of number of pounds of.  
@@ -1734,7 +1734,7 @@ Of dried peaches, thirty-three pounds.
 Of onions, fifty-scven&quot;ounds.  
 Of salt, fifty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BibRecRal10n_ver01%2Fdata%2F1852020601%2F0008.jp2/pct:66.264706,21.012850,16.000000,14.199331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BibRecRal10n_ver01%2Fdata%2F1852020601%2F0008.jp2/pct:66.264706,19.814275,16.000000,15.397905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2061,7 +2061,7 @@ Short
 
 ---
 
-## THEORY OF MINERAL MANURES.
+## [THEORY OF MINERAL MANURES.](http://search.proquest.com/docview/126320083/fulltext/)
 
 #### From _Southern Planter (1841-1866)_
 
@@ -2180,7 +2180,7 @@ Of salt fifty pound
 
 ## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1853-06-25_23_26/page/n3/mode/1up?view=theater)
 
-#### 1853-06-25
+#### 1853-06-25 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2255,7 +2255,7 @@ Of caster beans, forty-six pounds. &quot;
 Of dried peaches, thirty-three pounds,  
 0 f dried apples twenty-four pounds.  
 ui onions, htty-seven pounds.  
-Of salt, fifty pounds.
+Of salt, fifty pounds
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85025647:00296026670:1853092101:0640/pct:81.870504,61.375167,12.248201,11.842457/!600,600/0/default.jpg"/>
 </td>
@@ -3324,7 +3324,7 @@ One handful o
 
 ---
 
-## SCRATCHES IN HORSES.
+## [SCRATCHES IN HORSES.](http://search.proquest.com/docview/126315231/fulltext/)
 
 #### From _Southern Planter (1841-1866)_
 
@@ -3715,7 +3715,8 @@ apples, 24 pounds; of onions, 57 pounds
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+ good for a long  
+time.  
 Weights of Mensure  
 The following table of the number of  
 pounds of various articles to a bushel, may  
@@ -3742,7 +3743,7 @@ Of salt, fifty pounds.
 This subject has latterly claimed the  
 attention of the Ag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744778:1856073101:0295/pct:5.297710,74.495177,13.190840,14.598071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744778:1856073101:0295/pct:5.297710,72.926045,13.190840,16.167203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3870,6 +3871,9 @@ It i t, fifty pound:,
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
+good titles.  
+  
+Things worth Remembering.  
 W EIGHTS OF MEASI&#x27;UK.S.—-Tile following  
 table of the number of pounds of various  
 articles to a bushel, may be of interest to  
@@ -3914,7 +3918,7 @@ I Oi onions, fifty-seven pound?.
   
 Of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027237:0027952942A:1856110701:0030/pct:69.383135,80.489638,25.877193,13.239558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027237:0027952942A:1856110701:0030/pct:69.383135,78.760872,25.877193,14.968324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4008,7 +4012,7 @@ rior to any I have eve
 
 ---
 
-## ANSWERS TO CORRESPONDENTS.
+## [ANSWERS TO CORRESPONDENTS.](http://search.proquest.com/docview/137995955/fulltext/)
 
 #### From _Southern Cultivator (1843-1906)_
 
@@ -4875,7 +4879,7 @@ Of sH, itv pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-   
+-   
 Stick this in*.—As the following table of  
 the number of pounds to the bushel, may be  
 of interest to the fanner ami dealer, we publish  
@@ -4952,7 +4956,7 @@ Of onions, fifty-sevea pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-cer.  
+  
   
 Stick this Tjp .—As the following tabic 1  
 of the number of pounds to the bushel  
@@ -4980,7 +4984,7 @@ Of dried peaches, thirty-three pounds.
 Of dried apples, twenty-four pouuds.  
 Of onions, fifty-seven pouuds!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn86053686:00295874405:1860071401:0523/pct:64.745950,54.447115,14.782769,17.628205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn86053686:00295874405:1860071401:0523/pct:64.745950,55.475427,14.782769,16.599893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4992,7 +4996,7 @@ Of onions, fifty-seven pouuds!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- llernhl. r&lt;  
+. r&lt;  
 Sni&#x27;k This I i&gt;!?As the following table of  
 ie nnmber of pounds to the bushel may be of&#x27; {  
 itcjvst to the larmcr and ilealer. we publish  
@@ -5000,7 +5004,7 @@ itcjvst to the larmcr and ilealer. we publish
 :iok it up in some prominent place for referm*e:?&#x27;Jf  
 wheat, lif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860072001:0241/pct:64.039474,80.668305,13.092105,3.567568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860072001:0241/pct:64.039474,80.766585,13.092105,3.469287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5012,7 +5016,7 @@ wheat, lif
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-he names.  
+.  
 Stic* this or i-—Astns following t*m«  
 of the. number of pounds to the bushel  
 may be of interest to the farmer and deal­  
@@ -5024,7 +5028,7 @@ Core—shelled, [
 Corn—in the cob,  
 Oats, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059862:00514157388:1860073001:0015/pct:66.806944,51.112295,12.204103,6.087652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059862:00514157388:1860073001:0015/pct:66.806944,51.818303,12.204103,5.381644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5793,7 +5797,7 @@ Of salt, fifty pounds.
 
 ---
 
-## Article 6 -- No Title
+## [Article 6 -- No Title](http://search.proquest.com/docview/137785996/fulltext/)
 
 #### From _Southern Cultivator (1843-1906)_
 

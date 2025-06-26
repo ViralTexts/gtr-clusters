@@ -985,7 +985,7 @@ Ma
 
 ---
 
-## A Chapter on Stings
+## [A Chapter on Stings](http://search.proquest.com/docview/125956832/fulltext/)
 
 #### From _Christian Advocate (1866-1905)_
 
@@ -1243,7 +1243,7 @@ London Garde
 
 ---
 
-## HOW TO TREAT INSECT STINGS.
+## [HOW TO TREAT INSECT STINGS.](http://search.proquest.com/docview/135684652/fulltext/)
 
 #### From _Shaker (1876-1877)_
 
@@ -2436,11 +2436,9 @@ j soon as possibl
 tical value but that makes no difference1 plant or insect is the result of a certain  
 to the non- reading farmer, whose cupid- amount of acid poison injected in the  
 ity tempts him to put faith in oily gam- blood. The first thing to be done is to  
-mon sharks.- Prairie Farmer. press the tube of a small key firmly on  
-  
-of soda If the gtin
+mon sharks.- Prairie Farmer. press the tube of a small key firmly on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479743:1879011601:0156/pct:61.188509,36.470475,21.686598,10.307292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479743:1879011601:0156/pct:61.188509,36.470475,21.686598,2.350448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2484,21 +2482,22 @@ lime-water, the juice
   
 onioD) tob&#x27;acco juice  
   
-rn the handling of milk. Wooden pails bacco bruised dock leaves, tomato juic
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479743:1879011601:0156/pct:61.225496,28.821886,32.684009,17.156343/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Mower County transcript._](https://www.loc.gov/resource/sn85025431/1879-01-16/ed-1/?sp=2)
-
-#### 1879-01-16 &middot; [Lansing, Minn.](http://dbpedia.org/resource/Austin%2C_Minnesota)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-, and quickened will increase both pain and  
+rn the handling of milk. Wooden pails bacco bruised dock leaves, tomato juice,  
+are unfit for use in the dairy, because it  
+  
+is next to impossible to keep them clean,  
+  
+wood ash tobacc0 ash  
+  
+I  
+  
+Let th| body be kept at reBt  
+  
+and  
+  
+readily multiply and destroy it. reduced to a minimum. Any active!  
+ONE of our readers sends us the fol- exertion whereby the circulation i?  
+lowing, clipped from a local paper, and quickened will increase both pain and  
 asks, Who can_ beat it:&quot;_ &quot;Mr. Ma- swelling. If the swelling be severe, the  
   
 ^be activity of the poison will be!  
@@ -2510,7 +2509,7 @@ lead to serious consequences in such
 cases medical advice should always be  
 sought for as soon as possible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479743:1879011601:0156/pct:61.287141,49.475002,22.907163,5.076582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479743:1879011601:0156/pct:61.225496,28.821886,32.684009,25.729698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2638,6 +2637,23 @@ dispense with carbolic acid. No other
 preparation of whitewash equals this fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:0027176960A:1879011801:0617/pct:31.138962,45.313451,12.367443,1.460743/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Superior times._](https://www.loc.gov/resource/sn85040344/1879-01-18/ed-1/?sp=3)
+
+#### 1879-01-18 &middot; [Superior, Wis.](http://dbpedia.org/resource/Superior%2C_Wisconsin)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ so much mischief as  
+in the handling of milk. Wooden pails  
+are unfit for use in the dairy, because it  
+is next
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:0027176960A:1879011801:0617/pct:31.207823,47.920471,12.312354,1.866504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3489,9 +3505,9 @@ paste with water, the juice of an onion,
 tobacco juice, chewed tobacco, bruised  
 dock leaves and carbon of soda.  
 In order to perform an amount of  
-
+mechanical work equal t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665829:1880021901:0150/pct:66.023256,58.689249,14.488372,10.368189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665829:1880021901:0150/pct:66.023256,58.689249,14.488372,10.427099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3723,7 +3739,7 @@ dock leave
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+-Hurness dournal.  
 The pain caused by the sting of a  
 plant or insect is the result of a cer­  
 tain amount of acid poison injected  
@@ -3735,9 +3751,16 @@ be montioned soft sonp, liquor of
 ammonia, smelling salts, washing so­  
 da, quick-lime made into a paste  
 with water, the julce of an onion, to­  
-tobasco julen, chewed tobacco, brui
+tobasco julen, chewed tobacco, bruis  
+d dock leaves and carbon of goda.  
+ e e e oe ooe oooo  
+  
+ GALiKD. 1Eit and  
+Ae11.it of their own manns  
+ass  
+aeual t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026106:00280776579:1880042901:0072/pct:6.497119,88.864274,12.616730,6.705066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026106:00280776579:1880042901:0072/pct:6.199086,7.000443,25.650705,89.632255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3760,9 +3783,10 @@ mentioned soft soap, liquor of ammonia, t
 smelling salts, washing soda, quicklime  
 made into a paste with water, the juice of  
 an onion, tobacco juice, chewed tobaeoo,  
-bruised dock leave
+bruised dock leaves and carbon of soda.  
+Tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685294:1880052701:0092/pct:84.163987,26.385999,13.295820,4.699547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685294:1880052701:0092/pct:84.163987,26.385999,13.295820,5.189083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -1,7 +1,7 @@
 
 # Everlasting Fence Posts
 
-### 233 reprints from 1872-06-12 to 1889-02-16
+### 242 reprints from 1872-06-12 to 1889-02-16
 
 ## [Everlasting Fence Posts](https://chroniclingamerica.loc.gov/lccn/sn84023209/1872-06-19/ed-1/seq-4/)
 
@@ -516,7 +516,8 @@ will live long enough to see it rotten.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+ have plenty  
+of Bread.&quot;  
   
 Everlasting Fence Poets.  
   
@@ -539,7 +540,7 @@ fences, &amp;o. lie says :
   
 &#x27;L discovered many years
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmMess60n_ver01%2Fdata%2F1872100301%2F0136.jp2/pct:5.188917,13.542464,12.707809,8.157995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmMess60n_ver01%2Fdata%2F1872100301%2F0136.jp2/pct:5.188917,11.371461,12.707809,10.328998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1058,7 +1059,7 @@ ber, and there is not a man that will live to
 
 ---
 
-## EVERLASTING FENCE POSTS.
+## [EVERLASTING FENCE POSTS.](http://search.proquest.com/docview/136638891/fulltext/)
 
 #### From _New York Observer and Chronicle (1833-1912)_
 
@@ -1319,7 +1320,7 @@ Western Rural.
 
 ---
 
-## WHAT WORK WILL DO.
+## [WHAT WORK WILL DO.](http://search.proquest.com/docview/138009581/fulltext/)
 
 #### From _Southern Cultivator (1843-1906)_
 
@@ -1556,18 +1557,7 @@ man that vt&#x27;u live to&#x27;see it ro
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- last lon-&#x27;T than iron in the  
-ground, but thought the process so s-im  
-I!e ntid inexpensive that it wi&#x27;.s not worth  
-1 . ., , . 1 , . . , ,  
-while m .iiing any stir about it. 1 wor.L  
-r 8;)nn epoplar, bi-swood, or iuik-  
-j ing ash as aiy other kinds ..f timber fur  
-fence-posts. I have taken out bass wo, A  
-posts after having been set f.e.vcn years,  
-that were as eo,n-i when taken&#x27;un  
-v-hon they were first putint-j the ground.  
-Time and wi-ather beeuied to have no ef­  
+ wi-ather beeuied to have no ef­  
 ft ct up in them. The posts can be pre  
 pared for 1 ss than two Ci-r.ts aiicce. For  
 the benefit of other, 1 will give the re­  
@@ -1578,7 +1568,7 @@ timber, and there is not a man that will
 live to see it rot.&quot; Car. Western Rural.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470119:1873031401:0684/pct:15.150700,69.782416,11.100646,9.391652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470119:1873031401:0684/pct:15.567815,74.256217,10.683531,4.917851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2825,7 +2815,8 @@ tbaro ia not a man that will live t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-our.  
+one  
+hour.  
 How to Make Posts Last Forever.—  
 A correspondent of the Western Rural  
 says: I discovered many years ago that  
@@ -2850,7 +2841,7 @@ and there is not a man that will live to see
 it rot.  
 How to Make 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271769805:1873052901:1032/pct:45.542770,27.832564,12.422016,11.298783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271769805:1873052901:1032/pct:45.542770,27.276542,12.422016,11.854805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3009,7 +3000,7 @@ How to Make
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ler.  
+Max Adeler.  
 How to Make Posts Last Forever.—  
 A correspondent of the Western Rural  
 says: I discovered many years ago that  
@@ -3032,7 +3023,7 @@ verized charcoal to the consistency of
 paint. Put a coat of this over the timber,  
 and there is not a man that will live to see  
 it rot.  
-&#x27;
+&#x27;O
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768746:1873061101:0002/pct:77.695312,63.771642,13.567708,11.839027/!600,600/0/default.jpg"/>
 </td>
@@ -3077,7 +3068,7 @@ paint. Put a coat of this over the timber,
 and there is not a man that will live to see  
 it rot.  
   
-
+Two
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768527:1873061201:0637/pct:77.084249,39.139365,13.582418,15.518127/!600,600/0/default.jpg"/>
 </td>
@@ -3749,7 +3740,7 @@ live to see it rot
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-«   
+   
 How to Make Fence Posts Last For­  
 ever.—A correspondent of the Western Rural  
 says, and it is worth preserving:  
@@ -3773,6 +3764,45 @@ Ithat will live to see it rot.
 Wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762490:1873072201:0510/pct:68.506452,88.459291,12.495209,10.089599/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Juniata sentinel._](https://www.loc.gov/resource/sn84026118/1873-07-23/ed-1/?sp=4)
+
+#### 1873-07-23 &middot; [Mifflintown, Pa.](http://dbpedia.org/resource/Mifflintown%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+Flow to Makk Fb.vck IVsts Last  
+FoREVKB. A correspondent of tbe  
+Western Rural says : I discovered many  
+years ago that wood could be made to  
+last longer than iron, in the ground, but  
+thought the process so simple and inex­  
+pensive that it was not thought worth  
+while to make any stir about it. I would  
+as soon have poplar, bapswood, or quaking  
+ash as any other kind of timber for fence  
+posts. I have taken out basswood posts  
+after having been set seven years that  
+were as sound when taken np as when  
+they were first put in the grouud. Time  
+and weather seemed to have no effect on  
+them. Tbe posts can be prepared for  
+less than two cents apiece. For tbe ben  
+efit of others I ill give tbe recipG : Take  
+boiled limeed oil and stir in it pnlveiized  
+charcoal to the consistency of paint.  
+Put a coat of this over the timber, and  
+there is not a msn thai will live to eee  
+it rot.  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026118:00280776348:1873072301:0528/pct:8.776402,67.871222,12.072105,15.124836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4116,7 +4146,7 @@ into tlio ground. The posts can be pre­
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-l take pains to suit you.  
+ will take pains to suit you.  
   
 How TO MAKE FENCE POSTS LAST  
 FOREVER.—A correspondent of the  
@@ -4678,7 +4708,7 @@ oil and stir it in pulverized char­
 coal to the consistency of paint.  
 Put a coat of this over the timber,  
 and there is not a man that will  
-live to see it rot.
+live to see it rot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472979:1874091101:0239/pct:3.819810,48.050231,9.312434,9.539546/!600,600/0/default.jpg"/>
 </td>
@@ -5106,7 +5136,7 @@ who Will live to see it rot.&quot;
 
 ---
 
-## AGRICULTURAL ITEMS.
+## [AGRICULTURAL ITEMS.](http://search.proquest.com/docview/127573914/fulltext/)
 
 #### From _Prairie farmer._
 
@@ -5416,7 +5446,7 @@ linsoed oil andstiritin pulverised&#x27;
 charcoal to- the conKistenoy -if paint.  
 Put a coat of this over tbo timber, and  
 there is not a man who will live .to sou  
-Uiciil rot.
+Uiciil rot
 </td></tr></table>
 
 ---
@@ -5778,7 +5808,7 @@ rot.—Homestead.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+eat.  
 To Preserve Posts.  
 The American Chemist says that a  
 Western farmer discovered many years  
@@ -5793,13 +5823,13 @@ consistency of paint. Put a coat of this
 over the timber, and. he adds, there 13  
 not a man whj will live to sci it r;&#x27;. J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470120:1875070201:0313/pct:57.592068,88.624431,11.473088,6.206977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470120:1875070201:0313/pct:57.592068,87.341034,11.473088,7.490375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## AGRICULTURAL ITEMS.
+## [AGRICULTURAL ITEMS.](http://search.proquest.com/docview/127578905/fulltext/)
 
 #### From _Prairie farmer._
 
@@ -5815,8 +5845,7 @@ not a man whj will live to sci it r;&#x27;. J
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r  
-of the nineteenth century.&quot;  
+  
   
 To PRESERVE POSTS.—The American  
 Chemist says that a Western farmer  
@@ -5837,7 +5866,7 @@ contain a population ot 275,000. There
 are in it about 55 places of worship.  
 Of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn92056106:0027952875A:1875070701:0761/pct:34.081882,56.559193,10.189429,10.349495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn92056106:0027952875A:1875070701:0761/pct:34.081882,57.334482,10.189429,9.574206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5888,8 +5917,7 @@ will live to set It rot.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, acts the best, feels the  
-noblest.&quot; Pathos.  
+ Pathos.  
 To Preserve Posts.  
 The American Chemist says that a  
 Western farmer discovered many years  
@@ -5907,7 +5935,7 @@ it rot.
 Harness Polish.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_judaspriest_ver01:data:sn84037890:00280763573:1875072101:0122/pct:33.007380,33.187279,12.029520,12.876325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_judaspriest_ver01:data:sn84037890:00280763573:1875072101:0122/pct:33.007380,33.865724,12.029520,12.197880/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6015,6 +6043,34 @@ SefESCE oF SHE POF
 
 ---
 
+## [From _Weekly Arkansas gazette._](https://www.loc.gov/resource/sn82016484/1875-08-09/ed-1/?sp=1)
+
+#### 1875-08-09 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+To Preserve Poets.  
+Tke American Chemist says that a  
+western farmer discovered many years  
+ago that wood could be made to last  
+longer than iron in the ground. Time  
+and weather, he says, seems to have no  
+effect on it. The posts can be pre­  
+pared for less than two cents a-piece.  
+This is the recipe: Take boiled lin­  
+seed oil and stir into it pulverized  
+charcoal to the consistency ot paint.  
+Put a coat of this over the timber, and,  
+he adds, there is not * man who will  
+live to see it rot.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fluorite_ver01:data:sn82016484:00516990788:1875080901:0274/pct:74.533772,75.834602,11.017082,6.676819/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Pacific._](https://archive.org/details/per_the-pacific_the-pacific_1875-08-12_24_32/page/n6/mode/1up?view=theater)
 
 #### 1875-08-12 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
@@ -6082,9 +6138,9 @@ stir into it pulverized charcoal to the
 consistency of paint. &#x27; Put a coat of this  
 over the timber, and, he adds, there is  
 not a man who will live to see it rot.  
-A correspondent of th
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85026421:00415669203:1875090201:0498/pct:50.503191,67.848540,10.751105,8.892957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85026421:00415669203:1875090201:0498/pct:50.503191,67.848540,10.751105,8.873687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6159,6 +6215,34 @@ will live to see it rotten.&quot;
 ? A kind of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551293:1875121601:0027/pct:62.056428,85.267810,12.172775,12.827528/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Yorkville enquirer._](https://www.loc.gov/resource/sn84026925/1875-12-16/ed-1/?sp=4)
+
+#### 1875-12-16 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+g and evening, a few pills of bread and  
+castile soap, with a pinch of cayenne pepper  
+in each.  
+A western farmer says that he discovered  
+many years ago that wood could be made  
+to last longer than iron in the ground. Time  
+and weather, he says, seem to have no effect  
+on it. Posts can be prepared for less than  
+two cents apiece. This is the recipe : Take  
+boiled linseed oil and stir it in pulverized  
+charcoal to the consistency of paint. Put a j  
+coat of this over the timber, and, he adds, there  
+is not a man who will live to see it rot. i;  
+  
+Reading fa* the
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862750:1875121601:0420/pct:16.047763,4.403915,22.293662,93.113879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6258,6 +6342,36 @@ great care, but seems not to have take
 
 ---
 
+## [From _The Findlay Jeffersonian._](https://www.loc.gov/resource/sn85026034/1875-12-24/ed-1/?sp=4)
+
+#### 1875-12-24 &middot; [Findlay, Hancock County, Ohio](http://dbpedia.org/resource/Findlay%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+. Add the coloring pre­  
+ferred; put it on with a brush. It is as  
+pretty as paint, and very durable.  
+Prairie Farmer.  
+A wrstkkx fanner says that he dis­  
+corded many years ego that wood  
+could be made to last longer thau iron in  
+the ground. Time and weather, he  
+says, seem to have no effect on it. Posts  
+can be prepared for les thau two c nts  
+apiece. This is the recipe : Take boiled  
+linseed oil and stir it in pulverized char­  
+eoal to the consistency of paint. Put a  
+coat of this over the timber, and, he  
+adds, there is not a man who will live to  
+ee it rot.  
+O
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026034:00280774996:1875122401:0024/pct:3.126729,84.235476,9.546209,8.808290/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Columbian._](https://www.loc.gov/resource/sn83032011/1875-12-24/ed-1/?sp=4)
 
 #### 1875-12-24 &middot; [Bloomsburg, Pa.](http://dbpedia.org/resource/Bloomsburg%2C_Pennsylvania)
@@ -6292,6 +6406,60 @@ will live to see it rotten.&quot;
 ThE DANGE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:0023728799A:1875122401:0446/pct:3.980721,61.688399,11.299536,13.993816/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Ottawa free trader._](https://www.loc.gov/resource/sn84038582/1876-01-01/ed-1/?sp=3)
+
+#### 1876-01-01 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+, and has never known one well  
+supplied with coal to be sick or off his feed  
+a single day. The experiment is well worth  
+trying.  
+A western farmer says that he discovered  
+many years ago that wood could be made to  
+last iotigrr than iron in the ground. Time  
+and weather, he says, seem to have no effect  
+no effect on it. Posts can be prepared for  
+less than two cents apiece. Tins is the rec­  
+ipe: Take boiled linseed oil and stir it in  
+pulverized charcoal to the consistency ol  
+paict. Put a coat of this over this timber,  
+and, he adds, there is not a man that will  
+live to see it rot.  
+We had lost
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471537:1876010101:0020/pct:18.180091,69.389659,14.684650,8.941898/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The workingman's advocate._](https://www.loc.gov/resource/sn89077510/1876-01-15/ed-1/?sp=2)
+
+#### 1876-01-15 &middot; [Chicago [Ill.]](http://dbpedia.org/resource/Cincinnati)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+A Western farmer aays that he diacov  
+ered many years ago that wood could be  
+made to last longer than iron in the  
+ground. Tune and weather, he says, seem  
+to have no effect on it. I*.*sts can be pre  
+(Mired for less than two cents apiece  
+This is the recipe lake boiled linseed oil  
+and stir it m pulverized charcoal to the  
+consistency of paint Put a coat of this  
+over the timber, and. he add*, there is not  
+a man living who will live to am- it rot
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1876011501:0771/pct:74.651479,69.619928,11.322679,4.994864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6362,6 +6530,34 @@ rotten.&quot;
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn84037890:00280763585:1876020201:0027/pct:19.468547,7.194849,11.912509,18.197088/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Union and American._](https://www.loc.gov/resource/sn85042816/1876-02-03/ed-1/?sp=7)
+
+#### 1876-02-03 &middot; [Greeneville, Tenn.](http://dbpedia.org/resource/Greeneville%2C_Tennessee)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+A western farmer says that he  
+discovered many years ago that  
+wood could be made to last longer  
+than iron in the ground. Time  
+and weather, he says, seem to have  
+no effect on it. Posts can be pro­  
+pared for less than two cents apiece.  
+This Is the receipe: Take boiled  
+linseed oil and stir it in pulverized  
+charcoal to the consistency of  
+paint. Put a coat of this over the  
+timber and, he adds, there is not  
+a man that will live to see it rot.  
+Uerman lust i
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn85042816:0028077926A:1876020301:0675/pct:21.758877,72.288181,13.872832,10.442526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6991,7 +7187,7 @@ boiled linseed oil, and stir in it pulver­
 ized charcoal to the consistency of  
 paint. Put a coat of this over the  
 timber, and, he adds, there is not a  
-man that will live to see it ro
+man that will live to see it rot.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290975:1877021601:0049/pct:60.798789,85.401274,16.581488,7.031847/!600,600/0/default.jpg"/>
 </td>
@@ -7281,11 +7477,9 @@ will live t
 .  
 To Pheserve Fence Posts. The  
 American Chemist says that a Western  
-farmer discovered, many years ago, that  
-wood could bo made to last longer than  
-iron in the ground. Time
+farmer discovered, many
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197619:1877062701:0400/pct:41.582622,83.156920,11.190846,2.116962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197619:1877062701:0400/pct:41.582622,83.156920,11.171451,1.296639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7317,9 +7511,69 @@ recipe. : Take boiled linseed oil, and stir
 it in pulverized charcoal to the consistency  
 of paint. Put a cost ol this over the tim­  
 ber, nml there is not a man that will live  
-to see it ro
+to see it rot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn87076843:00280775733:1877071301:0524/pct:36.962277,21.530795,10.737922,5.021722/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Somerset herald._](https://www.loc.gov/resource/sn84026409/1877-07-25/ed-1/?sp=4)
+
+#### 1877-07-25 &middot; [Somerset, Pa.](http://dbpedia.org/resource/Somerset%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+The &quot;America Chemist says:  
+&quot;Wood can be made to last longer  
+than iron in the ground. 1&#x27;osts can  
+be prepared tr lets than two cents  
+piece. ,;Thw is .the , recipes Take  
+boiled linseed oil and stir it in pul­  
+verized charcoal to. the consistency  
+of paint 1 Tut a coat of this Over  
+the timber, and there is not a man  
+who will live to see it rot.&quot; Like  
+many other sayings and recipes, this  
+statement is made by a man who ev­  
+idently has never had proofs of what  
+be says; yet I am cure that two or  
+three&quot; coats of this mixture, on the  
+parts o
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776476:1877072501:0416/pct:13.358779,11.753891,9.828244,7.672509/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Oxford free lance._](https://newspapers.digitalnc.org/lccn/sn92073060/1878-02-22/ed-1/seq-4/)
+
+#### 1878-02-22 &middot; [Oxford, N.C.](http://dbpedia.org/resource/Oxford%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+? The  
+American says : .  
+&quot;Wood can be made to last long  
+er than iron in the cround. Posts  
+can be prepared for less than two  
+cents apiece. This is tho receipe  
+Take boiled linseed oil and stir it in  
+pulverized charcoal to the consist­  
+ency of paint. Put a coat of this  
+over the timber, and there is not ;  
+man that will live to see it rot.  
+Like many other saying3 and re­  
+ceips. I this statement is made by a  
+man -vyho. evidently has never had  
+proofs&#x27;: of what he fays,; yet lam  
+sure that two or thfeersrood coats-  
+of this mixture, on the parts o
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GFLOx2n_ver01%2Fdata%2F1878022201%2F0016.jp2/pct:51.129477,31.589517,12.947658,12.089567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7788,8 +8042,6 @@ What is t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ment of  
-farming with fully as much profit as  
 to any other point.  
 Everlasting; Fence Posts.  
 A correspondent gives the Western  
@@ -7813,10 +8065,9 @@ stir in pulverized charcoal to the con
 sistency or paint. Put a coat of this  
 over the timber, and there is not a  
 man that will live long enough to see  
-it rotten.  
-Mistakes 
+it rotten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297672:1884111301:0017/pct:65.272887,21.976744,9.859155,11.244186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297672:1884111301:0017/pct:65.272887,22.860465,9.859155,9.755814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7828,11 +8079,7 @@ Mistakes
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- feeding or to fatten, and  
-knows the value of the manure produced  
-by his stock and what he has received, he  
-can tell whether farming is profitable to  
-him.  
+.  
   
 A correspondent gives the Western llu­  
 ral his receipt of everlasting fence posts.  
@@ -7853,10 +8100,9 @@ linseed oil and stir in pulverized charcoal
 to the consistency of paint. Put a coat  
 of this over the timber and there is not a  
 man that will live long enough to see it  
-rotten.”  
-Anew species o
+rotten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342132:1884112301:0107/pct:36.525675,72.827328,10.694582,9.645935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342132:1884112301:0107/pct:36.525675,74.706676,10.694582,7.268196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

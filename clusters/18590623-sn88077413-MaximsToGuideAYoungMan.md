@@ -954,7 +954,7 @@ you would prosper. Small and steady
 
 ---
 
-## MAXIMS TO GUIDE YOUNG MEN
+## [MAXIMS TO GUIDE YOUNG MEN](http://search.proquest.com/docview/137520883/fulltext/)
 
 #### From _German reformed messenger._
 
@@ -2744,9 +2744,11 @@ you are. young, ;that you may spend
 when you are old; and&quot;above all, fear  
 trod and keep his commandments.  
 Read over the&#x27;above maxims at least  
-once a week.
+once a week.  
+  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fufluns_ver02%2Fdata%2F2018264050%2F000002752%2F1865100501%2F0002.jp2/pct:50.323383,50.850542,13.890547,9.355965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fufluns_ver02%2Fdata%2F2018264050%2F000002752%2F1865100501%2F0002.jp2/pct:50.323383,50.850542,13.890547,11.246472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

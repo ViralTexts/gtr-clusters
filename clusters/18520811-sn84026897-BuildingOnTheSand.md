@@ -1348,35 +1348,13 @@ the owner of the bout wa
 
 ---
 
-## [From _Eastern times._](https://www.loc.gov/resource/sn82014356/1853-03-24/ed-1/?sp=4)
-
-#### 1853-03-24 &middot; [Bath, Me.](http://dbpedia.org/resource/Bath%2C_Maine)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-I: isob ervt d, that die most censorious  
-ire generally the least judicious ; who  
-having nothing in recommend themselves,  
-will be finding ’faults with others. No  
-man envies the merit of another that has  
-any of his own.  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895667:1853032401:0051/pct:19.814030,32.533794,12.361548,4.268726/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Jeffersonian Republican._](https://www.loc.gov/resource/sn86053954/1853-03-31/ed-1/?sp=1)
 
 #### 1853-03-31 &middot; [Stroudsburg, Pa.](http://dbpedia.org/resource/Stroudsburg%2C_Pennsylvania)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-u stupid fool, you -  
-. I  
+I  
 Every schoolboy knows that a kite  
   
 would not fly unless it bad a string tying four p00r stools, a rickety table and a scan-  
@@ -1388,7 +1366,7 @@ the bachelor who, having nothing to keep resting place for the brother and siste
 him steady, is always floundering inTthe parfc 0f a tallow candle was burning upon &#x27;  
 mud. If you want to ascend in the world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728169A:1853033101:0553/pct:3.852302,61.705171,31.122123,8.096810/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728169A:1853033101:0553/pct:3.852302,64.224422,31.122123,5.577558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1459,13 +1437,35 @@ For those who talk, rey ful to do,
 
 ---
 
+## [From _Spirit of the age._](https://www.loc.gov/resource/sn84026561/1853-04-13/ed-1/?sp=1)
+
+#### 1853-04-13 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+even the name of the office upon them, de­  
+serve the axe. Chief.  
+&#x27;&quot;It is observed, that the most censori­  
+ous are generally least judicious ; who, hav­  
+ing nothing to recommend themselves, will  
+be finding tault with others. No man envies  
+the merit of another that has any of his own
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667802:1853041301:0401/pct:49.368231,53.826152,13.292935,4.095468/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Weekly Minnesotian._](https://www.loc.gov/resource/sn83016750/1853-04-16/ed-1/?sp=2)
 
 #### 1853-04-16 &middot; [Saint Paul, Minn. Territory](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ntry residences, boasting  
+ in an amphitheatre, may  
+be sprinkled w ith country residences, boasting  
 more advantages of location than many of the  
 proudest European villas.&quot;  
   
@@ -1477,9 +1477,9 @@ responsibilities, and their mother, will make a
 higher and stronger flight than the bachelor  
 w ho, having nothing to keep him steady, is al­  
 ways floundering in the mud. If you want to  
-ascend in the world, tie yourself to somebody
+ascend in the world, tie yourself to somebody.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347166:1853041601:0345/pct:83.450644,37.177329,12.566524,6.425365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347166:1853041601:0345/pct:83.450644,36.714366,12.566524,6.888328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1691,6 +1691,27 @@ in tho world, tie yourself to somebody
 
 ---
 
+## [From _Plymouth banner._](https://www.loc.gov/resource/sn87056241/1853-06-23/ed-1/?sp=1)
+
+#### 1853-06-23 &middot; [Plymouth, Marshall County, Ind.](http://dbpedia.org/resource/Plymouth%2C_Indiana)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+It is o s rved that the most censori&quot;  
+ous are generally the least judicious; who  
+having nothing to recommend themselves  
+will be continual&#x27; finding fault with  
+others. No man envies the merit of an­  
+other who has any of his own.  
+Fool
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056241:00200295638:1853062301:0073/pct:80.047144,37.145208,14.018303,4.668861/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _Martinsburg gazette._](https://www.loc.gov/resource/sn84038468/1853-07-27/ed-1/?sp=1)
 
 #### 1853-07-27 &middot; [Martinsburg, Va. [W. Va.]](http://dbpedia.org/resource/Martinsburg%2C_West_Virginia)
@@ -1736,9 +1757,11 @@ is tied down by a liall=a-dtizat bloorniug IC­
 SPonsibilities.,l; and &#x27;their make a  
 higher and stronger flight thau the bachelor  
 who, having nothing to keep turn steady, is,  
-always floundering in t
+always floundering in th mud. it you=  
+want to asceati in :the world Ate yourself to  
+tocnebody. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002342%2F1853073001%2F0121.jp2/pct:73.996836,71.587069,9.254998,5.561500/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002342%2F1853073001%2F0121.jp2/pct:73.996836,71.587069,9.254998,6.386574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2061,30 +2084,6 @@ bachelor, wlio; having, nothing lo keep
 hinr steady, is always floundering inihe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DemPEC1n_ver01%2Fdata%2F1854032101%2F0125.jp2/pct:19.146079,71.283490,13.574114,4.855402/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Greenbrier era._](https://www.loc.gov/resource/sn85059651/1854-04-22/ed-1/?sp=2)
-
-#### 1854-04-22 &middot; [Lewisburg, Va. [W. Va.]](http://dbpedia.org/resource/Lewisburg%2C_West_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-ceived.  
- .  
-Eyeny achee! bey kacws that a kite  
-would not fly until it had a string tyi  
-down. it is just so in life. The man  
-whe is tied down by half a deren bicom  
-ing responsibilities and their mother, will  
-he old bachelor, who hating nothing to  
-p him sleady, is alway  
-he wnd. ya han oner  
-the worl
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059651:00415664965:1854042201:0032/pct:4.124252,74.537478,11.799070,6.938552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3423,7 +3422,7 @@ But &quot;bulld upon the sand.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-8  
+L 8  
   
 BUIDING UroN TIE lAID.  
 BY ELIZA cooK.  
@@ -3465,7 +3464,7 @@ For those who talk, yet fail to do,
 But &quot; build upon the sand.&quot;  
 For the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288257:1858042801:0198/pct:3.056338,20.843137,12.647887,26.764706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288257:1858042801:0198/pct:3.056338,17.147059,48.366197,30.460784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3584,9 +3583,10 @@ The mercy that is warm and true,
 Must lend a helping hand,  
 For those that talk, yet fail to do,  
 But &quot;build upon the sand.&quot;  
-LADIE
+LADIES SHOULD READ NEWSPAPERS.  
+Hom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1858052501:0302/pct:5.041096,8.271739,14.493151,24.141304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1858052501:0302/pct:5.041096,8.271739,14.972603,24.858696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3704,7 +3704,7 @@ to Advices from th
 
 ## [From _The Christian Freeman_](https://archive.org/details/christian-freeman-1856_1858-06_2_6/page/n4/mode/1up?view=theater)
 
-#### 1858-06-01
+#### 1858-06-01 &middot; [Belfast, Northern Ireland](http://dbpedia.org/resource/Belfast)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3794,7 +3794,9 @@ s For those who talk yet fail todo, 9.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--ok tlie Sand.  
+&#x27;Y .  
+  
+iJiiildiiiij ii;-ok tlie Sand.  
 Ht LIZA COOK.  
 &#x27;Tis well to woo, &#x27;tis well to wedj  
 For so th world has dons  
@@ -3831,10 +3833,9 @@ Should scatter crumba as well.
 The mercy that is warm and true,  
 Must lend a helping hand,  
 For those that talk, yet fail to do,  
-But &quot;build upon the sand.&quot;  
-True E
+But &quot;build upon the sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_UniNB3n_ver01%2Fdata%2F1858060401%2F0097.jp2/pct:49.801980,17.184046,13.502475,31.042768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_UniNB3n_ver01%2Fdata%2F1858060401%2F0097.jp2/pct:49.801980,16.155694,13.502475,30.812110/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5252,7 +5253,7 @@ But “ build upon the sand
 
 ## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1865-10-07_35_40/page/n3/mode/1up?view=theater)
 
-#### 1865-10-07
+#### 1865-10-07 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5953,7 +5954,9 @@ Should scatter crumbs as well.
 The mercy that is warm and true  
 Must lend a helping hand,  
 For those who talk, but fail to do,  
-But “build upon the sand.
+But “build upon the sand.”  
+  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1869050601:0046/pct:6.345886,8.989203,10.739191,20.983479/!600,600/0/default.jpg"/>
 </td>
@@ -6922,6 +6925,33 @@ rut &quot;Build upon the sand.&quot;
 
 ---
 
+## [From _The Youth's Companion (1827-1929)_](https://archive.org/details/sim_youths-companion_1876-06-08_49_23/page/n3/mode/1up?view=theater)
+
+#### 1876-06-08 &middot; [Boston](http://dbpedia.org/resource/Boston)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+’Tis good to speak in kindly guise,  
+And soothe where’er we can;  
+Fair speech should bind the human mind,  
+And love link man to man.  
+But stop not at the gentle words;  
+Let deeds with language dwell;  
+The one who pities starving birds  
+Should seatter crumbs as well;  
+The mercy that is warm and true  
+Must lend a helping hand,  
+For those that talk, yet fail to do,  
+But “build upon the sand
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_youths-companion_1876-06-08_49_23%2Fsim_youths-companion_1876-06-08_49_23_jp2.zip%2Fsim_youths-companion_1876-06-08_49_23_jp2%2Fsim_youths-companion_1876-06-08_49_23_0003.jp2/pct:32.748869,35.086401,15.158371,5.540947/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The state journal._](https://www.loc.gov/resource/sn87052128/1876-06-09/ed-1/?sp=5)
 
 #### 1876-06-09 &middot; [Jefferson City, Mo.](http://dbpedia.org/resource/Jefferson_City%2C_Missouri)
@@ -6969,41 +6999,6 @@ But &quot;Build upon the sand.&quot;
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1876060901:0190/pct:75.065789,6.956784,15.504386,23.264569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## [POETRY. [?] ON THE SAND.](http://trove.nla.gov.au/ndp/del/article/18808911)
-
-#### From _The Maitland Mercury and Hunter River General Advertiser (NSW : 1843 - 1893)_
-
-#### 1876-07-22 &middot; [Maitland, New South Wales](http://dbpedia.org/resource/Maitland%2C_New_South_Wales)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-nd  
-for hand, ^^Tfou&#x27;ll find you&#x27;ve plajcd  
-the unwise part, _--&#x27;&quot; [ And &quot;built upon  
-lue sand.&quot; _;Xii well to save, &#x27;tis well  
-to bave A goodly «tore of gold, - And  
-bold enougb of shining stuff, For  
-charity is cold. But place not all your  
-hope and trait In what the deep raine  
-brings; ,W&#x27; cannot live on yellow dust  
-Unmixed with purer things ; And he who  
-piles up wealth alone Will often have to  
-stand . , -Beside his coffer dust, and  
-own Tis &quot; built upon the sand.&quot; Tis good  
-to speak in kindly guise And soothe  
-where&#x27;er we can ; &quot; . Fair speech should  
-bind the human mind, And love link man  
-to man, Bnt stop not at the gentle  
-words: Let deeds with lauguage dwell ;  
-The one who pities starving birds Should  
-Bcatter crumbs as well ; The mercy that  
-is warm and true Must lend a helping  
-hand, For those that talk, yet fail to  
-do, But &quot; build npoa the sand 
-</td></tr></table>
 
 ---
 

@@ -1,7 +1,7 @@
 
 # Educate Your Daughters
 
-### 185 reprints from 1849-07-28 to 1870-06-15
+### 183 reprints from 1849-07-28 to 1870-06-15
 
 ## [Educate Your Daughters](http://chroniclingamerica.loc.gov/lccn/sn83035487/1850-03-16/ed-1/seq-4/)
 
@@ -808,6 +808,7 @@ ly civilized and enlightened, when the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
   
 EDUCATE YOU it D\uc.HTEita.—4 Wfiter  
 says:—When I lived among the Choctaw  
@@ -2466,9 +2467,11 @@ can become fully and permanently
 civilized and enlightened, when the  
 mothers are not in a good degree  
 qualified to discharge the duties of the  
-home work of education.
+home work of education.  
+  
+o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn87058152:00279529236:1857030701:0288/pct:15.451505,10.514996,11.315496,13.139762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn87058152:00279529236:1857030701:0288/pct:13.991081,10.514996,12.775920,13.139762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2527,7 +2530,7 @@ are not in a good degree qualified to
 discharge the duties of the home work of  
 education.  
 ThE PoOR BLACKS. Dr. Livingston,  
-the gallant 
+th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1857031801:0648/pct:84.404786,57.208202,12.249037,15.646688/!600,600/0/default.jpg"/>
 </td>
@@ -2788,12 +2791,9 @@ permanently civilized and enlightened, when
   
 tho uiothcru are not in a good degrea quali­  
 fied to discharge the dutien of the homo work  
-of education.  
-Woman.  
-The Irish are no less proverbial for their  
-gallantry the
+of education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667814:1857070101:0459/pct:3.934469,50.141509,12.551600,5.471698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667814:1857070101:0459/pct:3.934469,50.141509,12.448400,3.207547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3220,10 +3220,6 @@ If it be not th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e continu  
-  
-matter  
-  
  rhenother noulds the han  
   
 That it is the mother that moulds the man,  
@@ -3259,7 +3255,7 @@ qualisied to discharge the duties to
   
 ed in the same clear voic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1857111901:0950/pct:2.955579,73.080899,27.054914,22.240889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1857111901:0950/pct:2.955579,73.752908,24.833858,21.568881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3380,7 +3376,7 @@ cation.”’
 
 ---
 
-## Article 3 -- No Title
+## [Article 3 -- No Title](http://search.proquest.com/docview/135592136/fulltext/)
 
 #### From _Christian Inquirer (1846-1864)_
 
@@ -3573,9 +3569,7 @@ become full
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot; women being treated  
-men -  
-worse rjian  
+  
 THE MOTHER MOULDS&#x27; THE ?&amp;N.  
 That it is the mother that mouldy the  
 man is a sentiment illustrated by th-fol-  
@@ -3603,7 +3597,7 @@ a good degree qualified to dlschife &#x27; the
 daties of the home work of educationS-  
 How many fon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DemPEC2n_ver01%2Fdata%2F1858050401%2F0271.jp2/pct:70.920978,72.423482,14.326322,17.701957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DemPEC2n_ver01%2Fdata%2F1858050401%2F0271.jp2/pct:70.935190,73.808329,14.312109,16.317110/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3785,7 +3779,7 @@ to discharge the duties of the home work stomach of
 
 ---
 
-## ART. XV.
+## [ART. XV.](http://search.proquest.com/docview/126332862/fulltext/)
 
 #### From _The Universalist Quarterly and General Review (1844-1891)_
 
@@ -3918,11 +3912,13 @@ Thus the father soon tot aintere to orlen the a oa e tunded and
 
 ## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1859-05-14_29_20/page/n3/mode/1up?view=theater)
 
-#### 1859-05-14
+#### 1859-05-14 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- PRESBYTERIAN.  
+  
+  
+THE PRESBYTERIAN.  
   
 THE MOTHER MOULDS THE MAN.  
   
@@ -4003,7 +3999,7 @@ llbxiiica cm iccc-a fly c-lr-htcrl vjhea
 
 ---
 
-## THE MOTHER MOULDS THE MAN.
+## [THE MOTHER MOULDS THE MAN.](http://search.proquest.com/docview/137517692/fulltext/)
 
 #### From _German reformed messenger._
 
@@ -4013,7 +4009,7 @@ llbxiiica cm iccc-a fly c-lr-htcrl vjhea
 
 ---
 
-## Family Circle.
+## [Family Circle.](http://search.proquest.com/docview/136012874/fulltext/)
 
 #### From _Christian Observer (1840-1910)_
 
@@ -4122,7 +4118,8 @@ charge the duties of the home work ofeducation.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+» the flesh and spirit  
+are heirs to.  
 The Mother Moulds the Man.—  
 That it is the mother who moulds the  
 the man, is a sentiment beautifully illus­  
@@ -4153,7 +4150,7 @@ rsot in a good degree qualified to dis­
 charge the duties ol&#x27;ihe home work ol  
 education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_meowth_ver01:data:sn85034235:0029587398A:1859072901:0025/pct:22.402597,38.647816,14.224838,15.607503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_meowth_ver01:data:sn85034235:0029587398A:1859072901:0025/pct:22.402597,36.800112,14.224838,17.455207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4702,7 +4699,7 @@ THOUGH th
 
 ---
 
-## Family Circle.
+## [Family Circle.](http://search.proquest.com/docview/135987934/fulltext/)
 
 #### From _Christian Observer (1840-1910)_
 
@@ -4718,7 +4715,7 @@ THOUGH th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-fn the silent party, j  
+ fn the silent party, j  
   
 The Mothxk Moulds the Man.—That it is this  
 mother who moulds the man, is a sentiment  
@@ -4871,8 +4868,7 @@ education
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hould be­  
-come a thing of moment in our eyes.”  
+of moment in our eyes.”  
   
 THE MOTHER MOULDS THE MAN-  
 That it is the mother who moulds the man, is  
@@ -4899,7 +4895,7 @@ of the home-work of education.
   
 LADY MORGAN AND YOUN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fufluns_ver02%2Fdata%2F2018264050%2F000002737%2F1860042601%2F0056.jp2/pct:31.246212,11.136905,12.113636,13.511905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fufluns_ver02%2Fdata%2F2018264050%2F000002737%2F1860042601%2F0056.jp2/pct:31.246212,11.627976,12.113636,13.020833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5478,9 +5474,7 @@ DNTITY
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- onlv be  
-rendered homeless, hut the savings&quot; of  
-years also sacrificed.  
+  
   
 Tiif. Mother M»»i lds the Man.— T hat it  
   
@@ -5511,7 +5505,7 @@ ers a rr not in a good degree qualified to
 discharge the duties of the home work of  
 education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt734t6f2g5n%2Fxt734t6f2g5n_jp2.zip%2Fxt734t6f2g5n_jp2%2Fxt734t6f2g5n_0001.jp2/pct:25.229730,75.283308,9.432432,9.903012/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt734t6f2g5n%2Fxt734t6f2g5n_jp2.zip%2Fxt734t6f2g5n_jp2%2Fxt734t6f2g5n_0001.jp2/pct:25.229730,76.498213,9.405405,8.688106/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5888,44 +5882,6 @@ Franklin&#x27;s Toast.—Long after Washin
 
 ---
 
-## [From _The agitator._](https://panewsarchive.psu.edu/lccn/sn84026595/1865-02-22/ed-1/seq-4/)
-
-#### 1865-02-22 &middot; [Wellsborough, Tioga County, Pa.](http://dbpedia.org/resource/Wellsboro%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-Bos’* Forget Youe Giels.— When I lived  
-among the Choctaw Indians, (»»8 a traveler.)  
-Ihelda consultation with&#x27;one? tf their chiefs  
-respecting, the stages of their: togress in the  
-arts of&#x27; civilized life, and amoi { other things  
-be informed me that at their st« ft tbaymade a  
-great mistake,&#x27; they only sent their ■ tyys to  
-school. These boys came home i itelligent men,  
-but they married uneducatedM nd uncivilized  
-wives; and the uniform result yas the children  
-were all like their mothers. Iho father soon  
-lost all interest both in wife gad children. —  
-And now, said he, if we would educate but  
-one class of our children, we should choose the  
-girls, tor when they be&#x27;oomo*ta&#x27;,&#x27;tbers, they ed­  
-ucate their sons. This is the p/nnt, and it is  
-true, .i-No nation can become fully enlightened  
-when mothers are not qualifiedfto discharge  
-the duties of homework of education. Parents,  
-give your daughters as well as jttur sons, the  
-best education in your power.  
-  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_madisonj_ver01%2Fdata%2Fsn84026595%2F000001711%2F1865022201%2F0032.jp2/pct:7.744191,7.321786,13.725876,12.646722/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Vermont watchman and State journal._](https://www.loc.gov/resource/sn84023200/1865-03-03/ed-1/?sp=1)
 
 #### 1865-03-03 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
@@ -6045,31 +6001,6 @@ they educate their sons. This is the point,
 and it is true. No nation can become full
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_cybele_ver01%2Fdata%2Fsn84026518%2F000002097%2F1865032201%2F0039.jp2/pct:29.682765,30.676259,13.063447,10.212230/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Arthur's Home Magazine (1861-1870)_](https://archive.org/details/sim_arthurs-home-magazine_1865-09_26/page/n33/mode/1up?view=theater)
-
-#### 1865-09-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-half naked children who, a few weeks before, ¢ educate but one class of our children, we should  
-for when they become mo-  
-  
-had landed with their equally wretched pa-¢choose the girls;  
-  
-rents on the wharf, thrown by hundreds at aSthers they educate their sons.” This is the  
-day’s notice on the care of General Saxton and ¢ point, and it is true. No nation can become  
-his rather dismayed but indefatigable superin- &gt; fully enlightened when mothers are not qualified  
-  
-tendents, (to discharge the duties of home education.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_arthurs-home-magazine_1865-09_26%2Fsim_arthurs-home-magazine_1865-09_26_jp2.zip%2Fsim_arthurs-home-magazine_1865-09_26_jp2%2Fsim_arthurs-home-magazine_1865-09_26_0033.jp2/pct:25.699013,79.685836,68.092105,7.667732/600,/0/default.jpg"/>
 </td>
 </tr></table>
 

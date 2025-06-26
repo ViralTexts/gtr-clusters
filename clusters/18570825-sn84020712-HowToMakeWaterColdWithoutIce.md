@@ -1,7 +1,7 @@
 
 # How to Make Water Cold Without Ice
 
-### 199 reprints from 1838-06-16 to 1881-09-11
+### 200 reprints from 1838-06-16 to 1881-09-11
 
 ## [How to Make Water Cold Without Ice](https://chroniclingamerica.loc.gov/lccn/sn84020712/1857-08-25/ed-1/seq-1/)
 
@@ -273,7 +273,7 @@ Cupboard Love.—The relatio
 
 ## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1838-07-28_8_30/page/n3/mode/1up?view=theater)
 
-#### 1838-07-28
+#### 1838-07-28 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -353,7 +353,7 @@ his finger uncomfortably cold
 
 ---
 
-## Article 7 -- No Title
+## [Article 7 -- No Title](http://search.proquest.com/docview/89962268/fulltext/)
 
 #### From _The Catholic Telegraph (1831-1846)_
 
@@ -517,6 +517,41 @@ this three or four times, lie will find his fin­
 ger uncomfortably cold
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_eggplant_ver02:data:sn95079550:00516991550:1841072901:0374/pct:2.973301,60.816944,15.028317,11.739788/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Arkansas state gazette._](https://www.loc.gov/resource/sn82016481/1841-08-04/ed-1/?sp=1)
+
+#### 1841-08-04 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+/  
+Cool Water.” Speahing of coel water the  
+Philadelphia Ledger saysi. “We can nt^goot  
+a mode within the reach of every person.—  
+Let the jar. pitcher, or vessel&#x27; used for water  
+be Surrounded with one or more folds of course  
+cot to 1, to be constantly wet—The evapora.  
+| tion of the water from this, will Carry of the  
+| heat from the water iuside, and soon reduce it  
+to the freezing point. Io India and other tro­  
+plcat regions, where ide cannot be procured,  
+this practice is common. Let every mechanic  
+or laborer bare at bis pts  
+of employment  
+I, and with lids er  
+two pitchers thus provio  
+covers, the one to comtain water for drinking,  
+i the other for evaporation, and he can always  
+1 have a supply of cold water in warm weather.  
+Any person can test’this by dipping a Unger  
+in the water ai d holding it in the air on a  
+warm day. After coing
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fluorite_ver01:data:sn82016481:00516990697:1841080401:0411/pct:79.381220,55.848435,15.750757,10.648495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -700,7 +735,7 @@ Coulson, who is tho
 
 ---
 
-## HOUSEHOLD DEPARTMENT.
+## [HOUSEHOLD DEPARTMENT.](http://search.proquest.com/docview/127587966/fulltext/)
 
 #### From _Union Agriculturist and Western Prairie Farmer (1841-1842)_
 
@@ -712,7 +747,7 @@ Coulson, who is tho
 
 ## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1842-08-13_12_33/page/n3/mode/1up?view=theater)
 
-#### 1842-08-13
+#### 1842-08-13 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -895,7 +930,7 @@ tably cold-&quot;
 
 ---
 
-## Article 2 -- No Title
+## [Article 2 -- No Title](http://search.proquest.com/docview/126044879/fulltext/)
 
 #### From _Christian Advocate and Journal (1833-1865)_
 
@@ -939,7 +974,7 @@ finger uncomfortably cold.”
 
 ## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1844-05-04_14_18/page/n3/mode/1up?view=theater)
 
-#### 1844-05-04
+#### 1844-05-04 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1260,7 +1295,7 @@ p
 
 ---
 
-## WARMING LANDS
+## [WARMING LANDS](http://search.proquest.com/docview/137770094/fulltext/)
 
 #### From _Southern Cultivator (1843-1906)_
 
@@ -1395,7 +1430,7 @@ ways have a supp&#x27;y ot cold water in warm weathir.”’
 
 ---
 
-## For the Southern Cultivator
+## [For the Southern Cultivator](http://search.proquest.com/docview/137838281/fulltext/)
 
 #### From _Southern Cultivator (1843-1906)_
 
@@ -1617,7 +1652,7 @@ Ne
 
 ---
 
-## Article 6 -- No Title
+## [Article 6 -- No Title](http://search.proquest.com/docview/125194772/fulltext/)
 
 #### From _The Farmers Cabinet and American Herd Book, Devoted to Agriculture, Horticulture, and Rural and Domestic Affairs (1836-1848)_
 
@@ -2639,7 +2674,7 @@ cold water in warm weather
 
 ## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1857-07-25_27_30/page/n2/mode/1up?view=theater)
 
-#### 1857-07-25
+#### 1857-07-25 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2662,7 +2697,7 @@ on the
 
 ## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1857-07-25_27_30/page/n2/mode/1up?view=theater)
 
-#### 1857-07-25
+#### 1857-07-25 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2722,9 +2757,7 @@ other for evaporation, and ‘he can always have
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
-t&#x27;uol Wah r.—The following simple method,  
+&#x27;uol Wah r.—The following simple method,  
 it is said, will keep water almost as cold as ice:  
 “Lot tho jar, pitcher, or vessel used for water be  
 surrounded with one or more folds of coarse cot­  
@@ -2847,7 +2880,7 @@ fa wiH find his fi uuoomfortably cold.
 
 ---
 
-## Article 6 -- No Title
+## [Article 6 -- No Title](http://search.proquest.com/docview/135987693/fulltext/)
 
 #### From _Christian Observer (1840-1910)_
 
@@ -3194,8 +3227,7 @@ ive at his place of employment two pitchers thus
 ovided and with lids and covers, one to contain  
 esh water for drinking, the other for evaporation,  
 id he can always have a supply of cold water in  
-arm weather.  
-The Largtit
+arm weather
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862683:1857082001:0342/pct:70.299235,4.842755,28.949200,93.729500/!600,600/0/default.jpg"/>
 </td>
@@ -3305,9 +3337,11 @@ two pitchers thus provided, and with lids
 or covers, one to contain fresh water for  
 drinking, the other evaporation, and he  
 can always have a supply of cold water m  
-warm weathen” 
+warm weathen” I  
+  
+LANCASTE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159348:1857082201:0137/pct:16.047685,87.447454,13.143818,10.485754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159348:1857082201:0137/pct:16.047685,10.660906,24.316063,87.272303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3606,7 +3640,8 @@ THE SPIDER AND TH
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+nst  
+him.  
 To Make Water Cold Without Ice.  
 The following is a simple method of render­  
 ing water almost as cold as ice: let the jar,  
@@ -3625,7 +3660,7 @@ and ho can always havo a supply of cold wa­
 ter in warm weather.  
 The Failure of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857090801:0107/pct:78.880554,59.002770,13.646855,9.546133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857090801:0107/pct:78.880554,57.543149,13.646855,11.005753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3831,7 +3866,7 @@ bo procured, this is oommon. j j
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. To makb  
+ stale of fusion. To makb  
 wathu cold in Summer.- The following is  
 a simple method of rendering water  
 almost as cold as ice. Let the jar,  
@@ -4441,7 +4476,7 @@ ho will find his finger uncomfortably cold
 
 ---
 
-## HOW TO COOL WATER.
+## [HOW TO COOL WATER.](http://search.proquest.com/docview/136634793/fulltext/)
 
 #### From _New York Observer and Chronicle (1833-1912)_
 

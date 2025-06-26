@@ -1,7 +1,7 @@
 
 # Be Careful What You Say
 
-### 118 reprints from 1873-10-10 to 1899-04-01
+### 121 reprints from 1873-10-10 to 1899-04-01
 
 ## [Be Careful What You Say](http://chroniclingamerica.loc.gov/lccn/sn83032041/1873-10-10/ed-1/seq-1/)
 
@@ -665,11 +665,9 @@ To those we little know.
 Pemember curses, sometimes, like  
 Our chickens, &quot;roost at home;&#x27;  
 Don&#x27;t speak of others&#x27; faults until  
-We have none of our own.  
-  
-I
+We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470387:1875040801:0449/pct:50.756326,20.686264,11.014851,17.167523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470387:1875040801:0449/pct:50.756326,20.686264,11.014851,15.681346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -713,11 +711,9 @@ To those who little know.
 Remember, curses, sometimes, like  
 Our chickens, &#x27;&#x27;roost at home.&quot;  
 Don&#x27;t speak of others&#x27; faults until  
-We have none of our own.  
-  
-I
+We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029014:1875052001:0434/pct:50.637910,14.860841,10.085055,12.064725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029014:1875052001:0434/pct:50.637910,14.860841,10.085055,11.029126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -796,7 +792,7 @@ foe, Think of the harm one word may do
 To those we little know : llcmcmbor  
 curses, /sometimes, like Our chickens, &quot;  
 roost at home Don&#x27;t speak oi others&#x27;  
-faults until Wo have none of our own
+faults until Wo have none of our own.
 </td></tr></table>
 
 ---
@@ -1202,6 +1198,45 @@ Don’t speak of others&#x27; faults until
 W&#x27;e have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1876030201:0243/pct:16.281265,13.680982,9.957527,13.717791/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Bellows Falls times._](https://www.loc.gov/resource/sn84022549/1876-03-03/ed-1/?sp=1)
+
+#### 1876-03-03 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+Be Careful What you Say.  
+In speaking of a person&#x27;s faults,  
+Pray don7t forget your own ;  
+Remember, those in homes of glass,  
+Should seldom throw a stone ;  
+If we have nothing else to do  
+But talk of those who sin,  
+&#x27;Tis better we commence at homes  
+And from that point begin.  
+We have no right to judge a man  
+Until he&#x27;s fairly tried ;  
+Should we not like his coin p any.  
+We know the world is wide.  
+Some may have faults and who has not T  
+The old as well as young ;  
+Perhaps we may for aught we know,  
+Have fifty to their one,  
+I&#x27;ll tell you of abetter plan.  
+And find it works full well ;  
+To try my own d( feels to cure.  
+Before of others&#x27; tell ;  
+And though I sometimes hope to be  
+No worfe than gome I know.  
+My own shortcomings bid me let &#x27;  
+The faults of others
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628481:1876030301:0890/pct:41.957903,31.424376,10.226370,9.412628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2551,7 +2586,7 @@ Caugh
 
 ---
 
-## Poetic Sermon--"Judge Not."
+## [Poetic Sermon--"Judge Not."](http://search.proquest.com/docview/135723298/fulltext/)
 
 #### From _Shaker (1876-1877)_
 
@@ -2561,7 +2596,7 @@ Caugh
 
 ---
 
-## Poetic Sermon--"Judge Not."
+## [Poetic Sermon--"Judge Not."](http://search.proquest.com/docview/135723298/fulltext/)
 
 #### From _Shaker (1876-1877)_
 
@@ -2772,6 +2807,27 @@ And from that point begin.
 Tue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_phrenological-journal-and-science-of-health_1877-10_65_4%2Fsim_phrenological-journal-and-science-of-health_1877-10_65_4_jp2.zip%2Fsim_phrenological-journal-and-science-of-health_1877-10_65_4_jp2%2Fsim_phrenological-journal-and-science-of-health_1877-10_65_4_0072.jp2/pct:15.087719,9.471496,40.175439,13.984561/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Pulaski citizen._](https://www.loc.gov/resource/sn85033964/1877-12-06/ed-1/?sp=1)
+
+#### 1877-12-06 &middot; [Pulaski, Tenn.](http://dbpedia.org/resource/Pulaski%2C_Tennessee)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+.  
+EE CAREFUL WHAT YOU SAY-  
+In speaking of a person&#x27;s fanlts  
+Pray don&#x27;t forget your own;  
+Kemeniber those with houses of glass  
+Should seldom throw a stone;  
+If we have nothing else to do,  
+Than talk wit
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020539:1877120601:0198/pct:24.161543,27.174285,9.823924,2.895247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3080,7 +3136,7 @@ To those we little know.
 Remember curses, sometimes like  
 Our chickens &quot;roost at home.&quot;  
 Don&#x27;t speak of other&#x27;s faults until  
-We have none of our ow
+We have none of our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_judaspriest_ver01:data:sn84037890:00280763597:1880011401:0291/pct:61.652893,28.257781,10.611570,12.566189/!600,600/0/default.jpg"/>
 </td>
@@ -3130,6 +3186,55 @@ Don&#x27;t speak of others&#x27; faults until
 We have none of our own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_hayes_ver01:data:sn82015387:00200299097:1880020701:0267/pct:7.602612,17.985026,17.164179,27.457682/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Herald of Kansas._](https://www.loc.gov/resource/sn85067225/1880-02-13/ed-1/?sp=4)
+
+#### 1880-02-13 &middot; [Topeka, Kan.](http://dbpedia.org/resource/Topeka%2C_Kansas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+  
+  
+BE (JABEFUL WHAT AOl   
+SAY.   
+In speaking of a person’s faults,  
+Pray don’t forget your own;   
+Remember those in houses glass.  
+Should never throw a stone.   
+If we have nothing else to do,   
+But talk of those who sin,   
+■Tis better we commence at home,  
+And from that poiut begin.   
+We have no right to judge a mau,  
+Until he’s fairly tried;   
+Should we not like his company,  
+Wc know the world is wide.   
+Some may have faults—who lias not ?  
+The old as well as young;   
+We may perhaps for a’.l we know,  
+Have fifty to their one.   
+I’ll tell you of a better plan,  
+And find it works full well ;   
+To try my own defects to cure,  
+Before of bthers tell;   
+And though I sometime hope to be  
+No worse than some I know,   
+Jly own shortcomings bid me let  
+The faults of others go.   
+•Then let us al!, when we commence  
+To slander friend or foe,   
+Think of the harm one word may do,  
+To those we little know;   
+Tiemember curses sometimes, like  
+Our chickens, “roost at home  
+Don’t speak of others’ faults until  
+We have none of our own.
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_norman_ver02:data:sn85067225:0022072041A:1880021301:0004/pct:15.024038,10.809313,16.977163,25.184775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3777,6 +3882,7 @@ We have none of our own
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+.  
   
 HK CAltEIVL WHAT  
   
@@ -3881,9 +3987,11 @@ Remember curses, sometimes like
 Our chickens, &quot;roost at home  
 Don&#x27;t speak of others&#x27; faults until  
   
-We have none of our own.
+We have none of our own.  
+  
+It i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863699:1884050201:0030/pct:18.402953,14.385121,10.619024,13.537449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863699:1884050201:0030/pct:18.201644,14.385121,10.820332,14.498988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

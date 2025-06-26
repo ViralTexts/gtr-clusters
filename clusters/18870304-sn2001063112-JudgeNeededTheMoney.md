@@ -1,7 +1,7 @@
 
 # The Judge Needed the Money
 
-### 70 reprints from 1887-02-11 to 1897-08-14
+### 71 reprints from 1887-02-11 to 1897-08-14
 
 ## [The Judge Needed the Money](https://chroniclingamerica.loc.gov/lccn/sn2001063112/1887-03-04/ed-1/seq-7/)
 
@@ -764,7 +764,7 @@ pered off.
 
 ---
 
-## NOTES.
+## [NOTES.](http://search.proquest.com/docview/124838016/fulltext/)
 
 #### From _The Albany Law Journal; A Weekly Record of the Law and the Lawyers (1870-1908)_
 
@@ -1923,9 +1923,10 @@ earned your money, here it is.&quot;
 The boy said: &quot;I don&#x27;t want your  
 money, old fellow; you take it and  
 have your hair cut.&quot;  
-Saying which he scampered off
+Saying which he scampered off.  
+Too Late t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86081895:00280776580:1887071401:0411/pct:41.713868,51.118761,12.607345,22.719449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86081895:00280776580:1887071401:0411/pct:41.713868,51.118761,12.607345,24.083146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2586,7 +2587,7 @@ A Brothe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, and going over to an  
+ raply, and going over to an  
 adjacent drinking fountain, ho mado his  
 ablution. Returning he held out his hand  
 for tho money, * Well, my lad,&#x27; said tho  
@@ -2594,7 +2595,7 @@ Professor, * you&#x27;ve earned your money ;
 here it is.&#x27; * I dinna want ii, auld  
 cha&#x27; returned tho gamin with a lordly  
 air. 4 You can keep it and get your  
-haircut
+haircut.&#x27; Th
 </td></tr></table>
 
 ---
@@ -2623,7 +2624,7 @@ your hair cut.
 
 ## [From _Instructor 1996-1998_](https://archive.org/details/sim_instructor_1896-12_6_2/page/n22/mode/1up?view=theater)
 
-#### 1896-12-01 &middot; [Dansville, New York, None](http://dbpedia.org/resource/Dansville%2C_New_York)
+#### 1896-12-01 &middot; [Dansville, New York](http://dbpedia.org/resource/Dansville%2C_Livingston_County%2C_New_York)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2659,6 +2660,27 @@ held out his hand for the money. &quot; Well,
 my lad,&quot; said the professor, &quot; you&#x27;ve  
 earned your money; -here it is.&quot;
 </td></tr></table>
+
+---
+
+## [From _The L'Anse sentinel._](https://www.loc.gov/resource/sn96077142/1896-12-12/ed-1/?sp=3)
+
+#### 1896-12-12 &middot; [L'Anse, L.S., Mich.](http://dbpedia.org/resource/L%27Anse%2C_Michigan)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ readily, and made hia  
+ablution at an adjacent drinking foun­  
+tain. Returning, the professor gave  
+h?m the money, saying heartily: &quot;Yo  
+hove earned It fairly.&quot; &quot;I don&#x27;t want It.  
+old chap,&quot; said the boy .with a lordly air.  
+&quot;Keep it and get your haircut.&quot;  
+Th
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_jonesville_ver01:data:sn96077142:00415669963:1896121201:0658/pct:78.992095,85.533690,14.881423,4.548417/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 

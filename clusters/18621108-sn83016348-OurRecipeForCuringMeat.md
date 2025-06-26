@@ -1,7 +1,7 @@
 
 # Our Recipe for Curing Meat
 
-### 251 reprints from 1856-12-03 to 1899-04-14
+### 246 reprints from 1856-12-03 to 1899-04-14
 
 ## [Our Recipe for Curing Meat](https://chroniclingamerica.loc.gov/lccn/sn83016348/1862-11-08/ed-1/seq-1/)
 
@@ -606,9 +606,12 @@ surpasses it if so goodea
 town  
 Telegraph.  
   
-
+NEW ADVERTISEMENTS.  
+Apsrnaer  
+  
+o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528293:1862120301:1189/pct:66.410340,24.169475,14.594241,18.564436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528293:1862120301:1189/pct:66.410340,24.169475,14.594241,20.000802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1119,7 +1122,7 @@ surpasses it, if so good.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-rald.  
+.  
 Receipt fob Coring Meat. To one gal­  
 lon of water take one and a half pounds of  
 salt, one-half pound of sugar, one-half  
@@ -1147,7 +1150,7 @@ never be abandoned. There is none that
 surpasses it, if so good.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195234:1863121001:0206/pct:62.755798,32.223922,14.495225,15.072686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195234:1863121001:0206/pct:62.755798,33.218567,14.495225,14.078041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1330,7 +1333,7 @@ joints, or for laraenes
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ealthy.  
+.  
   
 Recire vor Curinc Megat.—To one gallon  
 of water take one and a halt pounds of salt,  
@@ -1360,7 +1363,7 @@ be abandoned.
 There 1s none that surpasses  
 it, if so good.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_colmans-rural-world_1864-01_16_1%2Fsim_colmans-rural-world_1864-01_16_1_jp2.zip%2Fsim_colmans-rural-world_1864-01_16_1_jp2%2Fsim_colmans-rural-world_1864-01_16_1_0008.jp2/pct:46.425912,21.359960,34.363366,27.376138/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_colmans-rural-world_1864-01_16_1%2Fsim_colmans-rural-world_1864-01_16_1_jp2.zip%2Fsim_colmans-rural-world_1864-01_16_1_jp2%2Fsim_colmans-rural-world_1864-01_16_1_0008.jp2/pct:46.425912,23.205258,34.363366,25.530839/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1985,7 +1988,7 @@ Some omit boiling the pickl
 
 ---
 
-## KILLING HOGS.
+## [KILLING HOGS.](http://search.proquest.com/docview/89870017/fulltext/)
 
 #### From _Colman's rural world._
 
@@ -2034,7 +2037,7 @@ House Thief Arueste
 
 ---
 
-## ODDS AND ENDS.
+## [ODDS AND ENDS.](http://search.proquest.com/docview/127533581/fulltext/)
 
 #### From _Prairie farmer._
 
@@ -2658,11 +2661,9 @@ it, if any so good.
 pickle by throwing off the dirt always to bo  
 found in salt and sugar. If this receipt ia  
 properly tried, it will never bo abandoned.­  
-There is none that surpasses it, if so good.  
-Cream in Cold Weather.  
-For some reason not yet known,
+There is none that surpasses it, if so good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186968:1866111501:0269/pct:80.355178,44.128950,14.600031,4.067037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186968:1866111501:0269/pct:80.370894,44.128950,14.584316,2.551238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2838,30 +2839,6 @@ abandoned. There is none that surpasses it, if
 any so good.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952522A:1866112401:0587/pct:36.724934,76.250934,11.510554,7.903908/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Fayetteville observer._](https://www.loc.gov/resource/sn85033395/1866-11-29/ed-1/?sp=1)
-
-#### 1866-11-29 &middot; [Fayetteville, Tenn.](http://dbpedia.org/resource/Fayetteville%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-meat fresh and clean, Some omit  
-  
-hoiling the pickle,&#x27; and find it tq  
-answer well; though the opera­  
-tion of boiling purifies the pickle  
-by throwing off the dirt- always  
-to be found in salt and sugar. If  
-this recipe is properly tried, it will  
-not be abandoned. There is none
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470363:1866112901:0259/pct:79.800937,35.276394,11.812061,5.226562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3155,27 +3132,6 @@ will never be abandoned. There is none
 that surpasses it if any so good: |
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1867-01-17_16_3%2Fper_the-pacific_the-pacific_1867-01-17_16_3_jp2.zip%2Fper_the-pacific_the-pacific_1867-01-17_16_3_jp2%2Fper_the-pacific_the-pacific_1867-01-17_16_3_0003.jp2/pct:9.564189,45.900538,11.976599,12.510339/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The flag of our Union._](https://archive.org/details/sim_flag-of-our-union_1867-06-15_22_24/page/n7/mode/1up?view=theater)
-
-#### 1867-06-15 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-as formerly, to pay prices that will effectively curb  
-all disposition to extravagance, and keep one within  
-means at the same time.  
-  
-CREAM IN COLD WEATHER.  
-  
-For some reason not yet known,
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_flag-of-our-union_1867-06-15_22_24%2Fsim_flag-of-our-union_1867-06-15_22_24_jp2.zip%2Fsim_flag-of-our-union_1867-06-15_22_24_jp2%2Fsim_flag-of-our-union_1867-06-15_22_24_0007.jp2/pct:27.765152,41.695442,14.299242,4.091851/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4503,7 +4459,7 @@ in salt and sugar.—Germantown Tele
 
 ---
 
-## Article 2 -- No Title
+## [Article 2 -- No Title](http://search.proquest.com/docview/137956851/fulltext/)
 
 #### From _Southern Cultivator (1843-1906)_
 
@@ -5060,7 +5016,7 @@ none that surpass it, if so good
 
 ---
 
-## Agricultural and Domestic.
+## [Agricultural and Domestic.](http://search.proquest.com/docview/125933359/fulltext/)
 
 #### From _Christian Advocate (1866-1905)_
 
@@ -5070,7 +5026,7 @@ none that surpass it, if so good
 
 ---
 
-## Dyeing Carpet Warp.
+## [Dyeing Carpet Warp.](http://search.proquest.com/docview/137212398/fulltext/)
 
 #### From _Ohio Farmer (1856-1906)_
 
@@ -5196,7 +5152,7 @@ though the operation of boiling purifies the pickle
 by throwing off the dirt always tobe found in salt  
 and sugar, If this recipe is properly tried it will  
 never be abandoned. Thereis nono that surpass it,  
-if any 80 good.
+if any 80 good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_london-reader-of-literature-science-art-and-general_1871-03-04_16_409%2Fsim_london-reader-of-literature-science-art-and-general_1871-03-04_16_409_jp2.zip%2Fsim_london-reader-of-literature-science-art-and-general_1871-03-04_16_409_jp2%2Fsim_london-reader-of-literature-science-art-and-general_1871-03-04_16_409_0022.jp2/pct:33.948686,10.990231,52.941176,80.883659/,600/0/default.jpg"/>
 </td>
@@ -6152,28 +6108,6 @@ that surpasses it, if so good
 
 ---
 
-## [From _The Fremont weekly journal._](https://www.loc.gov/resource/sn85038229/1873-11-07/ed-1/?sp=1)
-
-#### 1873-11-07 &middot; [Fremont, Sandusky County, Ohio](http://dbpedia.org/resource/Fremont%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- saltpetre, which re­  
-moves all the surface blood, etc.nd  
-leaves the meat fresh and clean.  
-Some omit boiling the pickle, and  
-find it to answer well, though the op­  
-eration of boiling purifies the pickle  
-by throwing off the dirt always found  
-in salt and sugar. If this recipe is  
-properly tried, it will never beabandoned.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775794:1873110701:0080/pct:76.573961,92.322411,9.550733,4.675915/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _North Carolina gazette._](https://newspapers.digitalnc.org/lccn/sn91068143/1873-11-20/ed-1/seq-4/)
 
 #### 1873-11-20 &middot; [Fayetteville, N.C.](http://dbpedia.org/resource/Fayetteville%2C_North_Carolina)
@@ -7008,7 +6942,18 @@ time it should be slightly sprinkled
 with powered sdtpetre, wbioh removes all  
 the surface blood, fte., leaving the  
 meat fresh and clean. Some omit boiling  
-the pick
+the pickle, and find it Ao answer wall,  
+though the operation of boiling • pui-hW  
+the&#x27;pickle by throwing off the dirt  
+alwa-M io be I&#x27;found in salt and sugar.  
+If this recAnt/h strictly followed, it  
+will require only a single trial to  
+prove its superiority over the eo-ffsj-  
+aonniway or most ways of putting down  
+meat, and &lt; will&#x27; not soon be abandoned  
+for any other. -The meat is unsurpassed  
+for sweetness, delicacy, and freshness  
+of oolor
 </td></tr></table>
 
 ---
@@ -7123,38 +7068,6 @@ ponnds of raw soger and owe gill at yeast:
 al E
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291074:1877072801:0576/pct:64.212722,62.259789,14.181439,18.133218/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Yorkville enquirer._](https://www.loc.gov/resource/sn84026925/1877-11-15/ed-1/?sp=1)
-
-#### 1877-11-15 &middot; [Yorkville, S.C.](http://dbpedia.org/resource/York%2C_South_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-hen cold, pour it over  
-your beef or pork. The meat must be wellcovered  
-with pickle, and should not be put  
-down for at least two days after killing, during  
-which time it should be slightly sprinkled  
-with powdered saltpetre, which removes all  
-the surface-blood, etc., leaving the meat fresh  
-and clean. Some omit boiling the pickle,  
-and find it to answer well, though the operation  
-of boiling purifies the pickle by throwing  
-off the dirt always to be found in salt and  
-sugar. If this receipt is strictly followed, it  
-will require only a single trial to prove its su­  
-  
-penoruy over me common way, or mutu ways  
-of putting down meat, and will not soon be  
-abandoned for any other. The meat is unsurpassed  
-for sweetness, delicacy and freshness  
-of color
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862762:1877111501:0384/pct:84.252379,13.141831,16.177813,8.958707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7834,11 +7747,7 @@ freshness of color.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-As the season has arrived when curing  
-meat is in order, we publish as of old, our I  
-famous recipe for curing beef, pork, mut &#x27;  
-ton, Kama, Ac., as follows :■—To one gallon  
+e gallon  
 of water, take 1J lbs. of salt, 1 lb. sugar,  
 1 ox. saltpetre, J os. potash. In ibis ratio 1  
 the pickle can be increased to any quan­  
@@ -7865,7 +7774,7 @@ aoos he abandoned for any other. The
 meat ia unsurpassed for sweetnese, delicacy  
 and freshness of color
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562380A:1879120601:0229/pct:5.734549,61.214815,11.225937,13.674074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562380A:1879120601:0229/pct:5.734549,62.681481,11.205674,12.207407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8029,18 +7938,9 @@ only a single trial to prove its su
 penoriiy over the common way, or  
 most wav&#x27;s of putting down meat,  
   
-and will not soon be abandoned for  
-any other. The meat is unsurpass  
-  
-ed tor sweetness, delicacy and fresh  
-  
-ness of odor. Germantown Tele  
-  
-graph.  
-  
-e -
+and will
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020539:1879122501:0632/pct:35.582822,42.162721,10.094813,17.674098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020539:1879122501:0632/pct:35.596765,42.162721,10.080870,15.479200/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8284,17 +8184,7 @@ freshness of color
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-together until all the dirt  
-trom the sugar rises to the top and is  
-skimmed off. Then throw it into a tub to  
-cool, and when cold, pour it over your beef  
-or pork. The meat must be well covered  
-with pickle, and should not be put down  
-for at least two days after killing, during  
-which time it should be slightly sprinkled  
-with powdered saltpetre, which removes all  
-the surface-blood, etc., leaving the meat  
-fresh and clean. Some omit boiling the  
+ boiling the  
 pickle and find it to answer well, though  
 the operation of boiling purifies the pickle  
 by throwing off the dirt always to be found  
@@ -8306,7 +8196,7 @@ and will not soon be abandoned for any
 other. The meat is unsurpassed for sweet­  
 ness, delicacy and freshness of color.EG.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_moose_ver01:data:sn83025309:00294551876:1880111101:0340/pct:76.103604,65.100365,17.972973,15.161192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_moose_ver01:data:sn83025309:00294551876:1880111101:0340/pct:76.126126,72.414842,17.950450,7.846715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8825,25 +8715,6 @@ Wo believe in &quot;every one to his trad
 
 ---
 
-## [From _Centre Democrat._](https://www.loc.gov/resource/sn84009409/1880-12-23/ed-1/?sp=3)
-
-#### 1880-12-23 &middot; [Bellefonte, Pa.](http://dbpedia.org/resource/Bellefonte%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- of putting down meat, and  
-will not so m be abandoned for any  
-other. The meat is unsurpassed for  
-sweetness, delicacy and freshness of  
-color.  
-Health Hin
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1880122301:0819/pct:49.439776,85.708356,14.505802,3.195905/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [From _Bradford reporter._](https://panewsarchive.psu.edu/lccn/sn84024558/1880-12-30/ed-1/seq-4/)
 
 #### 1880-12-30 &middot; [Towanda, Pa.](http://dbpedia.org/resource/Towanda%2C_Pennsylvania)
@@ -8914,7 +8785,8 @@ most ways of putting down meat,
 and wiU not soon be abandonee&quot;  
 for any other. The meat i unaur  
 passed for sweetness, delicacy and  
-freahsese of color
+freahsese of color.  
+7
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020540:1881010601:0237/pct:35.628492,7.039337,20.460894,89.855072/!600,600/0/default.jpg"/>
 </td>
@@ -9003,7 +8875,7 @@ fresh and olean.
 
 ---
 
-## Home Topics.
+## [Home Topics.](http://search.proquest.com/docview/135919675/fulltext/)
 
 #### From _Shaker Manifesto (1878-1883)_
 

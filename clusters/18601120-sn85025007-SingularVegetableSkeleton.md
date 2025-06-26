@@ -169,11 +169,14 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, bast ily concluded his prayer, and started  
-off on a run to join his fellows in securing  
-dissolution she a dsi
+  
+  
+adieu to treachery aud deceit ; to misplaced scatter in every direction to slake off gold  
+  
+affection; to wealth procured by the batetl claims. . Calling in a loud voice to tliem to  
+means, and again be seated in the chamber stake him oft a claim, he reclosed his eyes,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt79zw18mg1x%2Fxt79zw18mg1x_jp2.zip%2Fxt79zw18mg1x_jp2%2Fxt79zw18mg1x_0000.jp2/pct:50.882429,60.542658,13.444070,1.117799/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt79zw18mg1x%2Fxt79zw18mg1x_jp2.zip%2Fxt79zw18mg1x_jp2%2Fxt79zw18mg1x_0000.jp2/pct:44.419933,59.443967,19.893589,1.156014/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,9 +231,13 @@ been carefully preserved, as constituting
 very impressive exemplification of the mode  
   
 in which the contents of the grave have been  
-entirely absorbed.
+entirely absorbed.  
+  
+A  
+  
+LA BLONDIN.  The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528682:1860112301:0020/pct:4.713709,42.658508,30.273224,34.835968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528682:1860112301:0020/pct:4.713709,42.658508,30.273224,35.753867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +245,7 @@ entirely absorbed.
 
 ## [From _Presbyterian 1973-1974_](https://archive.org/details/sim_presbyterian_the-presbyterian_1860-11-24_30_47/page/n2/mode/1up?view=theater)
 
-#### 1860-11-24
+#### 1860-11-24 &middot; [Philadelphia, Pennsylvania](http://dbpedia.org/resource/Philadelphia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -561,9 +568,12 @@ an increased resemblance to the outlines
 .  
 of the mode in which the contents of the  
   
-grave have been entirely absorbed.
+grave have been entirely absorbed.  
+  
+LosT A HushaNd ANd GAINed A  
+TuNE.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1860122201:0487/pct:56.964165,75.807202,11.674555,1.024079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1860122201:0487/pct:56.964165,75.807202,11.674555,2.716770/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1599,11 +1609,7 @@ One of these roots formed a slight crook at th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-rom his grave. In the grave of his wife  
-there was not a trace of anything save a  
-single lock of hair, which had survived the  
-lapse of more than one hundred and eighty  
-years.  
+  
 Near the grave stood a venerable apple  
 tree, when and by whom planted is not  
 kuown. This tree had sent two of its main  
@@ -1617,11 +1623,9 @@ of the backbone to the hips. Here it di­
 vided into two branches, sending one along  
 each leg to the heel, where they both  
 turned upward to the toes. One of these  
-roots formed a slight crook at the knee,  
-which makes the whole bear a very close  
-resemblance to a human from. 
+roots formed a slight crook at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:0027952391A:1866102601:0181/pct:3.498385,27.935465,11.522246,9.524284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:0027952391A:1866102601:0181/pct:3.498385,30.236032,11.468425,6.347309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1846,12 +1850,7 @@ these roots formed a slight crook at th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- toil has rejoined him in the  
-Paradise of God. Geo. F. Round.  
-“Who ate Roger Williams?’’ is a  
-query agitating Hartford. On opening  
-his grave recently, it was discovered that  
-his remains, bones and all, had been ab­  
+ ab­  
 sorbed by the roots of an apple-tree. Near  
 the grave stood a venerable apple-tree, when  
 and by whom planted is not known. This  
@@ -1871,7 +1870,7 @@ the knee, which makes the whole bear a
 But not a trace of the dead remained, y  
 The Use op the Ro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991288:1866113001:0285/pct:21.056511,18.515708,17.567568,16.072242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991288:1866113001:0285/pct:21.056511,22.279557,17.567568,12.308393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2051,12 +2050,7 @@ dead remained.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. &quot;Who ate Koger uii-  
-liams?&quot; is a query agitating Part­  
-ford. On opening his grave re  
-cently J.t was found that his re  
-mains, bones and all, hac been ab­  
-sorbed by the roots of an apple  
+  
 tree, when - and, by whom planted  
 is not known. This tree had sent  
 two of its main roots into the graves  
@@ -2072,13 +2066,9 @@ into . two branches, sending one
 along each leg to the heels, where  
 they both turned upward to the  
 toes. . One of these roots formed a  
-slight crook at the knee, which  
-makes the whole bear a close re­  
-semblance to a human form. But  
-not a trace 0 the dead remained  
-, 
+slight crook at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470363:1867013101:0291/pct:55.690691,59.995318,12.057057,17.919007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470363:1867013101:0291/pct:55.720721,63.810861,12.027027,10.849719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

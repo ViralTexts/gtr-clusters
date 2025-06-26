@@ -1,7 +1,7 @@
 
 # Micromega-Year-Round
 
-### 7 reprints from 1827-02-01 to 1873-06-25
+### 6 reprints from 1827-02-01 to 1872-10-24
 
 ## [Micromega-Year-Round](https://www.loc.gov/resource/sn85038238/1872-10-10/ed-1/?sp=1)
 
@@ -346,25 +346,6 @@ a half in length.
 A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768527:1872102401:0372/pct:4.298161,18.756341,12.391094,29.149152/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Lexington weekly intelligencer._](https://www.loc.gov/resource/sn87052143/1873-06-25/ed-1/?sp=4)
-
-#### 1873-06-25 &middot; [Lexington, Mo.](http://dbpedia.org/resource/Lexington%2C_Missouri)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-&#x27;s heart belongs to me.&quot;  
-hen out I apake: &quot;Oh, lady fair,  
-My heart, my life is thine  
-And s ince I boldly speak my love,  
- sir!&quot; said she, with wondering stare,  
-&quot;Strange how presuming seme men ar
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556540:1873062501:0286/pct:5.744375,11.179192,9.573959,2.575966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
